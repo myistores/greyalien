@@ -1,0 +1,41 @@
+{
+  "schemaVersion": 1,
+  "description": "Starter structure for GreyAlien's future knowledge graph.",
+  "entityTypes": [
+    "person",
+    "hearing",
+    "interview",
+    "podcast",
+    "film",
+    "case",
+    "document",
+    "organization",
+    "topic"
+  ],
+  "relationshipTypes": [
+    "appeared_at",
+    "interviewed_in",
+    "featured_on",
+    "covers_case",
+    "supported_by",
+    "related_to",
+    "published_by",
+    "member_of",
+    "references"
+  ],
+  "example": {
+    "id": "hearing-example",
+    "type": "hearing",
+    "title": "Example UAP Hearing",
+    "relationships": [
+      {
+        "type": "appeared_at",
+        "target": "person-example"
+      },
+      {
+        "type": "supported_by",
+        "target": "document-example"
+      }
+    ]
+  }
+}
