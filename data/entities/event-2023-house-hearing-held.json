@@ -1,0 +1,17 @@
+{
+  "id": "event-2023-house-hearing-held",
+  "type": "timeline_event",
+  "name": "July 2023 UAP Hearing Held",
+  "summary": "House Oversight subcommittee held a public UAP hearing",
+  "relationships": [
+    {
+      "type": "event_for",
+      "target": "2023-07-26-house-oversight-uap"
+    },
+    {
+      "type": "resulted_in",
+      "target": "2023-house-uap-hearing-transcript"
+    }
+  ],
+  "date": "2023-07-26"
+}

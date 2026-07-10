@@ -1,0 +1,12 @@
+{
+  "id": "scott-bray",
+  "type": "person",
+  "name": "Scott W. Bray",
+  "summary": "Former Deputy Director of Naval Intelligence",
+  "relationships": [
+    {
+      "type": "testified_at",
+      "target": "2022-05-17-house-intelligence-uap"
+    }
+  ]
+}

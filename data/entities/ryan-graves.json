@@ -1,0 +1,12 @@
+{
+  "id": "ryan-graves",
+  "type": "person",
+  "name": "Ryan Graves",
+  "summary": "Former U.S. Navy pilot and aviation-safety advocate",
+  "relationships": [
+    {
+      "type": "testified_at",
+      "target": "2023-07-26-house-oversight-uap"
+    }
+  ]
+}

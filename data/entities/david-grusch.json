@@ -1,0 +1,28 @@
+{
+  "id": "david-grusch",
+  "type": "person",
+  "name": "David Grusch",
+  "summary": "Former U.S. intelligence officer who testified publicly before Congress in July 2023",
+  "relationships": [
+    {
+      "type": "testified_at",
+      "target": "2023-07-26-house-oversight-uap"
+    },
+    {
+      "type": "appeared_in",
+      "target": "2023-newsnation-grusch-interview"
+    },
+    {
+      "type": "affiliated_with",
+      "target": "department-of-defense"
+    },
+    {
+      "type": "authored",
+      "target": "2023-grusch-written-testimony"
+    },
+    {
+      "type": "made_claim",
+      "target": "claim-crash-retrieval-program"
+    }
+  ]
+}

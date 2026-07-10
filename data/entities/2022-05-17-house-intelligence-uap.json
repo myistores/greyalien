@@ -1,0 +1,28 @@
+{
+  "id": "2022-05-17-house-intelligence-uap",
+  "type": "hearing",
+  "name": "May 17, 2022 House Intelligence UAP Hearing",
+  "summary": "Open House Intelligence hearing on government UAP activities",
+  "relationships": [
+    {
+      "type": "held_by",
+      "target": "house-intelligence-committee"
+    },
+    {
+      "type": "produced_document",
+      "target": "2022-house-uap-hearing-transcript"
+    },
+    {
+      "type": "discussed_topic",
+      "target": "aviation-safety"
+    },
+    {
+      "type": "discussed_topic",
+      "target": "government-transparency"
+    },
+    {
+      "type": "discussed_topic",
+      "target": "classification"
+    }
+  ]
+}

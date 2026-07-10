@@ -1,0 +1,12 @@
+{
+  "id": "ronald-moultrie",
+  "type": "person",
+  "name": "Ronald S. Moultrie",
+  "summary": "Former Under Secretary of Defense for Intelligence and Security",
+  "relationships": [
+    {
+      "type": "testified_at",
+      "target": "2022-05-17-house-intelligence-uap"
+    }
+  ]
+}

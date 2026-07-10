@@ -1,0 +1,146 @@
+{
+  "testified_at": {
+    "forward": "Testified at",
+    "reverse": "Had witness"
+  },
+  "appeared_in": {
+    "forward": "Appeared in",
+    "reverse": "Featured"
+  },
+  "affiliated_with": {
+    "forward": "Affiliated with",
+    "reverse": "Associated person"
+  },
+  "authored": {
+    "forward": "Authored",
+    "reverse": "Authored by"
+  },
+  "made_claim": {
+    "forward": "Made claim",
+    "reverse": "Made by"
+  },
+  "reported_case": {
+    "forward": "Reported or described",
+    "reverse": "Reported by"
+  },
+  "held_by": {
+    "forward": "Held by",
+    "reverse": "Held hearing"
+  },
+  "produced_document": {
+    "forward": "Produced document",
+    "reverse": "Part of hearing record"
+  },
+  "discussed_topic": {
+    "forward": "Discussed topic",
+    "reverse": "Discussed in"
+  },
+  "referenced_case": {
+    "forward": "Referenced case",
+    "reverse": "Referenced in hearing"
+  },
+  "included_claim": {
+    "forward": "Included claim",
+    "reverse": "Presented at hearing"
+  },
+  "followed_hearing": {
+    "forward": "Followed hearing",
+    "reverse": "Followed by"
+  },
+  "published_by": {
+    "forward": "Published by",
+    "reverse": "Published"
+  },
+  "responded_to_claim": {
+    "forward": "Responded to claim",
+    "reverse": "Responded to by"
+  },
+  "references_person": {
+    "forward": "References person",
+    "reverse": "Referenced in document"
+  },
+  "references_hearing": {
+    "forward": "References hearing",
+    "reverse": "Referenced by document"
+  },
+  "references_topic": {
+    "forward": "References topic",
+    "reverse": "Covered by document"
+  },
+  "contains_claim": {
+    "forward": "Contains claim",
+    "reverse": "Contained in"
+  },
+  "broader_topic": {
+    "forward": "Broader topic",
+    "reverse": "Includes narrower topic"
+  },
+  "involved_person": {
+    "forward": "Involved person",
+    "reverse": "Involved in case"
+  },
+  "involved_organization": {
+    "forward": "Involved organization",
+    "reverse": "Involved in case"
+  },
+  "documented_by": {
+    "forward": "Documented by",
+    "reverse": "Documents case"
+  },
+  "associated_topic": {
+    "forward": "Associated topic",
+    "reverse": "Associated case"
+  },
+  "discussed_in_interview": {
+    "forward": "Discussed in interview",
+    "reverse": "Discusses case"
+  },
+  "discussed_case": {
+    "forward": "Discussed case",
+    "reverse": "Discussed in interview"
+  },
+  "presented_claim": {
+    "forward": "Presented claim",
+    "reverse": "Presented in interview"
+  },
+  "applies_to": {
+    "forward": "Applies to",
+    "reverse": "Affected by legislation"
+  },
+  "addresses_topic": {
+    "forward": "Addresses topic",
+    "reverse": "Addressed by legislation"
+  },
+  "event_for": {
+    "forward": "Event for",
+    "reverse": "Timeline event"
+  },
+  "preceded_event": {
+    "forward": "Preceded event",
+    "reverse": "Followed event"
+  },
+  "resulted_in": {
+    "forward": "Resulted in",
+    "reverse": "Result of event"
+  },
+  "concerns": {
+    "forward": "Concerns",
+    "reverse": "Subject of claim"
+  },
+  "corroborated_by": {
+    "forward": "Corroborated by",
+    "reverse": "Corroborates claim"
+  },
+  "contradicted_by": {
+    "forward": "Contradicted by",
+    "reverse": "Contradicts claim"
+  },
+  "presented_at": {
+    "forward": "Presented at",
+    "reverse": "Included presentation"
+  },
+  "contained_in": {
+    "forward": "Contained in",
+    "reverse": "Contains"
+  }
+}

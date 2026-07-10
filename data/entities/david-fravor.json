@@ -1,0 +1,20 @@
+{
+  "id": "david-fravor",
+  "type": "person",
+  "name": "David Fravor",
+  "summary": "Retired U.S. Navy aviator and witness to the Nimitz encounter",
+  "relationships": [
+    {
+      "type": "testified_at",
+      "target": "2023-07-26-house-oversight-uap"
+    },
+    {
+      "type": "reported_case",
+      "target": "2004-nimitz-encounter"
+    },
+    {
+      "type": "appeared_in",
+      "target": "2020-lex-fridman-fravor-interview"
+    }
+  ]
+}

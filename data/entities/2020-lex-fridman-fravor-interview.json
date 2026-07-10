@@ -1,0 +1,16 @@
+{
+  "id": "2020-lex-fridman-fravor-interview",
+  "type": "interview",
+  "name": "David Fravor on the Lex Fridman Podcast",
+  "summary": "Long-form interview discussing Fravor and the Nimitz encounter",
+  "relationships": [
+    {
+      "type": "published_by",
+      "target": "lex-fridman-podcast"
+    },
+    {
+      "type": "discussed_case",
+      "target": "2004-nimitz-encounter"
+    }
+  ]
+}
