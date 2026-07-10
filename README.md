@@ -1,14 +1,11 @@
-# GreyAlien Version 2
+# GreyAlien Version 3 — Congressional Hearings
 
-Upload the contents of this folder to the root of the existing `myistores/greyalien` GitHub repository.
+Adds a populated Congressional Hearings hub and a reusable hearing template driven by structured JSON.
 
-## Files
-- `index.html` — redesigned homepage
-- `style.css` — responsive site design
-- `about.html` — mission and knowledge-graph explanation
-- `categories/` — eight starter knowledge-base sections
-- `assets/grey-alien-logo.jpg` — existing GreyAlien banner
-- `data/knowledge-graph-schema.json` — starter relationship model
-- `CNAME` — keeps the custom domain set to greyalien.com
+Upload all contents to the root of the existing GitHub repository. Existing files should be replaced when prompted.
 
-Replace the existing files in the repository when prompted, then commit the upload.
+Suggested commit message:
+`Add congressional hearing template and July 2023 record`
+
+First record:
+`/hearings/hearing.html?id=2023-07-26-house-oversight-uap`
