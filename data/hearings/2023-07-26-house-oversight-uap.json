@@ -159,5 +159,52 @@
       "reverse-engineering-claims"
     ]
   },
-  "lastReviewed": "2026-07-09"
+  "lastReviewed": "2026-07-09",
+  "whyItMatters": "This hearing moved the modern UAP debate from agency officials to firsthand witnesses and a former intelligence officer. It expanded congressional attention from reporting systems and flight safety to whistleblower protection, alleged hidden programs, classification, and the scope of congressional access.",
+  "evidenceProfile": {
+    "level": "Official congressional record",
+    "summary": "The hearing, transcript, witness statements, and committee documents are official. Individual witness claims vary in evidentiary status.",
+    "items": [
+      {
+        "label": "Official hearing record",
+        "status": "available"
+      },
+      {
+        "label": "Official transcript",
+        "status": "available"
+      },
+      {
+        "label": "Written witness statements",
+        "status": "available"
+      },
+      {
+        "label": "Public video",
+        "status": "available"
+      },
+      {
+        "label": "Independent verification of every allegation",
+        "status": "limited"
+      }
+    ]
+  },
+  "navigation": {
+    "previous": "2022-05-17-house-intelligence-uap",
+    "next": null
+  },
+  "sharedConnections": {
+    "with": [
+      "2022-05-17-house-intelligence-uap"
+    ],
+    "topics": [
+      "aviation-safety",
+      "government-transparency",
+      "classification",
+      "uap-reporting-systems"
+    ],
+    "organizations": [
+      "department-of-defense",
+      "united-states-navy",
+      "uap-task-force"
+    ]
+  }
 }

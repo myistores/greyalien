@@ -1,0 +1,194 @@
+{
+  "schemaVersion": 1,
+  "id": "2022-05-17-house-intelligence-uap",
+  "entityType": "hearing",
+  "title": "Unidentified Aerial Phenomena",
+  "shortTitle": "May 17, 2022 House Intelligence UAP Hearing",
+  "date": "2022-05-17",
+  "time": "9:00 a.m. ET",
+  "location": "HVC-210, U.S. Capitol, Washington, D.C.",
+  "congress": "117th Congress",
+  "chamber": "U.S. House of Representatives",
+  "committee": "Permanent Select Committee on Intelligence",
+  "subcommittee": "Subcommittee on Counterterrorism, Counterintelligence, and Counterproliferation",
+  "summary": "An open hearing followed by a closed classified briefing on the Department of Defense and Intelligence Community response to unidentified aerial phenomena, including reporting, stigma, flight safety, national security, data collection, analysis, and the creation of AOIMSG.",
+  "whyItMatters": "This was the first open congressional hearing devoted to UAPs in roughly half a century. It publicly established UAP reporting, aviation safety, intelligence collection, stigma reduction, transparency, and executive-branch accountability as active congressional oversight issues.",
+  "editorialNote": "GreyAlien separates the official hearing record from interpretation. Statements below summarize testimony by government officials and do not imply that every reported UAP case had an extraordinary origin.",
+  "themes": [
+    "Aviation safety",
+    "National security",
+    "Government transparency",
+    "UAP reporting systems",
+    "Stigma reduction",
+    "Data collection and sensor analysis",
+    "Foreign adversary technology",
+    "AOIMSG implementation",
+    "Classification and public disclosure"
+  ],
+  "witnesses": [
+    {
+      "id": "ronald-moultrie",
+      "name": "Ronald S. Moultrie",
+      "roleAtHearing": "Under Secretary of Defense for Intelligence and Security",
+      "background": "Senior Department of Defense intelligence official",
+      "claimStatus": "Government testimony",
+      "testimonySummary": "Moultrie described the Department\u2019s effort to create a standardized, data-driven process for collecting, analyzing, identifying, and mitigating UAP reports while balancing transparency with protection of sensitive sources and methods.",
+      "keyPoints": [
+        "He described UAP as airborne objects that cannot be immediately identified.",
+        "He said the Department was establishing a dedicated office to coordinate collection, analysis, reporting, and mitigation.",
+        "He emphasized interagency collaboration and reducing the stigma surrounding reporting."
+      ],
+      "documents": [
+        {
+          "label": "Official hearing transcript",
+          "url": "https://docs.house.gov/meetings/IG/IG05/20220517/114761/HHRG-117-IG05-Transcript-20220517.pdf",
+          "sourceType": "U.S. House of Representatives"
+        }
+      ]
+    },
+    {
+      "id": "scott-bray",
+      "name": "Scott W. Bray",
+      "roleAtHearing": "Deputy Director of Naval Intelligence",
+      "background": "Senior U.S. Navy intelligence official",
+      "claimStatus": "Government testimony",
+      "testimonySummary": "Bray described the UAP Task Force\u2019s reporting and analysis work, increased reporting from military personnel, flight-safety and security concerns, sensor limitations, and efforts to move from anecdotal reports toward a rigorous scientific and technical process.",
+      "keyPoints": [
+        "He testified that reports in military training areas were frequent and continuing.",
+        "He linked increased reporting to destigmatization, improved sensors, unmanned systems, clutter, and standardized procedures.",
+        "He said the Task Force sought a data-driven, science-and-engineering approach."
+      ],
+      "documents": [
+        {
+          "label": "Official hearing transcript",
+          "url": "https://docs.house.gov/meetings/IG/IG05/20220517/114761/HHRG-117-IG05-Transcript-20220517.pdf",
+          "sourceType": "U.S. House of Representatives"
+        }
+      ]
+    }
+  ],
+  "timeline": [
+    {
+      "date": "2022-05-10",
+      "label": "Hearing first published in the House Committee Repository"
+    },
+    {
+      "date": "2022-05-17",
+      "label": "Open hearing held at 9:00 a.m. in HVC-210"
+    },
+    {
+      "date": "2022-05-17",
+      "label": "Closed classified portion scheduled for noon in HVC-304"
+    },
+    {
+      "date": "2022-05-24",
+      "label": "Transcript, member statements, and supporting materials added to the official record"
+    }
+  ],
+  "documents": [
+    {
+      "label": "House Committee Repository event page",
+      "url": "https://docs.house.gov/Committee/Calendar/ByEvent.aspx?EventID=114761",
+      "sourceType": "U.S. House of Representatives"
+    },
+    {
+      "label": "Official open hearing transcript",
+      "url": "https://docs.house.gov/meetings/IG/IG05/20220517/114761/HHRG-117-IG05-Transcript-20220517.pdf",
+      "sourceType": "U.S. House of Representatives"
+    },
+    {
+      "label": "Chairman Andr\u00e9 Carson opening statement",
+      "url": "https://docs.house.gov/meetings/IG/IG05/20220517/114761/HHRG-117-IG05-MState-C001072-20220517.pdf",
+      "sourceType": "Official member statement"
+    },
+    {
+      "label": "Chairman Adam Schiff opening statement",
+      "url": "https://docs.house.gov/meetings/IG/IG05/20220517/114761/HHRG-117-IG05-MState-S001150-20220517.pdf",
+      "sourceType": "Official member statement"
+    },
+    {
+      "label": "Rep. Gallagher submission for the record",
+      "url": "https://docs.house.gov/meetings/IG/IG05/20220517/114761/HHRG-117-IG05-20220517-SD001.pdf",
+      "sourceType": "Official support document"
+    },
+    {
+      "label": "Official committee video",
+      "url": "https://www.youtube.com/watch?v=aSDweUbGBow",
+      "sourceType": "House Intelligence Committee video"
+    }
+  ],
+  "evidenceProfile": {
+    "level": "Official congressional record",
+    "summary": "The hearing, transcript, member statements, and support documents are official records. The hearing included both open and classified portions.",
+    "items": [
+      {
+        "label": "Official hearing record",
+        "status": "available"
+      },
+      {
+        "label": "Official transcript",
+        "status": "available"
+      },
+      {
+        "label": "Member opening statements",
+        "status": "available"
+      },
+      {
+        "label": "Public video",
+        "status": "available"
+      },
+      {
+        "label": "Closed-session transcript",
+        "status": "limited"
+      }
+    ]
+  },
+  "relationships": {
+    "people": [
+      "ronald-moultrie",
+      "scott-bray",
+      "andre-carson",
+      "adam-schiff"
+    ],
+    "organizations": [
+      "house-permanent-select-committee-intelligence",
+      "subcommittee-counterterrorism-counterintelligence-counterproliferation",
+      "department-of-defense",
+      "office-director-national-intelligence",
+      "united-states-navy",
+      "uap-task-force",
+      "aoimsg"
+    ],
+    "cases": [],
+    "topics": [
+      "aviation-safety",
+      "government-transparency",
+      "classification",
+      "uap-reporting-systems",
+      "stigma-reduction",
+      "sensor-analysis",
+      "foreign-adversary-technology"
+    ]
+  },
+  "navigation": {
+    "previous": null,
+    "next": "2023-07-26-house-oversight-uap"
+  },
+  "sharedConnections": {
+    "with": [
+      "2023-07-26-house-oversight-uap"
+    ],
+    "topics": [
+      "aviation-safety",
+      "government-transparency",
+      "classification",
+      "uap-reporting-systems"
+    ],
+    "organizations": [
+      "department-of-defense",
+      "united-states-navy",
+      "uap-task-force"
+    ]
+  },
+  "lastReviewed": "2026-07-09"
+}

@@ -1,11 +1,13 @@
-# GreyAlien Version 3 — Congressional Hearings
+# GreyAlien Version 4 — Hearing Navigation
 
-Adds a populated Congressional Hearings hub and a reusable hearing template driven by structured JSON.
+Adds the May 17, 2022 House Intelligence UAP hearing and navigation-focused template improvements.
 
-Upload all contents to the root of the existing GitHub repository. Existing files should be replaced when prompted.
+- Auto-generated hearing chronology
+- Previous/next hearing panels
+- Why this hearing matters
+- Evidence profile
+- Shared topics and organizations
+- Navigation repeated at top and bottom
 
-Suggested commit message:
-`Add congressional hearing template and July 2023 record`
-
-First record:
-`/hearings/hearing.html?id=2023-07-26-house-oversight-uap`
+Upload all contents to the repository root and replace files when prompted.
+Suggested commit: `Add 2022 hearing and hearing navigation`
