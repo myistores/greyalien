@@ -15,74 +15,11 @@
   ],
   "entities": [
     {
-      "id": "david-grusch",
-      "type": "person",
-      "name": "David Grusch",
-      "summary": "Former U.S. intelligence officer who testified publicly before Congress in July 2023",
-      "date": ""
-    },
-    {
-      "id": "2023-07-26-house-oversight-uap",
-      "type": "hearing",
-      "name": "July 26, 2023 House UAP Hearing",
-      "summary": "Public House Oversight hearing featuring David Grusch, Ryan Graves, and David Fravor",
-      "date": "2023-07-26"
-    },
-    {
-      "id": "department-of-defense",
-      "type": "organization",
-      "name": "U.S. Department of Defense",
-      "summary": "Federal executive department responsible for U.S. national security",
-      "date": ""
-    },
-    {
-      "id": "2023-grusch-written-testimony",
-      "type": "document",
-      "name": "David Grusch Written Testimony",
-      "summary": "Written statement submitted for the July 26, 2023 House hearing",
-      "date": ""
-    },
-    {
-      "id": "aviation-safety",
-      "type": "topic",
-      "name": "Aviation Safety",
-      "summary": "Safety implications of unidentified objects or phenomena operating near aircraft",
-      "date": ""
-    },
-    {
       "id": "2004-nimitz-encounter",
       "type": "case",
       "name": "2004 Nimitz Encounter",
       "summary": "November 2004 observations and sensor detections involving the USS Nimitz carrier strike group",
       "date": "2004-11-14"
-    },
-    {
-      "id": "2023-newsnation-grusch-interview",
-      "type": "interview",
-      "name": "David Grusch NewsNation Interview",
-      "summary": "Television interview in which Grusch publicly discussed allegations concerning hidden UAP-related programs",
-      "date": "2023-06-05"
-    },
-    {
-      "id": "uap-disclosure-act-2023",
-      "type": "legislation",
-      "name": "UAP Disclosure Act of 2023",
-      "summary": "Proposed legislation addressing government UAP records and disclosure processes",
-      "date": "2023-07-13"
-    },
-    {
-      "id": "event-2023-house-hearing-held",
-      "type": "timeline_event",
-      "name": "July 2023 UAP Hearing Held",
-      "summary": "House Oversight subcommittee held a public UAP hearing",
-      "date": "2023-07-26"
-    },
-    {
-      "id": "newsnation",
-      "type": "publication",
-      "name": "NewsNation",
-      "summary": "U.S. television news network and publisher",
-      "date": ""
     },
     {
       "id": "claim-crash-retrieval-program",
@@ -92,38 +29,10 @@
       "date": ""
     },
     {
-      "id": "ryan-graves",
-      "type": "person",
-      "name": "Ryan Graves",
-      "summary": "Former U.S. Navy pilot and aviation-safety advocate",
-      "date": ""
-    },
-    {
-      "id": "david-fravor",
-      "type": "person",
-      "name": "David Fravor",
-      "summary": "Retired U.S. Navy aviator and witness to the Nimitz encounter",
-      "date": ""
-    },
-    {
-      "id": "scott-bray",
-      "type": "person",
-      "name": "Scott W. Bray",
-      "summary": "Former Deputy Director of Naval Intelligence",
-      "date": ""
-    },
-    {
-      "id": "ronald-moultrie",
-      "type": "person",
-      "name": "Ronald S. Moultrie",
-      "summary": "Former Under Secretary of Defense for Intelligence and Security",
-      "date": ""
-    },
-    {
-      "id": "2022-05-17-house-intelligence-uap",
-      "type": "hearing",
-      "name": "May 17, 2022 House Intelligence UAP Hearing",
-      "summary": "Open House Intelligence hearing on government UAP activities",
+      "id": "2023-grusch-written-testimony",
+      "type": "document",
+      "name": "David Grusch Written Testimony",
+      "summary": "Written statement submitted for the July 26, 2023 House hearing",
       "date": ""
     },
     {
@@ -141,25 +50,46 @@
       "date": ""
     },
     {
-      "id": "government-transparency",
-      "type": "topic",
-      "name": "Government Transparency",
-      "summary": "Public access, congressional oversight, disclosure, and accountability",
+      "id": "2023-07-26-house-oversight-uap",
+      "type": "hearing",
+      "name": "July 26, 2023 House UAP Hearing",
+      "summary": "Public House Oversight hearing featuring David Grusch, Ryan Graves, and David Fravor",
+      "date": "2023-07-26"
+    },
+    {
+      "id": "2022-05-17-house-intelligence-uap",
+      "type": "hearing",
+      "name": "May 17, 2022 House Intelligence UAP Hearing",
+      "summary": "Open House Intelligence hearing on government UAP activities",
       "date": ""
     },
     {
-      "id": "classification",
-      "type": "topic",
-      "name": "Classification",
-      "summary": "Rules and practices governing access to sensitive government information",
+      "id": "2024-11-13-house-oversight-uap",
+      "type": "hearing",
+      "name": "November 13, 2024 House UAP Hearing",
+      "summary": "A joint House Oversight hearing examining government transparency, alleged secret UAP programs, aviation and maritime safety, scientific study, whistleblower concerns, and congressional access to UAP information.",
+      "date": "2024-11-13"
+    },
+    {
+      "id": "2020-lex-fridman-fravor-interview",
+      "type": "interview",
+      "name": "David Fravor on the Lex Fridman Podcast",
+      "summary": "Long-form interview discussing Fravor and the Nimitz encounter",
       "date": ""
     },
     {
-      "id": "uap-research",
-      "type": "topic",
-      "name": "UAP Research",
-      "summary": "Investigation and documentation of unidentified anomalous phenomena",
-      "date": ""
+      "id": "2023-newsnation-grusch-interview",
+      "type": "interview",
+      "name": "David Grusch NewsNation Interview",
+      "summary": "Television interview in which Grusch publicly discussed allegations concerning hidden UAP-related programs",
+      "date": "2023-06-05"
+    },
+    {
+      "id": "uap-disclosure-act-2023",
+      "type": "legislation",
+      "name": "UAP Disclosure Act of 2023",
+      "summary": "Proposed legislation addressing government UAP records and disclosure processes",
+      "date": "2023-07-13"
     },
     {
       "id": "house-oversight-committee",
@@ -176,6 +106,20 @@
       "date": ""
     },
     {
+      "id": "nasa",
+      "type": "organization",
+      "name": "NASA",
+      "summary": "The United States civil space agency.",
+      "date": ""
+    },
+    {
+      "id": "department-of-defense",
+      "type": "organization",
+      "name": "U.S. Department of Defense",
+      "summary": "Federal executive department responsible for U.S. national security",
+      "date": ""
+    },
+    {
       "id": "united-states-navy",
       "type": "organization",
       "name": "United States Navy",
@@ -183,10 +127,66 @@
       "date": ""
     },
     {
-      "id": "2020-lex-fridman-fravor-interview",
-      "type": "interview",
-      "name": "David Fravor on the Lex Fridman Podcast",
-      "summary": "Long-form interview discussing Fravor and the Nimitz encounter",
+      "id": "david-fravor",
+      "type": "person",
+      "name": "David Fravor",
+      "summary": "Retired U.S. Navy aviator and witness to the Nimitz encounter",
+      "date": ""
+    },
+    {
+      "id": "david-grusch",
+      "type": "person",
+      "name": "David Grusch",
+      "summary": "Former U.S. intelligence officer who testified publicly before Congress in July 2023",
+      "date": ""
+    },
+    {
+      "id": "luis-elizondo",
+      "type": "person",
+      "name": "Luis Elizondo",
+      "summary": "Author and former Department of Defense official who testified at the November 2024 House UAP hearing.",
+      "date": ""
+    },
+    {
+      "id": "michael-gold",
+      "type": "person",
+      "name": "Michael Gold",
+      "summary": "Former NASA space-policy official and member of NASA’s UAP Independent Study Team.",
+      "date": ""
+    },
+    {
+      "id": "michael-shellenberger",
+      "type": "person",
+      "name": "Michael Shellenberger",
+      "summary": "Journalist and founder of Public who testified at the November 2024 House UAP hearing.",
+      "date": ""
+    },
+    {
+      "id": "ronald-moultrie",
+      "type": "person",
+      "name": "Ronald S. Moultrie",
+      "summary": "Former Under Secretary of Defense for Intelligence and Security",
+      "date": ""
+    },
+    {
+      "id": "ryan-graves",
+      "type": "person",
+      "name": "Ryan Graves",
+      "summary": "Former U.S. Navy pilot and aviation-safety advocate",
+      "date": ""
+    },
+    {
+      "id": "scott-bray",
+      "type": "person",
+      "name": "Scott W. Bray",
+      "summary": "Former Deputy Director of Naval Intelligence",
+      "date": ""
+    },
+    {
+      "id": "tim-gallaudet",
+      "type": "person",
+      "name": "Tim Gallaudet",
+      "summary": "Retired U.S. Navy rear admiral and former NOAA official who testified about aviation and maritime safety.",
       "date": ""
     },
     {
@@ -194,6 +194,48 @@
       "type": "publication",
       "name": "Lex Fridman Podcast",
       "summary": "Long-form interview podcast",
+      "date": ""
+    },
+    {
+      "id": "newsnation",
+      "type": "publication",
+      "name": "NewsNation",
+      "summary": "U.S. television news network and publisher",
+      "date": ""
+    },
+    {
+      "id": "event-2023-house-hearing-held",
+      "type": "timeline_event",
+      "name": "July 2023 UAP Hearing Held",
+      "summary": "House Oversight subcommittee held a public UAP hearing",
+      "date": "2023-07-26"
+    },
+    {
+      "id": "aviation-safety",
+      "type": "topic",
+      "name": "Aviation Safety",
+      "summary": "Safety implications of unidentified objects or phenomena operating near aircraft",
+      "date": ""
+    },
+    {
+      "id": "classification",
+      "type": "topic",
+      "name": "Classification",
+      "summary": "Rules and practices governing access to sensitive government information",
+      "date": ""
+    },
+    {
+      "id": "government-transparency",
+      "type": "topic",
+      "name": "Government Transparency",
+      "summary": "Public access, congressional oversight, disclosure, and accountability",
+      "date": ""
+    },
+    {
+      "id": "uap-research",
+      "type": "topic",
+      "name": "UAP Research",
+      "summary": "Investigation and documentation of unidentified anomalous phenomena",
       "date": ""
     }
   ]

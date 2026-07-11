@@ -1,8 +1,12 @@
 # GreyAlien Changelog
 
-## Version 6.0 — Entity System 1.0
-- Added schemas for 11 entity types.
-- Added controlled relationship vocabulary.
-- Added generic entity renderer and reverse relationship engine.
-- Added Entity Explorer and first connected test cluster.
-- Added Related People, Topics, Documents, Continue Research and Timeline generation.
+## Version 7.0
+- Made witness names on all hearing pages clickable links to their Person entity pages.
+- Added hover and keyboard-focus styling for witness links.
+- Added the November 13, 2024 House hearing, “Unidentified Anomalous Phenomena: Exposing the Truth.”
+- Added Person entity records for Luis Elizondo, Tim Gallaudet, Michael Gold, and Michael Shellenberger.
+- Updated hearing chronology, previous/next navigation, entity index, and sitemap.
+- No breadcrumb changes and no broader layout changes.
+
+## Version 6.0
+- Added Entity System 1.0 and the first connected test cluster.

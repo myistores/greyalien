@@ -1,0 +1,227 @@
+{
+  "schemaVersion": 1,
+  "id": "2024-11-13-house-oversight-uap",
+  "entityType": "hearing",
+  "title": "Unidentified Anomalous Phenomena: Exposing the Truth",
+  "shortTitle": "November 13, 2024 House UAP Hearing",
+  "date": "2024-11-13",
+  "time": "11:30 a.m. ET",
+  "location": "2154 Rayburn House Office Building, Washington, D.C.",
+  "congress": "118th Congress",
+  "chamber": "U.S. House of Representatives",
+  "committee": "Committee on Oversight and Accountability",
+  "subcommittee": "Joint hearing of the Subcommittee on Cybersecurity, Information Technology, and Government Innovation and the Subcommittee on National Security, the Border, and Foreign Affairs",
+  "summary": "A joint House Oversight hearing examining government transparency, alleged secret UAP programs, aviation and maritime safety, scientific study, whistleblower concerns, and congressional access to UAP information.",
+  "whyItMatters": "This hearing extended the House’s public UAP oversight beyond the July 2023 witness panel. It added former defense, Navy, NASA, and journalism perspectives and created another documented bridge among transparency, aviation safety, scientific investigation, alleged hidden programs, and proposed disclosure legislation.",
+  "editorialNote": "GreyAlien distinguishes the official hearing record from witness assertions. Statements below summarize testimony and do not independently establish every claim made during the hearing.",
+  "themes": [
+    "Government transparency",
+    "Congressional oversight",
+    "Classification and public disclosure",
+    "Whistleblower protection",
+    "Aviation and maritime safety",
+    "Scientific investigation",
+    "NASA UAP research",
+    "Alleged secret UAP programs",
+    "UAP Disclosure Act"
+  ],
+  "witnesses": [
+    {
+      "id": "luis-elizondo",
+      "name": "Luis Elizondo",
+      "roleAtHearing": "Author and former Department of Defense official",
+      "background": "Former defense and intelligence official",
+      "claimStatus": "Witness testimony and allegations",
+      "testimonySummary": "Elizondo argued that excessive secrecy and limited oversight had obstructed public understanding of UAP-related activities and called for stronger congressional oversight, whistleblower protections, and a coordinated national strategy.",
+      "keyPoints": [
+        "He advocated for a whole-of-government approach to UAP policy.",
+        "He called for stronger protections for people reporting UAP-related information.",
+        "He alleged that some UAP-related activities had operated outside adequate public and congressional oversight."
+      ],
+      "documents": [
+        {
+          "label": "Written witness statement",
+          "url": "https://docs.house.gov/meetings/GO/GO12/20241113/117721/HHRG-118-GO12-Wstate-ElizondoL-20241113.pdf",
+          "sourceType": "Official House document"
+        }
+      ]
+    },
+    {
+      "id": "tim-gallaudet",
+      "name": "Rear Admiral Tim Gallaudet, Ph.D. (Ret.)",
+      "roleAtHearing": "Chief Executive Officer, Ocean STL Consulting, LLC",
+      "background": "Retired U.S. Navy rear admiral and former NOAA official",
+      "claimStatus": "Firsthand account, testimony, and opinion",
+      "testimonySummary": "Gallaudet described a 2015 Navy safety-of-flight episode involving the GoFast video, argued that overclassification had hindered aviation and maritime safety, and called for greater transparency and stronger congressional oversight.",
+      "keyPoints": [
+        "He described receiving a Navy message concerning an urgent safety-of-flight issue.",
+        "He connected UAP reporting to aviation and maritime safety.",
+        "He supported renewed disclosure legislation and broader scientific study."
+      ],
+      "documents": [
+        {
+          "label": "Written witness statement",
+          "url": "https://docs.house.gov/meetings/GO/GO12/20241113/117721/HHRG-118-GO12-Wstate-GallaudetPhDRearAdmiralUSNavyRetT-20241113.pdf",
+          "sourceType": "Official House document"
+        }
+      ]
+    },
+    {
+      "id": "michael-gold",
+      "name": "Michael Gold",
+      "roleAtHearing": "Former NASA Associate Administrator of Space Policy and Partnerships",
+      "background": "Member of NASA’s UAP Independent Study Team",
+      "claimStatus": "Expert testimony and recommendations",
+      "testimonySummary": "Gold focused on the value of scientific inquiry, improved data collection, reduced stigma, and cooperation among government, academia, and the private sector.",
+      "keyPoints": [
+        "He emphasized rigorous scientific study and better-quality data.",
+        "He discussed NASA’s role in reducing stigma around UAP research.",
+        "He encouraged collaboration across public and private institutions."
+      ],
+      "documents": [
+        {
+          "label": "Written witness statement",
+          "url": "https://docs.house.gov/meetings/GO/GO12/20241113/117721/HHRG-118-GO12-Wstate-GoldM-20241113.pdf",
+          "sourceType": "Official House document"
+        }
+      ]
+    },
+    {
+      "id": "michael-shellenberger",
+      "name": "Michael Shellenberger",
+      "roleAtHearing": "Founder, Public",
+      "background": "Journalist and author",
+      "claimStatus": "Journalistic reporting and allegations",
+      "testimonySummary": "Shellenberger discussed allegations that the Department of Defense and Intelligence Community were withholding UAP-related information from Congress and submitted supporting material for the hearing record.",
+      "keyPoints": [
+        "He argued that congressional oversight had been impeded by secrecy.",
+        "He discussed claims concerning alleged UAP programs.",
+        "He submitted extensive supporting material into the official hearing record."
+      ],
+      "documents": [
+        {
+          "label": "Written witness statement",
+          "url": "https://docs.house.gov/meetings/GO/GO12/20241113/117721/HHRG-118-GO12-Wstate-ShellenbergerM-20241113.pdf",
+          "sourceType": "Official House document"
+        }
+      ]
+    }
+  ],
+  "timeline": [
+    {
+      "date": "2024-11-06",
+      "label": "Hearing first published in the House Committee Repository"
+    },
+    {
+      "date": "2024-11-08",
+      "label": "Committee announced the joint hearing"
+    },
+    {
+      "date": "2024-11-13",
+      "label": "Public hearing held at 11:30 a.m. in 2154 Rayburn"
+    },
+    {
+      "date": "2025-02-03",
+      "label": "Official transcript added to the House Committee Repository"
+    }
+  ],
+  "documents": [
+    {
+      "label": "Official hearing page",
+      "url": "https://oversight.house.gov/hearing/unidentified-anomalous-phenomena-exposing-the-truth/",
+      "sourceType": "House Committee on Oversight and Accountability"
+    },
+    {
+      "label": "House Committee Repository event page",
+      "url": "https://docs.house.gov/Committee/Calendar/ByEvent.aspx?EventID=117721",
+      "sourceType": "U.S. House of Representatives"
+    },
+    {
+      "label": "Official hearing transcript",
+      "url": "https://docs.house.gov/meetings/GO/GO12/20241113/117721/HHRG-118-GO12-Transcript-20241113.pdf",
+      "sourceType": "U.S. House of Representatives"
+    },
+    {
+      "label": "Committee memorandum",
+      "url": "https://docs.house.gov/meetings/GO/GO12/20241113/117721/HHRG-118-GO12-20241113-SD002.pdf",
+      "sourceType": "Official support document"
+    },
+    {
+      "label": "Immaculate Constellation submission for the record",
+      "url": "https://docs.house.gov/meetings/GO/GO12/20241113/117721/HHRG-118-GO12-20241113-SD003.pdf",
+      "sourceType": "Official hearing support document"
+    }
+  ],
+  "evidenceProfile": {
+    "level": "Official congressional record",
+    "summary": "The hearing, transcript, witness statements, and support documents are official records. Individual claims and interpretations require separate evaluation.",
+    "items": [
+      {
+        "label": "Official hearing record",
+        "status": "available"
+      },
+      {
+        "label": "Official transcript",
+        "status": "available"
+      },
+      {
+        "label": "Written witness statements",
+        "status": "available"
+      },
+      {
+        "label": "Public video",
+        "status": "available"
+      },
+      {
+        "label": "Independent verification of every allegation",
+        "status": "limited"
+      }
+    ]
+  },
+  "relationships": {
+    "people": [
+      "luis-elizondo",
+      "tim-gallaudet",
+      "michael-gold",
+      "michael-shellenberger"
+    ],
+    "organizations": [
+      "house-oversight-committee",
+      "department-of-defense",
+      "united-states-navy",
+      "nasa",
+      "aaro"
+    ],
+    "cases": [
+      "2015-go-fast-safety-of-flight"
+    ],
+    "topics": [
+      "government-transparency",
+      "aviation-safety",
+      "classification",
+      "whistleblower-protection",
+      "scientific-investigation",
+      "uap-disclosure-legislation"
+    ]
+  },
+  "navigation": {
+    "previous": "2023-07-26-house-oversight-uap",
+    "next": null
+  },
+  "sharedConnections": {
+    "with": [
+      "2022-05-17-house-intelligence-uap",
+      "2023-07-26-house-oversight-uap"
+    ],
+    "topics": [
+      "government-transparency",
+      "aviation-safety",
+      "classification"
+    ],
+    "organizations": [
+      "department-of-defense",
+      "united-states-navy"
+    ]
+  },
+  "lastReviewed": "2026-07-10"
+}

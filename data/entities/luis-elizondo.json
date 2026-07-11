@@ -1,0 +1,19 @@
+{
+  "id": "luis-elizondo",
+  "type": "person",
+  "name": "Luis Elizondo",
+  "summary": "Author and former Department of Defense official who testified at the November 2024 House UAP hearing.",
+  "relationships": [
+    {
+      "type": "testified_at",
+      "target": "2024-11-13-house-oversight-uap",
+      "role": "Witness",
+      "date": "2024-11-13"
+    },
+    {
+      "type": "affiliated_with",
+      "target": "department-of-defense",
+      "role": "Former official"
+    }
+  ]
+}

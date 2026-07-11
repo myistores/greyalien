@@ -189,11 +189,12 @@
   },
   "navigation": {
     "previous": "2022-05-17-house-intelligence-uap",
-    "next": null
+    "next": "2024-11-13-house-oversight-uap"
   },
   "sharedConnections": {
     "with": [
-      "2022-05-17-house-intelligence-uap"
+      "2022-05-17-house-intelligence-uap",
+      "2024-11-13-house-oversight-uap"
     ],
     "topics": [
       "aviation-safety",
