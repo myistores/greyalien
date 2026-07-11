@@ -2,19 +2,45 @@
   "id": "sean-kirkpatrick",
   "type": "person",
   "name": "Sean M. Kirkpatrick",
-  "summary": "AARO director during 2023",
+  "summary": "Former Director of the All-domain Anomaly Resolution Office and government witness before Congress.",
   "relationships": [
     {
       "type": "testified_at",
       "target": "2023-04-19-senate-aaro-oversight",
-      "role": "Witness or participant",
+      "role": "Witness",
       "date": "2023-04-19"
     },
     {
       "type": "testified_at",
       "target": "2023-congressional-classified-aaro-briefings",
-      "role": "Witness or participant",
+      "role": "Government participant",
       "date": "2023-12-31"
+    },
+    {
+      "type": "affiliated_with",
+      "target": "aaro",
+      "role": "Former Director"
+    },
+    {
+      "type": "affiliated_with",
+      "target": "department-of-defense",
+      "role": "Former official"
+    }
+  ],
+  "profileStatus": "Former government official and congressional witness",
+  "profileSummary": "Former Director of the All-domain Anomaly Resolution Office and government witness before Congress.",
+  "background": "Physicist, intelligence and defense official, and first Director of AARO.",
+  "inclusionNote": "Included because of his leadership of AARO, public and classified congressional testimony, and central role in the official government response to UAP reporting and analysis.",
+  "primarySourceLinks": [
+    {
+      "label": "Official April 2023 Senate hearing page",
+      "url": "https://www.armed-services.senate.gov/hearings/to-receive-testimony-on-the-mission-activities-oversight-and-budget-of-the-all-domain-anomaly-resolution-office",
+      "sourceType": "Senate Armed Services Committee"
+    },
+    {
+      "label": "Official April 2023 hearing transcript",
+      "url": "https://www.armed-services.senate.gov/download/transcript-4-19-2023",
+      "sourceType": "Senate Armed Services Committee"
     }
   ]
 }

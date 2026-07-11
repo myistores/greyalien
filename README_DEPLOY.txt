@@ -1,4 +1,4 @@
-GREYALIEN VERSION 9.0 — WHISTLEBLOWER DATABASE 1.0
+GREYALIEN VERSION 10.0
 
 Deployment with GitHub Desktop:
 1. Extract this ZIP.
@@ -10,12 +10,12 @@ Deployment with GitHub Desktop:
 6. Push origin.
 
 Suggested commit:
-Version 9.0 - Add Whistleblower Database 1.0
+Version 10.0 - Expand Witness and Whistleblower Database
 
 Test after deployment:
 https://greyalien.com/categories/whistleblower-database.html
-https://greyalien.com/entities/entity.html?id=david-grusch
-https://greyalien.com/entities/entity.html?id=luis-elizondo
-https://greyalien.com/entities/entity.html?id=dylan-borland
-https://greyalien.com/entities/entity.html?id=alexandro-wiggins
-https://greyalien.com/entities/entity.html?id=2025-weaponized-wiggins-interview
+https://greyalien.com/entities/entity.html?id=karl-nell
+https://greyalien.com/entities/entity.html?id=christopher-mellon
+https://greyalien.com/entities/entity.html?id=ryan-graves
+https://greyalien.com/entities/entity.html?id=david-fravor
+https://greyalien.com/entities/entity.html?id=sean-kirkpatrick

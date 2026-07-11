@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "title": "Whistleblower Database 1.0",
-  "description": "Profiles connecting people to testimony, interviews, organizations, hearings, claims, and supporting documents.",
+  "title": "Witness & Whistleblower Database 1.0",
+  "description": "Documented profiles connecting people to congressional testimony, interviews, organizations, hearings, claims, and supporting source material.",
   "profiles": [
     {
       "id": "david-grusch",
@@ -26,6 +26,36 @@
       "status": "Firsthand military witness and congressional witness",
       "summary": "Active-duty U.S. Navy Senior Chief Petty Officer who submitted a firsthand account of a February 2023 UAP event and discussed it publicly in congressional testimony and an interview.",
       "inclusionNote": "Included as a witness profile, not labeled as a whistleblower. His record tests how witness testimony, interviews, claims, organizations, and supporting documents connect."
+    },
+    {
+      "id": "karl-nell",
+      "status": "Former military officer and public disclosure advocate",
+      "summary": "Retired U.S. Army colonel, aerospace executive, and public advocate for greater government disclosure concerning UAP.",
+      "inclusionNote": "Included because of his former military and national-security background, public statements concerning UAP disclosure, and direct relevance to claims and people already represented in the knowledge graph."
+    },
+    {
+      "id": "christopher-mellon",
+      "status": "Former government official and public disclosure advocate",
+      "summary": "Former Deputy Assistant Secretary of Defense for Intelligence and former Senate Intelligence Committee staff director who has advocated for congressional UAP oversight.",
+      "inclusionNote": "Included because of his former defense and congressional-intelligence roles, public advocacy for UAP oversight, and involvement in bringing military UAP reporting to congressional attention."
+    },
+    {
+      "id": "ryan-graves",
+      "status": "Firsthand military witness and congressional witness",
+      "summary": "Former U.S. Navy F/A-18 pilot, aviation-safety advocate, and congressional witness.",
+      "inclusionNote": "Included because of firsthand military reporting, official congressional testimony, written testimony, and continuing aviation-safety advocacy."
+    },
+    {
+      "id": "david-fravor",
+      "status": "Firsthand military witness and congressional witness",
+      "summary": "Retired U.S. Navy commander, firsthand witness to the 2004 Nimitz encounter, and congressional witness.",
+      "inclusionNote": "Included because of firsthand involvement in the 2004 Nimitz encounter, official congressional testimony, written testimony, and documented public interviews."
+    },
+    {
+      "id": "sean-kirkpatrick",
+      "status": "Former government official and congressional witness",
+      "summary": "Former Director of the All-domain Anomaly Resolution Office and government witness before Congress.",
+      "inclusionNote": "Included because of his leadership of AARO, public and classified congressional testimony, and central role in the official government response to UAP reporting and analysis."
     }
   ]
 }

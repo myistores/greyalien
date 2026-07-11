@@ -46,8 +46,8 @@
   }
   document.getElementById("year").textContent=new Date().getFullYear();
   window.GreyAlienSEO?.apply({
-    title:"Whistleblower Database | GreyAlien",
-    description:"Profiles connecting people to testimony, interviews, organizations, hearings, claims and supporting documents.",
+    title:"Witness & Whistleblower Database | GreyAlien",
+    description:"Documented profiles connecting people to congressional testimony, interviews, organizations, hearings, claims and supporting source material.",
     canonical:"https://greyalien.com/categories/whistleblower-database.html"
   });
 })();
