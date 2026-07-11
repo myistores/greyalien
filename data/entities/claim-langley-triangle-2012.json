@@ -1,0 +1,26 @@
+{
+  "id": "claim-langley-triangle-2012",
+  "type": "claim",
+  "name": "Alleged 2012 Langley Triangle Encounter",
+  "summary": "Dylan Borland's account of observing a large triangular object near Langley Air Force Base in 2012.",
+  "relationships": [
+    {
+      "type": "made_by",
+      "target": "dylan-borland"
+    },
+    {
+      "type": "presented_at",
+      "target": "2025-09-09-house-uap-transparency-hearing"
+    },
+    {
+      "type": "contained_in",
+      "target": "2025-borland-written-testimony"
+    },
+    {
+      "type": "concerns",
+      "target": "united-states-air-force"
+    }
+  ],
+  "status": "Firsthand witness claim submitted in written congressional testimony.",
+  "evidenceNote": "The page records Borland's statement and its relationship to his congressional testimony without independently validating the event."
+}

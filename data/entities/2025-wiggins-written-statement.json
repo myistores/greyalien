@@ -1,0 +1,26 @@
+{
+  "id": "2025-wiggins-written-statement",
+  "type": "document",
+  "name": "Alexandro Wiggins Written Statement",
+  "summary": "Written eyewitness statement submitted for the September 9, 2025 House hearing.",
+  "relationships": [
+    {
+      "type": "references_person",
+      "target": "alexandro-wiggins"
+    },
+    {
+      "type": "references_hearing",
+      "target": "2025-09-09-house-uap-transparency-hearing"
+    },
+    {
+      "type": "references_organization",
+      "target": "united-states-navy"
+    },
+    {
+      "type": "contains_claim",
+      "target": "claim-uss-jackson-transmedium-objects"
+    }
+  ],
+  "status": "Official House document",
+  "externalUrl": "https://oversight.house.gov/wp-content/uploads/2025/09/Wiggins-Written-Statement.pdf"
+}

@@ -1,22 +1,21 @@
-GREYALIEN VERSION 8.0
+GREYALIEN VERSION 9.0 — WHISTLEBLOWER DATABASE 1.0
 
-This release contains 15 congressional hearing / briefing / legislative / historical records.
-
-Deploy:
-1. Extract the ZIP.
-2. Open the myistores/greyalien GitHub repository.
-3. Choose Add file > Upload files.
-4. Drag all files and folders from the extracted package.
-5. Preserve the complete folder structure.
-6. Replace existing files when prompted.
-7. Commit directly to main.
+Deployment with GitHub Desktop:
+1. Extract this ZIP.
+2. Copy all files and folders into:
+   C:\Users\Jason Ciaramella\Documents\GitHub\greyalien
+3. Choose Replace the files in the destination when prompted.
+4. Review the changes in GitHub Desktop.
+5. Commit to main.
+6. Push origin.
 
 Suggested commit:
-Version 8.0 - Add congressional hearing master list
+Version 9.0 - Add Whistleblower Database 1.0
 
-After deployment, test:
-https://greyalien.com/categories/congressional-hearings.html
-https://greyalien.com/hearings/hearing.html?id=1966-04-05-house-ufo-hearing
-https://greyalien.com/hearings/hearing.html?id=2023-04-19-senate-aaro-oversight
-https://greyalien.com/hearings/hearing.html?id=2024-01-12-house-uap-scif-briefing
-https://greyalien.com/hearings/hearing.html?id=2025-09-09-house-uap-transparency-hearing
+Test after deployment:
+https://greyalien.com/categories/whistleblower-database.html
+https://greyalien.com/entities/entity.html?id=david-grusch
+https://greyalien.com/entities/entity.html?id=luis-elizondo
+https://greyalien.com/entities/entity.html?id=dylan-borland
+https://greyalien.com/entities/entity.html?id=alexandro-wiggins
+https://greyalien.com/entities/entity.html?id=2025-weaponized-wiggins-interview

@@ -1,0 +1,38 @@
+{
+  "id": "claim-whistleblower-retaliation",
+  "type": "claim",
+  "name": "Alleged Retaliation Against UAP Whistleblowers",
+  "summary": "Claim that people reporting UAP-related information experienced professional retaliation, intimidation, or obstruction.",
+  "relationships": [
+    {
+      "type": "made_by",
+      "target": "luis-elizondo"
+    },
+    {
+      "type": "made_by",
+      "target": "dylan-borland"
+    },
+    {
+      "type": "presented_at",
+      "target": "2024-11-13-house-oversight-uap"
+    },
+    {
+      "type": "presented_at",
+      "target": "2025-09-09-house-uap-transparency-hearing"
+    },
+    {
+      "type": "contained_in",
+      "target": "2024-elizondo-written-testimony"
+    },
+    {
+      "type": "contained_in",
+      "target": "2025-borland-written-testimony"
+    },
+    {
+      "type": "concerns",
+      "target": "whistleblower-protection"
+    }
+  ],
+  "status": "Allegation described in public testimony and written statements; individual cases require separate evaluation.",
+  "evidenceNote": "GreyAlien separates documented statements and complaints from independently established findings."
+}

@@ -1,0 +1,31 @@
+{
+  "schemaVersion": 1,
+  "title": "Whistleblower Database 1.0",
+  "description": "Profiles connecting people to testimony, interviews, organizations, hearings, claims, and supporting documents.",
+  "profiles": [
+    {
+      "id": "david-grusch",
+      "status": "Public whistleblower and congressional witness",
+      "summary": "Former U.S. intelligence officer whose public testimony and written statement raised allegations concerning hidden UAP programs and congressional oversight.",
+      "inclusionNote": "Included because of public congressional testimony, written testimony, public interviews, and documented whistleblower-related reporting."
+    },
+    {
+      "id": "luis-elizondo",
+      "status": "Former official, public witness, and disclosure advocate",
+      "summary": "Former Department of Defense official who testified publicly about alleged secret UAP programs, oversight concerns, and protections for people reporting UAP information.",
+      "inclusionNote": "Included because of public congressional testimony, an official written statement, and testimony concerning whistleblowers and alleged retaliation."
+    },
+    {
+      "id": "dylan-borland",
+      "status": "Self-identified federal whistleblower and congressional witness",
+      "summary": "Former Air Force geospatial-intelligence specialist who described himself in official written testimony as a federal whistleblower and presented allegations concerning UAP programs and retaliation.",
+      "inclusionNote": "Included because his official House statement explicitly identifies him as a federal whistleblower and records testimony to AARO and the Intelligence Community Inspector General."
+    },
+    {
+      "id": "alexandro-wiggins",
+      "status": "Firsthand military witness and congressional witness",
+      "summary": "Active-duty U.S. Navy Senior Chief Petty Officer who submitted a firsthand account of a February 2023 UAP event and discussed it publicly in congressional testimony and an interview.",
+      "inclusionNote": "Included as a witness profile, not labeled as a whistleblower. His record tests how witness testimony, interviews, claims, organizations, and supporting documents connect."
+    }
+  ]
+}

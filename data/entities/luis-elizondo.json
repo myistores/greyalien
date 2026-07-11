@@ -14,6 +14,34 @@
       "type": "affiliated_with",
       "target": "department-of-defense",
       "role": "Former official"
+    },
+    {
+      "type": "authored",
+      "target": "2024-elizondo-written-testimony"
+    },
+    {
+      "type": "made_claim",
+      "target": "claim-secret-uap-programs"
+    },
+    {
+      "type": "made_claim",
+      "target": "claim-whistleblower-retaliation"
+    }
+  ],
+  "profileStatus": "Former official, public witness, and disclosure advocate",
+  "profileSummary": "Former Department of Defense official who testified publicly about alleged secret UAP programs, oversight concerns, and protections for people reporting UAP information.",
+  "background": "Former Department of Defense official and author.",
+  "inclusionNote": "Included because of public congressional testimony, an official written statement, and testimony concerning whistleblowers and alleged retaliation.",
+  "primarySourceLinks": [
+    {
+      "label": "Official written testimony",
+      "url": "https://oversight.house.gov/wp-content/uploads/2024/11/Written-Testimony-Elizondo.pdf",
+      "sourceType": "House Committee on Oversight and Accountability"
+    },
+    {
+      "label": "Official November 2024 hearing page",
+      "url": "https://oversight.house.gov/hearing/unidentified-anomalous-phenomena-exposing-the-truth/",
+      "sourceType": "House Committee on Oversight and Accountability"
     }
   ]
 }

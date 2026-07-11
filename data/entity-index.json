@@ -22,6 +22,13 @@
       "date": "2004-11-14"
     },
     {
+      "id": "claim-langley-triangle-2012",
+      "type": "claim",
+      "name": "Alleged 2012 Langley Triangle Encounter",
+      "summary": "Dylan Borland's account of observing a large triangular object near Langley Air Force Base in 2012.",
+      "date": ""
+    },
+    {
       "id": "claim-crash-retrieval-program",
       "type": "claim",
       "name": "Alleged Crash-Retrieval Program",
@@ -29,10 +36,52 @@
       "date": ""
     },
     {
+      "id": "claim-whistleblower-retaliation",
+      "type": "claim",
+      "name": "Alleged Retaliation Against UAP Whistleblowers",
+      "summary": "Claim that people reporting UAP-related information experienced professional retaliation, intimidation, or obstruction.",
+      "date": ""
+    },
+    {
+      "id": "claim-secret-uap-programs",
+      "type": "claim",
+      "name": "Alleged Secret UAP Programs",
+      "summary": "Claim that UAP-related programs have operated with inadequate congressional or public oversight.",
+      "date": ""
+    },
+    {
+      "id": "claim-uss-jackson-transmedium-objects",
+      "type": "claim",
+      "name": "Alleged USS Jackson Transmedium UAP Event",
+      "summary": "Alexandro Wiggins's account of four Tic-Tac-like objects observed and detected near USS Jackson in February 2023.",
+      "date": ""
+    },
+    {
+      "id": "2025-wiggins-written-statement",
+      "type": "document",
+      "name": "Alexandro Wiggins Written Statement",
+      "summary": "Written eyewitness statement submitted for the September 9, 2025 House hearing.",
+      "date": ""
+    },
+    {
       "id": "2023-grusch-written-testimony",
       "type": "document",
       "name": "David Grusch Written Testimony",
       "summary": "Written statement submitted for the July 26, 2023 House hearing",
+      "date": ""
+    },
+    {
+      "id": "2025-borland-written-testimony",
+      "type": "document",
+      "name": "Dylan Borland Written Testimony",
+      "summary": "Written whistleblower statement submitted for the September 9, 2025 House hearing.",
+      "date": ""
+    },
+    {
+      "id": "2024-elizondo-written-testimony",
+      "type": "document",
+      "name": "Luis Elizondo Written Testimony",
+      "summary": "Written testimony submitted for the November 13, 2024 House UAP hearing.",
       "date": ""
     },
     {
@@ -153,6 +202,13 @@
       "name": "September 9, 2025 House UAP Hearing",
       "summary": "A public hearing examining UAP disclosure, AARO and intelligence-community transparency, witness accounts, and protections for national-security whistleblowers.",
       "date": "2025-09-09"
+    },
+    {
+      "id": "2025-weaponized-wiggins-interview",
+      "type": "interview",
+      "name": "Alexandro Wiggins on WEAPONIZED",
+      "summary": "Interview discussing Wiggins's account of a February 2023 USS Jackson UAP event.",
+      "date": "2025-04-15"
     },
     {
       "id": "2020-lex-fridman-fravor-interview",
@@ -474,6 +530,13 @@
       "type": "publication",
       "name": "NewsNation",
       "summary": "U.S. television news network and publisher",
+      "date": ""
+    },
+    {
+      "id": "weaponized-podcast",
+      "type": "publication",
+      "name": "WEAPONIZED with Jeremy Corbell & George Knapp",
+      "summary": "Podcast and media publication hosted by Jeremy Corbell and George Knapp.",
       "date": ""
     },
     {

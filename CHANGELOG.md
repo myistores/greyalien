@@ -1,14 +1,17 @@
 # GreyAlien Changelog
 
-## Version 8.0
-- Added every unique congressional event represented in the GreyAlien Congressional Hearings Master List.
-- Expanded the chronology from 3 to 15 records.
-- Added public hearings, classified briefing records, legislative-process records, and historical congressional proceedings.
-- Added known witnesses or participants where public information was available.
-- Added official or public source links where available.
-- Updated previous/next navigation, hearing index, shared connections, entity index, witness entity relationships, and sitemap.
-- Did not add a hearing-type field or change the hearing-page layout.
+## Version 9.0 — Whistleblower Database 1.0
+- Replaced the Whistleblower Database placeholder with a connected profile hub.
+- Added initial profiles for David Grusch, Luis Elizondo, Dylan Borland, and Alexandro Wiggins.
+- Added clear inclusion-status labels so witnesses are not automatically labeled as whistleblowers.
+- Added connection counts generated from the Entity System.
+- Added profile documentation panels to Person entity pages.
+- Added media-link rendering for Interview entities.
+- Added official written-testimony Document entities.
+- Added WEAPONIZED publication and interview entities.
+- Added carefully labeled Claim entities.
+- Updated person relationships, entity index, and sitemap.
+- No changes to the 11 entity types.
 
-## Version 7.0
-- Linked witness names to Person entity pages.
-- Added the November 13, 2024 House UAP hearing.
+## Version 8.0
+- Expanded the congressional-event knowledge base to 15 records.
