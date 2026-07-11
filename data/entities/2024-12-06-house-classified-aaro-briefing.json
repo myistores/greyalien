@@ -1,0 +1,33 @@
+{
+  "id": "2024-12-06-house-classified-aaro-briefing",
+  "type": "hearing",
+  "name": "December 6, 2024 Classified AARO Briefing",
+  "summary": "A classified briefing involving AARO Director Jon Kosloski and House Oversight members following the November 2024 public hearings.",
+  "relationships": [
+    {
+      "type": "held_by",
+      "target": "aaro"
+    },
+    {
+      "type": "held_by",
+      "target": "house-oversight-committee"
+    },
+    {
+      "type": "held_by",
+      "target": "department-of-defense"
+    },
+    {
+      "type": "discussed_topic",
+      "target": "classification"
+    },
+    {
+      "type": "discussed_topic",
+      "target": "government-transparency"
+    },
+    {
+      "type": "discussed_topic",
+      "target": "congressional-oversight"
+    }
+  ],
+  "date": "2024-12-06"
+}

@@ -50,18 +50,88 @@
       "date": ""
     },
     {
+      "id": "2023-congressional-classified-aaro-briefings",
+      "type": "hearing",
+      "name": "2023 Classified AARO Briefings",
+      "summary": "An aggregate research record for publicly acknowledged classified AARO briefings to authorized congressional committees during 2023.",
+      "date": "2023-12-31"
+    },
+    {
+      "id": "2023-04-19-senate-aaro-oversight",
+      "type": "hearing",
+      "name": "April 19, 2023 Senate AARO Hearing",
+      "summary": "An open Senate hearing examining AARO's mission, activities, oversight, budget, reporting process, and analysis of UAP cases.",
+      "date": "2023-04-19"
+    },
+    {
+      "id": "1966-04-05-house-ufo-hearing",
+      "type": "hearing",
+      "name": "April 5, 1966 House UFO Hearing",
+      "summary": "A House Armed Services hearing addressing unidentified flying objects and the Air Force investigation program during the period of the Michigan sightings.",
+      "date": "1966-04-05"
+    },
+    {
+      "id": "2024-12-18-fy2025-ndaa-uap-provisions",
+      "type": "hearing",
+      "name": "December 18, 2024 FY2025 NDAA Action",
+      "summary": "A research record for UAP-related provisions and proposals considered during the Fiscal Year 2025 National Defense Authorization Act process.",
+      "date": "2024-12-18"
+    },
+    {
+      "id": "2025-12-18-fy2026-ndaa-uap-provisions",
+      "type": "hearing",
+      "name": "December 18, 2025 FY2026 NDAA Action",
+      "summary": "A research record for UAP-related provisions, reporting requirements, and oversight proposals considered during the Fiscal Year 2026 NDAA process.",
+      "date": "2025-12-18"
+    },
+    {
+      "id": "2024-12-06-house-classified-aaro-briefing",
+      "type": "hearing",
+      "name": "December 6, 2024 Classified AARO Briefing",
+      "summary": "A classified briefing involving AARO Director Jon Kosloski and House Oversight members following the November 2024 public hearings.",
+      "date": "2024-12-06"
+    },
+    {
+      "id": "2024-01-12-house-uap-scif-briefing",
+      "type": "hearing",
+      "name": "January 12, 2024 House SCIF Briefing",
+      "summary": "A closed briefing concerning UAP whistleblower allegations and congressional access to information held by the intelligence community.",
+      "date": "2024-01-12"
+    },
+    {
+      "id": "2023-07-13-uap-disclosure-act-consideration",
+      "type": "hearing",
+      "name": "July 13, 2023 UAP Disclosure Act Action",
+      "summary": "Congressional consideration of UAP disclosure provisions proposed for the Fiscal Year 2024 defense and intelligence authorization process.",
+      "date": "2023-07-13"
+    },
+    {
       "id": "2023-07-26-house-oversight-uap",
       "type": "hearing",
       "name": "July 26, 2023 House UAP Hearing",
-      "summary": "Public House Oversight hearing featuring David Grusch, Ryan Graves, and David Fravor",
+      "summary": "A public House hearing examining military and commercial aviation encounters with unidentified anomalous phenomena, federal handling and classification of UAP information, whistleblower protections, public safety, national security, and congressional oversight.",
       "date": "2023-07-26"
+    },
+    {
+      "id": "1968-07-29-house-ufo-symposium",
+      "type": "hearing",
+      "name": "July 29, 1968 House UFO Symposium",
+      "summary": "A congressional scientific symposium presenting testimony and prepared material on UFO reports, research methods, physical evidence, and possible explanations.",
+      "date": "1968-07-29"
     },
     {
       "id": "2022-05-17-house-intelligence-uap",
       "type": "hearing",
       "name": "May 17, 2022 House Intelligence UAP Hearing",
-      "summary": "Open House Intelligence hearing on government UAP activities",
-      "date": ""
+      "summary": "An open hearing followed by a closed classified briefing on the Department of Defense and Intelligence Community response to unidentified aerial phenomena, including reporting, stigma, flight safety, national security, data collection, analysis, and the creation of AOIMSG.",
+      "date": "2022-05-17"
+    },
+    {
+      "id": "2022-05-03-house-intelligence-classified-uap-briefing",
+      "type": "hearing",
+      "name": "May 3, 2022 Classified UAP Briefing",
+      "summary": "A classified congressional briefing held before the May 17, 2022 public hearing on unidentified aerial phenomena.",
+      "date": "2022-05-03"
     },
     {
       "id": "2024-11-13-house-oversight-uap",
@@ -69,6 +139,20 @@
       "name": "November 13, 2024 House UAP Hearing",
       "summary": "A joint House Oversight hearing examining government transparency, alleged secret UAP programs, aviation and maritime safety, scientific study, whistleblower concerns, and congressional access to UAP information.",
       "date": "2024-11-13"
+    },
+    {
+      "id": "2024-11-19-senate-aaro-update",
+      "type": "hearing",
+      "name": "November 19, 2024 Senate AARO Hearing",
+      "summary": "An open Senate hearing receiving an update on AARO's activities, priorities, case holdings, data collection, transparency, and unresolved reports.",
+      "date": "2024-11-19"
+    },
+    {
+      "id": "2025-09-09-house-uap-transparency-hearing",
+      "type": "hearing",
+      "name": "September 9, 2025 House UAP Hearing",
+      "summary": "A public hearing examining UAP disclosure, AARO and intelligence-community transparency, witness accounts, and protections for national-security whistleblowers.",
+      "date": "2025-09-09"
     },
     {
       "id": "2020-lex-fridman-fravor-interview",
@@ -92,10 +176,31 @@
       "date": "2023-07-13"
     },
     {
+      "id": "aaro",
+      "type": "organization",
+      "name": "All-domain Anomaly Resolution Office",
+      "summary": "Department of Defense office responsible for UAP reporting and analysis.",
+      "date": ""
+    },
+    {
+      "id": "house-armed-services-committee",
+      "type": "organization",
+      "name": "House Committee on Armed Services",
+      "summary": "U.S. House committee responsible for defense oversight and legislation.",
+      "date": ""
+    },
+    {
       "id": "house-oversight-committee",
       "type": "organization",
       "name": "House Committee on Oversight and Accountability",
       "summary": "U.S. House oversight committee",
+      "date": ""
+    },
+    {
+      "id": "house-science-astronautics-committee",
+      "type": "organization",
+      "name": "House Committee on Science and Astronautics",
+      "summary": "Historical U.S. House committee responsible for science and space matters.",
       "date": ""
     },
     {
@@ -106,10 +211,52 @@
       "date": ""
     },
     {
+      "id": "intelligence-community-inspector-general",
+      "type": "organization",
+      "name": "Intelligence Community Inspector General",
+      "summary": "Independent oversight office within the U.S. Intelligence Community.",
+      "date": ""
+    },
+    {
       "id": "nasa",
       "type": "organization",
       "name": "NASA",
       "summary": "The United States civil space agency.",
+      "date": ""
+    },
+    {
+      "id": "national-archives",
+      "type": "organization",
+      "name": "National Archives and Records Administration",
+      "summary": "Federal agency responsible for preserving and providing access to government records.",
+      "date": ""
+    },
+    {
+      "id": "project-blue-book",
+      "type": "organization",
+      "name": "Project Blue Book",
+      "summary": "Historical U.S. Air Force program for investigating UFO reports.",
+      "date": ""
+    },
+    {
+      "id": "project-on-government-oversight",
+      "type": "organization",
+      "name": "Project On Government Oversight",
+      "summary": "Nonpartisan government-accountability organization.",
+      "date": ""
+    },
+    {
+      "id": "senate-armed-services-committee",
+      "type": "organization",
+      "name": "Senate Committee on Armed Services",
+      "summary": "U.S. Senate committee responsible for defense oversight and legislation.",
+      "date": ""
+    },
+    {
+      "id": "senate-intelligence-committee",
+      "type": "organization",
+      "name": "Senate Select Committee on Intelligence",
+      "summary": "U.S. Senate committee responsible for intelligence-community oversight.",
       "date": ""
     },
     {
@@ -120,10 +267,38 @@
       "date": ""
     },
     {
+      "id": "united-states-air-force",
+      "type": "organization",
+      "name": "United States Air Force",
+      "summary": "Air service branch of the U.S. Armed Forces.",
+      "date": ""
+    },
+    {
       "id": "united-states-navy",
       "type": "organization",
       "name": "United States Navy",
       "summary": "Maritime service branch of the U.S. Armed Forces",
+      "date": ""
+    },
+    {
+      "id": "alexandro-wiggins",
+      "type": "person",
+      "name": "Alexandro Wiggins",
+      "summary": "Active-duty U.S. Navy operations specialist",
+      "date": ""
+    },
+    {
+      "id": "anna-paulina-luna",
+      "type": "person",
+      "name": "Anna Paulina Luna",
+      "summary": "U.S. Representative from Florida",
+      "date": ""
+    },
+    {
+      "id": "carl-sagan",
+      "type": "person",
+      "name": "Carl Sagan",
+      "summary": "Astronomer and planetary scientist",
       "date": ""
     },
     {
@@ -141,10 +316,87 @@
       "date": ""
     },
     {
+      "id": "dylan-borland",
+      "type": "person",
+      "name": "Dylan Borland",
+      "summary": "Former Air Force service member",
+      "date": ""
+    },
+    {
+      "id": "eric-burlison",
+      "type": "person",
+      "name": "Eric Burlison",
+      "summary": "U.S. Representative from Missouri",
+      "date": ""
+    },
+    {
+      "id": "george-knapp",
+      "type": "person",
+      "name": "George Knapp",
+      "summary": "Investigative journalist",
+      "date": ""
+    },
+    {
+      "id": "harold-brown",
+      "type": "person",
+      "name": "Harold Brown",
+      "summary": "Senior U.S. Air Force official",
+      "date": ""
+    },
+    {
+      "id": "j-allen-hynek",
+      "type": "person",
+      "name": "J. Allen Hynek",
+      "summary": "Astronomer and former Project Blue Book consultant",
+      "date": ""
+    },
+    {
+      "id": "james-e-mcdonald",
+      "type": "person",
+      "name": "James E. McDonald",
+      "summary": "Atmospheric physicist",
+      "date": ""
+    },
+    {
+      "id": "jared-moskowitz",
+      "type": "person",
+      "name": "Jared Moskowitz",
+      "summary": "U.S. Representative from Florida",
+      "date": ""
+    },
+    {
+      "id": "jeffrey-nuccetelli",
+      "type": "person",
+      "name": "Jeffrey Nuccetelli",
+      "summary": "Military veteran and UAP witness",
+      "date": ""
+    },
+    {
+      "id": "joe-spielberger",
+      "type": "person",
+      "name": "Joe Spielberger",
+      "summary": "Whistleblower-policy specialist",
+      "date": ""
+    },
+    {
+      "id": "jon-kosloski",
+      "type": "person",
+      "name": "Jon T. Kosloski",
+      "summary": "AARO director",
+      "date": ""
+    },
+    {
       "id": "luis-elizondo",
       "type": "person",
       "name": "Luis Elizondo",
       "summary": "Author and former Department of Defense official who testified at the November 2024 House UAP hearing.",
+      "date": ""
+    },
+    {
+      "id": "hector-quintanilla",
+      "type": "person",
+      "name": "Major Hector Quintanilla",
+      "summary": "U.S. Air Force officer",
       "date": ""
     },
     {
@@ -159,6 +411,13 @@
       "type": "person",
       "name": "Michael Shellenberger",
       "summary": "Journalist and founder of Public who testified at the November 2024 House UAP hearing.",
+      "date": ""
+    },
+    {
+      "id": "robert-l-hall",
+      "type": "person",
+      "name": "Robert L. Hall",
+      "summary": "Sociologist",
       "date": ""
     },
     {
@@ -180,6 +439,20 @@
       "type": "person",
       "name": "Scott W. Bray",
       "summary": "Former Deputy Director of Naval Intelligence",
+      "date": ""
+    },
+    {
+      "id": "sean-kirkpatrick",
+      "type": "person",
+      "name": "Sean M. Kirkpatrick",
+      "summary": "AARO director during 2023",
+      "date": ""
+    },
+    {
+      "id": "tim-burchett",
+      "type": "person",
+      "name": "Tim Burchett",
+      "summary": "U.S. Representative from Tennessee",
       "date": ""
     },
     {
@@ -225,6 +498,20 @@
       "date": ""
     },
     {
+      "id": "congressional-oversight",
+      "type": "topic",
+      "name": "Congressional Oversight",
+      "summary": "Congressional access, review, and accountability involving executive-branch programs.",
+      "date": ""
+    },
+    {
+      "id": "extraterrestrial-hypothesis",
+      "type": "topic",
+      "name": "Extraterrestrial Hypothesis",
+      "summary": "The hypothesis that some reports may involve non-human extraterrestrial intelligence or technology.",
+      "date": ""
+    },
+    {
       "id": "government-transparency",
       "type": "topic",
       "name": "Government Transparency",
@@ -232,10 +519,45 @@
       "date": ""
     },
     {
+      "id": "historical-ufo-research",
+      "type": "topic",
+      "name": "Historical UFO Research",
+      "summary": "Research and government activity concerning UFO reports before the modern UAP era.",
+      "date": ""
+    },
+    {
+      "id": "scientific-investigation",
+      "type": "topic",
+      "name": "Scientific Investigation",
+      "summary": "Scientific methods, data standards, and research approaches.",
+      "date": ""
+    },
+    {
+      "id": "uap-disclosure-legislation",
+      "type": "topic",
+      "name": "UAP Disclosure Legislation",
+      "summary": "Legislative proposals addressing UAP records, disclosure, reporting, and oversight.",
+      "date": ""
+    },
+    {
+      "id": "uap-reporting-systems",
+      "type": "topic",
+      "name": "UAP Reporting Systems",
+      "summary": "Processes for collecting, retaining, and analyzing UAP reports.",
+      "date": ""
+    },
+    {
       "id": "uap-research",
       "type": "topic",
       "name": "UAP Research",
       "summary": "Investigation and documentation of unidentified anomalous phenomena",
+      "date": ""
+    },
+    {
+      "id": "whistleblower-protection",
+      "type": "topic",
+      "name": "Whistleblower Protection",
+      "summary": "Legal and procedural protections for people reporting government misconduct or withheld information.",
       "date": ""
     }
   ]

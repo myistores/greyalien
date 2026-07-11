@@ -188,24 +188,41 @@
     ]
   },
   "navigation": {
-    "previous": "2022-05-17-house-intelligence-uap",
-    "next": "2024-11-13-house-oversight-uap"
+    "previous": "2023-07-13-uap-disclosure-act-consideration",
+    "next": "2023-congressional-classified-aaro-briefings"
   },
   "sharedConnections": {
     "with": [
+      "1966-04-05-house-ufo-hearing",
+      "2022-05-03-house-intelligence-classified-uap-briefing",
       "2022-05-17-house-intelligence-uap",
-      "2024-11-13-house-oversight-uap"
+      "2023-04-19-senate-aaro-oversight",
+      "2023-07-13-uap-disclosure-act-consideration",
+      "2023-congressional-classified-aaro-briefings",
+      "2024-01-12-house-uap-scif-briefing",
+      "2024-11-13-house-oversight-uap",
+      "2024-11-19-senate-aaro-update",
+      "2024-12-06-house-classified-aaro-briefing",
+      "2024-12-18-fy2025-ndaa-uap-provisions",
+      "2025-09-09-house-uap-transparency-hearing"
     ],
     "topics": [
+      "crash-retrieval-claims",
+      "reverse-engineering-claims",
       "aviation-safety",
       "government-transparency",
-      "classification",
-      "uap-reporting-systems"
+      "whistleblower-protection",
+      "classification"
     ],
     "organizations": [
-      "department-of-defense",
+      "uap-task-force",
+      "americans-for-safe-aerospace",
+      "aaro",
+      "national-reconnaissance-office",
+      "house-committee-oversight-accountability",
       "united-states-navy",
-      "uap-task-force"
+      "subcommittee-national-security-border-foreign-affairs",
+      "department-of-defense"
     ]
   }
 }

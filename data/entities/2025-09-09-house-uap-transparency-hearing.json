@@ -1,0 +1,45 @@
+{
+  "id": "2025-09-09-house-uap-transparency-hearing",
+  "type": "hearing",
+  "name": "September 9, 2025 House UAP Hearing",
+  "summary": "A public hearing examining UAP disclosure, AARO and intelligence-community transparency, witness accounts, and protections for national-security whistleblowers.",
+  "relationships": [
+    {
+      "type": "held_by",
+      "target": "house-oversight-committee"
+    },
+    {
+      "type": "held_by",
+      "target": "aaro"
+    },
+    {
+      "type": "held_by",
+      "target": "department-of-defense"
+    },
+    {
+      "type": "held_by",
+      "target": "united-states-navy"
+    },
+    {
+      "type": "held_by",
+      "target": "project-on-government-oversight"
+    },
+    {
+      "type": "discussed_topic",
+      "target": "government-transparency"
+    },
+    {
+      "type": "discussed_topic",
+      "target": "whistleblower-protection"
+    },
+    {
+      "type": "discussed_topic",
+      "target": "classification"
+    },
+    {
+      "type": "discussed_topic",
+      "target": "aviation-safety"
+    }
+  ],
+  "date": "2025-09-09"
+}

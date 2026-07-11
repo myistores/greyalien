@@ -1,0 +1,127 @@
+{
+  "schemaVersion": 1,
+  "id": "2023-congressional-classified-aaro-briefings",
+  "entityType": "hearing",
+  "title": "Congressional Classified AARO Briefings During 2023",
+  "shortTitle": "2023 Classified AARO Briefings",
+  "date": "2023-12-31",
+  "time": "Multiple dates",
+  "location": "Secure congressional facilities",
+  "congress": "118th Congress",
+  "chamber": "U.S. Congress",
+  "committee": "House and Senate intelligence and armed-services committees",
+  "subcommittee": "Recurring classified briefings",
+  "summary": "An aggregate research record for publicly acknowledged classified AARO briefings to authorized congressional committees during 2023.",
+  "whyItMatters": "Even where transcripts and complete attendee lists are unavailable, the existence of recurring classified briefings is important to the oversight timeline.",
+  "editorialNote": "This is an aggregate record, not a claim that all briefings occurred on the displayed date. Specific briefing records should replace or supplement it when documented.",
+  "themes": [
+    "Classified oversight",
+    "AARO",
+    "Congressional reporting",
+    "National security",
+    "Committee access"
+  ],
+  "witnesses": [
+    {
+      "id": "sean-kirkpatrick",
+      "name": "Sean M. Kirkpatrick",
+      "roleAtHearing": "Director, All-domain Anomaly Resolution Office",
+      "background": "AARO director during 2023",
+      "claimStatus": "Known government participant",
+      "testimonySummary": "Kirkpatrick served as AARO director during recurring classified congressional engagement.",
+      "keyPoints": [
+        "Classified briefings",
+        "AARO reporting",
+        "Congressional oversight"
+      ],
+      "documents": []
+    }
+  ],
+  "timeline": [
+    {
+      "date": "2023-04-19",
+      "label": "Closed Senate session preceded the public AARO hearing"
+    },
+    {
+      "date": "2023-12-31",
+      "label": "Aggregate record for additional 2023 classified briefings"
+    }
+  ],
+  "documents": [
+    {
+      "label": "AARO congressional products",
+      "url": "https://www.aaro.mil/Congressional-Press-Products/",
+      "sourceType": "All-domain Anomaly Resolution Office"
+    }
+  ],
+  "evidenceProfile": {
+    "level": "Documented congressional record",
+    "summary": "This record is based on public congressional or government material. Classified details may remain unavailable.",
+    "items": [
+      {
+        "label": "Public event or official reference",
+        "status": "available"
+      },
+      {
+        "label": "Public supporting documents",
+        "status": "available"
+      },
+      {
+        "label": "Complete classified record",
+        "status": "limited"
+      }
+    ]
+  },
+  "relationships": {
+    "people": [
+      "sean-kirkpatrick"
+    ],
+    "organizations": [
+      "aaro",
+      "senate-armed-services-committee",
+      "house-intelligence-committee",
+      "department-of-defense"
+    ],
+    "cases": [],
+    "topics": [
+      "classification",
+      "government-transparency",
+      "congressional-oversight"
+    ]
+  },
+  "catalogCategories": [
+    "Closed or classified briefings"
+  ],
+  "navigation": {
+    "previous": "2023-07-26-house-oversight-uap",
+    "next": "2024-01-12-house-uap-scif-briefing"
+  },
+  "sharedConnections": {
+    "with": [
+      "1966-04-05-house-ufo-hearing",
+      "2022-05-03-house-intelligence-classified-uap-briefing",
+      "2022-05-17-house-intelligence-uap",
+      "2023-04-19-senate-aaro-oversight",
+      "2023-07-13-uap-disclosure-act-consideration",
+      "2023-07-26-house-oversight-uap",
+      "2024-01-12-house-uap-scif-briefing",
+      "2024-11-13-house-oversight-uap",
+      "2024-11-19-senate-aaro-update",
+      "2024-12-06-house-classified-aaro-briefing",
+      "2024-12-18-fy2025-ndaa-uap-provisions",
+      "2025-09-09-house-uap-transparency-hearing"
+    ],
+    "topics": [
+      "classification",
+      "congressional-oversight",
+      "government-transparency"
+    ],
+    "organizations": [
+      "house-intelligence-committee",
+      "department-of-defense",
+      "aaro",
+      "senate-armed-services-committee"
+    ]
+  },
+  "lastReviewed": "2026-07-10"
+}

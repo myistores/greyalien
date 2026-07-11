@@ -2,19 +2,39 @@
   "id": "2023-07-26-house-oversight-uap",
   "type": "hearing",
   "name": "July 26, 2023 House UAP Hearing",
-  "summary": "Public House Oversight hearing featuring David Grusch, Ryan Graves, and David Fravor",
+  "summary": "A public House hearing examining military and commercial aviation encounters with unidentified anomalous phenomena, federal handling and classification of UAP information, whistleblower protections, public safety, national security, and congressional oversight.",
   "relationships": [
     {
       "type": "held_by",
-      "target": "house-oversight-committee"
+      "target": "house-committee-oversight-accountability"
     },
     {
-      "type": "produced_document",
-      "target": "2023-house-uap-hearing-transcript"
+      "type": "held_by",
+      "target": "subcommittee-national-security-border-foreign-affairs"
     },
     {
-      "type": "discussed_topic",
-      "target": "government-transparency"
+      "type": "held_by",
+      "target": "americans-for-safe-aerospace"
+    },
+    {
+      "type": "held_by",
+      "target": "united-states-navy"
+    },
+    {
+      "type": "held_by",
+      "target": "department-of-defense"
+    },
+    {
+      "type": "held_by",
+      "target": "national-reconnaissance-office"
+    },
+    {
+      "type": "held_by",
+      "target": "uap-task-force"
+    },
+    {
+      "type": "held_by",
+      "target": "aaro"
     },
     {
       "type": "discussed_topic",
@@ -22,19 +42,31 @@
     },
     {
       "type": "discussed_topic",
+      "target": "government-transparency"
+    },
+    {
+      "type": "discussed_topic",
+      "target": "whistleblower-protection"
+    },
+    {
+      "type": "discussed_topic",
       "target": "classification"
     },
     {
+      "type": "discussed_topic",
+      "target": "crash-retrieval-claims"
+    },
+    {
+      "type": "discussed_topic",
+      "target": "reverse-engineering-claims"
+    },
+    {
       "type": "referenced_case",
-      "target": "2004-nimitz-encounter"
+      "target": "2004-nimitz-tic-tac"
     },
     {
-      "type": "included_claim",
-      "target": "claim-crash-retrieval-program"
-    },
-    {
-      "type": "followed_hearing",
-      "target": "2022-05-17-house-intelligence-uap"
+      "type": "referenced_case",
+      "target": "2014-2015-east-coast-navy-encounters"
     }
   ],
   "date": "2023-07-26"

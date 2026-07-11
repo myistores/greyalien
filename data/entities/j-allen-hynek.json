@@ -1,0 +1,20 @@
+{
+  "id": "j-allen-hynek",
+  "type": "person",
+  "name": "J. Allen Hynek",
+  "summary": "Astronomer and former Project Blue Book consultant",
+  "relationships": [
+    {
+      "type": "testified_at",
+      "target": "1966-04-05-house-ufo-hearing",
+      "role": "Witness or participant",
+      "date": "1966-04-05"
+    },
+    {
+      "type": "testified_at",
+      "target": "1968-07-29-house-ufo-symposium",
+      "role": "Witness or participant",
+      "date": "1968-07-29"
+    }
+  ]
+}

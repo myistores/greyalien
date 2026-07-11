@@ -1,0 +1,143 @@
+{
+  "schemaVersion": 1,
+  "id": "2024-11-19-senate-aaro-update",
+  "entityType": "hearing",
+  "title": "Activities of the All-Domain Anomaly Resolution Office",
+  "shortTitle": "November 19, 2024 Senate AARO Hearing",
+  "date": "2024-11-19",
+  "time": "4:30 p.m. ET",
+  "location": "SD-G50, Dirksen Senate Office Building",
+  "congress": "118th Congress",
+  "chamber": "U.S. Senate",
+  "committee": "Senate Committee on Armed Services",
+  "subcommittee": "Subcommittee on Emerging Threats and Capabilities",
+  "summary": "An open Senate hearing receiving an update on AARO's activities, priorities, case holdings, data collection, transparency, and unresolved reports.",
+  "whyItMatters": "The hearing documents AARO's transition to new leadership and creates a public comparison point with the April 2023 Senate AARO hearing.",
+  "editorialNote": "The official Senate hearing page, transcript, statement, and presentation are primary sources.",
+  "themes": [
+    "AARO oversight",
+    "UAP annual reporting",
+    "Case analysis",
+    "Reporting stigma",
+    "Sensor data",
+    "Transparency"
+  ],
+  "witnesses": [
+    {
+      "id": "jon-kosloski",
+      "name": "Jon T. Kosloski",
+      "roleAtHearing": "Director, All-domain Anomaly Resolution Office",
+      "background": "AARO director",
+      "claimStatus": "Government testimony",
+      "testimonySummary": "Kosloski described AARO's case holdings, analytic priorities, partnerships, reporting systems, and transparency efforts.",
+      "keyPoints": [
+        "AARO operations",
+        "Case resolution",
+        "Partnerships",
+        "Data collection",
+        "Transparency"
+      ],
+      "documents": [
+        {
+          "label": "Statement for the record",
+          "url": "https://www.aaro.mil/Portals/136/PDFs/Dr_Jon_Kosloski_Statement_for_the_Record_SASC_Open_Hearing_Nov2024.pdf",
+          "sourceType": "AARO"
+        }
+      ]
+    }
+  ],
+  "timeline": [
+    {
+      "date": "2024-11-19",
+      "label": "Open Senate hearing held at 4:30 p.m."
+    }
+  ],
+  "documents": [
+    {
+      "label": "Official hearing page",
+      "url": "https://www.armed-services.senate.gov/hearings/to-receive-testimony-on-the-activities-of-the-all-domain-anomaly-resolution-office",
+      "sourceType": "Senate Armed Services Committee"
+    },
+    {
+      "label": "Official transcript",
+      "url": "https://www.armed-services.senate.gov/download/11-19-24_-sub---transcript",
+      "sourceType": "Senate Armed Services Committee"
+    },
+    {
+      "label": "AARO congressional products",
+      "url": "https://www.aaro.mil/Congressional-Press-Products/",
+      "sourceType": "All-domain Anomaly Resolution Office"
+    }
+  ],
+  "evidenceProfile": {
+    "level": "Documented congressional record",
+    "summary": "This record is based on public congressional or government material. Classified details may remain unavailable.",
+    "items": [
+      {
+        "label": "Public event or official reference",
+        "status": "available"
+      },
+      {
+        "label": "Public supporting documents",
+        "status": "available"
+      },
+      {
+        "label": "Complete classified record",
+        "status": "limited"
+      }
+    ]
+  },
+  "relationships": {
+    "people": [
+      "jon-kosloski"
+    ],
+    "organizations": [
+      "senate-armed-services-committee",
+      "aaro",
+      "department-of-defense"
+    ],
+    "cases": [],
+    "topics": [
+      "government-transparency",
+      "classification",
+      "aviation-safety",
+      "uap-reporting-systems"
+    ]
+  },
+  "catalogCategories": [
+    "Dedicated public UAP hearings",
+    "Broader defense/intelligence hearings containing substantial UAP testimony"
+  ],
+  "navigation": {
+    "previous": "2024-11-13-house-oversight-uap",
+    "next": "2024-12-06-house-classified-aaro-briefing"
+  },
+  "sharedConnections": {
+    "with": [
+      "1966-04-05-house-ufo-hearing",
+      "2022-05-03-house-intelligence-classified-uap-briefing",
+      "2022-05-17-house-intelligence-uap",
+      "2023-04-19-senate-aaro-oversight",
+      "2023-07-13-uap-disclosure-act-consideration",
+      "2023-07-26-house-oversight-uap",
+      "2023-congressional-classified-aaro-briefings",
+      "2024-01-12-house-uap-scif-briefing",
+      "2024-11-13-house-oversight-uap",
+      "2024-12-06-house-classified-aaro-briefing",
+      "2024-12-18-fy2025-ndaa-uap-provisions",
+      "2025-09-09-house-uap-transparency-hearing"
+    ],
+    "topics": [
+      "classification",
+      "aviation-safety",
+      "uap-reporting-systems",
+      "government-transparency"
+    ],
+    "organizations": [
+      "department-of-defense",
+      "aaro",
+      "senate-armed-services-committee"
+    ]
+  },
+  "lastReviewed": "2026-07-10"
+}

@@ -1,17 +1,22 @@
-GREYALIEN VERSION 7.0
+GREYALIEN VERSION 8.0
+
+This release contains 15 congressional hearing / briefing / legislative / historical records.
 
 Deploy:
-1. Extract this ZIP.
-2. In the GitHub repository, choose Add file > Upload files.
-3. Drag all files and folders from the extracted package.
-4. Preserve all folders and replace existing files.
-5. Commit directly to main.
+1. Extract the ZIP.
+2. Open the myistores/greyalien GitHub repository.
+3. Choose Add file > Upload files.
+4. Drag all files and folders from the extracted package.
+5. Preserve the complete folder structure.
+6. Replace existing files when prompted.
+7. Commit directly to main.
 
 Suggested commit:
-Version 7.0 - Link hearing witnesses and add 2024 hearing
+Version 8.0 - Add congressional hearing master list
 
-Test after deployment:
-https://greyalien.com/hearings/hearing.html?id=2023-07-26-house-oversight-uap
-https://greyalien.com/hearings/hearing.html?id=2024-11-13-house-oversight-uap
-https://greyalien.com/entities/entity.html?id=luis-elizondo
-https://greyalien.com/entities/entity.html?id=tim-gallaudet
+After deployment, test:
+https://greyalien.com/categories/congressional-hearings.html
+https://greyalien.com/hearings/hearing.html?id=1966-04-05-house-ufo-hearing
+https://greyalien.com/hearings/hearing.html?id=2023-04-19-senate-aaro-oversight
+https://greyalien.com/hearings/hearing.html?id=2024-01-12-house-uap-scif-briefing
+https://greyalien.com/hearings/hearing.html?id=2025-09-09-house-uap-transparency-hearing

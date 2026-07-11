@@ -1,12 +1,14 @@
 # GreyAlien Changelog
 
-## Version 7.0
-- Made witness names on all hearing pages clickable links to their Person entity pages.
-- Added hover and keyboard-focus styling for witness links.
-- Added the November 13, 2024 House hearing, “Unidentified Anomalous Phenomena: Exposing the Truth.”
-- Added Person entity records for Luis Elizondo, Tim Gallaudet, Michael Gold, and Michael Shellenberger.
-- Updated hearing chronology, previous/next navigation, entity index, and sitemap.
-- No breadcrumb changes and no broader layout changes.
+## Version 8.0
+- Added every unique congressional event represented in the GreyAlien Congressional Hearings Master List.
+- Expanded the chronology from 3 to 15 records.
+- Added public hearings, classified briefing records, legislative-process records, and historical congressional proceedings.
+- Added known witnesses or participants where public information was available.
+- Added official or public source links where available.
+- Updated previous/next navigation, hearing index, shared connections, entity index, witness entity relationships, and sitemap.
+- Did not add a hearing-type field or change the hearing-page layout.
 
-## Version 6.0
-- Added Entity System 1.0 and the first connected test cluster.
+## Version 7.0
+- Linked witness names to Person entity pages.
+- Added the November 13, 2024 House UAP hearing.

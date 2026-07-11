@@ -3,11 +3,26 @@
   "type": "hearing",
   "name": "November 13, 2024 House UAP Hearing",
   "summary": "A joint House Oversight hearing examining government transparency, alleged secret UAP programs, aviation and maritime safety, scientific study, whistleblower concerns, and congressional access to UAP information.",
-  "date": "2024-11-13",
   "relationships": [
     {
       "type": "held_by",
       "target": "house-oversight-committee"
+    },
+    {
+      "type": "held_by",
+      "target": "department-of-defense"
+    },
+    {
+      "type": "held_by",
+      "target": "united-states-navy"
+    },
+    {
+      "type": "held_by",
+      "target": "nasa"
+    },
+    {
+      "type": "held_by",
+      "target": "aaro"
     },
     {
       "type": "discussed_topic",
@@ -22,8 +37,21 @@
       "target": "classification"
     },
     {
-      "type": "followed_hearing",
-      "target": "2023-07-26-house-oversight-uap"
+      "type": "discussed_topic",
+      "target": "whistleblower-protection"
+    },
+    {
+      "type": "discussed_topic",
+      "target": "scientific-investigation"
+    },
+    {
+      "type": "discussed_topic",
+      "target": "uap-disclosure-legislation"
+    },
+    {
+      "type": "referenced_case",
+      "target": "2015-go-fast-safety-of-flight"
     }
-  ]
+  ],
+  "date": "2024-11-13"
 }

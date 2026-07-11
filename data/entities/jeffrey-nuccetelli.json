@@ -1,0 +1,14 @@
+{
+  "id": "jeffrey-nuccetelli",
+  "type": "person",
+  "name": "Jeffrey Nuccetelli",
+  "summary": "Military veteran and UAP witness",
+  "relationships": [
+    {
+      "type": "testified_at",
+      "target": "2025-09-09-house-uap-transparency-hearing",
+      "role": "Witness or participant",
+      "date": "2025-09-09"
+    }
+  ]
+}

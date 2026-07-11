@@ -1,0 +1,14 @@
+{
+  "id": "alexandro-wiggins",
+  "type": "person",
+  "name": "Alexandro Wiggins",
+  "summary": "Active-duty U.S. Navy operations specialist",
+  "relationships": [
+    {
+      "type": "testified_at",
+      "target": "2025-09-09-house-uap-transparency-hearing",
+      "role": "Witness or participant",
+      "date": "2025-09-09"
+    }
+  ]
+}

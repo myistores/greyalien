@@ -205,22 +205,38 @@
     ]
   },
   "navigation": {
-    "previous": "2023-07-26-house-oversight-uap",
-    "next": null
+    "previous": "2024-01-12-house-uap-scif-briefing",
+    "next": "2024-11-19-senate-aaro-update"
   },
   "sharedConnections": {
     "with": [
+      "1966-04-05-house-ufo-hearing",
+      "1968-07-29-house-ufo-symposium",
+      "2022-05-03-house-intelligence-classified-uap-briefing",
       "2022-05-17-house-intelligence-uap",
-      "2023-07-26-house-oversight-uap"
+      "2023-04-19-senate-aaro-oversight",
+      "2023-07-13-uap-disclosure-act-consideration",
+      "2023-07-26-house-oversight-uap",
+      "2023-congressional-classified-aaro-briefings",
+      "2024-01-12-house-uap-scif-briefing",
+      "2024-11-19-senate-aaro-update",
+      "2024-12-06-house-classified-aaro-briefing",
+      "2024-12-18-fy2025-ndaa-uap-provisions"
     ],
     "topics": [
-      "government-transparency",
       "aviation-safety",
+      "uap-disclosure-legislation",
+      "government-transparency",
+      "scientific-investigation",
+      "whistleblower-protection",
       "classification"
     ],
     "organizations": [
-      "department-of-defense",
-      "united-states-navy"
+      "house-oversight-committee",
+      "nasa",
+      "aaro",
+      "united-states-navy",
+      "department-of-defense"
     ]
   },
   "lastReviewed": "2026-07-10"

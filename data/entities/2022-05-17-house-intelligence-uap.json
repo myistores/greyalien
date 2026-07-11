@@ -2,15 +2,35 @@
   "id": "2022-05-17-house-intelligence-uap",
   "type": "hearing",
   "name": "May 17, 2022 House Intelligence UAP Hearing",
-  "summary": "Open House Intelligence hearing on government UAP activities",
+  "summary": "An open hearing followed by a closed classified briefing on the Department of Defense and Intelligence Community response to unidentified aerial phenomena, including reporting, stigma, flight safety, national security, data collection, analysis, and the creation of AOIMSG.",
   "relationships": [
     {
       "type": "held_by",
-      "target": "house-intelligence-committee"
+      "target": "house-permanent-select-committee-intelligence"
     },
     {
-      "type": "produced_document",
-      "target": "2022-house-uap-hearing-transcript"
+      "type": "held_by",
+      "target": "subcommittee-counterterrorism-counterintelligence-counterproliferation"
+    },
+    {
+      "type": "held_by",
+      "target": "department-of-defense"
+    },
+    {
+      "type": "held_by",
+      "target": "office-director-national-intelligence"
+    },
+    {
+      "type": "held_by",
+      "target": "united-states-navy"
+    },
+    {
+      "type": "held_by",
+      "target": "uap-task-force"
+    },
+    {
+      "type": "held_by",
+      "target": "aoimsg"
     },
     {
       "type": "discussed_topic",
@@ -23,6 +43,23 @@
     {
       "type": "discussed_topic",
       "target": "classification"
+    },
+    {
+      "type": "discussed_topic",
+      "target": "uap-reporting-systems"
+    },
+    {
+      "type": "discussed_topic",
+      "target": "stigma-reduction"
+    },
+    {
+      "type": "discussed_topic",
+      "target": "sensor-analysis"
+    },
+    {
+      "type": "discussed_topic",
+      "target": "foreign-adversary-technology"
     }
-  ]
+  ],
+  "date": "2022-05-17"
 }

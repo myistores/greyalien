@@ -32,7 +32,7 @@
       "roleAtHearing": "Under Secretary of Defense for Intelligence and Security",
       "background": "Senior Department of Defense intelligence official",
       "claimStatus": "Government testimony",
-      "testimonySummary": "Moultrie described the Department\u2019s effort to create a standardized, data-driven process for collecting, analyzing, identifying, and mitigating UAP reports while balancing transparency with protection of sensitive sources and methods.",
+      "testimonySummary": "Moultrie described the Department’s effort to create a standardized, data-driven process for collecting, analyzing, identifying, and mitigating UAP reports while balancing transparency with protection of sensitive sources and methods.",
       "keyPoints": [
         "He described UAP as airborne objects that cannot be immediately identified.",
         "He said the Department was establishing a dedicated office to coordinate collection, analysis, reporting, and mitigation.",
@@ -52,7 +52,7 @@
       "roleAtHearing": "Deputy Director of Naval Intelligence",
       "background": "Senior U.S. Navy intelligence official",
       "claimStatus": "Government testimony",
-      "testimonySummary": "Bray described the UAP Task Force\u2019s reporting and analysis work, increased reporting from military personnel, flight-safety and security concerns, sensor limitations, and efforts to move from anecdotal reports toward a rigorous scientific and technical process.",
+      "testimonySummary": "Bray described the UAP Task Force’s reporting and analysis work, increased reporting from military personnel, flight-safety and security concerns, sensor limitations, and efforts to move from anecdotal reports toward a rigorous scientific and technical process.",
       "keyPoints": [
         "He testified that reports in military training areas were frequent and continuing.",
         "He linked increased reporting to destigmatization, improved sensors, unmanned systems, clutter, and standardized procedures.",
@@ -97,7 +97,7 @@
       "sourceType": "U.S. House of Representatives"
     },
     {
-      "label": "Chairman Andr\u00e9 Carson opening statement",
+      "label": "Chairman André Carson opening statement",
       "url": "https://docs.house.gov/meetings/IG/IG05/20220517/114761/HHRG-117-IG05-MState-C001072-20220517.pdf",
       "sourceType": "Official member statement"
     },
@@ -171,23 +171,41 @@
     ]
   },
   "navigation": {
-    "previous": null,
-    "next": "2023-07-26-house-oversight-uap"
+    "previous": "2022-05-03-house-intelligence-classified-uap-briefing",
+    "next": "2023-04-19-senate-aaro-oversight"
   },
   "sharedConnections": {
     "with": [
-      "2023-07-26-house-oversight-uap"
+      "1966-04-05-house-ufo-hearing",
+      "2022-05-03-house-intelligence-classified-uap-briefing",
+      "2023-04-19-senate-aaro-oversight",
+      "2023-07-13-uap-disclosure-act-consideration",
+      "2023-07-26-house-oversight-uap",
+      "2023-congressional-classified-aaro-briefings",
+      "2024-01-12-house-uap-scif-briefing",
+      "2024-11-13-house-oversight-uap",
+      "2024-11-19-senate-aaro-update",
+      "2024-12-06-house-classified-aaro-briefing",
+      "2024-12-18-fy2025-ndaa-uap-provisions",
+      "2025-09-09-house-uap-transparency-hearing"
     ],
     "topics": [
       "aviation-safety",
+      "stigma-reduction",
+      "uap-reporting-systems",
       "government-transparency",
       "classification",
-      "uap-reporting-systems"
+      "foreign-adversary-technology",
+      "sensor-analysis"
     ],
     "organizations": [
-      "department-of-defense",
+      "uap-task-force",
+      "aoimsg",
+      "office-director-national-intelligence",
+      "house-permanent-select-committee-intelligence",
+      "subcommittee-counterterrorism-counterintelligence-counterproliferation",
       "united-states-navy",
-      "uap-task-force"
+      "department-of-defense"
     ]
   },
   "lastReviewed": "2026-07-09"

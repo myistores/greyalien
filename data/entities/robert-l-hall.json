@@ -1,0 +1,14 @@
+{
+  "id": "robert-l-hall",
+  "type": "person",
+  "name": "Robert L. Hall",
+  "summary": "Sociologist",
+  "relationships": [
+    {
+      "type": "testified_at",
+      "target": "1968-07-29-house-ufo-symposium",
+      "role": "Witness or participant",
+      "date": "1968-07-29"
+    }
+  ]
+}

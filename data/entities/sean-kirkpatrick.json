@@ -1,0 +1,20 @@
+{
+  "id": "sean-kirkpatrick",
+  "type": "person",
+  "name": "Sean M. Kirkpatrick",
+  "summary": "AARO director during 2023",
+  "relationships": [
+    {
+      "type": "testified_at",
+      "target": "2023-04-19-senate-aaro-oversight",
+      "role": "Witness or participant",
+      "date": "2023-04-19"
+    },
+    {
+      "type": "testified_at",
+      "target": "2023-congressional-classified-aaro-briefings",
+      "role": "Witness or participant",
+      "date": "2023-12-31"
+    }
+  ]
+}

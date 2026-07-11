@@ -2,6 +2,51 @@
   "schemaVersion": 1,
   "hearings": [
     {
+      "id": "1966-04-05-house-ufo-hearing",
+      "date": "1966-04-05",
+      "shortTitle": "April 5, 1966 House UFO Hearing",
+      "title": "Unidentified Flying Objects",
+      "congress": "89th Congress",
+      "chamber": "U.S. House of Representatives",
+      "summary": "A House Armed Services hearing addressing unidentified flying objects and the Air Force investigation program during the period of the Michigan sightings.",
+      "witnessCount": 3,
+      "witnesses": [
+        "Harold Brown",
+        "Major Hector Quintanilla",
+        "J. Allen Hynek"
+      ]
+    },
+    {
+      "id": "1968-07-29-house-ufo-symposium",
+      "date": "1968-07-29",
+      "shortTitle": "July 29, 1968 House UFO Symposium",
+      "title": "Symposium on Unidentified Flying Objects",
+      "congress": "90th Congress",
+      "chamber": "U.S. House of Representatives",
+      "summary": "A congressional scientific symposium presenting testimony and prepared material on UFO reports, research methods, physical evidence, and possible explanations.",
+      "witnessCount": 4,
+      "witnesses": [
+        "James E. McDonald",
+        "J. Allen Hynek",
+        "Carl Sagan",
+        "Robert L. Hall"
+      ]
+    },
+    {
+      "id": "2022-05-03-house-intelligence-classified-uap-briefing",
+      "date": "2022-05-03",
+      "shortTitle": "May 3, 2022 Classified UAP Briefing",
+      "title": "Pre-Hearing Classified UAP Briefing",
+      "congress": "117th Congress",
+      "chamber": "U.S. House of Representatives",
+      "summary": "A classified congressional briefing held before the May 17, 2022 public hearing on unidentified aerial phenomena.",
+      "witnessCount": 2,
+      "witnesses": [
+        "Ronald S. Moultrie",
+        "Scott W. Bray"
+      ]
+    },
+    {
       "id": "2022-05-17-house-intelligence-uap",
       "date": "2022-05-17",
       "shortTitle": "May 17, 2022 House Intelligence UAP Hearing",
@@ -14,6 +59,30 @@
         "Ronald S. Moultrie",
         "Scott W. Bray"
       ]
+    },
+    {
+      "id": "2023-04-19-senate-aaro-oversight",
+      "date": "2023-04-19",
+      "shortTitle": "April 19, 2023 Senate AARO Hearing",
+      "title": "Mission, Activities, Oversight, and Budget of the All-Domain Anomaly Resolution Office",
+      "congress": "118th Congress",
+      "chamber": "U.S. Senate",
+      "summary": "An open Senate hearing examining AARO's mission, activities, oversight, budget, reporting process, and analysis of UAP cases.",
+      "witnessCount": 1,
+      "witnesses": [
+        "Sean M. Kirkpatrick"
+      ]
+    },
+    {
+      "id": "2023-07-13-uap-disclosure-act-consideration",
+      "date": "2023-07-13",
+      "shortTitle": "July 13, 2023 UAP Disclosure Act Action",
+      "title": "UAP Disclosure Act of 2023 — Congressional Consideration",
+      "congress": "118th Congress",
+      "chamber": "U.S. Congress",
+      "summary": "Congressional consideration of UAP disclosure provisions proposed for the Fiscal Year 2024 defense and intelligence authorization process.",
+      "witnessCount": 0,
+      "witnesses": []
     },
     {
       "id": "2023-07-26-house-oversight-uap",
@@ -31,6 +100,35 @@
       ]
     },
     {
+      "id": "2023-congressional-classified-aaro-briefings",
+      "date": "2023-12-31",
+      "shortTitle": "2023 Classified AARO Briefings",
+      "title": "Congressional Classified AARO Briefings During 2023",
+      "congress": "118th Congress",
+      "chamber": "U.S. Congress",
+      "summary": "An aggregate research record for publicly acknowledged classified AARO briefings to authorized congressional committees during 2023.",
+      "witnessCount": 1,
+      "witnesses": [
+        "Sean M. Kirkpatrick"
+      ]
+    },
+    {
+      "id": "2024-01-12-house-uap-scif-briefing",
+      "date": "2024-01-12",
+      "shortTitle": "January 12, 2024 House SCIF Briefing",
+      "title": "House Classified UAP Briefing",
+      "congress": "118th Congress",
+      "chamber": "U.S. House of Representatives",
+      "summary": "A closed briefing concerning UAP whistleblower allegations and congressional access to information held by the intelligence community.",
+      "witnessCount": 4,
+      "witnesses": [
+        "Tim Burchett",
+        "Anna Paulina Luna",
+        "Jared Moskowitz",
+        "Eric Burlison"
+      ]
+    },
+    {
       "id": "2024-11-13-house-oversight-uap",
       "date": "2024-11-13",
       "shortTitle": "November 13, 2024 House UAP Hearing",
@@ -45,6 +143,71 @@
         "Michael Gold",
         "Michael Shellenberger"
       ]
+    },
+    {
+      "id": "2024-11-19-senate-aaro-update",
+      "date": "2024-11-19",
+      "shortTitle": "November 19, 2024 Senate AARO Hearing",
+      "title": "Activities of the All-Domain Anomaly Resolution Office",
+      "congress": "118th Congress",
+      "chamber": "U.S. Senate",
+      "summary": "An open Senate hearing receiving an update on AARO's activities, priorities, case holdings, data collection, transparency, and unresolved reports.",
+      "witnessCount": 1,
+      "witnesses": [
+        "Jon T. Kosloski"
+      ]
+    },
+    {
+      "id": "2024-12-06-house-classified-aaro-briefing",
+      "date": "2024-12-06",
+      "shortTitle": "December 6, 2024 Classified AARO Briefing",
+      "title": "Congressional Classified AARO Briefing During 2024",
+      "congress": "118th Congress",
+      "chamber": "U.S. House of Representatives",
+      "summary": "A classified briefing involving AARO Director Jon Kosloski and House Oversight members following the November 2024 public hearings.",
+      "witnessCount": 1,
+      "witnesses": [
+        "Jon T. Kosloski"
+      ]
+    },
+    {
+      "id": "2024-12-18-fy2025-ndaa-uap-provisions",
+      "date": "2024-12-18",
+      "shortTitle": "December 18, 2024 FY2025 NDAA Action",
+      "title": "Fiscal Year 2025 NDAA — UAP-Related Congressional Action",
+      "congress": "118th Congress",
+      "chamber": "U.S. Congress",
+      "summary": "A research record for UAP-related provisions and proposals considered during the Fiscal Year 2025 National Defense Authorization Act process.",
+      "witnessCount": 0,
+      "witnesses": []
+    },
+    {
+      "id": "2025-09-09-house-uap-transparency-hearing",
+      "date": "2025-09-09",
+      "shortTitle": "September 9, 2025 House UAP Hearing",
+      "title": "Restoring Public Trust Through UAP Transparency and Whistleblower Protection",
+      "congress": "119th Congress",
+      "chamber": "U.S. House of Representatives",
+      "summary": "A public hearing examining UAP disclosure, AARO and intelligence-community transparency, witness accounts, and protections for national-security whistleblowers.",
+      "witnessCount": 5,
+      "witnesses": [
+        "Jeffrey Nuccetelli",
+        "Alexandro Wiggins",
+        "George Knapp",
+        "Dylan Borland",
+        "Joe Spielberger"
+      ]
+    },
+    {
+      "id": "2025-12-18-fy2026-ndaa-uap-provisions",
+      "date": "2025-12-18",
+      "shortTitle": "December 18, 2025 FY2026 NDAA Action",
+      "title": "Fiscal Year 2026 NDAA — UAP-Related Congressional Action",
+      "congress": "119th Congress",
+      "chamber": "U.S. Congress",
+      "summary": "A research record for UAP-related provisions, reporting requirements, and oversight proposals considered during the Fiscal Year 2026 NDAA process.",
+      "witnessCount": 0,
+      "witnesses": []
     }
   ]
 }

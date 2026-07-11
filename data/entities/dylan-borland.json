@@ -1,0 +1,14 @@
+{
+  "id": "dylan-borland",
+  "type": "person",
+  "name": "Dylan Borland",
+  "summary": "Former Air Force service member",
+  "relationships": [
+    {
+      "type": "testified_at",
+      "target": "2025-09-09-house-uap-transparency-hearing",
+      "role": "Witness or participant",
+      "date": "2025-09-09"
+    }
+  ]
+}
