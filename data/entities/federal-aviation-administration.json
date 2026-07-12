@@ -1,0 +1,12 @@
+{
+  "id": "federal-aviation-administration",
+  "type": "organization",
+  "name": "Federal Aviation Administration",
+  "summary": "U.S. civil aviation authority responsible for aviation safety, airspace management, and regulatory policy.",
+  "relationships": [
+    {
+      "type": "addressed_topic",
+      "target": "aviation-safety"
+    }
+  ]
+}

@@ -106,6 +106,13 @@
       "date": ""
     },
     {
+      "id": "2023-nasa-uap-independent-study-report",
+      "type": "document",
+      "name": "NASA UAP Independent Study Team Report",
+      "summary": "Final report of NASA's UAP Independent Study Team, released in September 2023.",
+      "date": ""
+    },
+    {
       "id": "2023-house-uap-hearing-transcript",
       "type": "document",
       "name": "Official July 2023 Hearing Transcript",
@@ -267,6 +274,13 @@
       "date": ""
     },
     {
+      "id": "federal-aviation-administration",
+      "type": "organization",
+      "name": "Federal Aviation Administration",
+      "summary": "U.S. civil aviation authority responsible for aviation safety, airspace management, and regulatory policy.",
+      "date": ""
+    },
+    {
       "id": "house-armed-services-committee",
       "type": "organization",
       "name": "House Committee on Armed Services",
@@ -313,6 +327,13 @@
       "type": "organization",
       "name": "NASA",
       "summary": "The United States civil space agency.",
+      "date": ""
+    },
+    {
+      "id": "nasa-uap-independent-study-team",
+      "type": "organization",
+      "name": "NASA UAP Independent Study Team",
+      "summary": "Independent multidisciplinary team commissioned by NASA to examine how civilian government data and scientific methods could contribute to UAP research.",
       "date": ""
     },
     {
@@ -414,6 +435,13 @@
       "date": ""
     },
     {
+      "id": "anamaria-berea",
+      "type": "person",
+      "name": "Anamaria Berea",
+      "summary": "Computational and data scientist who served on NASA's UAP Independent Study Team.",
+      "date": ""
+    },
+    {
       "id": "anna-paulina-luna",
       "type": "person",
       "name": "Anna Paulina Luna",
@@ -456,10 +484,24 @@
       "date": ""
     },
     {
+      "id": "david-grinspoon",
+      "type": "person",
+      "name": "David Grinspoon",
+      "summary": "Astrobiologist and planetary scientist who served on NASA's UAP Independent Study Team.",
+      "date": ""
+    },
+    {
       "id": "david-grusch",
       "type": "person",
       "name": "David Grusch",
       "summary": "Former U.S. intelligence officer who testified publicly before Congress in July 2023",
+      "date": ""
+    },
+    {
+      "id": "david-spergel",
+      "type": "person",
+      "name": "David Spergel",
+      "summary": "Astrophysicist who chaired NASA's UAP Independent Study Team.",
       "date": ""
     },
     {
@@ -481,6 +523,13 @@
       "type": "person",
       "name": "Eric Burlison",
       "summary": "U.S. Representative from Missouri",
+      "date": ""
+    },
+    {
+      "id": "federica-bianco",
+      "type": "person",
+      "name": "Federica Bianco",
+      "summary": "Astrophysicist and data-science specialist who served on NASA's UAP Independent Study Team.",
       "date": ""
     },
     {
@@ -540,6 +589,13 @@
       "date": ""
     },
     {
+      "id": "jason-turner",
+      "type": "person",
+      "name": "Jason Turner",
+      "summary": "Former USS Princeton crew member who has publicly described viewing a longer version of video associated with the 2004 Nimitz encounter.",
+      "date": ""
+    },
+    {
       "id": "jay-stratton",
       "type": "person",
       "name": "Jay Stratton",
@@ -589,10 +645,31 @@
       "date": ""
     },
     {
+      "id": "joshua-semeter",
+      "type": "person",
+      "name": "Joshua Semeter",
+      "summary": "Professor and atmospheric-sensing specialist who served on NASA's UAP Independent Study Team.",
+      "date": ""
+    },
+    {
       "id": "karl-nell",
       "type": "person",
       "name": "Karl Nell",
       "summary": "Retired U.S. Army colonel, aerospace executive, and public advocate for greater government disclosure concerning UAP.",
+      "date": ""
+    },
+    {
+      "id": "karlin-toner",
+      "type": "person",
+      "name": "Karlin Toner",
+      "summary": "Federal Aviation Administration policy official who served on NASA's UAP Independent Study Team.",
+      "date": ""
+    },
+    {
+      "id": "karson-kammerzell",
+      "type": "person",
+      "name": "Karson Kammerzell",
+      "summary": "Former U.S. Navy cryptologic technician associated with shipboard records and communications connected to the 2004 Nimitz encounter.",
       "date": ""
     },
     {
@@ -638,6 +715,13 @@
       "date": ""
     },
     {
+      "id": "patrick-pj-hughes",
+      "type": "person",
+      "name": "Patrick “P.J.” Hughes",
+      "summary": "Former U.S. Navy E-2 Hawkeye crew member associated with recording media and post-event activity following the 2004 Nimitz encounter.",
+      "date": ""
+    },
+    {
       "id": "robert-jacobs",
       "type": "person",
       "name": "Robert Jacobs",
@@ -673,6 +757,20 @@
       "date": ""
     },
     {
+      "id": "ryan-weigelt",
+      "type": "person",
+      "name": "Ryan Weigelt",
+      "summary": "Former U.S. Navy helicopter crew member connected to post-event activity during the 2004 Nimitz encounter.",
+      "date": ""
+    },
+    {
+      "id": "scott-kelly",
+      "type": "person",
+      "name": "Scott Kelly",
+      "summary": "Retired NASA astronaut and former U.S. Navy aviator who served on NASA's UAP Independent Study Team.",
+      "date": ""
+    },
+    {
       "id": "scott-bray",
       "type": "person",
       "name": "Scott W. Bray",
@@ -687,6 +785,13 @@
       "date": ""
     },
     {
+      "id": "shelley-wright",
+      "type": "person",
+      "name": "Shelley Wright",
+      "summary": "Astronomer and instrumentation specialist who served on NASA's UAP Independent Study Team.",
+      "date": ""
+    },
+    {
       "id": "tim-burchett",
       "type": "person",
       "name": "Tim Burchett",
@@ -698,6 +803,13 @@
       "type": "person",
       "name": "Tim Gallaudet",
       "summary": "Retired U.S. Navy rear admiral and former NOAA official who testified about aviation and maritime safety.",
+      "date": ""
+    },
+    {
+      "id": "warren-randolph",
+      "type": "person",
+      "name": "Warren Randolph",
+      "summary": "Federal Aviation Administration specialist who served on NASA's UAP Independent Study Team.",
       "date": ""
     },
     {
@@ -727,6 +839,13 @@
       "name": "July 2023 UAP Hearing Held",
       "summary": "House Oversight subcommittee held a public UAP hearing",
       "date": "2023-07-26"
+    },
+    {
+      "id": "2023-05-31-nasa-uap-public-meeting",
+      "type": "timeline_event",
+      "name": "NASA UAP Independent Study Public Meeting",
+      "summary": "NASA held a public meeting of its UAP Independent Study Team on May 31, 2023.",
+      "date": "2023-05-31"
     },
     {
       "id": "aviation-safety",
