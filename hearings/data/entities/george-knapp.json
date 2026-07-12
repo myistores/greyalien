@@ -1,0 +1,14 @@
+{
+  "id": "george-knapp",
+  "type": "person",
+  "name": "George Knapp",
+  "summary": "Investigative journalist",
+  "relationships": [
+    {
+      "type": "testified_at",
+      "target": "2025-09-09-house-uap-transparency-hearing",
+      "role": "Witness or participant",
+      "date": "2025-09-09"
+    }
+  ]
+}

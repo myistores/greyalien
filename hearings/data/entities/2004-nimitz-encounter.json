@@ -1,0 +1,25 @@
+{
+  "id": "2004-nimitz-encounter",
+  "type": "case",
+  "name": "2004 Nimitz Encounter",
+  "summary": "November 2004 observations and sensor detections involving the USS Nimitz carrier strike group",
+  "relationships": [
+    {
+      "type": "involved_person",
+      "target": "david-fravor"
+    },
+    {
+      "type": "involved_organization",
+      "target": "united-states-navy"
+    },
+    {
+      "type": "associated_topic",
+      "target": "aviation-safety"
+    },
+    {
+      "type": "discussed_in_interview",
+      "target": "2020-lex-fridman-fravor-interview"
+    }
+  ],
+  "date": "2004-11-14"
+}

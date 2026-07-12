@@ -1,0 +1,12 @@
+{
+  "id": "department-of-defense",
+  "type": "organization",
+  "name": "U.S. Department of Defense",
+  "summary": "Federal executive department responsible for U.S. national security",
+  "relationships": [
+    {
+      "type": "responded_to_claim",
+      "target": "claim-crash-retrieval-program"
+    }
+  ]
+}

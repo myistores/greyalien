@@ -1,0 +1,169 @@
+{
+  "schemaVersion": 1,
+  "id": "2024-01-12-house-uap-scif-briefing",
+  "entityType": "hearing",
+  "title": "House Classified UAP Briefing",
+  "shortTitle": "January 12, 2024 House SCIF Briefing",
+  "date": "2024-01-12",
+  "time": "Closed session",
+  "location": "Office of House Security, Washington, D.C.",
+  "congress": "118th Congress",
+  "chamber": "U.S. House of Representatives",
+  "committee": "House Oversight Committee members",
+  "subcommittee": "Classified briefing by the Intelligence Community Inspector General",
+  "summary": "A closed briefing concerning UAP whistleblower allegations and congressional access to information held by the intelligence community.",
+  "whyItMatters": "The briefing produced public comments from lawmakers and is a useful research node even though the classified content remains unavailable.",
+  "editorialNote": "No public transcript exists. Publicly reported attendance and post-briefing comments should be treated as the available record.",
+  "themes": [
+    "Classified oversight",
+    "Whistleblower allegations",
+    "Intelligence Community Inspector General",
+    "Congressional access",
+    "Government transparency"
+  ],
+  "witnesses": [
+    {
+      "id": "tim-burchett",
+      "name": "Tim Burchett",
+      "roleAtHearing": "Member of Congress / attendee",
+      "background": "U.S. Representative from Tennessee",
+      "claimStatus": "Publicly reported attendee",
+      "testimonySummary": "Burchett publicly discussed the briefing afterward and continued to press for disclosure.",
+      "keyPoints": [
+        "Congressional access",
+        "Public transparency"
+      ],
+      "documents": []
+    },
+    {
+      "id": "anna-paulina-luna",
+      "name": "Anna Paulina Luna",
+      "roleAtHearing": "Member of Congress / attendee",
+      "background": "U.S. Representative from Florida",
+      "claimStatus": "Publicly reported attendee",
+      "testimonySummary": "Luna participated in congressional UAP oversight and public discussion surrounding the briefing.",
+      "keyPoints": [
+        "Oversight",
+        "Declassification"
+      ],
+      "documents": []
+    },
+    {
+      "id": "jared-moskowitz",
+      "name": "Jared Moskowitz",
+      "roleAtHearing": "Member of Congress / attendee",
+      "background": "U.S. Representative from Florida",
+      "claimStatus": "Publicly reported attendee",
+      "testimonySummary": "Moskowitz participated in bipartisan congressional UAP oversight.",
+      "keyPoints": [
+        "Oversight",
+        "Government transparency"
+      ],
+      "documents": []
+    },
+    {
+      "id": "eric-burlison",
+      "name": "Eric Burlison",
+      "roleAtHearing": "Member of Congress / attendee",
+      "background": "U.S. Representative from Missouri",
+      "claimStatus": "Publicly reported attendee",
+      "testimonySummary": "Burlison participated in congressional UAP oversight and publicly discussed access to information.",
+      "keyPoints": [
+        "Oversight",
+        "Classified information"
+      ],
+      "documents": []
+    }
+  ],
+  "timeline": [
+    {
+      "date": "2023-08-21",
+      "label": "Members requested information from the Intelligence Community Inspector General"
+    },
+    {
+      "date": "2024-01-12",
+      "label": "Classified briefing held"
+    }
+  ],
+  "documents": [
+    {
+      "label": "Advance report of briefing",
+      "url": "https://www.axios.com/2024/01/02/ufo-briefing-classified-house-members",
+      "sourceType": "Axios"
+    },
+    {
+      "label": "Post-briefing report",
+      "url": "https://www.cbsnews.com/news/uap-ufo-briefing-house-inspector-general-intelligence-community/",
+      "sourceType": "CBS News"
+    }
+  ],
+  "evidenceProfile": {
+    "level": "Documented congressional record",
+    "summary": "This record is based on public congressional or government material. Classified details may remain unavailable.",
+    "items": [
+      {
+        "label": "Public event or official reference",
+        "status": "available"
+      },
+      {
+        "label": "Public supporting documents",
+        "status": "available"
+      },
+      {
+        "label": "Complete classified record",
+        "status": "limited"
+      }
+    ]
+  },
+  "relationships": {
+    "people": [
+      "tim-burchett",
+      "anna-paulina-luna",
+      "jared-moskowitz",
+      "eric-burlison"
+    ],
+    "organizations": [
+      "house-oversight-committee",
+      "intelligence-community-inspector-general"
+    ],
+    "cases": [],
+    "topics": [
+      "classification",
+      "government-transparency",
+      "whistleblower-protection"
+    ]
+  },
+  "catalogCategories": [
+    "Closed or classified briefings"
+  ],
+  "navigation": {
+    "previous": "2023-congressional-classified-aaro-briefings",
+    "next": "2024-11-13-house-oversight-uap"
+  },
+  "sharedConnections": {
+    "with": [
+      "1966-04-05-house-ufo-hearing",
+      "2022-05-03-house-intelligence-classified-uap-briefing",
+      "2022-05-17-house-intelligence-uap",
+      "2023-04-19-senate-aaro-oversight",
+      "2023-07-13-uap-disclosure-act-consideration",
+      "2023-07-26-house-oversight-uap",
+      "2023-congressional-classified-aaro-briefings",
+      "2024-11-13-house-oversight-uap",
+      "2024-11-19-senate-aaro-update",
+      "2024-12-06-house-classified-aaro-briefing",
+      "2024-12-18-fy2025-ndaa-uap-provisions",
+      "2025-09-09-house-uap-transparency-hearing"
+    ],
+    "topics": [
+      "classification",
+      "whistleblower-protection",
+      "government-transparency"
+    ],
+    "organizations": [
+      "intelligence-community-inspector-general",
+      "house-oversight-committee"
+    ]
+  },
+  "lastReviewed": "2026-07-10"
+}

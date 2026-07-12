@@ -1,0 +1,24 @@
+{
+  "id": "nasa-uap-independent-study-team",
+  "type": "organization",
+  "name": "NASA UAP Independent Study Team",
+  "summary": "Independent multidisciplinary team commissioned by NASA to examine how civilian government data and scientific methods could contribute to UAP research.",
+  "relationships": [
+    {
+      "type": "published_document",
+      "target": "2023-nasa-uap-independent-study-report"
+    },
+    {
+      "type": "addressed_topic",
+      "target": "scientific-investigation"
+    },
+    {
+      "type": "addressed_topic",
+      "target": "aviation-safety"
+    },
+    {
+      "type": "addressed_topic",
+      "target": "uap-reporting-systems"
+    }
+  ]
+}

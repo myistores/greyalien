@@ -1,0 +1,20 @@
+{
+  "id": "jon-kosloski",
+  "type": "person",
+  "name": "Jon T. Kosloski",
+  "summary": "AARO director",
+  "relationships": [
+    {
+      "type": "testified_at",
+      "target": "2024-11-19-senate-aaro-update",
+      "role": "Witness or participant",
+      "date": "2024-11-19"
+    },
+    {
+      "type": "testified_at",
+      "target": "2024-12-06-house-classified-aaro-briefing",
+      "role": "Witness or participant",
+      "date": "2024-12-06"
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "id": "jim-slaight",
+  "type": "person",
+  "name": "Jim Slaight",
+  "summary": "Former U.S. Navy weapons-systems officer who participated in the 2004 Nimitz interception.",
+  "relationships": [
+    {
+      "type": "reported_case",
+      "target": "2004-nimitz-encounter"
+    },
+    {
+      "type": "affiliated_with",
+      "target": "united-states-navy",
+      "role": "Former weapons-systems officer"
+    }
+  ],
+  "profileStatus": "Firsthand military witness",
+  "profileSummary": "Former U.S. Navy weapons-systems officer who participated in the 2004 Nimitz interception.",
+  "background": "Former U.S. Navy weapons-systems officer in the aircraft flown by Alex Dietrich.",
+  "inclusionNote": "Included to represent the full aircrew involved in the visual interception and strengthen the firsthand witness record.",
+  "primarySourceLinks": [
+    {
+      "label": "Account of the Navy aircrew encounter",
+      "url": "https://www.space.com/39147-navy-pilots-ufo-sightings.html",
+      "sourceType": "Space.com"
+    }
+  ]
+}

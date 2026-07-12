@@ -1,0 +1,37 @@
+{
+  "id": "2023-congressional-classified-aaro-briefings",
+  "type": "hearing",
+  "name": "2023 Classified AARO Briefings",
+  "summary": "An aggregate research record for publicly acknowledged classified AARO briefings to authorized congressional committees during 2023.",
+  "relationships": [
+    {
+      "type": "held_by",
+      "target": "aaro"
+    },
+    {
+      "type": "held_by",
+      "target": "senate-armed-services-committee"
+    },
+    {
+      "type": "held_by",
+      "target": "house-intelligence-committee"
+    },
+    {
+      "type": "held_by",
+      "target": "department-of-defense"
+    },
+    {
+      "type": "discussed_topic",
+      "target": "classification"
+    },
+    {
+      "type": "discussed_topic",
+      "target": "government-transparency"
+    },
+    {
+      "type": "discussed_topic",
+      "target": "congressional-oversight"
+    }
+  ],
+  "date": "2023-12-31"
+}

@@ -1,0 +1,28 @@
+{
+  "id": "joshua-semeter",
+  "type": "person",
+  "name": "Joshua Semeter",
+  "summary": "Professor and atmospheric-sensing specialist who served on NASA's UAP Independent Study Team.",
+  "relationships": [
+    {
+      "type": "affiliated_with",
+      "target": "nasa-uap-independent-study-team",
+      "role": "Study-team member"
+    },
+    {
+      "type": "authored",
+      "target": "2023-nasa-uap-independent-study-report"
+    }
+  ],
+  "profileStatus": "NASA independent-study member",
+  "profileSummary": "Professor and atmospheric-sensing specialist who served on NASA's UAP Independent Study Team.",
+  "background": "Professor of electrical and computer engineering and director of Boston University's Center for Space Physics.",
+  "inclusionNote": "Included because NASA appointed him to provide expertise in atmospheric sensing, remote observation, and data interpretation.",
+  "primarySourceLinks": [
+    {
+      "label": "NASA announces UAP study-team members",
+      "url": "https://www.nasa.gov/general/nasa-announces-unidentified-aerial-phenomena-study-team-members/",
+      "sourceType": "NASA"
+    }
+  ]
+}

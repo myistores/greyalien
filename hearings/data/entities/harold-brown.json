@@ -1,0 +1,14 @@
+{
+  "id": "harold-brown",
+  "type": "person",
+  "name": "Harold Brown",
+  "summary": "Senior U.S. Air Force official",
+  "relationships": [
+    {
+      "type": "testified_at",
+      "target": "1966-04-05-house-ufo-hearing",
+      "role": "Witness or participant",
+      "date": "1966-04-05"
+    }
+  ]
+}

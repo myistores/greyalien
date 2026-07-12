@@ -1,0 +1,34 @@
+{
+  "id": "2024-elizondo-written-testimony",
+  "type": "document",
+  "name": "Luis Elizondo Written Testimony",
+  "summary": "Written testimony submitted for the November 13, 2024 House UAP hearing.",
+  "relationships": [
+    {
+      "type": "references_person",
+      "target": "luis-elizondo"
+    },
+    {
+      "type": "references_hearing",
+      "target": "2024-11-13-house-oversight-uap"
+    },
+    {
+      "type": "references_topic",
+      "target": "government-transparency"
+    },
+    {
+      "type": "references_topic",
+      "target": "whistleblower-protection"
+    },
+    {
+      "type": "contains_claim",
+      "target": "claim-secret-uap-programs"
+    },
+    {
+      "type": "contains_claim",
+      "target": "claim-whistleblower-retaliation"
+    }
+  ],
+  "status": "Official House document",
+  "externalUrl": "https://oversight.house.gov/wp-content/uploads/2024/11/Written-Testimony-Elizondo.pdf"
+}

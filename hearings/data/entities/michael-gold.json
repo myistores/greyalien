@@ -1,0 +1,19 @@
+{
+  "id": "michael-gold",
+  "type": "person",
+  "name": "Michael Gold",
+  "summary": "Former NASA space-policy official and member of NASA’s UAP Independent Study Team.",
+  "relationships": [
+    {
+      "type": "testified_at",
+      "target": "2024-11-13-house-oversight-uap",
+      "role": "Witness",
+      "date": "2024-11-13"
+    },
+    {
+      "type": "affiliated_with",
+      "target": "nasa",
+      "role": "Former associate administrator and study-team member"
+    }
+  ]
+}

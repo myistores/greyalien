@@ -1,0 +1,14 @@
+{
+  "id": "tim-burchett",
+  "type": "person",
+  "name": "Tim Burchett",
+  "summary": "U.S. Representative from Tennessee",
+  "relationships": [
+    {
+      "type": "testified_at",
+      "target": "2024-01-12-house-uap-scif-briefing",
+      "role": "Witness or participant",
+      "date": "2024-01-12"
+    }
+  ]
+}

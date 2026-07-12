@@ -1,0 +1,33 @@
+{
+  "id": "2023-07-13-uap-disclosure-act-consideration",
+  "type": "hearing",
+  "name": "July 13, 2023 UAP Disclosure Act Action",
+  "summary": "Congressional consideration of UAP disclosure provisions proposed for the Fiscal Year 2024 defense and intelligence authorization process.",
+  "relationships": [
+    {
+      "type": "held_by",
+      "target": "senate-intelligence-committee"
+    },
+    {
+      "type": "held_by",
+      "target": "national-archives"
+    },
+    {
+      "type": "held_by",
+      "target": "department-of-defense"
+    },
+    {
+      "type": "discussed_topic",
+      "target": "government-transparency"
+    },
+    {
+      "type": "discussed_topic",
+      "target": "classification"
+    },
+    {
+      "type": "discussed_topic",
+      "target": "uap-disclosure-legislation"
+    }
+  ],
+  "date": "2023-07-13"
+}

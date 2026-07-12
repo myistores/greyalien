@@ -1,0 +1,38 @@
+{
+  "id": "scott-kelly",
+  "type": "person",
+  "name": "Scott Kelly",
+  "summary": "Retired NASA astronaut and former U.S. Navy aviator who served on NASA's UAP Independent Study Team.",
+  "relationships": [
+    {
+      "type": "affiliated_with",
+      "target": "nasa-uap-independent-study-team",
+      "role": "Study-team member"
+    },
+    {
+      "type": "affiliated_with",
+      "target": "nasa",
+      "role": "Former astronaut"
+    },
+    {
+      "type": "affiliated_with",
+      "target": "united-states-navy",
+      "role": "Former captain and aviator"
+    },
+    {
+      "type": "authored",
+      "target": "2023-nasa-uap-independent-study-report"
+    }
+  ],
+  "profileStatus": "NASA independent-study member",
+  "profileSummary": "Retired NASA astronaut and former U.S. Navy aviator who served on NASA's UAP Independent Study Team.",
+  "background": "Retired NASA astronaut, engineer, and former U.S. Navy captain and test pilot.",
+  "inclusionNote": "Included because NASA formally appointed him to the UAP Independent Study Team, adding operational aviation and astronaut experience to the panel.",
+  "primarySourceLinks": [
+    {
+      "label": "NASA announces UAP study-team members",
+      "url": "https://www.nasa.gov/general/nasa-announces-unidentified-aerial-phenomena-study-team-members/",
+      "sourceType": "NASA"
+    }
+  ]
+}

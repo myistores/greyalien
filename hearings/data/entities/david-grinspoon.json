@@ -1,0 +1,28 @@
+{
+  "id": "david-grinspoon",
+  "type": "person",
+  "name": "David Grinspoon",
+  "summary": "Astrobiologist and planetary scientist who served on NASA's UAP Independent Study Team.",
+  "relationships": [
+    {
+      "type": "affiliated_with",
+      "target": "nasa-uap-independent-study-team",
+      "role": "Study-team member"
+    },
+    {
+      "type": "authored",
+      "target": "2023-nasa-uap-independent-study-report"
+    }
+  ],
+  "profileStatus": "NASA independent-study member",
+  "profileSummary": "Astrobiologist and planetary scientist who served on NASA's UAP Independent Study Team.",
+  "background": "Astrobiologist, planetary scientist, and science communicator.",
+  "inclusionNote": "Included because NASA appointed him to contribute planetary-science, astrobiology, and public-science expertise.",
+  "primarySourceLinks": [
+    {
+      "label": "NASA announces UAP study-team members",
+      "url": "https://www.nasa.gov/general/nasa-announces-unidentified-aerial-phenomena-study-team-members/",
+      "sourceType": "NASA"
+    }
+  ]
+}

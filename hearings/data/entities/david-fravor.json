@@ -1,0 +1,43 @@
+{
+  "id": "david-fravor",
+  "type": "person",
+  "name": "David Fravor",
+  "summary": "Retired U.S. Navy commander, firsthand witness to the 2004 Nimitz encounter, and congressional witness.",
+  "relationships": [
+    {
+      "type": "testified_at",
+      "target": "2023-07-26-house-oversight-uap",
+      "role": "Witness",
+      "date": "2023-07-26"
+    },
+    {
+      "type": "reported_case",
+      "target": "2004-nimitz-encounter"
+    },
+    {
+      "type": "appeared_in",
+      "target": "2020-lex-fridman-fravor-interview"
+    },
+    {
+      "type": "affiliated_with",
+      "target": "united-states-navy",
+      "role": "Retired commander"
+    }
+  ],
+  "profileStatus": "Firsthand military witness and congressional witness",
+  "profileSummary": "Retired U.S. Navy commander, firsthand witness to the 2004 Nimitz encounter, and congressional witness.",
+  "background": "Retired U.S. Navy commander and former commanding officer of Strike Fighter Squadron 41.",
+  "inclusionNote": "Included because of firsthand involvement in the 2004 Nimitz encounter, official congressional testimony, written testimony, and documented public interviews.",
+  "primarySourceLinks": [
+    {
+      "label": "Official written testimony",
+      "url": "https://oversight.house.gov/wp-content/uploads/2023/07/David-Fravor-Statement-for-House-Oversight-Committee.pdf",
+      "sourceType": "House Committee on Oversight and Accountability"
+    },
+    {
+      "label": "Official July 2023 hearing page",
+      "url": "https://oversight.house.gov/hearing/unidentified-anomalous-phenomena-implications-on-national-security-public-safety-and-government-transparency/",
+      "sourceType": "House Committee on Oversight and Accountability"
+    }
+  ]
+}

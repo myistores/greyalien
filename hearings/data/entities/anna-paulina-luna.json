@@ -1,0 +1,14 @@
+{
+  "id": "anna-paulina-luna",
+  "type": "person",
+  "name": "Anna Paulina Luna",
+  "summary": "U.S. Representative from Florida",
+  "relationships": [
+    {
+      "type": "testified_at",
+      "target": "2024-01-12-house-uap-scif-briefing",
+      "role": "Witness or participant",
+      "date": "2024-01-12"
+    }
+  ]
+}

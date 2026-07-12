@@ -1,0 +1,28 @@
+{
+  "id": "jake-barber",
+  "type": "person",
+  "name": "Jake Barber",
+  "summary": "Former military servicemember who publicly claimed involvement in recovery operations involving unusual objects.",
+  "relationships": [
+    {
+      "type": "affiliated_with",
+      "target": "united-states-air-force",
+      "role": "Former servicemember, as publicly described"
+    },
+    {
+      "type": "made_claim",
+      "target": "claim-crash-retrieval-program"
+    }
+  ],
+  "profileStatus": "Self-identified recovery-program whistleblower",
+  "profileSummary": "Former military servicemember who publicly claimed involvement in recovery operations involving unusual objects.",
+  "background": "Former U.S. Air Force servicemember and contractor, according to public interviews.",
+  "inclusionNote": "Included because he has made named, on-the-record claims. The alleged retrieval activities remain unverified publicly.",
+  "primarySourceLinks": [
+    {
+      "label": "Public interview concerning alleged recovery operations",
+      "url": "https://www.youtube.com/watch?v=O8tY9GDQc3E",
+      "sourceType": "NewsNation"
+    }
+  ]
+}

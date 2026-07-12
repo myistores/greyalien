@@ -1,0 +1,14 @@
+{
+  "id": "carl-sagan",
+  "type": "person",
+  "name": "Carl Sagan",
+  "summary": "Astronomer and planetary scientist",
+  "relationships": [
+    {
+      "type": "testified_at",
+      "target": "1968-07-29-house-ufo-symposium",
+      "role": "Witness or participant",
+      "date": "1968-07-29"
+    }
+  ]
+}

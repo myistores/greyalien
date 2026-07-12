@@ -1,0 +1,12 @@
+{
+  "id": "2023-house-uap-hearing-transcript",
+  "type": "document",
+  "name": "Official July 2023 Hearing Transcript",
+  "summary": "Official transcript of the July 26, 2023 House hearing",
+  "relationships": [
+    {
+      "type": "references_hearing",
+      "target": "2023-07-26-house-oversight-uap"
+    }
+  ]
+}

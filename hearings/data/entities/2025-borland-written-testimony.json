@@ -1,0 +1,34 @@
+{
+  "id": "2025-borland-written-testimony",
+  "type": "document",
+  "name": "Dylan Borland Written Testimony",
+  "summary": "Written whistleblower statement submitted for the September 9, 2025 House hearing.",
+  "relationships": [
+    {
+      "type": "references_person",
+      "target": "dylan-borland"
+    },
+    {
+      "type": "references_hearing",
+      "target": "2025-09-09-house-uap-transparency-hearing"
+    },
+    {
+      "type": "references_organization",
+      "target": "intelligence-community-inspector-general"
+    },
+    {
+      "type": "references_organization",
+      "target": "aaro"
+    },
+    {
+      "type": "contains_claim",
+      "target": "claim-langley-triangle-2012"
+    },
+    {
+      "type": "contains_claim",
+      "target": "claim-whistleblower-retaliation"
+    }
+  ],
+  "status": "Official House document",
+  "externalUrl": "https://oversight.house.gov/wp-content/uploads/2025/09/Borland-Written-Testimony.pdf"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "james-e-mcdonald",
+  "type": "person",
+  "name": "James E. McDonald",
+  "summary": "Atmospheric physicist",
+  "relationships": [
+    {
+      "type": "testified_at",
+      "target": "1968-07-29-house-ufo-symposium",
+      "role": "Witness or participant",
+      "date": "1968-07-29"
+    }
+  ]
+}

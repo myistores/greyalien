@@ -1,0 +1,131 @@
+{
+  "schemaVersion": 1,
+  "id": "2022-05-03-house-intelligence-classified-uap-briefing",
+  "entityType": "hearing",
+  "title": "Pre-Hearing Classified UAP Briefing",
+  "shortTitle": "May 3, 2022 Classified UAP Briefing",
+  "date": "2022-05-03",
+  "time": "Classified session",
+  "location": "U.S. Capitol secure facility",
+  "congress": "117th Congress",
+  "chamber": "U.S. House of Representatives",
+  "committee": "House Permanent Select Committee on Intelligence",
+  "subcommittee": "Classified committee briefing",
+  "summary": "A classified congressional briefing held before the May 17, 2022 public hearing on unidentified aerial phenomena.",
+  "whyItMatters": "This record helps document the classified oversight activity surrounding the first modern public UAP hearing.",
+  "editorialNote": "No public transcript is known. The page records only publicly attributable participants and context.",
+  "themes": [
+    "Classified oversight",
+    "UAP reporting",
+    "National security",
+    "Congressional access"
+  ],
+  "witnesses": [
+    {
+      "id": "ronald-moultrie",
+      "name": "Ronald S. Moultrie",
+      "roleAtHearing": "Under Secretary of Defense for Intelligence and Security",
+      "background": "Senior Department of Defense intelligence official",
+      "claimStatus": "Witness testimony",
+      "testimonySummary": "Moultrie participated in classified congressional engagement preceding the public May 2022 hearing.",
+      "keyPoints": [
+        "Department of Defense oversight",
+        "Classified UAP information"
+      ],
+      "documents": []
+    },
+    {
+      "id": "scott-bray",
+      "name": "Scott W. Bray",
+      "roleAtHearing": "Deputy Director of Naval Intelligence",
+      "background": "Senior U.S. Navy intelligence official",
+      "claimStatus": "Witness testimony",
+      "testimonySummary": "Bray participated in classified congressional engagement preceding the public May 2022 hearing.",
+      "keyPoints": [
+        "Naval intelligence",
+        "UAP reporting and analysis"
+      ],
+      "documents": []
+    }
+  ],
+  "timeline": [
+    {
+      "date": "2022-05-03",
+      "label": "Classified briefing held"
+    },
+    {
+      "date": "2022-05-17",
+      "label": "Related public hearing held"
+    }
+  ],
+  "documents": [],
+  "evidenceProfile": {
+    "level": "Documented congressional record",
+    "summary": "This record is based on public congressional or government material. Classified details may remain unavailable.",
+    "items": [
+      {
+        "label": "Public event or official reference",
+        "status": "available"
+      },
+      {
+        "label": "Public supporting documents",
+        "status": "limited"
+      },
+      {
+        "label": "Complete classified record",
+        "status": "limited"
+      }
+    ]
+  },
+  "relationships": {
+    "people": [
+      "ronald-moultrie",
+      "scott-bray"
+    ],
+    "organizations": [
+      "house-intelligence-committee",
+      "department-of-defense",
+      "united-states-navy"
+    ],
+    "cases": [],
+    "topics": [
+      "classification",
+      "government-transparency",
+      "uap-reporting-systems"
+    ]
+  },
+  "catalogCategories": [
+    "Closed or classified briefings"
+  ],
+  "navigation": {
+    "previous": "1968-07-29-house-ufo-symposium",
+    "next": "2022-05-17-house-intelligence-uap"
+  },
+  "sharedConnections": {
+    "with": [
+      "1966-04-05-house-ufo-hearing",
+      "2022-05-17-house-intelligence-uap",
+      "2023-04-19-senate-aaro-oversight",
+      "2023-07-13-uap-disclosure-act-consideration",
+      "2023-07-26-house-oversight-uap",
+      "2023-congressional-classified-aaro-briefings",
+      "2024-01-12-house-uap-scif-briefing",
+      "2024-11-13-house-oversight-uap",
+      "2024-11-19-senate-aaro-update",
+      "2024-12-06-house-classified-aaro-briefing",
+      "2024-12-18-fy2025-ndaa-uap-provisions",
+      "2025-09-09-house-uap-transparency-hearing"
+    ],
+    "topics": [
+      "classification",
+      "uap-reporting-systems",
+      "government-transparency"
+    ],
+    "organizations": [
+      "house-intelligence-committee",
+      "united-states-navy",
+      "department-of-defense"
+    ]
+  },
+  "lastReviewed": "2026-07-10"
+}
