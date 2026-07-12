@@ -1,0 +1,41 @@
+{
+  "id": "eric-hecker",
+  "type": "person",
+  "name": "Eric Hecker",
+  "summary": "Former contractor who publicly alleged that South Pole facilities possessed advanced directed-energy and communications capabilities.",
+  "relationships": [
+    {
+      "type": "affiliated_with",
+      "target": "raytheon",
+      "role": "Former contractor, as publicly described"
+    },
+    {
+      "type": "appeared_in",
+      "target": "eric-hecker-south-pole-interview"
+    },
+    {
+      "type": "made_claim",
+      "target": "claim-south-pole-directed-energy"
+    },
+    {
+      "type": "reported_case",
+      "target": "south-pole-technology-claims"
+    }
+  ],
+  "profileStatus": "Former contractor and South Pole technology claimant",
+  "profileSummary": "Former contractor who publicly alleged that South Pole facilities possessed advanced directed-energy and communications capabilities.",
+  "background": "Former U.S. Navy servicemember and former Raytheon contractor, according to public interviews.",
+  "inclusionNote": "Included because he is a prominent modern disclosure personality with a documented interview record. His central South Pole claims are strongly disputed by scientists and fact-checkers.",
+  "primarySourceLinks": [
+    {
+      "label": "Patrick Bet-David interview",
+      "url": "https://podcasts.apple.com/us/podcast/ex-raytheon-whistleblower-gives-inside-scoop-on-antarctica/id1526697745?i=1000634951988",
+      "sourceType": "Apple Podcasts"
+    },
+    {
+      "label": "Scientific fact check of IceCube claims",
+      "url": "https://factcheck.afp.com/doc.afp.com.34JT287",
+      "sourceType": "AFP Fact Check"
+    }
+  ]
+}

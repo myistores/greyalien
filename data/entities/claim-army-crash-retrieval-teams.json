@@ -1,0 +1,22 @@
+{
+  "id": "claim-army-crash-retrieval-teams",
+  "type": "claim",
+  "name": "Clifford Stone Crash-Retrieval Team Claims",
+  "summary": "Claims that Clifford Stone participated in military operations involving recovered craft and non-human beings.",
+  "relationships": [
+    {
+      "type": "made_by",
+      "target": "clifford-stone"
+    },
+    {
+      "type": "concerns",
+      "target": "united-states-army"
+    },
+    {
+      "type": "concerns",
+      "target": "claim-crash-retrieval-program"
+    }
+  ],
+  "status": "Personal claims made in books and interviews; not independently established.",
+  "evidenceNote": "Stone's Army service and public advocacy are distinguishable from his extraordinary crash-retrieval claims."
+}

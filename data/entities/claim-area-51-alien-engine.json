@@ -1,0 +1,26 @@
+{
+  "id": "claim-area-51-alien-engine",
+  "type": "claim",
+  "name": "David Adair Area 51 Engine Claim",
+  "summary": "Claim that Adair viewed an unusual or non-human propulsion system at a classified Nevada facility as a young rocketry prodigy.",
+  "relationships": [
+    {
+      "type": "made_by",
+      "target": "david-adair"
+    },
+    {
+      "type": "presented_at",
+      "target": "david-adair-area-51-interview"
+    },
+    {
+      "type": "concerns",
+      "target": "area-51"
+    },
+    {
+      "type": "concerns",
+      "target": "1960s-area-51-engine-claim"
+    }
+  ],
+  "status": "Longstanding personal account presented in lectures and interviews; not independently established.",
+  "evidenceNote": "Adair's public rocketry narrative and the extraordinary Area 51 claim should be evaluated separately."
+}

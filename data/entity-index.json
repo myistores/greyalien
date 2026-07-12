@@ -22,10 +22,52 @@
       "date": "2004-11-14"
     },
     {
+      "id": "1997-peru-crash-claim",
+      "type": "case",
+      "name": "Alleged 1997 Peru Crash Encounter",
+      "summary": "Jonathan Weygandt's public account of encountering an unusual crashed object while deployed in Peru.",
+      "date": ""
+    },
+    {
+      "id": "2009-indonesia-craft-claim",
+      "type": "case",
+      "name": "Alleged 2009 Indonesia Craft Encounter",
+      "summary": "Michael Herrera's public account of observing a large craft and unidentified personnel during a humanitarian deployment in Indonesia.",
+      "date": ""
+    },
+    {
+      "id": "alien-autopsy-program-claims",
+      "type": "case",
+      "name": "Alleged Classified Autopsy Program",
+      "summary": "Emery Smith's public claims of participation in classified biological and medical examination programs involving alleged non-human material.",
+      "date": ""
+    },
+    {
+      "id": "s4-facility-claim",
+      "type": "case",
+      "name": "Alleged S-4 Facility",
+      "summary": "Claimed installation near Area 51 described by Bob Lazar as a location for reverse-engineering non-human craft.",
+      "date": ""
+    },
+    {
+      "id": "area-51",
+      "type": "case",
+      "name": "Area 51",
+      "summary": "Highly classified U.S. flight-test installation in Nevada that became central to modern UFO culture and secrecy narratives.",
+      "date": ""
+    },
+    {
       "id": "big-sur-missile-film-claim",
       "type": "case",
       "name": "Big Sur Missile Film Claim",
       "summary": "A disputed account concerning film of a 1964 missile test and an alleged unidentified object.",
+      "date": ""
+    },
+    {
+      "id": "1960s-area-51-engine-claim",
+      "type": "case",
+      "name": "David Adair Area 51 Engine Claim",
+      "summary": "David Adair's account of being taken to a classified Nevada facility and viewing an unusual propulsion system.",
       "date": ""
     },
     {
@@ -40,6 +82,20 @@
       "type": "case",
       "name": "Rendlesham Forest Incident",
       "summary": "A series of reported events involving U.S. Air Force personnel near RAF Woodbridge and RAF Bentwaters in December 1980.",
+      "date": ""
+    },
+    {
+      "id": "roswell-incident",
+      "type": "case",
+      "name": "Roswell Incident",
+      "summary": "The 1947 recovery of debris near Roswell, New Mexico, and the later claims and disputes surrounding its origin.",
+      "date": ""
+    },
+    {
+      "id": "south-pole-technology-claims",
+      "type": "case",
+      "name": "South Pole Technology Claims",
+      "summary": "Eric Hecker's public allegations concerning advanced technology and alleged non-scientific uses of facilities at the South Pole.",
       "date": ""
     },
     {
@@ -75,6 +131,69 @@
       "type": "claim",
       "name": "Alleged USS Jackson Transmedium UAP Event",
       "summary": "Alexandro Wiggins's account of four Tic-Tac-like objects observed and detected near USS Jackson in February 2023.",
+      "date": ""
+    },
+    {
+      "id": "claim-s4-reverse-engineering",
+      "type": "claim",
+      "name": "Bob Lazar S-4 Reverse-Engineering Claim",
+      "summary": "Claim that Bob Lazar worked at an installation called S-4 near Area 51 and participated in analysis of non-human craft.",
+      "date": ""
+    },
+    {
+      "id": "claim-army-crash-retrieval-teams",
+      "type": "claim",
+      "name": "Clifford Stone Crash-Retrieval Team Claims",
+      "summary": "Claims that Clifford Stone participated in military operations involving recovered craft and non-human beings.",
+      "date": ""
+    },
+    {
+      "id": "claim-area-51-alien-engine",
+      "type": "claim",
+      "name": "David Adair Area 51 Engine Claim",
+      "summary": "Claim that Adair viewed an unusual or non-human propulsion system at a classified Nevada facility as a young rocketry prodigy.",
+      "date": ""
+    },
+    {
+      "id": "claim-alien-autopsy-program",
+      "type": "claim",
+      "name": "Emery Smith Alien-Autopsy Program Claims",
+      "summary": "Claims that Emery Smith participated in classified medical examinations of alleged non-human biological material.",
+      "date": ""
+    },
+    {
+      "id": "claim-south-pole-directed-energy",
+      "type": "claim",
+      "name": "Eric Hecker South Pole Technology Claims",
+      "summary": "Claims that South Pole facilities and the IceCube installation possessed capabilities beyond their publicly stated scientific mission.",
+      "date": ""
+    },
+    {
+      "id": "claim-peru-crash-retrieval",
+      "type": "claim",
+      "name": "Jonathan Weygandt Peru Crash Claim",
+      "summary": "Claim that Weygandt encountered an unusual crashed craft during a 1997 U.S. Marine Corps deployment in Peru and was detained or threatened afterward.",
+      "date": ""
+    },
+    {
+      "id": "claim-indonesia-human-trafficking-craft",
+      "type": "claim",
+      "name": "Michael Herrera Indonesia Craft Claim",
+      "summary": "Claim that Herrera observed a large advanced craft and unidentified personnel moving containers during a 2009 deployment in Indonesia.",
+      "date": ""
+    },
+    {
+      "id": "claim-roswell-technology-transfer",
+      "type": "claim",
+      "name": "Philip Corso Roswell Technology-Transfer Claim",
+      "summary": "Claim that recovered Roswell material was transferred through military research channels and contributed to later technological developments.",
+      "date": ""
+    },
+    {
+      "id": "2024-afp-icecube-fact-check",
+      "type": "document",
+      "name": "AFP Fact Check: Antarctic Research Facility Does Not Produce Energy Weapons",
+      "summary": "Fact-check article presenting scientific explanations and rebuttals concerning claims about IceCube and South Pole technology.",
       "date": ""
     },
     {
@@ -124,6 +243,13 @@
       "type": "document",
       "name": "Official May 2022 Hearing Transcript",
       "summary": "Official transcript of the May 17, 2022 House hearing",
+      "date": ""
+    },
+    {
+      "id": "the-day-after-roswell",
+      "type": "document",
+      "name": "The Day After Roswell",
+      "summary": "1997 book by Philip J. Corso and William J. Birnes presenting claims about recovered Roswell technology and military reverse engineering.",
       "date": ""
     },
     {
@@ -239,6 +365,20 @@
       "date": "2025-04-15"
     },
     {
+      "id": "1989-bob-lazar-george-knapp-interview",
+      "type": "interview",
+      "name": "Bob Lazar's 1989 KLAS Interviews",
+      "summary": "Television interviews in which Bob Lazar publicly described alleged work at S-4 near Area 51.",
+      "date": "1989-11-01"
+    },
+    {
+      "id": "david-adair-area-51-interview",
+      "type": "interview",
+      "name": "David Adair: My Story — Child Prodigy to Rocket Scientist",
+      "summary": "Interview in which David Adair described his rocketry background and alleged encounter with unusual technology at Area 51.",
+      "date": "2019-03-01"
+    },
+    {
       "id": "2020-lex-fridman-fravor-interview",
       "type": "interview",
       "name": "David Fravor on the Lex Fridman Podcast",
@@ -251,6 +391,27 @@
       "name": "David Grusch NewsNation Interview",
       "summary": "Television interview in which Grusch publicly discussed allegations concerning hidden UAP-related programs",
       "date": "2023-06-05"
+    },
+    {
+      "id": "eric-hecker-south-pole-interview",
+      "type": "interview",
+      "name": "Eric Hecker South Pole Interview",
+      "summary": "Interview in which Eric Hecker described alleged advanced technologies at the South Pole.",
+      "date": "2023-11-15"
+    },
+    {
+      "id": "1997-jonathan-weygandt-interview",
+      "type": "interview",
+      "name": "Jonathan Weygandt Peru Encounter Interview",
+      "summary": "Long-form interview in which Jonathan Weygandt described an alleged 1997 crash encounter in Peru.",
+      "date": "1997-01-01"
+    },
+    {
+      "id": "michael-herrera-public-interview",
+      "type": "interview",
+      "name": "Michael Herrera Public Interview",
+      "summary": "Public interview describing Herrera's alleged 2009 encounter with a large craft during a deployment in Indonesia.",
+      "date": ""
     },
     {
       "id": "uap-disclosure-act-2023",
@@ -306,6 +467,13 @@
       "type": "organization",
       "name": "House Permanent Select Committee on Intelligence",
       "summary": "U.S. House intelligence oversight committee",
+      "date": ""
+    },
+    {
+      "id": "icecube-neutrino-observatory",
+      "type": "organization",
+      "name": "IceCube Neutrino Observatory",
+      "summary": "Scientific neutrino observatory located at the geographic South Pole.",
       "date": ""
     },
     {
@@ -365,6 +533,13 @@
       "date": ""
     },
     {
+      "id": "raytheon",
+      "type": "organization",
+      "name": "Raytheon",
+      "summary": "U.S. aerospace and defense contractor.",
+      "date": ""
+    },
+    {
       "id": "senate-armed-services-committee",
       "type": "organization",
       "name": "Senate Committee on Armed Services",
@@ -414,6 +589,20 @@
       "date": ""
     },
     {
+      "id": "united-states-army",
+      "type": "organization",
+      "name": "United States Army",
+      "summary": "Land service branch of the U.S. Armed Forces.",
+      "date": ""
+    },
+    {
+      "id": "united-states-marine-corps",
+      "type": "organization",
+      "name": "United States Marine Corps",
+      "summary": "Expeditionary service branch of the U.S. Armed Forces.",
+      "date": ""
+    },
+    {
       "id": "united-states-navy",
       "type": "organization",
       "name": "United States Navy",
@@ -449,6 +638,13 @@
       "date": ""
     },
     {
+      "id": "bob-lazar",
+      "type": "person",
+      "name": "Bob Lazar",
+      "summary": "Public figure whose 1989 interviews alleging work at S-4 near Area 51 profoundly shaped modern UFO culture and reverse-engineering narratives.",
+      "date": ""
+    },
+    {
       "id": "carl-sagan",
       "type": "person",
       "name": "Carl Sagan",
@@ -474,6 +670,20 @@
       "type": "person",
       "name": "Christopher Mellon",
       "summary": "Former Deputy Assistant Secretary of Defense for Intelligence and former Senate Intelligence Committee staff director who has advocated for congressional UAP oversight.",
+      "date": ""
+    },
+    {
+      "id": "clifford-stone",
+      "type": "person",
+      "name": "Clifford Stone",
+      "summary": "Retired U.S. Army sergeant who publicly claimed involvement in operations involving recovered craft and non-human beings.",
+      "date": ""
+    },
+    {
+      "id": "david-adair",
+      "type": "person",
+      "name": "David Adair",
+      "summary": "Public speaker and rocketry personality who has long claimed that he viewed an unusual propulsion system at a classified Nevada facility.",
       "date": ""
     },
     {
@@ -519,10 +729,24 @@
       "date": ""
     },
     {
+      "id": "emery-smith",
+      "type": "person",
+      "name": "Emery Smith",
+      "summary": "Media personality who has publicly claimed involvement in classified medical and biological programs concerning alleged non-human material.",
+      "date": ""
+    },
+    {
       "id": "eric-burlison",
       "type": "person",
       "name": "Eric Burlison",
       "summary": "U.S. Representative from Missouri",
+      "date": ""
+    },
+    {
+      "id": "eric-hecker",
+      "type": "person",
+      "name": "Eric Hecker",
+      "summary": "Former contractor who publicly alleged that South Pole facilities possessed advanced directed-energy and communications capabilities.",
       "date": ""
     },
     {
@@ -645,6 +869,13 @@
       "date": ""
     },
     {
+      "id": "jonathan-weygandt",
+      "type": "person",
+      "name": "Jonathan Weygandt",
+      "summary": "Former U.S. Marine who publicly described an alleged 1997 encounter with a crashed object in Peru.",
+      "date": ""
+    },
+    {
       "id": "joshua-semeter",
       "type": "person",
       "name": "Joshua Semeter",
@@ -708,6 +939,13 @@
       "date": ""
     },
     {
+      "id": "michael-herrera",
+      "type": "person",
+      "name": "Michael Herrera",
+      "summary": "Former U.S. Marine who publicly alleged that he observed a large advanced craft and unidentified personnel during a 2009 humanitarian deployment in Indonesia.",
+      "date": ""
+    },
+    {
       "id": "michael-shellenberger",
       "type": "person",
       "name": "Michael Shellenberger",
@@ -719,6 +957,13 @@
       "type": "person",
       "name": "Patrick “P.J.” Hughes",
       "summary": "Former U.S. Navy E-2 Hawkeye crew member associated with recording media and post-event activity following the 2004 Nimitz encounter.",
+      "date": ""
+    },
+    {
+      "id": "philip-j-corso",
+      "type": "person",
+      "name": "Philip J. Corso",
+      "summary": "Retired U.S. Army lieutenant colonel and coauthor of The Day After Roswell, which alleged military transfer and reverse engineering of recovered technology.",
       "date": ""
     },
     {
@@ -810,6 +1055,13 @@
       "type": "person",
       "name": "Warren Randolph",
       "summary": "Federal Aviation Administration specialist who served on NASA's UAP Independent Study Team.",
+      "date": ""
+    },
+    {
+      "id": "gaia",
+      "type": "publication",
+      "name": "Gaia",
+      "summary": "Subscription streaming platform publishing programs on spirituality, alternative history, and disclosure topics.",
       "date": ""
     },
     {

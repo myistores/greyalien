@@ -1,0 +1,42 @@
+{
+  "id": "emery-smith",
+  "type": "person",
+  "name": "Emery Smith",
+  "summary": "Media personality who has publicly claimed involvement in classified medical and biological programs concerning alleged non-human material.",
+  "relationships": [
+    {
+      "type": "affiliated_with",
+      "target": "united-states-air-force",
+      "role": "Former service member, as publicly described"
+    },
+    {
+      "type": "affiliated_with",
+      "target": "gaia",
+      "role": "Program host and guest"
+    },
+    {
+      "type": "made_claim",
+      "target": "claim-alien-autopsy-program"
+    },
+    {
+      "type": "reported_case",
+      "target": "alien-autopsy-program-claims"
+    }
+  ],
+  "profileStatus": "Disclosure-media personality and classified-program claimant",
+  "profileSummary": "Media personality who has publicly claimed involvement in classified medical and biological programs concerning alleged non-human material.",
+  "background": "Self-described U.S. Air Force veteran, medical specialist, and former classified-program participant.",
+  "inclusionNote": "Included because of his visibility within modern disclosure media and the influence of his claims on public discussion. Publicly verifiable documentation for the alleged programs is limited.",
+  "primarySourceLinks": [
+    {
+      "label": "Emery Smith interview listing",
+      "url": "https://open.spotify.com/episode/5aDCvQE3u3hF3VNTtPLppl",
+      "sourceType": "Spotify / JeffMara Podcast"
+    },
+    {
+      "label": "Gaia platform",
+      "url": "https://www.gaia.com/",
+      "sourceType": "Gaia"
+    }
+  ]
+}

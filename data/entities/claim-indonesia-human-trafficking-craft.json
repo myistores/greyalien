@@ -1,0 +1,26 @@
+{
+  "id": "claim-indonesia-human-trafficking-craft",
+  "type": "claim",
+  "name": "Michael Herrera Indonesia Craft Claim",
+  "summary": "Claim that Herrera observed a large advanced craft and unidentified personnel moving containers during a 2009 deployment in Indonesia.",
+  "relationships": [
+    {
+      "type": "made_by",
+      "target": "michael-herrera"
+    },
+    {
+      "type": "presented_at",
+      "target": "michael-herrera-public-interview"
+    },
+    {
+      "type": "concerns",
+      "target": "2009-indonesia-craft-claim"
+    },
+    {
+      "type": "concerns",
+      "target": "united-states-marine-corps"
+    }
+  ],
+  "status": "Named firsthand account; central details remain unverified and have been publicly disputed.",
+  "evidenceNote": "GreyAlien records the claim, the claimed service context, interviews, and significant disputes without endorsing the allegation."
+}

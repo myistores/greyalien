@@ -1,0 +1,26 @@
+{
+  "id": "claim-roswell-technology-transfer",
+  "type": "claim",
+  "name": "Philip Corso Roswell Technology-Transfer Claim",
+  "summary": "Claim that recovered Roswell material was transferred through military research channels and contributed to later technological developments.",
+  "relationships": [
+    {
+      "type": "made_by",
+      "target": "philip-j-corso"
+    },
+    {
+      "type": "contained_in",
+      "target": "the-day-after-roswell"
+    },
+    {
+      "type": "concerns",
+      "target": "roswell-incident"
+    },
+    {
+      "type": "concerns",
+      "target": "united-states-army"
+    }
+  ],
+  "status": "Claim published in The Day After Roswell; not established as fact by GreyAlien.",
+  "evidenceNote": "Corso's Army service is documented. The book's extraterrestrial technology-transfer claims remain disputed."
+}

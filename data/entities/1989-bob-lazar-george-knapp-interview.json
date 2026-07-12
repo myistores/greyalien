@@ -1,0 +1,32 @@
+{
+  "id": "1989-bob-lazar-george-knapp-interview",
+  "type": "interview",
+  "name": "Bob Lazar's 1989 KLAS Interviews",
+  "summary": "Television interviews in which Bob Lazar publicly described alleged work at S-4 near Area 51.",
+  "relationships": [
+    {
+      "type": "published_by",
+      "target": "newsnation"
+    },
+    {
+      "type": "presented_claim",
+      "target": "claim-s4-reverse-engineering"
+    },
+    {
+      "type": "discussed_case",
+      "target": "area-51"
+    },
+    {
+      "type": "discussed_case",
+      "target": "s4-facility-claim"
+    }
+  ],
+  "date": "1989-11-01",
+  "mediaLinks": [
+    {
+      "label": "Watch 8 News Now retrospective and archived interview material",
+      "url": "https://www.youtube.com/watch?v=BoJmd2MIpOk",
+      "platform": "8 News Now / YouTube"
+    }
+  ]
+}

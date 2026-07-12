@@ -1,0 +1,33 @@
+{
+  "id": "david-adair-area-51-interview",
+  "type": "interview",
+  "name": "David Adair: My Story — Child Prodigy to Rocket Scientist",
+  "summary": "Interview in which David Adair described his rocketry background and alleged encounter with unusual technology at Area 51.",
+  "relationships": [
+    {
+      "type": "published_by",
+      "target": "gaia"
+    },
+    {
+      "type": "presented_claim",
+      "target": "claim-area-51-alien-engine"
+    },
+    {
+      "type": "discussed_case",
+      "target": "1960s-area-51-engine-claim"
+    }
+  ],
+  "date": "2019-03-01",
+  "mediaLinks": [
+    {
+      "label": "Open the Gaia episode",
+      "url": "https://www.gaia.com/video/david-adair-my-story-child-prodigy-rocket-scientist",
+      "platform": "Gaia"
+    },
+    {
+      "label": "Open the Apple TV listing",
+      "url": "https://tv.apple.com/us/episode/david-adair-my-story---child-prodigy-to-rocket-scientist/umc.cmc.4q50thjj84daj62aktst9l7p3",
+      "platform": "Apple TV"
+    }
+  ]
+}

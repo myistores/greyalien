@@ -1,0 +1,22 @@
+{
+  "id": "2024-afp-icecube-fact-check",
+  "type": "document",
+  "name": "AFP Fact Check: Antarctic Research Facility Does Not Produce Energy Weapons",
+  "summary": "Fact-check article presenting scientific explanations and rebuttals concerning claims about IceCube and South Pole technology.",
+  "relationships": [
+    {
+      "type": "references_person",
+      "target": "eric-hecker"
+    },
+    {
+      "type": "references_organization",
+      "target": "icecube-neutrino-observatory"
+    },
+    {
+      "type": "contains_claim",
+      "target": "claim-south-pole-directed-energy"
+    }
+  ],
+  "status": "Published fact check",
+  "externalUrl": "https://factcheck.afp.com/doc.afp.com.34JT287"
+}

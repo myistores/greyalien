@@ -1,4 +1,4 @@
-GREYALIEN VERSION 12.0
+GREYALIEN VERSION 13.0
 
 Deployment with GitHub Desktop:
 1. Extract this ZIP.
@@ -10,12 +10,17 @@ Deployment with GitHub Desktop:
 6. Push origin.
 
 Suggested commit:
-Version 12.0 - Add Nimitz and NASA study team profiles
+Version 13.0 - Add foundational disclosure personalities
 
 Test after deployment:
+https://greyalien.com/
+https://greyalien.com/entities/
 https://greyalien.com/categories/whistleblower-database.html
-https://greyalien.com/entities/entity.html?id=patrick-pj-hughes
-https://greyalien.com/entities/entity.html?id=jason-turner
-https://greyalien.com/entities/entity.html?id=david-spergel
-https://greyalien.com/entities/entity.html?id=scott-kelly
-https://greyalien.com/entities/entity.html?id=2023-nasa-uap-independent-study-report
+https://greyalien.com/entities/entity.html?id=bob-lazar
+https://greyalien.com/entities/entity.html?id=philip-j-corso
+https://greyalien.com/entities/entity.html?id=clifford-stone
+https://greyalien.com/entities/entity.html?id=jonathan-weygandt
+https://greyalien.com/entities/entity.html?id=michael-herrera
+https://greyalien.com/entities/entity.html?id=eric-hecker
+https://greyalien.com/entities/entity.html?id=emery-smith
+https://greyalien.com/entities/entity.html?id=david-adair

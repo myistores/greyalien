@@ -1,0 +1,40 @@
+{
+  "id": "bob-lazar",
+  "type": "person",
+  "name": "Bob Lazar",
+  "summary": "Public figure whose 1989 interviews alleging work at S-4 near Area 51 profoundly shaped modern UFO culture and reverse-engineering narratives.",
+  "relationships": [
+    {
+      "type": "appeared_in",
+      "target": "1989-bob-lazar-george-knapp-interview"
+    },
+    {
+      "type": "made_claim",
+      "target": "claim-s4-reverse-engineering"
+    },
+    {
+      "type": "reported_case",
+      "target": "area-51"
+    },
+    {
+      "type": "reported_case",
+      "target": "s4-facility-claim"
+    }
+  ],
+  "profileStatus": "Foundational public claimant and disclosure personality",
+  "profileSummary": "Public figure whose 1989 interviews alleging work at S-4 near Area 51 profoundly shaped modern UFO culture and reverse-engineering narratives.",
+  "background": "Self-described former physicist and contractor associated with Los Alamos and a claimed facility near Area 51.",
+  "inclusionNote": "Included because of his foundational influence on Area 51, S-4, Element 115, and reverse-engineering narratives. His educational and employment claims, evidence, and interpretations remain heavily disputed.",
+  "primarySourceLinks": [
+    {
+      "label": "Archived 1989 interview retrospective",
+      "url": "https://www.youtube.com/watch?v=BoJmd2MIpOk",
+      "sourceType": "8 News Now"
+    },
+    {
+      "label": "Out There — George Knapp retrospective",
+      "url": "https://knpr.org/magazine-desert-companion/2014-11-01/out-there",
+      "sourceType": "KNPR"
+    }
+  ]
+}

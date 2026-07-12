@@ -1,15 +1,16 @@
 # GreyAlien Changelog
 
-## Version 12.0
-- Added the Nimitz expansion profiles:
-  Patrick “P.J.” Hughes, Jason Turner, Ryan Weigelt, and Karson Kammerzell.
-- Added NASA Independent Study Team profiles:
-  David Spergel, Scott Kelly, Joshua Semeter, Warren Randolph, Karlin Toner,
-  Anamaria Berea, Federica Bianco, David Grinspoon, and Shelley Wright.
-- Added supporting NASA Independent Study Team, FAA, NASA report, and public-meeting entities.
-- Updated the Witness & Whistleblower Database, Entity Explorer index, and sitemap.
-- Did not add Profile Classification or Primary Discipline fields.
-- No renderer, layout, navigation, hearing, or entity-type changes.
+## Version 13.0
+- Added eight influential historical and modern disclosure profiles:
+  Bob Lazar, Philip J. Corso, Clifford Stone, Jonathan Weygandt,
+  Michael Herrera, Eric Hecker, Emery Smith, and David Adair.
+- Added linked case, claim, interview, publication, organization, and document records.
+- Added critical and contradictory source material where appropriate.
+- Updated the homepage Latest Additions panel to GreyAlien Version 13.
+- Changed Entity Explorer heading from “Explore the first connected test cluster”
+  to “Explore the connected knowledge base.”
+- No new entity types, profile-classification field, primary-discipline field,
+  renderer redesign, or navigation redesign.
 
-## Version 11.0
-- Added 15 witness, program-insider, and historical profiles.
+## Version 12.0
+- Added Nimitz expansion and NASA Independent Study Team profiles.

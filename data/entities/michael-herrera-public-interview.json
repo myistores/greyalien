@@ -1,0 +1,23 @@
+{
+  "id": "michael-herrera-public-interview",
+  "type": "interview",
+  "name": "Michael Herrera Public Interview",
+  "summary": "Public interview describing Herrera's alleged 2009 encounter with a large craft during a deployment in Indonesia.",
+  "relationships": [
+    {
+      "type": "presented_claim",
+      "target": "claim-indonesia-human-trafficking-craft"
+    },
+    {
+      "type": "discussed_case",
+      "target": "2009-indonesia-craft-claim"
+    }
+  ],
+  "mediaLinks": [
+    {
+      "label": "Watch a long-form interview",
+      "url": "https://www.youtube.com/watch?v=vy_k1uY5KP4",
+      "platform": "YouTube"
+    }
+  ]
+}

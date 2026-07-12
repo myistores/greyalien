@@ -1,0 +1,24 @@
+{
+  "id": "1997-jonathan-weygandt-interview",
+  "type": "interview",
+  "name": "Jonathan Weygandt Peru Encounter Interview",
+  "summary": "Long-form interview in which Jonathan Weygandt described an alleged 1997 crash encounter in Peru.",
+  "relationships": [
+    {
+      "type": "presented_claim",
+      "target": "claim-peru-crash-retrieval"
+    },
+    {
+      "type": "discussed_case",
+      "target": "1997-peru-crash-claim"
+    }
+  ],
+  "date": "1997-01-01",
+  "mediaLinks": [
+    {
+      "label": "Watch the archived interview",
+      "url": "https://www.youtube.com/watch?v=UdEVUum8Nag",
+      "platform": "YouTube archive"
+    }
+  ]
+}

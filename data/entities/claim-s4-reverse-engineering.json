@@ -1,0 +1,26 @@
+{
+  "id": "claim-s4-reverse-engineering",
+  "type": "claim",
+  "name": "Bob Lazar S-4 Reverse-Engineering Claim",
+  "summary": "Claim that Bob Lazar worked at an installation called S-4 near Area 51 and participated in analysis of non-human craft.",
+  "relationships": [
+    {
+      "type": "made_by",
+      "target": "bob-lazar"
+    },
+    {
+      "type": "presented_at",
+      "target": "1989-bob-lazar-george-knapp-interview"
+    },
+    {
+      "type": "concerns",
+      "target": "area-51"
+    },
+    {
+      "type": "concerns",
+      "target": "s4-facility-claim"
+    }
+  ],
+  "status": "Highly influential public allegation; not established as fact by GreyAlien.",
+  "evidenceNote": "The profile separates Lazar's public interviews and cultural influence from disputes regarding his education, employment history, and supporting evidence."
+}

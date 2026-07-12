@@ -1,0 +1,30 @@
+{
+  "id": "claim-south-pole-directed-energy",
+  "type": "claim",
+  "name": "Eric Hecker South Pole Technology Claims",
+  "summary": "Claims that South Pole facilities and the IceCube installation possessed capabilities beyond their publicly stated scientific mission.",
+  "relationships": [
+    {
+      "type": "made_by",
+      "target": "eric-hecker"
+    },
+    {
+      "type": "presented_at",
+      "target": "eric-hecker-south-pole-interview"
+    },
+    {
+      "type": "concerns",
+      "target": "icecube-neutrino-observatory"
+    },
+    {
+      "type": "contradicted_by",
+      "target": "icecube-neutrino-observatory"
+    },
+    {
+      "type": "contradicted_by",
+      "target": "2024-afp-icecube-fact-check"
+    }
+  ],
+  "status": "Extraordinary public allegations disputed by scientists and fact-checkers.",
+  "evidenceNote": "IceCube's documented scientific purpose should be presented alongside Hecker's claims and published scientific rebuttals."
+}
