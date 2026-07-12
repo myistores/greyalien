@@ -1,0 +1,28 @@
+{
+  "id": "robert-jacobs",
+  "type": "person",
+  "name": "Robert Jacobs",
+  "summary": "Former U.S. Air Force officer who has claimed that film of a 1964 missile test showed an unidentified object interacting with the test vehicle.",
+  "relationships": [
+    {
+      "type": "reported_case",
+      "target": "big-sur-missile-film-claim"
+    },
+    {
+      "type": "affiliated_with",
+      "target": "united-states-air-force",
+      "role": "Former photographic officer"
+    }
+  ],
+  "profileStatus": "Former military photographic officer and claimant",
+  "profileSummary": "Former U.S. Air Force officer who has claimed that film of a 1964 missile test showed an unidentified object interacting with the test vehicle.",
+  "background": "Former U.S. Air Force photographic instrumentation officer.",
+  "inclusionNote": "Included because he was a named participant in the missile-test program and has maintained a detailed public account. The interpretation of the film is disputed.",
+  "primarySourceLinks": [
+    {
+      "label": "Background on the Big Sur film claim",
+      "url": "https://en.wikipedia.org/wiki/Big_Sur_UFO",
+      "sourceType": "Reference overview"
+    }
+  ]
+}

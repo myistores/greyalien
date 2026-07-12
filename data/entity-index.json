@@ -22,6 +22,27 @@
       "date": "2004-11-14"
     },
     {
+      "id": "big-sur-missile-film-claim",
+      "type": "case",
+      "name": "Big Sur Missile Film Claim",
+      "summary": "A disputed account concerning film of a 1964 missile test and an alleged unidentified object.",
+      "date": ""
+    },
+    {
+      "id": "malmstrom-missile-incident",
+      "type": "case",
+      "name": "Malmstrom Missile Incident",
+      "summary": "A 1967 missile-system shutdown at Malmstrom Air Force Base later associated by some former personnel with UFO claims.",
+      "date": ""
+    },
+    {
+      "id": "rendlesham-forest-incident",
+      "type": "case",
+      "name": "Rendlesham Forest Incident",
+      "summary": "A series of reported events involving U.S. Air Force personnel near RAF Woodbridge and RAF Bentwaters in December 1980.",
+      "date": ""
+    },
+    {
       "id": "claim-langley-triangle-2012",
       "type": "claim",
       "name": "Alleged 2012 Langley Triangle Encounter",
@@ -239,6 +260,13 @@
       "date": ""
     },
     {
+      "id": "defense-intelligence-agency",
+      "type": "organization",
+      "name": "Defense Intelligence Agency",
+      "summary": "U.S. Department of Defense intelligence agency.",
+      "date": ""
+    },
+    {
       "id": "house-armed-services-committee",
       "type": "organization",
       "name": "House Committee on Armed Services",
@@ -274,6 +302,13 @@
       "date": ""
     },
     {
+      "id": "malmstrom-air-force-base",
+      "type": "organization",
+      "name": "Malmstrom Air Force Base",
+      "summary": "U.S. Air Force installation in Montana associated with the 1967 missile shutdown incident.",
+      "date": ""
+    },
+    {
       "id": "nasa",
       "type": "organization",
       "name": "NASA",
@@ -302,6 +337,13 @@
       "date": ""
     },
     {
+      "id": "raf-bentwaters",
+      "type": "organization",
+      "name": "RAF Bentwaters / RAF Woodbridge",
+      "summary": "Former military installations associated with the Rendlesham Forest incident.",
+      "date": ""
+    },
+    {
       "id": "senate-armed-services-committee",
       "type": "organization",
       "name": "Senate Committee on Armed Services",
@@ -316,10 +358,31 @@
       "date": ""
     },
     {
+      "id": "sol-foundation",
+      "type": "organization",
+      "name": "The Sol Foundation",
+      "summary": "Research and policy organization focused on unidentified anomalous phenomena.",
+      "date": ""
+    },
+    {
       "id": "department-of-defense",
       "type": "organization",
       "name": "U.S. Department of Defense",
       "summary": "Federal executive department responsible for U.S. national security",
+      "date": ""
+    },
+    {
+      "id": "uss-princeton",
+      "type": "organization",
+      "name": "USS Princeton",
+      "summary": "Ticonderoga-class guided-missile cruiser involved in the 2004 Nimitz carrier-strike-group events.",
+      "date": ""
+    },
+    {
+      "id": "uap-task-force",
+      "type": "organization",
+      "name": "Unidentified Aerial Phenomena Task Force",
+      "summary": "Department of Defense task force that preceded AARO.",
       "date": ""
     },
     {
@@ -334,6 +397,13 @@
       "type": "organization",
       "name": "United States Navy",
       "summary": "Maritime service branch of the U.S. Armed Forces",
+      "date": ""
+    },
+    {
+      "id": "alex-dietrich",
+      "type": "person",
+      "name": "Alex Dietrich",
+      "summary": "Former U.S. Navy F/A-18 pilot and firsthand witness to the November 2004 Nimitz encounter.",
       "date": ""
     },
     {
@@ -358,6 +428,20 @@
       "date": ""
     },
     {
+      "id": "chad-underwood",
+      "type": "person",
+      "name": "Chad Underwood",
+      "summary": "Former U.S. Navy aviator who recorded the FLIR1 video during the 2004 Nimitz encounter.",
+      "date": ""
+    },
+    {
+      "id": "charles-halt",
+      "type": "person",
+      "name": "Charles Halt",
+      "summary": "Retired U.S. Air Force officer who investigated and documented part of the 1980 Rendlesham Forest incident.",
+      "date": ""
+    },
+    {
       "id": "christopher-mellon",
       "type": "person",
       "name": "Christopher Mellon",
@@ -379,6 +463,13 @@
       "date": ""
     },
     {
+      "id": "douglas-kurth",
+      "type": "person",
+      "name": "Douglas “Cheeks” Kurth",
+      "summary": "Former U.S. Marine Corps aviator who reported observing an unusual disturbance on the ocean during the 2004 Nimitz events.",
+      "date": ""
+    },
+    {
       "id": "dylan-borland",
       "type": "person",
       "name": "Dylan Borland",
@@ -390,6 +481,13 @@
       "type": "person",
       "name": "Eric Burlison",
       "summary": "U.S. Representative from Missouri",
+      "date": ""
+    },
+    {
+      "id": "gary-voorhis",
+      "type": "person",
+      "name": "Gary Voorhis",
+      "summary": "Former U.S. Navy technician who has described radar and data-handling activity connected to the 2004 Nimitz events.",
       "date": ""
     },
     {
@@ -414,10 +512,24 @@
       "date": ""
     },
     {
+      "id": "jake-barber",
+      "type": "person",
+      "name": "Jake Barber",
+      "summary": "Former military servicemember who publicly claimed involvement in recovery operations involving unusual objects.",
+      "date": ""
+    },
+    {
       "id": "james-e-mcdonald",
       "type": "person",
       "name": "James E. McDonald",
       "summary": "Atmospheric physicist",
+      "date": ""
+    },
+    {
+      "id": "james-lacatski",
+      "type": "person",
+      "name": "James Lacatski",
+      "summary": "Former Defense Intelligence Agency official associated with the AAWSAP program.",
       "date": ""
     },
     {
@@ -428,6 +540,13 @@
       "date": ""
     },
     {
+      "id": "jay-stratton",
+      "type": "person",
+      "name": "Jay Stratton",
+      "summary": "Former intelligence official associated with AAWSAP and leadership of the UAP Task Force.",
+      "date": ""
+    },
+    {
       "id": "jeffrey-nuccetelli",
       "type": "person",
       "name": "Jeffrey Nuccetelli",
@@ -435,10 +554,31 @@
       "date": ""
     },
     {
+      "id": "jim-penniston",
+      "type": "person",
+      "name": "Jim Penniston",
+      "summary": "Former U.S. Air Force security supervisor who submitted a contemporaneous statement concerning the Rendlesham Forest incident.",
+      "date": ""
+    },
+    {
+      "id": "jim-slaight",
+      "type": "person",
+      "name": "Jim Slaight",
+      "summary": "Former U.S. Navy weapons-systems officer who participated in the 2004 Nimitz interception.",
+      "date": ""
+    },
+    {
       "id": "joe-spielberger",
       "type": "person",
       "name": "Joe Spielberger",
       "summary": "Whistleblower-policy specialist",
+      "date": ""
+    },
+    {
+      "id": "john-burroughs",
+      "type": "person",
+      "name": "John Burroughs",
+      "summary": "Former U.S. Air Force security policeman and firsthand witness to the Rendlesham Forest incident.",
       "date": ""
     },
     {
@@ -456,6 +596,13 @@
       "date": ""
     },
     {
+      "id": "kevin-day",
+      "type": "person",
+      "name": "Kevin Day",
+      "summary": "Former U.S. Navy radar operator who reported tracking anomalous objects during the 2004 Nimitz events.",
+      "date": ""
+    },
+    {
       "id": "luis-elizondo",
       "type": "person",
       "name": "Luis Elizondo",
@@ -467,6 +614,13 @@
       "type": "person",
       "name": "Major Hector Quintanilla",
       "summary": "U.S. Air Force officer",
+      "date": ""
+    },
+    {
+      "id": "matthew-brown",
+      "type": "person",
+      "name": "Matthew Brown",
+      "summary": "Former government analyst who publicly associated himself with allegations concerning an alleged program called Immaculate Constellation.",
       "date": ""
     },
     {
@@ -484,10 +638,24 @@
       "date": ""
     },
     {
+      "id": "robert-jacobs",
+      "type": "person",
+      "name": "Robert Jacobs",
+      "summary": "Former U.S. Air Force officer who has claimed that film of a 1964 missile test showed an unidentified object interacting with the test vehicle.",
+      "date": ""
+    },
+    {
       "id": "robert-l-hall",
       "type": "person",
       "name": "Robert L. Hall",
       "summary": "Sociologist",
+      "date": ""
+    },
+    {
+      "id": "robert-salas",
+      "type": "person",
+      "name": "Robert Salas",
+      "summary": "Former U.S. Air Force missile officer who has associated a 1967 missile shutdown with a reported UFO event.",
       "date": ""
     },
     {

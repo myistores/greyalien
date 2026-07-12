@@ -1,4 +1,4 @@
-GREYALIEN VERSION 10.0
+GREYALIEN VERSION 11.0
 
 Deployment with GitHub Desktop:
 1. Extract this ZIP.
@@ -10,12 +10,12 @@ Deployment with GitHub Desktop:
 6. Push origin.
 
 Suggested commit:
-Version 10.0 - Expand Witness and Whistleblower Database
+Version 11.0 - Add witness and whistleblower expansion
 
 Test after deployment:
+https://greyalien.com/
 https://greyalien.com/categories/whistleblower-database.html
-https://greyalien.com/entities/entity.html?id=karl-nell
-https://greyalien.com/entities/entity.html?id=christopher-mellon
-https://greyalien.com/entities/entity.html?id=ryan-graves
-https://greyalien.com/entities/entity.html?id=david-fravor
-https://greyalien.com/entities/entity.html?id=sean-kirkpatrick
+https://greyalien.com/entities/entity.html?id=alex-dietrich
+https://greyalien.com/entities/entity.html?id=matthew-brown
+https://greyalien.com/entities/entity.html?id=charles-halt
+https://greyalien.com/entities/entity.html?id=robert-salas

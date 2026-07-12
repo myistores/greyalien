@@ -1,0 +1,33 @@
+{
+  "id": "robert-salas",
+  "type": "person",
+  "name": "Robert Salas",
+  "summary": "Former U.S. Air Force missile officer who has associated a 1967 missile shutdown with a reported UFO event.",
+  "relationships": [
+    {
+      "type": "reported_case",
+      "target": "malmstrom-missile-incident"
+    },
+    {
+      "type": "affiliated_with",
+      "target": "united-states-air-force",
+      "role": "Former missile launch officer"
+    },
+    {
+      "type": "affiliated_with",
+      "target": "malmstrom-air-force-base",
+      "role": "Former officer"
+    }
+  ],
+  "profileStatus": "Former missile officer and firsthand claimant",
+  "profileSummary": "Former U.S. Air Force missile officer who has associated a 1967 missile shutdown with a reported UFO event.",
+  "background": "Former U.S. Air Force missile launch officer.",
+  "inclusionNote": "Included because the missile shutdown is documented and Salas has provided named public testimony. The asserted UFO connection remains disputed.",
+  "primarySourceLinks": [
+    {
+      "label": "Background on the Malmstrom incident",
+      "url": "https://en.wikipedia.org/wiki/Malmstrom_UFO_incident",
+      "sourceType": "Reference overview"
+    }
+  ]
+}
