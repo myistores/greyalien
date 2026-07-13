@@ -7,6 +7,16 @@
     {
       "type": "responded_to_claim",
       "target": "claim-crash-retrieval-program"
+    },
+    {
+      "type": "addresses_topic",
+      "target": "government-transparency"
+    },
+    {
+      "type": "addresses_topic",
+      "target": "aviation-safety"
     }
-  ]
+  ],
+  "externalUrl": "https://www.defense.gov/",
+  "externalLinkLabel": "Visit official or authoritative website"
 }

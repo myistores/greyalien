@@ -3,5 +3,16 @@
   "type": "organization",
   "name": "House Committee on Oversight and Accountability",
   "summary": "U.S. House oversight committee",
-  "relationships": []
+  "relationships": [
+    {
+      "type": "addresses_topic",
+      "target": "government-transparency"
+    },
+    {
+      "type": "addresses_topic",
+      "target": "whistleblower-protection"
+    }
+  ],
+  "externalUrl": "https://oversight.house.gov/",
+  "externalLinkLabel": "Visit official or authoritative website"
 }

@@ -3,5 +3,12 @@
   "type": "organization",
   "name": "Senate Committee on Armed Services",
   "summary": "U.S. Senate committee responsible for defense oversight and legislation.",
-  "relationships": []
+  "relationships": [
+    {
+      "type": "addresses_topic",
+      "target": "government-transparency"
+    }
+  ],
+  "externalUrl": "https://www.armed-services.senate.gov/",
+  "externalLinkLabel": "Visit official or authoritative website"
 }

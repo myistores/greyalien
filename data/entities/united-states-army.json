@@ -3,5 +3,7 @@
   "type": "organization",
   "name": "United States Army",
   "summary": "Land service branch of the U.S. Armed Forces.",
-  "relationships": []
+  "relationships": [],
+  "externalUrl": "https://www.army.mil/",
+  "externalLinkLabel": "Visit official or authoritative website"
 }

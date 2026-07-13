@@ -2,7 +2,7 @@
   "id": "uap-science-advisory-council",
   "type": "organization",
   "name": "UAP Science Advisory Council",
-  "summary": "Independent scientific advisory group established in 2026 to advise U.S. government agencies on UAP data and research.",
+  "summary": "Independent scientific advisory group formed to provide evidence-based guidance on UAP data, research standards, and federal scientific priorities.",
   "relationships": [
     {
       "type": "addresses_topic",
@@ -12,5 +12,7 @@
       "type": "addresses_topic",
       "target": "government-transparency"
     }
-  ]
+  ],
+  "organizationPurpose": "Connect scientists and researchers with government decision-makers and encourage transparent, testable UAP research.",
+  "formed": "2026"
 }

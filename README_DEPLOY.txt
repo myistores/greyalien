@@ -1,4 +1,4 @@
-GREYALIEN VERSION 14.0
+GREYALIEN VERSION 14.1
 
 Deployment with GitHub Desktop:
 1. Extract this ZIP.
@@ -10,14 +10,13 @@ Deployment with GitHub Desktop:
 6. Push origin.
 
 Suggested commit:
-Version 14.0 - Expand profiles and add contribution badges
+Version 14.1 - Complete organization entity audit
 
 Test after deployment:
 https://greyalien.com/
-https://greyalien.com/categories/whistleblower-database.html
-https://greyalien.com/entities/entity.html?id=garry-nolan
-https://greyalien.com/entities/entity.html?id=avi-loeb
-https://greyalien.com/entities/entity.html?id=leslie-kean
-https://greyalien.com/entities/entity.html?id=david-schindele
-https://greyalien.com/entities/entity.html?id=2026-03-31-house-uap-video-request-letter
-https://greyalien.com/entities/entity.html?id=event-2026-03-31-house-requests-uap-videos
+https://greyalien.com/entities/entity.html?id=aaro
+https://greyalien.com/entities/entity.html?id=sol-foundation
+https://greyalien.com/entities/entity.html?id=galileo-project
+https://greyalien.com/entities/entity.html?id=nasa-uap-independent-study-team
+https://greyalien.com/entities/entity.html?id=new-paradigm-institute
+https://greyalien.com/entities/entity.html?id=united-states-navy

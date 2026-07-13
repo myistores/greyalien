@@ -5,8 +5,14 @@
   "summary": "U.S. civil aviation authority responsible for aviation safety, airspace management, and regulatory policy.",
   "relationships": [
     {
-      "type": "addressed_topic",
+      "type": "addresses_topic",
       "target": "aviation-safety"
+    },
+    {
+      "type": "addresses_topic",
+      "target": "uap-reporting-systems"
     }
-  ]
+  ],
+  "externalUrl": "https://www.faa.gov/",
+  "externalLinkLabel": "Visit official or authoritative website"
 }

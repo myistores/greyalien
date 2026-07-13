@@ -2,6 +2,27 @@
   "id": "aaro",
   "type": "organization",
   "name": "All-domain Anomaly Resolution Office",
-  "summary": "Department of Defense office responsible for UAP reporting and analysis.",
-  "relationships": []
+  "summary": "Department of Defense office responsible for receiving, analyzing, and resolving reports of unidentified anomalous phenomena across operational domains.",
+  "relationships": [
+    {
+      "type": "addresses_topic",
+      "target": "government-transparency"
+    },
+    {
+      "type": "addresses_topic",
+      "target": "uap-reporting-systems"
+    },
+    {
+      "type": "addresses_topic",
+      "target": "aviation-safety"
+    },
+    {
+      "type": "held_by",
+      "target": "department-of-defense"
+    }
+  ],
+  "externalUrl": "https://www.aaro.mil/",
+  "externalLinkLabel": "Visit official website",
+  "organizationPurpose": "Provide a centralized process for UAP reporting, analysis, case resolution, historical review, and congressional reporting.",
+  "formed": "2022"
 }

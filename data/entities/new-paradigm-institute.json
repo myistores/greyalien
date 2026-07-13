@@ -2,7 +2,7 @@
   "id": "new-paradigm-institute",
   "type": "organization",
   "name": "New Paradigm Institute",
-  "summary": "Legal and public-policy initiative advocating for UAP transparency and disclosure.",
+  "summary": "Legal and public-policy initiative focused on UAP transparency, congressional action, whistleblower support, and public education.",
   "relationships": [
     {
       "type": "addresses_topic",
@@ -13,5 +13,8 @@
       "target": "whistleblower-protection"
     }
   ],
-  "externalUrl": "https://newparadigminstitute.org/"
+  "externalUrl": "https://newparadigminstitute.org/",
+  "externalLinkLabel": "Visit official website",
+  "organizationPurpose": "Advance lawful disclosure, protect witnesses and whistleblowers, and promote public access to government UAP information.",
+  "formed": "2023"
 }

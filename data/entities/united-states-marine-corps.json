@@ -3,5 +3,7 @@
   "type": "organization",
   "name": "United States Marine Corps",
   "summary": "Expeditionary service branch of the U.S. Armed Forces.",
-  "relationships": []
+  "relationships": [],
+  "externalUrl": "https://www.marines.mil/",
+  "externalLinkLabel": "Visit official or authoritative website"
 }

@@ -3,5 +3,7 @@
   "type": "organization",
   "name": "Project On Government Oversight",
   "summary": "Nonpartisan government-accountability organization.",
-  "relationships": []
+  "relationships": [],
+  "externalUrl": "https://www.pogo.org/",
+  "externalLinkLabel": "Visit official or authoritative website"
 }

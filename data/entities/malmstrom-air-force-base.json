@@ -3,5 +3,7 @@
   "type": "organization",
   "name": "Malmstrom Air Force Base",
   "summary": "U.S. Air Force installation in Montana associated with the 1967 missile shutdown incident.",
-  "relationships": []
+  "relationships": [],
+  "externalUrl": "https://www.malmstrom.af.mil/",
+  "externalLinkLabel": "Visit official or authoritative website"
 }

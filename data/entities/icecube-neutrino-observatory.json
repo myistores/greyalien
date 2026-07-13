@@ -3,5 +3,7 @@
   "type": "organization",
   "name": "IceCube Neutrino Observatory",
   "summary": "Scientific neutrino observatory located at the geographic South Pole.",
-  "relationships": []
+  "relationships": [],
+  "externalUrl": "https://icecube.wisc.edu/",
+  "externalLinkLabel": "Visit official or authoritative website"
 }

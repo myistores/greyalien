@@ -3,5 +3,16 @@
   "type": "organization",
   "name": "NASA",
   "summary": "The United States civil space agency.",
-  "relationships": []
+  "relationships": [
+    {
+      "type": "addresses_topic",
+      "target": "scientific-investigation"
+    },
+    {
+      "type": "produced_document",
+      "target": "2023-nasa-uap-independent-study-report"
+    }
+  ],
+  "externalUrl": "https://www.nasa.gov/",
+  "externalLinkLabel": "Visit official or authoritative website"
 }

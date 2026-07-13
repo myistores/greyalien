@@ -2,6 +2,19 @@
   "id": "sol-foundation",
   "type": "organization",
   "name": "The Sol Foundation",
-  "summary": "Research and policy organization focused on unidentified anomalous phenomena.",
-  "relationships": []
+  "summary": "Research institute and policy organization bringing together academic, government, and industry expertise to address scientific, policy, and social questions raised by UAP.",
+  "relationships": [
+    {
+      "type": "addresses_topic",
+      "target": "scientific-investigation"
+    },
+    {
+      "type": "addresses_topic",
+      "target": "government-transparency"
+    }
+  ],
+  "externalUrl": "https://thesolfoundation.org/",
+  "externalLinkLabel": "Visit official website",
+  "organizationPurpose": "Advance methodical UAP research, policy development, public education, and government transparency.",
+  "formed": "2022"
 }

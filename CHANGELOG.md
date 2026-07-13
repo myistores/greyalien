@@ -1,18 +1,18 @@
 # GreyAlien Changelog
 
-## Version 14.0
-- Added 15 profiles spanning science, journalism, law, government,
-  disclosure advocacy, and nuclear/strategic-facilities witnesses.
-- Added Daniel Sheehan, Garry Nolan, Avi Loeb, Leslie Kean, Ross Coulthart,
-  Steven Greer, Jim Semivan, Eric Davis, Hal Puthoff, Kit Green, Travis Taylor,
-  David Schindele, Mario Woods, Chaz King, and Harald Malmgren.
-- Added the March 31, 2026 congressional UAP-video request as both a Document
-  and Timeline Event.
-- Replaced the prior inclusion note with “Understanding the Profiles.”
-- Added experimental color badges showing each profile's primary contribution.
-- Added badges to profile cards and Person entity pages.
-- Updated the homepage Latest Additions panel to Version 14.
-- Preserved the existing 11 entity types and relationship vocabulary.
+## Version 14.1
+- Completed the first organization-entity audit.
+- Upgraded ten core organization hubs with stronger summaries, purpose statements,
+  formation dates, authoritative links, and relevant relationships.
+- Added official or authoritative external destinations to existing organizations
+  where a suitable resource was available.
+- Expanded relationships for major government, congressional, military, and
+  research organizations.
+- Added generated organization statistics for connected people, hearings,
+  documents, and timeline events.
+- Added internal organization-audit JSON and Markdown reports.
+- Updated the homepage Latest Additions panel to Version 14.1.
+- Added no new people or entity types.
 
-## Version 13.0
-- Added foundational historical and modern disclosure personalities.
+## Version 14.0
+- Expanded the Witness & Whistleblower Database and added profile badges.

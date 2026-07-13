@@ -3,5 +3,16 @@
   "type": "organization",
   "name": "United States Navy",
   "summary": "Maritime service branch of the U.S. Armed Forces",
-  "relationships": []
+  "relationships": [
+    {
+      "type": "addresses_topic",
+      "target": "aviation-safety"
+    },
+    {
+      "type": "addresses_topic",
+      "target": "uap-reporting-systems"
+    }
+  ],
+  "externalUrl": "https://www.navy.mil/",
+  "externalLinkLabel": "Visit official or authoritative website"
 }

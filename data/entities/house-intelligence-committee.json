@@ -3,5 +3,12 @@
   "type": "organization",
   "name": "House Permanent Select Committee on Intelligence",
   "summary": "U.S. House intelligence oversight committee",
-  "relationships": []
+  "relationships": [
+    {
+      "type": "addresses_topic",
+      "target": "government-transparency"
+    }
+  ],
+  "externalUrl": "https://intelligence.house.gov/",
+  "externalLinkLabel": "Visit official or authoritative website"
 }

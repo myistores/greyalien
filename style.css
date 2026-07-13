@@ -371,3 +371,14 @@ footer {
 .badge-military{color:#e5c976;background:rgba(183,144,35,.11)}
 .badge-advocate{color:#f19aac;background:rgba(191,75,99,.11)}
 .badge-researcher{color:#b8c3c0;background:rgba(137,154,150,.09)}
+
+
+/* Version 14.1 — organization hub audit */
+.organization-stats{display:grid;grid-template-columns:repeat(4,minmax(0,1fr));gap:12px;margin-top:22px}
+.organization-stats>div,.organization-overview>div{padding:16px;border:1px solid var(--line);border-radius:15px;background:rgba(255,255,255,.025)}
+.organization-stats span,.organization-overview span{display:block;color:var(--muted);font-size:.72rem;font-weight:800;letter-spacing:.07em;text-transform:uppercase}
+.organization-stats strong{display:block;margin-top:6px;color:var(--accent);font-size:1.55rem}
+.organization-overview{display:grid;grid-template-columns:minmax(0,3fr) minmax(130px,1fr);gap:12px;margin-top:12px}
+.organization-overview p{margin:7px 0 0;color:var(--text)}
+.organization-overview strong{display:block;margin-top:7px;color:var(--accent-2);font-size:1.08rem}
+@media(max-width:760px){.organization-stats{grid-template-columns:repeat(2,minmax(0,1fr))}.organization-overview{grid-template-columns:1fr}}
