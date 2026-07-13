@@ -1,0 +1,29 @@
+{
+  "id": "event-2026-03-31-house-requests-uap-videos",
+  "type": "timeline_event",
+  "name": "House Oversight Requests 46 Military UAP Videos",
+  "summary": "The House Oversight Task Force requested 46 identified military UAP videos and related records from the Department of War.",
+  "relationships": [
+    {
+      "type": "event_for",
+      "target": "2026-03-31-house-uap-video-request-letter"
+    },
+    {
+      "type": "event_for",
+      "target": "house-oversight-committee"
+    },
+    {
+      "type": "event_for",
+      "target": "department-of-defense"
+    },
+    {
+      "type": "event_for",
+      "target": "2024-11-13-house-oversight-uap"
+    },
+    {
+      "type": "event_for",
+      "target": "2025-09-09-house-uap-transparency-hearing"
+    }
+  ],
+  "date": "2026-03-31"
+}

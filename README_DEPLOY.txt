@@ -1,4 +1,4 @@
-GREYALIEN VERSION 13.0
+GREYALIEN VERSION 14.0
 
 Deployment with GitHub Desktop:
 1. Extract this ZIP.
@@ -10,17 +10,14 @@ Deployment with GitHub Desktop:
 6. Push origin.
 
 Suggested commit:
-Version 13.0 - Add foundational disclosure personalities
+Version 14.0 - Expand profiles and add contribution badges
 
 Test after deployment:
 https://greyalien.com/
-https://greyalien.com/entities/
 https://greyalien.com/categories/whistleblower-database.html
-https://greyalien.com/entities/entity.html?id=bob-lazar
-https://greyalien.com/entities/entity.html?id=philip-j-corso
-https://greyalien.com/entities/entity.html?id=clifford-stone
-https://greyalien.com/entities/entity.html?id=jonathan-weygandt
-https://greyalien.com/entities/entity.html?id=michael-herrera
-https://greyalien.com/entities/entity.html?id=eric-hecker
-https://greyalien.com/entities/entity.html?id=emery-smith
-https://greyalien.com/entities/entity.html?id=david-adair
+https://greyalien.com/entities/entity.html?id=garry-nolan
+https://greyalien.com/entities/entity.html?id=avi-loeb
+https://greyalien.com/entities/entity.html?id=leslie-kean
+https://greyalien.com/entities/entity.html?id=david-schindele
+https://greyalien.com/entities/entity.html?id=2026-03-31-house-uap-video-request-letter
+https://greyalien.com/entities/entity.html?id=event-2026-03-31-house-requests-uap-videos

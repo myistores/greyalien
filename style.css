@@ -357,3 +357,17 @@ footer {
 .entity-source-panel{display:grid;gap:9px;margin-top:28px;padding:22px;border:1px solid var(--line);border-radius:18px;background:rgba(255,255,255,.02)}
 .entity-source-panel h2{margin-top:0}
 @media(max-width:760px){.whistleblower-grid{grid-template-columns:1fr}}
+
+
+/* Version 14.0 — experimental primary-contribution badges */
+.profile-badge{display:inline-flex;align-items:center;width:max-content;padding:6px 11px;border:1px solid currentColor;border-radius:999px;font-size:.72rem;font-weight:800;letter-spacing:.055em;line-height:1;text-transform:uppercase;background:rgba(255,255,255,.035)}
+.entity-profile-badge{margin:14px 0 2px}
+.badge-witness{color:#8fd7b4;background:rgba(78,181,130,.10)}
+.badge-whistleblower{color:#82b9ff;background:rgba(62,124,214,.11)}
+.badge-scientist{color:#f0a868;background:rgba(205,121,46,.11)}
+.badge-journalist{color:#62cbd7;background:rgba(52,154,168,.11)}
+.badge-attorney{color:#d4a1e6;background:rgba(157,80,184,.11)}
+.badge-government{color:#b5a5ff;background:rgba(107,86,199,.11)}
+.badge-military{color:#e5c976;background:rgba(183,144,35,.11)}
+.badge-advocate{color:#f19aac;background:rgba(191,75,99,.11)}
+.badge-researcher{color:#b8c3c0;background:rgba(137,154,150,.09)}

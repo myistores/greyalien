@@ -30,7 +30,7 @@
       ].filter(Boolean).join(" · ");
 
       return `<article class="whistleblower-card">
-        <span class="profile-status">${esc(profile.status)}</span>
+        <span class="profile-badge ${esc(profile.badgeClass||"badge-researcher")}">${esc(profile.badge||profile.status)}</span>
         <h2><a href="../entities/entity.html?id=${encodeURIComponent(profile.id)}">${esc(person.name)}</a></h2>
         <p>${esc(profile.summary)}</p>
         <div class="profile-counts">${esc(countLine||"Connected profile")}</div>

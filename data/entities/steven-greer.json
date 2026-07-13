@@ -1,0 +1,31 @@
+{
+  "id": "steven-greer",
+  "type": "person",
+  "name": "Steven Greer",
+  "summary": "Founder of the Disclosure Project and organizer of the influential 2001 National Press Club witness event.",
+  "relationships": [
+    {
+      "type": "affiliated_with",
+      "target": "disclosure-project",
+      "role": "Founder"
+    }
+  ],
+  "profileStatus": "Disclosure advocate and physician",
+  "profileSummary": "Founder of the Disclosure Project and organizer of the influential 2001 National Press Club witness event.",
+  "profileBadge": "Disclosure Advocate",
+  "profileBadgeClass": "badge-advocate",
+  "background": "Physician, author, lecturer, and disclosure activist.",
+  "inclusionNote": "Included because his witness events, document releases, films, and advocacy strongly influenced public UFO disclosure culture, despite ongoing controversy surrounding some claims and methods.",
+  "primarySourceLinks": [
+    {
+      "label": "Disclosure Project witness archive",
+      "url": "https://drstevengreer.com/evidence-docs/witness-testimony/",
+      "sourceType": "The Disclosure Project"
+    },
+    {
+      "label": "2001 National Press Club event",
+      "url": "https://www.youtube.com/watch?v=4DrcG7VGgQU",
+      "sourceType": "Disclosure Project / YouTube"
+    }
+  ]
+}

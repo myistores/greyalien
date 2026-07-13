@@ -29,5 +29,7 @@
       "url": "https://science.nasa.gov/uap/",
       "sourceType": "NASA"
     }
-  ]
+  ],
+  "profileBadge": "Scientist / Researcher",
+  "profileBadgeClass": "badge-scientist"
 }

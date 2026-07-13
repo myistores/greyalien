@@ -1,0 +1,13 @@
+{
+  "id": "galileo-project",
+  "type": "organization",
+  "name": "The Galileo Project",
+  "summary": "Harvard-based scientific project using multimodal instruments to study anomalous aerial phenomena and possible extraterrestrial technological artifacts.",
+  "relationships": [
+    {
+      "type": "addresses_topic",
+      "target": "scientific-investigation"
+    }
+  ],
+  "externalUrl": "https://galileo.hsites.harvard.edu/"
+}

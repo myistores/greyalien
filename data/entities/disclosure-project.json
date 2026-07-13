@@ -1,0 +1,13 @@
+{
+  "id": "disclosure-project",
+  "type": "organization",
+  "name": "The Disclosure Project",
+  "summary": "Advocacy initiative founded by Steven Greer to collect and present public testimony concerning UFOs and alleged government secrecy.",
+  "relationships": [
+    {
+      "type": "addresses_topic",
+      "target": "government-transparency"
+    }
+  ],
+  "externalUrl": "https://drstevengreer.com/evidence-docs/witness-testimony/"
+}

@@ -1,0 +1,36 @@
+{
+  "id": "avi-loeb",
+  "type": "person",
+  "name": "Avi Loeb",
+  "summary": "Harvard astrophysicist, founder of the Galileo Project, and chair of the UAP Science Advisory Council.",
+  "relationships": [
+    {
+      "type": "affiliated_with",
+      "target": "galileo-project",
+      "role": "Founder and head"
+    },
+    {
+      "type": "affiliated_with",
+      "target": "uap-science-advisory-council",
+      "role": "Chair"
+    }
+  ],
+  "profileStatus": "Astrophysicist and scientific UAP researcher",
+  "profileSummary": "Harvard astrophysicist, founder of the Galileo Project, and chair of the UAP Science Advisory Council.",
+  "profileBadge": "Scientist",
+  "profileBadgeClass": "badge-scientist",
+  "background": "Frank B. Baird Jr. Professor of Science at Harvard University and former chair of Harvard's astronomy department.",
+  "inclusionNote": "Included because he leads instrument-based searches for anomalous aerial and interstellar phenomena and chairs a scientific advisory effort concerning UAP.",
+  "primarySourceLinks": [
+    {
+      "label": "The Galileo Project",
+      "url": "https://galileo.hsites.harvard.edu/",
+      "sourceType": "Harvard University"
+    },
+    {
+      "label": "UAP Science Advisory Council overview",
+      "url": "https://avi-loeb.medium.com/a-uap-science-advisory-council-to-the-u-s-f7262e57b0df",
+      "sourceType": "Avi Loeb"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "id": "ross-coulthart",
+  "type": "person",
+  "name": "Ross Coulthart",
+  "summary": "Australian investigative journalist and NewsNation correspondent whose interviews have become central records in modern UAP disclosure reporting.",
+  "relationships": [
+    {
+      "type": "affiliated_with",
+      "target": "newsnation",
+      "role": "Special correspondent"
+    }
+  ],
+  "profileStatus": "Investigative journalist and interviewer",
+  "profileSummary": "Australian investigative journalist and NewsNation correspondent whose interviews have become central records in modern UAP disclosure reporting.",
+  "profileBadge": "Investigative Journalist",
+  "profileBadgeClass": "badge-journalist",
+  "background": "Award-winning journalist, author, documentary producer, and NewsNation special correspondent.",
+  "inclusionNote": "Included because his interviews with David Grusch, Jake Barber, and other sources materially shaped public awareness of modern UAP claims.",
+  "primarySourceLinks": [
+    {
+      "label": "Ross Coulthart official site",
+      "url": "https://www.rosscoulthart.com/",
+      "sourceType": "Ross Coulthart"
+    },
+    {
+      "label": "NewsNation UAP reporting",
+      "url": "https://www.newsnationnow.com/space/ufo/",
+      "sourceType": "NewsNation"
+    }
+  ]
+}

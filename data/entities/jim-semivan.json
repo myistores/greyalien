@@ -1,0 +1,31 @@
+{
+  "id": "jim-semivan",
+  "type": "person",
+  "name": "Jim Semivan",
+  "summary": "Former CIA operations officer and cofounder of To The Stars Academy of Arts & Science.",
+  "relationships": [
+    {
+      "type": "affiliated_with",
+      "target": "to-the-stars-academy",
+      "role": "Cofounder"
+    }
+  ],
+  "profileStatus": "Former intelligence officer and disclosure organization cofounder",
+  "profileSummary": "Former CIA operations officer and cofounder of To The Stars Academy of Arts & Science.",
+  "profileBadge": "Former Government Official",
+  "profileBadgeClass": "badge-government",
+  "background": "Retired CIA operations officer.",
+  "inclusionNote": "Included because his intelligence background and organizational role connect government experience, Luis Elizondo, Christopher Mellon, public media, and disclosure advocacy.",
+  "primarySourceLinks": [
+    {
+      "label": "To The Stars Academy",
+      "url": "https://tothestars.media/pages/about",
+      "sourceType": "To The Stars Academy"
+    },
+    {
+      "label": "Public interview with Jim Semivan",
+      "url": "https://www.youtube.com/watch?v=KxtL-sBhe30",
+      "sourceType": "YouTube interview"
+    }
+  ]
+}

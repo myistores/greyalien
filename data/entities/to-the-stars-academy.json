@@ -1,0 +1,13 @@
+{
+  "id": "to-the-stars-academy",
+  "type": "organization",
+  "name": "To The Stars Academy of Arts & Science",
+  "summary": "Public-benefit corporation associated with UAP research, media, and disclosure advocacy.",
+  "relationships": [
+    {
+      "type": "addresses_topic",
+      "target": "government-transparency"
+    }
+  ],
+  "externalUrl": "https://tothestars.media/"
+}

@@ -1,0 +1,35 @@
+{
+  "id": "mario-woods",
+  "type": "person",
+  "name": "Mario Woods",
+  "summary": "Former U.S. Air Force security policeman who has publicly described a 1977 UFO encounter near a nuclear missile facility.",
+  "relationships": [
+    {
+      "type": "reported_case",
+      "target": "1977-ellsworth-air-force-base-incident"
+    },
+    {
+      "type": "affiliated_with",
+      "target": "united-states-air-force",
+      "role": "Former security policeman"
+    }
+  ],
+  "profileStatus": "Former Air Force security policeman and nuclear-facilities witness",
+  "profileSummary": "Former U.S. Air Force security policeman who has publicly described a 1977 UFO encounter near a nuclear missile facility.",
+  "profileBadge": "Firsthand Witness",
+  "profileBadgeClass": "badge-witness",
+  "background": "Former U.S. Air Force security policeman.",
+  "inclusionNote": "Included because his named account expands the strategic-facilities witness cluster and connects military security, missile sites, and reported anomalous encounters.",
+  "primarySourceLinks": [
+    {
+      "label": "Public witness interview",
+      "url": "https://www.youtube.com/watch?v=74w_kbq5Ji8",
+      "sourceType": "YouTube interview"
+    },
+    {
+      "label": "Nuclear-site testimony event",
+      "url": "https://www.youtube.com/watch?v=3jUU4Z8QdHI",
+      "sourceType": "National Press Club / YouTube"
+    }
+  ]
+}

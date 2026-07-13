@@ -1,277 +1,487 @@
 {
   "schemaVersion": 1,
   "title": "Witness & Whistleblower Database 1.0",
-  "description": "Documented profiles connecting people to congressional testimony, interviews, organizations, hearings, claims, and supporting source material.",
+  "description": "The Witness & Whistleblower Database documents individuals who have significantly contributed to the public understanding of Unidentified Anomalous Phenomena.",
   "profiles": [
     {
       "id": "david-grusch",
       "status": "Public whistleblower and congressional witness",
       "summary": "Former U.S. intelligence officer whose public testimony and written statement raised allegations concerning hidden UAP programs and congressional oversight.",
-      "inclusionNote": "Included because of public congressional testimony, written testimony, public interviews, and documented whistleblower-related reporting."
+      "inclusionNote": "Included because of public congressional testimony, written testimony, public interviews, and documented whistleblower-related reporting.",
+      "badge": "Whistleblower",
+      "badgeClass": "badge-whistleblower"
     },
     {
       "id": "luis-elizondo",
       "status": "Former official, public witness, and disclosure advocate",
       "summary": "Former Department of Defense official who testified publicly about alleged secret UAP programs, oversight concerns, and protections for people reporting UAP information.",
-      "inclusionNote": "Included because of public congressional testimony, an official written statement, and testimony concerning whistleblowers and alleged retaliation."
+      "inclusionNote": "Included because of public congressional testimony, an official written statement, and testimony concerning whistleblowers and alleged retaliation.",
+      "badge": "Firsthand Witness",
+      "badgeClass": "badge-witness"
     },
     {
       "id": "dylan-borland",
       "status": "Self-identified federal whistleblower and congressional witness",
       "summary": "Former Air Force geospatial-intelligence specialist who described himself in official written testimony as a federal whistleblower and presented allegations concerning UAP programs and retaliation.",
-      "inclusionNote": "Included because his official House statement explicitly identifies him as a federal whistleblower and records testimony to AARO and the Intelligence Community Inspector General."
+      "inclusionNote": "Included because his official House statement explicitly identifies him as a federal whistleblower and records testimony to AARO and the Intelligence Community Inspector General.",
+      "badge": "Whistleblower",
+      "badgeClass": "badge-whistleblower"
     },
     {
       "id": "alexandro-wiggins",
       "status": "Firsthand military witness and congressional witness",
       "summary": "Active-duty U.S. Navy Senior Chief Petty Officer who submitted a firsthand account of a February 2023 UAP event and discussed it publicly in congressional testimony and an interview.",
-      "inclusionNote": "Included as a witness profile, not labeled as a whistleblower. His record tests how witness testimony, interviews, claims, organizations, and supporting documents connect."
+      "inclusionNote": "Included as a witness profile, not labeled as a whistleblower. His record tests how witness testimony, interviews, claims, organizations, and supporting documents connect.",
+      "badge": "Firsthand Witness",
+      "badgeClass": "badge-witness"
     },
     {
       "id": "karl-nell",
       "status": "Former military officer and public disclosure advocate",
       "summary": "Retired U.S. Army colonel, aerospace executive, and public advocate for greater government disclosure concerning UAP.",
-      "inclusionNote": "Included because of his former military and national-security background, public statements concerning UAP disclosure, and direct relevance to claims and people already represented in the knowledge graph."
+      "inclusionNote": "Included because of his former military and national-security background, public statements concerning UAP disclosure, and direct relevance to claims and people already represented in the knowledge graph.",
+      "badge": "Military Contributor",
+      "badgeClass": "badge-military"
     },
     {
       "id": "christopher-mellon",
       "status": "Former government official and public disclosure advocate",
       "summary": "Former Deputy Assistant Secretary of Defense for Intelligence and former Senate Intelligence Committee staff director who has advocated for congressional UAP oversight.",
-      "inclusionNote": "Included because of his former defense and congressional-intelligence roles, public advocacy for UAP oversight, and involvement in bringing military UAP reporting to congressional attention."
+      "inclusionNote": "Included because of his former defense and congressional-intelligence roles, public advocacy for UAP oversight, and involvement in bringing military UAP reporting to congressional attention.",
+      "badge": "Former Government Official",
+      "badgeClass": "badge-government"
     },
     {
       "id": "ryan-graves",
       "status": "Firsthand military witness and congressional witness",
       "summary": "Former U.S. Navy F/A-18 pilot, aviation-safety advocate, and congressional witness.",
-      "inclusionNote": "Included because of firsthand military reporting, official congressional testimony, written testimony, and continuing aviation-safety advocacy."
+      "inclusionNote": "Included because of firsthand military reporting, official congressional testimony, written testimony, and continuing aviation-safety advocacy.",
+      "badge": "Firsthand Witness",
+      "badgeClass": "badge-witness"
     },
     {
       "id": "david-fravor",
       "status": "Firsthand military witness and congressional witness",
       "summary": "Retired U.S. Navy commander, firsthand witness to the 2004 Nimitz encounter, and congressional witness.",
-      "inclusionNote": "Included because of firsthand involvement in the 2004 Nimitz encounter, official congressional testimony, written testimony, and documented public interviews."
+      "inclusionNote": "Included because of firsthand involvement in the 2004 Nimitz encounter, official congressional testimony, written testimony, and documented public interviews.",
+      "badge": "Firsthand Witness",
+      "badgeClass": "badge-witness"
     },
     {
       "id": "sean-kirkpatrick",
       "status": "Former government official and congressional witness",
       "summary": "Former Director of the All-domain Anomaly Resolution Office and government witness before Congress.",
-      "inclusionNote": "Included because of his leadership of AARO, public and classified congressional testimony, and central role in the official government response to UAP reporting and analysis."
+      "inclusionNote": "Included because of his leadership of AARO, public and classified congressional testimony, and central role in the official government response to UAP reporting and analysis.",
+      "badge": "Firsthand Witness",
+      "badgeClass": "badge-witness"
     },
     {
       "id": "alex-dietrich",
       "status": "Firsthand military witness",
       "summary": "Former U.S. Navy F/A-18 pilot and firsthand witness to the November 2004 Nimitz encounter.",
-      "inclusionNote": "Included because of her firsthand role in the Nimitz encounter and extensive on-the-record public testimony about the event."
+      "inclusionNote": "Included because of her firsthand role in the Nimitz encounter and extensive on-the-record public testimony about the event.",
+      "badge": "Firsthand Witness",
+      "badgeClass": "badge-witness"
     },
     {
       "id": "chad-underwood",
       "status": "Military sensor witness",
       "summary": "Former U.S. Navy aviator who recorded the FLIR1 video during the 2004 Nimitz encounter.",
-      "inclusionNote": "Included because he operated the sensor system that produced one of the most significant publicly released videos connected to the Nimitz case."
+      "inclusionNote": "Included because he operated the sensor system that produced one of the most significant publicly released videos connected to the Nimitz case.",
+      "badge": "Firsthand Witness",
+      "badgeClass": "badge-witness"
     },
     {
       "id": "kevin-day",
       "status": "Military radar witness",
       "summary": "Former U.S. Navy radar operator who reported tracking anomalous objects during the 2004 Nimitz events.",
-      "inclusionNote": "Included because his radar account supplies a major sensor-based perspective on the Nimitz timeline."
+      "inclusionNote": "Included because his radar account supplies a major sensor-based perspective on the Nimitz timeline.",
+      "badge": "Firsthand Witness",
+      "badgeClass": "badge-witness"
     },
     {
       "id": "gary-voorhis",
       "status": "Military radar and systems witness",
       "summary": "Former U.S. Navy technician who has described radar and data-handling activity connected to the 2004 Nimitz events.",
-      "inclusionNote": "Included because his account links the Nimitz case to shipboard radar systems, data handling, and the broader witness network."
+      "inclusionNote": "Included because his account links the Nimitz case to shipboard radar systems, data handling, and the broader witness network.",
+      "badge": "Firsthand Witness",
+      "badgeClass": "badge-witness"
     },
     {
       "id": "douglas-kurth",
       "status": "Firsthand military witness",
       "summary": "Former U.S. Marine Corps aviator who reported observing an unusual disturbance on the ocean during the 2004 Nimitz events.",
-      "inclusionNote": "Included because his observation preceded the best-known visual interception and adds an independent element to the case timeline."
+      "inclusionNote": "Included because his observation preceded the best-known visual interception and adds an independent element to the case timeline.",
+      "badge": "Firsthand Witness",
+      "badgeClass": "badge-witness"
     },
     {
       "id": "jim-slaight",
       "status": "Firsthand military witness",
       "summary": "Former U.S. Navy weapons-systems officer who participated in the 2004 Nimitz interception.",
-      "inclusionNote": "Included to represent the full aircrew involved in the visual interception and strengthen the firsthand witness record."
+      "inclusionNote": "Included to represent the full aircrew involved in the visual interception and strengthen the firsthand witness record.",
+      "badge": "Firsthand Witness",
+      "badgeClass": "badge-witness"
     },
     {
       "id": "matthew-brown",
       "status": "Self-identified former government whistleblower",
       "summary": "Former government analyst who publicly associated himself with allegations concerning an alleged program called Immaculate Constellation.",
-      "inclusionNote": "Included because he has publicly identified himself and given extended on-the-record interviews. His central allegations remain unverified publicly."
+      "inclusionNote": "Included because he has publicly identified himself and given extended on-the-record interviews. His central allegations remain unverified publicly.",
+      "badge": "Whistleblower",
+      "badgeClass": "badge-whistleblower"
     },
     {
       "id": "jake-barber",
       "status": "Self-identified recovery-program whistleblower",
       "summary": "Former military servicemember who publicly claimed involvement in recovery operations involving unusual objects.",
-      "inclusionNote": "Included because he has made named, on-the-record claims. The alleged retrieval activities remain unverified publicly."
+      "inclusionNote": "Included because he has made named, on-the-record claims. The alleged retrieval activities remain unverified publicly.",
+      "badge": "Whistleblower",
+      "badgeClass": "badge-whistleblower"
     },
     {
       "id": "james-lacatski",
       "status": "Former government program manager",
       "summary": "Former Defense Intelligence Agency official associated with the AAWSAP program.",
-      "inclusionNote": "Included because of his documented government role, authorship, and direct public discussion of AAWSAP and related findings."
+      "inclusionNote": "Included because of his documented government role, authorship, and direct public discussion of AAWSAP and related findings.",
+      "badge": "Research Contributor",
+      "badgeClass": "badge-researcher"
     },
     {
       "id": "jay-stratton",
       "status": "Former government UAP program official",
       "summary": "Former intelligence official associated with AAWSAP and leadership of the UAP Task Force.",
-      "inclusionNote": "Included because of his established government roles and public statements concerning UAP investigations and institutional handling of the subject."
+      "inclusionNote": "Included because of his established government roles and public statements concerning UAP investigations and institutional handling of the subject.",
+      "badge": "Former Government Official",
+      "badgeClass": "badge-government"
     },
     {
       "id": "charles-halt",
       "status": "Military witness and official memorandum author",
       "summary": "Retired U.S. Air Force officer who investigated and documented part of the 1980 Rendlesham Forest incident.",
-      "inclusionNote": "Included because he authored a contemporaneous official memorandum and recorded observations associated with the Rendlesham case."
+      "inclusionNote": "Included because he authored a contemporaneous official memorandum and recorded observations associated with the Rendlesham case.",
+      "badge": "Firsthand Witness",
+      "badgeClass": "badge-witness"
     },
     {
       "id": "john-burroughs",
       "status": "Firsthand military witness",
       "summary": "Former U.S. Air Force security policeman and firsthand witness to the Rendlesham Forest incident.",
-      "inclusionNote": "Included because his contemporaneous written statement is part of the released official record."
+      "inclusionNote": "Included because his contemporaneous written statement is part of the released official record.",
+      "badge": "Firsthand Witness",
+      "badgeClass": "badge-witness"
     },
     {
       "id": "jim-penniston",
       "status": "Firsthand military witness",
       "summary": "Former U.S. Air Force security supervisor who submitted a contemporaneous statement concerning the Rendlesham Forest incident.",
-      "inclusionNote": "Included because of his original written statement. Later additions to his account should be distinguished from the contemporaneous record."
+      "inclusionNote": "Included because of his original written statement. Later additions to his account should be distinguished from the contemporaneous record.",
+      "badge": "Firsthand Witness",
+      "badgeClass": "badge-witness"
     },
     {
       "id": "robert-salas",
       "status": "Former missile officer and firsthand claimant",
       "summary": "Former U.S. Air Force missile officer who has associated a 1967 missile shutdown with a reported UFO event.",
-      "inclusionNote": "Included because the missile shutdown is documented and Salas has provided named public testimony. The asserted UFO connection remains disputed."
+      "inclusionNote": "Included because the missile shutdown is documented and Salas has provided named public testimony. The asserted UFO connection remains disputed.",
+      "badge": "Firsthand Witness",
+      "badgeClass": "badge-witness"
     },
     {
       "id": "robert-jacobs",
       "status": "Former military photographic officer and claimant",
       "summary": "Former U.S. Air Force officer who has claimed that film of a 1964 missile test showed an unidentified object interacting with the test vehicle.",
-      "inclusionNote": "Included because he was a named participant in the missile-test program and has maintained a detailed public account. The interpretation of the film is disputed."
+      "inclusionNote": "Included because he was a named participant in the missile-test program and has maintained a detailed public account. The interpretation of the film is disputed.",
+      "badge": "Research Contributor",
+      "badgeClass": "badge-researcher"
     },
     {
       "id": "patrick-pj-hughes",
       "status": "Military aviation witness",
       "summary": "Former U.S. Navy E-2 Hawkeye crew member associated with recording media and post-event activity following the 2004 Nimitz encounter.",
-      "inclusionNote": "Included because he has publicly described handling E-2 recording media and its removal after the Nimitz events. The account is based on witness interviews rather than a released official chain-of-custody record."
+      "inclusionNote": "Included because he has publicly described handling E-2 recording media and its removal after the Nimitz events. The account is based on witness interviews rather than a released official chain-of-custody record.",
+      "badge": "Firsthand Witness",
+      "badgeClass": "badge-witness"
     },
     {
       "id": "jason-turner",
       "status": "USS Princeton witness",
       "summary": "Former USS Princeton crew member who has publicly described viewing a longer version of video associated with the 2004 Nimitz encounter.",
-      "inclusionNote": "Included because of his named public account concerning shipboard video and post-event handling. The longer-video account has not been independently established through a released official copy."
+      "inclusionNote": "Included because of his named public account concerning shipboard video and post-event handling. The longer-video account has not been independently established through a released official copy.",
+      "badge": "Firsthand Witness",
+      "badgeClass": "badge-witness"
     },
     {
       "id": "ryan-weigelt",
       "status": "Navy helicopter crew witness",
       "summary": "Former U.S. Navy helicopter crew member connected to post-event activity during the 2004 Nimitz encounter.",
-      "inclusionNote": "Included because of his named public account concerning post-event activity associated with the Nimitz case."
+      "inclusionNote": "Included because of his named public account concerning post-event activity associated with the Nimitz case.",
+      "badge": "Firsthand Witness",
+      "badgeClass": "badge-witness"
     },
     {
       "id": "karson-kammerzell",
       "status": "Military communications and records witness",
       "summary": "Former U.S. Navy cryptologic technician associated with shipboard records and communications connected to the 2004 Nimitz encounter.",
-      "inclusionNote": "Included because of his named public account concerning records, communications, and logs associated with the Nimitz events."
+      "inclusionNote": "Included because of his named public account concerning records, communications, and logs associated with the Nimitz events.",
+      "badge": "Firsthand Witness",
+      "badgeClass": "badge-witness"
     },
     {
       "id": "david-spergel",
       "status": "NASA independent-study chair",
       "summary": "Astrophysicist who chaired NASA's UAP Independent Study Team.",
-      "inclusionNote": "Included because NASA formally appointed him chair of the UAP Independent Study Team and he helped present the team's public findings and recommendations."
+      "inclusionNote": "Included because NASA formally appointed him chair of the UAP Independent Study Team and he helped present the team's public findings and recommendations.",
+      "badge": "Scientist / Researcher",
+      "badgeClass": "badge-scientist"
     },
     {
       "id": "scott-kelly",
       "status": "NASA independent-study member",
       "summary": "Retired NASA astronaut and former U.S. Navy aviator who served on NASA's UAP Independent Study Team.",
-      "inclusionNote": "Included because NASA formally appointed him to the UAP Independent Study Team, adding operational aviation and astronaut experience to the panel."
+      "inclusionNote": "Included because NASA formally appointed him to the UAP Independent Study Team, adding operational aviation and astronaut experience to the panel.",
+      "badge": "Scientist / Researcher",
+      "badgeClass": "badge-scientist"
     },
     {
       "id": "joshua-semeter",
       "status": "NASA independent-study member",
       "summary": "Professor and atmospheric-sensing specialist who served on NASA's UAP Independent Study Team.",
-      "inclusionNote": "Included because NASA appointed him to provide expertise in atmospheric sensing, remote observation, and data interpretation."
+      "inclusionNote": "Included because NASA appointed him to provide expertise in atmospheric sensing, remote observation, and data interpretation.",
+      "badge": "Scientist / Researcher",
+      "badgeClass": "badge-scientist"
     },
     {
       "id": "warren-randolph",
       "status": "FAA aviation-safety specialist and NASA study-team member",
       "summary": "Federal Aviation Administration specialist who served on NASA's UAP Independent Study Team.",
-      "inclusionNote": "Included because NASA appointed him to contribute civil-aviation safety, reporting, and investigative expertise."
+      "inclusionNote": "Included because NASA appointed him to contribute civil-aviation safety, reporting, and investigative expertise.",
+      "badge": "Scientist / Researcher",
+      "badgeClass": "badge-scientist"
     },
     {
       "id": "karlin-toner",
       "status": "FAA policy official and NASA study-team member",
       "summary": "Federal Aviation Administration policy official who served on NASA's UAP Independent Study Team.",
-      "inclusionNote": "Included because NASA appointed her to contribute civil-aviation policy and federal-agency coordination experience."
+      "inclusionNote": "Included because NASA appointed her to contribute civil-aviation policy and federal-agency coordination experience.",
+      "badge": "Scientist / Researcher",
+      "badgeClass": "badge-scientist"
     },
     {
       "id": "anamaria-berea",
       "status": "NASA independent-study member",
       "summary": "Computational and data scientist who served on NASA's UAP Independent Study Team.",
-      "inclusionNote": "Included because NASA appointed her to provide expertise in complex systems, data analysis, and interdisciplinary research."
+      "inclusionNote": "Included because NASA appointed her to provide expertise in complex systems, data analysis, and interdisciplinary research.",
+      "badge": "Scientist / Researcher",
+      "badgeClass": "badge-scientist"
     },
     {
       "id": "federica-bianco",
       "status": "NASA independent-study member",
       "summary": "Astrophysicist and data-science specialist who served on NASA's UAP Independent Study Team.",
-      "inclusionNote": "Included because NASA appointed her to contribute observational astronomy, survey science, and large-scale data-analysis expertise."
+      "inclusionNote": "Included because NASA appointed her to contribute observational astronomy, survey science, and large-scale data-analysis expertise.",
+      "badge": "Scientist / Researcher",
+      "badgeClass": "badge-scientist"
     },
     {
       "id": "david-grinspoon",
       "status": "NASA independent-study member",
       "summary": "Astrobiologist and planetary scientist who served on NASA's UAP Independent Study Team.",
-      "inclusionNote": "Included because NASA appointed him to contribute planetary-science, astrobiology, and public-science expertise."
+      "inclusionNote": "Included because NASA appointed him to contribute planetary-science, astrobiology, and public-science expertise.",
+      "badge": "Scientist / Researcher",
+      "badgeClass": "badge-scientist"
     },
     {
       "id": "shelley-wright",
       "status": "NASA independent-study member",
       "summary": "Astronomer and instrumentation specialist who served on NASA's UAP Independent Study Team.",
-      "inclusionNote": "Included because NASA appointed her to contribute astronomical instrumentation, observational methods, and technosignature-research experience."
+      "inclusionNote": "Included because NASA appointed her to contribute astronomical instrumentation, observational methods, and technosignature-research experience.",
+      "badge": "Scientist / Researcher",
+      "badgeClass": "badge-scientist"
     },
     {
       "id": "bob-lazar",
       "status": "Foundational public claimant and disclosure personality",
       "summary": "Public figure whose 1989 interviews alleging work at S-4 near Area 51 profoundly shaped modern UFO culture and reverse-engineering narratives.",
-      "inclusionNote": "Included because of his foundational influence on Area 51, S-4, Element 115, and reverse-engineering narratives. His educational and employment claims, evidence, and interpretations remain heavily disputed."
+      "inclusionNote": "Included because of his foundational influence on Area 51, S-4, Element 115, and reverse-engineering narratives. His educational and employment claims, evidence, and interpretations remain heavily disputed.",
+      "badge": "Research Contributor",
+      "badgeClass": "badge-researcher"
     },
     {
       "id": "philip-j-corso",
       "status": "Former Army officer and influential historical claimant",
       "summary": "Retired U.S. Army lieutenant colonel and coauthor of The Day After Roswell, which alleged military transfer and reverse engineering of recovered technology.",
-      "inclusionNote": "Included because his documented Army career and bestselling book made him one of the most influential historical figures in Roswell and reverse-engineering literature. The book's extraordinary claims remain disputed."
+      "inclusionNote": "Included because his documented Army career and bestselling book made him one of the most influential historical figures in Roswell and reverse-engineering literature. The book's extraordinary claims remain disputed.",
+      "badge": "Military Contributor",
+      "badgeClass": "badge-military"
     },
     {
       "id": "clifford-stone",
       "status": "Army veteran and historical crash-retrieval claimant",
       "summary": "Retired U.S. Army sergeant who publicly claimed involvement in operations involving recovered craft and non-human beings.",
-      "inclusionNote": "Included because his testimony, books, and public appearances influenced crash-retrieval and military-insider narratives. His extraordinary claims are not independently established."
+      "inclusionNote": "Included because his testimony, books, and public appearances influenced crash-retrieval and military-insider narratives. His extraordinary claims are not independently established.",
+      "badge": "Research Contributor",
+      "badgeClass": "badge-researcher"
     },
     {
       "id": "jonathan-weygandt",
       "status": "Former Marine and firsthand crash-encounter claimant",
       "summary": "Former U.S. Marine who publicly described an alleged 1997 encounter with a crashed object in Peru.",
-      "inclusionNote": "Included because his recorded testimony has circulated for decades and is foundational to crash-retrieval research. The event has not been publicly confirmed through official records."
+      "inclusionNote": "Included because his recorded testimony has circulated for decades and is foundational to crash-retrieval research. The event has not been publicly confirmed through official records.",
+      "badge": "Firsthand Witness",
+      "badgeClass": "badge-witness"
     },
     {
       "id": "michael-herrera",
       "status": "Former Marine and firsthand craft-encounter claimant",
       "summary": "Former U.S. Marine who publicly alleged that he observed a large advanced craft and unidentified personnel during a 2009 humanitarian deployment in Indonesia.",
-      "inclusionNote": "Included because he has made named public statements and reported providing information through whistleblower channels. Major details of the account remain unverified and have been publicly disputed."
+      "inclusionNote": "Included because he has made named public statements and reported providing information through whistleblower channels. Major details of the account remain unverified and have been publicly disputed.",
+      "badge": "Firsthand Witness",
+      "badgeClass": "badge-witness"
     },
     {
       "id": "eric-hecker",
       "status": "Former contractor and South Pole technology claimant",
       "summary": "Former contractor who publicly alleged that South Pole facilities possessed advanced directed-energy and communications capabilities.",
-      "inclusionNote": "Included because he is a prominent modern disclosure personality with a documented interview record. His central South Pole claims are strongly disputed by scientists and fact-checkers."
+      "inclusionNote": "Included because he is a prominent modern disclosure personality with a documented interview record. His central South Pole claims are strongly disputed by scientists and fact-checkers.",
+      "badge": "Research Contributor",
+      "badgeClass": "badge-researcher"
     },
     {
       "id": "emery-smith",
       "status": "Disclosure-media personality and classified-program claimant",
       "summary": "Media personality who has publicly claimed involvement in classified medical and biological programs concerning alleged non-human material.",
-      "inclusionNote": "Included because of his visibility within modern disclosure media and the influence of his claims on public discussion. Publicly verifiable documentation for the alleged programs is limited."
+      "inclusionNote": "Included because of his visibility within modern disclosure media and the influence of his claims on public discussion. Publicly verifiable documentation for the alleged programs is limited.",
+      "badge": "Research Contributor",
+      "badgeClass": "badge-researcher"
     },
     {
       "id": "david-adair",
       "status": "Rocketry personality and Area 51 technology claimant",
       "summary": "Public speaker and rocketry personality who has long claimed that he viewed an unusual propulsion system at a classified Nevada facility.",
-      "inclusionNote": "Included because his Area 51 account has circulated for decades and influenced reverse-engineering and propulsion narratives. The extraordinary portions of the story are not independently established."
+      "inclusionNote": "Included because his Area 51 account has circulated for decades and influenced reverse-engineering and propulsion narratives. The extraordinary portions of the story are not independently established.",
+      "badge": "Research Contributor",
+      "badgeClass": "badge-researcher"
+    },
+    {
+      "id": "daniel-sheehan",
+      "status": "Attorney and UAP disclosure advocate",
+      "badge": "Attorney",
+      "badgeClass": "badge-attorney",
+      "summary": "Constitutional attorney and New Paradigm Institute leader involved in UAP disclosure advocacy and legal support for witnesses and whistleblowers.",
+      "inclusionNote": "Included because his legal work and advocacy connect whistleblowers, disclosure legislation, public-interest law, and the broader UAP transparency movement."
+    },
+    {
+      "id": "garry-nolan",
+      "status": "Scientist and research advocate",
+      "badge": "Scientist",
+      "badgeClass": "badge-scientist",
+      "summary": "Stanford pathology professor and Sol Foundation cofounder whose scientific work and public commentary have influenced modern UAP research.",
+      "inclusionNote": "Included because of his academic credentials, scientific research, Sol Foundation leadership, and involvement in evidence-focused UAP discussion."
+    },
+    {
+      "id": "avi-loeb",
+      "status": "Astrophysicist and scientific UAP researcher",
+      "badge": "Scientist",
+      "badgeClass": "badge-scientist",
+      "summary": "Harvard astrophysicist, founder of the Galileo Project, and chair of the UAP Science Advisory Council.",
+      "inclusionNote": "Included because he leads instrument-based searches for anomalous aerial and interstellar phenomena and chairs a scientific advisory effort concerning UAP."
+    },
+    {
+      "id": "leslie-kean",
+      "status": "Investigative journalist and author",
+      "badge": "Investigative Journalist",
+      "badgeClass": "badge-journalist",
+      "summary": "Investigative journalist whose reporting helped bring modern UAP programs, military encounters, and government records into mainstream public discussion.",
+      "inclusionNote": "Included because her reporting—especially the 2017 New York Times investigation and later reporting on David Grusch—helped shape modern public and congressional awareness."
+    },
+    {
+      "id": "ross-coulthart",
+      "status": "Investigative journalist and interviewer",
+      "badge": "Investigative Journalist",
+      "badgeClass": "badge-journalist",
+      "summary": "Australian investigative journalist and NewsNation correspondent whose interviews have become central records in modern UAP disclosure reporting.",
+      "inclusionNote": "Included because his interviews with David Grusch, Jake Barber, and other sources materially shaped public awareness of modern UAP claims."
+    },
+    {
+      "id": "steven-greer",
+      "status": "Disclosure advocate and physician",
+      "badge": "Disclosure Advocate",
+      "badgeClass": "badge-advocate",
+      "summary": "Founder of the Disclosure Project and organizer of the influential 2001 National Press Club witness event.",
+      "inclusionNote": "Included because his witness events, document releases, films, and advocacy strongly influenced public UFO disclosure culture, despite ongoing controversy surrounding some claims and methods."
+    },
+    {
+      "id": "jim-semivan",
+      "status": "Former intelligence officer and disclosure organization cofounder",
+      "badge": "Former Government Official",
+      "badgeClass": "badge-government",
+      "summary": "Former CIA operations officer and cofounder of To The Stars Academy of Arts & Science.",
+      "inclusionNote": "Included because his intelligence background and organizational role connect government experience, Luis Elizondo, Christopher Mellon, public media, and disclosure advocacy."
+    },
+    {
+      "id": "eric-davis",
+      "status": "Physicist and government-contract researcher",
+      "badge": "Scientist",
+      "badgeClass": "badge-scientist",
+      "summary": "Physicist associated with advanced-propulsion studies, AAWSAP-related technical work, and public discussion of government UAP investigations.",
+      "inclusionNote": "Included because his technical publications and government-contract research connect AAWSAP, advanced propulsion, congressional briefings, and scientific discussion of anomalous aerospace phenomena."
+    },
+    {
+      "id": "hal-puthoff",
+      "status": "Physicist and advanced-propulsion researcher",
+      "badge": "Scientist",
+      "badgeClass": "badge-scientist",
+      "summary": "Physicist associated with SRI research, advanced propulsion, EarthTech International, AAWSAP-related work, and To The Stars Academy.",
+      "inclusionNote": "Included because his work and organizational roles connect several major government, private-research, and disclosure initiatives."
+    },
+    {
+      "id": "christopher-kit-green",
+      "status": "Former CIA medical-intelligence officer and researcher",
+      "badge": "Former Government Official",
+      "badgeClass": "badge-government",
+      "summary": "Physician and former CIA biomedical-intelligence official associated publicly with research into reported physiological effects of anomalous encounters.",
+      "inclusionNote": "Included because his documented intelligence and medical background connect government research, witness-health reports, anomalous effects, and scientific investigation."
+    },
+    {
+      "id": "travis-taylor",
+      "status": "Aerospace engineer and former UAP Task Force scientist",
+      "badge": "Scientist",
+      "badgeClass": "badge-scientist",
+      "summary": "Aerospace engineer, author, television personality, and former chief scientist for the UAP Task Force.",
+      "inclusionNote": "Included because his documented government role and scientific background connect the UAP Task Force, military analysis, media, and Skinwalker Ranch investigations."
+    },
+    {
+      "id": "david-schindele",
+      "status": "Former missile officer and nuclear-facilities witness",
+      "badge": "Firsthand Witness",
+      "badgeClass": "badge-witness",
+      "summary": "Former U.S. Air Force missile launch officer who has publicly described a 1966 UFO-related event and missile shutdowns near Minot Air Force Base.",
+      "inclusionNote": "Included because he provides a named military account connecting UFO reports, nuclear command systems, missile shutdowns, and government secrecy."
+    },
+    {
+      "id": "mario-woods",
+      "status": "Former Air Force security policeman and nuclear-facilities witness",
+      "badge": "Firsthand Witness",
+      "badgeClass": "badge-witness",
+      "summary": "Former U.S. Air Force security policeman who has publicly described a 1977 UFO encounter near a nuclear missile facility.",
+      "inclusionNote": "Included because his named account expands the strategic-facilities witness cluster and connects military security, missile sites, and reported anomalous encounters."
+    },
+    {
+      "id": "chaz-king",
+      "status": "Former Air Force security specialist and strategic-facilities witness",
+      "badge": "Firsthand Witness",
+      "badgeClass": "badge-witness",
+      "summary": "Former U.S. Air Force security personnel associated with publicly reported 2003 UAP incidents near Vandenberg Air Force Base.",
+      "inclusionNote": "Included because his account helps document a strategic-facilities incident cluster and provides connections to military security, Vandenberg, and other named witnesses."
+    },
+    {
+      "id": "harald-malmgren",
+      "status": "Former presidential adviser and late-life UAP claimant",
+      "badge": "Former Government Official",
+      "badgeClass": "badge-government",
+      "summary": "Economist and former presidential adviser whose late-life public statements included extraordinary claims concerning government knowledge of UAP.",
+      "inclusionNote": "Included because of his documented government career and the historical significance of his late-life statements. His extraordinary allegations require careful separation from his verified public-service record."
     }
   ]
 }
