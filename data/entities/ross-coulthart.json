@@ -13,6 +13,11 @@
       "type": "appeared_in",
       "target": "2023-newsnation-grusch-interview",
       "role": "Interviewer"
+    },
+    {
+      "type": "affiliated_with",
+      "target": "need-to-know-podcast",
+      "role": "Former co-host"
     }
   ],
   "profileStatus": "Investigative journalist and interviewer",

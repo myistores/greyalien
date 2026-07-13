@@ -1,0 +1,26 @@
+{
+  "id": "merged-podcast",
+  "relationships": [
+    {
+      "type": "discussed_topic",
+      "target": "aviation-safety"
+    },
+    {
+      "type": "discussed_topic",
+      "target": "scientific-investigation"
+    }
+  ],
+  "type": "podcast_series",
+  "name": "Merged",
+  "summary": "Ryan Graves hosts pilots, scientists, researchers, and innovators for evidence-focused discussion of UAP, aviation safety, and scientific inquiry.",
+  "podcastHosts": [
+    "Ryan Graves"
+  ],
+  "launchYear": "2022",
+  "status": "Active",
+  "externalUrl": "https://www.mergedpodcast.com/",
+  "externalLinkLabel": "Visit official website",
+  "youtubeUrl": "https://www.youtube.com/@merged_podcast",
+  "spotifyUrl": "https://open.spotify.com/show/4HjG2YLiHjEJ5rLs39sGfQ",
+  "applePodcastsUrl": "https://podcasts.apple.com/us/podcast/merged/id1655450953"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "that-ufo-podcast",
+  "relationships": [
+    {
+      "type": "discussed_topic",
+      "target": "government-transparency"
+    }
+  ],
+  "type": "podcast_series",
+  "name": "That UFO Podcast",
+  "summary": "Andy McGrillen presents UAP news, interviews, listener discussions, and deep dives into UFOs and connected phenomena.",
+  "podcastHosts": [
+    "Andy McGrillen"
+  ],
+  "launchYear": "2020",
+  "status": "Active",
+  "externalUrl": "https://www.youtube.com/@ThatUFOPodcast",
+  "externalLinkLabel": "Visit official website",
+  "youtubeUrl": "https://www.youtube.com/@ThatUFOPodcast",
+  "spotifyUrl": "https://open.spotify.com/show/1ZKd55G0F5RgvOafSZcOYv",
+  "applePodcastsUrl": "https://podcasts.apple.com/us/podcast/that-ufo-podcast/id1511121397"
+}

@@ -1,0 +1,31 @@
+{
+  "schemaVersion": 1,
+  "title": "Podcast Knowledge Base",
+  "description": "Foundational podcast series connected to people, topics, interviews, organizations, hearings, and documents throughout GreyAlien.",
+  "podcasts": [
+    {
+      "id": "weaponized-podcast"
+    },
+    {
+      "id": "need-to-know-podcast"
+    },
+    {
+      "id": "merged-podcast"
+    },
+    {
+      "id": "black-vault-radio"
+    },
+    {
+      "id": "theories-of-everything-podcast"
+    },
+    {
+      "id": "engaging-the-phenomenon-podcast"
+    },
+    {
+      "id": "that-ufo-podcast"
+    },
+    {
+      "id": "somewhere-in-the-skies-podcast"
+    }
+  ]
+}

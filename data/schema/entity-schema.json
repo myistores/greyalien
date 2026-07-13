@@ -11,7 +11,8 @@
     "legislation",
     "timeline_event",
     "publication",
-    "claim"
+    "claim",
+    "podcast_series"
   ],
   "required": [
     "id",

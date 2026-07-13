@@ -19,6 +19,11 @@
       "type": "appeared_in",
       "target": "2025-weaponized-wiggins-interview",
       "role": "Co-host"
+    },
+    {
+      "type": "affiliated_with",
+      "target": "weaponized-podcast",
+      "role": "Co-host"
     }
   ]
 }

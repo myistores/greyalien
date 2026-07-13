@@ -23,6 +23,11 @@
     {
       "type": "authored",
       "target": "2023-graves-written-testimony"
+    },
+    {
+      "type": "affiliated_with",
+      "target": "merged-podcast",
+      "role": "Host"
     }
   ],
   "profileStatus": "Firsthand military witness and congressional witness",

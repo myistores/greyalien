@@ -11,7 +11,8 @@
     "legislation",
     "timeline_event",
     "publication",
-    "claim"
+    "claim",
+    "podcast_series"
   ],
   "entities": [
     {
@@ -1275,6 +1276,62 @@
       "date": ""
     },
     {
+      "id": "engaging-the-phenomenon-podcast",
+      "type": "podcast_series",
+      "name": "Engaging the Phenomenon",
+      "summary": "James Iandoli explores UAP, consciousness, contact experiences, field research, and the human implications of anomalous phenomena.",
+      "date": ""
+    },
+    {
+      "id": "merged-podcast",
+      "type": "podcast_series",
+      "name": "Merged",
+      "summary": "Ryan Graves hosts pilots, scientists, researchers, and innovators for evidence-focused discussion of UAP, aviation safety, and scientific inquiry.",
+      "date": ""
+    },
+    {
+      "id": "need-to-know-podcast",
+      "type": "podcast_series",
+      "name": "Need to Know",
+      "summary": "Journalistic UAP podcast launched by Bryce Zabel and Ross Coulthart, combining current reporting, analysis, historical context, and disclosure discussion.",
+      "date": ""
+    },
+    {
+      "id": "somewhere-in-the-skies-podcast",
+      "type": "podcast_series",
+      "name": "Somewhere in the Skies",
+      "summary": "Ryan Sprague hosts a long-running podcast centered on UFO reports, witness experiences, investigations, researchers, and the cultural history of the phenomenon.",
+      "date": ""
+    },
+    {
+      "id": "that-ufo-podcast",
+      "type": "podcast_series",
+      "name": "That UFO Podcast",
+      "summary": "Andy McGrillen presents UAP news, interviews, listener discussions, and deep dives into UFOs and connected phenomena.",
+      "date": ""
+    },
+    {
+      "id": "black-vault-radio",
+      "type": "podcast_series",
+      "name": "The Black Vault Radio",
+      "summary": "John Greenewald Jr. uses declassified records and Freedom of Information Act research as the basis for interviews about government, military, intelligence, and UAP history.",
+      "date": ""
+    },
+    {
+      "id": "theories-of-everything-podcast",
+      "type": "podcast_series",
+      "name": "Theories of Everything",
+      "summary": "Curt Jaimungal hosts technically detailed long-form conversations spanning theoretical physics, consciousness, artificial intelligence, philosophy, and UAP research.",
+      "date": ""
+    },
+    {
+      "id": "weaponized-podcast",
+      "type": "podcast_series",
+      "name": "WEAPONIZED",
+      "summary": "Investigative series in which Jeremy Corbell and George Knapp explore UAP, government secrecy, unusual events, documents, and firsthand testimony.",
+      "date": ""
+    },
+    {
       "id": "gaia",
       "type": "publication",
       "name": "Gaia",
@@ -1293,13 +1350,6 @@
       "type": "publication",
       "name": "NewsNation",
       "summary": "U.S. television news network and publisher",
-      "date": ""
-    },
-    {
-      "id": "weaponized-podcast",
-      "type": "publication",
-      "name": "WEAPONIZED with Jeremy Corbell & George Knapp",
-      "summary": "Podcast and media publication hosted by Jeremy Corbell and George Knapp.",
       "date": ""
     },
     {

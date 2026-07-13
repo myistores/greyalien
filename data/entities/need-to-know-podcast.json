@@ -1,0 +1,23 @@
+{
+  "id": "need-to-know-podcast",
+  "relationships": [
+    {
+      "type": "discussed_topic",
+      "target": "government-transparency"
+    }
+  ],
+  "type": "podcast_series",
+  "name": "Need to Know",
+  "summary": "Journalistic UAP podcast launched by Bryce Zabel and Ross Coulthart, combining current reporting, analysis, historical context, and disclosure discussion.",
+  "podcastHosts": [
+    "Bryce Zabel",
+    "Ross Coulthart"
+  ],
+  "launchYear": "2021",
+  "status": "Active; Ross Coulthart co-hosted from 2021 to 2025",
+  "externalUrl": "https://www.youtube.com/channel/UCgslF1kPo4Kmv4Xrg8EyYmQ",
+  "externalLinkLabel": "Visit official website",
+  "youtubeUrl": "https://www.youtube.com/playlist?list=PLXdU8QbJkboeMcvUNyGpb9h6FUS9cVBti",
+  "spotifyUrl": "https://open.spotify.com/show/24xucCwPjcXENqwUgtKZaY",
+  "applePodcastsUrl": "https://podcasts.apple.com/us/podcast/need-to-know/id1600409359"
+}
