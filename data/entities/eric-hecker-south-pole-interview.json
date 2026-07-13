@@ -16,9 +16,18 @@
   "date": "2023-11-15",
   "mediaLinks": [
     {
-      "label": "Listen to the Patrick Bet-David interview",
+      "label": "Listen on Apple Podcasts",
       "url": "https://podcasts.apple.com/us/podcast/ex-raytheon-whistleblower-gives-inside-scoop-on-antarctica/id1526697745?i=1000634951988",
       "platform": "Apple Podcasts"
     }
-  ]
+  ],
+  "externalUrl": "https://podcasts.apple.com/us/podcast/ex-raytheon-whistleblower-gives-inside-scoop-on-antarctica/id1526697745?i=1000634951988",
+  "externalLinkLabel": "Listen to the full interview",
+  "mediaType": "Podcast interview",
+  "mediaPlatform": "PBD Podcast",
+  "mediaHost": "Patrick Bet-David",
+  "mediaGuests": [
+    "Eric Hecker"
+  ],
+  "mediaSourceStatus": "Official podcast listing"
 }

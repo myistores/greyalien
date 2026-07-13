@@ -16,9 +16,18 @@
   "date": "1997-01-01",
   "mediaLinks": [
     {
-      "label": "Watch the archived interview",
+      "label": "Watch the full archived interview",
       "url": "https://www.youtube.com/watch?v=UdEVUum8Nag",
       "platform": "YouTube archive"
     }
-  ]
+  ],
+  "externalUrl": "https://www.youtube.com/watch?v=UdEVUum8Nag",
+  "externalLinkLabel": "Watch the archived interview",
+  "mediaType": "Witness interview",
+  "mediaPlatform": "Archived video",
+  "mediaHost": "Disclosure-era interviewer",
+  "mediaGuests": [
+    "Jonathan Weygandt"
+  ],
+  "mediaSourceStatus": "Public archive; original official upload is not currently available"
 }

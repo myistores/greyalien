@@ -15,9 +15,17 @@
   ],
   "mediaLinks": [
     {
-      "label": "Watch a long-form interview",
+      "label": "Watch the full interview",
       "url": "https://www.youtube.com/watch?v=vy_k1uY5KP4",
       "platform": "YouTube"
     }
-  ]
+  ],
+  "externalUrl": "https://www.youtube.com/watch?v=vy_k1uY5KP4",
+  "externalLinkLabel": "Watch the full interview",
+  "mediaType": "Long-form interview",
+  "mediaPlatform": "YouTube",
+  "mediaGuests": [
+    "Michael Herrera"
+  ],
+  "mediaSourceStatus": "Public long-form interview"
 }

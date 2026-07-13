@@ -9,6 +9,16 @@
       "target": "2025-09-09-house-uap-transparency-hearing",
       "role": "Witness or participant",
       "date": "2025-09-09"
+    },
+    {
+      "type": "appeared_in",
+      "target": "1989-bob-lazar-george-knapp-interview",
+      "role": "Interviewer"
+    },
+    {
+      "type": "appeared_in",
+      "target": "2025-weaponized-wiggins-interview",
+      "role": "Co-host"
     }
   ]
 }

@@ -22,12 +22,26 @@
     {
       "label": "Watch the full episode on YouTube",
       "url": "https://www.youtube.com/watch?v=YKFmK-NSnKI",
-      "platform": "YouTube"
+      "platform": "WEAPONIZED / YouTube"
     },
     {
       "label": "Open the official episode page",
       "url": "https://www.weaponizedpodcast.com/episodes-3/episode-73",
       "platform": "WEAPONIZED"
+    },
+    {
+      "label": "Listen on Apple Podcasts",
+      "url": "https://podcasts.apple.com/us/podcast/firsthand-military-witness-goes-public-four-tic-tac-uaps/id1664299388?i=1000703638200",
+      "platform": "Apple Podcasts"
     }
-  ]
+  ],
+  "externalUrl": "https://www.youtube.com/watch?v=YKFmK-NSnKI",
+  "externalLinkLabel": "Watch the full WEAPONIZED episode",
+  "mediaType": "Podcast interview",
+  "mediaPlatform": "WEAPONIZED",
+  "mediaHost": "Jeremy Corbell and George Knapp",
+  "mediaGuests": [
+    "Alexandro Wiggins"
+  ],
+  "mediaSourceStatus": "Official full episode"
 }

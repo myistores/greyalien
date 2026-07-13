@@ -12,5 +12,32 @@
       "type": "discussed_case",
       "target": "2004-nimitz-encounter"
     }
+  ],
+  "date": "2020-09-08",
+  "externalUrl": "https://www.youtube.com/watch?v=aB8zcAttP1E",
+  "externalLinkLabel": "Watch the full Lex Fridman interview",
+  "mediaType": "Podcast interview",
+  "mediaPlatform": "Lex Fridman Podcast",
+  "mediaHost": "Lex Fridman",
+  "mediaGuests": [
+    "David Fravor"
+  ],
+  "mediaSourceStatus": "Official full episode",
+  "mediaLinks": [
+    {
+      "label": "Watch the full episode on YouTube",
+      "url": "https://www.youtube.com/watch?v=aB8zcAttP1E",
+      "platform": "Lex Fridman / YouTube"
+    },
+    {
+      "label": "Open the official episode page",
+      "url": "https://lexfridman.com/david-fravor/",
+      "platform": "Lex Fridman Podcast"
+    },
+    {
+      "label": "Listen on Spotify",
+      "url": "https://open.spotify.com/episode/0a35bTZLKSenybCFGNQKqS",
+      "platform": "Spotify"
+    }
   ]
 }

@@ -8,6 +8,11 @@
       "type": "affiliated_with",
       "target": "newsnation",
       "role": "Special correspondent"
+    },
+    {
+      "type": "appeared_in",
+      "target": "2023-newsnation-grusch-interview",
+      "role": "Interviewer"
     }
   ],
   "profileStatus": "Investigative journalist and interviewer",

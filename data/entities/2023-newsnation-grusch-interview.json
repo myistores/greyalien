@@ -17,5 +17,26 @@
       "target": "claim-crash-retrieval-program"
     }
   ],
-  "date": "2023-06-05"
+  "date": "2023-06-11",
+  "externalUrl": "https://www.youtube.com/watch?v=RBAISwCZ2v0",
+  "externalLinkLabel": "Watch the full NewsNation interview",
+  "mediaType": "Television interview",
+  "mediaPlatform": "NewsNation",
+  "mediaHost": "Ross Coulthart",
+  "mediaGuests": [
+    "David Grusch"
+  ],
+  "mediaSourceStatus": "Official NewsNation video",
+  "mediaLinks": [
+    {
+      "label": "Watch the full interview on YouTube",
+      "url": "https://www.youtube.com/watch?v=RBAISwCZ2v0",
+      "platform": "NewsNation / YouTube"
+    },
+    {
+      "label": "Watch NewsNation's later Grusch update",
+      "url": "https://www.youtube.com/watch?v=DqOyfWLEwPQ",
+      "platform": "NewsNation / YouTube"
+    }
+  ]
 }

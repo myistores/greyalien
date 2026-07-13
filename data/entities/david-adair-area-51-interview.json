@@ -29,5 +29,13 @@
       "url": "https://tv.apple.com/us/episode/david-adair-my-story---child-prodigy-to-rocket-scientist/umc.cmc.4q50thjj84daj62aktst9l7p3",
       "platform": "Apple TV"
     }
-  ]
+  ],
+  "externalUrl": "https://www.gaia.com/video/david-adair-my-story-child-prodigy-rocket-scientist",
+  "externalLinkLabel": "Watch the Gaia episode",
+  "mediaType": "Television / streaming interview",
+  "mediaPlatform": "Gaia",
+  "mediaGuests": [
+    "David Adair"
+  ],
+  "mediaSourceStatus": "Official streaming episode"
 }

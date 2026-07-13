@@ -24,9 +24,28 @@
   "date": "1989-11-01",
   "mediaLinks": [
     {
-      "label": "Watch 8 News Now retrospective and archived interview material",
+      "label": "Watch the 8 News Now interview compilation",
       "url": "https://www.youtube.com/watch?v=BoJmd2MIpOk",
       "platform": "8 News Now / YouTube"
+    },
+    {
+      "label": "Watch the 1989 KLAS interview segment",
+      "url": "https://www.youtube.com/watch?v=uLPFzdPvEvM",
+      "platform": "8 News Now / YouTube"
+    },
+    {
+      "label": "Watch the 30-year retrospective",
+      "url": "https://www.youtube.com/watch?v=2GRjgBVw9Pk",
+      "platform": "8 News Now / YouTube"
     }
-  ]
+  ],
+  "externalUrl": "https://www.youtube.com/watch?v=BoJmd2MIpOk",
+  "externalLinkLabel": "Watch the official KLAS retrospective",
+  "mediaType": "Television interview archive",
+  "mediaPlatform": "KLAS-TV / 8 News Now",
+  "mediaHost": "George Knapp",
+  "mediaGuests": [
+    "Bob Lazar"
+  ],
+  "mediaSourceStatus": "Official station retrospective containing archival interview material"
 }
