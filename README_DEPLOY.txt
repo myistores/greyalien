@@ -1,30 +1,26 @@
-GREYALIEN VERSION 15.2
+GREYALIEN VERSION 15.4
 
-This package is rebuilt directly from Version 14.2.
+This is a focused housekeeping update built from Version 15.3.
+
+Changes:
+1. Corrected homepage Knowledge Base Growth totals.
+2. Added Coming Soon status for every primary section not yet developed.
+3. Removed the remaining numbered version wording from the witness database data title.
+4. No other design, content, or functionality changes.
 
 Deployment with GitHub Desktop:
 1. Extract this ZIP.
 2. Copy every file and folder into:
    C:\Users\Jason Ciaramella\Documents\GitHub\greyalien
 3. Choose Replace the files in the destination.
-4. In GitHub Desktop, confirm that eight new podcast entity JSON files appear.
+4. In GitHub Desktop, review the changed files.
 5. Commit to main.
 6. Push origin.
 7. Wait for GitHub Pages deployment to complete.
-8. Force-refresh the Podcasts page with Ctrl+F5.
+8. Force-refresh the homepage with Ctrl+F5.
 
 Suggested commit:
-Version 15.2 - Correct Podcast Knowledge Base
+Version 15.4 - Correct homepage knowledge base totals
 
-Test:
-https://greyalien.com/categories/podcasts.html
-
-The page must show exactly eight cards:
-1. WEAPONIZED
-2. Need to Know
-3. Merged
-4. The Black Vault Radio
-5. Theories of Everything
-6. Engaging the Phenomenon
-7. That UFO Podcast
-8. Somewhere in the Skies
+Primary test page:
+https://greyalien.com/
