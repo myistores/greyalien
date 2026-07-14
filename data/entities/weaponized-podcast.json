@@ -3,6 +3,17 @@
   "type": "podcast_series",
   "name": "WEAPONIZED",
   "summary": "Investigative series in which Jeremy Corbell and George Knapp explore UAP, government secrecy, unusual events, documents, and firsthand testimony.",
+  "podcastHosts": [
+    "Jeremy Corbell",
+    "George Knapp"
+  ],
+  "launchYear": "2023",
+  "status": "Active",
+  "externalUrl": "https://www.weaponizedpodcast.com/",
+  "externalLinkLabel": "Visit official website",
+  "youtubeUrl": "https://www.youtube.com/@JeremyCorbell",
+  "spotifyUrl": "https://open.spotify.com/show/1FRpoWQkWtwHdOgwho3iZG",
+  "applePodcastsUrl": "https://podcasts.apple.com/us/podcast/weaponized-with-jeremy-corbell-george-knapp/id1664299388",
   "relationships": [
     {
       "type": "discussed_topic",
@@ -12,16 +23,5 @@
       "type": "discussed_topic",
       "target": "scientific-investigation"
     }
-  ],
-  "externalUrl": "https://www.weaponizedpodcast.com/",
-  "podcastHosts": [
-    "Jeremy Corbell",
-    "George Knapp"
-  ],
-  "launchYear": "2023",
-  "status": "Active",
-  "externalLinkLabel": "Visit official website",
-  "youtubeUrl": "https://www.youtube.com/@JeremyCorbell",
-  "spotifyUrl": "https://open.spotify.com/show/1FRpoWQkWtwHdOgwho3iZG",
-  "applePodcastsUrl": "https://podcasts.apple.com/us/podcast/weaponized-with-jeremy-corbell-george-knapp/id1664299388"
+  ]
 }

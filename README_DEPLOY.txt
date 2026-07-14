@@ -1,25 +1,30 @@
-GREYALIEN VERSION 15.0
+GREYALIEN VERSION 15.2
+
+This package is rebuilt directly from Version 14.2.
 
 Deployment with GitHub Desktop:
 1. Extract this ZIP.
-2. Copy all files and folders into:
+2. Copy every file and folder into:
    C:\Users\Jason Ciaramella\Documents\GitHub\greyalien
 3. Choose Replace the files in the destination.
-4. Review changes in GitHub Desktop.
+4. In GitHub Desktop, confirm that eight new podcast entity JSON files appear.
 5. Commit to main.
 6. Push origin.
+7. Wait for GitHub Pages deployment to complete.
+8. Force-refresh the Podcasts page with Ctrl+F5.
 
 Suggested commit:
-Version 15.0 - Introduce Podcast Knowledge Base
+Version 15.2 - Correct Podcast Knowledge Base
 
-Test after deployment:
-https://greyalien.com/
+Test:
 https://greyalien.com/categories/podcasts.html
-https://greyalien.com/entities/entity.html?id=weaponized-podcast
-https://greyalien.com/entities/entity.html?id=need-to-know-podcast
-https://greyalien.com/entities/entity.html?id=merged-podcast
-https://greyalien.com/entities/entity.html?id=black-vault-radio
-https://greyalien.com/entities/entity.html?id=theories-of-everything-podcast
-https://greyalien.com/entities/entity.html?id=engaging-the-phenomenon-podcast
-https://greyalien.com/entities/entity.html?id=that-ufo-podcast
-https://greyalien.com/entities/entity.html?id=somewhere-in-the-skies-podcast
+
+The page must show exactly eight cards:
+1. WEAPONIZED
+2. Need to Know
+3. Merged
+4. The Black Vault Radio
+5. Theories of Everything
+6. Engaging the Phenomenon
+7. That UFO Podcast
+8. Somewhere in the Skies

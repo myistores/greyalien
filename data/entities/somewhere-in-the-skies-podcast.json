@@ -1,11 +1,5 @@
 {
   "id": "somewhere-in-the-skies-podcast",
-  "relationships": [
-    {
-      "type": "discussed_topic",
-      "target": "historical-ufo-research"
-    }
-  ],
   "type": "podcast_series",
   "name": "Somewhere in the Skies",
   "summary": "Ryan Sprague hosts a long-running podcast centered on UFO reports, witness experiences, investigations, researchers, and the cultural history of the phenomenon.",
@@ -18,5 +12,11 @@
   "externalLinkLabel": "Visit official website",
   "youtubeUrl": "https://www.youtube.com/channel/UCYH8m4zyehr0rN3feBZ4mCA",
   "spotifyUrl": "https://open.spotify.com/show/1g0MSTxiHo4KvtrUxhr6II",
-  "applePodcastsUrl": "https://podcasts.apple.com/us/podcast/somewhere-in-the-skies/id1227858637"
+  "applePodcastsUrl": "https://podcasts.apple.com/us/podcast/somewhere-in-the-skies/id1227858637",
+  "relationships": [
+    {
+      "type": "discussed_topic",
+      "target": "historical-ufo-research"
+    }
+  ]
 }
