@@ -150,5 +150,10 @@
   "episode_of": {
     "forward": "Episode of",
     "reverse": "Includes episode"
+  },
+  "featured_in_media": {
+    "forward": "Featured in media",
+    "reverse": "Features person",
+    "description": "Connects a person to a media record with a contextual role such as guest, host, or primary subject."
   }
 }

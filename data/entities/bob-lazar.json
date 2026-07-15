@@ -19,6 +19,12 @@
     {
       "type": "reported_case",
       "target": "s4-facility-claim"
+    },
+    {
+      "type": "featured_in_media",
+      "target": "2026-weaponized-episode-115",
+      "role": "primary_subject",
+      "context": "Central subject of the episode and documentary discussion"
     }
   ],
   "profileStatus": "Foundational public claimant and disclosure personality",

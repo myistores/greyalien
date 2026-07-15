@@ -1,3 +1,10 @@
+# GreyAlien V15.5.1
+
+- Corrected the V15.5 homepage Latest Additions panel.
+- Added a direct Bob Lazar relationship to WEAPONIZED Episode #115 using the `primary_subject` role.
+- Confirmed Episode #115 remains connected to the WEAPONIZED series and is reachable through the entity graph.
+- No unrelated design or content changes.
+
 # GreyAlien Changelog
 
 ## Version 15.4
