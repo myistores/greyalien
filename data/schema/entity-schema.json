@@ -12,7 +12,8 @@
     "timeline_event",
     "publication",
     "claim",
-    "podcast_series"
+    "podcast_series",
+    "podcast_episode"
   ],
   "required": [
     "id",
@@ -57,6 +58,21 @@
     "corroborated_by",
     "contradicted_by",
     "presented_at",
-    "contained_in"
-  ]
+    "contained_in",
+    "features_person",
+    "episode_of"
+  ],
+  "relationshipRoles": {
+    "host": "Host",
+    "co_host": "Co-host",
+    "guest": "Guest",
+    "primary_subject": "Primary subject",
+    "co_subject": "Co-subject",
+    "interviewer": "Interviewer",
+    "mentioned": "Mentioned",
+    "referenced": "Referenced",
+    "creator": "Creator",
+    "producer": "Producer",
+    "narrator": "Narrator"
+  }
 }

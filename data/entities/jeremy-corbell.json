@@ -1,0 +1,18 @@
+{
+  "id": "jeremy-corbell",
+  "type": "person",
+  "name": "Jeremy Corbell",
+  "summary": "Investigative filmmaker and co-host of WEAPONIZED whose work focuses on UAP cases, witnesses, documents, and public disclosure.",
+  "relationships": [
+    {
+      "type": "affiliated_with",
+      "target": "weaponized-podcast"
+    }
+  ],
+  "profileStatus": "Podcast host and investigative media contributor",
+  "profileSummary": "Investigative filmmaker and co-host of WEAPONIZED.",
+  "background": "Filmmaker and media personality associated with UAP investigations and documentary projects.",
+  "inclusionNote": "Included initially as a host connected to the WEAPONIZED Podcast Knowledge Base.",
+  "profileBadge": "Investigative Media Contributor",
+  "profileBadgeClass": "badge-journalist"
+}

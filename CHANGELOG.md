@@ -17,3 +17,10 @@
 
 ## Version 14.2
 - Completed the first interview and media audit.
+
+## V15.5
+- Added contextual relationship roles to the knowledge graph schema.
+- Added WEAPONIZED Episode #115 as the first podcast-episode relationship test.
+- Added Jeremy Corbell and Luigi Venditelli entity records required by the episode.
+- Applied Host, Guest, and Primary Subject roles to Episode #115.
+- Renamed the person-page interview connection group to Related Media while leaving Movies & Documentaries unchanged.

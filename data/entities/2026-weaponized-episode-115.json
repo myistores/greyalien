@@ -1,0 +1,81 @@
+{
+  "id": "2026-weaponized-episode-115",
+  "type": "interview",
+  "name": "WEAPONIZED Episode #115 — A New Chapter in the Bob Lazar Saga",
+  "summary": "Luigi Venditelli joins Jeremy Corbell and George Knapp to discuss S4: The Bob Lazar Story, its reconstruction of the alleged S4 facility, and the continuing debate surrounding Bob Lazar’s claims.",
+  "relationships": [
+    {
+      "type": "episode_of",
+      "target": "weaponized-podcast"
+    },
+    {
+      "type": "features_person",
+      "target": "jeremy-corbell",
+      "role": "host",
+      "context": "WEAPONIZED co-host"
+    },
+    {
+      "type": "features_person",
+      "target": "george-knapp",
+      "role": "host",
+      "context": "WEAPONIZED co-host"
+    },
+    {
+      "type": "features_person",
+      "target": "luigi-venditelli",
+      "role": "guest",
+      "context": "Featured interview guest"
+    },
+    {
+      "type": "features_person",
+      "target": "bob-lazar",
+      "role": "primary_subject",
+      "context": "Central subject of the episode and documentary discussion"
+    },
+    {
+      "type": "discussed_case",
+      "target": "area-51"
+    },
+    {
+      "type": "discussed_case",
+      "target": "s4-facility-claim"
+    },
+    {
+      "type": "presented_claim",
+      "target": "claim-s4-reverse-engineering"
+    },
+    {
+      "type": "discussed_topic",
+      "target": "government-transparency"
+    },
+    {
+      "type": "discussed_topic",
+      "target": "scientific-investigation"
+    }
+  ],
+  "date": "2026-04-14",
+  "mediaType": "Podcast episode",
+  "mediaPlatform": "WEAPONIZED",
+  "mediaHost": "Jeremy Corbell and George Knapp",
+  "mediaGuests": [
+    "Luigi Venditelli"
+  ],
+  "mediaSubjects": [
+    "Bob Lazar"
+  ],
+  "mediaSourceStatus": "Official WEAPONIZED episode page and official video",
+  "externalUrl": "https://www.weaponizedpodcast.com/episodes-4/episode-115",
+  "externalLinkLabel": "Open official episode page",
+  "mediaLinks": [
+    {
+      "label": "Watch Episode #115",
+      "url": "https://www.youtube.com/watch?v=HcQnbRasYxI",
+      "platform": "WEAPONIZED / YouTube"
+    },
+    {
+      "label": "Read the official episode description",
+      "url": "https://www.weaponizedpodcast.com/episodes-4/episode-115",
+      "platform": "WEAPONIZED"
+    }
+  ]
+}

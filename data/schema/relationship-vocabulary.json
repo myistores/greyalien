@@ -142,5 +142,13 @@
   "contained_in": {
     "forward": "Contained in",
     "reverse": "Contains"
+  },
+  "features_person": {
+    "forward": "Features",
+    "reverse": "Connected media"
+  },
+  "episode_of": {
+    "forward": "Episode of",
+    "reverse": "Includes episode"
   }
 }

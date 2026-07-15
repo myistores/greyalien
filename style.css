@@ -437,3 +437,5 @@ footer {
 .podcast-platform-links>div{display:flex;flex-wrap:wrap;gap:12px;margin-top:7px}
 .podcast-platform-links a{color:var(--accent);font-weight:700}
 @media(max-width:800px){.podcast-grid{grid-template-columns:1fr}.podcast-card-facts{grid-template-columns:1fr 1fr}.podcast-card-facts>div:first-child{grid-column:1 / -1}.podcast-stats{grid-template-columns:repeat(2,minmax(0,1fr))}.podcast-details{grid-template-columns:1fr}}
+
+.connection-context{display:block;margin-top:8px;color:var(--muted);font-size:.8rem;line-height:1.35}

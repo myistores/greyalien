@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "description": "Starter structure for GreyAlien's future knowledge graph.",
+  "description": "GreyAlien knowledge graph structure with contextual relationship roles for media and other entity connections.",
   "entityTypes": [
     "person",
     "hearing",
@@ -10,7 +10,8 @@
     "case",
     "document",
     "organization",
-    "topic"
+    "topic",
+    "podcast_episode"
   ],
   "relationshipTypes": [
     "appeared_at",
@@ -21,7 +22,9 @@
     "related_to",
     "published_by",
     "member_of",
-    "references"
+    "references",
+    "features_person",
+    "episode_of"
   ],
   "example": {
     "id": "hearing-example",
@@ -37,5 +40,18 @@
         "target": "document-example"
       }
     ]
-  }
+  },
+  "relationshipRoles": [
+    "host",
+    "co_host",
+    "guest",
+    "primary_subject",
+    "co_subject",
+    "interviewer",
+    "mentioned",
+    "referenced",
+    "creator",
+    "producer",
+    "narrator"
+  ]
 }
