@@ -1,3 +1,15 @@
+# GreyAlien V15.7
+
+- Added WEAPONIZED Episode #28 as the third researched podcast-episode entity.
+- Connected Jeremy Corbell and George Knapp as hosts.
+- Connected Ross Coulthart and Bryce Zabel as roundtable guests.
+- Connected David Grusch, Ryan Graves, and David Fravor as primary subjects of the post-hearing discussion.
+- Connected the episode directly to the July 26, 2023 House UAP hearing and existing congressional-oversight and government-transparency topics.
+- Added a foundational Bryce Zabel person entity linked to Need to Know.
+- Updated the homepage Latest Additions panel for Version 15.7.
+- Added reusable podcast-episode tooling and graph validation to streamline future multi-episode releases.
+- No visual redesign or unrelated content additions.
+
 # GreyAlien V15.6
 
 - Added WEAPONIZED Episode #21 as the second researched podcast-episode entity.

@@ -1,4 +1,4 @@
-GREYALIEN VERSION 15.6
+GREYALIEN VERSION 15.7
 
 Focused podcast and connection-count update built from Version 15.5.1.
 
@@ -22,7 +22,7 @@ Deployment with GitHub Desktop:
 8. Force-refresh with Ctrl+F5.
 
 Suggested commit:
-Version 15.6 - Add WEAPONIZED Episode 21 and dynamic connection counts
+Version 15.7 - Add WEAPONIZED Episode 28 and podcast build tooling
 
 Primary test pages:
 https://greyalien.com/
@@ -30,3 +30,5 @@ https://greyalien.com/categories/podcasts.html
 https://greyalien.com/entities/entity.html?id=weaponized-podcast
 https://greyalien.com/entities/entity.html?id=2023-weaponized-episode-21
 https://greyalien.com/entities/entity.html?id=david-grusch
+
+V15.7 adds WEAPONIZED Episode #28, Bryce Zabel, and reusable validation/build tools for faster podcast expansion.

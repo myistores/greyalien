@@ -1,0 +1,25 @@
+{
+  "id": "YYYY-podcast-episode-N",
+  "type": "interview",
+  "name": "PODCAST Episode #N \u2014 Descriptive title",
+  "summary": "Concise, source-grounded summary.",
+  "relationships": [
+    {
+      "type": "episode_of",
+      "target": "podcast-series-id"
+    },
+    {
+      "type": "features_person",
+      "target": "host-id",
+      "role": "host",
+      "context": "Podcast host"
+    }
+  ],
+  "date": "YYYY-MM-DD",
+  "mediaType": "Podcast episode",
+  "mediaPlatform": "Podcast name",
+  "mediaHost": "Host name",
+  "mediaSourceStatus": "Official episode page",
+  "externalUrl": "https://official.example/episode",
+  "externalLinkLabel": "Open official episode page"
+}
