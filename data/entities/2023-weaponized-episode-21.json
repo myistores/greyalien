@@ -1,0 +1,65 @@
+{
+  "id": "2023-weaponized-episode-21",
+  "type": "interview",
+  "name": "WEAPONIZED Episode #21 — The David Grusch Revelations",
+  "summary": "Jeremy Corbell and George Knapp recount their early contact with David Grusch, his decision to come forward publicly, his whistleblower complaint, and reported retaliation connected to his UAP disclosures.",
+  "relationships": [
+    {
+      "type": "episode_of",
+      "target": "weaponized-podcast"
+    },
+    {
+      "type": "features_person",
+      "target": "jeremy-corbell",
+      "role": "host",
+      "context": "WEAPONIZED co-host"
+    },
+    {
+      "type": "features_person",
+      "target": "george-knapp",
+      "role": "host",
+      "context": "WEAPONIZED co-host"
+    },
+    {
+      "type": "features_person",
+      "target": "david-grusch",
+      "role": "primary_subject",
+      "context": "Central subject of the episode"
+    },
+    {
+      "type": "presented_claim",
+      "target": "claim-whistleblower-retaliation",
+      "context": "The episode discusses Grusch's reported retaliation and reprisal allegations"
+    },
+    {
+      "type": "discussed_topic",
+      "target": "whistleblower-protection"
+    },
+    {
+      "type": "discussed_topic",
+      "target": "government-transparency"
+    }
+  ],
+  "date": "2023-06-12",
+  "mediaType": "Podcast episode",
+  "mediaPlatform": "WEAPONIZED",
+  "mediaHost": "Jeremy Corbell and George Knapp",
+  "mediaSubjects": [
+    "David Grusch"
+  ],
+  "mediaSourceStatus": "Official WEAPONIZED episode page",
+  "externalUrl": "https://www.weaponizedpodcast.com/episodes-1/episode-number-21",
+  "externalLinkLabel": "Open official episode page",
+  "mediaLinks": [
+    {
+      "label": "Open the official Episode #21 page",
+      "url": "https://www.weaponizedpodcast.com/episodes-1/episode-number-21",
+      "platform": "WEAPONIZED"
+    },
+    {
+      "label": "Listen to WEAPONIZED",
+      "url": "https://link.chtbl.com/Weaponized",
+      "platform": "Official audio feed"
+    }
+  ]
+}

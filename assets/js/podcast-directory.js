@@ -2,13 +2,40 @@
   const root=document.getElementById("podcast-series");
   const esc=(s="")=>String(s).replace(/[&<>"']/g,c=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#039;"}[c]));
   try{
-    const response=await fetch("../data/podcasts/podcast-index.json");
-    if(!response.ok) throw new Error(`Podcast index returned ${response.status}`);
-    const data=await response.json();
+    const [podcastResponse,indexResponse,vocabResponse]=await Promise.all([
+      fetch("../data/podcasts/podcast-index.json"),
+      fetch("../data/entity-index.json"),
+      fetch("../data/schema/relationship-vocabulary.json")
+    ]);
+    if(!podcastResponse.ok) throw new Error(`Podcast index returned ${podcastResponse.status}`);
+    if(!indexResponse.ok) throw new Error(`Entity index returned ${indexResponse.status}`);
+    if(!vocabResponse.ok) throw new Error(`Relationship vocabulary returned ${vocabResponse.status}`);
+
+    const [data,index,vocab]=await Promise.all([
+      podcastResponse.json(),
+      indexResponse.json(),
+      vocabResponse.json()
+    ]);
 
     if(!Array.isArray(data.podcasts)||data.podcasts.length!==8){
       throw new Error(`Expected 8 podcast records; received ${data.podcasts?.length||0}`);
     }
+
+    const entities=await Promise.all(index.entities.map(async entry=>{
+      const response=await fetch(`../data/entities/${entry.id}.json`);
+      if(!response.ok) throw new Error(`Entity ${entry.id} returned ${response.status}`);
+      return response.json();
+    }));
+    const entityMap=Object.fromEntries(entities.map(entity=>[entity.id,entity]));
+    const connectionCounts=Object.fromEntries(data.podcasts.map(podcast=>[podcast.id,0]));
+
+    entities.forEach(source=>{
+      (source.relationships||[]).forEach(relationship=>{
+        if(!entityMap[relationship.target]||!vocab[relationship.type]) return;
+        if(Object.hasOwn(connectionCounts,source.id)) connectionCounts[source.id]++;
+        if(Object.hasOwn(connectionCounts,relationship.target)) connectionCounts[relationship.target]++;
+      });
+    });
 
     root.innerHTML=data.podcasts.map(podcast=>`<article class="podcast-card">
       <div class="podcast-card-icon">🎙️</div>
@@ -16,7 +43,7 @@
       <div class="podcast-card-facts">
         <div><span>Hosts</span><strong>${esc((podcast.hosts||[]).join(", ")||"Not listed")}</strong></div>
         <div><span>Launch year</span><strong>${esc(podcast.launchYear||"Not listed")}</strong></div>
-        <div><span>Connected entities</span><strong>${Number(podcast.connectedEntities)||0}</strong></div>
+        <div><span>Connected entities</span><strong>${connectionCounts[podcast.id]||0}</strong></div>
       </div>
       <p>${esc(podcast.summary)}</p>
       <div class="podcast-card-actions">
