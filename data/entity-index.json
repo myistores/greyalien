@@ -226,6 +226,55 @@
       "date": ""
     },
     {
+      "id": "claim-uap-perception-management",
+      "type": "claim",
+      "name": "Matthew Brown alleges that public perceptions of UAP information are deliberately managed",
+      "summary": "Matthew Brown alleges that fear, self-interest, and institutional resistance are used to shape or limit public understanding of UAP information.",
+      "date": ""
+    },
+    {
+      "id": "claim-immaculate-constellation-compartmentalization",
+      "type": "claim",
+      "name": "Matthew Brown alleges that UAP information is deeply compartmentalized",
+      "summary": "Matthew Brown alleges that UAP-related information is routed through restricted channels and kept from much of the defense and intelligence community.",
+      "date": ""
+    },
+    {
+      "id": "claim-excessive-secrecy-stifles-inquiry",
+      "type": "claim",
+      "name": "Matthew Brown argues that excessive secrecy stifles public and congressional inquiry",
+      "summary": "Matthew Brown argues that excessive classification and compartmentalization prevent the public and Congress from conducting meaningful inquiry into UAP-related matters.",
+      "date": ""
+    },
+    {
+      "id": "claim-immaculate-constellation-visual-evidence",
+      "type": "claim",
+      "name": "Matthew Brown states that classified systems contained visual evidence of varied UAP forms",
+      "summary": "Matthew Brown states that classified government systems contained imagery and records depicting multiple reported UAP shapes and forms.",
+      "date": ""
+    },
+    {
+      "id": "claim-immaculate-constellation-source-documents",
+      "type": "claim",
+      "name": "Matthew Brown states that he reviewed documents describing Immaculate Constellation",
+      "summary": "Matthew Brown states that documents he reviewed described an alleged compartmentalized UAP-related effort known as Immaculate Constellation.",
+      "date": ""
+    },
+    {
+      "id": "claim-immaculate-constellation-reporting-blocked",
+      "type": "claim",
+      "name": "Matthew Brown states that his attempts to report the matter through official channels were blocked",
+      "summary": "Matthew Brown states that he attempted to report what he had learned through official channels but encountered institutional barriers before going public.",
+      "date": ""
+    },
+    {
+      "id": "claim-additional-uap-insiders-should-come-forward",
+      "type": "claim",
+      "name": "Matthew Brown urges additional UAP insiders to come forward",
+      "summary": "Matthew Brown argues that additional insiders with relevant knowledge should use lawful reporting channels and, when necessary, speak publicly to advance oversight and transparency.",
+      "date": ""
+    },
+    {
       "id": "claim-indonesia-human-trafficking-craft",
       "type": "claim",
       "name": "Michael Herrera Indonesia Craft Claim",
@@ -504,6 +553,27 @@
       "name": "WEAPONIZED Episode #28 — Congressional Hearing Roundtable",
       "summary": "Jeremy Corbell and George Knapp are joined by Ross Coulthart and Bryce Zabel for a roundtable about the July 26, 2023 House UAP hearing, its three witnesses, how the hearing came together, and what might follow.",
       "date": "2023-07-31"
+    },
+    {
+      "id": "weaponized-matthew-brown-part-2",
+      "type": "interview",
+      "name": "WEAPONIZED Episode #75 — Matthew Brown Part 2: Immaculate Constellation",
+      "summary": "In Part 2, Matthew Brown joins Jeremy Corbell and George Knapp to discuss documents he says he reviewed, the alleged scope and compartmentalization of Immaculate Constellation, and the reporting process he followed before identifying himself publicly.",
+      "date": "2025-05-06"
+    },
+    {
+      "id": "weaponized-matthew-brown-part-3",
+      "type": "interview",
+      "name": "WEAPONIZED Episode #76 — Matthew Brown Part 3: Immaculate Constellation",
+      "summary": "In Part 3, Matthew Brown concludes his WEAPONIZED interview with Jeremy Corbell and George Knapp by discussing alleged UAP imagery found on classified systems, the management of public perception, excessive secrecy, congressional inquiry, and his call for additional insiders to come forward.",
+      "date": "2025-05-13"
+    },
+    {
+      "id": "weaponized-matthew-brown-part-1",
+      "type": "interview",
+      "name": "WEAPONIZED — Matthew Brown Part 1: Immaculate Constellation",
+      "summary": "Matthew Brown joins Jeremy Corbell and George Knapp for the first part of a discussion concerning his allegations about Immaculate Constellation, compartmentalized UAP programs, whistleblower risk, and congressional oversight.",
+      "date": ""
     },
     {
       "id": "uap-disclosure-act-2023",
@@ -1490,6 +1560,13 @@
       "type": "topic",
       "name": "Historical UFO Research",
       "summary": "Research and government activity concerning UFO reports before the modern UAP era.",
+      "date": ""
+    },
+    {
+      "id": "immaculate-constellation",
+      "type": "topic",
+      "name": "Immaculate Constellation",
+      "summary": "Name associated with allegations of a highly compartmentalized U.S. government UAP collection and intelligence program. The program's alleged scope and existence remain subjects of public claims and congressional interest.",
       "date": ""
     },
     {

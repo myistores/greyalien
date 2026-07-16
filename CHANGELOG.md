@@ -1,3 +1,32 @@
+# GreyAlien V15.11
+
+- Added WEAPONIZED Episode #76 — Matthew Brown Part 3: Immaculate Constellation.
+- Connected Jeremy Corbell and George Knapp as hosts and Matthew Brown as guest.
+- Added four attributed principal claims focused on alleged visual evidence, perception management, excessive secrecy, and Brown’s call for additional insiders to come forward.
+- Updated Matthew Brown's entity record with the official Part 3 source.
+- Updated the homepage Latest Additions panel to Version 15.11 and six researched WEAPONIZED episodes.
+- Completed the three-part Matthew Brown Immaculate Constellation interview sequence.
+- No changes outside the Podcast Knowledge Base and directly connected entity records.
+
+# GreyAlien V15.10
+
+- Added WEAPONIZED Episode #75 — Matthew Brown Part 2: Immaculate Constellation.
+- Connected Jeremy Corbell and George Knapp as hosts and Matthew Brown as guest.
+- Added three attributed principal claims focused on documents, compartmentalization, and blocked reporting channels.
+- Updated Matthew Brown's entity record with the official Part 2 source.
+- Updated the homepage Latest Additions panel to Version 15.10 and five researched WEAPONIZED episodes.
+- No changes outside the Podcast Knowledge Base and directly connected entity records.
+
+# GreyAlien V15.9
+
+- Added WEAPONIZED — Matthew Brown Part 1: Immaculate Constellation.
+- Connected Jeremy Corbell and George Knapp as hosts, Matthew Brown as guest, and Immaculate Constellation as the primary topic.
+- Added three focused attributed principal claims using existing claim entities.
+- Added a foundational Immaculate Constellation topic entity.
+- Updated Matthew Brown's entity record with the official Part 1 interview source.
+- Updated the homepage Latest Additions panel to Version 15.9 and four researched WEAPONIZED episodes.
+- No changes outside the Podcast Knowledge Base and directly connected entity records.
+
 # GreyAlien V15.8
 
 - Reordered podcast-series entity pages so Related Media appears before Related People.

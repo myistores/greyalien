@@ -1,0 +1,25 @@
+{
+  "id": "claim-excessive-secrecy-stifles-inquiry",
+  "type": "claim",
+  "name": "Matthew Brown argues that excessive secrecy stifles public and congressional inquiry",
+  "summary": "Matthew Brown argues that excessive classification and compartmentalization prevent the public and Congress from conducting meaningful inquiry into UAP-related matters.",
+  "relationships": [
+    {
+      "type": "made_by",
+      "target": "matthew-brown"
+    },
+    {
+      "type": "presented_at",
+      "target": "weaponized-matthew-brown-part-3"
+    },
+    {
+      "type": "concerns",
+      "target": "government-transparency"
+    },
+    {
+      "type": "concerns",
+      "target": "congressional-oversight"
+    }
+  ],
+  "status": "Attributed argument presented in an interview; not independently established by GreyAlien."
+}

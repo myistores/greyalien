@@ -1,0 +1,25 @@
+{
+  "id": "claim-immaculate-constellation-reporting-blocked",
+  "type": "claim",
+  "name": "Matthew Brown states that his attempts to report the matter through official channels were blocked",
+  "summary": "Matthew Brown states that he attempted to report what he had learned through official channels but encountered institutional barriers before going public.",
+  "relationships": [
+    {
+      "type": "made_by",
+      "target": "matthew-brown"
+    },
+    {
+      "type": "presented_at",
+      "target": "weaponized-matthew-brown-part-2"
+    },
+    {
+      "type": "concerns",
+      "target": "whistleblower-protection"
+    },
+    {
+      "type": "concerns",
+      "target": "congressional-oversight"
+    }
+  ],
+  "status": "Attributed account presented in an interview; not independently established by GreyAlien."
+}

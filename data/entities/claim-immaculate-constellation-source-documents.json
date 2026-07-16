@@ -1,0 +1,21 @@
+{
+  "id": "claim-immaculate-constellation-source-documents",
+  "type": "claim",
+  "name": "Matthew Brown states that he reviewed documents describing Immaculate Constellation",
+  "summary": "Matthew Brown states that documents he reviewed described an alleged compartmentalized UAP-related effort known as Immaculate Constellation.",
+  "relationships": [
+    {
+      "type": "made_by",
+      "target": "matthew-brown"
+    },
+    {
+      "type": "presented_at",
+      "target": "weaponized-matthew-brown-part-2"
+    },
+    {
+      "type": "concerns",
+      "target": "immaculate-constellation"
+    }
+  ],
+  "status": "Attributed allegation presented in an interview; not established as fact by GreyAlien."
+}
