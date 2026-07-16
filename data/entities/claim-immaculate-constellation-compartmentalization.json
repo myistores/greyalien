@@ -1,0 +1,25 @@
+{
+  "id": "claim-immaculate-constellation-compartmentalization",
+  "type": "claim",
+  "name": "Matthew Brown alleges that UAP information is deeply compartmentalized",
+  "summary": "Matthew Brown alleges that UAP-related information is routed through restricted channels and kept from much of the defense and intelligence community.",
+  "relationships": [
+    {
+      "type": "made_by",
+      "target": "matthew-brown"
+    },
+    {
+      "type": "presented_at",
+      "target": "weaponized-matthew-brown-part-2"
+    },
+    {
+      "type": "concerns",
+      "target": "immaculate-constellation"
+    },
+    {
+      "type": "concerns",
+      "target": "government-transparency"
+    }
+  ],
+  "status": "Attributed allegation presented in an interview; not established as fact by GreyAlien."
+}

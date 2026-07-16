@@ -1,10 +1,12 @@
-GreyAlien V15.9 Patch
+GreyAlien V15.10 Patch
 
 Extract this ZIP into the root of the local GreyAlien repository while the podcast-v15.9 branch is checked out. Allow Windows to replace matching files.
 
 New files:
-- data/entities/weaponized-matthew-brown-part-1.json
-- data/entities/immaculate-constellation.json
+- data/entities/weaponized-matthew-brown-part-2.json
+- data/entities/claim-immaculate-constellation-source-documents.json
+- data/entities/claim-immaculate-constellation-compartmentalization.json
+- data/entities/claim-immaculate-constellation-reporting-blocked.json
 
 Updated files:
 - data/entities/matthew-brown.json
@@ -17,4 +19,3 @@ Validation:
 - Entity JSON parsed successfully.
 - Entity index and entity-file counts match.
 - All new relationship targets resolve.
-- Existing unresolved legacy targets are unchanged.
