@@ -24,6 +24,12 @@
       "target": "weaponized-matthew-brown-part-2",
       "role": "guest",
       "context": "Featured guest in Part 2 of the WEAPONIZED Immaculate Constellation discussion"
+    },
+    {
+      "type": "featured_in_media",
+      "target": "weaponized-matthew-brown-part-3",
+      "role": "guest",
+      "context": "Featured guest in Part 3 of the WEAPONIZED Immaculate Constellation discussion"
     }
   ],
   "profileStatus": "Self-identified former government whistleblower",
@@ -40,6 +46,11 @@
       "label": "Public interview concerning Immaculate Constellation",
       "url": "https://www.youtube.com/watch?v=4n_bRtnIP14",
       "sourceType": "Public interview"
+    },
+    {
+      "label": "WEAPONIZED — Matthew Brown Part 3: Immaculate Constellation",
+      "url": "https://www.youtube.com/watch?v=PtBVAxoHeaY",
+      "sourceType": "Official video interview"
     }
   ],
   "profileBadge": "Whistleblower",

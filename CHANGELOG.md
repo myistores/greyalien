@@ -1,3 +1,13 @@
+# GreyAlien V15.11
+
+- Added WEAPONIZED Episode #76 — Matthew Brown Part 3: Immaculate Constellation.
+- Connected Jeremy Corbell and George Knapp as hosts and Matthew Brown as guest.
+- Added four attributed principal claims focused on alleged visual evidence, perception management, excessive secrecy, and Brown’s call for additional insiders to come forward.
+- Updated Matthew Brown's entity record with the official Part 3 source.
+- Updated the homepage Latest Additions panel to Version 15.11 and six researched WEAPONIZED episodes.
+- Completed the three-part Matthew Brown Immaculate Constellation interview sequence.
+- No changes outside the Podcast Knowledge Base and directly connected entity records.
+
 # GreyAlien V15.10
 
 - Added WEAPONIZED Episode #75 — Matthew Brown Part 2: Immaculate Constellation.

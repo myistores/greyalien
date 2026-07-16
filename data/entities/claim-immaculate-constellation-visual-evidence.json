@@ -1,0 +1,21 @@
+{
+  "id": "claim-immaculate-constellation-visual-evidence",
+  "type": "claim",
+  "name": "Matthew Brown states that classified systems contained visual evidence of varied UAP forms",
+  "summary": "Matthew Brown states that classified government systems contained imagery and records depicting multiple reported UAP shapes and forms.",
+  "relationships": [
+    {
+      "type": "made_by",
+      "target": "matthew-brown"
+    },
+    {
+      "type": "presented_at",
+      "target": "weaponized-matthew-brown-part-3"
+    },
+    {
+      "type": "concerns",
+      "target": "immaculate-constellation"
+    }
+  ],
+  "status": "Attributed allegation presented in an interview; not independently established by GreyAlien."
+}
