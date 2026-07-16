@@ -1,3 +1,11 @@
+# GreyAlien V15.11.1
+
+- Removed redundant direct Matthew Brown media relationships that duplicated reverse episode-to-guest connections.
+- Added entity-page connection deduplication by connected entity ID.
+- When duplicate paths exist, the renderer keeps the relationship with the strongest role/context metadata.
+- Matthew Brown now displays each WEAPONIZED Part 1–3 episode once under Related Media.
+- No homepage, episode-content, or navigation changes.
+
 # GreyAlien V15.11
 
 - Added WEAPONIZED Episode #76 — Matthew Brown Part 3: Immaculate Constellation.

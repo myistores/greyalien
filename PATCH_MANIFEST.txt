@@ -1,22 +1,16 @@
-GreyAlien V15.11 Patch
+GreyAlien V15.11.1 Cleanup Patch
 
-Extract this ZIP into the root of the local GreyAlien repository while the podcast-v15.9 branch is checked out. Allow Windows to replace matching files.
-
-New files:
-- data/entities/weaponized-matthew-brown-part-3.json
-- data/entities/claim-immaculate-constellation-visual-evidence.json
-- data/entities/claim-uap-perception-management.json
-- data/entities/claim-excessive-secrecy-stifles-inquiry.json
-- data/entities/claim-additional-uap-insiders-should-come-forward.json
+Purpose:
+- Remove duplicate Matthew Brown Related Media cards.
+- Add a renderer-level safeguard against duplicate relationship cards.
 
 Updated files:
+- assets/js/entity-engine.js
 - data/entities/matthew-brown.json
-- data/entity-index.json
-- index.html
-- sitemap.xml
 - CHANGELOG.md
 
-Validation:
-- Entity JSON parsed successfully.
-- Entity index and entity-file counts match.
-- All new relationship targets resolve.
+Deployment:
+Extract this ZIP into the root of the local GreyAlien repository on a new cleanup branch. Allow Windows to replace matching files.
+
+Expected result:
+Matthew Brown displays one card each for WEAPONIZED Parts 1, 2, and 3.
