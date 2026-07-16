@@ -31,4 +31,4 @@ https://greyalien.com/entities/entity.html?id=weaponized-podcast
 https://greyalien.com/entities/entity.html?id=2023-weaponized-episode-21
 https://greyalien.com/entities/entity.html?id=david-grusch
 
-V15.7 adds WEAPONIZED Episode #28, Bryce Zabel, and reusable validation/build tools for faster podcast expansion.
+V15.8 adds WEAPONIZED Episode #28, Bryce Zabel, and reusable validation/build tools for faster podcast expansion.

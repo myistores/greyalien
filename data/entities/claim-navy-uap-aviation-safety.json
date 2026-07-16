@@ -1,0 +1,16 @@
+{
+  "id": "claim-navy-uap-aviation-safety",
+  "type": "claim",
+  "name": "Ryan Graves states that recurring UAP encounters created an aviation-safety concern",
+  "summary": "Ryan Graves has stated that military aviators encountered unidentified objects repeatedly and that the frequency and behavior of those objects presented an unresolved aviation-safety concern.",
+  "relationships": [
+    {
+      "type": "made_claim",
+      "target": "ryan-graves"
+    },
+    {
+      "type": "associated_topic",
+      "target": "aviation-safety"
+    }
+  ]
+}

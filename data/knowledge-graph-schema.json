@@ -53,5 +53,12 @@
     "creator",
     "producer",
     "narrator"
-  ]
+  ],
+  "podcastEpisodeStandards": {
+    "principalClaims": {
+      "minimum": 3,
+      "maximum": 7,
+      "guidance": "Include only durable, high-value propositions central to the episode. Phrase each claim as an attributed proposition rather than a keyword or statement of established fact."
+    }
+  }
 }

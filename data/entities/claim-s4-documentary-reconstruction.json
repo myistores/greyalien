@@ -1,0 +1,12 @@
+{
+  "id": "claim-s4-documentary-reconstruction",
+  "type": "claim",
+  "name": "The filmmakers state that the S4 reconstruction is based on Bob Lazar’s recollections",
+  "summary": "The creators of S4: The Bob Lazar Story describe the production’s visual reconstruction of the alleged facility as being developed from Bob Lazar’s recollections and account.",
+  "relationships": [
+    {
+      "type": "associated_topic",
+      "target": "s4-facility-claim"
+    }
+  ]
+}

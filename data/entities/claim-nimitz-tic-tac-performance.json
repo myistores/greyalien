@@ -1,0 +1,16 @@
+{
+  "id": "claim-nimitz-tic-tac-performance",
+  "type": "claim",
+  "name": "David Fravor states that the Tic Tac displayed performance beyond known aircraft",
+  "summary": "David Fravor has stated that the object encountered during the 2004 Nimitz event demonstrated acceleration, maneuverability, and apparent flight characteristics beyond those of aircraft known to him.",
+  "relationships": [
+    {
+      "type": "made_claim",
+      "target": "david-fravor"
+    },
+    {
+      "type": "associated_topic",
+      "target": "2004-nimitz-encounter"
+    }
+  ]
+}

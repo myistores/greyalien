@@ -51,6 +51,21 @@
     {
       "type": "discussed_topic",
       "target": "scientific-investigation"
+    },
+    {
+      "type": "presented_claim",
+      "target": "claim-s4-nine-craft",
+      "context": "Principal claim discussed in the episode"
+    },
+    {
+      "type": "presented_claim",
+      "target": "claim-element-115-propulsion",
+      "context": "Principal claim discussed in the episode"
+    },
+    {
+      "type": "presented_claim",
+      "target": "claim-s4-documentary-reconstruction",
+      "context": "Principal production claim discussed in the episode"
     }
   ],
   "date": "2026-04-14",

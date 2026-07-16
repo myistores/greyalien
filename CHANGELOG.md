@@ -1,3 +1,13 @@
+# GreyAlien V15.8
+
+- Reordered podcast-series entity pages so Related Media appears before Related People.
+- Adopted a 3–7 Principal Claims standard for researched podcast episodes.
+- Expanded WEAPONIZED Episodes #21, #28, and #115 with attributed, high-value principal claims.
+- Rephrased existing relevant claim titles as neutral attributed propositions.
+- Added five focused claim entities required to describe the three researched episodes accurately.
+- Updated the homepage Latest Additions panel for Version 15.8.
+- No changes to the Movies & Documentaries section or unrelated site areas.
+
 # GreyAlien V15.7
 
 - Added WEAPONIZED Episode #28 as the third researched podcast-episode entity.

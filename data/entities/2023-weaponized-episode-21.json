@@ -38,6 +38,16 @@
     {
       "type": "discussed_topic",
       "target": "government-transparency"
+    },
+    {
+      "type": "presented_claim",
+      "target": "claim-secret-uap-programs",
+      "context": "Principal allegation attributed to David Grusch"
+    },
+    {
+      "type": "presented_claim",
+      "target": "claim-crash-retrieval-program",
+      "context": "Principal allegation attributed to David Grusch"
     }
   ],
   "date": "2023-06-12",

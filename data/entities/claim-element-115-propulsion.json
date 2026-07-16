@@ -1,0 +1,16 @@
+{
+  "id": "claim-element-115-propulsion",
+  "type": "claim",
+  "name": "Bob Lazar claims that Element 115 powered the Sport Model craft",
+  "summary": "Bob Lazar has claimed that a stable form of Element 115 served as part of the power and gravity-based propulsion system of the craft he called the Sport Model.",
+  "relationships": [
+    {
+      "type": "made_claim",
+      "target": "bob-lazar"
+    },
+    {
+      "type": "associated_topic",
+      "target": "scientific-investigation"
+    }
+  ]
+}

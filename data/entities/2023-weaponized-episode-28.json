@@ -62,6 +62,26 @@
     {
       "type": "discussed_topic",
       "target": "government-transparency"
+    },
+    {
+      "type": "presented_claim",
+      "target": "claim-secret-uap-programs",
+      "context": "Major allegation examined during the post-hearing roundtable"
+    },
+    {
+      "type": "presented_claim",
+      "target": "claim-crash-retrieval-program",
+      "context": "Major allegation examined during the post-hearing roundtable"
+    },
+    {
+      "type": "presented_claim",
+      "target": "claim-navy-uap-aviation-safety",
+      "context": "Ryan Graves testimony discussed in the episode"
+    },
+    {
+      "type": "presented_claim",
+      "target": "claim-nimitz-tic-tac-performance",
+      "context": "David Fravor testimony discussed in the episode"
     }
   ],
   "date": "2023-07-31",
