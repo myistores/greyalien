@@ -1,3 +1,13 @@
+# GreyAlien V15.9
+
+- Added WEAPONIZED — Matthew Brown Part 1: Immaculate Constellation.
+- Connected Jeremy Corbell and George Knapp as hosts, Matthew Brown as guest, and Immaculate Constellation as the primary topic.
+- Added three focused attributed principal claims using existing claim entities.
+- Added a foundational Immaculate Constellation topic entity.
+- Updated Matthew Brown's entity record with the official Part 1 interview source.
+- Updated the homepage Latest Additions panel to Version 15.9 and four researched WEAPONIZED episodes.
+- No changes outside the Podcast Knowledge Base and directly connected entity records.
+
 # GreyAlien V15.8
 
 - Reordered podcast-series entity pages so Related Media appears before Related People.
