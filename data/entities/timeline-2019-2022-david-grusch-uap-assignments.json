@@ -1,0 +1,37 @@
+{
+  "id": "timeline-2019-2022-david-grusch-uap-assignments",
+  "type": "timeline_event",
+  "name": "David Grusch Serves in UAP-Related Intelligence Assignments",
+  "summary": "From 2019 through 2022, David Grusch served in intelligence roles that included representing the National Reconnaissance Office to the UAP Task Force and later co-leading UAP analysis at the National Geospatial-Intelligence Agency, according to his congressional statement.",
+  "date": "2019-01-01",
+  "dateDisplay": "2019–2022",
+  "endDate": "2022-12-31",
+  "eventCategory": "Government assignment",
+  "relationships": [
+    {
+      "type": "timeline_connection",
+      "target": "david-grusch",
+      "role": "participant",
+      "context": "Served in UAP-related intelligence assignments"
+    },
+    {
+      "type": "timeline_connection",
+      "target": "uap-task-force",
+      "role": "associated_location",
+      "context": "Represented the National Reconnaissance Office to the UAP Task Force"
+    },
+    {
+      "type": "timeline_connection",
+      "target": "department-of-defense",
+      "role": "related_topic",
+      "context": "Assignments occurred within the defense and intelligence community"
+    }
+  ],
+  "primarySourceLinks": [
+    {
+      "label": "David Grusch written opening statement",
+      "url": "https://oversight.house.gov/wp-content/uploads/2023/07/Dave_G_HOC_Speech_FINAL_For_Trans.pdf",
+      "sourceType": "House Committee on Oversight and Accountability"
+    }
+  ]
+}

@@ -1,3 +1,11 @@
+# GreyAlien V15.13
+
+- Added the David Grusch Timeline pilot using a hybrid chronological view.
+- Created three new Timeline Event records covering his 2019–2022 UAP assignments, July 2021 protected disclosure, and May 25, 2022 PPD-19 complaint.
+- Reused the existing NewsNation interview, WEAPONIZED Episode #21, and July 26, 2023 House UAP Hearing as authoritative dated milestones.
+- Updated the entity renderer so Related Timeline can mix Timeline Events with existing dated entity types without duplicating the underlying event.
+- Added reverse connections, event dates, event categories, and direct hearing navigation.
+
 # GreyAlien V15.12.1
 
 - Refined Related Timeline cards to display each event date prominently at the top.

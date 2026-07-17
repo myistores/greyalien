@@ -1,0 +1,42 @@
+{
+  "id": "timeline-2022-05-25-david-grusch-ppd19-complaint",
+  "type": "timeline_event",
+  "name": "David Grusch Files a PPD-19 Whistleblower Complaint",
+  "summary": "On May 25, 2022, David Grusch and his attorneys filed an unclassified PPD-19 intelligence-community whistleblower complaint alleging retaliation and reprisal connected to his protected UAP disclosures.",
+  "date": "2022-05-25",
+  "dateDisplay": "May 25, 2022",
+  "eventCategory": "Whistleblower filing",
+  "relationships": [
+    {
+      "type": "timeline_connection",
+      "target": "david-grusch",
+      "role": "claimant",
+      "context": "Filed the whistleblower complaint"
+    },
+    {
+      "type": "timeline_connection",
+      "target": "intelligence-community-inspector-general",
+      "role": "publisher",
+      "context": "Complaint was submitted through intelligence-community oversight channels"
+    },
+    {
+      "type": "timeline_connection",
+      "target": "whistleblower-protection",
+      "role": "related_topic",
+      "context": "Filing invoked protected-disclosure procedures"
+    },
+    {
+      "type": "timeline_connection",
+      "target": "claim-whistleblower-retaliation",
+      "role": "related_claim",
+      "context": "Complaint alleged retaliation and reprisal"
+    }
+  ],
+  "primarySourceLinks": [
+    {
+      "label": "David Grusch unclassified whistleblower complaint",
+      "url": "https://www.weaponizedpodcast.com/news-1/david-grusch-whistleblower-complaint",
+      "sourceType": "Published complaint and background summary"
+    }
+  ]
+}

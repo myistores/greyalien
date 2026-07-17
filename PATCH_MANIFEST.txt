@@ -1,20 +1,23 @@
-GreyAlien V15.12.1 Timeline UI Refinement Patch
+GreyAlien V15.13 — David Grusch Timeline Pilot Patch
 
-Apply this ZIP to the root of the current GreyAlien repository on a feature branch created from the latest main branch. Allow Windows to replace matching files.
+Extract into the root of the local GreyAlien repository while the appropriate feature branch is checked out. Allow Windows to replace matching files.
 
-Updated files:
-- assets/js/entity-engine.js
-- style.css
+Changed files:
 - CHANGELOG.md
-
-Changes:
-- Display Timeline event date at the top of each Related Timeline card.
-- Display Timeline Event category beneath the date.
-- Move relationship role into supporting card context.
-- Add a subtle visual distinction for Timeline cards.
-- Preserve all Timeline data and relationships.
+- index.html
+- sitemap.xml
+- data/entity-index.json
+- data/entities/2023-07-26-house-oversight-uap.json
+- data/entities/2023-newsnation-grusch-interview.json
+- data/entities/2023-weaponized-episode-21.json
+- data/entities/david-grusch.json
+- data/entities/timeline-2019-2022-david-grusch-uap-assignments.json
+- data/entities/timeline-2021-07-david-grusch-dod-ig-disclosure.json
+- data/entities/timeline-2022-05-25-david-grusch-ppd19-complaint.json
+- assets/js/entity-engine.js
 
 Validation:
+- 241 entity files and 241 indexed entities.
+- All new timeline relationship targets resolve.
 - JavaScript syntax validation passed.
-- No entity JSON files changed.
-- No relationship, homepage, sitemap, or entity-index changes.
+- 18 pre-existing unresolved legacy targets remain unchanged.

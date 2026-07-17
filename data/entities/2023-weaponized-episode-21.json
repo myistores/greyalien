@@ -24,7 +24,8 @@
       "type": "features_person",
       "target": "david-grusch",
       "role": "primary_subject",
-      "context": "Central subject of the episode"
+      "context": "Central subject of the episode following his first public disclosures",
+      "timeline": true
     },
     {
       "type": "presented_claim",
@@ -71,5 +72,7 @@
       "url": "https://link.chtbl.com/Weaponized",
       "platform": "Official audio feed"
     }
-  ]
+  ],
+  "dateDisplay": "June 12, 2023",
+  "eventCategory": "Podcast publication"
 }

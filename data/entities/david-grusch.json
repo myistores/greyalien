@@ -6,11 +6,17 @@
   "relationships": [
     {
       "type": "testified_at",
-      "target": "2023-07-26-house-oversight-uap"
+      "target": "2023-07-26-house-oversight-uap",
+      "timeline": true,
+      "role": "witness",
+      "context": "Testified publicly under oath before the House Oversight Committee"
     },
     {
       "type": "appeared_in",
-      "target": "2023-newsnation-grusch-interview"
+      "target": "2023-newsnation-grusch-interview",
+      "timeline": true,
+      "role": "primary_subject",
+      "context": "First extended televised interview presenting his allegations publicly"
     },
     {
       "type": "affiliated_with",
