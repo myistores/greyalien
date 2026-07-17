@@ -7,8 +7,10 @@
     {
       "type": "testified_at",
       "target": "2023-07-26-house-oversight-uap",
-      "role": "Witness",
-      "date": "2023-07-26"
+      "role": "witness",
+      "date": "2023-07-26",
+      "timeline": true,
+      "context": "Testified publicly under oath about pilot reporting and aviation safety"
     },
     {
       "type": "affiliated_with",
@@ -28,6 +30,27 @@
       "type": "affiliated_with",
       "target": "merged-podcast",
       "role": "Host"
+    },
+    {
+      "type": "reported_case",
+      "target": "2014-2015-east-coast-navy-encounters",
+      "timeline": true,
+      "role": "participant",
+      "context": "Described recurring encounters reported by his East Coast squadron"
+    },
+    {
+      "type": "appeared_in",
+      "target": "2019-05-26-nyt-navy-pilots-uap",
+      "timeline": true,
+      "role": "primary_subject",
+      "context": "His account reached a broad public audience through national reporting"
+    },
+    {
+      "type": "affiliated_with",
+      "target": "2023-06-01-asa-launch",
+      "timeline": true,
+      "role": "creator",
+      "context": "Founded and launched Americans for Safe Aerospace"
     }
   ],
   "profileStatus": "Firsthand military witness and congressional witness",

@@ -1,0 +1,26 @@
+{
+  "id": "americans-for-safe-aerospace",
+  "type": "organization",
+  "name": "Americans for Safe Aerospace",
+  "summary": "A pilot-led nonprofit organization focused on UAP reporting, aviation safety, public education, and government transparency.",
+  "formed": "2023",
+  "organizationPurpose": "Support military and commercial aircrew reporting UAP and advocate for aviation safety, scientific study, and transparency.",
+  "relationships": [
+    {
+      "type": "affiliated_with",
+      "target": "ryan-graves",
+      "role": "founder",
+      "context": "Founded and led by Ryan Graves"
+    },
+    {
+      "type": "associated_topic",
+      "target": "aviation-safety"
+    },
+    {
+      "type": "associated_topic",
+      "target": "government-transparency"
+    }
+  ],
+  "externalUrl": "https://www.safeaerospace.org/",
+  "externalLinkLabel": "Visit official website"
+}

@@ -1,3 +1,12 @@
+# GreyAlien V15.14
+
+- Added Related Timeline navigation for David Fravor and Ryan Graves.
+- Reused the existing July 26, 2023 House UAP hearing as one authoritative shared entity.
+- Reused the existing 2004 Nimitz Encounter and Lex Fridman interview entities for David Fravor.
+- Added authoritative dated records for the December 2017 New York Times disclosure, the 2014–2015 East Coast Navy encounters, the May 2019 New York Times disclosure, and the June 1, 2023 launch of Americans for Safe Aerospace.
+- Added the Americans for Safe Aerospace organization entity to resolve existing graph references.
+- No timelines were added for Christopher Mellon, George Knapp, or Jeremy Corbell in this phase.
+
 # GreyAlien V15.13.1
 
 - Refined Related Timeline so only dated entities can appear as timeline cards.

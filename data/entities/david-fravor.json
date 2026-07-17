@@ -7,21 +7,36 @@
     {
       "type": "testified_at",
       "target": "2023-07-26-house-oversight-uap",
-      "role": "Witness",
-      "date": "2023-07-26"
+      "role": "witness",
+      "date": "2023-07-26",
+      "timeline": true,
+      "context": "Testified publicly under oath about the 2004 Nimitz encounter"
     },
     {
       "type": "reported_case",
-      "target": "2004-nimitz-encounter"
+      "target": "2004-nimitz-encounter",
+      "timeline": true,
+      "role": "participant",
+      "context": "Commanded the flight that visually encountered the Tic Tac object"
     },
     {
       "type": "appeared_in",
-      "target": "2020-lex-fridman-fravor-interview"
+      "target": "2020-lex-fridman-fravor-interview",
+      "timeline": true,
+      "role": "guest",
+      "context": "Long-form public interview focused on the Nimitz encounter"
     },
     {
       "type": "affiliated_with",
       "target": "united-states-navy",
       "role": "Retired commander"
+    },
+    {
+      "type": "appeared_in",
+      "target": "2017-12-16-nyt-pentagon-ufo-program",
+      "timeline": true,
+      "role": "primary_subject",
+      "context": "His Nimitz account entered broad public reporting"
     }
   ],
   "profileStatus": "Firsthand military witness and congressional witness",

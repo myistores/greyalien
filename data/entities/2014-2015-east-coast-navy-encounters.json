@@ -1,0 +1,26 @@
+{
+  "id": "2014-2015-east-coast-navy-encounters",
+  "type": "case",
+  "name": "2014–2015 East Coast Navy Encounters",
+  "summary": "A series of recurring UAP observations reported by U.S. Navy aviators operating from the East Coast, including Ryan Graves and members of his squadron.",
+  "date": "2014-06-01",
+  "endDate": "2015-03-31",
+  "dateDisplay": "Summer 2014–March 2015",
+  "eventCategory": "Military encounters",
+  "relationships": [
+    {
+      "type": "involved_person",
+      "target": "ryan-graves",
+      "role": "participant",
+      "context": "Graves described repeated observations by his squadron during training operations"
+    },
+    {
+      "type": "involved_organization",
+      "target": "united-states-navy"
+    },
+    {
+      "type": "associated_topic",
+      "target": "aviation-safety"
+    }
+  ]
+}

@@ -1,13 +1,11 @@
-GreyAlien V15.13.1 Timeline Refinement Patch
+GreyAlien V15.14 Patch
 
-Apply these files to the repository root:
+Apply to the repository root on a feature branch created from current main.
 
-- assets/js/entity-engine.js
-- CHANGELOG.md
+Scope:
+- David Fravor Related Timeline
+- Ryan Graves Related Timeline
+- Shared authoritative hearing reuse
+- Supporting dated case, publication, organization, and launch records
 
-Purpose:
-- Require every Related Timeline card to have a valid date or date range.
-- Exclude Person, Organization, Topic, and Claim entities from Related Timeline.
-- Eliminate “Date not specified” Timeline cards.
-
-No entity data, relationships, homepage content, sitemap, or styles were changed.
+No timelines added for the remaining three Wave 1 people.

@@ -82,10 +82,28 @@
       "summary": "Michael Herrera's public account of observing a large craft and unidentified personnel during a humanitarian deployment in Indonesia."
     },
     {
+      "id": "2014-2015-east-coast-navy-encounters",
+      "type": "case",
+      "name": "2014–2015 East Coast Navy Encounters",
+      "summary": "A series of recurring UAP observations reported by U.S. Navy aviators operating from the East Coast, including Ryan Graves and members of his squadron."
+    },
+    {
+      "id": "2017-12-16-nyt-pentagon-ufo-program",
+      "type": "publication",
+      "name": "The New York Times Publishes “Glowing Auras and ‘Black Money’”",
+      "summary": "The December 2017 New York Times investigation brought broad public attention to the Pentagon’s UAP program and the 2004 Nimitz encounter, including David Fravor’s account."
+    },
+    {
       "id": "2018-bob-lazar-area-51-flying-saucers",
       "type": "interview",
       "name": "Bob Lazar: Area 51 & Flying Saucers",
       "summary": "2018 documentary directed by Jeremy Corbell examining Bob Lazar’s claims about Area 51, S4, and alleged reverse-engineering work."
+    },
+    {
+      "id": "2019-05-26-nyt-navy-pilots-uap",
+      "type": "publication",
+      "name": "The New York Times Publishes “‘Wow, What Is That?’”",
+      "summary": "The May 2019 New York Times report presented Ryan Graves’s account of recurring East Coast UAP encounters and framed them as an aviation-safety and national-security concern."
     },
     {
       "id": "2020-lex-fridman-fravor-interview",
@@ -122,6 +140,12 @@
       "type": "timeline_event",
       "name": "NASA UAP Independent Study Public Meeting",
       "summary": "NASA held a public meeting of its UAP Independent Study Team on May 31, 2023."
+    },
+    {
+      "id": "2023-06-01-asa-launch",
+      "type": "timeline_event",
+      "name": "Americans for Safe Aerospace Launches as a 501(c)(3)",
+      "summary": "Ryan Graves announced the launch of Americans for Safe Aerospace as a pilot-led nonprofit focused on UAP reporting, aviation safety, and transparency."
     },
     {
       "id": "2023-07-13-uap-disclosure-act-consideration",
@@ -302,6 +326,12 @@
       "type": "case",
       "name": "Alleged Classified Autopsy Program",
       "summary": "Emery Smith's public claims of participation in classified biological and medical examination programs involving alleged non-human material."
+    },
+    {
+      "id": "americans-for-safe-aerospace",
+      "type": "organization",
+      "name": "Americans for Safe Aerospace",
+      "summary": "A pilot-led nonprofit organization focused on UAP reporting, aviation safety, public education, and government transparency."
     },
     {
       "id": "anamaria-berea",
@@ -568,16 +598,16 @@
       "summary": "Constitutional attorney and New Paradigm Institute leader involved in UAP disclosure advocacy and legal support for witnesses and whistleblowers."
     },
     {
-      "id": "david-adair",
-      "type": "person",
-      "name": "David Adair",
-      "summary": "Public speaker and rocketry personality who has long claimed that he viewed an unusual propulsion system at a classified Nevada facility."
-    },
-    {
       "id": "david-adair-area-51-interview",
       "type": "interview",
       "name": "David Adair: My Story — Child Prodigy to Rocket Scientist",
       "summary": "Interview in which David Adair described his rocketry background and alleged encounter with unusual technology at Area 51."
+    },
+    {
+      "id": "david-adair",
+      "type": "person",
+      "name": "David Adair",
+      "summary": "Public speaker and rocketry personality who has long claimed that he viewed an unusual propulsion system at a classified Nevada facility."
     },
     {
       "id": "david-fravor",
@@ -670,16 +700,16 @@
       "summary": "Physicist associated with advanced-propulsion studies, AAWSAP-related technical work, and public discussion of government UAP investigations."
     },
     {
-      "id": "eric-hecker",
-      "type": "person",
-      "name": "Eric Hecker",
-      "summary": "Former contractor who publicly alleged that South Pole facilities possessed advanced directed-energy and communications capabilities."
-    },
-    {
       "id": "eric-hecker-south-pole-interview",
       "type": "interview",
       "name": "Eric Hecker South Pole Interview",
       "summary": "Interview in which Eric Hecker described alleged advanced technologies at the South Pole."
+    },
+    {
+      "id": "eric-hecker",
+      "type": "person",
+      "name": "Eric Hecker",
+      "summary": "Former contractor who publicly alleged that South Pole facilities possessed advanced directed-energy and communications capabilities."
     },
     {
       "id": "event-2023-house-hearing-held",
@@ -1018,16 +1048,16 @@
       "summary": "Former NASA space-policy official and member of NASA’s UAP Independent Study Team."
     },
     {
-      "id": "michael-herrera",
-      "type": "person",
-      "name": "Michael Herrera",
-      "summary": "Former U.S. Marine who publicly alleged that he observed a large advanced craft and unidentified personnel during a 2009 humanitarian deployment in Indonesia."
-    },
-    {
       "id": "michael-herrera-public-interview",
       "type": "interview",
       "name": "Michael Herrera Public Interview",
       "summary": "Public interview describing Herrera's alleged 2009 encounter with a large craft during a deployment in Indonesia."
+    },
+    {
+      "id": "michael-herrera",
+      "type": "person",
+      "name": "Michael Herrera",
+      "summary": "Former U.S. Marine who publicly alleged that he observed a large advanced craft and unidentified personnel during a 2009 humanitarian deployment in Indonesia."
     },
     {
       "id": "michael-shellenberger",
@@ -1042,16 +1072,16 @@
       "summary": "U.S. Air Force installation in North Dakota associated with historical missile-field UFO reports."
     },
     {
-      "id": "nasa",
-      "type": "organization",
-      "name": "NASA",
-      "summary": "The United States civil space agency."
-    },
-    {
       "id": "nasa-uap-independent-study-team",
       "type": "organization",
       "name": "NASA UAP Independent Study Team",
       "summary": "Independent multidisciplinary panel commissioned by NASA to recommend how civilian government data and scientific methods could improve the study of UAP."
+    },
+    {
+      "id": "nasa",
+      "type": "organization",
+      "name": "NASA",
+      "summary": "The United States civil space agency."
     },
     {
       "id": "national-archives",
