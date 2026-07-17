@@ -1,3 +1,10 @@
+# GreyAlien V15.13.1
+
+- Refined Related Timeline so only dated entities can appear as timeline cards.
+- Excluded Person, Organization, Topic, and Claim entities from Related Timeline.
+- Removed the “Date not specified” fallback; undated records remain available in their correct related-entity sections.
+- Preserved all existing Timeline entities, relationships, and chronological ordering.
+
 # GreyAlien V15.13
 
 - Added the David Grusch Timeline pilot using a hybrid chronological view.

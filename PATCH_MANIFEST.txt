@@ -1,23 +1,13 @@
-GreyAlien V15.13 — David Grusch Timeline Pilot Patch
+GreyAlien V15.13.1 Timeline Refinement Patch
 
-Extract into the root of the local GreyAlien repository while the appropriate feature branch is checked out. Allow Windows to replace matching files.
+Apply these files to the repository root:
 
-Changed files:
-- CHANGELOG.md
-- index.html
-- sitemap.xml
-- data/entity-index.json
-- data/entities/2023-07-26-house-oversight-uap.json
-- data/entities/2023-newsnation-grusch-interview.json
-- data/entities/2023-weaponized-episode-21.json
-- data/entities/david-grusch.json
-- data/entities/timeline-2019-2022-david-grusch-uap-assignments.json
-- data/entities/timeline-2021-07-david-grusch-dod-ig-disclosure.json
-- data/entities/timeline-2022-05-25-david-grusch-ppd19-complaint.json
 - assets/js/entity-engine.js
+- CHANGELOG.md
 
-Validation:
-- 241 entity files and 241 indexed entities.
-- All new timeline relationship targets resolve.
-- JavaScript syntax validation passed.
-- 18 pre-existing unresolved legacy targets remain unchanged.
+Purpose:
+- Require every Related Timeline card to have a valid date or date range.
+- Exclude Person, Organization, Topic, and Claim entities from Related Timeline.
+- Eliminate “Date not specified” Timeline cards.
+
+No entity data, relationships, homepage content, sitemap, or styles were changed.
