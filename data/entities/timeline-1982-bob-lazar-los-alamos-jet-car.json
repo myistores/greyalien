@@ -1,0 +1,36 @@
+{
+  "id": "timeline-1982-bob-lazar-los-alamos-jet-car",
+  "type": "timeline_event",
+  "name": "Los Alamos Monitor Profiles Bob Lazar’s Jet Car",
+  "summary": "The Los Alamos Monitor published a feature about Bob Lazar’s jet-powered Honda and described him as a physicist at the Los Alamos Meson Physics Facility.",
+  "date": "1982-06-27",
+  "dateDisplay": "June 27, 1982",
+  "eventCategory": "Public record",
+  "relationships": [
+    {
+      "type": "timeline_connection",
+      "target": "bob-lazar",
+      "role": "primary_subject",
+      "context": "Profiled in the newspaper feature"
+    },
+    {
+      "type": "timeline_connection",
+      "target": "los-alamos-monitor",
+      "role": "publisher",
+      "context": "Published the jet-car feature"
+    },
+    {
+      "type": "timeline_connection",
+      "target": "scientific-investigation",
+      "role": "related_topic",
+      "context": "Public account of Lazar’s technical work"
+    }
+  ],
+  "primarySourceLinks": [
+    {
+      "label": "Los Alamos Monitor jet-car article transcription",
+      "url": "https://www.dreamlandresort.com/area51/lazar/jetcar.htm",
+      "sourceType": "Archived newspaper transcription"
+    }
+  ]
+}

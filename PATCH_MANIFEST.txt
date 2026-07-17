@@ -1,16 +1,23 @@
-GreyAlien V15.11.1 Cleanup Patch
+GreyAlien V15.12 Timeline Pilot Patch
 
-Purpose:
-- Remove duplicate Matthew Brown Related Media cards.
-- Add a renderer-level safeguard against duplicate relationship cards.
+Extract this ZIP into the root of the local GreyAlien repository on a new branch created from current main. Allow Windows to replace matching files.
+
+New entities:
+- 7 Bob Lazar timeline events
+- KLAS-TV / 8 News Now
+- Los Alamos Monitor
+- Bob Lazar: Area 51 & Flying Saucers
+- S4: The Bob Lazar Story
 
 Updated files:
 - assets/js/entity-engine.js
-- data/entities/matthew-brown.json
+- data/schema/relationship-vocabulary.json
+- data/entity-index.json
+- index.html
+- sitemap.xml
 - CHANGELOG.md
 
-Deployment:
-Extract this ZIP into the root of the local GreyAlien repository on a new cleanup branch. Allow Windows to replace matching files.
-
-Expected result:
-Matthew Brown displays one card each for WEAPONIZED Parts 1, 2, and 3.
+Validation:
+- JSON parsed successfully.
+- Entity index and entity-file totals match.
+- All new relationship targets resolve.

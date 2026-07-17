@@ -155,5 +155,10 @@
     "forward": "Featured in media",
     "reverse": "Features person",
     "description": "Connects a person to a media record with a contextual role such as guest, host, or primary subject."
+  },
+  "timeline_connection": {
+    "forward": "Timeline connection",
+    "reverse": "Timeline event",
+    "description": "Connects a timeline event to a materially involved person, organization, place, media record, topic, or claim. The role field explains the entity’s relationship to the event."
   }
 }

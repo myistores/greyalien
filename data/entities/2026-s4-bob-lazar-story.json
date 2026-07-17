@@ -1,0 +1,38 @@
+{
+  "id": "2026-s4-bob-lazar-story",
+  "type": "interview",
+  "name": "S4: The Bob Lazar Story",
+  "summary": "2026 documentary centered on Bob Lazar’s account of the alleged S4 facility, including visual reconstructions developed from his recollections.",
+  "relationships": [
+    {
+      "type": "features_person",
+      "target": "bob-lazar",
+      "role": "primary_subject",
+      "context": "Central documentary subject and narrator"
+    },
+    {
+      "type": "features_person",
+      "target": "luigi-venditelli",
+      "role": "creator",
+      "context": "Director and producer"
+    },
+    {
+      "type": "discussed_case",
+      "target": "s4-facility-claim"
+    },
+    {
+      "type": "presented_claim",
+      "target": "claim-s4-documentary-reconstruction"
+    }
+  ],
+  "date": "2026-04-03",
+  "mediaType": "Documentary",
+  "mediaPlatform": "Digital release",
+  "mediaHost": "Luigi Venditelli and Christopher Matteau",
+  "mediaSubjects": [
+    "Bob Lazar"
+  ],
+  "mediaSourceStatus": "Released documentary",
+  "externalUrl": "https://www.imdb.com/title/tt37605896/",
+  "externalLinkLabel": "View documentary record"
+}

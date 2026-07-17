@@ -1,0 +1,71 @@
+{
+  "id": "timeline-1989-05-15-bob-lazar-dennis-interview",
+  "type": "timeline_event",
+  "name": "Bob Lazar Appears Anonymously as “Dennis” on KLAS-TV",
+  "summary": "KLAS-TV aired George Knapp’s first interview with Bob Lazar, who appeared in silhouette under the pseudonym “Dennis” while describing alleged work at S4.",
+  "date": "1989-05-15",
+  "dateDisplay": "May 15, 1989",
+  "eventCategory": "Television disclosure",
+  "relationships": [
+    {
+      "type": "timeline_connection",
+      "target": "bob-lazar",
+      "role": "primary_subject",
+      "context": "Anonymous interview subject using the name “Dennis”"
+    },
+    {
+      "type": "timeline_connection",
+      "target": "george-knapp",
+      "role": "interviewer",
+      "context": "Conducted the KLAS-TV interview"
+    },
+    {
+      "type": "timeline_connection",
+      "target": "klas-tv",
+      "role": "publisher",
+      "context": "Broadcast the interview"
+    },
+    {
+      "type": "timeline_connection",
+      "target": "1989-bob-lazar-george-knapp-interview",
+      "role": "related_media",
+      "context": "Part of the archived 1989 KLAS interview record"
+    },
+    {
+      "type": "timeline_connection",
+      "target": "area-51",
+      "role": "discussed",
+      "context": "Discussed location"
+    },
+    {
+      "type": "timeline_connection",
+      "target": "s4-facility-claim",
+      "role": "discussed",
+      "context": "Primary alleged facility discussed"
+    },
+    {
+      "type": "timeline_connection",
+      "target": "claim-s4-reverse-engineering",
+      "role": "related_claim",
+      "context": "Principal allegation presented"
+    },
+    {
+      "type": "timeline_connection",
+      "target": "government-transparency",
+      "role": "related_topic",
+      "context": "Public disclosure and secrecy context"
+    }
+  ],
+  "primarySourceLinks": [
+    {
+      "label": "8 News Now archival interview retrospective",
+      "url": "https://www.youtube.com/watch?v=BoJmd2MIpOk",
+      "sourceType": "Official station archive"
+    },
+    {
+      "label": "Bob Lazar interview archive",
+      "url": "https://www.papooselake.org/interview-transcripts",
+      "sourceType": "Interview archive"
+    }
+  ]
+}

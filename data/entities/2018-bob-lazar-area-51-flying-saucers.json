@@ -1,0 +1,38 @@
+{
+  "id": "2018-bob-lazar-area-51-flying-saucers",
+  "type": "interview",
+  "name": "Bob Lazar: Area 51 & Flying Saucers",
+  "summary": "2018 documentary directed by Jeremy Corbell examining Bob Lazar’s claims about Area 51, S4, and alleged reverse-engineering work.",
+  "relationships": [
+    {
+      "type": "features_person",
+      "target": "bob-lazar",
+      "role": "primary_subject",
+      "context": "Central documentary subject"
+    },
+    {
+      "type": "features_person",
+      "target": "jeremy-corbell",
+      "role": "creator",
+      "context": "Director and investigative filmmaker"
+    },
+    {
+      "type": "discussed_case",
+      "target": "area-51"
+    },
+    {
+      "type": "discussed_case",
+      "target": "s4-facility-claim"
+    }
+  ],
+  "date": "2018-12-04",
+  "mediaType": "Documentary",
+  "mediaPlatform": "Film / digital release",
+  "mediaHost": "Jeremy Corbell",
+  "mediaSubjects": [
+    "Bob Lazar"
+  ],
+  "mediaSourceStatus": "Released documentary",
+  "externalUrl": "https://www.imdb.com/title/tt9107368/",
+  "externalLinkLabel": "View documentary record"
+}

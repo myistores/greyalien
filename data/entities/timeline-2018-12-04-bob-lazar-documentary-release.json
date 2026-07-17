@@ -1,0 +1,48 @@
+{
+  "id": "timeline-2018-12-04-bob-lazar-documentary-release",
+  "type": "timeline_event",
+  "name": "Bob Lazar: Area 51 & Flying Saucers Released",
+  "summary": "Jeremy Corbell’s documentary revisiting Bob Lazar’s story was released digitally, renewing public attention around Lazar, Area 51, and S4.",
+  "date": "2018-12-04",
+  "dateDisplay": "December 4, 2018",
+  "eventCategory": "Documentary release",
+  "relationships": [
+    {
+      "type": "timeline_connection",
+      "target": "bob-lazar",
+      "role": "primary_subject",
+      "context": "Central documentary subject"
+    },
+    {
+      "type": "timeline_connection",
+      "target": "jeremy-corbell",
+      "role": "creator",
+      "context": "Documentary director"
+    },
+    {
+      "type": "timeline_connection",
+      "target": "2018-bob-lazar-area-51-flying-saucers",
+      "role": "related_media",
+      "context": "Documentary released"
+    },
+    {
+      "type": "timeline_connection",
+      "target": "area-51",
+      "role": "discussed",
+      "context": "Central location discussed"
+    },
+    {
+      "type": "timeline_connection",
+      "target": "s4-facility-claim",
+      "role": "discussed",
+      "context": "Central alleged facility discussed"
+    }
+  ],
+  "primarySourceLinks": [
+    {
+      "label": "Documentary release record",
+      "url": "https://www.imdb.com/title/tt9107368/releaseinfo/",
+      "sourceType": "Release information"
+    }
+  ]
+}

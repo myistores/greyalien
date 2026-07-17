@@ -1,3 +1,12 @@
+# GreyAlien V15.12
+
+- Activated the Timeline Event pilot using Bob Lazar as the first person-level chronology.
+- Added seven dated timeline events spanning 1982 through April 2026.
+- Added role-specific timeline connections and reverse navigation to materially related people, media, organizations, locations, topics, and claims.
+- Added foundational entities for KLAS-TV, the Los Alamos Monitor, and two Bob Lazar documentaries.
+- Added chronological sorting and Timeline Event details to the generic entity renderer.
+- Updated the homepage Latest Additions panel to Version 15.12.
+
 # GreyAlien V15.11.1
 
 * Removed redundant direct Matthew Brown media relationships that duplicated reverse episode-to-guest connections.
