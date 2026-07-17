@@ -1,23 +1,20 @@
-GreyAlien V15.12 Timeline Pilot Patch
+GreyAlien V15.12.1 Timeline UI Refinement Patch
 
-Extract this ZIP into the root of the local GreyAlien repository on a new branch created from current main. Allow Windows to replace matching files.
-
-New entities:
-- 7 Bob Lazar timeline events
-- KLAS-TV / 8 News Now
-- Los Alamos Monitor
-- Bob Lazar: Area 51 & Flying Saucers
-- S4: The Bob Lazar Story
+Apply this ZIP to the root of the current GreyAlien repository on a feature branch created from the latest main branch. Allow Windows to replace matching files.
 
 Updated files:
 - assets/js/entity-engine.js
-- data/schema/relationship-vocabulary.json
-- data/entity-index.json
-- index.html
-- sitemap.xml
+- style.css
 - CHANGELOG.md
 
+Changes:
+- Display Timeline event date at the top of each Related Timeline card.
+- Display Timeline Event category beneath the date.
+- Move relationship role into supporting card context.
+- Add a subtle visual distinction for Timeline cards.
+- Preserve all Timeline data and relationships.
+
 Validation:
-- JSON parsed successfully.
-- Entity index and entity-file totals match.
-- All new relationship targets resolve.
+- JavaScript syntax validation passed.
+- No entity JSON files changed.
+- No relationship, homepage, sitemap, or entity-index changes.

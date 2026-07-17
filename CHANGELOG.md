@@ -1,3 +1,11 @@
+# GreyAlien V15.12.1
+
+- Refined Related Timeline cards to display each event date prominently at the top.
+- Added the Timeline Event category beneath the date.
+- Moved relationship roles into supporting context within each card.
+- Added a subtle visual treatment that distinguishes Timeline cards from other entity cards.
+- Preserved all Timeline entities, relationships, counts, and chronological ordering.
+
 # GreyAlien V15.12
 
 - Activated the Timeline Event pilot using Bob Lazar as the first person-level chronology.
