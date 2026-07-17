@@ -1,3 +1,12 @@
+# GreyAlien V15.15.1
+
+- Removed the redundant Timeline Event for the December 4, 2018 release of *Bob Lazar: Area 51 & Flying Saucers*.
+- Removed the redundant Timeline Event for WEAPONIZED Episode #115 published April 14, 2026.
+- Preserved the existing documentary and podcast episode entities as the authoritative dated Timeline records.
+- Standardized Episode #115 on the canonical title: **WEAPONIZED Episode #115 — A New Chapter in the Bob Lazar Saga**.
+- Removed “Entity System 1.0” from the Entity Explorer hero.
+- Preserved all remaining Timeline relationships, chronological sorting, and reverse connections.
+
 # GreyAlien V15.15
 
 - Completed Timeline Wave 1 for Christopher Mellon, George Knapp, and Jeremy Corbell.

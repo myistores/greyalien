@@ -1,22 +1,17 @@
-GreyAlien V15.15 Patch
+GreyAlien V15.15.1 Cleanup & Polish Patch
 
-Timeline Wave 1 completion for Christopher Mellon, George Knapp, and Jeremy Corbell.
+REMOVED
+- data/entities/timeline-2018-12-04-bob-lazar-documentary-release.json
+- data/entities/timeline-2026-04-14-weaponized-episode-115.json
 
-New files:
-- data/entities/timeline-2017-10-christopher-mellon-ttsa.json
-- data/entities/timeline-2021-06-25-mellon-uap-assessment.json
-- data/entities/timeline-2023-01-23-weaponized-launch.json
-- data/entities/timeline-2024-01-08-jellyfish-uap-reporting.json
-
-Updated files:
-- data/entities/christopher-mellon.json
-- data/entities/george-knapp.json
-- data/entities/jeremy-corbell.json
-- data/entities/2017-12-16-nyt-pentagon-ufo-program.json
-- data/entities/2018-bob-lazar-area-51-flying-saucers.json
-- data/entities/2026-weaponized-episode-115.json
-- data/entities/to-the-stars-academy.json
+UPDATED
 - data/entity-index.json
-- index.html
 - sitemap.xml
+- entities/index.html
+- index.html
 - CHANGELOG.md
+
+PURPOSE
+- Remove duplicate Timeline records for the 2018 Bob Lazar documentary and WEAPONIZED Episode #115.
+- Preserve canonical documentary and podcast entities as authoritative dated records.
+- Remove the internal “Entity System 1.0” label from Entity Explorer.
