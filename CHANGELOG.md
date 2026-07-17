@@ -1,3 +1,12 @@
+# GreyAlien V15.16
+
+- Added dynamic Entity Explorer category navigation with live counts from the entity index.
+- Made the category navigator sticky so visitors can move between sections without returning to the top.
+- Added active-section highlighting, smooth scrolling, and a floating back-to-top control.
+- Refined Entity Explorer hero copy, section counts, section-header consistency, and empty-state handling.
+- Improved large-directory rendering and responsive navigation behavior without changing any entity data or relationships.
+- Deferred Entity Search to a future release.
+
 # GreyAlien V15.15.1
 
 - Removed the redundant Timeline Event for the December 4, 2018 release of *Bob Lazar: Area 51 & Flying Saucers*.

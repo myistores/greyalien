@@ -1,17 +1,22 @@
-GreyAlien V15.15.1 Cleanup & Polish Patch
+GreyAlien V15.16 — User Experience Enhancement Patch
 
-REMOVED
-- data/entities/timeline-2018-12-04-bob-lazar-documentary-release.json
-- data/entities/timeline-2026-04-14-weaponized-episode-115.json
-
-UPDATED
-- data/entity-index.json
-- sitemap.xml
+CHANGED FILES
 - entities/index.html
+- assets/js/entity-directory.js
+- style.css
 - index.html
 - CHANGELOG.md
 
-PURPOSE
-- Remove duplicate Timeline records for the 2018 Bob Lazar documentary and WEAPONIZED Episode #115.
-- Preserve canonical documentary and podcast entities as authoritative dated records.
-- Remove the internal “Entity System 1.0” label from Entity Explorer.
+FEATURES
+- Dynamic quick navigation with live entity counts
+- Sticky category navigation
+- Active section highlighting
+- Smooth in-page scrolling
+- Floating back-to-top button
+- Refined Entity Explorer hero and section counts
+- Consistent section headers and empty states
+- Responsive and performance-focused directory rendering
+
+NOT INCLUDED
+- Entity Search
+- New entities or relationships
