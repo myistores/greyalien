@@ -11,6 +11,11 @@
     {
       "type": "addresses_topic",
       "target": "scientific-investigation"
+    },
+    {
+      "type": "affiliated_with",
+      "target": "christopher-mellon",
+      "role": "National Security Affairs Advisor"
     }
   ],
   "externalUrl": "https://tothestars.media/",

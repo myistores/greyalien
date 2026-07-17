@@ -1336,6 +1336,12 @@
       "summary": "Bob Lazar appeared on KLAS-TV under his own name and face as George Knapp continued reporting on Lazar’s allegations about S4 and Area 51."
     },
     {
+      "id": "timeline-2017-10-christopher-mellon-ttsa",
+      "type": "timeline_event",
+      "name": "Christopher Mellon Joins the To The Stars Academy Team",
+      "summary": "Christopher Mellon became part of the To The Stars Academy team as a former national-security official supporting public UAP research and government-engagement efforts."
+    },
+    {
       "id": "timeline-2018-12-04-bob-lazar-documentary-release",
       "type": "timeline_event",
       "name": "Bob Lazar: Area 51 & Flying Saucers Released",
@@ -1348,6 +1354,12 @@
       "summary": "From 2019 through 2022, David Grusch served in intelligence roles that included representing the National Reconnaissance Office to the UAP Task Force and later co-leading UAP analysis at the National Geospatial-Intelligence Agency, according to his congressional statement."
     },
     {
+      "id": "timeline-2021-06-25-mellon-uap-assessment",
+      "type": "timeline_event",
+      "name": "Congress Receives the Preliminary UAP Assessment After Oversight Advocacy",
+      "summary": "The Office of the Director of National Intelligence delivered its preliminary UAP assessment to Congress after years of outreach and advocacy by Christopher Mellon and others seeking formal government review."
+    },
+    {
       "id": "timeline-2021-07-david-grusch-dod-ig-disclosure",
       "type": "timeline_event",
       "name": "David Grusch Provides UAP Information to the DoD Inspector General",
@@ -1358,6 +1370,18 @@
       "type": "timeline_event",
       "name": "David Grusch Files a PPD-19 Whistleblower Complaint",
       "summary": "On May 25, 2022, David Grusch and his attorneys filed an unclassified PPD-19 intelligence-community whistleblower complaint alleging retaliation and reprisal connected to his protected UAP disclosures."
+    },
+    {
+      "id": "timeline-2023-01-23-weaponized-launch",
+      "type": "timeline_event",
+      "name": "WEAPONIZED Launches with Jeremy Corbell and George Knapp",
+      "summary": "Jeremy Corbell and George Knapp launched WEAPONIZED as a recurring investigative podcast focused on UAP, documents, witnesses, and government transparency."
+    },
+    {
+      "id": "timeline-2024-01-08-jellyfish-uap-reporting",
+      "type": "timeline_event",
+      "name": "Corbell and Knapp Publish the Jellyfish UAP Footage",
+      "summary": "Jeremy Corbell and George Knapp publicly released military-filmed footage described in their reporting as the Jellyfish UAP, expanding WEAPONIZED coverage of documented UAP cases."
     },
     {
       "id": "timeline-2026-04-03-s4-bob-lazar-story-release",

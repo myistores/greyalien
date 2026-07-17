@@ -12,13 +12,15 @@
       "type": "features_person",
       "target": "jeremy-corbell",
       "role": "host",
-      "context": "WEAPONIZED co-host"
+      "context": "WEAPONIZED co-host",
+      "timeline": true
     },
     {
       "type": "features_person",
       "target": "george-knapp",
       "role": "host",
-      "context": "WEAPONIZED co-host"
+      "context": "WEAPONIZED co-host",
+      "timeline": true
     },
     {
       "type": "features_person",
@@ -92,5 +94,7 @@
       "url": "https://www.weaponizedpodcast.com/episodes-4/episode-115",
       "platform": "WEAPONIZED"
     }
-  ]
+  ],
+  "dateDisplay": "April 14, 2026",
+  "eventCategory": "Podcast publication"
 }

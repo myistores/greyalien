@@ -14,7 +14,8 @@
       "type": "features_person",
       "target": "jeremy-corbell",
       "role": "creator",
-      "context": "Director and investigative filmmaker"
+      "context": "Director and investigative filmmaker",
+      "timeline": true
     },
     {
       "type": "discussed_case",
@@ -34,5 +35,7 @@
   ],
   "mediaSourceStatus": "Released documentary",
   "externalUrl": "https://www.imdb.com/title/tt9107368/",
-  "externalLinkLabel": "View documentary record"
+  "externalLinkLabel": "View documentary record",
+  "dateDisplay": "December 4, 2018",
+  "eventCategory": "Documentary release"
 }

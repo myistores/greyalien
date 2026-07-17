@@ -1,0 +1,42 @@
+{
+  "id": "timeline-2017-10-christopher-mellon-ttsa",
+  "type": "timeline_event",
+  "name": "Christopher Mellon Joins the To The Stars Academy Team",
+  "summary": "Christopher Mellon became part of the To The Stars Academy team as a former national-security official supporting public UAP research and government-engagement efforts.",
+  "date": "2017-10-11",
+  "dateDisplay": "October 2017",
+  "eventCategory": "Organization launch",
+  "relationships": [
+    {
+      "type": "timeline_connection",
+      "target": "christopher-mellon",
+      "role": "participant",
+      "context": "National Security Affairs Advisor and former government official"
+    },
+    {
+      "type": "timeline_connection",
+      "target": "to-the-stars-academy",
+      "role": "related_organization",
+      "context": "Organization launched in October 2017"
+    },
+    {
+      "type": "timeline_connection",
+      "target": "government-transparency",
+      "role": "related_topic",
+      "context": "Public UAP engagement"
+    },
+    {
+      "type": "timeline_connection",
+      "target": "scientific-investigation",
+      "role": "related_topic",
+      "context": "Research and analysis mission"
+    }
+  ],
+  "primarySourceLinks": [
+    {
+      "label": "TTSA in New York Times coverage",
+      "url": "https://tothestars.media/blogs/press-and-news/the-new-york-times-glowing-auras-and-black-money-the-pentagon-s-mysterious-u-f-o-program",
+      "sourceType": "Official organization archive"
+    }
+  ]
+}

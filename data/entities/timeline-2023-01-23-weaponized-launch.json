@@ -1,0 +1,42 @@
+{
+  "id": "timeline-2023-01-23-weaponized-launch",
+  "type": "timeline_event",
+  "name": "WEAPONIZED Launches with Jeremy Corbell and George Knapp",
+  "summary": "Jeremy Corbell and George Knapp launched WEAPONIZED as a recurring investigative podcast focused on UAP, documents, witnesses, and government transparency.",
+  "date": "2023-01-23",
+  "dateDisplay": "January 23, 2023",
+  "eventCategory": "Podcast launch",
+  "relationships": [
+    {
+      "type": "timeline_connection",
+      "target": "jeremy-corbell",
+      "role": "host",
+      "context": "Co-host at launch"
+    },
+    {
+      "type": "timeline_connection",
+      "target": "george-knapp",
+      "role": "host",
+      "context": "Co-host at launch"
+    },
+    {
+      "type": "timeline_connection",
+      "target": "weaponized-podcast",
+      "role": "related_media",
+      "context": "Podcast series launched"
+    },
+    {
+      "type": "timeline_connection",
+      "target": "government-transparency",
+      "role": "related_topic",
+      "context": "Core reporting theme"
+    }
+  ],
+  "primarySourceLinks": [
+    {
+      "label": "WEAPONIZED Episode #1",
+      "url": "https://www.weaponizedpodcast.com/episodes-1/episode-number-1",
+      "sourceType": "Official episode page"
+    }
+  ]
+}

@@ -17,6 +17,32 @@
     {
       "type": "made_claim",
       "target": "claim-secret-uap-programs"
+    },
+    {
+      "type": "timeline_connection",
+      "target": "timeline-2017-10-christopher-mellon-ttsa",
+      "role": "participant",
+      "context": "Joined the TTSA team during its 2017 launch period",
+      "timeline": true
+    },
+    {
+      "type": "references_publication",
+      "target": "2017-12-16-nyt-pentagon-ufo-program",
+      "role": "investigator",
+      "context": "Provided UAP videos and helped connect reporters with knowledgeable sources",
+      "timeline": true
+    },
+    {
+      "type": "timeline_connection",
+      "target": "timeline-2021-06-25-mellon-uap-assessment",
+      "role": "participant",
+      "context": "Advocated congressional review of the UAP issue",
+      "timeline": true
+    },
+    {
+      "type": "affiliated_with",
+      "target": "to-the-stars-academy",
+      "role": "National Security Affairs Advisor"
     }
   ],
   "profileStatus": "Former government official and public disclosure advocate",

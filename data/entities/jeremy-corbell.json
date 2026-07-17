@@ -7,6 +7,34 @@
     {
       "type": "affiliated_with",
       "target": "weaponized-podcast"
+    },
+    {
+      "type": "appeared_in",
+      "target": "2018-bob-lazar-area-51-flying-saucers",
+      "role": "creator",
+      "context": "Directed and produced the documentary",
+      "timeline": true
+    },
+    {
+      "type": "timeline_connection",
+      "target": "timeline-2023-01-23-weaponized-launch",
+      "role": "host",
+      "context": "Co-founded and co-hosted WEAPONIZED",
+      "timeline": true
+    },
+    {
+      "type": "timeline_connection",
+      "target": "timeline-2024-01-08-jellyfish-uap-reporting",
+      "role": "investigator",
+      "context": "Co-published the Jellyfish UAP reporting",
+      "timeline": true
+    },
+    {
+      "type": "appeared_in",
+      "target": "2026-weaponized-episode-115",
+      "role": "host",
+      "context": "Co-hosted the Bob Lazar and S4 documentary discussion",
+      "timeline": true
     }
   ],
   "profileStatus": "Podcast host and investigative media contributor",
