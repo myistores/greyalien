@@ -1,7 +1,7 @@
 {
   "id": "weaponized-matthew-brown-part-1",
   "type": "interview",
-  "name": "WEAPONIZED — Matthew Brown Part 1: Immaculate Constellation",
+  "name": "WEAPONIZED Episode #74 — Matthew Brown Part 1: Immaculate Constellation",
   "summary": "Matthew Brown joins Jeremy Corbell and George Knapp for the first part of a discussion concerning his allegations about Immaculate Constellation, compartmentalized UAP programs, whistleblower risk, and congressional oversight.",
   "relationships": [
     {
@@ -57,6 +57,12 @@
       "type": "presented_claim",
       "target": "claim-whistleblower-retaliation",
       "context": "The episode discusses risks and alleged reprisals associated with reporting protected UAP information."
+    },
+    {
+      "type": "timeline_connection",
+      "target": "matthew-brown",
+      "role": "featured_guest",
+      "context": "Public interview concerning the alleged Immaculate Constellation program"
     }
   ],
   "mediaType": "Podcast episode",
@@ -81,6 +87,16 @@
       "label": "Visit WEAPONIZED",
       "url": "https://www.weaponizedpodcast.com/",
       "platform": "Official website"
+    }
+  ],
+  "date": "2025-04-29",
+  "dateDisplay": "April 29, 2025",
+  "eventCategory": "Public whistleblower interview",
+  "primarySourceLinks": [
+    {
+      "label": "WEAPONIZED Episode #74 — Matthew Brown Part 1: Immaculate Constellation",
+      "url": "https://www.weaponizedpodcast.com/episodes-3/episode-74",
+      "sourceType": "Official WEAPONIZED episode page"
     }
   ]
 }

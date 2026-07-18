@@ -57,6 +57,12 @@
       "type": "presented_claim",
       "target": "claim-immaculate-constellation-reporting-blocked",
       "context": "Brown describes attempts to report the matter through official channels before going public."
+    },
+    {
+      "type": "timeline_connection",
+      "target": "matthew-brown",
+      "role": "featured_guest",
+      "context": "Public interview concerning the alleged Immaculate Constellation program"
     }
   ],
   "date": "2025-05-06",
@@ -82,6 +88,15 @@
       "label": "Read the official Episode #75 description",
       "url": "https://www.weaponizedpodcast.com/episodes-3/episode-75",
       "platform": "WEAPONIZED"
+    }
+  ],
+  "dateDisplay": "May 6, 2025",
+  "eventCategory": "Public whistleblower interview",
+  "primarySourceLinks": [
+    {
+      "label": "WEAPONIZED Episode #75 — Matthew Brown Part 2: Immaculate Constellation",
+      "url": "https://www.weaponizedpodcast.com/episodes-3/episode-75",
+      "sourceType": "Official WEAPONIZED episode page"
     }
   ]
 }

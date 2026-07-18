@@ -62,6 +62,12 @@
       "type": "presented_claim",
       "target": "claim-additional-uap-insiders-should-come-forward",
       "context": "Brown urges other insiders with relevant knowledge to use lawful channels and speak publicly when necessary."
+    },
+    {
+      "type": "timeline_connection",
+      "target": "matthew-brown",
+      "role": "featured_guest",
+      "context": "Public interview concerning the alleged Immaculate Constellation program"
     }
   ],
   "date": "2025-05-13",
@@ -87,6 +93,15 @@
       "label": "Read the official Episode #76 description",
       "url": "https://www.weaponizedpodcast.com/episodes-3/episode-76",
       "platform": "WEAPONIZED"
+    }
+  ],
+  "dateDisplay": "May 13, 2025",
+  "eventCategory": "Public whistleblower interview",
+  "primarySourceLinks": [
+    {
+      "label": "WEAPONIZED Episode #76 — Matthew Brown Part 3: Immaculate Constellation",
+      "url": "https://www.weaponizedpodcast.com/episodes-3/episode-76",
+      "sourceType": "Official WEAPONIZED episode page"
     }
   ]
 }

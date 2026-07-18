@@ -1,0 +1,54 @@
+{
+  "id": "timeline-2008-2010-aawsap-puthoff-davis-research",
+  "type": "timeline_event",
+  "name": "Puthoff and Davis Contribute Technical Research to AAWSAP",
+  "summary": "During the Defense Intelligence Agency-funded AAWSAP period, Hal Puthoff and Eric Davis contributed technical research on advanced aerospace concepts relevant to the government’s investigation of anomalous phenomena. Their work connected private scientific research with a formal U.S. defense program examining UAP-related questions.",
+  "date": "2008-01-01",
+  "endDate": "2010-12-31",
+  "dateDisplay": "2008–2010",
+  "eventCategory": "Government UAP research program",
+  "relationships": [
+    {
+      "type": "timeline_connection",
+      "target": "aawsap",
+      "role": "program",
+      "context": "Defense Intelligence Agency-funded research program"
+    },
+    {
+      "type": "timeline_connection",
+      "target": "hal-puthoff",
+      "role": "research_contributor",
+      "context": "Contributed advanced propulsion and spacetime-metric research"
+    },
+    {
+      "type": "timeline_connection",
+      "target": "eric-davis",
+      "role": "technical_researcher",
+      "context": "Contributed technical studies on advanced aerospace concepts"
+    },
+    {
+      "type": "timeline_connection",
+      "target": "defense-intelligence-agency",
+      "role": "sponsor",
+      "context": "Government sponsor of AAWSAP"
+    },
+    {
+      "type": "timeline_connection",
+      "target": "scientific-investigation",
+      "role": "related_topic",
+      "context": "Technical investigation of advanced aerospace and anomalous phenomena"
+    }
+  ],
+  "primarySourceLinks": [
+    {
+      "label": "DIA Freedom of Information Act Electronic Reading Room",
+      "url": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/",
+      "sourceType": "Defense Intelligence Agency"
+    },
+    {
+      "label": "Advanced Space Propulsion Based on Vacuum (Spacetime Metric) Engineering",
+      "url": "https://arxiv.org/abs/1204.2184",
+      "sourceType": "Technical paper by Hal Puthoff"
+    }
+  ]
+}

@@ -1,10 +1,10 @@
 {
   "id": "timeline-2017-10-christopher-mellon-ttsa",
   "type": "timeline_event",
-  "name": "Christopher Mellon Joins the To The Stars Academy Team",
-  "summary": "Christopher Mellon became part of the To The Stars Academy team as a former national-security official supporting public UAP research and government-engagement efforts.",
+  "name": "To The Stars Academy Launches with a UAP Science and Government Team",
+  "summary": "To The Stars Academy of Arts & Science launched publicly with former government officials, aerospace specialists, and researchers focused on UAP, advanced aerospace concepts, and government transparency. Hal Puthoff served as co-founder and Vice President of Science and Technology.",
   "date": "2017-10-11",
-  "dateDisplay": "October 2017",
+  "dateDisplay": "October 11, 2017",
   "eventCategory": "Organization launch",
   "relationships": [
     {
@@ -30,13 +30,25 @@
       "target": "scientific-investigation",
       "role": "related_topic",
       "context": "Research and analysis mission"
+    },
+    {
+      "type": "timeline_connection",
+      "target": "hal-puthoff",
+      "role": "co_founder",
+      "context": "Co-founder and Vice President of Science and Technology"
+    },
+    {
+      "type": "timeline_connection",
+      "target": "luis-elizondo",
+      "role": "participant",
+      "context": "Director of Global Security and Special Programs at launch"
     }
   ],
   "primarySourceLinks": [
     {
-      "label": "TTSA in New York Times coverage",
-      "url": "https://tothestars.media/blogs/press-and-news/the-new-york-times-glowing-auras-and-black-money-the-pentagon-s-mysterious-u-f-o-program",
-      "sourceType": "Official organization archive"
+      "label": "To The Stars Academy launches publicly",
+      "url": "https://www.prnewswire.com/news-releases/to-the-stars-academy-of-arts--science-launches-today-300534912.html",
+      "sourceType": "To The Stars Academy / PR Newswire"
     }
   ]
 }

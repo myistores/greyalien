@@ -1,3 +1,12 @@
+# GreyAlien Version 15.18 — Wave 2C Timeline Expansion
+
+- Added focused UAP timelines for Hal Puthoff, Eric Davis, and Matthew Brown.
+- Reused the existing NIDS, AAWSAP, To The Stars Academy, and WEAPONIZED entities wherever authoritative records already existed.
+- Added one shared NIDS milestone, one shared AAWSAP technical-research milestone, and a carefully attributed Wilson–Davis Notes document entity.
+- Completed Matthew Brown's chronology by dating and reusing WEAPONIZED Episodes #74, #75, and #76.
+- Applied the editorial rule that each milestone must directly affect the UAP narrative.
+- Applied the Canonical Event Watch List to prevent parallel records for the same occurrence.
+
 # GreyAlien Version 15.17 — Wave 2B Timeline Expansion
 
 - Added focused UAP timelines for Garry Nolan, Sean M. Kirkpatrick, and Jacques Vallée.
