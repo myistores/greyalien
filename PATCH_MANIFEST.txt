@@ -1,12 +1,17 @@
-GreyAlien V15.18 — Wave 2C Timeline Expansion
+GreyAlien V15.19 — Wave 2D Timeline Expansion
 
 People:
-- Hal Puthoff
-- Eric Davis
-- Matthew Brown
+- Michael Herrera
+- Eric Hecker
+- Jonathan Weygandt
 
-Editorial rule: each timeline milestone directly affects the UAP narrative.
-Canonical Event Watch List applied before creating new records.
+Editorial directive:
+- Include only milestones that directly affect the UAP narrative.
+- Reuse canonical dated entities wherever possible.
+- Create a Timeline Event only when no authoritative entity exists.
 
-Apply by extracting into the repository root and replacing matching files.
-No manual deletions are required.
+Validation:
+- Entity JSON parsed successfully.
+- Entity index rebuilt from source files.
+- No duplicate IDs.
+- Timeline targets verified.

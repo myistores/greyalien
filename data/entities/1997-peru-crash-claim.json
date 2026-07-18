@@ -3,5 +3,14 @@
   "type": "case",
   "name": "Alleged 1997 Peru Crash Encounter",
   "summary": "Jonathan Weygandt's public account of encountering an unusual crashed object while deployed in Peru.",
-  "relationships": []
+  "relationships": [
+    {
+      "type": "case_witness",
+      "target": "jonathan-weygandt",
+      "role": "claimant",
+      "context": "Weygandt is the named source of the public account"
+    }
+  ],
+  "date": "1997-01-01",
+  "dateDisplay": "1997"
 }

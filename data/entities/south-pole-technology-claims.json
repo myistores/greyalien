@@ -3,5 +3,15 @@
   "type": "case",
   "name": "South Pole Technology Claims",
   "summary": "Eric Hecker's public allegations concerning advanced technology and alleged non-scientific uses of facilities at the South Pole.",
-  "relationships": []
+  "relationships": [
+    {
+      "type": "case_witness",
+      "target": "eric-hecker",
+      "role": "claimant",
+      "context": "Hecker is the named source of the public allegations"
+    }
+  ],
+  "date": "2010-11-01",
+  "endDate": "2011-11-30",
+  "dateDisplay": "November 2010–2011"
 }

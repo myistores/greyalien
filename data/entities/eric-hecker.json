@@ -11,7 +11,10 @@
     },
     {
       "type": "appeared_in",
-      "target": "eric-hecker-south-pole-interview"
+      "target": "eric-hecker-south-pole-interview",
+      "timeline": true,
+      "role": "guest",
+      "context": "Long-form public interview expanding his South Pole allegations"
     },
     {
       "type": "made_claim",
@@ -20,6 +23,20 @@
     {
       "type": "reported_case",
       "target": "south-pole-technology-claims"
+    },
+    {
+      "type": "participated_in",
+      "target": "timeline-2010-2011-eric-hecker-south-pole-assignment",
+      "timeline": true,
+      "role": "contractor",
+      "context": "South Pole assignment that became the basis of his later public claims"
+    },
+    {
+      "type": "participated_in",
+      "target": "timeline-2023-06-12-disclosure-project-national-press-club",
+      "timeline": true,
+      "role": "witness",
+      "context": "Presented his South Pole allegations publicly at the National Press Club"
     }
   ],
   "profileStatus": "Former contractor and South Pole technology claimant",

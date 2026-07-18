@@ -1,0 +1,39 @@
+{
+  "id": "2023-09-06-podcast-ufo-jonathan-weygandt",
+  "type": "interview",
+  "name": "Podcast UFO — Jonathan Weygandt Exclusive Peru Encounter",
+  "summary": "Jonathan Weygandt's second major public interview revisited his alleged 1997 Peru crash encounter and the aftermath he described, more than two decades after his Disclosure Project testimony.",
+  "date": "2023-09-06",
+  "dateDisplay": "September 6, 2023",
+  "mediaType": "Podcast interview",
+  "mediaPlatform": "Podcast UFO",
+  "mediaHost": "Martin Willis",
+  "mediaGuests": [
+    "Jonathan Weygandt"
+  ],
+  "mediaSourceStatus": "Official podcast listing",
+  "relationships": [
+    {
+      "type": "presented_claim",
+      "target": "claim-peru-crash-retrieval"
+    },
+    {
+      "type": "discussed_case",
+      "target": "1997-peru-crash-claim"
+    },
+    {
+      "type": "featured_person",
+      "target": "jonathan-weygandt",
+      "role": "guest"
+    }
+  ],
+  "mediaLinks": [
+    {
+      "label": "Listen to the interview",
+      "url": "https://podcastufo.com/show-notes/former-marines-jonathan-weygandt-on-non-human-encounter/",
+      "platform": "Podcast UFO"
+    }
+  ],
+  "externalUrl": "https://podcastufo.com/show-notes/former-marines-jonathan-weygandt-on-non-human-encounter/",
+  "externalLinkLabel": "Listen to the interview"
+}

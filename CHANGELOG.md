@@ -1,3 +1,12 @@
+# GreyAlien Version 15.19 — Wave 2D Timeline Expansion
+
+- Added focused UAP-related timelines for Michael Herrera, Eric Hecker, and Jonathan Weygandt.
+- Reused the existing Indonesia, South Pole, and Peru case entities as dated canonical milestones.
+- Added one shared June 12, 2023 National Press Club disclosure event for Herrera and Hecker.
+- Added Eric Hecker's 2010–2011 South Pole assignment as necessary context for his later public claims.
+- Corrected Jonathan Weygandt's archived Disclosure Project interview chronology to 2001 and added his September 6, 2023 Podcast UFO interview.
+- Applied the Canonical Event Watch List and the editorial directive that each milestone must directly affect the UAP narrative.
+
 # GreyAlien Version 15.18 — Wave 2C Timeline Expansion
 
 - Added focused UAP timelines for Hal Puthoff, Eric Davis, and Matthew Brown.

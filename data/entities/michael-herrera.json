@@ -20,6 +20,20 @@
     {
       "type": "reported_case",
       "target": "2009-indonesia-craft-claim"
+    },
+    {
+      "type": "reported_case",
+      "target": "2009-indonesia-craft-claim",
+      "timeline": true,
+      "role": "claimant",
+      "context": "Alleged encounter during a humanitarian deployment near Padang, Indonesia"
+    },
+    {
+      "type": "participated_in",
+      "target": "timeline-2023-06-12-disclosure-project-national-press-club",
+      "timeline": true,
+      "role": "witness",
+      "context": "Presented his Indonesia account publicly at the National Press Club"
     }
   ],
   "profileStatus": "Former Marine and firsthand craft-encounter claimant",

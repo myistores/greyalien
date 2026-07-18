@@ -11,7 +11,10 @@
     },
     {
       "type": "appeared_in",
-      "target": "1997-jonathan-weygandt-interview"
+      "target": "1997-jonathan-weygandt-interview",
+      "timeline": true,
+      "role": "witness",
+      "context": "First major public recorded testimony through the Disclosure Project"
     },
     {
       "type": "made_claim",
@@ -20,6 +23,20 @@
     {
       "type": "reported_case",
       "target": "1997-peru-crash-claim"
+    },
+    {
+      "type": "reported_case",
+      "target": "1997-peru-crash-claim",
+      "timeline": true,
+      "role": "claimant",
+      "context": "Alleged crash encounter while deployed in Peru"
+    },
+    {
+      "type": "appeared_in",
+      "target": "2023-09-06-podcast-ufo-jonathan-weygandt",
+      "timeline": true,
+      "role": "guest",
+      "context": "Second major public interview revisiting the Peru account"
     }
   ],
   "profileStatus": "Former Marine and firsthand crash-encounter claimant",
