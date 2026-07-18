@@ -1,0 +1,30 @@
+{
+  "id": "publication-1975-edge-of-reality",
+  "type": "publication",
+  "name": "The Edge of Reality",
+  "summary": "Jacques Vallée and J. Allen Hynek published The Edge of Reality, presenting a collaborative scientific discussion of unresolved UFO evidence and investigative methods.",
+  "date": "1975-01-01",
+  "dateDisplay": "1975",
+  "eventCategory": "Collaborative UAP publication",
+  "relationships": [
+    {
+      "type": "timeline_connection",
+      "target": "jacques-vallee",
+      "role": "author",
+      "context": "Authored this influential UAP publication"
+    },
+    {
+      "type": "timeline_connection",
+      "target": "j-allen-hynek",
+      "role": "co_author",
+      "context": "Co-authored the publication with Jacques Vallée"
+    }
+  ],
+  "primarySourceLinks": [
+    {
+      "label": "Jacques Vallée official bibliography",
+      "url": "https://www.jacquesvallee.net/",
+      "sourceType": "Official author website"
+    }
+  ]
+}

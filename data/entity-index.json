@@ -862,6 +862,12 @@
       "summary": "Astronomer and former Project Blue Book consultant"
     },
     {
+      "id": "jacques-vallee",
+      "type": "person",
+      "name": "Jacques Vallée",
+      "summary": "French-American scientist, author, and long-term UAP researcher whose work broadened inquiry beyond a purely extraterrestrial interpretation."
+    },
+    {
       "id": "jake-barber",
       "type": "person",
       "name": "Jake Barber",
@@ -1144,6 +1150,24 @@
       "summary": "Nonpartisan government-accountability organization."
     },
     {
+      "id": "publication-1965-anatomy-of-a-phenomenon",
+      "type": "publication",
+      "name": "Anatomy of a Phenomenon",
+      "summary": "Jacques Vallée published an early scientific appraisal of UFO reports, helping establish his long-running role in evidence-oriented UAP research."
+    },
+    {
+      "id": "publication-1969-passport-to-magonia",
+      "type": "publication",
+      "name": "Passport to Magonia",
+      "summary": "Jacques Vallée published Passport to Magonia, advancing the influential argument that reported UFO encounters should be compared with historical folklore and broader human experience rather than interpreted only as extraterrestrial visitation."
+    },
+    {
+      "id": "publication-1975-edge-of-reality",
+      "type": "publication",
+      "name": "The Edge of Reality",
+      "summary": "Jacques Vallée and J. Allen Hynek published The Edge of Reality, presenting a collaborative scientific discussion of unresolved UFO evidence and investigative methods."
+    },
+    {
       "id": "raf-bentwaters",
       "type": "organization",
       "name": "RAF Bentwaters / RAF Woodbridge",
@@ -1354,6 +1378,12 @@
       "summary": "In October 2017, Luis Elizondo resigned from his Defense Department position, citing the need for greater public exposure and government cooperation in the study of UAP, and subsequently became a prominent public advocate on the issue."
     },
     {
+      "id": "timeline-2018-03-22-nolan-atacama-genomic-study",
+      "type": "timeline_event",
+      "name": "Garry Nolan’s Genomic Study Resolves the Atacama Specimen",
+      "summary": "A Stanford-led genomic study involving Garry Nolan concluded that the unusual Atacama specimen was human and identified mutations associated with its skeletal abnormalities, directly addressing years of extraterrestrial speculation surrounding the remains."
+    },
+    {
       "id": "timeline-2018-12-04-bob-lazar-documentary-release",
       "type": "timeline_event",
       "name": "Bob Lazar: Area 51 & Flying Saucers Released",
@@ -1402,6 +1432,12 @@
       "summary": "On May 25, 2022, David Grusch and his attorneys filed an unclassified PPD-19 intelligence-community whistleblower complaint alleging retaliation and reprisal connected to his protected UAP disclosures."
     },
     {
+      "id": "timeline-2022-07-20-kirkpatrick-named-aaro-director",
+      "type": "timeline_event",
+      "name": "Sean Kirkpatrick Is Named the First Director of AARO",
+      "summary": "The Department of Defense announced the establishment of the All-domain Anomaly Resolution Office and named Sean M. Kirkpatrick as its first director, placing him at the center of the government’s formal UAP investigation and reporting structure."
+    },
+    {
       "id": "timeline-2023-01-23-weaponized-launch",
       "type": "timeline_event",
       "name": "WEAPONIZED Launches with Jeremy Corbell and George Knapp",
@@ -1412,6 +1448,12 @@
       "type": "timeline_event",
       "name": "Avi Loeb Leads the IM1 Interstellar Meteor Recovery Expedition",
       "summary": "Avi Loeb served as chief scientist for a June 2023 expedition that surveyed the Pacific seafloor near the calculated path of IM1 and recovered hundreds of spherules for laboratory analysis. The work broadened the Galileo Project’s investigation of possible extraterrestrial technological artifacts beyond aerial observations."
+    },
+    {
+      "id": "timeline-2023-10-31-aaro-secure-reporting-mechanism",
+      "type": "timeline_event",
+      "name": "AARO Launches a Secure UAP Reporting Mechanism",
+      "summary": "AARO launched a secure reporting mechanism for current and former U.S. government personnel to report direct knowledge of UAP-related programs or activities, a significant expansion of the office’s information-gathering role under Sean Kirkpatrick."
     },
     {
       "id": "timeline-2023-11-17-sol-inaugural-symposium",
@@ -1430,6 +1472,12 @@
       "type": "timeline_event",
       "name": "Karl Nell Presents a Controlled UAP Disclosure Framework at SALT",
       "summary": "Karl Nell delivered the SALT iConnections presentation “The Real Black Swan Event: The Controlled Disclosure of UAP & Non-Human Intelligence,” bringing a senior military and aerospace perspective on UAP disclosure to a major public conference."
+    },
+    {
+      "id": "timeline-2024-11-22-sol-symposium",
+      "type": "timeline_event",
+      "name": "The Sol Foundation Holds Its Second Annual UAP Symposium",
+      "summary": "The Sol Foundation convened its second annual symposium in San Francisco, featuring scientific, policy, philosophical, and government-focused sessions on UAP. Garry Nolan organized and spoke at the event, while Jacques Vallée participated in a plenary discussion."
     },
     {
       "id": "timeline-2026-04-03-s4-bob-lazar-story-release",

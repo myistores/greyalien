@@ -1,0 +1,43 @@
+{
+  "id": "timeline-2024-11-22-sol-symposium",
+  "type": "timeline_event",
+  "name": "The Sol Foundation Holds Its Second Annual UAP Symposium",
+  "summary": "The Sol Foundation convened its second annual symposium in San Francisco, featuring scientific, policy, philosophical, and government-focused sessions on UAP. Garry Nolan organized and spoke at the event, while Jacques Vallée participated in a plenary discussion.",
+  "date": "2024-11-22",
+  "endDate": "2024-11-23",
+  "dateDisplay": "November 22–23, 2024",
+  "eventCategory": "UAP research symposium",
+  "relationships": [
+    {
+      "type": "timeline_connection",
+      "target": "sol-foundation",
+      "role": "host",
+      "context": "Organized the second annual symposium"
+    },
+    {
+      "type": "timeline_connection",
+      "target": "garry-nolan",
+      "role": "organizer_and_speaker",
+      "context": "Organized the symposium and presented on standards of evidence"
+    },
+    {
+      "type": "timeline_connection",
+      "target": "jacques-vallee",
+      "role": "featured_participant",
+      "context": "Participated in a plenary fireside conversation"
+    },
+    {
+      "type": "timeline_connection",
+      "target": "scientific-investigation",
+      "role": "related_topic",
+      "context": "Focused on scientific standards and UAP research"
+    }
+  ],
+  "primarySourceLinks": [
+    {
+      "label": "Sol Foundation 2024 Symposium schedule",
+      "url": "https://thesolfoundation.org/events/sols-2024-symposium/",
+      "sourceType": "The Sol Foundation"
+    }
+  ]
+}

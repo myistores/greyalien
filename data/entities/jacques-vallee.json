@@ -1,0 +1,26 @@
+{
+  "id": "jacques-vallee",
+  "type": "person",
+  "name": "Jacques Vallée",
+  "summary": "French-American scientist, author, and long-term UAP researcher whose work broadened inquiry beyond a purely extraterrestrial interpretation.",
+  "relationships": [
+    {
+      "type": "collaborated_with",
+      "target": "j-allen-hynek",
+      "role": "Research collaborator"
+    }
+  ],
+  "profileStatus": "Scientist, author, and UAP researcher",
+  "profileSummary": "French-American scientist, author, and long-term UAP researcher whose books and investigations have shaped modern thinking about UAP.",
+  "profileBadge": "Researcher",
+  "profileBadgeClass": "badge-scientist",
+  "background": "Astronomer, computer scientist, author, and technology investor with decades of research into UFO and UAP reports.",
+  "inclusionNote": "Included because his research, publications, and collaboration with J. Allen Hynek materially influenced the conceptual and scientific history of UAP investigation.",
+  "primarySourceLinks": [
+    {
+      "label": "Official Jacques Vallée website",
+      "url": "https://www.jacquesvallee.net/",
+      "sourceType": "Official website"
+    }
+  ]
+}

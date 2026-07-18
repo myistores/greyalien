@@ -37,6 +37,18 @@
       "target": "government-transparency",
       "role": "related_topic",
       "context": "Policy and disclosure discussions"
+    },
+    {
+      "type": "timeline_connection",
+      "target": "garry-nolan",
+      "role": "organizer",
+      "context": "Organized the inaugural symposium through the Nolan Laboratory and Sol Foundation"
+    },
+    {
+      "type": "timeline_connection",
+      "target": "jacques-vallee",
+      "role": "participant",
+      "context": "Listed symposium participant"
     }
   ],
   "primarySourceLinks": [

@@ -1,3 +1,10 @@
+# GreyAlien Version 15.17 — Wave 2B Timeline Expansion
+
+- Added focused UAP timelines for Garry Nolan, Sean M. Kirkpatrick, and Jacques Vallée.
+- Reused the existing April 19, 2023 AARO hearing, NASA public meeting, and Sol Foundation symposium records.
+- Added canonical publication entities for three foundational Jacques Vallée works.
+- Applied the editorial rule that each milestone must directly affect the UAP narrative.
+
 # GreyAlien V15.16.1
 
 - Added Wave 2A Related Timeline coverage for Karl Nell, Luis Elizondo, and Avi Loeb.

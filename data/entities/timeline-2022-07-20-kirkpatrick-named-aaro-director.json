@@ -1,0 +1,36 @@
+{
+  "id": "timeline-2022-07-20-kirkpatrick-named-aaro-director",
+  "type": "timeline_event",
+  "name": "Sean Kirkpatrick Is Named the First Director of AARO",
+  "summary": "The Department of Defense announced the establishment of the All-domain Anomaly Resolution Office and named Sean M. Kirkpatrick as its first director, placing him at the center of the government’s formal UAP investigation and reporting structure.",
+  "date": "2022-07-20",
+  "dateDisplay": "July 20, 2022",
+  "eventCategory": "Government appointment",
+  "relationships": [
+    {
+      "type": "timeline_connection",
+      "target": "sean-kirkpatrick",
+      "role": "appointed_director",
+      "context": "Named first Director of AARO"
+    },
+    {
+      "type": "timeline_connection",
+      "target": "aaro",
+      "role": "related_organization",
+      "context": "Office established to investigate UAP across domains"
+    },
+    {
+      "type": "timeline_connection",
+      "target": "department-of-defense",
+      "role": "announcing_organization",
+      "context": "Announced AARO and its first director"
+    }
+  ],
+  "primarySourceLinks": [
+    {
+      "label": "DoD announcement establishing AARO",
+      "url": "https://www.defense.gov/News/Releases/Release/Article/3100053/dod-announces-the-establishment-of-the-all-domain-anomaly-resolution-office/",
+      "sourceType": "U.S. Department of Defense"
+    }
+  ]
+}

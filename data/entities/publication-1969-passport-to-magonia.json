@@ -1,0 +1,24 @@
+{
+  "id": "publication-1969-passport-to-magonia",
+  "type": "publication",
+  "name": "Passport to Magonia",
+  "summary": "Jacques Vallée published Passport to Magonia, advancing the influential argument that reported UFO encounters should be compared with historical folklore and broader human experience rather than interpreted only as extraterrestrial visitation.",
+  "date": "1969-01-01",
+  "dateDisplay": "1969",
+  "eventCategory": "Foundational UAP publication",
+  "relationships": [
+    {
+      "type": "timeline_connection",
+      "target": "jacques-vallee",
+      "role": "author",
+      "context": "Authored this influential UAP publication"
+    }
+  ],
+  "primarySourceLinks": [
+    {
+      "label": "Jacques Vallée official bibliography",
+      "url": "https://www.jacquesvallee.net/",
+      "sourceType": "Official author website"
+    }
+  ]
+}

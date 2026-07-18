@@ -11,7 +11,21 @@
     {
       "type": "resulted_in",
       "target": "2023-nasa-uap-independent-study-report"
+    },
+    {
+      "type": "timeline_connection",
+      "target": "sean-kirkpatrick",
+      "role": "aaro_director",
+      "context": "Delivered opening remarks at the NASA public meeting"
+    },
+    {
+      "type": "timeline_connection",
+      "target": "nasa",
+      "role": "host",
+      "context": "Hosted the public UAP study meeting"
     }
   ],
-  "date": "2023-05-31"
+  "date": "2023-05-31",
+  "dateDisplay": "May 31, 2023",
+  "eventCategory": "Government scientific review"
 }

@@ -1,0 +1,30 @@
+{
+  "id": "timeline-2018-03-22-nolan-atacama-genomic-study",
+  "type": "timeline_event",
+  "name": "Garry Nolan’s Genomic Study Resolves the Atacama Specimen",
+  "summary": "A Stanford-led genomic study involving Garry Nolan concluded that the unusual Atacama specimen was human and identified mutations associated with its skeletal abnormalities, directly addressing years of extraterrestrial speculation surrounding the remains.",
+  "date": "2018-03-22",
+  "dateDisplay": "March 22, 2018",
+  "eventCategory": "Scientific investigation",
+  "relationships": [
+    {
+      "type": "timeline_connection",
+      "target": "garry-nolan",
+      "role": "lead_researcher",
+      "context": "Led the scientific investigation of the specimen"
+    },
+    {
+      "type": "timeline_connection",
+      "target": "scientific-investigation",
+      "role": "related_topic",
+      "context": "Applied genomic analysis to an anomalous specimen"
+    }
+  ],
+  "primarySourceLinks": [
+    {
+      "label": "Stanford Medicine report on the Atacama specimen",
+      "url": "https://med.stanford.edu/news/insights/2018/03/bizarre-skeleton-sheds-light-on-mutations-of-bone-disease.html",
+      "sourceType": "Stanford Medicine"
+    }
+  ]
+}

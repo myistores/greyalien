@@ -1,24 +1,10 @@
-GreyAlien V15.16.1 — Wave 2A Timeline Expansion
+GreyAlien V15.17 — Wave 2B Timeline Expansion
 
-NEW FILES
-- data/entities/timeline-2021-2022-karl-nell-uaptf-support.json
-- data/entities/timeline-2023-11-17-sol-inaugural-symposium.json
-- data/entities/timeline-2024-05-21-karl-nell-salt-uap-presentation.json
-- data/entities/timeline-2017-10-luis-elizondo-resigns-uap-disclosure.json
-- data/entities/timeline-2021-10-30-elizondo-galileo-affiliate.json
-- data/entities/2024-08-20-imminent-luis-elizondo.json
-- data/entities/timeline-2021-07-galileo-project-founded.json
-- data/entities/timeline-2023-06-14-avi-loeb-im1-expedition.json
+People:
+- Garry Nolan
+- Sean M. Kirkpatrick
+- Jacques Vallée
 
-UPDATED FILES
-- data/entities/karl-nell.json
-- data/entities/luis-elizondo.json
-- data/entities/avi-loeb.json
-- data/entity-index.json
-- index.html
-- sitemap.xml
-- CHANGELOG.md
-- PATCH_MANIFEST.txt
+Editorial rule: each timeline milestone directly affects the UAP narrative.
 
-DIRECTIVE
-Only milestones that directly affect the UAP research, disclosure, policy, or scientific narrative were included.
+Apply by extracting into the repository root and replacing matching files.
