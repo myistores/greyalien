@@ -1,0 +1,32 @@
+{
+  "id": "2024-08-20-imminent-luis-elizondo",
+  "type": "publication",
+  "name": "Luis Elizondo Publishes Imminent",
+  "summary": "Luis Elizondo’s memoir Imminent: Inside the Pentagon’s Hunt for UFOs was published, presenting his account of government UAP investigation and his arguments for greater transparency and oversight.",
+  "date": "2024-08-20",
+  "dateDisplay": "August 20, 2024",
+  "eventCategory": "UAP book publication",
+  "relationships": [
+    {
+      "type": "references_person",
+      "target": "luis-elizondo",
+      "role": "author",
+      "context": "Author of the UAP memoir",
+      "timeline": true
+    },
+    {
+      "type": "references_topic",
+      "target": "government-transparency"
+    },
+    {
+      "type": "references_topic",
+      "target": "congressional-oversight"
+    },
+    {
+      "type": "references_topic",
+      "target": "scientific-investigation"
+    }
+  ],
+  "externalUrl": "https://books.google.com/books/about/Imminent.html?id=y8f_EAAAQBAJ",
+  "externalLinkLabel": "View publication record"
+}

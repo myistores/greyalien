@@ -1,0 +1,36 @@
+{
+  "id": "timeline-2017-10-luis-elizondo-resigns-uap-disclosure",
+  "type": "timeline_event",
+  "name": "Luis Elizondo Leaves the Pentagon and Begins Public UAP Advocacy",
+  "summary": "In October 2017, Luis Elizondo resigned from his Defense Department position, citing the need for greater public exposure and government cooperation in the study of UAP, and subsequently became a prominent public advocate on the issue.",
+  "date": "2017-10-01",
+  "dateDisplay": "October 2017",
+  "eventCategory": "Public UAP disclosure",
+  "relationships": [
+    {
+      "type": "timeline_connection",
+      "target": "luis-elizondo",
+      "role": "primary_subject",
+      "context": "Left government service and began public UAP advocacy"
+    },
+    {
+      "type": "timeline_connection",
+      "target": "department-of-defense",
+      "role": "related_organization",
+      "context": "Former employer and setting of the resignation"
+    },
+    {
+      "type": "timeline_connection",
+      "target": "government-transparency",
+      "role": "related_topic",
+      "context": "Public exposure and cooperation on UAP investigation"
+    }
+  ],
+  "primarySourceLinks": [
+    {
+      "label": "Galileo Project biography and affiliate announcement",
+      "url": "https://galileo.hsites.harvard.edu/news/galileo-project-welcomes-christopher-mellon-and-luis-elizondo-research-affiliates",
+      "sourceType": "The Galileo Project, Harvard University"
+    }
+  ]
+}

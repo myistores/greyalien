@@ -1,0 +1,42 @@
+{
+  "id": "timeline-2021-10-30-elizondo-galileo-affiliate",
+  "type": "timeline_event",
+  "name": "The Galileo Project Names Luis Elizondo a Research Affiliate",
+  "summary": "The Galileo Project announced Luis Elizondo as a research affiliate to contribute experience in UAP investigation, site selection for UAP-Scope systems, and assessment of the societal implications of potential findings.",
+  "date": "2021-10-30",
+  "dateDisplay": "October 30, 2021",
+  "eventCategory": "Scientific UAP collaboration",
+  "relationships": [
+    {
+      "type": "timeline_connection",
+      "target": "luis-elizondo",
+      "role": "research_affiliate",
+      "context": "Joined the Galileo Project research effort"
+    },
+    {
+      "type": "timeline_connection",
+      "target": "avi-loeb",
+      "role": "project_lead",
+      "context": "Announced the affiliate appointment as project lead"
+    },
+    {
+      "type": "timeline_connection",
+      "target": "galileo-project",
+      "role": "related_organization",
+      "context": "Scientific UAP research project"
+    },
+    {
+      "type": "timeline_connection",
+      "target": "scientific-investigation",
+      "role": "related_topic",
+      "context": "Instrument-based UAP research"
+    }
+  ],
+  "primarySourceLinks": [
+    {
+      "label": "Galileo Project affiliate announcement",
+      "url": "https://galileo.hsites.harvard.edu/news/galileo-project-welcomes-christopher-mellon-and-luis-elizondo-research-affiliates",
+      "sourceType": "The Galileo Project, Harvard University"
+    }
+  ]
+}

@@ -26,6 +26,11 @@
     {
       "type": "made_claim",
       "target": "claim-whistleblower-retaliation"
+    },
+    {
+      "type": "authored",
+      "target": "2024-08-20-imminent-luis-elizondo",
+      "role": "Author"
     }
   ],
   "profileStatus": "Former official, public witness, and disclosure advocate",
@@ -42,6 +47,11 @@
       "label": "Official November 2024 hearing page",
       "url": "https://oversight.house.gov/hearing/unidentified-anomalous-phenomena-exposing-the-truth/",
       "sourceType": "House Committee on Oversight and Accountability"
+    },
+    {
+      "label": "Galileo Project research affiliate announcement",
+      "url": "https://galileo.hsites.harvard.edu/news/galileo-project-welcomes-christopher-mellon-and-luis-elizondo-research-affiliates",
+      "sourceType": "Harvard University"
     }
   ],
   "profileBadge": "Firsthand Witness",

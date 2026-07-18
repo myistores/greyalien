@@ -1,0 +1,41 @@
+{
+  "id": "timeline-2024-05-21-karl-nell-salt-uap-presentation",
+  "type": "timeline_event",
+  "name": "Karl Nell Presents a Controlled UAP Disclosure Framework at SALT",
+  "summary": "Karl Nell delivered the SALT iConnections presentation “The Real Black Swan Event: The Controlled Disclosure of UAP & Non-Human Intelligence,” bringing a senior military and aerospace perspective on UAP disclosure to a major public conference.",
+  "date": "2024-05-21",
+  "dateDisplay": "May 21, 2024",
+  "eventCategory": "Public UAP presentation",
+  "relationships": [
+    {
+      "type": "timeline_connection",
+      "target": "karl-nell",
+      "role": "speaker",
+      "context": "Delivered the UAP disclosure presentation"
+    },
+    {
+      "type": "timeline_connection",
+      "target": "government-transparency",
+      "role": "related_topic",
+      "context": "Controlled disclosure and public accountability"
+    },
+    {
+      "type": "timeline_connection",
+      "target": "uap-disclosure-legislation",
+      "role": "related_topic",
+      "context": "Broader disclosure-policy context"
+    }
+  ],
+  "primarySourceLinks": [
+    {
+      "label": "SALT New York 2024 agenda",
+      "url": "https://www.salt.org/event-agendas/2024-new-york",
+      "sourceType": "SALT"
+    },
+    {
+      "label": "Karl Nell SALT speaker profile",
+      "url": "https://www.salt.org/speakers/karl-nell",
+      "sourceType": "SALT"
+    }
+  ]
+}

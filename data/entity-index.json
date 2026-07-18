@@ -208,6 +208,12 @@
       "summary": "A closed briefing concerning UAP whistleblower allegations and congressional access to information held by the intelligence community."
     },
     {
+      "id": "2024-08-20-imminent-luis-elizondo",
+      "type": "publication",
+      "name": "Luis Elizondo Publishes Imminent",
+      "summary": "Luis Elizondo’s memoir Imminent: Inside the Pentagon’s Hunt for UFOs was published, presenting his account of government UAP investigation and his arguments for greater transparency and oversight."
+    },
+    {
       "id": "2024-11-13-house-oversight-uap",
       "type": "hearing",
       "name": "November 13, 2024 House UAP Hearing",
@@ -598,16 +604,16 @@
       "summary": "Constitutional attorney and New Paradigm Institute leader involved in UAP disclosure advocacy and legal support for witnesses and whistleblowers."
     },
     {
-      "id": "david-adair-area-51-interview",
-      "type": "interview",
-      "name": "David Adair: My Story — Child Prodigy to Rocket Scientist",
-      "summary": "Interview in which David Adair described his rocketry background and alleged encounter with unusual technology at Area 51."
-    },
-    {
       "id": "david-adair",
       "type": "person",
       "name": "David Adair",
       "summary": "Public speaker and rocketry personality who has long claimed that he viewed an unusual propulsion system at a classified Nevada facility."
+    },
+    {
+      "id": "david-adair-area-51-interview",
+      "type": "interview",
+      "name": "David Adair: My Story — Child Prodigy to Rocket Scientist",
+      "summary": "Interview in which David Adair described his rocketry background and alleged encounter with unusual technology at Area 51."
     },
     {
       "id": "david-fravor",
@@ -700,16 +706,16 @@
       "summary": "Physicist associated with advanced-propulsion studies, AAWSAP-related technical work, and public discussion of government UAP investigations."
     },
     {
-      "id": "eric-hecker-south-pole-interview",
-      "type": "interview",
-      "name": "Eric Hecker South Pole Interview",
-      "summary": "Interview in which Eric Hecker described alleged advanced technologies at the South Pole."
-    },
-    {
       "id": "eric-hecker",
       "type": "person",
       "name": "Eric Hecker",
       "summary": "Former contractor who publicly alleged that South Pole facilities possessed advanced directed-energy and communications capabilities."
+    },
+    {
+      "id": "eric-hecker-south-pole-interview",
+      "type": "interview",
+      "name": "Eric Hecker South Pole Interview",
+      "summary": "Interview in which Eric Hecker described alleged advanced technologies at the South Pole."
     },
     {
       "id": "event-2023-house-hearing-held",
@@ -1048,16 +1054,16 @@
       "summary": "Former NASA space-policy official and member of NASA’s UAP Independent Study Team."
     },
     {
-      "id": "michael-herrera-public-interview",
-      "type": "interview",
-      "name": "Michael Herrera Public Interview",
-      "summary": "Public interview describing Herrera's alleged 2009 encounter with a large craft during a deployment in Indonesia."
-    },
-    {
       "id": "michael-herrera",
       "type": "person",
       "name": "Michael Herrera",
       "summary": "Former U.S. Marine who publicly alleged that he observed a large advanced craft and unidentified personnel during a 2009 humanitarian deployment in Indonesia."
+    },
+    {
+      "id": "michael-herrera-public-interview",
+      "type": "interview",
+      "name": "Michael Herrera Public Interview",
+      "summary": "Public interview describing Herrera's alleged 2009 encounter with a large craft during a deployment in Indonesia."
     },
     {
       "id": "michael-shellenberger",
@@ -1072,16 +1078,16 @@
       "summary": "U.S. Air Force installation in North Dakota associated with historical missile-field UFO reports."
     },
     {
-      "id": "nasa-uap-independent-study-team",
-      "type": "organization",
-      "name": "NASA UAP Independent Study Team",
-      "summary": "Independent multidisciplinary panel commissioned by NASA to recommend how civilian government data and scientific methods could improve the study of UAP."
-    },
-    {
       "id": "nasa",
       "type": "organization",
       "name": "NASA",
       "summary": "The United States civil space agency."
+    },
+    {
+      "id": "nasa-uap-independent-study-team",
+      "type": "organization",
+      "name": "NASA UAP Independent Study Team",
+      "summary": "Independent multidisciplinary panel commissioned by NASA to recommend how civilian government data and scientific methods could improve the study of UAP."
     },
     {
       "id": "national-archives",
@@ -1342,6 +1348,18 @@
       "summary": "Christopher Mellon became part of the To The Stars Academy team as a former national-security official supporting public UAP research and government-engagement efforts."
     },
     {
+      "id": "timeline-2017-10-luis-elizondo-resigns-uap-disclosure",
+      "type": "timeline_event",
+      "name": "Luis Elizondo Leaves the Pentagon and Begins Public UAP Advocacy",
+      "summary": "In October 2017, Luis Elizondo resigned from his Defense Department position, citing the need for greater public exposure and government cooperation in the study of UAP, and subsequently became a prominent public advocate on the issue."
+    },
+    {
+      "id": "timeline-2018-12-04-bob-lazar-documentary-release",
+      "type": "timeline_event",
+      "name": "Bob Lazar: Area 51 & Flying Saucers Released",
+      "summary": "Jeremy Corbell’s documentary revisiting Bob Lazar’s story was released digitally, renewing public attention around Lazar, Area 51, and S4."
+    },
+    {
       "id": "timeline-2019-2022-david-grusch-uap-assignments",
       "type": "timeline_event",
       "name": "David Grusch Serves in UAP-Related Intelligence Assignments",
@@ -1360,6 +1378,24 @@
       "summary": "In July 2021, David Grusch says he confidentially provided classified UAP-related information to the Department of Defense Inspector General concerning alleged withholding of information from Congress."
     },
     {
+      "id": "timeline-2021-07-galileo-project-founded",
+      "type": "timeline_event",
+      "name": "Avi Loeb Co-Founds the Galileo Project for Systematic UAP Research",
+      "summary": "Avi Loeb and Frank Laukien founded the Harvard-hosted Galileo Project to move research on UAP and possible extraterrestrial technological artifacts toward transparent, validated, instrument-based scientific study."
+    },
+    {
+      "id": "timeline-2021-10-30-elizondo-galileo-affiliate",
+      "type": "timeline_event",
+      "name": "The Galileo Project Names Luis Elizondo a Research Affiliate",
+      "summary": "The Galileo Project announced Luis Elizondo as a research affiliate to contribute experience in UAP investigation, site selection for UAP-Scope systems, and assessment of the societal implications of potential findings."
+    },
+    {
+      "id": "timeline-2021-2022-karl-nell-uaptf-support",
+      "type": "timeline_event",
+      "name": "Karl Nell Supports the UAP Task Force and Congressional UAP Legislation",
+      "summary": "During the closing period of his Army career, Karl Nell served as an Army director supporting the UAP Task Force and states that his work with Defense Department and congressional leaders contributed to UAP provisions in the 2022 and 2023 National Defense Authorization Acts."
+    },
+    {
       "id": "timeline-2022-05-25-david-grusch-ppd19-complaint",
       "type": "timeline_event",
       "name": "David Grusch Files a PPD-19 Whistleblower Complaint",
@@ -1372,16 +1408,40 @@
       "summary": "Jeremy Corbell and George Knapp launched WEAPONIZED as a recurring investigative podcast focused on UAP, documents, witnesses, and government transparency."
     },
     {
+      "id": "timeline-2023-06-14-avi-loeb-im1-expedition",
+      "type": "timeline_event",
+      "name": "Avi Loeb Leads the IM1 Interstellar Meteor Recovery Expedition",
+      "summary": "Avi Loeb served as chief scientist for a June 2023 expedition that surveyed the Pacific seafloor near the calculated path of IM1 and recovered hundreds of spherules for laboratory analysis. The work broadened the Galileo Project’s investigation of possible extraterrestrial technological artifacts beyond aerial observations."
+    },
+    {
+      "id": "timeline-2023-11-17-sol-inaugural-symposium",
+      "type": "timeline_event",
+      "name": "The Sol Foundation Holds Its Inaugural UAP Research and Policy Symposium",
+      "summary": "The Sol Foundation convened its inaugural symposium at Stanford University, bringing together researchers, former officials, and policy specialists for focused discussion of UAP science, government policy, and disclosure. Karl Nell and Avi Loeb were among the listed participants."
+    },
+    {
       "id": "timeline-2024-01-08-jellyfish-uap-reporting",
       "type": "timeline_event",
       "name": "Corbell and Knapp Publish the Jellyfish UAP Footage",
       "summary": "Jeremy Corbell and George Knapp publicly released military-filmed footage described in their reporting as the Jellyfish UAP, expanding WEAPONIZED coverage of documented UAP cases."
     },
     {
+      "id": "timeline-2024-05-21-karl-nell-salt-uap-presentation",
+      "type": "timeline_event",
+      "name": "Karl Nell Presents a Controlled UAP Disclosure Framework at SALT",
+      "summary": "Karl Nell delivered the SALT iConnections presentation “The Real Black Swan Event: The Controlled Disclosure of UAP & Non-Human Intelligence,” bringing a senior military and aerospace perspective on UAP disclosure to a major public conference."
+    },
+    {
       "id": "timeline-2026-04-03-s4-bob-lazar-story-release",
       "type": "timeline_event",
       "name": "S4: The Bob Lazar Story Released Digitally",
       "summary": "The documentary S4: The Bob Lazar Story was released digitally, presenting a new visual reconstruction of Lazar’s account of the alleged S4 facility."
+    },
+    {
+      "id": "timeline-2026-04-14-weaponized-episode-115",
+      "type": "timeline_event",
+      "name": "WEAPONIZED Episode #115 Revisits the Bob Lazar Story",
+      "summary": "WEAPONIZED published Episode #115, featuring Luigi Venditelli in a discussion with Jeremy Corbell and George Knapp about S4: The Bob Lazar Story and the continuing debate surrounding Lazar’s claims."
     },
     {
       "id": "to-the-stars-academy",

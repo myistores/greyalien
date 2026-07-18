@@ -1,3 +1,13 @@
+# GreyAlien V15.16.1
+
+- Added Wave 2A Related Timeline coverage for Karl Nell, Luis Elizondo, and Avi Loeb.
+- Applied the relevance rule that a milestone must directly affect the UAP research, disclosure, policy, or scientific narrative.
+- Added Karl Nell milestones for UAP Task Force support, the inaugural Sol Foundation symposium, and his May 2024 SALT disclosure presentation.
+- Added Luis Elizondo milestones for his 2017 transition to public UAP advocacy, his Galileo Project affiliate appointment, the publication of *Imminent*, and reused the existing November 2024 House hearing.
+- Added Avi Loeb milestones for founding the Galileo Project, the IM1 expedition, the shared Galileo affiliate announcement, and the inaugural Sol Foundation symposium.
+- Reused existing organization and hearing entities instead of creating parallel Timeline records.
+- Preserved Timeline filtering, chronological sorting, canonical-entity reuse, and the V15.16 Entity Explorer UX.
+
 # GreyAlien V15.16
 
 - Added dynamic Entity Explorer category navigation with live counts from the entity index.

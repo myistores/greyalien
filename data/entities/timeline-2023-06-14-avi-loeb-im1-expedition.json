@@ -1,0 +1,37 @@
+{
+  "id": "timeline-2023-06-14-avi-loeb-im1-expedition",
+  "type": "timeline_event",
+  "name": "Avi Loeb Leads the IM1 Interstellar Meteor Recovery Expedition",
+  "summary": "Avi Loeb served as chief scientist for a June 2023 expedition that surveyed the Pacific seafloor near the calculated path of IM1 and recovered hundreds of spherules for laboratory analysis. The work broadened the Galileo Project’s investigation of possible extraterrestrial technological artifacts beyond aerial observations.",
+  "date": "2023-06-14",
+  "endDate": "2023-06-28",
+  "dateDisplay": "June 14–28, 2023",
+  "eventCategory": "Interstellar-object expedition",
+  "relationships": [
+    {
+      "type": "timeline_connection",
+      "target": "avi-loeb",
+      "role": "chief_scientist",
+      "context": "Led the scientific investigation"
+    },
+    {
+      "type": "timeline_connection",
+      "target": "galileo-project",
+      "role": "related_organization",
+      "context": "Research framework for the expedition and analysis"
+    },
+    {
+      "type": "timeline_connection",
+      "target": "scientific-investigation",
+      "role": "related_topic",
+      "context": "Physical recovery and laboratory analysis of anomalous materials"
+    }
+  ],
+  "primarySourceLinks": [
+    {
+      "label": "Galileo Project IM1 expedition publication",
+      "url": "https://galileo.hsites.harvard.edu/publications/recovery-and-classification-spherules-pacific-ocean-site-cneos-2014-january-8",
+      "sourceType": "The Galileo Project, Harvard University"
+    }
+  ]
+}
