@@ -1,17 +1,10 @@
-GreyAlien V15.19 — Wave 2D Timeline Expansion
+GreyAlien V16.0 FULL WEBSITE PACKAGE
 
-People:
-- Michael Herrera
-- Eric Hecker
-- Jonathan Weygandt
+Primary changes:
+- categories/science-technology.html
+- science/*/index.html (7 new collection placeholders)
+- style.css (V16 gateway and collection styles)
+- sitemap.xml
+- CHANGELOG.md
 
-Editorial directive:
-- Include only milestones that directly affect the UAP narrative.
-- Reuse canonical dated entities wherever possible.
-- Create a Timeline Event only when no authoritative entity exists.
-
-Validation:
-- Entity JSON parsed successfully.
-- Entity index rebuilt from source files.
-- No duplicate IDs.
-- Timeline targets verified.
+Deploy the complete package to preserve all V15.19 content and add the V16 gateway.

@@ -1,34 +1,9 @@
-GREYALIEN VERSION 15.7
+GREYALIEN V16.0 DEPLOYMENT
 
-Focused podcast and connection-count update built from Version 15.5.1.
+1. Extract the ZIP.
+2. Copy all files and folders into the root of the GreyAlien GitHub repository.
+3. Replace existing files when prompted.
+4. Commit and push the changes through GitHub Desktop.
+5. Verify /categories/science-technology.html and each /science/.../ page.
 
-Changes:
-1. Added WEAPONIZED Episode #21 and connected David Grusch as Primary Subject.
-2. Retained Episode #115 as the first podcast episode test.
-3. Made all Podcast Foundation card connection totals calculate from the entity graph.
-4. Made hearing-directory witness totals calculate from the structured witness lists.
-5. Updated Homepage Latest Additions for Version 15.6.
-6. No visual redesign or unrelated content changes.
-
-Deployment with GitHub Desktop:
-1. Extract this ZIP.
-2. Copy every file and folder into:
-   C:\Users\Jason Ciaramella\Documents\GitHub\greyalien
-3. Choose Replace the files in the destination.
-4. In GitHub Desktop, review the changed files.
-5. Commit to main.
-6. Push origin.
-7. Wait for GitHub Pages deployment to complete.
-8. Force-refresh with Ctrl+F5.
-
-Suggested commit:
-Version 15.7 - Add WEAPONIZED Episode 28 and podcast build tooling
-
-Primary test pages:
-https://greyalien.com/
-https://greyalien.com/categories/podcasts.html
-https://greyalien.com/entities/entity.html?id=weaponized-podcast
-https://greyalien.com/entities/entity.html?id=2023-weaponized-episode-21
-https://greyalien.com/entities/entity.html?id=david-grusch
-
-V15.8 adds WEAPONIZED Episode #28, Bryce Zabel, and reusable validation/build tools for faster podcast expansion.
+This is a full-site package based directly on V15.19.

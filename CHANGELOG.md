@@ -1,3 +1,12 @@
+# GreyAlien Version 16.0 — Science & Technology Gateway Foundation
+
+- Replaced the legacy Science & Technology placeholder with a complete visual gateway.
+- Added seven collection cards with a distinct icon and accent system.
+- Added seven responsive collection landing pages with purposeful Coming Soon content.
+- Established future routing for disciplines, sensors, programs, methods, explanations, research publications, and emerging technologies.
+- Added breadcrumb navigation, SEO metadata, CollectionPage structured data, and sitemap entries.
+- Preserved all existing podcast, entity, hearing, homepage, and knowledge-graph content.
+
 # GreyAlien Version 15.19 — Wave 2D Timeline Expansion
 
 - Added focused UAP-related timelines for Michael Herrera, Eric Hecker, and Jonathan Weygandt.
