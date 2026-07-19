@@ -1,0 +1,21 @@
+{
+  "id": "claim-2024-uap-review-found-persistent-transparency-failures",
+  "type": "claim",
+  "name": "The 2024 UAP year-in-review panel identified continuing transparency failures",
+  "summary": "The panel discussed DOD secrecy, AARO criticism, witness pressure, and congressional-hearing concerns.",
+  "relationships": [
+    {
+      "type": "featured_in_media",
+      "target": "2024-weaponized-episode-64"
+    }
+  ],
+  "officialLinks": [],
+  "referenceSources": [
+    {
+      "label": "Official WEAPONIZED Episode #64 page",
+      "url": "https://www.weaponizedpodcast.com/episodes-3/episode-64",
+      "sourceType": "official_episode_page",
+      "role": "source"
+    }
+  ]
+}

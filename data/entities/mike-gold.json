@@ -1,0 +1,28 @@
+{
+  "id": "mike-gold",
+  "type": "person",
+  "name": "Mike Gold",
+  "summary": "Space-industry executive, NASA adviser, former Bigelow Aerospace executive, and witness at the November 2024 congressional UAP hearing.",
+  "relationships": [
+    {
+      "type": "appeared_in",
+      "target": "2025-weaponized-episode-66",
+      "role": "guest",
+      "context": "Discussed NASA archives, space research, and public-private partnerships"
+    }
+  ],
+  "profileStatus": "Space executive and NASA adviser",
+  "profileSummary": "Space-industry executive, NASA adviser, former Bigelow Aerospace executive, and witness at the November 2024 congressional UAP hearing.",
+  "profileBadge": "Executive",
+  "profileBadgeClass": "badge-executive",
+  "inclusionNote": "Included as a guest in WEAPONIZED Episode #66.",
+  "officialLinks": [],
+  "referenceSources": [
+    {
+      "label": "Official WEAPONIZED Episode #66 page",
+      "url": "https://www.weaponizedpodcast.com/episodes-3/episode-66",
+      "sourceType": "official_episode_page",
+      "role": "source"
+    }
+  ]
+}

@@ -1,0 +1,98 @@
+{
+  "id": "2025-weaponized-episode-69",
+  "type": "podcast_episode",
+  "name": "WEAPONIZED Episode #69 — John Mack, Ariel School, and Reporting the Unreportable",
+  "summary": "In the second part of the Ralph Blumenthal interview, the discussion focuses on John Mack’s abduction research, Harvard’s review of his work, the Ariel School encounter, and barriers facing modern UAP whistleblowers.",
+  "date": "2025-03-18",
+  "dateDisplay": "March 18, 2025",
+  "seriesId": "weaponized-podcast",
+  "episodeNumber": 69,
+  "episodeTitle": "John Mack, Ariel School, and Reporting the Unreportable",
+  "status": "Published",
+  "mediaType": "Podcast episode",
+  "mediaPlatform": "WEAPONIZED",
+  "mediaHost": "Jeremy Corbell and George Knapp",
+  "mediaGuests": [
+    "ralph-blumenthal"
+  ],
+  "mediaSubjects": [
+    "John Mack",
+    "Ariel School encounter",
+    "Alien-abduction research",
+    "Whistleblower pressure"
+  ],
+  "principalClaims": [
+    "claim-john-mack-faced-harvard-review-over-abduction-research",
+    "claim-mack-investigated-ariel-school-witnesses",
+    "claim-whistleblower-fear-continues-to-limit-disclosure"
+  ],
+  "researchNotes": [],
+  "relationships": [
+    {
+      "type": "episode_of",
+      "target": "weaponized-podcast"
+    },
+    {
+      "type": "features_person",
+      "target": "jeremy-corbell",
+      "role": "host",
+      "context": "WEAPONIZED co-host"
+    },
+    {
+      "type": "features_person",
+      "target": "george-knapp",
+      "role": "host",
+      "context": "WEAPONIZED co-host"
+    },
+    {
+      "type": "features_person",
+      "target": "ralph-blumenthal",
+      "role": "guest",
+      "context": "Featured episode participant"
+    },
+    {
+      "type": "references_organization",
+      "target": "harvard-university"
+    },
+    {
+      "type": "discussed_topic",
+      "target": "human-encounter-research"
+    },
+    {
+      "type": "discussed_topic",
+      "target": "government-transparency"
+    },
+    {
+      "type": "references_case",
+      "target": "1994-ariel-school-encounter"
+    }
+  ],
+  "mediaLinks": [
+    {
+      "label": "Open the official Episode #69 page",
+      "url": "https://www.weaponizedpodcast.com/episodes-3/episode-69",
+      "platform": "WEAPONIZED"
+    },
+    {
+      "label": "Listen to WEAPONIZED",
+      "url": "https://link.chtbl.com/Weaponized",
+      "platform": "Official audio feed"
+    }
+  ],
+  "eventCategory": "Podcast publication",
+  "officialLinks": [],
+  "referenceSources": [
+    {
+      "label": "Official WEAPONIZED Episode #69 page",
+      "url": "https://www.weaponizedpodcast.com/episodes-3/episode-69",
+      "sourceType": "official_episode_page",
+      "role": "source"
+    },
+    {
+      "label": "Listen to WEAPONIZED",
+      "url": "https://link.chtbl.com/Weaponized",
+      "sourceType": "official_audio_feed",
+      "role": "source"
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "id": "claim-vandenberg-witness-reported-large-red-object",
+  "type": "claim",
+  "name": "Jeff Nuccetelli reported a very large glowing red square or rectangular object over Vandenberg",
+  "summary": "The episode presents his firsthand account as a witness and investigator.",
+  "relationships": [
+    {
+      "type": "featured_in_media",
+      "target": "2025-weaponized-episode-71"
+    }
+  ],
+  "officialLinks": [],
+  "referenceSources": [
+    {
+      "label": "Official WEAPONIZED Episode #71 page",
+      "url": "https://www.weaponizedpodcast.com/episodes-3/episode-71",
+      "sourceType": "official_episode_page",
+      "role": "source"
+    }
+  ]
+}

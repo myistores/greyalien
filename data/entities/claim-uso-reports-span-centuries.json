@@ -1,0 +1,21 @@
+{
+  "id": "claim-uso-reports-span-centuries",
+  "type": "claim",
+  "name": "Reports of unidentified submerged objects extend across centuries",
+  "summary": "Richard Dolan’s research compiles historical and modern cases from multiple regions.",
+  "relationships": [
+    {
+      "type": "featured_in_media",
+      "target": "2025-weaponized-episode-67"
+    }
+  ],
+  "officialLinks": [],
+  "referenceSources": [
+    {
+      "label": "Official WEAPONIZED Episode #67 page",
+      "url": "https://www.weaponizedpodcast.com/episodes-3/episode-67",
+      "sourceType": "official_episode_page",
+      "role": "source"
+    }
+  ]
+}

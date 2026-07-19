@@ -1,0 +1,102 @@
+{
+  "id": "2025-weaponized-episode-66",
+  "type": "podcast_episode",
+  "name": "WEAPONIZED Episode #66 — Mike Gold on NASA, UAP, and Space Research",
+  "summary": "Jeremy Corbell and George Knapp speak with space executive and NASA adviser Mike Gold about NASA archives, advanced-material research in zero gravity, historical UAP data, and public-private cooperation.",
+  "date": "2025-02-11",
+  "dateDisplay": "February 11, 2025",
+  "seriesId": "weaponized-podcast",
+  "episodeNumber": 66,
+  "episodeTitle": "Mike Gold on NASA, UAP, and Space Research",
+  "status": "Published",
+  "mediaType": "Podcast episode",
+  "mediaPlatform": "WEAPONIZED",
+  "mediaHost": "Jeremy Corbell and George Knapp",
+  "mediaGuests": [
+    "mike-gold"
+  ],
+  "mediaSubjects": [
+    "NASA UAP research",
+    "Metamaterials",
+    "Public-private partnerships",
+    "Bigelow Aerospace"
+  ],
+  "principalClaims": [
+    "claim-nasa-archives-may-support-uap-research",
+    "claim-zero-gravity-may-enable-exotic-material-research",
+    "claim-public-private-partnerships-could-advance-uap-study"
+  ],
+  "researchNotes": [],
+  "relationships": [
+    {
+      "type": "episode_of",
+      "target": "weaponized-podcast"
+    },
+    {
+      "type": "features_person",
+      "target": "jeremy-corbell",
+      "role": "host",
+      "context": "WEAPONIZED co-host"
+    },
+    {
+      "type": "features_person",
+      "target": "george-knapp",
+      "role": "host",
+      "context": "WEAPONIZED co-host"
+    },
+    {
+      "type": "features_person",
+      "target": "mike-gold",
+      "role": "guest",
+      "context": "Featured episode participant"
+    },
+    {
+      "type": "references_organization",
+      "target": "nasa"
+    },
+    {
+      "type": "references_organization",
+      "target": "bigelow-aerospace"
+    },
+    {
+      "type": "references_organization",
+      "target": "defense-intelligence-agency"
+    },
+    {
+      "type": "discussed_topic",
+      "target": "scientific-investigation"
+    },
+    {
+      "type": "discussed_topic",
+      "target": "government-transparency"
+    }
+  ],
+  "mediaLinks": [
+    {
+      "label": "Open the official Episode #66 page",
+      "url": "https://www.weaponizedpodcast.com/episodes-3/episode-66",
+      "platform": "WEAPONIZED"
+    },
+    {
+      "label": "Listen to WEAPONIZED",
+      "url": "https://link.chtbl.com/Weaponized",
+      "platform": "Official audio feed"
+    }
+  ],
+  "eventCategory": "Podcast publication",
+  "officialLinks": [],
+  "referenceSources": [
+    {
+      "label": "Official WEAPONIZED Episode #66 page",
+      "url": "https://www.weaponizedpodcast.com/episodes-3/episode-66",
+      "sourceType": "official_episode_page",
+      "role": "source"
+    },
+    {
+      "label": "Listen to WEAPONIZED",
+      "url": "https://link.chtbl.com/Weaponized",
+      "sourceType": "official_audio_feed",
+      "role": "source"
+    }
+  ]
+}

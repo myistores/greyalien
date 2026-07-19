@@ -1,0 +1,104 @@
+{
+  "id": "2024-weaponized-episode-63",
+  "type": "podcast_episode",
+  "name": "WEAPONIZED Episode #63 — Mystery Drones and Australia’s Saucer Nests",
+  "summary": "Jeremy Corbell and George Knapp examine unresolved mystery-drone incursions in New Jersey and near UK military bases, then speak with Australian journalists Danielle O’Neal and Piia Wirsu about their investigation of Queensland “saucer nests” and UFO history.",
+  "date": "2024-12-10",
+  "dateDisplay": "December 10, 2024",
+  "seriesId": "weaponized-podcast",
+  "episodeNumber": 63,
+  "episodeTitle": "Mystery Drones and Australia’s Saucer Nests",
+  "status": "Published",
+  "mediaType": "Podcast episode",
+  "mediaPlatform": "WEAPONIZED",
+  "mediaHost": "Jeremy Corbell and George Knapp",
+  "mediaGuests": [
+    "danielle-oneal",
+    "piia-wirsu"
+  ],
+  "mediaSubjects": [
+    "Mystery drone incursions",
+    "Queensland saucer nests",
+    "UAP journalism"
+  ],
+  "principalClaims": [
+    "claim-new-jersey-drone-operator-unidentified",
+    "claim-uk-base-incursions-unresolved",
+    "claim-saucer-nests-linked-in-reporting-to-crop-circle-history"
+  ],
+  "researchNotes": [],
+  "relationships": [
+    {
+      "type": "episode_of",
+      "target": "weaponized-podcast"
+    },
+    {
+      "type": "features_person",
+      "target": "jeremy-corbell",
+      "role": "host",
+      "context": "WEAPONIZED co-host"
+    },
+    {
+      "type": "features_person",
+      "target": "george-knapp",
+      "role": "host",
+      "context": "WEAPONIZED co-host"
+    },
+    {
+      "type": "features_person",
+      "target": "danielle-oneal",
+      "role": "guest",
+      "context": "Featured episode participant"
+    },
+    {
+      "type": "features_person",
+      "target": "piia-wirsu",
+      "role": "guest",
+      "context": "Featured episode participant"
+    },
+    {
+      "type": "references_organization",
+      "target": "australian-broadcasting-corporation"
+    },
+    {
+      "type": "discussed_topic",
+      "target": "mystery-drone-incursions"
+    },
+    {
+      "type": "discussed_topic",
+      "target": "uap-journalism"
+    },
+    {
+      "type": "references_case",
+      "target": "queensland-saucer-nests"
+    }
+  ],
+  "mediaLinks": [
+    {
+      "label": "Open the official Episode #63 page",
+      "url": "https://www.weaponizedpodcast.com/episodes-3/episode-63",
+      "platform": "WEAPONIZED"
+    },
+    {
+      "label": "Listen to WEAPONIZED",
+      "url": "https://link.chtbl.com/Weaponized",
+      "platform": "Official audio feed"
+    }
+  ],
+  "eventCategory": "Podcast publication",
+  "officialLinks": [],
+  "referenceSources": [
+    {
+      "label": "Official WEAPONIZED Episode #63 page",
+      "url": "https://www.weaponizedpodcast.com/episodes-3/episode-63",
+      "sourceType": "official_episode_page",
+      "role": "source"
+    },
+    {
+      "label": "Listen to WEAPONIZED",
+      "url": "https://link.chtbl.com/Weaponized",
+      "sourceType": "official_audio_feed",
+      "role": "source"
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "id": "claim-bass-strait-explanation-rejected-by-hosts",
+  "type": "claim",
+  "name": "The hosts rejected the suggestion that the cargo ship Bass Strait launched the reported Navy drones",
+  "summary": "The episode characterizes that inference as inaccurate.",
+  "relationships": [
+    {
+      "type": "featured_in_media",
+      "target": "2025-weaponized-episode-70"
+    }
+  ],
+  "officialLinks": [],
+  "referenceSources": [
+    {
+      "label": "Official WEAPONIZED Episode #70 page",
+      "url": "https://www.weaponizedpodcast.com/episodes-3/episode-70",
+      "sourceType": "official_episode_page",
+      "role": "source"
+    }
+  ]
+}

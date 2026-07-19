@@ -1,0 +1,21 @@
+{
+  "id": "claim-uk-base-incursions-unresolved",
+  "type": "claim",
+  "name": "Unknown objects repeatedly entered restricted airspace near three UK air bases",
+  "summary": "The episode describes military officials as unable to explain the incursions.",
+  "relationships": [
+    {
+      "type": "featured_in_media",
+      "target": "2024-weaponized-episode-63"
+    }
+  ],
+  "officialLinks": [],
+  "referenceSources": [
+    {
+      "label": "Official WEAPONIZED Episode #63 page",
+      "url": "https://www.weaponizedpodcast.com/episodes-3/episode-63",
+      "sourceType": "official_episode_page",
+      "role": "source"
+    }
+  ]
+}

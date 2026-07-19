@@ -1,0 +1,21 @@
+{
+  "id": "claim-vandenberg-red-square-blotter-released",
+  "type": "claim",
+  "name": "A military police blotter related to the Vandenberg Red Square event was released publicly",
+  "summary": "The official episode page links to the newly released document.",
+  "relationships": [
+    {
+      "type": "featured_in_media",
+      "target": "2025-weaponized-episode-71"
+    }
+  ],
+  "officialLinks": [],
+  "referenceSources": [
+    {
+      "label": "Official WEAPONIZED Episode #71 page",
+      "url": "https://www.weaponizedpodcast.com/episodes-3/episode-71",
+      "sourceType": "official_episode_page",
+      "role": "source"
+    }
+  ]
+}

@@ -1,0 +1,101 @@
+{
+  "id": "2025-weaponized-episode-71",
+  "type": "podcast_episode",
+  "name": "WEAPONIZED Episode #71 — The Vandenberg Red Square UAP",
+  "summary": "Air Force veteran Jeff Nuccetelli describes reported UAP incursions at Vandenberg, including a large glowing red square or rectangular object, and discusses a released military police blotter tied to the event.",
+  "date": "2025-04-01",
+  "dateDisplay": "April 1, 2025",
+  "seriesId": "weaponized-podcast",
+  "episodeNumber": 71,
+  "episodeTitle": "The Vandenberg Red Square UAP",
+  "status": "Published",
+  "mediaType": "Podcast episode",
+  "mediaPlatform": "WEAPONIZED",
+  "mediaHost": "Jeremy Corbell and George Knapp",
+  "mediaGuests": [
+    "jeff-nuccetelli"
+  ],
+  "mediaSubjects": [
+    "Vandenberg UAP incidents",
+    "Red Square UAP",
+    "Military police records"
+  ],
+  "principalClaims": [
+    "claim-vandenberg-witness-reported-large-red-object",
+    "claim-vandenberg-security-personnel-investigated-multiple-incursions",
+    "claim-vandenberg-red-square-blotter-released"
+  ],
+  "researchNotes": [],
+  "relationships": [
+    {
+      "type": "episode_of",
+      "target": "weaponized-podcast"
+    },
+    {
+      "type": "features_person",
+      "target": "jeremy-corbell",
+      "role": "host",
+      "context": "WEAPONIZED co-host"
+    },
+    {
+      "type": "features_person",
+      "target": "george-knapp",
+      "role": "host",
+      "context": "WEAPONIZED co-host"
+    },
+    {
+      "type": "features_person",
+      "target": "jeff-nuccetelli",
+      "role": "guest",
+      "context": "Featured episode participant"
+    },
+    {
+      "type": "references_organization",
+      "target": "vandenberg-space-force-base"
+    },
+    {
+      "type": "references_organization",
+      "target": "united-states-air-force"
+    },
+    {
+      "type": "discussed_topic",
+      "target": "aviation-safety"
+    },
+    {
+      "type": "discussed_topic",
+      "target": "government-transparency"
+    },
+    {
+      "type": "references_case",
+      "target": "vandenberg-red-square-uap"
+    }
+  ],
+  "mediaLinks": [
+    {
+      "label": "Open the official Episode #71 page",
+      "url": "https://www.weaponizedpodcast.com/episodes-3/episode-71",
+      "platform": "WEAPONIZED"
+    },
+    {
+      "label": "Listen to WEAPONIZED",
+      "url": "https://link.chtbl.com/Weaponized",
+      "platform": "Official audio feed"
+    }
+  ],
+  "eventCategory": "Podcast publication",
+  "officialLinks": [],
+  "referenceSources": [
+    {
+      "label": "Official WEAPONIZED Episode #71 page",
+      "url": "https://www.weaponizedpodcast.com/episodes-3/episode-71",
+      "sourceType": "official_episode_page",
+      "role": "source"
+    },
+    {
+      "label": "Listen to WEAPONIZED",
+      "url": "https://link.chtbl.com/Weaponized",
+      "sourceType": "official_audio_feed",
+      "role": "source"
+    }
+  ]
+}

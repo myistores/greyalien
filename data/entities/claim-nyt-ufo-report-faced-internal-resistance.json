@@ -1,0 +1,21 @@
+{
+  "id": "claim-nyt-ufo-report-faced-internal-resistance",
+  "type": "claim",
+  "name": "The journalists behind the 2017 report faced editorial resistance and professional blowback",
+  "summary": "Ralph Blumenthal discussed disputes with editors and reactions from colleagues.",
+  "relationships": [
+    {
+      "type": "featured_in_media",
+      "target": "2025-weaponized-episode-68"
+    }
+  ],
+  "officialLinks": [],
+  "referenceSources": [
+    {
+      "label": "Official WEAPONIZED Episode #68 page",
+      "url": "https://www.weaponizedpodcast.com/episodes-3/episode-68",
+      "sourceType": "official_episode_page",
+      "role": "source"
+    }
+  ]
+}

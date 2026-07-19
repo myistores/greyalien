@@ -1,0 +1,21 @@
+{
+  "id": "claim-whistleblower-fear-continues-to-limit-disclosure",
+  "type": "claim",
+  "name": "Fear of professional consequences continues to deter potential UAP whistleblowers",
+  "summary": "Blumenthal discussed why insiders may remain reluctant to come forward.",
+  "relationships": [
+    {
+      "type": "featured_in_media",
+      "target": "2025-weaponized-episode-69"
+    }
+  ],
+  "officialLinks": [],
+  "referenceSources": [
+    {
+      "label": "Official WEAPONIZED Episode #69 page",
+      "url": "https://www.weaponizedpodcast.com/episodes-3/episode-69",
+      "sourceType": "official_episode_page",
+      "role": "source"
+    }
+  ]
+}

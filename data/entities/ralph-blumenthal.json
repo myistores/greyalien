@@ -1,0 +1,34 @@
+{
+  "id": "ralph-blumenthal",
+  "type": "person",
+  "name": "Ralph Blumenthal",
+  "summary": "Award-winning journalist and co-author of The New York Times’ December 2017 report on the Pentagon UFO program.",
+  "relationships": [
+    {
+      "type": "appeared_in",
+      "target": "2025-weaponized-episode-68",
+      "role": "guest",
+      "context": "Discussed the 2017 New York Times investigation and John Mack"
+    },
+    {
+      "type": "appeared_in",
+      "target": "2025-weaponized-episode-69",
+      "role": "guest",
+      "context": "Featured in WEAPONIZED Episode #69"
+    }
+  ],
+  "profileStatus": "Journalist and author",
+  "profileSummary": "Award-winning journalist and co-author of The New York Times’ December 2017 report on the Pentagon UFO program.",
+  "profileBadge": "Journalist",
+  "profileBadgeClass": "badge-journalist",
+  "inclusionNote": "Included as a guest in WEAPONIZED Episode #68.",
+  "officialLinks": [],
+  "referenceSources": [
+    {
+      "label": "Official WEAPONIZED Episode #68 page",
+      "url": "https://www.weaponizedpodcast.com/episodes-3/episode-68",
+      "sourceType": "official_episode_page",
+      "role": "source"
+    }
+  ]
+}

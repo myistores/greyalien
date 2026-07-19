@@ -1,0 +1,21 @@
+{
+  "id": "60-minutes",
+  "type": "organization",
+  "name": "60 Minutes",
+  "summary": "CBS newsmagazine discussed in Episode #70 for its report on mystery-drone incursions.",
+  "relationships": [
+    {
+      "type": "featured_in_media",
+      "target": "2025-weaponized-episode-70"
+    }
+  ],
+  "officialLinks": [],
+  "referenceSources": [
+    {
+      "label": "Official WEAPONIZED Episode #70 page",
+      "url": "https://www.weaponizedpodcast.com/episodes-3/episode-70",
+      "sourceType": "official_episode_page",
+      "role": "source"
+    }
+  ]
+}

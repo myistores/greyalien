@@ -1,0 +1,21 @@
+{
+  "id": "claim-new-jersey-drone-operator-unidentified",
+  "type": "claim",
+  "name": "Authorities had not identified the operator of persistent New Jersey mystery-drone flights",
+  "summary": "The official episode description states that the FBI had not determined who was behind the recurring flights.",
+  "relationships": [
+    {
+      "type": "featured_in_media",
+      "target": "2024-weaponized-episode-63"
+    }
+  ],
+  "officialLinks": [],
+  "referenceSources": [
+    {
+      "label": "Official WEAPONIZED Episode #63 page",
+      "url": "https://www.weaponizedpodcast.com/episodes-3/episode-63",
+      "sourceType": "official_episode_page",
+      "role": "source"
+    }
+  ]
+}

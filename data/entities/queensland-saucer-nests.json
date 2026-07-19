@@ -1,0 +1,24 @@
+{
+  "id": "queensland-saucer-nests",
+  "type": "case",
+  "name": "Queensland Saucer Nests",
+  "summary": "1960s Australian reports of flattened circular vegetation formations associated by witnesses with UFO sightings.",
+  "relationships": [
+    {
+      "type": "featured_in_media",
+      "target": "2024-weaponized-episode-63"
+    }
+  ],
+  "date": "1966",
+  "dateDisplay": "1966",
+  "eventCategory": "UAP incident",
+  "officialLinks": [],
+  "referenceSources": [
+    {
+      "label": "Official WEAPONIZED Episode #63 page",
+      "url": "https://www.weaponizedpodcast.com/episodes-3/episode-63",
+      "sourceType": "official_episode_page",
+      "role": "source"
+    }
+  ]
+}

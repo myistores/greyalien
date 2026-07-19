@@ -1,0 +1,103 @@
+{
+  "id": "2025-weaponized-episode-70",
+  "type": "podcast_episode",
+  "name": "WEAPONIZED Episode #70 — The Age of Disclosure and Media Coverage of UAP",
+  "summary": "Jeremy Corbell and George Knapp discuss The Age of Disclosure, media treatment of UAP witnesses, and omissions they identify in coverage of mystery-drone and 2019 Navy ship incidents.",
+  "date": "2025-03-25",
+  "dateDisplay": "March 25, 2025",
+  "seriesId": "weaponized-podcast",
+  "episodeNumber": 70,
+  "episodeTitle": "The Age of Disclosure and Media Coverage of UAP",
+  "status": "Published",
+  "mediaType": "Podcast episode",
+  "mediaPlatform": "WEAPONIZED",
+  "mediaHost": "Jeremy Corbell and George Knapp",
+  "mediaGuests": [],
+  "mediaSubjects": [
+    "The Age of Disclosure",
+    "Media stigma",
+    "2019 Navy ship incidents",
+    "Mystery drones"
+  ],
+  "principalClaims": [
+    "claim-age-of-disclosure-assembled-broad-insider-testimony",
+    "claim-60-minutes-report-omitted-key-2019-navy-swarm-context",
+    "claim-bass-strait-explanation-rejected-by-hosts",
+    "claim-media-stigma-can-deter-uap-witnesses"
+  ],
+  "researchNotes": [],
+  "relationships": [
+    {
+      "type": "episode_of",
+      "target": "weaponized-podcast"
+    },
+    {
+      "type": "features_person",
+      "target": "jeremy-corbell",
+      "role": "host",
+      "context": "WEAPONIZED co-host"
+    },
+    {
+      "type": "features_person",
+      "target": "george-knapp",
+      "role": "host",
+      "context": "WEAPONIZED co-host"
+    },
+    {
+      "type": "references_organization",
+      "target": "wall-street-journal"
+    },
+    {
+      "type": "references_organization",
+      "target": "60-minutes"
+    },
+    {
+      "type": "references_organization",
+      "target": "united-states-navy"
+    },
+    {
+      "type": "discussed_topic",
+      "target": "uap-journalism"
+    },
+    {
+      "type": "discussed_topic",
+      "target": "government-transparency"
+    },
+    {
+      "type": "discussed_topic",
+      "target": "mystery-drone-incursions"
+    },
+    {
+      "type": "references_case",
+      "target": "2019-us-navy-ship-swarm-incidents"
+    }
+  ],
+  "mediaLinks": [
+    {
+      "label": "Open the official Episode #70 page",
+      "url": "https://www.weaponizedpodcast.com/episodes-3/episode-70",
+      "platform": "WEAPONIZED"
+    },
+    {
+      "label": "Listen to WEAPONIZED",
+      "url": "https://link.chtbl.com/Weaponized",
+      "platform": "Official audio feed"
+    }
+  ],
+  "eventCategory": "Podcast publication",
+  "officialLinks": [],
+  "referenceSources": [
+    {
+      "label": "Official WEAPONIZED Episode #70 page",
+      "url": "https://www.weaponizedpodcast.com/episodes-3/episode-70",
+      "sourceType": "official_episode_page",
+      "role": "source"
+    },
+    {
+      "label": "Listen to WEAPONIZED",
+      "url": "https://link.chtbl.com/Weaponized",
+      "sourceType": "official_audio_feed",
+      "role": "source"
+    }
+  ]
+}

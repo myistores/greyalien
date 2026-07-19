@@ -1,0 +1,24 @@
+{
+  "id": "2023-uss-jackson-tic-tac-incident",
+  "type": "case",
+  "name": "2023 USS Jackson Tic Tac Incident",
+  "summary": "Reported February 2023 sighting and recording of multiple Tic Tac-shaped objects by USS Jackson crew members.",
+  "relationships": [
+    {
+      "type": "featured_in_media",
+      "target": "2025-weaponized-episode-72"
+    }
+  ],
+  "date": "2023-02",
+  "dateDisplay": "2023-02",
+  "eventCategory": "UAP incident",
+  "officialLinks": [],
+  "referenceSources": [
+    {
+      "label": "Official WEAPONIZED Episode #72 page",
+      "url": "https://www.weaponizedpodcast.com/episodes-3/episode-72",
+      "sourceType": "official_episode_page",
+      "role": "source"
+    }
+  ]
+}

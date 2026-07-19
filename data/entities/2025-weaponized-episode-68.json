@@ -1,0 +1,98 @@
+{
+  "id": "2025-weaponized-episode-68",
+  "type": "podcast_episode",
+  "name": "WEAPONIZED Episode #68 — Ralph Blumenthal and the 2017 New York Times UFO Story",
+  "summary": "Ralph Blumenthal describes how he, Helene Cooper, and Leslie Kean reported the landmark 2017 New York Times UFO story, the editorial resistance they encountered, and his research into psychiatrist John Mack.",
+  "date": "2025-03-11",
+  "dateDisplay": "March 11, 2025",
+  "seriesId": "weaponized-podcast",
+  "episodeNumber": 68,
+  "episodeTitle": "Ralph Blumenthal and the 2017 New York Times UFO Story",
+  "status": "Published",
+  "mediaType": "Podcast episode",
+  "mediaPlatform": "WEAPONIZED",
+  "mediaHost": "Jeremy Corbell and George Knapp",
+  "mediaGuests": [
+    "ralph-blumenthal"
+  ],
+  "mediaSubjects": [
+    "2017 New York Times UFO report",
+    "AATIP",
+    "John Mack",
+    "UAP journalism"
+  ],
+  "principalClaims": [
+    "claim-2017-nyt-ufo-report-changed-public-discourse",
+    "claim-nyt-ufo-report-faced-internal-resistance",
+    "claim-human-encounter-reports-may-be-central-to-uap-study"
+  ],
+  "researchNotes": [],
+  "relationships": [
+    {
+      "type": "episode_of",
+      "target": "weaponized-podcast"
+    },
+    {
+      "type": "features_person",
+      "target": "jeremy-corbell",
+      "role": "host",
+      "context": "WEAPONIZED co-host"
+    },
+    {
+      "type": "features_person",
+      "target": "george-knapp",
+      "role": "host",
+      "context": "WEAPONIZED co-host"
+    },
+    {
+      "type": "features_person",
+      "target": "ralph-blumenthal",
+      "role": "guest",
+      "context": "Featured episode participant"
+    },
+    {
+      "type": "references_organization",
+      "target": "the-new-york-times"
+    },
+    {
+      "type": "discussed_topic",
+      "target": "uap-journalism"
+    },
+    {
+      "type": "discussed_topic",
+      "target": "government-transparency"
+    },
+    {
+      "type": "references_case",
+      "target": "2017-12-16-nyt-pentagon-ufo-program"
+    }
+  ],
+  "mediaLinks": [
+    {
+      "label": "Open the official Episode #68 page",
+      "url": "https://www.weaponizedpodcast.com/episodes-3/episode-68",
+      "platform": "WEAPONIZED"
+    },
+    {
+      "label": "Listen to WEAPONIZED",
+      "url": "https://link.chtbl.com/Weaponized",
+      "platform": "Official audio feed"
+    }
+  ],
+  "eventCategory": "Podcast publication",
+  "officialLinks": [],
+  "referenceSources": [
+    {
+      "label": "Official WEAPONIZED Episode #68 page",
+      "url": "https://www.weaponizedpodcast.com/episodes-3/episode-68",
+      "sourceType": "official_episode_page",
+      "role": "source"
+    },
+    {
+      "label": "Listen to WEAPONIZED",
+      "url": "https://link.chtbl.com/Weaponized",
+      "sourceType": "official_audio_feed",
+      "role": "source"
+    }
+  ]
+}

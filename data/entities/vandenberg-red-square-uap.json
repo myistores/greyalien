@@ -1,0 +1,24 @@
+{
+  "id": "vandenberg-red-square-uap",
+  "type": "case",
+  "name": "Vandenberg Red Square UAP Incident",
+  "summary": "Reported Vandenberg incursion involving a large glowing red square or rectangular object.",
+  "relationships": [
+    {
+      "type": "featured_in_media",
+      "target": "2025-weaponized-episode-71"
+    }
+  ],
+  "date": "2003",
+  "dateDisplay": "2003",
+  "eventCategory": "UAP incident",
+  "officialLinks": [],
+  "referenceSources": [
+    {
+      "label": "Official WEAPONIZED Episode #71 page",
+      "url": "https://www.weaponizedpodcast.com/episodes-3/episode-71",
+      "sourceType": "official_episode_page",
+      "role": "source"
+    }
+  ]
+}

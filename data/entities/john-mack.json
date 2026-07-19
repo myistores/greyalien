@@ -1,0 +1,28 @@
+{
+  "id": "john-mack",
+  "type": "person",
+  "name": "John E. Mack",
+  "summary": "Harvard psychiatrist and Pulitzer Prize-winning author who investigated reported alien-abduction experiences and the 1994 Ariel School encounter.",
+  "relationships": [
+    {
+      "type": "appeared_in",
+      "target": "2025-weaponized-episode-69",
+      "role": "guest",
+      "context": "Subject of Ralph Blumenthal’s discussion"
+    }
+  ],
+  "profileStatus": "Psychiatrist and researcher",
+  "profileSummary": "Harvard psychiatrist and Pulitzer Prize-winning author who investigated reported alien-abduction experiences and the 1994 Ariel School encounter.",
+  "profileBadge": "Researcher",
+  "profileBadgeClass": "badge-researcher",
+  "inclusionNote": "Included as a guest in WEAPONIZED Episode #69.",
+  "officialLinks": [],
+  "referenceSources": [
+    {
+      "label": "Official WEAPONIZED Episode #69 page",
+      "url": "https://www.weaponizedpodcast.com/episodes-3/episode-69",
+      "sourceType": "official_episode_page",
+      "role": "source"
+    }
+  ]
+}

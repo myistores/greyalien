@@ -1,0 +1,21 @@
+{
+  "id": "human-encounter-research",
+  "type": "topic",
+  "name": "Human Encounter Research",
+  "summary": "Research into reported direct human encounters with anomalous or non-human phenomena.",
+  "relationships": [
+    {
+      "type": "featured_in_media",
+      "target": "2025-weaponized-episode-69"
+    }
+  ],
+  "officialLinks": [],
+  "referenceSources": [
+    {
+      "label": "Official WEAPONIZED Episode #69 page",
+      "url": "https://www.weaponizedpodcast.com/episodes-3/episode-69",
+      "sourceType": "official_episode_page",
+      "role": "source"
+    }
+  ]
+}

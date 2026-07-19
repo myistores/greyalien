@@ -1,0 +1,28 @@
+{
+  "id": "piia-wirsu",
+  "type": "person",
+  "name": "Piia Wirsu",
+  "summary": "Australian Broadcasting Corporation journalist and co-reporter of the Expanse: Uncropped series on UFO lore and saucer nests.",
+  "relationships": [
+    {
+      "type": "appeared_in",
+      "target": "2024-weaponized-episode-63",
+      "role": "guest",
+      "context": "Discussed the Expanse: Uncropped investigation"
+    }
+  ],
+  "profileStatus": "Journalist",
+  "profileSummary": "Australian Broadcasting Corporation journalist and co-reporter of the Expanse: Uncropped series on UFO lore and saucer nests.",
+  "profileBadge": "Journalist",
+  "profileBadgeClass": "badge-journalist",
+  "inclusionNote": "Included as a guest in WEAPONIZED Episode #63.",
+  "officialLinks": [],
+  "referenceSources": [
+    {
+      "label": "Official WEAPONIZED Episode #63 page",
+      "url": "https://www.weaponizedpodcast.com/episodes-3/episode-63",
+      "sourceType": "official_episode_page",
+      "role": "source"
+    }
+  ]
+}

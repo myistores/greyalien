@@ -30,6 +30,14 @@
       "summary": "Mario Woods's account of a UFO encounter while serving as an Air Force security policeman near a missile facility."
     },
     {
+      "id": "1994-ariel-school-encounter",
+      "type": "case",
+      "name": "1994 Ariel School Encounter",
+      "summary": "Reported close encounter witnessed by schoolchildren near Ruwa, Zimbabwe, later investigated by John Mack.",
+      "date": "1994-09-16",
+      "dateDisplay": "1994-09-16"
+    },
+    {
       "id": "2003-vandenberg-uap-incidents",
       "type": "case",
       "name": "2003 Vandenberg UAP Incidents",
@@ -63,6 +71,22 @@
       "name": "2017 Iraq Jellyfish UAP Incident",
       "summary": "Reported thermal-imaging incident at a U.S. military base in Iraq involving an unusual object later publicized as the Jellyfish UAP.",
       "date": "2017-01-01"
+    },
+    {
+      "id": "2019-us-navy-ship-swarm-incidents",
+      "type": "case",
+      "name": "2019 U.S. Navy Ship Swarm Incidents",
+      "summary": "Series of reported unidentified-object or drone incursions involving U.S. Navy ships off Southern California.",
+      "date": "2019",
+      "dateDisplay": "2019"
+    },
+    {
+      "id": "2023-uss-jackson-tic-tac-incident",
+      "type": "case",
+      "name": "2023 USS Jackson Tic Tac Incident",
+      "summary": "Reported February 2023 sighting and recording of multiple Tic Tac-shaped objects by USS Jackson crew members.",
+      "date": "2023-02",
+      "dateDisplay": "2023-02"
     },
     {
       "id": "uk-military-airspace-incursions-2024",
@@ -137,6 +161,14 @@
       "summary": "A 1967 missile-system shutdown at Malmstrom Air Force Base later associated by some former personnel with UFO claims."
     },
     {
+      "id": "queensland-saucer-nests",
+      "type": "case",
+      "name": "Queensland Saucer Nests",
+      "summary": "1960s Australian reports of flattened circular vegetation formations associated by witnesses with UFO sightings.",
+      "date": "1966",
+      "dateDisplay": "1966"
+    },
+    {
       "id": "rendlesham-forest-incident",
       "type": "case",
       "name": "Rendlesham Forest Incident",
@@ -163,6 +195,20 @@
       "dateDisplay": "November 2010–2011"
     },
     {
+      "id": "vandenberg-red-square-uap",
+      "type": "case",
+      "name": "Vandenberg Red Square UAP Incident",
+      "summary": "Reported Vandenberg incursion involving a large glowing red square or rectangular object.",
+      "date": "2003",
+      "dateDisplay": "2003"
+    },
+    {
+      "id": "claim-vandenberg-red-square-blotter-released",
+      "type": "claim",
+      "name": "A military police blotter related to the Vandenberg Red Square event was released publicly",
+      "summary": "The official episode page links to the newly released document."
+    },
+    {
       "id": "claim-langley-triangle-2012",
       "type": "claim",
       "name": "Alleged 2012 Langley Triangle Encounter",
@@ -175,6 +221,18 @@
       "name": "Alleged USS Jackson Transmedium UAP Event",
       "summary": "Alexandro Wiggins's account of four Tic-Tac-like objects observed and detected near USS Jackson in February 2023.",
       "status": "Firsthand witness claim presented publicly and in written congressional testimony."
+    },
+    {
+      "id": "claim-one-uss-jackson-object-reported-emerging-from-ocean",
+      "type": "claim",
+      "name": "At least one reported USS Jackson object appeared to emerge from the ocean",
+      "summary": "The episode description presents this as witness testimony."
+    },
+    {
+      "id": "claim-new-jersey-drone-operator-unidentified",
+      "type": "claim",
+      "name": "Authorities had not identified the operator of persistent New Jersey mystery-drone flights",
+      "summary": "The official episode description states that the FBI had not determined who was behind the recurring flights."
     },
     {
       "id": "claim-s4-reverse-engineering",
@@ -207,6 +265,18 @@
       "name": "Clifford Stone Crash-Retrieval Team Claims",
       "summary": "Claims that Clifford Stone participated in military operations involving recovered craft and non-human beings.",
       "status": "Personal claims made in books and interviews; not independently established."
+    },
+    {
+      "id": "claim-immaculate-constellation-record-contained-falsified-page",
+      "type": "claim",
+      "name": "Corbell alleged that the Congressional Record version of the Immaculate Constellation report included a falsified twelfth page",
+      "summary": "The official page explicitly labels this as Corbell’s allegation and notes no public correction."
+    },
+    {
+      "id": "claim-immaculate-constellation-submission-misattributed",
+      "type": "claim",
+      "name": "Corbell alleged that the Immaculate Constellation submission was misattributed to Michael Shellenberger",
+      "summary": "The official episode page presents this as Corbell’s claim about the Congressional Record submission."
     },
     {
       "id": "claim-area-51-alien-engine",
@@ -263,6 +333,36 @@
       "status": "Extraordinary public allegations disputed by scientists and fact-checkers."
     },
     {
+      "id": "claim-whistleblower-fear-continues-to-limit-disclosure",
+      "type": "claim",
+      "name": "Fear of professional consequences continues to deter potential UAP whistleblowers",
+      "summary": "Blumenthal discussed why insiders may remain reluctant to come forward."
+    },
+    {
+      "id": "claim-media-stigma-can-deter-uap-witnesses",
+      "type": "claim",
+      "name": "Hostile or dismissive media coverage can discourage UAP witnesses from speaking publicly",
+      "summary": "The episode argues that ridicule and attacks have a chilling effect."
+    },
+    {
+      "id": "claim-vandenberg-witness-reported-large-red-object",
+      "type": "claim",
+      "name": "Jeff Nuccetelli reported a very large glowing red square or rectangular object over Vandenberg",
+      "summary": "The episode presents his firsthand account as a witness and investigator."
+    },
+    {
+      "id": "claim-john-mack-faced-harvard-review-over-abduction-research",
+      "type": "claim",
+      "name": "John Mack faced a Harvard review connected to his alien-abduction research",
+      "summary": "The episode discusses the institutional challenge to Mack’s work and tenure."
+    },
+    {
+      "id": "claim-mack-investigated-ariel-school-witnesses",
+      "type": "claim",
+      "name": "John Mack investigated the 1994 Ariel School encounter in Zimbabwe",
+      "summary": "The episode recounts his interviews concerning the event witnessed by schoolchildren."
+    },
+    {
       "id": "claim-peru-crash-retrieval",
       "type": "claim",
       "name": "Jonathan Weygandt Peru Crash Claim",
@@ -280,6 +380,12 @@
       "type": "claim",
       "name": "Late-2024 UK military-airspace intrusions had not been publicly identified or stopped",
       "summary": "Episode #62 describes recurring objects near military facilities and questions why available sensors and defenses had not resolved them."
+    },
+    {
+      "id": "claim-maritime-forces-have-collected-uso-observations",
+      "type": "claim",
+      "name": "Mariners and naval forces have reported unidentified objects operating in or near water",
+      "summary": "Dolan discussed reports attributed to sailors, mariners, and naval personnel."
     },
     {
       "id": "claim-uap-perception-management",
@@ -344,11 +450,47 @@
       "status": "Named firsthand account; central details remain unverified and have been publicly disputed."
     },
     {
+      "id": "claim-mystery-drone-incursions-remained-major-2024-story",
+      "type": "claim",
+      "name": "Mystery-drone incursions remained a major unresolved UAP-related story at the end of 2024",
+      "summary": "The episode’s panel treated the incursions as one of the year’s central unresolved developments."
+    },
+    {
+      "id": "claim-nasa-archives-may-support-uap-research",
+      "type": "claim",
+      "name": "NASA archives may contain information useful to UAP research",
+      "summary": "Mike Gold argued that NASA records could aid investigation of historical incidents and advanced materials."
+    },
+    {
       "id": "claim-roswell-technology-transfer",
       "type": "claim",
       "name": "Philip Corso Roswell Technology-Transfer Claim",
       "summary": "Claim that recovered Roswell material was transferred through military research channels and contributed to later technological developments.",
       "status": "Claim published in The Day After Roswell; not established as fact by GreyAlien."
+    },
+    {
+      "id": "claim-potential-uap-witnesses-faced-threats",
+      "type": "claim",
+      "name": "Potential UAP witnesses and whistleblowers faced reported threats or pressure",
+      "summary": "This was presented by the episode panel as a continuing barrier to disclosure."
+    },
+    {
+      "id": "claim-public-private-partnerships-could-advance-uap-study",
+      "type": "claim",
+      "name": "Public-private partnerships could advance transparent UAP research",
+      "summary": "Gold expressed optimism about cooperation between government and commercial space organizations."
+    },
+    {
+      "id": "claim-human-encounter-reports-may-be-central-to-uap-study",
+      "type": "claim",
+      "name": "Reported human encounters may be as important as technological recovery claims",
+      "summary": "Blumenthal connected John Mack’s work to a broader interpretation of the phenomenon."
+    },
+    {
+      "id": "claim-uso-reports-span-centuries",
+      "type": "claim",
+      "name": "Reports of unidentified submerged objects extend across centuries",
+      "summary": "Richard Dolan’s research compiles historical and modern cases from multiple regions."
     },
     {
       "id": "claim-kremer-pacific-transmedium-video",
@@ -363,10 +505,64 @@
       "summary": "Ryan Graves has stated that military aviators encountered unidentified objects repeatedly and that the frequency and behavior of those objects presented an unresolved aviation-safety concern."
     },
     {
+      "id": "claim-some-uso-reports-describe-transmedium-performance",
+      "type": "claim",
+      "name": "Some USO reports describe objects moving between water, air, and space",
+      "summary": "The episode summarizes cases in Dolan’s book that allege transmedium capabilities."
+    },
+    {
+      "id": "claim-2024-uap-review-found-persistent-transparency-failures",
+      "type": "claim",
+      "name": "The 2024 UAP year-in-review panel identified continuing transparency failures",
+      "summary": "The panel discussed DOD secrecy, AARO criticism, witness pressure, and congressional-hearing concerns."
+    },
+    {
+      "id": "claim-age-of-disclosure-assembled-broad-insider-testimony",
+      "type": "claim",
+      "name": "The Age of Disclosure presented testimony from numerous scientists and government officials",
+      "summary": "The official description says the film included nearly three dozen such participants advocating transparency."
+    },
+    {
+      "id": "claim-2017-nyt-ufo-report-changed-public-discourse",
+      "type": "claim",
+      "name": "The December 2017 New York Times UFO report materially changed public and congressional attention",
+      "summary": "The episode describes the report as a pivotal event whose effects continued years later."
+    },
+    {
+      "id": "claim-saucer-nests-linked-in-reporting-to-crop-circle-history",
+      "type": "claim",
+      "name": "The Expanse: Uncropped investigation connected 1960s saucer-nest reports with later crop-circle history",
+      "summary": "The claim reflects the investigative path described by the two ABC journalists, not an independent verification of causation."
+    },
+    {
       "id": "claim-s4-documentary-reconstruction",
       "type": "claim",
       "name": "The filmmakers state that the S4 reconstruction is based on Bob Lazar’s recollections",
       "summary": "The creators of S4: The Bob Lazar Story describe the production’s visual reconstruction of the alleged facility as being developed from Bob Lazar’s recollections and account."
+    },
+    {
+      "id": "claim-60-minutes-report-omitted-key-2019-navy-swarm-context",
+      "type": "claim",
+      "name": "The hosts argued that a 60 Minutes drone report omitted important evidence from 2019 Navy incidents",
+      "summary": "This is explicitly presented as the hosts’ criticism of the broadcast."
+    },
+    {
+      "id": "claim-uss-jackson-incident-not-reported-to-aaro",
+      "type": "claim",
+      "name": "The hosts questioned why the USS Jackson incident was not reported to AARO",
+      "summary": "The episode frames the reporting failure as an unresolved question."
+    },
+    {
+      "id": "claim-bass-strait-explanation-rejected-by-hosts",
+      "type": "claim",
+      "name": "The hosts rejected the suggestion that the cargo ship Bass Strait launched the reported Navy drones",
+      "summary": "The episode characterizes that inference as inaccurate."
+    },
+    {
+      "id": "claim-nyt-ufo-report-faced-internal-resistance",
+      "type": "claim",
+      "name": "The journalists behind the 2017 report faced editorial resistance and professional blowback",
+      "summary": "Ralph Blumenthal discussed disputes with editors and reactions from colleagues."
     },
     {
       "id": "claim-nimitz-two-week-sensor-detections",
@@ -393,10 +589,46 @@
       "summary": "Matt Laslo provided an update indicating that the legislative effort might still have had a path forward."
     },
     {
+      "id": "claim-two-uss-jackson-objects-recorded-from-command-center",
+      "type": "claim",
+      "name": "Two reported objects were recorded by crew members inside the USS Jackson command center",
+      "summary": "The episode unveiled the associated video and described its origin."
+    },
+    {
       "id": "claim-uap-advocacy-continues-after-legislative-setback",
       "type": "claim",
       "name": "UAP transparency advocacy continued after the 2024 legislative setback",
       "summary": "Lester Nare described continued Capitol Hill advocacy despite opposition to disclosure provisions."
+    },
+    {
+      "id": "claim-ufo-revolution-documented-path-to-congress",
+      "type": "claim",
+      "name": "UFO Revolution documented efforts to bring UAP information and whistleblowers before Congress",
+      "summary": "The episode is a theater-premiere Q&A about the documentary’s account of that process."
+    },
+    {
+      "id": "claim-uk-base-incursions-unresolved",
+      "type": "claim",
+      "name": "Unknown objects repeatedly entered restricted airspace near three UK air bases",
+      "summary": "The episode describes military officials as unable to explain the incursions."
+    },
+    {
+      "id": "claim-uss-jackson-crew-reported-four-tic-tac-objects",
+      "type": "claim",
+      "name": "USS Jackson crew members reportedly observed four Tic Tac-shaped objects in February 2023",
+      "summary": "The official episode description attributes this count to witnesses."
+    },
+    {
+      "id": "claim-vandenberg-security-personnel-investigated-multiple-incursions",
+      "type": "claim",
+      "name": "Vandenberg security personnel reportedly investigated more than one unusual aerial incursion",
+      "summary": "Nuccetelli described a second large-object incident and security response."
+    },
+    {
+      "id": "claim-zero-gravity-may-enable-exotic-material-research",
+      "type": "claim",
+      "name": "Zero-gravity research may help reproduce unusual or metamaterial properties",
+      "summary": "Gold proposed that space-based research could contribute to materials investigation."
     },
     {
       "id": "2024-afp-icecube-fact-check",
@@ -669,6 +901,12 @@
       "date": "2023-07-13"
     },
     {
+      "id": "60-minutes",
+      "type": "organization",
+      "name": "60 Minutes",
+      "summary": "CBS newsmagazine discussed in Episode #70 for its report on mystery-drone incursions."
+    },
+    {
       "id": "aatip",
       "type": "organization",
       "name": "Advanced Aerospace Threat Identification Program",
@@ -705,6 +943,18 @@
       "summary": "Capitol Hill reporting outlet founded by Matt Laslo, focused on direct interviews with elected officials."
     },
     {
+      "id": "australian-broadcasting-corporation",
+      "type": "organization",
+      "name": "Australian Broadcasting Corporation",
+      "summary": "Australia’s national public broadcaster and producer of the Expanse: Uncropped reporting series."
+    },
+    {
+      "id": "bigelow-aerospace",
+      "type": "organization",
+      "name": "Bigelow Aerospace",
+      "summary": "Private aerospace company formerly involved in government-funded research associated with anomalous aerospace phenomena."
+    },
+    {
       "id": "brazilian-air-force",
       "type": "organization",
       "name": "Brazilian Air Force",
@@ -733,6 +983,12 @@
       "type": "organization",
       "name": "Federal Aviation Administration",
       "summary": "U.S. civil aviation authority responsible for aviation safety, airspace management, and regulatory policy."
+    },
+    {
+      "id": "harvard-university",
+      "type": "organization",
+      "name": "Harvard University",
+      "summary": "University where John E. Mack served as a professor of psychiatry and faced an internal review of his research."
     },
     {
       "id": "house-armed-services-committee",
@@ -873,10 +1129,22 @@
       "summary": "Harvard-based research project using transparent, instrument-driven methods to study anomalous aerial phenomena and possible extraterrestrial technological artifacts."
     },
     {
+      "id": "the-new-york-times",
+      "type": "organization",
+      "name": "The New York Times",
+      "summary": "U.S. newspaper that published the December 2017 report revealing the Pentagon’s Advanced Aerospace Threat Identification Program."
+    },
+    {
       "id": "sol-foundation",
       "type": "organization",
       "name": "The Sol Foundation",
       "summary": "Research institute and policy organization bringing together academic, government, and industry expertise to address scientific, policy, and social questions raised by UAP."
+    },
+    {
+      "id": "wall-street-journal",
+      "type": "organization",
+      "name": "The Wall Street Journal",
+      "summary": "U.S. newspaper discussed in Episode #70 in connection with commentary about The Age of Disclosure."
     },
     {
       "id": "to-the-stars-academy",
@@ -949,6 +1217,12 @@
       "type": "organization",
       "name": "United States Navy",
       "summary": "Maritime service branch of the U.S. Armed Forces"
+    },
+    {
+      "id": "uss-jackson",
+      "type": "organization",
+      "name": "USS Jackson",
+      "summary": "U.S. Navy littoral combat ship whose crew reportedly recorded Tic Tac-shaped objects in February 2023."
     },
     {
       "id": "uss-princeton",
@@ -1063,6 +1337,18 @@
       "type": "person",
       "name": "Daniel Sheehan",
       "summary": "Constitutional attorney and New Paradigm Institute leader involved in UAP disclosure advocacy and legal support for witnesses and whistleblowers."
+    },
+    {
+      "id": "danielle-oneal",
+      "type": "person",
+      "name": "Danielle O’Neal",
+      "summary": "Australian Broadcasting Corporation journalist who investigated Queensland UFO history and the “saucer nests” story."
+    },
+    {
+      "id": "danny-silva",
+      "type": "person",
+      "name": "Danny Silva",
+      "summary": "Citizen journalist and publisher of The Silva Record, covering UAP policy and disclosure developments."
     },
     {
       "id": "dave-navarro",
@@ -1245,6 +1531,12 @@
       "summary": "Former intelligence official associated with AAWSAP and leadership of the UAP Task Force."
     },
     {
+      "id": "jeff-nuccetelli",
+      "type": "person",
+      "name": "Jeff Nuccetelli",
+      "summary": "Former U.S. Air Force security police officer who reported investigating unusual aerial incursions at Vandenberg."
+    },
+    {
       "id": "jeffrey-nuccetelli",
       "type": "person",
       "name": "Jeffrey Nuccetelli",
@@ -1297,6 +1589,12 @@
       "type": "person",
       "name": "John Burroughs",
       "summary": "Former U.S. Air Force security policeman and firsthand witness to the Rendlesham Forest incident."
+    },
+    {
+      "id": "john-mack",
+      "type": "person",
+      "name": "John E. Mack",
+      "summary": "Harvard psychiatrist and Pulitzer Prize-winning author who investigated reported alien-abduction experiences and the 1994 Ariel School encounter."
     },
     {
       "id": "jon-kosloski",
@@ -1413,6 +1711,12 @@
       "summary": "Journalist and founder of Public who testified at the November 2024 House UAP hearing."
     },
     {
+      "id": "mike-gold",
+      "type": "person",
+      "name": "Mike Gold",
+      "summary": "Space-industry executive, NASA adviser, former Bigelow Aerospace executive, and witness at the November 2024 congressional UAP hearing."
+    },
+    {
       "id": "patrick-pj-hughes",
       "type": "person",
       "name": "Patrick “P.J.” Hughes",
@@ -1423,6 +1727,18 @@
       "type": "person",
       "name": "Philip J. Corso",
       "summary": "Retired U.S. Army lieutenant colonel and coauthor of The Day After Roswell, which alleged military transfer and reverse engineering of recovered technology."
+    },
+    {
+      "id": "piia-wirsu",
+      "type": "person",
+      "name": "Piia Wirsu",
+      "summary": "Australian Broadcasting Corporation journalist and co-reporter of the Expanse: Uncropped series on UFO lore and saucer nests."
+    },
+    {
+      "id": "ralph-blumenthal",
+      "type": "person",
+      "name": "Ralph Blumenthal",
+      "summary": "Award-winning journalist and co-author of The New York Times’ December 2017 report on the Pentagon UFO program."
     },
     {
       "id": "richard-dolan",
@@ -1477,6 +1793,12 @@
       "type": "person",
       "name": "Ryan Graves",
       "summary": "Former U.S. Navy F/A-18 pilot, aviation-safety advocate, and congressional witness."
+    },
+    {
+      "id": "ryan-robbins",
+      "type": "person",
+      "name": "Ryan Robbins",
+      "summary": "Citizen journalist and UAP commentator known online as UFO Jesus and Post Disclosure World."
     },
     {
       "id": "ryan-weigelt",
@@ -1757,6 +2079,96 @@
       "summary": "Jeremy Corbell and George Knapp speak with Chris Sharp about recurring incursions near UK military facilities and with underwater archaeologist Rory Kremer about video of an object appearing to descend into the Pacific Ocean, while also reviewing the November 2024 congressional UAP hearing.",
       "date": "2024-12-03",
       "dateDisplay": "December 3, 2024",
+      "status": "Published"
+    },
+    {
+      "id": "2024-weaponized-episode-63",
+      "type": "podcast_episode",
+      "name": "WEAPONIZED Episode #63 — Mystery Drones and Australia’s Saucer Nests",
+      "summary": "Jeremy Corbell and George Knapp examine unresolved mystery-drone incursions in New Jersey and near UK military bases, then speak with Australian journalists Danielle O’Neal and Piia Wirsu about their investigation of Queensland “saucer nests” and UFO history.",
+      "date": "2024-12-10",
+      "dateDisplay": "December 10, 2024",
+      "status": "Published"
+    },
+    {
+      "id": "2024-weaponized-episode-64",
+      "type": "podcast_episode",
+      "name": "WEAPONIZED Episode #64 — The 2024 UAP Year in Review",
+      "summary": "Jeremy Corbell and George Knapp join citizen journalists Joe Murgia, Ryan Robbins, and Danny Silva to review major UAP developments, controversies, disappointments, and expectations for 2025.",
+      "date": "2024-12-31",
+      "dateDisplay": "December 31, 2024",
+      "status": "Published"
+    },
+    {
+      "id": "2025-weaponized-episode-65",
+      "type": "podcast_episode",
+      "name": "WEAPONIZED Episode #65 — UFO Revolution Premiere Q&A",
+      "summary": "At the Ojai Playhouse premiere of UFO Revolution, Jeremy Corbell and George Knapp discuss the documentary’s account of UAP transparency efforts, whistleblowers, Congress, and disputed handling of the Immaculate Constellation report.",
+      "date": "2025-01-26",
+      "dateDisplay": "January 26, 2025",
+      "status": "Published"
+    },
+    {
+      "id": "2025-weaponized-episode-66",
+      "type": "podcast_episode",
+      "name": "WEAPONIZED Episode #66 — Mike Gold on NASA, UAP, and Space Research",
+      "summary": "Jeremy Corbell and George Knapp speak with space executive and NASA adviser Mike Gold about NASA archives, advanced-material research in zero gravity, historical UAP data, and public-private cooperation.",
+      "date": "2025-02-11",
+      "dateDisplay": "February 11, 2025",
+      "status": "Published"
+    },
+    {
+      "id": "2025-weaponized-episode-67",
+      "type": "podcast_episode",
+      "name": "WEAPONIZED Episode #67 — Richard Dolan’s History of USOs",
+      "summary": "Historian Richard Dolan discusses documented reports of unidentified submerged objects, alleged transmedium craft, maritime witnesses, and cases presented in A History of USOs, Volume 1.",
+      "date": "2025-02-25",
+      "dateDisplay": "February 25, 2025",
+      "status": "Published"
+    },
+    {
+      "id": "2025-weaponized-episode-68",
+      "type": "podcast_episode",
+      "name": "WEAPONIZED Episode #68 — Ralph Blumenthal and the 2017 New York Times UFO Story",
+      "summary": "Ralph Blumenthal describes how he, Helene Cooper, and Leslie Kean reported the landmark 2017 New York Times UFO story, the editorial resistance they encountered, and his research into psychiatrist John Mack.",
+      "date": "2025-03-11",
+      "dateDisplay": "March 11, 2025",
+      "status": "Published"
+    },
+    {
+      "id": "2025-weaponized-episode-69",
+      "type": "podcast_episode",
+      "name": "WEAPONIZED Episode #69 — John Mack, Ariel School, and Reporting the Unreportable",
+      "summary": "In the second part of the Ralph Blumenthal interview, the discussion focuses on John Mack’s abduction research, Harvard’s review of his work, the Ariel School encounter, and barriers facing modern UAP whistleblowers.",
+      "date": "2025-03-18",
+      "dateDisplay": "March 18, 2025",
+      "status": "Published"
+    },
+    {
+      "id": "2025-weaponized-episode-70",
+      "type": "podcast_episode",
+      "name": "WEAPONIZED Episode #70 — The Age of Disclosure and Media Coverage of UAP",
+      "summary": "Jeremy Corbell and George Knapp discuss The Age of Disclosure, media treatment of UAP witnesses, and omissions they identify in coverage of mystery-drone and 2019 Navy ship incidents.",
+      "date": "2025-03-25",
+      "dateDisplay": "March 25, 2025",
+      "status": "Published"
+    },
+    {
+      "id": "2025-weaponized-episode-71",
+      "type": "podcast_episode",
+      "name": "WEAPONIZED Episode #71 — The Vandenberg Red Square UAP",
+      "summary": "Air Force veteran Jeff Nuccetelli describes reported UAP incursions at Vandenberg, including a large glowing red square or rectangular object, and discusses a released military police blotter tied to the event.",
+      "date": "2025-04-01",
+      "dateDisplay": "April 1, 2025",
+      "status": "Published"
+    },
+    {
+      "id": "2025-weaponized-episode-72",
+      "type": "podcast_episode",
+      "name": "WEAPONIZED Episode #72 — The USS Jackson Tic Tac Video",
+      "summary": "Jeremy Corbell and George Knapp unveil video reportedly recorded aboard USS Jackson in February 2023 after crew members observed multiple Tic Tac-shaped objects, including one said to emerge from the ocean.",
+      "date": "2025-04-08",
+      "dateDisplay": "April 8, 2025",
       "status": "Published"
     },
     {
@@ -2220,10 +2632,22 @@
       "summary": "Research and government activity concerning UFO reports before the modern UAP era."
     },
     {
+      "id": "human-encounter-research",
+      "type": "topic",
+      "name": "Human Encounter Research",
+      "summary": "Research into reported direct human encounters with anomalous or non-human phenomena."
+    },
+    {
       "id": "immaculate-constellation",
       "type": "topic",
       "name": "Immaculate Constellation",
       "summary": "Name associated with allegations of a highly compartmentalized U.S. government UAP collection and intelligence program. The program's alleged scope and existence remain subjects of public claims and congressional interest."
+    },
+    {
+      "id": "mystery-drone-incursions",
+      "type": "topic",
+      "name": "Mystery Drone Incursions",
+      "summary": "Unresolved reports of recurring unidentified drone-like objects near communities and restricted military airspace."
     },
     {
       "id": "scientific-investigation",
@@ -2248,6 +2672,12 @@
       "type": "topic",
       "name": "UAP Incursions at Nuclear Facilities",
       "summary": "Reports and investigations concerning unidentified craft near nuclear laboratories, weapons sites, reactors, and related restricted airspace."
+    },
+    {
+      "id": "uap-journalism",
+      "type": "topic",
+      "name": "UAP Journalism",
+      "summary": "Journalistic investigation, sourcing, editorial review, and public communication concerning UAP."
     },
     {
       "id": "uap-reporting-systems",

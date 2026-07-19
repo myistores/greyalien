@@ -1,0 +1,21 @@
+{
+  "id": "the-new-york-times",
+  "type": "organization",
+  "name": "The New York Times",
+  "summary": "U.S. newspaper that published the December 2017 report revealing the Pentagon’s Advanced Aerospace Threat Identification Program.",
+  "relationships": [
+    {
+      "type": "featured_in_media",
+      "target": "2025-weaponized-episode-68"
+    }
+  ],
+  "officialLinks": [],
+  "referenceSources": [
+    {
+      "label": "Official WEAPONIZED Episode #68 page",
+      "url": "https://www.weaponizedpodcast.com/episodes-3/episode-68",
+      "sourceType": "official_episode_page",
+      "role": "source"
+    }
+  ]
+}

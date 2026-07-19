@@ -1,0 +1,21 @@
+{
+  "id": "claim-vandenberg-security-personnel-investigated-multiple-incursions",
+  "type": "claim",
+  "name": "Vandenberg security personnel reportedly investigated more than one unusual aerial incursion",
+  "summary": "Nuccetelli described a second large-object incident and security response.",
+  "relationships": [
+    {
+      "type": "featured_in_media",
+      "target": "2025-weaponized-episode-71"
+    }
+  ],
+  "officialLinks": [],
+  "referenceSources": [
+    {
+      "label": "Official WEAPONIZED Episode #71 page",
+      "url": "https://www.weaponizedpodcast.com/episodes-3/episode-71",
+      "sourceType": "official_episode_page",
+      "role": "source"
+    }
+  ]
+}

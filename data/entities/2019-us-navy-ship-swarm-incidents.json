@@ -1,0 +1,24 @@
+{
+  "id": "2019-us-navy-ship-swarm-incidents",
+  "type": "case",
+  "name": "2019 U.S. Navy Ship Swarm Incidents",
+  "summary": "Series of reported unidentified-object or drone incursions involving U.S. Navy ships off Southern California.",
+  "relationships": [
+    {
+      "type": "featured_in_media",
+      "target": "2025-weaponized-episode-70"
+    }
+  ],
+  "date": "2019",
+  "dateDisplay": "2019",
+  "eventCategory": "UAP incident",
+  "officialLinks": [],
+  "referenceSources": [
+    {
+      "label": "Official WEAPONIZED Episode #70 page",
+      "url": "https://www.weaponizedpodcast.com/episodes-3/episode-70",
+      "sourceType": "official_episode_page",
+      "role": "source"
+    }
+  ]
+}

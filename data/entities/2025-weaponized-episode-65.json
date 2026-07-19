@@ -1,0 +1,82 @@
+{
+  "id": "2025-weaponized-episode-65",
+  "type": "podcast_episode",
+  "name": "WEAPONIZED Episode #65 — UFO Revolution Premiere Q&A",
+  "summary": "At the Ojai Playhouse premiere of UFO Revolution, Jeremy Corbell and George Knapp discuss the documentary’s account of UAP transparency efforts, whistleblowers, Congress, and disputed handling of the Immaculate Constellation report.",
+  "date": "2025-01-26",
+  "dateDisplay": "January 26, 2025",
+  "seriesId": "weaponized-podcast",
+  "episodeNumber": 65,
+  "episodeTitle": "UFO Revolution Premiere Q&A",
+  "status": "Published",
+  "mediaType": "Podcast episode",
+  "mediaPlatform": "WEAPONIZED",
+  "mediaHost": "Jeremy Corbell and George Knapp",
+  "mediaGuests": [],
+  "mediaSubjects": [
+    "UFO Revolution",
+    "Immaculate Constellation",
+    "Congressional Record",
+    "UAP whistleblowers"
+  ],
+  "principalClaims": [
+    "claim-ufo-revolution-documented-path-to-congress",
+    "claim-immaculate-constellation-record-contained-falsified-page",
+    "claim-immaculate-constellation-submission-misattributed"
+  ],
+  "researchNotes": [],
+  "relationships": [
+    {
+      "type": "episode_of",
+      "target": "weaponized-podcast"
+    },
+    {
+      "type": "features_person",
+      "target": "jeremy-corbell",
+      "role": "host",
+      "context": "WEAPONIZED co-host"
+    },
+    {
+      "type": "features_person",
+      "target": "george-knapp",
+      "role": "host",
+      "context": "WEAPONIZED co-host"
+    },
+    {
+      "type": "discussed_topic",
+      "target": "government-transparency"
+    },
+    {
+      "type": "discussed_topic",
+      "target": "immaculate-constellation"
+    }
+  ],
+  "mediaLinks": [
+    {
+      "label": "Open the official Episode #65 page",
+      "url": "https://www.weaponizedpodcast.com/episodes-3/episode-65",
+      "platform": "WEAPONIZED"
+    },
+    {
+      "label": "Listen to WEAPONIZED",
+      "url": "https://link.chtbl.com/Weaponized",
+      "platform": "Official audio feed"
+    }
+  ],
+  "eventCategory": "Podcast publication",
+  "officialLinks": [],
+  "referenceSources": [
+    {
+      "label": "Official WEAPONIZED Episode #65 page",
+      "url": "https://www.weaponizedpodcast.com/episodes-3/episode-65",
+      "sourceType": "official_episode_page",
+      "role": "source"
+    },
+    {
+      "label": "Listen to WEAPONIZED",
+      "url": "https://link.chtbl.com/Weaponized",
+      "sourceType": "official_audio_feed",
+      "role": "source"
+    }
+  ]
+}

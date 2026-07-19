@@ -1,0 +1,21 @@
+{
+  "id": "claim-one-uss-jackson-object-reported-emerging-from-ocean",
+  "type": "claim",
+  "name": "At least one reported USS Jackson object appeared to emerge from the ocean",
+  "summary": "The episode description presents this as witness testimony.",
+  "relationships": [
+    {
+      "type": "featured_in_media",
+      "target": "2025-weaponized-episode-72"
+    }
+  ],
+  "officialLinks": [],
+  "referenceSources": [
+    {
+      "label": "Official WEAPONIZED Episode #72 page",
+      "url": "https://www.weaponizedpodcast.com/episodes-3/episode-72",
+      "sourceType": "official_episode_page",
+      "role": "source"
+    }
+  ]
+}

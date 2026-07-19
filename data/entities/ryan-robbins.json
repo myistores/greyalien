@@ -1,0 +1,28 @@
+{
+  "id": "ryan-robbins",
+  "type": "person",
+  "name": "Ryan Robbins",
+  "summary": "Citizen journalist and UAP commentator known online as UFO Jesus and Post Disclosure World.",
+  "relationships": [
+    {
+      "type": "appeared_in",
+      "target": "2024-weaponized-episode-64",
+      "role": "guest",
+      "context": "Participated in the 2024 UAP year-in-review panel"
+    }
+  ],
+  "profileStatus": "Citizen journalist",
+  "profileSummary": "Citizen journalist and UAP commentator known online as UFO Jesus and Post Disclosure World.",
+  "profileBadge": "Journalist",
+  "profileBadgeClass": "badge-journalist",
+  "inclusionNote": "Included as a guest in WEAPONIZED Episode #64.",
+  "officialLinks": [],
+  "referenceSources": [
+    {
+      "label": "Official WEAPONIZED Episode #64 page",
+      "url": "https://www.weaponizedpodcast.com/episodes-3/episode-64",
+      "sourceType": "official_episode_page",
+      "role": "source"
+    }
+  ]
+}

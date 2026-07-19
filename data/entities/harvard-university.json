@@ -1,0 +1,21 @@
+{
+  "id": "harvard-university",
+  "type": "organization",
+  "name": "Harvard University",
+  "summary": "University where John E. Mack served as a professor of psychiatry and faced an internal review of his research.",
+  "relationships": [
+    {
+      "type": "featured_in_media",
+      "target": "2025-weaponized-episode-69"
+    }
+  ],
+  "officialLinks": [],
+  "referenceSources": [
+    {
+      "label": "Official WEAPONIZED Episode #69 page",
+      "url": "https://www.weaponizedpodcast.com/episodes-3/episode-69",
+      "sourceType": "official_episode_page",
+      "role": "source"
+    }
+  ]
+}

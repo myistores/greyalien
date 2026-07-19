@@ -1,0 +1,28 @@
+{
+  "id": "danielle-oneal",
+  "type": "person",
+  "name": "Danielle O’Neal",
+  "summary": "Australian Broadcasting Corporation journalist who investigated Queensland UFO history and the “saucer nests” story.",
+  "relationships": [
+    {
+      "type": "appeared_in",
+      "target": "2024-weaponized-episode-63",
+      "role": "guest",
+      "context": "Discussed the Expanse: Uncropped investigation"
+    }
+  ],
+  "profileStatus": "Journalist",
+  "profileSummary": "Australian Broadcasting Corporation journalist who investigated Queensland UFO history and the “saucer nests” story.",
+  "profileBadge": "Journalist",
+  "profileBadgeClass": "badge-journalist",
+  "inclusionNote": "Included as a guest in WEAPONIZED Episode #63.",
+  "officialLinks": [],
+  "referenceSources": [
+    {
+      "label": "Official WEAPONIZED Episode #63 page",
+      "url": "https://www.weaponizedpodcast.com/episodes-3/episode-63",
+      "sourceType": "official_episode_page",
+      "role": "source"
+    }
+  ]
+}

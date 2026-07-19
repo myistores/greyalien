@@ -1,0 +1,116 @@
+{
+  "id": "2024-weaponized-episode-64",
+  "type": "podcast_episode",
+  "name": "WEAPONIZED Episode #64 — The 2024 UAP Year in Review",
+  "summary": "Jeremy Corbell and George Knapp join citizen journalists Joe Murgia, Ryan Robbins, and Danny Silva to review major UAP developments, controversies, disappointments, and expectations for 2025.",
+  "date": "2024-12-31",
+  "dateDisplay": "December 31, 2024",
+  "seriesId": "weaponized-podcast",
+  "episodeNumber": 64,
+  "episodeTitle": "The 2024 UAP Year in Review",
+  "status": "Published",
+  "mediaType": "Podcast episode",
+  "mediaPlatform": "WEAPONIZED",
+  "mediaHost": "Jeremy Corbell and George Knapp",
+  "mediaGuests": [
+    "joe-murgia",
+    "ryan-robbins",
+    "danny-silva"
+  ],
+  "mediaSubjects": [
+    "2024 UAP developments",
+    "Mystery drones",
+    "AARO",
+    "Congressional oversight"
+  ],
+  "principalClaims": [
+    "claim-2024-uap-review-found-persistent-transparency-failures",
+    "claim-mystery-drone-incursions-remained-major-2024-story",
+    "claim-potential-uap-witnesses-faced-threats"
+  ],
+  "researchNotes": [],
+  "relationships": [
+    {
+      "type": "episode_of",
+      "target": "weaponized-podcast"
+    },
+    {
+      "type": "features_person",
+      "target": "jeremy-corbell",
+      "role": "host",
+      "context": "WEAPONIZED co-host"
+    },
+    {
+      "type": "features_person",
+      "target": "george-knapp",
+      "role": "host",
+      "context": "WEAPONIZED co-host"
+    },
+    {
+      "type": "features_person",
+      "target": "joe-murgia",
+      "role": "guest",
+      "context": "Featured episode participant"
+    },
+    {
+      "type": "features_person",
+      "target": "ryan-robbins",
+      "role": "guest",
+      "context": "Featured episode participant"
+    },
+    {
+      "type": "features_person",
+      "target": "danny-silva",
+      "role": "guest",
+      "context": "Featured episode participant"
+    },
+    {
+      "type": "references_organization",
+      "target": "aaro"
+    },
+    {
+      "type": "references_organization",
+      "target": "department-of-defense"
+    },
+    {
+      "type": "discussed_topic",
+      "target": "government-transparency"
+    },
+    {
+      "type": "discussed_topic",
+      "target": "congressional-oversight"
+    },
+    {
+      "type": "discussed_topic",
+      "target": "mystery-drone-incursions"
+    }
+  ],
+  "mediaLinks": [
+    {
+      "label": "Open the official Episode #64 page",
+      "url": "https://www.weaponizedpodcast.com/episodes-3/episode-64",
+      "platform": "WEAPONIZED"
+    },
+    {
+      "label": "Listen to WEAPONIZED",
+      "url": "https://link.chtbl.com/Weaponized",
+      "platform": "Official audio feed"
+    }
+  ],
+  "eventCategory": "Podcast publication",
+  "officialLinks": [],
+  "referenceSources": [
+    {
+      "label": "Official WEAPONIZED Episode #64 page",
+      "url": "https://www.weaponizedpodcast.com/episodes-3/episode-64",
+      "sourceType": "official_episode_page",
+      "role": "source"
+    },
+    {
+      "label": "Listen to WEAPONIZED",
+      "url": "https://link.chtbl.com/Weaponized",
+      "sourceType": "official_audio_feed",
+      "role": "source"
+    }
+  ]
+}

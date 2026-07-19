@@ -1,0 +1,21 @@
+{
+  "id": "claim-media-stigma-can-deter-uap-witnesses",
+  "type": "claim",
+  "name": "Hostile or dismissive media coverage can discourage UAP witnesses from speaking publicly",
+  "summary": "The episode argues that ridicule and attacks have a chilling effect.",
+  "relationships": [
+    {
+      "type": "featured_in_media",
+      "target": "2025-weaponized-episode-70"
+    }
+  ],
+  "officialLinks": [],
+  "referenceSources": [
+    {
+      "label": "Official WEAPONIZED Episode #70 page",
+      "url": "https://www.weaponizedpodcast.com/episodes-3/episode-70",
+      "sourceType": "official_episode_page",
+      "role": "source"
+    }
+  ]
+}

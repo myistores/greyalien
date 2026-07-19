@@ -1,0 +1,107 @@
+{
+  "id": "2025-weaponized-episode-72",
+  "type": "podcast_episode",
+  "name": "WEAPONIZED Episode #72 — The USS Jackson Tic Tac Video",
+  "summary": "Jeremy Corbell and George Knapp unveil video reportedly recorded aboard USS Jackson in February 2023 after crew members observed multiple Tic Tac-shaped objects, including one said to emerge from the ocean.",
+  "date": "2025-04-08",
+  "dateDisplay": "April 8, 2025",
+  "seriesId": "weaponized-podcast",
+  "episodeNumber": 72,
+  "episodeTitle": "The USS Jackson Tic Tac Video",
+  "status": "Published",
+  "mediaType": "Podcast episode",
+  "mediaPlatform": "WEAPONIZED",
+  "mediaHost": "Jeremy Corbell and George Knapp",
+  "mediaGuests": [],
+  "mediaSubjects": [
+    "USS Jackson",
+    "Tic Tac UAP",
+    "Transmedium UAP",
+    "AARO reporting"
+  ],
+  "principalClaims": [
+    "claim-uss-jackson-crew-reported-four-tic-tac-objects",
+    "claim-one-uss-jackson-object-reported-emerging-from-ocean",
+    "claim-two-uss-jackson-objects-recorded-from-command-center",
+    "claim-uss-jackson-incident-not-reported-to-aaro"
+  ],
+  "researchNotes": [],
+  "relationships": [
+    {
+      "type": "episode_of",
+      "target": "weaponized-podcast"
+    },
+    {
+      "type": "features_person",
+      "target": "jeremy-corbell",
+      "role": "host",
+      "context": "WEAPONIZED co-host"
+    },
+    {
+      "type": "features_person",
+      "target": "george-knapp",
+      "role": "host",
+      "context": "WEAPONIZED co-host"
+    },
+    {
+      "type": "references_organization",
+      "target": "uss-jackson"
+    },
+    {
+      "type": "references_organization",
+      "target": "united-states-navy"
+    },
+    {
+      "type": "references_organization",
+      "target": "aaro"
+    },
+    {
+      "type": "discussed_topic",
+      "target": "transmedium-uap"
+    },
+    {
+      "type": "discussed_topic",
+      "target": "aviation-safety"
+    },
+    {
+      "type": "discussed_topic",
+      "target": "unidentified-submerged-objects"
+    },
+    {
+      "type": "references_case",
+      "target": "2023-uss-jackson-tic-tac-incident"
+    },
+    {
+      "type": "references_case",
+      "target": "2004-nimitz-encounter"
+    }
+  ],
+  "mediaLinks": [
+    {
+      "label": "Open the official Episode #72 page",
+      "url": "https://www.weaponizedpodcast.com/episodes-3/episode-72",
+      "platform": "WEAPONIZED"
+    },
+    {
+      "label": "Listen to WEAPONIZED",
+      "url": "https://link.chtbl.com/Weaponized",
+      "platform": "Official audio feed"
+    }
+  ],
+  "eventCategory": "Podcast publication",
+  "officialLinks": [],
+  "referenceSources": [
+    {
+      "label": "Official WEAPONIZED Episode #72 page",
+      "url": "https://www.weaponizedpodcast.com/episodes-3/episode-72",
+      "sourceType": "official_episode_page",
+      "role": "source"
+    },
+    {
+      "label": "Listen to WEAPONIZED",
+      "url": "https://link.chtbl.com/Weaponized",
+      "sourceType": "official_audio_feed",
+      "role": "source"
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "id": "jeff-nuccetelli",
+  "type": "person",
+  "name": "Jeff Nuccetelli",
+  "summary": "Former U.S. Air Force security police officer who reported investigating unusual aerial incursions at Vandenberg.",
+  "relationships": [
+    {
+      "type": "appeared_in",
+      "target": "2025-weaponized-episode-71",
+      "role": "guest",
+      "context": "Described reported Vandenberg incursions"
+    }
+  ],
+  "profileStatus": "Air Force veteran and UAP witness",
+  "profileSummary": "Former U.S. Air Force security police officer who reported investigating unusual aerial incursions at Vandenberg.",
+  "profileBadge": "Witness",
+  "profileBadgeClass": "badge-witness",
+  "inclusionNote": "Included as a guest in WEAPONIZED Episode #71.",
+  "officialLinks": [],
+  "referenceSources": [
+    {
+      "label": "Official WEAPONIZED Episode #71 page",
+      "url": "https://www.weaponizedpodcast.com/episodes-3/episode-71",
+      "sourceType": "official_episode_page",
+      "role": "source"
+    }
+  ]
+}

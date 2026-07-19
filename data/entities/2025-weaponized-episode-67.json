@@ -1,0 +1,93 @@
+{
+  "id": "2025-weaponized-episode-67",
+  "type": "podcast_episode",
+  "name": "WEAPONIZED Episode #67 — Richard Dolan’s History of USOs",
+  "summary": "Historian Richard Dolan discusses documented reports of unidentified submerged objects, alleged transmedium craft, maritime witnesses, and cases presented in A History of USOs, Volume 1.",
+  "date": "2025-02-25",
+  "dateDisplay": "February 25, 2025",
+  "seriesId": "weaponized-podcast",
+  "episodeNumber": 67,
+  "episodeTitle": "Richard Dolan’s History of USOs",
+  "status": "Published",
+  "mediaType": "Podcast episode",
+  "mediaPlatform": "WEAPONIZED",
+  "mediaHost": "Jeremy Corbell and George Knapp",
+  "mediaGuests": [
+    "richard-dolan"
+  ],
+  "mediaSubjects": [
+    "Unidentified submerged objects",
+    "Transmedium craft",
+    "Maritime UFO history"
+  ],
+  "principalClaims": [
+    "claim-uso-reports-span-centuries",
+    "claim-some-uso-reports-describe-transmedium-performance",
+    "claim-maritime-forces-have-collected-uso-observations"
+  ],
+  "researchNotes": [],
+  "relationships": [
+    {
+      "type": "episode_of",
+      "target": "weaponized-podcast"
+    },
+    {
+      "type": "features_person",
+      "target": "jeremy-corbell",
+      "role": "host",
+      "context": "WEAPONIZED co-host"
+    },
+    {
+      "type": "features_person",
+      "target": "george-knapp",
+      "role": "host",
+      "context": "WEAPONIZED co-host"
+    },
+    {
+      "type": "features_person",
+      "target": "richard-dolan",
+      "role": "guest",
+      "context": "Featured episode participant"
+    },
+    {
+      "type": "discussed_topic",
+      "target": "unidentified-submerged-objects"
+    },
+    {
+      "type": "discussed_topic",
+      "target": "transmedium-uap"
+    },
+    {
+      "type": "discussed_topic",
+      "target": "historical-ufo-research"
+    }
+  ],
+  "mediaLinks": [
+    {
+      "label": "Open the official Episode #67 page",
+      "url": "https://www.weaponizedpodcast.com/episodes-3/episode-67",
+      "platform": "WEAPONIZED"
+    },
+    {
+      "label": "Listen to WEAPONIZED",
+      "url": "https://link.chtbl.com/Weaponized",
+      "platform": "Official audio feed"
+    }
+  ],
+  "eventCategory": "Podcast publication",
+  "officialLinks": [],
+  "referenceSources": [
+    {
+      "label": "Official WEAPONIZED Episode #67 page",
+      "url": "https://www.weaponizedpodcast.com/episodes-3/episode-67",
+      "sourceType": "official_episode_page",
+      "role": "source"
+    },
+    {
+      "label": "Listen to WEAPONIZED",
+      "url": "https://link.chtbl.com/Weaponized",
+      "sourceType": "official_audio_feed",
+      "role": "source"
+    }
+  ]
+}
