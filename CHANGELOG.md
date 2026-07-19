@@ -1,3 +1,13 @@
+# V17.1 — Podcast Engine
+
+- Added canonical podcast series and episode schemas.
+- Added ingestion package and one-command episode workflow.
+- Added generated podcast-series, episode, and manifest indexes.
+- Added podcast semantic validation and deterministic sitemap building.
+- Migrated six researched WEAPONIZED records to `podcast_episode`.
+- Updated podcast cards with generated episode and connected-entity totals.
+- Updated homepage Latest Additions.
+
 # GreyAlien Version 16.0 — Science & Technology Gateway Foundation
 
 - Replaced the legacy Science & Technology placeholder with a complete visual gateway.

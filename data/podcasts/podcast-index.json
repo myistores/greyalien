@@ -1,17 +1,76 @@
 {
-  "schemaVersion": 1,
-  "title": "Podcast Knowledge Base",
+  "schemaVersion": 2,
+  "generatedBy": "tools/build_podcasts.py",
   "podcasts": [
     {
-      "id": "weaponized-podcast",
-      "name": "WEAPONIZED",
+      "id": "somewhere-in-the-skies-podcast",
+      "name": "Somewhere in the Skies",
       "hosts": [
-        "Jeremy Corbell",
-        "George Knapp"
+        "Ryan Sprague"
       ],
-      "launchYear": "2023",
-      "summary": "Investigative series in which Jeremy Corbell and George Knapp explore UAP, government secrecy, unusual events, documents, and firsthand testimony.",
-      "officialWebsite": "https://www.weaponizedpodcast.com/"
+      "launchYear": "2017",
+      "status": "Active",
+      "summary": "Ryan Sprague hosts a long-running podcast centered on UFO reports, witness experiences, investigations, researchers, and the cultural history of the phenomenon.",
+      "officialWebsite": "https://somewhereintheskies.com/",
+      "episodeCount": 0,
+      "connectedEntityCount": 0,
+      "latestEpisodeDate": ""
+    },
+    {
+      "id": "engaging-the-phenomenon-podcast",
+      "name": "Engaging the Phenomenon",
+      "hosts": [
+        "James Iandoli"
+      ],
+      "launchYear": "2018",
+      "status": "Active",
+      "summary": "James Iandoli explores UAP, consciousness, contact experiences, field research, and the human implications of anomalous phenomena.",
+      "officialWebsite": "https://www.youtube.com/@EngagingThePhenomenon",
+      "episodeCount": 0,
+      "connectedEntityCount": 0,
+      "latestEpisodeDate": ""
+    },
+    {
+      "id": "black-vault-radio",
+      "name": "The Black Vault Radio",
+      "hosts": [
+        "John Greenewald Jr."
+      ],
+      "launchYear": "2018",
+      "status": "Active archive",
+      "summary": "John Greenewald Jr. uses declassified records and Freedom of Information Act research as the basis for interviews about government, military, intelligence, and UAP history.",
+      "officialWebsite": "https://www.theblackvault.com/documentarchive/category/podcasts/",
+      "episodeCount": 0,
+      "connectedEntityCount": 0,
+      "latestEpisodeDate": ""
+    },
+    {
+      "id": "that-ufo-podcast",
+      "name": "That UFO Podcast",
+      "hosts": [
+        "Andy McGrillen"
+      ],
+      "launchYear": "2020",
+      "status": "Active",
+      "summary": "Andy McGrillen presents UAP news, interviews, listener discussions, and deep dives into UFOs and connected phenomena.",
+      "officialWebsite": "https://www.youtube.com/@ThatUFOPodcast",
+      "episodeCount": 0,
+      "connectedEntityCount": 0,
+      "latestEpisodeDate": ""
+    },
+    {
+      "id": "theories-of-everything-podcast",
+      "name": "Theories of Everything",
+      "hosts": [
+        "Curt Jaimungal"
+      ],
+      "launchYear": "2020",
+      "status": "Active",
+      "summary": "Curt Jaimungal hosts technically detailed long-form conversations spanning theoretical physics, consciousness, artificial intelligence, philosophy, and UAP research.",
+      "officialWebsite": "https://curtjaimungal.substack.com/",
+      "episodeCount": 0,
+      "connectedEntityCount": 0,
+      "latestEpisodeDate": ""
     },
     {
       "id": "need-to-know-podcast",
@@ -21,8 +80,12 @@
         "Ross Coulthart"
       ],
       "launchYear": "2021",
+      "status": "Active",
       "summary": "Journalistic UAP podcast combining current reporting, analysis, historical context, and disclosure discussion.",
-      "officialWebsite": "https://www.youtube.com/channel/UCgslF1kPo4Kmv4Xrg8EyYmQ"
+      "officialWebsite": "https://www.youtube.com/channel/UCgslF1kPo4Kmv4Xrg8EyYmQ",
+      "episodeCount": 0,
+      "connectedEntityCount": 0,
+      "latestEpisodeDate": ""
     },
     {
       "id": "merged-podcast",
@@ -31,58 +94,27 @@
         "Ryan Graves"
       ],
       "launchYear": "2022",
+      "status": "Active",
       "summary": "Ryan Graves hosts pilots, scientists, researchers, and innovators for evidence-focused discussion of UAP, aviation safety, and scientific inquiry.",
-      "officialWebsite": "https://www.mergedpodcast.com/"
+      "officialWebsite": "https://www.mergedpodcast.com/",
+      "episodeCount": 0,
+      "connectedEntityCount": 0,
+      "latestEpisodeDate": ""
     },
     {
-      "id": "black-vault-radio",
-      "name": "The Black Vault Radio",
+      "id": "weaponized-podcast",
+      "name": "WEAPONIZED",
       "hosts": [
-        "John Greenewald Jr."
+        "Jeremy Corbell",
+        "George Knapp"
       ],
-      "launchYear": "2018",
-      "summary": "John Greenewald Jr. uses declassified records and Freedom of Information Act research as the basis for interviews about government, military, intelligence, and UAP history.",
-      "officialWebsite": "https://www.theblackvault.com/documentarchive/category/podcasts/"
-    },
-    {
-      "id": "theories-of-everything-podcast",
-      "name": "Theories of Everything",
-      "hosts": [
-        "Curt Jaimungal"
-      ],
-      "launchYear": "2020",
-      "summary": "Curt Jaimungal hosts technically detailed long-form conversations spanning theoretical physics, consciousness, artificial intelligence, philosophy, and UAP research.",
-      "officialWebsite": "https://curtjaimungal.substack.com/"
-    },
-    {
-      "id": "engaging-the-phenomenon-podcast",
-      "name": "Engaging the Phenomenon",
-      "hosts": [
-        "James Iandoli"
-      ],
-      "launchYear": "2018",
-      "summary": "James Iandoli explores UAP, consciousness, contact experiences, field research, and the human implications of anomalous phenomena.",
-      "officialWebsite": "https://www.youtube.com/@EngagingThePhenomenon"
-    },
-    {
-      "id": "that-ufo-podcast",
-      "name": "That UFO Podcast",
-      "hosts": [
-        "Andy McGrillen"
-      ],
-      "launchYear": "2020",
-      "summary": "Andy McGrillen presents UAP news, interviews, listener discussions, and deep dives into UFOs and connected phenomena.",
-      "officialWebsite": "https://www.youtube.com/@ThatUFOPodcast"
-    },
-    {
-      "id": "somewhere-in-the-skies-podcast",
-      "name": "Somewhere in the Skies",
-      "hosts": [
-        "Ryan Sprague"
-      ],
-      "launchYear": "2017",
-      "summary": "Ryan Sprague hosts a long-running podcast centered on UFO reports, witness experiences, investigations, researchers, and the cultural history of the phenomenon.",
-      "officialWebsite": "https://somewhereintheskies.com/"
+      "launchYear": "2023",
+      "status": "Active",
+      "summary": "Investigative series in which Jeremy Corbell and George Knapp explore UAP, government secrecy, unusual events, documents, and firsthand testimony.",
+      "officialWebsite": "https://www.weaponizedpodcast.com/",
+      "episodeCount": 6,
+      "connectedEntityCount": 34,
+      "latestEpisodeDate": "2026-04-14"
     }
   ]
 }

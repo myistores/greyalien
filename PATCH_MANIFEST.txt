@@ -1,10 +1,26 @@
-GreyAlien V16.0 FULL WEBSITE PACKAGE
+GREYALIEN V17.1 — PHASE 2 PODCAST ENGINE
 
-Primary changes:
-- categories/science-technology.html
-- science/*/index.html (7 new collection placeholders)
-- style.css (V16 gateway and collection styles)
+Major additions:
+- PHASE2_PODCAST_ENGINE.md
+- data/schema/podcast-series-schema-v1.json
+- data/schema/podcast-episode-schema-v1.json
+- data/podcasts/ingestion-package-template/
+- data/podcasts/episode-index.json
+- data/podcasts/podcast-manifest.json
+- data/release-summary.json
+- tools/build_podcasts.py
+- tools/build_sitemap.py
+- tools/ingest_podcast_episode.py
+- tools/validate_podcasts.py
+
+Generated/updated:
+- data/podcasts/podcast-index.json
+- data/entity-index.json
+- data/graph-manifest.json
 - sitemap.xml
+- six existing WEAPONIZED episode entity records
+- assets/js/podcast-directory.js
+- assets/js/entity-engine.js
+- index.html
 - CHANGELOG.md
-
-Deploy the complete package to preserve all V15.19 content and add the V16 gateway.
+- README_DEPLOY.txt

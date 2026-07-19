@@ -1,6 +1,6 @@
 {
   "id": "weaponized-matthew-brown-part-1",
-  "type": "interview",
+  "type": "podcast_episode",
   "name": "WEAPONIZED Episode #74 — Matthew Brown Part 1: Immaculate Constellation",
   "summary": "Matthew Brown joins Jeremy Corbell and George Knapp for the first part of a discussion concerning his allegations about Immaculate Constellation, compartmentalized UAP programs, whistleblower risk, and congressional oversight.",
   "relationships": [
@@ -98,5 +98,28 @@
       "url": "https://www.weaponizedpodcast.com/episodes-3/episode-74",
       "sourceType": "Official WEAPONIZED episode page"
     }
+  ],
+  "seriesId": "weaponized-podcast",
+  "status": "Published",
+  "episodeNumber": 74,
+  "episodeTitle": "Matthew Brown Part 1: Immaculate Constellation",
+  "sources": [
+    {
+      "label": "Watch Matthew Brown Part 1",
+      "url": "https://www.youtube.com/watch?v=ZAxI-LDrDqA",
+      "sourceType": "official_video",
+      "primary": true
+    },
+    {
+      "label": "Visit WEAPONIZED",
+      "url": "https://www.weaponizedpodcast.com/",
+      "sourceType": "official_episode_page",
+      "primary": false
+    }
+  ],
+  "principalClaims": [
+    "claim-secret-uap-programs",
+    "claim-crash-retrieval-program",
+    "claim-whistleblower-retaliation"
   ]
 }

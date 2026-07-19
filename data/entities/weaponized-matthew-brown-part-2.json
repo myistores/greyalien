@@ -1,6 +1,6 @@
 {
   "id": "weaponized-matthew-brown-part-2",
-  "type": "interview",
+  "type": "podcast_episode",
   "name": "WEAPONIZED Episode #75 — Matthew Brown Part 2: Immaculate Constellation",
   "summary": "In Part 2, Matthew Brown joins Jeremy Corbell and George Knapp to discuss documents he says he reviewed, the alleged scope and compartmentalization of Immaculate Constellation, and the reporting process he followed before identifying himself publicly.",
   "relationships": [
@@ -98,5 +98,28 @@
       "url": "https://www.weaponizedpodcast.com/episodes-3/episode-75",
       "sourceType": "Official WEAPONIZED episode page"
     }
+  ],
+  "seriesId": "weaponized-podcast",
+  "status": "Published",
+  "episodeNumber": 75,
+  "episodeTitle": "Matthew Brown Part 2: Immaculate Constellation",
+  "sources": [
+    {
+      "label": "Watch Matthew Brown Part 2",
+      "url": "https://www.youtube.com/watch?v=4n_bRtnIP14",
+      "sourceType": "official_video",
+      "primary": true
+    },
+    {
+      "label": "Read the official Episode #75 description",
+      "url": "https://www.weaponizedpodcast.com/episodes-3/episode-75",
+      "sourceType": "official_episode_page",
+      "primary": false
+    }
+  ],
+  "principalClaims": [
+    "claim-immaculate-constellation-source-documents",
+    "claim-immaculate-constellation-compartmentalization",
+    "claim-immaculate-constellation-reporting-blocked"
   ]
 }

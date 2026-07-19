@@ -1,0 +1,147 @@
+{
+  "schemaVersion": 1,
+  "generatedBy": "tools/build_podcasts.py",
+  "episodes": [
+    {
+      "id": "2026-weaponized-episode-115",
+      "name": "WEAPONIZED Episode #115 — A New Chapter in the Bob Lazar Saga",
+      "summary": "Luigi Venditelli joins Jeremy Corbell and George Knapp to discuss S4: The Bob Lazar Story, its reconstruction of the alleged S4 facility, and the continuing debate surrounding Bob Lazar’s claims.",
+      "date": "2026-04-14",
+      "dateDisplay": "April 14, 2026",
+      "episodeNumber": 115,
+      "episodeTitle": "A New Chapter in the Bob Lazar Saga",
+      "status": "Published",
+      "seriesId": "weaponized-podcast",
+      "externalUrl": "https://www.weaponizedpodcast.com/episodes-4/episode-115",
+      "guestIds": [
+        "luigi-venditelli"
+      ],
+      "subjectIds": [
+        "bob-lazar"
+      ],
+      "claimIds": [
+        "claim-s4-reverse-engineering",
+        "claim-s4-nine-craft",
+        "claim-element-115-propulsion",
+        "claim-s4-documentary-reconstruction"
+      ],
+      "relationshipCount": 13
+    },
+    {
+      "id": "weaponized-matthew-brown-part-3",
+      "name": "WEAPONIZED Episode #76 — Matthew Brown Part 3: Immaculate Constellation",
+      "summary": "In Part 3, Matthew Brown concludes his WEAPONIZED interview with Jeremy Corbell and George Knapp by discussing alleged UAP imagery found on classified systems, the management of public perception, excessive secrecy, congressional inquiry, and his call for additional insiders to come forward.",
+      "date": "2025-05-13",
+      "dateDisplay": "May 13, 2025",
+      "episodeNumber": 76,
+      "episodeTitle": "Matthew Brown Part 3: Immaculate Constellation",
+      "status": "Published",
+      "seriesId": "weaponized-podcast",
+      "externalUrl": "https://www.weaponizedpodcast.com/episodes-3/episode-76",
+      "guestIds": [
+        "matthew-brown"
+      ],
+      "subjectIds": [],
+      "claimIds": [
+        "claim-immaculate-constellation-visual-evidence",
+        "claim-uap-perception-management",
+        "claim-excessive-secrecy-stifles-inquiry",
+        "claim-additional-uap-insiders-should-come-forward"
+      ],
+      "relationshipCount": 13
+    },
+    {
+      "id": "weaponized-matthew-brown-part-2",
+      "name": "WEAPONIZED Episode #75 — Matthew Brown Part 2: Immaculate Constellation",
+      "summary": "In Part 2, Matthew Brown joins Jeremy Corbell and George Knapp to discuss documents he says he reviewed, the alleged scope and compartmentalization of Immaculate Constellation, and the reporting process he followed before identifying himself publicly.",
+      "date": "2025-05-06",
+      "dateDisplay": "May 6, 2025",
+      "episodeNumber": 75,
+      "episodeTitle": "Matthew Brown Part 2: Immaculate Constellation",
+      "status": "Published",
+      "seriesId": "weaponized-podcast",
+      "externalUrl": "https://www.weaponizedpodcast.com/episodes-3/episode-75",
+      "guestIds": [
+        "matthew-brown"
+      ],
+      "subjectIds": [],
+      "claimIds": [
+        "claim-immaculate-constellation-source-documents",
+        "claim-immaculate-constellation-compartmentalization",
+        "claim-immaculate-constellation-reporting-blocked"
+      ],
+      "relationshipCount": 12
+    },
+    {
+      "id": "weaponized-matthew-brown-part-1",
+      "name": "WEAPONIZED Episode #74 — Matthew Brown Part 1: Immaculate Constellation",
+      "summary": "Matthew Brown joins Jeremy Corbell and George Knapp for the first part of a discussion concerning his allegations about Immaculate Constellation, compartmentalized UAP programs, whistleblower risk, and congressional oversight.",
+      "date": "2025-04-29",
+      "dateDisplay": "April 29, 2025",
+      "episodeNumber": 74,
+      "episodeTitle": "Matthew Brown Part 1: Immaculate Constellation",
+      "status": "Published",
+      "seriesId": "weaponized-podcast",
+      "externalUrl": "https://www.youtube.com/watch?v=ZAxI-LDrDqA",
+      "guestIds": [
+        "matthew-brown"
+      ],
+      "subjectIds": [],
+      "claimIds": [
+        "claim-secret-uap-programs",
+        "claim-crash-retrieval-program",
+        "claim-whistleblower-retaliation"
+      ],
+      "relationshipCount": 12
+    },
+    {
+      "id": "2023-weaponized-episode-28",
+      "name": "WEAPONIZED Episode #28 — Congressional Hearing Roundtable",
+      "summary": "Jeremy Corbell and George Knapp are joined by Ross Coulthart and Bryce Zabel for a roundtable about the July 26, 2023 House UAP hearing, its three witnesses, how the hearing came together, and what might follow.",
+      "date": "2023-07-31",
+      "episodeNumber": 28,
+      "episodeTitle": "Congressional Hearing Roundtable",
+      "status": "Published",
+      "seriesId": "weaponized-podcast",
+      "externalUrl": "https://www.weaponizedpodcast.com/episodes-1/episode-number-28",
+      "guestIds": [
+        "ross-coulthart",
+        "bryce-zabel"
+      ],
+      "subjectIds": [
+        "david-grusch",
+        "ryan-graves",
+        "david-fravor"
+      ],
+      "claimIds": [
+        "claim-secret-uap-programs",
+        "claim-crash-retrieval-program",
+        "claim-navy-uap-aviation-safety",
+        "claim-nimitz-tic-tac-performance"
+      ],
+      "relationshipCount": 15
+    },
+    {
+      "id": "2023-weaponized-episode-21",
+      "name": "WEAPONIZED Episode #21 — The David Grusch Revelations",
+      "summary": "Jeremy Corbell and George Knapp recount their early contact with David Grusch, his decision to come forward publicly, his whistleblower complaint, and reported retaliation connected to his UAP disclosures.",
+      "date": "2023-06-12",
+      "dateDisplay": "June 12, 2023",
+      "episodeNumber": 21,
+      "episodeTitle": "The David Grusch Revelations",
+      "status": "Published",
+      "seriesId": "weaponized-podcast",
+      "externalUrl": "https://www.weaponizedpodcast.com/episodes-1/episode-number-21",
+      "guestIds": [],
+      "subjectIds": [
+        "david-grusch"
+      ],
+      "claimIds": [
+        "claim-whistleblower-retaliation",
+        "claim-secret-uap-programs",
+        "claim-crash-retrieval-program"
+      ],
+      "relationshipCount": 9
+    }
+  ]
+}

@@ -1,0 +1,155 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://greyalien.com/data/schema/podcast-episode-schema-v1.json",
+  "title": "GreyAlien Podcast Episode Schema",
+  "description": "Structured ingestion record for a podcast episode. Relationships remain the graph source of truth.",
+  "type": "object",
+  "required": [
+    "id",
+    "type",
+    "name",
+    "summary",
+    "date",
+    "seriesId",
+    "episodeNumber",
+    "relationships",
+    "sources"
+  ],
+  "properties": {
+    "id": {
+      "type": "string",
+      "pattern": "^[a-z0-9]+(?:-[a-z0-9]+)*$"
+    },
+    "type": {
+      "const": "podcast_episode"
+    },
+    "name": {
+      "type": "string",
+      "minLength": 1
+    },
+    "summary": {
+      "type": "string",
+      "minLength": 1
+    },
+    "date": {
+      "type": "string",
+      "format": "date"
+    },
+    "dateDisplay": {
+      "type": "string"
+    },
+    "seriesId": {
+      "type": "string",
+      "pattern": "^[a-z0-9]+(?:-[a-z0-9]+)*$"
+    },
+    "episodeNumber": {
+      "oneOf": [
+        {
+          "type": "integer",
+          "minimum": 1
+        },
+        {
+          "type": "string",
+          "minLength": 1
+        }
+      ]
+    },
+    "episodeTitle": {
+      "type": "string"
+    },
+    "runtime": {
+      "type": "string"
+    },
+    "status": {
+      "type": "string"
+    },
+    "mediaType": {
+      "const": "Podcast episode"
+    },
+    "mediaPlatform": {
+      "type": "string"
+    },
+    "mediaHost": {
+      "type": "string"
+    },
+    "mediaGuests": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      }
+    },
+    "mediaSubjects": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      }
+    },
+    "principalClaims": {
+      "type": "array",
+      "maxItems": 7,
+      "items": {
+        "type": "string",
+        "pattern": "^[a-z0-9]+(?:-[a-z0-9]+)*$"
+      }
+    },
+    "researchNotes": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      }
+    },
+    "relationships": {
+      "type": "array",
+      "minItems": 1,
+      "items": {
+        "$ref": "entity-schema-v2.json#/$defs/relationship"
+      }
+    },
+    "sources": {
+      "type": "array",
+      "minItems": 1,
+      "items": {
+        "type": "object",
+        "required": [
+          "label",
+          "url",
+          "sourceType"
+        ],
+        "properties": {
+          "label": {
+            "type": "string"
+          },
+          "url": {
+            "type": "string",
+            "format": "uri"
+          },
+          "sourceType": {
+            "enum": [
+              "official_episode_page",
+              "official_video",
+              "official_audio",
+              "transcript",
+              "supporting_document",
+              "secondary_source"
+            ]
+          },
+          "primary": {
+            "type": "boolean"
+          }
+        },
+        "additionalProperties": true
+      }
+    },
+    "externalUrl": {
+      "type": "string",
+      "format": "uri"
+    },
+    "externalLinkLabel": {
+      "type": "string"
+    },
+    "mediaLinks": {
+      "type": "array"
+    }
+  },
+  "additionalProperties": true
+}

@@ -1,6 +1,6 @@
 {
   "id": "2023-weaponized-episode-28",
-  "type": "interview",
+  "type": "podcast_episode",
   "name": "WEAPONIZED Episode #28 — Congressional Hearing Roundtable",
   "summary": "Jeremy Corbell and George Knapp are joined by Ross Coulthart and Bryce Zabel for a roundtable about the July 26, 2023 House UAP hearing, its three witnesses, how the hearing came together, and what might follow.",
   "relationships": [
@@ -112,5 +112,29 @@
       "url": "https://link.chtbl.com/Weaponized",
       "platform": "Official audio feed"
     }
+  ],
+  "seriesId": "weaponized-podcast",
+  "status": "Published",
+  "episodeNumber": 28,
+  "episodeTitle": "Congressional Hearing Roundtable",
+  "sources": [
+    {
+      "label": "Open the official Episode #28 page",
+      "url": "https://www.weaponizedpodcast.com/episodes-1/episode-number-28",
+      "sourceType": "official_episode_page",
+      "primary": true
+    },
+    {
+      "label": "Listen to WEAPONIZED",
+      "url": "https://link.chtbl.com/Weaponized",
+      "sourceType": "official_episode_page",
+      "primary": false
+    }
+  ],
+  "principalClaims": [
+    "claim-secret-uap-programs",
+    "claim-crash-retrieval-program",
+    "claim-navy-uap-aviation-safety",
+    "claim-nimitz-tic-tac-performance"
   ]
 }

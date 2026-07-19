@@ -1,6 +1,6 @@
 {
   "id": "weaponized-matthew-brown-part-3",
-  "type": "interview",
+  "type": "podcast_episode",
   "name": "WEAPONIZED Episode #76 — Matthew Brown Part 3: Immaculate Constellation",
   "summary": "In Part 3, Matthew Brown concludes his WEAPONIZED interview with Jeremy Corbell and George Knapp by discussing alleged UAP imagery found on classified systems, the management of public perception, excessive secrecy, congressional inquiry, and his call for additional insiders to come forward.",
   "relationships": [
@@ -103,5 +103,29 @@
       "url": "https://www.weaponizedpodcast.com/episodes-3/episode-76",
       "sourceType": "Official WEAPONIZED episode page"
     }
+  ],
+  "seriesId": "weaponized-podcast",
+  "status": "Published",
+  "episodeNumber": 76,
+  "episodeTitle": "Matthew Brown Part 3: Immaculate Constellation",
+  "sources": [
+    {
+      "label": "Watch Matthew Brown Part 3",
+      "url": "https://www.youtube.com/watch?v=PtBVAxoHeaY",
+      "sourceType": "official_video",
+      "primary": true
+    },
+    {
+      "label": "Read the official Episode #76 description",
+      "url": "https://www.weaponizedpodcast.com/episodes-3/episode-76",
+      "sourceType": "official_episode_page",
+      "primary": false
+    }
+  ],
+  "principalClaims": [
+    "claim-immaculate-constellation-visual-evidence",
+    "claim-uap-perception-management",
+    "claim-excessive-secrecy-stifles-inquiry",
+    "claim-additional-uap-insiders-should-come-forward"
   ]
 }

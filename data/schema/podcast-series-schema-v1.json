@@ -1,0 +1,49 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://greyalien.com/data/schema/podcast-series-schema-v1.json",
+  "title": "GreyAlien Podcast Series Schema",
+  "type": "object",
+  "required": [
+    "id",
+    "type",
+    "name",
+    "summary",
+    "podcastHosts",
+    "launchYear",
+    "relationships"
+  ],
+  "properties": {
+    "id": {
+      "type": "string"
+    },
+    "type": {
+      "const": "podcast_series"
+    },
+    "name": {
+      "type": "string"
+    },
+    "summary": {
+      "type": "string"
+    },
+    "podcastHosts": {
+      "type": "array",
+      "minItems": 1,
+      "items": {
+        "type": "string"
+      }
+    },
+    "launchYear": {
+      "type": "string"
+    },
+    "status": {
+      "type": "string"
+    },
+    "externalUrl": {
+      "type": "string"
+    },
+    "relationships": {
+      "type": "array"
+    }
+  },
+  "additionalProperties": true
+}

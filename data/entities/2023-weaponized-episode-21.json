@@ -1,6 +1,6 @@
 {
   "id": "2023-weaponized-episode-21",
-  "type": "interview",
+  "type": "podcast_episode",
   "name": "WEAPONIZED Episode #21 — The David Grusch Revelations",
   "summary": "Jeremy Corbell and George Knapp recount their early contact with David Grusch, his decision to come forward publicly, his whistleblower complaint, and reported retaliation connected to his UAP disclosures.",
   "relationships": [
@@ -74,5 +74,28 @@
     }
   ],
   "dateDisplay": "June 12, 2023",
-  "eventCategory": "Podcast publication"
+  "eventCategory": "Podcast publication",
+  "seriesId": "weaponized-podcast",
+  "status": "Published",
+  "episodeNumber": 21,
+  "episodeTitle": "The David Grusch Revelations",
+  "sources": [
+    {
+      "label": "Open the official Episode #21 page",
+      "url": "https://www.weaponizedpodcast.com/episodes-1/episode-number-21",
+      "sourceType": "official_episode_page",
+      "primary": true
+    },
+    {
+      "label": "Listen to WEAPONIZED",
+      "url": "https://link.chtbl.com/Weaponized",
+      "sourceType": "official_episode_page",
+      "primary": false
+    }
+  ],
+  "principalClaims": [
+    "claim-whistleblower-retaliation",
+    "claim-secret-uap-programs",
+    "claim-crash-retrieval-program"
+  ]
 }

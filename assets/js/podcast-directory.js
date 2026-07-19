@@ -17,9 +17,7 @@
       vocabResponse.json()
     ]);
 
-    if(!Array.isArray(data.podcasts)||data.podcasts.length!==8){
-      throw new Error(`Expected 8 podcast records; received ${data.podcasts?.length||0}`);
-    }
+    if(!Array.isArray(data.podcasts)){ throw new Error("Podcast index is invalid"); }
 
     const entities=await Promise.all(index.entities.map(async entry=>{
       const response=await fetch(`../data/entities/${entry.id}.json`);
@@ -43,7 +41,7 @@
       <div class="podcast-card-facts">
         <div><span>Hosts</span><strong>${esc((podcast.hosts||[]).join(", ")||"Not listed")}</strong></div>
         <div><span>Launch year</span><strong>${esc(podcast.launchYear||"Not listed")}</strong></div>
-        <div><span>Connected entities</span><strong>${connectionCounts[podcast.id]||0}</strong></div>
+        <div><span>Researched episodes</span><strong>${podcast.episodeCount||0}</strong></div><div><span>Connected entities</span><strong>${podcast.connectedEntityCount??connectionCounts[podcast.id]??0}</strong></div>
       </div>
       <p>${esc(podcast.summary)}</p>
       <div class="podcast-card-actions">
