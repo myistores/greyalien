@@ -1,0 +1,99 @@
+{
+  "id": "2024-weaponized-episode-53",
+  "type": "podcast_episode",
+  "name": "WEAPONIZED Episode #53 — Kona Blue, AARO, and Continuing UAP Incursions",
+  "summary": "Jeremy Corbell and George Knapp review the proposed Kona Blue program, dispute public characterizations of whistleblower testimony, and discuss continuing drone and UAP incursions over sensitive U.S. military airspace.",
+  "date": "2024-04-29",
+  "dateDisplay": "April 29, 2024",
+  "seriesId": "weaponized-podcast",
+  "episodeNumber": 53,
+  "episodeTitle": "Kona Blue, AARO, and Continuing UAP Incursions",
+  "status": "Published",
+  "mediaType": "Podcast episode",
+  "mediaPlatform": "WEAPONIZED",
+  "mediaHost": "Jeremy Corbell and George Knapp",
+  "mediaGuests": [],
+  "mediaSubjects": [
+    "Kona Blue",
+    "AARO",
+    "Whistleblower testimony",
+    "Military-airspace incursions"
+  ],
+  "principalClaims": [],
+  "researchNotes": [],
+  "relationships": [
+    {
+      "type": "episode_of",
+      "target": "weaponized-podcast"
+    },
+    {
+      "type": "features_person",
+      "target": "jeremy-corbell",
+      "role": "host",
+      "context": "WEAPONIZED co-host"
+    },
+    {
+      "type": "features_person",
+      "target": "george-knapp",
+      "role": "host",
+      "context": "WEAPONIZED co-host"
+    },
+    {
+      "type": "references_organization",
+      "target": "aaro",
+      "role": "reviewed_subject",
+      "context": "AARO statements and document release reviewed"
+    },
+    {
+      "type": "features_person",
+      "target": "sean-kirkpatrick",
+      "role": "referenced_subject",
+      "context": "Former AARO director discussed"
+    },
+    {
+      "type": "references_case",
+      "target": "kona-blue-program"
+    },
+    {
+      "type": "references_organization",
+      "target": "department-of-homeland-security"
+    },
+    {
+      "type": "discussed_topic",
+      "target": "government-transparency"
+    },
+    {
+      "type": "discussed_topic",
+      "target": "congressional-oversight"
+    }
+  ],
+  "sources": [
+    {
+      "label": "Official WEAPONIZED Episode #53 page",
+      "url": "https://www.weaponizedpodcast.com/episodes-2/episode-53",
+      "sourceType": "official_episode_page",
+      "primary": true
+    },
+    {
+      "label": "Listen to WEAPONIZED",
+      "url": "https://link.chtbl.com/Weaponized",
+      "sourceType": "official_audio_feed",
+      "primary": false
+    }
+  ],
+  "externalUrl": "https://www.weaponizedpodcast.com/episodes-2/episode-53",
+  "externalLinkLabel": "Open official Episode #53 page",
+  "mediaLinks": [
+    {
+      "label": "Open the official Episode #53 page",
+      "url": "https://www.weaponizedpodcast.com/episodes-2/episode-53",
+      "platform": "WEAPONIZED"
+    },
+    {
+      "label": "Listen to WEAPONIZED",
+      "url": "https://link.chtbl.com/Weaponized",
+      "platform": "Official audio feed"
+    }
+  ],
+  "eventCategory": "Podcast publication"
+}

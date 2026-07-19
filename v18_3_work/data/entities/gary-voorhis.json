@@ -1,0 +1,35 @@
+{
+  "id": "gary-voorhis",
+  "type": "person",
+  "name": "Gary Voorhis",
+  "summary": "Former U.S. Navy technician who has described radar and data-handling activity connected to the 2004 Nimitz events.",
+  "relationships": [
+    {
+      "type": "reported_case",
+      "target": "2004-nimitz-encounter"
+    },
+    {
+      "type": "affiliated_with",
+      "target": "uss-princeton",
+      "role": "Former fire-control technician"
+    },
+    {
+      "type": "affiliated_with",
+      "target": "united-states-navy",
+      "role": "Former sailor"
+    }
+  ],
+  "profileStatus": "Military radar and systems witness",
+  "profileSummary": "Former U.S. Navy technician who has described radar and data-handling activity connected to the 2004 Nimitz events.",
+  "background": "Former U.S. Navy fire-control technician aboard USS Princeton.",
+  "inclusionNote": "Included because his account links the Nimitz case to shipboard radar systems, data handling, and the broader witness network.",
+  "primarySourceLinks": [
+    {
+      "label": "Nimitz witness investigation",
+      "url": "https://www.popularmechanics.com/military/research/a63549222/navy-ufo-witnesses-nimitz-encounter/",
+      "sourceType": "Popular Mechanics"
+    }
+  ],
+  "profileBadge": "Firsthand Witness",
+  "profileBadgeClass": "badge-witness"
+}

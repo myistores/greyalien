@@ -1,0 +1,33 @@
+{
+  "id": "2025-weaponized-wiggins-interview",
+  "type": "interview",
+  "name": "Alexandro Wiggins on WEAPONIZED",
+  "summary": "Interview discussing Wiggins's account of a February 2023 USS Jackson UAP event.",
+  "relationships": [
+    {
+      "type": "published_by",
+      "target": "weaponized-podcast"
+    },
+    {
+      "type": "presented_claim",
+      "target": "claim-uss-jackson-transmedium-objects"
+    },
+    {
+      "type": "discussed_topic",
+      "target": "aviation-safety"
+    }
+  ],
+  "date": "2025-04-15",
+  "mediaLinks": [
+    {
+      "label": "Watch the full episode on YouTube",
+      "url": "https://www.youtube.com/watch?v=YKFmK-NSnKI",
+      "platform": "YouTube"
+    },
+    {
+      "label": "Open the official episode page",
+      "url": "https://www.weaponizedpodcast.com/episodes-3/episode-73",
+      "platform": "WEAPONIZED"
+    }
+  ]
+}

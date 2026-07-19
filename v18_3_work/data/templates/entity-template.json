@@ -1,0 +1,13 @@
+{
+  "id": "replace-with-stable-id",
+  "type": "topic",
+  "name": "Entity name",
+  "summary": "Neutral, concise description of the entity.",
+  "relationships": [
+    {
+      "type": "associated_topic",
+      "target": "existing-entity-id",
+      "context": "Why this connection matters"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "id": "daniel-sheehan",
+  "type": "person",
+  "name": "Daniel Sheehan",
+  "summary": "Constitutional attorney and New Paradigm Institute leader involved in UAP disclosure advocacy and legal support for witnesses and whistleblowers.",
+  "relationships": [
+    {
+      "type": "affiliated_with",
+      "target": "new-paradigm-institute",
+      "role": "Chief Counsel"
+    }
+  ],
+  "profileStatus": "Attorney and UAP disclosure advocate",
+  "profileSummary": "Constitutional attorney and New Paradigm Institute leader involved in UAP disclosure advocacy and legal support for witnesses and whistleblowers.",
+  "profileBadge": "Attorney",
+  "profileBadgeClass": "badge-attorney",
+  "background": "Harvard-trained constitutional and public-interest attorney.",
+  "inclusionNote": "Included because his legal work and advocacy connect whistleblowers, disclosure legislation, public-interest law, and the broader UAP transparency movement.",
+  "primarySourceLinks": [
+    {
+      "label": "Daniel Sheehan biography",
+      "url": "https://newparadigminstitute.org/danny-sheehan/",
+      "sourceType": "New Paradigm Institute"
+    },
+    {
+      "label": "New Paradigm Institute",
+      "url": "https://newparadigminstitute.org/about/",
+      "sourceType": "New Paradigm Institute"
+    }
+  ]
+}

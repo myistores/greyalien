@@ -1,0 +1,151 @@
+{
+  "schemaVersion": 1,
+  "id": "1966-04-05-house-ufo-hearing",
+  "entityType": "hearing",
+  "title": "Unidentified Flying Objects",
+  "shortTitle": "April 5, 1966 House UFO Hearing",
+  "date": "1966-04-05",
+  "time": "Not stated in catalog",
+  "location": "Washington, D.C.",
+  "congress": "89th Congress",
+  "chamber": "U.S. House of Representatives",
+  "committee": "Committee on Armed Services",
+  "subcommittee": "Full committee proceeding",
+  "summary": "A House Armed Services hearing addressing unidentified flying objects and the Air Force investigation program during the period of the Michigan sightings.",
+  "whyItMatters": "This proceeding provides a primary historical bridge between Project Blue Book-era congressional oversight and modern UAP hearings.",
+  "editorialNote": "The official transcript is the primary record. Historical summaries should distinguish congressional testimony from later interpretations.",
+  "themes": [
+    "Historical congressional oversight",
+    "Project Blue Book",
+    "Michigan sightings",
+    "Air Force investigation",
+    "Scientific study"
+  ],
+  "witnesses": [
+    {
+      "id": "harold-brown",
+      "name": "Harold Brown",
+      "roleAtHearing": "Secretary of the Air Force",
+      "background": "Senior U.S. Air Force official",
+      "claimStatus": "Witness testimony",
+      "testimonySummary": "Brown addressed the Air Force position and its investigation of reported unidentified flying objects.",
+      "keyPoints": [
+        "Air Force investigative policy",
+        "National-security assessment",
+        "Project Blue Book oversight"
+      ],
+      "documents": []
+    },
+    {
+      "id": "hector-quintanilla",
+      "name": "Major Hector Quintanilla",
+      "roleAtHearing": "Chief, Project Blue Book",
+      "background": "U.S. Air Force officer",
+      "claimStatus": "Witness testimony",
+      "testimonySummary": "Quintanilla discussed Project Blue Book and the handling of UFO reports.",
+      "keyPoints": [
+        "Project Blue Book procedures",
+        "Case investigation",
+        "Reporting and evaluation"
+      ],
+      "documents": []
+    },
+    {
+      "id": "j-allen-hynek",
+      "name": "J. Allen Hynek",
+      "roleAtHearing": "Scientific consultant to Project Blue Book",
+      "background": "Astronomer and scientific adviser",
+      "claimStatus": "Witness testimony",
+      "testimonySummary": "Hynek discussed the scientific evaluation of UFO reports and the need to examine unexplained cases carefully.",
+      "keyPoints": [
+        "Scientific review",
+        "Unexplained reports",
+        "Research standards"
+      ],
+      "documents": []
+    }
+  ],
+  "timeline": [
+    {
+      "date": "1966-04-05",
+      "label": "House Armed Services hearing held"
+    }
+  ],
+  "documents": [
+    {
+      "label": "Official GovInfo hearing record",
+      "url": "https://www.govinfo.gov/app/details/CHRG-89hhrg50066O",
+      "sourceType": "U.S. Government Publishing Office"
+    }
+  ],
+  "evidenceProfile": {
+    "level": "Documented congressional record",
+    "summary": "This record is based on public congressional or government material. Classified details may remain unavailable.",
+    "items": [
+      {
+        "label": "Public event or official reference",
+        "status": "available"
+      },
+      {
+        "label": "Public supporting documents",
+        "status": "available"
+      },
+      {
+        "label": "Complete classified record",
+        "status": "limited"
+      }
+    ]
+  },
+  "relationships": {
+    "people": [
+      "harold-brown",
+      "hector-quintanilla",
+      "j-allen-hynek"
+    ],
+    "organizations": [
+      "house-armed-services-committee",
+      "united-states-air-force",
+      "project-blue-book"
+    ],
+    "cases": [],
+    "topics": [
+      "historical-ufo-research",
+      "government-transparency",
+      "scientific-investigation"
+    ]
+  },
+  "catalogCategories": [
+    "Historical UFO-related congressional proceedings"
+  ],
+  "navigation": {
+    "previous": null,
+    "next": "1968-07-29-house-ufo-symposium"
+  },
+  "sharedConnections": {
+    "with": [
+      "1968-07-29-house-ufo-symposium",
+      "2022-05-03-house-intelligence-classified-uap-briefing",
+      "2022-05-17-house-intelligence-uap",
+      "2023-04-19-senate-aaro-oversight",
+      "2023-07-13-uap-disclosure-act-consideration",
+      "2023-07-26-house-oversight-uap",
+      "2023-congressional-classified-aaro-briefings",
+      "2024-01-12-house-uap-scif-briefing",
+      "2024-11-13-house-oversight-uap",
+      "2024-11-19-senate-aaro-update",
+      "2024-12-06-house-classified-aaro-briefing",
+      "2024-12-18-fy2025-ndaa-uap-provisions"
+    ],
+    "topics": [
+      "scientific-investigation",
+      "historical-ufo-research",
+      "government-transparency"
+    ],
+    "organizations": [
+      "house-armed-services-committee",
+      "project-blue-book",
+      "united-states-air-force"
+    ]
+  },
+  "lastReviewed": "2026-07-10"
+}

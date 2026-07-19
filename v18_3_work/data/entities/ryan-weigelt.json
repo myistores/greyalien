@@ -1,0 +1,30 @@
+{
+  "id": "ryan-weigelt",
+  "type": "person",
+  "name": "Ryan Weigelt",
+  "summary": "Former U.S. Navy helicopter crew member connected to post-event activity during the 2004 Nimitz encounter.",
+  "relationships": [
+    {
+      "type": "reported_case",
+      "target": "2004-nimitz-encounter"
+    },
+    {
+      "type": "affiliated_with",
+      "target": "united-states-navy",
+      "role": "Former helicopter crew member"
+    }
+  ],
+  "profileStatus": "Navy helicopter crew witness",
+  "profileSummary": "Former U.S. Navy helicopter crew member connected to post-event activity during the 2004 Nimitz encounter.",
+  "background": "Former U.S. Navy helicopter crew member.",
+  "inclusionNote": "Included because of his named public account concerning post-event activity associated with the Nimitz case.",
+  "primarySourceLinks": [
+    {
+      "label": "Nimitz witness investigation",
+      "url": "https://www.popularmechanics.com/military/research/a63549222/navy-ufo-witnesses-nimitz-encounter/",
+      "sourceType": "Popular Mechanics"
+    }
+  ],
+  "profileBadge": "Firsthand Witness",
+  "profileBadgeClass": "badge-witness"
+}

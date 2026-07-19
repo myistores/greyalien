@@ -1,0 +1,50 @@
+{
+  "id": "george-knapp",
+  "type": "person",
+  "name": "George Knapp",
+  "summary": "Investigative journalist",
+  "relationships": [
+    {
+      "type": "testified_at",
+      "target": "2025-09-09-house-uap-transparency-hearing",
+      "role": "Witness or participant",
+      "date": "2025-09-09"
+    },
+    {
+      "type": "appeared_in",
+      "target": "1989-bob-lazar-george-knapp-interview",
+      "role": "Interviewer"
+    },
+    {
+      "type": "appeared_in",
+      "target": "2025-weaponized-wiggins-interview",
+      "role": "Co-host"
+    },
+    {
+      "type": "affiliated_with",
+      "target": "weaponized-podcast",
+      "role": "Co-host"
+    },
+    {
+      "type": "timeline_connection",
+      "target": "timeline-2023-01-23-weaponized-launch",
+      "role": "host",
+      "context": "Co-founded and co-hosted WEAPONIZED",
+      "timeline": true
+    },
+    {
+      "type": "timeline_connection",
+      "target": "timeline-2024-01-08-jellyfish-uap-reporting",
+      "role": "investigator",
+      "context": "Co-published the Jellyfish UAP reporting",
+      "timeline": true
+    },
+    {
+      "type": "appeared_in",
+      "target": "2026-weaponized-episode-115",
+      "role": "host",
+      "context": "Co-hosted the Bob Lazar and S4 documentary discussion",
+      "timeline": true
+    }
+  ]
+}

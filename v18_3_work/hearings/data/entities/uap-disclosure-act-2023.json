@@ -1,0 +1,21 @@
+{
+  "id": "uap-disclosure-act-2023",
+  "type": "legislation",
+  "name": "UAP Disclosure Act of 2023",
+  "summary": "Proposed legislation addressing government UAP records and disclosure processes",
+  "relationships": [
+    {
+      "type": "applies_to",
+      "target": "department-of-defense"
+    },
+    {
+      "type": "addresses_topic",
+      "target": "government-transparency"
+    },
+    {
+      "type": "addresses_topic",
+      "target": "classification"
+    }
+  ],
+  "date": "2023-07-13"
+}

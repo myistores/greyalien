@@ -1,0 +1,197 @@
+{
+  "schemaVersion": 1,
+  "id": "2025-09-09-house-uap-transparency-hearing",
+  "entityType": "hearing",
+  "title": "Restoring Public Trust Through UAP Transparency and Whistleblower Protection",
+  "shortTitle": "September 9, 2025 House UAP Hearing",
+  "date": "2025-09-09",
+  "time": "10:00 a.m. ET",
+  "location": "HVC-210, U.S. Capitol Visitor Center",
+  "congress": "119th Congress",
+  "chamber": "U.S. House of Representatives",
+  "committee": "Committee on Oversight and Government Reform",
+  "subcommittee": "Task Force on the Declassification of Federal Secrets",
+  "summary": "A public hearing examining UAP disclosure, AARO and intelligence-community transparency, witness accounts, and protections for national-security whistleblowers.",
+  "whyItMatters": "This hearing expands the modern record with new military witnesses, investigative journalism, and a detailed focus on whistleblower protections.",
+  "editorialNote": "The official committee hearing page and witness statements are primary sources. Witness accounts and allegations should be evaluated individually.",
+  "themes": [
+    "Government transparency",
+    "Whistleblower protection",
+    "AARO oversight",
+    "Military witness accounts",
+    "Declassification",
+    "Public trust"
+  ],
+  "witnesses": [
+    {
+      "id": "jeffrey-nuccetelli",
+      "name": "Jeffrey Nuccetelli",
+      "roleAtHearing": "U.S. Air Force veteran",
+      "background": "Military veteran and UAP witness",
+      "claimStatus": "Witness testimony",
+      "testimonySummary": "Nuccetelli provided testimony concerning reported UAP events and the handling of witness information.",
+      "keyPoints": [
+        "Military witness account",
+        "Reporting process",
+        "Transparency"
+      ],
+      "documents": []
+    },
+    {
+      "id": "alexandro-wiggins",
+      "name": "Alexandro Wiggins",
+      "roleAtHearing": "UAP witness and U.S. Navy Senior Chief Petty Officer",
+      "background": "Active-duty U.S. Navy operations specialist",
+      "claimStatus": "Witness testimony",
+      "testimonySummary": "Wiggins described a February 2023 transmedium UAP event observed aboard USS Jackson and associated sensor evidence.",
+      "keyPoints": [
+        "Transmedium observation",
+        "Naval sensors",
+        "Military witness testimony"
+      ],
+      "documents": []
+    },
+    {
+      "id": "george-knapp",
+      "name": "George Knapp",
+      "roleAtHearing": "UAP journalist",
+      "background": "Investigative journalist",
+      "claimStatus": "Witness testimony",
+      "testimonySummary": "Knapp discussed the documentary record, government secrecy, and decades of reporting on UFO and UAP issues.",
+      "keyPoints": [
+        "Government documents",
+        "Investigative journalism",
+        "Transparency"
+      ],
+      "documents": []
+    },
+    {
+      "id": "dylan-borland",
+      "name": "Dylan Borland",
+      "roleAtHearing": "UAP witness and U.S. Air Force veteran",
+      "background": "Former Air Force service member",
+      "claimStatus": "Witness testimony",
+      "testimonySummary": "Borland provided whistleblower-related testimony and discussed alleged experiences and retaliation concerns.",
+      "keyPoints": [
+        "Whistleblower protection",
+        "Witness testimony",
+        "Retaliation concerns"
+      ],
+      "documents": []
+    },
+    {
+      "id": "joe-spielberger",
+      "name": "Joe Spielberger",
+      "roleAtHearing": "Senior Policy Counsel, Project On Government Oversight",
+      "background": "Whistleblower-policy specialist",
+      "claimStatus": "Witness testimony",
+      "testimonySummary": "Spielberger addressed gaps in national-security whistleblower protections and the need for stronger safeguards.",
+      "keyPoints": [
+        "Whistleblower law",
+        "Government accountability",
+        "Retaliation protections"
+      ],
+      "documents": []
+    }
+  ],
+  "timeline": [
+    {
+      "date": "2025-09-03",
+      "label": "Hearing announced"
+    },
+    {
+      "date": "2025-09-09",
+      "label": "Public hearing held at 10:00 a.m."
+    }
+  ],
+  "documents": [
+    {
+      "label": "Official hearing page",
+      "url": "https://oversight.house.gov/hearing/restoring-public-trust-through-uap-transparency-and-whistleblower-protection/",
+      "sourceType": "House Committee on Oversight and Government Reform"
+    },
+    {
+      "label": "Hearing announcement",
+      "url": "https://oversight.house.gov/release/luna-announces-hearing-on-transparency-relating-to-unidentified-anomalous-phenomena/",
+      "sourceType": "House Committee on Oversight and Government Reform"
+    }
+  ],
+  "evidenceProfile": {
+    "level": "Documented congressional record",
+    "summary": "This record is based on public congressional or government material. Classified details may remain unavailable.",
+    "items": [
+      {
+        "label": "Public event or official reference",
+        "status": "available"
+      },
+      {
+        "label": "Public supporting documents",
+        "status": "available"
+      },
+      {
+        "label": "Complete classified record",
+        "status": "limited"
+      }
+    ]
+  },
+  "relationships": {
+    "people": [
+      "jeffrey-nuccetelli",
+      "alexandro-wiggins",
+      "george-knapp",
+      "dylan-borland",
+      "joe-spielberger"
+    ],
+    "organizations": [
+      "house-oversight-committee",
+      "aaro",
+      "department-of-defense",
+      "united-states-navy",
+      "project-on-government-oversight"
+    ],
+    "cases": [],
+    "topics": [
+      "government-transparency",
+      "whistleblower-protection",
+      "classification",
+      "aviation-safety"
+    ]
+  },
+  "catalogCategories": [
+    "Dedicated public UAP hearings"
+  ],
+  "navigation": {
+    "previous": "2024-12-18-fy2025-ndaa-uap-provisions",
+    "next": "2025-12-18-fy2026-ndaa-uap-provisions"
+  },
+  "sharedConnections": {
+    "with": [
+      "1966-04-05-house-ufo-hearing",
+      "2022-05-03-house-intelligence-classified-uap-briefing",
+      "2022-05-17-house-intelligence-uap",
+      "2023-04-19-senate-aaro-oversight",
+      "2023-07-13-uap-disclosure-act-consideration",
+      "2023-07-26-house-oversight-uap",
+      "2023-congressional-classified-aaro-briefings",
+      "2024-01-12-house-uap-scif-briefing",
+      "2024-11-13-house-oversight-uap",
+      "2024-11-19-senate-aaro-update",
+      "2024-12-06-house-classified-aaro-briefing",
+      "2024-12-18-fy2025-ndaa-uap-provisions"
+    ],
+    "topics": [
+      "classification",
+      "aviation-safety",
+      "whistleblower-protection",
+      "government-transparency"
+    ],
+    "organizations": [
+      "house-oversight-committee",
+      "project-on-government-oversight",
+      "aaro",
+      "united-states-navy",
+      "department-of-defense"
+    ]
+  },
+  "lastReviewed": "2026-07-10"
+}

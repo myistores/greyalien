@@ -1,0 +1,30 @@
+{
+  "id": "2023-nasa-uap-independent-study-report",
+  "type": "document",
+  "name": "NASA UAP Independent Study Team Report",
+  "summary": "Final report of NASA's UAP Independent Study Team, released in September 2023.",
+  "relationships": [
+    {
+      "type": "published_by",
+      "target": "nasa"
+    },
+    {
+      "type": "references_organization",
+      "target": "nasa-uap-independent-study-team"
+    },
+    {
+      "type": "references_topic",
+      "target": "scientific-investigation"
+    },
+    {
+      "type": "references_topic",
+      "target": "aviation-safety"
+    },
+    {
+      "type": "references_topic",
+      "target": "uap-reporting-systems"
+    }
+  ],
+  "status": "Official NASA report",
+  "externalUrl": "https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf"
+}

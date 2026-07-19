@@ -1,0 +1,42 @@
+{
+  "id": "timeline-2021-07-galileo-project-founded",
+  "type": "timeline_event",
+  "name": "Avi Loeb Co-Founds the Galileo Project for Systematic UAP Research",
+  "summary": "Avi Loeb and Frank Laukien founded the Harvard-hosted Galileo Project to move research on UAP and possible extraterrestrial technological artifacts toward transparent, validated, instrument-based scientific study.",
+  "date": "2021-07-01",
+  "dateDisplay": "July 2021",
+  "eventCategory": "Scientific UAP initiative",
+  "relationships": [
+    {
+      "type": "timeline_connection",
+      "target": "avi-loeb",
+      "role": "co_founder",
+      "context": "Co-founded and leads the Galileo Project"
+    },
+    {
+      "type": "timeline_connection",
+      "target": "galileo-project",
+      "role": "related_organization",
+      "context": "Research project founded in July 2021"
+    },
+    {
+      "type": "timeline_connection",
+      "target": "scientific-investigation",
+      "role": "related_topic",
+      "context": "Systematic instrument-based UAP research"
+    },
+    {
+      "type": "timeline_connection",
+      "target": "uap-reporting-systems",
+      "role": "related_topic",
+      "context": "Development of observational systems and data collection"
+    }
+  ],
+  "primarySourceLinks": [
+    {
+      "label": "Galileo Project organization overview",
+      "url": "https://galileo.hsites.harvard.edu/organization",
+      "sourceType": "The Galileo Project, Harvard University"
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "id": "warren-randolph",
+  "type": "person",
+  "name": "Warren Randolph",
+  "summary": "Federal Aviation Administration specialist who served on NASA's UAP Independent Study Team.",
+  "relationships": [
+    {
+      "type": "affiliated_with",
+      "target": "nasa-uap-independent-study-team",
+      "role": "Study-team member"
+    },
+    {
+      "type": "affiliated_with",
+      "target": "federal-aviation-administration",
+      "role": "Aviation-safety specialist"
+    },
+    {
+      "type": "authored",
+      "target": "2023-nasa-uap-independent-study-report"
+    }
+  ],
+  "profileStatus": "FAA aviation-safety specialist and NASA study-team member",
+  "profileSummary": "Federal Aviation Administration specialist who served on NASA's UAP Independent Study Team.",
+  "background": "FAA aviation-safety and accident-investigation specialist.",
+  "inclusionNote": "Included because NASA appointed him to contribute civil-aviation safety, reporting, and investigative expertise.",
+  "primarySourceLinks": [
+    {
+      "label": "NASA announces UAP study-team members",
+      "url": "https://www.nasa.gov/general/nasa-announces-unidentified-aerial-phenomena-study-team-members/",
+      "sourceType": "NASA"
+    }
+  ],
+  "profileBadge": "Scientist / Researcher",
+  "profileBadgeClass": "badge-scientist"
+}

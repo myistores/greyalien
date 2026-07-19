@@ -1,0 +1,254 @@
+{
+  "schemaVersion": "1.0",
+  "description": "Maps dated media/document records to canonical timeline-event records for display normalization.",
+  "aliases": {
+    "2018-bob-lazar-area-51-flying-saucers": "timeline-2018-12-04-bob-lazar-documentary-release",
+    "2026-s4-bob-lazar-story": "timeline-2026-04-03-s4-bob-lazar-story-release",
+    "2026-weaponized-episode-115": "timeline-2026-04-14-weaponized-episode-115"
+  },
+  "canonicalEvents": {
+    "2023-05-31-nasa-uap-public-meeting": {
+      "id": "2023-05-31-nasa-uap-public-meeting",
+      "date": "2023-05-31",
+      "eventCategory": "Government scientific review",
+      "name": "NASA UAP Independent Study Public Meeting",
+      "aliases": []
+    },
+    "2023-06-01-asa-launch": {
+      "id": "2023-06-01-asa-launch",
+      "date": "2023-06-01",
+      "eventCategory": "Organization launch",
+      "name": "Americans for Safe Aerospace Launches as a 501(c)(3)",
+      "aliases": []
+    },
+    "event-2023-house-hearing-held": {
+      "id": "event-2023-house-hearing-held",
+      "date": "2023-07-26",
+      "eventCategory": "",
+      "name": "July 2023 UAP Hearing Held",
+      "aliases": []
+    },
+    "event-2026-03-31-house-requests-uap-videos": {
+      "id": "event-2026-03-31-house-requests-uap-videos",
+      "date": "2026-03-31",
+      "eventCategory": "",
+      "name": "House Oversight Requests 46 Military UAP Videos",
+      "aliases": []
+    },
+    "timeline-1982-bob-lazar-los-alamos-jet-car": {
+      "id": "timeline-1982-bob-lazar-los-alamos-jet-car",
+      "date": "1982-06-27",
+      "eventCategory": "Public record",
+      "name": "Los Alamos Monitor Profiles Bob Lazar’s Jet Car",
+      "aliases": []
+    },
+    "timeline-1988-1989-bob-lazar-alleged-s4-work": {
+      "id": "timeline-1988-1989-bob-lazar-alleged-s4-work",
+      "date": "1988-12-01",
+      "eventCategory": "Attributed employment claim",
+      "name": "Bob Lazar’s Alleged S4 Work Period",
+      "aliases": []
+    },
+    "timeline-1989-05-15-bob-lazar-dennis-interview": {
+      "id": "timeline-1989-05-15-bob-lazar-dennis-interview",
+      "date": "1989-05-15",
+      "eventCategory": "Television disclosure",
+      "name": "Bob Lazar Appears Anonymously as “Dennis” on KLAS-TV",
+      "aliases": []
+    },
+    "timeline-1989-11-13-bob-lazar-public-klas-interview": {
+      "id": "timeline-1989-11-13-bob-lazar-public-klas-interview",
+      "date": "1989-11-13",
+      "eventCategory": "Television disclosure",
+      "name": "Bob Lazar Publicly Identifies Himself in KLAS-TV Interview",
+      "aliases": []
+    },
+    "timeline-1995-nids-science-advisory-board": {
+      "id": "timeline-1995-nids-science-advisory-board",
+      "date": "1995-01-01",
+      "eventCategory": "Private UAP research program",
+      "name": "NIDS Forms a Scientific Advisory Board for Anomalous-Phenomena Research",
+      "aliases": []
+    },
+    "timeline-2008-2010-aawsap-puthoff-davis-research": {
+      "id": "timeline-2008-2010-aawsap-puthoff-davis-research",
+      "date": "2008-01-01",
+      "eventCategory": "Government UAP research program",
+      "name": "Puthoff and Davis Contribute Technical Research to AAWSAP",
+      "aliases": []
+    },
+    "timeline-2010-2011-eric-hecker-south-pole-assignment": {
+      "id": "timeline-2010-2011-eric-hecker-south-pole-assignment",
+      "date": "2010-11-01",
+      "eventCategory": "Background to public UAP-related claims",
+      "name": "Eric Hecker Works at the Amundsen–Scott South Pole Station",
+      "aliases": []
+    },
+    "timeline-2017-10-christopher-mellon-ttsa": {
+      "id": "timeline-2017-10-christopher-mellon-ttsa",
+      "date": "2017-10-11",
+      "eventCategory": "Organization launch",
+      "name": "To The Stars Academy Launches with a UAP Science and Government Team",
+      "aliases": []
+    },
+    "timeline-2017-10-luis-elizondo-resigns-uap-disclosure": {
+      "id": "timeline-2017-10-luis-elizondo-resigns-uap-disclosure",
+      "date": "2017-10-01",
+      "eventCategory": "Public UAP disclosure",
+      "name": "Luis Elizondo Leaves the Pentagon and Begins Public UAP Advocacy",
+      "aliases": []
+    },
+    "timeline-2018-03-22-nolan-atacama-genomic-study": {
+      "id": "timeline-2018-03-22-nolan-atacama-genomic-study",
+      "date": "2018-03-22",
+      "eventCategory": "Scientific investigation",
+      "name": "Garry Nolan’s Genomic Study Resolves the Atacama Specimen",
+      "aliases": []
+    },
+    "timeline-2018-12-04-bob-lazar-documentary-release": {
+      "id": "timeline-2018-12-04-bob-lazar-documentary-release",
+      "date": "2018-12-04",
+      "eventCategory": "Documentary release",
+      "name": "Bob Lazar: Area 51 & Flying Saucers Released",
+      "aliases": [
+        "2018-bob-lazar-area-51-flying-saucers"
+      ]
+    },
+    "timeline-2019-2022-david-grusch-uap-assignments": {
+      "id": "timeline-2019-2022-david-grusch-uap-assignments",
+      "date": "2019-01-01",
+      "eventCategory": "Government assignment",
+      "name": "David Grusch Serves in UAP-Related Intelligence Assignments",
+      "aliases": []
+    },
+    "timeline-2021-06-25-mellon-uap-assessment": {
+      "id": "timeline-2021-06-25-mellon-uap-assessment",
+      "date": "2021-06-25",
+      "eventCategory": "Congressional oversight",
+      "name": "Congress Receives the Preliminary UAP Assessment After Oversight Advocacy",
+      "aliases": []
+    },
+    "timeline-2021-07-david-grusch-dod-ig-disclosure": {
+      "id": "timeline-2021-07-david-grusch-dod-ig-disclosure",
+      "date": "2021-07-01",
+      "eventCategory": "Protected disclosure",
+      "name": "David Grusch Provides UAP Information to the DoD Inspector General",
+      "aliases": []
+    },
+    "timeline-2021-07-galileo-project-founded": {
+      "id": "timeline-2021-07-galileo-project-founded",
+      "date": "2021-07-01",
+      "eventCategory": "Scientific UAP initiative",
+      "name": "Avi Loeb Co-Founds the Galileo Project for Systematic UAP Research",
+      "aliases": []
+    },
+    "timeline-2021-10-30-elizondo-galileo-affiliate": {
+      "id": "timeline-2021-10-30-elizondo-galileo-affiliate",
+      "date": "2021-10-30",
+      "eventCategory": "Scientific UAP collaboration",
+      "name": "The Galileo Project Names Luis Elizondo a Research Affiliate",
+      "aliases": []
+    },
+    "timeline-2021-2022-karl-nell-uaptf-support": {
+      "id": "timeline-2021-2022-karl-nell-uaptf-support",
+      "date": "2021-01-01",
+      "eventCategory": "Government UAP policy",
+      "name": "Karl Nell Supports the UAP Task Force and Congressional UAP Legislation",
+      "aliases": []
+    },
+    "timeline-2022-05-25-david-grusch-ppd19-complaint": {
+      "id": "timeline-2022-05-25-david-grusch-ppd19-complaint",
+      "date": "2022-05-25",
+      "eventCategory": "Whistleblower filing",
+      "name": "David Grusch Files a PPD-19 Whistleblower Complaint",
+      "aliases": []
+    },
+    "timeline-2022-07-20-kirkpatrick-named-aaro-director": {
+      "id": "timeline-2022-07-20-kirkpatrick-named-aaro-director",
+      "date": "2022-07-20",
+      "eventCategory": "Government appointment",
+      "name": "Sean Kirkpatrick Is Named the First Director of AARO",
+      "aliases": []
+    },
+    "timeline-2023-01-23-weaponized-launch": {
+      "id": "timeline-2023-01-23-weaponized-launch",
+      "date": "2023-01-23",
+      "eventCategory": "Podcast launch",
+      "name": "WEAPONIZED Launches with Jeremy Corbell and George Knapp",
+      "aliases": []
+    },
+    "timeline-2023-06-12-disclosure-project-national-press-club": {
+      "id": "timeline-2023-06-12-disclosure-project-national-press-club",
+      "date": "2023-06-12",
+      "eventCategory": "Public UAP testimony",
+      "name": "Disclosure Project Presents New Witness Testimony at the National Press Club",
+      "aliases": []
+    },
+    "timeline-2023-06-14-avi-loeb-im1-expedition": {
+      "id": "timeline-2023-06-14-avi-loeb-im1-expedition",
+      "date": "2023-06-14",
+      "eventCategory": "Interstellar-object expedition",
+      "name": "Avi Loeb Leads the IM1 Interstellar Meteor Recovery Expedition",
+      "aliases": []
+    },
+    "timeline-2023-10-31-aaro-secure-reporting-mechanism": {
+      "id": "timeline-2023-10-31-aaro-secure-reporting-mechanism",
+      "date": "2023-10-31",
+      "eventCategory": "Government reporting system",
+      "name": "AARO Launches a Secure UAP Reporting Mechanism",
+      "aliases": []
+    },
+    "timeline-2023-11-17-sol-inaugural-symposium": {
+      "id": "timeline-2023-11-17-sol-inaugural-symposium",
+      "date": "2023-11-17",
+      "eventCategory": "UAP research symposium",
+      "name": "The Sol Foundation Holds Its Inaugural UAP Research and Policy Symposium",
+      "aliases": []
+    },
+    "timeline-2024-01-08-jellyfish-uap-reporting": {
+      "id": "timeline-2024-01-08-jellyfish-uap-reporting",
+      "date": "2024-01-08",
+      "eventCategory": "Investigative reporting",
+      "name": "Corbell and Knapp Publish the Jellyfish UAP Footage",
+      "aliases": []
+    },
+    "timeline-2024-05-21-karl-nell-salt-uap-presentation": {
+      "id": "timeline-2024-05-21-karl-nell-salt-uap-presentation",
+      "date": "2024-05-21",
+      "eventCategory": "Public UAP presentation",
+      "name": "Karl Nell Presents a Controlled UAP Disclosure Framework at SALT",
+      "aliases": []
+    },
+    "timeline-2024-11-22-sol-symposium": {
+      "id": "timeline-2024-11-22-sol-symposium",
+      "date": "2024-11-22",
+      "eventCategory": "UAP research symposium",
+      "name": "The Sol Foundation Holds Its Second Annual UAP Symposium",
+      "aliases": []
+    },
+    "timeline-2026-04-03-s4-bob-lazar-story-release": {
+      "id": "timeline-2026-04-03-s4-bob-lazar-story-release",
+      "date": "2026-04-03",
+      "eventCategory": "Documentary release",
+      "name": "S4: The Bob Lazar Story Released Digitally",
+      "aliases": [
+        "2026-s4-bob-lazar-story"
+      ]
+    },
+    "timeline-2026-04-14-weaponized-episode-115": {
+      "id": "timeline-2026-04-14-weaponized-episode-115",
+      "date": "2026-04-14",
+      "eventCategory": "Podcast publication",
+      "name": "WEAPONIZED Episode #115 Revisits the Bob Lazar Story",
+      "aliases": [
+        "2026-weaponized-episode-115"
+      ]
+    }
+  },
+  "conflicts": [],
+  "statistics": {
+    "canonicalEventCount": 33,
+    "aliasCount": 3,
+    "conflictCount": 0
+  }
+}

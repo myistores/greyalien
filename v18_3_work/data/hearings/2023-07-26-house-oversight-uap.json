@@ -1,0 +1,228 @@
+{
+  "schemaVersion": 1,
+  "id": "2023-07-26-house-oversight-uap",
+  "entityType": "hearing",
+  "title": "Unidentified Anomalous Phenomena: Implications on National Security, Public Safety, and Government Transparency",
+  "shortTitle": "July 26, 2023 House UAP Hearing",
+  "date": "2023-07-26",
+  "time": "10:00 a.m. ET",
+  "location": "2154 Rayburn House Office Building, Washington, D.C.",
+  "congress": "118th Congress",
+  "chamber": "U.S. House of Representatives",
+  "committee": "Committee on Oversight and Accountability",
+  "subcommittee": "Subcommittee on National Security, the Border, and Foreign Affairs",
+  "summary": "A public House hearing examining military and commercial aviation encounters with unidentified anomalous phenomena, federal handling and classification of UAP information, whistleblower protections, public safety, national security, and congressional oversight.",
+  "editorialNote": "GreyAlien distinguishes established hearing facts from allegations and witness claims. Inclusion here does not mean every claim has been independently verified.",
+  "themes": [
+    "Aviation safety",
+    "National security",
+    "Government transparency",
+    "Overclassification",
+    "Whistleblower protection",
+    "Congressional oversight",
+    "UAP reporting systems",
+    "Alleged crash-retrieval and reverse-engineering programs"
+  ],
+  "witnesses": [
+    {
+      "id": "ryan-graves",
+      "name": "Ryan Graves",
+      "roleAtHearing": "Executive Director, Americans for Safe Aerospace",
+      "background": "Former U.S. Navy F/A-18 pilot",
+      "claimStatus": "Witness testimony",
+      "testimonySummary": "Graves focused on recurring military and commercial pilot reports, aviation-safety risks, stigma, reporting gaps, classification, and the need for an empowered and transparent investigative process.",
+      "keyPoints": [
+        "He testified that military and commercial aircrews report UAP encounters with regularity.",
+        "He described stigma and professional consequences as barriers to reporting.",
+        "He called for accurate reporting, independent investigation, and greater public transparency."
+      ],
+      "documents": [
+        {
+          "label": "Written witness statement",
+          "url": "https://docs.house.gov/meetings/GO/GO06/20230726/116282/HHRG-118-GO06-Wstate-GravesR-20230726.pdf",
+          "sourceType": "Official House document"
+        }
+      ]
+    },
+    {
+      "id": "david-fravor",
+      "name": "Commander David Fravor (Ret.)",
+      "roleAtHearing": "Former Commanding Officer, United States Navy",
+      "background": "Retired U.S. Navy aviator and former commanding officer of Strike Fighter Squadron 41",
+      "claimStatus": "Firsthand witness testimony and opinion",
+      "testimonySummary": "Fravor described the November 2004 USS Nimitz 'Tic Tac' encounter and argued that reported government programs involving anomalous craft or technology should be subject to congressional oversight.",
+      "keyPoints": [
+        "He recounted a 2004 visual encounter involving Navy aircrews and radar tracking.",
+        "He described the object's apparent performance as beyond the aircraft available to him at the time.",
+        "He emphasized oversight and accountability for any government program involving such technology."
+      ],
+      "documents": [
+        {
+          "label": "Written witness statement",
+          "url": "https://docs.house.gov/meetings/GO/GO06/20230726/116282/HHRG-118-GO06-Wstate-FravorD-20230726.pdf",
+          "sourceType": "Official House document"
+        }
+      ]
+    },
+    {
+      "id": "david-grusch",
+      "name": "David Grusch",
+      "roleAtHearing": "Former National Reconnaissance Office Representative, UAP Task Force, Department of Defense",
+      "background": "Former U.S. Air Force intelligence officer and former National Geospatial-Intelligence Agency employee",
+      "claimStatus": "Allegations presented under oath; not independently established by this page",
+      "testimonySummary": "Grusch testified about information he said was provided by current and former officials concerning alleged long-running crash-retrieval and reverse-engineering activities, access restrictions, retaliation, and lack of congressional oversight.",
+      "keyPoints": [
+        "He said his public statements were based largely on information supplied by other individuals rather than personal observation of recovered craft.",
+        "He alleged that relevant programs had operated without proper congressional oversight.",
+        "He said he had submitted information through inspector-general and whistleblower channels."
+      ],
+      "documents": [
+        {
+          "label": "Written witness statement",
+          "url": "https://docs.house.gov/meetings/GO/GO06/20230726/116282/HHRG-118-GO06-Wstate-GruschD-20230726.pdf",
+          "sourceType": "Official House document"
+        }
+      ]
+    }
+  ],
+  "timeline": [
+    {
+      "date": "2023-07-19",
+      "label": "Hearing first published in the House Committee Repository"
+    },
+    {
+      "date": "2023-07-20",
+      "label": "Committee announced the hearing and its purpose"
+    },
+    {
+      "date": "2023-07-26",
+      "label": "Public hearing held at 10:00 a.m. in 2154 Rayburn"
+    },
+    {
+      "date": "2023-09-08",
+      "label": "Official transcript added to the House Committee Repository"
+    }
+  ],
+  "documents": [
+    {
+      "label": "Official hearing page",
+      "url": "https://oversight.house.gov/hearing/unidentified-anomalous-phenomena-implications-on-national-security-public-safety-and-government-transparency/",
+      "sourceType": "House Committee on Oversight and Accountability"
+    },
+    {
+      "label": "House Committee Repository event page",
+      "url": "https://docs.house.gov/Committee/Calendar/ByEvent.aspx?EventID=116282",
+      "sourceType": "U.S. House of Representatives"
+    },
+    {
+      "label": "Official hearing transcript",
+      "url": "https://docs.house.gov/meetings/GO/GO06/20230726/116282/HHRG-118-GO06-Transcript-20230726.pdf",
+      "sourceType": "U.S. House of Representatives"
+    },
+    {
+      "label": "Committee memorandum",
+      "url": "https://docs.house.gov/meetings/GO/GO06/20230726/116282/HHRG-118-GO06-20230726-SD002.pdf",
+      "sourceType": "U.S. House of Representatives"
+    },
+    {
+      "label": "Hearing announcement",
+      "url": "https://oversight.house.gov/release/national-security-subcommittee-to-hold-hearing-on-unidentified-anomalous-phenomena%EF%BF%BC/",
+      "sourceType": "House Committee press release"
+    }
+  ],
+  "relationships": {
+    "people": [
+      "ryan-graves",
+      "david-fravor",
+      "david-grusch"
+    ],
+    "organizations": [
+      "house-committee-oversight-accountability",
+      "subcommittee-national-security-border-foreign-affairs",
+      "americans-for-safe-aerospace",
+      "united-states-navy",
+      "department-of-defense",
+      "national-reconnaissance-office",
+      "uap-task-force",
+      "aaro"
+    ],
+    "cases": [
+      "2004-nimitz-tic-tac",
+      "2014-2015-east-coast-navy-encounters"
+    ],
+    "topics": [
+      "aviation-safety",
+      "government-transparency",
+      "whistleblower-protection",
+      "classification",
+      "crash-retrieval-claims",
+      "reverse-engineering-claims"
+    ]
+  },
+  "lastReviewed": "2026-07-09",
+  "whyItMatters": "This hearing moved the modern UAP debate from agency officials to firsthand witnesses and a former intelligence officer. It expanded congressional attention from reporting systems and flight safety to whistleblower protection, alleged hidden programs, classification, and the scope of congressional access.",
+  "evidenceProfile": {
+    "level": "Official congressional record",
+    "summary": "The hearing, transcript, witness statements, and committee documents are official. Individual witness claims vary in evidentiary status.",
+    "items": [
+      {
+        "label": "Official hearing record",
+        "status": "available"
+      },
+      {
+        "label": "Official transcript",
+        "status": "available"
+      },
+      {
+        "label": "Written witness statements",
+        "status": "available"
+      },
+      {
+        "label": "Public video",
+        "status": "available"
+      },
+      {
+        "label": "Independent verification of every allegation",
+        "status": "limited"
+      }
+    ]
+  },
+  "navigation": {
+    "previous": "2023-07-13-uap-disclosure-act-consideration",
+    "next": "2023-congressional-classified-aaro-briefings"
+  },
+  "sharedConnections": {
+    "with": [
+      "1966-04-05-house-ufo-hearing",
+      "2022-05-03-house-intelligence-classified-uap-briefing",
+      "2022-05-17-house-intelligence-uap",
+      "2023-04-19-senate-aaro-oversight",
+      "2023-07-13-uap-disclosure-act-consideration",
+      "2023-congressional-classified-aaro-briefings",
+      "2024-01-12-house-uap-scif-briefing",
+      "2024-11-13-house-oversight-uap",
+      "2024-11-19-senate-aaro-update",
+      "2024-12-06-house-classified-aaro-briefing",
+      "2024-12-18-fy2025-ndaa-uap-provisions",
+      "2025-09-09-house-uap-transparency-hearing"
+    ],
+    "topics": [
+      "crash-retrieval-claims",
+      "reverse-engineering-claims",
+      "aviation-safety",
+      "government-transparency",
+      "whistleblower-protection",
+      "classification"
+    ],
+    "organizations": [
+      "uap-task-force",
+      "americans-for-safe-aerospace",
+      "aaro",
+      "national-reconnaissance-office",
+      "house-committee-oversight-accountability",
+      "united-states-navy",
+      "subcommittee-national-security-border-foreign-affairs",
+      "department-of-defense"
+    ]
+  }
+}

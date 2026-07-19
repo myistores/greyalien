@@ -1,0 +1,33 @@
+{
+  "id": "2023-06-01-asa-launch",
+  "type": "timeline_event",
+  "name": "Americans for Safe Aerospace Launches as a 501(c)(3)",
+  "summary": "Ryan Graves announced the launch of Americans for Safe Aerospace as a pilot-led nonprofit focused on UAP reporting, aviation safety, and transparency.",
+  "date": "2023-06-01",
+  "dateDisplay": "June 1, 2023",
+  "eventCategory": "Organization launch",
+  "relationships": [
+    {
+      "type": "event_for",
+      "target": "ryan-graves",
+      "role": "creator",
+      "context": "Graves announced and led the organization’s launch"
+    },
+    {
+      "type": "event_for",
+      "target": "americans-for-safe-aerospace",
+      "role": "participant",
+      "context": "Formal launch as a 501(c)(3) organization"
+    },
+    {
+      "type": "associated_topic",
+      "target": "aviation-safety"
+    },
+    {
+      "type": "associated_topic",
+      "target": "government-transparency"
+    }
+  ],
+  "externalUrl": "https://www.safeaerospace.org/news/asa-501-c-3-launc",
+  "externalLinkLabel": "Read the official launch announcement"
+}

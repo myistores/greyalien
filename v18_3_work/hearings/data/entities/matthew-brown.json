@@ -1,0 +1,28 @@
+{
+  "id": "matthew-brown",
+  "type": "person",
+  "name": "Matthew Brown",
+  "summary": "Former government analyst who publicly associated himself with allegations concerning an alleged program called Immaculate Constellation.",
+  "relationships": [
+    {
+      "type": "affiliated_with",
+      "target": "department-of-defense",
+      "role": "Former analyst, as publicly described"
+    },
+    {
+      "type": "made_claim",
+      "target": "claim-secret-uap-programs"
+    }
+  ],
+  "profileStatus": "Self-identified former government whistleblower",
+  "profileSummary": "Former government analyst who publicly associated himself with allegations concerning an alleged program called Immaculate Constellation.",
+  "background": "Self-described former Defense and State Department analyst.",
+  "inclusionNote": "Included because he has publicly identified himself and given extended on-the-record interviews. His central allegations remain unverified publicly.",
+  "primarySourceLinks": [
+    {
+      "label": "Public interview concerning Immaculate Constellation",
+      "url": "https://www.youtube.com/watch?v=4n_bRtnIP14",
+      "sourceType": "Public interview"
+    }
+  ]
+}

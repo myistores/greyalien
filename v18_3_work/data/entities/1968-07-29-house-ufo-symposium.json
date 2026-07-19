@@ -1,0 +1,25 @@
+{
+  "id": "1968-07-29-house-ufo-symposium",
+  "type": "hearing",
+  "name": "July 29, 1968 House UFO Symposium",
+  "summary": "A congressional scientific symposium presenting testimony and prepared material on UFO reports, research methods, physical evidence, and possible explanations.",
+  "relationships": [
+    {
+      "type": "held_by",
+      "target": "house-science-astronautics-committee"
+    },
+    {
+      "type": "discussed_topic",
+      "target": "historical-ufo-research"
+    },
+    {
+      "type": "discussed_topic",
+      "target": "scientific-investigation"
+    },
+    {
+      "type": "discussed_topic",
+      "target": "extraterrestrial-hypothesis"
+    }
+  ],
+  "date": "1968-07-29"
+}

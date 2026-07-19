@@ -1,0 +1,33 @@
+{
+  "id": "2022-05-03-house-intelligence-classified-uap-briefing",
+  "type": "hearing",
+  "name": "May 3, 2022 Classified UAP Briefing",
+  "summary": "A classified congressional briefing held before the May 17, 2022 public hearing on unidentified aerial phenomena.",
+  "relationships": [
+    {
+      "type": "held_by",
+      "target": "house-intelligence-committee"
+    },
+    {
+      "type": "held_by",
+      "target": "department-of-defense"
+    },
+    {
+      "type": "held_by",
+      "target": "united-states-navy"
+    },
+    {
+      "type": "discussed_topic",
+      "target": "classification"
+    },
+    {
+      "type": "discussed_topic",
+      "target": "government-transparency"
+    },
+    {
+      "type": "discussed_topic",
+      "target": "uap-reporting-systems"
+    }
+  ],
+  "date": "2022-05-03"
+}

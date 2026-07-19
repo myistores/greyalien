@@ -1,0 +1,37 @@
+{
+  "id": "timeline-2010-2011-eric-hecker-south-pole-assignment",
+  "type": "timeline_event",
+  "name": "Eric Hecker Works at the Amundsen–Scott South Pole Station",
+  "summary": "Eric Hecker has publicly stated that he worked as a Raytheon contractor at the Amundsen–Scott South Pole Station for approximately one year beginning in November 2010. That assignment is the setting for his later allegations about IceCube and other advanced technologies; those allegations are disputed and remain unverified.",
+  "date": "2010-11-01",
+  "endDate": "2011-11-30",
+  "dateDisplay": "November 2010–2011",
+  "eventCategory": "Background to public UAP-related claims",
+  "relationships": [
+    {
+      "type": "timeline_connection",
+      "target": "eric-hecker",
+      "role": "contractor",
+      "context": "Worked at the South Pole station and later based his public allegations on that assignment"
+    },
+    {
+      "type": "timeline_connection",
+      "target": "raytheon",
+      "role": "employer",
+      "context": "Employer identified in Hecker's public account"
+    },
+    {
+      "type": "timeline_connection",
+      "target": "south-pole-technology-claims",
+      "role": "related_case",
+      "context": "Assignment forms the setting for the later South Pole technology claims"
+    }
+  ],
+  "primarySourceLinks": [
+    {
+      "label": "Eric Hecker biography and South Pole account",
+      "url": "https://deciphering.tv/",
+      "sourceType": "Official personal website"
+    }
+  ]
+}

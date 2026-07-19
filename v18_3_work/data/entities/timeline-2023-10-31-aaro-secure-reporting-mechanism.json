@@ -1,0 +1,36 @@
+{
+  "id": "timeline-2023-10-31-aaro-secure-reporting-mechanism",
+  "type": "timeline_event",
+  "name": "AARO Launches a Secure UAP Reporting Mechanism",
+  "summary": "AARO launched a secure reporting mechanism for current and former U.S. government personnel to report direct knowledge of UAP-related programs or activities, a significant expansion of the office’s information-gathering role under Sean Kirkpatrick.",
+  "date": "2023-10-31",
+  "dateDisplay": "October 31, 2023",
+  "eventCategory": "Government reporting system",
+  "relationships": [
+    {
+      "type": "timeline_connection",
+      "target": "sean-kirkpatrick",
+      "role": "aaro_director",
+      "context": "Led AARO when the reporting mechanism launched"
+    },
+    {
+      "type": "timeline_connection",
+      "target": "aaro",
+      "role": "launching_organization",
+      "context": "Created the secure reporting mechanism"
+    },
+    {
+      "type": "timeline_connection",
+      "target": "uap-reporting-systems",
+      "role": "related_topic",
+      "context": "Expanded formal UAP reporting channels"
+    }
+  ],
+  "primarySourceLinks": [
+    {
+      "label": "DoD announcement of AARO reporting tool",
+      "url": "https://www.defense.gov/News/News-Stories/Article/Article/3575511/dod-unidentified-anomalous-phenomena-office-launches-new-reporting-tool/",
+      "sourceType": "U.S. Department of Defense"
+    }
+  ]
+}

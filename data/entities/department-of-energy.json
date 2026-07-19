@@ -1,0 +1,23 @@
+{
+  "id": "department-of-energy",
+  "type": "organization",
+  "name": "U.S. Department of Energy",
+  "summary": "Federal department responsible for U.S. energy policy and nuclear security facilities discussed in Episode #54.",
+  "relationships": [],
+  "organizationStatus": "Active or historical organization",
+  "organizationSummary": "Federal department responsible for U.S. energy policy and nuclear security facilities discussed in Episode #54.",
+  "sources": [
+    {
+      "label": "U.S. Department of Energy",
+      "url": "https://www.energy.gov/",
+      "sourceType": "official_website",
+      "primary": true
+    },
+    {
+      "label": "Official WEAPONIZED Episode #54 page",
+      "url": "https://www.weaponizedpodcast.com/episodes-2/episode-54",
+      "sourceType": "official_episode_page",
+      "primary": false
+    }
+  ]
+}

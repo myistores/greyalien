@@ -1,0 +1,74 @@
+{
+  "id": "ryan-graves",
+  "type": "person",
+  "name": "Ryan Graves",
+  "summary": "Former U.S. Navy F/A-18 pilot, aviation-safety advocate, and congressional witness.",
+  "relationships": [
+    {
+      "type": "testified_at",
+      "target": "2023-07-26-house-oversight-uap",
+      "role": "witness",
+      "date": "2023-07-26",
+      "timeline": true,
+      "context": "Testified publicly under oath about pilot reporting and aviation safety"
+    },
+    {
+      "type": "affiliated_with",
+      "target": "united-states-navy",
+      "role": "Former F/A-18 pilot"
+    },
+    {
+      "type": "affiliated_with",
+      "target": "americans-for-safe-aerospace",
+      "role": "Executive Director"
+    },
+    {
+      "type": "authored",
+      "target": "2023-graves-written-testimony"
+    },
+    {
+      "type": "affiliated_with",
+      "target": "merged-podcast",
+      "role": "Host"
+    },
+    {
+      "type": "reported_case",
+      "target": "2014-2015-east-coast-navy-encounters",
+      "timeline": true,
+      "role": "participant",
+      "context": "Described recurring encounters reported by his East Coast squadron"
+    },
+    {
+      "type": "appeared_in",
+      "target": "2019-05-26-nyt-navy-pilots-uap",
+      "timeline": true,
+      "role": "primary_subject",
+      "context": "His account reached a broad public audience through national reporting"
+    },
+    {
+      "type": "affiliated_with",
+      "target": "2023-06-01-asa-launch",
+      "timeline": true,
+      "role": "creator",
+      "context": "Founded and launched Americans for Safe Aerospace"
+    }
+  ],
+  "profileStatus": "Firsthand military witness and congressional witness",
+  "profileSummary": "Former U.S. Navy F/A-18 pilot, aviation-safety advocate, and congressional witness.",
+  "background": "Former U.S. Navy F/A-18 pilot and Executive Director of Americans for Safe Aerospace.",
+  "inclusionNote": "Included because of firsthand military reporting, official congressional testimony, written testimony, and continuing aviation-safety advocacy.",
+  "primarySourceLinks": [
+    {
+      "label": "Official written testimony",
+      "url": "https://oversight.house.gov/wp-content/uploads/2023/07/Ryan-HOC-Testimony.pdf",
+      "sourceType": "House Committee on Oversight and Accountability"
+    },
+    {
+      "label": "Official July 2023 hearing page",
+      "url": "https://oversight.house.gov/hearing/unidentified-anomalous-phenomena-implications-on-national-security-public-safety-and-government-transparency/",
+      "sourceType": "House Committee on Oversight and Accountability"
+    }
+  ],
+  "profileBadge": "Firsthand Witness",
+  "profileBadgeClass": "badge-witness"
+}

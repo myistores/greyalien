@@ -1,0 +1,39 @@
+{
+  "id": "john-b-alexander",
+  "type": "person",
+  "name": "John B. Alexander",
+  "summary": "Retired U.S. Army officer and researcher associated with the Advanced Theoretical Physics program, non-lethal weapons research, NIDS, and anomalous-phenomena investigations.",
+  "relationships": [
+    {
+      "type": "appeared_in",
+      "target": "2023-weaponized-episode-45",
+      "role": "guest",
+      "context": "Discussed prior UFO investigations, NIDS, Skinwalker Ranch, and disclosure"
+    },
+    {
+      "type": "affiliated_with",
+      "target": "advanced-theoretical-physics-program"
+    },
+    {
+      "type": "affiliated_with",
+      "target": "national-institute-for-discovery-science"
+    },
+    {
+      "type": "discussed_topic",
+      "target": "historical-ufo-research"
+    }
+  ],
+  "profileStatus": "Retired Army officer and anomalous-phenomena researcher",
+  "profileSummary": "Retired U.S. Army officer and researcher associated with prior government and private anomalous-phenomena investigations.",
+  "profileBadge": "Researcher",
+  "profileBadgeClass": "badge-scientist",
+  "inclusionNote": "Included as the guest in WEAPONIZED Episode #45.",
+  "sources": [
+    {
+      "label": "Official WEAPONIZED Episode #45 page",
+      "url": "https://www.weaponizedpodcast.com/episodes-2/episode-45",
+      "sourceType": "official_episode_page",
+      "primary": true
+    }
+  ]
+}

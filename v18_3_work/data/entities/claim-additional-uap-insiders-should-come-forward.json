@@ -1,0 +1,25 @@
+{
+  "id": "claim-additional-uap-insiders-should-come-forward",
+  "type": "claim",
+  "name": "Matthew Brown urges additional UAP insiders to come forward",
+  "summary": "Matthew Brown argues that additional insiders with relevant knowledge should use lawful reporting channels and, when necessary, speak publicly to advance oversight and transparency.",
+  "relationships": [
+    {
+      "type": "made_by",
+      "target": "matthew-brown"
+    },
+    {
+      "type": "presented_at",
+      "target": "weaponized-matthew-brown-part-3"
+    },
+    {
+      "type": "concerns",
+      "target": "whistleblower-protection"
+    },
+    {
+      "type": "concerns",
+      "target": "congressional-oversight"
+    }
+  ],
+  "status": "Attributed recommendation presented in an interview."
+}

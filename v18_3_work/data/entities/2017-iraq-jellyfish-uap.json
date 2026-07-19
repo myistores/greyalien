@@ -1,0 +1,30 @@
+{
+  "id": "2017-iraq-jellyfish-uap",
+  "type": "case",
+  "name": "2017 Iraq Jellyfish UAP Incident",
+  "summary": "Reported thermal-imaging incident at a U.S. military base in Iraq involving an unusual object later publicized as the Jellyfish UAP.",
+  "date": "2017-01-01",
+  "relationships": [
+    {
+      "type": "documented_by",
+      "target": "2024-weaponized-episode-47",
+      "context": "Episode examines the video and reporting surrounding the incident"
+    },
+    {
+      "type": "associated_topic",
+      "target": "uap-research"
+    },
+    {
+      "type": "involved_organization",
+      "target": "department-of-defense"
+    }
+  ],
+  "sources": [
+    {
+      "label": "Official WEAPONIZED Episode #47 page",
+      "url": "https://www.weaponizedpodcast.com/episodes-2/episode-47",
+      "sourceType": "official_episode_page",
+      "primary": true
+    }
+  ]
+}

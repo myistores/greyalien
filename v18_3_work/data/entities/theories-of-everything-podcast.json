@@ -1,0 +1,22 @@
+{
+  "id": "theories-of-everything-podcast",
+  "type": "podcast_series",
+  "name": "Theories of Everything",
+  "summary": "Curt Jaimungal hosts technically detailed long-form conversations spanning theoretical physics, consciousness, artificial intelligence, philosophy, and UAP research.",
+  "podcastHosts": [
+    "Curt Jaimungal"
+  ],
+  "launchYear": "2020",
+  "status": "Active",
+  "externalUrl": "https://curtjaimungal.substack.com/",
+  "externalLinkLabel": "Visit official website",
+  "youtubeUrl": "https://www.youtube.com/@TheoriesofEverything",
+  "spotifyUrl": "https://open.spotify.com/show/4gL14b92xAErofYQA7bU4e",
+  "applePodcastsUrl": "https://podcasts.apple.com/us/podcast/theories-of-everything-with-curt-jaimungal/id1521758802",
+  "relationships": [
+    {
+      "type": "discussed_topic",
+      "target": "scientific-investigation"
+    }
+  ]
+}

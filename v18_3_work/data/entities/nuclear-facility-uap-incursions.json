@@ -1,0 +1,15 @@
+{
+  "id": "nuclear-facility-uap-incursions",
+  "type": "topic",
+  "name": "UAP Incursions at Nuclear Facilities",
+  "summary": "Reports and investigations concerning unidentified craft near nuclear laboratories, weapons sites, reactors, and related restricted airspace.",
+  "relationships": [],
+  "sources": [
+    {
+      "label": "Official WEAPONIZED Episode #54 page",
+      "url": "https://www.weaponizedpodcast.com/episodes-2/episode-54",
+      "sourceType": "official_episode_page",
+      "primary": true
+    }
+  ]
+}

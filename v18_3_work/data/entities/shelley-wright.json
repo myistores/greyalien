@@ -1,0 +1,30 @@
+{
+  "id": "shelley-wright",
+  "type": "person",
+  "name": "Shelley Wright",
+  "summary": "Astronomer and instrumentation specialist who served on NASA's UAP Independent Study Team.",
+  "relationships": [
+    {
+      "type": "affiliated_with",
+      "target": "nasa-uap-independent-study-team",
+      "role": "Study-team member"
+    },
+    {
+      "type": "authored",
+      "target": "2023-nasa-uap-independent-study-report"
+    }
+  ],
+  "profileStatus": "NASA independent-study member",
+  "profileSummary": "Astronomer and instrumentation specialist who served on NASA's UAP Independent Study Team.",
+  "background": "Professor of physics and astronomer specializing in optical and infrared instrumentation.",
+  "inclusionNote": "Included because NASA appointed her to contribute astronomical instrumentation, observational methods, and technosignature-research experience.",
+  "primarySourceLinks": [
+    {
+      "label": "NASA announces UAP study-team members",
+      "url": "https://www.nasa.gov/general/nasa-announces-unidentified-aerial-phenomena-study-team-members/",
+      "sourceType": "NASA"
+    }
+  ],
+  "profileBadge": "Scientist / Researcher",
+  "profileBadgeClass": "badge-scientist"
+}

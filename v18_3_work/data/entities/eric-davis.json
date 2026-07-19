@@ -1,0 +1,36 @@
+{
+  "id": "eric-davis",
+  "type": "person",
+  "name": "Eric Davis",
+  "summary": "Physicist associated with advanced-propulsion studies, AAWSAP-related technical work, and public discussion of government UAP investigations.",
+  "relationships": [
+    {
+      "type": "affiliated_with",
+      "target": "earthtech-international",
+      "role": "Research scientist"
+    },
+    {
+      "type": "affiliated_with",
+      "target": "aawsap",
+      "role": "Technical researcher"
+    }
+  ],
+  "profileStatus": "Physicist and government-contract researcher",
+  "profileSummary": "Physicist associated with advanced-propulsion studies, AAWSAP-related technical work, and public discussion of government UAP investigations.",
+  "profileBadge": "Scientist",
+  "profileBadgeClass": "badge-scientist",
+  "background": "Physicist and research scientist specializing in advanced propulsion, spacetime physics, and frontier topics.",
+  "inclusionNote": "Included because his technical publications and government-contract research connect AAWSAP, advanced propulsion, congressional briefings, and scientific discussion of anomalous aerospace phenomena.",
+  "primarySourceLinks": [
+    {
+      "label": "EarthTech International",
+      "url": "https://earthtech.org/",
+      "sourceType": "EarthTech International"
+    },
+    {
+      "label": "Defense Technical Information Center paper",
+      "url": "https://apps.dtic.mil/sti/citations/ADA426465",
+      "sourceType": "Defense Technical Information Center"
+    }
+  ]
+}

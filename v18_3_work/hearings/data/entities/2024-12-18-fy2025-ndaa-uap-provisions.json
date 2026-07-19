@@ -1,0 +1,37 @@
+{
+  "id": "2024-12-18-fy2025-ndaa-uap-provisions",
+  "type": "hearing",
+  "name": "December 18, 2024 FY2025 NDAA Action",
+  "summary": "A research record for UAP-related provisions and proposals considered during the Fiscal Year 2025 National Defense Authorization Act process.",
+  "relationships": [
+    {
+      "type": "held_by",
+      "target": "house-armed-services-committee"
+    },
+    {
+      "type": "held_by",
+      "target": "senate-armed-services-committee"
+    },
+    {
+      "type": "held_by",
+      "target": "aaro"
+    },
+    {
+      "type": "held_by",
+      "target": "department-of-defense"
+    },
+    {
+      "type": "discussed_topic",
+      "target": "uap-disclosure-legislation"
+    },
+    {
+      "type": "discussed_topic",
+      "target": "classification"
+    },
+    {
+      "type": "discussed_topic",
+      "target": "government-transparency"
+    }
+  ],
+  "date": "2024-12-18"
+}

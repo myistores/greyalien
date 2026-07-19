@@ -1,0 +1,25 @@
+{
+  "id": "2023-grusch-written-testimony",
+  "type": "document",
+  "name": "David Grusch Written Testimony",
+  "summary": "Written statement submitted for the July 26, 2023 House hearing",
+  "relationships": [
+    {
+      "type": "references_person",
+      "target": "david-grusch"
+    },
+    {
+      "type": "references_hearing",
+      "target": "2023-07-26-house-oversight-uap"
+    },
+    {
+      "type": "references_topic",
+      "target": "government-transparency"
+    },
+    {
+      "type": "contains_claim",
+      "target": "claim-crash-retrieval-program"
+    }
+  ],
+  "externalUrl": "https://docs.house.gov/meetings/GO/GO06/20230726/116282/HHRG-118-GO06-Wstate-GruschD-20230726.pdf"
+}

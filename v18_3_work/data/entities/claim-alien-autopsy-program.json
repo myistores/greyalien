@@ -1,0 +1,18 @@
+{
+  "id": "claim-alien-autopsy-program",
+  "type": "claim",
+  "name": "Emery Smith Alien-Autopsy Program Claims",
+  "summary": "Claims that Emery Smith participated in classified medical examinations of alleged non-human biological material.",
+  "relationships": [
+    {
+      "type": "made_by",
+      "target": "emery-smith"
+    },
+    {
+      "type": "concerns",
+      "target": "alien-autopsy-program-claims"
+    }
+  ],
+  "status": "Personal claims distributed primarily through interviews and entertainment media; not independently established.",
+  "evidenceNote": "The profile records Smith's public narrative and media history while clearly labeling the absence of publicly verified program documentation."
+}

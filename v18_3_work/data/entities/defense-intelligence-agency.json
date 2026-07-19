@@ -1,0 +1,14 @@
+{
+  "id": "defense-intelligence-agency",
+  "type": "organization",
+  "name": "Defense Intelligence Agency",
+  "summary": "U.S. Department of Defense intelligence agency.",
+  "relationships": [
+    {
+      "type": "addresses_topic",
+      "target": "government-transparency"
+    }
+  ],
+  "externalUrl": "https://www.dia.mil/",
+  "externalLinkLabel": "Visit official or authoritative website"
+}

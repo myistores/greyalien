@@ -1,0 +1,16 @@
+{
+  "id": "claim-s4-nine-craft",
+  "type": "claim",
+  "name": "Bob Lazar claims that nine unconventional craft were stored at S4",
+  "summary": "Bob Lazar has claimed that nine unconventional craft were housed in hangars at the alleged S4 facility near Area 51.",
+  "relationships": [
+    {
+      "type": "made_claim",
+      "target": "bob-lazar"
+    },
+    {
+      "type": "associated_topic",
+      "target": "s4-facility-claim"
+    }
+  ]
+}

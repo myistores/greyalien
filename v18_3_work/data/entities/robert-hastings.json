@@ -1,0 +1,27 @@
+{
+  "id": "robert-hastings",
+  "type": "person",
+  "name": "Robert Hastings",
+  "summary": "Researcher, author, and filmmaker known for documenting reports of UFO activity near nuclear weapons facilities.",
+  "relationships": [
+    {
+      "type": "appeared_in",
+      "target": "2024-weaponized-episode-54",
+      "role": "guest",
+      "context": "Guest in WEAPONIZED Episode #54"
+    }
+  ],
+  "profileStatus": "Researcher, journalist, or public figure",
+  "profileSummary": "Researcher, author, and filmmaker known for documenting reports of UFO activity near nuclear weapons facilities.",
+  "profileBadge": "Podcast guest",
+  "profileBadgeClass": "badge-journalist",
+  "inclusionNote": "Included through WEAPONIZED Episode #54.",
+  "sources": [
+    {
+      "label": "Official WEAPONIZED Episode #54 page",
+      "url": "https://www.weaponizedpodcast.com/episodes-2/episode-54",
+      "sourceType": "official_episode_page",
+      "primary": true
+    }
+  ]
+}

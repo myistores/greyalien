@@ -1,0 +1,33 @@
+{
+  "id": "karl-nell",
+  "type": "person",
+  "name": "Karl Nell",
+  "summary": "Retired U.S. Army colonel, aerospace executive, and public advocate for greater government disclosure concerning UAP.",
+  "relationships": [
+    {
+      "type": "affiliated_with",
+      "target": "department-of-defense",
+      "role": "Retired U.S. Army officer"
+    },
+    {
+      "type": "made_claim",
+      "target": "claim-crash-retrieval-program"
+    }
+  ],
+  "profileStatus": "Former military officer and public disclosure advocate",
+  "profileSummary": "Retired U.S. Army colonel, aerospace executive, and public advocate for greater government disclosure concerning UAP.",
+  "background": "Retired U.S. Army colonel and aerospace executive.",
+  "inclusionNote": "Included because of his former military and national-security background, public statements concerning UAP disclosure, and direct relevance to claims and people already represented in the knowledge graph.",
+  "primarySourceLinks": [
+    {
+      "label": "The UFO Enigma: A Call for U.S. Government Disclosure",
+      "url": "https://thesolfoundation.org/publications/the-ufo-enigma-a-call-for-us-government-disclosure/",
+      "sourceType": "The Sol Foundation"
+    },
+    {
+      "label": "SALT speaker profile",
+      "url": "https://www.salt.org/speakers/karl-nell",
+      "sourceType": "SALT"
+    }
+  ]
+}

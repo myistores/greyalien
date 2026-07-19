@@ -1,0 +1,12 @@
+{
+  "id": "aviation-safety",
+  "type": "topic",
+  "name": "Aviation Safety",
+  "summary": "Safety implications of unidentified objects or phenomena operating near aircraft",
+  "relationships": [
+    {
+      "type": "broader_topic",
+      "target": "uap-research"
+    }
+  ]
+}

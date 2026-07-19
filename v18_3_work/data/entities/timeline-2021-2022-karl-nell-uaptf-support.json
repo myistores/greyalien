@@ -1,0 +1,49 @@
+{
+  "id": "timeline-2021-2022-karl-nell-uaptf-support",
+  "type": "timeline_event",
+  "name": "Karl Nell Supports the UAP Task Force and Congressional UAP Legislation",
+  "summary": "During the closing period of his Army career, Karl Nell served as an Army director supporting the UAP Task Force and states that his work with Defense Department and congressional leaders contributed to UAP provisions in the 2022 and 2023 National Defense Authorization Acts.",
+  "date": "2021-01-01",
+  "endDate": "2022-12-31",
+  "dateDisplay": "2021–2022",
+  "eventCategory": "Government UAP policy",
+  "relationships": [
+    {
+      "type": "timeline_connection",
+      "target": "karl-nell",
+      "role": "participant",
+      "context": "Army director supporting the UAP Task Force"
+    },
+    {
+      "type": "timeline_connection",
+      "target": "uap-task-force",
+      "role": "related_organization",
+      "context": "Government UAP office supported during Nell’s Army assignment"
+    },
+    {
+      "type": "timeline_connection",
+      "target": "department-of-defense",
+      "role": "related_organization",
+      "context": "Defense Department policy and leadership context"
+    },
+    {
+      "type": "timeline_connection",
+      "target": "uap-disclosure-legislation",
+      "role": "related_topic",
+      "context": "UAP provisions in the FY2022 and FY2023 defense authorization process"
+    },
+    {
+      "type": "timeline_connection",
+      "target": "congressional-oversight",
+      "role": "related_topic",
+      "context": "Engagement with Congress on UAP policy"
+    }
+  ],
+  "primarySourceLinks": [
+    {
+      "label": "Karl Nell official SALT speaker biography",
+      "url": "https://www.salt.org/speakers/karl-nell",
+      "sourceType": "SALT"
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "id": "garry-nolan",
+  "type": "person",
+  "name": "Garry Nolan",
+  "summary": "Stanford pathology professor and Sol Foundation cofounder whose scientific work and public commentary have influenced modern UAP research.",
+  "relationships": [
+    {
+      "type": "affiliated_with",
+      "target": "sol-foundation",
+      "role": "Cofounder and Executive Director"
+    },
+    {
+      "type": "affiliated_with",
+      "target": "uap-science-advisory-council",
+      "role": "Council member"
+    }
+  ],
+  "profileStatus": "Scientist and research advocate",
+  "profileSummary": "Stanford pathology professor and Sol Foundation cofounder whose scientific work and public commentary have influenced modern UAP research.",
+  "profileBadge": "Scientist",
+  "profileBadgeClass": "badge-scientist",
+  "background": "Rachford and Carlota A. Harris Professor in Stanford University's Department of Pathology.",
+  "inclusionNote": "Included because of his academic credentials, scientific research, Sol Foundation leadership, and involvement in evidence-focused UAP discussion.",
+  "primarySourceLinks": [
+    {
+      "label": "Stanford Medicine profile",
+      "url": "https://med.stanford.edu/profiles/garry-nolan",
+      "sourceType": "Stanford University"
+    },
+    {
+      "label": "The Sol Foundation",
+      "url": "https://thesolfoundation.org/",
+      "sourceType": "The Sol Foundation"
+    },
+    {
+      "label": "Garry Nolan \u2014 Galileo Project",
+      "url": "https://galileo.hsites.harvard.edu/people/garry-nolan",
+      "sourceType": "The Galileo Project"
+    },
+    {
+      "label": "Sol Foundation inaugural symposium",
+      "url": "https://thesolfoundation.org/events/the-inaugural-annual-conference-of-the-sol-foundation/",
+      "sourceType": "The Sol Foundation"
+    }
+  ]
+}

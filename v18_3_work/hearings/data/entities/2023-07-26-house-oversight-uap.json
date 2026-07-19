@@ -1,0 +1,73 @@
+{
+  "id": "2023-07-26-house-oversight-uap",
+  "type": "hearing",
+  "name": "July 26, 2023 House UAP Hearing",
+  "summary": "A public House hearing examining military and commercial aviation encounters with unidentified anomalous phenomena, federal handling and classification of UAP information, whistleblower protections, public safety, national security, and congressional oversight.",
+  "relationships": [
+    {
+      "type": "held_by",
+      "target": "house-committee-oversight-accountability"
+    },
+    {
+      "type": "held_by",
+      "target": "subcommittee-national-security-border-foreign-affairs"
+    },
+    {
+      "type": "held_by",
+      "target": "americans-for-safe-aerospace"
+    },
+    {
+      "type": "held_by",
+      "target": "united-states-navy"
+    },
+    {
+      "type": "held_by",
+      "target": "department-of-defense"
+    },
+    {
+      "type": "held_by",
+      "target": "national-reconnaissance-office"
+    },
+    {
+      "type": "held_by",
+      "target": "uap-task-force"
+    },
+    {
+      "type": "held_by",
+      "target": "aaro"
+    },
+    {
+      "type": "discussed_topic",
+      "target": "aviation-safety"
+    },
+    {
+      "type": "discussed_topic",
+      "target": "government-transparency"
+    },
+    {
+      "type": "discussed_topic",
+      "target": "whistleblower-protection"
+    },
+    {
+      "type": "discussed_topic",
+      "target": "classification"
+    },
+    {
+      "type": "discussed_topic",
+      "target": "crash-retrieval-claims"
+    },
+    {
+      "type": "discussed_topic",
+      "target": "reverse-engineering-claims"
+    },
+    {
+      "type": "referenced_case",
+      "target": "2004-nimitz-tic-tac"
+    },
+    {
+      "type": "referenced_case",
+      "target": "2014-2015-east-coast-navy-encounters"
+    }
+  ],
+  "date": "2023-07-26"
+}

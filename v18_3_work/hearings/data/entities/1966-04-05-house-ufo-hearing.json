@@ -1,0 +1,33 @@
+{
+  "id": "1966-04-05-house-ufo-hearing",
+  "type": "hearing",
+  "name": "April 5, 1966 House UFO Hearing",
+  "summary": "A House Armed Services hearing addressing unidentified flying objects and the Air Force investigation program during the period of the Michigan sightings.",
+  "relationships": [
+    {
+      "type": "held_by",
+      "target": "house-armed-services-committee"
+    },
+    {
+      "type": "held_by",
+      "target": "united-states-air-force"
+    },
+    {
+      "type": "held_by",
+      "target": "project-blue-book"
+    },
+    {
+      "type": "discussed_topic",
+      "target": "historical-ufo-research"
+    },
+    {
+      "type": "discussed_topic",
+      "target": "government-transparency"
+    },
+    {
+      "type": "discussed_topic",
+      "target": "scientific-investigation"
+    }
+  ],
+  "date": "1966-04-05"
+}

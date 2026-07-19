@@ -1,0 +1,32 @@
+{
+  "id": "dustin-slaughter",
+  "type": "person",
+  "name": "Dustin Slaughter",
+  "summary": "Citizen journalist and editor of UAP Register who uses FOIA records to investigate UAP incidents at sensitive facilities.",
+  "relationships": [
+    {
+      "type": "appeared_in",
+      "target": "2024-weaponized-episode-54",
+      "role": "guest",
+      "context": "Guest in WEAPONIZED Episode #54"
+    },
+    {
+      "type": "affiliated_with",
+      "target": "uap-register",
+      "role": "editor"
+    }
+  ],
+  "profileStatus": "Researcher, journalist, or public figure",
+  "profileSummary": "Citizen journalist and editor of UAP Register who uses FOIA records to investigate UAP incidents at sensitive facilities.",
+  "profileBadge": "Podcast guest",
+  "profileBadgeClass": "badge-journalist",
+  "inclusionNote": "Included through WEAPONIZED Episode #54.",
+  "sources": [
+    {
+      "label": "Official WEAPONIZED Episode #54 page",
+      "url": "https://www.weaponizedpodcast.com/episodes-2/episode-54",
+      "sourceType": "official_episode_page",
+      "primary": true
+    }
+  ]
+}

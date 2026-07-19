@@ -1,0 +1,34 @@
+{
+  "id": "2017-12-16-nyt-pentagon-ufo-program",
+  "type": "publication",
+  "name": "The New York Times Publishes “Glowing Auras and ‘Black Money’”",
+  "summary": "The December 2017 New York Times investigation brought broad public attention to the Pentagon’s UAP program and the 2004 Nimitz encounter, including David Fravor’s account.",
+  "date": "2017-12-16",
+  "dateDisplay": "December 16, 2017",
+  "eventCategory": "Public disclosure",
+  "relationships": [
+    {
+      "type": "references_person",
+      "target": "david-fravor",
+      "role": "primary_subject",
+      "context": "Fravor’s account of the 2004 Nimitz encounter was featured in the reporting"
+    },
+    {
+      "type": "references_topic",
+      "target": "government-transparency"
+    },
+    {
+      "type": "documented_by",
+      "target": "2004-nimitz-encounter"
+    },
+    {
+      "type": "references_person",
+      "target": "christopher-mellon",
+      "role": "investigator",
+      "context": "Mellon says he provided official UAP videos and facilitated reporting contacts",
+      "timeline": true
+    }
+  ],
+  "externalUrl": "https://www.nytimes.com/2017/12/16/us/politics/pentagon-program-ufo-harry-reid.html",
+  "externalLinkLabel": "Read the New York Times report"
+}

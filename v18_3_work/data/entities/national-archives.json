@@ -1,0 +1,14 @@
+{
+  "id": "national-archives",
+  "type": "organization",
+  "name": "National Archives and Records Administration",
+  "summary": "Federal agency responsible for preserving and providing access to government records.",
+  "relationships": [
+    {
+      "type": "addresses_topic",
+      "target": "government-transparency"
+    }
+  ],
+  "externalUrl": "https://www.archives.gov/",
+  "externalLinkLabel": "Visit official or authoritative website"
+}

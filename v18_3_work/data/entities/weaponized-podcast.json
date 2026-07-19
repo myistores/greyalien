@@ -1,0 +1,42 @@
+{
+  "id": "weaponized-podcast",
+  "type": "podcast_series",
+  "name": "WEAPONIZED",
+  "summary": "Investigative series in which Jeremy Corbell and George Knapp explore UAP, government secrecy, unusual events, documents, and firsthand testimony.",
+  "podcastHosts": [
+    "Jeremy Corbell",
+    "George Knapp"
+  ],
+  "launchYear": "2023",
+  "status": "Active",
+  "externalUrl": "https://www.weaponizedpodcast.com/",
+  "externalLinkLabel": "Visit official website",
+  "youtubeUrl": "https://www.youtube.com/@JeremyCorbell",
+  "spotifyUrl": "https://open.spotify.com/show/1FRpoWQkWtwHdOgwho3iZG",
+  "applePodcastsUrl": "https://podcasts.apple.com/us/podcast/weaponized-with-jeremy-corbell-george-knapp/id1664299388",
+  "relationships": [
+    {
+      "type": "discussed_topic",
+      "target": "government-transparency"
+    },
+    {
+      "type": "discussed_topic",
+      "target": "scientific-investigation"
+    }
+  ],
+  "visualIdentity": {
+    "style": "officially_inspired_editorial_banner",
+    "asset": "../assets/images/podcasts/weaponized-identity.svg",
+    "alt": "WEAPONIZED podcast banner with a desert night landscape, two anonymous host silhouettes, microphone and waveform, classified-document texture, and subtle UAP motif. Text identifies hosts Jeremy Corbell and George Knapp.",
+    "eyebrow": "Podcast series",
+    "tagline": "",
+    "hostLabel": "Hosted by",
+    "hosts": [
+      "Jeremy Corbell",
+      "George Knapp"
+    ],
+    "sourceLabel": "Official WEAPONIZED website",
+    "sourceUrl": "https://www.weaponizedpodcast.com/",
+    "artworkContainsText": true
+  }
+}

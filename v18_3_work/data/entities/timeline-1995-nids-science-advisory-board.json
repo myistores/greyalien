@@ -1,0 +1,48 @@
+{
+  "id": "timeline-1995-nids-science-advisory-board",
+  "type": "timeline_event",
+  "name": "NIDS Forms a Scientific Advisory Board for Anomalous-Phenomena Research",
+  "summary": "The National Institute for Discovery Science assembled a multidisciplinary scientific advisory board to investigate UFO reports and other anomalous phenomena. Hal Puthoff, Eric Davis, and Jacques Vallée became part of the research network that later intersected with Bigelow-supported UAP programs.",
+  "date": "1995-01-01",
+  "dateDisplay": "1995",
+  "eventCategory": "Private UAP research program",
+  "relationships": [
+    {
+      "type": "timeline_connection",
+      "target": "national-institute-for-discovery-science",
+      "role": "host",
+      "context": "Organization that assembled the advisory board"
+    },
+    {
+      "type": "timeline_connection",
+      "target": "hal-puthoff",
+      "role": "scientific_advisor",
+      "context": "Member of the NIDS scientific advisory network"
+    },
+    {
+      "type": "timeline_connection",
+      "target": "eric-davis",
+      "role": "researcher",
+      "context": "Researcher within the NIDS network"
+    },
+    {
+      "type": "timeline_connection",
+      "target": "jacques-vallee",
+      "role": "scientific_advisor",
+      "context": "Member of the NIDS scientific advisory network"
+    },
+    {
+      "type": "timeline_connection",
+      "target": "scientific-investigation",
+      "role": "related_topic",
+      "context": "Private scientific investigation of anomalous reports"
+    }
+  ],
+  "primarySourceLinks": [
+    {
+      "label": "Archived National Institute for Discovery Science website",
+      "url": "https://web.archive.org/web/20071007111321/http://www.nidsci.org/",
+      "sourceType": "Archived official website"
+    }
+  ]
+}

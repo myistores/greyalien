@@ -1,0 +1,25 @@
+{
+  "id": "to-the-stars-academy",
+  "type": "organization",
+  "name": "To The Stars Academy of Arts & Science",
+  "summary": "Public-benefit corporation that brought together former government officials, researchers, and media projects focused on UAP and advanced aerospace topics.",
+  "relationships": [
+    {
+      "type": "addresses_topic",
+      "target": "government-transparency"
+    },
+    {
+      "type": "addresses_topic",
+      "target": "scientific-investigation"
+    },
+    {
+      "type": "affiliated_with",
+      "target": "christopher-mellon",
+      "role": "National Security Affairs Advisor"
+    }
+  ],
+  "externalUrl": "https://tothestars.media/",
+  "externalLinkLabel": "Visit official website",
+  "organizationPurpose": "Support research, public communication, and media concerning UAP, advanced aerospace science, and government transparency.",
+  "formed": "2017"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "eric-burlison",
+  "type": "person",
+  "name": "Eric Burlison",
+  "summary": "U.S. Representative from Missouri",
+  "relationships": [
+    {
+      "type": "testified_at",
+      "target": "2024-01-12-house-uap-scif-briefing",
+      "role": "Witness or participant",
+      "date": "2024-01-12"
+    }
+  ]
+}

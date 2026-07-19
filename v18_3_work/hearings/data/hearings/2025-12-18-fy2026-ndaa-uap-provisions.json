@@ -1,0 +1,124 @@
+{
+  "schemaVersion": 1,
+  "id": "2025-12-18-fy2026-ndaa-uap-provisions",
+  "entityType": "hearing",
+  "title": "Fiscal Year 2026 NDAA — UAP-Related Congressional Action",
+  "shortTitle": "December 18, 2025 FY2026 NDAA Action",
+  "date": "2025-12-18",
+  "time": "Legislative action",
+  "location": "United States Congress",
+  "congress": "119th Congress",
+  "chamber": "U.S. Congress",
+  "committee": "House and Senate Armed Services Committees",
+  "subcommittee": "NDAA legislative process",
+  "summary": "A research record for UAP-related provisions, reporting requirements, and oversight proposals considered during the Fiscal Year 2026 NDAA process.",
+  "whyItMatters": "The NDAA remains one of the principal mechanisms through which Congress directs UAP reporting, oversight, records management, and agency responsibilities.",
+  "editorialNote": "This legislative-process record should be refined as GreyAlien develops section-level legislative analysis.",
+  "themes": [
+    "NDAA",
+    "UAP reporting",
+    "AARO oversight",
+    "Government records",
+    "Congressional oversight"
+  ],
+  "witnesses": [],
+  "timeline": [
+    {
+      "date": "2025-07-09",
+      "label": "Senate Armed Services Committee advanced its FY2026 NDAA"
+    },
+    {
+      "date": "2025-12-17",
+      "label": "Senate passed the final FY2026 NDAA"
+    },
+    {
+      "date": "2025-12-18",
+      "label": "FY2026 NDAA signed into law"
+    }
+  ],
+  "documents": [
+    {
+      "label": "FY2026 NDAA executive summary",
+      "url": "https://www.armed-services.senate.gov/imo/media/doc/fy2026_ndaa_executive_summary.pdf",
+      "sourceType": "Senate Armed Services Committee"
+    },
+    {
+      "label": "Final passage announcement",
+      "url": "https://www.armed-services.senate.gov/press-releases/sasc-chairman-wicker-and-ranking-member-reed-commend-final-passage-of-the-fiscal-year-2026-national-defense-authorization-act",
+      "sourceType": "Senate Armed Services Committee"
+    },
+    {
+      "label": "White House signing statement",
+      "url": "https://www.whitehouse.gov/briefings-statements/2025/12/congressional-bill-s-1071-signed-into-law/",
+      "sourceType": "The White House"
+    }
+  ],
+  "evidenceProfile": {
+    "level": "Documented congressional record",
+    "summary": "This record is based on public congressional or government material. Classified details may remain unavailable.",
+    "items": [
+      {
+        "label": "Public event or official reference",
+        "status": "available"
+      },
+      {
+        "label": "Public supporting documents",
+        "status": "available"
+      },
+      {
+        "label": "Complete classified record",
+        "status": "limited"
+      }
+    ]
+  },
+  "relationships": {
+    "people": [],
+    "organizations": [
+      "house-armed-services-committee",
+      "senate-armed-services-committee",
+      "aaro",
+      "department-of-defense"
+    ],
+    "cases": [],
+    "topics": [
+      "uap-disclosure-legislation",
+      "government-transparency",
+      "uap-reporting-systems"
+    ]
+  },
+  "catalogCategories": [
+    "Legislative hearings, markups, and oversight sessions"
+  ],
+  "navigation": {
+    "previous": "2025-09-09-house-uap-transparency-hearing",
+    "next": null
+  },
+  "sharedConnections": {
+    "with": [
+      "1966-04-05-house-ufo-hearing",
+      "2022-05-03-house-intelligence-classified-uap-briefing",
+      "2022-05-17-house-intelligence-uap",
+      "2023-04-19-senate-aaro-oversight",
+      "2023-07-13-uap-disclosure-act-consideration",
+      "2023-07-26-house-oversight-uap",
+      "2023-congressional-classified-aaro-briefings",
+      "2024-01-12-house-uap-scif-briefing",
+      "2024-11-13-house-oversight-uap",
+      "2024-11-19-senate-aaro-update",
+      "2024-12-06-house-classified-aaro-briefing",
+      "2024-12-18-fy2025-ndaa-uap-provisions"
+    ],
+    "topics": [
+      "uap-reporting-systems",
+      "uap-disclosure-legislation",
+      "government-transparency"
+    ],
+    "organizations": [
+      "department-of-defense",
+      "house-armed-services-committee",
+      "aaro",
+      "senate-armed-services-committee"
+    ]
+  },
+  "lastReviewed": "2026-07-10"
+}

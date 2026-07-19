@@ -1,0 +1,35 @@
+{
+  "id": "john-burroughs",
+  "type": "person",
+  "name": "John Burroughs",
+  "summary": "Former U.S. Air Force security policeman and firsthand witness to the Rendlesham Forest incident.",
+  "relationships": [
+    {
+      "type": "reported_case",
+      "target": "rendlesham-forest-incident"
+    },
+    {
+      "type": "affiliated_with",
+      "target": "united-states-air-force",
+      "role": "Former security policeman"
+    },
+    {
+      "type": "affiliated_with",
+      "target": "raf-bentwaters",
+      "role": "Former service member"
+    }
+  ],
+  "profileStatus": "Firsthand military witness",
+  "profileSummary": "Former U.S. Air Force security policeman and firsthand witness to the Rendlesham Forest incident.",
+  "background": "Former U.S. Air Force security policeman stationed at RAF Woodbridge.",
+  "inclusionNote": "Included because his contemporaneous written statement is part of the released official record.",
+  "primarySourceLinks": [
+    {
+      "label": "UK National Archives UFO reports collection",
+      "url": "https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/",
+      "sourceType": "UK National Archives"
+    }
+  ],
+  "profileBadge": "Firsthand Witness",
+  "profileBadgeClass": "badge-witness"
+}

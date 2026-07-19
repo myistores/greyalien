@@ -1,0 +1,32 @@
+{
+  "id": "thiago-ticchetti",
+  "type": "person",
+  "name": "Thiago Ticchetti",
+  "summary": "Brazilian UFO investigator and author who discusses the Colares incidents and Brazilian military records in Episode #57.",
+  "relationships": [
+    {
+      "type": "appeared_in",
+      "target": "2024-weaponized-episode-57",
+      "role": "guest",
+      "context": "Guest in WEAPONIZED Episode #57"
+    },
+    {
+      "type": "affiliated_with",
+      "target": "brazilian-commission-of-ufologists",
+      "role": "international director"
+    }
+  ],
+  "profileStatus": "Researcher, journalist, or public figure",
+  "profileSummary": "Brazilian UFO investigator and author who discusses the Colares incidents and Brazilian military records in Episode #57.",
+  "profileBadge": "Podcast guest",
+  "profileBadgeClass": "badge-journalist",
+  "inclusionNote": "Included through WEAPONIZED Episode #57.",
+  "sources": [
+    {
+      "label": "Official WEAPONIZED Episode #57 page",
+      "url": "https://www.weaponizedpodcast.com/episodes-2/episode-57",
+      "sourceType": "official_episode_page",
+      "primary": true
+    }
+  ]
+}

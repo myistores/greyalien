@@ -1,0 +1,27 @@
+{
+  "id": "dave-navarro",
+  "type": "person",
+  "name": "Dave Navarro",
+  "summary": "Musician discussed in Episode #56 in connection with his return to the stage and longstanding interest in UFOs.",
+  "relationships": [
+    {
+      "type": "appeared_in",
+      "target": "2024-weaponized-episode-56",
+      "role": "guest",
+      "context": "Guest in WEAPONIZED Episode #56"
+    }
+  ],
+  "profileStatus": "Researcher, journalist, or public figure",
+  "profileSummary": "Musician discussed in Episode #56 in connection with his return to the stage and longstanding interest in UFOs.",
+  "profileBadge": "Podcast guest",
+  "profileBadgeClass": "badge-journalist",
+  "inclusionNote": "Included through WEAPONIZED Episode #56.",
+  "sources": [
+    {
+      "label": "Official WEAPONIZED Episode #56 page",
+      "url": "https://www.weaponizedpodcast.com/episodes-2/episode-56",
+      "sourceType": "official_episode_page",
+      "primary": true
+    }
+  ]
+}

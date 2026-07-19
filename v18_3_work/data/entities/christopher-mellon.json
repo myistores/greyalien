@@ -1,0 +1,66 @@
+{
+  "id": "christopher-mellon",
+  "type": "person",
+  "name": "Christopher Mellon",
+  "summary": "Former Deputy Assistant Secretary of Defense for Intelligence and former Senate Intelligence Committee staff director who has advocated for congressional UAP oversight.",
+  "relationships": [
+    {
+      "type": "affiliated_with",
+      "target": "department-of-defense",
+      "role": "Former Deputy Assistant Secretary of Defense for Intelligence"
+    },
+    {
+      "type": "affiliated_with",
+      "target": "senate-intelligence-committee",
+      "role": "Former Minority Staff Director"
+    },
+    {
+      "type": "made_claim",
+      "target": "claim-secret-uap-programs"
+    },
+    {
+      "type": "timeline_connection",
+      "target": "timeline-2017-10-christopher-mellon-ttsa",
+      "role": "participant",
+      "context": "Joined the TTSA team during its 2017 launch period",
+      "timeline": true
+    },
+    {
+      "type": "references_publication",
+      "target": "2017-12-16-nyt-pentagon-ufo-program",
+      "role": "investigator",
+      "context": "Provided UAP videos and helped connect reporters with knowledgeable sources",
+      "timeline": true
+    },
+    {
+      "type": "timeline_connection",
+      "target": "timeline-2021-06-25-mellon-uap-assessment",
+      "role": "participant",
+      "context": "Advocated congressional review of the UAP issue",
+      "timeline": true
+    },
+    {
+      "type": "affiliated_with",
+      "target": "to-the-stars-academy",
+      "role": "National Security Affairs Advisor"
+    }
+  ],
+  "profileStatus": "Former government official and public disclosure advocate",
+  "profileSummary": "Former Deputy Assistant Secretary of Defense for Intelligence and former Senate Intelligence Committee staff director who has advocated for congressional UAP oversight.",
+  "background": "Former Deputy Assistant Secretary of Defense for Intelligence and former Minority Staff Director of the Senate Intelligence Committee.",
+  "inclusionNote": "Included because of his former defense and congressional-intelligence roles, public advocacy for UAP oversight, and involvement in bringing military UAP reporting to congressional attention.",
+  "primarySourceLinks": [
+    {
+      "label": "Christopher Mellon biography",
+      "url": "https://www.christophermellon.net/",
+      "sourceType": "Christopher Mellon"
+    },
+    {
+      "label": "Suggestions for Congress on the UAP Issue",
+      "url": "https://www.christophermellon.net/post/possible-next-steps-for-congress-on-the-uap-issue",
+      "sourceType": "Christopher Mellon"
+    }
+  ],
+  "profileBadge": "Former Government Official",
+  "profileBadgeClass": "badge-government"
+}

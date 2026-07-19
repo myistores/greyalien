@@ -1,0 +1,25 @@
+{
+  "id": "bryce-zabel",
+  "type": "person",
+  "name": "Bryce Zabel",
+  "summary": "Journalist, writer, producer, and Need to Know co-host who participated in the WEAPONIZED Episode #28 congressional-hearing roundtable.",
+  "relationships": [
+    {
+      "type": "affiliated_with",
+      "target": "need-to-know-podcast",
+      "role": "Co-host"
+    }
+  ],
+  "profileStatus": "Journalist, producer, and podcast host",
+  "profileSummary": "Journalist, writer, producer, and Need to Know co-host who participated in the WEAPONIZED Episode #28 congressional-hearing roundtable.",
+  "profileBadge": "Investigative Journalist",
+  "profileBadgeClass": "badge-journalist",
+  "inclusionNote": "Included because his Need to Know work and participation in WEAPONIZED Episode #28 connect podcast reporting to the July 26, 2023 congressional hearing.",
+  "primarySourceLinks": [
+    {
+      "label": "Need to Know",
+      "url": "https://NeedToKnow.today",
+      "sourceType": "Official podcast website"
+    }
+  ]
+}

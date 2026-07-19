@@ -1,0 +1,31 @@
+{
+  "id": "jay-stratton",
+  "type": "person",
+  "name": "Jay Stratton",
+  "summary": "Former intelligence official associated with AAWSAP and leadership of the UAP Task Force.",
+  "relationships": [
+    {
+      "type": "affiliated_with",
+      "target": "uap-task-force",
+      "role": "Former director"
+    },
+    {
+      "type": "affiliated_with",
+      "target": "department-of-defense",
+      "role": "Former intelligence official"
+    }
+  ],
+  "profileStatus": "Former government UAP program official",
+  "profileSummary": "Former intelligence official associated with AAWSAP and leadership of the UAP Task Force.",
+  "background": "Former U.S. government intelligence official and UAP Task Force director.",
+  "inclusionNote": "Included because of his established government roles and public statements concerning UAP investigations and institutional handling of the subject.",
+  "primarySourceLinks": [
+    {
+      "label": "Profile of public UAP statements",
+      "url": "https://www.washingtonpost.com/entertainment/movies/2025/03/11/ufos-aliens-age-of-disclosure/",
+      "sourceType": "The Washington Post"
+    }
+  ],
+  "profileBadge": "Former Government Official",
+  "profileBadgeClass": "badge-government"
+}

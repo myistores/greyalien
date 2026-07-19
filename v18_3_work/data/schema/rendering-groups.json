@@ -1,0 +1,17 @@
+{
+  "version": "1.0",
+  "rule": "Group relationship cards by target entity category; display the relationship as the card badge.",
+  "sectionGroups": [
+    {"key":"media","label":"Media","types":["interview","podcast_episode"]},
+    {"key":"people","label":"People","types":["person"]},
+    {"key":"hearings","label":"Hearings","types":["hearing"]},
+    {"key":"organizations","label":"Organizations","types":["organization"]},
+    {"key":"documents","label":"Documents","types":["document"]},
+    {"key":"topics","label":"Topics","types":["topic"]},
+    {"key":"cases","label":"Cases","types":["case"]},
+    {"key":"legislation","label":"Legislation","types":["legislation"]},
+    {"key":"publications","label":"Publications","types":["publication"]},
+    {"key":"claims","label":"Claims","types":["claim"]},
+    {"key":"podcast-series","label":"Podcast Series","types":["podcast_series"]}
+  ]
+}

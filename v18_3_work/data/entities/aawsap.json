@@ -1,0 +1,22 @@
+{
+  "id": "aawsap",
+  "type": "organization",
+  "name": "Advanced Aerospace Weapon System Applications Program",
+  "summary": "Defense Intelligence Agency program initiated to study advanced aerospace threats and anomalous phenomena through contracted research.",
+  "relationships": [
+    {
+      "type": "addresses_topic",
+      "target": "scientific-investigation"
+    },
+    {
+      "type": "held_by",
+      "target": "defense-intelligence-agency"
+    },
+    {
+      "type": "addresses_topic",
+      "target": "government-transparency"
+    }
+  ],
+  "organizationPurpose": "Commission technical studies and investigate advanced aerospace threats, including reports associated with anomalous phenomena.",
+  "formed": "2008"
+}

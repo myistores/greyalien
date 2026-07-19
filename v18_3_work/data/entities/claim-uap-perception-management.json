@@ -1,0 +1,21 @@
+{
+  "id": "claim-uap-perception-management",
+  "type": "claim",
+  "name": "Matthew Brown alleges that public perceptions of UAP information are deliberately managed",
+  "summary": "Matthew Brown alleges that fear, self-interest, and institutional resistance are used to shape or limit public understanding of UAP information.",
+  "relationships": [
+    {
+      "type": "made_by",
+      "target": "matthew-brown"
+    },
+    {
+      "type": "presented_at",
+      "target": "weaponized-matthew-brown-part-3"
+    },
+    {
+      "type": "concerns",
+      "target": "government-transparency"
+    }
+  ],
+  "status": "Attributed allegation presented in an interview; not independently established by GreyAlien."
+}

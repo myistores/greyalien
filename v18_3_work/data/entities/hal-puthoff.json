@@ -1,0 +1,41 @@
+{
+  "id": "hal-puthoff",
+  "type": "person",
+  "name": "Harold “Hal” Puthoff",
+  "summary": "Physicist associated with SRI research, advanced propulsion, EarthTech International, AAWSAP-related work, and To The Stars Academy.",
+  "relationships": [
+    {
+      "type": "affiliated_with",
+      "target": "earthtech-international",
+      "role": "President and CEO"
+    },
+    {
+      "type": "affiliated_with",
+      "target": "aawsap",
+      "role": "Research contributor"
+    },
+    {
+      "type": "affiliated_with",
+      "target": "to-the-stars-academy",
+      "role": "Former science and technology executive"
+    }
+  ],
+  "profileStatus": "Physicist and advanced-propulsion researcher",
+  "profileSummary": "Physicist associated with SRI research, advanced propulsion, EarthTech International, AAWSAP-related work, and To The Stars Academy.",
+  "profileBadge": "Scientist",
+  "profileBadgeClass": "badge-scientist",
+  "background": "Physicist and engineer with a long career in laser research, remote-viewing studies, and advanced-propulsion research.",
+  "inclusionNote": "Included because his work and organizational roles connect several major government, private-research, and disclosure initiatives.",
+  "primarySourceLinks": [
+    {
+      "label": "EarthTech biography",
+      "url": "https://earthtech.org/team/hal-puthoff/",
+      "sourceType": "EarthTech International"
+    },
+    {
+      "label": "To The Stars Academy",
+      "url": "https://tothestars.media/pages/about",
+      "sourceType": "To The Stars Academy"
+    }
+  ]
+}

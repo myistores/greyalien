@@ -1,0 +1,20 @@
+{
+  "id": "galileo-project",
+  "type": "organization",
+  "name": "The Galileo Project",
+  "summary": "Harvard-based research project using transparent, instrument-driven methods to study anomalous aerial phenomena and possible extraterrestrial technological artifacts.",
+  "relationships": [
+    {
+      "type": "addresses_topic",
+      "target": "scientific-investigation"
+    },
+    {
+      "type": "addresses_topic",
+      "target": "uap-reporting-systems"
+    }
+  ],
+  "externalUrl": "https://galileo.hsites.harvard.edu/",
+  "externalLinkLabel": "Visit official website",
+  "organizationPurpose": "Move research from anecdotal reports toward validated, systematic scientific observation.",
+  "formed": "2021"
+}

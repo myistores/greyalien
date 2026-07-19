@@ -1,0 +1,229 @@
+{
+  "schemaVersion": 1,
+  "title": "Witness & Whistleblower Database 1.0",
+  "description": "Documented profiles connecting people to congressional testimony, interviews, organizations, hearings, claims, and supporting source material.",
+  "profiles": [
+    {
+      "id": "david-grusch",
+      "status": "Public whistleblower and congressional witness",
+      "summary": "Former U.S. intelligence officer whose public testimony and written statement raised allegations concerning hidden UAP programs and congressional oversight.",
+      "inclusionNote": "Included because of public congressional testimony, written testimony, public interviews, and documented whistleblower-related reporting."
+    },
+    {
+      "id": "luis-elizondo",
+      "status": "Former official, public witness, and disclosure advocate",
+      "summary": "Former Department of Defense official who testified publicly about alleged secret UAP programs, oversight concerns, and protections for people reporting UAP information.",
+      "inclusionNote": "Included because of public congressional testimony, an official written statement, and testimony concerning whistleblowers and alleged retaliation."
+    },
+    {
+      "id": "dylan-borland",
+      "status": "Self-identified federal whistleblower and congressional witness",
+      "summary": "Former Air Force geospatial-intelligence specialist who described himself in official written testimony as a federal whistleblower and presented allegations concerning UAP programs and retaliation.",
+      "inclusionNote": "Included because his official House statement explicitly identifies him as a federal whistleblower and records testimony to AARO and the Intelligence Community Inspector General."
+    },
+    {
+      "id": "alexandro-wiggins",
+      "status": "Firsthand military witness and congressional witness",
+      "summary": "Active-duty U.S. Navy Senior Chief Petty Officer who submitted a firsthand account of a February 2023 UAP event and discussed it publicly in congressional testimony and an interview.",
+      "inclusionNote": "Included as a witness profile, not labeled as a whistleblower. His record tests how witness testimony, interviews, claims, organizations, and supporting documents connect."
+    },
+    {
+      "id": "karl-nell",
+      "status": "Former military officer and public disclosure advocate",
+      "summary": "Retired U.S. Army colonel, aerospace executive, and public advocate for greater government disclosure concerning UAP.",
+      "inclusionNote": "Included because of his former military and national-security background, public statements concerning UAP disclosure, and direct relevance to claims and people already represented in the knowledge graph."
+    },
+    {
+      "id": "christopher-mellon",
+      "status": "Former government official and public disclosure advocate",
+      "summary": "Former Deputy Assistant Secretary of Defense for Intelligence and former Senate Intelligence Committee staff director who has advocated for congressional UAP oversight.",
+      "inclusionNote": "Included because of his former defense and congressional-intelligence roles, public advocacy for UAP oversight, and involvement in bringing military UAP reporting to congressional attention."
+    },
+    {
+      "id": "ryan-graves",
+      "status": "Firsthand military witness and congressional witness",
+      "summary": "Former U.S. Navy F/A-18 pilot, aviation-safety advocate, and congressional witness.",
+      "inclusionNote": "Included because of firsthand military reporting, official congressional testimony, written testimony, and continuing aviation-safety advocacy."
+    },
+    {
+      "id": "david-fravor",
+      "status": "Firsthand military witness and congressional witness",
+      "summary": "Retired U.S. Navy commander, firsthand witness to the 2004 Nimitz encounter, and congressional witness.",
+      "inclusionNote": "Included because of firsthand involvement in the 2004 Nimitz encounter, official congressional testimony, written testimony, and documented public interviews."
+    },
+    {
+      "id": "sean-kirkpatrick",
+      "status": "Former government official and congressional witness",
+      "summary": "Former Director of the All-domain Anomaly Resolution Office and government witness before Congress.",
+      "inclusionNote": "Included because of his leadership of AARO, public and classified congressional testimony, and central role in the official government response to UAP reporting and analysis."
+    },
+    {
+      "id": "alex-dietrich",
+      "status": "Firsthand military witness",
+      "summary": "Former U.S. Navy F/A-18 pilot and firsthand witness to the November 2004 Nimitz encounter.",
+      "inclusionNote": "Included because of her firsthand role in the Nimitz encounter and extensive on-the-record public testimony about the event."
+    },
+    {
+      "id": "chad-underwood",
+      "status": "Military sensor witness",
+      "summary": "Former U.S. Navy aviator who recorded the FLIR1 video during the 2004 Nimitz encounter.",
+      "inclusionNote": "Included because he operated the sensor system that produced one of the most significant publicly released videos connected to the Nimitz case."
+    },
+    {
+      "id": "kevin-day",
+      "status": "Military radar witness",
+      "summary": "Former U.S. Navy radar operator who reported tracking anomalous objects during the 2004 Nimitz events.",
+      "inclusionNote": "Included because his radar account supplies a major sensor-based perspective on the Nimitz timeline."
+    },
+    {
+      "id": "gary-voorhis",
+      "status": "Military radar and systems witness",
+      "summary": "Former U.S. Navy technician who has described radar and data-handling activity connected to the 2004 Nimitz events.",
+      "inclusionNote": "Included because his account links the Nimitz case to shipboard radar systems, data handling, and the broader witness network."
+    },
+    {
+      "id": "douglas-kurth",
+      "status": "Firsthand military witness",
+      "summary": "Former U.S. Marine Corps aviator who reported observing an unusual disturbance on the ocean during the 2004 Nimitz events.",
+      "inclusionNote": "Included because his observation preceded the best-known visual interception and adds an independent element to the case timeline."
+    },
+    {
+      "id": "jim-slaight",
+      "status": "Firsthand military witness",
+      "summary": "Former U.S. Navy weapons-systems officer who participated in the 2004 Nimitz interception.",
+      "inclusionNote": "Included to represent the full aircrew involved in the visual interception and strengthen the firsthand witness record."
+    },
+    {
+      "id": "matthew-brown",
+      "status": "Self-identified former government whistleblower",
+      "summary": "Former government analyst who publicly associated himself with allegations concerning an alleged program called Immaculate Constellation.",
+      "inclusionNote": "Included because he has publicly identified himself and given extended on-the-record interviews. His central allegations remain unverified publicly."
+    },
+    {
+      "id": "jake-barber",
+      "status": "Self-identified recovery-program whistleblower",
+      "summary": "Former military servicemember who publicly claimed involvement in recovery operations involving unusual objects.",
+      "inclusionNote": "Included because he has made named, on-the-record claims. The alleged retrieval activities remain unverified publicly."
+    },
+    {
+      "id": "james-lacatski",
+      "status": "Former government program manager",
+      "summary": "Former Defense Intelligence Agency official associated with the AAWSAP program.",
+      "inclusionNote": "Included because of his documented government role, authorship, and direct public discussion of AAWSAP and related findings."
+    },
+    {
+      "id": "jay-stratton",
+      "status": "Former government UAP program official",
+      "summary": "Former intelligence official associated with AAWSAP and leadership of the UAP Task Force.",
+      "inclusionNote": "Included because of his established government roles and public statements concerning UAP investigations and institutional handling of the subject."
+    },
+    {
+      "id": "charles-halt",
+      "status": "Military witness and official memorandum author",
+      "summary": "Retired U.S. Air Force officer who investigated and documented part of the 1980 Rendlesham Forest incident.",
+      "inclusionNote": "Included because he authored a contemporaneous official memorandum and recorded observations associated with the Rendlesham case."
+    },
+    {
+      "id": "john-burroughs",
+      "status": "Firsthand military witness",
+      "summary": "Former U.S. Air Force security policeman and firsthand witness to the Rendlesham Forest incident.",
+      "inclusionNote": "Included because his contemporaneous written statement is part of the released official record."
+    },
+    {
+      "id": "jim-penniston",
+      "status": "Firsthand military witness",
+      "summary": "Former U.S. Air Force security supervisor who submitted a contemporaneous statement concerning the Rendlesham Forest incident.",
+      "inclusionNote": "Included because of his original written statement. Later additions to his account should be distinguished from the contemporaneous record."
+    },
+    {
+      "id": "robert-salas",
+      "status": "Former missile officer and firsthand claimant",
+      "summary": "Former U.S. Air Force missile officer who has associated a 1967 missile shutdown with a reported UFO event.",
+      "inclusionNote": "Included because the missile shutdown is documented and Salas has provided named public testimony. The asserted UFO connection remains disputed."
+    },
+    {
+      "id": "robert-jacobs",
+      "status": "Former military photographic officer and claimant",
+      "summary": "Former U.S. Air Force officer who has claimed that film of a 1964 missile test showed an unidentified object interacting with the test vehicle.",
+      "inclusionNote": "Included because he was a named participant in the missile-test program and has maintained a detailed public account. The interpretation of the film is disputed."
+    },
+    {
+      "id": "patrick-pj-hughes",
+      "status": "Military aviation witness",
+      "summary": "Former U.S. Navy E-2 Hawkeye crew member associated with recording media and post-event activity following the 2004 Nimitz encounter.",
+      "inclusionNote": "Included because he has publicly described handling E-2 recording media and its removal after the Nimitz events. The account is based on witness interviews rather than a released official chain-of-custody record."
+    },
+    {
+      "id": "jason-turner",
+      "status": "USS Princeton witness",
+      "summary": "Former USS Princeton crew member who has publicly described viewing a longer version of video associated with the 2004 Nimitz encounter.",
+      "inclusionNote": "Included because of his named public account concerning shipboard video and post-event handling. The longer-video account has not been independently established through a released official copy."
+    },
+    {
+      "id": "ryan-weigelt",
+      "status": "Navy helicopter crew witness",
+      "summary": "Former U.S. Navy helicopter crew member connected to post-event activity during the 2004 Nimitz encounter.",
+      "inclusionNote": "Included because of his named public account concerning post-event activity associated with the Nimitz case."
+    },
+    {
+      "id": "karson-kammerzell",
+      "status": "Military communications and records witness",
+      "summary": "Former U.S. Navy cryptologic technician associated with shipboard records and communications connected to the 2004 Nimitz encounter.",
+      "inclusionNote": "Included because of his named public account concerning records, communications, and logs associated with the Nimitz events."
+    },
+    {
+      "id": "david-spergel",
+      "status": "NASA independent-study chair",
+      "summary": "Astrophysicist who chaired NASA's UAP Independent Study Team.",
+      "inclusionNote": "Included because NASA formally appointed him chair of the UAP Independent Study Team and he helped present the team's public findings and recommendations."
+    },
+    {
+      "id": "scott-kelly",
+      "status": "NASA independent-study member",
+      "summary": "Retired NASA astronaut and former U.S. Navy aviator who served on NASA's UAP Independent Study Team.",
+      "inclusionNote": "Included because NASA formally appointed him to the UAP Independent Study Team, adding operational aviation and astronaut experience to the panel."
+    },
+    {
+      "id": "joshua-semeter",
+      "status": "NASA independent-study member",
+      "summary": "Professor and atmospheric-sensing specialist who served on NASA's UAP Independent Study Team.",
+      "inclusionNote": "Included because NASA appointed him to provide expertise in atmospheric sensing, remote observation, and data interpretation."
+    },
+    {
+      "id": "warren-randolph",
+      "status": "FAA aviation-safety specialist and NASA study-team member",
+      "summary": "Federal Aviation Administration specialist who served on NASA's UAP Independent Study Team.",
+      "inclusionNote": "Included because NASA appointed him to contribute civil-aviation safety, reporting, and investigative expertise."
+    },
+    {
+      "id": "karlin-toner",
+      "status": "FAA policy official and NASA study-team member",
+      "summary": "Federal Aviation Administration policy official who served on NASA's UAP Independent Study Team.",
+      "inclusionNote": "Included because NASA appointed her to contribute civil-aviation policy and federal-agency coordination experience."
+    },
+    {
+      "id": "anamaria-berea",
+      "status": "NASA independent-study member",
+      "summary": "Computational and data scientist who served on NASA's UAP Independent Study Team.",
+      "inclusionNote": "Included because NASA appointed her to provide expertise in complex systems, data analysis, and interdisciplinary research."
+    },
+    {
+      "id": "federica-bianco",
+      "status": "NASA independent-study member",
+      "summary": "Astrophysicist and data-science specialist who served on NASA's UAP Independent Study Team.",
+      "inclusionNote": "Included because NASA appointed her to contribute observational astronomy, survey science, and large-scale data-analysis expertise."
+    },
+    {
+      "id": "david-grinspoon",
+      "status": "NASA independent-study member",
+      "summary": "Astrobiologist and planetary scientist who served on NASA's UAP Independent Study Team.",
+      "inclusionNote": "Included because NASA appointed him to contribute planetary-science, astrobiology, and public-science expertise."
+    },
+    {
+      "id": "shelley-wright",
+      "status": "NASA independent-study member",
+      "summary": "Astronomer and instrumentation specialist who served on NASA's UAP Independent Study Team.",
+      "inclusionNote": "Included because NASA appointed her to contribute astronomical instrumentation, observational methods, and technosignature-research experience."
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "id": "claim-s4-reverse-engineering",
+  "type": "claim",
+  "name": "Bob Lazar claims he worked at S4 on reverse-engineering an unconventional craft",
+  "summary": "Bob Lazar has stated that he was assigned to an alleged facility called S4, where he worked on efforts to understand and reverse-engineer an unconventional craft.",
+  "relationships": [
+    {
+      "type": "made_by",
+      "target": "bob-lazar"
+    },
+    {
+      "type": "presented_at",
+      "target": "1989-bob-lazar-george-knapp-interview"
+    },
+    {
+      "type": "concerns",
+      "target": "area-51"
+    },
+    {
+      "type": "concerns",
+      "target": "s4-facility-claim"
+    }
+  ],
+  "status": "Highly influential public allegation; not established as fact by GreyAlien.",
+  "evidenceNote": "The profile separates Lazar's public interviews and cultural influence from disputes regarding his education, employment history, and supporting evidence."
+}

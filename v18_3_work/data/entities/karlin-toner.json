@@ -1,0 +1,35 @@
+{
+  "id": "karlin-toner",
+  "type": "person",
+  "name": "Karlin Toner",
+  "summary": "Federal Aviation Administration policy official who served on NASA's UAP Independent Study Team.",
+  "relationships": [
+    {
+      "type": "affiliated_with",
+      "target": "nasa-uap-independent-study-team",
+      "role": "Study-team member"
+    },
+    {
+      "type": "affiliated_with",
+      "target": "federal-aviation-administration",
+      "role": "Policy official"
+    },
+    {
+      "type": "authored",
+      "target": "2023-nasa-uap-independent-study-report"
+    }
+  ],
+  "profileStatus": "FAA policy official and NASA study-team member",
+  "profileSummary": "Federal Aviation Administration policy official who served on NASA's UAP Independent Study Team.",
+  "background": "Senior FAA aviation-policy official.",
+  "inclusionNote": "Included because NASA appointed her to contribute civil-aviation policy and federal-agency coordination experience.",
+  "primarySourceLinks": [
+    {
+      "label": "NASA announces UAP study-team members",
+      "url": "https://www.nasa.gov/general/nasa-announces-unidentified-aerial-phenomena-study-team-members/",
+      "sourceType": "NASA"
+    }
+  ],
+  "profileBadge": "Scientist / Researcher",
+  "profileBadgeClass": "badge-scientist"
+}

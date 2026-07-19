@@ -1,0 +1,48 @@
+{
+  "id": "timeline-2023-06-12-disclosure-project-national-press-club",
+  "type": "timeline_event",
+  "name": "Disclosure Project Presents New Witness Testimony at the National Press Club",
+  "summary": "A public Disclosure Project event at the National Press Club featured testimony from Michael Herrera, Eric Hecker, and other witnesses making allegations about concealed UAP programs and advanced technologies. The event materially broadened public attention to both Herrera's Indonesia account and Hecker's South Pole claims; the allegations remain unverified.",
+  "date": "2023-06-12",
+  "dateDisplay": "June 12, 2023",
+  "eventCategory": "Public UAP testimony",
+  "relationships": [
+    {
+      "type": "timeline_connection",
+      "target": "michael-herrera",
+      "role": "witness",
+      "context": "Publicly presented his account of an alleged 2009 Indonesia craft encounter"
+    },
+    {
+      "type": "timeline_connection",
+      "target": "eric-hecker",
+      "role": "witness",
+      "context": "Publicly presented allegations concerning advanced technology at the South Pole"
+    },
+    {
+      "type": "timeline_connection",
+      "target": "claim-indonesia-human-trafficking-craft",
+      "role": "related_claim",
+      "context": "Herrera's central allegation presented during the event"
+    },
+    {
+      "type": "timeline_connection",
+      "target": "claim-south-pole-directed-energy",
+      "role": "related_claim",
+      "context": "Hecker's central allegation presented during the event"
+    },
+    {
+      "type": "timeline_connection",
+      "target": "government-transparency",
+      "role": "related_topic",
+      "context": "Public disclosure and oversight of alleged concealed programs"
+    }
+  ],
+  "primarySourceLinks": [
+    {
+      "label": "Disclosure Project National Press Club event archive",
+      "url": "https://www.dpiarchive.com/",
+      "sourceType": "Disclosure Project Intelligence Archive"
+    }
+  ]
+}

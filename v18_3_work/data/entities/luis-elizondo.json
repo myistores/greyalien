@@ -1,0 +1,59 @@
+{
+  "id": "luis-elizondo",
+  "type": "person",
+  "name": "Luis Elizondo",
+  "summary": "Author and former Department of Defense official who testified at the November 2024 House UAP hearing.",
+  "relationships": [
+    {
+      "type": "testified_at",
+      "target": "2024-11-13-house-oversight-uap",
+      "role": "Witness",
+      "date": "2024-11-13"
+    },
+    {
+      "type": "affiliated_with",
+      "target": "department-of-defense",
+      "role": "Former official"
+    },
+    {
+      "type": "authored",
+      "target": "2024-elizondo-written-testimony"
+    },
+    {
+      "type": "made_claim",
+      "target": "claim-secret-uap-programs"
+    },
+    {
+      "type": "made_claim",
+      "target": "claim-whistleblower-retaliation"
+    },
+    {
+      "type": "authored",
+      "target": "2024-08-20-imminent-luis-elizondo",
+      "role": "Author"
+    }
+  ],
+  "profileStatus": "Former official, public witness, and disclosure advocate",
+  "profileSummary": "Former Department of Defense official who testified publicly about alleged secret UAP programs, oversight concerns, and protections for people reporting UAP information.",
+  "background": "Former Department of Defense official and author.",
+  "inclusionNote": "Included because of public congressional testimony, an official written statement, and testimony concerning whistleblowers and alleged retaliation.",
+  "primarySourceLinks": [
+    {
+      "label": "Official written testimony",
+      "url": "https://oversight.house.gov/wp-content/uploads/2024/11/Written-Testimony-Elizondo.pdf",
+      "sourceType": "House Committee on Oversight and Accountability"
+    },
+    {
+      "label": "Official November 2024 hearing page",
+      "url": "https://oversight.house.gov/hearing/unidentified-anomalous-phenomena-exposing-the-truth/",
+      "sourceType": "House Committee on Oversight and Accountability"
+    },
+    {
+      "label": "Galileo Project research affiliate announcement",
+      "url": "https://galileo.hsites.harvard.edu/news/galileo-project-welcomes-christopher-mellon-and-luis-elizondo-research-affiliates",
+      "sourceType": "Harvard University"
+    }
+  ],
+  "profileBadge": "Firsthand Witness",
+  "profileBadgeClass": "badge-witness"
+}

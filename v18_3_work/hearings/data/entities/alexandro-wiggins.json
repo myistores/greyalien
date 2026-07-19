@@ -1,0 +1,47 @@
+{
+  "id": "alexandro-wiggins",
+  "type": "person",
+  "name": "Alexandro Wiggins",
+  "summary": "Active-duty U.S. Navy operations specialist",
+  "relationships": [
+    {
+      "type": "testified_at",
+      "target": "2025-09-09-house-uap-transparency-hearing",
+      "role": "Witness or participant",
+      "date": "2025-09-09"
+    },
+    {
+      "type": "authored",
+      "target": "2025-wiggins-written-statement"
+    },
+    {
+      "type": "appeared_in",
+      "target": "2025-weaponized-wiggins-interview"
+    },
+    {
+      "type": "made_claim",
+      "target": "claim-uss-jackson-transmedium-objects"
+    },
+    {
+      "type": "affiliated_with",
+      "target": "united-states-navy",
+      "role": "Senior Chief Petty Officer"
+    }
+  ],
+  "profileStatus": "Firsthand military witness and congressional witness",
+  "profileSummary": "Active-duty U.S. Navy Senior Chief Petty Officer who submitted a firsthand account of a February 2023 UAP event and discussed it publicly in congressional testimony and an interview.",
+  "background": "U.S. Navy Senior Chief Petty Officer and operations specialist.",
+  "inclusionNote": "Included as a witness profile, not labeled as a whistleblower. His record tests how witness testimony, interviews, claims, organizations, and supporting documents connect.",
+  "primarySourceLinks": [
+    {
+      "label": "Official written statement",
+      "url": "https://oversight.house.gov/wp-content/uploads/2025/09/Wiggins-Written-Statement.pdf",
+      "sourceType": "House Committee on Oversight and Government Reform"
+    },
+    {
+      "label": "Official September 2025 hearing page",
+      "url": "https://oversight.house.gov/hearing/restoring-public-trust-through-uap-transparency-and-whistleblower-protection/",
+      "sourceType": "House Committee on Oversight and Government Reform"
+    }
+  ]
+}

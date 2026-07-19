@@ -1,0 +1,64 @@
+{
+  "schemaVersion": 1,
+  "description": "GreyAlien knowledge graph structure with contextual relationship roles for media and other entity connections.",
+  "entityTypes": [
+    "person",
+    "hearing",
+    "interview",
+    "podcast",
+    "film",
+    "case",
+    "document",
+    "organization",
+    "topic",
+    "podcast_episode"
+  ],
+  "relationshipTypes": [
+    "appeared_at",
+    "interviewed_in",
+    "featured_on",
+    "covers_case",
+    "supported_by",
+    "related_to",
+    "published_by",
+    "member_of",
+    "references",
+    "features_person",
+    "episode_of"
+  ],
+  "example": {
+    "id": "hearing-example",
+    "type": "hearing",
+    "title": "Example UAP Hearing",
+    "relationships": [
+      {
+        "type": "appeared_at",
+        "target": "person-example"
+      },
+      {
+        "type": "supported_by",
+        "target": "document-example"
+      }
+    ]
+  },
+  "relationshipRoles": [
+    "host",
+    "co_host",
+    "guest",
+    "primary_subject",
+    "co_subject",
+    "interviewer",
+    "mentioned",
+    "referenced",
+    "creator",
+    "producer",
+    "narrator"
+  ],
+  "podcastEpisodeStandards": {
+    "principalClaims": {
+      "minimum": 3,
+      "maximum": 7,
+      "guidance": "Include only durable, high-value propositions central to the episode. Phrase each claim as an attributed proposition rather than a keyword or statement of established fact."
+    }
+  }
+}

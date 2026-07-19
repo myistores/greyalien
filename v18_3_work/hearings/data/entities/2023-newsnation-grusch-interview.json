@@ -1,0 +1,21 @@
+{
+  "id": "2023-newsnation-grusch-interview",
+  "type": "interview",
+  "name": "David Grusch NewsNation Interview",
+  "summary": "Television interview in which Grusch publicly discussed allegations concerning hidden UAP-related programs",
+  "relationships": [
+    {
+      "type": "published_by",
+      "target": "newsnation"
+    },
+    {
+      "type": "discussed_topic",
+      "target": "government-transparency"
+    },
+    {
+      "type": "presented_claim",
+      "target": "claim-crash-retrieval-program"
+    }
+  ],
+  "date": "2023-06-05"
+}

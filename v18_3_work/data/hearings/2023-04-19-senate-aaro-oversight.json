@@ -1,0 +1,147 @@
+{
+  "schemaVersion": 1,
+  "id": "2023-04-19-senate-aaro-oversight",
+  "entityType": "hearing",
+  "title": "Mission, Activities, Oversight, and Budget of the All-Domain Anomaly Resolution Office",
+  "shortTitle": "April 19, 2023 Senate AARO Hearing",
+  "date": "2023-04-19",
+  "time": "10:30 a.m. ET",
+  "location": "SR-232A, Russell Senate Office Building",
+  "congress": "118th Congress",
+  "chamber": "U.S. Senate",
+  "committee": "Senate Committee on Armed Services",
+  "subcommittee": "Subcommittee on Emerging Threats and Capabilities",
+  "summary": "An open Senate hearing examining AARO's mission, activities, oversight, budget, reporting process, and analysis of UAP cases.",
+  "whyItMatters": "This hearing is a central public record for AARO's early operations and links modern congressional oversight to the office created by Congress.",
+  "editorialNote": "The official hearing page, transcript, presentation, and released case material are primary sources.",
+  "themes": [
+    "AARO oversight",
+    "UAP case analysis",
+    "Reporting stigma",
+    "Sensor data",
+    "Budget and authorities",
+    "National security"
+  ],
+  "witnesses": [
+    {
+      "id": "sean-kirkpatrick",
+      "name": "Sean M. Kirkpatrick",
+      "roleAtHearing": "Director, All-domain Anomaly Resolution Office",
+      "background": "First director of AARO",
+      "claimStatus": "Government testimony",
+      "testimonySummary": "Kirkpatrick presented AARO's mission, case holdings, analytic methods, organizational needs, and selected UAP case material.",
+      "keyPoints": [
+        "AARO operations",
+        "Case resolution",
+        "Data collection",
+        "Reporting mechanisms",
+        "Budget and staffing"
+      ],
+      "documents": [
+        {
+          "label": "Official statement and materials",
+          "url": "https://www.armed-services.senate.gov/hearings/to-receive-testimony-on-the-mission-activities-oversight-and-budget-of-the-all-domain-anomaly-resolution-office",
+          "sourceType": "Senate Armed Services Committee"
+        }
+      ]
+    }
+  ],
+  "timeline": [
+    {
+      "date": "2023-04-19",
+      "label": "Closed session held before the public hearing"
+    },
+    {
+      "date": "2023-04-19",
+      "label": "Open hearing held at 10:30 a.m."
+    }
+  ],
+  "documents": [
+    {
+      "label": "Official hearing page",
+      "url": "https://www.armed-services.senate.gov/hearings/to-receive-testimony-on-the-mission-activities-oversight-and-budget-of-the-all-domain-anomaly-resolution-office",
+      "sourceType": "Senate Armed Services Committee"
+    },
+    {
+      "label": "Official transcript",
+      "url": "https://www.armed-services.senate.gov/download/transcript-4-19-2023",
+      "sourceType": "Senate Armed Services Committee"
+    },
+    {
+      "label": "AARO congressional products",
+      "url": "https://www.aaro.mil/Congressional-Press-Products/",
+      "sourceType": "All-domain Anomaly Resolution Office"
+    }
+  ],
+  "evidenceProfile": {
+    "level": "Documented congressional record",
+    "summary": "This record is based on public congressional or government material. Classified details may remain unavailable.",
+    "items": [
+      {
+        "label": "Public event or official reference",
+        "status": "available"
+      },
+      {
+        "label": "Public supporting documents",
+        "status": "available"
+      },
+      {
+        "label": "Complete classified record",
+        "status": "limited"
+      }
+    ]
+  },
+  "relationships": {
+    "people": [
+      "sean-kirkpatrick"
+    ],
+    "organizations": [
+      "senate-armed-services-committee",
+      "aaro",
+      "department-of-defense"
+    ],
+    "cases": [],
+    "topics": [
+      "government-transparency",
+      "classification",
+      "aviation-safety",
+      "uap-reporting-systems"
+    ]
+  },
+  "catalogCategories": [
+    "Dedicated public UAP hearings",
+    "Broader defense/intelligence hearings containing substantial UAP testimony"
+  ],
+  "navigation": {
+    "previous": "2022-05-17-house-intelligence-uap",
+    "next": "2023-07-13-uap-disclosure-act-consideration"
+  },
+  "sharedConnections": {
+    "with": [
+      "1966-04-05-house-ufo-hearing",
+      "2022-05-03-house-intelligence-classified-uap-briefing",
+      "2022-05-17-house-intelligence-uap",
+      "2023-07-13-uap-disclosure-act-consideration",
+      "2023-07-26-house-oversight-uap",
+      "2023-congressional-classified-aaro-briefings",
+      "2024-01-12-house-uap-scif-briefing",
+      "2024-11-13-house-oversight-uap",
+      "2024-11-19-senate-aaro-update",
+      "2024-12-06-house-classified-aaro-briefing",
+      "2024-12-18-fy2025-ndaa-uap-provisions",
+      "2025-09-09-house-uap-transparency-hearing"
+    ],
+    "topics": [
+      "classification",
+      "aviation-safety",
+      "uap-reporting-systems",
+      "government-transparency"
+    ],
+    "organizations": [
+      "department-of-defense",
+      "aaro",
+      "senate-armed-services-committee"
+    ]
+  },
+  "lastReviewed": "2026-07-10"
+}

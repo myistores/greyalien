@@ -1,0 +1,35 @@
+{
+  "id": "patrick-pj-hughes",
+  "type": "person",
+  "name": "Patrick “P.J.” Hughes",
+  "summary": "Former U.S. Navy E-2 Hawkeye crew member associated with recording media and post-event activity following the 2004 Nimitz encounter.",
+  "relationships": [
+    {
+      "type": "reported_case",
+      "target": "2004-nimitz-encounter"
+    },
+    {
+      "type": "affiliated_with",
+      "target": "united-states-navy",
+      "role": "Former E-2 Hawkeye crew member"
+    }
+  ],
+  "profileStatus": "Military aviation witness",
+  "profileSummary": "Former U.S. Navy E-2 Hawkeye crew member associated with recording media and post-event activity following the 2004 Nimitz encounter.",
+  "background": "Former U.S. Navy E-2 Hawkeye crew member.",
+  "inclusionNote": "Included because he has publicly described handling E-2 recording media and its removal after the Nimitz events. The account is based on witness interviews rather than a released official chain-of-custody record.",
+  "primarySourceLinks": [
+    {
+      "label": "Nimitz witness investigation",
+      "url": "https://www.popularmechanics.com/military/research/a63549222/navy-ufo-witnesses-nimitz-encounter/",
+      "sourceType": "Popular Mechanics"
+    },
+    {
+      "label": "Scientific analysis of the Nimitz encounter",
+      "url": "https://www.explorescu.org/post/2004-uss-nimitz-strike-navy-group-incident-report",
+      "sourceType": "Scientific Coalition for UAP Studies"
+    }
+  ],
+  "profileBadge": "Firsthand Witness",
+  "profileBadgeClass": "badge-witness"
+}

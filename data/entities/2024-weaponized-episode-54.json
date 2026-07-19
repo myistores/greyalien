@@ -1,0 +1,105 @@
+{
+  "id": "2024-weaponized-episode-54",
+  "type": "podcast_episode",
+  "name": "WEAPONIZED Episode #54 — Pantex, Nuclear-Site UAP Incursions, and FOIA Records",
+  "summary": "Jeremy Corbell and George Knapp examine reported UAP incursions around nuclear facilities and are joined by Dustin Slaughter to discuss redacted records concerning a 2015 diamond-shaped craft near the Pantex plant.",
+  "date": "2024-06-18",
+  "dateDisplay": "June 18, 2024",
+  "seriesId": "weaponized-podcast",
+  "episodeNumber": 54,
+  "episodeTitle": "Pantex, Nuclear-Site UAP Incursions, and FOIA Records",
+  "status": "Published",
+  "mediaType": "Podcast episode",
+  "mediaPlatform": "WEAPONIZED",
+  "mediaHost": "Jeremy Corbell and George Knapp",
+  "mediaGuests": [
+    "dustin-slaughter"
+  ],
+  "mediaSubjects": [
+    "Pantex",
+    "Nuclear facilities",
+    "FOIA",
+    "Diamond-shaped craft"
+  ],
+  "principalClaims": [],
+  "researchNotes": [],
+  "relationships": [
+    {
+      "type": "episode_of",
+      "target": "weaponized-podcast"
+    },
+    {
+      "type": "features_person",
+      "target": "jeremy-corbell",
+      "role": "host",
+      "context": "WEAPONIZED co-host"
+    },
+    {
+      "type": "features_person",
+      "target": "george-knapp",
+      "role": "host",
+      "context": "WEAPONIZED co-host"
+    },
+    {
+      "type": "features_person",
+      "target": "dustin-slaughter",
+      "role": "guest",
+      "context": "Discussed Pantex FOIA records"
+    },
+    {
+      "type": "features_person",
+      "target": "robert-hastings",
+      "role": "referenced_subject",
+      "context": "Research on UFOs and nuclear sites referenced"
+    },
+    {
+      "type": "references_organization",
+      "target": "department-of-energy"
+    },
+    {
+      "type": "references_organization",
+      "target": "uap-register"
+    },
+    {
+      "type": "references_case",
+      "target": "2015-pantex-diamond-uap-incident"
+    },
+    {
+      "type": "discussed_topic",
+      "target": "nuclear-facility-uap-incursions"
+    },
+    {
+      "type": "discussed_topic",
+      "target": "government-transparency"
+    }
+  ],
+  "sources": [
+    {
+      "label": "Official WEAPONIZED Episode #54 page",
+      "url": "https://www.weaponizedpodcast.com/episodes-2/episode-54",
+      "sourceType": "official_episode_page",
+      "primary": true
+    },
+    {
+      "label": "Listen to WEAPONIZED",
+      "url": "https://link.chtbl.com/Weaponized",
+      "sourceType": "official_audio_feed",
+      "primary": false
+    }
+  ],
+  "externalUrl": "https://www.weaponizedpodcast.com/episodes-2/episode-54",
+  "externalLinkLabel": "Open official Episode #54 page",
+  "mediaLinks": [
+    {
+      "label": "Open the official Episode #54 page",
+      "url": "https://www.weaponizedpodcast.com/episodes-2/episode-54",
+      "platform": "WEAPONIZED"
+    },
+    {
+      "label": "Listen to WEAPONIZED",
+      "url": "https://link.chtbl.com/Weaponized",
+      "platform": "Official audio feed"
+    }
+  ],
+  "eventCategory": "Podcast publication"
+}

@@ -1,0 +1,29 @@
+{
+  "id": "2024-01-12-house-uap-scif-briefing",
+  "type": "hearing",
+  "name": "January 12, 2024 House SCIF Briefing",
+  "summary": "A closed briefing concerning UAP whistleblower allegations and congressional access to information held by the intelligence community.",
+  "relationships": [
+    {
+      "type": "held_by",
+      "target": "house-oversight-committee"
+    },
+    {
+      "type": "held_by",
+      "target": "intelligence-community-inspector-general"
+    },
+    {
+      "type": "discussed_topic",
+      "target": "classification"
+    },
+    {
+      "type": "discussed_topic",
+      "target": "government-transparency"
+    },
+    {
+      "type": "discussed_topic",
+      "target": "whistleblower-protection"
+    }
+  ],
+  "date": "2024-01-12"
+}

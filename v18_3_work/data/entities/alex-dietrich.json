@@ -1,0 +1,30 @@
+{
+  "id": "alex-dietrich",
+  "type": "person",
+  "name": "Alex Dietrich",
+  "summary": "Former U.S. Navy F/A-18 pilot and firsthand witness to the November 2004 Nimitz encounter.",
+  "relationships": [
+    {
+      "type": "reported_case",
+      "target": "2004-nimitz-encounter"
+    },
+    {
+      "type": "affiliated_with",
+      "target": "united-states-navy",
+      "role": "Former F/A-18 pilot"
+    }
+  ],
+  "profileStatus": "Firsthand military witness",
+  "profileSummary": "Former U.S. Navy F/A-18 pilot and firsthand witness to the November 2004 Nimitz encounter.",
+  "background": "Former U.S. Navy fighter pilot who flew in the second aircraft during the Nimitz interception.",
+  "inclusionNote": "Included because of her firsthand role in the Nimitz encounter and extensive on-the-record public testimony about the event.",
+  "primarySourceLinks": [
+    {
+      "label": "60 Minutes interview on Navy UAP encounters",
+      "url": "https://www.cbsnews.com/news/ufo-military-intelligence-60-minutes-2021-05-16/",
+      "sourceType": "CBS News"
+    }
+  ],
+  "profileBadge": "Firsthand Witness",
+  "profileBadgeClass": "badge-witness"
+}

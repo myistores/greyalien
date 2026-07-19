@@ -1,0 +1,40 @@
+{
+  "id": "chaz-king",
+  "type": "person",
+  "name": "Chaz King",
+  "summary": "Former U.S. Air Force security personnel associated with publicly reported 2003 UAP incidents near Vandenberg Air Force Base.",
+  "relationships": [
+    {
+      "type": "reported_case",
+      "target": "2003-vandenberg-uap-incidents"
+    },
+    {
+      "type": "affiliated_with",
+      "target": "united-states-air-force",
+      "role": "Former security specialist"
+    },
+    {
+      "type": "affiliated_with",
+      "target": "vandenberg-space-force-base",
+      "role": "Former security personnel"
+    }
+  ],
+  "profileStatus": "Former Air Force security specialist and strategic-facilities witness",
+  "profileSummary": "Former U.S. Air Force security personnel associated with publicly reported 2003 UAP incidents near Vandenberg Air Force Base.",
+  "profileBadge": "Firsthand Witness",
+  "profileBadgeClass": "badge-witness",
+  "background": "Former U.S. Air Force security specialist.",
+  "inclusionNote": "Included because his account helps document a strategic-facilities incident cluster and provides connections to military security, Vandenberg, and other named witnesses.",
+  "primarySourceLinks": [
+    {
+      "label": "Public discussion of Vandenberg UAP accounts",
+      "url": "https://www.youtube.com/watch?v=4-MbGYAv7Cg",
+      "sourceType": "YouTube interview"
+    },
+    {
+      "label": "Official September 2025 UAP hearing page",
+      "url": "https://oversight.house.gov/hearing/restoring-public-trust-through-uap-transparency-and-whistleblower-protection/",
+      "sourceType": "House Committee on Oversight and Government Reform"
+    }
+  ]
+}

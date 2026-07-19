@@ -1,0 +1,24 @@
+{
+  "id": "publication-1965-anatomy-of-a-phenomenon",
+  "type": "publication",
+  "name": "Anatomy of a Phenomenon",
+  "summary": "Jacques Vallée published an early scientific appraisal of UFO reports, helping establish his long-running role in evidence-oriented UAP research.",
+  "date": "1965-01-01",
+  "dateDisplay": "1965",
+  "eventCategory": "Foundational UAP publication",
+  "relationships": [
+    {
+      "type": "timeline_connection",
+      "target": "jacques-vallee",
+      "role": "author",
+      "context": "Authored this influential UAP publication"
+    }
+  ],
+  "primarySourceLinks": [
+    {
+      "label": "Jacques Vallée official bibliography",
+      "url": "https://www.jacquesvallee.net/",
+      "sourceType": "Official author website"
+    }
+  ]
+}

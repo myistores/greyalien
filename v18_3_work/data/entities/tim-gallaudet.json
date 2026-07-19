@@ -1,0 +1,19 @@
+{
+  "id": "tim-gallaudet",
+  "type": "person",
+  "name": "Tim Gallaudet",
+  "summary": "Retired U.S. Navy rear admiral and former NOAA official who testified about aviation and maritime safety.",
+  "relationships": [
+    {
+      "type": "testified_at",
+      "target": "2024-11-13-house-oversight-uap",
+      "role": "Witness",
+      "date": "2024-11-13"
+    },
+    {
+      "type": "affiliated_with",
+      "target": "united-states-navy",
+      "role": "Retired rear admiral"
+    }
+  ]
+}

@@ -1,0 +1,140 @@
+{
+  "id": "2023-weaponized-episode-28",
+  "type": "podcast_episode",
+  "name": "WEAPONIZED Episode #28 — Congressional Hearing Roundtable",
+  "summary": "Jeremy Corbell and George Knapp are joined by Ross Coulthart and Bryce Zabel for a roundtable about the July 26, 2023 House UAP hearing, its three witnesses, how the hearing came together, and what might follow.",
+  "relationships": [
+    {
+      "type": "episode_of",
+      "target": "weaponized-podcast"
+    },
+    {
+      "type": "features_person",
+      "target": "jeremy-corbell",
+      "role": "host",
+      "context": "WEAPONIZED co-host"
+    },
+    {
+      "type": "features_person",
+      "target": "george-knapp",
+      "role": "host",
+      "context": "WEAPONIZED co-host"
+    },
+    {
+      "type": "features_person",
+      "target": "ross-coulthart",
+      "role": "guest",
+      "context": "Roundtable guest and Need to Know co-host"
+    },
+    {
+      "type": "features_person",
+      "target": "bryce-zabel",
+      "role": "guest",
+      "context": "Roundtable guest and Need to Know co-host"
+    },
+    {
+      "type": "features_person",
+      "target": "david-grusch",
+      "role": "primary_subject",
+      "context": "Congressional witness discussed in the episode"
+    },
+    {
+      "type": "features_person",
+      "target": "ryan-graves",
+      "role": "primary_subject",
+      "context": "Congressional witness discussed in the episode"
+    },
+    {
+      "type": "features_person",
+      "target": "david-fravor",
+      "role": "primary_subject",
+      "context": "Congressional witness discussed in the episode"
+    },
+    {
+      "type": "followed_hearing",
+      "target": "2023-07-26-house-oversight-uap",
+      "context": "Post-hearing roundtable examining the testimony and next steps"
+    },
+    {
+      "type": "discussed_topic",
+      "target": "congressional-oversight"
+    },
+    {
+      "type": "discussed_topic",
+      "target": "government-transparency"
+    },
+    {
+      "type": "presented_claim",
+      "target": "claim-secret-uap-programs",
+      "context": "Major allegation examined during the post-hearing roundtable"
+    },
+    {
+      "type": "presented_claim",
+      "target": "claim-crash-retrieval-program",
+      "context": "Major allegation examined during the post-hearing roundtable"
+    },
+    {
+      "type": "presented_claim",
+      "target": "claim-navy-uap-aviation-safety",
+      "context": "Ryan Graves testimony discussed in the episode"
+    },
+    {
+      "type": "presented_claim",
+      "target": "claim-nimitz-tic-tac-performance",
+      "context": "David Fravor testimony discussed in the episode"
+    }
+  ],
+  "date": "2023-07-31",
+  "mediaType": "Podcast episode",
+  "mediaPlatform": "WEAPONIZED",
+  "mediaHost": "Jeremy Corbell and George Knapp",
+  "mediaGuests": [
+    "Ross Coulthart",
+    "Bryce Zabel"
+  ],
+  "mediaSubjects": [
+    "David Grusch",
+    "Ryan Graves",
+    "David Fravor",
+    "July 26, 2023 House UAP Hearing"
+  ],
+  "mediaSourceStatus": "Official WEAPONIZED episode page",
+  "externalUrl": "https://www.weaponizedpodcast.com/episodes-1/episode-number-28",
+  "externalLinkLabel": "Open official episode page",
+  "mediaLinks": [
+    {
+      "label": "Open the official Episode #28 page",
+      "url": "https://www.weaponizedpodcast.com/episodes-1/episode-number-28",
+      "platform": "WEAPONIZED"
+    },
+    {
+      "label": "Listen to WEAPONIZED",
+      "url": "https://link.chtbl.com/Weaponized",
+      "platform": "Official audio feed"
+    }
+  ],
+  "seriesId": "weaponized-podcast",
+  "status": "Published",
+  "episodeNumber": 28,
+  "episodeTitle": "Congressional Hearing Roundtable",
+  "sources": [
+    {
+      "label": "Open the official Episode #28 page",
+      "url": "https://www.weaponizedpodcast.com/episodes-1/episode-number-28",
+      "sourceType": "official_episode_page",
+      "primary": true
+    },
+    {
+      "label": "Listen to WEAPONIZED",
+      "url": "https://link.chtbl.com/Weaponized",
+      "sourceType": "official_episode_page",
+      "primary": false
+    }
+  ],
+  "principalClaims": [
+    "claim-secret-uap-programs",
+    "claim-crash-retrieval-program",
+    "claim-navy-uap-aviation-safety",
+    "claim-nimitz-tic-tac-performance"
+  ]
+}

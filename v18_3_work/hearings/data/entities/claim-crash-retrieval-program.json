@@ -1,0 +1,29 @@
+{
+  "id": "claim-crash-retrieval-program",
+  "type": "claim",
+  "name": "Alleged Crash-Retrieval Program",
+  "summary": "Claim that a long-running program retrieved and studied anomalous craft",
+  "relationships": [
+    {
+      "type": "presented_at",
+      "target": "2023-07-26-house-oversight-uap"
+    },
+    {
+      "type": "contained_in",
+      "target": "2023-grusch-written-testimony"
+    },
+    {
+      "type": "presented_at",
+      "target": "2023-newsnation-grusch-interview"
+    },
+    {
+      "type": "concerns",
+      "target": "department-of-defense"
+    },
+    {
+      "type": "concerns",
+      "target": "government-transparency"
+    }
+  ],
+  "status": "Allegation; not established as fact by GreyAlien"
+}

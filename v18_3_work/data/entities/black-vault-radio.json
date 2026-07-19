@@ -1,0 +1,26 @@
+{
+  "id": "black-vault-radio",
+  "type": "podcast_series",
+  "name": "The Black Vault Radio",
+  "summary": "John Greenewald Jr. uses declassified records and Freedom of Information Act research as the basis for interviews about government, military, intelligence, and UAP history.",
+  "podcastHosts": [
+    "John Greenewald Jr."
+  ],
+  "launchYear": "2018",
+  "status": "Active archive",
+  "externalUrl": "https://www.theblackvault.com/documentarchive/category/podcasts/",
+  "externalLinkLabel": "Visit official website",
+  "youtubeUrl": "https://www.youtube.com/playlist?list=PLE3oneoSnqvo0-IjaLOW9Hl6fwHdXysye",
+  "spotifyUrl": "https://open.spotify.com/show/1w1G5z9fSAWUCXRP0hc7zz",
+  "applePodcastsUrl": "https://podcasts.apple.com/us/podcast/the-black-vault-radio-w-john-greenewald-jr/id1407064117",
+  "relationships": [
+    {
+      "type": "discussed_topic",
+      "target": "government-transparency"
+    },
+    {
+      "type": "discussed_topic",
+      "target": "historical-ufo-research"
+    }
+  ]
+}

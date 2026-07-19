@@ -1,0 +1,22 @@
+{
+  "id": "the-day-after-roswell",
+  "type": "document",
+  "name": "The Day After Roswell",
+  "summary": "1997 book by Philip J. Corso and William J. Birnes presenting claims about recovered Roswell technology and military reverse engineering.",
+  "relationships": [
+    {
+      "type": "references_person",
+      "target": "philip-j-corso"
+    },
+    {
+      "type": "references_case",
+      "target": "roswell-incident"
+    },
+    {
+      "type": "contains_claim",
+      "target": "claim-roswell-technology-transfer"
+    }
+  ],
+  "status": "Published memoir and claim record",
+  "externalUrl": "https://www.simonandschuster.com/books/The-Day-After-Roswell/William-J-Birnes/9781501172007"
+}

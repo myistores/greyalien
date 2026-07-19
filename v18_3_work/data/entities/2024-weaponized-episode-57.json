@@ -1,0 +1,105 @@
+{
+  "id": "2024-weaponized-episode-57",
+  "type": "podcast_episode",
+  "name": "WEAPONIZED Episode #57 — The Colares UFO Attacks and Brazilian Military Files",
+  "summary": "Jeremy Corbell and George Knapp speak with Brazilian investigator Thiago Ticchetti about the Colares UFO incidents, the Brazilian Air Force investigation, alleged injuries, and claims that high-quality military imagery was transferred to the United States.",
+  "date": "2024-09-04",
+  "dateDisplay": "September 4, 2024",
+  "seriesId": "weaponized-podcast",
+  "episodeNumber": 57,
+  "episodeTitle": "The Colares UFO Attacks and Brazilian Military Files",
+  "status": "Published",
+  "mediaType": "Podcast episode",
+  "mediaPlatform": "WEAPONIZED",
+  "mediaHost": "Jeremy Corbell and George Knapp",
+  "mediaGuests": [
+    "thiago-ticchetti"
+  ],
+  "mediaSubjects": [
+    "Colares UFO incidents",
+    "Brazilian Air Force files",
+    "Operation Saucer",
+    "Imminent"
+  ],
+  "principalClaims": [],
+  "researchNotes": [],
+  "relationships": [
+    {
+      "type": "episode_of",
+      "target": "weaponized-podcast"
+    },
+    {
+      "type": "features_person",
+      "target": "jeremy-corbell",
+      "role": "host",
+      "context": "WEAPONIZED co-host"
+    },
+    {
+      "type": "features_person",
+      "target": "george-knapp",
+      "role": "host",
+      "context": "WEAPONIZED co-host"
+    },
+    {
+      "type": "features_person",
+      "target": "thiago-ticchetti",
+      "role": "guest",
+      "context": "Discussed Colares investigation and files"
+    },
+    {
+      "type": "features_person",
+      "target": "luis-elizondo",
+      "role": "referenced_subject",
+      "context": "Imminent renewed attention to Colares"
+    },
+    {
+      "type": "references_publication",
+      "target": "2024-08-20-imminent-luis-elizondo"
+    },
+    {
+      "type": "references_case",
+      "target": "colares-ufo-incidents"
+    },
+    {
+      "type": "references_organization",
+      "target": "brazilian-air-force"
+    },
+    {
+      "type": "references_organization",
+      "target": "brazilian-commission-of-ufologists"
+    },
+    {
+      "type": "discussed_topic",
+      "target": "historical-ufo-research"
+    }
+  ],
+  "sources": [
+    {
+      "label": "Official WEAPONIZED Episode #57 page",
+      "url": "https://www.weaponizedpodcast.com/episodes-2/episode-57",
+      "sourceType": "official_episode_page",
+      "primary": true
+    },
+    {
+      "label": "Listen to WEAPONIZED",
+      "url": "https://link.chtbl.com/Weaponized",
+      "sourceType": "official_audio_feed",
+      "primary": false
+    }
+  ],
+  "externalUrl": "https://www.weaponizedpodcast.com/episodes-2/episode-57",
+  "externalLinkLabel": "Open official Episode #57 page",
+  "mediaLinks": [
+    {
+      "label": "Open the official Episode #57 page",
+      "url": "https://www.weaponizedpodcast.com/episodes-2/episode-57",
+      "platform": "WEAPONIZED"
+    },
+    {
+      "label": "Listen to WEAPONIZED",
+      "url": "https://link.chtbl.com/Weaponized",
+      "platform": "Official audio feed"
+    }
+  ],
+  "eventCategory": "Podcast publication"
+}

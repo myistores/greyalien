@@ -1,0 +1,44 @@
+{
+  "id": "ryan-graves",
+  "type": "person",
+  "name": "Ryan Graves",
+  "summary": "Former U.S. Navy F/A-18 pilot, aviation-safety advocate, and congressional witness.",
+  "relationships": [
+    {
+      "type": "testified_at",
+      "target": "2023-07-26-house-oversight-uap",
+      "role": "Witness",
+      "date": "2023-07-26"
+    },
+    {
+      "type": "affiliated_with",
+      "target": "united-states-navy",
+      "role": "Former F/A-18 pilot"
+    },
+    {
+      "type": "affiliated_with",
+      "target": "americans-for-safe-aerospace",
+      "role": "Executive Director"
+    },
+    {
+      "type": "authored",
+      "target": "2023-graves-written-testimony"
+    }
+  ],
+  "profileStatus": "Firsthand military witness and congressional witness",
+  "profileSummary": "Former U.S. Navy F/A-18 pilot, aviation-safety advocate, and congressional witness.",
+  "background": "Former U.S. Navy F/A-18 pilot and Executive Director of Americans for Safe Aerospace.",
+  "inclusionNote": "Included because of firsthand military reporting, official congressional testimony, written testimony, and continuing aviation-safety advocacy.",
+  "primarySourceLinks": [
+    {
+      "label": "Official written testimony",
+      "url": "https://oversight.house.gov/wp-content/uploads/2023/07/Ryan-HOC-Testimony.pdf",
+      "sourceType": "House Committee on Oversight and Accountability"
+    },
+    {
+      "label": "Official July 2023 hearing page",
+      "url": "https://oversight.house.gov/hearing/unidentified-anomalous-phenomena-implications-on-national-security-public-safety-and-government-transparency/",
+      "sourceType": "House Committee on Oversight and Accountability"
+    }
+  ]
+}

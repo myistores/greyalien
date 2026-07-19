@@ -1,0 +1,12 @@
+{
+  "id": "2022-house-uap-hearing-transcript",
+  "type": "document",
+  "name": "Official May 2022 Hearing Transcript",
+  "summary": "Official transcript of the May 17, 2022 House hearing",
+  "relationships": [
+    {
+      "type": "references_hearing",
+      "target": "2022-05-17-house-intelligence-uap"
+    }
+  ]
+}

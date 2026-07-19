@@ -1,0 +1,22 @@
+{
+  "id": "engaging-the-phenomenon-podcast",
+  "type": "podcast_series",
+  "name": "Engaging the Phenomenon",
+  "summary": "James Iandoli explores UAP, consciousness, contact experiences, field research, and the human implications of anomalous phenomena.",
+  "podcastHosts": [
+    "James Iandoli"
+  ],
+  "launchYear": "2018",
+  "status": "Active",
+  "externalUrl": "https://www.youtube.com/@EngagingThePhenomenon",
+  "externalLinkLabel": "Visit official website",
+  "youtubeUrl": "https://www.youtube.com/@EngagingThePhenomenon",
+  "spotifyUrl": "https://open.spotify.com/show/0E5OFgTmqz92w8JBrqthdT",
+  "applePodcastsUrl": "",
+  "relationships": [
+    {
+      "type": "discussed_topic",
+      "target": "scientific-investigation"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "id": "2026-03-31-house-uap-video-request-letter",
+  "type": "document",
+  "name": "March 31, 2026 Congressional Request for UAP Video Records",
+  "summary": "House Oversight letter requesting the production of 46 identified military UAP videos and related records.",
+  "relationships": [
+    {
+      "type": "references_person",
+      "target": "anna-paulina-luna"
+    },
+    {
+      "type": "references_hearing",
+      "target": "2024-11-13-house-oversight-uap"
+    },
+    {
+      "type": "references_hearing",
+      "target": "2025-09-09-house-uap-transparency-hearing"
+    },
+    {
+      "type": "references_topic",
+      "target": "government-transparency"
+    },
+    {
+      "type": "published_by",
+      "target": "house-oversight-committee"
+    }
+  ],
+  "status": "Official congressional correspondence",
+  "externalUrl": "https://oversight.house.gov/wp-content/uploads/2026/03/UAP-Request-Letter-FINAL.pdf"
+}

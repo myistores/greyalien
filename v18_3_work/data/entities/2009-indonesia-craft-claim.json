@@ -1,0 +1,16 @@
+{
+  "id": "2009-indonesia-craft-claim",
+  "type": "case",
+  "name": "Alleged 2009 Indonesia Craft Encounter",
+  "summary": "Michael Herrera's public account of observing a large craft and unidentified personnel during a humanitarian deployment in Indonesia.",
+  "relationships": [
+    {
+      "type": "case_witness",
+      "target": "michael-herrera",
+      "role": "claimant",
+      "context": "Herrera is the named source of the public account"
+    }
+  ],
+  "date": "2009-10-01",
+  "dateDisplay": "October 2009"
+}

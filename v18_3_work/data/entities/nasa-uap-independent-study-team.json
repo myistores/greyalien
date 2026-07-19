@@ -1,0 +1,32 @@
+{
+  "id": "nasa-uap-independent-study-team",
+  "type": "organization",
+  "name": "NASA UAP Independent Study Team",
+  "summary": "Independent multidisciplinary panel commissioned by NASA to recommend how civilian government data and scientific methods could improve the study of UAP.",
+  "relationships": [
+    {
+      "type": "produced_document",
+      "target": "2023-nasa-uap-independent-study-report"
+    },
+    {
+      "type": "addresses_topic",
+      "target": "scientific-investigation"
+    },
+    {
+      "type": "addresses_topic",
+      "target": "aviation-safety"
+    },
+    {
+      "type": "addresses_topic",
+      "target": "uap-reporting-systems"
+    },
+    {
+      "type": "held_by",
+      "target": "nasa"
+    }
+  ],
+  "externalUrl": "https://science.nasa.gov/uap/",
+  "externalLinkLabel": "Visit official website",
+  "organizationPurpose": "Evaluate available data, identify scientific methods and collection improvements, and recommend a roadmap for NASA's future UAP work.",
+  "formed": "2022"
+}

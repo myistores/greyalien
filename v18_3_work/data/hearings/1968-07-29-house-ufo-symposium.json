@@ -1,0 +1,152 @@
+{
+  "schemaVersion": 1,
+  "id": "1968-07-29-house-ufo-symposium",
+  "entityType": "hearing",
+  "title": "Symposium on Unidentified Flying Objects",
+  "shortTitle": "July 29, 1968 House UFO Symposium",
+  "date": "1968-07-29",
+  "time": "Not stated in catalog",
+  "location": "Washington, D.C.",
+  "congress": "90th Congress",
+  "chamber": "U.S. House of Representatives",
+  "committee": "Committee on Science and Astronautics",
+  "subcommittee": "Symposium",
+  "summary": "A congressional scientific symposium presenting testimony and prepared material on UFO reports, research methods, physical evidence, and possible explanations.",
+  "whyItMatters": "The symposium assembled a substantial scientific record and remains one of the most important historical congressional documents on UFO research.",
+  "editorialNote": "The official 247-page hearing record should be treated as the authoritative source for participants and testimony.",
+  "themes": [
+    "Scientific investigation",
+    "Physical evidence",
+    "Atmospheric explanations",
+    "Extraterrestrial hypothesis",
+    "Research methodology"
+  ],
+  "witnesses": [
+    {
+      "id": "james-e-mcdonald",
+      "name": "James E. McDonald",
+      "roleAtHearing": "Professor of Atmospheric Physics",
+      "background": "Atmospheric physicist",
+      "claimStatus": "Witness testimony",
+      "testimonySummary": "McDonald argued that selected UFO cases deserved serious scientific investigation.",
+      "keyPoints": [
+        "Case evidence",
+        "Scientific investigation",
+        "Government research"
+      ],
+      "documents": []
+    },
+    {
+      "id": "j-allen-hynek",
+      "name": "J. Allen Hynek",
+      "roleAtHearing": "Astronomer and UFO researcher",
+      "background": "Astronomer and former Project Blue Book consultant",
+      "claimStatus": "Witness testimony",
+      "testimonySummary": "Hynek discussed the scientific status of UFO reports and research needs.",
+      "keyPoints": [
+        "Research standards",
+        "Witness reports",
+        "Classification of cases"
+      ],
+      "documents": []
+    },
+    {
+      "id": "carl-sagan",
+      "name": "Carl Sagan",
+      "roleAtHearing": "Astronomer",
+      "background": "Astronomer and planetary scientist",
+      "claimStatus": "Witness testimony",
+      "testimonySummary": "Sagan discussed scientific standards, extraordinary hypotheses, and the evidentiary requirements for interpretation.",
+      "keyPoints": [
+        "Scientific skepticism",
+        "Extraterrestrial hypothesis",
+        "Evidence quality"
+      ],
+      "documents": []
+    },
+    {
+      "id": "robert-l-hall",
+      "name": "Robert L. Hall",
+      "roleAtHearing": "Professor of Sociology",
+      "background": "Sociologist",
+      "claimStatus": "Witness testimony",
+      "testimonySummary": "Hall addressed witness reporting and the social-science dimensions of UFO observations.",
+      "keyPoints": [
+        "Witness reliability",
+        "Social research",
+        "Reporting patterns"
+      ],
+      "documents": []
+    }
+  ],
+  "timeline": [
+    {
+      "date": "1968-07-29",
+      "label": "House Science and Astronautics symposium held"
+    }
+  ],
+  "documents": [
+    {
+      "label": "Official GovInfo hearing record",
+      "url": "https://www.govinfo.gov/app/details/CHRG-90hhrg97818",
+      "sourceType": "U.S. Government Publishing Office"
+    }
+  ],
+  "evidenceProfile": {
+    "level": "Documented congressional record",
+    "summary": "This record is based on public congressional or government material. Classified details may remain unavailable.",
+    "items": [
+      {
+        "label": "Public event or official reference",
+        "status": "available"
+      },
+      {
+        "label": "Public supporting documents",
+        "status": "available"
+      },
+      {
+        "label": "Complete classified record",
+        "status": "limited"
+      }
+    ]
+  },
+  "relationships": {
+    "people": [
+      "james-e-mcdonald",
+      "j-allen-hynek",
+      "carl-sagan",
+      "robert-l-hall"
+    ],
+    "organizations": [
+      "house-science-astronautics-committee"
+    ],
+    "cases": [],
+    "topics": [
+      "historical-ufo-research",
+      "scientific-investigation",
+      "extraterrestrial-hypothesis"
+    ]
+  },
+  "catalogCategories": [
+    "Historical UFO-related congressional proceedings"
+  ],
+  "navigation": {
+    "previous": "1966-04-05-house-ufo-hearing",
+    "next": "2022-05-03-house-intelligence-classified-uap-briefing"
+  },
+  "sharedConnections": {
+    "with": [
+      "1966-04-05-house-ufo-hearing",
+      "2024-11-13-house-oversight-uap"
+    ],
+    "topics": [
+      "scientific-investigation",
+      "historical-ufo-research",
+      "extraterrestrial-hypothesis"
+    ],
+    "organizations": [
+      "house-science-astronautics-committee"
+    ]
+  },
+  "lastReviewed": "2026-07-10"
+}

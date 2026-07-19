@@ -1,0 +1,61 @@
+{
+  "id": "timeline-2023-11-17-sol-inaugural-symposium",
+  "type": "timeline_event",
+  "name": "The Sol Foundation Holds Its Inaugural UAP Research and Policy Symposium",
+  "summary": "The Sol Foundation convened its inaugural symposium at Stanford University, bringing together researchers, former officials, and policy specialists for focused discussion of UAP science, government policy, and disclosure. Karl Nell and Avi Loeb were among the listed participants.",
+  "date": "2023-11-17",
+  "endDate": "2023-11-18",
+  "dateDisplay": "November 17–18, 2023",
+  "eventCategory": "UAP research symposium",
+  "relationships": [
+    {
+      "type": "timeline_connection",
+      "target": "sol-foundation",
+      "role": "host",
+      "context": "Organized the inaugural symposium"
+    },
+    {
+      "type": "timeline_connection",
+      "target": "karl-nell",
+      "role": "participant",
+      "context": "Listed symposium participant"
+    },
+    {
+      "type": "timeline_connection",
+      "target": "avi-loeb",
+      "role": "participant",
+      "context": "Listed symposium participant"
+    },
+    {
+      "type": "timeline_connection",
+      "target": "scientific-investigation",
+      "role": "related_topic",
+      "context": "Scientific approaches to UAP research"
+    },
+    {
+      "type": "timeline_connection",
+      "target": "government-transparency",
+      "role": "related_topic",
+      "context": "Policy and disclosure discussions"
+    },
+    {
+      "type": "timeline_connection",
+      "target": "garry-nolan",
+      "role": "organizer",
+      "context": "Organized the inaugural symposium through the Nolan Laboratory and Sol Foundation"
+    },
+    {
+      "type": "timeline_connection",
+      "target": "jacques-vallee",
+      "role": "participant",
+      "context": "Listed symposium participant"
+    }
+  ],
+  "primarySourceLinks": [
+    {
+      "label": "The Sol Foundation inaugural symposium page",
+      "url": "https://thesolfoundation.org/events/the-inaugural-annual-conference-of-the-sol-foundation/",
+      "sourceType": "The Sol Foundation"
+    }
+  ]
+}

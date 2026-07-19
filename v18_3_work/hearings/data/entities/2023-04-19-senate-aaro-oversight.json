@@ -1,0 +1,37 @@
+{
+  "id": "2023-04-19-senate-aaro-oversight",
+  "type": "hearing",
+  "name": "April 19, 2023 Senate AARO Hearing",
+  "summary": "An open Senate hearing examining AARO's mission, activities, oversight, budget, reporting process, and analysis of UAP cases.",
+  "relationships": [
+    {
+      "type": "held_by",
+      "target": "senate-armed-services-committee"
+    },
+    {
+      "type": "held_by",
+      "target": "aaro"
+    },
+    {
+      "type": "held_by",
+      "target": "department-of-defense"
+    },
+    {
+      "type": "discussed_topic",
+      "target": "government-transparency"
+    },
+    {
+      "type": "discussed_topic",
+      "target": "classification"
+    },
+    {
+      "type": "discussed_topic",
+      "target": "aviation-safety"
+    },
+    {
+      "type": "discussed_topic",
+      "target": "uap-reporting-systems"
+    }
+  ],
+  "date": "2023-04-19"
+}

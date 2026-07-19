@@ -1,0 +1,35 @@
+{
+  "id": "jim-penniston",
+  "type": "person",
+  "name": "Jim Penniston",
+  "summary": "Former U.S. Air Force security supervisor who submitted a contemporaneous statement concerning the Rendlesham Forest incident.",
+  "relationships": [
+    {
+      "type": "reported_case",
+      "target": "rendlesham-forest-incident"
+    },
+    {
+      "type": "affiliated_with",
+      "target": "united-states-air-force",
+      "role": "Former security supervisor"
+    },
+    {
+      "type": "affiliated_with",
+      "target": "raf-bentwaters",
+      "role": "Former service member"
+    }
+  ],
+  "profileStatus": "Firsthand military witness",
+  "profileSummary": "Former U.S. Air Force security supervisor who submitted a contemporaneous statement concerning the Rendlesham Forest incident.",
+  "background": "Former U.S. Air Force security supervisor.",
+  "inclusionNote": "Included because of his original written statement. Later additions to his account should be distinguished from the contemporaneous record.",
+  "primarySourceLinks": [
+    {
+      "label": "UK National Archives UFO reports collection",
+      "url": "https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/",
+      "sourceType": "UK National Archives"
+    }
+  ],
+  "profileBadge": "Firsthand Witness",
+  "profileBadgeClass": "badge-witness"
+}

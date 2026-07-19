@@ -1,0 +1,101 @@
+{
+  "version": "14.2",
+  "interviews": [
+    {
+      "id": "2023-newsnation-grusch-interview",
+      "name": "David Grusch NewsNation Interview",
+      "primaryMediaLink": "https://www.youtube.com/watch?v=RBAISwCZ2v0",
+      "platform": "NewsNation",
+      "host": "Ross Coulthart",
+      "guests": [
+        "David Grusch"
+      ],
+      "alternativeLinks": 2,
+      "sourceStatus": "Official NewsNation video"
+    },
+    {
+      "id": "2020-lex-fridman-fravor-interview",
+      "name": "David Fravor on the Lex Fridman Podcast",
+      "primaryMediaLink": "https://www.youtube.com/watch?v=aB8zcAttP1E",
+      "platform": "Lex Fridman Podcast",
+      "host": "Lex Fridman",
+      "guests": [
+        "David Fravor"
+      ],
+      "alternativeLinks": 3,
+      "sourceStatus": "Official full episode"
+    },
+    {
+      "id": "2025-weaponized-wiggins-interview",
+      "name": "Alexandro Wiggins on WEAPONIZED",
+      "primaryMediaLink": "https://www.youtube.com/watch?v=YKFmK-NSnKI",
+      "platform": "WEAPONIZED",
+      "host": "Jeremy Corbell and George Knapp",
+      "guests": [
+        "Alexandro Wiggins"
+      ],
+      "alternativeLinks": 3,
+      "sourceStatus": "Official full episode"
+    },
+    {
+      "id": "1989-bob-lazar-george-knapp-interview",
+      "name": "Bob Lazar's 1989 KLAS Interviews",
+      "primaryMediaLink": "https://www.youtube.com/watch?v=BoJmd2MIpOk",
+      "platform": "KLAS-TV / 8 News Now",
+      "host": "George Knapp",
+      "guests": [
+        "Bob Lazar"
+      ],
+      "alternativeLinks": 3,
+      "sourceStatus": "Official station retrospective containing archival interview material"
+    },
+    {
+      "id": "1997-jonathan-weygandt-interview",
+      "name": "Jonathan Weygandt Peru Encounter Interview",
+      "primaryMediaLink": "https://www.youtube.com/watch?v=UdEVUum8Nag",
+      "platform": "Archived video",
+      "host": "Disclosure-era interviewer",
+      "guests": [
+        "Jonathan Weygandt"
+      ],
+      "alternativeLinks": 1,
+      "sourceStatus": "Public archive; original official upload is not currently available"
+    },
+    {
+      "id": "michael-herrera-public-interview",
+      "name": "Michael Herrera Public Interview",
+      "primaryMediaLink": "https://www.youtube.com/watch?v=vy_k1uY5KP4",
+      "platform": "YouTube",
+      "host": "",
+      "guests": [
+        "Michael Herrera"
+      ],
+      "alternativeLinks": 1,
+      "sourceStatus": "Public long-form interview"
+    },
+    {
+      "id": "eric-hecker-south-pole-interview",
+      "name": "Eric Hecker South Pole Interview",
+      "primaryMediaLink": "https://podcasts.apple.com/us/podcast/ex-raytheon-whistleblower-gives-inside-scoop-on-antarctica/id1526697745?i=1000634951988",
+      "platform": "PBD Podcast",
+      "host": "Patrick Bet-David",
+      "guests": [
+        "Eric Hecker"
+      ],
+      "alternativeLinks": 1,
+      "sourceStatus": "Official podcast listing"
+    },
+    {
+      "id": "david-adair-area-51-interview",
+      "name": "David Adair: My Story — Child Prodigy to Rocket Scientist",
+      "primaryMediaLink": "https://www.gaia.com/video/david-adair-my-story-child-prodigy-rocket-scientist",
+      "platform": "Gaia",
+      "host": "",
+      "guests": [
+        "David Adair"
+      ],
+      "alternativeLinks": 2,
+      "sourceStatus": "Official streaming episode"
+    }
+  ]
+}

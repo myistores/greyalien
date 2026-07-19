@@ -1,0 +1,39 @@
+{
+  "id": "richard-dolan",
+  "type": "person",
+  "name": "Richard Dolan",
+  "summary": "Historian and author whose work examines UFO history, government secrecy, intelligence activity, disclosure, and unidentified submerged object cases.",
+  "relationships": [
+    {
+      "type": "appeared_in",
+      "target": "2024-weaponized-episode-46",
+      "role": "guest",
+      "context": "Discussed disclosure, UFO history, and USO research"
+    },
+    {
+      "type": "discussed_topic",
+      "target": "historical-ufo-research"
+    },
+    {
+      "type": "discussed_topic",
+      "target": "government-transparency"
+    },
+    {
+      "type": "discussed_topic",
+      "target": "unidentified-submerged-objects"
+    }
+  ],
+  "profileStatus": "UFO historian and author",
+  "profileSummary": "Historian and author focused on UFO history, secrecy, disclosure, and unidentified submerged objects.",
+  "profileBadge": "Historian",
+  "profileBadgeClass": "badge-historian",
+  "inclusionNote": "Included as the guest in WEAPONIZED Episode #46.",
+  "sources": [
+    {
+      "label": "Official WEAPONIZED Episode #46 page",
+      "url": "https://www.weaponizedpodcast.com/episodes-2/episode-46",
+      "sourceType": "official_episode_page",
+      "primary": true
+    }
+  ]
+}

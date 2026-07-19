@@ -1,0 +1,14 @@
+{
+  "id": "hector-quintanilla",
+  "type": "person",
+  "name": "Major Hector Quintanilla",
+  "summary": "U.S. Air Force officer",
+  "relationships": [
+    {
+      "type": "testified_at",
+      "target": "1966-04-05-house-ufo-hearing",
+      "role": "Witness or participant",
+      "date": "1966-04-05"
+    }
+  ]
+}

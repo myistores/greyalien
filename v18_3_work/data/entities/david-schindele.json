@@ -1,0 +1,40 @@
+{
+  "id": "david-schindele",
+  "type": "person",
+  "name": "David Schindele",
+  "summary": "Former U.S. Air Force missile launch officer who has publicly described a 1966 UFO-related event and missile shutdowns near Minot Air Force Base.",
+  "relationships": [
+    {
+      "type": "reported_case",
+      "target": "1966-minot-missile-ufo-incident"
+    },
+    {
+      "type": "affiliated_with",
+      "target": "united-states-air-force",
+      "role": "Former missile launch officer"
+    },
+    {
+      "type": "affiliated_with",
+      "target": "minot-air-force-base",
+      "role": "Former officer"
+    }
+  ],
+  "profileStatus": "Former missile officer and nuclear-facilities witness",
+  "profileSummary": "Former U.S. Air Force missile launch officer who has publicly described a 1966 UFO-related event and missile shutdowns near Minot Air Force Base.",
+  "profileBadge": "Firsthand Witness",
+  "profileBadgeClass": "badge-witness",
+  "background": "Former Minuteman missile launch-control officer.",
+  "inclusionNote": "Included because he provides a named military account connecting UFO reports, nuclear command systems, missile shutdowns, and government secrecy.",
+  "primarySourceLinks": [
+    {
+      "label": "Former missile officer describes UFO incident",
+      "url": "https://www.minotdailynews.com/news/local-news/2023/06/former-missile-officer-ufo-whistleblower-demonstrates-tremendous-courage/",
+      "sourceType": "Minot Daily News"
+    },
+    {
+      "label": "It Never Happened, Volume 1",
+      "url": "https://www.amazon.com/It-Never-Happened-UFOs-Installations/dp/1981187276",
+      "sourceType": "Published memoir"
+    }
+  ]
+}

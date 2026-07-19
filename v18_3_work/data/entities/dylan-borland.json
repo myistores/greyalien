@@ -1,0 +1,59 @@
+{
+  "id": "dylan-borland",
+  "type": "person",
+  "name": "Dylan Borland",
+  "summary": "Former Air Force service member",
+  "relationships": [
+    {
+      "type": "testified_at",
+      "target": "2025-09-09-house-uap-transparency-hearing",
+      "role": "Witness or participant",
+      "date": "2025-09-09"
+    },
+    {
+      "type": "authored",
+      "target": "2025-borland-written-testimony"
+    },
+    {
+      "type": "made_claim",
+      "target": "claim-langley-triangle-2012"
+    },
+    {
+      "type": "made_claim",
+      "target": "claim-whistleblower-retaliation"
+    },
+    {
+      "type": "affiliated_with",
+      "target": "united-states-air-force",
+      "role": "Former geospatial-intelligence specialist"
+    },
+    {
+      "type": "affiliated_with",
+      "target": "intelligence-community-inspector-general",
+      "role": "Provided testimony"
+    },
+    {
+      "type": "affiliated_with",
+      "target": "aaro",
+      "role": "Provided testimony"
+    }
+  ],
+  "profileStatus": "Self-identified federal whistleblower and congressional witness",
+  "profileSummary": "Former Air Force geospatial-intelligence specialist who described himself in official written testimony as a federal whistleblower and presented allegations concerning UAP programs and retaliation.",
+  "background": "Former U.S. Air Force geospatial-intelligence specialist and intelligence-community professional.",
+  "inclusionNote": "Included because his official House statement explicitly identifies him as a federal whistleblower and records testimony to AARO and the Intelligence Community Inspector General.",
+  "primarySourceLinks": [
+    {
+      "label": "Official written testimony",
+      "url": "https://oversight.house.gov/wp-content/uploads/2025/09/Borland-Written-Testimony.pdf",
+      "sourceType": "House Committee on Oversight and Government Reform"
+    },
+    {
+      "label": "Official September 2025 hearing page",
+      "url": "https://oversight.house.gov/hearing/restoring-public-trust-through-uap-transparency-and-whistleblower-protection/",
+      "sourceType": "House Committee on Oversight and Government Reform"
+    }
+  ],
+  "profileBadge": "Whistleblower",
+  "profileBadgeClass": "badge-whistleblower"
+}

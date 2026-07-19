@@ -1,0 +1,50 @@
+{
+  "id": "timeline-1988-1989-bob-lazar-alleged-s4-work",
+  "type": "timeline_event",
+  "name": "Bob Lazar’s Alleged S4 Work Period",
+  "summary": "Bob Lazar states that he worked at an installation called S4 near Area 51 from late 1988 into 1989, helping analyze an unconventional craft. GreyAlien records this as an attributed claim, not an established fact.",
+  "date": "1988-12-01",
+  "endDate": "1989-04-30",
+  "dateDisplay": "December 1988–April 1989",
+  "eventCategory": "Attributed employment claim",
+  "status": "Disputed public allegation",
+  "relationships": [
+    {
+      "type": "timeline_connection",
+      "target": "bob-lazar",
+      "role": "claimant",
+      "context": "States that he worked at S4 during this period"
+    },
+    {
+      "type": "timeline_connection",
+      "target": "s4-facility-claim",
+      "role": "location",
+      "context": "Alleged work location"
+    },
+    {
+      "type": "timeline_connection",
+      "target": "area-51",
+      "role": "associated_location",
+      "context": "Broader Nevada test-site context"
+    },
+    {
+      "type": "timeline_connection",
+      "target": "claim-s4-reverse-engineering",
+      "role": "related_claim",
+      "context": "Central work allegation"
+    },
+    {
+      "type": "timeline_connection",
+      "target": "claim-element-115-propulsion",
+      "role": "related_claim",
+      "context": "Technology claim associated with the alleged work"
+    }
+  ],
+  "primarySourceLinks": [
+    {
+      "label": "1989 KLAS interview archive",
+      "url": "https://www.youtube.com/watch?v=BoJmd2MIpOk",
+      "sourceType": "Official station retrospective"
+    }
+  ]
+}

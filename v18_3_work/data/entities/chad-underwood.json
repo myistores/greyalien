@@ -1,0 +1,30 @@
+{
+  "id": "chad-underwood",
+  "type": "person",
+  "name": "Chad Underwood",
+  "summary": "Former U.S. Navy aviator who recorded the FLIR1 video during the 2004 Nimitz encounter.",
+  "relationships": [
+    {
+      "type": "reported_case",
+      "target": "2004-nimitz-encounter"
+    },
+    {
+      "type": "affiliated_with",
+      "target": "united-states-navy",
+      "role": "Former F/A-18 pilot"
+    }
+  ],
+  "profileStatus": "Military sensor witness",
+  "profileSummary": "Former U.S. Navy aviator who recorded the FLIR1 video during the 2004 Nimitz encounter.",
+  "background": "Former U.S. Navy F/A-18 pilot who tracked and recorded the object using aircraft sensors.",
+  "inclusionNote": "Included because he operated the sensor system that produced one of the most significant publicly released videos connected to the Nimitz case.",
+  "primarySourceLinks": [
+    {
+      "label": "Interview about recording the Tic Tac video",
+      "url": "https://nymag.com/intelligencer/2019/12/tic-tac-ufo-video-q-and-a-with-navy-pilot-chad-underwood.html",
+      "sourceType": "New York Magazine"
+    }
+  ],
+  "profileBadge": "Firsthand Witness",
+  "profileBadgeClass": "badge-witness"
+}

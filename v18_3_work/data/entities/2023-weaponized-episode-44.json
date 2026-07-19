@@ -1,0 +1,107 @@
+{
+  "id": "2023-weaponized-episode-44",
+  "type": "podcast_episode",
+  "name": "WEAPONIZED Episode #44 — The Fight Over the UAP Disclosure Act",
+  "summary": "Jeremy Corbell and George Knapp examine the weakening of proposed UAP disclosure legislation and speak with Liberation Times editor and publisher Chris Sharp about congressional opposition and defense-contractor influence.",
+  "date": "2023-12-11",
+  "dateDisplay": "December 11, 2023",
+  "seriesId": "weaponized-podcast",
+  "episodeNumber": 44,
+  "episodeTitle": "The Fight Over the UAP Disclosure Act",
+  "status": "Published",
+  "mediaType": "Podcast episode",
+  "mediaPlatform": "WEAPONIZED",
+  "mediaHost": "Jeremy Corbell and George Knapp",
+  "mediaGuests": [
+    "Chris Sharp"
+  ],
+  "mediaSubjects": [
+    "UAP Disclosure Act of 2023",
+    "Congressional oversight",
+    "Defense contractors"
+  ],
+  "principalClaims": [],
+  "researchNotes": [
+    "Official description identifies Chris Sharp as the participating guest."
+  ],
+  "relationships": [
+    {
+      "type": "episode_of",
+      "target": "weaponized-podcast"
+    },
+    {
+      "type": "features_person",
+      "target": "jeremy-corbell",
+      "role": "host",
+      "context": "WEAPONIZED co-host"
+    },
+    {
+      "type": "features_person",
+      "target": "george-knapp",
+      "role": "host",
+      "context": "WEAPONIZED co-host"
+    },
+    {
+      "type": "features_person",
+      "target": "chris-sharp",
+      "role": "guest",
+      "context": "Guest discussing congressional opposition to disclosure legislation"
+    },
+    {
+      "type": "references_organization",
+      "target": "liberation-times",
+      "context": "Chris Sharp’s publication and reporting are highlighted"
+    },
+    {
+      "type": "references_publication",
+      "target": "uap-disclosure-act-2023",
+      "context": "Discussion of the proposed disclosure legislation and changes made in Congress"
+    },
+    {
+      "type": "references_hearing",
+      "target": "2023-07-13-uap-disclosure-act-consideration",
+      "context": "Connects to congressional action concerning the UAP Disclosure Act"
+    },
+    {
+      "type": "discussed_topic",
+      "target": "uap-disclosure-legislation"
+    },
+    {
+      "type": "discussed_topic",
+      "target": "congressional-oversight"
+    },
+    {
+      "type": "discussed_topic",
+      "target": "government-transparency"
+    }
+  ],
+  "sources": [
+    {
+      "label": "Official WEAPONIZED Episode #44 page",
+      "url": "https://www.weaponizedpodcast.com/episodes-2/episode-44",
+      "sourceType": "official_episode_page",
+      "primary": true
+    },
+    {
+      "label": "Listen to WEAPONIZED",
+      "url": "https://link.chtbl.com/Weaponized",
+      "sourceType": "official_audio_feed",
+      "primary": false
+    }
+  ],
+  "externalUrl": "https://www.weaponizedpodcast.com/episodes-2/episode-44",
+  "externalLinkLabel": "Open official Episode #44 page",
+  "mediaLinks": [
+    {
+      "label": "Open the official Episode #44 page",
+      "url": "https://www.weaponizedpodcast.com/episodes-2/episode-44",
+      "platform": "WEAPONIZED"
+    },
+    {
+      "label": "Listen to WEAPONIZED",
+      "url": "https://link.chtbl.com/Weaponized",
+      "platform": "Official audio feed"
+    }
+  ],
+  "eventCategory": "Podcast publication"
+}

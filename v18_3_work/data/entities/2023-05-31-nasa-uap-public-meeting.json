@@ -1,0 +1,31 @@
+{
+  "id": "2023-05-31-nasa-uap-public-meeting",
+  "type": "timeline_event",
+  "name": "NASA UAP Independent Study Public Meeting",
+  "summary": "NASA held a public meeting of its UAP Independent Study Team on May 31, 2023.",
+  "relationships": [
+    {
+      "type": "event_for",
+      "target": "nasa-uap-independent-study-team"
+    },
+    {
+      "type": "resulted_in",
+      "target": "2023-nasa-uap-independent-study-report"
+    },
+    {
+      "type": "timeline_connection",
+      "target": "sean-kirkpatrick",
+      "role": "aaro_director",
+      "context": "Delivered opening remarks at the NASA public meeting"
+    },
+    {
+      "type": "timeline_connection",
+      "target": "nasa",
+      "role": "host",
+      "context": "Hosted the public UAP study meeting"
+    }
+  ],
+  "date": "2023-05-31",
+  "dateDisplay": "May 31, 2023",
+  "eventCategory": "Government scientific review"
+}

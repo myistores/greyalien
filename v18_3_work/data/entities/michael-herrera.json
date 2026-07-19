@@ -1,0 +1,57 @@
+{
+  "id": "michael-herrera",
+  "type": "person",
+  "name": "Michael Herrera",
+  "summary": "Former U.S. Marine who publicly alleged that he observed a large advanced craft and unidentified personnel during a 2009 humanitarian deployment in Indonesia.",
+  "relationships": [
+    {
+      "type": "affiliated_with",
+      "target": "united-states-marine-corps",
+      "role": "Former Marine"
+    },
+    {
+      "type": "appeared_in",
+      "target": "michael-herrera-public-interview"
+    },
+    {
+      "type": "made_claim",
+      "target": "claim-indonesia-human-trafficking-craft"
+    },
+    {
+      "type": "reported_case",
+      "target": "2009-indonesia-craft-claim"
+    },
+    {
+      "type": "reported_case",
+      "target": "2009-indonesia-craft-claim",
+      "timeline": true,
+      "role": "claimant",
+      "context": "Alleged encounter during a humanitarian deployment near Padang, Indonesia"
+    },
+    {
+      "type": "participated_in",
+      "target": "timeline-2023-06-12-disclosure-project-national-press-club",
+      "timeline": true,
+      "role": "witness",
+      "context": "Presented his Indonesia account publicly at the National Press Club"
+    }
+  ],
+  "profileStatus": "Former Marine and firsthand craft-encounter claimant",
+  "profileSummary": "Former U.S. Marine who publicly alleged that he observed a large advanced craft and unidentified personnel during a 2009 humanitarian deployment in Indonesia.",
+  "background": "Former U.S. Marine.",
+  "inclusionNote": "Included because he has made named public statements and reported providing information through whistleblower channels. Major details of the account remain unverified and have been publicly disputed.",
+  "primarySourceLinks": [
+    {
+      "label": "Long-form interview on the Indonesia account",
+      "url": "https://www.youtube.com/watch?v=vy_k1uY5KP4",
+      "sourceType": "YouTube"
+    },
+    {
+      "label": "Joint podcast episode with Jonathan Weygandt",
+      "url": "https://podcasts.apple.com/gb/podcast/608-jonathan-weygandt-mike-herrera-marine-encounters/id483046074?i=1000654868851",
+      "sourceType": "Apple Podcasts"
+    }
+  ],
+  "profileBadge": "Firsthand Witness",
+  "profileBadgeClass": "badge-witness"
+}

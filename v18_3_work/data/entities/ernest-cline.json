@@ -1,0 +1,23 @@
+{
+  "id": "ernest-cline",
+  "type": "person",
+  "name": "Ernest Cline",
+  "summary": "Novelist and screenwriter known for Ready Player One and Armada, with a longstanding interest in UFO history and science fiction.",
+  "profileStatus": "Author and screenwriter",
+  "relationships": [
+    {
+      "type": "appeared_in",
+      "target": "2024-weaponized-episode-48",
+      "role": "guest",
+      "context": "Featured guest"
+    }
+  ],
+  "sources": [
+    {
+      "label": "Ernest Cline official website",
+      "url": "https://www.ernestcline.com/",
+      "sourceType": "official_website",
+      "primary": true
+    }
+  ]
+}

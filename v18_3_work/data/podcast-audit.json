@@ -1,0 +1,119 @@
+{
+  "version": "15.0",
+  "podcasts": [
+    {
+      "id": "weaponized-podcast",
+      "name": "WEAPONIZED",
+      "hosts": [
+        "Jeremy Corbell",
+        "George Knapp"
+      ],
+      "launchYear": "2023",
+      "status": "Active",
+      "officialWebsite": "https://www.weaponizedpodcast.com/",
+      "youtube": "https://www.youtube.com/@JeremyCorbell",
+      "spotify": "https://open.spotify.com/show/1FRpoWQkWtwHdOgwho3iZG",
+      "applePodcasts": "https://podcasts.apple.com/us/podcast/weaponized-with-jeremy-corbell-george-knapp/id1664299388",
+      "connectedEntities": 4
+    },
+    {
+      "id": "need-to-know-podcast",
+      "name": "Need to Know",
+      "hosts": [
+        "Bryce Zabel",
+        "Ross Coulthart"
+      ],
+      "launchYear": "2021",
+      "status": "Active; Ross Coulthart co-hosted from 2021 to 2025",
+      "officialWebsite": "https://www.youtube.com/channel/UCgslF1kPo4Kmv4Xrg8EyYmQ",
+      "youtube": "https://www.youtube.com/playlist?list=PLXdU8QbJkboeMcvUNyGpb9h6FUS9cVBti",
+      "spotify": "https://open.spotify.com/show/24xucCwPjcXENqwUgtKZaY",
+      "applePodcasts": "https://podcasts.apple.com/us/podcast/need-to-know/id1600409359",
+      "connectedEntities": 2
+    },
+    {
+      "id": "merged-podcast",
+      "name": "Merged",
+      "hosts": [
+        "Ryan Graves"
+      ],
+      "launchYear": "2022",
+      "status": "Active",
+      "officialWebsite": "https://www.mergedpodcast.com/",
+      "youtube": "https://www.youtube.com/@merged_podcast",
+      "spotify": "https://open.spotify.com/show/4HjG2YLiHjEJ5rLs39sGfQ",
+      "applePodcasts": "https://podcasts.apple.com/us/podcast/merged/id1655450953",
+      "connectedEntities": 3
+    },
+    {
+      "id": "black-vault-radio",
+      "name": "The Black Vault Radio",
+      "hosts": [
+        "John Greenewald Jr."
+      ],
+      "launchYear": "2018",
+      "status": "Active archive",
+      "officialWebsite": "https://www.theblackvault.com/documentarchive/category/podcasts/",
+      "youtube": "https://www.youtube.com/playlist?list=PLE3oneoSnqvo0-IjaLOW9Hl6fwHdXysye",
+      "spotify": "https://open.spotify.com/show/1w1G5z9fSAWUCXRP0hc7zz",
+      "applePodcasts": "https://podcasts.apple.com/us/podcast/the-black-vault-radio-w-john-greenewald-jr/id1407064117",
+      "connectedEntities": 2
+    },
+    {
+      "id": "theories-of-everything-podcast",
+      "name": "Theories of Everything",
+      "hosts": [
+        "Curt Jaimungal"
+      ],
+      "launchYear": "2020",
+      "status": "Active",
+      "officialWebsite": "https://curtjaimungal.substack.com/",
+      "youtube": "https://www.youtube.com/@TheoriesofEverything",
+      "spotify": "https://open.spotify.com/show/4gL14b92xAErofYQA7bU4e",
+      "applePodcasts": "https://podcasts.apple.com/us/podcast/theories-of-everything-with-curt-jaimungal/id1521758802",
+      "connectedEntities": 1
+    },
+    {
+      "id": "engaging-the-phenomenon-podcast",
+      "name": "Engaging the Phenomenon",
+      "hosts": [
+        "James Iandoli"
+      ],
+      "launchYear": "2018",
+      "status": "Active",
+      "officialWebsite": "https://www.youtube.com/@EngagingThePhenomenon",
+      "youtube": "https://www.youtube.com/@EngagingThePhenomenon",
+      "spotify": "https://open.spotify.com/show/0E5OFgTmqz92w8JBrqthdT",
+      "applePodcasts": "",
+      "connectedEntities": 1
+    },
+    {
+      "id": "that-ufo-podcast",
+      "name": "That UFO Podcast",
+      "hosts": [
+        "Andy McGrillen"
+      ],
+      "launchYear": "2020",
+      "status": "Active",
+      "officialWebsite": "https://www.youtube.com/@ThatUFOPodcast",
+      "youtube": "https://www.youtube.com/@ThatUFOPodcast",
+      "spotify": "https://open.spotify.com/show/1ZKd55G0F5RgvOafSZcOYv",
+      "applePodcasts": "https://podcasts.apple.com/us/podcast/that-ufo-podcast/id1511121397",
+      "connectedEntities": 1
+    },
+    {
+      "id": "somewhere-in-the-skies-podcast",
+      "name": "Somewhere in the Skies",
+      "hosts": [
+        "Ryan Sprague"
+      ],
+      "launchYear": "2017",
+      "status": "Active",
+      "officialWebsite": "https://somewhereintheskies.com/",
+      "youtube": "https://www.youtube.com/channel/UCYH8m4zyehr0rN3feBZ4mCA",
+      "spotify": "https://open.spotify.com/show/1g0MSTxiHo4KvtrUxhr6II",
+      "applePodcasts": "https://podcasts.apple.com/us/podcast/somewhere-in-the-skies/id1227858637",
+      "connectedEntities": 1
+    }
+  ]
+}

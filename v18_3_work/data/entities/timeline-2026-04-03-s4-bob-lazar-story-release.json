@@ -1,0 +1,48 @@
+{
+  "id": "timeline-2026-04-03-s4-bob-lazar-story-release",
+  "type": "timeline_event",
+  "name": "S4: The Bob Lazar Story Released Digitally",
+  "summary": "The documentary S4: The Bob Lazar Story was released digitally, presenting a new visual reconstruction of Lazar’s account of the alleged S4 facility.",
+  "date": "2026-04-03",
+  "dateDisplay": "April 3, 2026",
+  "eventCategory": "Documentary release",
+  "relationships": [
+    {
+      "type": "timeline_connection",
+      "target": "bob-lazar",
+      "role": "primary_subject",
+      "context": "Central subject and narrator"
+    },
+    {
+      "type": "timeline_connection",
+      "target": "luigi-venditelli",
+      "role": "creator",
+      "context": "Director and producer"
+    },
+    {
+      "type": "timeline_connection",
+      "target": "2026-s4-bob-lazar-story",
+      "role": "related_media",
+      "context": "Documentary released"
+    },
+    {
+      "type": "timeline_connection",
+      "target": "s4-facility-claim",
+      "role": "discussed",
+      "context": "Central alleged facility"
+    },
+    {
+      "type": "timeline_connection",
+      "target": "claim-s4-documentary-reconstruction",
+      "role": "related_claim",
+      "context": "Reconstruction claim associated with the production"
+    }
+  ],
+  "primarySourceLinks": [
+    {
+      "label": "S4 documentary release information",
+      "url": "https://www.imdb.com/title/tt37605896/releaseinfo/",
+      "sourceType": "Release information"
+    }
+  ]
+}

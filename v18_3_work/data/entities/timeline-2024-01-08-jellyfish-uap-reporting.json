@@ -1,0 +1,42 @@
+{
+  "id": "timeline-2024-01-08-jellyfish-uap-reporting",
+  "type": "timeline_event",
+  "name": "Corbell and Knapp Publish the Jellyfish UAP Footage",
+  "summary": "Jeremy Corbell and George Knapp publicly released military-filmed footage described in their reporting as the Jellyfish UAP, expanding WEAPONIZED coverage of documented UAP cases.",
+  "date": "2024-01-08",
+  "dateDisplay": "January 8, 2024",
+  "eventCategory": "Investigative reporting",
+  "relationships": [
+    {
+      "type": "timeline_connection",
+      "target": "jeremy-corbell",
+      "role": "investigator",
+      "context": "Co-published the footage and reporting"
+    },
+    {
+      "type": "timeline_connection",
+      "target": "george-knapp",
+      "role": "investigator",
+      "context": "Co-published the footage and reporting"
+    },
+    {
+      "type": "timeline_connection",
+      "target": "weaponized-podcast",
+      "role": "related_media",
+      "context": "Reported through the WEAPONIZED platform"
+    },
+    {
+      "type": "timeline_connection",
+      "target": "government-transparency",
+      "role": "related_topic",
+      "context": "Release of military-filmed UAP material"
+    }
+  ],
+  "primarySourceLinks": [
+    {
+      "label": "The Jellyfish UAP",
+      "url": "https://www.weaponizedpodcast.com/news-1/the-jellyfish-uap",
+      "sourceType": "Official WEAPONIZED report"
+    }
+  ]
+}

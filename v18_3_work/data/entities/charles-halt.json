@@ -1,0 +1,35 @@
+{
+  "id": "charles-halt",
+  "type": "person",
+  "name": "Charles Halt",
+  "summary": "Retired U.S. Air Force officer who investigated and documented part of the 1980 Rendlesham Forest incident.",
+  "relationships": [
+    {
+      "type": "reported_case",
+      "target": "rendlesham-forest-incident"
+    },
+    {
+      "type": "affiliated_with",
+      "target": "united-states-air-force",
+      "role": "Retired officer"
+    },
+    {
+      "type": "affiliated_with",
+      "target": "raf-bentwaters",
+      "role": "Former deputy base commander"
+    }
+  ],
+  "profileStatus": "Military witness and official memorandum author",
+  "profileSummary": "Retired U.S. Air Force officer who investigated and documented part of the 1980 Rendlesham Forest incident.",
+  "background": "Former deputy base commander at RAF Bentwaters.",
+  "inclusionNote": "Included because he authored a contemporaneous official memorandum and recorded observations associated with the Rendlesham case.",
+  "primarySourceLinks": [
+    {
+      "label": "UK National Archives UFO files and transcript",
+      "url": "https://cdn.nationalarchives.gov.uk/documents/ufo-transcript-aug-09.pdf",
+      "sourceType": "UK National Archives"
+    }
+  ],
+  "profileBadge": "Firsthand Witness",
+  "profileBadgeClass": "badge-witness"
+}

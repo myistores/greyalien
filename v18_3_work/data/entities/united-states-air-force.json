@@ -1,0 +1,18 @@
+{
+  "id": "united-states-air-force",
+  "type": "organization",
+  "name": "United States Air Force",
+  "summary": "Air service branch of the U.S. Armed Forces.",
+  "relationships": [
+    {
+      "type": "addresses_topic",
+      "target": "aviation-safety"
+    },
+    {
+      "type": "addresses_topic",
+      "target": "historical-ufo-research"
+    }
+  ],
+  "externalUrl": "https://www.airforce.com/",
+  "externalLinkLabel": "Visit official or authoritative website"
+}

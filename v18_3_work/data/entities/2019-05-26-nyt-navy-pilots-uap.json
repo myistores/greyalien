@@ -1,0 +1,27 @@
+{
+  "id": "2019-05-26-nyt-navy-pilots-uap",
+  "type": "publication",
+  "name": "The New York Times Publishes “‘Wow, What Is That?’”",
+  "summary": "The May 2019 New York Times report presented Ryan Graves’s account of recurring East Coast UAP encounters and framed them as an aviation-safety and national-security concern.",
+  "date": "2019-05-26",
+  "dateDisplay": "May 26, 2019",
+  "eventCategory": "Public disclosure",
+  "relationships": [
+    {
+      "type": "references_person",
+      "target": "ryan-graves",
+      "role": "primary_subject",
+      "context": "Graves was a central source describing the recurring encounters"
+    },
+    {
+      "type": "documented_by",
+      "target": "2014-2015-east-coast-navy-encounters"
+    },
+    {
+      "type": "references_topic",
+      "target": "aviation-safety"
+    }
+  ],
+  "externalUrl": "https://www.nytimes.com/2019/05/26/us/politics/ufo-sightings-navy-pilots.html",
+  "externalLinkLabel": "Read the New York Times report"
+}

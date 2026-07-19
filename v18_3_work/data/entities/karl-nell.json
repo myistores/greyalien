@@ -1,0 +1,45 @@
+{
+  "id": "karl-nell",
+  "type": "person",
+  "name": "Karl Nell",
+  "summary": "Retired U.S. Army colonel, aerospace executive, and public advocate for greater government disclosure concerning UAP.",
+  "relationships": [
+    {
+      "type": "affiliated_with",
+      "target": "department-of-defense",
+      "role": "Retired U.S. Army officer"
+    },
+    {
+      "type": "made_claim",
+      "target": "claim-crash-retrieval-program"
+    }
+  ],
+  "profileStatus": "Former military officer and public disclosure advocate",
+  "profileSummary": "Retired U.S. Army colonel, aerospace executive, and public advocate for greater government disclosure concerning UAP.",
+  "background": "Retired U.S. Army colonel and aerospace executive.",
+  "inclusionNote": "Included because of his former military and national-security background, public statements concerning UAP disclosure, and direct relevance to claims and people already represented in the knowledge graph.",
+  "primarySourceLinks": [
+    {
+      "label": "The UFO Enigma: A Call for U.S. Government Disclosure",
+      "url": "https://thesolfoundation.org/publications/the-ufo-enigma-a-call-for-us-government-disclosure/",
+      "sourceType": "The Sol Foundation"
+    },
+    {
+      "label": "SALT speaker profile",
+      "url": "https://www.salt.org/speakers/karl-nell",
+      "sourceType": "SALT"
+    },
+    {
+      "label": "SALT New York 2024 agenda",
+      "url": "https://www.salt.org/event-agendas/2024-new-york",
+      "sourceType": "SALT"
+    },
+    {
+      "label": "Sol Foundation inaugural symposium",
+      "url": "https://thesolfoundation.org/events/the-inaugural-annual-conference-of-the-sol-foundation/",
+      "sourceType": "The Sol Foundation"
+    }
+  ],
+  "profileBadge": "Military Contributor",
+  "profileBadgeClass": "badge-military"
+}

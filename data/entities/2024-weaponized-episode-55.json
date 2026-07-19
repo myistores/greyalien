@@ -1,0 +1,116 @@
+{
+  "id": "2024-weaponized-episode-55",
+  "type": "podcast_episode",
+  "name": "WEAPONIZED Episode #55 — AARO, Congressional Oversight, and the Kirkpatrick Interview",
+  "summary": "Jeremy Corbell and George Knapp mark the first anniversary of the July 2023 House UAP hearing and speak with Marik von Rennenkampff about his interview with former AARO director Sean Kirkpatrick, congressional disclosure efforts, and disputed assessments of major UAP cases.",
+  "date": "2024-07-23",
+  "dateDisplay": "July 23, 2024",
+  "seriesId": "weaponized-podcast",
+  "episodeNumber": 55,
+  "episodeTitle": "AARO, Congressional Oversight, and the Kirkpatrick Interview",
+  "status": "Published",
+  "mediaType": "Podcast episode",
+  "mediaPlatform": "WEAPONIZED",
+  "mediaHost": "Jeremy Corbell and George Knapp",
+  "mediaGuests": [
+    "marik-von-rennenkampff"
+  ],
+  "mediaSubjects": [
+    "July 2023 House hearing",
+    "AARO",
+    "Sean Kirkpatrick",
+    "Congressional disclosure efforts"
+  ],
+  "principalClaims": [],
+  "researchNotes": [],
+  "relationships": [
+    {
+      "type": "episode_of",
+      "target": "weaponized-podcast"
+    },
+    {
+      "type": "features_person",
+      "target": "jeremy-corbell",
+      "role": "host",
+      "context": "WEAPONIZED co-host"
+    },
+    {
+      "type": "features_person",
+      "target": "george-knapp",
+      "role": "host",
+      "context": "WEAPONIZED co-host"
+    },
+    {
+      "type": "features_person",
+      "target": "marik-von-rennenkampff",
+      "role": "guest",
+      "context": "Discussed interview with Sean Kirkpatrick"
+    },
+    {
+      "type": "features_person",
+      "target": "sean-kirkpatrick",
+      "role": "primary_subject",
+      "context": "Interview and public claims reviewed"
+    },
+    {
+      "type": "features_person",
+      "target": "david-grusch",
+      "role": "referenced_subject"
+    },
+    {
+      "type": "features_person",
+      "target": "david-fravor",
+      "role": "referenced_subject"
+    },
+    {
+      "type": "features_person",
+      "target": "ryan-graves",
+      "role": "referenced_subject"
+    },
+    {
+      "type": "references_organization",
+      "target": "aaro"
+    },
+    {
+      "type": "references_hearing",
+      "target": "2023-07-26-house-oversight-uap"
+    },
+    {
+      "type": "discussed_topic",
+      "target": "congressional-oversight"
+    },
+    {
+      "type": "discussed_topic",
+      "target": "government-transparency"
+    }
+  ],
+  "sources": [
+    {
+      "label": "Official WEAPONIZED Episode #55 page",
+      "url": "https://www.weaponizedpodcast.com/episodes-2/episode-55",
+      "sourceType": "official_episode_page",
+      "primary": true
+    },
+    {
+      "label": "Listen to WEAPONIZED",
+      "url": "https://link.chtbl.com/Weaponized",
+      "sourceType": "official_audio_feed",
+      "primary": false
+    }
+  ],
+  "externalUrl": "https://www.weaponizedpodcast.com/episodes-2/episode-55",
+  "externalLinkLabel": "Open official Episode #55 page",
+  "mediaLinks": [
+    {
+      "label": "Open the official Episode #55 page",
+      "url": "https://www.weaponizedpodcast.com/episodes-2/episode-55",
+      "platform": "WEAPONIZED"
+    },
+    {
+      "label": "Listen to WEAPONIZED",
+      "url": "https://link.chtbl.com/Weaponized",
+      "platform": "Official audio feed"
+    }
+  ],
+  "eventCategory": "Podcast publication"
+}

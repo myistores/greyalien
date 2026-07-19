@@ -1,0 +1,15 @@
+{
+  "id": "crop-circle-investigations",
+  "type": "topic",
+  "name": "Crop Circle Investigations",
+  "summary": "Research and reporting concerning crop formations, their origins, and government or media investigations.",
+  "relationships": [],
+  "sources": [
+    {
+      "label": "Official WEAPONIZED Episode #56 page",
+      "url": "https://www.weaponizedpodcast.com/episodes-2/episode-56",
+      "sourceType": "official_episode_page",
+      "primary": true
+    }
+  ]
+}

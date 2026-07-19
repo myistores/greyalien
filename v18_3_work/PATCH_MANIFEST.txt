@@ -1,0 +1,17 @@
+V17.5 Timeline Normalization Engine
+
+New:
+- PHASE4_REFINEMENT2_TIMELINE_NORMALIZATION.md
+- data/timeline-normalization.json
+- tools/build_timeline_normalization.py
+- tools/validate_timeline_normalization.py
+
+Updated:
+- assets/js/entity-engine.js
+- tools/automate_site.py
+- data/release-summary.json
+- index.html
+- CHANGELOG.md
+- README.md
+- README_DEPLOY.txt
+- generated automation, graph, podcast, entity-page, and sitemap assets

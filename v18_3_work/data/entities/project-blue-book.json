@@ -1,0 +1,18 @@
+{
+  "id": "project-blue-book",
+  "type": "organization",
+  "name": "Project Blue Book",
+  "summary": "Historical U.S. Air Force program for investigating UFO reports.",
+  "relationships": [
+    {
+      "type": "addresses_topic",
+      "target": "historical-ufo-research"
+    },
+    {
+      "type": "addresses_topic",
+      "target": "scientific-investigation"
+    }
+  ],
+  "externalUrl": "https://www.archives.gov/research/military/air-force/ufos",
+  "externalLinkLabel": "Visit official or authoritative website"
+}

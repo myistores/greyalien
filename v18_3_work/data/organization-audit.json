@@ -1,0 +1,385 @@
+{
+  "version": "14.1",
+  "organizations": [
+    {
+      "id": "aatip",
+      "name": "Advanced Aerospace Threat Identification Program",
+      "externalLink": false,
+      "outgoingRelationships": 3,
+      "connectedPeople": 1,
+      "connectedHearings": 0,
+      "connectedDocuments": 0,
+      "timelineEvents": 0
+    },
+    {
+      "id": "aawsap",
+      "name": "Advanced Aerospace Weapon System Applications Program",
+      "externalLink": false,
+      "outgoingRelationships": 3,
+      "connectedPeople": 3,
+      "connectedHearings": 0,
+      "connectedDocuments": 0,
+      "timelineEvents": 0
+    },
+    {
+      "id": "aaro",
+      "name": "All-domain Anomaly Resolution Office",
+      "externalLink": true,
+      "outgoingRelationships": 4,
+      "connectedPeople": 2,
+      "connectedHearings": 9,
+      "connectedDocuments": 1,
+      "timelineEvents": 0
+    },
+    {
+      "id": "defense-intelligence-agency",
+      "name": "Defense Intelligence Agency",
+      "externalLink": true,
+      "outgoingRelationships": 1,
+      "connectedPeople": 1,
+      "connectedHearings": 0,
+      "connectedDocuments": 0,
+      "timelineEvents": 0
+    },
+    {
+      "id": "earthtech-international",
+      "name": "EarthTech International",
+      "externalLink": true,
+      "outgoingRelationships": 0,
+      "connectedPeople": 2,
+      "connectedHearings": 0,
+      "connectedDocuments": 0,
+      "timelineEvents": 0
+    },
+    {
+      "id": "federal-aviation-administration",
+      "name": "Federal Aviation Administration",
+      "externalLink": true,
+      "outgoingRelationships": 2,
+      "connectedPeople": 2,
+      "connectedHearings": 0,
+      "connectedDocuments": 0,
+      "timelineEvents": 0
+    },
+    {
+      "id": "house-armed-services-committee",
+      "name": "House Committee on Armed Services",
+      "externalLink": true,
+      "outgoingRelationships": 0,
+      "connectedPeople": 0,
+      "connectedHearings": 3,
+      "connectedDocuments": 0,
+      "timelineEvents": 0
+    },
+    {
+      "id": "house-oversight-committee",
+      "name": "House Committee on Oversight and Accountability",
+      "externalLink": true,
+      "outgoingRelationships": 2,
+      "connectedPeople": 0,
+      "connectedHearings": 4,
+      "connectedDocuments": 1,
+      "timelineEvents": 1
+    },
+    {
+      "id": "house-science-astronautics-committee",
+      "name": "House Committee on Science and Astronautics",
+      "externalLink": true,
+      "outgoingRelationships": 0,
+      "connectedPeople": 0,
+      "connectedHearings": 1,
+      "connectedDocuments": 0,
+      "timelineEvents": 0
+    },
+    {
+      "id": "house-intelligence-committee",
+      "name": "House Permanent Select Committee on Intelligence",
+      "externalLink": true,
+      "outgoingRelationships": 1,
+      "connectedPeople": 0,
+      "connectedHearings": 2,
+      "connectedDocuments": 0,
+      "timelineEvents": 0
+    },
+    {
+      "id": "icecube-neutrino-observatory",
+      "name": "IceCube Neutrino Observatory",
+      "externalLink": true,
+      "outgoingRelationships": 0,
+      "connectedPeople": 0,
+      "connectedHearings": 0,
+      "connectedDocuments": 1,
+      "timelineEvents": 0
+    },
+    {
+      "id": "intelligence-community-inspector-general",
+      "name": "Intelligence Community Inspector General",
+      "externalLink": true,
+      "outgoingRelationships": 0,
+      "connectedPeople": 1,
+      "connectedHearings": 1,
+      "connectedDocuments": 1,
+      "timelineEvents": 0
+    },
+    {
+      "id": "malmstrom-air-force-base",
+      "name": "Malmstrom Air Force Base",
+      "externalLink": true,
+      "outgoingRelationships": 0,
+      "connectedPeople": 1,
+      "connectedHearings": 0,
+      "connectedDocuments": 0,
+      "timelineEvents": 0
+    },
+    {
+      "id": "minot-air-force-base",
+      "name": "Minot Air Force Base",
+      "externalLink": true,
+      "outgoingRelationships": 0,
+      "connectedPeople": 1,
+      "connectedHearings": 0,
+      "connectedDocuments": 0,
+      "timelineEvents": 0
+    },
+    {
+      "id": "nasa",
+      "name": "NASA",
+      "externalLink": true,
+      "outgoingRelationships": 2,
+      "connectedPeople": 2,
+      "connectedHearings": 1,
+      "connectedDocuments": 1,
+      "timelineEvents": 0
+    },
+    {
+      "id": "nasa-uap-independent-study-team",
+      "name": "NASA UAP Independent Study Team",
+      "externalLink": true,
+      "outgoingRelationships": 5,
+      "connectedPeople": 9,
+      "connectedHearings": 0,
+      "connectedDocuments": 1,
+      "timelineEvents": 1
+    },
+    {
+      "id": "national-archives",
+      "name": "National Archives and Records Administration",
+      "externalLink": true,
+      "outgoingRelationships": 1,
+      "connectedPeople": 0,
+      "connectedHearings": 1,
+      "connectedDocuments": 0,
+      "timelineEvents": 0
+    },
+    {
+      "id": "national-institute-for-discovery-science",
+      "name": "National Institute for Discovery Science",
+      "externalLink": true,
+      "outgoingRelationships": 0,
+      "connectedPeople": 0,
+      "connectedHearings": 0,
+      "connectedDocuments": 0,
+      "timelineEvents": 0
+    },
+    {
+      "id": "new-paradigm-institute",
+      "name": "New Paradigm Institute",
+      "externalLink": true,
+      "outgoingRelationships": 2,
+      "connectedPeople": 1,
+      "connectedHearings": 0,
+      "connectedDocuments": 0,
+      "timelineEvents": 0
+    },
+    {
+      "id": "project-blue-book",
+      "name": "Project Blue Book",
+      "externalLink": true,
+      "outgoingRelationships": 2,
+      "connectedPeople": 0,
+      "connectedHearings": 1,
+      "connectedDocuments": 0,
+      "timelineEvents": 0
+    },
+    {
+      "id": "project-on-government-oversight",
+      "name": "Project On Government Oversight",
+      "externalLink": true,
+      "outgoingRelationships": 0,
+      "connectedPeople": 0,
+      "connectedHearings": 1,
+      "connectedDocuments": 0,
+      "timelineEvents": 0
+    },
+    {
+      "id": "raf-bentwaters",
+      "name": "RAF Bentwaters / RAF Woodbridge",
+      "externalLink": true,
+      "outgoingRelationships": 0,
+      "connectedPeople": 3,
+      "connectedHearings": 0,
+      "connectedDocuments": 0,
+      "timelineEvents": 0
+    },
+    {
+      "id": "raytheon",
+      "name": "Raytheon",
+      "externalLink": true,
+      "outgoingRelationships": 0,
+      "connectedPeople": 1,
+      "connectedHearings": 0,
+      "connectedDocuments": 0,
+      "timelineEvents": 0
+    },
+    {
+      "id": "senate-armed-services-committee",
+      "name": "Senate Committee on Armed Services",
+      "externalLink": true,
+      "outgoingRelationships": 1,
+      "connectedPeople": 0,
+      "connectedHearings": 5,
+      "connectedDocuments": 0,
+      "timelineEvents": 0
+    },
+    {
+      "id": "senate-intelligence-committee",
+      "name": "Senate Select Committee on Intelligence",
+      "externalLink": true,
+      "outgoingRelationships": 0,
+      "connectedPeople": 1,
+      "connectedHearings": 1,
+      "connectedDocuments": 0,
+      "timelineEvents": 0
+    },
+    {
+      "id": "disclosure-project",
+      "name": "The Disclosure Project",
+      "externalLink": true,
+      "outgoingRelationships": 2,
+      "connectedPeople": 1,
+      "connectedHearings": 0,
+      "connectedDocuments": 0,
+      "timelineEvents": 0
+    },
+    {
+      "id": "galileo-project",
+      "name": "The Galileo Project",
+      "externalLink": true,
+      "outgoingRelationships": 2,
+      "connectedPeople": 1,
+      "connectedHearings": 0,
+      "connectedDocuments": 0,
+      "timelineEvents": 0
+    },
+    {
+      "id": "sol-foundation",
+      "name": "The Sol Foundation",
+      "externalLink": true,
+      "outgoingRelationships": 2,
+      "connectedPeople": 1,
+      "connectedHearings": 0,
+      "connectedDocuments": 0,
+      "timelineEvents": 0
+    },
+    {
+      "id": "to-the-stars-academy",
+      "name": "To The Stars Academy of Arts & Science",
+      "externalLink": true,
+      "outgoingRelationships": 2,
+      "connectedPeople": 2,
+      "connectedHearings": 0,
+      "connectedDocuments": 0,
+      "timelineEvents": 0
+    },
+    {
+      "id": "department-of-defense",
+      "name": "U.S. Department of Defense",
+      "externalLink": true,
+      "outgoingRelationships": 3,
+      "connectedPeople": 7,
+      "connectedHearings": 12,
+      "connectedDocuments": 0,
+      "timelineEvents": 1
+    },
+    {
+      "id": "uap-science-advisory-council",
+      "name": "UAP Science Advisory Council",
+      "externalLink": false,
+      "outgoingRelationships": 2,
+      "connectedPeople": 2,
+      "connectedHearings": 0,
+      "connectedDocuments": 0,
+      "timelineEvents": 0
+    },
+    {
+      "id": "uss-princeton",
+      "name": "USS Princeton",
+      "externalLink": true,
+      "outgoingRelationships": 0,
+      "connectedPeople": 3,
+      "connectedHearings": 0,
+      "connectedDocuments": 0,
+      "timelineEvents": 0
+    },
+    {
+      "id": "uap-task-force",
+      "name": "Unidentified Aerial Phenomena Task Force",
+      "externalLink": true,
+      "outgoingRelationships": 0,
+      "connectedPeople": 2,
+      "connectedHearings": 2,
+      "connectedDocuments": 0,
+      "timelineEvents": 0
+    },
+    {
+      "id": "united-states-air-force",
+      "name": "United States Air Force",
+      "externalLink": true,
+      "outgoingRelationships": 2,
+      "connectedPeople": 11,
+      "connectedHearings": 1,
+      "connectedDocuments": 0,
+      "timelineEvents": 0
+    },
+    {
+      "id": "united-states-army",
+      "name": "United States Army",
+      "externalLink": true,
+      "outgoingRelationships": 0,
+      "connectedPeople": 2,
+      "connectedHearings": 0,
+      "connectedDocuments": 0,
+      "timelineEvents": 0
+    },
+    {
+      "id": "united-states-marine-corps",
+      "name": "United States Marine Corps",
+      "externalLink": true,
+      "outgoingRelationships": 0,
+      "connectedPeople": 2,
+      "connectedHearings": 0,
+      "connectedDocuments": 0,
+      "timelineEvents": 0
+    },
+    {
+      "id": "united-states-navy",
+      "name": "United States Navy",
+      "externalLink": true,
+      "outgoingRelationships": 2,
+      "connectedPeople": 14,
+      "connectedHearings": 5,
+      "connectedDocuments": 1,
+      "timelineEvents": 0
+    },
+    {
+      "id": "vandenberg-space-force-base",
+      "name": "Vandenberg Space Force Base",
+      "externalLink": true,
+      "outgoingRelationships": 0,
+      "connectedPeople": 1,
+      "connectedHearings": 0,
+      "connectedDocuments": 0,
+      "timelineEvents": 0
+    }
+  ]
+}

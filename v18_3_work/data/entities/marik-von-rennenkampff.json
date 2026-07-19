@@ -1,0 +1,27 @@
+{
+  "id": "marik-von-rennenkampff",
+  "type": "person",
+  "name": "Marik von Rennenkampff",
+  "summary": "Former U.S. government analyst and journalist who has written and reported on UAP policy and interviewed former AARO director Sean Kirkpatrick.",
+  "relationships": [
+    {
+      "type": "appeared_in",
+      "target": "2024-weaponized-episode-55",
+      "role": "guest",
+      "context": "Guest in WEAPONIZED Episode #55"
+    }
+  ],
+  "profileStatus": "Researcher, journalist, or public figure",
+  "profileSummary": "Former U.S. government analyst and journalist who has written and reported on UAP policy and interviewed former AARO director Sean Kirkpatrick.",
+  "profileBadge": "Podcast guest",
+  "profileBadgeClass": "badge-journalist",
+  "inclusionNote": "Included through WEAPONIZED Episode #55.",
+  "sources": [
+    {
+      "label": "Official WEAPONIZED Episode #55 page",
+      "url": "https://www.weaponizedpodcast.com/episodes-2/episode-55",
+      "sourceType": "official_episode_page",
+      "primary": true
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "id": "federica-bianco",
+  "type": "person",
+  "name": "Federica Bianco",
+  "summary": "Astrophysicist and data-science specialist who served on NASA's UAP Independent Study Team.",
+  "relationships": [
+    {
+      "type": "affiliated_with",
+      "target": "nasa-uap-independent-study-team",
+      "role": "Study-team member"
+    },
+    {
+      "type": "authored",
+      "target": "2023-nasa-uap-independent-study-report"
+    }
+  ],
+  "profileStatus": "NASA independent-study member",
+  "profileSummary": "Astrophysicist and data-science specialist who served on NASA's UAP Independent Study Team.",
+  "background": "Astrophysicist and deputy project scientist for the Vera C. Rubin Observatory.",
+  "inclusionNote": "Included because NASA appointed her to contribute observational astronomy, survey science, and large-scale data-analysis expertise.",
+  "primarySourceLinks": [
+    {
+      "label": "NASA announces UAP study-team members",
+      "url": "https://www.nasa.gov/general/nasa-announces-unidentified-aerial-phenomena-study-team-members/",
+      "sourceType": "NASA"
+    }
+  ]
+}

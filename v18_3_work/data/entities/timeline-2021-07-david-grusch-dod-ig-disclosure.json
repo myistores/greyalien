@@ -1,0 +1,42 @@
+{
+  "id": "timeline-2021-07-david-grusch-dod-ig-disclosure",
+  "type": "timeline_event",
+  "name": "David Grusch Provides UAP Information to the DoD Inspector General",
+  "summary": "In July 2021, David Grusch says he confidentially provided classified UAP-related information to the Department of Defense Inspector General concerning alleged withholding of information from Congress.",
+  "date": "2021-07-01",
+  "dateDisplay": "July 2021",
+  "eventCategory": "Protected disclosure",
+  "relationships": [
+    {
+      "type": "timeline_connection",
+      "target": "david-grusch",
+      "role": "claimant",
+      "context": "Submitted the confidential disclosure"
+    },
+    {
+      "type": "timeline_connection",
+      "target": "department-of-defense",
+      "role": "related_topic",
+      "context": "Disclosure was made to the Department of Defense Inspector General"
+    },
+    {
+      "type": "timeline_connection",
+      "target": "congressional-oversight",
+      "role": "related_topic",
+      "context": "Concerned alleged withholding of UAP information from Congress"
+    },
+    {
+      "type": "timeline_connection",
+      "target": "claim-secret-uap-programs",
+      "role": "related_claim",
+      "context": "Disclosure concerned alleged concealed UAP programs"
+    }
+  ],
+  "primarySourceLinks": [
+    {
+      "label": "Unclassified whistleblower complaint background",
+      "url": "https://www.weaponizedpodcast.com/news-1/david-grusch-whistleblower-complaint",
+      "sourceType": "Published copy and background summary"
+    }
+  ]
+}

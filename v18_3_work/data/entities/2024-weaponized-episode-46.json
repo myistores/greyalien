@@ -1,0 +1,107 @@
+{
+  "id": "2024-weaponized-episode-46",
+  "type": "podcast_episode",
+  "name": "WEAPONIZED Episode #46 — Richard Dolan on Disclosure, History, and USO Cases",
+  "summary": "Historian Richard Dolan joins Jeremy Corbell and George Knapp for a wide-ranging discussion of disclosure, intelligence and defense institutions, whistleblower revelations, congressional statements, academic interest, global UFO history, and unidentified submerged object cases.",
+  "date": "2024-01-08",
+  "dateDisplay": "January 8, 2024",
+  "seriesId": "weaponized-podcast",
+  "episodeNumber": 46,
+  "episodeTitle": "Richard Dolan on Disclosure, History, and USO Cases",
+  "status": "Published",
+  "mediaType": "Podcast episode",
+  "mediaPlatform": "WEAPONIZED",
+  "mediaHost": "Jeremy Corbell and George Knapp",
+  "mediaGuests": [
+    "Richard Dolan"
+  ],
+  "mediaSubjects": [
+    "UAP disclosure",
+    "David Grusch",
+    "Unidentified submerged objects"
+  ],
+  "principalClaims": [],
+  "researchNotes": [
+    "Official description identifies Richard Dolan as the participating guest and highlights his USO research."
+  ],
+  "relationships": [
+    {
+      "type": "episode_of",
+      "target": "weaponized-podcast"
+    },
+    {
+      "type": "features_person",
+      "target": "jeremy-corbell",
+      "role": "host",
+      "context": "WEAPONIZED co-host"
+    },
+    {
+      "type": "features_person",
+      "target": "george-knapp",
+      "role": "host",
+      "context": "WEAPONIZED co-host"
+    },
+    {
+      "type": "features_person",
+      "target": "richard-dolan",
+      "role": "guest",
+      "context": "Primary interview guest"
+    },
+    {
+      "type": "references_organization",
+      "target": "department-of-defense",
+      "context": "Discussion of historical and current Defense Department involvement"
+    },
+    {
+      "type": "features_person",
+      "target": "david-grusch",
+      "role": "subject",
+      "context": "Recent whistleblower revelations are discussed"
+    },
+    {
+      "type": "discussed_topic",
+      "target": "government-transparency"
+    },
+    {
+      "type": "discussed_topic",
+      "target": "historical-ufo-research"
+    },
+    {
+      "type": "discussed_topic",
+      "target": "scientific-investigation"
+    },
+    {
+      "type": "discussed_topic",
+      "target": "unidentified-submerged-objects"
+    }
+  ],
+  "sources": [
+    {
+      "label": "Official WEAPONIZED Episode #46 page",
+      "url": "https://www.weaponizedpodcast.com/episodes-2/episode-46",
+      "sourceType": "official_episode_page",
+      "primary": true
+    },
+    {
+      "label": "Listen to WEAPONIZED",
+      "url": "https://link.chtbl.com/Weaponized",
+      "sourceType": "official_audio_feed",
+      "primary": false
+    }
+  ],
+  "externalUrl": "https://www.weaponizedpodcast.com/episodes-2/episode-46",
+  "externalLinkLabel": "Open official Episode #46 page",
+  "mediaLinks": [
+    {
+      "label": "Open the official Episode #46 page",
+      "url": "https://www.weaponizedpodcast.com/episodes-2/episode-46",
+      "platform": "WEAPONIZED"
+    },
+    {
+      "label": "Listen to WEAPONIZED",
+      "url": "https://link.chtbl.com/Weaponized",
+      "platform": "Official audio feed"
+    }
+  ],
+  "eventCategory": "Podcast publication"
+}

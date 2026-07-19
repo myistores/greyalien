@@ -1,0 +1,40 @@
+# GreyAlien Version 5 — Analytics, Search and Sharing Foundation
+
+## Included
+- Google Analytics 4 on every page
+- GA4 Measurement ID: `G-CPWQX72QKP`
+- Custom `knowledge_navigation` and outbound-link events
+- Central site configuration
+- Microsoft Clarity-ready configuration
+- Google Search Console-ready verification
+- Bing Webmaster Tools-ready verification
+- `sitemap.xml`
+- `robots.txt`
+- canonical URLs
+- Open Graph metadata
+- Twitter/X card metadata
+- JSON-LD structured data
+- dynamic Event schema for hearing records
+- custom `404.html`
+- favicon and theme metadata
+
+## Deploy
+Upload the complete extracted package to the root of the existing GitHub repository.
+Keep all folders intact and replace existing files when prompted.
+
+Suggested commit:
+`Add analytics search and social foundation`
+
+## After deployment
+1. Visit the site in a private browser window.
+2. Open Google Analytics > Reports > Realtime.
+3. Browse several GreyAlien pages.
+4. Confirm that one active user and page views appear.
+
+## Still to configure
+- Search Console verification token or DNS TXT record
+- Bing verification or Search Console import
+- Microsoft Clarity project ID
+
+Those values can be added centrally in:
+`assets/js/site-config.js`

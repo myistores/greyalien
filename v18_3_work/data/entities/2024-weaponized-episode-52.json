@@ -1,0 +1,132 @@
+{
+  "id": "2024-weaponized-episode-52",
+  "type": "podcast_episode",
+  "name": "WEAPONIZED Episode #52 — Season Finale and AARO Historical Report Review",
+  "summary": "Jeremy Corbell and George Knapp review major moments from the first season, revisit interviews with government investigators, journalists, and disclosure advocates, and criticize AARO’s newly released historical report on U.S. government UFO investigations.",
+  "date": "2024-03-13",
+  "dateDisplay": "March 13, 2024",
+  "seriesId": "weaponized-podcast",
+  "episodeNumber": 52,
+  "episodeTitle": "Season Finale and AARO Historical Report Review",
+  "status": "Published",
+  "mediaType": "Podcast episode",
+  "mediaPlatform": "WEAPONIZED",
+  "mediaHost": "Jeremy Corbell and George Knapp",
+  "mediaGuests": [],
+  "mediaSubjects": [
+    "First-season retrospective",
+    "AARO historical report",
+    "Government UAP investigations"
+  ],
+  "principalClaims": [],
+  "researchNotes": [],
+  "relationships": [
+    {
+      "type": "episode_of",
+      "target": "weaponized-podcast"
+    },
+    {
+      "type": "features_person",
+      "target": "jeremy-corbell",
+      "role": "host",
+      "context": "WEAPONIZED co-host"
+    },
+    {
+      "type": "features_person",
+      "target": "george-knapp",
+      "role": "host",
+      "context": "WEAPONIZED co-host"
+    },
+    {
+      "type": "features_person",
+      "target": "jay-stratton",
+      "role": "referenced_subject",
+      "context": "Referenced past guest"
+    },
+    {
+      "type": "features_person",
+      "target": "james-lacatski",
+      "role": "referenced_subject",
+      "context": "Referenced past guest"
+    },
+    {
+      "type": "features_person",
+      "target": "colm-kelleher",
+      "role": "referenced_subject",
+      "context": "Referenced past guest"
+    },
+    {
+      "type": "features_person",
+      "target": "tim-burchett",
+      "role": "referenced_subject",
+      "context": "Referenced disclosure advocate"
+    },
+    {
+      "type": "features_person",
+      "target": "richard-dolan",
+      "role": "referenced_subject",
+      "context": "Referenced past guest"
+    },
+    {
+      "type": "features_person",
+      "target": "ross-coulthart",
+      "role": "referenced_subject",
+      "context": "Referenced journalist"
+    },
+    {
+      "type": "features_person",
+      "target": "bryce-zabel",
+      "role": "referenced_subject",
+      "context": "Referenced journalist"
+    },
+    {
+      "type": "features_person",
+      "target": "joe-murgia",
+      "role": "referenced_subject",
+      "context": "Referenced journalist"
+    },
+    {
+      "type": "references_organization",
+      "target": "aaro",
+      "role": "report_subject",
+      "context": "AARO historical report reviewed"
+    },
+    {
+      "type": "discussed_topic",
+      "target": "government-transparency"
+    },
+    {
+      "type": "discussed_topic",
+      "target": "congressional-oversight"
+    }
+  ],
+  "sources": [
+    {
+      "label": "Official WEAPONIZED Episode #52 page",
+      "url": "https://www.weaponizedpodcast.com/episodes-2/episode-52",
+      "sourceType": "official_episode_page",
+      "primary": true
+    },
+    {
+      "label": "Listen to WEAPONIZED",
+      "url": "https://link.chtbl.com/Weaponized",
+      "sourceType": "official_audio_feed",
+      "primary": false
+    }
+  ],
+  "externalUrl": "https://www.weaponizedpodcast.com/episodes-2/episode-52",
+  "externalLinkLabel": "Open official Episode #52 page",
+  "mediaLinks": [
+    {
+      "label": "Open the official Episode #52 page",
+      "url": "https://www.weaponizedpodcast.com/episodes-2/episode-52",
+      "platform": "WEAPONIZED"
+    },
+    {
+      "label": "Listen to WEAPONIZED",
+      "url": "https://link.chtbl.com/Weaponized",
+      "platform": "Official audio feed"
+    }
+  ],
+  "eventCategory": "Podcast publication"
+}

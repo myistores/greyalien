@@ -1,0 +1,17 @@
+{
+  "id": "uap-register",
+  "type": "organization",
+  "name": "UAP Register",
+  "summary": "Online publication edited by Dustin Slaughter that reports on UAP records and FOIA releases.",
+  "relationships": [],
+  "organizationStatus": "Active or historical organization",
+  "organizationSummary": "Online publication edited by Dustin Slaughter that reports on UAP records and FOIA releases.",
+  "sources": [
+    {
+      "label": "Official WEAPONIZED Episode #54 page",
+      "url": "https://www.weaponizedpodcast.com/episodes-2/episode-54",
+      "sourceType": "official_episode_page",
+      "primary": true
+    }
+  ]
+}

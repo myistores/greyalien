@@ -1,0 +1,47 @@
+{
+  "id": "2025-weaponized-wiggins-interview",
+  "type": "interview",
+  "name": "Alexandro Wiggins on WEAPONIZED",
+  "summary": "Interview discussing Wiggins's account of a February 2023 USS Jackson UAP event.",
+  "relationships": [
+    {
+      "type": "published_by",
+      "target": "weaponized-podcast"
+    },
+    {
+      "type": "presented_claim",
+      "target": "claim-uss-jackson-transmedium-objects"
+    },
+    {
+      "type": "discussed_topic",
+      "target": "aviation-safety"
+    }
+  ],
+  "date": "2025-04-15",
+  "mediaLinks": [
+    {
+      "label": "Watch the full episode on YouTube",
+      "url": "https://www.youtube.com/watch?v=YKFmK-NSnKI",
+      "platform": "WEAPONIZED / YouTube"
+    },
+    {
+      "label": "Open the official episode page",
+      "url": "https://www.weaponizedpodcast.com/episodes-3/episode-73",
+      "platform": "WEAPONIZED"
+    },
+    {
+      "label": "Listen on Apple Podcasts",
+      "url": "https://podcasts.apple.com/us/podcast/firsthand-military-witness-goes-public-four-tic-tac-uaps/id1664299388?i=1000703638200",
+      "platform": "Apple Podcasts"
+    }
+  ],
+  "externalUrl": "https://www.youtube.com/watch?v=YKFmK-NSnKI",
+  "externalLinkLabel": "Watch the full WEAPONIZED episode",
+  "mediaType": "Podcast interview",
+  "mediaPlatform": "WEAPONIZED",
+  "mediaHost": "Jeremy Corbell and George Knapp",
+  "mediaGuests": [
+    "Alexandro Wiggins"
+  ],
+  "mediaSourceStatus": "Official full episode"
+}

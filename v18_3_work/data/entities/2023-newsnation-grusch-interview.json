@@ -1,0 +1,44 @@
+{
+  "id": "2023-newsnation-grusch-interview",
+  "type": "interview",
+  "name": "David Grusch NewsNation Interview",
+  "summary": "Television interview in which Grusch publicly discussed allegations concerning hidden UAP-related programs",
+  "relationships": [
+    {
+      "type": "published_by",
+      "target": "newsnation"
+    },
+    {
+      "type": "discussed_topic",
+      "target": "government-transparency"
+    },
+    {
+      "type": "presented_claim",
+      "target": "claim-crash-retrieval-program"
+    }
+  ],
+  "date": "2023-06-11",
+  "externalUrl": "https://www.youtube.com/watch?v=RBAISwCZ2v0",
+  "externalLinkLabel": "Watch the full NewsNation interview",
+  "mediaType": "Television interview",
+  "mediaPlatform": "NewsNation",
+  "mediaHost": "Ross Coulthart",
+  "mediaGuests": [
+    "David Grusch"
+  ],
+  "mediaSourceStatus": "Official NewsNation video",
+  "mediaLinks": [
+    {
+      "label": "Watch the full interview on YouTube",
+      "url": "https://www.youtube.com/watch?v=RBAISwCZ2v0",
+      "platform": "NewsNation / YouTube"
+    },
+    {
+      "label": "Watch NewsNation's later Grusch update",
+      "url": "https://www.youtube.com/watch?v=DqOyfWLEwPQ",
+      "platform": "NewsNation / YouTube"
+    }
+  ],
+  "dateDisplay": "June 11, 2023",
+  "eventCategory": "Television interview"
+}

@@ -1,0 +1,47 @@
+{
+  "id": "david-adair",
+  "type": "person",
+  "name": "David Adair",
+  "summary": "Public speaker and rocketry personality who has long claimed that he viewed an unusual propulsion system at a classified Nevada facility.",
+  "relationships": [
+    {
+      "type": "affiliated_with",
+      "target": "gaia",
+      "role": "Interview subject"
+    },
+    {
+      "type": "appeared_in",
+      "target": "david-adair-area-51-interview"
+    },
+    {
+      "type": "made_claim",
+      "target": "claim-area-51-alien-engine"
+    },
+    {
+      "type": "reported_case",
+      "target": "1960s-area-51-engine-claim"
+    },
+    {
+      "type": "reported_case",
+      "target": "area-51"
+    }
+  ],
+  "profileStatus": "Rocketry personality and Area 51 technology claimant",
+  "profileSummary": "Public speaker and rocketry personality who has long claimed that he viewed an unusual propulsion system at a classified Nevada facility.",
+  "background": "Self-described former child rocketry prodigy and aerospace consultant.",
+  "inclusionNote": "Included because his Area 51 account has circulated for decades and influenced reverse-engineering and propulsion narratives. The extraordinary portions of the story are not independently established.",
+  "primarySourceLinks": [
+    {
+      "label": "David Adair: My Story",
+      "url": "https://www.gaia.com/video/david-adair-my-story-child-prodigy-rocket-scientist",
+      "sourceType": "Gaia"
+    },
+    {
+      "label": "Apple TV episode listing",
+      "url": "https://tv.apple.com/us/episode/david-adair-my-story---child-prodigy-to-rocket-scientist/umc.cmc.4q50thjj84daj62aktst9l7p3",
+      "sourceType": "Apple TV"
+    }
+  ],
+  "profileBadge": "Research Contributor",
+  "profileBadgeClass": "badge-researcher"
+}

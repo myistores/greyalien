@@ -1,0 +1,31 @@
+{
+  "id": "christopher-kit-green",
+  "type": "person",
+  "name": "Christopher “Kit” Green",
+  "summary": "Physician and former CIA biomedical-intelligence official associated publicly with research into reported physiological effects of anomalous encounters.",
+  "relationships": [
+    {
+      "type": "affiliated_with",
+      "target": "aawsap",
+      "role": "Medical and research contributor"
+    }
+  ],
+  "profileStatus": "Former CIA medical-intelligence officer and researcher",
+  "profileSummary": "Physician and former CIA biomedical-intelligence official associated publicly with research into reported physiological effects of anomalous encounters.",
+  "profileBadge": "Former Government Official",
+  "profileBadgeClass": "badge-government",
+  "background": "Physician, forensic scientist, and former CIA biomedical-intelligence officer.",
+  "inclusionNote": "Included because his documented intelligence and medical background connect government research, witness-health reports, anomalous effects, and scientific investigation.",
+  "primarySourceLinks": [
+    {
+      "label": "Clinical paper on reported field effects",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/35635526/",
+      "sourceType": "PubMed"
+    },
+    {
+      "label": "DIA electronic reading room document",
+      "url": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170026/",
+      "sourceType": "Defense Intelligence Agency"
+    }
+  ]
+}
