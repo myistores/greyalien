@@ -1,7 +1,7 @@
-# GreyAlien V18.2.1 Deployment Report
+# GreyAlien V18.2.2 Deployment Report
 
 **Status:** Ready for deployment  
-**Generated:** 2026-07-19T05:49:06.120045+00:00
+**Generated:** 2026-07-19T13:48:36.319073+00:00
 
 - Entities: 293
 - Resolved relationships: 922
@@ -15,4 +15,4 @@
 
 ## Release summary
 
-Introduced GreyAlien’s first live podcast visual identity banner on the WEAPONIZED series page. The production design uses verified show and host names with an original, non-portrait editorial graphic, responsive desktop/mobile presentation, accessible alternative text, and an official-site attribution link. No synthetic host likenesses are used.
+Replaced the initial WEAPONIZED visual identity artwork with a new responsive, artwork-led banner inspired by the show’s recognizable desert visual language. The banner identifies the podcast and verified hosts, uses anonymous silhouettes rather than synthetic portraits, preserves accessible alternative text, and remains secondary to the structured knowledge content.

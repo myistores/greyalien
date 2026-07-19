@@ -502,3 +502,7 @@ html{scroll-behavior:smooth}
 .podcast-visual-source{position:absolute;right:18px;top:16px;padding:8px 11px;border-radius:999px;background:rgba(2,8,11,.76);color:#c9dfd7;font-size:.75rem;border:1px solid rgba(155,215,186,.22)}.podcast-visual-source:hover{border-color:rgba(155,215,186,.55)}
 .entity-hero-after-visual{padding-top:38px}
 @media(max-width:760px){.podcast-visual-identity{margin-top:20px;border-radius:18px}.podcast-visual-media{aspect-ratio:auto;min-height:430px}.podcast-visual-media img{object-position:64% center}.podcast-visual-media:after{background:linear-gradient(0deg,rgba(3,8,11,.98) 0%,rgba(3,8,11,.82) 48%,rgba(3,8,11,.2) 100%)}.podcast-visual-overlay{align-items:flex-start;justify-content:flex-end;flex-direction:column;padding:26px 22px 24px}.podcast-visual-copy h1{font-size:clamp(2.9rem,15vw,5rem)}.podcast-visual-hosts{min-width:0;width:100%}.podcast-visual-source{left:16px;right:auto;top:14px}.entity-hero-after-visual{padding-top:28px}}
+
+/* V18.2.2 — artwork-led WEAPONIZED banner */
+.podcast-visual-identity:has(.podcast-visual-media img[src*="weaponized-identity"]){border-color:rgba(239,125,72,.35)}
+@media(max-width:760px){.podcast-visual-media img[src*="weaponized-identity"]{object-position:43% center}.podcast-visual-identity:has(.podcast-visual-media img[src*="weaponized-identity"]) .podcast-visual-source{background:rgba(3,8,11,.88)}}

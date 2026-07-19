@@ -281,3 +281,8 @@
 - Added universal rendering for structured `sources[]`.
 - Added official website buttons and additional source panels.
 - Added source architecture validation to the one-command automation pipeline.
+
+## V18.2.2 — WEAPONIZED Responsive Banner Refinement
+- Replaced WEAPONIZED banner artwork with responsive desert-night identity design.
+- Suppressed duplicate text overlays when banner artwork already contains title and host text.
+- Updated Latest Additions and retained visual identity validation.

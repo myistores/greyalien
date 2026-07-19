@@ -25,17 +25,18 @@
     }
   ],
   "visualIdentity": {
-    "style": "editorial_banner",
+    "style": "officially_inspired_editorial_banner",
     "asset": "../assets/images/podcasts/weaponized-identity.svg",
-    "alt": "WEAPONIZED podcast visual identity banner with microphone waveform, document grid, United States Capitol silhouette, and an unidentified aerial object motif.",
-    "eyebrow": "Investigative podcast series",
-    "tagline": "Weaponize your curiosity",
+    "alt": "WEAPONIZED podcast banner with a desert night landscape, two anonymous host silhouettes, microphone and waveform, classified-document texture, and subtle UAP motif. Text identifies hosts Jeremy Corbell and George Knapp.",
+    "eyebrow": "Podcast series",
+    "tagline": "",
     "hostLabel": "Hosted by",
     "hosts": [
       "Jeremy Corbell",
       "George Knapp"
     ],
-    "sourceLabel": "Official WEAPONIZED identity",
-    "sourceUrl": "https://www.weaponizedpodcast.com/"
+    "sourceLabel": "Official WEAPONIZED website",
+    "sourceUrl": "https://www.weaponizedpodcast.com/",
+    "artworkContainsText": true
   }
 }
