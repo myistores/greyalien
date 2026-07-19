@@ -4,6 +4,12 @@
   "name": "Raytheon",
   "summary": "U.S. aerospace and defense contractor.",
   "relationships": [],
-  "externalUrl": "https://www.rtx.com/raytheon",
-  "externalLinkLabel": "Visit official or authoritative website"
+  "officialLinks": [
+    {
+      "label": "official or authoritative website",
+      "url": "https://www.rtx.com/raytheon",
+      "linkType": "official_website"
+    }
+  ],
+  "referenceSources": []
 }

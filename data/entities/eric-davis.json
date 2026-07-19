@@ -21,16 +21,19 @@
   "profileBadgeClass": "badge-scientist",
   "background": "Physicist and research scientist specializing in advanced propulsion, spacetime physics, and frontier topics.",
   "inclusionNote": "Included because his technical publications and government-contract research connect AAWSAP, advanced propulsion, congressional briefings, and scientific discussion of anomalous aerospace phenomena.",
-  "primarySourceLinks": [
+  "officialLinks": [],
+  "referenceSources": [
     {
       "label": "EarthTech International",
       "url": "https://earthtech.org/",
-      "sourceType": "EarthTech International"
+      "sourceType": "EarthTech International",
+      "role": "primary_reference"
     },
     {
       "label": "Defense Technical Information Center paper",
       "url": "https://apps.dtic.mil/sti/citations/ADA426465",
-      "sourceType": "Defense Technical Information Center"
+      "sourceType": "Defense Technical Information Center",
+      "role": "primary_reference"
     }
   ]
 }

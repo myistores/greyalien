@@ -59,8 +59,6 @@
     "David Grusch"
   ],
   "mediaSourceStatus": "Official WEAPONIZED episode page",
-  "externalUrl": "https://www.weaponizedpodcast.com/episodes-1/episode-number-21",
-  "externalLinkLabel": "Open official episode page",
   "mediaLinks": [
     {
       "label": "Open the official Episode #21 page",
@@ -79,23 +77,24 @@
   "status": "Published",
   "episodeNumber": 21,
   "episodeTitle": "The David Grusch Revelations",
-  "sources": [
+  "principalClaims": [
+    "claim-whistleblower-retaliation",
+    "claim-secret-uap-programs",
+    "claim-crash-retrieval-program"
+  ],
+  "officialLinks": [],
+  "referenceSources": [
     {
       "label": "Open the official Episode #21 page",
       "url": "https://www.weaponizedpodcast.com/episodes-1/episode-number-21",
       "sourceType": "official_episode_page",
-      "primary": true
+      "role": "source"
     },
     {
       "label": "Listen to WEAPONIZED",
       "url": "https://link.chtbl.com/Weaponized",
       "sourceType": "official_episode_page",
-      "primary": false
+      "role": "source"
     }
-  ],
-  "principalClaims": [
-    "claim-whistleblower-retaliation",
-    "claim-secret-uap-programs",
-    "claim-crash-retrieval-program"
   ]
 }

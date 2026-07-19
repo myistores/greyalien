@@ -13,13 +13,15 @@
   "profileSummary": "Former U.S. Marine Corps aviator who reported observing an unusual disturbance on the ocean during the 2004 Nimitz events.",
   "background": "Former U.S. Marine Corps lieutenant colonel and aviator.",
   "inclusionNote": "Included because his observation preceded the best-known visual interception and adds an independent element to the case timeline.",
-  "primarySourceLinks": [
+  "profileBadge": "Firsthand Witness",
+  "profileBadgeClass": "badge-witness",
+  "officialLinks": [],
+  "referenceSources": [
     {
       "label": "Scientific analysis of the Nimitz encounter",
       "url": "https://www.explorescu.org/post/2004-uss-nimitz-strike-navy-group-incident-report",
-      "sourceType": "Scientific Coalition for UAP Studies"
+      "sourceType": "Scientific Coalition for UAP Studies",
+      "role": "primary_reference"
     }
-  ],
-  "profileBadge": "Firsthand Witness",
-  "profileBadgeClass": "badge-witness"
+  ]
 }

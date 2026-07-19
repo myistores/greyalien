@@ -1,27 +1,33 @@
 #!/usr/bin/env python3
-"""Validate universal structured sources and official-site coverage."""
+"""Validate the separation of entity-owned official links and research reference sources."""
 from pathlib import Path
 from urllib.parse import urlparse
 import json,sys
 ROOT=Path(__file__).resolve().parents[1]
-errors=[]; warnings=[]; checked=0; official=0
+errors=[]; warnings=[]; official_count=0; reference_count=0
 for p in sorted((ROOT/'data/entities').glob('*.json')):
- e=json.loads(p.read_text(encoding='utf-8')); sources=e.get('sources',[])
- if not isinstance(sources,list): errors.append(f"{e.get('id')}: sources must be an array"); continue
- primaries=0
- for i,s in enumerate(sources):
-  checked+=1
-  if not isinstance(s,dict) or not s.get('label') or not s.get('url') or not s.get('sourceType'):
-   errors.append(f"{e.get('id')}: source {i+1} requires label, url, and sourceType"); continue
-  u=urlparse(s['url'])
-  if u.scheme not in ('http','https') or not u.netloc: errors.append(f"{e.get('id')}: invalid source URL {s['url']}")
-  if s.get('primary'): primaries+=1
-  if s.get('sourceType')=='official_website': official+=1
- if sources and primaries==0: warnings.append(f"{e.get('id')}: sources present but none marked primary")
- if primaries>1: warnings.append(f"{e.get('id')}: multiple primary sources")
- if e.get('type') in ('organization','podcast_series') and sources and not any(s.get('sourceType')=='official_website' for s in sources if isinstance(s,dict)):
-  warnings.append(f"{e.get('id')}: no official_website source recorded")
-print(f"Source validation: {checked} links checked, {official} official websites, {len(errors)} errors, {len(warnings)} warnings.")
+    e=json.loads(p.read_text(encoding='utf-8')); eid=e.get('id',p.stem)
+    official=e.get('officialLinks',[]); refs=e.get('referenceSources',[])
+    if not isinstance(official,list): errors.append(f'{eid}: officialLinks must be an array'); official=[]
+    if not isinstance(refs,list): errors.append(f'{eid}: referenceSources must be an array'); refs=[]
+    seen=set()
+    for kind,items,required_type in [('official link',official,'linkType'),('reference source',refs,'sourceType')]:
+        for i,s in enumerate(items):
+            if not isinstance(s,dict) or not s.get('label') or not s.get('url') or not s.get(required_type):
+                errors.append(f'{eid}: {kind} {i+1} requires label, url, and {required_type}'); continue
+            u=urlparse(s['url'])
+            if u.scheme not in ('http','https') or not u.netloc: errors.append(f'{eid}: invalid URL {s["url"]}')
+            key=s['url'].rstrip('/').lower()
+            if key in seen: warnings.append(f'{eid}: duplicate URL across source fields: {s["url"]}')
+            seen.add(key)
+            if kind=='official link': official_count+=1
+            else: reference_count+=1
+    if e.get('type')=='podcast_series' and not official:
+        errors.append(f'{eid}: podcast series requires at least one official link')
+    if e.get('type')=='organization' and not official:
+        warnings.append(f'{eid}: no verified official links recorded')
+    if 'sources' in e: errors.append(f'{eid}: legacy sources field must be migrated')
+print(f'Link architecture validation: {official_count} official links, {reference_count} reference sources, {len(errors)} errors, {len(warnings)} warnings.')
 for x in errors: print('ERROR:',x)
 for x in warnings: print('WARNING:',x)
 sys.exit(1 if errors else 0)

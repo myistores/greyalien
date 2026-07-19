@@ -21,12 +21,13 @@
   "profileBadge": "Podcast guest",
   "profileBadgeClass": "badge-journalist",
   "inclusionNote": "Included through WEAPONIZED Episode #57.",
-  "sources": [
+  "officialLinks": [],
+  "referenceSources": [
     {
       "label": "Official WEAPONIZED Episode #57 page",
       "url": "https://www.weaponizedpodcast.com/episodes-2/episode-57",
       "sourceType": "official_episode_page",
-      "primary": true
+      "role": "source"
     }
   ]
 }

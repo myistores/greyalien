@@ -75,8 +75,6 @@
     "Immaculate Constellation"
   ],
   "mediaSourceStatus": "Official WEAPONIZED video",
-  "externalUrl": "https://www.youtube.com/watch?v=ZAxI-LDrDqA",
-  "externalLinkLabel": "Watch Part 1 on YouTube",
   "mediaLinks": [
     {
       "label": "Watch Matthew Brown Part 1",
@@ -92,34 +90,34 @@
   "date": "2025-04-29",
   "dateDisplay": "April 29, 2025",
   "eventCategory": "Public whistleblower interview",
-  "primarySourceLinks": [
-    {
-      "label": "WEAPONIZED Episode #74 — Matthew Brown Part 1: Immaculate Constellation",
-      "url": "https://www.weaponizedpodcast.com/episodes-3/episode-74",
-      "sourceType": "Official WEAPONIZED episode page"
-    }
-  ],
   "seriesId": "weaponized-podcast",
   "status": "Published",
   "episodeNumber": 74,
   "episodeTitle": "Matthew Brown Part 1: Immaculate Constellation",
-  "sources": [
+  "principalClaims": [
+    "claim-secret-uap-programs",
+    "claim-crash-retrieval-program",
+    "claim-whistleblower-retaliation"
+  ],
+  "officialLinks": [],
+  "referenceSources": [
     {
       "label": "Watch Matthew Brown Part 1",
       "url": "https://www.youtube.com/watch?v=ZAxI-LDrDqA",
       "sourceType": "official_video",
-      "primary": true
+      "role": "source"
     },
     {
       "label": "Visit WEAPONIZED",
       "url": "https://www.weaponizedpodcast.com/",
       "sourceType": "official_episode_page",
-      "primary": false
+      "role": "source"
+    },
+    {
+      "label": "WEAPONIZED Episode #74 — Matthew Brown Part 1: Immaculate Constellation",
+      "url": "https://www.weaponizedpodcast.com/episodes-3/episode-74",
+      "sourceType": "Official WEAPONIZED episode page",
+      "role": "primary_reference"
     }
-  ],
-  "principalClaims": [
-    "claim-secret-uap-programs",
-    "claim-crash-retrieval-program",
-    "claim-whistleblower-retaliation"
   ]
 }

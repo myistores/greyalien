@@ -26,16 +26,19 @@
   "profileBadgeClass": "badge-scientist",
   "background": "Physicist and engineer with a long career in laser research, remote-viewing studies, and advanced-propulsion research.",
   "inclusionNote": "Included because his work and organizational roles connect several major government, private-research, and disclosure initiatives.",
-  "primarySourceLinks": [
+  "officialLinks": [],
+  "referenceSources": [
     {
       "label": "EarthTech biography",
       "url": "https://earthtech.org/team/hal-puthoff/",
-      "sourceType": "EarthTech International"
+      "sourceType": "EarthTech International",
+      "role": "primary_reference"
     },
     {
       "label": "To The Stars Academy",
       "url": "https://tothestars.media/pages/about",
-      "sourceType": "To The Stars Academy"
+      "sourceType": "To The Stars Academy",
+      "role": "primary_reference"
     }
   ]
 }

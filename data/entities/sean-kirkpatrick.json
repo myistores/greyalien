@@ -31,28 +31,33 @@
   "profileSummary": "Former Director of the All-domain Anomaly Resolution Office and government witness before Congress.",
   "background": "Physicist, intelligence and defense official, and first Director of AARO.",
   "inclusionNote": "Included because of his leadership of AARO, public and classified congressional testimony, and central role in the official government response to UAP reporting and analysis.",
-  "primarySourceLinks": [
+  "profileBadge": "Firsthand Witness",
+  "profileBadgeClass": "badge-witness",
+  "officialLinks": [],
+  "referenceSources": [
     {
       "label": "Official April 2023 Senate hearing page",
       "url": "https://www.armed-services.senate.gov/hearings/to-receive-testimony-on-the-mission-activities-oversight-and-budget-of-the-all-domain-anomaly-resolution-office",
-      "sourceType": "Senate Armed Services Committee"
+      "sourceType": "Senate Armed Services Committee",
+      "role": "primary_reference"
     },
     {
       "label": "Official April 2023 hearing transcript",
       "url": "https://www.armed-services.senate.gov/download/transcript-4-19-2023",
-      "sourceType": "Senate Armed Services Committee"
+      "sourceType": "Senate Armed Services Committee",
+      "role": "primary_reference"
     },
     {
       "label": "DoD announcement naming AARO director",
       "url": "https://www.defense.gov/News/Releases/Release/Article/3100053/dod-announces-the-establishment-of-the-all-domain-anomaly-resolution-office/",
-      "sourceType": "U.S. Department of Defense"
+      "sourceType": "U.S. Department of Defense",
+      "role": "primary_reference"
     },
     {
       "label": "AARO Congressional and Press Products",
       "url": "https://www.aaro.mil/Congressional-Press-Products/",
-      "sourceType": "AARO"
+      "sourceType": "AARO",
+      "role": "primary_reference"
     }
-  ],
-  "profileBadge": "Firsthand Witness",
-  "profileBadgeClass": "badge-witness"
+  ]
 }

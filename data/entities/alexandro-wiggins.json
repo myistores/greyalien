@@ -32,18 +32,21 @@
   "profileSummary": "Active-duty U.S. Navy Senior Chief Petty Officer who submitted a firsthand account of a February 2023 UAP event and discussed it publicly in congressional testimony and an interview.",
   "background": "U.S. Navy Senior Chief Petty Officer and operations specialist.",
   "inclusionNote": "Included as a witness profile, not labeled as a whistleblower. His record tests how witness testimony, interviews, claims, organizations, and supporting documents connect.",
-  "primarySourceLinks": [
+  "profileBadge": "Firsthand Witness",
+  "profileBadgeClass": "badge-witness",
+  "officialLinks": [],
+  "referenceSources": [
     {
       "label": "Official written statement",
       "url": "https://oversight.house.gov/wp-content/uploads/2025/09/Wiggins-Written-Statement.pdf",
-      "sourceType": "House Committee on Oversight and Government Reform"
+      "sourceType": "House Committee on Oversight and Government Reform",
+      "role": "primary_reference"
     },
     {
       "label": "Official September 2025 hearing page",
       "url": "https://oversight.house.gov/hearing/restoring-public-trust-through-uap-transparency-and-whistleblower-protection/",
-      "sourceType": "House Committee on Oversight and Government Reform"
+      "sourceType": "House Committee on Oversight and Government Reform",
+      "role": "primary_reference"
     }
-  ],
-  "profileBadge": "Firsthand Witness",
-  "profileBadgeClass": "badge-witness"
+  ]
 }

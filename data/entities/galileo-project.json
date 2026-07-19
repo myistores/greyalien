@@ -13,8 +13,14 @@
       "target": "uap-reporting-systems"
     }
   ],
-  "externalUrl": "https://galileo.hsites.harvard.edu/",
-  "externalLinkLabel": "Visit official website",
   "organizationPurpose": "Move research from anecdotal reports toward validated, systematic scientific observation.",
-  "formed": "2021"
+  "formed": "2021",
+  "officialLinks": [
+    {
+      "label": "official website",
+      "url": "https://galileo.hsites.harvard.edu/",
+      "linkType": "official_website"
+    }
+  ],
+  "referenceSources": []
 }

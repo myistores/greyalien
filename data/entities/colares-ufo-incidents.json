@@ -11,12 +11,13 @@
   ],
   "caseStatus": "Documented or reported UAP case",
   "caseSummary": "A series of reported UFO encounters and injuries in and around Colares, Brazil, investigated by the Brazilian Air Force in the 1970s.",
-  "sources": [
+  "officialLinks": [],
+  "referenceSources": [
     {
       "label": "Official WEAPONIZED Episode #57 page",
       "url": "https://www.weaponizedpodcast.com/episodes-2/episode-57",
       "sourceType": "official_episode_page",
-      "primary": true
+      "role": "source"
     }
   ]
 }

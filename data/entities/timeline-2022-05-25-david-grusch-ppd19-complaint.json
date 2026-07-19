@@ -32,11 +32,13 @@
       "context": "Complaint alleged retaliation and reprisal"
     }
   ],
-  "primarySourceLinks": [
+  "officialLinks": [],
+  "referenceSources": [
     {
       "label": "David Grusch unclassified whistleblower complaint",
       "url": "https://www.weaponizedpodcast.com/news-1/david-grusch-whistleblower-complaint",
-      "sourceType": "Published complaint and background summary"
+      "sourceType": "Published complaint and background summary",
+      "role": "primary_reference"
     }
   ]
 }

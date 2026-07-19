@@ -22,6 +22,12 @@
       "target": "aviation-safety"
     }
   ],
-  "externalUrl": "https://www.nytimes.com/2019/05/26/us/politics/ufo-sightings-navy-pilots.html",
-  "externalLinkLabel": "Read the New York Times report"
+  "officialLinks": [
+    {
+      "label": "Read the New York Times report",
+      "url": "https://www.nytimes.com/2019/05/26/us/politics/ufo-sightings-navy-pilots.html",
+      "linkType": "official_website"
+    }
+  ],
+  "referenceSources": []
 }

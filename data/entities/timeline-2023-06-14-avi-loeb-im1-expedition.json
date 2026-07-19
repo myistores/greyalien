@@ -27,11 +27,13 @@
       "context": "Physical recovery and laboratory analysis of anomalous materials"
     }
   ],
-  "primarySourceLinks": [
+  "officialLinks": [],
+  "referenceSources": [
     {
       "label": "Galileo Project IM1 expedition publication",
       "url": "https://galileo.hsites.harvard.edu/publications/recovery-and-classification-spherules-pacific-ocean-site-cneos-2014-january-8",
-      "sourceType": "The Galileo Project, Harvard University"
+      "sourceType": "The Galileo Project, Harvard University",
+      "role": "primary_reference"
     }
   ]
 }

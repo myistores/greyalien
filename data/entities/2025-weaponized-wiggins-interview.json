@@ -35,13 +35,19 @@
       "platform": "Apple Podcasts"
     }
   ],
-  "externalUrl": "https://www.youtube.com/watch?v=YKFmK-NSnKI",
-  "externalLinkLabel": "Watch the full WEAPONIZED episode",
   "mediaType": "Podcast interview",
   "mediaPlatform": "WEAPONIZED",
   "mediaHost": "Jeremy Corbell and George Knapp",
   "mediaGuests": [
     "Alexandro Wiggins"
   ],
-  "mediaSourceStatus": "Official full episode"
+  "mediaSourceStatus": "Official full episode",
+  "officialLinks": [
+    {
+      "label": "Watch the full WEAPONIZED episode",
+      "url": "https://www.youtube.com/watch?v=YKFmK-NSnKI",
+      "linkType": "official_website"
+    }
+  ],
+  "referenceSources": []
 }

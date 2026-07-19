@@ -38,11 +38,13 @@
       "context": "Public disclosure and oversight of alleged concealed programs"
     }
   ],
-  "primarySourceLinks": [
+  "officialLinks": [],
+  "referenceSources": [
     {
       "label": "Disclosure Project National Press Club event archive",
       "url": "https://www.dpiarchive.com/",
-      "sourceType": "Disclosure Project Intelligence Archive"
+      "sourceType": "Disclosure Project Intelligence Archive",
+      "role": "primary_reference"
     }
   ]
 }

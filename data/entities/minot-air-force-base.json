@@ -4,6 +4,12 @@
   "name": "Minot Air Force Base",
   "summary": "U.S. Air Force installation in North Dakota associated with historical missile-field UFO reports.",
   "relationships": [],
-  "externalUrl": "https://www.minot.af.mil/",
-  "externalLinkLabel": "Visit official or authoritative website"
+  "officialLinks": [
+    {
+      "label": "official or authoritative website",
+      "url": "https://www.minot.af.mil/",
+      "linkType": "official_website"
+    }
+  ],
+  "referenceSources": []
 }

@@ -38,11 +38,13 @@
       "context": "Private scientific investigation of anomalous reports"
     }
   ],
-  "primarySourceLinks": [
+  "officialLinks": [],
+  "referenceSources": [
     {
       "label": "Archived National Institute for Discovery Science website",
       "url": "https://web.archive.org/web/20071007111321/http://www.nidsci.org/",
-      "sourceType": "Archived official website"
+      "sourceType": "Archived official website",
+      "role": "primary_reference"
     }
   ]
 }

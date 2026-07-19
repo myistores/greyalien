@@ -8,11 +8,6 @@
   ],
   "launchYear": "2022",
   "status": "Active",
-  "externalUrl": "https://www.mergedpodcast.com/",
-  "externalLinkLabel": "Visit official website",
-  "youtubeUrl": "https://www.youtube.com/@merged_podcast",
-  "spotifyUrl": "https://open.spotify.com/show/4HjG2YLiHjEJ5rLs39sGfQ",
-  "applePodcastsUrl": "https://podcasts.apple.com/us/podcast/merged/id1655450953",
   "relationships": [
     {
       "type": "discussed_topic",
@@ -22,5 +17,28 @@
       "type": "discussed_topic",
       "target": "scientific-investigation"
     }
-  ]
+  ],
+  "officialLinks": [
+    {
+      "label": "official website",
+      "url": "https://www.mergedpodcast.com/",
+      "linkType": "official_website"
+    },
+    {
+      "label": "YouTube",
+      "url": "https://www.youtube.com/@merged_podcast",
+      "linkType": "youtube"
+    },
+    {
+      "label": "Spotify",
+      "url": "https://open.spotify.com/show/4HjG2YLiHjEJ5rLs39sGfQ",
+      "linkType": "spotify"
+    },
+    {
+      "label": "Apple Podcasts",
+      "url": "https://podcasts.apple.com/us/podcast/merged/id1655450953",
+      "linkType": "apple_podcasts"
+    }
+  ],
+  "referenceSources": []
 }

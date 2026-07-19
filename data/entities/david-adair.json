@@ -30,18 +30,21 @@
   "profileSummary": "Public speaker and rocketry personality who has long claimed that he viewed an unusual propulsion system at a classified Nevada facility.",
   "background": "Self-described former child rocketry prodigy and aerospace consultant.",
   "inclusionNote": "Included because his Area 51 account has circulated for decades and influenced reverse-engineering and propulsion narratives. The extraordinary portions of the story are not independently established.",
-  "primarySourceLinks": [
+  "profileBadge": "Research Contributor",
+  "profileBadgeClass": "badge-researcher",
+  "officialLinks": [],
+  "referenceSources": [
     {
       "label": "David Adair: My Story",
       "url": "https://www.gaia.com/video/david-adair-my-story-child-prodigy-rocket-scientist",
-      "sourceType": "Gaia"
+      "sourceType": "Gaia",
+      "role": "primary_reference"
     },
     {
       "label": "Apple TV episode listing",
       "url": "https://tv.apple.com/us/episode/david-adair-my-story---child-prodigy-to-rocket-scientist/umc.cmc.4q50thjj84daj62aktst9l7p3",
-      "sourceType": "Apple TV"
+      "sourceType": "Apple TV",
+      "role": "primary_reference"
     }
-  ],
-  "profileBadge": "Research Contributor",
-  "profileBadgeClass": "badge-researcher"
+  ]
 }

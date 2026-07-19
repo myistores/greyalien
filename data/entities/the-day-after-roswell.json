@@ -18,5 +18,12 @@
     }
   ],
   "status": "Published memoir and claim record",
-  "externalUrl": "https://www.simonandschuster.com/books/The-Day-After-Roswell/William-J-Birnes/9781501172007"
+  "officialLinks": [
+    {
+      "label": "Official website",
+      "url": "https://www.simonandschuster.com/books/The-Day-After-Roswell/William-J-Birnes/9781501172007",
+      "linkType": "official_website"
+    }
+  ],
+  "referenceSources": []
 }

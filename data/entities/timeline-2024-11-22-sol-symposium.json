@@ -33,11 +33,13 @@
       "context": "Focused on scientific standards and UAP research"
     }
   ],
-  "primarySourceLinks": [
+  "officialLinks": [],
+  "referenceSources": [
     {
       "label": "Sol Foundation 2024 Symposium schedule",
       "url": "https://thesolfoundation.org/events/sols-2024-symposium/",
-      "sourceType": "The Sol Foundation"
+      "sourceType": "The Sol Foundation",
+      "role": "primary_reference"
     }
   ]
 }

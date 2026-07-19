@@ -6,12 +6,13 @@
   "relationships": [],
   "organizationStatus": "Active or historical organization",
   "organizationSummary": "Brazilian UFO research organization associated with Thiago Ticchetti.",
-  "sources": [
+  "officialLinks": [],
+  "referenceSources": [
     {
       "label": "Official WEAPONIZED Episode #57 page",
       "url": "https://www.weaponizedpodcast.com/episodes-2/episode-57",
       "sourceType": "official_episode_page",
-      "primary": true
+      "role": "source"
     }
   ]
 }

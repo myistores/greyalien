@@ -20,11 +20,13 @@
       "context": "Applied genomic analysis to an anomalous specimen"
     }
   ],
-  "primarySourceLinks": [
+  "officialLinks": [],
+  "referenceSources": [
     {
       "label": "Stanford Medicine report on the Atacama specimen",
       "url": "https://med.stanford.edu/news/insights/2018/03/bizarre-skeleton-sheds-light-on-mutations-of-bone-disease.html",
-      "sourceType": "Stanford Medicine"
+      "sourceType": "Stanford Medicine",
+      "role": "primary_reference"
     }
   ]
 }

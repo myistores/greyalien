@@ -21,8 +21,14 @@
       "target": "department-of-defense"
     }
   ],
-  "externalUrl": "https://www.aaro.mil/",
-  "externalLinkLabel": "Visit official website",
   "organizationPurpose": "Provide a centralized process for UAP reporting, analysis, case resolution, historical review, and congressional reporting.",
-  "formed": "2022"
+  "formed": "2022",
+  "officialLinks": [
+    {
+      "label": "official website",
+      "url": "https://www.aaro.mil/",
+      "linkType": "official_website"
+    }
+  ],
+  "referenceSources": []
 }

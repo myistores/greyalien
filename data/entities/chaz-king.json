@@ -25,16 +25,19 @@
   "profileBadgeClass": "badge-witness",
   "background": "Former U.S. Air Force security specialist.",
   "inclusionNote": "Included because his account helps document a strategic-facilities incident cluster and provides connections to military security, Vandenberg, and other named witnesses.",
-  "primarySourceLinks": [
+  "officialLinks": [],
+  "referenceSources": [
     {
       "label": "Public discussion of Vandenberg UAP accounts",
       "url": "https://www.youtube.com/watch?v=4-MbGYAv7Cg",
-      "sourceType": "YouTube interview"
+      "sourceType": "YouTube interview",
+      "role": "primary_reference"
     },
     {
       "label": "Official September 2025 UAP hearing page",
       "url": "https://oversight.house.gov/hearing/restoring-public-trust-through-uap-transparency-and-whistleblower-protection/",
-      "sourceType": "House Committee on Oversight and Government Reform"
+      "sourceType": "House Committee on Oversight and Government Reform",
+      "role": "primary_reference"
     }
   ]
 }

@@ -43,18 +43,21 @@
   "profileSummary": "Former U.S. Marine who publicly described an alleged 1997 encounter with a crashed object in Peru.",
   "background": "Former U.S. Marine lance corporal.",
   "inclusionNote": "Included because his recorded testimony has circulated for decades and is foundational to crash-retrieval research. The event has not been publicly confirmed through official records.",
-  "primarySourceLinks": [
+  "profileBadge": "Firsthand Witness",
+  "profileBadgeClass": "badge-witness",
+  "officialLinks": [],
+  "referenceSources": [
     {
       "label": "Archived full interview",
       "url": "https://www.youtube.com/watch?v=UdEVUum8Nag",
-      "sourceType": "YouTube archive"
+      "sourceType": "YouTube archive",
+      "role": "primary_reference"
     },
     {
       "label": "2025 interview and case review",
       "url": "https://open.spotify.com/episode/5J72e2EQl1lB5FLF6h5WkO",
-      "sourceType": "UAP Gerb"
+      "sourceType": "UAP Gerb",
+      "role": "primary_reference"
     }
-  ],
-  "profileBadge": "Firsthand Witness",
-  "profileBadgeClass": "badge-witness"
+  ]
 }

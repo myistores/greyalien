@@ -6,18 +6,19 @@
   "relationships": [],
   "organizationStatus": "Active or historical organization",
   "organizationSummary": "Brazilian military service that investigated the Colares UFO incidents through Operation Saucer.",
-  "sources": [
+  "officialLinks": [
     {
       "label": "Brazilian Air Force",
       "url": "https://www.fab.mil.br/",
-      "sourceType": "official_website",
-      "primary": true
-    },
+      "linkType": "official_website"
+    }
+  ],
+  "referenceSources": [
     {
       "label": "Official WEAPONIZED Episode #57 page",
       "url": "https://www.weaponizedpodcast.com/episodes-2/episode-57",
       "sourceType": "official_episode_page",
-      "primary": false
+      "role": "source"
     }
   ]
 }

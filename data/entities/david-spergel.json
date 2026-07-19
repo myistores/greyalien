@@ -18,18 +18,21 @@
   "profileSummary": "Astrophysicist who chaired NASA's UAP Independent Study Team.",
   "background": "Astrophysicist and president of the Simons Foundation.",
   "inclusionNote": "Included because NASA formally appointed him chair of the UAP Independent Study Team and he helped present the team's public findings and recommendations.",
-  "primarySourceLinks": [
+  "profileBadge": "Scientist / Researcher",
+  "profileBadgeClass": "badge-scientist",
+  "officialLinks": [],
+  "referenceSources": [
     {
       "label": "NASA announces UAP study-team members",
       "url": "https://www.nasa.gov/general/nasa-announces-unidentified-aerial-phenomena-study-team-members/",
-      "sourceType": "NASA"
+      "sourceType": "NASA",
+      "role": "primary_reference"
     },
     {
       "label": "NASA UAP Independent Study report",
       "url": "https://science.nasa.gov/uap/",
-      "sourceType": "NASA"
+      "sourceType": "NASA",
+      "role": "primary_reference"
     }
-  ],
-  "profileBadge": "Scientist / Researcher",
-  "profileBadgeClass": "badge-scientist"
+  ]
 }

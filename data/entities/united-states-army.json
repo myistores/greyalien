@@ -4,6 +4,12 @@
   "name": "United States Army",
   "summary": "Land service branch of the U.S. Armed Forces.",
   "relationships": [],
-  "externalUrl": "https://www.army.mil/",
-  "externalLinkLabel": "Visit official or authoritative website"
+  "officialLinks": [
+    {
+      "label": "official or authoritative website",
+      "url": "https://www.army.mil/",
+      "linkType": "official_website"
+    }
+  ],
+  "referenceSources": []
 }

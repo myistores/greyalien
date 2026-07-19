@@ -16,7 +16,7 @@ for eid,e in records.items():
         if e.get('seriesId') and ep and e['seriesId']!=ep[0].get('target'): errors.append(f'{eid}: seriesId and episode_of target disagree')
         for k in ('date','episodeNumber'):
             if e.get(k) in (None,''): warnings.append(f'{eid}: missing recommended field {k}')
-        if not e.get('sources'): warnings.append(f'{eid}: no structured sources array')
+        if not e.get('referenceSources'): warnings.append(f'{eid}: no referenceSources array')
         hosts=[r for r in e.get('relationships',[]) if r.get('role') in ('host','co_host')]
         if not hosts: errors.append(f'{eid}: at least one host relationship is required')
         claims=[r for r in e.get('relationships',[]) if r.get('type') in ('presented_claim','contains_claim')]

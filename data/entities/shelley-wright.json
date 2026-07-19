@@ -18,13 +18,15 @@
   "profileSummary": "Astronomer and instrumentation specialist who served on NASA's UAP Independent Study Team.",
   "background": "Professor of physics and astronomer specializing in optical and infrared instrumentation.",
   "inclusionNote": "Included because NASA appointed her to contribute astronomical instrumentation, observational methods, and technosignature-research experience.",
-  "primarySourceLinks": [
+  "profileBadge": "Scientist / Researcher",
+  "profileBadgeClass": "badge-scientist",
+  "officialLinks": [],
+  "referenceSources": [
     {
       "label": "NASA announces UAP study-team members",
       "url": "https://www.nasa.gov/general/nasa-announces-unidentified-aerial-phenomena-study-team-members/",
-      "sourceType": "NASA"
+      "sourceType": "NASA",
+      "role": "primary_reference"
     }
-  ],
-  "profileBadge": "Scientist / Researcher",
-  "profileBadgeClass": "badge-scientist"
+  ]
 }

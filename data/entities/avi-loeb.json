@@ -21,26 +21,31 @@
   "profileBadgeClass": "badge-scientist",
   "background": "Frank B. Baird Jr. Professor of Science at Harvard University and former chair of Harvard's astronomy department.",
   "inclusionNote": "Included because he leads instrument-based searches for anomalous aerial and interstellar phenomena and chairs a scientific advisory effort concerning UAP.",
-  "primarySourceLinks": [
+  "officialLinks": [],
+  "referenceSources": [
     {
       "label": "The Galileo Project",
       "url": "https://galileo.hsites.harvard.edu/",
-      "sourceType": "Harvard University"
+      "sourceType": "Harvard University",
+      "role": "primary_reference"
     },
     {
       "label": "UAP Science Advisory Council overview",
       "url": "https://avi-loeb.medium.com/a-uap-science-advisory-council-to-the-u-s-f7262e57b0df",
-      "sourceType": "Avi Loeb"
+      "sourceType": "Avi Loeb",
+      "role": "primary_reference"
     },
     {
       "label": "Galileo Project organization overview",
       "url": "https://galileo.hsites.harvard.edu/organization",
-      "sourceType": "Harvard University"
+      "sourceType": "Harvard University",
+      "role": "primary_reference"
     },
     {
       "label": "IM1 expedition research record",
       "url": "https://galileo.hsites.harvard.edu/publications/recovery-and-classification-spherules-pacific-ocean-site-cneos-2014-january-8",
-      "sourceType": "Harvard University"
+      "sourceType": "Harvard University",
+      "role": "primary_reference"
     }
   ]
 }

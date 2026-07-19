@@ -27,6 +27,12 @@
       "target": "scientific-investigation"
     }
   ],
-  "externalUrl": "https://books.google.com/books/about/Imminent.html?id=y8f_EAAAQBAJ",
-  "externalLinkLabel": "View publication record"
+  "officialLinks": [
+    {
+      "label": "View publication record",
+      "url": "https://books.google.com/books/about/Imminent.html?id=y8f_EAAAQBAJ",
+      "linkType": "official_website"
+    }
+  ],
+  "referenceSources": []
 }

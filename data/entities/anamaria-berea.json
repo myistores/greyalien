@@ -18,13 +18,15 @@
   "profileSummary": "Computational and data scientist who served on NASA's UAP Independent Study Team.",
   "background": "Researcher specializing in computational social science, data science, and astrobiology.",
   "inclusionNote": "Included because NASA appointed her to provide expertise in complex systems, data analysis, and interdisciplinary research.",
-  "primarySourceLinks": [
+  "profileBadge": "Scientist / Researcher",
+  "profileBadgeClass": "badge-scientist",
+  "officialLinks": [],
+  "referenceSources": [
     {
       "label": "NASA announces UAP study-team members",
       "url": "https://www.nasa.gov/general/nasa-announces-unidentified-aerial-phenomena-study-team-members/",
-      "sourceType": "NASA"
+      "sourceType": "NASA",
+      "role": "primary_reference"
     }
-  ],
-  "profileBadge": "Scientist / Researcher",
-  "profileBadgeClass": "badge-scientist"
+  ]
 }

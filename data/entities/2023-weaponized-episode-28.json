@@ -99,8 +99,6 @@
     "July 26, 2023 House UAP Hearing"
   ],
   "mediaSourceStatus": "Official WEAPONIZED episode page",
-  "externalUrl": "https://www.weaponizedpodcast.com/episodes-1/episode-number-28",
-  "externalLinkLabel": "Open official episode page",
   "mediaLinks": [
     {
       "label": "Open the official Episode #28 page",
@@ -117,24 +115,25 @@
   "status": "Published",
   "episodeNumber": 28,
   "episodeTitle": "Congressional Hearing Roundtable",
-  "sources": [
-    {
-      "label": "Open the official Episode #28 page",
-      "url": "https://www.weaponizedpodcast.com/episodes-1/episode-number-28",
-      "sourceType": "official_episode_page",
-      "primary": true
-    },
-    {
-      "label": "Listen to WEAPONIZED",
-      "url": "https://link.chtbl.com/Weaponized",
-      "sourceType": "official_episode_page",
-      "primary": false
-    }
-  ],
   "principalClaims": [
     "claim-secret-uap-programs",
     "claim-crash-retrieval-program",
     "claim-navy-uap-aviation-safety",
     "claim-nimitz-tic-tac-performance"
+  ],
+  "officialLinks": [],
+  "referenceSources": [
+    {
+      "label": "Open the official Episode #28 page",
+      "url": "https://www.weaponizedpodcast.com/episodes-1/episode-number-28",
+      "sourceType": "official_episode_page",
+      "role": "source"
+    },
+    {
+      "label": "Listen to WEAPONIZED",
+      "url": "https://link.chtbl.com/Weaponized",
+      "sourceType": "official_episode_page",
+      "role": "source"
+    }
   ]
 }

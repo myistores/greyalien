@@ -6,6 +6,12 @@
   "relationships": [],
   "organizationPurpose": "Local television news and investigative reporting in Las Vegas, Nevada.",
   "formed": "1953",
-  "externalUrl": "https://www.8newsnow.com/",
-  "externalLinkLabel": "Visit 8 News Now"
+  "officialLinks": [
+    {
+      "label": "8 News Now",
+      "url": "https://www.8newsnow.com/",
+      "linkType": "official_website"
+    }
+  ],
+  "referenceSources": []
 }

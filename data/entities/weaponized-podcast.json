@@ -9,11 +9,6 @@
   ],
   "launchYear": "2023",
   "status": "Active",
-  "externalUrl": "https://www.weaponizedpodcast.com/",
-  "externalLinkLabel": "Visit official website",
-  "youtubeUrl": "https://www.youtube.com/@JeremyCorbell",
-  "spotifyUrl": "https://open.spotify.com/show/1FRpoWQkWtwHdOgwho3iZG",
-  "applePodcastsUrl": "https://podcasts.apple.com/us/podcast/weaponized-with-jeremy-corbell-george-knapp/id1664299388",
   "relationships": [
     {
       "type": "discussed_topic",
@@ -38,5 +33,28 @@
     "sourceLabel": "Official WEAPONIZED website",
     "sourceUrl": "https://www.weaponizedpodcast.com/",
     "artworkContainsText": true
-  }
+  },
+  "officialLinks": [
+    {
+      "label": "official website",
+      "url": "https://www.weaponizedpodcast.com/",
+      "linkType": "official_website"
+    },
+    {
+      "label": "YouTube",
+      "url": "https://www.youtube.com/@JeremyCorbell",
+      "linkType": "youtube"
+    },
+    {
+      "label": "Spotify",
+      "url": "https://open.spotify.com/show/1FRpoWQkWtwHdOgwho3iZG",
+      "linkType": "spotify"
+    },
+    {
+      "label": "Apple Podcasts",
+      "url": "https://podcasts.apple.com/us/podcast/weaponized-with-jeremy-corbell-george-knapp/id1664299388",
+      "linkType": "apple_podcasts"
+    }
+  ],
+  "referenceSources": []
 }

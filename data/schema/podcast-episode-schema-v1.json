@@ -13,7 +13,7 @@
     "seriesId",
     "episodeNumber",
     "relationships",
-    "sources"
+    "referenceSources"
   ],
   "properties": {
     "id": {
@@ -105,7 +105,17 @@
         "$ref": "entity-schema-v2.json#/$defs/relationship"
       }
     },
-    "sources": {
+    "externalUrl": {
+      "type": "string",
+      "format": "uri"
+    },
+    "externalLinkLabel": {
+      "type": "string"
+    },
+    "mediaLinks": {
+      "type": "array"
+    },
+    "referenceSources": {
       "type": "array",
       "minItems": 1,
       "items": {
@@ -140,15 +150,28 @@
         "additionalProperties": true
       }
     },
-    "externalUrl": {
-      "type": "string",
-      "format": "uri"
-    },
-    "externalLinkLabel": {
-      "type": "string"
-    },
-    "mediaLinks": {
-      "type": "array"
+    "officialLinks": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": [
+          "label",
+          "url",
+          "linkType"
+        ],
+        "properties": {
+          "label": {
+            "type": "string"
+          },
+          "url": {
+            "type": "string",
+            "format": "uri"
+          },
+          "linkType": {
+            "type": "string"
+          }
+        }
+      }
     }
   },
   "additionalProperties": true

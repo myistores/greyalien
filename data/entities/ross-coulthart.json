@@ -26,16 +26,19 @@
   "profileBadgeClass": "badge-journalist",
   "background": "Award-winning journalist, author, documentary producer, and NewsNation special correspondent.",
   "inclusionNote": "Included because his interviews with David Grusch, Jake Barber, and other sources materially shaped public awareness of modern UAP claims.",
-  "primarySourceLinks": [
+  "officialLinks": [],
+  "referenceSources": [
     {
       "label": "Ross Coulthart official site",
       "url": "https://www.rosscoulthart.com/",
-      "sourceType": "Ross Coulthart"
+      "sourceType": "Ross Coulthart",
+      "role": "primary_reference"
     },
     {
       "label": "NewsNation UAP reporting",
       "url": "https://www.newsnationnow.com/space/ufo/",
-      "sourceType": "NewsNation"
+      "sourceType": "NewsNation",
+      "role": "primary_reference"
     }
   ]
 }

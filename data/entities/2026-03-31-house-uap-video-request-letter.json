@@ -26,5 +26,12 @@
     }
   ],
   "status": "Official congressional correspondence",
-  "externalUrl": "https://oversight.house.gov/wp-content/uploads/2026/03/UAP-Request-Letter-FINAL.pdf"
+  "officialLinks": [
+    {
+      "label": "Official website",
+      "url": "https://oversight.house.gov/wp-content/uploads/2026/03/UAP-Request-Letter-FINAL.pdf",
+      "linkType": "official_website"
+    }
+  ],
+  "referenceSources": []
 }

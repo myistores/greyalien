@@ -18,13 +18,15 @@
   "profileSummary": "Former U.S. Navy F/A-18 pilot and firsthand witness to the November 2004 Nimitz encounter.",
   "background": "Former U.S. Navy fighter pilot who flew in the second aircraft during the Nimitz interception.",
   "inclusionNote": "Included because of her firsthand role in the Nimitz encounter and extensive on-the-record public testimony about the event.",
-  "primarySourceLinks": [
+  "profileBadge": "Firsthand Witness",
+  "profileBadgeClass": "badge-witness",
+  "officialLinks": [],
+  "referenceSources": [
     {
       "label": "60 Minutes interview on Navy UAP encounters",
       "url": "https://www.cbsnews.com/news/ufo-military-intelligence-60-minutes-2021-05-16/",
-      "sourceType": "CBS News"
+      "sourceType": "CBS News",
+      "role": "primary_reference"
     }
-  ],
-  "profileBadge": "Firsthand Witness",
-  "profileBadgeClass": "badge-witness"
+  ]
 }

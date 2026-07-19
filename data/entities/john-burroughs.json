@@ -23,13 +23,15 @@
   "profileSummary": "Former U.S. Air Force security policeman and firsthand witness to the Rendlesham Forest incident.",
   "background": "Former U.S. Air Force security policeman stationed at RAF Woodbridge.",
   "inclusionNote": "Included because his contemporaneous written statement is part of the released official record.",
-  "primarySourceLinks": [
+  "profileBadge": "Firsthand Witness",
+  "profileBadgeClass": "badge-witness",
+  "officialLinks": [],
+  "referenceSources": [
     {
       "label": "UK National Archives UFO reports collection",
       "url": "https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/",
-      "sourceType": "UK National Archives"
+      "sourceType": "UK National Archives",
+      "role": "primary_reference"
     }
-  ],
-  "profileBadge": "Firsthand Witness",
-  "profileBadgeClass": "badge-witness"
+  ]
 }

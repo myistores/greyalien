@@ -30,5 +30,12 @@
     }
   ],
   "status": "Official House document",
-  "externalUrl": "https://oversight.house.gov/wp-content/uploads/2025/09/Borland-Written-Testimony.pdf"
+  "officialLinks": [
+    {
+      "label": "Official website",
+      "url": "https://oversight.house.gov/wp-content/uploads/2025/09/Borland-Written-Testimony.pdf",
+      "linkType": "official_website"
+    }
+  ],
+  "referenceSources": []
 }

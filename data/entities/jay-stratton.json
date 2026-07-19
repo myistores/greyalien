@@ -19,13 +19,15 @@
   "profileSummary": "Former intelligence official associated with AAWSAP and leadership of the UAP Task Force.",
   "background": "Former U.S. government intelligence official and UAP Task Force director.",
   "inclusionNote": "Included because of his established government roles and public statements concerning UAP investigations and institutional handling of the subject.",
-  "primarySourceLinks": [
+  "profileBadge": "Former Government Official",
+  "profileBadgeClass": "badge-government",
+  "officialLinks": [],
+  "referenceSources": [
     {
       "label": "Profile of public UAP statements",
       "url": "https://www.washingtonpost.com/entertainment/movies/2025/03/11/ufos-aliens-age-of-disclosure/",
-      "sourceType": "The Washington Post"
+      "sourceType": "The Washington Post",
+      "role": "primary_reference"
     }
-  ],
-  "profileBadge": "Former Government Official",
-  "profileBadgeClass": "badge-government"
+  ]
 }

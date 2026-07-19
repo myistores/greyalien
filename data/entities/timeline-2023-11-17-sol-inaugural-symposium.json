@@ -51,11 +51,13 @@
       "context": "Listed symposium participant"
     }
   ],
-  "primarySourceLinks": [
+  "officialLinks": [],
+  "referenceSources": [
     {
       "label": "The Sol Foundation inaugural symposium page",
       "url": "https://thesolfoundation.org/events/the-inaugural-annual-conference-of-the-sol-foundation/",
-      "sourceType": "The Sol Foundation"
+      "sourceType": "The Sol Foundation",
+      "role": "primary_reference"
     }
   ]
 }

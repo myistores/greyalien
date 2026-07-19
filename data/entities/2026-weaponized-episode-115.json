@@ -81,8 +81,6 @@
     "Bob Lazar"
   ],
   "mediaSourceStatus": "Official WEAPONIZED episode page and official video",
-  "externalUrl": "https://www.weaponizedpodcast.com/episodes-4/episode-115",
-  "externalLinkLabel": "Open official episode page",
   "mediaLinks": [
     {
       "label": "Watch Episode #115",
@@ -101,24 +99,25 @@
   "status": "Published",
   "episodeNumber": 115,
   "episodeTitle": "A New Chapter in the Bob Lazar Saga",
-  "sources": [
-    {
-      "label": "Watch Episode #115",
-      "url": "https://www.youtube.com/watch?v=HcQnbRasYxI",
-      "sourceType": "official_video",
-      "primary": true
-    },
-    {
-      "label": "Read the official episode description",
-      "url": "https://www.weaponizedpodcast.com/episodes-4/episode-115",
-      "sourceType": "official_episode_page",
-      "primary": false
-    }
-  ],
   "principalClaims": [
     "claim-s4-reverse-engineering",
     "claim-s4-nine-craft",
     "claim-element-115-propulsion",
     "claim-s4-documentary-reconstruction"
+  ],
+  "officialLinks": [],
+  "referenceSources": [
+    {
+      "label": "Watch Episode #115",
+      "url": "https://www.youtube.com/watch?v=HcQnbRasYxI",
+      "sourceType": "official_video",
+      "role": "source"
+    },
+    {
+      "label": "Read the official episode description",
+      "url": "https://www.weaponizedpodcast.com/episodes-4/episode-115",
+      "sourceType": "official_episode_page",
+      "role": "source"
+    }
   ]
 }

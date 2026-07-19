@@ -16,16 +16,19 @@
   "profileBadgeClass": "badge-attorney",
   "background": "Harvard-trained constitutional and public-interest attorney.",
   "inclusionNote": "Included because his legal work and advocacy connect whistleblowers, disclosure legislation, public-interest law, and the broader UAP transparency movement.",
-  "primarySourceLinks": [
+  "officialLinks": [],
+  "referenceSources": [
     {
       "label": "Daniel Sheehan biography",
       "url": "https://newparadigminstitute.org/danny-sheehan/",
-      "sourceType": "New Paradigm Institute"
+      "sourceType": "New Paradigm Institute",
+      "role": "primary_reference"
     },
     {
       "label": "New Paradigm Institute",
       "url": "https://newparadigminstitute.org/about/",
-      "sourceType": "New Paradigm Institute"
+      "sourceType": "New Paradigm Institute",
+      "role": "primary_reference"
     }
   ]
 }

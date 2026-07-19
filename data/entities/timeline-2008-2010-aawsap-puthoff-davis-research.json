@@ -39,16 +39,19 @@
       "context": "Technical investigation of advanced aerospace and anomalous phenomena"
     }
   ],
-  "primarySourceLinks": [
+  "officialLinks": [],
+  "referenceSources": [
     {
       "label": "DIA Freedom of Information Act Electronic Reading Room",
       "url": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/",
-      "sourceType": "Defense Intelligence Agency"
+      "sourceType": "Defense Intelligence Agency",
+      "role": "primary_reference"
     },
     {
       "label": "Advanced Space Propulsion Based on Vacuum (Spacetime Metric) Engineering",
       "url": "https://arxiv.org/abs/1204.2184",
-      "sourceType": "Technical paper by Hal Puthoff"
+      "sourceType": "Technical paper by Hal Puthoff",
+      "role": "primary_reference"
     }
   ]
 }

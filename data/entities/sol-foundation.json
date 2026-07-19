@@ -13,8 +13,14 @@
       "target": "government-transparency"
     }
   ],
-  "externalUrl": "https://thesolfoundation.org/",
-  "externalLinkLabel": "Visit official website",
   "organizationPurpose": "Advance methodical UAP research, policy development, public education, and government transparency.",
-  "formed": "2022"
+  "formed": "2022",
+  "officialLinks": [
+    {
+      "label": "official website",
+      "url": "https://thesolfoundation.org/",
+      "linkType": "official_website"
+    }
+  ],
+  "referenceSources": []
 }

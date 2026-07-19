@@ -29,13 +29,13 @@
       "context": "Frequently cited in debate over congressional access and hidden programs"
     }
   ],
-  "externalUrl": "https://www.congress.gov/117/meeting/house/114761/documents/HHRG-117-IG05-20220517-SD001.pdf",
-  "externalLinkLabel": "Read the document entered into the House hearing record",
-  "primarySourceLinks": [
+  "officialLinks": [],
+  "referenceSources": [
     {
       "label": "Document entered into the May 17, 2022 House hearing record",
       "url": "https://www.congress.gov/117/meeting/house/114761/documents/HHRG-117-IG05-20220517-SD001.pdf",
-      "sourceType": "U.S. House hearing record"
+      "sourceType": "U.S. House hearing record",
+      "role": "primary_reference"
     }
   ]
 }

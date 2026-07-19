@@ -17,6 +17,12 @@
       "target": "aviation-safety"
     }
   ],
-  "externalUrl": "https://www.defense.gov/",
-  "externalLinkLabel": "Visit official or authoritative website"
+  "officialLinks": [
+    {
+      "label": "official or authoritative website",
+      "url": "https://www.defense.gov/",
+      "linkType": "official_website"
+    }
+  ],
+  "referenceSources": []
 }

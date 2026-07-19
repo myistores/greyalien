@@ -37,23 +37,27 @@
   "profileSummary": "Former Department of Defense official who testified publicly about alleged secret UAP programs, oversight concerns, and protections for people reporting UAP information.",
   "background": "Former Department of Defense official and author.",
   "inclusionNote": "Included because of public congressional testimony, an official written statement, and testimony concerning whistleblowers and alleged retaliation.",
-  "primarySourceLinks": [
+  "profileBadge": "Firsthand Witness",
+  "profileBadgeClass": "badge-witness",
+  "officialLinks": [],
+  "referenceSources": [
     {
       "label": "Official written testimony",
       "url": "https://oversight.house.gov/wp-content/uploads/2024/11/Written-Testimony-Elizondo.pdf",
-      "sourceType": "House Committee on Oversight and Accountability"
+      "sourceType": "House Committee on Oversight and Accountability",
+      "role": "primary_reference"
     },
     {
       "label": "Official November 2024 hearing page",
       "url": "https://oversight.house.gov/hearing/unidentified-anomalous-phenomena-exposing-the-truth/",
-      "sourceType": "House Committee on Oversight and Accountability"
+      "sourceType": "House Committee on Oversight and Accountability",
+      "role": "primary_reference"
     },
     {
       "label": "Galileo Project research affiliate announcement",
       "url": "https://galileo.hsites.harvard.edu/news/galileo-project-welcomes-christopher-mellon-and-luis-elizondo-research-affiliates",
-      "sourceType": "Harvard University"
+      "sourceType": "Harvard University",
+      "role": "primary_reference"
     }
-  ],
-  "profileBadge": "Firsthand Witness",
-  "profileBadgeClass": "badge-witness"
+  ]
 }

@@ -34,6 +34,12 @@
       "platform": "Podcast UFO"
     }
   ],
-  "externalUrl": "https://podcastufo.com/show-notes/former-marines-jonathan-weygandt-on-non-human-encounter/",
-  "externalLinkLabel": "Listen to the interview"
+  "officialLinks": [
+    {
+      "label": "Listen to the interview",
+      "url": "https://podcastufo.com/show-notes/former-marines-jonathan-weygandt-on-non-human-encounter/",
+      "linkType": "official_website"
+    }
+  ],
+  "referenceSources": []
 }

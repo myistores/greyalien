@@ -30,5 +30,12 @@
     }
   ],
   "status": "Official House document",
-  "externalUrl": "https://oversight.house.gov/wp-content/uploads/2024/11/Written-Testimony-Elizondo.pdf"
+  "officialLinks": [
+    {
+      "label": "Official website",
+      "url": "https://oversight.house.gov/wp-content/uploads/2024/11/Written-Testimony-Elizondo.pdf",
+      "linkType": "official_website"
+    }
+  ],
+  "referenceSources": []
 }

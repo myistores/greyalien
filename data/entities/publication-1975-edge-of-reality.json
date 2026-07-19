@@ -20,11 +20,13 @@
       "context": "Co-authored the publication with Jacques Vallée"
     }
   ],
-  "primarySourceLinks": [
+  "officialLinks": [],
+  "referenceSources": [
     {
       "label": "Jacques Vallée official bibliography",
       "url": "https://www.jacquesvallee.net/",
-      "sourceType": "Official author website"
+      "sourceType": "Official author website",
+      "role": "primary_reference"
     }
   ]
 }

@@ -81,8 +81,6 @@
     "Immaculate Constellation"
   ],
   "mediaSourceStatus": "Official WEAPONIZED episode page and official video",
-  "externalUrl": "https://www.weaponizedpodcast.com/episodes-3/episode-76",
-  "externalLinkLabel": "Open official Episode #76 page",
   "mediaLinks": [
     {
       "label": "Watch Matthew Brown Part 3",
@@ -97,35 +95,29 @@
   ],
   "dateDisplay": "May 13, 2025",
   "eventCategory": "Public whistleblower interview",
-  "primarySourceLinks": [
-    {
-      "label": "WEAPONIZED Episode #76 — Matthew Brown Part 3: Immaculate Constellation",
-      "url": "https://www.weaponizedpodcast.com/episodes-3/episode-76",
-      "sourceType": "Official WEAPONIZED episode page"
-    }
-  ],
   "seriesId": "weaponized-podcast",
   "status": "Published",
   "episodeNumber": 76,
   "episodeTitle": "Matthew Brown Part 3: Immaculate Constellation",
-  "sources": [
-    {
-      "label": "Watch Matthew Brown Part 3",
-      "url": "https://www.youtube.com/watch?v=PtBVAxoHeaY",
-      "sourceType": "official_video",
-      "primary": true
-    },
-    {
-      "label": "Read the official Episode #76 description",
-      "url": "https://www.weaponizedpodcast.com/episodes-3/episode-76",
-      "sourceType": "official_episode_page",
-      "primary": false
-    }
-  ],
   "principalClaims": [
     "claim-immaculate-constellation-visual-evidence",
     "claim-uap-perception-management",
     "claim-excessive-secrecy-stifles-inquiry",
     "claim-additional-uap-insiders-should-come-forward"
+  ],
+  "officialLinks": [],
+  "referenceSources": [
+    {
+      "label": "Watch Matthew Brown Part 3",
+      "url": "https://www.youtube.com/watch?v=PtBVAxoHeaY",
+      "sourceType": "official_video",
+      "role": "source"
+    },
+    {
+      "label": "Read the official Episode #76 description",
+      "url": "https://www.weaponizedpodcast.com/episodes-3/episode-76",
+      "sourceType": "official_episode_page",
+      "role": "source"
+    }
   ]
 }

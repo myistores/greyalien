@@ -39,13 +39,19 @@
       "platform": "8 News Now / YouTube"
     }
   ],
-  "externalUrl": "https://www.youtube.com/watch?v=BoJmd2MIpOk",
-  "externalLinkLabel": "Watch the official KLAS retrospective",
   "mediaType": "Television interview archive",
   "mediaPlatform": "KLAS-TV / 8 News Now",
   "mediaHost": "George Knapp",
   "mediaGuests": [
     "Bob Lazar"
   ],
-  "mediaSourceStatus": "Official station retrospective containing archival interview material"
+  "mediaSourceStatus": "Official station retrospective containing archival interview material",
+  "officialLinks": [
+    {
+      "label": "Watch the official KLAS retrospective",
+      "url": "https://www.youtube.com/watch?v=BoJmd2MIpOk",
+      "linkType": "official_website"
+    }
+  ],
+  "referenceSources": []
 }

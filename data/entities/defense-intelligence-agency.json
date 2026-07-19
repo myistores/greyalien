@@ -9,6 +9,12 @@
       "target": "government-transparency"
     }
   ],
-  "externalUrl": "https://www.dia.mil/",
-  "externalLinkLabel": "Visit official or authoritative website"
+  "officialLinks": [
+    {
+      "label": "official or authoritative website",
+      "url": "https://www.dia.mil/",
+      "linkType": "official_website"
+    }
+  ],
+  "referenceSources": []
 }

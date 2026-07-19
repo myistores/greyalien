@@ -13,6 +13,12 @@
       "target": "historical-ufo-research"
     }
   ],
-  "externalUrl": "https://www.airforce.com/",
-  "externalLinkLabel": "Visit official or authoritative website"
+  "officialLinks": [
+    {
+      "label": "official or authoritative website",
+      "url": "https://www.airforce.com/",
+      "linkType": "official_website"
+    }
+  ],
+  "referenceSources": []
 }

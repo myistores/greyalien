@@ -18,18 +18,21 @@
   "profileSummary": "Retired U.S. Army sergeant who publicly claimed involvement in operations involving recovered craft and non-human beings.",
   "background": "Retired U.S. Army sergeant and longtime disclosure advocate.",
   "inclusionNote": "Included because his testimony, books, and public appearances influenced crash-retrieval and military-insider narratives. His extraordinary claims are not independently established.",
-  "primarySourceLinks": [
+  "profileBadge": "Research Contributor",
+  "profileBadgeClass": "badge-researcher",
+  "officialLinks": [],
+  "referenceSources": [
     {
       "label": "Eyes Only: The Story of Clifford Stone and UFO Crash Retrievals",
       "url": "https://archive.org/details/eyes-only-the-story-of-clifford-stone-and-ufo-crash-retrievals-clifford-stone",
-      "sourceType": "Internet Archive"
+      "sourceType": "Internet Archive",
+      "role": "primary_reference"
     },
     {
       "label": "Washington Post coverage of public testimony",
       "url": "https://www.washingtonpost.com/lifestyle/style/ufo-believers-sighted-here/2011/11/07/gIQA8BuUwM_story.html",
-      "sourceType": "The Washington Post"
+      "sourceType": "The Washington Post",
+      "role": "primary_reference"
     }
-  ],
-  "profileBadge": "Research Contributor",
-  "profileBadgeClass": "badge-researcher"
+  ]
 }

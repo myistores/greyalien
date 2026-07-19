@@ -42,18 +42,21 @@
   "profileSummary": "Former Air Force geospatial-intelligence specialist who described himself in official written testimony as a federal whistleblower and presented allegations concerning UAP programs and retaliation.",
   "background": "Former U.S. Air Force geospatial-intelligence specialist and intelligence-community professional.",
   "inclusionNote": "Included because his official House statement explicitly identifies him as a federal whistleblower and records testimony to AARO and the Intelligence Community Inspector General.",
-  "primarySourceLinks": [
+  "profileBadge": "Whistleblower",
+  "profileBadgeClass": "badge-whistleblower",
+  "officialLinks": [],
+  "referenceSources": [
     {
       "label": "Official written testimony",
       "url": "https://oversight.house.gov/wp-content/uploads/2025/09/Borland-Written-Testimony.pdf",
-      "sourceType": "House Committee on Oversight and Government Reform"
+      "sourceType": "House Committee on Oversight and Government Reform",
+      "role": "primary_reference"
     },
     {
       "label": "Official September 2025 hearing page",
       "url": "https://oversight.house.gov/hearing/restoring-public-trust-through-uap-transparency-and-whistleblower-protection/",
-      "sourceType": "House Committee on Oversight and Government Reform"
+      "sourceType": "House Committee on Oversight and Government Reform",
+      "role": "primary_reference"
     }
-  ],
-  "profileBadge": "Whistleblower",
-  "profileBadgeClass": "badge-whistleblower"
+  ]
 }

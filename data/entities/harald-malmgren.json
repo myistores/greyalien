@@ -15,16 +15,19 @@
   "profileBadgeClass": "badge-government",
   "background": "Former senior adviser on trade and economic policy in multiple U.S. administrations.",
   "inclusionNote": "Included because of his documented government career and the historical significance of his late-life statements. His extraordinary allegations require careful separation from his verified public-service record.",
-  "primarySourceLinks": [
+  "officialLinks": [],
+  "referenceSources": [
     {
       "label": "Career and obituary coverage",
       "url": "https://www.washingtonpost.com/obituaries/2025/02/24/harald-malmgren-economist-dead/",
-      "sourceType": "The Washington Post"
+      "sourceType": "The Washington Post",
+      "role": "primary_reference"
     },
     {
       "label": "Coverage of UAP statements",
       "url": "https://www.liberationtimes.com/home/former-us-presidential-adviser-reveals-he-was-briefed-on-otherworld-technologies",
-      "sourceType": "Liberation Times"
+      "sourceType": "Liberation Times",
+      "role": "primary_reference"
     }
   ]
 }

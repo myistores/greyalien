@@ -49,18 +49,21 @@
   "profileSummary": "Former Deputy Assistant Secretary of Defense for Intelligence and former Senate Intelligence Committee staff director who has advocated for congressional UAP oversight.",
   "background": "Former Deputy Assistant Secretary of Defense for Intelligence and former Minority Staff Director of the Senate Intelligence Committee.",
   "inclusionNote": "Included because of his former defense and congressional-intelligence roles, public advocacy for UAP oversight, and involvement in bringing military UAP reporting to congressional attention.",
-  "primarySourceLinks": [
+  "profileBadge": "Former Government Official",
+  "profileBadgeClass": "badge-government",
+  "officialLinks": [],
+  "referenceSources": [
     {
       "label": "Christopher Mellon biography",
       "url": "https://www.christophermellon.net/",
-      "sourceType": "Christopher Mellon"
+      "sourceType": "Christopher Mellon",
+      "role": "primary_reference"
     },
     {
       "label": "Suggestions for Congress on the UAP Issue",
       "url": "https://www.christophermellon.net/post/possible-next-steps-for-congress-on-the-uap-issue",
-      "sourceType": "Christopher Mellon"
+      "sourceType": "Christopher Mellon",
+      "role": "primary_reference"
     }
-  ],
-  "profileBadge": "Former Government Official",
-  "profileBadgeClass": "badge-government"
+  ]
 }

@@ -40,11 +40,13 @@
       "context": "Technology claim associated with the alleged work"
     }
   ],
-  "primarySourceLinks": [
+  "officialLinks": [],
+  "referenceSources": [
     {
       "label": "1989 KLAS interview archive",
       "url": "https://www.youtube.com/watch?v=BoJmd2MIpOk",
-      "sourceType": "Official station retrospective"
+      "sourceType": "Official station retrospective",
+      "role": "primary_reference"
     }
   ]
 }

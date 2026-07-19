@@ -21,6 +21,12 @@
       "target": "government-transparency"
     }
   ],
-  "externalUrl": "https://www.safeaerospace.org/",
-  "externalLinkLabel": "Visit official website"
+  "officialLinks": [
+    {
+      "label": "official website",
+      "url": "https://www.safeaerospace.org/",
+      "linkType": "official_website"
+    }
+  ],
+  "referenceSources": []
 }

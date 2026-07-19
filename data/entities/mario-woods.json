@@ -20,16 +20,19 @@
   "profileBadgeClass": "badge-witness",
   "background": "Former U.S. Air Force security policeman.",
   "inclusionNote": "Included because his named account expands the strategic-facilities witness cluster and connects military security, missile sites, and reported anomalous encounters.",
-  "primarySourceLinks": [
+  "officialLinks": [],
+  "referenceSources": [
     {
       "label": "Public witness interview",
       "url": "https://www.youtube.com/watch?v=74w_kbq5Ji8",
-      "sourceType": "YouTube interview"
+      "sourceType": "YouTube interview",
+      "role": "primary_reference"
     },
     {
       "label": "Nuclear-site testimony event",
       "url": "https://www.youtube.com/watch?v=3jUU4Z8QdHI",
-      "sourceType": "National Press Club / YouTube"
+      "sourceType": "National Press Club / YouTube",
+      "role": "primary_reference"
     }
   ]
 }

@@ -1,7 +1,7 @@
 {
   "id": "YYYY-series-episode-N",
   "type": "podcast_episode",
-  "name": "SERIES Episode #N — Descriptive title",
+  "name": "SERIES Episode #N \u2014 Descriptive title",
   "summary": "Concise, source-grounded summary of what the episode contributes to the UAP knowledge base.",
   "date": "YYYY-MM-DD",
   "dateDisplay": "Month D, YYYY",
@@ -28,14 +28,6 @@
       "context": "Podcast host"
     }
   ],
-  "sources": [
-    {
-      "label": "Official episode page",
-      "url": "https://example.com/episode",
-      "sourceType": "official_episode_page",
-      "primary": true
-    }
-  ],
   "externalUrl": "https://example.com/episode",
   "externalLinkLabel": "Open official episode page",
   "mediaLinks": [
@@ -44,5 +36,14 @@
       "url": "https://example.com/episode",
       "platform": "Official source"
     }
-  ]
+  ],
+  "referenceSources": [
+    {
+      "label": "Official episode page",
+      "url": "https://example.com/episode",
+      "sourceType": "official_episode_page",
+      "primary": true
+    }
+  ],
+  "officialLinks": []
 }

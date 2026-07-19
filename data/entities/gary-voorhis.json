@@ -23,13 +23,15 @@
   "profileSummary": "Former U.S. Navy technician who has described radar and data-handling activity connected to the 2004 Nimitz events.",
   "background": "Former U.S. Navy fire-control technician aboard USS Princeton.",
   "inclusionNote": "Included because his account links the Nimitz case to shipboard radar systems, data handling, and the broader witness network.",
-  "primarySourceLinks": [
+  "profileBadge": "Firsthand Witness",
+  "profileBadgeClass": "badge-witness",
+  "officialLinks": [],
+  "referenceSources": [
     {
       "label": "Nimitz witness investigation",
       "url": "https://www.popularmechanics.com/military/research/a63549222/navy-ufo-witnesses-nimitz-encounter/",
-      "sourceType": "Popular Mechanics"
+      "sourceType": "Popular Mechanics",
+      "role": "primary_reference"
     }
-  ],
-  "profileBadge": "Firsthand Witness",
-  "profileBadgeClass": "badge-witness"
+  ]
 }

@@ -13,6 +13,12 @@
       "target": "whistleblower-protection"
     }
   ],
-  "externalUrl": "https://oversight.house.gov/",
-  "externalLinkLabel": "Visit official or authoritative website"
+  "officialLinks": [
+    {
+      "label": "official or authoritative website",
+      "url": "https://oversight.house.gov/",
+      "linkType": "official_website"
+    }
+  ],
+  "referenceSources": []
 }

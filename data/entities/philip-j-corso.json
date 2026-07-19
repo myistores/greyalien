@@ -26,18 +26,21 @@
   "profileSummary": "Retired U.S. Army lieutenant colonel and coauthor of The Day After Roswell, which alleged military transfer and reverse engineering of recovered technology.",
   "background": "U.S. Army officer from 1942 to 1963, former National Security Council staff member, and former chief of the Army's Foreign Technology desk.",
   "inclusionNote": "Included because his documented Army career and bestselling book made him one of the most influential historical figures in Roswell and reverse-engineering literature. The book's extraordinary claims remain disputed.",
-  "primarySourceLinks": [
+  "profileBadge": "Military Contributor",
+  "profileBadgeClass": "badge-military",
+  "officialLinks": [],
+  "referenceSources": [
     {
       "label": "The Day After Roswell publisher page",
       "url": "https://www.simonandschuster.com/books/The-Day-After-Roswell/William-J-Birnes/9781501172007",
-      "sourceType": "Simon & Schuster"
+      "sourceType": "Simon & Schuster",
+      "role": "primary_reference"
     },
     {
       "label": "National Archives personnel-record listing",
       "url": "https://www.archives.gov/st-louis/pep",
-      "sourceType": "U.S. National Archives"
+      "sourceType": "U.S. National Archives",
+      "role": "primary_reference"
     }
-  ],
-  "profileBadge": "Military Contributor",
-  "profileBadgeClass": "badge-military"
+  ]
 }

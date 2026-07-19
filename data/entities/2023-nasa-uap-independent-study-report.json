@@ -26,5 +26,12 @@
     }
   ],
   "status": "Official NASA report",
-  "externalUrl": "https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf"
+  "officialLinks": [
+    {
+      "label": "Official website",
+      "url": "https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf",
+      "linkType": "official_website"
+    }
+  ],
+  "referenceSources": []
 }

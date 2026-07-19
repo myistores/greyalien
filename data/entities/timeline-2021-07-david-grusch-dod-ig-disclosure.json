@@ -32,11 +32,13 @@
       "context": "Disclosure concerned alleged concealed UAP programs"
     }
   ],
-  "primarySourceLinks": [
+  "officialLinks": [],
+  "referenceSources": [
     {
       "label": "Unclassified whistleblower complaint background",
       "url": "https://www.weaponizedpodcast.com/news-1/david-grusch-whistleblower-complaint",
-      "sourceType": "Published copy and background summary"
+      "sourceType": "Published copy and background summary",
+      "role": "primary_reference"
     }
   ]
 }

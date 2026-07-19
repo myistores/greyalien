@@ -19,12 +19,13 @@
       "target": "department-of-defense"
     }
   ],
-  "sources": [
+  "officialLinks": [],
+  "referenceSources": [
     {
       "label": "Official WEAPONIZED Episode #47 page",
       "url": "https://www.weaponizedpodcast.com/episodes-2/episode-47",
       "sourceType": "official_episode_page",
-      "primary": true
+      "role": "source"
     }
   ]
 }

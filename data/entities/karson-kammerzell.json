@@ -18,13 +18,15 @@
   "profileSummary": "Former U.S. Navy cryptologic technician associated with shipboard records and communications connected to the 2004 Nimitz encounter.",
   "background": "Former U.S. Navy cryptologic technician.",
   "inclusionNote": "Included because of his named public account concerning records, communications, and logs associated with the Nimitz events.",
-  "primarySourceLinks": [
+  "profileBadge": "Firsthand Witness",
+  "profileBadgeClass": "badge-witness",
+  "officialLinks": [],
+  "referenceSources": [
     {
       "label": "Nimitz witness investigation",
       "url": "https://www.popularmechanics.com/military/research/a63549222/navy-ufo-witnesses-nimitz-encounter/",
-      "sourceType": "Popular Mechanics"
+      "sourceType": "Popular Mechanics",
+      "role": "primary_reference"
     }
-  ],
-  "profileBadge": "Firsthand Witness",
-  "profileBadgeClass": "badge-witness"
+  ]
 }

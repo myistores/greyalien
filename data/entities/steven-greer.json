@@ -16,16 +16,19 @@
   "profileBadgeClass": "badge-advocate",
   "background": "Physician, author, lecturer, and disclosure activist.",
   "inclusionNote": "Included because his witness events, document releases, films, and advocacy strongly influenced public UFO disclosure culture, despite ongoing controversy surrounding some claims and methods.",
-  "primarySourceLinks": [
+  "officialLinks": [],
+  "referenceSources": [
     {
       "label": "Disclosure Project witness archive",
       "url": "https://drstevengreer.com/evidence-docs/witness-testimony/",
-      "sourceType": "The Disclosure Project"
+      "sourceType": "The Disclosure Project",
+      "role": "primary_reference"
     },
     {
       "label": "2001 National Press Club event",
       "url": "https://www.youtube.com/watch?v=4DrcG7VGgQU",
-      "sourceType": "Disclosure Project / YouTube"
+      "sourceType": "Disclosure Project / YouTube",
+      "role": "primary_reference"
     }
   ]
 }

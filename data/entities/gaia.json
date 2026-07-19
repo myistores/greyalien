@@ -4,5 +4,12 @@
   "name": "Gaia",
   "summary": "Subscription streaming platform publishing programs on spirituality, alternative history, and disclosure topics.",
   "relationships": [],
-  "externalUrl": "https://www.gaia.com/"
+  "officialLinks": [
+    {
+      "label": "Official website",
+      "url": "https://www.gaia.com/",
+      "linkType": "official_website"
+    }
+  ],
+  "referenceSources": []
 }

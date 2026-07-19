@@ -23,13 +23,15 @@
   "profileSummary": "Federal Aviation Administration policy official who served on NASA's UAP Independent Study Team.",
   "background": "Senior FAA aviation-policy official.",
   "inclusionNote": "Included because NASA appointed her to contribute civil-aviation policy and federal-agency coordination experience.",
-  "primarySourceLinks": [
+  "profileBadge": "Scientist / Researcher",
+  "profileBadgeClass": "badge-scientist",
+  "officialLinks": [],
+  "referenceSources": [
     {
       "label": "NASA announces UAP study-team members",
       "url": "https://www.nasa.gov/general/nasa-announces-unidentified-aerial-phenomena-study-team-members/",
-      "sourceType": "NASA"
+      "sourceType": "NASA",
+      "role": "primary_reference"
     }
-  ],
-  "profileBadge": "Scientist / Researcher",
-  "profileBadgeClass": "badge-scientist"
+  ]
 }

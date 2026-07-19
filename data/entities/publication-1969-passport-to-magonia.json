@@ -14,11 +14,13 @@
       "context": "Authored this influential UAP publication"
     }
   ],
-  "primarySourceLinks": [
+  "officialLinks": [],
+  "referenceSources": [
     {
       "label": "Jacques Vallée official bibliography",
       "url": "https://www.jacquesvallee.net/",
-      "sourceType": "Official author website"
+      "sourceType": "Official author website",
+      "role": "primary_reference"
     }
   ]
 }

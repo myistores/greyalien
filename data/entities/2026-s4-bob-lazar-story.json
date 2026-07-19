@@ -33,6 +33,12 @@
     "Bob Lazar"
   ],
   "mediaSourceStatus": "Released documentary",
-  "externalUrl": "https://www.imdb.com/title/tt37605896/",
-  "externalLinkLabel": "View documentary record"
+  "officialLinks": [
+    {
+      "label": "View documentary record",
+      "url": "https://www.imdb.com/title/tt37605896/",
+      "linkType": "official_website"
+    }
+  ],
+  "referenceSources": []
 }

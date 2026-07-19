@@ -1,6 +1,6 @@
 {
-  "startedAt": "2026-07-19T14:13:17.762483+00:00",
-  "finishedAt": "2026-07-19T14:13:45.461670+00:00",
+  "startedAt": "2026-07-19T15:11:33.348598+00:00",
+  "finishedAt": "2026-07-19T15:11:50.827224+00:00",
   "status": "passed",
   "steps": [
     {
@@ -31,7 +31,7 @@
     {
       "step": "build_homepage.py",
       "returnCode": 0,
-      "output": "Updated homepage Latest Additions for GreyAlien Version 18.3."
+      "output": "Updated homepage Latest Additions for GreyAlien Version 18.3.1."
     },
     {
       "step": "build_sitemap.py",
@@ -61,7 +61,7 @@
     {
       "step": "validate_sources.py",
       "returnCode": 0,
-      "output": "Source validation: 73 links checked, 5 official websites, 0 errors, 3 warnings.\nWARNING: advanced-theoretical-physics-program: no official_website source recorded\nWARNING: brazilian-commission-of-ufologists: no official_website source recorded\nWARNING: uap-register: no official_website source recorded"
+      "output": "Link architecture validation: 96 official links, 214 reference sources, 0 errors, 6 warnings.\nWARNING: aatip: no verified official links recorded\nWARNING: aawsap: no verified official links recorded\nWARNING: advanced-theoretical-physics-program: no verified official links recorded\nWARNING: brazilian-commission-of-ufologists: no verified official links recorded\nWARNING: uap-register: no verified official links recorded\nWARNING: uap-science-advisory-council: no verified official links recorded"
     },
     {
       "step": "validate_visual_identity.py",

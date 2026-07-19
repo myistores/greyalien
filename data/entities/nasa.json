@@ -13,6 +13,12 @@
       "target": "2023-nasa-uap-independent-study-report"
     }
   ],
-  "externalUrl": "https://www.nasa.gov/",
-  "externalLinkLabel": "Visit official or authoritative website"
+  "officialLinks": [
+    {
+      "label": "official or authoritative website",
+      "url": "https://www.nasa.gov/",
+      "linkType": "official_website"
+    }
+  ],
+  "referenceSources": []
 }

@@ -8,15 +8,23 @@
   ],
   "launchYear": "2018",
   "status": "Active",
-  "externalUrl": "https://www.youtube.com/@EngagingThePhenomenon",
-  "externalLinkLabel": "Visit official website",
-  "youtubeUrl": "https://www.youtube.com/@EngagingThePhenomenon",
-  "spotifyUrl": "https://open.spotify.com/show/0E5OFgTmqz92w8JBrqthdT",
-  "applePodcastsUrl": "",
   "relationships": [
     {
       "type": "discussed_topic",
       "target": "scientific-investigation"
     }
-  ]
+  ],
+  "officialLinks": [
+    {
+      "label": "official website",
+      "url": "https://www.youtube.com/@EngagingThePhenomenon",
+      "linkType": "official_website"
+    },
+    {
+      "label": "Spotify",
+      "url": "https://open.spotify.com/show/0E5OFgTmqz92w8JBrqthdT",
+      "linkType": "spotify"
+    }
+  ],
+  "referenceSources": []
 }

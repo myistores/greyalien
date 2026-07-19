@@ -13,6 +13,12 @@
       "target": "scientific-investigation"
     }
   ],
-  "externalUrl": "https://www.archives.gov/research/military/air-force/ufos",
-  "externalLinkLabel": "Visit official or authoritative website"
+  "officialLinks": [
+    {
+      "label": "official or authoritative website",
+      "url": "https://www.archives.gov/research/military/air-force/ufos",
+      "linkType": "official_website"
+    }
+  ],
+  "referenceSources": []
 }

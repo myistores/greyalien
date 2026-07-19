@@ -18,8 +18,6 @@
     }
   ],
   "date": "2023-06-11",
-  "externalUrl": "https://www.youtube.com/watch?v=RBAISwCZ2v0",
-  "externalLinkLabel": "Watch the full NewsNation interview",
   "mediaType": "Television interview",
   "mediaPlatform": "NewsNation",
   "mediaHost": "Ross Coulthart",
@@ -40,5 +38,13 @@
     }
   ],
   "dateDisplay": "June 11, 2023",
-  "eventCategory": "Television interview"
+  "eventCategory": "Television interview",
+  "officialLinks": [
+    {
+      "label": "Watch the full NewsNation interview",
+      "url": "https://www.youtube.com/watch?v=RBAISwCZ2v0",
+      "linkType": "official_website"
+    }
+  ],
+  "referenceSources": []
 }

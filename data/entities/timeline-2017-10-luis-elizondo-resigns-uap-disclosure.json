@@ -26,11 +26,13 @@
       "context": "Public exposure and cooperation on UAP investigation"
     }
   ],
-  "primarySourceLinks": [
+  "officialLinks": [],
+  "referenceSources": [
     {
       "label": "Galileo Project biography and affiliate announcement",
       "url": "https://galileo.hsites.harvard.edu/news/galileo-project-welcomes-christopher-mellon-and-luis-elizondo-research-affiliates",
-      "sourceType": "The Galileo Project, Harvard University"
+      "sourceType": "The Galileo Project, Harvard University",
+      "role": "primary_reference"
     }
   ]
 }

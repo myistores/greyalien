@@ -9,6 +9,12 @@
       "target": "government-transparency"
     }
   ],
-  "externalUrl": "https://www.archives.gov/",
-  "externalLinkLabel": "Visit official or authoritative website"
+  "officialLinks": [
+    {
+      "label": "official or authoritative website",
+      "url": "https://www.archives.gov/",
+      "linkType": "official_website"
+    }
+  ],
+  "referenceSources": []
 }

@@ -20,16 +20,19 @@
   "profileBadgeClass": "badge-scientist",
   "background": "Aerospace engineer with experience supporting NASA and Department of Defense programs.",
   "inclusionNote": "Included because his documented government role and scientific background connect the UAP Task Force, military analysis, media, and Skinwalker Ranch investigations.",
-  "primarySourceLinks": [
+  "officialLinks": [],
+  "referenceSources": [
     {
       "label": "History biography",
       "url": "https://www.history.com/shows/the-secret-of-skinwalker-ranch/cast/travis-taylor",
-      "sourceType": "History"
+      "sourceType": "History",
+      "role": "primary_reference"
     },
     {
       "label": "Report on his UAP Task Force role",
       "url": "https://www.cnn.com/2022/06/25/us/ufo-scientist-travis-taylor/index.html",
-      "sourceType": "CNN"
+      "sourceType": "CNN",
+      "role": "primary_reference"
     }
   ]
 }

@@ -21,5 +21,12 @@
       "target": "claim-crash-retrieval-program"
     }
   ],
-  "externalUrl": "https://docs.house.gov/meetings/GO/GO06/20230726/116282/HHRG-118-GO06-Wstate-GruschD-20230726.pdf"
+  "officialLinks": [
+    {
+      "label": "Official website",
+      "url": "https://docs.house.gov/meetings/GO/GO06/20230726/116282/HHRG-118-GO06-Wstate-GruschD-20230726.pdf",
+      "linkType": "official_website"
+    }
+  ],
+  "referenceSources": []
 }

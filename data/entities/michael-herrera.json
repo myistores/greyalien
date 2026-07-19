@@ -40,18 +40,21 @@
   "profileSummary": "Former U.S. Marine who publicly alleged that he observed a large advanced craft and unidentified personnel during a 2009 humanitarian deployment in Indonesia.",
   "background": "Former U.S. Marine.",
   "inclusionNote": "Included because he has made named public statements and reported providing information through whistleblower channels. Major details of the account remain unverified and have been publicly disputed.",
-  "primarySourceLinks": [
+  "profileBadge": "Firsthand Witness",
+  "profileBadgeClass": "badge-witness",
+  "officialLinks": [],
+  "referenceSources": [
     {
       "label": "Long-form interview on the Indonesia account",
       "url": "https://www.youtube.com/watch?v=vy_k1uY5KP4",
-      "sourceType": "YouTube"
+      "sourceType": "YouTube",
+      "role": "primary_reference"
     },
     {
       "label": "Joint podcast episode with Jonathan Weygandt",
       "url": "https://podcasts.apple.com/gb/podcast/608-jonathan-weygandt-mike-herrera-marine-encounters/id483046074?i=1000654868851",
-      "sourceType": "Apple Podcasts"
+      "sourceType": "Apple Podcasts",
+      "role": "primary_reference"
     }
-  ],
-  "profileBadge": "Firsthand Witness",
-  "profileBadgeClass": "badge-witness"
+  ]
 }

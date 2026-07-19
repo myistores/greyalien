@@ -13,8 +13,14 @@
       "target": "whistleblower-protection"
     }
   ],
-  "externalUrl": "https://drstevengreer.com/evidence-docs/witness-testimony/",
-  "externalLinkLabel": "Visit official website",
   "organizationPurpose": "Publicize witness testimony and advocate for government disclosure of UFO- and UAP-related information.",
-  "formed": "1993"
+  "formed": "1993",
+  "officialLinks": [
+    {
+      "label": "official website",
+      "url": "https://drstevengreer.com/evidence-docs/witness-testimony/",
+      "linkType": "official_website"
+    }
+  ],
+  "referenceSources": []
 }

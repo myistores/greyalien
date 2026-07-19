@@ -32,11 +32,13 @@
       "context": "Release of military-filmed UAP material"
     }
   ],
-  "primarySourceLinks": [
+  "officialLinks": [],
+  "referenceSources": [
     {
       "label": "The Jellyfish UAP",
       "url": "https://www.weaponizedpodcast.com/news-1/the-jellyfish-uap",
-      "sourceType": "Official WEAPONIZED report"
+      "sourceType": "Official WEAPONIZED report",
+      "role": "primary_reference"
     }
   ]
 }

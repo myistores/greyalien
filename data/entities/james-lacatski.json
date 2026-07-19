@@ -14,13 +14,15 @@
   "profileSummary": "Former Defense Intelligence Agency official associated with the AAWSAP program.",
   "background": "Former Defense Intelligence Agency official and program manager.",
   "inclusionNote": "Included because of his documented government role, authorship, and direct public discussion of AAWSAP and related findings.",
-  "primarySourceLinks": [
+  "profileBadge": "Research Contributor",
+  "profileBadgeClass": "badge-researcher",
+  "officialLinks": [],
+  "referenceSources": [
     {
       "label": "Public interview concerning AAWSAP",
       "url": "https://www.youtube.com/watch?v=MiUDl_9v6Ag",
-      "sourceType": "WEAPONIZED"
+      "sourceType": "WEAPONIZED",
+      "role": "primary_reference"
     }
-  ],
-  "profileBadge": "Research Contributor",
-  "profileBadgeClass": "badge-researcher"
+  ]
 }

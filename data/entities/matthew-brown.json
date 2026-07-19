@@ -18,23 +18,27 @@
   "profileSummary": "Former government analyst who publicly associated himself with allegations concerning an alleged program called Immaculate Constellation.",
   "background": "Self-described former Defense and State Department analyst.",
   "inclusionNote": "Included because he has publicly identified himself and given extended on-the-record interviews. His central allegations remain unverified publicly.",
-  "primarySourceLinks": [
+  "profileBadge": "Whistleblower",
+  "profileBadgeClass": "badge-whistleblower",
+  "officialLinks": [],
+  "referenceSources": [
     {
       "label": "WEAPONIZED — Matthew Brown Part 1: Immaculate Constellation",
       "url": "https://www.youtube.com/watch?v=ZAxI-LDrDqA",
-      "sourceType": "Official video interview"
+      "sourceType": "Official video interview",
+      "role": "primary_reference"
     },
     {
       "label": "Public interview concerning Immaculate Constellation",
       "url": "https://www.youtube.com/watch?v=4n_bRtnIP14",
-      "sourceType": "Public interview"
+      "sourceType": "Public interview",
+      "role": "primary_reference"
     },
     {
       "label": "WEAPONIZED — Matthew Brown Part 3: Immaculate Constellation",
       "url": "https://www.youtube.com/watch?v=PtBVAxoHeaY",
-      "sourceType": "Official video interview"
+      "sourceType": "Official video interview",
+      "role": "primary_reference"
     }
-  ],
-  "profileBadge": "Whistleblower",
-  "profileBadgeClass": "badge-whistleblower"
+  ]
 }

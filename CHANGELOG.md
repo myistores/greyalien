@@ -290,3 +290,8 @@
 ## V18.3 — WEAPONIZED Production Batch #3
 - Added Episodes #53–#57 and supporting graph entities.
 - Updated homepage Latest Additions and regenerated all automated assets.
+
+## V18.3.1 — Official Links and Reference Sources
+- Separated entity-owned links from GreyAlien research provenance.
+- Migrated legacy source fields to `officialLinks[]` and `referenceSources[]`.
+- Added renderer and validator support for both sections.

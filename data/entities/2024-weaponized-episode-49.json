@@ -65,22 +65,6 @@
       "target": "uap-research"
     }
   ],
-  "sources": [
-    {
-      "label": "Official WEAPONIZED Episode #49 page",
-      "url": "https://www.weaponizedpodcast.com/episodes-2/episode-49",
-      "sourceType": "official_episode_page",
-      "primary": true
-    },
-    {
-      "label": "Listen to WEAPONIZED",
-      "url": "https://link.chtbl.com/Weaponized",
-      "sourceType": "official_audio_feed",
-      "primary": false
-    }
-  ],
-  "externalUrl": "https://www.weaponizedpodcast.com/episodes-2/episode-49",
-  "externalLinkLabel": "Open official Episode #49 page",
   "mediaLinks": [
     {
       "label": "Open the official Episode #49 page",
@@ -93,5 +77,20 @@
       "platform": "Official audio feed"
     }
   ],
-  "eventCategory": "Podcast publication"
+  "eventCategory": "Podcast publication",
+  "officialLinks": [],
+  "referenceSources": [
+    {
+      "label": "Official WEAPONIZED Episode #49 page",
+      "url": "https://www.weaponizedpodcast.com/episodes-2/episode-49",
+      "sourceType": "official_episode_page",
+      "role": "source"
+    },
+    {
+      "label": "Listen to WEAPONIZED",
+      "url": "https://link.chtbl.com/Weaponized",
+      "sourceType": "official_audio_feed",
+      "role": "source"
+    }
+  ]
 }

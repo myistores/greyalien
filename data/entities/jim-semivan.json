@@ -16,16 +16,19 @@
   "profileBadgeClass": "badge-government",
   "background": "Retired CIA operations officer.",
   "inclusionNote": "Included because his intelligence background and organizational role connect government experience, Luis Elizondo, Christopher Mellon, public media, and disclosure advocacy.",
-  "primarySourceLinks": [
+  "officialLinks": [],
+  "referenceSources": [
     {
       "label": "To The Stars Academy",
       "url": "https://tothestars.media/pages/about",
-      "sourceType": "To The Stars Academy"
+      "sourceType": "To The Stars Academy",
+      "role": "primary_reference"
     },
     {
       "label": "Public interview with Jim Semivan",
       "url": "https://www.youtube.com/watch?v=KxtL-sBhe30",
-      "sourceType": "YouTube interview"
+      "sourceType": "YouTube interview",
+      "role": "primary_reference"
     }
   ]
 }

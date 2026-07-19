@@ -28,12 +28,13 @@
   "profileBadge": "Historian",
   "profileBadgeClass": "badge-historian",
   "inclusionNote": "Included as the guest in WEAPONIZED Episode #46.",
-  "sources": [
+  "officialLinks": [],
+  "referenceSources": [
     {
       "label": "Official WEAPONIZED Episode #46 page",
       "url": "https://www.weaponizedpodcast.com/episodes-2/episode-46",
       "sourceType": "official_episode_page",
-      "primary": true
+      "role": "source"
     }
   ]
 }

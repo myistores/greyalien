@@ -18,5 +18,12 @@
     }
   ],
   "status": "Published fact check",
-  "externalUrl": "https://factcheck.afp.com/doc.afp.com.34JT287"
+  "officialLinks": [
+    {
+      "label": "Official website",
+      "url": "https://factcheck.afp.com/doc.afp.com.34JT287",
+      "linkType": "official_website"
+    }
+  ],
+  "referenceSources": []
 }

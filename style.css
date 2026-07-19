@@ -506,3 +506,12 @@ html{scroll-behavior:smooth}
 /* V18.2.2 — artwork-led WEAPONIZED banner */
 .podcast-visual-identity:has(.podcast-visual-media img[src*="weaponized-identity"]){border-color:rgba(239,125,72,.35)}
 @media(max-width:760px){.podcast-visual-media img[src*="weaponized-identity"]{object-position:43% center}.podcast-visual-identity:has(.podcast-visual-media img[src*="weaponized-identity"]) .podcast-visual-source{background:rgba(3,8,11,.88)}}
+
+.entity-source-empty {
+  border-style: dashed;
+  opacity: .92;
+}
+.entity-source-empty > p:last-child {
+  margin: .5rem 0 0;
+  color: var(--muted, #a9bbb4);
+}

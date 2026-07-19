@@ -23,13 +23,15 @@
   "profileSummary": "Former USS Princeton crew member who has publicly described viewing a longer version of video associated with the 2004 Nimitz encounter.",
   "background": "Former U.S. Navy crew member aboard USS Princeton.",
   "inclusionNote": "Included because of his named public account concerning shipboard video and post-event handling. The longer-video account has not been independently established through a released official copy.",
-  "primarySourceLinks": [
+  "profileBadge": "Firsthand Witness",
+  "profileBadgeClass": "badge-witness",
+  "officialLinks": [],
+  "referenceSources": [
     {
       "label": "Nimitz witness investigation",
       "url": "https://www.popularmechanics.com/military/research/a63549222/navy-ufo-witnesses-nimitz-encounter/",
-      "sourceType": "Popular Mechanics"
+      "sourceType": "Popular Mechanics",
+      "role": "primary_reference"
     }
-  ],
-  "profileBadge": "Firsthand Witness",
-  "profileBadgeClass": "badge-witness"
+  ]
 }

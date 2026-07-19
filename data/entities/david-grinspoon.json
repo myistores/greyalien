@@ -18,13 +18,15 @@
   "profileSummary": "Astrobiologist and planetary scientist who served on NASA's UAP Independent Study Team.",
   "background": "Astrobiologist, planetary scientist, and science communicator.",
   "inclusionNote": "Included because NASA appointed him to contribute planetary-science, astrobiology, and public-science expertise.",
-  "primarySourceLinks": [
+  "profileBadge": "Scientist / Researcher",
+  "profileBadgeClass": "badge-scientist",
+  "officialLinks": [],
+  "referenceSources": [
     {
       "label": "NASA announces UAP study-team members",
       "url": "https://www.nasa.gov/general/nasa-announces-unidentified-aerial-phenomena-study-team-members/",
-      "sourceType": "NASA"
+      "sourceType": "NASA",
+      "role": "primary_reference"
     }
-  ],
-  "profileBadge": "Scientist / Researcher",
-  "profileBadgeClass": "badge-scientist"
+  ]
 }

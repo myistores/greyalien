@@ -6,18 +6,19 @@
   "relationships": [],
   "organizationStatus": "Active or historical organization",
   "organizationSummary": "Federal department whose proposed Kona Blue program is discussed in WEAPONIZED Episode #53.",
-  "sources": [
+  "officialLinks": [
     {
       "label": "U.S. Department of Homeland Security",
       "url": "https://www.dhs.gov/",
-      "sourceType": "official_website",
-      "primary": true
-    },
+      "linkType": "official_website"
+    }
+  ],
+  "referenceSources": [
     {
       "label": "Official WEAPONIZED Episode #53 page",
       "url": "https://www.weaponizedpodcast.com/episodes-2/episode-53",
       "sourceType": "official_episode_page",
-      "primary": false
+      "role": "source"
     }
   ]
 }

@@ -38,11 +38,13 @@
       "context": "Reconstruction claim associated with the production"
     }
   ],
-  "primarySourceLinks": [
+  "officialLinks": [],
+  "referenceSources": [
     {
       "label": "S4 documentary release information",
       "url": "https://www.imdb.com/title/tt37605896/releaseinfo/",
-      "sourceType": "Release information"
+      "sourceType": "Release information",
+      "role": "primary_reference"
     }
   ]
 }

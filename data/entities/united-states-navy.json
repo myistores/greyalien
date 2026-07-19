@@ -13,6 +13,12 @@
       "target": "uap-reporting-systems"
     }
   ],
-  "externalUrl": "https://www.navy.mil/",
-  "externalLinkLabel": "Visit official or authoritative website"
+  "officialLinks": [
+    {
+      "label": "official or authoritative website",
+      "url": "https://www.navy.mil/",
+      "linkType": "official_website"
+    }
+  ],
+  "referenceSources": []
 }

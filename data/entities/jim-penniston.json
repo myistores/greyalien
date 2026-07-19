@@ -23,13 +23,15 @@
   "profileSummary": "Former U.S. Air Force security supervisor who submitted a contemporaneous statement concerning the Rendlesham Forest incident.",
   "background": "Former U.S. Air Force security supervisor.",
   "inclusionNote": "Included because of his original written statement. Later additions to his account should be distinguished from the contemporaneous record.",
-  "primarySourceLinks": [
+  "profileBadge": "Firsthand Witness",
+  "profileBadgeClass": "badge-witness",
+  "officialLinks": [],
+  "referenceSources": [
     {
       "label": "UK National Archives UFO reports collection",
       "url": "https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/",
-      "sourceType": "UK National Archives"
+      "sourceType": "UK National Archives",
+      "role": "primary_reference"
     }
-  ],
-  "profileBadge": "Firsthand Witness",
-  "profileBadgeClass": "badge-witness"
+  ]
 }

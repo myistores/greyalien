@@ -8,15 +8,33 @@
   ],
   "launchYear": "2020",
   "status": "Active",
-  "externalUrl": "https://curtjaimungal.substack.com/",
-  "externalLinkLabel": "Visit official website",
-  "youtubeUrl": "https://www.youtube.com/@TheoriesofEverything",
-  "spotifyUrl": "https://open.spotify.com/show/4gL14b92xAErofYQA7bU4e",
-  "applePodcastsUrl": "https://podcasts.apple.com/us/podcast/theories-of-everything-with-curt-jaimungal/id1521758802",
   "relationships": [
     {
       "type": "discussed_topic",
       "target": "scientific-investigation"
     }
-  ]
+  ],
+  "officialLinks": [
+    {
+      "label": "official website",
+      "url": "https://curtjaimungal.substack.com/",
+      "linkType": "official_website"
+    },
+    {
+      "label": "YouTube",
+      "url": "https://www.youtube.com/@TheoriesofEverything",
+      "linkType": "youtube"
+    },
+    {
+      "label": "Spotify",
+      "url": "https://open.spotify.com/show/4gL14b92xAErofYQA7bU4e",
+      "linkType": "spotify"
+    },
+    {
+      "label": "Apple Podcasts",
+      "url": "https://podcasts.apple.com/us/podcast/theories-of-everything-with-curt-jaimungal/id1521758802",
+      "linkType": "apple_podcasts"
+    }
+  ],
+  "referenceSources": []
 }

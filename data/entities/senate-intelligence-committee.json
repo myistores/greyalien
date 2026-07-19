@@ -4,6 +4,12 @@
   "name": "Senate Select Committee on Intelligence",
   "summary": "U.S. Senate committee responsible for intelligence-community oversight.",
   "relationships": [],
-  "externalUrl": "https://www.intelligence.senate.gov/",
-  "externalLinkLabel": "Visit official or authoritative website"
+  "officialLinks": [
+    {
+      "label": "official or authoritative website",
+      "url": "https://www.intelligence.senate.gov/",
+      "linkType": "official_website"
+    }
+  ],
+  "referenceSources": []
 }

@@ -38,11 +38,13 @@
       "context": "Central alleged facility discussed"
     }
   ],
-  "primarySourceLinks": [
+  "officialLinks": [],
+  "referenceSources": [
     {
       "label": "Documentary release record",
       "url": "https://www.imdb.com/title/tt9107368/releaseinfo/",
-      "sourceType": "Release information"
+      "sourceType": "Release information",
+      "role": "primary_reference"
     }
   ]
 }

@@ -23,13 +23,15 @@
   "profileSummary": "Former U.S. Navy radar operator who reported tracking anomalous objects during the 2004 Nimitz events.",
   "background": "Former operations specialist aboard USS Princeton.",
   "inclusionNote": "Included because his radar account supplies a major sensor-based perspective on the Nimitz timeline.",
-  "primarySourceLinks": [
+  "profileBadge": "Firsthand Witness",
+  "profileBadgeClass": "badge-witness",
+  "officialLinks": [],
+  "referenceSources": [
     {
       "label": "Nimitz encounter overview and witness account",
       "url": "https://www.history.com/articles/uss-nimitz-2004-tic-tac-ufo-encounter",
-      "sourceType": "History"
+      "sourceType": "History",
+      "role": "primary_reference"
     }
-  ],
-  "profileBadge": "Firsthand Witness",
-  "profileBadgeClass": "badge-witness"
+  ]
 }

@@ -26,16 +26,19 @@
       "context": "Broader disclosure-policy context"
     }
   ],
-  "primarySourceLinks": [
+  "officialLinks": [],
+  "referenceSources": [
     {
       "label": "SALT New York 2024 agenda",
       "url": "https://www.salt.org/event-agendas/2024-new-york",
-      "sourceType": "SALT"
+      "sourceType": "SALT",
+      "role": "primary_reference"
     },
     {
       "label": "Karl Nell SALT speaker profile",
       "url": "https://www.salt.org/speakers/karl-nell",
-      "sourceType": "SALT"
+      "sourceType": "SALT",
+      "role": "primary_reference"
     }
   ]
 }

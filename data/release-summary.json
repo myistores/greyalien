@@ -1,7 +1,7 @@
 {
-  "version": "18.3",
-  "title": "WEAPONIZED Production Batch #3",
+  "version": "18.3.1",
+  "title": "Official Links and Reference Sources",
   "date": "2026-07-19",
-  "summary": "Added WEAPONIZED Episodes #53\u2013#57 through the established production ingestion workflow, expanding coverage of Kona Blue, Pantex and nuclear-site incursions, AARO and congressional oversight, crop-circle history, and the Colares UFO incidents. New supporting people, organizations, cases, and topics were connected automatically across the knowledge graph.",
-  "phase": "Knowledge production track \u2014 five-episode batch ingestion"
+  "summary": "Separated entity-owned official websites and social profiles from the podcasts, hearings, reports, books, and articles used as GreyAlien research references. Organization pages without a verified official presence now say so clearly instead of presenting a podcast episode as the organization website.",
+  "phase": "Architectural refinement \u2014 identity links and research provenance"
 }

@@ -28,6 +28,12 @@
       "target": "government-transparency"
     }
   ],
-  "externalUrl": "https://www.safeaerospace.org/news/asa-501-c-3-launc",
-  "externalLinkLabel": "Read the official launch announcement"
+  "officialLinks": [
+    {
+      "label": "Read the official launch announcement",
+      "url": "https://www.safeaerospace.org/news/asa-501-c-3-launc",
+      "linkType": "official_website"
+    }
+  ],
+  "referenceSources": []
 }

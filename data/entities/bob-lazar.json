@@ -31,18 +31,21 @@
   "profileSummary": "Public figure whose 1989 interviews alleging work at S-4 near Area 51 profoundly shaped modern UFO culture and reverse-engineering narratives.",
   "background": "Self-described former physicist and contractor associated with Los Alamos and a claimed facility near Area 51.",
   "inclusionNote": "Included because of his foundational influence on Area 51, S-4, Element 115, and reverse-engineering narratives. His educational and employment claims, evidence, and interpretations remain heavily disputed.",
-  "primarySourceLinks": [
+  "profileBadge": "Research Contributor",
+  "profileBadgeClass": "badge-researcher",
+  "officialLinks": [],
+  "referenceSources": [
     {
       "label": "Archived 1989 interview retrospective",
       "url": "https://www.youtube.com/watch?v=BoJmd2MIpOk",
-      "sourceType": "8 News Now"
+      "sourceType": "8 News Now",
+      "role": "primary_reference"
     },
     {
       "label": "Out There — George Knapp retrospective",
       "url": "https://knpr.org/magazine-desert-companion/2014-11-01/out-there",
-      "sourceType": "KNPR"
+      "sourceType": "KNPR",
+      "role": "primary_reference"
     }
-  ],
-  "profileBadge": "Research Contributor",
-  "profileBadgeClass": "badge-researcher"
+  ]
 }

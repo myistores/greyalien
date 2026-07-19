@@ -18,13 +18,15 @@
   "profileSummary": "Former military servicemember who publicly claimed involvement in recovery operations involving unusual objects.",
   "background": "Former U.S. Air Force servicemember and contractor, according to public interviews.",
   "inclusionNote": "Included because he has made named, on-the-record claims. The alleged retrieval activities remain unverified publicly.",
-  "primarySourceLinks": [
+  "profileBadge": "Whistleblower",
+  "profileBadgeClass": "badge-whistleblower",
+  "officialLinks": [],
+  "referenceSources": [
     {
       "label": "Public interview concerning alleged recovery operations",
       "url": "https://www.youtube.com/watch?v=O8tY9GDQc3E",
-      "sourceType": "NewsNation"
+      "sourceType": "NewsNation",
+      "role": "primary_reference"
     }
-  ],
-  "profileBadge": "Whistleblower",
-  "profileBadgeClass": "badge-whistleblower"
+  ]
 }

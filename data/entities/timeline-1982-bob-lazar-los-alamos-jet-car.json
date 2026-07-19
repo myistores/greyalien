@@ -26,11 +26,13 @@
       "context": "Public account of Lazar’s technical work"
     }
   ],
-  "primarySourceLinks": [
+  "officialLinks": [],
+  "referenceSources": [
     {
       "label": "Los Alamos Monitor jet-car article transcription",
       "url": "https://www.dreamlandresort.com/area51/lazar/jetcar.htm",
-      "sourceType": "Archived newspaper transcription"
+      "sourceType": "Archived newspaper transcription",
+      "role": "primary_reference"
     }
   ]
 }

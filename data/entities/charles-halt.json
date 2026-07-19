@@ -23,13 +23,15 @@
   "profileSummary": "Retired U.S. Air Force officer who investigated and documented part of the 1980 Rendlesham Forest incident.",
   "background": "Former deputy base commander at RAF Bentwaters.",
   "inclusionNote": "Included because he authored a contemporaneous official memorandum and recorded observations associated with the Rendlesham case.",
-  "primarySourceLinks": [
+  "profileBadge": "Firsthand Witness",
+  "profileBadgeClass": "badge-witness",
+  "officialLinks": [],
+  "referenceSources": [
     {
       "label": "UK National Archives UFO files and transcript",
       "url": "https://cdn.nationalarchives.gov.uk/documents/ufo-transcript-aug-09.pdf",
-      "sourceType": "UK National Archives"
+      "sourceType": "UK National Archives",
+      "role": "primary_reference"
     }
-  ],
-  "profileBadge": "Firsthand Witness",
-  "profileBadgeClass": "badge-witness"
+  ]
 }

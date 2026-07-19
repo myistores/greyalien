@@ -18,13 +18,15 @@
   "profileSummary": "Former U.S. Navy helicopter crew member connected to post-event activity during the 2004 Nimitz encounter.",
   "background": "Former U.S. Navy helicopter crew member.",
   "inclusionNote": "Included because of his named public account concerning post-event activity associated with the Nimitz case.",
-  "primarySourceLinks": [
+  "profileBadge": "Firsthand Witness",
+  "profileBadgeClass": "badge-witness",
+  "officialLinks": [],
+  "referenceSources": [
     {
       "label": "Nimitz witness investigation",
       "url": "https://www.popularmechanics.com/military/research/a63549222/navy-ufo-witnesses-nimitz-encounter/",
-      "sourceType": "Popular Mechanics"
+      "sourceType": "Popular Mechanics",
+      "role": "primary_reference"
     }
-  ],
-  "profileBadge": "Firsthand Witness",
-  "profileBadgeClass": "badge-witness"
+  ]
 }

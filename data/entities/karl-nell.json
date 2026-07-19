@@ -18,28 +18,33 @@
   "profileSummary": "Retired U.S. Army colonel, aerospace executive, and public advocate for greater government disclosure concerning UAP.",
   "background": "Retired U.S. Army colonel and aerospace executive.",
   "inclusionNote": "Included because of his former military and national-security background, public statements concerning UAP disclosure, and direct relevance to claims and people already represented in the knowledge graph.",
-  "primarySourceLinks": [
+  "profileBadge": "Military Contributor",
+  "profileBadgeClass": "badge-military",
+  "officialLinks": [],
+  "referenceSources": [
     {
       "label": "The UFO Enigma: A Call for U.S. Government Disclosure",
       "url": "https://thesolfoundation.org/publications/the-ufo-enigma-a-call-for-us-government-disclosure/",
-      "sourceType": "The Sol Foundation"
+      "sourceType": "The Sol Foundation",
+      "role": "primary_reference"
     },
     {
       "label": "SALT speaker profile",
       "url": "https://www.salt.org/speakers/karl-nell",
-      "sourceType": "SALT"
+      "sourceType": "SALT",
+      "role": "primary_reference"
     },
     {
       "label": "SALT New York 2024 agenda",
       "url": "https://www.salt.org/event-agendas/2024-new-york",
-      "sourceType": "SALT"
+      "sourceType": "SALT",
+      "role": "primary_reference"
     },
     {
       "label": "Sol Foundation inaugural symposium",
       "url": "https://thesolfoundation.org/events/the-inaugural-annual-conference-of-the-sol-foundation/",
-      "sourceType": "The Sol Foundation"
+      "sourceType": "The Sol Foundation",
+      "role": "primary_reference"
     }
-  ],
-  "profileBadge": "Military Contributor",
-  "profileBadgeClass": "badge-military"
+  ]
 }

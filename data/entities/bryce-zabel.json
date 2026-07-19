@@ -15,11 +15,13 @@
   "profileBadge": "Investigative Journalist",
   "profileBadgeClass": "badge-journalist",
   "inclusionNote": "Included because his Need to Know work and participation in WEAPONIZED Episode #28 connect podcast reporting to the July 26, 2023 congressional hearing.",
-  "primarySourceLinks": [
+  "officialLinks": [],
+  "referenceSources": [
     {
       "label": "Need to Know",
       "url": "https://NeedToKnow.today",
-      "sourceType": "Official podcast website"
+      "sourceType": "Official podcast website",
+      "role": "primary_reference"
     }
   ]
 }

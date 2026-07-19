@@ -14,8 +14,6 @@
     }
   ],
   "date": "2020-09-08",
-  "externalUrl": "https://www.youtube.com/watch?v=aB8zcAttP1E",
-  "externalLinkLabel": "Watch the full Lex Fridman interview",
   "mediaType": "Podcast interview",
   "mediaPlatform": "Lex Fridman Podcast",
   "mediaHost": "Lex Fridman",
@@ -41,5 +39,13 @@
     }
   ],
   "dateDisplay": "September 8, 2020",
-  "eventCategory": "Podcast interview"
+  "eventCategory": "Podcast interview",
+  "officialLinks": [
+    {
+      "label": "Watch the full Lex Fridman interview",
+      "url": "https://www.youtube.com/watch?v=aB8zcAttP1E",
+      "linkType": "official_website"
+    }
+  ],
+  "referenceSources": []
 }

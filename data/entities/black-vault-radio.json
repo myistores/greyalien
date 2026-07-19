@@ -8,11 +8,6 @@
   ],
   "launchYear": "2018",
   "status": "Active archive",
-  "externalUrl": "https://www.theblackvault.com/documentarchive/category/podcasts/",
-  "externalLinkLabel": "Visit official website",
-  "youtubeUrl": "https://www.youtube.com/playlist?list=PLE3oneoSnqvo0-IjaLOW9Hl6fwHdXysye",
-  "spotifyUrl": "https://open.spotify.com/show/1w1G5z9fSAWUCXRP0hc7zz",
-  "applePodcastsUrl": "https://podcasts.apple.com/us/podcast/the-black-vault-radio-w-john-greenewald-jr/id1407064117",
   "relationships": [
     {
       "type": "discussed_topic",
@@ -22,5 +17,28 @@
       "type": "discussed_topic",
       "target": "historical-ufo-research"
     }
-  ]
+  ],
+  "officialLinks": [
+    {
+      "label": "official website",
+      "url": "https://www.theblackvault.com/documentarchive/category/podcasts/",
+      "linkType": "official_website"
+    },
+    {
+      "label": "YouTube",
+      "url": "https://www.youtube.com/playlist?list=PLE3oneoSnqvo0-IjaLOW9Hl6fwHdXysye",
+      "linkType": "youtube"
+    },
+    {
+      "label": "Spotify",
+      "url": "https://open.spotify.com/show/1w1G5z9fSAWUCXRP0hc7zz",
+      "linkType": "spotify"
+    },
+    {
+      "label": "Apple Podcasts",
+      "url": "https://podcasts.apple.com/us/podcast/the-black-vault-radio-w-john-greenewald-jr/id1407064117",
+      "linkType": "apple_podcasts"
+    }
+  ],
+  "referenceSources": []
 }

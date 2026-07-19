@@ -18,13 +18,15 @@
   "profileSummary": "Former U.S. Navy weapons-systems officer who participated in the 2004 Nimitz interception.",
   "background": "Former U.S. Navy weapons-systems officer in the aircraft flown by Alex Dietrich.",
   "inclusionNote": "Included to represent the full aircrew involved in the visual interception and strengthen the firsthand witness record.",
-  "primarySourceLinks": [
+  "profileBadge": "Firsthand Witness",
+  "profileBadgeClass": "badge-witness",
+  "officialLinks": [],
+  "referenceSources": [
     {
       "label": "Account of the Navy aircrew encounter",
       "url": "https://www.space.com/39147-navy-pilots-ufo-sightings.html",
-      "sourceType": "Space.com"
+      "sourceType": "Space.com",
+      "role": "primary_reference"
     }
-  ],
-  "profileBadge": "Firsthand Witness",
-  "profileBadgeClass": "badge-witness"
+  ]
 }

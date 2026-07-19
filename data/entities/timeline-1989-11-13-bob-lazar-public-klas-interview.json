@@ -50,16 +50,19 @@
       "context": "Principal allegation presented"
     }
   ],
-  "primarySourceLinks": [
+  "officialLinks": [],
+  "referenceSources": [
     {
       "label": "8 News Now archival interview retrospective",
       "url": "https://www.youtube.com/watch?v=BoJmd2MIpOk",
-      "sourceType": "Official station archive"
+      "sourceType": "Official station archive",
+      "role": "primary_reference"
     },
     {
       "label": "Bob Lazar interview archive",
       "url": "https://www.papooselake.org/interview-transcripts",
-      "sourceType": "Interview archive"
+      "sourceType": "Interview archive",
+      "role": "primary_reference"
     }
   ]
 }

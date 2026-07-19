@@ -25,8 +25,14 @@
       "target": "nasa"
     }
   ],
-  "externalUrl": "https://science.nasa.gov/uap/",
-  "externalLinkLabel": "Visit official website",
   "organizationPurpose": "Evaluate available data, identify scientific methods and collection improvements, and recommend a roadmap for NASA's future UAP work.",
-  "formed": "2022"
+  "formed": "2022",
+  "officialLinks": [
+    {
+      "label": "official website",
+      "url": "https://science.nasa.gov/uap/",
+      "linkType": "official_website"
+    }
+  ],
+  "referenceSources": []
 }

@@ -34,8 +34,14 @@
     "Bob Lazar"
   ],
   "mediaSourceStatus": "Released documentary",
-  "externalUrl": "https://www.imdb.com/title/tt9107368/",
-  "externalLinkLabel": "View documentary record",
   "dateDisplay": "December 4, 2018",
-  "eventCategory": "Documentary release"
+  "eventCategory": "Documentary release",
+  "officialLinks": [
+    {
+      "label": "View documentary record",
+      "url": "https://www.imdb.com/title/tt9107368/",
+      "linkType": "official_website"
+    }
+  ],
+  "referenceSources": []
 }

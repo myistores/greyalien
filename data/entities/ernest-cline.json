@@ -12,12 +12,12 @@
       "context": "Featured guest"
     }
   ],
-  "sources": [
+  "officialLinks": [
     {
       "label": "Ernest Cline official website",
       "url": "https://www.ernestcline.com/",
-      "sourceType": "official_website",
-      "primary": true
+      "linkType": "official_website"
     }
-  ]
+  ],
+  "referenceSources": []
 }

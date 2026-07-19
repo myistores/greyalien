@@ -9,6 +9,12 @@
       "target": "government-transparency"
     }
   ],
-  "externalUrl": "https://intelligence.house.gov/",
-  "externalLinkLabel": "Visit official or authoritative website"
+  "officialLinks": [
+    {
+      "label": "official or authoritative website",
+      "url": "https://intelligence.house.gov/",
+      "linkType": "official_website"
+    }
+  ],
+  "referenceSources": []
 }

@@ -26,8 +26,6 @@
       "platform": "YouTube archive"
     }
   ],
-  "externalUrl": "https://www.youtube.com/watch?v=UdEVUum8Nag",
-  "externalLinkLabel": "Watch the archived interview",
   "mediaType": "Witness interview",
   "mediaPlatform": "Archived video",
   "mediaHost": "Disclosure-era interviewer",
@@ -35,5 +33,13 @@
     "Jonathan Weygandt"
   ],
   "mediaSourceStatus": "Public archive; original official upload is not currently available",
-  "dateDisplay": "2001"
+  "dateDisplay": "2001",
+  "officialLinks": [
+    {
+      "label": "Watch the archived interview",
+      "url": "https://www.youtube.com/watch?v=UdEVUum8Nag",
+      "linkType": "official_website"
+    }
+  ],
+  "referenceSources": []
 }

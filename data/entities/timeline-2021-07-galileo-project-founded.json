@@ -32,11 +32,13 @@
       "context": "Development of observational systems and data collection"
     }
   ],
-  "primarySourceLinks": [
+  "officialLinks": [],
+  "referenceSources": [
     {
       "label": "Galileo Project organization overview",
       "url": "https://galileo.hsites.harvard.edu/organization",
-      "sourceType": "The Galileo Project, Harvard University"
+      "sourceType": "The Galileo Project, Harvard University",
+      "role": "primary_reference"
     }
   ]
 }

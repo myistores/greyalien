@@ -28,13 +28,15 @@
   "profileSummary": "Retired NASA astronaut and former U.S. Navy aviator who served on NASA's UAP Independent Study Team.",
   "background": "Retired NASA astronaut, engineer, and former U.S. Navy captain and test pilot.",
   "inclusionNote": "Included because NASA formally appointed him to the UAP Independent Study Team, adding operational aviation and astronaut experience to the panel.",
-  "primarySourceLinks": [
+  "profileBadge": "Scientist / Researcher",
+  "profileBadgeClass": "badge-scientist",
+  "officialLinks": [],
+  "referenceSources": [
     {
       "label": "NASA announces UAP study-team members",
       "url": "https://www.nasa.gov/general/nasa-announces-unidentified-aerial-phenomena-study-team-members/",
-      "sourceType": "NASA"
+      "sourceType": "NASA",
+      "role": "primary_reference"
     }
-  ],
-  "profileBadge": "Scientist / Researcher",
-  "profileBadgeClass": "badge-scientist"
+  ]
 }

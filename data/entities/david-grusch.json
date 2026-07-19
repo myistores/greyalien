@@ -39,18 +39,21 @@
   "profileSummary": "Former U.S. intelligence officer whose public testimony and written statement raised allegations concerning hidden UAP programs and congressional oversight.",
   "background": "Former U.S. intelligence officer and former representative to the UAP Task Force.",
   "inclusionNote": "Included because of public congressional testimony, written testimony, public interviews, and documented whistleblower-related reporting.",
-  "primarySourceLinks": [
+  "profileBadge": "Whistleblower",
+  "profileBadgeClass": "badge-whistleblower",
+  "officialLinks": [],
+  "referenceSources": [
     {
       "label": "Official written opening statement",
       "url": "https://oversight.house.gov/wp-content/uploads/2023/07/Dave_G_HOC_Speech_FINAL_For_Trans.pdf",
-      "sourceType": "House Committee on Oversight and Accountability"
+      "sourceType": "House Committee on Oversight and Accountability",
+      "role": "primary_reference"
     },
     {
       "label": "Official July 2023 hearing page",
       "url": "https://oversight.house.gov/hearing/unidentified-anomalous-phenomena-implications-on-national-security-public-safety-and-government-transparency/",
-      "sourceType": "House Committee on Oversight and Accountability"
+      "sourceType": "House Committee on Oversight and Accountability",
+      "role": "primary_reference"
     }
-  ],
-  "profileBadge": "Whistleblower",
-  "profileBadgeClass": "badge-whistleblower"
+  ]
 }

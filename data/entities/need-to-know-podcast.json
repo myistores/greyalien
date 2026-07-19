@@ -9,15 +9,33 @@
   ],
   "launchYear": "2021",
   "status": "Active",
-  "externalUrl": "https://www.youtube.com/channel/UCgslF1kPo4Kmv4Xrg8EyYmQ",
-  "externalLinkLabel": "Visit official website",
-  "youtubeUrl": "https://www.youtube.com/playlist?list=PLXdU8QbJkboeMcvUNyGpb9h6FUS9cVBti",
-  "spotifyUrl": "https://open.spotify.com/show/24xucCwPjcXENqwUgtKZaY",
-  "applePodcastsUrl": "https://podcasts.apple.com/us/podcast/need-to-know/id1600409359",
   "relationships": [
     {
       "type": "discussed_topic",
       "target": "government-transparency"
     }
-  ]
+  ],
+  "officialLinks": [
+    {
+      "label": "official website",
+      "url": "https://www.youtube.com/channel/UCgslF1kPo4Kmv4Xrg8EyYmQ",
+      "linkType": "official_website"
+    },
+    {
+      "label": "YouTube",
+      "url": "https://www.youtube.com/playlist?list=PLXdU8QbJkboeMcvUNyGpb9h6FUS9cVBti",
+      "linkType": "youtube"
+    },
+    {
+      "label": "Spotify",
+      "url": "https://open.spotify.com/show/24xucCwPjcXENqwUgtKZaY",
+      "linkType": "spotify"
+    },
+    {
+      "label": "Apple Podcasts",
+      "url": "https://podcasts.apple.com/us/podcast/need-to-know/id1600409359",
+      "linkType": "apple_podcasts"
+    }
+  ],
+  "referenceSources": []
 }

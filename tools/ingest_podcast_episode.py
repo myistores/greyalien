@@ -5,7 +5,7 @@ import json, shutil, subprocess, sys, tempfile
 ROOT=Path(__file__).resolve().parents[1]
 if len(sys.argv)!=2: raise SystemExit('Usage: python tools/ingest_podcast_episode.py path/to/episode.json')
 src=Path(sys.argv[1]).resolve(); data=json.loads(src.read_text(encoding='utf-8'))
-required=('id','type','name','summary','date','seriesId','episodeNumber','relationships','sources')
+required=('id','type','name','summary','date','seriesId','episodeNumber','relationships','referenceSources')
 missing=[k for k in required if data.get(k) in (None,'',[])]
 if missing: raise SystemExit('Missing required podcast fields: '+', '.join(missing))
 if data['type']!='podcast_episode': raise SystemExit('type must be podcast_episode')

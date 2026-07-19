@@ -14,12 +14,13 @@ def files_for(path):
 
 def validate(e, existing_ids, batch_ids):
     errors=[]; warnings=[]; eid=e.get('id','<missing-id>')
-    for k in ('id','type','name','summary','relationships','sources'):
+    for k in ('id','type','name','summary','relationships','referenceSources'):
         if k not in e or e[k] in ('',None): errors.append(f'{eid}: missing required field {k}')
     if e.get('id') and not ID_RE.match(e['id']): errors.append(f'{eid}: id must use lowercase kebab-case')
     if e.get('type') not in KNOWN_TYPES: errors.append(f'{eid}: unsupported entity type {e.get("type")}')
     if not isinstance(e.get('relationships',[]),list): errors.append(f'{eid}: relationships must be an array')
-    if not isinstance(e.get('sources',[]),list): errors.append(f'{eid}: sources must be an array')
+    if not isinstance(e.get('officialLinks',[]),list): errors.append(f'{eid}: officialLinks must be an array')
+    if not isinstance(e.get('referenceSources',[]),list): errors.append(f'{eid}: referenceSources must be an array')
     if e.get('date'):
         try: datetime.strptime(e['date'],'%Y-%m-%d')
         except Exception: errors.append(f'{eid}: date must use YYYY-MM-DD')
@@ -32,14 +33,12 @@ def validate(e, existing_ids, batch_ids):
         seen.add(key)
         if r['target'] not in existing_ids and r['target'] not in batch_ids:
             warnings.append(f'{eid}: unresolved relationship target {r["target"]}')
-    primary=0
-    for i,s in enumerate(e.get('sources',[]) if isinstance(e.get('sources',[]),list) else []):
-        if not isinstance(s,dict) or not s.get('label') or not s.get('url'):
-            errors.append(f'{eid}: source {i+1} requires label and url'); continue
-        u=urlparse(s['url'])
-        if u.scheme not in ('http','https') or not u.netloc: errors.append(f'{eid}: invalid source URL {s["url"]}')
-        if s.get('primary'): primary+=1
-    if e.get('sources') and primary==0: warnings.append(f'{eid}: no source marked primary')
+    for field,type_field in (("officialLinks","linkType"),("referenceSources","sourceType")):
+        for i,item in enumerate(e.get(field,[]) if isinstance(e.get(field,[]),list) else []):
+            if not isinstance(item,dict) or not item.get('label') or not item.get('url') or not item.get(type_field):
+                errors.append(f'{eid}: {field} item {i+1} requires label, url, and {type_field}'); continue
+            u=urlparse(item['url'])
+            if u.scheme not in ('http','https') or not u.netloc: errors.append(f'{eid}: invalid URL {item["url"]}')
     if e.get('type')=='podcast_episode':
         for k in ('date','seriesId','episodeNumber','episodeTitle'):
             if e.get(k) in ('',None): errors.append(f'{eid}: podcast episode missing {k}')

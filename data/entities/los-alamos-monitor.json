@@ -4,6 +4,12 @@
   "name": "Los Alamos Monitor",
   "summary": "New Mexico newspaper that published a June 27, 1982 feature about Bob Lazar’s jet-powered Honda and described him as a physicist at the Los Alamos Meson Physics Facility.",
   "relationships": [],
-  "externalUrl": "https://www.dreamlandresort.com/area51/lazar/jetcar.htm",
-  "externalLinkLabel": "Read archived article transcription"
+  "officialLinks": [
+    {
+      "label": "Read archived article transcription",
+      "url": "https://www.dreamlandresort.com/area51/lazar/jetcar.htm",
+      "linkType": "official_website"
+    }
+  ],
+  "referenceSources": []
 }

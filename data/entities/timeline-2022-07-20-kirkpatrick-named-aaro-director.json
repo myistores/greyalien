@@ -26,11 +26,13 @@
       "context": "Announced AARO and its first director"
     }
   ],
-  "primarySourceLinks": [
+  "officialLinks": [],
+  "referenceSources": [
     {
       "label": "DoD announcement establishing AARO",
       "url": "https://www.defense.gov/News/Releases/Release/Article/3100053/dod-announces-the-establishment-of-the-all-domain-anomaly-resolution-office/",
-      "sourceType": "U.S. Department of Defense"
+      "sourceType": "U.S. Department of Defense",
+      "role": "primary_reference"
     }
   ]
 }

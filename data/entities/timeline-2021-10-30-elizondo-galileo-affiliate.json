@@ -32,11 +32,13 @@
       "context": "Instrument-based UAP research"
     }
   ],
-  "primarySourceLinks": [
+  "officialLinks": [],
+  "referenceSources": [
     {
       "label": "Galileo Project affiliate announcement",
       "url": "https://galileo.hsites.harvard.edu/news/galileo-project-welcomes-christopher-mellon-and-luis-elizondo-research-affiliates",
-      "sourceType": "The Galileo Project, Harvard University"
+      "sourceType": "The Galileo Project, Harvard University",
+      "role": "primary_reference"
     }
   ]
 }

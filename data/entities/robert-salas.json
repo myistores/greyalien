@@ -23,13 +23,15 @@
   "profileSummary": "Former U.S. Air Force missile officer who has associated a 1967 missile shutdown with a reported UFO event.",
   "background": "Former U.S. Air Force missile launch officer.",
   "inclusionNote": "Included because the missile shutdown is documented and Salas has provided named public testimony. The asserted UFO connection remains disputed.",
-  "primarySourceLinks": [
+  "profileBadge": "Firsthand Witness",
+  "profileBadgeClass": "badge-witness",
+  "officialLinks": [],
+  "referenceSources": [
     {
       "label": "Background on the Malmstrom incident",
       "url": "https://en.wikipedia.org/wiki/Malmstrom_UFO_incident",
-      "sourceType": "Reference overview"
+      "sourceType": "Reference overview",
+      "role": "primary_reference"
     }
-  ],
-  "profileBadge": "Firsthand Witness",
-  "profileBadgeClass": "badge-witness"
+  ]
 }

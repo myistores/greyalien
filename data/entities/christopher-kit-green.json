@@ -16,16 +16,19 @@
   "profileBadgeClass": "badge-government",
   "background": "Physician, forensic scientist, and former CIA biomedical-intelligence officer.",
   "inclusionNote": "Included because his documented intelligence and medical background connect government research, witness-health reports, anomalous effects, and scientific investigation.",
-  "primarySourceLinks": [
+  "officialLinks": [],
+  "referenceSources": [
     {
       "label": "Clinical paper on reported field effects",
       "url": "https://pubmed.ncbi.nlm.nih.gov/35635526/",
-      "sourceType": "PubMed"
+      "sourceType": "PubMed",
+      "role": "primary_reference"
     },
     {
       "label": "DIA electronic reading room document",
       "url": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170026/",
-      "sourceType": "Defense Intelligence Agency"
+      "sourceType": "Defense Intelligence Agency",
+      "role": "primary_reference"
     }
   ]
 }

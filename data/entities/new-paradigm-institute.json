@@ -13,8 +13,14 @@
       "target": "whistleblower-protection"
     }
   ],
-  "externalUrl": "https://newparadigminstitute.org/",
-  "externalLinkLabel": "Visit official website",
   "organizationPurpose": "Advance lawful disclosure, protect witnesses and whistleblowers, and promote public access to government UAP information.",
-  "formed": "2023"
+  "formed": "2023",
+  "officialLinks": [
+    {
+      "label": "official website",
+      "url": "https://newparadigminstitute.org/",
+      "linkType": "official_website"
+    }
+  ],
+  "referenceSources": []
 }

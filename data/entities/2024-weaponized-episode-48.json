@@ -54,22 +54,6 @@
       "target": "scientific-investigation"
     }
   ],
-  "sources": [
-    {
-      "label": "Official WEAPONIZED Episode #48 page",
-      "url": "https://www.weaponizedpodcast.com/episodes-2/episode-48",
-      "sourceType": "official_episode_page",
-      "primary": true
-    },
-    {
-      "label": "Listen to WEAPONIZED",
-      "url": "https://link.chtbl.com/Weaponized",
-      "sourceType": "official_audio_feed",
-      "primary": false
-    }
-  ],
-  "externalUrl": "https://www.weaponizedpodcast.com/episodes-2/episode-48",
-  "externalLinkLabel": "Open official Episode #48 page",
   "mediaLinks": [
     {
       "label": "Open the official Episode #48 page",
@@ -82,5 +66,20 @@
       "platform": "Official audio feed"
     }
   ],
-  "eventCategory": "Podcast publication"
+  "eventCategory": "Podcast publication",
+  "officialLinks": [],
+  "referenceSources": [
+    {
+      "label": "Official WEAPONIZED Episode #48 page",
+      "url": "https://www.weaponizedpodcast.com/episodes-2/episode-48",
+      "sourceType": "official_episode_page",
+      "role": "source"
+    },
+    {
+      "label": "Listen to WEAPONIZED",
+      "url": "https://link.chtbl.com/Weaponized",
+      "sourceType": "official_audio_feed",
+      "role": "source"
+    }
+  ]
 }

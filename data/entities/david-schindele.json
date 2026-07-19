@@ -25,16 +25,19 @@
   "profileBadgeClass": "badge-witness",
   "background": "Former Minuteman missile launch-control officer.",
   "inclusionNote": "Included because he provides a named military account connecting UFO reports, nuclear command systems, missile shutdowns, and government secrecy.",
-  "primarySourceLinks": [
+  "officialLinks": [],
+  "referenceSources": [
     {
       "label": "Former missile officer describes UFO incident",
       "url": "https://www.minotdailynews.com/news/local-news/2023/06/former-missile-officer-ufo-whistleblower-demonstrates-tremendous-courage/",
-      "sourceType": "Minot Daily News"
+      "sourceType": "Minot Daily News",
+      "role": "primary_reference"
     },
     {
       "label": "It Never Happened, Volume 1",
       "url": "https://www.amazon.com/It-Never-Happened-UFOs-Installations/dp/1981187276",
-      "sourceType": "Published memoir"
+      "sourceType": "Published memoir",
+      "role": "primary_reference"
     }
   ]
 }

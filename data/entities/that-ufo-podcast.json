@@ -8,15 +8,28 @@
   ],
   "launchYear": "2020",
   "status": "Active",
-  "externalUrl": "https://www.youtube.com/@ThatUFOPodcast",
-  "externalLinkLabel": "Visit official website",
-  "youtubeUrl": "https://www.youtube.com/@ThatUFOPodcast",
-  "spotifyUrl": "https://open.spotify.com/show/1ZKd55G0F5RgvOafSZcOYv",
-  "applePodcastsUrl": "https://podcasts.apple.com/us/podcast/that-ufo-podcast/id1511121397",
   "relationships": [
     {
       "type": "discussed_topic",
       "target": "government-transparency"
     }
-  ]
+  ],
+  "officialLinks": [
+    {
+      "label": "official website",
+      "url": "https://www.youtube.com/@ThatUFOPodcast",
+      "linkType": "official_website"
+    },
+    {
+      "label": "Spotify",
+      "url": "https://open.spotify.com/show/1ZKd55G0F5RgvOafSZcOYv",
+      "linkType": "spotify"
+    },
+    {
+      "label": "Apple Podcasts",
+      "url": "https://podcasts.apple.com/us/podcast/that-ufo-podcast/id1511121397",
+      "linkType": "apple_podcasts"
+    }
+  ],
+  "referenceSources": []
 }

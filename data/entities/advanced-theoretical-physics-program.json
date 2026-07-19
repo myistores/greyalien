@@ -14,12 +14,13 @@
       "target": "historical-ufo-research"
     }
   ],
-  "sources": [
+  "officialLinks": [],
+  "referenceSources": [
     {
       "label": "Official WEAPONIZED Episode #45 page",
       "url": "https://www.weaponizedpodcast.com/episodes-2/episode-45",
       "sourceType": "official_episode_page",
-      "primary": true
+      "role": "source"
     }
   ]
 }

@@ -74,11 +74,13 @@
       "context": "Documentary-production claim discussed"
     }
   ],
-  "primarySourceLinks": [
+  "officialLinks": [],
+  "referenceSources": [
     {
       "label": "Official WEAPONIZED Episode #115 page",
       "url": "https://www.weaponizedpodcast.com/episodes-4/episode-115",
-      "sourceType": "Official episode page"
+      "sourceType": "Official episode page",
+      "role": "primary_reference"
     }
   ]
 }

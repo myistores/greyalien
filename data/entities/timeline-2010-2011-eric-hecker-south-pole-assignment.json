@@ -27,11 +27,13 @@
       "context": "Assignment forms the setting for the later South Pole technology claims"
     }
   ],
-  "primarySourceLinks": [
+  "officialLinks": [],
+  "referenceSources": [
     {
       "label": "Eric Hecker biography and South Pole account",
       "url": "https://deciphering.tv/",
-      "sourceType": "Official personal website"
+      "sourceType": "Official personal website",
+      "role": "primary_reference"
     }
   ]
 }

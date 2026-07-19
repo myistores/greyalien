@@ -44,11 +44,13 @@
       "context": "Director of Global Security and Special Programs at launch"
     }
   ],
-  "primarySourceLinks": [
+  "officialLinks": [],
+  "referenceSources": [
     {
       "label": "To The Stars Academy launches publicly",
       "url": "https://www.prnewswire.com/news-releases/to-the-stars-academy-of-arts--science-launches-today-300534912.html",
-      "sourceType": "To The Stars Academy / PR Newswire"
+      "sourceType": "To The Stars Academy / PR Newswire",
+      "role": "primary_reference"
     }
   ]
 }

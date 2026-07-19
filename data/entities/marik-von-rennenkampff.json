@@ -16,12 +16,13 @@
   "profileBadge": "Podcast guest",
   "profileBadgeClass": "badge-journalist",
   "inclusionNote": "Included through WEAPONIZED Episode #55.",
-  "sources": [
+  "officialLinks": [],
+  "referenceSources": [
     {
       "label": "Official WEAPONIZED Episode #55 page",
       "url": "https://www.weaponizedpodcast.com/episodes-2/episode-55",
       "sourceType": "official_episode_page",
-      "primary": true
+      "role": "source"
     }
   ]
 }

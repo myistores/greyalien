@@ -18,8 +18,14 @@
       "role": "National Security Affairs Advisor"
     }
   ],
-  "externalUrl": "https://tothestars.media/",
-  "externalLinkLabel": "Visit official website",
   "organizationPurpose": "Support research, public communication, and media concerning UAP, advanced aerospace science, and government transparency.",
-  "formed": "2017"
+  "formed": "2017",
+  "officialLinks": [
+    {
+      "label": "official website",
+      "url": "https://tothestars.media/",
+      "linkType": "official_website"
+    }
+  ],
+  "referenceSources": []
 }

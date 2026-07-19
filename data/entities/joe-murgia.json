@@ -20,30 +20,19 @@
   "profileBadge": "Journalist",
   "profileBadgeClass": "badge-journalist",
   "inclusionNote": "Included as the guest featured in WEAPONIZED Episode #42.",
-  "sources": [
+  "officialLinks": [],
+  "referenceSources": [
     {
       "label": "Official WEAPONIZED Episode #42 page",
       "url": "https://www.weaponizedpodcast.com/episodes-2/episode-42",
       "sourceType": "official_episode_page",
-      "primary": true
+      "role": "source"
     },
     {
       "label": "Joe Murgia on X",
       "url": "https://x.com/TheUfoJoe",
       "sourceType": "official_social_profile",
-      "primary": false
-    }
-  ],
-  "primarySourceLinks": [
-    {
-      "label": "Official WEAPONIZED Episode #42 page",
-      "url": "https://www.weaponizedpodcast.com/episodes-2/episode-42",
-      "sourceType": "WEAPONIZED"
-    },
-    {
-      "label": "Joe Murgia on X",
-      "url": "https://x.com/TheUfoJoe",
-      "sourceType": "Official social profile"
+      "role": "source"
     }
   ]
 }

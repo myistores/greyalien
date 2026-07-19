@@ -26,11 +26,13 @@
       "context": "Expanded formal UAP reporting channels"
     }
   ],
-  "primarySourceLinks": [
+  "officialLinks": [],
+  "referenceSources": [
     {
       "label": "DoD announcement of AARO reporting tool",
       "url": "https://www.defense.gov/News/News-Stories/Article/Article/3575511/dod-unidentified-anomalous-phenomena-office-launches-new-reporting-tool/",
-      "sourceType": "U.S. Department of Defense"
+      "sourceType": "U.S. Department of Defense",
+      "role": "primary_reference"
     }
   ]
 }

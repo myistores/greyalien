@@ -21,26 +21,31 @@
   "profileBadgeClass": "badge-scientist",
   "background": "Rachford and Carlota A. Harris Professor in Stanford University's Department of Pathology.",
   "inclusionNote": "Included because of his academic credentials, scientific research, Sol Foundation leadership, and involvement in evidence-focused UAP discussion.",
-  "primarySourceLinks": [
+  "officialLinks": [],
+  "referenceSources": [
     {
       "label": "Stanford Medicine profile",
       "url": "https://med.stanford.edu/profiles/garry-nolan",
-      "sourceType": "Stanford University"
+      "sourceType": "Stanford University",
+      "role": "primary_reference"
     },
     {
       "label": "The Sol Foundation",
       "url": "https://thesolfoundation.org/",
-      "sourceType": "The Sol Foundation"
+      "sourceType": "The Sol Foundation",
+      "role": "primary_reference"
     },
     {
-      "label": "Garry Nolan \u2014 Galileo Project",
+      "label": "Garry Nolan — Galileo Project",
       "url": "https://galileo.hsites.harvard.edu/people/garry-nolan",
-      "sourceType": "The Galileo Project"
+      "sourceType": "The Galileo Project",
+      "role": "primary_reference"
     },
     {
       "label": "Sol Foundation inaugural symposium",
       "url": "https://thesolfoundation.org/events/the-inaugural-annual-conference-of-the-sol-foundation/",
-      "sourceType": "The Sol Foundation"
+      "sourceType": "The Sol Foundation",
+      "role": "primary_reference"
     }
   ]
 }

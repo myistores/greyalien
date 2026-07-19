@@ -16,16 +16,19 @@
   "profileBadgeClass": "badge-journalist",
   "background": "Journalist and author of UFOs: Generals, Pilots, and Government Officials Go on the Record.",
   "inclusionNote": "Included because her reporting—especially the 2017 New York Times investigation and later reporting on David Grusch—helped shape modern public and congressional awareness.",
-  "primarySourceLinks": [
+  "officialLinks": [],
+  "referenceSources": [
     {
       "label": "The New York Times: Glowing Auras and Black Money",
       "url": "https://www.nytimes.com/2017/12/16/us/politics/pentagon-program-ufo-harry-reid.html",
-      "sourceType": "The New York Times"
+      "sourceType": "The New York Times",
+      "role": "primary_reference"
     },
     {
       "label": "Profile of Leslie Kean's UAP reporting",
       "url": "https://www.theguardian.com/world/2021/jun/14/leslie-kean-ufo-reporter-us-government-report",
-      "sourceType": "The Guardian"
+      "sourceType": "The Guardian",
+      "role": "primary_reference"
     }
   ]
 }
