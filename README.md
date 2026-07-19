@@ -42,3 +42,13 @@ Suggested commit:
 
 Those values can be added centrally in:
 `assets/js/site-config.js`
+
+## V17.3 automation
+
+Run the complete deployable build and validation process with:
+
+```bash
+python tools/automate_site.py
+```
+
+See `PHASE4_AUTOMATION.md` for the generated assets and testing workflow.

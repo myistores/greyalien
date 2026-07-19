@@ -4,7 +4,7 @@ from pathlib import Path
 from datetime import datetime, timezone
 import argparse, json, shutil, subprocess, sys, tempfile
 ROOT=Path(__file__).resolve().parents[1]; ENT=ROOT/'data/entities'; REPORTS=ROOT/'data/imports/reports'
-BUILD=('build_graph.py','build_podcasts.py','build_entity_pages.py','build_sitemap.py','validate_graph.py','validate_podcasts.py')
+BUILD=('build_graph.py','build_podcasts.py','build_related_content.py','build_entity_pages.py','build_homepage.py','build_sitemap.py','validate_graph.py','validate_podcasts.py','build_deployment_report.py')
 
 def run(script,*args,cwd=ROOT):
     return subprocess.run([sys.executable,str(ROOT/'tools'/script),*map(str,args)],cwd=cwd,text=True,capture_output=True)
@@ -43,7 +43,7 @@ def main():
             live=ENT/f'{eid}.json'
             if live.exists(): shutil.copy2(live,backup/live.name)
             shutil.copy2(stage/'data/entities'/f'{eid}.json',live)
-        for rel in ('data/entity-index.json','data/graph-manifest.json','data/podcasts','entities/generated','sitemap.xml'):
+        for rel in ('data/entity-index.json','data/graph-manifest.json','data/podcasts','data/related-content.json','data/automation','entities/generated','index.html','sitemap.xml'):
             source=stage/rel; target=ROOT/rel
             if target.exists():
                 if target.is_dir(): shutil.rmtree(target)

@@ -1,34 +1,27 @@
-GreyAlien V17.2 — Phase 3 Import System
+GreyAlien V17.3 — Phase 4 Automation
 
-DEPLOYMENT
-Upload and replace the complete package at the repository root.
+NEW
+- PHASE4_AUTOMATION.md
+- tools/automate_site.py
+- tools/build_related_content.py
+- tools/build_homepage.py
+- tools/build_deployment_report.py
+- assets/js/automation-enhancements.js
+- data/related-content.json
+- data/automation/last-run.json
+- data/automation/reports/latest.json
+- data/automation/reports/latest.md
 
-PRIMARY NEW FILES
-- PHASE3_IMPORT_SYSTEM.md
-- tools/validate_import_record.py
+UPDATED
 - tools/import_batch.py
-- tools/build_entity_pages.py
-- data/imports/README.md
-- data/imports/import-manifest.example.json
-- entities/generated/*.html (272 generated stable entity entry pages)
-
-UPDATED GENERATED/CORE FILES
+- entities/entity.html
+- data/release-summary.json
+- index.html
+- sitemap.xml
 - data/entity-index.json
 - data/graph-manifest.json
-- data/podcasts/*.json
-- data/release-summary.json
-- sitemap.xml
-- index.html
+- data/podcasts/*
+- entities/generated/*
 - README.md
+- README_DEPLOY.txt
 - CHANGELOG.md
-
-VALIDATION
-- 272 entities
-- 816 declared relationships
-- 801 resolved relationships
-- 15 retained legacy unresolved-target warnings
-- 8 podcast series
-- 6 researched podcast episodes
-- 272 generated entity pages
-- 283 sitemap URLs
-- 0 blocking errors

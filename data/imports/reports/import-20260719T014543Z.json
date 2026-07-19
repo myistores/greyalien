@@ -1,0 +1,66 @@
+{
+  "startedAt": "2026-07-19T01:45:43.650480+00:00",
+  "source": "/tmp/tmp.Fz8XmPmToL",
+  "dryRun": true,
+  "replace": true,
+  "files": [
+    "2023-weaponized-episode-21.json"
+  ],
+  "status": "dry_run_passed",
+  "steps": [
+    {
+      "name": "validate_records",
+      "returnCode": 0,
+      "output": "Validated 1 import record(s): 0 error(s), 0 warning(s).\n"
+    },
+    {
+      "name": "build_graph.py",
+      "returnCode": 0,
+      "output": "Built index for 272 entities and 801 resolved relationships.\n"
+    },
+    {
+      "name": "build_podcasts.py",
+      "returnCode": 0,
+      "output": "Built 8 podcast series and 6 episode records.\n"
+    },
+    {
+      "name": "build_related_content.py",
+      "returnCode": 0,
+      "output": "Built related-content data for 272 entities and 6 podcast episodes.\n"
+    },
+    {
+      "name": "build_entity_pages.py",
+      "returnCode": 0,
+      "output": "Generated 272 stable entity pages.\n"
+    },
+    {
+      "name": "build_homepage.py",
+      "returnCode": 0,
+      "output": "Updated homepage Latest Additions for GreyAlien Version 17.3.\n"
+    },
+    {
+      "name": "build_sitemap.py",
+      "returnCode": 0,
+      "output": "Built sitemap with 283 URLs.\n"
+    },
+    {
+      "name": "validate_graph.py",
+      "returnCode": 0,
+      "output": "Checked 272 entities and 816 declared relationships.\nWarnings: 15 unresolved legacy relationship targets remain.\nVALIDATION PASSED\n"
+    },
+    {
+      "name": "validate_podcasts.py",
+      "returnCode": 0,
+      "output": "Checked 8 series and 6 episodes.\nPODCAST VALIDATION PASSED\n"
+    },
+    {
+      "name": "build_deployment_report.py",
+      "returnCode": 0,
+      "output": "Created deployment report: data/automation/reports/latest.md\n"
+    }
+  ],
+  "importedIds": [
+    "2023-weaponized-episode-21"
+  ],
+  "finishedAt": "2026-07-19T01:45:58.092331+00:00"
+}

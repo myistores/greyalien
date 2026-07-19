@@ -1,0 +1,52 @@
+{
+  "startedAt": "2026-07-19T01:45:13.734162+00:00",
+  "finishedAt": "2026-07-19T01:45:25.663090+00:00",
+  "status": "passed",
+  "steps": [
+    {
+      "step": "build_graph.py",
+      "returnCode": 0,
+      "output": "Built index for 272 entities and 801 resolved relationships."
+    },
+    {
+      "step": "build_podcasts.py",
+      "returnCode": 0,
+      "output": "Built 8 podcast series and 6 episode records."
+    },
+    {
+      "step": "build_related_content.py",
+      "returnCode": 0,
+      "output": "Built related-content data for 272 entities and 6 podcast episodes."
+    },
+    {
+      "step": "build_entity_pages.py",
+      "returnCode": 0,
+      "output": "Generated 272 stable entity pages."
+    },
+    {
+      "step": "build_homepage.py",
+      "returnCode": 0,
+      "output": "Updated homepage Latest Additions for GreyAlien Version 17.3."
+    },
+    {
+      "step": "build_sitemap.py",
+      "returnCode": 0,
+      "output": "Built sitemap with 283 URLs."
+    },
+    {
+      "step": "validate_graph.py",
+      "returnCode": 0,
+      "output": "Checked 272 entities and 816 declared relationships.\nWarnings: 15 unresolved legacy relationship targets remain.\nVALIDATION PASSED"
+    },
+    {
+      "step": "validate_podcasts.py",
+      "returnCode": 0,
+      "output": "Checked 8 series and 6 episodes.\nPODCAST VALIDATION PASSED"
+    },
+    {
+      "step": "build_deployment_report.py",
+      "returnCode": 0,
+      "output": "Created deployment report: data/automation/reports/latest.md"
+    }
+  ]
+}

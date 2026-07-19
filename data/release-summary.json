@@ -1,7 +1,7 @@
 {
-  "version": "17.2",
-  "title": "Import System",
+  "version": "17.3",
+  "title": "Phase 4 Automation",
   "date": "2026-07-18",
-  "summary": "Added transactional single-record and bulk imports, preflight validation, dry-run testing, conflict protection, import reports, generated entity pages, and automatic rebuilding of all graph and podcast assets.",
-  "phase": 3
+  "summary": "Added a one-command automation pipeline that rebuilds the knowledge graph, podcast indexes, connection totals, related-episode recommendations, Referenced In data, generated entity pages, homepage Latest Additions, sitemap assets, validators, and a deployment-ready report. Imports now use the same authoritative build sequence.",
+  "phase": 4
 }

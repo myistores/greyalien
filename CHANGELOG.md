@@ -222,3 +222,11 @@
 * Removed remaining numbered version wording from the witness database data title.
 * 
 
+
+## V17.3 — Phase 4 Automation
+- Added `tools/automate_site.py` as the authoritative one-command build pipeline.
+- Added automated Referenced In and related-podcast-episode generation.
+- Added automated homepage Latest Additions updates from structured release data.
+- Added machine-readable and Markdown deployment reports.
+- Updated transactional imports to use the same build sequence.
+- Added progressive entity-page rendering for Related Episodes and Referenced In sections.
