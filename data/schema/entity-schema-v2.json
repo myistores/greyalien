@@ -1,0 +1,33 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://greyalien.com/data/schema/entity-schema-v2.json",
+  "title": "GreyAlien Universal Entity Schema",
+  "type": "object",
+  "required": ["id", "type", "name", "summary", "relationships"],
+  "properties": {
+    "id": {"type":"string","pattern":"^[a-z0-9]+(?:-[a-z0-9]+)*$"},
+    "type": {"enum":["person","hearing","organization","document","topic","case","interview","podcast_episode","legislation","timeline_event","publication","claim","podcast_series"]},
+    "name": {"type":"string","minLength":1},
+    "summary": {"type":"string","minLength":1},
+    "date": {"type":"string"},
+    "dateDisplay": {"type":"string"},
+    "status": {"type":"string"},
+    "externalUrl": {"type":"string"},
+    "relationships": {"type":"array","items":{"$ref":"#/$defs/relationship"}}
+  },
+  "$defs": {
+    "relationship": {
+      "type":"object",
+      "required":["type","target"],
+      "properties": {
+        "type":{"type":"string","minLength":1},
+        "target":{"type":"string","pattern":"^[a-z0-9]+(?:-[a-z0-9]+)*$"},
+        "role":{"type":"string"},
+        "context":{"type":"string"},
+        "timeline":{"type":"boolean"}
+      },
+      "additionalProperties": true
+    }
+  },
+  "additionalProperties": true
+}

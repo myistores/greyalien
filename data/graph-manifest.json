@@ -1,0 +1,1445 @@
+{
+  "schemaVersion": 1,
+  "entityCount": 272,
+  "relationshipCount": 801,
+  "unresolvedRelationshipCount": 15,
+  "connectionCounts": {
+    "1960s-area-51-engine-claim": {
+      "incoming": 3,
+      "outgoing": 0,
+      "total": 3
+    },
+    "1966-04-05-house-ufo-hearing": {
+      "incoming": 3,
+      "outgoing": 6,
+      "total": 9
+    },
+    "1966-minot-missile-ufo-incident": {
+      "incoming": 1,
+      "outgoing": 0,
+      "total": 1
+    },
+    "1968-07-29-house-ufo-symposium": {
+      "incoming": 4,
+      "outgoing": 4,
+      "total": 8
+    },
+    "1977-ellsworth-air-force-base-incident": {
+      "incoming": 1,
+      "outgoing": 0,
+      "total": 1
+    },
+    "1989-bob-lazar-george-knapp-interview": {
+      "incoming": 5,
+      "outgoing": 4,
+      "total": 9
+    },
+    "1997-jonathan-weygandt-interview": {
+      "incoming": 2,
+      "outgoing": 3,
+      "total": 5
+    },
+    "1997-peru-crash-claim": {
+      "incoming": 5,
+      "outgoing": 1,
+      "total": 6
+    },
+    "2003-vandenberg-uap-incidents": {
+      "incoming": 1,
+      "outgoing": 0,
+      "total": 1
+    },
+    "2004-nimitz-encounter": {
+      "incoming": 14,
+      "outgoing": 4,
+      "total": 18
+    },
+    "2009-indonesia-craft-claim": {
+      "incoming": 4,
+      "outgoing": 1,
+      "total": 5
+    },
+    "2014-2015-east-coast-navy-encounters": {
+      "incoming": 3,
+      "outgoing": 3,
+      "total": 6
+    },
+    "2017-12-16-nyt-pentagon-ufo-program": {
+      "incoming": 2,
+      "outgoing": 4,
+      "total": 6
+    },
+    "2018-bob-lazar-area-51-flying-saucers": {
+      "incoming": 2,
+      "outgoing": 4,
+      "total": 6
+    },
+    "2019-05-26-nyt-navy-pilots-uap": {
+      "incoming": 1,
+      "outgoing": 3,
+      "total": 4
+    },
+    "2020-lex-fridman-fravor-interview": {
+      "incoming": 2,
+      "outgoing": 2,
+      "total": 4
+    },
+    "2022-05-03-house-intelligence-classified-uap-briefing": {
+      "incoming": 2,
+      "outgoing": 6,
+      "total": 8
+    },
+    "2022-05-17-house-intelligence-uap": {
+      "incoming": 4,
+      "outgoing": 7,
+      "total": 11
+    },
+    "2022-house-uap-hearing-transcript": {
+      "incoming": 0,
+      "outgoing": 1,
+      "total": 1
+    },
+    "2023-04-19-senate-aaro-oversight": {
+      "incoming": 1,
+      "outgoing": 7,
+      "total": 8
+    },
+    "2023-05-31-nasa-uap-public-meeting": {
+      "incoming": 0,
+      "outgoing": 4,
+      "total": 4
+    },
+    "2023-06-01-asa-launch": {
+      "incoming": 1,
+      "outgoing": 4,
+      "total": 5
+    },
+    "2023-07-13-uap-disclosure-act-consideration": {
+      "incoming": 0,
+      "outgoing": 6,
+      "total": 6
+    },
+    "2023-07-26-house-oversight-uap": {
+      "incoming": 8,
+      "outgoing": 10,
+      "total": 18
+    },
+    "2023-09-06-podcast-ufo-jonathan-weygandt": {
+      "incoming": 1,
+      "outgoing": 3,
+      "total": 4
+    },
+    "2023-congressional-classified-aaro-briefings": {
+      "incoming": 1,
+      "outgoing": 7,
+      "total": 8
+    },
+    "2023-grusch-written-testimony": {
+      "incoming": 2,
+      "outgoing": 4,
+      "total": 6
+    },
+    "2023-house-uap-hearing-transcript": {
+      "incoming": 1,
+      "outgoing": 1,
+      "total": 2
+    },
+    "2023-nasa-uap-independent-study-report": {
+      "incoming": 12,
+      "outgoing": 5,
+      "total": 17
+    },
+    "2023-newsnation-grusch-interview": {
+      "incoming": 3,
+      "outgoing": 3,
+      "total": 6
+    },
+    "2023-weaponized-episode-21": {
+      "incoming": 0,
+      "outgoing": 9,
+      "total": 9
+    },
+    "2023-weaponized-episode-28": {
+      "incoming": 0,
+      "outgoing": 15,
+      "total": 15
+    },
+    "2024-01-12-house-uap-scif-briefing": {
+      "incoming": 4,
+      "outgoing": 5,
+      "total": 9
+    },
+    "2024-08-20-imminent-luis-elizondo": {
+      "incoming": 1,
+      "outgoing": 4,
+      "total": 5
+    },
+    "2024-11-13-house-oversight-uap": {
+      "incoming": 9,
+      "outgoing": 11,
+      "total": 20
+    },
+    "2024-11-19-senate-aaro-update": {
+      "incoming": 1,
+      "outgoing": 7,
+      "total": 8
+    },
+    "2024-12-06-house-classified-aaro-briefing": {
+      "incoming": 1,
+      "outgoing": 6,
+      "total": 7
+    },
+    "2024-12-18-fy2025-ndaa-uap-provisions": {
+      "incoming": 0,
+      "outgoing": 7,
+      "total": 7
+    },
+    "2024-afp-icecube-fact-check": {
+      "incoming": 1,
+      "outgoing": 3,
+      "total": 4
+    },
+    "2024-elizondo-written-testimony": {
+      "incoming": 3,
+      "outgoing": 6,
+      "total": 9
+    },
+    "2025-09-09-house-uap-transparency-hearing": {
+      "incoming": 12,
+      "outgoing": 9,
+      "total": 21
+    },
+    "2025-12-18-fy2026-ndaa-uap-provisions": {
+      "incoming": 0,
+      "outgoing": 7,
+      "total": 7
+    },
+    "2025-borland-written-testimony": {
+      "incoming": 3,
+      "outgoing": 6,
+      "total": 9
+    },
+    "2025-weaponized-wiggins-interview": {
+      "incoming": 3,
+      "outgoing": 3,
+      "total": 6
+    },
+    "2025-wiggins-written-statement": {
+      "incoming": 2,
+      "outgoing": 4,
+      "total": 6
+    },
+    "2026-03-31-house-uap-video-request-letter": {
+      "incoming": 1,
+      "outgoing": 5,
+      "total": 6
+    },
+    "2026-s4-bob-lazar-story": {
+      "incoming": 1,
+      "outgoing": 4,
+      "total": 5
+    },
+    "2026-weaponized-episode-115": {
+      "incoming": 4,
+      "outgoing": 13,
+      "total": 17
+    },
+    "aaro": {
+      "incoming": 14,
+      "outgoing": 4,
+      "total": 18
+    },
+    "aatip": {
+      "incoming": 1,
+      "outgoing": 3,
+      "total": 4
+    },
+    "aawsap": {
+      "incoming": 4,
+      "outgoing": 3,
+      "total": 7
+    },
+    "alex-dietrich": {
+      "incoming": 0,
+      "outgoing": 2,
+      "total": 2
+    },
+    "alexandro-wiggins": {
+      "incoming": 2,
+      "outgoing": 5,
+      "total": 7
+    },
+    "alien-autopsy-program-claims": {
+      "incoming": 2,
+      "outgoing": 0,
+      "total": 2
+    },
+    "americans-for-safe-aerospace": {
+      "incoming": 3,
+      "outgoing": 3,
+      "total": 6
+    },
+    "anamaria-berea": {
+      "incoming": 0,
+      "outgoing": 2,
+      "total": 2
+    },
+    "anna-paulina-luna": {
+      "incoming": 1,
+      "outgoing": 1,
+      "total": 2
+    },
+    "area-51": {
+      "incoming": 11,
+      "outgoing": 0,
+      "total": 11
+    },
+    "avi-loeb": {
+      "incoming": 4,
+      "outgoing": 2,
+      "total": 6
+    },
+    "aviation-safety": {
+      "incoming": 23,
+      "outgoing": 1,
+      "total": 24
+    },
+    "big-sur-missile-film-claim": {
+      "incoming": 1,
+      "outgoing": 0,
+      "total": 1
+    },
+    "black-vault-radio": {
+      "incoming": 0,
+      "outgoing": 2,
+      "total": 2
+    },
+    "bob-lazar": {
+      "incoming": 13,
+      "outgoing": 5,
+      "total": 18
+    },
+    "bryce-zabel": {
+      "incoming": 1,
+      "outgoing": 1,
+      "total": 2
+    },
+    "carl-sagan": {
+      "incoming": 0,
+      "outgoing": 1,
+      "total": 1
+    },
+    "chad-underwood": {
+      "incoming": 0,
+      "outgoing": 2,
+      "total": 2
+    },
+    "charles-halt": {
+      "incoming": 0,
+      "outgoing": 3,
+      "total": 3
+    },
+    "chaz-king": {
+      "incoming": 0,
+      "outgoing": 3,
+      "total": 3
+    },
+    "christopher-kit-green": {
+      "incoming": 0,
+      "outgoing": 1,
+      "total": 1
+    },
+    "christopher-mellon": {
+      "incoming": 4,
+      "outgoing": 7,
+      "total": 11
+    },
+    "claim-additional-uap-insiders-should-come-forward": {
+      "incoming": 1,
+      "outgoing": 4,
+      "total": 5
+    },
+    "claim-alien-autopsy-program": {
+      "incoming": 1,
+      "outgoing": 2,
+      "total": 3
+    },
+    "claim-area-51-alien-engine": {
+      "incoming": 2,
+      "outgoing": 4,
+      "total": 6
+    },
+    "claim-army-crash-retrieval-teams": {
+      "incoming": 1,
+      "outgoing": 3,
+      "total": 4
+    },
+    "claim-crash-retrieval-program": {
+      "incoming": 11,
+      "outgoing": 5,
+      "total": 16
+    },
+    "claim-element-115-propulsion": {
+      "incoming": 3,
+      "outgoing": 2,
+      "total": 5
+    },
+    "claim-excessive-secrecy-stifles-inquiry": {
+      "incoming": 1,
+      "outgoing": 4,
+      "total": 5
+    },
+    "claim-immaculate-constellation-compartmentalization": {
+      "incoming": 1,
+      "outgoing": 4,
+      "total": 5
+    },
+    "claim-immaculate-constellation-reporting-blocked": {
+      "incoming": 1,
+      "outgoing": 4,
+      "total": 5
+    },
+    "claim-immaculate-constellation-source-documents": {
+      "incoming": 1,
+      "outgoing": 3,
+      "total": 4
+    },
+    "claim-immaculate-constellation-visual-evidence": {
+      "incoming": 1,
+      "outgoing": 3,
+      "total": 4
+    },
+    "claim-indonesia-human-trafficking-craft": {
+      "incoming": 3,
+      "outgoing": 4,
+      "total": 7
+    },
+    "claim-langley-triangle-2012": {
+      "incoming": 2,
+      "outgoing": 4,
+      "total": 6
+    },
+    "claim-navy-uap-aviation-safety": {
+      "incoming": 1,
+      "outgoing": 2,
+      "total": 3
+    },
+    "claim-nimitz-tic-tac-performance": {
+      "incoming": 1,
+      "outgoing": 2,
+      "total": 3
+    },
+    "claim-peru-crash-retrieval": {
+      "incoming": 3,
+      "outgoing": 4,
+      "total": 7
+    },
+    "claim-roswell-technology-transfer": {
+      "incoming": 2,
+      "outgoing": 4,
+      "total": 6
+    },
+    "claim-s4-documentary-reconstruction": {
+      "incoming": 4,
+      "outgoing": 1,
+      "total": 5
+    },
+    "claim-s4-nine-craft": {
+      "incoming": 2,
+      "outgoing": 2,
+      "total": 4
+    },
+    "claim-s4-reverse-engineering": {
+      "incoming": 7,
+      "outgoing": 4,
+      "total": 11
+    },
+    "claim-secret-uap-programs": {
+      "incoming": 9,
+      "outgoing": 5,
+      "total": 14
+    },
+    "claim-south-pole-directed-energy": {
+      "incoming": 4,
+      "outgoing": 5,
+      "total": 9
+    },
+    "claim-uap-perception-management": {
+      "incoming": 1,
+      "outgoing": 3,
+      "total": 4
+    },
+    "claim-uss-jackson-transmedium-objects": {
+      "incoming": 3,
+      "outgoing": 6,
+      "total": 9
+    },
+    "claim-whistleblower-retaliation": {
+      "incoming": 8,
+      "outgoing": 7,
+      "total": 15
+    },
+    "classification": {
+      "incoming": 13,
+      "outgoing": 0,
+      "total": 13
+    },
+    "clifford-stone": {
+      "incoming": 1,
+      "outgoing": 2,
+      "total": 3
+    },
+    "congressional-oversight": {
+      "incoming": 14,
+      "outgoing": 0,
+      "total": 14
+    },
+    "daniel-sheehan": {
+      "incoming": 0,
+      "outgoing": 1,
+      "total": 1
+    },
+    "david-adair": {
+      "incoming": 1,
+      "outgoing": 5,
+      "total": 6
+    },
+    "david-adair-area-51-interview": {
+      "incoming": 2,
+      "outgoing": 3,
+      "total": 5
+    },
+    "david-fravor": {
+      "incoming": 4,
+      "outgoing": 5,
+      "total": 9
+    },
+    "david-grinspoon": {
+      "incoming": 0,
+      "outgoing": 2,
+      "total": 2
+    },
+    "david-grusch": {
+      "incoming": 6,
+      "outgoing": 6,
+      "total": 12
+    },
+    "david-schindele": {
+      "incoming": 0,
+      "outgoing": 3,
+      "total": 3
+    },
+    "david-spergel": {
+      "incoming": 0,
+      "outgoing": 2,
+      "total": 2
+    },
+    "defense-intelligence-agency": {
+      "incoming": 3,
+      "outgoing": 1,
+      "total": 4
+    },
+    "department-of-defense": {
+      "incoming": 30,
+      "outgoing": 3,
+      "total": 33
+    },
+    "disclosure-project": {
+      "incoming": 1,
+      "outgoing": 2,
+      "total": 3
+    },
+    "document-2002-10-16-wilson-davis-notes": {
+      "incoming": 0,
+      "outgoing": 4,
+      "total": 4
+    },
+    "douglas-kurth": {
+      "incoming": 0,
+      "outgoing": 1,
+      "total": 1
+    },
+    "dylan-borland": {
+      "incoming": 3,
+      "outgoing": 7,
+      "total": 10
+    },
+    "earthtech-international": {
+      "incoming": 2,
+      "outgoing": 0,
+      "total": 2
+    },
+    "emery-smith": {
+      "incoming": 1,
+      "outgoing": 4,
+      "total": 5
+    },
+    "engaging-the-phenomenon-podcast": {
+      "incoming": 0,
+      "outgoing": 1,
+      "total": 1
+    },
+    "eric-burlison": {
+      "incoming": 0,
+      "outgoing": 1,
+      "total": 1
+    },
+    "eric-davis": {
+      "incoming": 3,
+      "outgoing": 2,
+      "total": 5
+    },
+    "eric-hecker": {
+      "incoming": 5,
+      "outgoing": 6,
+      "total": 11
+    },
+    "eric-hecker-south-pole-interview": {
+      "incoming": 2,
+      "outgoing": 2,
+      "total": 4
+    },
+    "event-2023-house-hearing-held": {
+      "incoming": 0,
+      "outgoing": 2,
+      "total": 2
+    },
+    "event-2026-03-31-house-requests-uap-videos": {
+      "incoming": 0,
+      "outgoing": 5,
+      "total": 5
+    },
+    "extraterrestrial-hypothesis": {
+      "incoming": 1,
+      "outgoing": 0,
+      "total": 1
+    },
+    "federal-aviation-administration": {
+      "incoming": 2,
+      "outgoing": 2,
+      "total": 4
+    },
+    "federica-bianco": {
+      "incoming": 0,
+      "outgoing": 2,
+      "total": 2
+    },
+    "gaia": {
+      "incoming": 3,
+      "outgoing": 0,
+      "total": 3
+    },
+    "galileo-project": {
+      "incoming": 4,
+      "outgoing": 2,
+      "total": 6
+    },
+    "garry-nolan": {
+      "incoming": 3,
+      "outgoing": 2,
+      "total": 5
+    },
+    "gary-voorhis": {
+      "incoming": 0,
+      "outgoing": 3,
+      "total": 3
+    },
+    "george-knapp": {
+      "incoming": 11,
+      "outgoing": 7,
+      "total": 18
+    },
+    "government-transparency": {
+      "incoming": 63,
+      "outgoing": 0,
+      "total": 63
+    },
+    "hal-puthoff": {
+      "incoming": 3,
+      "outgoing": 3,
+      "total": 6
+    },
+    "harald-malmgren": {
+      "incoming": 0,
+      "outgoing": 1,
+      "total": 1
+    },
+    "harold-brown": {
+      "incoming": 0,
+      "outgoing": 1,
+      "total": 1
+    },
+    "hector-quintanilla": {
+      "incoming": 0,
+      "outgoing": 1,
+      "total": 1
+    },
+    "historical-ufo-research": {
+      "incoming": 6,
+      "outgoing": 0,
+      "total": 6
+    },
+    "house-armed-services-committee": {
+      "incoming": 3,
+      "outgoing": 0,
+      "total": 3
+    },
+    "house-intelligence-committee": {
+      "incoming": 2,
+      "outgoing": 1,
+      "total": 3
+    },
+    "house-oversight-committee": {
+      "incoming": 6,
+      "outgoing": 2,
+      "total": 8
+    },
+    "house-science-astronautics-committee": {
+      "incoming": 1,
+      "outgoing": 0,
+      "total": 1
+    },
+    "icecube-neutrino-observatory": {
+      "incoming": 3,
+      "outgoing": 0,
+      "total": 3
+    },
+    "immaculate-constellation": {
+      "incoming": 6,
+      "outgoing": 2,
+      "total": 8
+    },
+    "intelligence-community-inspector-general": {
+      "incoming": 4,
+      "outgoing": 0,
+      "total": 4
+    },
+    "j-allen-hynek": {
+      "incoming": 2,
+      "outgoing": 2,
+      "total": 4
+    },
+    "jacques-vallee": {
+      "incoming": 6,
+      "outgoing": 1,
+      "total": 7
+    },
+    "jake-barber": {
+      "incoming": 0,
+      "outgoing": 2,
+      "total": 2
+    },
+    "james-e-mcdonald": {
+      "incoming": 0,
+      "outgoing": 1,
+      "total": 1
+    },
+    "james-lacatski": {
+      "incoming": 0,
+      "outgoing": 1,
+      "total": 1
+    },
+    "jared-moskowitz": {
+      "incoming": 0,
+      "outgoing": 1,
+      "total": 1
+    },
+    "jason-turner": {
+      "incoming": 0,
+      "outgoing": 3,
+      "total": 3
+    },
+    "jay-stratton": {
+      "incoming": 0,
+      "outgoing": 2,
+      "total": 2
+    },
+    "jeffrey-nuccetelli": {
+      "incoming": 0,
+      "outgoing": 1,
+      "total": 1
+    },
+    "jeremy-corbell": {
+      "incoming": 11,
+      "outgoing": 5,
+      "total": 16
+    },
+    "jim-penniston": {
+      "incoming": 0,
+      "outgoing": 3,
+      "total": 3
+    },
+    "jim-semivan": {
+      "incoming": 0,
+      "outgoing": 1,
+      "total": 1
+    },
+    "jim-slaight": {
+      "incoming": 0,
+      "outgoing": 2,
+      "total": 2
+    },
+    "joe-spielberger": {
+      "incoming": 0,
+      "outgoing": 1,
+      "total": 1
+    },
+    "john-burroughs": {
+      "incoming": 0,
+      "outgoing": 3,
+      "total": 3
+    },
+    "jon-kosloski": {
+      "incoming": 0,
+      "outgoing": 2,
+      "total": 2
+    },
+    "jonathan-weygandt": {
+      "incoming": 4,
+      "outgoing": 6,
+      "total": 10
+    },
+    "joshua-semeter": {
+      "incoming": 0,
+      "outgoing": 2,
+      "total": 2
+    },
+    "karl-nell": {
+      "incoming": 3,
+      "outgoing": 2,
+      "total": 5
+    },
+    "karlin-toner": {
+      "incoming": 0,
+      "outgoing": 3,
+      "total": 3
+    },
+    "karson-kammerzell": {
+      "incoming": 0,
+      "outgoing": 2,
+      "total": 2
+    },
+    "kevin-day": {
+      "incoming": 0,
+      "outgoing": 3,
+      "total": 3
+    },
+    "klas-tv": {
+      "incoming": 2,
+      "outgoing": 0,
+      "total": 2
+    },
+    "leslie-kean": {
+      "incoming": 0,
+      "outgoing": 1,
+      "total": 1
+    },
+    "lex-fridman-podcast": {
+      "incoming": 1,
+      "outgoing": 0,
+      "total": 1
+    },
+    "los-alamos-monitor": {
+      "incoming": 1,
+      "outgoing": 0,
+      "total": 1
+    },
+    "luigi-venditelli": {
+      "incoming": 4,
+      "outgoing": 0,
+      "total": 4
+    },
+    "luis-elizondo": {
+      "incoming": 7,
+      "outgoing": 6,
+      "total": 13
+    },
+    "malmstrom-air-force-base": {
+      "incoming": 1,
+      "outgoing": 0,
+      "total": 1
+    },
+    "malmstrom-missile-incident": {
+      "incoming": 1,
+      "outgoing": 0,
+      "total": 1
+    },
+    "mario-woods": {
+      "incoming": 0,
+      "outgoing": 2,
+      "total": 2
+    },
+    "matthew-brown": {
+      "incoming": 13,
+      "outgoing": 2,
+      "total": 15
+    },
+    "merged-podcast": {
+      "incoming": 1,
+      "outgoing": 2,
+      "total": 3
+    },
+    "michael-gold": {
+      "incoming": 0,
+      "outgoing": 2,
+      "total": 2
+    },
+    "michael-herrera": {
+      "incoming": 3,
+      "outgoing": 6,
+      "total": 9
+    },
+    "michael-herrera-public-interview": {
+      "incoming": 2,
+      "outgoing": 2,
+      "total": 4
+    },
+    "michael-shellenberger": {
+      "incoming": 0,
+      "outgoing": 1,
+      "total": 1
+    },
+    "minot-air-force-base": {
+      "incoming": 1,
+      "outgoing": 0,
+      "total": 1
+    },
+    "nasa": {
+      "incoming": 6,
+      "outgoing": 2,
+      "total": 8
+    },
+    "nasa-uap-independent-study-team": {
+      "incoming": 11,
+      "outgoing": 5,
+      "total": 16
+    },
+    "national-archives": {
+      "incoming": 1,
+      "outgoing": 1,
+      "total": 2
+    },
+    "national-institute-for-discovery-science": {
+      "incoming": 1,
+      "outgoing": 0,
+      "total": 1
+    },
+    "need-to-know-podcast": {
+      "incoming": 2,
+      "outgoing": 1,
+      "total": 3
+    },
+    "new-paradigm-institute": {
+      "incoming": 1,
+      "outgoing": 2,
+      "total": 3
+    },
+    "newsnation": {
+      "incoming": 3,
+      "outgoing": 0,
+      "total": 3
+    },
+    "patrick-pj-hughes": {
+      "incoming": 0,
+      "outgoing": 2,
+      "total": 2
+    },
+    "philip-j-corso": {
+      "incoming": 2,
+      "outgoing": 4,
+      "total": 6
+    },
+    "project-blue-book": {
+      "incoming": 1,
+      "outgoing": 2,
+      "total": 3
+    },
+    "project-on-government-oversight": {
+      "incoming": 1,
+      "outgoing": 0,
+      "total": 1
+    },
+    "publication-1965-anatomy-of-a-phenomenon": {
+      "incoming": 0,
+      "outgoing": 1,
+      "total": 1
+    },
+    "publication-1969-passport-to-magonia": {
+      "incoming": 0,
+      "outgoing": 1,
+      "total": 1
+    },
+    "publication-1975-edge-of-reality": {
+      "incoming": 0,
+      "outgoing": 2,
+      "total": 2
+    },
+    "raf-bentwaters": {
+      "incoming": 3,
+      "outgoing": 0,
+      "total": 3
+    },
+    "raytheon": {
+      "incoming": 2,
+      "outgoing": 0,
+      "total": 2
+    },
+    "rendlesham-forest-incident": {
+      "incoming": 3,
+      "outgoing": 0,
+      "total": 3
+    },
+    "robert-jacobs": {
+      "incoming": 0,
+      "outgoing": 2,
+      "total": 2
+    },
+    "robert-l-hall": {
+      "incoming": 0,
+      "outgoing": 1,
+      "total": 1
+    },
+    "robert-salas": {
+      "incoming": 0,
+      "outgoing": 3,
+      "total": 3
+    },
+    "ronald-moultrie": {
+      "incoming": 0,
+      "outgoing": 2,
+      "total": 2
+    },
+    "ross-coulthart": {
+      "incoming": 1,
+      "outgoing": 3,
+      "total": 4
+    },
+    "roswell-incident": {
+      "incoming": 3,
+      "outgoing": 0,
+      "total": 3
+    },
+    "ryan-graves": {
+      "incoming": 6,
+      "outgoing": 7,
+      "total": 13
+    },
+    "ryan-weigelt": {
+      "incoming": 0,
+      "outgoing": 2,
+      "total": 2
+    },
+    "s4-facility-claim": {
+      "incoming": 14,
+      "outgoing": 0,
+      "total": 14
+    },
+    "scientific-investigation": {
+      "incoming": 29,
+      "outgoing": 0,
+      "total": 29
+    },
+    "scott-bray": {
+      "incoming": 0,
+      "outgoing": 2,
+      "total": 2
+    },
+    "scott-kelly": {
+      "incoming": 0,
+      "outgoing": 4,
+      "total": 4
+    },
+    "sean-kirkpatrick": {
+      "incoming": 3,
+      "outgoing": 4,
+      "total": 7
+    },
+    "senate-armed-services-committee": {
+      "incoming": 5,
+      "outgoing": 1,
+      "total": 6
+    },
+    "senate-intelligence-committee": {
+      "incoming": 2,
+      "outgoing": 0,
+      "total": 2
+    },
+    "shelley-wright": {
+      "incoming": 0,
+      "outgoing": 2,
+      "total": 2
+    },
+    "skinwalker-ranch": {
+      "incoming": 1,
+      "outgoing": 0,
+      "total": 1
+    },
+    "sol-foundation": {
+      "incoming": 3,
+      "outgoing": 2,
+      "total": 5
+    },
+    "somewhere-in-the-skies-podcast": {
+      "incoming": 0,
+      "outgoing": 1,
+      "total": 1
+    },
+    "south-pole-technology-claims": {
+      "incoming": 3,
+      "outgoing": 1,
+      "total": 4
+    },
+    "steven-greer": {
+      "incoming": 0,
+      "outgoing": 1,
+      "total": 1
+    },
+    "that-ufo-podcast": {
+      "incoming": 0,
+      "outgoing": 1,
+      "total": 1
+    },
+    "the-day-after-roswell": {
+      "incoming": 2,
+      "outgoing": 3,
+      "total": 5
+    },
+    "theories-of-everything-podcast": {
+      "incoming": 0,
+      "outgoing": 1,
+      "total": 1
+    },
+    "tim-burchett": {
+      "incoming": 0,
+      "outgoing": 1,
+      "total": 1
+    },
+    "tim-gallaudet": {
+      "incoming": 0,
+      "outgoing": 2,
+      "total": 2
+    },
+    "timeline-1982-bob-lazar-los-alamos-jet-car": {
+      "incoming": 0,
+      "outgoing": 3,
+      "total": 3
+    },
+    "timeline-1988-1989-bob-lazar-alleged-s4-work": {
+      "incoming": 0,
+      "outgoing": 5,
+      "total": 5
+    },
+    "timeline-1989-05-15-bob-lazar-dennis-interview": {
+      "incoming": 0,
+      "outgoing": 8,
+      "total": 8
+    },
+    "timeline-1989-11-13-bob-lazar-public-klas-interview": {
+      "incoming": 0,
+      "outgoing": 7,
+      "total": 7
+    },
+    "timeline-1995-nids-science-advisory-board": {
+      "incoming": 0,
+      "outgoing": 5,
+      "total": 5
+    },
+    "timeline-2008-2010-aawsap-puthoff-davis-research": {
+      "incoming": 0,
+      "outgoing": 5,
+      "total": 5
+    },
+    "timeline-2010-2011-eric-hecker-south-pole-assignment": {
+      "incoming": 1,
+      "outgoing": 3,
+      "total": 4
+    },
+    "timeline-2017-10-christopher-mellon-ttsa": {
+      "incoming": 1,
+      "outgoing": 6,
+      "total": 7
+    },
+    "timeline-2017-10-luis-elizondo-resigns-uap-disclosure": {
+      "incoming": 0,
+      "outgoing": 3,
+      "total": 3
+    },
+    "timeline-2018-03-22-nolan-atacama-genomic-study": {
+      "incoming": 0,
+      "outgoing": 2,
+      "total": 2
+    },
+    "timeline-2018-12-04-bob-lazar-documentary-release": {
+      "incoming": 0,
+      "outgoing": 5,
+      "total": 5
+    },
+    "timeline-2019-2022-david-grusch-uap-assignments": {
+      "incoming": 0,
+      "outgoing": 3,
+      "total": 3
+    },
+    "timeline-2021-06-25-mellon-uap-assessment": {
+      "incoming": 1,
+      "outgoing": 3,
+      "total": 4
+    },
+    "timeline-2021-07-david-grusch-dod-ig-disclosure": {
+      "incoming": 0,
+      "outgoing": 4,
+      "total": 4
+    },
+    "timeline-2021-07-galileo-project-founded": {
+      "incoming": 0,
+      "outgoing": 4,
+      "total": 4
+    },
+    "timeline-2021-10-30-elizondo-galileo-affiliate": {
+      "incoming": 0,
+      "outgoing": 4,
+      "total": 4
+    },
+    "timeline-2021-2022-karl-nell-uaptf-support": {
+      "incoming": 0,
+      "outgoing": 5,
+      "total": 5
+    },
+    "timeline-2022-05-25-david-grusch-ppd19-complaint": {
+      "incoming": 0,
+      "outgoing": 4,
+      "total": 4
+    },
+    "timeline-2022-07-20-kirkpatrick-named-aaro-director": {
+      "incoming": 0,
+      "outgoing": 3,
+      "total": 3
+    },
+    "timeline-2023-01-23-weaponized-launch": {
+      "incoming": 2,
+      "outgoing": 4,
+      "total": 6
+    },
+    "timeline-2023-06-12-disclosure-project-national-press-club": {
+      "incoming": 2,
+      "outgoing": 5,
+      "total": 7
+    },
+    "timeline-2023-06-14-avi-loeb-im1-expedition": {
+      "incoming": 0,
+      "outgoing": 3,
+      "total": 3
+    },
+    "timeline-2023-10-31-aaro-secure-reporting-mechanism": {
+      "incoming": 0,
+      "outgoing": 3,
+      "total": 3
+    },
+    "timeline-2023-11-17-sol-inaugural-symposium": {
+      "incoming": 0,
+      "outgoing": 7,
+      "total": 7
+    },
+    "timeline-2024-01-08-jellyfish-uap-reporting": {
+      "incoming": 2,
+      "outgoing": 4,
+      "total": 6
+    },
+    "timeline-2024-05-21-karl-nell-salt-uap-presentation": {
+      "incoming": 0,
+      "outgoing": 3,
+      "total": 3
+    },
+    "timeline-2024-11-22-sol-symposium": {
+      "incoming": 0,
+      "outgoing": 4,
+      "total": 4
+    },
+    "timeline-2026-04-03-s4-bob-lazar-story-release": {
+      "incoming": 0,
+      "outgoing": 5,
+      "total": 5
+    },
+    "timeline-2026-04-14-weaponized-episode-115": {
+      "incoming": 0,
+      "outgoing": 11,
+      "total": 11
+    },
+    "to-the-stars-academy": {
+      "incoming": 4,
+      "outgoing": 3,
+      "total": 7
+    },
+    "travis-taylor": {
+      "incoming": 0,
+      "outgoing": 2,
+      "total": 2
+    },
+    "uap-disclosure-act-2023": {
+      "incoming": 0,
+      "outgoing": 3,
+      "total": 3
+    },
+    "uap-disclosure-legislation": {
+      "incoming": 6,
+      "outgoing": 0,
+      "total": 6
+    },
+    "uap-reporting-systems": {
+      "incoming": 13,
+      "outgoing": 0,
+      "total": 13
+    },
+    "uap-research": {
+      "incoming": 1,
+      "outgoing": 0,
+      "total": 1
+    },
+    "uap-science-advisory-council": {
+      "incoming": 2,
+      "outgoing": 2,
+      "total": 4
+    },
+    "uap-task-force": {
+      "incoming": 6,
+      "outgoing": 0,
+      "total": 6
+    },
+    "united-states-air-force": {
+      "incoming": 13,
+      "outgoing": 2,
+      "total": 15
+    },
+    "united-states-army": {
+      "incoming": 4,
+      "outgoing": 0,
+      "total": 4
+    },
+    "united-states-marine-corps": {
+      "incoming": 4,
+      "outgoing": 0,
+      "total": 4
+    },
+    "united-states-navy": {
+      "incoming": 23,
+      "outgoing": 2,
+      "total": 25
+    },
+    "uss-princeton": {
+      "incoming": 3,
+      "outgoing": 0,
+      "total": 3
+    },
+    "vandenberg-space-force-base": {
+      "incoming": 1,
+      "outgoing": 0,
+      "total": 1
+    },
+    "warren-randolph": {
+      "incoming": 0,
+      "outgoing": 3,
+      "total": 3
+    },
+    "weaponized-matthew-brown-part-1": {
+      "incoming": 0,
+      "outgoing": 12,
+      "total": 12
+    },
+    "weaponized-matthew-brown-part-2": {
+      "incoming": 3,
+      "outgoing": 12,
+      "total": 15
+    },
+    "weaponized-matthew-brown-part-3": {
+      "incoming": 4,
+      "outgoing": 13,
+      "total": 17
+    },
+    "weaponized-podcast": {
+      "incoming": 12,
+      "outgoing": 2,
+      "total": 14
+    },
+    "whistleblower-protection": {
+      "incoming": 16,
+      "outgoing": 0,
+      "total": 16
+    }
+  },
+  "unresolvedRelationships": [
+    {
+      "source": "2022-05-17-house-intelligence-uap",
+      "target": "house-permanent-select-committee-intelligence",
+      "type": "held_by"
+    },
+    {
+      "source": "2022-05-17-house-intelligence-uap",
+      "target": "subcommittee-counterterrorism-counterintelligence-counterproliferation",
+      "type": "held_by"
+    },
+    {
+      "source": "2022-05-17-house-intelligence-uap",
+      "target": "office-director-national-intelligence",
+      "type": "held_by"
+    },
+    {
+      "source": "2022-05-17-house-intelligence-uap",
+      "target": "aoimsg",
+      "type": "held_by"
+    },
+    {
+      "source": "2022-05-17-house-intelligence-uap",
+      "target": "stigma-reduction",
+      "type": "discussed_topic"
+    },
+    {
+      "source": "2022-05-17-house-intelligence-uap",
+      "target": "sensor-analysis",
+      "type": "discussed_topic"
+    },
+    {
+      "source": "2022-05-17-house-intelligence-uap",
+      "target": "foreign-adversary-technology",
+      "type": "discussed_topic"
+    },
+    {
+      "source": "2023-07-26-house-oversight-uap",
+      "target": "house-committee-oversight-accountability",
+      "type": "held_by"
+    },
+    {
+      "source": "2023-07-26-house-oversight-uap",
+      "target": "subcommittee-national-security-border-foreign-affairs",
+      "type": "held_by"
+    },
+    {
+      "source": "2023-07-26-house-oversight-uap",
+      "target": "national-reconnaissance-office",
+      "type": "held_by"
+    },
+    {
+      "source": "2023-07-26-house-oversight-uap",
+      "target": "crash-retrieval-claims",
+      "type": "discussed_topic"
+    },
+    {
+      "source": "2023-07-26-house-oversight-uap",
+      "target": "reverse-engineering-claims",
+      "type": "discussed_topic"
+    },
+    {
+      "source": "2023-07-26-house-oversight-uap",
+      "target": "2004-nimitz-tic-tac",
+      "type": "referenced_case"
+    },
+    {
+      "source": "2024-11-13-house-oversight-uap",
+      "target": "2015-go-fast-safety-of-flight",
+      "type": "referenced_case"
+    },
+    {
+      "source": "ryan-graves",
+      "target": "2023-graves-written-testimony",
+      "type": "authored"
+    }
+  ]
+}

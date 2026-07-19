@@ -160,5 +160,41 @@
     "forward": "Timeline connection",
     "reverse": "Timeline event",
     "description": "Connects a timeline event to a materially involved person, organization, place, media record, topic, or claim. The role field explains the entity’s relationship to the event."
+  },
+  "featured_person": {
+    "forward": "Featured person",
+    "reverse": "Featured in"
+  },
+  "case_witness": {
+    "forward": "Case witness",
+    "reverse": "Witnessed or reported by"
+  },
+  "references_organization": {
+    "forward": "References organization",
+    "reverse": "Referenced by"
+  },
+  "references_publication": {
+    "forward": "References publication",
+    "reverse": "Referenced by"
+  },
+  "made_by": {
+    "forward": "Made by",
+    "reverse": "Made claim"
+  },
+  "references_claim": {
+    "forward": "References claim",
+    "reverse": "Referenced by"
+  },
+  "participated_in": {
+    "forward": "Participated in",
+    "reverse": "Had participant"
+  },
+  "collaborated_with": {
+    "forward": "Collaborated with",
+    "reverse": "Collaborated with"
+  },
+  "references_case": {
+    "forward": "References case",
+    "reverse": "Referenced by"
   }
 }
