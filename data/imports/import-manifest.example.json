@@ -1,0 +1,15 @@
+{
+  "schemaVersion": 1,
+  "batchId": "weaponized-wave-01",
+  "description": "Example research batch. Place individual entity JSON files in one folder and import the folder transactionally.",
+  "records": [
+    "episode.json",
+    "new-person.json",
+    "new-claim.json"
+  ],
+  "policy": {
+    "replaceExisting": false,
+    "requirePrimarySource": true,
+    "allowUnresolvedRelationshipsAsWarnings": true
+  }
+}

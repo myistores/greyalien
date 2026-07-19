@@ -1,11 +1,7 @@
 {
-  "version": "17.1",
-  "title": "Podcast Engine",
+  "version": "17.2",
+  "title": "Import System",
   "date": "2026-07-18",
-  "developmentUpdate": "Added structured podcast-series and episode schemas, a reusable ingestion package, automated podcast and episode indexes, podcast-specific validation, sitemap rebuilding, and one-command episode ingestion.",
-  "knowledgeBase": {
-    "podcastSeries": 8,
-    "researchedEpisodes": 6,
-    "weaponizedConnectedEntities": 34
-  }
+  "summary": "Added transactional single-record and bulk imports, preflight validation, dry-run testing, conflict protection, import reports, generated entity pages, and automatic rebuilding of all graph and podcast assets.",
+  "phase": 3
 }

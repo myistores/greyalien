@@ -1,3 +1,7 @@
+# GreyAlien V17.2 — Import System
+
+Deploy the complete package to the repository root. Phase 3 documentation is in `PHASE3_IMPORT_SYSTEM.md` and `data/imports/README.md`.
+
 # GreyAlien Version 5 — Analytics, Search and Sharing Foundation
 
 ## Included

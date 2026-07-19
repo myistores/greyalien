@@ -1,3 +1,13 @@
+# V17.2 — Import System
+
+- Added transactional single-record and folder-based batch imports.
+- Added preflight metadata, URL, date, relationship, and podcast-semantic validation.
+- Added dry-run mode, conflict protection, explicit replacement mode, and machine-readable reports.
+- Added stable generated HTML entry points for every knowledge-base entity.
+- Updated sitemap generation to use stable crawlable entity URLs.
+- Added staged full-build verification so failed imports cannot partially modify the live package.
+- Updated homepage Latest Additions.
+
 # V17.1 — Podcast Engine
 
 - Added canonical podcast series and episode schemas.

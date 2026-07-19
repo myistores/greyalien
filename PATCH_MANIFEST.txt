@@ -1,26 +1,34 @@
-GREYALIEN V17.1 — PHASE 2 PODCAST ENGINE
+GreyAlien V17.2 — Phase 3 Import System
 
-Major additions:
-- PHASE2_PODCAST_ENGINE.md
-- data/schema/podcast-series-schema-v1.json
-- data/schema/podcast-episode-schema-v1.json
-- data/podcasts/ingestion-package-template/
-- data/podcasts/episode-index.json
-- data/podcasts/podcast-manifest.json
-- data/release-summary.json
-- tools/build_podcasts.py
-- tools/build_sitemap.py
-- tools/ingest_podcast_episode.py
-- tools/validate_podcasts.py
+DEPLOYMENT
+Upload and replace the complete package at the repository root.
 
-Generated/updated:
-- data/podcasts/podcast-index.json
+PRIMARY NEW FILES
+- PHASE3_IMPORT_SYSTEM.md
+- tools/validate_import_record.py
+- tools/import_batch.py
+- tools/build_entity_pages.py
+- data/imports/README.md
+- data/imports/import-manifest.example.json
+- entities/generated/*.html (272 generated stable entity entry pages)
+
+UPDATED GENERATED/CORE FILES
 - data/entity-index.json
 - data/graph-manifest.json
+- data/podcasts/*.json
+- data/release-summary.json
 - sitemap.xml
-- six existing WEAPONIZED episode entity records
-- assets/js/podcast-directory.js
-- assets/js/entity-engine.js
 - index.html
+- README.md
 - CHANGELOG.md
-- README_DEPLOY.txt
+
+VALIDATION
+- 272 entities
+- 816 declared relationships
+- 801 resolved relationships
+- 15 retained legacy unresolved-target warnings
+- 8 podcast series
+- 6 researched podcast episodes
+- 272 generated entity pages
+- 283 sitemap URLs
+- 0 blocking errors

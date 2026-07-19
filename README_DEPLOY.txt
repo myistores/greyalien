@@ -1,5 +1,9 @@
-GREYALIEN V17.1 DEPLOYMENT
+GREYALIEN V17.2 DEPLOYMENT
 
-Upload all files and folders in this package to the repository root, replacing existing files when prompted. Do not upload the enclosing zip file itself.
+1. Extract the ZIP.
+2. Upload every file and folder to the root of the GreyAlien GitHub repository.
+3. Replace existing files when prompted.
+4. Keep the entities/generated, data/imports, and tools folders intact.
+5. Commit with: Deploy V17.2 Import System
 
-After deployment, verify the homepage Development Update says V17.1 and the Podcasts page displays 8 series and generated researched-episode counts.
+No files need to be deleted separately.
