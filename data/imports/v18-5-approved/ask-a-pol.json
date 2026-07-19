@@ -1,0 +1,25 @@
+{
+  "id": "ask-a-pol",
+  "type": "organization",
+  "name": "Ask a Pol",
+  "summary": "Capitol Hill reporting outlet founded by Matt Laslo, focused on direct interviews with elected officials.",
+  "relationships": [
+    {
+      "type": "affiliated_with",
+      "target": "matt-laslo"
+    },
+    {
+      "type": "featured_in_media",
+      "target": "2024-weaponized-episode-59"
+    }
+  ],
+  "officialLinks": [],
+  "referenceSources": [
+    {
+      "label": "Official WEAPONIZED Episode #59 page",
+      "url": "https://www.weaponizedpodcast.com/episodes-2/episode-59",
+      "sourceType": "official_episode_page",
+      "role": "source"
+    }
+  ]
+}

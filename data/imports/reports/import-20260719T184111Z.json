@@ -1,0 +1,125 @@
+{
+  "startedAt": "2026-07-19T18:41:11.991503+00:00",
+  "source": "/mnt/data/greyalien_v185/data/imports/v18-5-approved",
+  "dryRun": false,
+  "replace": false,
+  "files": [
+    "2024-weaponized-episode-58.json",
+    "2024-weaponized-episode-59.json",
+    "2024-weaponized-episode-60.json",
+    "2024-weaponized-episode-61.json",
+    "2024-weaponized-episode-62.json",
+    "ask-a-pol.json",
+    "claim-2024-uap-disclosure-amendment-failed.json",
+    "claim-2024-uap-hearing-left-unresolved-questions.json",
+    "claim-capitol-hill-uap-hearing-planning.json",
+    "claim-fravor-added-new-nimitz-details.json",
+    "claim-kremer-pacific-transmedium-video.json",
+    "claim-multi-agency-ocean-technology-operation.json",
+    "claim-nimitz-two-week-sensor-detections.json",
+    "claim-uap-advocacy-continues-after-legislative-setback.json",
+    "claim-uap-disclosure-act-remained-possible.json",
+    "claim-uap-journalists-targeted-by-provocateurs.json",
+    "claim-uk-drone-incursions-resisted-identification.json",
+    "lester-nare.json",
+    "matt-laslo.json",
+    "rory-kremer.json",
+    "transmedium-uap.json",
+    "uap-caucus.json",
+    "uk-military-airspace-incursions-2024.json"
+  ],
+  "status": "committed",
+  "steps": [
+    {
+      "name": "validate_records",
+      "returnCode": 0,
+      "output": "Validated 23 import record(s): 0 error(s), 0 warning(s).\n"
+    },
+    {
+      "name": "build_graph.py",
+      "returnCode": 0,
+      "output": "Built index for 336 entities and 1039 resolved relationships.\n"
+    },
+    {
+      "name": "build_timeline_normalization.py",
+      "returnCode": 0,
+      "output": "Timeline normalization built: 33 canonical events, 3 aliases, 0 conflicts.\n"
+    },
+    {
+      "name": "build_podcasts.py",
+      "returnCode": 0,
+      "output": "Built 8 podcast series and 27 episode records.\n"
+    },
+    {
+      "name": "build_related_content.py",
+      "returnCode": 0,
+      "output": "Built related-content data for 336 entities and 27 podcast episodes.\n"
+    },
+    {
+      "name": "build_entity_pages.py",
+      "returnCode": 0,
+      "output": "Generated 336 stable entity pages.\n"
+    },
+    {
+      "name": "build_homepage.py",
+      "returnCode": 0,
+      "output": "Updated homepage Latest Additions for GreyAlien Version 18.5.\n"
+    },
+    {
+      "name": "build_sitemap.py",
+      "returnCode": 0,
+      "output": "Built sitemap with 347 URLs.\n"
+    },
+    {
+      "name": "validate_graph.py",
+      "returnCode": 0,
+      "output": "Checked 336 entities and 1054 declared relationships.\nWarnings: 15 unresolved legacy relationship targets remain.\nVALIDATION PASSED\n"
+    },
+    {
+      "name": "validate_podcasts.py",
+      "returnCode": 0,
+      "output": "Checked 8 series and 27 episodes.\nPODCAST VALIDATION PASSED\n"
+    },
+    {
+      "name": "validate_rendering_rules.py",
+      "returnCode": 0,
+      "output": "Rendering rule validation: PASSED (11 categories, 12 entity types)\nUnified Media category: interview + podcast_episode\n"
+    },
+    {
+      "name": "validate_timeline_normalization.py",
+      "returnCode": 0,
+      "output": "Timeline normalization validation: PASSED (3 aliases).\n"
+    },
+    {
+      "name": "build_deployment_report.py",
+      "returnCode": 0,
+      "output": "Created deployment report: data/automation/reports/latest.md\n"
+    }
+  ],
+  "importedIds": [
+    "2024-weaponized-episode-58",
+    "2024-weaponized-episode-59",
+    "2024-weaponized-episode-60",
+    "2024-weaponized-episode-61",
+    "2024-weaponized-episode-62",
+    "ask-a-pol",
+    "claim-2024-uap-disclosure-amendment-failed",
+    "claim-2024-uap-hearing-left-unresolved-questions",
+    "claim-capitol-hill-uap-hearing-planning",
+    "claim-fravor-added-new-nimitz-details",
+    "claim-kremer-pacific-transmedium-video",
+    "claim-multi-agency-ocean-technology-operation",
+    "claim-nimitz-two-week-sensor-detections",
+    "claim-uap-advocacy-continues-after-legislative-setback",
+    "claim-uap-disclosure-act-remained-possible",
+    "claim-uap-journalists-targeted-by-provocateurs",
+    "claim-uk-drone-incursions-resisted-identification",
+    "lester-nare",
+    "matt-laslo",
+    "rory-kremer",
+    "transmedium-uap",
+    "uap-caucus",
+    "uk-military-airspace-incursions-2024"
+  ],
+  "finishedAt": "2026-07-19T18:41:41.742547+00:00"
+}

@@ -1,0 +1,21 @@
+{
+  "id": "claim-2024-uap-hearing-left-unresolved-questions",
+  "type": "claim",
+  "name": "The November 2024 congressional UAP hearing left major questions unresolved",
+  "summary": "Episode #62 reviews the hearing’s public results and behind-the-scenes circumstances.",
+  "relationships": [
+    {
+      "type": "featured_in_media",
+      "target": "2024-weaponized-episode-62"
+    }
+  ],
+  "officialLinks": [],
+  "referenceSources": [
+    {
+      "label": "Official WEAPONIZED Episode #62 page",
+      "url": "https://www.weaponizedpodcast.com/episodes-3/episode-62",
+      "sourceType": "official_episode_page",
+      "role": "source"
+    }
+  ]
+}

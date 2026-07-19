@@ -1,0 +1,25 @@
+{
+  "id": "transmedium-uap",
+  "type": "topic",
+  "name": "Transmedium UAP",
+  "summary": "Reports of unidentified objects appearing to move between air and water without an obvious transition or loss of performance.",
+  "relationships": [
+    {
+      "type": "featured_in_media",
+      "target": "2024-weaponized-episode-62"
+    },
+    {
+      "type": "discussed_case",
+      "target": "2004-nimitz-encounter"
+    }
+  ],
+  "officialLinks": [],
+  "referenceSources": [
+    {
+      "label": "Official WEAPONIZED Episode #62 page",
+      "url": "https://www.weaponizedpodcast.com/episodes-3/episode-62",
+      "sourceType": "official_episode_page",
+      "role": "source"
+    }
+  ]
+}

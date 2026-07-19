@@ -1,3 +1,13 @@
+# V18.5 — WEAPONIZED Episodes #58–#62 Production Batch
+
+- Added production episode records for WEAPONIZED Episodes #58, #59, #60, #61, and #62.
+- Added sourced principal-claim records for Episodes #58, #59, #61, and #62.
+- Added Lester Nare, Matt Laslo, and Rory Kremer as connected person entities.
+- Added UAP Caucus, Ask a Pol, Transmedium UAP, and the 2024 UK Military Airspace Incursions as supporting graph records.
+- Preserved the correct official `/episodes-3/` URLs for Episodes #61 and #62.
+- Kept Episode #60 limited to verified series-level metadata because the official page provides no episode-specific synopsis, guests, cases, or claims.
+- Rebuilt and validated the graph, podcast indexes, related content, entity pages, homepage, and sitemap.
+
 # V18.4 — Research Accelerator
 
 - Added a review-first podcast research accelerator using official episode pages, saved HTML, and optional transcripts.

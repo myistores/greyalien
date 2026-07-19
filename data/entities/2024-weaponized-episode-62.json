@@ -1,0 +1,104 @@
+{
+  "id": "2024-weaponized-episode-62",
+  "type": "podcast_episode",
+  "name": "WEAPONIZED Episode #62 — Sky Intruders, Drones, and a Transmedium UFO Video",
+  "summary": "Jeremy Corbell and George Knapp speak with Chris Sharp about recurring incursions near UK military facilities and with underwater archaeologist Rory Kremer about video of an object appearing to descend into the Pacific Ocean, while also reviewing the November 2024 congressional UAP hearing.",
+  "date": "2024-12-03",
+  "dateDisplay": "December 3, 2024",
+  "seriesId": "weaponized-podcast",
+  "episodeNumber": 62,
+  "episodeTitle": "Sky Intruders, Drones, and a Transmedium UFO Video",
+  "status": "Published",
+  "mediaType": "Podcast episode",
+  "mediaPlatform": "WEAPONIZED",
+  "mediaHost": "Jeremy Corbell and George Knapp",
+  "mediaGuests": [
+    "chris-sharp",
+    "rory-kremer"
+  ],
+  "mediaSubjects": [
+    "UK military airspace incursions",
+    "Transmedium object video",
+    "November 2024 congressional UAP hearing"
+  ],
+  "principalClaims": [
+    "claim-uk-drone-incursions-resisted-identification",
+    "claim-kremer-pacific-transmedium-video",
+    "claim-2024-uap-hearing-left-unresolved-questions"
+  ],
+  "researchNotes": [],
+  "relationships": [
+    {
+      "type": "episode_of",
+      "target": "weaponized-podcast"
+    },
+    {
+      "type": "features_person",
+      "target": "jeremy-corbell",
+      "role": "host",
+      "context": "WEAPONIZED co-host"
+    },
+    {
+      "type": "features_person",
+      "target": "george-knapp",
+      "role": "host",
+      "context": "WEAPONIZED co-host"
+    },
+    {
+      "type": "features_person",
+      "target": "chris-sharp",
+      "role": "guest",
+      "context": "Reported from the UK on military-airspace incursions"
+    },
+    {
+      "type": "features_person",
+      "target": "rory-kremer",
+      "role": "guest",
+      "context": "Described video recorded by his team of an object entering the Pacific Ocean"
+    },
+    {
+      "type": "references_case",
+      "target": "uk-military-airspace-incursions-2024"
+    },
+    {
+      "type": "discussed_topic",
+      "target": "transmedium-uap"
+    },
+    {
+      "type": "references_hearing",
+      "target": "2024-11-13-house-oversight-uap"
+    },
+    {
+      "type": "references_case",
+      "target": "2004-nimitz-encounter"
+    }
+  ],
+  "mediaLinks": [
+    {
+      "label": "Open the official Episode #62 page",
+      "url": "https://www.weaponizedpodcast.com/episodes-3/episode-62",
+      "platform": "WEAPONIZED"
+    },
+    {
+      "label": "Listen to WEAPONIZED",
+      "url": "https://link.chtbl.com/Weaponized",
+      "platform": "Official audio feed"
+    }
+  ],
+  "eventCategory": "Podcast publication",
+  "officialLinks": [],
+  "referenceSources": [
+    {
+      "label": "Official WEAPONIZED Episode #62 page",
+      "url": "https://www.weaponizedpodcast.com/episodes-3/episode-62",
+      "sourceType": "official_episode_page",
+      "role": "source"
+    },
+    {
+      "label": "Listen to WEAPONIZED",
+      "url": "https://link.chtbl.com/Weaponized",
+      "sourceType": "official_audio_feed",
+      "role": "source"
+    }
+  ]
+}

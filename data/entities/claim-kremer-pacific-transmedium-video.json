@@ -1,0 +1,21 @@
+{
+  "id": "claim-kremer-pacific-transmedium-video",
+  "type": "claim",
+  "name": "Rory Kremer’s team recorded an object descending from the sky into the Pacific Ocean",
+  "summary": "Kremer described video of an unidentified object that appeared to transition from air into water.",
+  "relationships": [
+    {
+      "type": "featured_in_media",
+      "target": "2024-weaponized-episode-62"
+    }
+  ],
+  "officialLinks": [],
+  "referenceSources": [
+    {
+      "label": "Official WEAPONIZED Episode #62 page",
+      "url": "https://www.weaponizedpodcast.com/episodes-3/episode-62",
+      "sourceType": "official_episode_page",
+      "role": "source"
+    }
+  ]
+}

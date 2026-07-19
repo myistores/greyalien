@@ -65,6 +65,14 @@
       "date": "2017-01-01"
     },
     {
+      "id": "uk-military-airspace-incursions-2024",
+      "type": "case",
+      "name": "2024 UK Military Airspace Incursions",
+      "summary": "Reports of repeated unidentified aerial objects described as drones operating near United States military facilities in the United Kingdom during late 2024.",
+      "date": "2024-11-20",
+      "dateDisplay": "Late 2024"
+    },
+    {
       "id": "1997-peru-crash-claim",
       "type": "case",
       "name": "Alleged 1997 Peru Crash Encounter",
@@ -188,6 +196,12 @@
       "summary": "Bob Lazar has claimed that nine unconventional craft were housed in hangars at the alleged S4 facility near Area 51."
     },
     {
+      "id": "claim-multi-agency-ocean-technology-operation",
+      "type": "claim",
+      "name": "Chris Sharp reported a multi-agency effort pursuing alleged non-human technology in the ocean",
+      "summary": "Episode #59 presents Sharp’s reporting about an alleged multi-agency operation involving technology in the world’s oceans."
+    },
+    {
       "id": "claim-army-crash-retrieval-teams",
       "type": "claim",
       "name": "Clifford Stone Crash-Retrieval Team Claims",
@@ -200,6 +214,12 @@
       "name": "David Adair Area 51 Engine Claim",
       "summary": "Claim that Adair viewed an unusual or non-human propulsion system at a classified Nevada facility as a young rocketry prodigy.",
       "status": "Longstanding personal account presented in lectures and interviews; not independently established."
+    },
+    {
+      "id": "claim-fravor-added-new-nimitz-details",
+      "type": "claim",
+      "name": "David Fravor provided details about the Tic Tac encounter described as not previously public",
+      "summary": "Episode #61 was presented as a twentieth-anniversary interview containing additional recollections from Fravor."
     },
     {
       "id": "claim-nimitz-tic-tac-performance",
@@ -248,6 +268,18 @@
       "name": "Jonathan Weygandt Peru Crash Claim",
       "summary": "Claim that Weygandt encountered an unusual crashed craft during a 1997 U.S. Marine Corps deployment in Peru and was detained or threatened afterward.",
       "status": "Named firsthand account presented in interviews; no public official confirmation."
+    },
+    {
+      "id": "claim-uap-journalists-targeted-by-provocateurs",
+      "type": "claim",
+      "name": "Journalists covering UAP issues reported being targeted by trolls and provocateurs",
+      "summary": "Chris Sharp and Matt Laslo said they had faced attacks connected to their UAP reporting."
+    },
+    {
+      "id": "claim-uk-drone-incursions-resisted-identification",
+      "type": "claim",
+      "name": "Late-2024 UK military-airspace intrusions had not been publicly identified or stopped",
+      "summary": "Episode #62 describes recurring objects near military facilities and questions why available sensors and defenses had not resolved them."
     },
     {
       "id": "claim-uap-perception-management",
@@ -299,6 +331,12 @@
       "status": "Attributed recommendation presented in an interview."
     },
     {
+      "id": "claim-capitol-hill-uap-hearing-planning",
+      "type": "claim",
+      "name": "Members and staff were planning additional congressional UAP hearings",
+      "summary": "Jeremy Corbell reported meeting House members and staff to discuss plans for upcoming UFO hearings."
+    },
+    {
       "id": "claim-indonesia-human-trafficking-craft",
       "type": "claim",
       "name": "Michael Herrera Indonesia Craft Claim",
@@ -313,6 +351,12 @@
       "status": "Claim published in The Day After Roswell; not established as fact by GreyAlien."
     },
     {
+      "id": "claim-kremer-pacific-transmedium-video",
+      "type": "claim",
+      "name": "Rory Kremer’s team recorded an object descending from the sky into the Pacific Ocean",
+      "summary": "Kremer described video of an unidentified object that appeared to transition from air into water."
+    },
+    {
       "id": "claim-navy-uap-aviation-safety",
       "type": "claim",
       "name": "Ryan Graves states that recurring UAP encounters created an aviation-safety concern",
@@ -323,6 +367,36 @@
       "type": "claim",
       "name": "The filmmakers state that the S4 reconstruction is based on Bob Lazar’s recollections",
       "summary": "The creators of S4: The Bob Lazar Story describe the production’s visual reconstruction of the alleged facility as being developed from Bob Lazar’s recollections and account."
+    },
+    {
+      "id": "claim-nimitz-two-week-sensor-detections",
+      "type": "claim",
+      "name": "The Nimitz carrier group detected unidentified incursions for nearly two weeks in November 2004",
+      "summary": "Episode #61 describes repeated sensor detections before the visual Tic Tac encounter."
+    },
+    {
+      "id": "claim-2024-uap-hearing-left-unresolved-questions",
+      "type": "claim",
+      "name": "The November 2024 congressional UAP hearing left major questions unresolved",
+      "summary": "Episode #62 reviews the hearing’s public results and behind-the-scenes circumstances."
+    },
+    {
+      "id": "claim-2024-uap-disclosure-amendment-failed",
+      "type": "claim",
+      "name": "The proposed 2024 UAP disclosure amendments did not survive the defense authorization process",
+      "summary": "Episode #58 states that the proposed UAP Disclosure amendments were no longer viable for 2024 by the end of the recording session."
+    },
+    {
+      "id": "claim-uap-disclosure-act-remained-possible",
+      "type": "claim",
+      "name": "The UAP Disclosure Act may not have been completely dead in October 2024",
+      "summary": "Matt Laslo provided an update indicating that the legislative effort might still have had a path forward."
+    },
+    {
+      "id": "claim-uap-advocacy-continues-after-legislative-setback",
+      "type": "claim",
+      "name": "UAP transparency advocacy continued after the 2024 legislative setback",
+      "summary": "Lester Nare described continued Capitol Hill advocacy despite opposition to disclosure provisions."
     },
     {
       "id": "2024-afp-icecube-fact-check",
@@ -625,6 +699,12 @@
       "summary": "A pilot-led nonprofit organization focused on UAP reporting, aviation safety, public education, and government transparency."
     },
     {
+      "id": "ask-a-pol",
+      "type": "organization",
+      "name": "Ask a Pol",
+      "summary": "Capitol Hill reporting outlet founded by Matt Laslo, focused on direct interviews with elected officials."
+    },
+    {
       "id": "brazilian-air-force",
       "type": "organization",
       "name": "Brazilian Air Force",
@@ -821,6 +901,12 @@
       "type": "organization",
       "name": "U.S. Department of Homeland Security",
       "summary": "Federal department whose proposed Kona Blue program is discussed in WEAPONIZED Episode #53."
+    },
+    {
+      "id": "uap-caucus",
+      "type": "organization",
+      "name": "UAP Caucus",
+      "summary": "Advocacy initiative focused on congressional engagement and UAP transparency."
     },
     {
       "id": "uap-register",
@@ -1261,6 +1347,12 @@
       "summary": "Investigative journalist whose reporting helped bring modern UAP programs, military encounters, and government records into mainstream public discussion."
     },
     {
+      "id": "lester-nare",
+      "type": "person",
+      "name": "Lester Nare",
+      "summary": "UAP transparency advocate and lobbyist associated with UAP Caucus who discussed congressional strategy in WEAPONIZED Episode #58."
+    },
+    {
       "id": "luigi-venditelli",
       "type": "person",
       "name": "Luigi Venditelli",
@@ -1289,6 +1381,12 @@
       "type": "person",
       "name": "Mario Woods",
       "summary": "Former U.S. Air Force security policeman who has publicly described a 1977 UFO encounter near a nuclear missile facility."
+    },
+    {
+      "id": "matt-laslo",
+      "type": "person",
+      "name": "Matt Laslo",
+      "summary": "Washington-based congressional reporter and founder of Ask a Pol who reports directly from Capitol Hill."
     },
     {
       "id": "matthew-brown",
@@ -1361,6 +1459,12 @@
       "type": "person",
       "name": "Ronald S. Moultrie",
       "summary": "Former Under Secretary of Defense for Intelligence and Security"
+    },
+    {
+      "id": "rory-kremer",
+      "type": "person",
+      "name": "Rory Kremer",
+      "summary": "Underwater archaeologist who described video recorded by his team of an unidentified object descending into the Pacific Ocean."
     },
     {
       "id": "ross-coulthart",
@@ -1608,6 +1712,51 @@
       "summary": "Jeremy Corbell and George Knapp speak with Brazilian investigator Thiago Ticchetti about the Colares UFO incidents, the Brazilian Air Force investigation, alleged injuries, and claims that high-quality military imagery was transferred to the United States.",
       "date": "2024-09-04",
       "dateDisplay": "September 4, 2024",
+      "status": "Published"
+    },
+    {
+      "id": "2024-weaponized-episode-58",
+      "type": "podcast_episode",
+      "name": "WEAPONIZED Episode #58 — UFO Transparency in the Corridors of Power",
+      "summary": "Jeremy Corbell and George Knapp discuss the collapse of proposed 2024 UAP disclosure amendments, plans for additional congressional hearings, and Lester Nare’s Capitol Hill advocacy for continued UAP transparency.",
+      "date": "2024-09-24",
+      "dateDisplay": "September 24, 2024",
+      "status": "Published"
+    },
+    {
+      "id": "2024-weaponized-episode-59",
+      "type": "podcast_episode",
+      "name": "WEAPONIZED Episode #59 — Journalists vs. Secrecy",
+      "summary": "Jeremy Corbell and George Knapp speak with journalists Chris Sharp and Matt Laslo about professional attacks on UAP reporters, Sharp’s reporting on an alleged multi-agency ocean operation, and the status of disclosure legislation and future hearings.",
+      "date": "2024-10-01",
+      "dateDisplay": "October 1, 2024",
+      "status": "Published"
+    },
+    {
+      "id": "2024-weaponized-episode-60",
+      "type": "podcast_episode",
+      "name": "WEAPONIZED Episode #60 — WEAPONIZED Series Overview",
+      "summary": "The official Episode #60 page contains a general description of the WEAPONIZED investigative series rather than a topic-specific episode synopsis. This record preserves the publication date and official source without inventing guests, cases, or claims.",
+      "date": "2024-10-15",
+      "dateDisplay": "October 15, 2024",
+      "status": "Published"
+    },
+    {
+      "id": "2024-weaponized-episode-61",
+      "type": "podcast_episode",
+      "name": "WEAPONIZED Episode #61 — The Tic Tac at Twenty",
+      "summary": "Jeremy Corbell and George Knapp mark the twentieth anniversary of the 2004 Nimitz Tic Tac encounter with David Fravor, reviewing the carrier group’s sensor detections, Fravor’s visual encounter, and the case’s role in renewed government and public attention to UAP.",
+      "date": "2024-11-08",
+      "dateDisplay": "November 8, 2024",
+      "status": "Published"
+    },
+    {
+      "id": "2024-weaponized-episode-62",
+      "type": "podcast_episode",
+      "name": "WEAPONIZED Episode #62 — Sky Intruders, Drones, and a Transmedium UFO Video",
+      "summary": "Jeremy Corbell and George Knapp speak with Chris Sharp about recurring incursions near UK military facilities and with underwater archaeologist Rory Kremer about video of an object appearing to descend into the Pacific Ocean, while also reviewing the November 2024 congressional UAP hearing.",
+      "date": "2024-12-03",
+      "dateDisplay": "December 3, 2024",
       "status": "Published"
     },
     {
@@ -2081,6 +2230,12 @@
       "type": "topic",
       "name": "Scientific Investigation",
       "summary": "Scientific methods, data standards, and research approaches."
+    },
+    {
+      "id": "transmedium-uap",
+      "type": "topic",
+      "name": "Transmedium UAP",
+      "summary": "Reports of unidentified objects appearing to move between air and water without an obvious transition or loss of performance."
     },
     {
       "id": "uap-disclosure-legislation",

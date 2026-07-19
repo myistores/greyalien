@@ -1,0 +1,31 @@
+{
+  "id": "matt-laslo",
+  "type": "person",
+  "name": "Matt Laslo",
+  "summary": "Washington-based congressional reporter and founder of Ask a Pol who reports directly from Capitol Hill.",
+  "relationships": [
+    {
+      "type": "appeared_in",
+      "target": "2024-weaponized-episode-59",
+      "role": "guest"
+    },
+    {
+      "type": "affiliated_with",
+      "target": "ask-a-pol"
+    }
+  ],
+  "profileStatus": "Congressional reporter",
+  "profileSummary": "Washington-based congressional reporter and founder of Ask a Pol.",
+  "profileBadge": "Journalist",
+  "profileBadgeClass": "badge-journalist",
+  "inclusionNote": "Included as a guest in WEAPONIZED Episode #59.",
+  "officialLinks": [],
+  "referenceSources": [
+    {
+      "label": "Official WEAPONIZED Episode #59 page",
+      "url": "https://www.weaponizedpodcast.com/episodes-2/episode-59",
+      "sourceType": "official_episode_page",
+      "role": "source"
+    }
+  ]
+}

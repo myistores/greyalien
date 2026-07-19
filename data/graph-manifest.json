@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "entityCount": 313,
-  "relationshipCount": 980,
+  "entityCount": 336,
+  "relationshipCount": 1039,
   "unresolvedRelationshipCount": 15,
   "connectionCounts": {
     "1960s-area-51-engine-claim": {
@@ -50,9 +50,9 @@
       "total": 1
     },
     "2004-nimitz-encounter": {
-      "incoming": 14,
+      "incoming": 17,
       "outgoing": 4,
-      "total": 18
+      "total": 21
     },
     "2009-indonesia-craft-claim": {
       "incoming": 4,
@@ -205,9 +205,9 @@
       "total": 6
     },
     "2024-11-13-house-oversight-uap": {
-      "incoming": 9,
+      "incoming": 10,
       "outgoing": 11,
-      "total": 20
+      "total": 21
     },
     "2024-11-19-senate-aaro-update": {
       "incoming": 1,
@@ -293,6 +293,31 @@
       "incoming": 1,
       "outgoing": 10,
       "total": 11
+    },
+    "2024-weaponized-episode-58": {
+      "incoming": 5,
+      "outgoing": 7,
+      "total": 12
+    },
+    "2024-weaponized-episode-59": {
+      "incoming": 5,
+      "outgoing": 9,
+      "total": 14
+    },
+    "2024-weaponized-episode-60": {
+      "incoming": 0,
+      "outgoing": 3,
+      "total": 3
+    },
+    "2024-weaponized-episode-61": {
+      "incoming": 2,
+      "outgoing": 6,
+      "total": 8
+    },
+    "2024-weaponized-episode-62": {
+      "incoming": 6,
+      "outgoing": 9,
+      "total": 15
     },
     "2025-09-09-house-uap-transparency-hearing": {
       "incoming": 12,
@@ -389,15 +414,20 @@
       "outgoing": 0,
       "total": 11
     },
+    "ask-a-pol": {
+      "incoming": 2,
+      "outgoing": 2,
+      "total": 4
+    },
     "avi-loeb": {
       "incoming": 4,
       "outgoing": 2,
       "total": 6
     },
     "aviation-safety": {
-      "incoming": 23,
+      "incoming": 25,
       "outgoing": 1,
-      "total": 24
+      "total": 26
     },
     "big-sur-missile-film-claim": {
       "incoming": 1,
@@ -450,9 +480,9 @@
       "total": 3
     },
     "chris-sharp": {
-      "incoming": 2,
+      "incoming": 4,
       "outgoing": 3,
-      "total": 5
+      "total": 7
     },
     "christopher-kit-green": {
       "incoming": 0,
@@ -463,6 +493,16 @@
       "incoming": 4,
       "outgoing": 7,
       "total": 11
+    },
+    "claim-2024-uap-disclosure-amendment-failed": {
+      "incoming": 0,
+      "outgoing": 1,
+      "total": 1
+    },
+    "claim-2024-uap-hearing-left-unresolved-questions": {
+      "incoming": 0,
+      "outgoing": 1,
+      "total": 1
     },
     "claim-additional-uap-insiders-should-come-forward": {
       "incoming": 1,
@@ -484,6 +524,11 @@
       "outgoing": 3,
       "total": 4
     },
+    "claim-capitol-hill-uap-hearing-planning": {
+      "incoming": 0,
+      "outgoing": 1,
+      "total": 1
+    },
     "claim-crash-retrieval-program": {
       "incoming": 11,
       "outgoing": 5,
@@ -498,6 +543,11 @@
       "incoming": 1,
       "outgoing": 4,
       "total": 5
+    },
+    "claim-fravor-added-new-nimitz-details": {
+      "incoming": 0,
+      "outgoing": 1,
+      "total": 1
     },
     "claim-immaculate-constellation-compartmentalization": {
       "incoming": 1,
@@ -524,10 +574,20 @@
       "outgoing": 4,
       "total": 7
     },
+    "claim-kremer-pacific-transmedium-video": {
+      "incoming": 0,
+      "outgoing": 1,
+      "total": 1
+    },
     "claim-langley-triangle-2012": {
       "incoming": 2,
       "outgoing": 4,
       "total": 6
+    },
+    "claim-multi-agency-ocean-technology-operation": {
+      "incoming": 0,
+      "outgoing": 1,
+      "total": 1
     },
     "claim-navy-uap-aviation-safety": {
       "incoming": 1,
@@ -538,6 +598,11 @@
       "incoming": 1,
       "outgoing": 2,
       "total": 3
+    },
+    "claim-nimitz-two-week-sensor-detections": {
+      "incoming": 0,
+      "outgoing": 1,
+      "total": 1
     },
     "claim-peru-crash-retrieval": {
       "incoming": 3,
@@ -574,10 +639,30 @@
       "outgoing": 5,
       "total": 9
     },
+    "claim-uap-advocacy-continues-after-legislative-setback": {
+      "incoming": 0,
+      "outgoing": 1,
+      "total": 1
+    },
+    "claim-uap-disclosure-act-remained-possible": {
+      "incoming": 0,
+      "outgoing": 1,
+      "total": 1
+    },
+    "claim-uap-journalists-targeted-by-provocateurs": {
+      "incoming": 0,
+      "outgoing": 1,
+      "total": 1
+    },
     "claim-uap-perception-management": {
       "incoming": 1,
       "outgoing": 3,
       "total": 4
+    },
+    "claim-uk-drone-incursions-resisted-identification": {
+      "incoming": 0,
+      "outgoing": 1,
+      "total": 1
     },
     "claim-uss-jackson-transmedium-objects": {
       "incoming": 3,
@@ -610,9 +695,9 @@
       "total": 2
     },
     "congressional-oversight": {
-      "incoming": 19,
+      "incoming": 20,
       "outgoing": 0,
-      "total": 19
+      "total": 20
     },
     "crop-circle-investigations": {
       "incoming": 1,
@@ -640,9 +725,9 @@
       "total": 5
     },
     "david-fravor": {
-      "incoming": 5,
+      "incoming": 6,
       "outgoing": 5,
-      "total": 10
+      "total": 11
     },
     "david-grinspoon": {
       "incoming": 0,
@@ -795,14 +880,14 @@
       "total": 3
     },
     "george-knapp": {
-      "incoming": 27,
+      "incoming": 32,
       "outgoing": 7,
-      "total": 34
+      "total": 39
     },
     "government-transparency": {
-      "incoming": 79,
+      "incoming": 81,
       "outgoing": 0,
-      "total": 79
+      "total": 81
     },
     "hal-puthoff": {
       "incoming": 3,
@@ -910,9 +995,9 @@
       "total": 1
     },
     "jeremy-corbell": {
-      "incoming": 27,
+      "incoming": 32,
       "outgoing": 5,
-      "total": 32
+      "total": 37
     },
     "jim-penniston": {
       "incoming": 0,
@@ -999,15 +1084,20 @@
       "outgoing": 1,
       "total": 1
     },
+    "lester-nare": {
+      "incoming": 2,
+      "outgoing": 2,
+      "total": 4
+    },
     "lex-fridman-podcast": {
       "incoming": 1,
       "outgoing": 0,
       "total": 1
     },
     "liberation-times": {
-      "incoming": 2,
+      "incoming": 3,
       "outgoing": 2,
-      "total": 4
+      "total": 5
     },
     "los-alamos-monitor": {
       "incoming": 1,
@@ -1043,6 +1133,11 @@
       "incoming": 0,
       "outgoing": 2,
       "total": 2
+    },
+    "matt-laslo": {
+      "incoming": 2,
+      "outgoing": 2,
+      "total": 4
     },
     "matthew-brown": {
       "incoming": 13,
@@ -1198,6 +1293,11 @@
       "incoming": 0,
       "outgoing": 2,
       "total": 2
+    },
+    "rory-kremer": {
+      "incoming": 1,
+      "outgoing": 2,
+      "total": 3
     },
     "ross-coulthart": {
       "incoming": 2,
@@ -1464,10 +1564,20 @@
       "outgoing": 3,
       "total": 7
     },
+    "transmedium-uap": {
+      "incoming": 2,
+      "outgoing": 2,
+      "total": 4
+    },
     "travis-taylor": {
       "incoming": 0,
       "outgoing": 2,
       "total": 2
+    },
+    "uap-caucus": {
+      "incoming": 2,
+      "outgoing": 2,
+      "total": 4
     },
     "uap-disclosure-act-2023": {
       "incoming": 2,
@@ -1504,10 +1614,15 @@
       "outgoing": 0,
       "total": 6
     },
-    "unidentified-submerged-objects": {
-      "incoming": 2,
-      "outgoing": 1,
+    "uk-military-airspace-incursions-2024": {
+      "incoming": 1,
+      "outgoing": 2,
       "total": 3
+    },
+    "unidentified-submerged-objects": {
+      "incoming": 3,
+      "outgoing": 1,
+      "total": 4
     },
     "united-states-air-force": {
       "incoming": 13,
@@ -1560,9 +1675,9 @@
       "total": 17
     },
     "weaponized-podcast": {
-      "incoming": 28,
+      "incoming": 33,
       "outgoing": 2,
-      "total": 30
+      "total": 35
     },
     "whistleblower-protection": {
       "incoming": 16,

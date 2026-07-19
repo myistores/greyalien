@@ -1,7 +1,7 @@
 {
-  "version": "18.4",
-  "title": "Research Accelerator",
+  "version": "18.5",
+  "title": "WEAPONIZED Episodes 58–62 Production Batch",
   "date": "2026-07-19",
-  "summary": "Introduced a review-first podcast research accelerator that converts official episode pages, saved HTML, and optional transcripts into structured ingestion drafts, confidence reports, matched existing entities, and human-review checklists without modifying the live knowledge graph.",
-  "phase": "Podcast production acceleration — review before publication"
+  "summary": "Added production records for WEAPONIZED Episodes #58–#62, including sourced principal claims, new guest and organization entities, correct official episode paths, and full knowledge-graph integration. Episode #60 was intentionally limited to verified series-level metadata because its official page contains no topic-specific synopsis.",
+  "phase": "Podcast production — Research Accelerator batch"
 }

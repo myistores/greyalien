@@ -1,0 +1,31 @@
+{
+  "id": "rory-kremer",
+  "type": "person",
+  "name": "Rory Kremer",
+  "summary": "Underwater archaeologist who described video recorded by his team of an unidentified object descending into the Pacific Ocean.",
+  "relationships": [
+    {
+      "type": "appeared_in",
+      "target": "2024-weaponized-episode-62",
+      "role": "guest"
+    },
+    {
+      "type": "associated_topic",
+      "target": "transmedium-uap"
+    }
+  ],
+  "profileStatus": "Underwater archaeologist",
+  "profileSummary": "Underwater archaeologist whose team recorded an alleged transmedium object in the Pacific.",
+  "profileBadge": "Witness",
+  "profileBadgeClass": "badge-witness",
+  "inclusionNote": "Included as a guest in WEAPONIZED Episode #62.",
+  "officialLinks": [],
+  "referenceSources": [
+    {
+      "label": "Official WEAPONIZED Episode #62 page",
+      "url": "https://www.weaponizedpodcast.com/episodes-3/episode-62",
+      "sourceType": "official_episode_page",
+      "role": "source"
+    }
+  ]
+}

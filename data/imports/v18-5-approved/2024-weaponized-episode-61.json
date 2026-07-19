@@ -1,0 +1,88 @@
+{
+  "id": "2024-weaponized-episode-61",
+  "type": "podcast_episode",
+  "name": "WEAPONIZED Episode #61 — The Tic Tac at Twenty",
+  "summary": "Jeremy Corbell and George Knapp mark the twentieth anniversary of the 2004 Nimitz Tic Tac encounter with David Fravor, reviewing the carrier group’s sensor detections, Fravor’s visual encounter, and the case’s role in renewed government and public attention to UAP.",
+  "date": "2024-11-08",
+  "dateDisplay": "November 8, 2024",
+  "seriesId": "weaponized-podcast",
+  "episodeNumber": 61,
+  "episodeTitle": "The Tic Tac at Twenty",
+  "status": "Published",
+  "mediaType": "Podcast episode",
+  "mediaPlatform": "WEAPONIZED",
+  "mediaHost": "Jeremy Corbell and George Knapp",
+  "mediaGuests": [
+    "david-fravor"
+  ],
+  "mediaSubjects": [
+    "2004 Nimitz encounter",
+    "Tic Tac UAP",
+    "USS Nimitz carrier group"
+  ],
+  "principalClaims": [
+    "claim-nimitz-two-week-sensor-detections",
+    "claim-fravor-added-new-nimitz-details"
+  ],
+  "researchNotes": [],
+  "relationships": [
+    {
+      "type": "episode_of",
+      "target": "weaponized-podcast"
+    },
+    {
+      "type": "features_person",
+      "target": "jeremy-corbell",
+      "role": "host",
+      "context": "WEAPONIZED co-host"
+    },
+    {
+      "type": "features_person",
+      "target": "george-knapp",
+      "role": "host",
+      "context": "WEAPONIZED co-host"
+    },
+    {
+      "type": "features_person",
+      "target": "david-fravor",
+      "role": "guest",
+      "context": "Recounted the 2004 Tic Tac encounter and added further details"
+    },
+    {
+      "type": "references_case",
+      "target": "2004-nimitz-encounter"
+    },
+    {
+      "type": "discussed_topic",
+      "target": "aviation-safety"
+    }
+  ],
+  "mediaLinks": [
+    {
+      "label": "Open the official Episode #61 page",
+      "url": "https://www.weaponizedpodcast.com/episodes-3/episode-61",
+      "platform": "WEAPONIZED"
+    },
+    {
+      "label": "Listen to WEAPONIZED",
+      "url": "https://link.chtbl.com/Weaponized",
+      "platform": "Official audio feed"
+    }
+  ],
+  "eventCategory": "Podcast publication",
+  "officialLinks": [],
+  "referenceSources": [
+    {
+      "label": "Official WEAPONIZED Episode #61 page",
+      "url": "https://www.weaponizedpodcast.com/episodes-3/episode-61",
+      "sourceType": "official_episode_page",
+      "role": "source"
+    },
+    {
+      "label": "Listen to WEAPONIZED",
+      "url": "https://link.chtbl.com/Weaponized",
+      "sourceType": "official_audio_feed",
+      "role": "source"
+    }
+  ]
+}

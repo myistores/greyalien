@@ -1,0 +1,93 @@
+{
+  "id": "2024-weaponized-episode-58",
+  "type": "podcast_episode",
+  "name": "WEAPONIZED Episode #58 — UFO Transparency in the Corridors of Power",
+  "summary": "Jeremy Corbell and George Knapp discuss the collapse of proposed 2024 UAP disclosure amendments, plans for additional congressional hearings, and Lester Nare’s Capitol Hill advocacy for continued UAP transparency.",
+  "date": "2024-09-24",
+  "dateDisplay": "September 24, 2024",
+  "seriesId": "weaponized-podcast",
+  "episodeNumber": 58,
+  "episodeTitle": "UFO Transparency in the Corridors of Power",
+  "status": "Published",
+  "mediaType": "Podcast episode",
+  "mediaPlatform": "WEAPONIZED",
+  "mediaHost": "Jeremy Corbell and George Knapp",
+  "mediaGuests": [
+    "lester-nare"
+  ],
+  "mediaSubjects": [
+    "UAP Disclosure amendments",
+    "Congressional hearings",
+    "UAP transparency advocacy"
+  ],
+  "principalClaims": [
+    "claim-2024-uap-disclosure-amendment-failed",
+    "claim-capitol-hill-uap-hearing-planning",
+    "claim-uap-advocacy-continues-after-legislative-setback"
+  ],
+  "researchNotes": [],
+  "relationships": [
+    {
+      "type": "episode_of",
+      "target": "weaponized-podcast"
+    },
+    {
+      "type": "features_person",
+      "target": "jeremy-corbell",
+      "role": "host",
+      "context": "WEAPONIZED co-host"
+    },
+    {
+      "type": "features_person",
+      "target": "george-knapp",
+      "role": "host",
+      "context": "WEAPONIZED co-host"
+    },
+    {
+      "type": "features_person",
+      "target": "lester-nare",
+      "role": "guest",
+      "context": "Discussed congressional advocacy and disclosure strategy"
+    },
+    {
+      "type": "references_organization",
+      "target": "uap-caucus"
+    },
+    {
+      "type": "discussed_topic",
+      "target": "congressional-oversight"
+    },
+    {
+      "type": "discussed_topic",
+      "target": "government-transparency"
+    }
+  ],
+  "mediaLinks": [
+    {
+      "label": "Open the official Episode #58 page",
+      "url": "https://www.weaponizedpodcast.com/episodes-2/episode-58",
+      "platform": "WEAPONIZED"
+    },
+    {
+      "label": "Listen to WEAPONIZED",
+      "url": "https://link.chtbl.com/Weaponized",
+      "platform": "Official audio feed"
+    }
+  ],
+  "eventCategory": "Podcast publication",
+  "officialLinks": [],
+  "referenceSources": [
+    {
+      "label": "Official WEAPONIZED Episode #58 page",
+      "url": "https://www.weaponizedpodcast.com/episodes-2/episode-58",
+      "sourceType": "official_episode_page",
+      "role": "source"
+    },
+    {
+      "label": "Listen to WEAPONIZED",
+      "url": "https://link.chtbl.com/Weaponized",
+      "sourceType": "official_audio_feed",
+      "role": "source"
+    }
+  ]
+}

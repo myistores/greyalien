@@ -1,0 +1,21 @@
+{
+  "id": "claim-uap-advocacy-continues-after-legislative-setback",
+  "type": "claim",
+  "name": "UAP transparency advocacy continued after the 2024 legislative setback",
+  "summary": "Lester Nare described continued Capitol Hill advocacy despite opposition to disclosure provisions.",
+  "relationships": [
+    {
+      "type": "featured_in_media",
+      "target": "2024-weaponized-episode-58"
+    }
+  ],
+  "officialLinks": [],
+  "referenceSources": [
+    {
+      "label": "Official WEAPONIZED Episode #58 page",
+      "url": "https://www.weaponizedpodcast.com/episodes-2/episode-58",
+      "sourceType": "official_episode_page",
+      "role": "source"
+    }
+  ]
+}

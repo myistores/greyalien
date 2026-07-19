@@ -1,0 +1,80 @@
+{
+  "startedAt": "2026-07-19T18:39:26.705036+00:00",
+  "source": "/mnt/data/greyalien_v185/data/imports/v18-5-approved",
+  "dryRun": true,
+  "replace": false,
+  "files": [
+    "2024-weaponized-episode-58.json",
+    "2024-weaponized-episode-59.json",
+    "2024-weaponized-episode-60.json",
+    "2024-weaponized-episode-61.json",
+    "2024-weaponized-episode-62.json",
+    "ask-a-pol.json",
+    "claim-2024-uap-disclosure-amendment-failed.json",
+    "claim-2024-uap-hearing-left-unresolved-questions.json",
+    "claim-capitol-hill-uap-hearing-planning.json",
+    "claim-fravor-added-new-nimitz-details.json",
+    "claim-kremer-pacific-transmedium-video.json",
+    "claim-multi-agency-ocean-technology-operation.json",
+    "claim-nimitz-two-week-sensor-detections.json",
+    "claim-uap-advocacy-continues-after-legislative-setback.json",
+    "claim-uap-disclosure-act-remained-possible.json",
+    "claim-uap-journalists-targeted-by-provocateurs.json",
+    "claim-uk-drone-incursions-resisted-identification.json",
+    "lester-nare.json",
+    "matt-laslo.json",
+    "rory-kremer.json",
+    "transmedium-uap.json",
+    "uap-caucus.json",
+    "uk-military-airspace-incursions-2024.json"
+  ],
+  "status": "build_failed",
+  "steps": [
+    {
+      "name": "validate_records",
+      "returnCode": 0,
+      "output": "Validated 23 import record(s): 0 error(s), 0 warning(s).\n"
+    },
+    {
+      "name": "build_graph.py",
+      "returnCode": 0,
+      "output": "Built index for 336 entities and 1039 resolved relationships.\n"
+    },
+    {
+      "name": "build_timeline_normalization.py",
+      "returnCode": 0,
+      "output": "Timeline normalization built: 33 canonical events, 3 aliases, 0 conflicts.\n"
+    },
+    {
+      "name": "build_podcasts.py",
+      "returnCode": 0,
+      "output": "Built 8 podcast series and 27 episode records.\n"
+    },
+    {
+      "name": "build_related_content.py",
+      "returnCode": 0,
+      "output": "Built related-content data for 336 entities and 27 podcast episodes.\n"
+    },
+    {
+      "name": "build_entity_pages.py",
+      "returnCode": 0,
+      "output": "Generated 336 stable entity pages.\n"
+    },
+    {
+      "name": "build_homepage.py",
+      "returnCode": 0,
+      "output": "Updated homepage Latest Additions for GreyAlien Version 18.4.\n"
+    },
+    {
+      "name": "build_sitemap.py",
+      "returnCode": 0,
+      "output": "Built sitemap with 347 URLs.\n"
+    },
+    {
+      "name": "validate_graph.py",
+      "returnCode": 1,
+      "output": "Checked 336 entities and 1054 declared relationships.\nWarnings: 15 unresolved legacy relationship targets remain.\nVALIDATION FAILED\n- ask-a-pol: unknown relationship type associated_person\n- ask-a-pol: unknown relationship type discussed_in\n- claim-2024-uap-disclosure-amendment-failed: unknown relationship type documented_in\n- claim-2024-uap-hearing-left-unresolved-questions: unknown relationship type documented_in\n- claim-capitol-hill-uap-hearing-planning: unknown relationship type documented_in\n- claim-fravor-added-new-nimitz-details: unknown relationship type documented_in\n- claim-kremer-pacific-transmedium-video: unknown relationship type documented_in\n- claim-multi-agency-ocean-technology-operation: unknown relationship type documented_in\n- claim-nimitz-two-week-sensor-detections: unknown relationship type documented_in\n- claim-uap-advocacy-continues-after-legislative-setback: unknown relationship type documented_in\n- claim-uap-disclosure-act-remained-possible: unknown relationship type documented_in\n- claim-uap-journalists-targeted-by-provocateurs: unknown relationship type documented_in\n- claim-uk-drone-incursions-resisted-identification: unknown relationship type documented_in\n- transmedium-uap: unknown relationship type discussed_in\n- transmedium-uap: unknown relationship type associated_case\n- uap-caucus: unknown relationship type associated_person\n- uap-caucus: unknown relationship type discussed_in\n- uk-military-airspace-incursions-2024: unknown relationship type discussed_in\n"
+    }
+  ],
+  "finishedAt": "2026-07-19T18:39:47.978759+00:00"
+}

@@ -1,0 +1,21 @@
+{
+  "id": "claim-multi-agency-ocean-technology-operation",
+  "type": "claim",
+  "name": "Chris Sharp reported a multi-agency effort pursuing alleged non-human technology in the ocean",
+  "summary": "Episode #59 presents Sharp’s reporting about an alleged multi-agency operation involving technology in the world’s oceans.",
+  "relationships": [
+    {
+      "type": "featured_in_media",
+      "target": "2024-weaponized-episode-59"
+    }
+  ],
+  "officialLinks": [],
+  "referenceSources": [
+    {
+      "label": "Official WEAPONIZED Episode #59 page",
+      "url": "https://www.weaponizedpodcast.com/episodes-2/episode-59",
+      "sourceType": "official_episode_page",
+      "role": "source"
+    }
+  ]
+}

@@ -1,0 +1,105 @@
+{
+  "id": "2024-weaponized-episode-59",
+  "type": "podcast_episode",
+  "name": "WEAPONIZED Episode #59 — Journalists vs. Secrecy",
+  "summary": "Jeremy Corbell and George Knapp speak with journalists Chris Sharp and Matt Laslo about professional attacks on UAP reporters, Sharp’s reporting on an alleged multi-agency ocean operation, and the status of disclosure legislation and future hearings.",
+  "date": "2024-10-01",
+  "dateDisplay": "October 1, 2024",
+  "seriesId": "weaponized-podcast",
+  "episodeNumber": 59,
+  "episodeTitle": "Journalists vs. Secrecy",
+  "status": "Published",
+  "mediaType": "Podcast episode",
+  "mediaPlatform": "WEAPONIZED",
+  "mediaHost": "Jeremy Corbell and George Knapp",
+  "mediaGuests": [
+    "chris-sharp",
+    "matt-laslo"
+  ],
+  "mediaSubjects": [
+    "UAP journalism",
+    "Ocean-based UAP programs",
+    "UAP Disclosure Act",
+    "Congressional hearings"
+  ],
+  "principalClaims": [
+    "claim-multi-agency-ocean-technology-operation",
+    "claim-uap-journalists-targeted-by-provocateurs",
+    "claim-uap-disclosure-act-remained-possible"
+  ],
+  "researchNotes": [],
+  "relationships": [
+    {
+      "type": "episode_of",
+      "target": "weaponized-podcast"
+    },
+    {
+      "type": "features_person",
+      "target": "jeremy-corbell",
+      "role": "host",
+      "context": "WEAPONIZED co-host"
+    },
+    {
+      "type": "features_person",
+      "target": "george-knapp",
+      "role": "host",
+      "context": "WEAPONIZED co-host"
+    },
+    {
+      "type": "features_person",
+      "target": "chris-sharp",
+      "role": "guest",
+      "context": "Discussed Liberation Times reporting and pressure on UAP journalists"
+    },
+    {
+      "type": "features_person",
+      "target": "matt-laslo",
+      "role": "guest",
+      "context": "Provided congressional reporting and legislative update"
+    },
+    {
+      "type": "references_organization",
+      "target": "liberation-times"
+    },
+    {
+      "type": "references_organization",
+      "target": "ask-a-pol"
+    },
+    {
+      "type": "discussed_topic",
+      "target": "unidentified-submerged-objects"
+    },
+    {
+      "type": "discussed_topic",
+      "target": "government-transparency"
+    }
+  ],
+  "mediaLinks": [
+    {
+      "label": "Open the official Episode #59 page",
+      "url": "https://www.weaponizedpodcast.com/episodes-2/episode-59",
+      "platform": "WEAPONIZED"
+    },
+    {
+      "label": "Listen to WEAPONIZED",
+      "url": "https://link.chtbl.com/Weaponized",
+      "platform": "Official audio feed"
+    }
+  ],
+  "eventCategory": "Podcast publication",
+  "officialLinks": [],
+  "referenceSources": [
+    {
+      "label": "Official WEAPONIZED Episode #59 page",
+      "url": "https://www.weaponizedpodcast.com/episodes-2/episode-59",
+      "sourceType": "official_episode_page",
+      "role": "source"
+    },
+    {
+      "label": "Listen to WEAPONIZED",
+      "url": "https://link.chtbl.com/Weaponized",
+      "sourceType": "official_audio_feed",
+      "role": "source"
+    }
+  ]
+}

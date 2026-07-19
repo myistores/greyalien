@@ -1,0 +1,69 @@
+{
+  "id": "2024-weaponized-episode-60",
+  "type": "podcast_episode",
+  "name": "WEAPONIZED Episode #60 — WEAPONIZED Series Overview",
+  "summary": "The official Episode #60 page contains a general description of the WEAPONIZED investigative series rather than a topic-specific episode synopsis. This record preserves the publication date and official source without inventing guests, cases, or claims.",
+  "date": "2024-10-15",
+  "dateDisplay": "October 15, 2024",
+  "seriesId": "weaponized-podcast",
+  "episodeNumber": 60,
+  "episodeTitle": "WEAPONIZED Series Overview",
+  "status": "Published",
+  "mediaType": "Podcast episode",
+  "mediaPlatform": "WEAPONIZED",
+  "mediaHost": "Jeremy Corbell and George Knapp",
+  "mediaGuests": [],
+  "mediaSubjects": [
+    "WEAPONIZED series overview"
+  ],
+  "principalClaims": [],
+  "researchNotes": [
+    "The official page provides no episode-specific guests, cases, or substantive claims; none were inferred."
+  ],
+  "relationships": [
+    {
+      "type": "episode_of",
+      "target": "weaponized-podcast"
+    },
+    {
+      "type": "features_person",
+      "target": "jeremy-corbell",
+      "role": "host",
+      "context": "WEAPONIZED co-host"
+    },
+    {
+      "type": "features_person",
+      "target": "george-knapp",
+      "role": "host",
+      "context": "WEAPONIZED co-host"
+    }
+  ],
+  "mediaLinks": [
+    {
+      "label": "Open the official Episode #60 page",
+      "url": "https://www.weaponizedpodcast.com/episodes-2/episode-60",
+      "platform": "WEAPONIZED"
+    },
+    {
+      "label": "Listen to WEAPONIZED",
+      "url": "https://link.chtbl.com/Weaponized",
+      "platform": "Official audio feed"
+    }
+  ],
+  "eventCategory": "Podcast publication",
+  "officialLinks": [],
+  "referenceSources": [
+    {
+      "label": "Official WEAPONIZED Episode #60 page",
+      "url": "https://www.weaponizedpodcast.com/episodes-2/episode-60",
+      "sourceType": "official_episode_page",
+      "role": "source"
+    },
+    {
+      "label": "Listen to WEAPONIZED",
+      "url": "https://link.chtbl.com/Weaponized",
+      "sourceType": "official_audio_feed",
+      "role": "source"
+    }
+  ]
+}

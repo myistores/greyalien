@@ -1,0 +1,21 @@
+{
+  "id": "claim-uk-drone-incursions-resisted-identification",
+  "type": "claim",
+  "name": "Late-2024 UK military-airspace intrusions had not been publicly identified or stopped",
+  "summary": "Episode #62 describes recurring objects near military facilities and questions why available sensors and defenses had not resolved them.",
+  "relationships": [
+    {
+      "type": "featured_in_media",
+      "target": "2024-weaponized-episode-62"
+    }
+  ],
+  "officialLinks": [],
+  "referenceSources": [
+    {
+      "label": "Official WEAPONIZED Episode #62 page",
+      "url": "https://www.weaponizedpodcast.com/episodes-3/episode-62",
+      "sourceType": "official_episode_page",
+      "role": "source"
+    }
+  ]
+}

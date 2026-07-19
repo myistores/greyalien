@@ -1,0 +1,31 @@
+{
+  "id": "lester-nare",
+  "type": "person",
+  "name": "Lester Nare",
+  "summary": "UAP transparency advocate and lobbyist associated with UAP Caucus who discussed congressional strategy in WEAPONIZED Episode #58.",
+  "relationships": [
+    {
+      "type": "appeared_in",
+      "target": "2024-weaponized-episode-58",
+      "role": "guest"
+    },
+    {
+      "type": "affiliated_with",
+      "target": "uap-caucus"
+    }
+  ],
+  "profileStatus": "UAP transparency advocate",
+  "profileSummary": "UAP transparency advocate and lobbyist associated with UAP Caucus.",
+  "profileBadge": "Advocate",
+  "profileBadgeClass": "badge-advocate",
+  "inclusionNote": "Included as the guest in WEAPONIZED Episode #58.",
+  "officialLinks": [],
+  "referenceSources": [
+    {
+      "label": "Official WEAPONIZED Episode #58 page",
+      "url": "https://www.weaponizedpodcast.com/episodes-2/episode-58",
+      "sourceType": "official_episode_page",
+      "role": "source"
+    }
+  ]
+}
