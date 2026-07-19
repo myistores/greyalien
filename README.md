@@ -60,3 +60,13 @@ See `PHASE4_AUTOMATION.md` for the generated assets and testing workflow.
 ## V17.4 rendering refinement
 
 V17.4 groups relationship cards by target entity category and retains the specific relationship as the card badge. This prevents duplicate user-facing sections such as two separate Related Media blocks. Rendering categories are centralized in `data/schema/rendering-groups.json` and checked by `tools/validate_rendering_rules.py`. See `PHASE4_REFINEMENT1_RENDERING_RULES.md`.
+
+## V18.4 Research Accelerator
+
+Create reviewable podcast ingestion drafts with:
+
+```bash
+python tools/research_accelerator.py data/research-accelerator/templates/batch-manifest.json
+```
+
+The accelerator never publishes directly. See `V18_4_RESEARCH_ACCELERATOR.md`.

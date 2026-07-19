@@ -1,7 +1,7 @@
-# GreyAlien V18.3.1 Deployment Report
+# GreyAlien V18.4 Deployment Report
 
 **Status:** Ready for deployment  
-**Generated:** 2026-07-19T15:11:50.702459+00:00
+**Generated:** 2026-07-19T15:43:04.551238+00:00
 
 - Entities: 313
 - Resolved relationships: 980
@@ -15,4 +15,4 @@
 
 ## Release summary
 
-Separated entity-owned official websites and social profiles from the podcasts, hearings, reports, books, and articles used as GreyAlien research references. Organization pages without a verified official presence now say so clearly instead of presenting a podcast episode as the organization website.
+Introduced a review-first podcast research accelerator that converts official episode pages, saved HTML, and optional transcripts into structured ingestion drafts, confidence reports, matched existing entities, and human-review checklists without modifying the live knowledge graph.

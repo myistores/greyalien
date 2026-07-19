@@ -1,3 +1,12 @@
+# V18.4 — Research Accelerator
+
+- Added a review-first podcast research accelerator using official episode pages, saved HTML, and optional transcripts.
+- Added automatic metadata extraction, existing-entity matching, draft relationship generation, confidence scoring, and human-review checklists.
+- Preserved editorial safety: the accelerator does not modify the live graph or auto-publish claims.
+- Added a five-episode WEAPONIZED manifest template for Episodes #58–#62.
+- Added automated fixture validation to the standard build pipeline.
+- Updated homepage Latest Additions.
+
 # V18.2.1 — WEAPONIZED Visual Identity Test (Corrected)
 
 - Added the actual live WEAPONIZED series banner and responsive styles.

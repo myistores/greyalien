@@ -1,7 +1,7 @@
 {
-  "version": "18.3.1",
-  "title": "Official Links and Reference Sources",
+  "version": "18.4",
+  "title": "Research Accelerator",
   "date": "2026-07-19",
-  "summary": "Separated entity-owned official websites and social profiles from the podcasts, hearings, reports, books, and articles used as GreyAlien research references. Organization pages without a verified official presence now say so clearly instead of presenting a podcast episode as the organization website.",
-  "phase": "Architectural refinement \u2014 identity links and research provenance"
+  "summary": "Introduced a review-first podcast research accelerator that converts official episode pages, saved HTML, and optional transcripts into structured ingestion drafts, confidence reports, matched existing entities, and human-review checklists without modifying the live knowledge graph.",
+  "phase": "Podcast production acceleration — review before publication"
 }
