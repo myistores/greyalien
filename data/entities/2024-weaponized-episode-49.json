@@ -1,0 +1,97 @@
+{
+  "id": "2024-weaponized-episode-49",
+  "type": "podcast_episode",
+  "name": "WEAPONIZED Episode #49 — Pushback, AARO, and the UFO Information War",
+  "summary": "Jeremy Corbell and George Knapp examine institutional and media pushback against UAP disclosure efforts, discuss former AARO director Sean Kirkpatrick, and include a segment featuring Bob Lazar.",
+  "date": "2024-02-05",
+  "dateDisplay": "February 5, 2024",
+  "seriesId": "weaponized-podcast",
+  "episodeNumber": 49,
+  "episodeTitle": "Pushback, AARO, and the UFO Information War",
+  "status": "Published",
+  "mediaType": "Podcast episode",
+  "mediaPlatform": "WEAPONIZED",
+  "mediaHost": "Jeremy Corbell and George Knapp",
+  "mediaGuests": [],
+  "mediaSubjects": [
+    "Sean Kirkpatrick",
+    "AARO",
+    "UAP disclosure opposition",
+    "Bob Lazar"
+  ],
+  "principalClaims": [],
+  "researchNotes": [],
+  "relationships": [
+    {
+      "type": "episode_of",
+      "target": "weaponized-podcast"
+    },
+    {
+      "type": "features_person",
+      "target": "jeremy-corbell",
+      "role": "host",
+      "context": "WEAPONIZED co-host"
+    },
+    {
+      "type": "features_person",
+      "target": "george-knapp",
+      "role": "host",
+      "context": "WEAPONIZED co-host"
+    },
+    {
+      "type": "features_person",
+      "target": "sean-kirkpatrick",
+      "role": "discussed_subject",
+      "context": "Former AARO director discussed"
+    },
+    {
+      "type": "features_person",
+      "target": "bob-lazar",
+      "role": "featured_subject",
+      "context": "Featured segment"
+    },
+    {
+      "type": "references_organization",
+      "target": "aaro",
+      "role": "discussed_organization",
+      "context": "AARO and its former leadership"
+    },
+    {
+      "type": "discussed_topic",
+      "target": "government-transparency"
+    },
+    {
+      "type": "discussed_topic",
+      "target": "uap-research"
+    }
+  ],
+  "sources": [
+    {
+      "label": "Official WEAPONIZED Episode #49 page",
+      "url": "https://www.weaponizedpodcast.com/episodes-2/episode-49",
+      "sourceType": "official_episode_page",
+      "primary": true
+    },
+    {
+      "label": "Listen to WEAPONIZED",
+      "url": "https://link.chtbl.com/Weaponized",
+      "sourceType": "official_audio_feed",
+      "primary": false
+    }
+  ],
+  "externalUrl": "https://www.weaponizedpodcast.com/episodes-2/episode-49",
+  "externalLinkLabel": "Open official Episode #49 page",
+  "mediaLinks": [
+    {
+      "label": "Open the official Episode #49 page",
+      "url": "https://www.weaponizedpodcast.com/episodes-2/episode-49",
+      "platform": "WEAPONIZED"
+    },
+    {
+      "label": "Listen to WEAPONIZED",
+      "url": "https://link.chtbl.com/Weaponized",
+      "platform": "Official audio feed"
+    }
+  ],
+  "eventCategory": "Podcast publication"
+}

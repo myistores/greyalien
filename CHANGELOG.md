@@ -264,3 +264,12 @@
 - Added machine-readable and Markdown deployment reports.
 - Updated transactional imports to use the same build sequence.
 - Added progressive entity-page rendering for Related Episodes and Referenced In sections.
+
+
+## V18.2 — Production Batch #2 + Universal Source System
+- Ingested WEAPONIZED Episodes #48–#52.
+- Preserved Episode #51 as an unreleased catalog placeholder without invented content.
+- Added Ernest Cline and Colm Kelleher entity records.
+- Added universal rendering for structured `sources[]`.
+- Added official website buttons and additional source panels.
+- Added source architecture validation to the one-command automation pipeline.

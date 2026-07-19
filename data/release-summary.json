@@ -1,7 +1,7 @@
 {
-  "version": "18.1",
-  "title": "First Five-Episode Production Batch",
+  "version": "18.2",
+  "title": "Production Batch #2 + Universal Source System",
   "date": "2026-07-19",
-  "summary": "Ingested five consecutive WEAPONIZED episodes (#43–#47) in one transactional batch. Added new connected records for Chris Sharp, John B. Alexander, Richard Dolan, Liberation Times, the Advanced Theoretical Physics Program, unidentified submerged objects, and the 2017 Iraq Jellyfish UAP incident. Rebuilt podcast indexes, relationships, entity pages, recommendations, timeline normalization, homepage updates, and sitemap through the automated pipeline.",
-  "phase": "High-throughput podcast ingestion"
+  "summary": "Ingested WEAPONIZED Episodes #48\u2013#52, including an integrity-preserving unreleased placeholder for Episode #51. Added Ernest Cline and Colm Kelleher records. Introduced universal rendering of structured sources[], official website buttons, additional source panels, and automated source validation across entity types.",
+  "phase": "High-throughput podcast ingestion and source architecture"
 }

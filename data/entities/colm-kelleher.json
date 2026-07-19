@@ -1,0 +1,23 @@
+{
+  "id": "colm-kelleher",
+  "type": "person",
+  "name": "Colm Kelleher",
+  "summary": "Biochemist and former National Institute for Discovery Science researcher associated with investigations of anomalous phenomena and UAP-related programs.",
+  "profileStatus": "Research scientist and author",
+  "relationships": [
+    {
+      "type": "appeared_in",
+      "target": "2024-weaponized-episode-52",
+      "role": "referenced_subject",
+      "context": "Referenced in season retrospective"
+    }
+  ],
+  "sources": [
+    {
+      "label": "Official WEAPONIZED Episode #52 page",
+      "url": "https://www.weaponizedpodcast.com/episodes-2/episode-52",
+      "sourceType": "official_episode_page",
+      "primary": true
+    }
+  ]
+}

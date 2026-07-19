@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "entityCount": 286,
-  "relationshipCount": 882,
+  "entityCount": 293,
+  "relationshipCount": 922,
   "unresolvedRelationshipCount": 15,
   "connectionCounts": {
     "1960s-area-51-engine-claim": {
@@ -239,6 +239,31 @@
       "outgoing": 8,
       "total": 9
     },
+    "2024-weaponized-episode-48": {
+      "incoming": 1,
+      "outgoing": 6,
+      "total": 7
+    },
+    "2024-weaponized-episode-49": {
+      "incoming": 0,
+      "outgoing": 8,
+      "total": 8
+    },
+    "2024-weaponized-episode-50": {
+      "incoming": 0,
+      "outgoing": 7,
+      "total": 7
+    },
+    "2024-weaponized-episode-51": {
+      "incoming": 0,
+      "outgoing": 3,
+      "total": 3
+    },
+    "2024-weaponized-episode-52": {
+      "incoming": 1,
+      "outgoing": 14,
+      "total": 15
+    },
     "2025-09-09-house-uap-transparency-hearing": {
       "incoming": 12,
       "outgoing": 9,
@@ -280,9 +305,9 @@
       "total": 17
     },
     "aaro": {
-      "incoming": 14,
+      "incoming": 16,
       "outgoing": 4,
-      "total": 18
+      "total": 20
     },
     "aatip": {
       "incoming": 1,
@@ -355,14 +380,14 @@
       "total": 2
     },
     "bob-lazar": {
-      "incoming": 13,
+      "incoming": 14,
       "outgoing": 5,
-      "total": 18
+      "total": 19
     },
     "bryce-zabel": {
-      "incoming": 1,
+      "incoming": 2,
       "outgoing": 1,
-      "total": 2
+      "total": 3
     },
     "carl-sagan": {
       "incoming": 0,
@@ -534,10 +559,15 @@
       "outgoing": 2,
       "total": 3
     },
+    "colm-kelleher": {
+      "incoming": 1,
+      "outgoing": 1,
+      "total": 2
+    },
     "congressional-oversight": {
-      "incoming": 15,
+      "incoming": 17,
       "outgoing": 0,
-      "total": 15
+      "total": 17
     },
     "daniel-sheehan": {
       "incoming": 0,
@@ -585,9 +615,9 @@
       "total": 4
     },
     "department-of-defense": {
-      "incoming": 33,
+      "incoming": 34,
       "outgoing": 3,
-      "total": 36
+      "total": 37
     },
     "disclosure-project": {
       "incoming": 1,
@@ -644,6 +674,11 @@
       "outgoing": 2,
       "total": 4
     },
+    "ernest-cline": {
+      "incoming": 1,
+      "outgoing": 1,
+      "total": 2
+    },
     "event-2023-house-hearing-held": {
       "incoming": 0,
       "outgoing": 2,
@@ -690,14 +725,14 @@
       "total": 3
     },
     "george-knapp": {
-      "incoming": 17,
+      "incoming": 22,
       "outgoing": 7,
-      "total": 24
+      "total": 29
     },
     "government-transparency": {
-      "incoming": 73,
+      "incoming": 76,
       "outgoing": 0,
-      "total": 73
+      "total": 76
     },
     "hal-puthoff": {
       "incoming": 3,
@@ -780,9 +815,9 @@
       "total": 1
     },
     "james-lacatski": {
-      "incoming": 0,
+      "incoming": 1,
       "outgoing": 1,
-      "total": 1
+      "total": 2
     },
     "jared-moskowitz": {
       "incoming": 0,
@@ -795,9 +830,9 @@
       "total": 3
     },
     "jay-stratton": {
-      "incoming": 0,
+      "incoming": 1,
       "outgoing": 2,
-      "total": 2
+      "total": 3
     },
     "jeffrey-nuccetelli": {
       "incoming": 0,
@@ -805,9 +840,9 @@
       "total": 1
     },
     "jeremy-corbell": {
-      "incoming": 17,
+      "incoming": 22,
       "outgoing": 5,
-      "total": 22
+      "total": 27
     },
     "jim-penniston": {
       "incoming": 0,
@@ -825,9 +860,9 @@
       "total": 2
     },
     "joe-murgia": {
-      "incoming": 1,
+      "incoming": 2,
       "outgoing": 2,
-      "total": 3
+      "total": 4
     },
     "joe-spielberger": {
       "incoming": 0,
@@ -1050,9 +1085,9 @@
       "total": 3
     },
     "richard-dolan": {
-      "incoming": 1,
+      "incoming": 2,
       "outgoing": 4,
-      "total": 5
+      "total": 6
     },
     "robert-jacobs": {
       "incoming": 0,
@@ -1075,9 +1110,9 @@
       "total": 2
     },
     "ross-coulthart": {
-      "incoming": 1,
+      "incoming": 2,
       "outgoing": 3,
-      "total": 4
+      "total": 5
     },
     "roswell-incident": {
       "incoming": 4,
@@ -1100,9 +1135,9 @@
       "total": 14
     },
     "scientific-investigation": {
-      "incoming": 31,
+      "incoming": 32,
       "outgoing": 0,
-      "total": 31
+      "total": 32
     },
     "scott-bray": {
       "incoming": 0,
@@ -1115,9 +1150,9 @@
       "total": 4
     },
     "sean-kirkpatrick": {
-      "incoming": 3,
+      "incoming": 4,
       "outgoing": 4,
-      "total": 7
+      "total": 8
     },
     "senate-armed-services-committee": {
       "incoming": 5,
@@ -1175,9 +1210,9 @@
       "total": 1
     },
     "tim-burchett": {
-      "incoming": 0,
+      "incoming": 1,
       "outgoing": 1,
-      "total": 1
+      "total": 2
     },
     "tim-gallaudet": {
       "incoming": 0,
@@ -1355,9 +1390,9 @@
       "total": 13
     },
     "uap-research": {
-      "incoming": 4,
+      "incoming": 7,
       "outgoing": 0,
-      "total": 4
+      "total": 7
     },
     "uap-science-advisory-council": {
       "incoming": 2,
@@ -1425,9 +1460,9 @@
       "total": 17
     },
     "weaponized-podcast": {
-      "incoming": 18,
+      "incoming": 23,
       "outgoing": 2,
-      "total": 20
+      "total": 25
     },
     "whistleblower-protection": {
       "incoming": 16,

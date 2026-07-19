@@ -1,0 +1,86 @@
+{
+  "id": "2024-weaponized-episode-48",
+  "type": "podcast_episode",
+  "name": "WEAPONIZED Episode #48 — Ernest Cline, UFO History, and Science-Fiction Culture",
+  "summary": "Jeremy Corbell and George Knapp visit author and screenwriter Ernest Cline to discuss his career, UFO research interests, science-fiction influences, and extensive collection of pop-culture and UFO materials.",
+  "date": "2024-01-22",
+  "dateDisplay": "January 22, 2024",
+  "seriesId": "weaponized-podcast",
+  "episodeNumber": 48,
+  "episodeTitle": "Ernest Cline, UFO History, and Science-Fiction Culture",
+  "status": "Published",
+  "mediaType": "Podcast episode",
+  "mediaPlatform": "WEAPONIZED",
+  "mediaHost": "Jeremy Corbell and George Knapp",
+  "mediaGuests": [],
+  "mediaSubjects": [
+    "Ernest Cline",
+    "UFO history",
+    "Science-fiction culture"
+  ],
+  "principalClaims": [],
+  "researchNotes": [
+    "Official description identifies this as a bonus episode recorded in Austin, Texas."
+  ],
+  "relationships": [
+    {
+      "type": "episode_of",
+      "target": "weaponized-podcast"
+    },
+    {
+      "type": "features_person",
+      "target": "jeremy-corbell",
+      "role": "host",
+      "context": "WEAPONIZED co-host"
+    },
+    {
+      "type": "features_person",
+      "target": "george-knapp",
+      "role": "host",
+      "context": "WEAPONIZED co-host"
+    },
+    {
+      "type": "features_person",
+      "target": "ernest-cline",
+      "role": "guest",
+      "context": "Featured guest"
+    },
+    {
+      "type": "discussed_topic",
+      "target": "uap-research"
+    },
+    {
+      "type": "discussed_topic",
+      "target": "scientific-investigation"
+    }
+  ],
+  "sources": [
+    {
+      "label": "Official WEAPONIZED Episode #48 page",
+      "url": "https://www.weaponizedpodcast.com/episodes-2/episode-48",
+      "sourceType": "official_episode_page",
+      "primary": true
+    },
+    {
+      "label": "Listen to WEAPONIZED",
+      "url": "https://link.chtbl.com/Weaponized",
+      "sourceType": "official_audio_feed",
+      "primary": false
+    }
+  ],
+  "externalUrl": "https://www.weaponizedpodcast.com/episodes-2/episode-48",
+  "externalLinkLabel": "Open official Episode #48 page",
+  "mediaLinks": [
+    {
+      "label": "Open the official Episode #48 page",
+      "url": "https://www.weaponizedpodcast.com/episodes-2/episode-48",
+      "platform": "WEAPONIZED"
+    },
+    {
+      "label": "Listen to WEAPONIZED",
+      "url": "https://link.chtbl.com/Weaponized",
+      "platform": "Official audio feed"
+    }
+  ],
+  "eventCategory": "Podcast publication"
+}

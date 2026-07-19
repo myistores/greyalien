@@ -1,12 +1,12 @@
 {
-  "startedAt": "2026-07-19T04:02:36.498584+00:00",
-  "finishedAt": "2026-07-19T04:02:51.637299+00:00",
+  "startedAt": "2026-07-19T04:37:24.292427+00:00",
+  "finishedAt": "2026-07-19T04:37:40.475751+00:00",
   "status": "passed",
   "steps": [
     {
       "step": "build_graph.py",
       "returnCode": 0,
-      "output": "Built index for 286 entities and 882 resolved relationships."
+      "output": "Built index for 293 entities and 922 resolved relationships."
     },
     {
       "step": "build_timeline_normalization.py",
@@ -16,37 +16,37 @@
     {
       "step": "build_podcasts.py",
       "returnCode": 0,
-      "output": "Built 8 podcast series and 12 episode records."
+      "output": "Built 8 podcast series and 17 episode records."
     },
     {
       "step": "build_related_content.py",
       "returnCode": 0,
-      "output": "Built related-content data for 286 entities and 12 podcast episodes."
+      "output": "Built related-content data for 293 entities and 17 podcast episodes."
     },
     {
       "step": "build_entity_pages.py",
       "returnCode": 0,
-      "output": "Generated 286 stable entity pages."
+      "output": "Generated 293 stable entity pages."
     },
     {
       "step": "build_homepage.py",
       "returnCode": 0,
-      "output": "Updated homepage Latest Additions for GreyAlien Version 18.1."
+      "output": "Updated homepage Latest Additions for GreyAlien Version 18.2."
     },
     {
       "step": "build_sitemap.py",
       "returnCode": 0,
-      "output": "Built sitemap with 297 URLs."
+      "output": "Built sitemap with 304 URLs."
     },
     {
       "step": "validate_graph.py",
       "returnCode": 0,
-      "output": "Checked 286 entities and 897 declared relationships.\nWarnings: 15 unresolved legacy relationship targets remain.\nVALIDATION PASSED"
+      "output": "Checked 293 entities and 937 declared relationships.\nWarnings: 15 unresolved legacy relationship targets remain.\nVALIDATION PASSED"
     },
     {
       "step": "validate_podcasts.py",
       "returnCode": 0,
-      "output": "Checked 8 series and 12 episodes.\nPODCAST VALIDATION PASSED"
+      "output": "Checked 8 series and 17 episodes.\nPODCAST VALIDATION PASSED"
     },
     {
       "step": "validate_rendering_rules.py",
@@ -57,6 +57,11 @@
       "step": "validate_timeline_normalization.py",
       "returnCode": 0,
       "output": "Timeline normalization validation: PASSED (3 aliases)."
+    },
+    {
+      "step": "validate_sources.py",
+      "returnCode": 0,
+      "output": "Source validation: 45 links checked, 2 official websites, 0 errors, 1 warnings.\nWARNING: advanced-theoretical-physics-program: no official_website source recorded"
     },
     {
       "step": "build_deployment_report.py",

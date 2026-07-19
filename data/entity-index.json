@@ -919,6 +919,12 @@
       "summary": "Retired U.S. Army sergeant who publicly claimed involvement in operations involving recovered craft and non-human beings."
     },
     {
+      "id": "colm-kelleher",
+      "type": "person",
+      "name": "Colm Kelleher",
+      "summary": "Biochemist and former National Institute for Discovery Science researcher associated with investigations of anomalous phenomena and UAP-related programs."
+    },
+    {
       "id": "daniel-sheehan",
       "type": "person",
       "name": "Daniel Sheehan",
@@ -995,6 +1001,12 @@
       "type": "person",
       "name": "Eric Hecker",
       "summary": "Former contractor who publicly alleged that South Pole facilities possessed advanced directed-energy and communications capabilities."
+    },
+    {
+      "id": "ernest-cline",
+      "type": "person",
+      "name": "Ernest Cline",
+      "summary": "Novelist and screenwriter known for Ready Player One and Armada, with a longstanding interest in UFO history and science fiction."
     },
     {
       "id": "federica-bianco",
@@ -1428,6 +1440,51 @@
       "summary": "Jeremy Corbell and George Knapp explain how they obtained and evaluated thermal video of the alleged Jellyfish UAP recorded at a U.S. military base in Iraq, discuss reported transmedium behavior, and respond to proposed conventional explanations.",
       "date": "2024-01-15",
       "dateDisplay": "January 15, 2024",
+      "status": "Published"
+    },
+    {
+      "id": "2024-weaponized-episode-48",
+      "type": "podcast_episode",
+      "name": "WEAPONIZED Episode #48 — Ernest Cline, UFO History, and Science-Fiction Culture",
+      "summary": "Jeremy Corbell and George Knapp visit author and screenwriter Ernest Cline to discuss his career, UFO research interests, science-fiction influences, and extensive collection of pop-culture and UFO materials.",
+      "date": "2024-01-22",
+      "dateDisplay": "January 22, 2024",
+      "status": "Published"
+    },
+    {
+      "id": "2024-weaponized-episode-49",
+      "type": "podcast_episode",
+      "name": "WEAPONIZED Episode #49 — Pushback, AARO, and the UFO Information War",
+      "summary": "Jeremy Corbell and George Knapp examine institutional and media pushback against UAP disclosure efforts, discuss former AARO director Sean Kirkpatrick, and include a segment featuring Bob Lazar.",
+      "date": "2024-02-05",
+      "dateDisplay": "February 5, 2024",
+      "status": "Published"
+    },
+    {
+      "id": "2024-weaponized-episode-50",
+      "type": "podcast_episode",
+      "name": "WEAPONIZED Episode #50 — Washington Update on UAP Transparency and Congressional Oversight",
+      "summary": "Jeremy Corbell and George Knapp report from Washington, D.C. on the status of congressional UAP oversight, possible future hearings, and concerns shared in meetings with lawmakers, staff, and firsthand witnesses.",
+      "date": "2024-03-04",
+      "dateDisplay": "March 4, 2024",
+      "status": "Published"
+    },
+    {
+      "id": "2024-weaponized-episode-51",
+      "type": "podcast_episode",
+      "name": "WEAPONIZED Episode #51 — Unreleased Episode Placeholder",
+      "summary": "The official WEAPONIZED catalog reserves Episode #51 but does not publish episode content, stating only that some episodes are worth the wait.",
+      "date": "2024-03-11",
+      "dateDisplay": "March 11, 2024",
+      "status": "Unreleased / withheld"
+    },
+    {
+      "id": "2024-weaponized-episode-52",
+      "type": "podcast_episode",
+      "name": "WEAPONIZED Episode #52 — Season Finale and AARO Historical Report Review",
+      "summary": "Jeremy Corbell and George Knapp review major moments from the first season, revisit interviews with government investigators, journalists, and disclosure advocates, and criticize AARO’s newly released historical report on U.S. government UFO investigations.",
+      "date": "2024-03-13",
+      "dateDisplay": "March 13, 2024",
       "status": "Published"
     },
     {
