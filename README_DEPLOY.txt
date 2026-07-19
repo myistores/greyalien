@@ -1,18 +1,10 @@
-GreyAlien V17.5 — Timeline Normalization Engine
+GreyAlien V18.6
 
-Deploy the complete contents of this package over the existing GitHub Pages repository.
+Deployment package includes ARCH-001 Intelligent Section Suppression.
 
-Primary verification:
-1. Open Jeremy Corbell's entity page.
-2. Confirm the hero displays "Unique connections" with a value of 12.
-3. Confirm Related Timeline displays 4 connected records, not 6.
-4. Confirm the December 4, 2018 documentary release appears once.
-5. Confirm the April 14, 2026 WEAPONIZED Episode #115 publication appears once.
-6. Confirm Related Media still contains the documentary and six podcast episodes.
-7. Confirm Latest Additions displays GreyAlien Version 17.5.
+Deploy the complete contents of this archive to the GreyAlien GitHub Pages repository, replacing existing files when prompted.
 
-Local automation test:
-python tools/automate_site.py
-
-Expected final line:
-Automation status: PASSED. Site assets are ready for deployment.
+Expected behavior:
+- Available Media remains visible for podcast episode playback/listening links.
+- Research Provenance is suppressed only when it resolves to the identical canonical URL set.
+- Research Provenance remains visible whenever it contains any distinct source URL.
