@@ -1,0 +1,27 @@
+{
+  "id": "federal-bureau-of-investigation",
+  "type": "organization",
+  "name": "Federal Bureau of Investigation",
+  "summary": "United States federal law-enforcement agency referenced in discussion of Robert Hastings and nuclear-related UAP testimony.",
+  "relationships": [
+    {
+      "type": "featured_in_media",
+      "target": "2025-weaponized-episode-80"
+    }
+  ],
+  "officialLinks": [
+    {
+      "label": "Federal Bureau of Investigation Official Website",
+      "url": "https://www.fbi.gov/",
+      "linkType": "official_website"
+    }
+  ],
+  "referenceSources": [
+    {
+      "label": "Official WEAPONIZED Episode #80 page",
+      "url": "https://www.weaponizedpodcast.com/episodes-3/episode-80",
+      "sourceType": "official_episode_page",
+      "role": "source"
+    }
+  ]
+}

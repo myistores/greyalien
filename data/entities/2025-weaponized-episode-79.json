@@ -1,0 +1,90 @@
+{
+  "id": "2025-weaponized-episode-79",
+  "type": "podcast_episode",
+  "name": "WEAPONIZED Episode #79 \u2014 The Large Disc UAP Video",
+  "summary": "The hosts discuss renewed claims that UFO reports stem from government deception and release military-sensor video described as showing a large disc-shaped UAP moving through cloud cover over a conflict zone.",
+  "date": "2025-06-17",
+  "dateDisplay": "June 17, 2025",
+  "seriesId": "weaponized-podcast",
+  "episodeNumber": 79,
+  "episodeTitle": "The Large Disc UAP Video",
+  "status": "Published",
+  "mediaType": "Podcast episode",
+  "mediaPlatform": "WEAPONIZED",
+  "mediaHost": "Jeremy Corbell and George Knapp",
+  "mediaGuests": [],
+  "mediaSubjects": [
+    "Large Disc UAP",
+    "Military sensor video",
+    "Disinformation"
+  ],
+  "principalClaims": [
+    "claim-large-disc-video-military-sensor",
+    "claim-large-disc-entered-cloud-cover",
+    "claim-large-disc-changed-direction",
+    "claim-military-labeled-disc-uap"
+  ],
+  "researchNotes": [],
+  "relationships": [
+    {
+      "type": "episode_of",
+      "target": "weaponized-podcast"
+    },
+    {
+      "type": "features_person",
+      "target": "jeremy-corbell",
+      "role": "host",
+      "context": "WEAPONIZED co-host"
+    },
+    {
+      "type": "features_person",
+      "target": "george-knapp",
+      "role": "host",
+      "context": "WEAPONIZED co-host"
+    },
+    {
+      "type": "references_case",
+      "target": "2025-large-disc-uap-video"
+    },
+    {
+      "type": "references_organization",
+      "target": "department-of-defense"
+    },
+    {
+      "type": "discussed_topic",
+      "target": "government-transparency"
+    },
+    {
+      "type": "discussed_topic",
+      "target": "uap-journalism"
+    }
+  ],
+  "mediaLinks": [
+    {
+      "label": "Open the official Episode #79 page",
+      "url": "https://www.weaponizedpodcast.com/episodes-3/episode-79",
+      "platform": "WEAPONIZED"
+    },
+    {
+      "label": "Listen to WEAPONIZED",
+      "url": "https://link.chtbl.com/Weaponized",
+      "platform": "Official audio feed"
+    }
+  ],
+  "eventCategory": "Podcast publication",
+  "officialLinks": [],
+  "referenceSources": [
+    {
+      "label": "Official WEAPONIZED Episode #79 page",
+      "url": "https://www.weaponizedpodcast.com/episodes-3/episode-79",
+      "sourceType": "official_episode_page",
+      "role": "source"
+    },
+    {
+      "label": "Listen to WEAPONIZED",
+      "url": "https://link.chtbl.com/Weaponized",
+      "sourceType": "official_audio_feed",
+      "role": "source"
+    }
+  ]
+}

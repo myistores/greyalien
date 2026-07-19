@@ -1,0 +1,102 @@
+{
+  "id": "2025-weaponized-episode-75",
+  "type": "podcast_episode",
+  "name": "WEAPONIZED Episode #75 \u2014 Matthew Brown and Immaculate Constellation \u2014 Part 2",
+  "summary": "Matthew Brown discusses documents he says he reviewed, the reporting process he followed, and institutional barriers he encountered before publicly identifying himself.",
+  "date": "2025-05-06",
+  "dateDisplay": "May 6, 2025",
+  "seriesId": "weaponized-podcast",
+  "episodeNumber": 75,
+  "episodeTitle": "Matthew Brown and Immaculate Constellation \u2014 Part 2",
+  "status": "Published",
+  "mediaType": "Podcast episode",
+  "mediaPlatform": "WEAPONIZED",
+  "mediaHost": "Jeremy Corbell and George Knapp",
+  "mediaGuests": [
+    "matthew-brown"
+  ],
+  "mediaSubjects": [
+    "Immaculate Constellation",
+    "Whistleblower process",
+    "Government secrecy"
+  ],
+  "principalClaims": [
+    "claim-brown-followed-reporting-process",
+    "claim-brown-reported-institutional-blocking",
+    "claim-brown-described-sensitive-documents",
+    "claim-brown-expected-clearance-consequences"
+  ],
+  "researchNotes": [],
+  "relationships": [
+    {
+      "type": "episode_of",
+      "target": "weaponized-podcast"
+    },
+    {
+      "type": "features_person",
+      "target": "jeremy-corbell",
+      "role": "host",
+      "context": "WEAPONIZED co-host"
+    },
+    {
+      "type": "features_person",
+      "target": "george-knapp",
+      "role": "host",
+      "context": "WEAPONIZED co-host"
+    },
+    {
+      "type": "features_person",
+      "target": "matthew-brown",
+      "role": "guest",
+      "context": "Featured episode participant"
+    },
+    {
+      "type": "references_case",
+      "target": "immaculate-constellation"
+    },
+    {
+      "type": "references_organization",
+      "target": "aaro"
+    },
+    {
+      "type": "references_organization",
+      "target": "department-of-defense"
+    },
+    {
+      "type": "discussed_topic",
+      "target": "whistleblower-protection"
+    },
+    {
+      "type": "discussed_topic",
+      "target": "congressional-oversight"
+    }
+  ],
+  "mediaLinks": [
+    {
+      "label": "Open the official Episode #75 page",
+      "url": "https://www.weaponizedpodcast.com/episodes-3/episode-75",
+      "platform": "WEAPONIZED"
+    },
+    {
+      "label": "Listen to WEAPONIZED",
+      "url": "https://link.chtbl.com/Weaponized",
+      "platform": "Official audio feed"
+    }
+  ],
+  "eventCategory": "Podcast publication",
+  "officialLinks": [],
+  "referenceSources": [
+    {
+      "label": "Official WEAPONIZED Episode #75 page",
+      "url": "https://www.weaponizedpodcast.com/episodes-3/episode-75",
+      "sourceType": "official_episode_page",
+      "role": "source"
+    },
+    {
+      "label": "Listen to WEAPONIZED",
+      "url": "https://link.chtbl.com/Weaponized",
+      "sourceType": "official_audio_feed",
+      "role": "source"
+    }
+  ]
+}

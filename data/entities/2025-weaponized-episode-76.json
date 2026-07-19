@@ -1,0 +1,98 @@
+{
+  "id": "2025-weaponized-episode-76",
+  "type": "podcast_episode",
+  "name": "WEAPONIZED Episode #76 \u2014 Matthew Brown and Immaculate Constellation \u2014 Part 3",
+  "summary": "In the conclusion of the interview, Matthew Brown discusses alleged classified UAP imagery, secrecy mechanisms, public perception management, and his appeal for other insiders to come forward.",
+  "date": "2025-05-13",
+  "dateDisplay": "May 13, 2025",
+  "seriesId": "weaponized-podcast",
+  "episodeNumber": 76,
+  "episodeTitle": "Matthew Brown and Immaculate Constellation \u2014 Part 3",
+  "status": "Published",
+  "mediaType": "Podcast episode",
+  "mediaPlatform": "WEAPONIZED",
+  "mediaHost": "Jeremy Corbell and George Knapp",
+  "mediaGuests": [
+    "matthew-brown"
+  ],
+  "mediaSubjects": [
+    "Immaculate Constellation",
+    "Classified UAP imagery",
+    "Disclosure"
+  ],
+  "principalClaims": [
+    "claim-brown-described-classified-uap-imagery",
+    "claim-brown-described-varied-uap-shapes",
+    "claim-brown-alleged-secrecy-stifles-inquiry",
+    "claim-brown-urged-other-insiders-forward"
+  ],
+  "researchNotes": [],
+  "relationships": [
+    {
+      "type": "episode_of",
+      "target": "weaponized-podcast"
+    },
+    {
+      "type": "features_person",
+      "target": "jeremy-corbell",
+      "role": "host",
+      "context": "WEAPONIZED co-host"
+    },
+    {
+      "type": "features_person",
+      "target": "george-knapp",
+      "role": "host",
+      "context": "WEAPONIZED co-host"
+    },
+    {
+      "type": "features_person",
+      "target": "matthew-brown",
+      "role": "guest",
+      "context": "Featured episode participant"
+    },
+    {
+      "type": "references_case",
+      "target": "immaculate-constellation"
+    },
+    {
+      "type": "discussed_topic",
+      "target": "government-transparency"
+    },
+    {
+      "type": "discussed_topic",
+      "target": "whistleblower-protection"
+    },
+    {
+      "type": "discussed_topic",
+      "target": "uap-research"
+    }
+  ],
+  "mediaLinks": [
+    {
+      "label": "Open the official Episode #76 page",
+      "url": "https://www.weaponizedpodcast.com/episodes-3/episode-76",
+      "platform": "WEAPONIZED"
+    },
+    {
+      "label": "Listen to WEAPONIZED",
+      "url": "https://link.chtbl.com/Weaponized",
+      "platform": "Official audio feed"
+    }
+  ],
+  "eventCategory": "Podcast publication",
+  "officialLinks": [],
+  "referenceSources": [
+    {
+      "label": "Official WEAPONIZED Episode #76 page",
+      "url": "https://www.weaponizedpodcast.com/episodes-3/episode-76",
+      "sourceType": "official_episode_page",
+      "role": "source"
+    },
+    {
+      "label": "Listen to WEAPONIZED",
+      "url": "https://link.chtbl.com/Weaponized",
+      "sourceType": "official_audio_feed",
+      "role": "source"
+    }
+  ]
+}

@@ -1,12 +1,12 @@
 {
-  "startedAt": "2026-07-19T20:53:05.910348+00:00",
-  "finishedAt": "2026-07-19T20:53:25.008783+00:00",
+  "startedAt": "2026-07-19T22:21:25.373952+00:00",
+  "finishedAt": "2026-07-19T22:21:44.320652+00:00",
   "status": "passed",
   "steps": [
     {
       "step": "build_graph.py",
       "returnCode": 0,
-      "output": "Built index for 401 entities and 1184 resolved relationships."
+      "output": "Built index for 458 entities and 1317 resolved relationships."
     },
     {
       "step": "build_timeline_normalization.py",
@@ -16,37 +16,37 @@
     {
       "step": "build_podcasts.py",
       "returnCode": 0,
-      "output": "Built 8 podcast series and 37 episode records."
+      "output": "Built 8 podcast series and 47 episode records."
     },
     {
       "step": "build_related_content.py",
       "returnCode": 0,
-      "output": "Built related-content data for 401 entities and 37 podcast episodes."
+      "output": "Built related-content data for 458 entities and 47 podcast episodes."
     },
     {
       "step": "build_entity_pages.py",
       "returnCode": 0,
-      "output": "Generated 401 stable entity pages."
+      "output": "Generated 458 stable entity pages."
     },
     {
       "step": "build_homepage.py",
       "returnCode": 0,
-      "output": "Updated homepage Latest Additions for GreyAlien Version 19.0."
+      "output": "Updated homepage Latest Additions for GreyAlien Version 19.1.1."
     },
     {
       "step": "build_sitemap.py",
       "returnCode": 0,
-      "output": "Built sitemap with 412 URLs."
+      "output": "Built sitemap with 469 URLs."
     },
     {
       "step": "validate_graph.py",
       "returnCode": 0,
-      "output": "Checked 401 entities and 1199 declared relationships.\nWarnings: 15 unresolved legacy relationship targets remain.\nVALIDATION PASSED"
+      "output": "Checked 458 entities and 1332 declared relationships.\nWarnings: 15 unresolved legacy relationship targets remain.\nVALIDATION PASSED"
     },
     {
       "step": "validate_podcasts.py",
       "returnCode": 0,
-      "output": "Checked 8 series and 37 episodes.\nPODCAST VALIDATION PASSED"
+      "output": "Checked 8 series and 47 episodes.\nPODCAST VALIDATION PASSED"
     },
     {
       "step": "validate_rendering_rules.py",
@@ -61,7 +61,7 @@
     {
       "step": "validate_sources.py",
       "returnCode": 0,
-      "output": "Link architecture validation: 96 official links, 317 reference sources, 0 errors, 15 warnings.\nWARNING: 60-minutes: no verified official links recorded\nWARNING: aatip: no verified official links recorded\nWARNING: aawsap: no verified official links recorded\nWARNING: advanced-theoretical-physics-program: no verified official links recorded\nWARNING: ask-a-pol: no verified official links recorded\nWARNING: australian-broadcasting-corporation: no verified official links recorded\nWARNING: bigelow-aerospace: no verified official links recorded\nWARNING: brazilian-commission-of-ufologists: no verified official links recorded\nWARNING: harvard-university: no verified official links recorded\nWARNING: the-new-york-times: no verified official links recorded\nWARNING: uap-caucus: no verified official links recorded\nWARNING: uap-register: no verified official links recorded\nWARNING: uap-science-advisory-council: no verified official links recorded\nWARNING: uss-jackson: no verified official links recorded\nWARNING: wall-street-journal: no verified official links recorded"
+      "output": "Link architecture validation: 98 official links, 384 reference sources, 0 errors, 15 warnings.\nWARNING: 60-minutes: no verified official links recorded\nWARNING: aatip: no verified official links recorded\nWARNING: aawsap: no verified official links recorded\nWARNING: advanced-theoretical-physics-program: no verified official links recorded\nWARNING: ask-a-pol: no verified official links recorded\nWARNING: australian-broadcasting-corporation: no verified official links recorded\nWARNING: bigelow-aerospace: no verified official links recorded\nWARNING: brazilian-commission-of-ufologists: no verified official links recorded\nWARNING: harvard-university: no verified official links recorded\nWARNING: the-new-york-times: no verified official links recorded\nWARNING: uap-caucus: no verified official links recorded\nWARNING: uap-register: no verified official links recorded\nWARNING: uap-science-advisory-council: no verified official links recorded\nWARNING: uss-jackson: no verified official links recorded\nWARNING: wall-street-journal: no verified official links recorded"
     },
     {
       "step": "validate_visual_identity.py",

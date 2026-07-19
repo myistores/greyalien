@@ -1,0 +1,109 @@
+{
+  "id": "2025-weaponized-episode-80",
+  "type": "podcast_episode",
+  "name": "WEAPONIZED Episode #80 \u2014 UFOs, Nuclear Weapons, and the Wall Street Journal",
+  "summary": "Jeremy Corbell and George Knapp, joined by Robert Hastings and Marik von Rennenkampff, rebut Wall Street Journal reporting about UFO history and examine longstanding reports of UAP activity near nuclear weapons sites.",
+  "date": "2025-06-24",
+  "dateDisplay": "June 24, 2025",
+  "seriesId": "weaponized-podcast",
+  "episodeNumber": 80,
+  "episodeTitle": "UFOs, Nuclear Weapons, and the Wall Street Journal",
+  "status": "Published",
+  "mediaType": "Podcast episode",
+  "mediaPlatform": "WEAPONIZED",
+  "mediaHost": "Jeremy Corbell and George Knapp",
+  "mediaGuests": [
+    "robert-hastings",
+    "marik-von-rennenkampff"
+  ],
+  "mediaSubjects": [
+    "UFOs and nuclear weapons",
+    "Wall Street Journal reporting",
+    "AARO"
+  ],
+  "principalClaims": [
+    "claim-hastings-collected-government-witnesses",
+    "claim-uap-nuclear-connection-discussed",
+    "claim-wsj-reporting-challenged",
+    "claim-fbi-contacted-hastings"
+  ],
+  "researchNotes": [],
+  "relationships": [
+    {
+      "type": "episode_of",
+      "target": "weaponized-podcast"
+    },
+    {
+      "type": "features_person",
+      "target": "jeremy-corbell",
+      "role": "host",
+      "context": "WEAPONIZED co-host"
+    },
+    {
+      "type": "features_person",
+      "target": "george-knapp",
+      "role": "host",
+      "context": "WEAPONIZED co-host"
+    },
+    {
+      "type": "features_person",
+      "target": "robert-hastings",
+      "role": "guest",
+      "context": "Featured episode participant"
+    },
+    {
+      "type": "features_person",
+      "target": "marik-von-rennenkampff",
+      "role": "guest",
+      "context": "Featured episode participant"
+    },
+    {
+      "type": "references_organization",
+      "target": "wall-street-journal"
+    },
+    {
+      "type": "references_organization",
+      "target": "aaro"
+    },
+    {
+      "type": "references_organization",
+      "target": "federal-bureau-of-investigation"
+    },
+    {
+      "type": "discussed_topic",
+      "target": "nuclear-facility-uap-incursions"
+    },
+    {
+      "type": "discussed_topic",
+      "target": "uap-journalism"
+    }
+  ],
+  "mediaLinks": [
+    {
+      "label": "Open the official Episode #80 page",
+      "url": "https://www.weaponizedpodcast.com/episodes-3/episode-80",
+      "platform": "WEAPONIZED"
+    },
+    {
+      "label": "Listen to WEAPONIZED",
+      "url": "https://link.chtbl.com/Weaponized",
+      "platform": "Official audio feed"
+    }
+  ],
+  "eventCategory": "Podcast publication",
+  "officialLinks": [],
+  "referenceSources": [
+    {
+      "label": "Official WEAPONIZED Episode #80 page",
+      "url": "https://www.weaponizedpodcast.com/episodes-3/episode-80",
+      "sourceType": "official_episode_page",
+      "role": "source"
+    },
+    {
+      "label": "Listen to WEAPONIZED",
+      "url": "https://link.chtbl.com/Weaponized",
+      "sourceType": "official_audio_feed",
+      "role": "source"
+    }
+  ]
+}

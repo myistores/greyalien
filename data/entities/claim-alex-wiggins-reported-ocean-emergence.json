@@ -1,0 +1,21 @@
+{
+  "id": "claim-alex-wiggins-reported-ocean-emergence",
+  "type": "claim",
+  "name": "Alex Wiggins reported seeing a glowing Tic Tac-shaped object emerge from the ocean.",
+  "summary": "The official episode description presents or discusses this claim; it is recorded here as a source-attributed claim, not as independently verified fact.",
+  "relationships": [
+    {
+      "type": "featured_in_media",
+      "target": "2025-weaponized-episode-73"
+    }
+  ],
+  "officialLinks": [],
+  "referenceSources": [
+    {
+      "label": "Official WEAPONIZED Episode #73 page",
+      "url": "https://www.weaponizedpodcast.com/episodes-3/episode-73",
+      "sourceType": "official_episode_page",
+      "role": "source"
+    }
+  ]
+}

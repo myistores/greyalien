@@ -66,6 +66,12 @@
       "summary": "A reported 2015 intrusion at the Pantex nuclear weapons facility involving a diamond-shaped unknown craft and redacted records obtained through FOIA."
     },
     {
+      "id": "2016-mosul-orb-incident",
+      "type": "case",
+      "name": "2016 Mosul Orb Incident",
+      "summary": "April 2016 surveillance recording over Mosul, Iraq, showing an unidentified metallic sphere described in classified systems as a UAP."
+    },
+    {
       "id": "2017-iraq-jellyfish-uap",
       "type": "case",
       "name": "2017 Iraq Jellyfish UAP Incident",
@@ -155,6 +161,12 @@
       "summary": "A proposed Department of Homeland Security program related to UAP investigation whose history and public characterization are reviewed in Episode #53."
     },
     {
+      "id": "2025-large-disc-uap-video",
+      "type": "case",
+      "name": "Large Disc UAP Video",
+      "summary": "Military sensor video described by WEAPONIZED as showing a large disc-shaped object moving through cloud cover over a conflict zone."
+    },
+    {
       "id": "malmstrom-missile-incident",
       "type": "case",
       "name": "Malmstrom Missile Incident",
@@ -209,6 +221,12 @@
       "summary": "The official episode page links to the newly released document."
     },
     {
+      "id": "claim-alex-wiggins-reported-ocean-emergence",
+      "type": "claim",
+      "name": "Alex Wiggins reported seeing a glowing Tic Tac-shaped object emerge from the ocean.",
+      "summary": "The official episode description presents or discusses this claim; it is recorded here as a source-attributed claim, not as independently verified fact."
+    },
+    {
       "id": "claim-langley-triangle-2012",
       "type": "claim",
       "name": "Alleged 2012 Langley Triangle Encounter",
@@ -254,6 +272,60 @@
       "summary": "Bob Lazar has claimed that nine unconventional craft were housed in hangars at the alleged S4 facility near Area 51."
     },
     {
+      "id": "claim-brown-alleged-secrecy-stifles-inquiry",
+      "type": "claim",
+      "name": "Brown argued that excessive secrecy obstructs public and congressional inquiry.",
+      "summary": "The official episode description presents or discusses this claim; it is recorded here as a source-attributed claim, not as independently verified fact."
+    },
+    {
+      "id": "claim-brown-described-sensitive-documents",
+      "type": "claim",
+      "name": "Brown described reading documents that he believed showed a wider UAP secrecy structure.",
+      "summary": "The official episode description presents or discusses this claim; it is recorded here as a source-attributed claim, not as independently verified fact."
+    },
+    {
+      "id": "claim-brown-described-classified-uap-imagery",
+      "type": "claim",
+      "name": "Brown described visual evidence he said was stored on classified systems.",
+      "summary": "The official episode description presents or discusses this claim; it is recorded here as a source-attributed claim, not as independently verified fact."
+    },
+    {
+      "id": "claim-brown-sought-congressional-testimony",
+      "type": "claim",
+      "name": "Brown indicated willingness to testify to Congress if requested.",
+      "summary": "The official episode description presents or discusses this claim; it is recorded here as a source-attributed claim, not as independently verified fact."
+    },
+    {
+      "id": "claim-brown-described-varied-uap-shapes",
+      "type": "claim",
+      "name": "Brown said classified records contained imagery of multiple reported UAP shapes.",
+      "summary": "The official episode description presents or discusses this claim; it is recorded here as a source-attributed claim, not as independently verified fact."
+    },
+    {
+      "id": "claim-brown-followed-reporting-process",
+      "type": "claim",
+      "name": "Brown said he attempted to follow official reporting channels before going public.",
+      "summary": "The official episode description presents or discusses this claim; it is recorded here as a source-attributed claim, not as independently verified fact."
+    },
+    {
+      "id": "claim-brown-reported-institutional-blocking",
+      "type": "claim",
+      "name": "Brown said his attempts to alert superiors were repeatedly blocked.",
+      "summary": "The official episode description presents or discusses this claim; it is recorded here as a source-attributed claim, not as independently verified fact."
+    },
+    {
+      "id": "claim-brown-expected-clearance-consequences",
+      "type": "claim",
+      "name": "Brown said public disclosure would likely end his career and security-clearance eligibility.",
+      "summary": "The official episode description presents or discusses this claim; it is recorded here as a source-attributed claim, not as independently verified fact."
+    },
+    {
+      "id": "claim-brown-urged-other-insiders-forward",
+      "type": "claim",
+      "name": "Brown urged other knowledgeable insiders to come forward.",
+      "summary": "The official episode description presents or discusses this claim; it is recorded here as a source-attributed claim, not as independently verified fact."
+    },
+    {
       "id": "claim-multi-agency-ocean-technology-operation",
       "type": "claim",
       "name": "Chris Sharp reported a multi-agency effort pursuing alleged non-human technology in the ocean",
@@ -267,6 +339,12 @@
       "status": "Personal claims made in books and interviews; not independently established."
     },
     {
+      "id": "claim-congress-continues-secret-program-inquiry",
+      "type": "claim",
+      "name": "Congress was described as continuing inquiries into alleged secret programs and drone activity.",
+      "summary": "The official episode description presents or discusses this claim; it is recorded here as a source-attributed claim, not as independently verified fact."
+    },
+    {
       "id": "claim-immaculate-constellation-record-contained-falsified-page",
       "type": "claim",
       "name": "Corbell alleged that the Congressional Record version of the Immaculate Constellation report included a falsified twelfth page",
@@ -277,6 +355,12 @@
       "type": "claim",
       "name": "Corbell alleged that the Immaculate Constellation submission was misattributed to Michael Shellenberger",
       "summary": "The official episode page presents this as Corbell’s claim about the Congressional Record submission."
+    },
+    {
+      "id": "claim-hosts-challenged-kirkpatrick-account",
+      "type": "claim",
+      "name": "Corbell and Knapp challenged that historical explanation.",
+      "summary": "The official episode description presents or discusses this claim; it is recorded here as a source-attributed claim, not as independently verified fact."
     },
     {
       "id": "claim-area-51-alien-engine",
@@ -319,6 +403,12 @@
       "status": "Allegation; not established as fact by GreyAlien"
     },
     {
+      "id": "claim-grusch-assisted-expert-briefings",
+      "type": "claim",
+      "name": "David Grusch was described as helping connect expert witnesses with lawmakers.",
+      "summary": "The official episode description presents or discusses this claim; it is recorded here as a source-attributed claim, not as independently verified fact."
+    },
+    {
       "id": "claim-alien-autopsy-program",
       "type": "claim",
       "name": "Emery Smith Alien-Autopsy Program Claims",
@@ -333,10 +423,22 @@
       "status": "Extraordinary public allegations disputed by scientists and fact-checkers."
     },
     {
+      "id": "claim-contact-in-desert-observations",
+      "type": "claim",
+      "name": "Ernie Cline and Dan Cleary shared observations from Contact in the Desert.",
+      "summary": "The official episode description presents or discusses this claim; it is recorded here as a source-attributed claim, not as independently verified fact."
+    },
+    {
       "id": "claim-whistleblower-fear-continues-to-limit-disclosure",
       "type": "claim",
       "name": "Fear of professional consequences continues to deter potential UAP whistleblowers",
       "summary": "Blumenthal discussed why insiders may remain reluctant to come forward."
+    },
+    {
+      "id": "claim-fbi-contacted-hastings",
+      "type": "claim",
+      "name": "Hastings said the FBI recently contacted him regarding his findings.",
+      "summary": "The official episode description presents or discusses this claim; it is recorded here as a source-attributed claim, not as independently verified fact."
     },
     {
       "id": "claim-media-stigma-can-deter-uap-witnesses",
@@ -370,10 +472,22 @@
       "status": "Named firsthand account presented in interviews; no public official confirmation."
     },
     {
+      "id": "claim-slaughter-obtained-full-video",
+      "type": "claim",
+      "name": "Journalist Dustin Slaughter obtained the full clip through records efforts.",
+      "summary": "The official episode description presents or discusses this claim; it is recorded here as a source-attributed claim, not as independently verified fact."
+    },
+    {
       "id": "claim-uap-journalists-targeted-by-provocateurs",
       "type": "claim",
       "name": "Journalists covering UAP issues reported being targeted by trolls and provocateurs",
       "summary": "Chris Sharp and Matt Laslo said they had faced attacks connected to their UAP reporting."
+    },
+    {
+      "id": "claim-lawmakers-received-closed-briefings",
+      "type": "claim",
+      "name": "Key lawmakers reportedly received closed-door briefings on alleged secret programs.",
+      "summary": "The official episode description presents or discusses this claim; it is recorded here as a source-attributed claim, not as independently verified fact."
     },
     {
       "id": "claim-uk-drone-incursions-resisted-identification",
@@ -407,6 +521,12 @@
       "name": "Matthew Brown argues that excessive secrecy stifles public and congressional inquiry",
       "summary": "Matthew Brown argues that excessive classification and compartmentalization prevent the public and Congress from conducting meaningful inquiry into UAP-related matters.",
       "status": "Attributed argument presented in an interview; not independently established by GreyAlien."
+    },
+    {
+      "id": "claim-brown-authored-imcon-report",
+      "type": "claim",
+      "name": "Matthew Brown identified himself as the author of the Immaculate Constellation report.",
+      "summary": "The official episode description presents or discusses this claim; it is recorded here as a source-attributed claim, not as independently verified fact."
     },
     {
       "id": "claim-immaculate-constellation-visual-evidence",
@@ -493,6 +613,12 @@
       "summary": "Richard Dolan’s research compiles historical and modern cases from multiple regions."
     },
     {
+      "id": "claim-hastings-collected-government-witnesses",
+      "type": "claim",
+      "name": "Robert Hastings said he has collected testimony from more than 150 government witnesses concerning UFOs and nuclear facilities.",
+      "summary": "The official episode description presents or discusses this claim; it is recorded here as a source-attributed claim, not as independently verified fact."
+    },
+    {
       "id": "claim-kremer-pacific-transmedium-video",
       "type": "claim",
       "name": "Rory Kremer’s team recorded an object descending from the sky into the Pacific Ocean",
@@ -503,6 +629,12 @@
       "type": "claim",
       "name": "Ryan Graves states that recurring UAP encounters created an aviation-safety concern",
       "summary": "Ryan Graves has stated that military aviators encountered unidentified objects repeatedly and that the frequency and behavior of those objects presented an unresolved aviation-safety concern."
+    },
+    {
+      "id": "claim-kirkpatrick-secret-technology-explanation",
+      "type": "claim",
+      "name": "Sean Kirkpatrick was described as arguing that historical UFO incidents involved secret U.S. technology.",
+      "summary": "The official episode description presents or discusses this claim; it is recorded here as a source-attributed claim, not as independently verified fact."
     },
     {
       "id": "claim-some-uso-reports-describe-transmedium-performance",
@@ -523,10 +655,58 @@
       "summary": "The official description says the film included nearly three dozen such participants advocating transparency."
     },
     {
+      "id": "claim-imcon-ai-server-search",
+      "type": "claim",
+      "name": "The alleged program was described as using artificial intelligence to search classified servers for UAP imagery.",
+      "summary": "The official episode description presents or discusses this claim; it is recorded here as a source-attributed claim, not as independently verified fact."
+    },
+    {
       "id": "claim-2017-nyt-ufo-report-changed-public-discourse",
       "type": "claim",
       "name": "The December 2017 New York Times UFO report materially changed public and congressional attention",
       "summary": "The episode describes the report as a pivotal event whose effects continued years later."
+    },
+    {
+      "id": "claim-dod-deception-history-discussed",
+      "type": "claim",
+      "name": "The episode discussed acknowledged historical deception surrounding classified programs.",
+      "summary": "The official episode description presents or discusses this claim; it is recorded here as a source-attributed claim, not as independently verified fact."
+    },
+    {
+      "id": "claim-private-competition-crash-materials",
+      "type": "claim",
+      "name": "The episode discusses reports that technology billionaires are seeking access to alleged crash materials.",
+      "summary": "The official episode description presents or discusses this claim; it is recorded here as a source-attributed claim, not as independently verified fact."
+    },
+    {
+      "id": "claim-administration-insiders-promised-transparency",
+      "type": "claim",
+      "name": "The episode notes public promises of UAP transparency from high-profile administration insiders.",
+      "summary": "The official episode description presents or discusses this claim; it is recorded here as a source-attributed claim, not as independently verified fact."
+    },
+    {
+      "id": "claim-uap-nuclear-connection-discussed",
+      "type": "claim",
+      "name": "The episode presents the reported connection between UAP and nuclear technology as a central issue.",
+      "summary": "The official episode description presents or discusses this claim; it is recorded here as a source-attributed claim, not as independently verified fact."
+    },
+    {
+      "id": "claim-planned-uap-hearing-canceled",
+      "type": "claim",
+      "name": "The episode reports that a planned public UAP hearing was canceled.",
+      "summary": "The official episode description presents or discusses this claim; it is recorded here as a source-attributed claim, not as independently verified fact."
+    },
+    {
+      "id": "claim-military-labeled-disc-uap",
+      "type": "claim",
+      "name": "The episode states that the military labeled the object a UAP.",
+      "summary": "The official episode description presents or discusses this claim; it is recorded here as a source-attributed claim, not as independently verified fact."
+    },
+    {
+      "id": "claim-mosul-orb-unidentified",
+      "type": "claim",
+      "name": "The episode states that U.S. military and intelligence agencies had not identified the object.",
+      "summary": "The official episode description presents or discusses this claim; it is recorded here as a source-attributed claim, not as independently verified fact."
     },
     {
       "id": "claim-saucer-nests-linked-in-reporting-to-crop-circle-history",
@@ -541,10 +721,28 @@
       "summary": "The creators of S4: The Bob Lazar Story describe the production’s visual reconstruction of the alleged facility as being developed from Bob Lazar’s recollections and account."
     },
     {
+      "id": "claim-wsj-reporting-challenged",
+      "type": "claim",
+      "name": "The guests challenged Wall Street Journal explanations for historical nuclear-site incidents.",
+      "summary": "The official episode description presents or discusses this claim; it is recorded here as a source-attributed claim, not as independently verified fact."
+    },
+    {
       "id": "claim-60-minutes-report-omitted-key-2019-navy-swarm-context",
       "type": "claim",
       "name": "The hosts argued that a 60 Minutes drone report omitted important evidence from 2019 Navy incidents",
       "summary": "This is explicitly presented as the hosts’ criticism of the broadcast."
+    },
+    {
+      "id": "claim-more-former-officials-coming-forward",
+      "type": "claim",
+      "name": "The hosts describe an increasing number of former military and intelligence officials coming forward.",
+      "summary": "The official episode description presents or discusses this claim; it is recorded here as a source-attributed claim, not as independently verified fact."
+    },
+    {
+      "id": "claim-aaro-jellyfish-explanation-disputed",
+      "type": "claim",
+      "name": "The hosts disputed AARO commentary concerning the Jellyfish UAP.",
+      "summary": "The official episode description presents or discusses this claim; it is recorded here as a source-attributed claim, not as independently verified fact."
     },
     {
       "id": "claim-uss-jackson-incident-not-reported-to-aaro",
@@ -565,6 +763,12 @@
       "summary": "Ralph Blumenthal discussed disputes with editors and reactions from colleagues."
     },
     {
+      "id": "claim-mosul-orb-recorded-2016",
+      "type": "claim",
+      "name": "The Mosul Orb was recorded over Mosul, Iraq, in April 2016.",
+      "summary": "The official episode description presents or discusses this claim; it is recorded here as a source-attributed claim, not as independently verified fact."
+    },
+    {
       "id": "claim-nimitz-two-week-sensor-detections",
       "type": "claim",
       "name": "The Nimitz carrier group detected unidentified incursions for nearly two weeks in November 2004",
@@ -577,16 +781,58 @@
       "summary": "Episode #62 reviews the hearing’s public results and behind-the-scenes circumstances."
     },
     {
+      "id": "claim-large-disc-changed-direction",
+      "type": "claim",
+      "name": "The object was described as abruptly reversing direction.",
+      "summary": "The official episode description presents or discusses this claim; it is recorded here as a source-attributed claim, not as independently verified fact."
+    },
+    {
+      "id": "claim-large-disc-entered-cloud-cover",
+      "type": "claim",
+      "name": "The object was described as moving into and out of cloud cover.",
+      "summary": "The official episode description presents or discusses this claim; it is recorded here as a source-attributed claim, not as independently verified fact."
+    },
+    {
+      "id": "claim-uss-jackson-multiple-sensors",
+      "type": "claim",
+      "name": "The objects were reportedly detected by multiple shipboard sensors.",
+      "summary": "The official episode description presents or discusses this claim; it is recorded here as a source-attributed claim, not as independently verified fact."
+    },
+    {
       "id": "claim-2024-uap-disclosure-amendment-failed",
       "type": "claim",
       "name": "The proposed 2024 UAP disclosure amendments did not survive the defense authorization process",
       "summary": "Episode #58 states that the proposed UAP Disclosure amendments were no longer viable for 2024 by the end of the recording session."
     },
     {
+      "id": "claim-large-disc-video-military-sensor",
+      "type": "claim",
+      "name": "The released video was described as recorded by a military sensor over a conflict zone.",
+      "summary": "The official episode description presents or discusses this claim; it is recorded here as a source-attributed claim, not as independently verified fact."
+    },
+    {
+      "id": "claim-imcon-described-usap",
+      "type": "claim",
+      "name": "The report described Immaculate Constellation as an alleged unacknowledged special access program.",
+      "summary": "The official episode description presents or discusses this claim; it is recorded here as a source-attributed claim, not as independently verified fact."
+    },
+    {
+      "id": "claim-mosul-orb-four-second-video",
+      "type": "claim",
+      "name": "The surveillance recording is described as a four-second video clip.",
+      "summary": "The official episode description presents or discusses this claim; it is recorded here as a source-attributed claim, not as independently verified fact."
+    },
+    {
       "id": "claim-uap-disclosure-act-remained-possible",
       "type": "claim",
       "name": "The UAP Disclosure Act may not have been completely dead in October 2024",
       "summary": "Matt Laslo provided an update indicating that the legislative effort might still have had a path forward."
+    },
+    {
+      "id": "claim-uss-jackson-four-objects-formation",
+      "type": "claim",
+      "name": "The witness described four objects joining and departing in tight formation.",
+      "summary": "The official episode description presents or discusses this claim; it is recorded here as a source-attributed claim, not as independently verified fact."
     },
     {
       "id": "claim-two-uss-jackson-objects-recorded-from-command-center",
@@ -623,6 +869,12 @@
       "type": "claim",
       "name": "Vandenberg security personnel reportedly investigated more than one unusual aerial incursion",
       "summary": "Nuccetelli described a second large-object incident and security response."
+    },
+    {
+      "id": "claim-uss-jackson-area-recurring-encounters",
+      "type": "claim",
+      "name": "Wiggins said sailors routinely encounter unidentified objects in the region.",
+      "summary": "The official episode description presents or discusses this claim; it is recorded here as a source-attributed claim, not as independently verified fact."
     },
     {
       "id": "claim-zero-gravity-may-enable-exotic-material-research",
@@ -967,6 +1219,12 @@
       "summary": "Brazilian UFO research organization associated with Thiago Ticchetti."
     },
     {
+      "id": "central-intelligence-agency",
+      "type": "organization",
+      "name": "Central Intelligence Agency",
+      "summary": "United States foreign intelligence agency referenced in connection with the surveillance platform that recorded the Mosul Orb video."
+    },
+    {
       "id": "defense-intelligence-agency",
       "type": "organization",
       "name": "Defense Intelligence Agency",
@@ -983,6 +1241,12 @@
       "type": "organization",
       "name": "Federal Aviation Administration",
       "summary": "U.S. civil aviation authority responsible for aviation safety, airspace management, and regulatory policy."
+    },
+    {
+      "id": "federal-bureau-of-investigation",
+      "type": "organization",
+      "name": "Federal Bureau of Investigation",
+      "summary": "United States federal law-enforcement agency referenced in discussion of Robert Hastings and nuclear-related UAP testimony."
     },
     {
       "id": "harvard-university",
@@ -1243,6 +1507,12 @@
       "summary": "Former U.S. Navy F/A-18 pilot and firsthand witness to the November 2004 Nimitz encounter."
     },
     {
+      "id": "alex-wiggins",
+      "type": "person",
+      "name": "Alex Wiggins",
+      "summary": "Active-duty U.S. Navy service member featured by WEAPONIZED as an eyewitness to the February 2023 USS Jackson UAP incident."
+    },
+    {
       "id": "alexandro-wiggins",
       "type": "person",
       "name": "Alexandro Wiggins",
@@ -1331,6 +1601,12 @@
       "type": "person",
       "name": "Colm Kelleher",
       "summary": "Biochemist and former National Institute for Discovery Science researcher associated with investigations of anomalous phenomena and UAP-related programs."
+    },
+    {
+      "id": "dan-cleary",
+      "type": "person",
+      "name": "Dan Cleary",
+      "summary": "Podcaster and music-industry entrepreneur who appeared on WEAPONIZED to discuss UFO politics and Contact in the Desert."
     },
     {
       "id": "daniel-sheehan",
@@ -1439,6 +1715,12 @@
       "type": "person",
       "name": "Ernest Cline",
       "summary": "Novelist and screenwriter known for Ready Player One and Armada, with a longstanding interest in UFO history and science fiction."
+    },
+    {
+      "id": "ernie-cline",
+      "type": "person",
+      "name": "Ernie Cline",
+      "summary": "Novelist and screenwriter who appeared on WEAPONIZED to discuss UFO politics and Contact in the Desert."
     },
     {
       "id": "federica-bianco",
@@ -2172,12 +2454,39 @@
       "status": "Published"
     },
     {
+      "id": "2025-weaponized-episode-73",
+      "type": "podcast_episode",
+      "name": "WEAPONIZED Episode #73 — USS Jackson Eyewitness Alex Wiggins",
+      "summary": "Active-duty Navy service member Alex Wiggins describes witnessing a glowing Tic Tac-shaped object emerge from the ocean near USS Jackson and join three similar objects before departing in formation.",
+      "date": "2025-04-15",
+      "dateDisplay": "April 15, 2025",
+      "status": "Published"
+    },
+    {
+      "id": "2025-weaponized-episode-74",
+      "type": "podcast_episode",
+      "name": "WEAPONIZED Episode #74 — Matthew Brown and Immaculate Constellation — Part 1",
+      "summary": "Matthew Brown publicly identifies himself as the author of the Immaculate Constellation report and explains his background, how he encountered the term, and why he chose to come forward.",
+      "date": "2025-04-29",
+      "dateDisplay": "April 29, 2025",
+      "status": "Published"
+    },
+    {
       "id": "weaponized-matthew-brown-part-1",
       "type": "podcast_episode",
       "name": "WEAPONIZED Episode #74 — Matthew Brown Part 1: Immaculate Constellation",
       "summary": "Matthew Brown joins Jeremy Corbell and George Knapp for the first part of a discussion concerning his allegations about Immaculate Constellation, compartmentalized UAP programs, whistleblower risk, and congressional oversight.",
       "date": "2025-04-29",
       "dateDisplay": "April 29, 2025",
+      "status": "Published"
+    },
+    {
+      "id": "2025-weaponized-episode-75",
+      "type": "podcast_episode",
+      "name": "WEAPONIZED Episode #75 — Matthew Brown and Immaculate Constellation — Part 2",
+      "summary": "Matthew Brown discusses documents he says he reviewed, the reporting process he followed, and institutional barriers he encountered before publicly identifying himself.",
+      "date": "2025-05-06",
+      "dateDisplay": "May 6, 2025",
       "status": "Published"
     },
     {
@@ -2190,12 +2499,75 @@
       "status": "Published"
     },
     {
+      "id": "2025-weaponized-episode-76",
+      "type": "podcast_episode",
+      "name": "WEAPONIZED Episode #76 — Matthew Brown and Immaculate Constellation — Part 3",
+      "summary": "In the conclusion of the interview, Matthew Brown discusses alleged classified UAP imagery, secrecy mechanisms, public perception management, and his appeal for other insiders to come forward.",
+      "date": "2025-05-13",
+      "dateDisplay": "May 13, 2025",
+      "status": "Published"
+    },
+    {
       "id": "weaponized-matthew-brown-part-3",
       "type": "podcast_episode",
       "name": "WEAPONIZED Episode #76 — Matthew Brown Part 3: Immaculate Constellation",
       "summary": "In Part 3, Matthew Brown concludes his WEAPONIZED interview with Jeremy Corbell and George Knapp by discussing alleged UAP imagery found on classified systems, the management of public perception, excessive secrecy, congressional inquiry, and his call for additional insiders to come forward.",
       "date": "2025-05-13",
       "dateDisplay": "May 13, 2025",
+      "status": "Published"
+    },
+    {
+      "id": "2025-weaponized-episode-77",
+      "type": "podcast_episode",
+      "name": "WEAPONIZED Episode #77 — UAP Briefings, Immaculate Constellation, and the Jellyfish Debate",
+      "summary": "Jeremy Corbell and George Knapp review closed-door congressional briefings, questions raised by the Matthew Brown interviews, the McMinnville UFO Festival, and AARO commentary concerning the Jellyfish UAP.",
+      "date": "2025-05-20",
+      "dateDisplay": "May 20, 2025",
+      "status": "Published"
+    },
+    {
+      "id": "2025-weaponized-episode-78",
+      "type": "podcast_episode",
+      "name": "WEAPONIZED Episode #78 — Sean Kirkpatrick, AARO, and UFO Politics",
+      "summary": "The hosts challenge claims attributed to former AARO director Sean Kirkpatrick and discuss UFO politics and Contact in the Desert with Ernie Cline and Dan Cleary.",
+      "date": "2025-06-09",
+      "dateDisplay": "June 9, 2025",
+      "status": "Published"
+    },
+    {
+      "id": "2025-weaponized-episode-79",
+      "type": "podcast_episode",
+      "name": "WEAPONIZED Episode #79 — The Large Disc UAP Video",
+      "summary": "The hosts discuss renewed claims that UFO reports stem from government deception and release military-sensor video described as showing a large disc-shaped UAP moving through cloud cover over a conflict zone.",
+      "date": "2025-06-17",
+      "dateDisplay": "June 17, 2025",
+      "status": "Published"
+    },
+    {
+      "id": "2025-weaponized-episode-80",
+      "type": "podcast_episode",
+      "name": "WEAPONIZED Episode #80 — UFOs, Nuclear Weapons, and the Wall Street Journal",
+      "summary": "Jeremy Corbell and George Knapp, joined by Robert Hastings and Marik von Rennenkampff, rebut Wall Street Journal reporting about UFO history and examine longstanding reports of UAP activity near nuclear weapons sites.",
+      "date": "2025-06-24",
+      "dateDisplay": "June 24, 2025",
+      "status": "Published"
+    },
+    {
+      "id": "2025-weaponized-episode-81",
+      "type": "podcast_episode",
+      "name": "WEAPONIZED Episode #81 — The Full Mosul Orb Video",
+      "summary": "WEAPONIZED releases the full four-second Mosul Orb video and interviews journalist Dustin Slaughter about obtaining the footage through government-records efforts.",
+      "date": "2025-07-01",
+      "dateDisplay": "July 1, 2025",
+      "status": "Published"
+    },
+    {
+      "id": "2025-weaponized-episode-82",
+      "type": "podcast_episode",
+      "name": "WEAPONIZED Episode #82 — Disclosure, Drones, and Competition for Crash Materials",
+      "summary": "The hosts survey recent UAP disclosure developments, including statements by administration insiders, additional military and intelligence witnesses, congressional interest in secret programs and drones, and reported competition for access to alleged crash materials.",
+      "date": "2025-07-11",
+      "dateDisplay": "July 11, 2025",
       "status": "Published"
     },
     {

@@ -1,0 +1,102 @@
+{
+  "id": "2025-weaponized-episode-77",
+  "type": "podcast_episode",
+  "name": "WEAPONIZED Episode #77 \u2014 UAP Briefings, Immaculate Constellation, and the Jellyfish Debate",
+  "summary": "Jeremy Corbell and George Knapp review closed-door congressional briefings, questions raised by the Matthew Brown interviews, the McMinnville UFO Festival, and AARO commentary concerning the Jellyfish UAP.",
+  "date": "2025-05-20",
+  "dateDisplay": "May 20, 2025",
+  "seriesId": "weaponized-podcast",
+  "episodeNumber": 77,
+  "episodeTitle": "UAP Briefings, Immaculate Constellation, and the Jellyfish Debate",
+  "status": "Published",
+  "mediaType": "Podcast episode",
+  "mediaPlatform": "WEAPONIZED",
+  "mediaHost": "Jeremy Corbell and George Knapp",
+  "mediaGuests": [],
+  "mediaSubjects": [
+    "Congressional UAP briefings",
+    "Immaculate Constellation",
+    "Jellyfish UAP"
+  ],
+  "principalClaims": [
+    "claim-planned-uap-hearing-canceled",
+    "claim-lawmakers-received-closed-briefings",
+    "claim-grusch-assisted-expert-briefings",
+    "claim-aaro-jellyfish-explanation-disputed"
+  ],
+  "researchNotes": [],
+  "relationships": [
+    {
+      "type": "episode_of",
+      "target": "weaponized-podcast"
+    },
+    {
+      "type": "features_person",
+      "target": "jeremy-corbell",
+      "role": "host",
+      "context": "WEAPONIZED co-host"
+    },
+    {
+      "type": "features_person",
+      "target": "george-knapp",
+      "role": "host",
+      "context": "WEAPONIZED co-host"
+    },
+    {
+      "type": "features_person",
+      "target": "david-grusch",
+      "role": "subject",
+      "context": "Discussed in episode"
+    },
+    {
+      "type": "features_person",
+      "target": "matthew-brown",
+      "role": "subject",
+      "context": "Discussed in episode"
+    },
+    {
+      "type": "references_organization",
+      "target": "aaro"
+    },
+    {
+      "type": "references_case",
+      "target": "immaculate-constellation"
+    },
+    {
+      "type": "discussed_topic",
+      "target": "congressional-oversight"
+    },
+    {
+      "type": "discussed_topic",
+      "target": "government-transparency"
+    }
+  ],
+  "mediaLinks": [
+    {
+      "label": "Open the official Episode #77 page",
+      "url": "https://www.weaponizedpodcast.com/episodes-3/episode-77",
+      "platform": "WEAPONIZED"
+    },
+    {
+      "label": "Listen to WEAPONIZED",
+      "url": "https://link.chtbl.com/Weaponized",
+      "platform": "Official audio feed"
+    }
+  ],
+  "eventCategory": "Podcast publication",
+  "officialLinks": [],
+  "referenceSources": [
+    {
+      "label": "Official WEAPONIZED Episode #77 page",
+      "url": "https://www.weaponizedpodcast.com/episodes-3/episode-77",
+      "sourceType": "official_episode_page",
+      "role": "source"
+    },
+    {
+      "label": "Listen to WEAPONIZED",
+      "url": "https://link.chtbl.com/Weaponized",
+      "sourceType": "official_audio_feed",
+      "role": "source"
+    }
+  ]
+}

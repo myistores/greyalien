@@ -1,0 +1,21 @@
+{
+  "id": "ernie-cline",
+  "type": "person",
+  "name": "Ernie Cline",
+  "summary": "Novelist and screenwriter who appeared on WEAPONIZED to discuss UFO politics and Contact in the Desert.",
+  "relationships": [
+    {
+      "type": "featured_in_media",
+      "target": "2025-weaponized-episode-78"
+    }
+  ],
+  "officialLinks": [],
+  "referenceSources": [
+    {
+      "label": "Official WEAPONIZED Episode #78 page",
+      "url": "https://www.weaponizedpodcast.com/episodes-3/episode-78",
+      "sourceType": "official_episode_page",
+      "role": "source"
+    }
+  ]
+}

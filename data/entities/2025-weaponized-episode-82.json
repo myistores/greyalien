@@ -1,0 +1,90 @@
+{
+  "id": "2025-weaponized-episode-82",
+  "type": "podcast_episode",
+  "name": "WEAPONIZED Episode #82 \u2014 Disclosure, Drones, and Competition for Crash Materials",
+  "summary": "The hosts survey recent UAP disclosure developments, including statements by administration insiders, additional military and intelligence witnesses, congressional interest in secret programs and drones, and reported competition for access to alleged crash materials.",
+  "date": "2025-07-11",
+  "dateDisplay": "July 11, 2025",
+  "seriesId": "weaponized-podcast",
+  "episodeNumber": 82,
+  "episodeTitle": "Disclosure, Drones, and Competition for Crash Materials",
+  "status": "Published",
+  "mediaType": "Podcast episode",
+  "mediaPlatform": "WEAPONIZED",
+  "mediaHost": "Jeremy Corbell and George Knapp",
+  "mediaGuests": [],
+  "mediaSubjects": [
+    "UAP disclosure",
+    "Drone controversy",
+    "Crash-retrieval allegations"
+  ],
+  "principalClaims": [
+    "claim-administration-insiders-promised-transparency",
+    "claim-more-former-officials-coming-forward",
+    "claim-congress-continues-secret-program-inquiry",
+    "claim-private-competition-crash-materials"
+  ],
+  "researchNotes": [],
+  "relationships": [
+    {
+      "type": "episode_of",
+      "target": "weaponized-podcast"
+    },
+    {
+      "type": "features_person",
+      "target": "jeremy-corbell",
+      "role": "host",
+      "context": "WEAPONIZED co-host"
+    },
+    {
+      "type": "features_person",
+      "target": "george-knapp",
+      "role": "host",
+      "context": "WEAPONIZED co-host"
+    },
+    {
+      "type": "discussed_topic",
+      "target": "government-transparency"
+    },
+    {
+      "type": "discussed_topic",
+      "target": "congressional-oversight"
+    },
+    {
+      "type": "discussed_topic",
+      "target": "uap-disclosure-legislation"
+    },
+    {
+      "type": "references_organization",
+      "target": "department-of-defense"
+    }
+  ],
+  "mediaLinks": [
+    {
+      "label": "Open the official Episode #82 page",
+      "url": "https://www.weaponizedpodcast.com/episodes-3/episode-82",
+      "platform": "WEAPONIZED"
+    },
+    {
+      "label": "Listen to WEAPONIZED",
+      "url": "https://link.chtbl.com/Weaponized",
+      "platform": "Official audio feed"
+    }
+  ],
+  "eventCategory": "Podcast publication",
+  "officialLinks": [],
+  "referenceSources": [
+    {
+      "label": "Official WEAPONIZED Episode #82 page",
+      "url": "https://www.weaponizedpodcast.com/episodes-3/episode-82",
+      "sourceType": "official_episode_page",
+      "role": "source"
+    },
+    {
+      "label": "Listen to WEAPONIZED",
+      "url": "https://link.chtbl.com/Weaponized",
+      "sourceType": "official_audio_feed",
+      "role": "source"
+    }
+  ]
+}

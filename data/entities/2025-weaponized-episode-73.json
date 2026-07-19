@@ -1,0 +1,102 @@
+{
+  "id": "2025-weaponized-episode-73",
+  "type": "podcast_episode",
+  "name": "WEAPONIZED Episode #73 \u2014 USS Jackson Eyewitness Alex Wiggins",
+  "summary": "Active-duty Navy service member Alex Wiggins describes witnessing a glowing Tic Tac-shaped object emerge from the ocean near USS Jackson and join three similar objects before departing in formation.",
+  "date": "2025-04-15",
+  "dateDisplay": "April 15, 2025",
+  "seriesId": "weaponized-podcast",
+  "episodeNumber": 73,
+  "episodeTitle": "USS Jackson Eyewitness Alex Wiggins",
+  "status": "Published",
+  "mediaType": "Podcast episode",
+  "mediaPlatform": "WEAPONIZED",
+  "mediaHost": "Jeremy Corbell and George Knapp",
+  "mediaGuests": [
+    "alex-wiggins"
+  ],
+  "mediaSubjects": [
+    "USS Jackson",
+    "Tic Tac UAP",
+    "Transmedium UAP"
+  ],
+  "principalClaims": [
+    "claim-alex-wiggins-reported-ocean-emergence",
+    "claim-uss-jackson-four-objects-formation",
+    "claim-uss-jackson-multiple-sensors",
+    "claim-uss-jackson-area-recurring-encounters"
+  ],
+  "researchNotes": [],
+  "relationships": [
+    {
+      "type": "episode_of",
+      "target": "weaponized-podcast"
+    },
+    {
+      "type": "features_person",
+      "target": "jeremy-corbell",
+      "role": "host",
+      "context": "WEAPONIZED co-host"
+    },
+    {
+      "type": "features_person",
+      "target": "george-knapp",
+      "role": "host",
+      "context": "WEAPONIZED co-host"
+    },
+    {
+      "type": "features_person",
+      "target": "alex-wiggins",
+      "role": "guest",
+      "context": "Featured episode participant"
+    },
+    {
+      "type": "references_organization",
+      "target": "uss-jackson"
+    },
+    {
+      "type": "references_organization",
+      "target": "united-states-navy"
+    },
+    {
+      "type": "references_case",
+      "target": "2023-uss-jackson-tic-tac-incident"
+    },
+    {
+      "type": "discussed_topic",
+      "target": "transmedium-uap"
+    },
+    {
+      "type": "discussed_topic",
+      "target": "aviation-safety"
+    }
+  ],
+  "mediaLinks": [
+    {
+      "label": "Open the official Episode #73 page",
+      "url": "https://www.weaponizedpodcast.com/episodes-3/episode-73",
+      "platform": "WEAPONIZED"
+    },
+    {
+      "label": "Listen to WEAPONIZED",
+      "url": "https://link.chtbl.com/Weaponized",
+      "platform": "Official audio feed"
+    }
+  ],
+  "eventCategory": "Podcast publication",
+  "officialLinks": [],
+  "referenceSources": [
+    {
+      "label": "Official WEAPONIZED Episode #73 page",
+      "url": "https://www.weaponizedpodcast.com/episodes-3/episode-73",
+      "sourceType": "official_episode_page",
+      "role": "source"
+    },
+    {
+      "label": "Listen to WEAPONIZED",
+      "url": "https://link.chtbl.com/Weaponized",
+      "sourceType": "official_audio_feed",
+      "role": "source"
+    }
+  ]
+}

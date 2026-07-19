@@ -1,0 +1,111 @@
+{
+  "id": "2025-weaponized-episode-78",
+  "type": "podcast_episode",
+  "name": "WEAPONIZED Episode #78 \u2014 Sean Kirkpatrick, AARO, and UFO Politics",
+  "summary": "The hosts challenge claims attributed to former AARO director Sean Kirkpatrick and discuss UFO politics and Contact in the Desert with Ernie Cline and Dan Cleary.",
+  "date": "2025-06-09",
+  "dateDisplay": "June 9, 2025",
+  "seriesId": "weaponized-podcast",
+  "episodeNumber": 78,
+  "episodeTitle": "Sean Kirkpatrick, AARO, and UFO Politics",
+  "status": "Published",
+  "mediaType": "Podcast episode",
+  "mediaPlatform": "WEAPONIZED",
+  "mediaHost": "Jeremy Corbell and George Knapp",
+  "mediaGuests": [
+    "ernie-cline",
+    "dan-cleary"
+  ],
+  "mediaSubjects": [
+    "AARO historical review",
+    "UAP disinformation",
+    "Contact in the Desert"
+  ],
+  "principalClaims": [
+    "claim-kirkpatrick-secret-technology-explanation",
+    "claim-hosts-challenged-kirkpatrick-account",
+    "claim-dod-deception-history-discussed",
+    "claim-contact-in-desert-observations"
+  ],
+  "researchNotes": [],
+  "relationships": [
+    {
+      "type": "episode_of",
+      "target": "weaponized-podcast"
+    },
+    {
+      "type": "features_person",
+      "target": "jeremy-corbell",
+      "role": "host",
+      "context": "WEAPONIZED co-host"
+    },
+    {
+      "type": "features_person",
+      "target": "george-knapp",
+      "role": "host",
+      "context": "WEAPONIZED co-host"
+    },
+    {
+      "type": "features_person",
+      "target": "ernie-cline",
+      "role": "guest",
+      "context": "Featured episode participant"
+    },
+    {
+      "type": "features_person",
+      "target": "dan-cleary",
+      "role": "guest",
+      "context": "Featured episode participant"
+    },
+    {
+      "type": "features_person",
+      "target": "sean-kirkpatrick",
+      "role": "subject",
+      "context": "Discussed in episode"
+    },
+    {
+      "type": "references_organization",
+      "target": "aaro"
+    },
+    {
+      "type": "references_organization",
+      "target": "wall-street-journal"
+    },
+    {
+      "type": "discussed_topic",
+      "target": "government-transparency"
+    },
+    {
+      "type": "discussed_topic",
+      "target": "uap-journalism"
+    }
+  ],
+  "mediaLinks": [
+    {
+      "label": "Open the official Episode #78 page",
+      "url": "https://www.weaponizedpodcast.com/episodes-3/episode-78",
+      "platform": "WEAPONIZED"
+    },
+    {
+      "label": "Listen to WEAPONIZED",
+      "url": "https://link.chtbl.com/Weaponized",
+      "platform": "Official audio feed"
+    }
+  ],
+  "eventCategory": "Podcast publication",
+  "officialLinks": [],
+  "referenceSources": [
+    {
+      "label": "Official WEAPONIZED Episode #78 page",
+      "url": "https://www.weaponizedpodcast.com/episodes-3/episode-78",
+      "sourceType": "official_episode_page",
+      "role": "source"
+    },
+    {
+      "label": "Listen to WEAPONIZED",
+      "url": "https://link.chtbl.com/Weaponized",
+      "sourceType": "official_audio_feed",
+      "role": "source"
+    }
+  ]
+}

@@ -1,0 +1,98 @@
+{
+  "id": "2025-weaponized-episode-74",
+  "type": "podcast_episode",
+  "name": "WEAPONIZED Episode #74 \u2014 Matthew Brown and Immaculate Constellation \u2014 Part 1",
+  "summary": "Matthew Brown publicly identifies himself as the author of the Immaculate Constellation report and explains his background, how he encountered the term, and why he chose to come forward.",
+  "date": "2025-04-29",
+  "dateDisplay": "April 29, 2025",
+  "seriesId": "weaponized-podcast",
+  "episodeNumber": 74,
+  "episodeTitle": "Matthew Brown and Immaculate Constellation \u2014 Part 1",
+  "status": "Published",
+  "mediaType": "Podcast episode",
+  "mediaPlatform": "WEAPONIZED",
+  "mediaHost": "Jeremy Corbell and George Knapp",
+  "mediaGuests": [
+    "matthew-brown"
+  ],
+  "mediaSubjects": [
+    "Immaculate Constellation",
+    "UAP whistleblowing",
+    "Classified intelligence systems"
+  ],
+  "principalClaims": [
+    "claim-brown-authored-imcon-report",
+    "claim-imcon-described-usap",
+    "claim-imcon-ai-server-search",
+    "claim-brown-sought-congressional-testimony"
+  ],
+  "researchNotes": [],
+  "relationships": [
+    {
+      "type": "episode_of",
+      "target": "weaponized-podcast"
+    },
+    {
+      "type": "features_person",
+      "target": "jeremy-corbell",
+      "role": "host",
+      "context": "WEAPONIZED co-host"
+    },
+    {
+      "type": "features_person",
+      "target": "george-knapp",
+      "role": "host",
+      "context": "WEAPONIZED co-host"
+    },
+    {
+      "type": "features_person",
+      "target": "matthew-brown",
+      "role": "guest",
+      "context": "Featured episode participant"
+    },
+    {
+      "type": "references_case",
+      "target": "immaculate-constellation"
+    },
+    {
+      "type": "discussed_topic",
+      "target": "whistleblower-protection"
+    },
+    {
+      "type": "discussed_topic",
+      "target": "government-transparency"
+    },
+    {
+      "type": "references_organization",
+      "target": "department-of-defense"
+    }
+  ],
+  "mediaLinks": [
+    {
+      "label": "Open the official Episode #74 page",
+      "url": "https://www.weaponizedpodcast.com/episodes-3/episode-74",
+      "platform": "WEAPONIZED"
+    },
+    {
+      "label": "Listen to WEAPONIZED",
+      "url": "https://link.chtbl.com/Weaponized",
+      "platform": "Official audio feed"
+    }
+  ],
+  "eventCategory": "Podcast publication",
+  "officialLinks": [],
+  "referenceSources": [
+    {
+      "label": "Official WEAPONIZED Episode #74 page",
+      "url": "https://www.weaponizedpodcast.com/episodes-3/episode-74",
+      "sourceType": "official_episode_page",
+      "role": "source"
+    },
+    {
+      "label": "Listen to WEAPONIZED",
+      "url": "https://link.chtbl.com/Weaponized",
+      "sourceType": "official_audio_feed",
+      "role": "source"
+    }
+  ]
+}

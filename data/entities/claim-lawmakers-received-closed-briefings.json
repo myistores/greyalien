@@ -1,0 +1,21 @@
+{
+  "id": "claim-lawmakers-received-closed-briefings",
+  "type": "claim",
+  "name": "Key lawmakers reportedly received closed-door briefings on alleged secret programs.",
+  "summary": "The official episode description presents or discusses this claim; it is recorded here as a source-attributed claim, not as independently verified fact.",
+  "relationships": [
+    {
+      "type": "featured_in_media",
+      "target": "2025-weaponized-episode-77"
+    }
+  ],
+  "officialLinks": [],
+  "referenceSources": [
+    {
+      "label": "Official WEAPONIZED Episode #77 page",
+      "url": "https://www.weaponizedpodcast.com/episodes-3/episode-77",
+      "sourceType": "official_episode_page",
+      "role": "source"
+    }
+  ]
+}

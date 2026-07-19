@@ -1,0 +1,102 @@
+{
+  "id": "2025-weaponized-episode-81",
+  "type": "podcast_episode",
+  "name": "WEAPONIZED Episode #81 \u2014 The Full Mosul Orb Video",
+  "summary": "WEAPONIZED releases the full four-second Mosul Orb video and interviews journalist Dustin Slaughter about obtaining the footage through government-records efforts.",
+  "date": "2025-07-01",
+  "dateDisplay": "July 1, 2025",
+  "seriesId": "weaponized-podcast",
+  "episodeNumber": 81,
+  "episodeTitle": "The Full Mosul Orb Video",
+  "status": "Published",
+  "mediaType": "Podcast episode",
+  "mediaPlatform": "WEAPONIZED",
+  "mediaHost": "Jeremy Corbell and George Knapp",
+  "mediaGuests": [
+    "dustin-slaughter"
+  ],
+  "mediaSubjects": [
+    "Mosul Orb",
+    "Government records",
+    "Military UAP imagery"
+  ],
+  "principalClaims": [
+    "claim-mosul-orb-recorded-2016",
+    "claim-mosul-orb-four-second-video",
+    "claim-mosul-orb-unidentified",
+    "claim-slaughter-obtained-full-video"
+  ],
+  "researchNotes": [],
+  "relationships": [
+    {
+      "type": "episode_of",
+      "target": "weaponized-podcast"
+    },
+    {
+      "type": "features_person",
+      "target": "jeremy-corbell",
+      "role": "host",
+      "context": "WEAPONIZED co-host"
+    },
+    {
+      "type": "features_person",
+      "target": "george-knapp",
+      "role": "host",
+      "context": "WEAPONIZED co-host"
+    },
+    {
+      "type": "features_person",
+      "target": "dustin-slaughter",
+      "role": "guest",
+      "context": "Featured episode participant"
+    },
+    {
+      "type": "references_case",
+      "target": "2016-mosul-orb-incident"
+    },
+    {
+      "type": "references_organization",
+      "target": "central-intelligence-agency"
+    },
+    {
+      "type": "discussed_topic",
+      "target": "government-transparency"
+    },
+    {
+      "type": "discussed_topic",
+      "target": "uap-register"
+    },
+    {
+      "type": "discussed_topic",
+      "target": "uap-journalism"
+    }
+  ],
+  "mediaLinks": [
+    {
+      "label": "Open the official Episode #81 page",
+      "url": "https://www.weaponizedpodcast.com/episodes-3/episode-81",
+      "platform": "WEAPONIZED"
+    },
+    {
+      "label": "Listen to WEAPONIZED",
+      "url": "https://link.chtbl.com/Weaponized",
+      "platform": "Official audio feed"
+    }
+  ],
+  "eventCategory": "Podcast publication",
+  "officialLinks": [],
+  "referenceSources": [
+    {
+      "label": "Official WEAPONIZED Episode #81 page",
+      "url": "https://www.weaponizedpodcast.com/episodes-3/episode-81",
+      "sourceType": "official_episode_page",
+      "role": "source"
+    },
+    {
+      "label": "Listen to WEAPONIZED",
+      "url": "https://link.chtbl.com/Weaponized",
+      "sourceType": "official_audio_feed",
+      "role": "source"
+    }
+  ]
+}

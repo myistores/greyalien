@@ -1,3 +1,10 @@
+## V19.1.1 — WEAPONIZED Episodes #73–#82 Production Batch
+
+- Added production episode records and source-grounded claims for Episodes #73–#82.
+- Reused canonical entities and introduced only genuinely new people, organizations, and cases.
+- Rebuilt graph, podcast indexes, related content, entity pages, homepage, sitemap, and validation reports.
+- No architectural changes.
+
 # V19.0 — WEAPONIZED Episodes #63–#72 Production Batch
 
 - Added production episode records for WEAPONIZED Episodes #63 through #72.
