@@ -1,7 +1,7 @@
-# GreyAlien V17.3 Deployment Report
+# GreyAlien V17.4 Deployment Report
 
 **Status:** Ready for deployment  
-**Generated:** 2026-07-19T01:45:25.536548+00:00
+**Generated:** 2026-07-19T02:17:39.315653+00:00
 
 - Entities: 272
 - Resolved relationships: 801
@@ -15,4 +15,4 @@
 
 ## Release summary
 
-Added a one-command automation pipeline that rebuilds the knowledge graph, podcast indexes, connection totals, related-episode recommendations, Referenced In data, generated entity pages, homepage Latest Additions, sitemap assets, validators, and a deployment-ready report. Imports now use the same authoritative build sequence.
+Refined the entity renderer so relationship cards are grouped by target entity category rather than split by relationship type. Interviews and podcast episodes now share one Related Media section, while each card retains its specific relationship badge. Added centralized rendering rules and automated validation to prevent duplicate category sections.

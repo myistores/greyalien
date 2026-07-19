@@ -1,7 +1,7 @@
 {
-  "version": "17.3",
-  "title": "Phase 4 Automation",
+  "version": "17.4",
+  "title": "Automation Engine Refinement",
   "date": "2026-07-18",
-  "summary": "Added a one-command automation pipeline that rebuilds the knowledge graph, podcast indexes, connection totals, related-episode recommendations, Referenced In data, generated entity pages, homepage Latest Additions, sitemap assets, validators, and a deployment-ready report. Imports now use the same authoritative build sequence.",
-  "phase": 4
+  "summary": "Refined the entity renderer so relationship cards are grouped by target entity category rather than split by relationship type. Interviews and podcast episodes now share one Related Media section, while each card retains its specific relationship badge. Added centralized rendering rules and automated validation to prevent duplicate category sections.",
+  "phase": "4 refinement 1"
 }

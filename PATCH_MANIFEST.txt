@@ -1,27 +1,16 @@
-GreyAlien V17.3 — Phase 4 Automation
+GreyAlien V17.4 — Automation Engine Refinement
 
-NEW
-- PHASE4_AUTOMATION.md
+Primary changed files:
+- assets/js/entity-engine.js
+- data/schema/rendering-groups.json
+- tools/validate_rendering_rules.py
 - tools/automate_site.py
-- tools/build_related_content.py
-- tools/build_homepage.py
-- tools/build_deployment_report.py
-- assets/js/automation-enhancements.js
-- data/related-content.json
-- data/automation/last-run.json
-- data/automation/reports/latest.json
-- data/automation/reports/latest.md
-
-UPDATED
-- tools/import_batch.py
-- entities/entity.html
 - data/release-summary.json
 - index.html
-- sitemap.xml
-- data/entity-index.json
-- data/graph-manifest.json
-- data/podcasts/*
-- entities/generated/*
+- CHANGELOG.md
 - README.md
 - README_DEPLOY.txt
-- CHANGELOG.md
+- PHASE4_REFINEMENT1_RENDERING_RULES.md
+- generated automation reports and manifests
+
+Deployment method: full-package replacement recommended.

@@ -1,3 +1,13 @@
+# GreyAlien Changelog
+
+## V17.4 — Automation Engine Refinement
+- Grouped relationship cards by target entity category rather than relationship type.
+- Unified interviews and podcast episodes under one Related Media section.
+- Preserved relationship-specific badges on every card.
+- Added `data/schema/rendering-groups.json` as the centralized rendering configuration.
+- Added automated rendering-rule validation to the one-command build.
+- Updated Latest Additions for the V17.4 deployment.
+
 # V17.2 — Import System
 
 - Added transactional single-record and folder-based batch imports.

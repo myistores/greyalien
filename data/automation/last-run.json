@@ -1,6 +1,6 @@
 {
-  "startedAt": "2026-07-19T01:45:13.734162+00:00",
-  "finishedAt": "2026-07-19T01:45:25.663090+00:00",
+  "startedAt": "2026-07-19T02:17:26.443421+00:00",
+  "finishedAt": "2026-07-19T02:17:39.490155+00:00",
   "status": "passed",
   "steps": [
     {
@@ -26,7 +26,7 @@
     {
       "step": "build_homepage.py",
       "returnCode": 0,
-      "output": "Updated homepage Latest Additions for GreyAlien Version 17.3."
+      "output": "Updated homepage Latest Additions for GreyAlien Version 17.4."
     },
     {
       "step": "build_sitemap.py",
@@ -42,6 +42,11 @@
       "step": "validate_podcasts.py",
       "returnCode": 0,
       "output": "Checked 8 series and 6 episodes.\nPODCAST VALIDATION PASSED"
+    },
+    {
+      "step": "validate_rendering_rules.py",
+      "returnCode": 0,
+      "output": "Rendering rule validation: PASSED (11 categories, 12 entity types)\nUnified Media category: interview + podcast_episode"
     },
     {
       "step": "build_deployment_report.py",
