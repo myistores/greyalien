@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "generatedBy": "tools/build_related_content.py",
-  "generatedAt": "2026-07-19T22:21:30.005574+00:00",
+  "generatedAt": "2026-07-19T22:48:45.136829+00:00",
   "referencedIn": {
     "1960s-area-51-engine-claim": [
       {
@@ -2035,108 +2035,6 @@
         "context": ""
       }
     ],
-    "2025-weaponized-episode-74": [
-      {
-        "id": "claim-brown-sought-congressional-testimony",
-        "type": "claim",
-        "name": "Brown indicated willingness to testify to Congress if requested.",
-        "relationshipType": "featured_in_media",
-        "role": "",
-        "context": ""
-      },
-      {
-        "id": "claim-brown-authored-imcon-report",
-        "type": "claim",
-        "name": "Matthew Brown identified himself as the author of the Immaculate Constellation report.",
-        "relationshipType": "featured_in_media",
-        "role": "",
-        "context": ""
-      },
-      {
-        "id": "claim-imcon-ai-server-search",
-        "type": "claim",
-        "name": "The alleged program was described as using artificial intelligence to search classified servers for UAP imagery.",
-        "relationshipType": "featured_in_media",
-        "role": "",
-        "context": ""
-      },
-      {
-        "id": "claim-imcon-described-usap",
-        "type": "claim",
-        "name": "The report described Immaculate Constellation as an alleged unacknowledged special access program.",
-        "relationshipType": "featured_in_media",
-        "role": "",
-        "context": ""
-      }
-    ],
-    "2025-weaponized-episode-75": [
-      {
-        "id": "claim-brown-described-sensitive-documents",
-        "type": "claim",
-        "name": "Brown described reading documents that he believed showed a wider UAP secrecy structure.",
-        "relationshipType": "featured_in_media",
-        "role": "",
-        "context": ""
-      },
-      {
-        "id": "claim-brown-followed-reporting-process",
-        "type": "claim",
-        "name": "Brown said he attempted to follow official reporting channels before going public.",
-        "relationshipType": "featured_in_media",
-        "role": "",
-        "context": ""
-      },
-      {
-        "id": "claim-brown-reported-institutional-blocking",
-        "type": "claim",
-        "name": "Brown said his attempts to alert superiors were repeatedly blocked.",
-        "relationshipType": "featured_in_media",
-        "role": "",
-        "context": ""
-      },
-      {
-        "id": "claim-brown-expected-clearance-consequences",
-        "type": "claim",
-        "name": "Brown said public disclosure would likely end his career and security-clearance eligibility.",
-        "relationshipType": "featured_in_media",
-        "role": "",
-        "context": ""
-      }
-    ],
-    "2025-weaponized-episode-76": [
-      {
-        "id": "claim-brown-alleged-secrecy-stifles-inquiry",
-        "type": "claim",
-        "name": "Brown argued that excessive secrecy obstructs public and congressional inquiry.",
-        "relationshipType": "featured_in_media",
-        "role": "",
-        "context": ""
-      },
-      {
-        "id": "claim-brown-described-classified-uap-imagery",
-        "type": "claim",
-        "name": "Brown described visual evidence he said was stored on classified systems.",
-        "relationshipType": "featured_in_media",
-        "role": "",
-        "context": ""
-      },
-      {
-        "id": "claim-brown-described-varied-uap-shapes",
-        "type": "claim",
-        "name": "Brown said classified records contained imagery of multiple reported UAP shapes.",
-        "relationshipType": "featured_in_media",
-        "role": "",
-        "context": ""
-      },
-      {
-        "id": "claim-brown-urged-other-insiders-forward",
-        "type": "claim",
-        "name": "Brown urged other knowledgeable insiders to come forward.",
-        "relationshipType": "featured_in_media",
-        "role": "",
-        "context": ""
-      }
-    ],
     "2025-weaponized-episode-77": [
       {
         "id": "claim-grusch-assisted-expert-briefings",
@@ -2646,14 +2544,6 @@
         "id": "2025-weaponized-episode-72",
         "type": "podcast_episode",
         "name": "WEAPONIZED Episode #72 — The USS Jackson Tic Tac Video",
-        "relationshipType": "references_organization",
-        "role": "",
-        "context": ""
-      },
-      {
-        "id": "2025-weaponized-episode-75",
-        "type": "podcast_episode",
-        "name": "WEAPONIZED Episode #75 — Matthew Brown and Immaculate Constellation — Part 2",
         "relationshipType": "references_organization",
         "role": "",
         "context": ""
@@ -4478,14 +4368,6 @@
         "context": ""
       },
       {
-        "id": "2025-weaponized-episode-75",
-        "type": "podcast_episode",
-        "name": "WEAPONIZED Episode #75 — Matthew Brown and Immaculate Constellation — Part 2",
-        "relationshipType": "discussed_topic",
-        "role": "",
-        "context": ""
-      },
-      {
         "id": "weaponized-matthew-brown-part-2",
         "type": "podcast_episode",
         "name": "WEAPONIZED Episode #75 — Matthew Brown Part 2: Immaculate Constellation",
@@ -5035,22 +4917,6 @@
         "id": "2024-weaponized-episode-64",
         "type": "podcast_episode",
         "name": "WEAPONIZED Episode #64 — The 2024 UAP Year in Review",
-        "relationshipType": "references_organization",
-        "role": "",
-        "context": ""
-      },
-      {
-        "id": "2025-weaponized-episode-74",
-        "type": "podcast_episode",
-        "name": "WEAPONIZED Episode #74 — Matthew Brown and Immaculate Constellation — Part 1",
-        "relationshipType": "references_organization",
-        "role": "",
-        "context": ""
-      },
-      {
-        "id": "2025-weaponized-episode-75",
-        "type": "podcast_episode",
-        "name": "WEAPONIZED Episode #75 — Matthew Brown and Immaculate Constellation — Part 2",
         "relationshipType": "references_organization",
         "role": "",
         "context": ""
@@ -5766,14 +5632,6 @@
         "context": "WEAPONIZED co-host"
       },
       {
-        "id": "2025-weaponized-episode-74",
-        "type": "podcast_episode",
-        "name": "WEAPONIZED Episode #74 — Matthew Brown and Immaculate Constellation — Part 1",
-        "relationshipType": "features_person",
-        "role": "host",
-        "context": "WEAPONIZED co-host"
-      },
-      {
         "id": "weaponized-matthew-brown-part-1",
         "type": "podcast_episode",
         "name": "WEAPONIZED Episode #74 — Matthew Brown Part 1: Immaculate Constellation",
@@ -5782,25 +5640,9 @@
         "context": "WEAPONIZED co-host"
       },
       {
-        "id": "2025-weaponized-episode-75",
-        "type": "podcast_episode",
-        "name": "WEAPONIZED Episode #75 — Matthew Brown and Immaculate Constellation — Part 2",
-        "relationshipType": "features_person",
-        "role": "host",
-        "context": "WEAPONIZED co-host"
-      },
-      {
         "id": "weaponized-matthew-brown-part-2",
         "type": "podcast_episode",
         "name": "WEAPONIZED Episode #75 — Matthew Brown Part 2: Immaculate Constellation",
-        "relationshipType": "features_person",
-        "role": "host",
-        "context": "WEAPONIZED co-host"
-      },
-      {
-        "id": "2025-weaponized-episode-76",
-        "type": "podcast_episode",
-        "name": "WEAPONIZED Episode #76 — Matthew Brown and Immaculate Constellation — Part 3",
         "relationshipType": "features_person",
         "role": "host",
         "context": "WEAPONIZED co-host"
@@ -6448,14 +6290,6 @@
         "context": ""
       },
       {
-        "id": "2025-weaponized-episode-74",
-        "type": "podcast_episode",
-        "name": "WEAPONIZED Episode #74 — Matthew Brown and Immaculate Constellation — Part 1",
-        "relationshipType": "discussed_topic",
-        "role": "",
-        "context": ""
-      },
-      {
         "id": "weaponized-matthew-brown-part-1",
         "type": "podcast_episode",
         "name": "WEAPONIZED Episode #74 — Matthew Brown Part 1: Immaculate Constellation",
@@ -6467,14 +6301,6 @@
         "id": "weaponized-matthew-brown-part-2",
         "type": "podcast_episode",
         "name": "WEAPONIZED Episode #75 — Matthew Brown Part 2: Immaculate Constellation",
-        "relationshipType": "discussed_topic",
-        "role": "",
-        "context": ""
-      },
-      {
-        "id": "2025-weaponized-episode-76",
-        "type": "podcast_episode",
-        "name": "WEAPONIZED Episode #76 — Matthew Brown and Immaculate Constellation — Part 3",
         "relationshipType": "discussed_topic",
         "role": "",
         "context": ""
@@ -6999,14 +6825,6 @@
         "context": ""
       },
       {
-        "id": "2025-weaponized-episode-74",
-        "type": "podcast_episode",
-        "name": "WEAPONIZED Episode #74 — Matthew Brown and Immaculate Constellation — Part 1",
-        "relationshipType": "references_case",
-        "role": "",
-        "context": ""
-      },
-      {
         "id": "weaponized-matthew-brown-part-1",
         "type": "podcast_episode",
         "name": "WEAPONIZED Episode #74 — Matthew Brown Part 1: Immaculate Constellation",
@@ -7015,28 +6833,12 @@
         "context": "Primary subject of Part 1"
       },
       {
-        "id": "2025-weaponized-episode-75",
-        "type": "podcast_episode",
-        "name": "WEAPONIZED Episode #75 — Matthew Brown and Immaculate Constellation — Part 2",
-        "relationshipType": "references_case",
-        "role": "",
-        "context": ""
-      },
-      {
         "id": "weaponized-matthew-brown-part-2",
         "type": "podcast_episode",
         "name": "WEAPONIZED Episode #75 — Matthew Brown Part 2: Immaculate Constellation",
         "relationshipType": "discussed_topic",
         "role": "",
         "context": "Primary subject of Part 2"
-      },
-      {
-        "id": "2025-weaponized-episode-76",
-        "type": "podcast_episode",
-        "name": "WEAPONIZED Episode #76 — Matthew Brown and Immaculate Constellation — Part 3",
-        "relationshipType": "references_case",
-        "role": "",
-        "context": ""
       },
       {
         "id": "weaponized-matthew-brown-part-3",
@@ -7482,14 +7284,6 @@
         "context": "WEAPONIZED co-host"
       },
       {
-        "id": "2025-weaponized-episode-74",
-        "type": "podcast_episode",
-        "name": "WEAPONIZED Episode #74 — Matthew Brown and Immaculate Constellation — Part 1",
-        "relationshipType": "features_person",
-        "role": "host",
-        "context": "WEAPONIZED co-host"
-      },
-      {
         "id": "weaponized-matthew-brown-part-1",
         "type": "podcast_episode",
         "name": "WEAPONIZED Episode #74 — Matthew Brown Part 1: Immaculate Constellation",
@@ -7498,25 +7292,9 @@
         "context": "WEAPONIZED co-host"
       },
       {
-        "id": "2025-weaponized-episode-75",
-        "type": "podcast_episode",
-        "name": "WEAPONIZED Episode #75 — Matthew Brown and Immaculate Constellation — Part 2",
-        "relationshipType": "features_person",
-        "role": "host",
-        "context": "WEAPONIZED co-host"
-      },
-      {
         "id": "weaponized-matthew-brown-part-2",
         "type": "podcast_episode",
         "name": "WEAPONIZED Episode #75 — Matthew Brown Part 2: Immaculate Constellation",
-        "relationshipType": "features_person",
-        "role": "host",
-        "context": "WEAPONIZED co-host"
-      },
-      {
-        "id": "2025-weaponized-episode-76",
-        "type": "podcast_episode",
-        "name": "WEAPONIZED Episode #76 — Matthew Brown and Immaculate Constellation — Part 3",
         "relationshipType": "features_person",
         "role": "host",
         "context": "WEAPONIZED co-host"
@@ -8033,14 +7811,6 @@
         "context": ""
       },
       {
-        "id": "2025-weaponized-episode-74",
-        "type": "podcast_episode",
-        "name": "WEAPONIZED Episode #74 — Matthew Brown and Immaculate Constellation — Part 1",
-        "relationshipType": "features_person",
-        "role": "guest",
-        "context": "Featured episode participant"
-      },
-      {
         "id": "weaponized-matthew-brown-part-1",
         "type": "podcast_episode",
         "name": "WEAPONIZED Episode #74 — Matthew Brown Part 1: Immaculate Constellation",
@@ -8057,14 +7827,6 @@
         "context": "Public interview concerning the alleged Immaculate Constellation program"
       },
       {
-        "id": "2025-weaponized-episode-75",
-        "type": "podcast_episode",
-        "name": "WEAPONIZED Episode #75 — Matthew Brown and Immaculate Constellation — Part 2",
-        "relationshipType": "features_person",
-        "role": "guest",
-        "context": "Featured episode participant"
-      },
-      {
         "id": "weaponized-matthew-brown-part-2",
         "type": "podcast_episode",
         "name": "WEAPONIZED Episode #75 — Matthew Brown Part 2: Immaculate Constellation",
@@ -8079,14 +7841,6 @@
         "relationshipType": "timeline_connection",
         "role": "featured_guest",
         "context": "Public interview concerning the alleged Immaculate Constellation program"
-      },
-      {
-        "id": "2025-weaponized-episode-76",
-        "type": "podcast_episode",
-        "name": "WEAPONIZED Episode #76 — Matthew Brown and Immaculate Constellation — Part 3",
-        "relationshipType": "features_person",
-        "role": "guest",
-        "context": "Featured episode participant"
       },
       {
         "id": "weaponized-matthew-brown-part-3",
@@ -9999,14 +9753,6 @@
         "context": ""
       },
       {
-        "id": "2025-weaponized-episode-76",
-        "type": "podcast_episode",
-        "name": "WEAPONIZED Episode #76 — Matthew Brown and Immaculate Constellation — Part 3",
-        "relationshipType": "discussed_topic",
-        "role": "",
-        "context": ""
-      },
-      {
         "id": "aviation-safety",
         "type": "topic",
         "name": "Aviation Safety",
@@ -10634,8 +10380,73 @@
       }
     ],
     "warren-randolph": [],
-    "weaponized-matthew-brown-part-1": [],
+    "weaponized-matthew-brown-part-1": [
+      {
+        "id": "claim-brown-sought-congressional-testimony",
+        "type": "claim",
+        "name": "Brown indicated willingness to testify to Congress if requested.",
+        "relationshipType": "featured_in_media",
+        "role": "",
+        "context": ""
+      },
+      {
+        "id": "claim-brown-authored-imcon-report",
+        "type": "claim",
+        "name": "Matthew Brown identified himself as the author of the Immaculate Constellation report.",
+        "relationshipType": "featured_in_media",
+        "role": "",
+        "context": ""
+      },
+      {
+        "id": "claim-imcon-ai-server-search",
+        "type": "claim",
+        "name": "The alleged program was described as using artificial intelligence to search classified servers for UAP imagery.",
+        "relationshipType": "featured_in_media",
+        "role": "",
+        "context": ""
+      },
+      {
+        "id": "claim-imcon-described-usap",
+        "type": "claim",
+        "name": "The report described Immaculate Constellation as an alleged unacknowledged special access program.",
+        "relationshipType": "featured_in_media",
+        "role": "",
+        "context": ""
+      }
+    ],
     "weaponized-matthew-brown-part-2": [
+      {
+        "id": "claim-brown-described-sensitive-documents",
+        "type": "claim",
+        "name": "Brown described reading documents that he believed showed a wider UAP secrecy structure.",
+        "relationshipType": "featured_in_media",
+        "role": "",
+        "context": ""
+      },
+      {
+        "id": "claim-brown-followed-reporting-process",
+        "type": "claim",
+        "name": "Brown said he attempted to follow official reporting channels before going public.",
+        "relationshipType": "featured_in_media",
+        "role": "",
+        "context": ""
+      },
+      {
+        "id": "claim-brown-reported-institutional-blocking",
+        "type": "claim",
+        "name": "Brown said his attempts to alert superiors were repeatedly blocked.",
+        "relationshipType": "featured_in_media",
+        "role": "",
+        "context": ""
+      },
+      {
+        "id": "claim-brown-expected-clearance-consequences",
+        "type": "claim",
+        "name": "Brown said public disclosure would likely end his career and security-clearance eligibility.",
+        "relationshipType": "featured_in_media",
+        "role": "",
+        "context": ""
+      },
       {
         "id": "claim-immaculate-constellation-compartmentalization",
         "type": "claim",
@@ -10662,6 +10473,38 @@
       }
     ],
     "weaponized-matthew-brown-part-3": [
+      {
+        "id": "claim-brown-alleged-secrecy-stifles-inquiry",
+        "type": "claim",
+        "name": "Brown argued that excessive secrecy obstructs public and congressional inquiry.",
+        "relationshipType": "featured_in_media",
+        "role": "",
+        "context": ""
+      },
+      {
+        "id": "claim-brown-described-classified-uap-imagery",
+        "type": "claim",
+        "name": "Brown described visual evidence he said was stored on classified systems.",
+        "relationshipType": "featured_in_media",
+        "role": "",
+        "context": ""
+      },
+      {
+        "id": "claim-brown-described-varied-uap-shapes",
+        "type": "claim",
+        "name": "Brown said classified records contained imagery of multiple reported UAP shapes.",
+        "relationshipType": "featured_in_media",
+        "role": "",
+        "context": ""
+      },
+      {
+        "id": "claim-brown-urged-other-insiders-forward",
+        "type": "claim",
+        "name": "Brown urged other knowledgeable insiders to come forward.",
+        "relationshipType": "featured_in_media",
+        "role": "",
+        "context": ""
+      },
       {
         "id": "claim-uap-perception-management",
         "type": "claim",
@@ -11001,14 +10844,6 @@
         "context": ""
       },
       {
-        "id": "2025-weaponized-episode-74",
-        "type": "podcast_episode",
-        "name": "WEAPONIZED Episode #74 — Matthew Brown and Immaculate Constellation — Part 1",
-        "relationshipType": "episode_of",
-        "role": "",
-        "context": ""
-      },
-      {
         "id": "weaponized-matthew-brown-part-1",
         "type": "podcast_episode",
         "name": "WEAPONIZED Episode #74 — Matthew Brown Part 1: Immaculate Constellation",
@@ -11017,25 +10852,9 @@
         "context": ""
       },
       {
-        "id": "2025-weaponized-episode-75",
-        "type": "podcast_episode",
-        "name": "WEAPONIZED Episode #75 — Matthew Brown and Immaculate Constellation — Part 2",
-        "relationshipType": "episode_of",
-        "role": "",
-        "context": ""
-      },
-      {
         "id": "weaponized-matthew-brown-part-2",
         "type": "podcast_episode",
         "name": "WEAPONIZED Episode #75 — Matthew Brown Part 2: Immaculate Constellation",
-        "relationshipType": "episode_of",
-        "role": "",
-        "context": ""
-      },
-      {
-        "id": "2025-weaponized-episode-76",
-        "type": "podcast_episode",
-        "name": "WEAPONIZED Episode #76 — Matthew Brown and Immaculate Constellation — Part 3",
         "relationshipType": "episode_of",
         "role": "",
         "context": ""
@@ -11219,14 +11038,6 @@
         "context": ""
       },
       {
-        "id": "2025-weaponized-episode-74",
-        "type": "podcast_episode",
-        "name": "WEAPONIZED Episode #74 — Matthew Brown and Immaculate Constellation — Part 1",
-        "relationshipType": "discussed_topic",
-        "role": "",
-        "context": ""
-      },
-      {
         "id": "weaponized-matthew-brown-part-1",
         "type": "podcast_episode",
         "name": "WEAPONIZED Episode #74 — Matthew Brown Part 1: Immaculate Constellation",
@@ -11235,25 +11046,9 @@
         "context": ""
       },
       {
-        "id": "2025-weaponized-episode-75",
-        "type": "podcast_episode",
-        "name": "WEAPONIZED Episode #75 — Matthew Brown and Immaculate Constellation — Part 2",
-        "relationshipType": "discussed_topic",
-        "role": "",
-        "context": ""
-      },
-      {
         "id": "weaponized-matthew-brown-part-2",
         "type": "podcast_episode",
         "name": "WEAPONIZED Episode #75 — Matthew Brown Part 2: Immaculate Constellation",
-        "relationshipType": "discussed_topic",
-        "role": "",
-        "context": ""
-      },
-      {
-        "id": "2025-weaponized-episode-76",
-        "type": "podcast_episode",
-        "name": "WEAPONIZED Episode #76 — Matthew Brown and Immaculate Constellation — Part 3",
         "relationshipType": "discussed_topic",
         "role": "",
         "context": ""
@@ -11326,20 +11121,6 @@
         "score": 45
       },
       {
-        "id": "2025-weaponized-episode-76",
-        "name": "WEAPONIZED Episode #76 — Matthew Brown and Immaculate Constellation — Part 3",
-        "seriesId": "weaponized-podcast",
-        "date": "2025-05-13",
-        "sharedEntityIds": [
-          "george-knapp",
-          "government-transparency",
-          "jeremy-corbell",
-          "whistleblower-protection"
-        ],
-        "sharedEntityCount": 4,
-        "score": 45
-      },
-      {
         "id": "weaponized-matthew-brown-part-3",
         "name": "WEAPONIZED Episode #76 — Matthew Brown Part 3: Immaculate Constellation",
         "seriesId": "weaponized-podcast",
@@ -11363,6 +11144,20 @@
           "government-transparency",
           "jeremy-corbell",
           "whistleblower-protection"
+        ],
+        "sharedEntityCount": 4,
+        "score": 45
+      },
+      {
+        "id": "2024-weaponized-episode-55",
+        "name": "WEAPONIZED Episode #55 — AARO, Congressional Oversight, and the Kirkpatrick Interview",
+        "seriesId": "weaponized-podcast",
+        "date": "2024-07-23",
+        "sharedEntityIds": [
+          "david-grusch",
+          "george-knapp",
+          "government-transparency",
+          "jeremy-corbell"
         ],
         "sharedEntityCount": 4,
         "score": 45
@@ -11944,24 +11739,10 @@
         "score": 45
       },
       {
-        "id": "2025-weaponized-episode-76",
-        "name": "WEAPONIZED Episode #76 — Matthew Brown and Immaculate Constellation — Part 3",
+        "id": "2024-weaponized-episode-64",
+        "name": "WEAPONIZED Episode #64 — The 2024 UAP Year in Review",
         "seriesId": "weaponized-podcast",
-        "date": "2025-05-13",
-        "sharedEntityIds": [
-          "george-knapp",
-          "government-transparency",
-          "jeremy-corbell",
-          "uap-research"
-        ],
-        "sharedEntityCount": 4,
-        "score": 45
-      },
-      {
-        "id": "2025-weaponized-episode-74",
-        "name": "WEAPONIZED Episode #74 — Matthew Brown and Immaculate Constellation — Part 1",
-        "seriesId": "weaponized-podcast",
-        "date": "2025-04-29",
+        "date": "2024-12-31",
         "sharedEntityIds": [
           "department-of-defense",
           "george-knapp",
@@ -11972,10 +11753,24 @@
         "score": 45
       },
       {
-        "id": "2024-weaponized-episode-64",
-        "name": "WEAPONIZED Episode #64 — The 2024 UAP Year in Review",
+        "id": "2024-weaponized-episode-49",
+        "name": "WEAPONIZED Episode #49 — Pushback, AARO, and the UFO Information War",
         "seriesId": "weaponized-podcast",
-        "date": "2024-12-31",
+        "date": "2024-02-05",
+        "sharedEntityIds": [
+          "george-knapp",
+          "government-transparency",
+          "jeremy-corbell",
+          "uap-research"
+        ],
+        "sharedEntityCount": 4,
+        "score": 45
+      },
+      {
+        "id": "2024-weaponized-episode-46",
+        "name": "WEAPONIZED Episode #46 — Richard Dolan on Disclosure, History, and USO Cases",
+        "seriesId": "weaponized-podcast",
+        "date": "2024-01-08",
         "sharedEntityIds": [
           "department-of-defense",
           "george-knapp",
@@ -11996,19 +11791,6 @@
           "george-knapp",
           "jeremy-corbell",
           "scientific-investigation"
-        ],
-        "sharedEntityCount": 3,
-        "score": 35
-      },
-      {
-        "id": "2025-weaponized-episode-76",
-        "name": "WEAPONIZED Episode #76 — Matthew Brown and Immaculate Constellation — Part 3",
-        "seriesId": "weaponized-podcast",
-        "date": "2025-05-13",
-        "sharedEntityIds": [
-          "george-knapp",
-          "jeremy-corbell",
-          "uap-research"
         ],
         "sharedEntityCount": 3,
         "score": 35
@@ -12061,6 +11843,19 @@
           "george-knapp",
           "jeremy-corbell",
           "uap-research"
+        ],
+        "sharedEntityCount": 3,
+        "score": 35
+      },
+      {
+        "id": "2024-weaponized-episode-46",
+        "name": "WEAPONIZED Episode #46 — Richard Dolan on Disclosure, History, and USO Cases",
+        "seriesId": "weaponized-podcast",
+        "date": "2024-01-08",
+        "sharedEntityIds": [
+          "george-knapp",
+          "jeremy-corbell",
+          "scientific-investigation"
         ],
         "sharedEntityCount": 3,
         "score": 35
@@ -12141,15 +11936,15 @@
         "score": 45
       },
       {
-        "id": "2025-weaponized-episode-76",
-        "name": "WEAPONIZED Episode #76 — Matthew Brown and Immaculate Constellation — Part 3",
+        "id": "2024-weaponized-episode-64",
+        "name": "WEAPONIZED Episode #64 — The 2024 UAP Year in Review",
         "seriesId": "weaponized-podcast",
-        "date": "2025-05-13",
+        "date": "2024-12-31",
         "sharedEntityIds": [
+          "aaro",
           "george-knapp",
           "government-transparency",
-          "jeremy-corbell",
-          "uap-research"
+          "jeremy-corbell"
         ],
         "sharedEntityCount": 4,
         "score": 45
@@ -12230,15 +12025,15 @@
         "score": 45
       },
       {
-        "id": "2025-weaponized-episode-76",
-        "name": "WEAPONIZED Episode #76 — Matthew Brown and Immaculate Constellation — Part 3",
+        "id": "weaponized-matthew-brown-part-3",
+        "name": "WEAPONIZED Episode #76 — Matthew Brown Part 3: Immaculate Constellation",
         "seriesId": "weaponized-podcast",
         "date": "2025-05-13",
         "sharedEntityIds": [
+          "congressional-oversight",
           "george-knapp",
           "government-transparency",
-          "jeremy-corbell",
-          "uap-research"
+          "jeremy-corbell"
         ],
         "sharedEntityCount": 4,
         "score": 45
@@ -13376,21 +13171,6 @@
         "score": 55
       },
       {
-        "id": "2025-weaponized-episode-75",
-        "name": "WEAPONIZED Episode #75 — Matthew Brown and Immaculate Constellation — Part 2",
-        "seriesId": "weaponized-podcast",
-        "date": "2025-05-06",
-        "sharedEntityIds": [
-          "aaro",
-          "congressional-oversight",
-          "department-of-defense",
-          "george-knapp",
-          "jeremy-corbell"
-        ],
-        "sharedEntityCount": 5,
-        "score": 55
-      },
-      {
         "id": "2024-weaponized-episode-55",
         "name": "WEAPONIZED Episode #55 — AARO, Congressional Oversight, and the Kirkpatrick Interview",
         "seriesId": "weaponized-podcast",
@@ -13419,6 +13199,21 @@
         ],
         "sharedEntityCount": 5,
         "score": 55
+      },
+      {
+        "id": "2024-weaponized-episode-50",
+        "name": "WEAPONIZED Episode #50 — Washington Update on UAP Transparency and Congressional Oversight",
+        "seriesId": "weaponized-podcast",
+        "date": "2024-03-04",
+        "sharedEntityIds": [
+          "congressional-oversight",
+          "department-of-defense",
+          "george-knapp",
+          "government-transparency",
+          "jeremy-corbell"
+        ],
+        "sharedEntityCount": 5,
+        "score": 55
       }
     ],
     "2025-weaponized-episode-65": [
@@ -13427,20 +13222,6 @@
         "name": "WEAPONIZED Episode #77 — UAP Briefings, Immaculate Constellation, and the Jellyfish Debate",
         "seriesId": "weaponized-podcast",
         "date": "2025-05-20",
-        "sharedEntityIds": [
-          "george-knapp",
-          "government-transparency",
-          "immaculate-constellation",
-          "jeremy-corbell"
-        ],
-        "sharedEntityCount": 4,
-        "score": 45
-      },
-      {
-        "id": "2025-weaponized-episode-76",
-        "name": "WEAPONIZED Episode #76 — Matthew Brown and Immaculate Constellation — Part 3",
-        "seriesId": "weaponized-podcast",
-        "date": "2025-05-13",
         "sharedEntityIds": [
           "george-knapp",
           "government-transparency",
@@ -13479,20 +13260,6 @@
         "score": 45
       },
       {
-        "id": "2025-weaponized-episode-74",
-        "name": "WEAPONIZED Episode #74 — Matthew Brown and Immaculate Constellation — Part 1",
-        "seriesId": "weaponized-podcast",
-        "date": "2025-04-29",
-        "sharedEntityIds": [
-          "george-knapp",
-          "government-transparency",
-          "immaculate-constellation",
-          "jeremy-corbell"
-        ],
-        "sharedEntityCount": 4,
-        "score": 45
-      },
-      {
         "id": "weaponized-matthew-brown-part-1",
         "name": "WEAPONIZED Episode #74 — Matthew Brown Part 1: Immaculate Constellation",
         "seriesId": "weaponized-podcast",
@@ -13505,6 +13272,32 @@
         ],
         "sharedEntityCount": 4,
         "score": 45
+      },
+      {
+        "id": "2026-weaponized-episode-115",
+        "name": "WEAPONIZED Episode #115 — A New Chapter in the Bob Lazar Saga",
+        "seriesId": "weaponized-podcast",
+        "date": "2026-04-14",
+        "sharedEntityIds": [
+          "george-knapp",
+          "government-transparency",
+          "jeremy-corbell"
+        ],
+        "sharedEntityCount": 3,
+        "score": 35
+      },
+      {
+        "id": "2025-weaponized-episode-82",
+        "name": "WEAPONIZED Episode #82 — Disclosure, Drones, and Competition for Crash Materials",
+        "seriesId": "weaponized-podcast",
+        "date": "2025-07-11",
+        "sharedEntityIds": [
+          "george-knapp",
+          "government-transparency",
+          "jeremy-corbell"
+        ],
+        "sharedEntityCount": 3,
+        "score": 35
       }
     ],
     "2025-weaponized-episode-66": [
@@ -14177,296 +13970,6 @@
         "score": 35
       }
     ],
-    "2025-weaponized-episode-74": [
-      {
-        "id": "2025-weaponized-episode-76",
-        "name": "WEAPONIZED Episode #76 — Matthew Brown and Immaculate Constellation — Part 3",
-        "seriesId": "weaponized-podcast",
-        "date": "2025-05-13",
-        "sharedEntityIds": [
-          "george-knapp",
-          "government-transparency",
-          "immaculate-constellation",
-          "jeremy-corbell",
-          "matthew-brown",
-          "whistleblower-protection"
-        ],
-        "sharedEntityCount": 6,
-        "score": 65
-      },
-      {
-        "id": "weaponized-matthew-brown-part-3",
-        "name": "WEAPONIZED Episode #76 — Matthew Brown Part 3: Immaculate Constellation",
-        "seriesId": "weaponized-podcast",
-        "date": "2025-05-13",
-        "sharedEntityIds": [
-          "george-knapp",
-          "government-transparency",
-          "immaculate-constellation",
-          "jeremy-corbell",
-          "matthew-brown",
-          "whistleblower-protection"
-        ],
-        "sharedEntityCount": 6,
-        "score": 65
-      },
-      {
-        "id": "2025-weaponized-episode-75",
-        "name": "WEAPONIZED Episode #75 — Matthew Brown and Immaculate Constellation — Part 2",
-        "seriesId": "weaponized-podcast",
-        "date": "2025-05-06",
-        "sharedEntityIds": [
-          "department-of-defense",
-          "george-knapp",
-          "immaculate-constellation",
-          "jeremy-corbell",
-          "matthew-brown",
-          "whistleblower-protection"
-        ],
-        "sharedEntityCount": 6,
-        "score": 65
-      },
-      {
-        "id": "weaponized-matthew-brown-part-2",
-        "name": "WEAPONIZED Episode #75 — Matthew Brown Part 2: Immaculate Constellation",
-        "seriesId": "weaponized-podcast",
-        "date": "2025-05-06",
-        "sharedEntityIds": [
-          "george-knapp",
-          "government-transparency",
-          "immaculate-constellation",
-          "jeremy-corbell",
-          "matthew-brown",
-          "whistleblower-protection"
-        ],
-        "sharedEntityCount": 6,
-        "score": 65
-      },
-      {
-        "id": "weaponized-matthew-brown-part-1",
-        "name": "WEAPONIZED Episode #74 — Matthew Brown Part 1: Immaculate Constellation",
-        "seriesId": "weaponized-podcast",
-        "date": "2025-04-29",
-        "sharedEntityIds": [
-          "george-knapp",
-          "government-transparency",
-          "immaculate-constellation",
-          "jeremy-corbell",
-          "matthew-brown",
-          "whistleblower-protection"
-        ],
-        "sharedEntityCount": 6,
-        "score": 65
-      },
-      {
-        "id": "2025-weaponized-episode-77",
-        "name": "WEAPONIZED Episode #77 — UAP Briefings, Immaculate Constellation, and the Jellyfish Debate",
-        "seriesId": "weaponized-podcast",
-        "date": "2025-05-20",
-        "sharedEntityIds": [
-          "george-knapp",
-          "government-transparency",
-          "immaculate-constellation",
-          "jeremy-corbell",
-          "matthew-brown"
-        ],
-        "sharedEntityCount": 5,
-        "score": 55
-      }
-    ],
-    "2025-weaponized-episode-75": [
-      {
-        "id": "2025-weaponized-episode-77",
-        "name": "WEAPONIZED Episode #77 — UAP Briefings, Immaculate Constellation, and the Jellyfish Debate",
-        "seriesId": "weaponized-podcast",
-        "date": "2025-05-20",
-        "sharedEntityIds": [
-          "aaro",
-          "congressional-oversight",
-          "george-knapp",
-          "immaculate-constellation",
-          "jeremy-corbell",
-          "matthew-brown"
-        ],
-        "sharedEntityCount": 6,
-        "score": 65
-      },
-      {
-        "id": "weaponized-matthew-brown-part-3",
-        "name": "WEAPONIZED Episode #76 — Matthew Brown Part 3: Immaculate Constellation",
-        "seriesId": "weaponized-podcast",
-        "date": "2025-05-13",
-        "sharedEntityIds": [
-          "congressional-oversight",
-          "george-knapp",
-          "immaculate-constellation",
-          "jeremy-corbell",
-          "matthew-brown",
-          "whistleblower-protection"
-        ],
-        "sharedEntityCount": 6,
-        "score": 65
-      },
-      {
-        "id": "weaponized-matthew-brown-part-2",
-        "name": "WEAPONIZED Episode #75 — Matthew Brown Part 2: Immaculate Constellation",
-        "seriesId": "weaponized-podcast",
-        "date": "2025-05-06",
-        "sharedEntityIds": [
-          "congressional-oversight",
-          "george-knapp",
-          "immaculate-constellation",
-          "jeremy-corbell",
-          "matthew-brown",
-          "whistleblower-protection"
-        ],
-        "sharedEntityCount": 6,
-        "score": 65
-      },
-      {
-        "id": "2025-weaponized-episode-74",
-        "name": "WEAPONIZED Episode #74 — Matthew Brown and Immaculate Constellation — Part 1",
-        "seriesId": "weaponized-podcast",
-        "date": "2025-04-29",
-        "sharedEntityIds": [
-          "department-of-defense",
-          "george-knapp",
-          "immaculate-constellation",
-          "jeremy-corbell",
-          "matthew-brown",
-          "whistleblower-protection"
-        ],
-        "sharedEntityCount": 6,
-        "score": 65
-      },
-      {
-        "id": "weaponized-matthew-brown-part-1",
-        "name": "WEAPONIZED Episode #74 — Matthew Brown Part 1: Immaculate Constellation",
-        "seriesId": "weaponized-podcast",
-        "date": "2025-04-29",
-        "sharedEntityIds": [
-          "congressional-oversight",
-          "george-knapp",
-          "immaculate-constellation",
-          "jeremy-corbell",
-          "matthew-brown",
-          "whistleblower-protection"
-        ],
-        "sharedEntityCount": 6,
-        "score": 65
-      },
-      {
-        "id": "2025-weaponized-episode-76",
-        "name": "WEAPONIZED Episode #76 — Matthew Brown and Immaculate Constellation — Part 3",
-        "seriesId": "weaponized-podcast",
-        "date": "2025-05-13",
-        "sharedEntityIds": [
-          "george-knapp",
-          "immaculate-constellation",
-          "jeremy-corbell",
-          "matthew-brown",
-          "whistleblower-protection"
-        ],
-        "sharedEntityCount": 5,
-        "score": 55
-      }
-    ],
-    "2025-weaponized-episode-76": [
-      {
-        "id": "weaponized-matthew-brown-part-3",
-        "name": "WEAPONIZED Episode #76 — Matthew Brown Part 3: Immaculate Constellation",
-        "seriesId": "weaponized-podcast",
-        "date": "2025-05-13",
-        "sharedEntityIds": [
-          "george-knapp",
-          "government-transparency",
-          "immaculate-constellation",
-          "jeremy-corbell",
-          "matthew-brown",
-          "whistleblower-protection"
-        ],
-        "sharedEntityCount": 6,
-        "score": 65
-      },
-      {
-        "id": "weaponized-matthew-brown-part-2",
-        "name": "WEAPONIZED Episode #75 — Matthew Brown Part 2: Immaculate Constellation",
-        "seriesId": "weaponized-podcast",
-        "date": "2025-05-06",
-        "sharedEntityIds": [
-          "george-knapp",
-          "government-transparency",
-          "immaculate-constellation",
-          "jeremy-corbell",
-          "matthew-brown",
-          "whistleblower-protection"
-        ],
-        "sharedEntityCount": 6,
-        "score": 65
-      },
-      {
-        "id": "2025-weaponized-episode-74",
-        "name": "WEAPONIZED Episode #74 — Matthew Brown and Immaculate Constellation — Part 1",
-        "seriesId": "weaponized-podcast",
-        "date": "2025-04-29",
-        "sharedEntityIds": [
-          "george-knapp",
-          "government-transparency",
-          "immaculate-constellation",
-          "jeremy-corbell",
-          "matthew-brown",
-          "whistleblower-protection"
-        ],
-        "sharedEntityCount": 6,
-        "score": 65
-      },
-      {
-        "id": "weaponized-matthew-brown-part-1",
-        "name": "WEAPONIZED Episode #74 — Matthew Brown Part 1: Immaculate Constellation",
-        "seriesId": "weaponized-podcast",
-        "date": "2025-04-29",
-        "sharedEntityIds": [
-          "george-knapp",
-          "government-transparency",
-          "immaculate-constellation",
-          "jeremy-corbell",
-          "matthew-brown",
-          "whistleblower-protection"
-        ],
-        "sharedEntityCount": 6,
-        "score": 65
-      },
-      {
-        "id": "2025-weaponized-episode-77",
-        "name": "WEAPONIZED Episode #77 — UAP Briefings, Immaculate Constellation, and the Jellyfish Debate",
-        "seriesId": "weaponized-podcast",
-        "date": "2025-05-20",
-        "sharedEntityIds": [
-          "george-knapp",
-          "government-transparency",
-          "immaculate-constellation",
-          "jeremy-corbell",
-          "matthew-brown"
-        ],
-        "sharedEntityCount": 5,
-        "score": 55
-      },
-      {
-        "id": "2025-weaponized-episode-75",
-        "name": "WEAPONIZED Episode #75 — Matthew Brown and Immaculate Constellation — Part 2",
-        "seriesId": "weaponized-podcast",
-        "date": "2025-05-06",
-        "sharedEntityIds": [
-          "george-knapp",
-          "immaculate-constellation",
-          "jeremy-corbell",
-          "matthew-brown",
-          "whistleblower-protection"
-        ],
-        "sharedEntityCount": 5,
-        "score": 55
-      }
-    ],
     "2025-weaponized-episode-77": [
       {
         "id": "weaponized-matthew-brown-part-3",
@@ -14477,22 +13980,6 @@
           "congressional-oversight",
           "george-knapp",
           "government-transparency",
-          "immaculate-constellation",
-          "jeremy-corbell",
-          "matthew-brown"
-        ],
-        "sharedEntityCount": 6,
-        "score": 65
-      },
-      {
-        "id": "2025-weaponized-episode-75",
-        "name": "WEAPONIZED Episode #75 — Matthew Brown and Immaculate Constellation — Part 2",
-        "seriesId": "weaponized-podcast",
-        "date": "2025-05-06",
-        "sharedEntityIds": [
-          "aaro",
-          "congressional-oversight",
-          "george-knapp",
           "immaculate-constellation",
           "jeremy-corbell",
           "matthew-brown"
@@ -14549,16 +14036,31 @@
         "score": 65
       },
       {
-        "id": "2025-weaponized-episode-76",
-        "name": "WEAPONIZED Episode #76 — Matthew Brown and Immaculate Constellation — Part 3",
+        "id": "2024-weaponized-episode-64",
+        "name": "WEAPONIZED Episode #64 — The 2024 UAP Year in Review",
         "seriesId": "weaponized-podcast",
-        "date": "2025-05-13",
+        "date": "2024-12-31",
         "sharedEntityIds": [
+          "aaro",
+          "congressional-oversight",
           "george-knapp",
           "government-transparency",
-          "immaculate-constellation",
-          "jeremy-corbell",
-          "matthew-brown"
+          "jeremy-corbell"
+        ],
+        "sharedEntityCount": 5,
+        "score": 55
+      },
+      {
+        "id": "2024-weaponized-episode-53",
+        "name": "WEAPONIZED Episode #53 — Kona Blue, AARO, and Continuing UAP Incursions",
+        "seriesId": "weaponized-podcast",
+        "date": "2024-04-29",
+        "sharedEntityIds": [
+          "aaro",
+          "congressional-oversight",
+          "george-knapp",
+          "government-transparency",
+          "jeremy-corbell"
         ],
         "sharedEntityCount": 5,
         "score": 55
@@ -14699,20 +14201,6 @@
         "score": 45
       },
       {
-        "id": "2025-weaponized-episode-74",
-        "name": "WEAPONIZED Episode #74 — Matthew Brown and Immaculate Constellation — Part 1",
-        "seriesId": "weaponized-podcast",
-        "date": "2025-04-29",
-        "sharedEntityIds": [
-          "department-of-defense",
-          "george-knapp",
-          "government-transparency",
-          "jeremy-corbell"
-        ],
-        "sharedEntityCount": 4,
-        "score": 45
-      },
-      {
         "id": "2025-weaponized-episode-70",
         "name": "WEAPONIZED Episode #70 — The Age of Disclosure and Media Coverage of UAP",
         "seriesId": "weaponized-podcast",
@@ -14736,6 +14224,20 @@
           "government-transparency",
           "jeremy-corbell",
           "uap-journalism"
+        ],
+        "sharedEntityCount": 4,
+        "score": 45
+      },
+      {
+        "id": "2024-weaponized-episode-64",
+        "name": "WEAPONIZED Episode #64 — The 2024 UAP Year in Review",
+        "seriesId": "weaponized-podcast",
+        "date": "2024-12-31",
+        "sharedEntityIds": [
+          "department-of-defense",
+          "george-knapp",
+          "government-transparency",
+          "jeremy-corbell"
         ],
         "sharedEntityCount": 4,
         "score": 45
@@ -15154,36 +14656,34 @@
         "score": 65
       },
       {
-        "id": "2025-weaponized-episode-76",
-        "name": "WEAPONIZED Episode #76 — Matthew Brown and Immaculate Constellation — Part 3",
+        "id": "2023-weaponized-episode-28",
+        "name": "WEAPONIZED Episode #28 — Congressional Hearing Roundtable",
         "seriesId": "weaponized-podcast",
-        "date": "2025-05-13",
+        "date": "2023-07-31",
         "sharedEntityIds": [
+          "claim-crash-retrieval-program",
+          "claim-secret-uap-programs",
+          "congressional-oversight",
           "george-knapp",
           "government-transparency",
-          "immaculate-constellation",
-          "jeremy-corbell",
-          "matthew-brown",
-          "whistleblower-protection"
+          "jeremy-corbell"
         ],
         "sharedEntityCount": 6,
         "score": 65
       },
       {
-        "id": "2025-weaponized-episode-75",
-        "name": "WEAPONIZED Episode #75 — Matthew Brown and Immaculate Constellation — Part 2",
+        "id": "2025-weaponized-episode-82",
+        "name": "WEAPONIZED Episode #82 — Disclosure, Drones, and Competition for Crash Materials",
         "seriesId": "weaponized-podcast",
-        "date": "2025-05-06",
+        "date": "2025-07-11",
         "sharedEntityIds": [
           "congressional-oversight",
           "george-knapp",
-          "immaculate-constellation",
-          "jeremy-corbell",
-          "matthew-brown",
-          "whistleblower-protection"
+          "government-transparency",
+          "jeremy-corbell"
         ],
-        "sharedEntityCount": 6,
-        "score": 65
+        "sharedEntityCount": 4,
+        "score": 45
       }
     ],
     "weaponized-matthew-brown-part-2": [
@@ -15238,52 +14738,46 @@
         "score": 65
       },
       {
-        "id": "2025-weaponized-episode-76",
-        "name": "WEAPONIZED Episode #76 — Matthew Brown and Immaculate Constellation — Part 3",
+        "id": "2025-weaponized-episode-82",
+        "name": "WEAPONIZED Episode #82 — Disclosure, Drones, and Competition for Crash Materials",
         "seriesId": "weaponized-podcast",
-        "date": "2025-05-13",
-        "sharedEntityIds": [
-          "george-knapp",
-          "government-transparency",
-          "immaculate-constellation",
-          "jeremy-corbell",
-          "matthew-brown",
-          "whistleblower-protection"
-        ],
-        "sharedEntityCount": 6,
-        "score": 65
-      },
-      {
-        "id": "2025-weaponized-episode-75",
-        "name": "WEAPONIZED Episode #75 — Matthew Brown and Immaculate Constellation — Part 2",
-        "seriesId": "weaponized-podcast",
-        "date": "2025-05-06",
+        "date": "2025-07-11",
         "sharedEntityIds": [
           "congressional-oversight",
           "george-knapp",
-          "immaculate-constellation",
-          "jeremy-corbell",
-          "matthew-brown",
-          "whistleblower-protection"
+          "government-transparency",
+          "jeremy-corbell"
         ],
-        "sharedEntityCount": 6,
-        "score": 65
+        "sharedEntityCount": 4,
+        "score": 45
       },
       {
-        "id": "2025-weaponized-episode-74",
-        "name": "WEAPONIZED Episode #74 — Matthew Brown and Immaculate Constellation — Part 1",
+        "id": "2025-weaponized-episode-65",
+        "name": "WEAPONIZED Episode #65 — UFO Revolution Premiere Q&A",
         "seriesId": "weaponized-podcast",
-        "date": "2025-04-29",
+        "date": "2025-01-26",
         "sharedEntityIds": [
           "george-knapp",
           "government-transparency",
           "immaculate-constellation",
-          "jeremy-corbell",
-          "matthew-brown",
-          "whistleblower-protection"
+          "jeremy-corbell"
         ],
-        "sharedEntityCount": 6,
-        "score": 65
+        "sharedEntityCount": 4,
+        "score": 45
+      },
+      {
+        "id": "2024-weaponized-episode-64",
+        "name": "WEAPONIZED Episode #64 — The 2024 UAP Year in Review",
+        "seriesId": "weaponized-podcast",
+        "date": "2024-12-31",
+        "sharedEntityIds": [
+          "congressional-oversight",
+          "george-knapp",
+          "government-transparency",
+          "jeremy-corbell"
+        ],
+        "sharedEntityCount": 4,
+        "score": 45
       }
     ],
     "weaponized-matthew-brown-part-3": [
@@ -15338,52 +14832,46 @@
         "score": 65
       },
       {
-        "id": "2025-weaponized-episode-76",
-        "name": "WEAPONIZED Episode #76 — Matthew Brown and Immaculate Constellation — Part 3",
+        "id": "2025-weaponized-episode-82",
+        "name": "WEAPONIZED Episode #82 — Disclosure, Drones, and Competition for Crash Materials",
         "seriesId": "weaponized-podcast",
-        "date": "2025-05-13",
-        "sharedEntityIds": [
-          "george-knapp",
-          "government-transparency",
-          "immaculate-constellation",
-          "jeremy-corbell",
-          "matthew-brown",
-          "whistleblower-protection"
-        ],
-        "sharedEntityCount": 6,
-        "score": 65
-      },
-      {
-        "id": "2025-weaponized-episode-75",
-        "name": "WEAPONIZED Episode #75 — Matthew Brown and Immaculate Constellation — Part 2",
-        "seriesId": "weaponized-podcast",
-        "date": "2025-05-06",
+        "date": "2025-07-11",
         "sharedEntityIds": [
           "congressional-oversight",
           "george-knapp",
-          "immaculate-constellation",
-          "jeremy-corbell",
-          "matthew-brown",
-          "whistleblower-protection"
+          "government-transparency",
+          "jeremy-corbell"
         ],
-        "sharedEntityCount": 6,
-        "score": 65
+        "sharedEntityCount": 4,
+        "score": 45
       },
       {
-        "id": "2025-weaponized-episode-74",
-        "name": "WEAPONIZED Episode #74 — Matthew Brown and Immaculate Constellation — Part 1",
+        "id": "2025-weaponized-episode-65",
+        "name": "WEAPONIZED Episode #65 — UFO Revolution Premiere Q&A",
         "seriesId": "weaponized-podcast",
-        "date": "2025-04-29",
+        "date": "2025-01-26",
         "sharedEntityIds": [
           "george-knapp",
           "government-transparency",
           "immaculate-constellation",
-          "jeremy-corbell",
-          "matthew-brown",
-          "whistleblower-protection"
+          "jeremy-corbell"
         ],
-        "sharedEntityCount": 6,
-        "score": 65
+        "sharedEntityCount": 4,
+        "score": 45
+      },
+      {
+        "id": "2024-weaponized-episode-64",
+        "name": "WEAPONIZED Episode #64 — The 2024 UAP Year in Review",
+        "seriesId": "weaponized-podcast",
+        "date": "2024-12-31",
+        "sharedEntityIds": [
+          "congressional-oversight",
+          "george-knapp",
+          "government-transparency",
+          "jeremy-corbell"
+        ],
+        "sharedEntityCount": 4,
+        "score": 45
       }
     ]
   }

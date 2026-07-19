@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "entityCount": 458,
-  "relationshipCount": 1317,
+  "entityCount": 455,
+  "relationshipCount": 1292,
   "unresolvedRelationshipCount": 15,
   "connectionCounts": {
     "1960s-area-51-engine-claim": {
@@ -414,21 +414,6 @@
       "outgoing": 9,
       "total": 14
     },
-    "2025-weaponized-episode-74": {
-      "incoming": 4,
-      "outgoing": 8,
-      "total": 12
-    },
-    "2025-weaponized-episode-75": {
-      "incoming": 4,
-      "outgoing": 9,
-      "total": 13
-    },
-    "2025-weaponized-episode-76": {
-      "incoming": 4,
-      "outgoing": 8,
-      "total": 12
-    },
     "2025-weaponized-episode-77": {
       "incoming": 4,
       "outgoing": 9,
@@ -490,9 +475,9 @@
       "total": 2
     },
     "aaro": {
-      "incoming": 25,
+      "incoming": 24,
       "outgoing": 4,
-      "total": 29
+      "total": 28
     },
     "aatip": {
       "incoming": 1,
@@ -1205,9 +1190,9 @@
       "total": 2
     },
     "congressional-oversight": {
-      "incoming": 24,
+      "incoming": 23,
       "outgoing": 0,
-      "total": 24
+      "total": 23
     },
     "crop-circle-investigations": {
       "incoming": 1,
@@ -1280,9 +1265,9 @@
       "total": 5
     },
     "department-of-defense": {
-      "incoming": 39,
+      "incoming": 37,
       "outgoing": 3,
-      "total": 42
+      "total": 40
     },
     "department-of-energy": {
       "incoming": 2,
@@ -1415,14 +1400,14 @@
       "total": 3
     },
     "george-knapp": {
-      "incoming": 52,
+      "incoming": 49,
       "outgoing": 7,
-      "total": 59
+      "total": 56
     },
     "government-transparency": {
-      "incoming": 95,
+      "incoming": 93,
       "outgoing": 0,
-      "total": 95
+      "total": 93
     },
     "hal-puthoff": {
       "incoming": 3,
@@ -1485,9 +1470,9 @@
       "total": 3
     },
     "immaculate-constellation": {
-      "incoming": 11,
+      "incoming": 8,
       "outgoing": 2,
-      "total": 13
+      "total": 10
     },
     "intelligence-community-inspector-general": {
       "incoming": 4,
@@ -1545,9 +1530,9 @@
       "total": 1
     },
     "jeremy-corbell": {
-      "incoming": 52,
+      "incoming": 49,
       "outgoing": 5,
-      "total": 57
+      "total": 54
     },
     "jim-penniston": {
       "incoming": 0,
@@ -1695,9 +1680,9 @@
       "total": 4
     },
     "matthew-brown": {
-      "incoming": 17,
+      "incoming": 14,
       "outgoing": 2,
-      "total": 19
+      "total": 16
     },
     "merged-podcast": {
       "incoming": 1,
@@ -2195,9 +2180,9 @@
       "total": 13
     },
     "uap-research": {
-      "incoming": 8,
+      "incoming": 7,
       "outgoing": 0,
-      "total": 8
+      "total": 7
     },
     "uap-science-advisory-council": {
       "incoming": 2,
@@ -2270,29 +2255,29 @@
       "total": 3
     },
     "weaponized-matthew-brown-part-1": {
-      "incoming": 0,
+      "incoming": 4,
       "outgoing": 12,
-      "total": 12
+      "total": 16
     },
     "weaponized-matthew-brown-part-2": {
-      "incoming": 3,
+      "incoming": 7,
       "outgoing": 12,
-      "total": 15
+      "total": 19
     },
     "weaponized-matthew-brown-part-3": {
-      "incoming": 4,
+      "incoming": 8,
       "outgoing": 13,
-      "total": 17
+      "total": 21
     },
     "weaponized-podcast": {
-      "incoming": 53,
+      "incoming": 50,
       "outgoing": 2,
-      "total": 55
+      "total": 52
     },
     "whistleblower-protection": {
-      "incoming": 19,
+      "incoming": 16,
       "outgoing": 0,
-      "total": 19
+      "total": 16
     }
   },
   "unresolvedRelationships": [
