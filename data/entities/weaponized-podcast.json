@@ -23,5 +23,19 @@
       "type": "discussed_topic",
       "target": "scientific-investigation"
     }
-  ]
+  ],
+  "visualIdentity": {
+    "style": "editorial_banner",
+    "asset": "../assets/images/podcasts/weaponized-identity.svg",
+    "alt": "WEAPONIZED podcast visual identity banner with microphone waveform, document grid, United States Capitol silhouette, and an unidentified aerial object motif.",
+    "eyebrow": "Investigative podcast series",
+    "tagline": "Weaponize your curiosity",
+    "hostLabel": "Hosted by",
+    "hosts": [
+      "Jeremy Corbell",
+      "George Knapp"
+    ],
+    "sourceLabel": "Official WEAPONIZED identity",
+    "sourceUrl": "https://www.weaponizedpodcast.com/"
+  }
 }

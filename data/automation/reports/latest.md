@@ -1,7 +1,7 @@
-# GreyAlien V18.2 Deployment Report
+# GreyAlien V18.2.1 Deployment Report
 
 **Status:** Ready for deployment  
-**Generated:** 2026-07-19T04:37:40.350509+00:00
+**Generated:** 2026-07-19T05:49:06.120045+00:00
 
 - Entities: 293
 - Resolved relationships: 922
@@ -15,4 +15,4 @@
 
 ## Release summary
 
-Ingested WEAPONIZED Episodes #48–#52, including an integrity-preserving unreleased placeholder for Episode #51. Added Ernest Cline and Colm Kelleher records. Introduced universal rendering of structured sources[], official website buttons, additional source panels, and automated source validation across entity types.
+Introduced GreyAlien’s first live podcast visual identity banner on the WEAPONIZED series page. The production design uses verified show and host names with an original, non-portrait editorial graphic, responsive desktop/mobile presentation, accessible alternative text, and an official-site attribution link. No synthetic host likenesses are used.

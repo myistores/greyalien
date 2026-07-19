@@ -1,3 +1,11 @@
+# V18.2.1 — WEAPONIZED Visual Identity Test (Corrected)
+
+- Added the actual live WEAPONIZED series banner and responsive styles.
+- Used a factual, non-portrait editorial identity to avoid synthetic likenesses.
+- Added structured visual identity metadata and accessibility text.
+- Added visual identity validation to the automation pipeline.
+- Updated homepage Latest Additions.
+
 # V18.1 — First Five-Episode Production Batch
 
 - Ingested WEAPONIZED Episodes #43–#47 in one transactional batch.
