@@ -1,3 +1,11 @@
+# V17.5 — Timeline Normalization Engine
+
+- Added canonical timeline-event alias generation.
+- Deduplicated timeline cards by canonical historical event.
+- Preserved distinct media and timeline entities in the graph.
+- Changed the hero statistic label from Connections to Unique connections.
+- Added timeline normalization validation to the one-command automation pipeline.
+
 # GreyAlien Changelog
 
 ## V17.4 — Automation Engine Refinement

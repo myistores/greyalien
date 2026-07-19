@@ -4,7 +4,7 @@ from pathlib import Path
 from datetime import datetime, timezone
 import argparse,json,subprocess,sys
 ROOT=Path(__file__).resolve().parents[1]
-STEPS=['build_graph.py','build_podcasts.py','build_related_content.py','build_entity_pages.py','build_homepage.py','build_sitemap.py','validate_graph.py','validate_podcasts.py','validate_rendering_rules.py','build_deployment_report.py']
+STEPS=['build_graph.py','build_timeline_normalization.py','build_podcasts.py','build_related_content.py','build_entity_pages.py','build_homepage.py','build_sitemap.py','validate_graph.py','validate_podcasts.py','validate_rendering_rules.py','validate_timeline_normalization.py','build_deployment_report.py']
 def main():
  ap=argparse.ArgumentParser(description='Run the complete GreyAlien automation pipeline.')
  ap.add_argument('--report',default='',help='Optional JSON path for the orchestration report')

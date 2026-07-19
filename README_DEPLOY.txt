@@ -1,24 +1,17 @@
-GreyAlien V17.4 — Automation Engine Refinement
+GreyAlien V17.5 — Timeline Normalization Engine
 
-DEPLOYMENT
-1. Extract this package.
-2. Replace the deployed GreyAlien repository contents with the package contents.
-3. Commit and push through GitHub Desktop.
-4. Confirm the homepage shows "GreyAlien Version 17.4 — Automation Engine Refinement."
+Deploy the complete contents of this package over the existing GitHub Pages repository.
 
-PRIMARY LIVE TEST
-Open:
-https://greyalien.com/entities/entity.html?id=weaponized-podcast
+Primary verification:
+1. Open Jeremy Corbell's entity page.
+2. Confirm the hero displays "Unique connections" with a value of 12.
+3. Confirm Related Timeline displays 4 connected records, not 6.
+4. Confirm the December 4, 2018 documentary release appears once.
+5. Confirm the April 14, 2026 WEAPONIZED Episode #115 publication appears once.
+6. Confirm Related Media still contains the documentary and six podcast episodes.
+7. Confirm Latest Additions displays GreyAlien Version 17.5.
 
-Expected result:
-- One Related Media section.
-- Seven connected media records in that section.
-- Alexandro Wiggins on WEAPONIZED retains the "Published" badge.
-- The six researched WEAPONIZED episodes retain their "Includes Episode" badges.
-- Referenced In remains a separate section.
-- Continue Research remains a separate section.
-
-LOCAL VALIDATION
+Local automation test:
 python tools/automate_site.py
 
 Expected final line:

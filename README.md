@@ -1,3 +1,7 @@
+## Current release: V17.5 — Timeline Normalization Engine
+
+See `PHASE4_REFINEMENT2_TIMELINE_NORMALIZATION.md` for normalization and connection-count rules.
+
 # GreyAlien V17.2 — Import System
 
 Deploy the complete package to the repository root. Phase 3 documentation is in `PHASE3_IMPORT_SYSTEM.md` and `data/imports/README.md`.

@@ -1,16 +1,17 @@
-GreyAlien V17.4 — Automation Engine Refinement
+V17.5 Timeline Normalization Engine
 
-Primary changed files:
+New:
+- PHASE4_REFINEMENT2_TIMELINE_NORMALIZATION.md
+- data/timeline-normalization.json
+- tools/build_timeline_normalization.py
+- tools/validate_timeline_normalization.py
+
+Updated:
 - assets/js/entity-engine.js
-- data/schema/rendering-groups.json
-- tools/validate_rendering_rules.py
 - tools/automate_site.py
 - data/release-summary.json
 - index.html
 - CHANGELOG.md
 - README.md
 - README_DEPLOY.txt
-- PHASE4_REFINEMENT1_RENDERING_RULES.md
-- generated automation reports and manifests
-
-Deployment method: full-package replacement recommended.
+- generated automation, graph, podcast, entity-page, and sitemap assets

@@ -1,7 +1,7 @@
-# GreyAlien V17.4 Deployment Report
+# GreyAlien V17.5 Deployment Report
 
 **Status:** Ready for deployment  
-**Generated:** 2026-07-19T02:17:39.315653+00:00
+**Generated:** 2026-07-19T02:58:24.197019+00:00
 
 - Entities: 272
 - Resolved relationships: 801
@@ -15,4 +15,4 @@
 
 ## Release summary
 
-Refined the entity renderer so relationship cards are grouped by target entity category rather than split by relationship type. Interviews and podcast episodes now share one Related Media section, while each card retains its specific relationship badge. Added centralized rendering rules and automated validation to prevent duplicate category sections.
+Added canonical timeline-event normalization so dated media and their matching publication-event records render as one historical event. Preserved the underlying graph entities and clarified the top statistic as Unique connections. Added automated timeline normalization generation and validation.

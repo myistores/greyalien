@@ -1,12 +1,17 @@
 {
-  "startedAt": "2026-07-19T02:17:26.443421+00:00",
-  "finishedAt": "2026-07-19T02:17:39.490155+00:00",
+  "startedAt": "2026-07-19T02:58:08.900234+00:00",
+  "finishedAt": "2026-07-19T02:58:24.375134+00:00",
   "status": "passed",
   "steps": [
     {
       "step": "build_graph.py",
       "returnCode": 0,
       "output": "Built index for 272 entities and 801 resolved relationships."
+    },
+    {
+      "step": "build_timeline_normalization.py",
+      "returnCode": 0,
+      "output": "Timeline normalization built: 33 canonical events, 3 aliases, 0 conflicts."
     },
     {
       "step": "build_podcasts.py",
@@ -26,7 +31,7 @@
     {
       "step": "build_homepage.py",
       "returnCode": 0,
-      "output": "Updated homepage Latest Additions for GreyAlien Version 17.4."
+      "output": "Updated homepage Latest Additions for GreyAlien Version 17.5."
     },
     {
       "step": "build_sitemap.py",
@@ -47,6 +52,11 @@
       "step": "validate_rendering_rules.py",
       "returnCode": 0,
       "output": "Rendering rule validation: PASSED (11 categories, 12 entity types)\nUnified Media category: interview + podcast_episode"
+    },
+    {
+      "step": "validate_timeline_normalization.py",
+      "returnCode": 0,
+      "output": "Timeline normalization validation: PASSED (3 aliases)."
     },
     {
       "step": "build_deployment_report.py",
