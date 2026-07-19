@@ -4,7 +4,7 @@ from pathlib import Path
 from datetime import datetime, timezone
 import argparse, json, shutil, subprocess, sys, tempfile
 ROOT=Path(__file__).resolve().parents[1]; ENT=ROOT/'data/entities'; REPORTS=ROOT/'data/imports/reports'
-BUILD=('build_graph.py','build_podcasts.py','build_related_content.py','build_entity_pages.py','build_homepage.py','build_sitemap.py','validate_graph.py','validate_podcasts.py','build_deployment_report.py')
+BUILD=('build_graph.py','build_timeline_normalization.py','build_podcasts.py','build_related_content.py','build_entity_pages.py','build_homepage.py','build_sitemap.py','validate_graph.py','validate_podcasts.py','validate_rendering_rules.py','validate_timeline_normalization.py','build_deployment_report.py')
 
 def run(script,*args,cwd=ROOT):
     return subprocess.run([sys.executable,str(ROOT/'tools'/script),*map(str,args)],cwd=cwd,text=True,capture_output=True)

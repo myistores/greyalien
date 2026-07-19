@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "generatedBy": "tools/build_related_content.py",
-  "generatedAt": "2026-07-19T02:58:14.145422+00:00",
+  "generatedAt": "2026-07-19T03:19:47.333185+00:00",
   "referencedIn": {
     "1960s-area-51-engine-claim": [
       {
@@ -533,7 +533,16 @@
         "context": "Founded and launched Americans for Safe Aerospace"
       }
     ],
-    "2023-07-13-uap-disclosure-act-consideration": [],
+    "2023-07-13-uap-disclosure-act-consideration": [
+      {
+        "id": "2023-weaponized-episode-42",
+        "type": "podcast_episode",
+        "name": "WEAPONIZED Episode #42 — The Sol Foundation Conference and Grusch Revelations",
+        "relationshipType": "references_hearing",
+        "role": "",
+        "context": "Discussion of congressional pressure surrounding the Schumer–Rounds amendment"
+      }
+    ],
     "2023-07-26-house-oversight-uap": [
       {
         "id": "claim-crash-retrieval-program",
@@ -774,6 +783,16 @@
     ],
     "2023-weaponized-episode-21": [],
     "2023-weaponized-episode-28": [],
+    "2023-weaponized-episode-42": [
+      {
+        "id": "joe-murgia",
+        "type": "person",
+        "name": "Joe Murgia",
+        "relationshipType": "appeared_in",
+        "role": "guest",
+        "context": "Discussed the inaugural Sol Foundation symposium and recent UAP developments"
+      }
+    ],
     "2024-01-12-house-uap-scif-briefing": [
       {
         "id": "anna-paulina-luna",
@@ -2842,6 +2861,14 @@
         "context": "Congressional witness discussed in the episode"
       },
       {
+        "id": "2023-weaponized-episode-42",
+        "type": "podcast_episode",
+        "name": "WEAPONIZED Episode #42 — The Sol Foundation Conference and Grusch Revelations",
+        "relationshipType": "features_person",
+        "role": "subject",
+        "context": "The episode reviews Grusch’s recent public comments and disclosure-related developments"
+      },
+      {
         "id": "timeline-2022-05-25-david-grusch-ppd19-complaint",
         "type": "timeline_event",
         "name": "David Grusch Files a PPD-19 Whistleblower Complaint",
@@ -3383,6 +3410,14 @@
     ],
     "garry-nolan": [
       {
+        "id": "2023-weaponized-episode-42",
+        "type": "podcast_episode",
+        "name": "WEAPONIZED Episode #42 — The Sol Foundation Conference and Grusch Revelations",
+        "relationshipType": "features_person",
+        "role": "subject",
+        "context": "Discussed as a co-host of the inaugural Sol Foundation symposium"
+      },
+      {
         "id": "timeline-2018-03-22-nolan-atacama-genomic-study",
         "type": "timeline_event",
         "name": "Garry Nolan’s Genomic Study Resolves the Atacama Specimen",
@@ -3429,6 +3464,14 @@
         "id": "2023-weaponized-episode-28",
         "type": "podcast_episode",
         "name": "WEAPONIZED Episode #28 — Congressional Hearing Roundtable",
+        "relationshipType": "features_person",
+        "role": "host",
+        "context": "WEAPONIZED co-host"
+      },
+      {
+        "id": "2023-weaponized-episode-42",
+        "type": "podcast_episode",
+        "name": "WEAPONIZED Episode #42 — The Sol Foundation Conference and Grusch Revelations",
         "relationshipType": "features_person",
         "role": "host",
         "context": "WEAPONIZED co-host"
@@ -3820,6 +3863,14 @@
         "context": ""
       },
       {
+        "id": "joe-murgia",
+        "type": "person",
+        "name": "Joe Murgia",
+        "relationshipType": "discussed_topic",
+        "role": "",
+        "context": ""
+      },
+      {
         "id": "2026-weaponized-episode-115",
         "type": "podcast_episode",
         "name": "WEAPONIZED Episode #115 — A New Chapter in the Bob Lazar Saga",
@@ -3839,6 +3890,14 @@
         "id": "2023-weaponized-episode-28",
         "type": "podcast_episode",
         "name": "WEAPONIZED Episode #28 — Congressional Hearing Roundtable",
+        "relationshipType": "discussed_topic",
+        "role": "",
+        "context": ""
+      },
+      {
+        "id": "2023-weaponized-episode-42",
+        "type": "podcast_episode",
+        "name": "WEAPONIZED Episode #42 — The Sol Foundation Conference and Grusch Revelations",
         "relationshipType": "discussed_topic",
         "role": "",
         "context": ""
@@ -4406,6 +4465,14 @@
         "context": "WEAPONIZED co-host"
       },
       {
+        "id": "2023-weaponized-episode-42",
+        "type": "podcast_episode",
+        "name": "WEAPONIZED Episode #42 — The Sol Foundation Conference and Grusch Revelations",
+        "relationshipType": "features_person",
+        "role": "host",
+        "context": "WEAPONIZED co-host"
+      },
+      {
         "id": "weaponized-matthew-brown-part-1",
         "type": "podcast_episode",
         "name": "WEAPONIZED Episode #74 — Matthew Brown Part 1: Immaculate Constellation",
@@ -4465,6 +4532,16 @@
     "jim-penniston": [],
     "jim-semivan": [],
     "jim-slaight": [],
+    "joe-murgia": [
+      {
+        "id": "2023-weaponized-episode-42",
+        "type": "podcast_episode",
+        "name": "WEAPONIZED Episode #42 — The Sol Foundation Conference and Grusch Revelations",
+        "relationshipType": "features_person",
+        "role": "guest",
+        "context": "Guest discussing the Sol Foundation symposium and recent UAP developments"
+      }
+    ],
     "joe-spielberger": [],
     "john-burroughs": [],
     "jon-kosloski": [],
@@ -5501,6 +5578,14 @@
         "context": ""
       },
       {
+        "id": "2023-weaponized-episode-42",
+        "type": "podcast_episode",
+        "name": "WEAPONIZED Episode #42 — The Sol Foundation Conference and Grusch Revelations",
+        "relationshipType": "discussed_topic",
+        "role": "",
+        "context": ""
+      },
+      {
         "id": "engaging-the-phenomenon-podcast",
         "type": "podcast_series",
         "name": "Engaging the Phenomenon",
@@ -5730,6 +5815,14 @@
         "context": ""
       },
       {
+        "id": "2023-weaponized-episode-42",
+        "type": "podcast_episode",
+        "name": "WEAPONIZED Episode #42 — The Sol Foundation Conference and Grusch Revelations",
+        "relationshipType": "references_organization",
+        "role": "",
+        "context": "Discussion of the organization’s inaugural research and policy symposium"
+      },
+      {
         "id": "timeline-2023-11-17-sol-inaugural-symposium",
         "type": "timeline_event",
         "name": "The Sol Foundation Holds Its Inaugural UAP Research and Policy Symposium",
@@ -5880,7 +5973,16 @@
     ],
     "timeline-2023-06-14-avi-loeb-im1-expedition": [],
     "timeline-2023-10-31-aaro-secure-reporting-mechanism": [],
-    "timeline-2023-11-17-sol-inaugural-symposium": [],
+    "timeline-2023-11-17-sol-inaugural-symposium": [
+      {
+        "id": "2023-weaponized-episode-42",
+        "type": "podcast_episode",
+        "name": "WEAPONIZED Episode #42 — The Sol Foundation Conference and Grusch Revelations",
+        "relationshipType": "timeline_connection",
+        "role": "",
+        "context": "Retrospective discussion of the inaugural Sol Foundation symposium"
+      }
+    ],
     "timeline-2024-01-08-jellyfish-uap-reporting": [
       {
         "id": "george-knapp",
@@ -5938,7 +6040,16 @@
       }
     ],
     "travis-taylor": [],
-    "uap-disclosure-act-2023": [],
+    "uap-disclosure-act-2023": [
+      {
+        "id": "2023-weaponized-episode-42",
+        "type": "podcast_episode",
+        "name": "WEAPONIZED Episode #42 — The Sol Foundation Conference and Grusch Revelations",
+        "relationshipType": "references_publication",
+        "role": "",
+        "context": "Discussion of the proposed disclosure legislation"
+      }
+    ],
     "uap-disclosure-legislation": [
       {
         "id": "2024-12-18-fy2025-ndaa-uap-provisions",
@@ -6681,6 +6792,14 @@
         "context": ""
       },
       {
+        "id": "2023-weaponized-episode-42",
+        "type": "podcast_episode",
+        "name": "WEAPONIZED Episode #42 — The Sol Foundation Conference and Grusch Revelations",
+        "relationshipType": "episode_of",
+        "role": "",
+        "context": ""
+      },
+      {
         "id": "weaponized-matthew-brown-part-1",
         "type": "podcast_episode",
         "name": "WEAPONIZED Episode #74 — Matthew Brown Part 1: Immaculate Constellation",
@@ -6924,6 +7043,20 @@
         "score": 45
       },
       {
+        "id": "2023-weaponized-episode-42",
+        "name": "WEAPONIZED Episode #42 — The Sol Foundation Conference and Grusch Revelations",
+        "seriesId": "weaponized-podcast",
+        "date": "2023-11-27",
+        "sharedEntityIds": [
+          "david-grusch",
+          "george-knapp",
+          "government-transparency",
+          "jeremy-corbell"
+        ],
+        "sharedEntityCount": 4,
+        "score": 45
+      },
+      {
         "id": "2026-weaponized-episode-115",
         "name": "WEAPONIZED Episode #115 — A New Chapter in the Bob Lazar Saga",
         "seriesId": "weaponized-podcast",
@@ -6999,6 +7132,20 @@
         "score": 45
       },
       {
+        "id": "2023-weaponized-episode-42",
+        "name": "WEAPONIZED Episode #42 — The Sol Foundation Conference and Grusch Revelations",
+        "seriesId": "weaponized-podcast",
+        "date": "2023-11-27",
+        "sharedEntityIds": [
+          "david-grusch",
+          "george-knapp",
+          "government-transparency",
+          "jeremy-corbell"
+        ],
+        "sharedEntityCount": 4,
+        "score": 45
+      },
+      {
         "id": "2026-weaponized-episode-115",
         "name": "WEAPONIZED Episode #115 — A New Chapter in the Bob Lazar Saga",
         "seriesId": "weaponized-podcast",
@@ -7012,7 +7159,104 @@
         "score": 35
       }
     ],
+    "2023-weaponized-episode-42": [
+      {
+        "id": "2026-weaponized-episode-115",
+        "name": "WEAPONIZED Episode #115 — A New Chapter in the Bob Lazar Saga",
+        "seriesId": "weaponized-podcast",
+        "date": "2026-04-14",
+        "sharedEntityIds": [
+          "george-knapp",
+          "government-transparency",
+          "jeremy-corbell",
+          "scientific-investigation"
+        ],
+        "sharedEntityCount": 4,
+        "score": 45
+      },
+      {
+        "id": "2023-weaponized-episode-28",
+        "name": "WEAPONIZED Episode #28 — Congressional Hearing Roundtable",
+        "seriesId": "weaponized-podcast",
+        "date": "2023-07-31",
+        "sharedEntityIds": [
+          "david-grusch",
+          "george-knapp",
+          "government-transparency",
+          "jeremy-corbell"
+        ],
+        "sharedEntityCount": 4,
+        "score": 45
+      },
+      {
+        "id": "2023-weaponized-episode-21",
+        "name": "WEAPONIZED Episode #21 — The David Grusch Revelations",
+        "seriesId": "weaponized-podcast",
+        "date": "2023-06-12",
+        "sharedEntityIds": [
+          "david-grusch",
+          "george-knapp",
+          "government-transparency",
+          "jeremy-corbell"
+        ],
+        "sharedEntityCount": 4,
+        "score": 45
+      },
+      {
+        "id": "weaponized-matthew-brown-part-3",
+        "name": "WEAPONIZED Episode #76 — Matthew Brown Part 3: Immaculate Constellation",
+        "seriesId": "weaponized-podcast",
+        "date": "2025-05-13",
+        "sharedEntityIds": [
+          "george-knapp",
+          "government-transparency",
+          "jeremy-corbell"
+        ],
+        "sharedEntityCount": 3,
+        "score": 35
+      },
+      {
+        "id": "weaponized-matthew-brown-part-2",
+        "name": "WEAPONIZED Episode #75 — Matthew Brown Part 2: Immaculate Constellation",
+        "seriesId": "weaponized-podcast",
+        "date": "2025-05-06",
+        "sharedEntityIds": [
+          "george-knapp",
+          "government-transparency",
+          "jeremy-corbell"
+        ],
+        "sharedEntityCount": 3,
+        "score": 35
+      },
+      {
+        "id": "weaponized-matthew-brown-part-1",
+        "name": "WEAPONIZED Episode #74 — Matthew Brown Part 1: Immaculate Constellation",
+        "seriesId": "weaponized-podcast",
+        "date": "2025-04-29",
+        "sharedEntityIds": [
+          "george-knapp",
+          "government-transparency",
+          "jeremy-corbell"
+        ],
+        "sharedEntityCount": 3,
+        "score": 35
+      }
+    ],
     "2026-weaponized-episode-115": [
+      {
+        "id": "2023-weaponized-episode-42",
+        "name": "WEAPONIZED Episode #42 — The Sol Foundation Conference and Grusch Revelations",
+        "seriesId": "weaponized-podcast",
+        "date": "2023-11-27",
+        "sharedEntityIds": [
+          "george-knapp",
+          "government-transparency",
+          "jeremy-corbell",
+          "scientific-investigation"
+        ],
+        "sharedEntityCount": 4,
+        "score": 45
+      },
       {
         "id": "weaponized-matthew-brown-part-3",
         "name": "WEAPONIZED Episode #76 — Matthew Brown Part 3: Immaculate Constellation",
@@ -7159,6 +7403,19 @@
         ],
         "sharedEntityCount": 3,
         "score": 35
+      },
+      {
+        "id": "2023-weaponized-episode-42",
+        "name": "WEAPONIZED Episode #42 — The Sol Foundation Conference and Grusch Revelations",
+        "seriesId": "weaponized-podcast",
+        "date": "2023-11-27",
+        "sharedEntityIds": [
+          "george-knapp",
+          "government-transparency",
+          "jeremy-corbell"
+        ],
+        "sharedEntityCount": 3,
+        "score": 35
       }
     ],
     "weaponized-matthew-brown-part-2": [
@@ -7236,6 +7493,19 @@
         ],
         "sharedEntityCount": 3,
         "score": 35
+      },
+      {
+        "id": "2023-weaponized-episode-42",
+        "name": "WEAPONIZED Episode #42 — The Sol Foundation Conference and Grusch Revelations",
+        "seriesId": "weaponized-podcast",
+        "date": "2023-11-27",
+        "sharedEntityIds": [
+          "george-knapp",
+          "government-transparency",
+          "jeremy-corbell"
+        ],
+        "sharedEntityCount": 3,
+        "score": 35
       }
     ],
     "weaponized-matthew-brown-part-3": [
@@ -7306,6 +7576,19 @@
         "name": "WEAPONIZED Episode #115 — A New Chapter in the Bob Lazar Saga",
         "seriesId": "weaponized-podcast",
         "date": "2026-04-14",
+        "sharedEntityIds": [
+          "george-knapp",
+          "government-transparency",
+          "jeremy-corbell"
+        ],
+        "sharedEntityCount": 3,
+        "score": 35
+      },
+      {
+        "id": "2023-weaponized-episode-42",
+        "name": "WEAPONIZED Episode #42 — The Sol Foundation Conference and Grusch Revelations",
+        "seriesId": "weaponized-podcast",
+        "date": "2023-11-27",
         "sharedEntityIds": [
           "george-knapp",
           "government-transparency",

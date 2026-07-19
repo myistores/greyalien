@@ -1,0 +1,49 @@
+{
+  "id": "joe-murgia",
+  "type": "person",
+  "name": "Joe Murgia",
+  "summary": "Citizen journalist known as “UFO Joe” who follows UAP reporting, public testimony, and disclosure-related developments.",
+  "relationships": [
+    {
+      "type": "appeared_in",
+      "target": "2023-weaponized-episode-42",
+      "role": "guest",
+      "context": "Discussed the inaugural Sol Foundation symposium and recent UAP developments"
+    },
+    {
+      "type": "discussed_topic",
+      "target": "government-transparency"
+    }
+  ],
+  "profileStatus": "Citizen journalist and UAP commentator",
+  "profileSummary": "Citizen journalist known as “UFO Joe” who follows UAP reporting, public testimony, and disclosure-related developments.",
+  "profileBadge": "Journalist",
+  "profileBadgeClass": "badge-journalist",
+  "inclusionNote": "Included as the guest featured in WEAPONIZED Episode #42.",
+  "sources": [
+    {
+      "label": "Official WEAPONIZED Episode #42 page",
+      "url": "https://www.weaponizedpodcast.com/episodes-2/episode-42",
+      "sourceType": "official_episode_page",
+      "primary": true
+    },
+    {
+      "label": "Joe Murgia on X",
+      "url": "https://x.com/TheUfoJoe",
+      "sourceType": "official_social_profile",
+      "primary": false
+    }
+  ],
+  "primarySourceLinks": [
+    {
+      "label": "Official WEAPONIZED Episode #42 page",
+      "url": "https://www.weaponizedpodcast.com/episodes-2/episode-42",
+      "sourceType": "WEAPONIZED"
+    },
+    {
+      "label": "Joe Murgia on X",
+      "url": "https://x.com/TheUfoJoe",
+      "sourceType": "Official social profile"
+    }
+  ]
+}

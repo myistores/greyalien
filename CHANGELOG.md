@@ -1,3 +1,12 @@
+## V18.0 — First Automated Knowledge Ingestion
+
+- Ingested WEAPONIZED Episode #42 through the transactional import system.
+- Added Joe Murgia as a connected person entity and correctly distinguished him as guest.
+- Connected the episode to Garry Nolan and David Grusch as discussed subjects.
+- Connected the episode to the Sol Foundation, UAP Disclosure Act, and inaugural Sol Foundation symposium.
+- Updated the importer to include V17.4 rendering-rule and V17.5 timeline-normalization automation steps.
+- Updated homepage Latest Additions through structured release metadata.
+
 # V17.5 — Timeline Normalization Engine
 
 - Added canonical timeline-event alias generation.

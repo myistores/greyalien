@@ -1,0 +1,123 @@
+{
+  "id": "2023-weaponized-episode-42",
+  "type": "podcast_episode",
+  "name": "WEAPONIZED Episode #42 — The Sol Foundation Conference and Grusch Revelations",
+  "summary": "Jeremy Corbell and George Knapp are joined by citizen journalist Joe Murgia to discuss the inaugural Sol Foundation symposium, David Grusch’s recent public comments, congressional pressure surrounding the UAP Disclosure Act, and the Syria “Dome” UAP photograph.",
+  "date": "2023-11-27",
+  "dateDisplay": "November 27, 2023",
+  "seriesId": "weaponized-podcast",
+  "episodeNumber": 42,
+  "episodeTitle": "The Sol Foundation Conference and Grusch Revelations",
+  "status": "Published",
+  "mediaType": "Podcast episode",
+  "mediaPlatform": "WEAPONIZED",
+  "mediaHost": "Jeremy Corbell and George Knapp",
+  "mediaGuests": [
+    "Joe Murgia"
+  ],
+  "mediaSubjects": [
+    "Garry Nolan",
+    "David Grusch",
+    "The Sol Foundation",
+    "UAP Disclosure Act of 2023"
+  ],
+  "principalClaims": [],
+  "researchNotes": [
+    "Official episode description identifies Joe Murgia as the participating guest.",
+    "Garry Nolan is discussed as a co-host of the inaugural Sol Foundation symposium; he is not represented as an episode guest.",
+    "The episode also discusses congressional resistance to the Schumer–Rounds UAP Disclosure Act and the Syria Dome UAP photograph."
+  ],
+  "relationships": [
+    {
+      "type": "episode_of",
+      "target": "weaponized-podcast"
+    },
+    {
+      "type": "features_person",
+      "target": "jeremy-corbell",
+      "role": "host",
+      "context": "WEAPONIZED co-host"
+    },
+    {
+      "type": "features_person",
+      "target": "george-knapp",
+      "role": "host",
+      "context": "WEAPONIZED co-host"
+    },
+    {
+      "type": "features_person",
+      "target": "joe-murgia",
+      "role": "guest",
+      "context": "Guest discussing the Sol Foundation symposium and recent UAP developments"
+    },
+    {
+      "type": "features_person",
+      "target": "garry-nolan",
+      "role": "subject",
+      "context": "Discussed as a co-host of the inaugural Sol Foundation symposium"
+    },
+    {
+      "type": "features_person",
+      "target": "david-grusch",
+      "role": "subject",
+      "context": "The episode reviews Grusch’s recent public comments and disclosure-related developments"
+    },
+    {
+      "type": "references_organization",
+      "target": "sol-foundation",
+      "context": "Discussion of the organization’s inaugural research and policy symposium"
+    },
+    {
+      "type": "references_hearing",
+      "target": "2023-07-13-uap-disclosure-act-consideration",
+      "context": "Discussion of congressional pressure surrounding the Schumer–Rounds amendment"
+    },
+    {
+      "type": "references_publication",
+      "target": "uap-disclosure-act-2023",
+      "context": "Discussion of the proposed disclosure legislation"
+    },
+    {
+      "type": "timeline_connection",
+      "target": "timeline-2023-11-17-sol-inaugural-symposium",
+      "context": "Retrospective discussion of the inaugural Sol Foundation symposium"
+    },
+    {
+      "type": "discussed_topic",
+      "target": "government-transparency"
+    },
+    {
+      "type": "discussed_topic",
+      "target": "scientific-investigation"
+    }
+  ],
+  "sources": [
+    {
+      "label": "Official WEAPONIZED Episode #42 page",
+      "url": "https://www.weaponizedpodcast.com/episodes-2/episode-42",
+      "sourceType": "official_episode_page",
+      "primary": true
+    },
+    {
+      "label": "Listen to WEAPONIZED",
+      "url": "https://link.chtbl.com/Weaponized",
+      "sourceType": "official_audio_feed",
+      "primary": false
+    }
+  ],
+  "externalUrl": "https://www.weaponizedpodcast.com/episodes-2/episode-42",
+  "externalLinkLabel": "Open official Episode #42 page",
+  "mediaLinks": [
+    {
+      "label": "Open the official Episode #42 page",
+      "url": "https://www.weaponizedpodcast.com/episodes-2/episode-42",
+      "platform": "WEAPONIZED"
+    },
+    {
+      "label": "Listen to WEAPONIZED",
+      "url": "https://link.chtbl.com/Weaponized",
+      "platform": "Official audio feed"
+    }
+  ],
+  "eventCategory": "Podcast publication"
+}

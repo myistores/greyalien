@@ -1092,6 +1092,12 @@
       "summary": "Former U.S. Navy weapons-systems officer who participated in the 2004 Nimitz interception."
     },
     {
+      "id": "joe-murgia",
+      "type": "person",
+      "name": "Joe Murgia",
+      "summary": "Citizen journalist known as “UFO Joe” who follows UAP reporting, public testimony, and disclosure-related developments."
+    },
+    {
       "id": "joe-spielberger",
       "type": "person",
       "name": "Joe Spielberger",
@@ -1331,6 +1337,15 @@
       "name": "WEAPONIZED Episode #28 — Congressional Hearing Roundtable",
       "summary": "Jeremy Corbell and George Knapp are joined by Ross Coulthart and Bryce Zabel for a roundtable about the July 26, 2023 House UAP hearing, its three witnesses, how the hearing came together, and what might follow.",
       "date": "2023-07-31",
+      "status": "Published"
+    },
+    {
+      "id": "2023-weaponized-episode-42",
+      "type": "podcast_episode",
+      "name": "WEAPONIZED Episode #42 — The Sol Foundation Conference and Grusch Revelations",
+      "summary": "Jeremy Corbell and George Knapp are joined by citizen journalist Joe Murgia to discuss the inaugural Sol Foundation symposium, David Grusch’s recent public comments, congressional pressure surrounding the UAP Disclosure Act, and the Syria “Dome” UAP photograph.",
+      "date": "2023-11-27",
+      "dateDisplay": "November 27, 2023",
       "status": "Published"
     },
     {

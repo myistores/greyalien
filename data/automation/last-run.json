@@ -1,12 +1,12 @@
 {
-  "startedAt": "2026-07-19T02:58:08.900234+00:00",
-  "finishedAt": "2026-07-19T02:58:24.375134+00:00",
+  "startedAt": "2026-07-19T03:19:42.032722+00:00",
+  "finishedAt": "2026-07-19T03:19:57.975502+00:00",
   "status": "passed",
   "steps": [
     {
       "step": "build_graph.py",
       "returnCode": 0,
-      "output": "Built index for 272 entities and 801 resolved relationships."
+      "output": "Built index for 274 entities and 815 resolved relationships."
     },
     {
       "step": "build_timeline_normalization.py",
@@ -16,37 +16,37 @@
     {
       "step": "build_podcasts.py",
       "returnCode": 0,
-      "output": "Built 8 podcast series and 6 episode records."
+      "output": "Built 8 podcast series and 7 episode records."
     },
     {
       "step": "build_related_content.py",
       "returnCode": 0,
-      "output": "Built related-content data for 272 entities and 6 podcast episodes."
+      "output": "Built related-content data for 274 entities and 7 podcast episodes."
     },
     {
       "step": "build_entity_pages.py",
       "returnCode": 0,
-      "output": "Generated 272 stable entity pages."
+      "output": "Generated 274 stable entity pages."
     },
     {
       "step": "build_homepage.py",
       "returnCode": 0,
-      "output": "Updated homepage Latest Additions for GreyAlien Version 17.5."
+      "output": "Updated homepage Latest Additions for GreyAlien Version 18.0."
     },
     {
       "step": "build_sitemap.py",
       "returnCode": 0,
-      "output": "Built sitemap with 283 URLs."
+      "output": "Built sitemap with 285 URLs."
     },
     {
       "step": "validate_graph.py",
       "returnCode": 0,
-      "output": "Checked 272 entities and 816 declared relationships.\nWarnings: 15 unresolved legacy relationship targets remain.\nVALIDATION PASSED"
+      "output": "Checked 274 entities and 830 declared relationships.\nWarnings: 15 unresolved legacy relationship targets remain.\nVALIDATION PASSED"
     },
     {
       "step": "validate_podcasts.py",
       "returnCode": 0,
-      "output": "Checked 8 series and 6 episodes.\nPODCAST VALIDATION PASSED"
+      "output": "Checked 8 series and 7 episodes.\nPODCAST VALIDATION PASSED"
     },
     {
       "step": "validate_rendering_rules.py",

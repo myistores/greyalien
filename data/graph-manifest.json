@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "entityCount": 272,
-  "relationshipCount": 801,
+  "entityCount": 274,
+  "relationshipCount": 815,
   "unresolvedRelationshipCount": 15,
   "connectionCounts": {
     "1960s-area-51-engine-claim": {
@@ -115,9 +115,9 @@
       "total": 5
     },
     "2023-07-13-uap-disclosure-act-consideration": {
-      "incoming": 0,
+      "incoming": 1,
       "outgoing": 6,
-      "total": 6
+      "total": 7
     },
     "2023-07-26-house-oversight-uap": {
       "incoming": 8,
@@ -163,6 +163,11 @@
       "incoming": 0,
       "outgoing": 15,
       "total": 15
+    },
+    "2023-weaponized-episode-42": {
+      "incoming": 1,
+      "outgoing": 12,
+      "total": 13
     },
     "2024-01-12-house-uap-scif-briefing": {
       "incoming": 4,
@@ -520,9 +525,9 @@
       "total": 2
     },
     "david-grusch": {
-      "incoming": 6,
+      "incoming": 7,
       "outgoing": 6,
-      "total": 12
+      "total": 13
     },
     "david-schindele": {
       "incoming": 0,
@@ -635,9 +640,9 @@
       "total": 6
     },
     "garry-nolan": {
-      "incoming": 3,
+      "incoming": 4,
       "outgoing": 2,
-      "total": 5
+      "total": 6
     },
     "gary-voorhis": {
       "incoming": 0,
@@ -645,14 +650,14 @@
       "total": 3
     },
     "george-knapp": {
-      "incoming": 11,
+      "incoming": 12,
       "outgoing": 7,
-      "total": 18
+      "total": 19
     },
     "government-transparency": {
-      "incoming": 63,
+      "incoming": 65,
       "outgoing": 0,
-      "total": 63
+      "total": 65
     },
     "hal-puthoff": {
       "incoming": 3,
@@ -760,9 +765,9 @@
       "total": 1
     },
     "jeremy-corbell": {
-      "incoming": 11,
+      "incoming": 12,
       "outgoing": 5,
-      "total": 16
+      "total": 17
     },
     "jim-penniston": {
       "incoming": 0,
@@ -778,6 +783,11 @@
       "incoming": 0,
       "outgoing": 2,
       "total": 2
+    },
+    "joe-murgia": {
+      "incoming": 1,
+      "outgoing": 2,
+      "total": 3
     },
     "joe-spielberger": {
       "incoming": 0,
@@ -1035,9 +1045,9 @@
       "total": 14
     },
     "scientific-investigation": {
-      "incoming": 29,
+      "incoming": 30,
       "outgoing": 0,
-      "total": 29
+      "total": 30
     },
     "scott-bray": {
       "incoming": 0,
@@ -1075,9 +1085,9 @@
       "total": 1
     },
     "sol-foundation": {
-      "incoming": 3,
+      "incoming": 4,
       "outgoing": 2,
-      "total": 5
+      "total": 6
     },
     "somewhere-in-the-skies-podcast": {
       "incoming": 0,
@@ -1235,9 +1245,9 @@
       "total": 3
     },
     "timeline-2023-11-17-sol-inaugural-symposium": {
-      "incoming": 0,
+      "incoming": 1,
       "outgoing": 7,
-      "total": 7
+      "total": 8
     },
     "timeline-2024-01-08-jellyfish-uap-reporting": {
       "incoming": 2,
@@ -1275,9 +1285,9 @@
       "total": 2
     },
     "uap-disclosure-act-2023": {
-      "incoming": 0,
+      "incoming": 1,
       "outgoing": 3,
-      "total": 3
+      "total": 4
     },
     "uap-disclosure-legislation": {
       "incoming": 6,
@@ -1355,9 +1365,9 @@
       "total": 17
     },
     "weaponized-podcast": {
-      "incoming": 12,
+      "incoming": 13,
       "outgoing": 2,
-      "total": 14
+      "total": 15
     },
     "whistleblower-protection": {
       "incoming": 16,
