@@ -1,0 +1,25 @@
+{
+  "id": "liberation-times",
+  "type": "organization",
+  "name": "Liberation Times",
+  "summary": "Publication covering UAP policy, legislation, government transparency, and related reporting.",
+  "relationships": [
+    {
+      "type": "published_by",
+      "target": "chris-sharp",
+      "role": "editor and publisher"
+    },
+    {
+      "type": "discussed_topic",
+      "target": "government-transparency"
+    }
+  ],
+  "sources": [
+    {
+      "label": "Liberation Times",
+      "url": "https://www.liberationtimes.com/",
+      "sourceType": "official_website",
+      "primary": true
+    }
+  ]
+}

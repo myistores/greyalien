@@ -1,0 +1,103 @@
+{
+  "startedAt": "2026-07-19T04:01:28.590514+00:00",
+  "source": "/mnt/data/v18_1_batch",
+  "dryRun": true,
+  "replace": false,
+  "files": [
+    "2017-iraq-jellyfish-uap.json",
+    "2023-weaponized-episode-43.json",
+    "2023-weaponized-episode-44.json",
+    "2023-weaponized-episode-45.json",
+    "2024-weaponized-episode-46.json",
+    "2024-weaponized-episode-47.json",
+    "advanced-theoretical-physics-program.json",
+    "chris-sharp.json",
+    "john-b-alexander.json",
+    "liberation-times.json",
+    "richard-dolan.json",
+    "unidentified-submerged-objects.json"
+  ],
+  "status": "dry_run_passed",
+  "steps": [
+    {
+      "name": "validate_records",
+      "returnCode": 0,
+      "output": "Validated 12 import record(s): 0 error(s), 0 warning(s).\n"
+    },
+    {
+      "name": "build_graph.py",
+      "returnCode": 0,
+      "output": "Built index for 286 entities and 882 resolved relationships.\n"
+    },
+    {
+      "name": "build_timeline_normalization.py",
+      "returnCode": 0,
+      "output": "Timeline normalization built: 33 canonical events, 3 aliases, 0 conflicts.\n"
+    },
+    {
+      "name": "build_podcasts.py",
+      "returnCode": 0,
+      "output": "Built 8 podcast series and 12 episode records.\n"
+    },
+    {
+      "name": "build_related_content.py",
+      "returnCode": 0,
+      "output": "Built related-content data for 286 entities and 12 podcast episodes.\n"
+    },
+    {
+      "name": "build_entity_pages.py",
+      "returnCode": 0,
+      "output": "Generated 286 stable entity pages.\n"
+    },
+    {
+      "name": "build_homepage.py",
+      "returnCode": 0,
+      "output": "Updated homepage Latest Additions for GreyAlien Version 18.0.\n"
+    },
+    {
+      "name": "build_sitemap.py",
+      "returnCode": 0,
+      "output": "Built sitemap with 297 URLs.\n"
+    },
+    {
+      "name": "validate_graph.py",
+      "returnCode": 0,
+      "output": "Checked 286 entities and 897 declared relationships.\nWarnings: 15 unresolved legacy relationship targets remain.\nVALIDATION PASSED\n"
+    },
+    {
+      "name": "validate_podcasts.py",
+      "returnCode": 0,
+      "output": "Checked 8 series and 12 episodes.\nPODCAST VALIDATION PASSED\n"
+    },
+    {
+      "name": "validate_rendering_rules.py",
+      "returnCode": 0,
+      "output": "Rendering rule validation: PASSED (11 categories, 12 entity types)\nUnified Media category: interview + podcast_episode\n"
+    },
+    {
+      "name": "validate_timeline_normalization.py",
+      "returnCode": 0,
+      "output": "Timeline normalization validation: PASSED (3 aliases).\n"
+    },
+    {
+      "name": "build_deployment_report.py",
+      "returnCode": 0,
+      "output": "Created deployment report: data/automation/reports/latest.md\n"
+    }
+  ],
+  "importedIds": [
+    "2017-iraq-jellyfish-uap",
+    "2023-weaponized-episode-43",
+    "2023-weaponized-episode-44",
+    "2023-weaponized-episode-45",
+    "2024-weaponized-episode-46",
+    "2024-weaponized-episode-47",
+    "advanced-theoretical-physics-program",
+    "chris-sharp",
+    "john-b-alexander",
+    "liberation-times",
+    "richard-dolan",
+    "unidentified-submerged-objects"
+  ],
+  "finishedAt": "2026-07-19T04:01:46.707761+00:00"
+}

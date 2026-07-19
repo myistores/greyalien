@@ -1,0 +1,20 @@
+{
+  "id": "unidentified-submerged-objects",
+  "type": "topic",
+  "name": "Unidentified Submerged Objects",
+  "summary": "Reports and research concerning unidentified objects observed in, entering, leaving, or operating around bodies of water.",
+  "relationships": [
+    {
+      "type": "broader_topic",
+      "target": "uap-research"
+    }
+  ],
+  "sources": [
+    {
+      "label": "Official WEAPONIZED Episode #46 page",
+      "url": "https://www.weaponizedpodcast.com/episodes-2/episode-46",
+      "sourceType": "official_episode_page",
+      "primary": true
+    }
+  ]
+}

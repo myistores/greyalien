@@ -1,0 +1,25 @@
+{
+  "id": "advanced-theoretical-physics-program",
+  "type": "organization",
+  "name": "Advanced Theoretical Physics Program",
+  "summary": "An earlier Defense Department inquiry described by John B. Alexander as an effort to investigate reports of hidden UFO crash-retrieval and reverse-engineering programs.",
+  "relationships": [
+    {
+      "type": "affiliated_with",
+      "target": "john-b-alexander",
+      "role": "program lead"
+    },
+    {
+      "type": "discussed_topic",
+      "target": "historical-ufo-research"
+    }
+  ],
+  "sources": [
+    {
+      "label": "Official WEAPONIZED Episode #45 page",
+      "url": "https://www.weaponizedpodcast.com/episodes-2/episode-45",
+      "sourceType": "official_episode_page",
+      "primary": true
+    }
+  ]
+}

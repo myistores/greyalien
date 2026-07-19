@@ -1,0 +1,116 @@
+{
+  "id": "2023-weaponized-episode-45",
+  "type": "podcast_episode",
+  "name": "WEAPONIZED Episode #45 — John Alexander on Crash Retrievals, NIDS, and the Sol Conference",
+  "summary": "John B. Alexander joins Jeremy Corbell and George Knapp to discuss the Advanced Theoretical Physics program, alleged crash-retrieval programs, NIDS, Skinwalker Ranch, the Sol Foundation conference, and Philip J. Corso.",
+  "date": "2023-12-18",
+  "dateDisplay": "December 18, 2023",
+  "seriesId": "weaponized-podcast",
+  "episodeNumber": 45,
+  "episodeTitle": "John Alexander on Crash Retrievals, NIDS, and the Sol Conference",
+  "status": "Published",
+  "mediaType": "Podcast episode",
+  "mediaPlatform": "WEAPONIZED",
+  "mediaHost": "Jeremy Corbell and George Knapp",
+  "mediaGuests": [
+    "John B. Alexander"
+  ],
+  "mediaSubjects": [
+    "Advanced Theoretical Physics program",
+    "NIDS",
+    "Skinwalker Ranch",
+    "The Sol Foundation",
+    "Philip J. Corso"
+  ],
+  "principalClaims": [],
+  "researchNotes": [
+    "Official description identifies John B. Alexander as the interview guest."
+  ],
+  "relationships": [
+    {
+      "type": "episode_of",
+      "target": "weaponized-podcast"
+    },
+    {
+      "type": "features_person",
+      "target": "jeremy-corbell",
+      "role": "host",
+      "context": "WEAPONIZED co-host"
+    },
+    {
+      "type": "features_person",
+      "target": "george-knapp",
+      "role": "host",
+      "context": "WEAPONIZED co-host"
+    },
+    {
+      "type": "features_person",
+      "target": "john-b-alexander",
+      "role": "guest",
+      "context": "Primary interview guest"
+    },
+    {
+      "type": "references_organization",
+      "target": "advanced-theoretical-physics-program",
+      "context": "Alexander led the earlier Defense Department UFO inquiry described in the episode"
+    },
+    {
+      "type": "references_organization",
+      "target": "national-institute-for-discovery-science",
+      "context": "Alexander’s work with NIDS is discussed"
+    },
+    {
+      "type": "references_organization",
+      "target": "sol-foundation",
+      "context": "Alexander discusses impressions from the recent Sol conference"
+    },
+    {
+      "type": "discussed_case",
+      "target": "skinwalker-ranch",
+      "context": "Alexander’s connection to Robert Bigelow and Skinwalker Ranch is discussed"
+    },
+    {
+      "type": "features_person",
+      "target": "philip-j-corso",
+      "role": "subject",
+      "context": "Alexander assesses Corso’s account"
+    },
+    {
+      "type": "discussed_topic",
+      "target": "government-transparency"
+    },
+    {
+      "type": "discussed_topic",
+      "target": "historical-ufo-research"
+    }
+  ],
+  "sources": [
+    {
+      "label": "Official WEAPONIZED Episode #45 page",
+      "url": "https://www.weaponizedpodcast.com/episodes-2/episode-45",
+      "sourceType": "official_episode_page",
+      "primary": true
+    },
+    {
+      "label": "Listen to WEAPONIZED",
+      "url": "https://link.chtbl.com/Weaponized",
+      "sourceType": "official_audio_feed",
+      "primary": false
+    }
+  ],
+  "externalUrl": "https://www.weaponizedpodcast.com/episodes-2/episode-45",
+  "externalLinkLabel": "Open official Episode #45 page",
+  "mediaLinks": [
+    {
+      "label": "Open the official Episode #45 page",
+      "url": "https://www.weaponizedpodcast.com/episodes-2/episode-45",
+      "platform": "WEAPONIZED"
+    },
+    {
+      "label": "Listen to WEAPONIZED",
+      "url": "https://link.chtbl.com/Weaponized",
+      "platform": "Official audio feed"
+    }
+  ],
+  "eventCategory": "Podcast publication"
+}

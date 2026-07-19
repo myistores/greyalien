@@ -95,6 +95,94 @@
       "relationshipCount": 12
     },
     {
+      "id": "2024-weaponized-episode-47",
+      "name": "WEAPONIZED Episode #47 — The Jellyfish UAP Investigation",
+      "summary": "Jeremy Corbell and George Knapp explain how they obtained and evaluated thermal video of the alleged Jellyfish UAP recorded at a U.S. military base in Iraq, discuss reported transmedium behavior, and respond to proposed conventional explanations.",
+      "date": "2024-01-15",
+      "dateDisplay": "January 15, 2024",
+      "episodeNumber": 47,
+      "episodeTitle": "The Jellyfish UAP Investigation",
+      "status": "Published",
+      "seriesId": "weaponized-podcast",
+      "externalUrl": "https://www.weaponizedpodcast.com/episodes-2/episode-47",
+      "guestIds": [],
+      "subjectIds": [],
+      "claimIds": [],
+      "relationshipCount": 8
+    },
+    {
+      "id": "2024-weaponized-episode-46",
+      "name": "WEAPONIZED Episode #46 — Richard Dolan on Disclosure, History, and USO Cases",
+      "summary": "Historian Richard Dolan joins Jeremy Corbell and George Knapp for a wide-ranging discussion of disclosure, intelligence and defense institutions, whistleblower revelations, congressional statements, academic interest, global UFO history, and unidentified submerged object cases.",
+      "date": "2024-01-08",
+      "dateDisplay": "January 8, 2024",
+      "episodeNumber": 46,
+      "episodeTitle": "Richard Dolan on Disclosure, History, and USO Cases",
+      "status": "Published",
+      "seriesId": "weaponized-podcast",
+      "externalUrl": "https://www.weaponizedpodcast.com/episodes-2/episode-46",
+      "guestIds": [
+        "richard-dolan"
+      ],
+      "subjectIds": [],
+      "claimIds": [],
+      "relationshipCount": 10
+    },
+    {
+      "id": "2023-weaponized-episode-45",
+      "name": "WEAPONIZED Episode #45 — John Alexander on Crash Retrievals, NIDS, and the Sol Conference",
+      "summary": "John B. Alexander joins Jeremy Corbell and George Knapp to discuss the Advanced Theoretical Physics program, alleged crash-retrieval programs, NIDS, Skinwalker Ranch, the Sol Foundation conference, and Philip J. Corso.",
+      "date": "2023-12-18",
+      "dateDisplay": "December 18, 2023",
+      "episodeNumber": 45,
+      "episodeTitle": "John Alexander on Crash Retrievals, NIDS, and the Sol Conference",
+      "status": "Published",
+      "seriesId": "weaponized-podcast",
+      "externalUrl": "https://www.weaponizedpodcast.com/episodes-2/episode-45",
+      "guestIds": [
+        "john-b-alexander"
+      ],
+      "subjectIds": [],
+      "claimIds": [],
+      "relationshipCount": 11
+    },
+    {
+      "id": "2023-weaponized-episode-44",
+      "name": "WEAPONIZED Episode #44 — The Fight Over the UAP Disclosure Act",
+      "summary": "Jeremy Corbell and George Knapp examine the weakening of proposed UAP disclosure legislation and speak with Liberation Times editor and publisher Chris Sharp about congressional opposition and defense-contractor influence.",
+      "date": "2023-12-11",
+      "dateDisplay": "December 11, 2023",
+      "episodeNumber": 44,
+      "episodeTitle": "The Fight Over the UAP Disclosure Act",
+      "status": "Published",
+      "seriesId": "weaponized-podcast",
+      "externalUrl": "https://www.weaponizedpodcast.com/episodes-2/episode-44",
+      "guestIds": [
+        "chris-sharp"
+      ],
+      "subjectIds": [],
+      "claimIds": [],
+      "relationshipCount": 10
+    },
+    {
+      "id": "2023-weaponized-episode-43",
+      "name": "WEAPONIZED Episode #43 — The Unreleased Philip Corso Tapes",
+      "summary": "Jeremy Corbell and George Knapp revisit Philip J. Corso’s Roswell technology-transfer claims and examine previously unreleased interviews recorded by personnel associated with the National Institute for Discovery Science.",
+      "date": "2023-12-04",
+      "dateDisplay": "December 4, 2023",
+      "episodeNumber": 43,
+      "episodeTitle": "The Unreleased Philip Corso Tapes",
+      "status": "Published",
+      "seriesId": "weaponized-podcast",
+      "externalUrl": "https://www.weaponizedpodcast.com/episodes-2/episode-43",
+      "guestIds": [],
+      "subjectIds": [],
+      "claimIds": [
+        "claim-roswell-technology-transfer"
+      ],
+      "relationshipCount": 9
+    },
+    {
       "id": "2023-weaponized-episode-42",
       "name": "WEAPONIZED Episode #42 — The Sol Foundation Conference and Grusch Revelations",
       "summary": "Jeremy Corbell and George Knapp are joined by citizen journalist Joe Murgia to discuss the inaugural Sol Foundation symposium, David Grusch’s recent public comments, congressional pressure surrounding the UAP Disclosure Act, and the Syria “Dome” UAP photograph.",

@@ -1,0 +1,101 @@
+{
+  "id": "2023-weaponized-episode-43",
+  "type": "podcast_episode",
+  "name": "WEAPONIZED Episode #43 — The Unreleased Philip Corso Tapes",
+  "summary": "Jeremy Corbell and George Knapp revisit Philip J. Corso’s Roswell technology-transfer claims and examine previously unreleased interviews recorded by personnel associated with the National Institute for Discovery Science.",
+  "date": "2023-12-04",
+  "dateDisplay": "December 4, 2023",
+  "seriesId": "weaponized-podcast",
+  "episodeNumber": 43,
+  "episodeTitle": "The Unreleased Philip Corso Tapes",
+  "status": "Published",
+  "mediaType": "Podcast episode",
+  "mediaPlatform": "WEAPONIZED",
+  "mediaHost": "Jeremy Corbell and George Knapp",
+  "mediaGuests": [],
+  "mediaSubjects": [
+    "Philip J. Corso",
+    "Roswell Incident",
+    "National Institute for Discovery Science"
+  ],
+  "principalClaims": [],
+  "researchNotes": [
+    "Official description centers on archival Corso interviews and his claims about alleged transfer of recovered technology."
+  ],
+  "relationships": [
+    {
+      "type": "episode_of",
+      "target": "weaponized-podcast"
+    },
+    {
+      "type": "features_person",
+      "target": "jeremy-corbell",
+      "role": "host",
+      "context": "WEAPONIZED co-host"
+    },
+    {
+      "type": "features_person",
+      "target": "george-knapp",
+      "role": "host",
+      "context": "WEAPONIZED co-host"
+    },
+    {
+      "type": "features_person",
+      "target": "philip-j-corso",
+      "role": "subject",
+      "context": "Central subject of the episode and archival interviews"
+    },
+    {
+      "type": "references_organization",
+      "target": "national-institute-for-discovery-science",
+      "context": "NIDS personnel recorded two lengthy interviews with Corso"
+    },
+    {
+      "type": "discussed_case",
+      "target": "roswell-incident",
+      "context": "Corso connected his technology-transfer account to the Roswell incident"
+    },
+    {
+      "type": "references_claim",
+      "target": "claim-roswell-technology-transfer",
+      "context": "The episode revisits Corso’s alleged technology-transfer account"
+    },
+    {
+      "type": "discussed_topic",
+      "target": "historical-ufo-research"
+    },
+    {
+      "type": "discussed_topic",
+      "target": "government-transparency"
+    }
+  ],
+  "sources": [
+    {
+      "label": "Official WEAPONIZED Episode #43 page",
+      "url": "https://www.weaponizedpodcast.com/episodes-2/episode-43",
+      "sourceType": "official_episode_page",
+      "primary": true
+    },
+    {
+      "label": "Listen to WEAPONIZED",
+      "url": "https://link.chtbl.com/Weaponized",
+      "sourceType": "official_audio_feed",
+      "primary": false
+    }
+  ],
+  "externalUrl": "https://www.weaponizedpodcast.com/episodes-2/episode-43",
+  "externalLinkLabel": "Open official Episode #43 page",
+  "mediaLinks": [
+    {
+      "label": "Open the official Episode #43 page",
+      "url": "https://www.weaponizedpodcast.com/episodes-2/episode-43",
+      "platform": "WEAPONIZED"
+    },
+    {
+      "label": "Listen to WEAPONIZED",
+      "url": "https://link.chtbl.com/Weaponized",
+      "platform": "Official audio feed"
+    }
+  ],
+  "eventCategory": "Podcast publication"
+}

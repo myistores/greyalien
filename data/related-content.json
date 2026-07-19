@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "generatedBy": "tools/build_related_content.py",
-  "generatedAt": "2026-07-19T03:19:47.333185+00:00",
+  "generatedAt": "2026-07-19T04:02:41.672068+00:00",
   "referencedIn": {
     "1960s-area-51-engine-claim": [
       {
@@ -413,6 +413,16 @@
         "context": "His Nimitz account entered broad public reporting"
       }
     ],
+    "2017-iraq-jellyfish-uap": [
+      {
+        "id": "2024-weaponized-episode-47",
+        "type": "podcast_episode",
+        "name": "WEAPONIZED Episode #47 — The Jellyfish UAP Investigation",
+        "relationshipType": "discussed_case",
+        "role": "",
+        "context": "Central incident and video examined in the episode"
+      }
+    ],
     "2018-bob-lazar-area-51-flying-saucers": [
       {
         "id": "jeremy-corbell",
@@ -541,6 +551,14 @@
         "relationshipType": "references_hearing",
         "role": "",
         "context": "Discussion of congressional pressure surrounding the Schumer–Rounds amendment"
+      },
+      {
+        "id": "2023-weaponized-episode-44",
+        "type": "podcast_episode",
+        "name": "WEAPONIZED Episode #44 — The Fight Over the UAP Disclosure Act",
+        "relationshipType": "references_hearing",
+        "role": "",
+        "context": "Connects to congressional action concerning the UAP Disclosure Act"
       }
     ],
     "2023-07-26-house-oversight-uap": [
@@ -793,6 +811,27 @@
         "context": "Discussed the inaugural Sol Foundation symposium and recent UAP developments"
       }
     ],
+    "2023-weaponized-episode-43": [],
+    "2023-weaponized-episode-44": [
+      {
+        "id": "chris-sharp",
+        "type": "person",
+        "name": "Chris Sharp",
+        "relationshipType": "appeared_in",
+        "role": "guest",
+        "context": "Discussed congressional opposition to UAP disclosure legislation"
+      }
+    ],
+    "2023-weaponized-episode-45": [
+      {
+        "id": "john-b-alexander",
+        "type": "person",
+        "name": "John B. Alexander",
+        "relationshipType": "appeared_in",
+        "role": "guest",
+        "context": "Discussed prior UFO investigations, NIDS, Skinwalker Ranch, and disclosure"
+      }
+    ],
     "2024-01-12-house-uap-scif-briefing": [
       {
         "id": "anna-paulina-luna",
@@ -966,6 +1005,26 @@
         "relationshipType": "authored",
         "role": "",
         "context": ""
+      }
+    ],
+    "2024-weaponized-episode-46": [
+      {
+        "id": "richard-dolan",
+        "type": "person",
+        "name": "Richard Dolan",
+        "relationshipType": "appeared_in",
+        "role": "guest",
+        "context": "Discussed disclosure, UFO history, and USO research"
+      }
+    ],
+    "2024-weaponized-episode-47": [
+      {
+        "id": "2017-iraq-jellyfish-uap",
+        "type": "case",
+        "name": "2017 Iraq Jellyfish UAP Incident",
+        "relationshipType": "documented_by",
+        "role": "",
+        "context": "Episode examines the video and reporting surrounding the incident"
       }
     ],
     "2025-09-09-house-uap-transparency-hearing": [
@@ -1347,6 +1406,24 @@
         "relationshipType": "timeline_connection",
         "role": "program",
         "context": "Defense Intelligence Agency-funded research program"
+      }
+    ],
+    "advanced-theoretical-physics-program": [
+      {
+        "id": "john-b-alexander",
+        "type": "person",
+        "name": "John B. Alexander",
+        "relationshipType": "affiliated_with",
+        "role": "",
+        "context": ""
+      },
+      {
+        "id": "2023-weaponized-episode-45",
+        "type": "podcast_episode",
+        "name": "WEAPONIZED Episode #45 — John Alexander on Crash Retrievals, NIDS, and the Sol Conference",
+        "relationshipType": "references_organization",
+        "role": "",
+        "context": "Alexander led the earlier Defense Department UFO inquiry described in the episode"
       }
     ],
     "alex-dietrich": [],
@@ -1864,6 +1941,24 @@
     "chad-underwood": [],
     "charles-halt": [],
     "chaz-king": [],
+    "chris-sharp": [
+      {
+        "id": "liberation-times",
+        "type": "organization",
+        "name": "Liberation Times",
+        "relationshipType": "published_by",
+        "role": "editor and publisher",
+        "context": ""
+      },
+      {
+        "id": "2023-weaponized-episode-44",
+        "type": "podcast_episode",
+        "name": "WEAPONIZED Episode #44 — The Fight Over the UAP Disclosure Act",
+        "relationshipType": "features_person",
+        "role": "guest",
+        "context": "Guest discussing congressional opposition to disclosure legislation"
+      }
+    ],
     "christopher-kit-green": [],
     "christopher-mellon": [
       {
@@ -2219,6 +2314,14 @@
         "relationshipType": "made_claim",
         "role": "",
         "context": ""
+      },
+      {
+        "id": "2023-weaponized-episode-43",
+        "type": "podcast_episode",
+        "name": "WEAPONIZED Episode #43 — The Unreleased Philip Corso Tapes",
+        "relationshipType": "references_claim",
+        "role": "",
+        "context": "The episode revisits Corso’s alleged technology-transfer account"
       }
     ],
     "claim-s4-documentary-reconstruction": [
@@ -2707,6 +2810,14 @@
         "context": ""
       },
       {
+        "id": "2023-weaponized-episode-44",
+        "type": "podcast_episode",
+        "name": "WEAPONIZED Episode #44 — The Fight Over the UAP Disclosure Act",
+        "relationshipType": "discussed_topic",
+        "role": "",
+        "context": ""
+      },
+      {
         "id": "weaponized-matthew-brown-part-1",
         "type": "podcast_episode",
         "name": "WEAPONIZED Episode #74 — Matthew Brown Part 1: Immaculate Constellation",
@@ -2869,6 +2980,14 @@
         "context": "The episode reviews Grusch’s recent public comments and disclosure-related developments"
       },
       {
+        "id": "2024-weaponized-episode-46",
+        "type": "podcast_episode",
+        "name": "WEAPONIZED Episode #46 — Richard Dolan on Disclosure, History, and USO Cases",
+        "relationshipType": "features_person",
+        "role": "subject",
+        "context": "Recent whistleblower revelations are discussed"
+      },
+      {
         "id": "timeline-2022-05-25-david-grusch-ppd19-complaint",
         "type": "timeline_event",
         "name": "David Grusch Files a PPD-19 Whistleblower Complaint",
@@ -2922,6 +3041,14 @@
       }
     ],
     "department-of-defense": [
+      {
+        "id": "2017-iraq-jellyfish-uap",
+        "type": "case",
+        "name": "2017 Iraq Jellyfish UAP Incident",
+        "relationshipType": "involved_organization",
+        "role": "",
+        "context": ""
+      },
       {
         "id": "claim-secret-uap-programs",
         "type": "claim",
@@ -3113,6 +3240,22 @@
         "relationshipType": "affiliated_with",
         "role": "Former official",
         "context": ""
+      },
+      {
+        "id": "2024-weaponized-episode-46",
+        "type": "podcast_episode",
+        "name": "WEAPONIZED Episode #46 — Richard Dolan on Disclosure, History, and USO Cases",
+        "relationshipType": "references_organization",
+        "role": "",
+        "context": "Discussion of historical and current Defense Department involvement"
+      },
+      {
+        "id": "2024-weaponized-episode-47",
+        "type": "podcast_episode",
+        "name": "WEAPONIZED Episode #47 — The Jellyfish UAP Investigation",
+        "relationshipType": "references_organization",
+        "role": "",
+        "context": "The incident allegedly involved U.S. military intelligence assets and evidence control"
       },
       {
         "id": "timeline-2021-07-david-grusch-dod-ig-disclosure",
@@ -3477,6 +3620,46 @@
         "context": "WEAPONIZED co-host"
       },
       {
+        "id": "2023-weaponized-episode-43",
+        "type": "podcast_episode",
+        "name": "WEAPONIZED Episode #43 — The Unreleased Philip Corso Tapes",
+        "relationshipType": "features_person",
+        "role": "host",
+        "context": "WEAPONIZED co-host"
+      },
+      {
+        "id": "2023-weaponized-episode-44",
+        "type": "podcast_episode",
+        "name": "WEAPONIZED Episode #44 — The Fight Over the UAP Disclosure Act",
+        "relationshipType": "features_person",
+        "role": "host",
+        "context": "WEAPONIZED co-host"
+      },
+      {
+        "id": "2023-weaponized-episode-45",
+        "type": "podcast_episode",
+        "name": "WEAPONIZED Episode #45 — John Alexander on Crash Retrievals, NIDS, and the Sol Conference",
+        "relationshipType": "features_person",
+        "role": "host",
+        "context": "WEAPONIZED co-host"
+      },
+      {
+        "id": "2024-weaponized-episode-46",
+        "type": "podcast_episode",
+        "name": "WEAPONIZED Episode #46 — Richard Dolan on Disclosure, History, and USO Cases",
+        "relationshipType": "features_person",
+        "role": "host",
+        "context": "WEAPONIZED co-host"
+      },
+      {
+        "id": "2024-weaponized-episode-47",
+        "type": "podcast_episode",
+        "name": "WEAPONIZED Episode #47 — The Jellyfish UAP Investigation",
+        "relationshipType": "features_person",
+        "role": "host",
+        "context": "WEAPONIZED co-host"
+      },
+      {
         "id": "weaponized-matthew-brown-part-1",
         "type": "podcast_episode",
         "name": "WEAPONIZED Episode #74 — Matthew Brown Part 1: Immaculate Constellation",
@@ -3799,6 +3982,14 @@
         "context": ""
       },
       {
+        "id": "liberation-times",
+        "type": "organization",
+        "name": "Liberation Times",
+        "relationshipType": "discussed_topic",
+        "role": "",
+        "context": ""
+      },
+      {
         "id": "national-archives",
         "type": "organization",
         "name": "National Archives and Records Administration",
@@ -3863,9 +4054,25 @@
         "context": ""
       },
       {
+        "id": "chris-sharp",
+        "type": "person",
+        "name": "Chris Sharp",
+        "relationshipType": "discussed_topic",
+        "role": "",
+        "context": ""
+      },
+      {
         "id": "joe-murgia",
         "type": "person",
         "name": "Joe Murgia",
+        "relationshipType": "discussed_topic",
+        "role": "",
+        "context": ""
+      },
+      {
+        "id": "richard-dolan",
+        "type": "person",
+        "name": "Richard Dolan",
         "relationshipType": "discussed_topic",
         "role": "",
         "context": ""
@@ -3898,6 +4105,46 @@
         "id": "2023-weaponized-episode-42",
         "type": "podcast_episode",
         "name": "WEAPONIZED Episode #42 — The Sol Foundation Conference and Grusch Revelations",
+        "relationshipType": "discussed_topic",
+        "role": "",
+        "context": ""
+      },
+      {
+        "id": "2023-weaponized-episode-43",
+        "type": "podcast_episode",
+        "name": "WEAPONIZED Episode #43 — The Unreleased Philip Corso Tapes",
+        "relationshipType": "discussed_topic",
+        "role": "",
+        "context": ""
+      },
+      {
+        "id": "2023-weaponized-episode-44",
+        "type": "podcast_episode",
+        "name": "WEAPONIZED Episode #44 — The Fight Over the UAP Disclosure Act",
+        "relationshipType": "discussed_topic",
+        "role": "",
+        "context": ""
+      },
+      {
+        "id": "2023-weaponized-episode-45",
+        "type": "podcast_episode",
+        "name": "WEAPONIZED Episode #45 — John Alexander on Crash Retrievals, NIDS, and the Sol Conference",
+        "relationshipType": "discussed_topic",
+        "role": "",
+        "context": ""
+      },
+      {
+        "id": "2024-weaponized-episode-46",
+        "type": "podcast_episode",
+        "name": "WEAPONIZED Episode #46 — Richard Dolan on Disclosure, History, and USO Cases",
+        "relationshipType": "discussed_topic",
+        "role": "",
+        "context": ""
+      },
+      {
+        "id": "2024-weaponized-episode-47",
+        "type": "podcast_episode",
+        "name": "WEAPONIZED Episode #47 — The Jellyfish UAP Investigation",
         "relationshipType": "discussed_topic",
         "role": "",
         "context": ""
@@ -4110,6 +4357,14 @@
         "context": ""
       },
       {
+        "id": "advanced-theoretical-physics-program",
+        "type": "organization",
+        "name": "Advanced Theoretical Physics Program",
+        "relationshipType": "discussed_topic",
+        "role": "",
+        "context": ""
+      },
+      {
         "id": "project-blue-book",
         "type": "organization",
         "name": "Project Blue Book",
@@ -4122,6 +4377,46 @@
         "type": "organization",
         "name": "United States Air Force",
         "relationshipType": "addresses_topic",
+        "role": "",
+        "context": ""
+      },
+      {
+        "id": "john-b-alexander",
+        "type": "person",
+        "name": "John B. Alexander",
+        "relationshipType": "discussed_topic",
+        "role": "",
+        "context": ""
+      },
+      {
+        "id": "richard-dolan",
+        "type": "person",
+        "name": "Richard Dolan",
+        "relationshipType": "discussed_topic",
+        "role": "",
+        "context": ""
+      },
+      {
+        "id": "2023-weaponized-episode-43",
+        "type": "podcast_episode",
+        "name": "WEAPONIZED Episode #43 — The Unreleased Philip Corso Tapes",
+        "relationshipType": "discussed_topic",
+        "role": "",
+        "context": ""
+      },
+      {
+        "id": "2023-weaponized-episode-45",
+        "type": "podcast_episode",
+        "name": "WEAPONIZED Episode #45 — John Alexander on Crash Retrievals, NIDS, and the Sol Conference",
+        "relationshipType": "discussed_topic",
+        "role": "",
+        "context": ""
+      },
+      {
+        "id": "2024-weaponized-episode-46",
+        "type": "podcast_episode",
+        "name": "WEAPONIZED Episode #46 — Richard Dolan on Disclosure, History, and USO Cases",
+        "relationshipType": "discussed_topic",
         "role": "",
         "context": ""
       },
@@ -4473,6 +4768,46 @@
         "context": "WEAPONIZED co-host"
       },
       {
+        "id": "2023-weaponized-episode-43",
+        "type": "podcast_episode",
+        "name": "WEAPONIZED Episode #43 — The Unreleased Philip Corso Tapes",
+        "relationshipType": "features_person",
+        "role": "host",
+        "context": "WEAPONIZED co-host"
+      },
+      {
+        "id": "2023-weaponized-episode-44",
+        "type": "podcast_episode",
+        "name": "WEAPONIZED Episode #44 — The Fight Over the UAP Disclosure Act",
+        "relationshipType": "features_person",
+        "role": "host",
+        "context": "WEAPONIZED co-host"
+      },
+      {
+        "id": "2023-weaponized-episode-45",
+        "type": "podcast_episode",
+        "name": "WEAPONIZED Episode #45 — John Alexander on Crash Retrievals, NIDS, and the Sol Conference",
+        "relationshipType": "features_person",
+        "role": "host",
+        "context": "WEAPONIZED co-host"
+      },
+      {
+        "id": "2024-weaponized-episode-46",
+        "type": "podcast_episode",
+        "name": "WEAPONIZED Episode #46 — Richard Dolan on Disclosure, History, and USO Cases",
+        "relationshipType": "features_person",
+        "role": "host",
+        "context": "WEAPONIZED co-host"
+      },
+      {
+        "id": "2024-weaponized-episode-47",
+        "type": "podcast_episode",
+        "name": "WEAPONIZED Episode #47 — The Jellyfish UAP Investigation",
+        "relationshipType": "features_person",
+        "role": "host",
+        "context": "WEAPONIZED co-host"
+      },
+      {
         "id": "weaponized-matthew-brown-part-1",
         "type": "podcast_episode",
         "name": "WEAPONIZED Episode #74 — Matthew Brown Part 1: Immaculate Constellation",
@@ -4543,6 +4878,24 @@
       }
     ],
     "joe-spielberger": [],
+    "john-b-alexander": [
+      {
+        "id": "advanced-theoretical-physics-program",
+        "type": "organization",
+        "name": "Advanced Theoretical Physics Program",
+        "relationshipType": "affiliated_with",
+        "role": "program lead",
+        "context": ""
+      },
+      {
+        "id": "2023-weaponized-episode-45",
+        "type": "podcast_episode",
+        "name": "WEAPONIZED Episode #45 — John Alexander on Crash Retrievals, NIDS, and the Sol Conference",
+        "relationshipType": "features_person",
+        "role": "guest",
+        "context": "Primary interview guest"
+      }
+    ],
     "john-burroughs": [],
     "jon-kosloski": [],
     "jonathan-weygandt": [
@@ -4636,6 +4989,24 @@
         "relationshipType": "published_by",
         "role": "",
         "context": ""
+      }
+    ],
+    "liberation-times": [
+      {
+        "id": "chris-sharp",
+        "type": "person",
+        "name": "Chris Sharp",
+        "relationshipType": "affiliated_with",
+        "role": "editor and publisher",
+        "context": ""
+      },
+      {
+        "id": "2023-weaponized-episode-44",
+        "type": "podcast_episode",
+        "name": "WEAPONIZED Episode #44 — The Fight Over the UAP Disclosure Act",
+        "relationshipType": "references_organization",
+        "role": "",
+        "context": "Chris Sharp’s publication and reporting are highlighted"
       }
     ],
     "los-alamos-monitor": [
@@ -5085,6 +5456,30 @@
     ],
     "national-institute-for-discovery-science": [
       {
+        "id": "john-b-alexander",
+        "type": "person",
+        "name": "John B. Alexander",
+        "relationshipType": "affiliated_with",
+        "role": "",
+        "context": ""
+      },
+      {
+        "id": "2023-weaponized-episode-43",
+        "type": "podcast_episode",
+        "name": "WEAPONIZED Episode #43 — The Unreleased Philip Corso Tapes",
+        "relationshipType": "references_organization",
+        "role": "",
+        "context": "NIDS personnel recorded two lengthy interviews with Corso"
+      },
+      {
+        "id": "2023-weaponized-episode-45",
+        "type": "podcast_episode",
+        "name": "WEAPONIZED Episode #45 — John Alexander on Crash Retrievals, NIDS, and the Sol Conference",
+        "relationshipType": "references_organization",
+        "role": "",
+        "context": "Alexander’s work with NIDS is discussed"
+      },
+      {
         "id": "timeline-1995-nids-science-advisory-board",
         "type": "timeline_event",
         "name": "NIDS Forms a Scientific Advisory Board for Anomalous-Phenomena Research",
@@ -5164,6 +5559,22 @@
         "relationshipType": "references_person",
         "role": "",
         "context": ""
+      },
+      {
+        "id": "2023-weaponized-episode-43",
+        "type": "podcast_episode",
+        "name": "WEAPONIZED Episode #43 — The Unreleased Philip Corso Tapes",
+        "relationshipType": "features_person",
+        "role": "subject",
+        "context": "Central subject of the episode and archival interviews"
+      },
+      {
+        "id": "2023-weaponized-episode-45",
+        "type": "podcast_episode",
+        "name": "WEAPONIZED Episode #45 — John Alexander on Crash Retrievals, NIDS, and the Sol Conference",
+        "relationshipType": "features_person",
+        "role": "subject",
+        "context": "Alexander assesses Corso’s account"
       }
     ],
     "project-blue-book": [
@@ -5259,6 +5670,16 @@
         "context": ""
       }
     ],
+    "richard-dolan": [
+      {
+        "id": "2024-weaponized-episode-46",
+        "type": "podcast_episode",
+        "name": "WEAPONIZED Episode #46 — Richard Dolan on Disclosure, History, and USO Cases",
+        "relationshipType": "features_person",
+        "role": "guest",
+        "context": "Primary interview guest"
+      }
+    ],
     "robert-jacobs": [],
     "robert-l-hall": [],
     "robert-salas": [],
@@ -5297,6 +5718,14 @@
         "relationshipType": "reported_case",
         "role": "",
         "context": ""
+      },
+      {
+        "id": "2023-weaponized-episode-43",
+        "type": "podcast_episode",
+        "name": "WEAPONIZED Episode #43 — The Unreleased Philip Corso Tapes",
+        "relationshipType": "discussed_case",
+        "role": "",
+        "context": "Corso connected his technology-transfer account to the Roswell incident"
       }
     ],
     "ryan-graves": [
@@ -5586,6 +6015,14 @@
         "context": ""
       },
       {
+        "id": "2024-weaponized-episode-46",
+        "type": "podcast_episode",
+        "name": "WEAPONIZED Episode #46 — Richard Dolan on Disclosure, History, and USO Cases",
+        "relationshipType": "discussed_topic",
+        "role": "",
+        "context": ""
+      },
+      {
         "id": "engaging-the-phenomenon-podcast",
         "type": "podcast_series",
         "name": "Engaging the Phenomenon",
@@ -5803,6 +6240,14 @@
         "relationshipType": "reported_case",
         "role": "",
         "context": ""
+      },
+      {
+        "id": "2023-weaponized-episode-45",
+        "type": "podcast_episode",
+        "name": "WEAPONIZED Episode #45 — John Alexander on Crash Retrievals, NIDS, and the Sol Conference",
+        "relationshipType": "discussed_case",
+        "role": "",
+        "context": "Alexander’s connection to Robert Bigelow and Skinwalker Ranch is discussed"
       }
     ],
     "sol-foundation": [
@@ -5821,6 +6266,14 @@
         "relationshipType": "references_organization",
         "role": "",
         "context": "Discussion of the organization’s inaugural research and policy symposium"
+      },
+      {
+        "id": "2023-weaponized-episode-45",
+        "type": "podcast_episode",
+        "name": "WEAPONIZED Episode #45 — John Alexander on Crash Retrievals, NIDS, and the Sol Conference",
+        "relationshipType": "references_organization",
+        "role": "",
+        "context": "Alexander discusses impressions from the recent Sol conference"
       },
       {
         "id": "timeline-2023-11-17-sol-inaugural-symposium",
@@ -5999,6 +6452,14 @@
         "relationshipType": "timeline_connection",
         "role": "investigator",
         "context": "Co-published the Jellyfish UAP reporting"
+      },
+      {
+        "id": "2024-weaponized-episode-47",
+        "type": "podcast_episode",
+        "name": "WEAPONIZED Episode #47 — The Jellyfish UAP Investigation",
+        "relationshipType": "timeline_connection",
+        "role": "",
+        "context": "Follow-up reporting after public release of the footage"
       }
     ],
     "timeline-2024-05-21-karl-nell-salt-uap-presentation": [],
@@ -6048,6 +6509,14 @@
         "relationshipType": "references_publication",
         "role": "",
         "context": "Discussion of the proposed disclosure legislation"
+      },
+      {
+        "id": "2023-weaponized-episode-44",
+        "type": "podcast_episode",
+        "name": "WEAPONIZED Episode #44 — The Fight Over the UAP Disclosure Act",
+        "relationshipType": "references_publication",
+        "role": "",
+        "context": "Discussion of the proposed disclosure legislation and changes made in Congress"
       }
     ],
     "uap-disclosure-legislation": [
@@ -6079,6 +6548,14 @@
         "id": "2024-11-13-house-oversight-uap",
         "type": "hearing",
         "name": "November 13, 2024 House UAP Hearing",
+        "relationshipType": "discussed_topic",
+        "role": "",
+        "context": ""
+      },
+      {
+        "id": "2023-weaponized-episode-44",
+        "type": "podcast_episode",
+        "name": "WEAPONIZED Episode #44 — The Fight Over the UAP Disclosure Act",
         "relationshipType": "discussed_topic",
         "role": "",
         "context": ""
@@ -6208,9 +6685,33 @@
     ],
     "uap-research": [
       {
+        "id": "2017-iraq-jellyfish-uap",
+        "type": "case",
+        "name": "2017 Iraq Jellyfish UAP Incident",
+        "relationshipType": "associated_topic",
+        "role": "",
+        "context": ""
+      },
+      {
+        "id": "2024-weaponized-episode-47",
+        "type": "podcast_episode",
+        "name": "WEAPONIZED Episode #47 — The Jellyfish UAP Investigation",
+        "relationshipType": "discussed_topic",
+        "role": "",
+        "context": ""
+      },
+      {
         "id": "aviation-safety",
         "type": "topic",
         "name": "Aviation Safety",
+        "relationshipType": "broader_topic",
+        "role": "",
+        "context": ""
+      },
+      {
+        "id": "unidentified-submerged-objects",
+        "type": "topic",
+        "name": "Unidentified Submerged Objects",
         "relationshipType": "broader_topic",
         "role": "",
         "context": ""
@@ -6282,6 +6783,24 @@
         "relationshipType": "timeline_connection",
         "role": "related_organization",
         "context": "Government UAP office supported during Nell’s Army assignment"
+      }
+    ],
+    "unidentified-submerged-objects": [
+      {
+        "id": "richard-dolan",
+        "type": "person",
+        "name": "Richard Dolan",
+        "relationshipType": "discussed_topic",
+        "role": "",
+        "context": ""
+      },
+      {
+        "id": "2024-weaponized-episode-46",
+        "type": "podcast_episode",
+        "name": "WEAPONIZED Episode #46 — Richard Dolan on Disclosure, History, and USO Cases",
+        "relationshipType": "discussed_topic",
+        "role": "",
+        "context": ""
       }
     ],
     "united-states-air-force": [
@@ -6800,6 +7319,46 @@
         "context": ""
       },
       {
+        "id": "2023-weaponized-episode-43",
+        "type": "podcast_episode",
+        "name": "WEAPONIZED Episode #43 — The Unreleased Philip Corso Tapes",
+        "relationshipType": "episode_of",
+        "role": "",
+        "context": ""
+      },
+      {
+        "id": "2023-weaponized-episode-44",
+        "type": "podcast_episode",
+        "name": "WEAPONIZED Episode #44 — The Fight Over the UAP Disclosure Act",
+        "relationshipType": "episode_of",
+        "role": "",
+        "context": ""
+      },
+      {
+        "id": "2023-weaponized-episode-45",
+        "type": "podcast_episode",
+        "name": "WEAPONIZED Episode #45 — John Alexander on Crash Retrievals, NIDS, and the Sol Conference",
+        "relationshipType": "episode_of",
+        "role": "",
+        "context": ""
+      },
+      {
+        "id": "2024-weaponized-episode-46",
+        "type": "podcast_episode",
+        "name": "WEAPONIZED Episode #46 — Richard Dolan on Disclosure, History, and USO Cases",
+        "relationshipType": "episode_of",
+        "role": "",
+        "context": ""
+      },
+      {
+        "id": "2024-weaponized-episode-47",
+        "type": "podcast_episode",
+        "name": "WEAPONIZED Episode #47 — The Jellyfish UAP Investigation",
+        "relationshipType": "episode_of",
+        "role": "",
+        "context": ""
+      },
+      {
         "id": "weaponized-matthew-brown-part-1",
         "type": "podcast_episode",
         "name": "WEAPONIZED Episode #74 — Matthew Brown Part 1: Immaculate Constellation",
@@ -7043,6 +7602,20 @@
         "score": 45
       },
       {
+        "id": "2024-weaponized-episode-46",
+        "name": "WEAPONIZED Episode #46 — Richard Dolan on Disclosure, History, and USO Cases",
+        "seriesId": "weaponized-podcast",
+        "date": "2024-01-08",
+        "sharedEntityIds": [
+          "david-grusch",
+          "george-knapp",
+          "government-transparency",
+          "jeremy-corbell"
+        ],
+        "sharedEntityCount": 4,
+        "score": 45
+      },
+      {
         "id": "2023-weaponized-episode-42",
         "name": "WEAPONIZED Episode #42 — The Sol Foundation Conference and Grusch Revelations",
         "seriesId": "weaponized-podcast",
@@ -7055,19 +7628,6 @@
         ],
         "sharedEntityCount": 4,
         "score": 45
-      },
-      {
-        "id": "2026-weaponized-episode-115",
-        "name": "WEAPONIZED Episode #115 — A New Chapter in the Bob Lazar Saga",
-        "seriesId": "weaponized-podcast",
-        "date": "2026-04-14",
-        "sharedEntityIds": [
-          "george-knapp",
-          "government-transparency",
-          "jeremy-corbell"
-        ],
-        "sharedEntityCount": 3,
-        "score": 35
       }
     ],
     "2023-weaponized-episode-28": [
@@ -7132,10 +7692,10 @@
         "score": 45
       },
       {
-        "id": "2023-weaponized-episode-42",
-        "name": "WEAPONIZED Episode #42 — The Sol Foundation Conference and Grusch Revelations",
+        "id": "2024-weaponized-episode-46",
+        "name": "WEAPONIZED Episode #46 — Richard Dolan on Disclosure, History, and USO Cases",
         "seriesId": "weaponized-podcast",
-        "date": "2023-11-27",
+        "date": "2024-01-08",
         "sharedEntityIds": [
           "david-grusch",
           "george-knapp",
@@ -7146,20 +7706,51 @@
         "score": 45
       },
       {
-        "id": "2026-weaponized-episode-115",
-        "name": "WEAPONIZED Episode #115 — A New Chapter in the Bob Lazar Saga",
+        "id": "2023-weaponized-episode-44",
+        "name": "WEAPONIZED Episode #44 — The Fight Over the UAP Disclosure Act",
         "seriesId": "weaponized-podcast",
-        "date": "2026-04-14",
+        "date": "2023-12-11",
         "sharedEntityIds": [
+          "congressional-oversight",
           "george-knapp",
           "government-transparency",
           "jeremy-corbell"
         ],
-        "sharedEntityCount": 3,
-        "score": 35
+        "sharedEntityCount": 4,
+        "score": 45
       }
     ],
     "2023-weaponized-episode-42": [
+      {
+        "id": "2024-weaponized-episode-46",
+        "name": "WEAPONIZED Episode #46 — Richard Dolan on Disclosure, History, and USO Cases",
+        "seriesId": "weaponized-podcast",
+        "date": "2024-01-08",
+        "sharedEntityIds": [
+          "david-grusch",
+          "george-knapp",
+          "government-transparency",
+          "jeremy-corbell",
+          "scientific-investigation"
+        ],
+        "sharedEntityCount": 5,
+        "score": 55
+      },
+      {
+        "id": "2023-weaponized-episode-44",
+        "name": "WEAPONIZED Episode #44 — The Fight Over the UAP Disclosure Act",
+        "seriesId": "weaponized-podcast",
+        "date": "2023-12-11",
+        "sharedEntityIds": [
+          "2023-07-13-uap-disclosure-act-consideration",
+          "george-knapp",
+          "government-transparency",
+          "jeremy-corbell",
+          "uap-disclosure-act-2023"
+        ],
+        "sharedEntityCount": 5,
+        "score": 55
+      },
       {
         "id": "2026-weaponized-episode-115",
         "name": "WEAPONIZED Episode #115 — A New Chapter in the Bob Lazar Saga",
@@ -7170,6 +7761,20 @@
           "government-transparency",
           "jeremy-corbell",
           "scientific-investigation"
+        ],
+        "sharedEntityCount": 4,
+        "score": 45
+      },
+      {
+        "id": "2023-weaponized-episode-45",
+        "name": "WEAPONIZED Episode #45 — John Alexander on Crash Retrievals, NIDS, and the Sol Conference",
+        "seriesId": "weaponized-podcast",
+        "date": "2023-12-18",
+        "sharedEntityIds": [
+          "george-knapp",
+          "government-transparency",
+          "jeremy-corbell",
+          "sol-foundation"
         ],
         "sharedEntityCount": 4,
         "score": 45
@@ -7201,6 +7806,51 @@
         ],
         "sharedEntityCount": 4,
         "score": 45
+      }
+    ],
+    "2023-weaponized-episode-43": [
+      {
+        "id": "2023-weaponized-episode-45",
+        "name": "WEAPONIZED Episode #45 — John Alexander on Crash Retrievals, NIDS, and the Sol Conference",
+        "seriesId": "weaponized-podcast",
+        "date": "2023-12-18",
+        "sharedEntityIds": [
+          "george-knapp",
+          "government-transparency",
+          "historical-ufo-research",
+          "jeremy-corbell",
+          "national-institute-for-discovery-science",
+          "philip-j-corso"
+        ],
+        "sharedEntityCount": 6,
+        "score": 65
+      },
+      {
+        "id": "2024-weaponized-episode-46",
+        "name": "WEAPONIZED Episode #46 — Richard Dolan on Disclosure, History, and USO Cases",
+        "seriesId": "weaponized-podcast",
+        "date": "2024-01-08",
+        "sharedEntityIds": [
+          "george-knapp",
+          "government-transparency",
+          "historical-ufo-research",
+          "jeremy-corbell"
+        ],
+        "sharedEntityCount": 4,
+        "score": 45
+      },
+      {
+        "id": "2026-weaponized-episode-115",
+        "name": "WEAPONIZED Episode #115 — A New Chapter in the Bob Lazar Saga",
+        "seriesId": "weaponized-podcast",
+        "date": "2026-04-14",
+        "sharedEntityIds": [
+          "george-knapp",
+          "government-transparency",
+          "jeremy-corbell"
+        ],
+        "sharedEntityCount": 3,
+        "score": 35
       },
       {
         "id": "weaponized-matthew-brown-part-3",
@@ -7233,6 +7883,345 @@
         "name": "WEAPONIZED Episode #74 — Matthew Brown Part 1: Immaculate Constellation",
         "seriesId": "weaponized-podcast",
         "date": "2025-04-29",
+        "sharedEntityIds": [
+          "george-knapp",
+          "government-transparency",
+          "jeremy-corbell"
+        ],
+        "sharedEntityCount": 3,
+        "score": 35
+      }
+    ],
+    "2023-weaponized-episode-44": [
+      {
+        "id": "2023-weaponized-episode-42",
+        "name": "WEAPONIZED Episode #42 — The Sol Foundation Conference and Grusch Revelations",
+        "seriesId": "weaponized-podcast",
+        "date": "2023-11-27",
+        "sharedEntityIds": [
+          "2023-07-13-uap-disclosure-act-consideration",
+          "george-knapp",
+          "government-transparency",
+          "jeremy-corbell",
+          "uap-disclosure-act-2023"
+        ],
+        "sharedEntityCount": 5,
+        "score": 55
+      },
+      {
+        "id": "weaponized-matthew-brown-part-3",
+        "name": "WEAPONIZED Episode #76 — Matthew Brown Part 3: Immaculate Constellation",
+        "seriesId": "weaponized-podcast",
+        "date": "2025-05-13",
+        "sharedEntityIds": [
+          "congressional-oversight",
+          "george-knapp",
+          "government-transparency",
+          "jeremy-corbell"
+        ],
+        "sharedEntityCount": 4,
+        "score": 45
+      },
+      {
+        "id": "weaponized-matthew-brown-part-2",
+        "name": "WEAPONIZED Episode #75 — Matthew Brown Part 2: Immaculate Constellation",
+        "seriesId": "weaponized-podcast",
+        "date": "2025-05-06",
+        "sharedEntityIds": [
+          "congressional-oversight",
+          "george-knapp",
+          "government-transparency",
+          "jeremy-corbell"
+        ],
+        "sharedEntityCount": 4,
+        "score": 45
+      },
+      {
+        "id": "weaponized-matthew-brown-part-1",
+        "name": "WEAPONIZED Episode #74 — Matthew Brown Part 1: Immaculate Constellation",
+        "seriesId": "weaponized-podcast",
+        "date": "2025-04-29",
+        "sharedEntityIds": [
+          "congressional-oversight",
+          "george-knapp",
+          "government-transparency",
+          "jeremy-corbell"
+        ],
+        "sharedEntityCount": 4,
+        "score": 45
+      },
+      {
+        "id": "2023-weaponized-episode-28",
+        "name": "WEAPONIZED Episode #28 — Congressional Hearing Roundtable",
+        "seriesId": "weaponized-podcast",
+        "date": "2023-07-31",
+        "sharedEntityIds": [
+          "congressional-oversight",
+          "george-knapp",
+          "government-transparency",
+          "jeremy-corbell"
+        ],
+        "sharedEntityCount": 4,
+        "score": 45
+      },
+      {
+        "id": "2026-weaponized-episode-115",
+        "name": "WEAPONIZED Episode #115 — A New Chapter in the Bob Lazar Saga",
+        "seriesId": "weaponized-podcast",
+        "date": "2026-04-14",
+        "sharedEntityIds": [
+          "george-knapp",
+          "government-transparency",
+          "jeremy-corbell"
+        ],
+        "sharedEntityCount": 3,
+        "score": 35
+      }
+    ],
+    "2023-weaponized-episode-45": [
+      {
+        "id": "2023-weaponized-episode-43",
+        "name": "WEAPONIZED Episode #43 — The Unreleased Philip Corso Tapes",
+        "seriesId": "weaponized-podcast",
+        "date": "2023-12-04",
+        "sharedEntityIds": [
+          "george-knapp",
+          "government-transparency",
+          "historical-ufo-research",
+          "jeremy-corbell",
+          "national-institute-for-discovery-science",
+          "philip-j-corso"
+        ],
+        "sharedEntityCount": 6,
+        "score": 65
+      },
+      {
+        "id": "2024-weaponized-episode-46",
+        "name": "WEAPONIZED Episode #46 — Richard Dolan on Disclosure, History, and USO Cases",
+        "seriesId": "weaponized-podcast",
+        "date": "2024-01-08",
+        "sharedEntityIds": [
+          "george-knapp",
+          "government-transparency",
+          "historical-ufo-research",
+          "jeremy-corbell"
+        ],
+        "sharedEntityCount": 4,
+        "score": 45
+      },
+      {
+        "id": "2023-weaponized-episode-42",
+        "name": "WEAPONIZED Episode #42 — The Sol Foundation Conference and Grusch Revelations",
+        "seriesId": "weaponized-podcast",
+        "date": "2023-11-27",
+        "sharedEntityIds": [
+          "george-knapp",
+          "government-transparency",
+          "jeremy-corbell",
+          "sol-foundation"
+        ],
+        "sharedEntityCount": 4,
+        "score": 45
+      },
+      {
+        "id": "2026-weaponized-episode-115",
+        "name": "WEAPONIZED Episode #115 — A New Chapter in the Bob Lazar Saga",
+        "seriesId": "weaponized-podcast",
+        "date": "2026-04-14",
+        "sharedEntityIds": [
+          "george-knapp",
+          "government-transparency",
+          "jeremy-corbell"
+        ],
+        "sharedEntityCount": 3,
+        "score": 35
+      },
+      {
+        "id": "weaponized-matthew-brown-part-3",
+        "name": "WEAPONIZED Episode #76 — Matthew Brown Part 3: Immaculate Constellation",
+        "seriesId": "weaponized-podcast",
+        "date": "2025-05-13",
+        "sharedEntityIds": [
+          "george-knapp",
+          "government-transparency",
+          "jeremy-corbell"
+        ],
+        "sharedEntityCount": 3,
+        "score": 35
+      },
+      {
+        "id": "weaponized-matthew-brown-part-2",
+        "name": "WEAPONIZED Episode #75 — Matthew Brown Part 2: Immaculate Constellation",
+        "seriesId": "weaponized-podcast",
+        "date": "2025-05-06",
+        "sharedEntityIds": [
+          "george-knapp",
+          "government-transparency",
+          "jeremy-corbell"
+        ],
+        "sharedEntityCount": 3,
+        "score": 35
+      }
+    ],
+    "2024-weaponized-episode-46": [
+      {
+        "id": "2023-weaponized-episode-42",
+        "name": "WEAPONIZED Episode #42 — The Sol Foundation Conference and Grusch Revelations",
+        "seriesId": "weaponized-podcast",
+        "date": "2023-11-27",
+        "sharedEntityIds": [
+          "david-grusch",
+          "george-knapp",
+          "government-transparency",
+          "jeremy-corbell",
+          "scientific-investigation"
+        ],
+        "sharedEntityCount": 5,
+        "score": 55
+      },
+      {
+        "id": "2026-weaponized-episode-115",
+        "name": "WEAPONIZED Episode #115 — A New Chapter in the Bob Lazar Saga",
+        "seriesId": "weaponized-podcast",
+        "date": "2026-04-14",
+        "sharedEntityIds": [
+          "george-knapp",
+          "government-transparency",
+          "jeremy-corbell",
+          "scientific-investigation"
+        ],
+        "sharedEntityCount": 4,
+        "score": 45
+      },
+      {
+        "id": "2024-weaponized-episode-47",
+        "name": "WEAPONIZED Episode #47 — The Jellyfish UAP Investigation",
+        "seriesId": "weaponized-podcast",
+        "date": "2024-01-15",
+        "sharedEntityIds": [
+          "department-of-defense",
+          "george-knapp",
+          "government-transparency",
+          "jeremy-corbell"
+        ],
+        "sharedEntityCount": 4,
+        "score": 45
+      },
+      {
+        "id": "2023-weaponized-episode-45",
+        "name": "WEAPONIZED Episode #45 — John Alexander on Crash Retrievals, NIDS, and the Sol Conference",
+        "seriesId": "weaponized-podcast",
+        "date": "2023-12-18",
+        "sharedEntityIds": [
+          "george-knapp",
+          "government-transparency",
+          "historical-ufo-research",
+          "jeremy-corbell"
+        ],
+        "sharedEntityCount": 4,
+        "score": 45
+      },
+      {
+        "id": "2023-weaponized-episode-43",
+        "name": "WEAPONIZED Episode #43 — The Unreleased Philip Corso Tapes",
+        "seriesId": "weaponized-podcast",
+        "date": "2023-12-04",
+        "sharedEntityIds": [
+          "george-knapp",
+          "government-transparency",
+          "historical-ufo-research",
+          "jeremy-corbell"
+        ],
+        "sharedEntityCount": 4,
+        "score": 45
+      },
+      {
+        "id": "2023-weaponized-episode-28",
+        "name": "WEAPONIZED Episode #28 — Congressional Hearing Roundtable",
+        "seriesId": "weaponized-podcast",
+        "date": "2023-07-31",
+        "sharedEntityIds": [
+          "david-grusch",
+          "george-knapp",
+          "government-transparency",
+          "jeremy-corbell"
+        ],
+        "sharedEntityCount": 4,
+        "score": 45
+      }
+    ],
+    "2024-weaponized-episode-47": [
+      {
+        "id": "2024-weaponized-episode-46",
+        "name": "WEAPONIZED Episode #46 — Richard Dolan on Disclosure, History, and USO Cases",
+        "seriesId": "weaponized-podcast",
+        "date": "2024-01-08",
+        "sharedEntityIds": [
+          "department-of-defense",
+          "george-knapp",
+          "government-transparency",
+          "jeremy-corbell"
+        ],
+        "sharedEntityCount": 4,
+        "score": 45
+      },
+      {
+        "id": "2026-weaponized-episode-115",
+        "name": "WEAPONIZED Episode #115 — A New Chapter in the Bob Lazar Saga",
+        "seriesId": "weaponized-podcast",
+        "date": "2026-04-14",
+        "sharedEntityIds": [
+          "george-knapp",
+          "government-transparency",
+          "jeremy-corbell"
+        ],
+        "sharedEntityCount": 3,
+        "score": 35
+      },
+      {
+        "id": "weaponized-matthew-brown-part-3",
+        "name": "WEAPONIZED Episode #76 — Matthew Brown Part 3: Immaculate Constellation",
+        "seriesId": "weaponized-podcast",
+        "date": "2025-05-13",
+        "sharedEntityIds": [
+          "george-knapp",
+          "government-transparency",
+          "jeremy-corbell"
+        ],
+        "sharedEntityCount": 3,
+        "score": 35
+      },
+      {
+        "id": "weaponized-matthew-brown-part-2",
+        "name": "WEAPONIZED Episode #75 — Matthew Brown Part 2: Immaculate Constellation",
+        "seriesId": "weaponized-podcast",
+        "date": "2025-05-06",
+        "sharedEntityIds": [
+          "george-knapp",
+          "government-transparency",
+          "jeremy-corbell"
+        ],
+        "sharedEntityCount": 3,
+        "score": 35
+      },
+      {
+        "id": "weaponized-matthew-brown-part-1",
+        "name": "WEAPONIZED Episode #74 — Matthew Brown Part 1: Immaculate Constellation",
+        "seriesId": "weaponized-podcast",
+        "date": "2025-04-29",
+        "sharedEntityIds": [
+          "george-knapp",
+          "government-transparency",
+          "jeremy-corbell"
+        ],
+        "sharedEntityCount": 3,
+        "score": 35
+      },
+      {
+        "id": "2023-weaponized-episode-45",
+        "name": "WEAPONIZED Episode #45 — John Alexander on Crash Retrievals, NIDS, and the Sol Conference",
+        "seriesId": "weaponized-podcast",
+        "date": "2023-12-18",
         "sharedEntityIds": [
           "george-knapp",
           "government-transparency",
@@ -7244,6 +8233,20 @@
     ],
     "2026-weaponized-episode-115": [
       {
+        "id": "2024-weaponized-episode-46",
+        "name": "WEAPONIZED Episode #46 — Richard Dolan on Disclosure, History, and USO Cases",
+        "seriesId": "weaponized-podcast",
+        "date": "2024-01-08",
+        "sharedEntityIds": [
+          "george-knapp",
+          "government-transparency",
+          "jeremy-corbell",
+          "scientific-investigation"
+        ],
+        "sharedEntityCount": 4,
+        "score": 45
+      },
+      {
         "id": "2023-weaponized-episode-42",
         "name": "WEAPONIZED Episode #42 — The Sol Foundation Conference and Grusch Revelations",
         "seriesId": "weaponized-podcast",
@@ -7297,23 +8300,10 @@
         "score": 35
       },
       {
-        "id": "2023-weaponized-episode-28",
-        "name": "WEAPONIZED Episode #28 — Congressional Hearing Roundtable",
+        "id": "2024-weaponized-episode-47",
+        "name": "WEAPONIZED Episode #47 — The Jellyfish UAP Investigation",
         "seriesId": "weaponized-podcast",
-        "date": "2023-07-31",
-        "sharedEntityIds": [
-          "george-knapp",
-          "government-transparency",
-          "jeremy-corbell"
-        ],
-        "sharedEntityCount": 3,
-        "score": 35
-      },
-      {
-        "id": "2023-weaponized-episode-21",
-        "name": "WEAPONIZED Episode #21 — The David Grusch Revelations",
-        "seriesId": "weaponized-podcast",
-        "date": "2023-06-12",
+        "date": "2024-01-15",
         "sharedEntityIds": [
           "george-knapp",
           "government-transparency",
@@ -7392,23 +8382,24 @@
         "score": 65
       },
       {
-        "id": "2026-weaponized-episode-115",
-        "name": "WEAPONIZED Episode #115 — A New Chapter in the Bob Lazar Saga",
+        "id": "2023-weaponized-episode-44",
+        "name": "WEAPONIZED Episode #44 — The Fight Over the UAP Disclosure Act",
         "seriesId": "weaponized-podcast",
-        "date": "2026-04-14",
+        "date": "2023-12-11",
         "sharedEntityIds": [
+          "congressional-oversight",
           "george-knapp",
           "government-transparency",
           "jeremy-corbell"
         ],
-        "sharedEntityCount": 3,
-        "score": 35
+        "sharedEntityCount": 4,
+        "score": 45
       },
       {
-        "id": "2023-weaponized-episode-42",
-        "name": "WEAPONIZED Episode #42 — The Sol Foundation Conference and Grusch Revelations",
+        "id": "2026-weaponized-episode-115",
+        "name": "WEAPONIZED Episode #115 — A New Chapter in the Bob Lazar Saga",
         "seriesId": "weaponized-podcast",
-        "date": "2023-11-27",
+        "date": "2026-04-14",
         "sharedEntityIds": [
           "george-knapp",
           "government-transparency",
@@ -7454,6 +8445,20 @@
         "score": 75
       },
       {
+        "id": "2023-weaponized-episode-44",
+        "name": "WEAPONIZED Episode #44 — The Fight Over the UAP Disclosure Act",
+        "seriesId": "weaponized-podcast",
+        "date": "2023-12-11",
+        "sharedEntityIds": [
+          "congressional-oversight",
+          "george-knapp",
+          "government-transparency",
+          "jeremy-corbell"
+        ],
+        "sharedEntityCount": 4,
+        "score": 45
+      },
+      {
         "id": "2023-weaponized-episode-28",
         "name": "WEAPONIZED Episode #28 — Congressional Hearing Roundtable",
         "seriesId": "weaponized-podcast",
@@ -7486,19 +8491,6 @@
         "name": "WEAPONIZED Episode #115 — A New Chapter in the Bob Lazar Saga",
         "seriesId": "weaponized-podcast",
         "date": "2026-04-14",
-        "sharedEntityIds": [
-          "george-knapp",
-          "government-transparency",
-          "jeremy-corbell"
-        ],
-        "sharedEntityCount": 3,
-        "score": 35
-      },
-      {
-        "id": "2023-weaponized-episode-42",
-        "name": "WEAPONIZED Episode #42 — The Sol Foundation Conference and Grusch Revelations",
-        "seriesId": "weaponized-podcast",
-        "date": "2023-11-27",
         "sharedEntityIds": [
           "george-knapp",
           "government-transparency",
@@ -7544,6 +8536,20 @@
         "score": 75
       },
       {
+        "id": "2023-weaponized-episode-44",
+        "name": "WEAPONIZED Episode #44 — The Fight Over the UAP Disclosure Act",
+        "seriesId": "weaponized-podcast",
+        "date": "2023-12-11",
+        "sharedEntityIds": [
+          "congressional-oversight",
+          "george-knapp",
+          "government-transparency",
+          "jeremy-corbell"
+        ],
+        "sharedEntityCount": 4,
+        "score": 45
+      },
+      {
         "id": "2023-weaponized-episode-28",
         "name": "WEAPONIZED Episode #28 — Congressional Hearing Roundtable",
         "seriesId": "weaponized-podcast",
@@ -7576,19 +8582,6 @@
         "name": "WEAPONIZED Episode #115 — A New Chapter in the Bob Lazar Saga",
         "seriesId": "weaponized-podcast",
         "date": "2026-04-14",
-        "sharedEntityIds": [
-          "george-knapp",
-          "government-transparency",
-          "jeremy-corbell"
-        ],
-        "sharedEntityCount": 3,
-        "score": 35
-      },
-      {
-        "id": "2023-weaponized-episode-42",
-        "name": "WEAPONIZED Episode #42 — The Sol Foundation Conference and Grusch Revelations",
-        "seriesId": "weaponized-podcast",
-        "date": "2023-11-27",
         "sharedEntityIds": [
           "george-knapp",
           "government-transparency",

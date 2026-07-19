@@ -1,0 +1,29 @@
+{
+  "startedAt": "2026-07-19T04:01:14.140466+00:00",
+  "source": "/mnt/data/v18_1_batch",
+  "dryRun": true,
+  "replace": false,
+  "files": [
+    "2017-iraq-jellyfish-uap.json",
+    "2023-weaponized-episode-43.json",
+    "2023-weaponized-episode-44.json",
+    "2023-weaponized-episode-45.json",
+    "2024-weaponized-episode-46.json",
+    "2024-weaponized-episode-47.json",
+    "advanced-theoretical-physics-program.json",
+    "chris-sharp.json",
+    "john-b-alexander.json",
+    "liberation-times.json",
+    "richard-dolan.json",
+    "unidentified-submerged-objects.json"
+  ],
+  "status": "validation_failed",
+  "steps": [
+    {
+      "name": "validate_records",
+      "returnCode": 1,
+      "output": "Validated 12 import record(s): 2 error(s), 0 warning(s).\nERROR: 2017-iraq-jellyfish-uap: date must use YYYY-MM-DD\nERROR: unidentified-submerged-objects: missing required field sources\n"
+    }
+  ],
+  "finishedAt": "2026-07-19T04:01:16.808529+00:00"
+}

@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "entityCount": 274,
-  "relationshipCount": 815,
+  "entityCount": 286,
+  "relationshipCount": 882,
   "unresolvedRelationshipCount": 15,
   "connectionCounts": {
     "1960s-area-51-engine-claim": {
@@ -69,6 +69,11 @@
       "outgoing": 4,
       "total": 6
     },
+    "2017-iraq-jellyfish-uap": {
+      "incoming": 1,
+      "outgoing": 3,
+      "total": 4
+    },
     "2018-bob-lazar-area-51-flying-saucers": {
       "incoming": 2,
       "outgoing": 4,
@@ -115,9 +120,9 @@
       "total": 5
     },
     "2023-07-13-uap-disclosure-act-consideration": {
-      "incoming": 1,
+      "incoming": 2,
       "outgoing": 6,
-      "total": 7
+      "total": 8
     },
     "2023-07-26-house-oversight-uap": {
       "incoming": 8,
@@ -169,6 +174,21 @@
       "outgoing": 12,
       "total": 13
     },
+    "2023-weaponized-episode-43": {
+      "incoming": 0,
+      "outgoing": 9,
+      "total": 9
+    },
+    "2023-weaponized-episode-44": {
+      "incoming": 1,
+      "outgoing": 10,
+      "total": 11
+    },
+    "2023-weaponized-episode-45": {
+      "incoming": 1,
+      "outgoing": 11,
+      "total": 12
+    },
     "2024-01-12-house-uap-scif-briefing": {
       "incoming": 4,
       "outgoing": 5,
@@ -207,6 +227,16 @@
     "2024-elizondo-written-testimony": {
       "incoming": 3,
       "outgoing": 6,
+      "total": 9
+    },
+    "2024-weaponized-episode-46": {
+      "incoming": 1,
+      "outgoing": 10,
+      "total": 11
+    },
+    "2024-weaponized-episode-47": {
+      "incoming": 1,
+      "outgoing": 8,
       "total": 9
     },
     "2025-09-09-house-uap-transparency-hearing": {
@@ -263,6 +293,11 @@
       "incoming": 4,
       "outgoing": 3,
       "total": 7
+    },
+    "advanced-theoretical-physics-program": {
+      "incoming": 2,
+      "outgoing": 2,
+      "total": 4
     },
     "alex-dietrich": {
       "incoming": 0,
@@ -348,6 +383,11 @@
       "incoming": 0,
       "outgoing": 3,
       "total": 3
+    },
+    "chris-sharp": {
+      "incoming": 2,
+      "outgoing": 3,
+      "total": 5
     },
     "christopher-kit-green": {
       "incoming": 0,
@@ -440,9 +480,9 @@
       "total": 7
     },
     "claim-roswell-technology-transfer": {
-      "incoming": 2,
+      "incoming": 3,
       "outgoing": 4,
-      "total": 6
+      "total": 7
     },
     "claim-s4-documentary-reconstruction": {
       "incoming": 4,
@@ -495,9 +535,9 @@
       "total": 3
     },
     "congressional-oversight": {
-      "incoming": 14,
+      "incoming": 15,
       "outgoing": 0,
-      "total": 14
+      "total": 15
     },
     "daniel-sheehan": {
       "incoming": 0,
@@ -525,9 +565,9 @@
       "total": 2
     },
     "david-grusch": {
-      "incoming": 7,
+      "incoming": 8,
       "outgoing": 6,
-      "total": 13
+      "total": 14
     },
     "david-schindele": {
       "incoming": 0,
@@ -545,9 +585,9 @@
       "total": 4
     },
     "department-of-defense": {
-      "incoming": 30,
+      "incoming": 33,
       "outgoing": 3,
-      "total": 33
+      "total": 36
     },
     "disclosure-project": {
       "incoming": 1,
@@ -650,14 +690,14 @@
       "total": 3
     },
     "george-knapp": {
-      "incoming": 12,
+      "incoming": 17,
       "outgoing": 7,
-      "total": 19
+      "total": 24
     },
     "government-transparency": {
-      "incoming": 65,
+      "incoming": 73,
       "outgoing": 0,
-      "total": 65
+      "total": 73
     },
     "hal-puthoff": {
       "incoming": 3,
@@ -680,9 +720,9 @@
       "total": 1
     },
     "historical-ufo-research": {
-      "incoming": 6,
+      "incoming": 12,
       "outgoing": 0,
-      "total": 6
+      "total": 12
     },
     "house-armed-services-committee": {
       "incoming": 3,
@@ -765,9 +805,9 @@
       "total": 1
     },
     "jeremy-corbell": {
-      "incoming": 12,
+      "incoming": 17,
       "outgoing": 5,
-      "total": 17
+      "total": 22
     },
     "jim-penniston": {
       "incoming": 0,
@@ -793,6 +833,11 @@
       "incoming": 0,
       "outgoing": 1,
       "total": 1
+    },
+    "john-b-alexander": {
+      "incoming": 2,
+      "outgoing": 4,
+      "total": 6
     },
     "john-burroughs": {
       "incoming": 0,
@@ -848,6 +893,11 @@
       "incoming": 1,
       "outgoing": 0,
       "total": 1
+    },
+    "liberation-times": {
+      "incoming": 2,
+      "outgoing": 2,
+      "total": 4
     },
     "los-alamos-monitor": {
       "incoming": 1,
@@ -930,9 +980,9 @@
       "total": 2
     },
     "national-institute-for-discovery-science": {
-      "incoming": 1,
+      "incoming": 4,
       "outgoing": 0,
-      "total": 1
+      "total": 4
     },
     "need-to-know-podcast": {
       "incoming": 2,
@@ -955,9 +1005,9 @@
       "total": 2
     },
     "philip-j-corso": {
-      "incoming": 2,
+      "incoming": 4,
       "outgoing": 4,
-      "total": 6
+      "total": 8
     },
     "project-blue-book": {
       "incoming": 1,
@@ -999,6 +1049,11 @@
       "outgoing": 0,
       "total": 3
     },
+    "richard-dolan": {
+      "incoming": 1,
+      "outgoing": 4,
+      "total": 5
+    },
     "robert-jacobs": {
       "incoming": 0,
       "outgoing": 2,
@@ -1025,9 +1080,9 @@
       "total": 4
     },
     "roswell-incident": {
-      "incoming": 3,
+      "incoming": 4,
       "outgoing": 0,
-      "total": 3
+      "total": 4
     },
     "ryan-graves": {
       "incoming": 6,
@@ -1045,9 +1100,9 @@
       "total": 14
     },
     "scientific-investigation": {
-      "incoming": 30,
+      "incoming": 31,
       "outgoing": 0,
-      "total": 30
+      "total": 31
     },
     "scott-bray": {
       "incoming": 0,
@@ -1080,14 +1135,14 @@
       "total": 2
     },
     "skinwalker-ranch": {
-      "incoming": 1,
+      "incoming": 2,
       "outgoing": 0,
-      "total": 1
+      "total": 2
     },
     "sol-foundation": {
-      "incoming": 4,
+      "incoming": 5,
       "outgoing": 2,
-      "total": 6
+      "total": 7
     },
     "somewhere-in-the-skies-podcast": {
       "incoming": 0,
@@ -1250,9 +1305,9 @@
       "total": 8
     },
     "timeline-2024-01-08-jellyfish-uap-reporting": {
-      "incoming": 2,
+      "incoming": 3,
       "outgoing": 4,
-      "total": 6
+      "total": 7
     },
     "timeline-2024-05-21-karl-nell-salt-uap-presentation": {
       "incoming": 0,
@@ -1285,14 +1340,14 @@
       "total": 2
     },
     "uap-disclosure-act-2023": {
-      "incoming": 1,
+      "incoming": 2,
       "outgoing": 3,
-      "total": 4
+      "total": 5
     },
     "uap-disclosure-legislation": {
-      "incoming": 6,
+      "incoming": 7,
       "outgoing": 0,
-      "total": 6
+      "total": 7
     },
     "uap-reporting-systems": {
       "incoming": 13,
@@ -1300,9 +1355,9 @@
       "total": 13
     },
     "uap-research": {
-      "incoming": 1,
+      "incoming": 4,
       "outgoing": 0,
-      "total": 1
+      "total": 4
     },
     "uap-science-advisory-council": {
       "incoming": 2,
@@ -1313,6 +1368,11 @@
       "incoming": 6,
       "outgoing": 0,
       "total": 6
+    },
+    "unidentified-submerged-objects": {
+      "incoming": 2,
+      "outgoing": 1,
+      "total": 3
     },
     "united-states-air-force": {
       "incoming": 13,
@@ -1365,9 +1425,9 @@
       "total": 17
     },
     "weaponized-podcast": {
-      "incoming": 13,
+      "incoming": 18,
       "outgoing": 2,
-      "total": 15
+      "total": 20
     },
     "whistleblower-protection": {
       "incoming": 16,

@@ -52,6 +52,13 @@
       "dateDisplay": "Summer 2014–March 2015"
     },
     {
+      "id": "2017-iraq-jellyfish-uap",
+      "type": "case",
+      "name": "2017 Iraq Jellyfish UAP Incident",
+      "summary": "Reported thermal-imaging incident at a U.S. military base in Iraq involving an unusual object later publicized as the Jellyfish UAP.",
+      "date": "2017-01-01"
+    },
+    {
       "id": "1997-peru-crash-claim",
       "type": "case",
       "name": "Alleged 1997 Peru Crash Encounter",
@@ -582,6 +589,12 @@
       "summary": "Defense Intelligence Agency program initiated to study advanced aerospace threats and anomalous phenomena through contracted research."
     },
     {
+      "id": "advanced-theoretical-physics-program",
+      "type": "organization",
+      "name": "Advanced Theoretical Physics Program",
+      "summary": "An earlier Defense Department inquiry described by John B. Alexander as an effort to investigate reports of hidden UFO crash-retrieval and reverse-engineering programs."
+    },
+    {
       "id": "aaro",
       "type": "organization",
       "name": "All-domain Anomaly Resolution Office",
@@ -652,6 +665,12 @@
       "type": "organization",
       "name": "KLAS-TV / 8 News Now",
       "summary": "Las Vegas television station whose investigative reporting by George Knapp introduced Bob Lazar’s allegations to a broad public audience in 1989."
+    },
+    {
+      "id": "liberation-times",
+      "type": "organization",
+      "name": "Liberation Times",
+      "summary": "Publication covering UAP policy, legislation, government transparency, and related reporting."
     },
     {
       "id": "malmstrom-air-force-base",
@@ -874,6 +893,12 @@
       "type": "person",
       "name": "Chaz King",
       "summary": "Former U.S. Air Force security personnel associated with publicly reported 2003 UAP incidents near Vandenberg Air Force Base."
+    },
+    {
+      "id": "chris-sharp",
+      "type": "person",
+      "name": "Chris Sharp",
+      "summary": "Editor and publisher of Liberation Times who reports on UAP policy, legislation, and government transparency."
     },
     {
       "id": "christopher-mellon",
@@ -1104,6 +1129,12 @@
       "summary": "Whistleblower-policy specialist"
     },
     {
+      "id": "john-b-alexander",
+      "type": "person",
+      "name": "John B. Alexander",
+      "summary": "Retired U.S. Army officer and researcher associated with the Advanced Theoretical Physics program, non-lethal weapons research, NIDS, and anomalous-phenomena investigations."
+    },
+    {
       "id": "john-burroughs",
       "type": "person",
       "name": "John Burroughs",
@@ -1216,6 +1247,12 @@
       "type": "person",
       "name": "Philip J. Corso",
       "summary": "Retired U.S. Army lieutenant colonel and coauthor of The Day After Roswell, which alleged military transfer and reverse engineering of recovered technology."
+    },
+    {
+      "id": "richard-dolan",
+      "type": "person",
+      "name": "Richard Dolan",
+      "summary": "Historian and author whose work examines UFO history, government secrecy, intelligence activity, disclosure, and unidentified submerged object cases."
     },
     {
       "id": "robert-jacobs",
@@ -1346,6 +1383,51 @@
       "summary": "Jeremy Corbell and George Knapp are joined by citizen journalist Joe Murgia to discuss the inaugural Sol Foundation symposium, David Grusch’s recent public comments, congressional pressure surrounding the UAP Disclosure Act, and the Syria “Dome” UAP photograph.",
       "date": "2023-11-27",
       "dateDisplay": "November 27, 2023",
+      "status": "Published"
+    },
+    {
+      "id": "2023-weaponized-episode-43",
+      "type": "podcast_episode",
+      "name": "WEAPONIZED Episode #43 — The Unreleased Philip Corso Tapes",
+      "summary": "Jeremy Corbell and George Knapp revisit Philip J. Corso’s Roswell technology-transfer claims and examine previously unreleased interviews recorded by personnel associated with the National Institute for Discovery Science.",
+      "date": "2023-12-04",
+      "dateDisplay": "December 4, 2023",
+      "status": "Published"
+    },
+    {
+      "id": "2023-weaponized-episode-44",
+      "type": "podcast_episode",
+      "name": "WEAPONIZED Episode #44 — The Fight Over the UAP Disclosure Act",
+      "summary": "Jeremy Corbell and George Knapp examine the weakening of proposed UAP disclosure legislation and speak with Liberation Times editor and publisher Chris Sharp about congressional opposition and defense-contractor influence.",
+      "date": "2023-12-11",
+      "dateDisplay": "December 11, 2023",
+      "status": "Published"
+    },
+    {
+      "id": "2023-weaponized-episode-45",
+      "type": "podcast_episode",
+      "name": "WEAPONIZED Episode #45 — John Alexander on Crash Retrievals, NIDS, and the Sol Conference",
+      "summary": "John B. Alexander joins Jeremy Corbell and George Knapp to discuss the Advanced Theoretical Physics program, alleged crash-retrieval programs, NIDS, Skinwalker Ranch, the Sol Foundation conference, and Philip J. Corso.",
+      "date": "2023-12-18",
+      "dateDisplay": "December 18, 2023",
+      "status": "Published"
+    },
+    {
+      "id": "2024-weaponized-episode-46",
+      "type": "podcast_episode",
+      "name": "WEAPONIZED Episode #46 — Richard Dolan on Disclosure, History, and USO Cases",
+      "summary": "Historian Richard Dolan joins Jeremy Corbell and George Knapp for a wide-ranging discussion of disclosure, intelligence and defense institutions, whistleblower revelations, congressional statements, academic interest, global UFO history, and unidentified submerged object cases.",
+      "date": "2024-01-08",
+      "dateDisplay": "January 8, 2024",
+      "status": "Published"
+    },
+    {
+      "id": "2024-weaponized-episode-47",
+      "type": "podcast_episode",
+      "name": "WEAPONIZED Episode #47 — The Jellyfish UAP Investigation",
+      "summary": "Jeremy Corbell and George Knapp explain how they obtained and evaluated thermal video of the alleged Jellyfish UAP recorded at a U.S. military base in Iraq, discuss reported transmedium behavior, and respond to proposed conventional explanations.",
+      "date": "2024-01-15",
+      "dateDisplay": "January 15, 2024",
       "status": "Published"
     },
     {
@@ -1831,6 +1913,12 @@
       "type": "topic",
       "name": "UAP Research",
       "summary": "Investigation and documentation of unidentified anomalous phenomena"
+    },
+    {
+      "id": "unidentified-submerged-objects",
+      "type": "topic",
+      "name": "Unidentified Submerged Objects",
+      "summary": "Reports and research concerning unidentified objects observed in, entering, leaving, or operating around bodies of water."
     },
     {
       "id": "whistleblower-protection",

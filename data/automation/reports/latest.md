@@ -1,18 +1,18 @@
-# GreyAlien V18.0 Deployment Report
+# GreyAlien V18.1 Deployment Report
 
 **Status:** Ready for deployment  
-**Generated:** 2026-07-19T03:19:57.836285+00:00
+**Generated:** 2026-07-19T04:02:51.522787+00:00
 
-- Entities: 274
-- Resolved relationships: 815
+- Entities: 286
+- Resolved relationships: 882
 - Unresolved legacy warnings: 15
 - Podcast series: 8
-- Researched podcast episodes: 7
-- Episode records with related-episode recommendations: 7
-- Generated entity entry pages: 274
-- Sitemap URLs: 285
+- Researched podcast episodes: 12
+- Episode records with related-episode recommendations: 12
+- Generated entity entry pages: 286
+- Sitemap URLs: 297
 - Validation: Passed
 
 ## Release summary
 
-Completed the first end-to-end automated knowledge ingestion using WEAPONIZED Episode #42. Added the episode, Joe Murgia, new relationships to Garry Nolan, David Grusch, the Sol Foundation, the UAP Disclosure Act, and the inaugural Sol Foundation symposium. Updated the transactional importer to run the complete V17.5 automation and validation pipeline.
+Ingested five consecutive WEAPONIZED episodes (#43–#47) in one transactional batch. Added new connected records for Chris Sharp, John B. Alexander, Richard Dolan, Liberation Times, the Advanced Theoretical Physics Program, unidentified submerged objects, and the 2017 Iraq Jellyfish UAP incident. Rebuilt podcast indexes, relationships, entity pages, recommendations, timeline normalization, homepage updates, and sitemap through the automated pipeline.

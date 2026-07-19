@@ -1,0 +1,95 @@
+{
+  "id": "2024-weaponized-episode-47",
+  "type": "podcast_episode",
+  "name": "WEAPONIZED Episode #47 — The Jellyfish UAP Investigation",
+  "summary": "Jeremy Corbell and George Knapp explain how they obtained and evaluated thermal video of the alleged Jellyfish UAP recorded at a U.S. military base in Iraq, discuss reported transmedium behavior, and respond to proposed conventional explanations.",
+  "date": "2024-01-15",
+  "dateDisplay": "January 15, 2024",
+  "seriesId": "weaponized-podcast",
+  "episodeNumber": 47,
+  "episodeTitle": "The Jellyfish UAP Investigation",
+  "status": "Published",
+  "mediaType": "Podcast episode",
+  "mediaPlatform": "WEAPONIZED",
+  "mediaHost": "Jeremy Corbell and George Knapp",
+  "mediaGuests": [],
+  "mediaSubjects": [
+    "Jellyfish UAP",
+    "Iraq military-base incident",
+    "Thermal imagery"
+  ],
+  "principalClaims": [],
+  "researchNotes": [
+    "Official description says the hosts detail acquisition and analysis of the video and include comments from military personnel familiar with the base."
+  ],
+  "relationships": [
+    {
+      "type": "episode_of",
+      "target": "weaponized-podcast"
+    },
+    {
+      "type": "features_person",
+      "target": "jeremy-corbell",
+      "role": "host",
+      "context": "WEAPONIZED co-host"
+    },
+    {
+      "type": "features_person",
+      "target": "george-knapp",
+      "role": "host",
+      "context": "WEAPONIZED co-host"
+    },
+    {
+      "type": "discussed_case",
+      "target": "2017-iraq-jellyfish-uap",
+      "context": "Central incident and video examined in the episode"
+    },
+    {
+      "type": "timeline_connection",
+      "target": "timeline-2024-01-08-jellyfish-uap-reporting",
+      "context": "Follow-up reporting after public release of the footage"
+    },
+    {
+      "type": "references_organization",
+      "target": "department-of-defense",
+      "context": "The incident allegedly involved U.S. military intelligence assets and evidence control"
+    },
+    {
+      "type": "discussed_topic",
+      "target": "uap-research"
+    },
+    {
+      "type": "discussed_topic",
+      "target": "government-transparency"
+    }
+  ],
+  "sources": [
+    {
+      "label": "Official WEAPONIZED Episode #47 page",
+      "url": "https://www.weaponizedpodcast.com/episodes-2/episode-47",
+      "sourceType": "official_episode_page",
+      "primary": true
+    },
+    {
+      "label": "Listen to WEAPONIZED",
+      "url": "https://link.chtbl.com/Weaponized",
+      "sourceType": "official_audio_feed",
+      "primary": false
+    }
+  ],
+  "externalUrl": "https://www.weaponizedpodcast.com/episodes-2/episode-47",
+  "externalLinkLabel": "Open official Episode #47 page",
+  "mediaLinks": [
+    {
+      "label": "Open the official Episode #47 page",
+      "url": "https://www.weaponizedpodcast.com/episodes-2/episode-47",
+      "platform": "WEAPONIZED"
+    },
+    {
+      "label": "Listen to WEAPONIZED",
+      "url": "https://link.chtbl.com/Weaponized",
+      "platform": "Official audio feed"
+    }
+  ],
+  "eventCategory": "Podcast publication"
+}

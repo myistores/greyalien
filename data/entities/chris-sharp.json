@@ -1,0 +1,36 @@
+{
+  "id": "chris-sharp",
+  "type": "person",
+  "name": "Chris Sharp",
+  "summary": "Editor and publisher of Liberation Times who reports on UAP policy, legislation, and government transparency.",
+  "relationships": [
+    {
+      "type": "appeared_in",
+      "target": "2023-weaponized-episode-44",
+      "role": "guest",
+      "context": "Discussed congressional opposition to UAP disclosure legislation"
+    },
+    {
+      "type": "affiliated_with",
+      "target": "liberation-times",
+      "role": "editor and publisher"
+    },
+    {
+      "type": "discussed_topic",
+      "target": "government-transparency"
+    }
+  ],
+  "profileStatus": "Journalist and publisher",
+  "profileSummary": "Editor and publisher of Liberation Times who reports on UAP policy, legislation, and government transparency.",
+  "profileBadge": "Journalist",
+  "profileBadgeClass": "badge-journalist",
+  "inclusionNote": "Included as the guest in WEAPONIZED Episode #44.",
+  "sources": [
+    {
+      "label": "Official WEAPONIZED Episode #44 page",
+      "url": "https://www.weaponizedpodcast.com/episodes-2/episode-44",
+      "sourceType": "official_episode_page",
+      "primary": true
+    }
+  ]
+}

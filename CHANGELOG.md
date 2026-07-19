@@ -1,3 +1,10 @@
+# V18.1 — First Five-Episode Production Batch
+
+- Ingested WEAPONIZED Episodes #43–#47 in one transactional batch.
+- Added seven supporting person, organization, topic, and case records.
+- Rebuilt the graph, podcast indexes, related content, generated pages, homepage, and sitemap.
+- Established the baseline timing benchmark for comparison with the Research Accelerator.
+
 ## V18.0 — First Automated Knowledge Ingestion
 
 - Ingested WEAPONIZED Episode #42 through the transactional import system.
