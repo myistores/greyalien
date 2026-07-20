@@ -1,0 +1,21 @@
+{
+  "id": "claim-organized-pushback-against-transparency-is-already-underway",
+  "type": "claim",
+  "name": "Organized pushback against transparency is already underway",
+  "summary": "Corbell and Knapp argue the anticipated counteroffensive against disclosure is no longer future-tense.",
+  "relationships": [
+    {
+      "type": "featured_in_media",
+      "target": "2026-weaponized-episode-103"
+    }
+  ],
+  "officialLinks": [],
+  "referenceSources": [
+    {
+      "label": "Official WEAPONIZED Episode #103 page",
+      "url": "https://www.weaponizedpodcast.com/episodes-4/episode-103",
+      "sourceType": "official_episode_page",
+      "role": "source"
+    }
+  ]
+}

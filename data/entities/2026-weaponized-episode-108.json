@@ -1,0 +1,99 @@
+{
+  "id": "2026-weaponized-episode-108",
+  "type": "podcast_episode",
+  "name": "WEAPONIZED Episode #108 — Syria UAP Video — Apparent Instantaneous Acceleration",
+  "summary": "Jeremy Corbell, George Knapp, and Marik von Rennenkampff analyze newly released intelligence footage from the Jordanian-Syrian border showing an object tracked by an MQ-9 Reaper and appearing to demonstrate extraordinary acceleration.",
+  "date": "2026-02-03",
+  "dateDisplay": "February 3, 2026",
+  "seriesId": "weaponized-podcast",
+  "episodeNumber": 108,
+  "episodeTitle": "Syria UAP Video — Apparent Instantaneous Acceleration",
+  "status": "Published",
+  "mediaType": "Podcast episode",
+  "mediaPlatform": "WEAPONIZED",
+  "mediaHost": "Jeremy Corbell and George Knapp",
+  "mediaGuests": [
+    "marik-von-rennenkampff"
+  ],
+  "mediaSubjects": [],
+  "principalClaims": [
+    "claim-an-mq-9-sensor-captured-an-unknown-object-near-the-jordanian-syrian-border",
+    "claim-the-object-appears-to-accelerate-abruptly-after-sensor-lock",
+    "claim-instantaneous-acceleration-is-one-of-the-militarys-five-observables",
+    "claim-the-released-footage-warrants-frame-by-frame-technical-review",
+    "claim-government-held-sensor-records-may-contain-stronger-evidence-than-public-release"
+  ],
+  "researchNotes": [],
+  "relationships": [
+    {
+      "type": "episode_of",
+      "target": "weaponized-podcast"
+    },
+    {
+      "type": "features_person",
+      "target": "jeremy-corbell",
+      "role": "host",
+      "context": "WEAPONIZED co-host"
+    },
+    {
+      "type": "features_person",
+      "target": "george-knapp",
+      "role": "host",
+      "context": "WEAPONIZED co-host"
+    },
+    {
+      "type": "features_person",
+      "target": "marik-von-rennenkampff",
+      "role": "guest",
+      "context": "Featured episode participant"
+    },
+    {
+      "type": "references_organization",
+      "target": "united-states-department-of-defense"
+    },
+    {
+      "type": "discussed_topic",
+      "target": "syria-uap-2021"
+    },
+    {
+      "type": "discussed_topic",
+      "target": "five-observables"
+    },
+    {
+      "type": "discussed_topic",
+      "target": "instantaneous-acceleration"
+    },
+    {
+      "type": "discussed_topic",
+      "target": "military-sensor-data"
+    }
+  ],
+  "mediaLinks": [
+    {
+      "label": "Open the official Episode #108 page",
+      "url": "https://www.weaponizedpodcast.com/episodes-4/episode-108",
+      "platform": "WEAPONIZED"
+    },
+    {
+      "label": "Listen to WEAPONIZED",
+      "url": "https://link.chtbl.com/Weaponized",
+      "platform": "Official audio feed"
+    }
+  ],
+  "eventCategory": "Podcast publication",
+  "officialLinks": [],
+  "referenceSources": [
+    {
+      "label": "Official WEAPONIZED Episode #108 page",
+      "url": "https://www.weaponizedpodcast.com/episodes-4/episode-108",
+      "sourceType": "official_episode_page",
+      "role": "source"
+    },
+    {
+      "label": "Listen to WEAPONIZED",
+      "url": "https://link.chtbl.com/Weaponized",
+      "sourceType": "official_audio_feed",
+      "role": "source"
+    }
+  ]
+}

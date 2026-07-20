@@ -1,0 +1,24 @@
+{
+  "id": "timeline-2026-01-13-weaponized-episode-105",
+  "type": "timeline_event",
+  "name": "WEAPONIZED Episode #105 published",
+  "summary": "Filmmaker James Fox discusses new witnesses connected to the 1996 Varginha incident, alleged intimidation, efforts to locate medical personnel and video evidence, and a Washington press event intended to bring firsthand testimony before the public and Congress.",
+  "date": "2026-01-13",
+  "dateDisplay": "January 13, 2026",
+  "eventCategory": "Podcast publication",
+  "relationships": [
+    {
+      "type": "event_for",
+      "target": "2026-weaponized-episode-105"
+    }
+  ],
+  "officialLinks": [],
+  "referenceSources": [
+    {
+      "label": "Official WEAPONIZED Episode #105 page",
+      "url": "https://www.weaponizedpodcast.com/episodes-4/episode-105",
+      "sourceType": "official_episode_page",
+      "role": "source"
+    }
+  ]
+}

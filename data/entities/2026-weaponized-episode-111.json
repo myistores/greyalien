@@ -1,0 +1,126 @@
+{
+  "id": "2026-weaponized-episode-111",
+  "type": "podcast_episode",
+  "name": "WEAPONIZED Episode #111 — Lenval Logan — UAP Task Force Analysis and Better Classified Evidence",
+  "summary": "Former Air Force intelligence analyst and UAP Task Force member Lenval Logan assesses the Syria UAP footage, describes classified evidence stronger than public releases, discusses AWACS tracking of anomalous objects, and explains why original task-force personnel were excluded from AARO.",
+  "date": "2026-03-03",
+  "dateDisplay": "March 3, 2026",
+  "seriesId": "weaponized-podcast",
+  "episodeNumber": 111,
+  "episodeTitle": "Lenval Logan — UAP Task Force Analysis and Better Classified Evidence",
+  "status": "Published",
+  "mediaType": "Podcast episode",
+  "mediaPlatform": "WEAPONIZED",
+  "mediaHost": "Jeremy Corbell and George Knapp",
+  "mediaGuests": [
+    "lenval-logan"
+  ],
+  "mediaSubjects": [
+    "jay-stratton",
+    "luis-elizondo"
+  ],
+  "principalClaims": [
+    "claim-logan-assesses-the-syria-footage-as-meeting-uap-parameters",
+    "claim-classified-holdings-include-better-uap-footage-than-the-public-has-seen",
+    "claim-awacs-systems-have-tracked-objects-with-extraordinary-motion",
+    "claim-original-uap-task-force-members-were-not-integrated-into-aaro",
+    "claim-logan-reports-a-1990-diamond-shaped-sighting-resembling-the-calvine-object"
+  ],
+  "researchNotes": [],
+  "relationships": [
+    {
+      "type": "episode_of",
+      "target": "weaponized-podcast"
+    },
+    {
+      "type": "features_person",
+      "target": "jeremy-corbell",
+      "role": "host",
+      "context": "WEAPONIZED co-host"
+    },
+    {
+      "type": "features_person",
+      "target": "george-knapp",
+      "role": "host",
+      "context": "WEAPONIZED co-host"
+    },
+    {
+      "type": "features_person",
+      "target": "lenval-logan",
+      "role": "guest",
+      "context": "Featured episode participant"
+    },
+    {
+      "type": "features_person",
+      "target": "jay-stratton",
+      "role": "subject",
+      "context": "Discussed in the episode"
+    },
+    {
+      "type": "features_person",
+      "target": "luis-elizondo",
+      "role": "subject",
+      "context": "Discussed in the episode"
+    },
+    {
+      "type": "references_organization",
+      "target": "united-states-air-force"
+    },
+    {
+      "type": "references_organization",
+      "target": "uap-task-force"
+    },
+    {
+      "type": "references_organization",
+      "target": "all-domain-anomaly-resolution-office"
+    },
+    {
+      "type": "discussed_topic",
+      "target": "uap-task-force"
+    },
+    {
+      "type": "discussed_topic",
+      "target": "syria-uap-2021"
+    },
+    {
+      "type": "discussed_topic",
+      "target": "calvine-ufo"
+    },
+    {
+      "type": "discussed_topic",
+      "target": "awacs"
+    },
+    {
+      "type": "discussed_topic",
+      "target": "aaro"
+    }
+  ],
+  "mediaLinks": [
+    {
+      "label": "Open the official Episode #111 page",
+      "url": "https://www.weaponizedpodcast.com/episodes-4/episode-111",
+      "platform": "WEAPONIZED"
+    },
+    {
+      "label": "Listen to WEAPONIZED",
+      "url": "https://link.chtbl.com/Weaponized",
+      "platform": "Official audio feed"
+    }
+  ],
+  "eventCategory": "Podcast publication",
+  "officialLinks": [],
+  "referenceSources": [
+    {
+      "label": "Official WEAPONIZED Episode #111 page",
+      "url": "https://www.weaponizedpodcast.com/episodes-4/episode-111",
+      "sourceType": "official_episode_page",
+      "role": "source"
+    },
+    {
+      "label": "Listen to WEAPONIZED",
+      "url": "https://link.chtbl.com/Weaponized",
+      "sourceType": "official_audio_feed",
+      "role": "source"
+    }
+  ]
+}

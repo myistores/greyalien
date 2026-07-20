@@ -1,0 +1,21 @@
+{
+  "id": "claim-the-soviet-union-operated-a-nationwide-ufo-reporting-system",
+  "type": "claim",
+  "name": "The Soviet Union operated a nationwide UFO reporting system",
+  "summary": "SETKA is described as collecting thousands of reports from military units over roughly a decade.",
+  "relationships": [
+    {
+      "type": "featured_in_media",
+      "target": "2026-weaponized-episode-107"
+    }
+  ],
+  "officialLinks": [],
+  "referenceSources": [
+    {
+      "label": "Official WEAPONIZED Episode #107 page",
+      "url": "https://www.weaponizedpodcast.com/episodes-4/episode-107",
+      "sourceType": "official_episode_page",
+      "role": "source"
+    }
+  ]
+}

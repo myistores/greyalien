@@ -1,0 +1,24 @@
+{
+  "id": "timeline-2026-01-20-weaponized-episode-106",
+  "type": "timeline_event",
+  "name": "WEAPONIZED Episode #106 published",
+  "summary": "Retired Air Force lieutenant colonel and former Thunderbird Ryan Bodenheimer describes four aerial UAP encounters, including a close call, and explains why the observed objects did not resemble conventional aerodynamic craft.",
+  "date": "2026-01-20",
+  "dateDisplay": "January 20, 2026",
+  "eventCategory": "Podcast publication",
+  "relationships": [
+    {
+      "type": "event_for",
+      "target": "2026-weaponized-episode-106"
+    }
+  ],
+  "officialLinks": [],
+  "referenceSources": [
+    {
+      "label": "Official WEAPONIZED Episode #106 page",
+      "url": "https://www.weaponizedpodcast.com/episodes-4/episode-106",
+      "sourceType": "official_episode_page",
+      "role": "source"
+    }
+  ]
+}

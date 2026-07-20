@@ -1,0 +1,24 @@
+{
+  "id": "timeline-2026-03-03-weaponized-episode-111",
+  "type": "timeline_event",
+  "name": "WEAPONIZED Episode #111 published",
+  "summary": "Former Air Force intelligence analyst and UAP Task Force member Lenval Logan assesses the Syria UAP footage, describes classified evidence stronger than public releases, discusses AWACS tracking of anomalous objects, and explains why original task-force personnel were excluded from AARO.",
+  "date": "2026-03-03",
+  "dateDisplay": "March 3, 2026",
+  "eventCategory": "Podcast publication",
+  "relationships": [
+    {
+      "type": "event_for",
+      "target": "2026-weaponized-episode-111"
+    }
+  ],
+  "officialLinks": [],
+  "referenceSources": [
+    {
+      "label": "Official WEAPONIZED Episode #111 page",
+      "url": "https://www.weaponizedpodcast.com/episodes-4/episode-111",
+      "sourceType": "official_episode_page",
+      "role": "source"
+    }
+  ]
+}

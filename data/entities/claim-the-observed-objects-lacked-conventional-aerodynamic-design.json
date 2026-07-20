@@ -1,0 +1,21 @@
+{
+  "id": "claim-the-observed-objects-lacked-conventional-aerodynamic-design",
+  "type": "claim",
+  "name": "The observed objects lacked conventional aerodynamic design",
+  "summary": "Bodenheimer says their appearance and behavior did not match ordinary aircraft principles.",
+  "relationships": [
+    {
+      "type": "featured_in_media",
+      "target": "2026-weaponized-episode-106"
+    }
+  ],
+  "officialLinks": [],
+  "referenceSources": [
+    {
+      "label": "Official WEAPONIZED Episode #106 page",
+      "url": "https://www.weaponizedpodcast.com/episodes-4/episode-106",
+      "sourceType": "official_episode_page",
+      "role": "source"
+    }
+  ]
+}

@@ -1,0 +1,107 @@
+{
+  "id": "2026-weaponized-episode-107",
+  "type": "podcast_episode",
+  "name": "WEAPONIZED Episode #107 — Soviet UFO Programs — SETKA, Thread 3, and Nuclear Incursions",
+  "summary": "George Knapp revisits his 1990s reporting from Russia and releases documents describing Soviet UFO investigations, including the SETKA collection program, Thread 3 technology analysis, pilot and satellite cases, and an alleged 1982 intrusion at a Ukrainian nuclear missile base.",
+  "date": "2026-01-30",
+  "dateDisplay": "January 30, 2026",
+  "seriesId": "weaponized-podcast",
+  "episodeNumber": 107,
+  "episodeTitle": "Soviet UFO Programs — SETKA, Thread 3, and Nuclear Incursions",
+  "status": "Published",
+  "mediaType": "Podcast episode",
+  "mediaPlatform": "WEAPONIZED",
+  "mediaHost": "Jeremy Corbell and George Knapp",
+  "mediaGuests": [],
+  "mediaSubjects": [
+    "boris-sokolov"
+  ],
+  "principalClaims": [
+    "claim-the-soviet-union-operated-a-nationwide-ufo-reporting-system",
+    "claim-soviet-analysts-studied-ufo-technology-for-military-advantage",
+    "claim-a-1982-uap-incident-allegedly-affected-nuclear-launch-systems",
+    "claim-soviet-and-u-s-programs-show-notable-parallels",
+    "claim-knapp-submitted-the-soviet-records-to-congress-before-public-release"
+  ],
+  "researchNotes": [],
+  "relationships": [
+    {
+      "type": "episode_of",
+      "target": "weaponized-podcast"
+    },
+    {
+      "type": "features_person",
+      "target": "jeremy-corbell",
+      "role": "host",
+      "context": "WEAPONIZED co-host"
+    },
+    {
+      "type": "features_person",
+      "target": "george-knapp",
+      "role": "host",
+      "context": "WEAPONIZED co-host"
+    },
+    {
+      "type": "features_person",
+      "target": "boris-sokolov",
+      "role": "subject",
+      "context": "Discussed in the episode"
+    },
+    {
+      "type": "references_organization",
+      "target": "soviet-armed-forces"
+    },
+    {
+      "type": "references_organization",
+      "target": "united-states-congress"
+    },
+    {
+      "type": "discussed_topic",
+      "target": "soviet-ufo-programs"
+    },
+    {
+      "type": "discussed_topic",
+      "target": "setka-program"
+    },
+    {
+      "type": "discussed_topic",
+      "target": "thread-3-program"
+    },
+    {
+      "type": "discussed_topic",
+      "target": "nuclear-facility-uap-incidents"
+    },
+    {
+      "type": "discussed_topic",
+      "target": "crash-retrievals"
+    }
+  ],
+  "mediaLinks": [
+    {
+      "label": "Open the official Episode #107 page",
+      "url": "https://www.weaponizedpodcast.com/episodes-4/episode-107",
+      "platform": "WEAPONIZED"
+    },
+    {
+      "label": "Listen to WEAPONIZED",
+      "url": "https://link.chtbl.com/Weaponized",
+      "platform": "Official audio feed"
+    }
+  ],
+  "eventCategory": "Podcast publication",
+  "officialLinks": [],
+  "referenceSources": [
+    {
+      "label": "Official WEAPONIZED Episode #107 page",
+      "url": "https://www.weaponizedpodcast.com/episodes-4/episode-107",
+      "sourceType": "official_episode_page",
+      "role": "source"
+    },
+    {
+      "label": "Listen to WEAPONIZED",
+      "url": "https://link.chtbl.com/Weaponized",
+      "sourceType": "official_audio_feed",
+      "role": "source"
+    }
+  ]
+}

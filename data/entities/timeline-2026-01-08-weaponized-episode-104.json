@@ -1,0 +1,24 @@
+{
+  "id": "timeline-2026-01-08-weaponized-episode-104",
+  "type": "timeline_event",
+  "name": "WEAPONIZED Episode #104 published",
+  "summary": "Will Brown, biological anthropologist Dan Proctor, and radiologist Michele Adams examine claims surrounding three-fingered South American mummies, alleged specimen manipulation, black-market trafficking, and the evidence needed to establish authenticity.",
+  "date": "2026-01-08",
+  "dateDisplay": "January 8, 2026",
+  "eventCategory": "Podcast publication",
+  "relationships": [
+    {
+      "type": "event_for",
+      "target": "2026-weaponized-episode-104"
+    }
+  ],
+  "officialLinks": [],
+  "referenceSources": [
+    {
+      "label": "Official WEAPONIZED Episode #104 page",
+      "url": "https://www.weaponizedpodcast.com/episodes-4/episode-104",
+      "sourceType": "official_episode_page",
+      "role": "source"
+    }
+  ]
+}

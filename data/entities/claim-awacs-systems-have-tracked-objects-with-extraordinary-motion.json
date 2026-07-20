@@ -1,0 +1,21 @@
+{
+  "id": "claim-awacs-systems-have-tracked-objects-with-extraordinary-motion",
+  "type": "claim",
+  "name": "AWACS systems have tracked objects with extraordinary motion",
+  "summary": "The interview describes high-speed objects making turns inconsistent with known aircraft.",
+  "relationships": [
+    {
+      "type": "featured_in_media",
+      "target": "2026-weaponized-episode-111"
+    }
+  ],
+  "officialLinks": [],
+  "referenceSources": [
+    {
+      "label": "Official WEAPONIZED Episode #111 page",
+      "url": "https://www.weaponizedpodcast.com/episodes-4/episode-111",
+      "sourceType": "official_episode_page",
+      "role": "source"
+    }
+  ]
+}

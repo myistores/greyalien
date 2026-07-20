@@ -149,6 +149,12 @@
       "summary": "A disputed account concerning film of a 1964 missile test and an alleged unidentified object."
     },
     {
+      "id": "calvine-ufo",
+      "type": "case",
+      "name": "Calvine Ufo",
+      "summary": "A knowledge-graph entity referenced in the V19.4 WEAPONIZED production batch."
+    },
+    {
       "id": "colares-ufo-incidents",
       "type": "case",
       "name": "Colares UFO Incidents",
@@ -183,6 +189,18 @@
       "type": "case",
       "name": "Malmstrom Missile Incident",
       "summary": "A 1967 missile-system shutdown at Malmstrom Air Force Base later associated by some former personnel with UFO claims."
+    },
+    {
+      "id": "nazca-mummies",
+      "type": "case",
+      "name": "Nazca Mummies",
+      "summary": "A knowledge-graph entity referenced in the V19.4 WEAPONIZED production batch."
+    },
+    {
+      "id": "nuclear-facility-uap-incidents",
+      "type": "case",
+      "name": "Nuclear Facility Uap Incidents",
+      "summary": "A knowledge-graph entity referenced in the V19.4 WEAPONIZED production batch."
     },
     {
       "id": "queensland-saucer-nests",
@@ -225,6 +243,12 @@
       "dateDisplay": "November 2010–2011"
     },
     {
+      "id": "syria-uap-2021",
+      "type": "case",
+      "name": "Syria Uap 2021",
+      "summary": "A knowledge-graph entity referenced in the V19.4 WEAPONIZED production batch."
+    },
+    {
       "id": "vandenberg-red-square-uap",
       "type": "case",
       "name": "Vandenberg Red Square UAP Incident",
@@ -233,10 +257,52 @@
       "dateDisplay": "2003"
     },
     {
+      "id": "varginha-ufo-incident",
+      "type": "case",
+      "name": "Varginha Ufo Incident",
+      "summary": "A knowledge-graph entity referenced in the V19.4 WEAPONIZED production batch."
+    },
+    {
+      "id": "claim-2025-produced-new-public-witnesses-and-whistleblowers",
+      "type": "claim",
+      "name": "2025 produced new public witnesses and whistleblowers",
+      "summary": "The episode reviews several witnesses and whistleblowers introduced or amplified by WEAPONIZED during 2025."
+    },
+    {
+      "id": "claim-a-1982-uap-incident-allegedly-affected-nuclear-launch-systems",
+      "type": "claim",
+      "name": "A 1982 UAP incident allegedly affected nuclear launch systems",
+      "summary": "Documents describe objects over a Ukrainian ICBM base and temporary activation of missile launch processes."
+    },
+    {
+      "id": "claim-a-medical-team-may-have-treated-an-injured-non-human-being",
+      "type": "claim",
+      "name": "A medical team may have treated an injured non-human being",
+      "summary": "Fox discusses testimony concerning medical contact with a creature reportedly recovered after the incident."
+    },
+    {
       "id": "claim-vandenberg-red-square-blotter-released",
       "type": "claim",
       "name": "A military police blotter related to the Vandenberg Red Square event was released publicly",
       "summary": "The official episode page links to the newly released document."
+    },
+    {
+      "id": "claim-aaro-assessed-that-some-cases-were-neither-friendly-nor-adversary-technology",
+      "type": "claim",
+      "name": "AARO assessed that some cases were neither friendly nor adversary technology",
+      "summary": "The reported interview says leading experts ruled out conventional national systems."
+    },
+    {
+      "id": "claim-aaro-identified-roughly-40-to-50-cases-with-bizarre-unexplained-capabilities",
+      "type": "claim",
+      "name": "AARO identified roughly 40 to 50 cases with bizarre unexplained capabilities",
+      "summary": "Phillips reportedly described cases involving acceleration, right-angle turns, and maneuvers beyond known aircraft."
+    },
+    {
+      "id": "claim-aaro-withheld-videos-of-its-strongest-unresolved-cases",
+      "type": "claim",
+      "name": "AARO withheld videos of its strongest unresolved cases",
+      "summary": "Despite internal findings, the office is said not to have released representative footage publicly."
     },
     {
       "id": "claim-aawsap-investigators-reported-hitchhiker-effects",
@@ -283,6 +349,18 @@
       "summary": "American secrecy law can complicate effective congressional oversight of alleged UAP programs."
     },
     {
+      "id": "claim-an-investigator-previously-entered-the-restricted-papoose-lake-area",
+      "type": "claim",
+      "name": "An investigator previously entered the restricted Papoose Lake area",
+      "summary": "The episode revisits a dangerous unauthorized incursion associated with the alleged S-4 location."
+    },
+    {
+      "id": "claim-an-mq-9-sensor-captured-an-unknown-object-near-the-jordanian-syrian-border",
+      "type": "claim",
+      "name": "An MQ-9 sensor captured an unknown object near the Jordanian-Syrian border",
+      "summary": "The footage is described as originating from a U.S. intelligence platform operating in the region."
+    },
+    {
       "id": "claim-object-crashed-near-area-51",
       "type": "claim",
       "name": "An unknown object crashed near Area 51",
@@ -299,6 +377,12 @@
       "type": "claim",
       "name": "Authorities had not identified the operator of persistent New Jersey mystery-drone flights",
       "summary": "The official episode description states that the FBI had not determined who was behind the recurring flights."
+    },
+    {
+      "id": "claim-awacs-systems-have-tracked-objects-with-extraordinary-motion",
+      "type": "claim",
+      "name": "AWACS systems have tracked objects with extraordinary motion",
+      "summary": "The interview describes high-speed objects making turns inconsistent with known aircraft."
     },
     {
       "id": "claim-s4-reverse-engineering",
@@ -318,6 +402,18 @@
       "type": "claim",
       "name": "Bob Lazar claims that nine unconventional craft were stored at S4",
       "summary": "Bob Lazar has claimed that nine unconventional craft were housed in hangars at the alleged S4 facility near Area 51."
+    },
+    {
+      "id": "claim-bob-lazar-made-a-surprise-public-appearance-at-an-austin-uap-event",
+      "type": "claim",
+      "name": "Bob Lazar made a surprise public appearance at an Austin UAP event",
+      "summary": "The episode reports Lazar joining a gathering of prominent UAP figures."
+    },
+    {
+      "id": "claim-bodenheimer-reports-four-separate-uap-encounters",
+      "type": "claim",
+      "name": "Bodenheimer reports four separate UAP encounters",
+      "summary": "The former military and commercial pilot describes multiple incidents rather than a single isolated sighting."
     },
     {
       "id": "claim-clearance-allegedly-used-as-leverage",
@@ -416,10 +512,34 @@
       "summary": "The official episode description presents or discusses this claim; it is recorded here as a source-attributed claim, not as independently verified fact."
     },
     {
+      "id": "claim-burlison-believes-significant-uap-information-remains-withheld",
+      "type": "claim",
+      "name": "Burlison believes significant UAP information remains withheld",
+      "summary": "The interview indicates his concern that government channels are not providing full transparency."
+    },
+    {
+      "id": "claim-burlison-completed-a-classified-site-visit-connected-to-uap-oversight",
+      "type": "claim",
+      "name": "Burlison completed a classified site visit connected to UAP oversight",
+      "summary": "The congressman confirms reviewing sensitive information at a secure facility."
+    },
+    {
       "id": "claim-multi-agency-ocean-technology-operation",
       "type": "claim",
       "name": "Chris Sharp reported a multi-agency effort pursuing alleged non-human technology in the ocean",
       "summary": "Episode #59 presents Sharp’s reporting about an alleged multi-agency operation involving technology in the world’s oceans."
+    },
+    {
+      "id": "claim-classified-holdings-include-better-uap-footage-than-the-public-has-seen",
+      "type": "claim",
+      "name": "Classified holdings include better UAP footage than the public has seen",
+      "summary": "Logan answers that stronger evidence exists beyond released imagery."
+    },
+    {
+      "id": "claim-classified-restrictions-sharply-limit-public-disclosure-by-lawmakers",
+      "type": "claim",
+      "name": "Classified restrictions sharply limit public disclosure by lawmakers",
+      "summary": "He explains why details from the visit cannot be openly described."
     },
     {
       "id": "claim-army-crash-retrieval-teams",
@@ -439,6 +559,18 @@
       "type": "claim",
       "name": "Congress was described as continuing inquiries into alleged secret programs and drone activity.",
       "summary": "The official episode description presents or discusses this claim; it is recorded here as a source-attributed claim, not as independently verified fact."
+    },
+    {
+      "id": "claim-congressional-efforts-to-obtain-concealed-files-will-continue",
+      "type": "claim",
+      "name": "Congressional efforts to obtain concealed files will continue",
+      "summary": "Burlison says the search for answers is not complete despite access obstacles."
+    },
+    {
+      "id": "claim-congressional-engagement-remained-central-to-disclosure-efforts",
+      "type": "claim",
+      "name": "Congressional engagement remained central to disclosure efforts",
+      "summary": "The episode highlights interviews and assistance involving Representatives Luna, Burchett, and Burlison."
     },
     {
       "id": "claim-potential-witnesses-contacted",
@@ -475,6 +607,12 @@
       "type": "claim",
       "name": "Corso alleged that material from Roswell was transferred into military and commercial research channels.",
       "summary": "Corso alleged that material from Roswell was transferred into military and commercial research channels."
+    },
+    {
+      "id": "claim-critiques-of-the-syria-uap-footage-do-not-fully-resolve-the-case",
+      "type": "claim",
+      "name": "Critiques of the Syria UAP footage do not fully resolve the case",
+      "summary": "Corbell and Knapp argue that debunking claims fail to account for the complete sensor sequence."
     },
     {
       "id": "claim-foley-sighting-changed-view",
@@ -547,6 +685,12 @@
       "summary": "Disinformation and cultural stigma continue to shape the public UAP debate."
     },
     {
+      "id": "claim-efforts-to-obtain-alleged-video-evidence-encountered-interference",
+      "type": "claim",
+      "name": "Efforts to obtain alleged video evidence encountered interference",
+      "summary": "Fox says his pursuit of a recording of the being attracted obstruction or sabotage."
+    },
+    {
       "id": "claim-alien-autopsy-program",
       "type": "claim",
       "name": "Emery Smith Alien-Autopsy Program Claims",
@@ -579,10 +723,22 @@
       "summary": "Expected closed-door congressional UAP briefings did not materialize as anticipated."
     },
     {
+      "id": "claim-experienced-pilots-can-provide-valuable-observational-evidence",
+      "type": "claim",
+      "name": "Experienced pilots can provide valuable observational evidence",
+      "summary": "The interview emphasizes the relevance of flight experience when evaluating unusual aerial events."
+    },
+    {
       "id": "claim-whistleblower-fear-continues-to-limit-disclosure",
       "type": "claim",
       "name": "Fear of professional consequences continues to deter potential UAP whistleblowers",
       "summary": "Blumenthal discussed why insiders may remain reluctant to come forward."
+    },
+    {
+      "id": "claim-government-held-sensor-records-may-contain-stronger-evidence-than-public-release",
+      "type": "claim",
+      "name": "Government-held sensor records may contain stronger evidence than public releases",
+      "summary": "The episode presents the video as part of a broader archive of military UAP data."
     },
     {
       "id": "claim-dod-records-produced-new-case",
@@ -615,10 +771,28 @@
       "summary": "The representatives indicate they are developing less visible methods to continue oversight and investigation."
     },
     {
+      "id": "claim-independent-experts-require-direct-and-transparent-access",
+      "type": "claim",
+      "name": "Independent experts require direct and transparent access",
+      "summary": "The discussion emphasizes controlled examination, provenance, imaging, and reproducible analysis."
+    },
+    {
+      "id": "claim-instantaneous-acceleration-is-one-of-the-militarys-five-observables",
+      "type": "claim",
+      "name": "Instantaneous acceleration is one of the military’s Five Observables",
+      "summary": "The analysis connects the footage to an established UAP identification characteristic."
+    },
+    {
       "id": "claim-secrecy-resistance-remains-active",
       "type": "claim",
       "name": "Institutional resistance remains active",
       "summary": "The episode describes continuing institutional resistance to UAP transparency."
+    },
+    {
+      "id": "claim-interest-in-non-human-intelligence-does-not-excuse-weak-methodology",
+      "type": "claim",
+      "name": "Interest in non-human intelligence does not excuse weak methodology",
+      "summary": "The participating academics describe themselves as open to extraordinary possibilities while rejecting unsupported conclusions."
     },
     {
       "id": "claim-vandenberg-witness-reported-large-red-object",
@@ -664,6 +838,12 @@
       "summary": "The official episode description presents or discusses this claim; it is recorded here as a source-attributed claim, not as independently verified fact."
     },
     {
+      "id": "claim-knapp-submitted-the-soviet-records-to-congress-before-public-release",
+      "type": "claim",
+      "name": "Knapp submitted the Soviet records to Congress before public release",
+      "summary": "The documents were reportedly provided to Congress in 2025 and later published through Mystery Wire."
+    },
+    {
       "id": "claim-lacatski-addresses-recovered-bodies-and-craft",
       "type": "claim",
       "name": "Lacatski addresses recovered bodies and craft",
@@ -704,6 +884,18 @@
       "type": "claim",
       "name": "Lawmakers reported intimidation and veiled threats",
       "summary": "The episode includes accounts of pressure and warnings directed at congressional transparency advocates."
+    },
+    {
+      "id": "claim-logan-assesses-the-syria-footage-as-meeting-uap-parameters",
+      "type": "claim",
+      "name": "Logan assesses the Syria footage as meeting UAP parameters",
+      "summary": "He specifically endorses instantaneous acceleration as visible in the case."
+    },
+    {
+      "id": "claim-logan-reports-a-1990-diamond-shaped-sighting-resembling-the-calvine-object",
+      "type": "claim",
+      "name": "Logan reports a 1990 diamond-shaped sighting resembling the Calvine object",
+      "summary": "He recounts seeing an object from an aircraft window with a form later associated with the Calvine photograph."
     },
     {
       "id": "claim-maritime-forces-have-collected-uso-observations",
@@ -773,6 +965,12 @@
       "summary": "Meaningful disclosure would require verifiable evidence rather than rhetoric alone."
     },
     {
+      "id": "claim-media-productions-renewed-global-interest-in-uap",
+      "type": "claim",
+      "name": "Media productions renewed global interest in UAP",
+      "summary": "Books, documentaries, television programs, and films are described as expanding public attention."
+    },
+    {
       "id": "claim-medical-community-often-ignores-cause",
       "type": "claim",
       "name": "Medical professionals may treat reported injuries without investigating the alleged anomalous cause.",
@@ -834,10 +1032,40 @@
       "summary": "Mike Gold argued that NASA records could aid investigation of historical incidents and advanced materials."
     },
     {
+      "id": "claim-new-firsthand-witnesses-were-located-after-years-of-investigation",
+      "type": "claim",
+      "name": "New firsthand witnesses were located after years of investigation",
+      "summary": "Fox says he identified people who had previously been unwilling to speak publicly about the Varginha events."
+    },
+    {
       "id": "claim-official-investigations-faced-internal-opposition",
       "type": "claim",
       "name": "Official investigations faced internal opposition",
       "summary": "Lacatski describes efforts by government actors to discourage or discredit anomalous-phenomena investigations."
+    },
+    {
+      "id": "claim-official-pentagon-commentary-showed-limited-familiarity-with-the-syria-case",
+      "type": "claim",
+      "name": "Official Pentagon commentary showed limited familiarity with the Syria case",
+      "summary": "The hosts criticize the government response as uninformed or evasive."
+    },
+    {
+      "id": "claim-one-encounter-involved-a-potentially-dangerous-close-approach",
+      "type": "claim",
+      "name": "One encounter involved a potentially dangerous close approach",
+      "summary": "The episode presents at least one incident as an aviation-safety concern."
+    },
+    {
+      "id": "claim-organized-pushback-against-transparency-is-already-underway",
+      "type": "claim",
+      "name": "Organized pushback against transparency is already underway",
+      "summary": "Corbell and Knapp argue the anticipated counteroffensive against disclosure is no longer future-tense."
+    },
+    {
+      "id": "claim-original-uap-task-force-members-were-not-integrated-into-aaro",
+      "type": "claim",
+      "name": "Original UAP Task Force members were not integrated into AARO",
+      "summary": "Logan discusses the loss of experienced personnel and institutional knowledge."
     },
     {
       "id": "claim-nids-recorded-corso-interviews",
@@ -877,10 +1105,22 @@
       "summary": "The discussion considers executive action as a possible route to greater disclosure."
     },
     {
+      "id": "claim-previously-restricted-uap-imagery-entered-public-discussion",
+      "type": "claim",
+      "name": "Previously restricted UAP imagery entered public discussion",
+      "summary": "The hosts state that images and videos previously held on government systems were unveiled or confirmed during the year."
+    },
+    {
       "id": "claim-progress-requires-better-data-and-open-inquiry",
       "type": "claim",
       "name": "Progress requires better data and open inquiry",
       "summary": "Vallée recommends disciplined research, improved evidence, and less institutional obstruction."
+    },
+    {
+      "id": "claim-prominent-mummy-specimens-show-signs-of-physical-manipulation",
+      "type": "claim",
+      "name": "Prominent mummy specimens show signs of physical manipulation",
+      "summary": "The guests argue that publicly presented specimens contain anatomical indications of tampering or assembly."
     },
     {
       "id": "claim-whistleblower-public-costs",
@@ -901,6 +1141,12 @@
       "summary": "Gold expressed optimism about cooperation between government and commercial space organizations."
     },
     {
+      "id": "claim-reduced-stigma-encouraged-the-pilot-to-speak-publicly",
+      "type": "claim",
+      "name": "Reduced stigma encouraged the pilot to speak publicly",
+      "summary": "He explains that changing attitudes toward aviator reports made disclosure of his experiences more feasible."
+    },
+    {
       "id": "claim-aawsap-files-could-aid-research",
       "type": "claim",
       "name": "Releasing AAWSAP files could improve scientific and medical evaluation of close-encounter effects.",
@@ -917,6 +1163,12 @@
       "type": "claim",
       "name": "Reports of unidentified submerged objects extend across centuries",
       "summary": "Richard Dolan’s research compiles historical and modern cases from multiple regions."
+    },
+    {
+      "id": "claim-representative-burlison-sought-access-to-highly-restricted-uap-related-sites",
+      "type": "claim",
+      "name": "Representative Burlison sought access to highly restricted UAP-related sites",
+      "summary": "The discussion says the congressman received White House permission to pursue visits including Area 51."
     },
     {
       "id": "claim-mainstream-research-groups-avoid-cross-category-cases",
@@ -967,16 +1219,40 @@
       "summary": "The episode links NIDS and AAWSAP research to a broader model involving craft, creatures, portals, and other anomalies."
     },
     {
+      "id": "claim-some-objects-appeared-to-manage-their-signatures-near-sensitive-sites",
+      "type": "claim",
+      "name": "Some objects appeared to manage their signatures near sensitive sites",
+      "summary": "The episode describes behavior interpreted as deliberate avoidance of detection."
+    },
+    {
       "id": "claim-witnesses-fear-retaliation",
       "type": "claim",
       "name": "Some potential witnesses remained reluctant to testify because they feared retaliation.",
       "summary": "Some potential witnesses remained reluctant to testify because they feared retaliation."
     },
     {
+      "id": "claim-some-promoters-have-previously-fabricated-evidence",
+      "type": "claim",
+      "name": "Some promoters have previously fabricated evidence",
+      "summary": "The episode notes documented credibility problems among people involved in advancing the mummy claims."
+    },
+    {
       "id": "claim-some-uso-reports-describe-transmedium-performance",
       "type": "claim",
       "name": "Some USO reports describe objects moving between water, air, and space",
       "summary": "The episode summarizes cases in Dolan’s book that allege transmedium capabilities."
+    },
+    {
+      "id": "claim-soviet-analysts-studied-ufo-technology-for-military-advantage",
+      "type": "claim",
+      "name": "Soviet analysts studied UFO technology for military advantage",
+      "summary": "Thread 3 is presented as an effort to analyze and potentially exploit unusual technology."
+    },
+    {
+      "id": "claim-soviet-and-u-s-programs-show-notable-parallels",
+      "type": "claim",
+      "name": "Soviet and U.S. programs show notable parallels",
+      "summary": "The episode compares collection, secrecy, pilot encounters, tracking, crashes, and technology exploitation."
     },
     {
       "id": "claim-2024-uap-review-found-persistent-transparency-failures",
@@ -1007,6 +1283,12 @@
       "type": "claim",
       "name": "The alleged program was described as using artificial intelligence to search classified servers for UAP imagery.",
       "summary": "The official episode description presents or discusses this claim; it is recorded here as a source-attributed claim, not as independently verified fact."
+    },
+    {
+      "id": "claim-the-case-may-implicate-u-s-custody-of-recovered-evidence",
+      "type": "claim",
+      "name": "The case may implicate U.S. custody of recovered evidence",
+      "summary": "The episode calls for military and intelligence agencies to explain what became of materials or beings connected to crash-retrieval cases."
     },
     {
       "id": "claim-2017-nyt-ufo-report-changed-public-discourse",
@@ -1183,6 +1465,12 @@
       "summary": "The official episode description presents or discusses this claim; it is recorded here as a source-attributed claim, not as independently verified fact."
     },
     {
+      "id": "claim-the-mummy-trade-may-involve-grave-robbing-and-illicit-sales",
+      "type": "claim",
+      "name": "The mummy trade may involve grave robbing and illicit sales",
+      "summary": "The episode explores allegations of human remains being altered and sold through a private collectors market."
+    },
+    {
       "id": "claim-nimitz-two-week-sensor-detections",
       "type": "claim",
       "name": "The Nimitz carrier group detected unidentified incursions for nearly two weeks in November 2004",
@@ -1193,6 +1481,12 @@
       "type": "claim",
       "name": "The November 2024 congressional UAP hearing left major questions unresolved",
       "summary": "Episode #62 reviews the hearing’s public results and behind-the-scenes circumstances."
+    },
+    {
+      "id": "claim-the-object-appears-to-accelerate-abruptly-after-sensor-lock",
+      "type": "claim",
+      "name": "The object appears to accelerate abruptly after sensor lock",
+      "summary": "The episode interprets the motion as possible instantaneous acceleration."
     },
     {
       "id": "claim-large-disc-changed-direction",
@@ -1211,6 +1505,12 @@
       "type": "claim",
       "name": "The objects were reportedly detected by multiple shipboard sensors.",
       "summary": "The official episode description presents or discusses this claim; it is recorded here as a source-attributed claim, not as independently verified fact."
+    },
+    {
+      "id": "claim-the-observed-objects-lacked-conventional-aerodynamic-design",
+      "type": "claim",
+      "name": "The observed objects lacked conventional aerodynamic design",
+      "summary": "Bodenheimer says their appearance and behavior did not match ordinary aircraft principles."
     },
     {
       "id": "claim-tic-tac-origin-remains-contested",
@@ -1243,6 +1543,12 @@
       "summary": "The hosts contend that available testimony, documents, and cases justify continued investigation."
     },
     {
+      "id": "claim-the-released-footage-warrants-frame-by-frame-technical-review",
+      "type": "claim",
+      "name": "The released footage warrants frame-by-frame technical review",
+      "summary": "Von Rennenkampff evaluates the sequence and distinguishes observed behavior from unsupported conclusions."
+    },
+    {
       "id": "claim-large-disc-video-military-sensor",
       "type": "claim",
       "name": "The released video was described as recorded by a military sensor over a conflict zone.",
@@ -1265,6 +1571,12 @@
       "type": "claim",
       "name": "The reviewed case literature associates some close encounters with serious physical, physiological, and psychological effects.",
       "summary": "The reviewed case literature associates some close encounters with serious physical, physiological, and psychological effects."
+    },
+    {
+      "id": "claim-the-soviet-union-operated-a-nationwide-ufo-reporting-system",
+      "type": "claim",
+      "name": "The Soviet Union operated a nationwide UFO reporting system",
+      "summary": "SETKA is described as collecting thousands of reports from military units over roughly a decade."
     },
     {
       "id": "claim-mosul-orb-four-second-video",
@@ -1327,6 +1639,12 @@
       "summary": "The episode unveiled the associated video and described its origin."
     },
     {
+      "id": "claim-uap-have-been-detected-in-space",
+      "type": "claim",
+      "name": "UAP have been detected in space",
+      "summary": "Sharp says the former AARO deputy director confirmed space-based detections."
+    },
+    {
       "id": "claim-uap-advocacy-continues-after-legislative-setback",
       "type": "claim",
       "name": "UAP transparency advocacy continued after the 2024 legislative setback",
@@ -1369,6 +1687,12 @@
       "summary": "Nuccetelli described a second large-object incident and security response."
     },
     {
+      "id": "claim-whistleblower-credibility-remains-important-to-congressional-inquiry",
+      "type": "claim",
+      "name": "Whistleblower credibility remains important to congressional inquiry",
+      "summary": "He discusses evaluating individuals who report hidden programs or technology."
+    },
+    {
       "id": "claim-retaliation-can-occur-without-prosecution",
       "type": "claim",
       "name": "Whistleblowers may suffer professional and personal consequences even when they are not prosecuted.",
@@ -1379,6 +1703,12 @@
       "type": "claim",
       "name": "Wiggins said sailors routinely encounter unidentified objects in the region.",
       "summary": "The official episode description presents or discusses this claim; it is recorded here as a source-attributed claim, not as independently verified fact."
+    },
+    {
+      "id": "claim-witness-intimidation-contributed-to-decades-of-silence",
+      "type": "claim",
+      "name": "Witness intimidation contributed to decades of silence",
+      "summary": "The episode attributes reluctance among participants to pressure and fear associated with the alleged cover-up."
     },
     {
       "id": "claim-zero-gravity-may-enable-exotic-material-research",
@@ -1693,6 +2023,12 @@
       "summary": "An earlier Defense Department inquiry described by John B. Alexander as an effort to investigate reports of hidden UFO crash-retrieval and reverse-engineering programs."
     },
     {
+      "id": "all-domain-anomaly-resolution-office",
+      "type": "organization",
+      "name": "All Domain Anomaly Resolution Office",
+      "summary": "A knowledge-graph entity referenced in the V19.4 WEAPONIZED production batch."
+    },
+    {
       "id": "aaro",
       "type": "organization",
       "name": "All-domain Anomaly Resolution Office",
@@ -1867,6 +2203,12 @@
       "summary": "Privately funded research organization that investigated anomalous phenomena and unusual aerospace reports."
     },
     {
+      "id": "national-press-club",
+      "type": "organization",
+      "name": "National Press Club",
+      "summary": "National Press Club is referenced in WEAPONIZED Episodes #103–#112."
+    },
+    {
       "id": "new-paradigm-institute",
       "type": "organization",
       "name": "New Paradigm Institute",
@@ -1909,6 +2251,12 @@
       "summary": "U.S. Senate committee responsible for intelligence-community oversight."
     },
     {
+      "id": "soviet-armed-forces",
+      "type": "organization",
+      "name": "Soviet Armed Forces",
+      "summary": "Soviet Armed Forces is referenced in WEAPONIZED Episodes #103–#112."
+    },
+    {
       "id": "disclosure-project",
       "type": "organization",
       "name": "The Disclosure Project",
@@ -1949,6 +2297,12 @@
       "type": "organization",
       "name": "To The Stars Academy of Arts & Science",
       "summary": "Public-benefit corporation that brought together former government officials, researchers, and media projects focused on UAP and advanced aerospace topics."
+    },
+    {
+      "id": "united-states-air-force-thunderbirds",
+      "type": "organization",
+      "name": "U.S. Air Force Thunderbirds",
+      "summary": "U.S. Air Force Thunderbirds is referenced in WEAPONIZED Episodes #103–#112."
     },
     {
       "id": "department-of-defense",
@@ -2011,6 +2365,12 @@
       "summary": "The legislative branch of the U.S. federal government."
     },
     {
+      "id": "united-states-department-of-defense",
+      "type": "organization",
+      "name": "United States Department Of Defense",
+      "summary": "A knowledge-graph entity referenced in the V19.4 WEAPONIZED production batch."
+    },
+    {
       "id": "united-states-marine-corps",
       "type": "organization",
       "name": "United States Marine Corps",
@@ -2039,6 +2399,12 @@
       "type": "organization",
       "name": "Vandenberg Space Force Base",
       "summary": "U.S. military launch and test installation in California, formerly Vandenberg Air Force Base."
+    },
+    {
+      "id": "white-house",
+      "type": "organization",
+      "name": "White House",
+      "summary": "White House is referenced in WEAPONIZED Episodes #103–#112."
     },
     {
       "id": "alex-dietrich",
@@ -2081,6 +2447,12 @@
       "type": "person",
       "name": "Bob Lazar",
       "summary": "Public figure whose 1989 interviews alleging work at S-4 near Area 51 profoundly shaped modern UFO culture and reverse-engineering narratives."
+    },
+    {
+      "id": "boris-sokolov",
+      "type": "person",
+      "name": "Boris Sokolov",
+      "summary": "Boris Sokolov is referenced in WEAPONIZED Episodes #103–#112."
     },
     {
       "id": "bryce-zabel",
@@ -2147,6 +2519,12 @@
       "type": "person",
       "name": "Dan Cleary",
       "summary": "Podcaster and music-industry entrepreneur who appeared on WEAPONIZED to discuss UFO politics and Contact in the Desert."
+    },
+    {
+      "id": "dan-proctor",
+      "type": "person",
+      "name": "Dan Proctor",
+      "summary": "Dan Proctor is referenced in WEAPONIZED Episodes #103–#112."
     },
     {
       "id": "daniel-sheehan",
@@ -2299,6 +2677,12 @@
       "summary": "Investigative journalist"
     },
     {
+      "id": "glenn-gaffney",
+      "type": "person",
+      "name": "Glenn Gaffney",
+      "summary": "Glenn Gaffney is referenced in WEAPONIZED Episodes #103–#112."
+    },
+    {
       "id": "harald-malmgren",
       "type": "person",
       "name": "Harald Malmgren",
@@ -2335,10 +2719,22 @@
       "summary": "Former military servicemember who publicly claimed involvement in recovery operations involving unusual objects."
     },
     {
+      "id": "james-clapper",
+      "type": "person",
+      "name": "James Clapper",
+      "summary": "James Clapper is referenced in WEAPONIZED Episodes #103–#112."
+    },
+    {
       "id": "james-e-mcdonald",
       "type": "person",
       "name": "James E. McDonald",
       "summary": "Atmospheric physicist"
+    },
+    {
+      "id": "james-fox",
+      "type": "person",
+      "name": "James Fox",
+      "summary": "James Fox is referenced in WEAPONIZED Episodes #103–#112."
     },
     {
       "id": "james-lacatski",
@@ -2479,6 +2875,12 @@
       "summary": "Former U.S. Navy radar operator who reported tracking anomalous objects during the 2004 Nimitz events."
     },
     {
+      "id": "lenval-logan",
+      "type": "person",
+      "name": "Lenval Logan",
+      "summary": "Lenval Logan is referenced in WEAPONIZED Episodes #103–#112."
+    },
+    {
       "id": "leslie-kean",
       "type": "person",
       "name": "Leslie Kean",
@@ -2549,6 +2951,12 @@
       "type": "person",
       "name": "Michael Shellenberger",
       "summary": "Journalist and founder of Public who testified at the November 2024 House UAP hearing."
+    },
+    {
+      "id": "michele-adams",
+      "type": "person",
+      "name": "Michele Adams",
+      "summary": "Michele Adams is referenced in WEAPONIZED Episodes #103–#112."
     },
     {
       "id": "mike-gold",
@@ -2635,6 +3043,12 @@
       "summary": "Australian investigative journalist and NewsNation correspondent whose interviews have become central records in modern UAP disclosure reporting."
     },
     {
+      "id": "ryan-bodenheimer",
+      "type": "person",
+      "name": "Ryan Bodenheimer",
+      "summary": "Ryan Bodenheimer is referenced in WEAPONIZED Episodes #103–#112."
+    },
+    {
       "id": "ryan-graves",
       "type": "person",
       "name": "Ryan Graves",
@@ -2701,6 +3115,12 @@
       "summary": "Retired U.S. Navy rear admiral and former NOAA official who testified about aviation and maritime safety."
     },
     {
+      "id": "tim-phillips",
+      "type": "person",
+      "name": "Tim Phillips",
+      "summary": "Tim Phillips is referenced in WEAPONIZED Episodes #103–#112."
+    },
+    {
       "id": "travis-taylor",
       "type": "person",
       "name": "Travis Taylor",
@@ -2717,6 +3137,12 @@
       "type": "person",
       "name": "Warren Randolph",
       "summary": "Federal Aviation Administration specialist who served on NASA's UAP Independent Study Team."
+    },
+    {
+      "id": "will-brown",
+      "type": "person",
+      "name": "Will Brown",
+      "summary": "Will Brown is referenced in WEAPONIZED Episodes #103–#112."
     },
     {
       "id": "2025-weaponized-episode-100",
@@ -2743,6 +3169,96 @@
       "summary": "Jacques Vallée joins Jeremy Corbell and George Knapp for a wide-ranging discussion of UFO history, Project Blue Book, remote viewing, NIDS, AAWSAP, crash retrievals, the Trinity case, congressional secrecy, science, and paths forward.",
       "date": "2025-12-23",
       "dateDisplay": "December 23, 2025",
+      "status": "Published"
+    },
+    {
+      "id": "2026-weaponized-episode-103",
+      "type": "podcast_episode",
+      "name": "WEAPONIZED Episode #103 — 2025 Year in Review — Progress, Evidence, and Pushback",
+      "summary": "Jeremy Corbell and George Knapp review WEAPONIZED’s 2025 reporting, including new witnesses, released UAP imagery, congressional engagement, major books and films, mystery-drone incursions, and the organized pushback against UFO transparency.",
+      "date": "2026-01-01",
+      "dateDisplay": "January 1, 2026",
+      "status": "Published"
+    },
+    {
+      "id": "2026-weaponized-episode-104",
+      "type": "podcast_episode",
+      "name": "WEAPONIZED Episode #104 — Nazca Mummies — Scientific Criticism and Evidence Tampering",
+      "summary": "Will Brown, biological anthropologist Dan Proctor, and radiologist Michele Adams examine claims surrounding three-fingered South American mummies, alleged specimen manipulation, black-market trafficking, and the evidence needed to establish authenticity.",
+      "date": "2026-01-08",
+      "dateDisplay": "January 8, 2026",
+      "status": "Published"
+    },
+    {
+      "id": "2026-weaponized-episode-105",
+      "type": "podcast_episode",
+      "name": "WEAPONIZED Episode #105 — James Fox — New Varginha Witnesses and the Continuing Cover-Up",
+      "summary": "Filmmaker James Fox discusses new witnesses connected to the 1996 Varginha incident, alleged intimidation, efforts to locate medical personnel and video evidence, and a Washington press event intended to bring firsthand testimony before the public and Congress.",
+      "date": "2026-01-13",
+      "dateDisplay": "January 13, 2026",
+      "status": "Published"
+    },
+    {
+      "id": "2026-weaponized-episode-106",
+      "type": "podcast_episode",
+      "name": "WEAPONIZED Episode #106 — Ryan “Neo” Bodenheimer — Four Pilot UAP Encounters",
+      "summary": "Retired Air Force lieutenant colonel and former Thunderbird Ryan Bodenheimer describes four aerial UAP encounters, including a close call, and explains why the observed objects did not resemble conventional aerodynamic craft.",
+      "date": "2026-01-20",
+      "dateDisplay": "January 20, 2026",
+      "status": "Published"
+    },
+    {
+      "id": "2026-weaponized-episode-107",
+      "type": "podcast_episode",
+      "name": "WEAPONIZED Episode #107 — Soviet UFO Programs — SETKA, Thread 3, and Nuclear Incursions",
+      "summary": "George Knapp revisits his 1990s reporting from Russia and releases documents describing Soviet UFO investigations, including the SETKA collection program, Thread 3 technology analysis, pilot and satellite cases, and an alleged 1982 intrusion at a Ukrainian nuclear missile base.",
+      "date": "2026-01-30",
+      "dateDisplay": "January 30, 2026",
+      "status": "Published"
+    },
+    {
+      "id": "2026-weaponized-episode-108",
+      "type": "podcast_episode",
+      "name": "WEAPONIZED Episode #108 — Syria UAP Video — Apparent Instantaneous Acceleration",
+      "summary": "Jeremy Corbell, George Knapp, and Marik von Rennenkampff analyze newly released intelligence footage from the Jordanian-Syrian border showing an object tracked by an MQ-9 Reaper and appearing to demonstrate extraordinary acceleration.",
+      "date": "2026-02-03",
+      "dateDisplay": "February 3, 2026",
+      "status": "Published"
+    },
+    {
+      "id": "2026-weaponized-episode-109",
+      "type": "podcast_episode",
+      "name": "WEAPONIZED Episode #109 — Bob Lazar in Austin, Syria UAP Debate, and Area 51 Access",
+      "summary": "Corbell and Knapp review Bob Lazar’s surprise Austin appearance, responses to criticism of the Syria UAP footage, an unauthorized Papoose Lake intrusion, and Representative Eric Burlison’s stated plans to visit restricted facilities including Area 51.",
+      "date": "2026-02-11",
+      "dateDisplay": "February 11, 2026",
+      "status": "Published"
+    },
+    {
+      "id": "2026-weaponized-episode-110",
+      "type": "podcast_episode",
+      "name": "WEAPONIZED Episode #110 — Chris Sharp — Former AARO Deputy Director Describes Unexplained Cases",
+      "summary": "Journalist Chris Sharp previews his interview with former AARO deputy director Tim Phillips, including claims that dozens of cases showed extraordinary capabilities, some UAP were detected in space, and classified videos remain unreleased.",
+      "date": "2026-02-24",
+      "dateDisplay": "February 24, 2026",
+      "status": "Published"
+    },
+    {
+      "id": "2026-weaponized-episode-111",
+      "type": "podcast_episode",
+      "name": "WEAPONIZED Episode #111 — Lenval Logan — UAP Task Force Analysis and Better Classified Evidence",
+      "summary": "Former Air Force intelligence analyst and UAP Task Force member Lenval Logan assesses the Syria UAP footage, describes classified evidence stronger than public releases, discusses AWACS tracking of anomalous objects, and explains why original task-force personnel were excluded from AARO.",
+      "date": "2026-03-03",
+      "dateDisplay": "March 3, 2026",
+      "status": "Published"
+    },
+    {
+      "id": "2026-weaponized-episode-112",
+      "type": "podcast_episode",
+      "name": "WEAPONIZED Episode #112 — Eric Burlison — Classified Site Visit and Congressional UAP Oversight",
+      "summary": "Representative Eric Burlison discusses a classified facility visit, limits on what he can reveal, the credibility of whistleblowers, congressional efforts to obtain concealed UAP records, and his evolving view after reviewing sensitive information firsthand.",
+      "date": "2026-03-13",
+      "dateDisplay": "March 13, 2026",
       "status": "Published"
     },
     {
@@ -3720,6 +4236,86 @@
       "dateDisplay": "December 23, 2025"
     },
     {
+      "id": "timeline-2026-01-01-weaponized-episode-103",
+      "type": "timeline_event",
+      "name": "WEAPONIZED Episode #103 published",
+      "summary": "Jeremy Corbell and George Knapp review WEAPONIZED’s 2025 reporting, including new witnesses, released UAP imagery, congressional engagement, major books and films, mystery-drone incursions, and the organized pushback against UFO transparency.",
+      "date": "2026-01-01",
+      "dateDisplay": "January 1, 2026"
+    },
+    {
+      "id": "timeline-2026-01-08-weaponized-episode-104",
+      "type": "timeline_event",
+      "name": "WEAPONIZED Episode #104 published",
+      "summary": "Will Brown, biological anthropologist Dan Proctor, and radiologist Michele Adams examine claims surrounding three-fingered South American mummies, alleged specimen manipulation, black-market trafficking, and the evidence needed to establish authenticity.",
+      "date": "2026-01-08",
+      "dateDisplay": "January 8, 2026"
+    },
+    {
+      "id": "timeline-2026-01-13-weaponized-episode-105",
+      "type": "timeline_event",
+      "name": "WEAPONIZED Episode #105 published",
+      "summary": "Filmmaker James Fox discusses new witnesses connected to the 1996 Varginha incident, alleged intimidation, efforts to locate medical personnel and video evidence, and a Washington press event intended to bring firsthand testimony before the public and Congress.",
+      "date": "2026-01-13",
+      "dateDisplay": "January 13, 2026"
+    },
+    {
+      "id": "timeline-2026-01-20-weaponized-episode-106",
+      "type": "timeline_event",
+      "name": "WEAPONIZED Episode #106 published",
+      "summary": "Retired Air Force lieutenant colonel and former Thunderbird Ryan Bodenheimer describes four aerial UAP encounters, including a close call, and explains why the observed objects did not resemble conventional aerodynamic craft.",
+      "date": "2026-01-20",
+      "dateDisplay": "January 20, 2026"
+    },
+    {
+      "id": "timeline-2026-01-30-weaponized-episode-107",
+      "type": "timeline_event",
+      "name": "WEAPONIZED Episode #107 published",
+      "summary": "George Knapp revisits his 1990s reporting from Russia and releases documents describing Soviet UFO investigations, including the SETKA collection program, Thread 3 technology analysis, pilot and satellite cases, and an alleged 1982 intrusion at a Ukrainian nuclear missile base.",
+      "date": "2026-01-30",
+      "dateDisplay": "January 30, 2026"
+    },
+    {
+      "id": "timeline-2026-02-03-weaponized-episode-108",
+      "type": "timeline_event",
+      "name": "WEAPONIZED Episode #108 published",
+      "summary": "Jeremy Corbell, George Knapp, and Marik von Rennenkampff analyze newly released intelligence footage from the Jordanian-Syrian border showing an object tracked by an MQ-9 Reaper and appearing to demonstrate extraordinary acceleration.",
+      "date": "2026-02-03",
+      "dateDisplay": "February 3, 2026"
+    },
+    {
+      "id": "timeline-2026-02-11-weaponized-episode-109",
+      "type": "timeline_event",
+      "name": "WEAPONIZED Episode #109 published",
+      "summary": "Corbell and Knapp review Bob Lazar’s surprise Austin appearance, responses to criticism of the Syria UAP footage, an unauthorized Papoose Lake intrusion, and Representative Eric Burlison’s stated plans to visit restricted facilities including Area 51.",
+      "date": "2026-02-11",
+      "dateDisplay": "February 11, 2026"
+    },
+    {
+      "id": "timeline-2026-02-24-weaponized-episode-110",
+      "type": "timeline_event",
+      "name": "WEAPONIZED Episode #110 published",
+      "summary": "Journalist Chris Sharp previews his interview with former AARO deputy director Tim Phillips, including claims that dozens of cases showed extraordinary capabilities, some UAP were detected in space, and classified videos remain unreleased.",
+      "date": "2026-02-24",
+      "dateDisplay": "February 24, 2026"
+    },
+    {
+      "id": "timeline-2026-03-03-weaponized-episode-111",
+      "type": "timeline_event",
+      "name": "WEAPONIZED Episode #111 published",
+      "summary": "Former Air Force intelligence analyst and UAP Task Force member Lenval Logan assesses the Syria UAP footage, describes classified evidence stronger than public releases, discusses AWACS tracking of anomalous objects, and explains why original task-force personnel were excluded from AARO.",
+      "date": "2026-03-03",
+      "dateDisplay": "March 3, 2026"
+    },
+    {
+      "id": "timeline-2026-03-13-weaponized-episode-112",
+      "type": "timeline_event",
+      "name": "WEAPONIZED Episode #112 published",
+      "summary": "Representative Eric Burlison discusses a classified facility visit, limits on what he can reveal, the credibility of whistleblowers, congressional efforts to obtain concealed UAP records, and his evolving view after reviewing sensitive information firsthand.",
+      "date": "2026-03-13",
+      "dateDisplay": "March 13, 2026"
+    },
+    {
       "id": "timeline-2026-04-14-weaponized-episode-115",
       "type": "timeline_event",
       "name": "WEAPONIZED Episode #115 Revisits the Bob Lazar Story",
@@ -3878,10 +4474,22 @@
       "summary": "Safety implications of unidentified objects or phenomena operating near aircraft"
     },
     {
+      "id": "awacs",
+      "type": "topic",
+      "name": "Awacs",
+      "summary": "A knowledge-graph entity referenced in the V19.4 WEAPONIZED production batch."
+    },
+    {
       "id": "classification",
       "type": "topic",
       "name": "Classification",
       "summary": "Rules and practices governing access to sensitive government information"
+    },
+    {
+      "id": "classified-programs",
+      "type": "topic",
+      "name": "Classified Programs",
+      "summary": "A knowledge-graph entity referenced in the V19.4 WEAPONIZED production batch."
     },
     {
       "id": "congressional-oversight",
@@ -3926,6 +4534,12 @@
       "summary": "The hypothesis that some reports may involve non-human extraterrestrial intelligence or technology."
     },
     {
+      "id": "five-observables",
+      "type": "topic",
+      "name": "Five Observables",
+      "summary": "A knowledge-graph entity referenced in the V19.4 WEAPONIZED production batch."
+    },
+    {
       "id": "government-transparency",
       "type": "topic",
       "name": "Government Transparency",
@@ -3956,6 +4570,12 @@
       "summary": "Name associated with allegations of a highly compartmentalized U.S. government UAP collection and intelligence program. The program's alleged scope and existence remain subjects of public claims and congressional interest."
     },
     {
+      "id": "instantaneous-acceleration",
+      "type": "topic",
+      "name": "Instantaneous Acceleration",
+      "summary": "A knowledge-graph entity referenced in the V19.4 WEAPONIZED production batch."
+    },
+    {
       "id": "kona-blue",
       "type": "topic",
       "name": "Kona Blue",
@@ -3974,10 +4594,22 @@
       "summary": "Topic connected to WEAPONIZED Episodes #93–102: Media Coverage."
     },
     {
+      "id": "military-pilot-uap-encounters",
+      "type": "topic",
+      "name": "Military Pilot Uap Encounters",
+      "summary": "A knowledge-graph entity referenced in the V19.4 WEAPONIZED production batch."
+    },
+    {
       "id": "military-secrecy",
       "type": "topic",
       "name": "Military Secrecy",
       "summary": "Topic connected to WEAPONIZED Episodes #93–102: Military Secrecy."
+    },
+    {
+      "id": "military-sensor-data",
+      "type": "topic",
+      "name": "Military Sensor Data",
+      "summary": "A knowledge-graph entity referenced in the V19.4 WEAPONIZED production batch."
     },
     {
       "id": "military-uap-witnesses",
@@ -4010,16 +4642,34 @@
       "summary": "Legal and institutional controls governing classified national-security information."
     },
     {
+      "id": "research-integrity",
+      "type": "topic",
+      "name": "Research Integrity",
+      "summary": "A knowledge-graph entity referenced in the V19.4 WEAPONIZED production batch."
+    },
+    {
       "id": "reverse-engineering",
       "type": "topic",
       "name": "Reverse Engineering",
       "summary": "Efforts to understand and reproduce technologies by studying recovered systems or materials."
     },
     {
+      "id": "s4-papoose-lake",
+      "type": "topic",
+      "name": "S4 Papoose Lake",
+      "summary": "A knowledge-graph entity referenced in the V19.4 WEAPONIZED production batch."
+    },
+    {
       "id": "sasquatch",
       "type": "topic",
       "name": "Sasquatch",
       "summary": "Topic connected to WEAPONIZED Episodes #93–102: Sasquatch."
+    },
+    {
+      "id": "scientific-evidence",
+      "type": "topic",
+      "name": "Scientific Evidence",
+      "summary": "A knowledge-graph entity referenced in the V19.4 WEAPONIZED production batch."
     },
     {
       "id": "scientific-investigation",
@@ -4032,6 +4682,36 @@
       "type": "topic",
       "name": "Security Clearance Retaliation",
       "summary": "Alleged use of security-clearance processes to pressure, silence, or punish personnel."
+    },
+    {
+      "id": "setka-program",
+      "type": "topic",
+      "name": "Setka Program",
+      "summary": "A knowledge-graph entity referenced in the V19.4 WEAPONIZED production batch."
+    },
+    {
+      "id": "signature-management",
+      "type": "topic",
+      "name": "Signature Management",
+      "summary": "A knowledge-graph entity referenced in the V19.4 WEAPONIZED production batch."
+    },
+    {
+      "id": "soviet-ufo-programs",
+      "type": "topic",
+      "name": "Soviet Ufo Programs",
+      "summary": "A knowledge-graph entity referenced in the V19.4 WEAPONIZED production batch."
+    },
+    {
+      "id": "space-based-uap",
+      "type": "topic",
+      "name": "Space Based Uap",
+      "summary": "A knowledge-graph entity referenced in the V19.4 WEAPONIZED production batch."
+    },
+    {
+      "id": "thread-3-program",
+      "type": "topic",
+      "name": "Thread 3 Program",
+      "summary": "A knowledge-graph entity referenced in the V19.4 WEAPONIZED production batch."
     },
     {
       "id": "tic-tac-uap",
@@ -4106,6 +4786,18 @@
       "summary": "Topic connected to WEAPONIZED Episodes #93–102: UAP Science."
     },
     {
+      "id": "uap-stigma",
+      "type": "topic",
+      "name": "Uap Stigma",
+      "summary": "A knowledge-graph entity referenced in the V19.4 WEAPONIZED production batch."
+    },
+    {
+      "id": "uap-transparency",
+      "type": "topic",
+      "name": "Uap Transparency",
+      "summary": "A knowledge-graph entity referenced in the V19.4 WEAPONIZED production batch."
+    },
+    {
       "id": "ufo-cryptid-connection",
       "type": "topic",
       "name": "UFO–Cryptid Connection",
@@ -4128,6 +4820,12 @@
       "type": "topic",
       "name": "Whistleblower Retaliation",
       "summary": "Professional, legal, financial, or personal retaliation alleged by people reporting sensitive information."
+    },
+    {
+      "id": "witness-intimidation",
+      "type": "topic",
+      "name": "Witness Intimidation",
+      "summary": "A knowledge-graph entity referenced in the V19.4 WEAPONIZED production batch."
     }
   ]
 }

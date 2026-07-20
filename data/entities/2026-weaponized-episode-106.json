@@ -1,0 +1,99 @@
+{
+  "id": "2026-weaponized-episode-106",
+  "type": "podcast_episode",
+  "name": "WEAPONIZED Episode #106 — Ryan “Neo” Bodenheimer — Four Pilot UAP Encounters",
+  "summary": "Retired Air Force lieutenant colonel and former Thunderbird Ryan Bodenheimer describes four aerial UAP encounters, including a close call, and explains why the observed objects did not resemble conventional aerodynamic craft.",
+  "date": "2026-01-20",
+  "dateDisplay": "January 20, 2026",
+  "seriesId": "weaponized-podcast",
+  "episodeNumber": 106,
+  "episodeTitle": "Ryan “Neo” Bodenheimer — Four Pilot UAP Encounters",
+  "status": "Published",
+  "mediaType": "Podcast episode",
+  "mediaPlatform": "WEAPONIZED",
+  "mediaHost": "Jeremy Corbell and George Knapp",
+  "mediaGuests": [
+    "ryan-bodenheimer"
+  ],
+  "mediaSubjects": [],
+  "principalClaims": [
+    "claim-bodenheimer-reports-four-separate-uap-encounters",
+    "claim-one-encounter-involved-a-potentially-dangerous-close-approach",
+    "claim-the-observed-objects-lacked-conventional-aerodynamic-design",
+    "claim-reduced-stigma-encouraged-the-pilot-to-speak-publicly",
+    "claim-experienced-pilots-can-provide-valuable-observational-evidence"
+  ],
+  "researchNotes": [],
+  "relationships": [
+    {
+      "type": "episode_of",
+      "target": "weaponized-podcast"
+    },
+    {
+      "type": "features_person",
+      "target": "jeremy-corbell",
+      "role": "host",
+      "context": "WEAPONIZED co-host"
+    },
+    {
+      "type": "features_person",
+      "target": "george-knapp",
+      "role": "host",
+      "context": "WEAPONIZED co-host"
+    },
+    {
+      "type": "features_person",
+      "target": "ryan-bodenheimer",
+      "role": "guest",
+      "context": "Featured episode participant"
+    },
+    {
+      "type": "references_organization",
+      "target": "united-states-air-force"
+    },
+    {
+      "type": "references_organization",
+      "target": "united-states-air-force-thunderbirds"
+    },
+    {
+      "type": "discussed_topic",
+      "target": "military-pilot-uap-encounters"
+    },
+    {
+      "type": "discussed_topic",
+      "target": "aviation-safety"
+    },
+    {
+      "type": "discussed_topic",
+      "target": "uap-stigma"
+    }
+  ],
+  "mediaLinks": [
+    {
+      "label": "Open the official Episode #106 page",
+      "url": "https://www.weaponizedpodcast.com/episodes-4/episode-106",
+      "platform": "WEAPONIZED"
+    },
+    {
+      "label": "Listen to WEAPONIZED",
+      "url": "https://link.chtbl.com/Weaponized",
+      "platform": "Official audio feed"
+    }
+  ],
+  "eventCategory": "Podcast publication",
+  "officialLinks": [],
+  "referenceSources": [
+    {
+      "label": "Official WEAPONIZED Episode #106 page",
+      "url": "https://www.weaponizedpodcast.com/episodes-4/episode-106",
+      "sourceType": "official_episode_page",
+      "role": "source"
+    },
+    {
+      "label": "Listen to WEAPONIZED",
+      "url": "https://link.chtbl.com/Weaponized",
+      "sourceType": "official_audio_feed",
+      "role": "source"
+    }
+  ]
+}

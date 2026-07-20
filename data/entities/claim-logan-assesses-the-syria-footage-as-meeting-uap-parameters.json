@@ -1,0 +1,21 @@
+{
+  "id": "claim-logan-assesses-the-syria-footage-as-meeting-uap-parameters",
+  "type": "claim",
+  "name": "Logan assesses the Syria footage as meeting UAP parameters",
+  "summary": "He specifically endorses instantaneous acceleration as visible in the case.",
+  "relationships": [
+    {
+      "type": "featured_in_media",
+      "target": "2026-weaponized-episode-111"
+    }
+  ],
+  "officialLinks": [],
+  "referenceSources": [
+    {
+      "label": "Official WEAPONIZED Episode #111 page",
+      "url": "https://www.weaponizedpodcast.com/episodes-4/episode-111",
+      "sourceType": "official_episode_page",
+      "role": "source"
+    }
+  ]
+}

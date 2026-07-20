@@ -1,0 +1,21 @@
+{
+  "id": "claim-previously-restricted-uap-imagery-entered-public-discussion",
+  "type": "claim",
+  "name": "Previously restricted UAP imagery entered public discussion",
+  "summary": "The hosts state that images and videos previously held on government systems were unveiled or confirmed during the year.",
+  "relationships": [
+    {
+      "type": "featured_in_media",
+      "target": "2026-weaponized-episode-103"
+    }
+  ],
+  "officialLinks": [],
+  "referenceSources": [
+    {
+      "label": "Official WEAPONIZED Episode #103 page",
+      "url": "https://www.weaponizedpodcast.com/episodes-4/episode-103",
+      "sourceType": "official_episode_page",
+      "role": "source"
+    }
+  ]
+}

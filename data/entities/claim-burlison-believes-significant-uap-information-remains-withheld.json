@@ -1,0 +1,21 @@
+{
+  "id": "claim-burlison-believes-significant-uap-information-remains-withheld",
+  "type": "claim",
+  "name": "Burlison believes significant UAP information remains withheld",
+  "summary": "The interview indicates his concern that government channels are not providing full transparency.",
+  "relationships": [
+    {
+      "type": "featured_in_media",
+      "target": "2026-weaponized-episode-112"
+    }
+  ],
+  "officialLinks": [],
+  "referenceSources": [
+    {
+      "label": "Official WEAPONIZED Episode #112 page",
+      "url": "https://www.weaponizedpodcast.com/episodes-4/episode-112",
+      "sourceType": "official_episode_page",
+      "role": "source"
+    }
+  ]
+}

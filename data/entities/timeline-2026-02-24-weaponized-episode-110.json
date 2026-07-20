@@ -1,0 +1,24 @@
+{
+  "id": "timeline-2026-02-24-weaponized-episode-110",
+  "type": "timeline_event",
+  "name": "WEAPONIZED Episode #110 published",
+  "summary": "Journalist Chris Sharp previews his interview with former AARO deputy director Tim Phillips, including claims that dozens of cases showed extraordinary capabilities, some UAP were detected in space, and classified videos remain unreleased.",
+  "date": "2026-02-24",
+  "dateDisplay": "February 24, 2026",
+  "eventCategory": "Podcast publication",
+  "relationships": [
+    {
+      "type": "event_for",
+      "target": "2026-weaponized-episode-110"
+    }
+  ],
+  "officialLinks": [],
+  "referenceSources": [
+    {
+      "label": "Official WEAPONIZED Episode #110 page",
+      "url": "https://www.weaponizedpodcast.com/episodes-4/episode-110",
+      "sourceType": "official_episode_page",
+      "role": "source"
+    }
+  ]
+}

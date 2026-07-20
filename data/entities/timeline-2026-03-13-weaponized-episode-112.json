@@ -1,0 +1,24 @@
+{
+  "id": "timeline-2026-03-13-weaponized-episode-112",
+  "type": "timeline_event",
+  "name": "WEAPONIZED Episode #112 published",
+  "summary": "Representative Eric Burlison discusses a classified facility visit, limits on what he can reveal, the credibility of whistleblowers, congressional efforts to obtain concealed UAP records, and his evolving view after reviewing sensitive information firsthand.",
+  "date": "2026-03-13",
+  "dateDisplay": "March 13, 2026",
+  "eventCategory": "Podcast publication",
+  "relationships": [
+    {
+      "type": "event_for",
+      "target": "2026-weaponized-episode-112"
+    }
+  ],
+  "officialLinks": [],
+  "referenceSources": [
+    {
+      "label": "Official WEAPONIZED Episode #112 page",
+      "url": "https://www.weaponizedpodcast.com/episodes-4/episode-112",
+      "sourceType": "official_episode_page",
+      "role": "source"
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "id": "claim-experienced-pilots-can-provide-valuable-observational-evidence",
+  "type": "claim",
+  "name": "Experienced pilots can provide valuable observational evidence",
+  "summary": "The interview emphasizes the relevance of flight experience when evaluating unusual aerial events.",
+  "relationships": [
+    {
+      "type": "featured_in_media",
+      "target": "2026-weaponized-episode-106"
+    }
+  ],
+  "officialLinks": [],
+  "referenceSources": [
+    {
+      "label": "Official WEAPONIZED Episode #106 page",
+      "url": "https://www.weaponizedpodcast.com/episodes-4/episode-106",
+      "sourceType": "official_episode_page",
+      "role": "source"
+    }
+  ]
+}

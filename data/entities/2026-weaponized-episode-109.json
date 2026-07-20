@@ -1,0 +1,110 @@
+{
+  "id": "2026-weaponized-episode-109",
+  "type": "podcast_episode",
+  "name": "WEAPONIZED Episode #109 — Bob Lazar in Austin, Syria UAP Debate, and Area 51 Access",
+  "summary": "Corbell and Knapp review Bob Lazar’s surprise Austin appearance, responses to criticism of the Syria UAP footage, an unauthorized Papoose Lake intrusion, and Representative Eric Burlison’s stated plans to visit restricted facilities including Area 51.",
+  "date": "2026-02-11",
+  "dateDisplay": "February 11, 2026",
+  "seriesId": "weaponized-podcast",
+  "episodeNumber": 109,
+  "episodeTitle": "Bob Lazar in Austin, Syria UAP Debate, and Area 51 Access",
+  "status": "Published",
+  "mediaType": "Podcast episode",
+  "mediaPlatform": "WEAPONIZED",
+  "mediaHost": "Jeremy Corbell and George Knapp",
+  "mediaGuests": [],
+  "mediaSubjects": [
+    "bob-lazar",
+    "eric-burlison"
+  ],
+  "principalClaims": [
+    "claim-bob-lazar-made-a-surprise-public-appearance-at-an-austin-uap-event",
+    "claim-critiques-of-the-syria-uap-footage-do-not-fully-resolve-the-case",
+    "claim-official-pentagon-commentary-showed-limited-familiarity-with-the-syria-case",
+    "claim-an-investigator-previously-entered-the-restricted-papoose-lake-area",
+    "claim-representative-burlison-sought-access-to-highly-restricted-uap-related-sites"
+  ],
+  "researchNotes": [],
+  "relationships": [
+    {
+      "type": "episode_of",
+      "target": "weaponized-podcast"
+    },
+    {
+      "type": "features_person",
+      "target": "jeremy-corbell",
+      "role": "host",
+      "context": "WEAPONIZED co-host"
+    },
+    {
+      "type": "features_person",
+      "target": "george-knapp",
+      "role": "host",
+      "context": "WEAPONIZED co-host"
+    },
+    {
+      "type": "features_person",
+      "target": "bob-lazar",
+      "role": "subject",
+      "context": "Discussed in the episode"
+    },
+    {
+      "type": "features_person",
+      "target": "eric-burlison",
+      "role": "subject",
+      "context": "Discussed in the episode"
+    },
+    {
+      "type": "references_organization",
+      "target": "united-states-department-of-defense"
+    },
+    {
+      "type": "references_organization",
+      "target": "white-house"
+    },
+    {
+      "type": "discussed_topic",
+      "target": "area-51"
+    },
+    {
+      "type": "discussed_topic",
+      "target": "s4-papoose-lake"
+    },
+    {
+      "type": "discussed_topic",
+      "target": "syria-uap-2021"
+    },
+    {
+      "type": "discussed_topic",
+      "target": "uap-transparency"
+    }
+  ],
+  "mediaLinks": [
+    {
+      "label": "Open the official Episode #109 page",
+      "url": "https://www.weaponizedpodcast.com/episodes-4/episode-109",
+      "platform": "WEAPONIZED"
+    },
+    {
+      "label": "Listen to WEAPONIZED",
+      "url": "https://link.chtbl.com/Weaponized",
+      "platform": "Official audio feed"
+    }
+  ],
+  "eventCategory": "Podcast publication",
+  "officialLinks": [],
+  "referenceSources": [
+    {
+      "label": "Official WEAPONIZED Episode #109 page",
+      "url": "https://www.weaponizedpodcast.com/episodes-4/episode-109",
+      "sourceType": "official_episode_page",
+      "role": "source"
+    },
+    {
+      "label": "Listen to WEAPONIZED",
+      "url": "https://link.chtbl.com/Weaponized",
+      "sourceType": "official_audio_feed",
+      "role": "source"
+    }
+  ]
+}

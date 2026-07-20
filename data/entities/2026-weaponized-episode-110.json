@@ -1,0 +1,129 @@
+{
+  "id": "2026-weaponized-episode-110",
+  "type": "podcast_episode",
+  "name": "WEAPONIZED Episode #110 — Chris Sharp — Former AARO Deputy Director Describes Unexplained Cases",
+  "summary": "Journalist Chris Sharp previews his interview with former AARO deputy director Tim Phillips, including claims that dozens of cases showed extraordinary capabilities, some UAP were detected in space, and classified videos remain unreleased.",
+  "date": "2026-02-24",
+  "dateDisplay": "February 24, 2026",
+  "seriesId": "weaponized-podcast",
+  "episodeNumber": 110,
+  "episodeTitle": "Chris Sharp — Former AARO Deputy Director Describes Unexplained Cases",
+  "status": "Published",
+  "mediaType": "Podcast episode",
+  "mediaPlatform": "WEAPONIZED",
+  "mediaHost": "Jeremy Corbell and George Knapp",
+  "mediaGuests": [
+    "chris-sharp"
+  ],
+  "mediaSubjects": [
+    "tim-phillips",
+    "glenn-gaffney",
+    "james-clapper"
+  ],
+  "principalClaims": [
+    "claim-aaro-identified-roughly-40-to-50-cases-with-bizarre-unexplained-capabilities",
+    "claim-aaro-assessed-that-some-cases-were-neither-friendly-nor-adversary-technology",
+    "claim-uap-have-been-detected-in-space",
+    "claim-some-objects-appeared-to-manage-their-signatures-near-sensitive-sites",
+    "claim-aaro-withheld-videos-of-its-strongest-unresolved-cases"
+  ],
+  "researchNotes": [],
+  "relationships": [
+    {
+      "type": "episode_of",
+      "target": "weaponized-podcast"
+    },
+    {
+      "type": "features_person",
+      "target": "jeremy-corbell",
+      "role": "host",
+      "context": "WEAPONIZED co-host"
+    },
+    {
+      "type": "features_person",
+      "target": "george-knapp",
+      "role": "host",
+      "context": "WEAPONIZED co-host"
+    },
+    {
+      "type": "features_person",
+      "target": "chris-sharp",
+      "role": "guest",
+      "context": "Featured episode participant"
+    },
+    {
+      "type": "features_person",
+      "target": "tim-phillips",
+      "role": "subject",
+      "context": "Discussed in the episode"
+    },
+    {
+      "type": "features_person",
+      "target": "glenn-gaffney",
+      "role": "subject",
+      "context": "Discussed in the episode"
+    },
+    {
+      "type": "features_person",
+      "target": "james-clapper",
+      "role": "subject",
+      "context": "Discussed in the episode"
+    },
+    {
+      "type": "references_organization",
+      "target": "all-domain-anomaly-resolution-office"
+    },
+    {
+      "type": "references_organization",
+      "target": "central-intelligence-agency"
+    },
+    {
+      "type": "references_organization",
+      "target": "united-states-air-force"
+    },
+    {
+      "type": "discussed_topic",
+      "target": "aaro"
+    },
+    {
+      "type": "discussed_topic",
+      "target": "uap-transparency"
+    },
+    {
+      "type": "discussed_topic",
+      "target": "signature-management"
+    },
+    {
+      "type": "discussed_topic",
+      "target": "space-based-uap"
+    }
+  ],
+  "mediaLinks": [
+    {
+      "label": "Open the official Episode #110 page",
+      "url": "https://www.weaponizedpodcast.com/episodes-4/episode-110",
+      "platform": "WEAPONIZED"
+    },
+    {
+      "label": "Listen to WEAPONIZED",
+      "url": "https://link.chtbl.com/Weaponized",
+      "platform": "Official audio feed"
+    }
+  ],
+  "eventCategory": "Podcast publication",
+  "officialLinks": [],
+  "referenceSources": [
+    {
+      "label": "Official WEAPONIZED Episode #110 page",
+      "url": "https://www.weaponizedpodcast.com/episodes-4/episode-110",
+      "sourceType": "official_episode_page",
+      "role": "source"
+    },
+    {
+      "label": "Listen to WEAPONIZED",
+      "url": "https://link.chtbl.com/Weaponized",
+      "sourceType": "official_audio_feed",
+      "role": "source"
+    }
+  ]
+}

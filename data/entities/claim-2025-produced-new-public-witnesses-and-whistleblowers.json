@@ -1,0 +1,21 @@
+{
+  "id": "claim-2025-produced-new-public-witnesses-and-whistleblowers",
+  "type": "claim",
+  "name": "2025 produced new public witnesses and whistleblowers",
+  "summary": "The episode reviews several witnesses and whistleblowers introduced or amplified by WEAPONIZED during 2025.",
+  "relationships": [
+    {
+      "type": "featured_in_media",
+      "target": "2026-weaponized-episode-103"
+    }
+  ],
+  "officialLinks": [],
+  "referenceSources": [
+    {
+      "label": "Official WEAPONIZED Episode #103 page",
+      "url": "https://www.weaponizedpodcast.com/episodes-4/episode-103",
+      "sourceType": "official_episode_page",
+      "role": "source"
+    }
+  ]
+}

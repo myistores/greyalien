@@ -1,0 +1,105 @@
+{
+  "id": "2026-weaponized-episode-104",
+  "type": "podcast_episode",
+  "name": "WEAPONIZED Episode #104 — Nazca Mummies — Scientific Criticism and Evidence Tampering",
+  "summary": "Will Brown, biological anthropologist Dan Proctor, and radiologist Michele Adams examine claims surrounding three-fingered South American mummies, alleged specimen manipulation, black-market trafficking, and the evidence needed to establish authenticity.",
+  "date": "2026-01-08",
+  "dateDisplay": "January 8, 2026",
+  "seriesId": "weaponized-podcast",
+  "episodeNumber": 104,
+  "episodeTitle": "Nazca Mummies — Scientific Criticism and Evidence Tampering",
+  "status": "Published",
+  "mediaType": "Podcast episode",
+  "mediaPlatform": "WEAPONIZED",
+  "mediaHost": "Jeremy Corbell and George Knapp",
+  "mediaGuests": [
+    "will-brown",
+    "dan-proctor",
+    "michele-adams"
+  ],
+  "mediaSubjects": [],
+  "principalClaims": [
+    "claim-prominent-mummy-specimens-show-signs-of-physical-manipulation",
+    "claim-some-promoters-have-previously-fabricated-evidence",
+    "claim-independent-experts-require-direct-and-transparent-access",
+    "claim-the-mummy-trade-may-involve-grave-robbing-and-illicit-sales",
+    "claim-interest-in-non-human-intelligence-does-not-excuse-weak-methodology"
+  ],
+  "researchNotes": [],
+  "relationships": [
+    {
+      "type": "episode_of",
+      "target": "weaponized-podcast"
+    },
+    {
+      "type": "features_person",
+      "target": "jeremy-corbell",
+      "role": "host",
+      "context": "WEAPONIZED co-host"
+    },
+    {
+      "type": "features_person",
+      "target": "george-knapp",
+      "role": "host",
+      "context": "WEAPONIZED co-host"
+    },
+    {
+      "type": "features_person",
+      "target": "will-brown",
+      "role": "guest",
+      "context": "Featured episode participant"
+    },
+    {
+      "type": "features_person",
+      "target": "dan-proctor",
+      "role": "guest",
+      "context": "Featured episode participant"
+    },
+    {
+      "type": "features_person",
+      "target": "michele-adams",
+      "role": "guest",
+      "context": "Featured episode participant"
+    },
+    {
+      "type": "discussed_topic",
+      "target": "nazca-mummies"
+    },
+    {
+      "type": "discussed_topic",
+      "target": "scientific-evidence"
+    },
+    {
+      "type": "discussed_topic",
+      "target": "research-integrity"
+    }
+  ],
+  "mediaLinks": [
+    {
+      "label": "Open the official Episode #104 page",
+      "url": "https://www.weaponizedpodcast.com/episodes-4/episode-104",
+      "platform": "WEAPONIZED"
+    },
+    {
+      "label": "Listen to WEAPONIZED",
+      "url": "https://link.chtbl.com/Weaponized",
+      "platform": "Official audio feed"
+    }
+  ],
+  "eventCategory": "Podcast publication",
+  "officialLinks": [],
+  "referenceSources": [
+    {
+      "label": "Official WEAPONIZED Episode #104 page",
+      "url": "https://www.weaponizedpodcast.com/episodes-4/episode-104",
+      "sourceType": "official_episode_page",
+      "role": "source"
+    },
+    {
+      "label": "Listen to WEAPONIZED",
+      "url": "https://link.chtbl.com/Weaponized",
+      "sourceType": "official_audio_feed",
+      "role": "source"
+    }
+  ]
+}

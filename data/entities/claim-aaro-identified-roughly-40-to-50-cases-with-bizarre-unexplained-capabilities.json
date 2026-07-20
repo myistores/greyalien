@@ -1,0 +1,21 @@
+{
+  "id": "claim-aaro-identified-roughly-40-to-50-cases-with-bizarre-unexplained-capabilities",
+  "type": "claim",
+  "name": "AARO identified roughly 40 to 50 cases with bizarre unexplained capabilities",
+  "summary": "Phillips reportedly described cases involving acceleration, right-angle turns, and maneuvers beyond known aircraft.",
+  "relationships": [
+    {
+      "type": "featured_in_media",
+      "target": "2026-weaponized-episode-110"
+    }
+  ],
+  "officialLinks": [],
+  "referenceSources": [
+    {
+      "label": "Official WEAPONIZED Episode #110 page",
+      "url": "https://www.weaponizedpodcast.com/episodes-4/episode-110",
+      "sourceType": "official_episode_page",
+      "role": "source"
+    }
+  ]
+}

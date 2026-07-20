@@ -1,0 +1,21 @@
+{
+  "id": "claim-aaro-withheld-videos-of-its-strongest-unresolved-cases",
+  "type": "claim",
+  "name": "AARO withheld videos of its strongest unresolved cases",
+  "summary": "Despite internal findings, the office is said not to have released representative footage publicly.",
+  "relationships": [
+    {
+      "type": "featured_in_media",
+      "target": "2026-weaponized-episode-110"
+    }
+  ],
+  "officialLinks": [],
+  "referenceSources": [
+    {
+      "label": "Official WEAPONIZED Episode #110 page",
+      "url": "https://www.weaponizedpodcast.com/episodes-4/episode-110",
+      "sourceType": "official_episode_page",
+      "role": "source"
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "id": "claim-reduced-stigma-encouraged-the-pilot-to-speak-publicly",
+  "type": "claim",
+  "name": "Reduced stigma encouraged the pilot to speak publicly",
+  "summary": "He explains that changing attitudes toward aviator reports made disclosure of his experiences more feasible.",
+  "relationships": [
+    {
+      "type": "featured_in_media",
+      "target": "2026-weaponized-episode-106"
+    }
+  ],
+  "officialLinks": [],
+  "referenceSources": [
+    {
+      "label": "Official WEAPONIZED Episode #106 page",
+      "url": "https://www.weaponizedpodcast.com/episodes-4/episode-106",
+      "sourceType": "official_episode_page",
+      "role": "source"
+    }
+  ]
+}

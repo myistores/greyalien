@@ -1,0 +1,21 @@
+{
+  "id": "claim-a-medical-team-may-have-treated-an-injured-non-human-being",
+  "type": "claim",
+  "name": "A medical team may have treated an injured non-human being",
+  "summary": "Fox discusses testimony concerning medical contact with a creature reportedly recovered after the incident.",
+  "relationships": [
+    {
+      "type": "featured_in_media",
+      "target": "2026-weaponized-episode-105"
+    }
+  ],
+  "officialLinks": [],
+  "referenceSources": [
+    {
+      "label": "Official WEAPONIZED Episode #105 page",
+      "url": "https://www.weaponizedpodcast.com/episodes-4/episode-105",
+      "sourceType": "official_episode_page",
+      "role": "source"
+    }
+  ]
+}

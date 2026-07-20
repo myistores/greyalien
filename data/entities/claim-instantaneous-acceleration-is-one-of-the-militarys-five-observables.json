@@ -1,0 +1,21 @@
+{
+  "id": "claim-instantaneous-acceleration-is-one-of-the-militarys-five-observables",
+  "type": "claim",
+  "name": "Instantaneous acceleration is one of the military’s Five Observables",
+  "summary": "The analysis connects the footage to an established UAP identification characteristic.",
+  "relationships": [
+    {
+      "type": "featured_in_media",
+      "target": "2026-weaponized-episode-108"
+    }
+  ],
+  "officialLinks": [],
+  "referenceSources": [
+    {
+      "label": "Official WEAPONIZED Episode #108 page",
+      "url": "https://www.weaponizedpodcast.com/episodes-4/episode-108",
+      "sourceType": "official_episode_page",
+      "role": "source"
+    }
+  ]
+}

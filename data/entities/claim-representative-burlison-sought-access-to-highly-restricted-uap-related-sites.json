@@ -1,0 +1,21 @@
+{
+  "id": "claim-representative-burlison-sought-access-to-highly-restricted-uap-related-sites",
+  "type": "claim",
+  "name": "Representative Burlison sought access to highly restricted UAP-related sites",
+  "summary": "The discussion says the congressman received White House permission to pursue visits including Area 51.",
+  "relationships": [
+    {
+      "type": "featured_in_media",
+      "target": "2026-weaponized-episode-109"
+    }
+  ],
+  "officialLinks": [],
+  "referenceSources": [
+    {
+      "label": "Official WEAPONIZED Episode #109 page",
+      "url": "https://www.weaponizedpodcast.com/episodes-4/episode-109",
+      "sourceType": "official_episode_page",
+      "role": "source"
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "id": "claim-an-mq-9-sensor-captured-an-unknown-object-near-the-jordanian-syrian-border",
+  "type": "claim",
+  "name": "An MQ-9 sensor captured an unknown object near the Jordanian-Syrian border",
+  "summary": "The footage is described as originating from a U.S. intelligence platform operating in the region.",
+  "relationships": [
+    {
+      "type": "featured_in_media",
+      "target": "2026-weaponized-episode-108"
+    }
+  ],
+  "officialLinks": [],
+  "referenceSources": [
+    {
+      "label": "Official WEAPONIZED Episode #108 page",
+      "url": "https://www.weaponizedpodcast.com/episodes-4/episode-108",
+      "sourceType": "official_episode_page",
+      "role": "source"
+    }
+  ]
+}

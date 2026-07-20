@@ -1,0 +1,21 @@
+{
+  "id": "claim-congressional-engagement-remained-central-to-disclosure-efforts",
+  "type": "claim",
+  "name": "Congressional engagement remained central to disclosure efforts",
+  "summary": "The episode highlights interviews and assistance involving Representatives Luna, Burchett, and Burlison.",
+  "relationships": [
+    {
+      "type": "featured_in_media",
+      "target": "2026-weaponized-episode-103"
+    }
+  ],
+  "officialLinks": [],
+  "referenceSources": [
+    {
+      "label": "Official WEAPONIZED Episode #103 page",
+      "url": "https://www.weaponizedpodcast.com/episodes-4/episode-103",
+      "sourceType": "official_episode_page",
+      "role": "source"
+    }
+  ]
+}

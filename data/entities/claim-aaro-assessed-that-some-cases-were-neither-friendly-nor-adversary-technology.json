@@ -1,0 +1,21 @@
+{
+  "id": "claim-aaro-assessed-that-some-cases-were-neither-friendly-nor-adversary-technology",
+  "type": "claim",
+  "name": "AARO assessed that some cases were neither friendly nor adversary technology",
+  "summary": "The reported interview says leading experts ruled out conventional national systems.",
+  "relationships": [
+    {
+      "type": "featured_in_media",
+      "target": "2026-weaponized-episode-110"
+    }
+  ],
+  "officialLinks": [],
+  "referenceSources": [
+    {
+      "label": "Official WEAPONIZED Episode #110 page",
+      "url": "https://www.weaponizedpodcast.com/episodes-4/episode-110",
+      "sourceType": "official_episode_page",
+      "role": "source"
+    }
+  ]
+}

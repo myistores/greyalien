@@ -1,0 +1,21 @@
+{
+  "id": "claim-the-case-may-implicate-u-s-custody-of-recovered-evidence",
+  "type": "claim",
+  "name": "The case may implicate U.S. custody of recovered evidence",
+  "summary": "The episode calls for military and intelligence agencies to explain what became of materials or beings connected to crash-retrieval cases.",
+  "relationships": [
+    {
+      "type": "featured_in_media",
+      "target": "2026-weaponized-episode-105"
+    }
+  ],
+  "officialLinks": [],
+  "referenceSources": [
+    {
+      "label": "Official WEAPONIZED Episode #105 page",
+      "url": "https://www.weaponizedpodcast.com/episodes-4/episode-105",
+      "sourceType": "official_episode_page",
+      "role": "source"
+    }
+  ]
+}

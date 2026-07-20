@@ -1,0 +1,169 @@
+{
+  "id": "2026-weaponized-episode-103",
+  "type": "podcast_episode",
+  "name": "WEAPONIZED Episode #103 — 2025 Year in Review — Progress, Evidence, and Pushback",
+  "summary": "Jeremy Corbell and George Knapp review WEAPONIZED’s 2025 reporting, including new witnesses, released UAP imagery, congressional engagement, major books and films, mystery-drone incursions, and the organized pushback against UFO transparency.",
+  "date": "2026-01-01",
+  "dateDisplay": "January 1, 2026",
+  "seriesId": "weaponized-podcast",
+  "episodeNumber": 103,
+  "episodeTitle": "2025 Year in Review — Progress, Evidence, and Pushback",
+  "status": "Published",
+  "mediaType": "Podcast episode",
+  "mediaPlatform": "WEAPONIZED",
+  "mediaHost": "Jeremy Corbell and George Knapp",
+  "mediaGuests": [],
+  "mediaSubjects": [
+    "matthew-brown",
+    "dylan-borland",
+    "alexandro-wiggins",
+    "jeff-nuccitelli",
+    "james-lacatski",
+    "jacques-vallee",
+    "jay-stratton",
+    "philip-j-corso",
+    "anna-paulina-luna",
+    "tim-burchett",
+    "eric-burlison"
+  ],
+  "principalClaims": [
+    "claim-2025-produced-new-public-witnesses-and-whistleblowers",
+    "claim-previously-restricted-uap-imagery-entered-public-discussion",
+    "claim-congressional-engagement-remained-central-to-disclosure-efforts",
+    "claim-media-productions-renewed-global-interest-in-uap",
+    "claim-organized-pushback-against-transparency-is-already-underway"
+  ],
+  "researchNotes": [],
+  "relationships": [
+    {
+      "type": "episode_of",
+      "target": "weaponized-podcast"
+    },
+    {
+      "type": "features_person",
+      "target": "jeremy-corbell",
+      "role": "host",
+      "context": "WEAPONIZED co-host"
+    },
+    {
+      "type": "features_person",
+      "target": "george-knapp",
+      "role": "host",
+      "context": "WEAPONIZED co-host"
+    },
+    {
+      "type": "features_person",
+      "target": "matthew-brown",
+      "role": "subject",
+      "context": "Discussed in the episode"
+    },
+    {
+      "type": "features_person",
+      "target": "dylan-borland",
+      "role": "subject",
+      "context": "Discussed in the episode"
+    },
+    {
+      "type": "features_person",
+      "target": "alexandro-wiggins",
+      "role": "subject",
+      "context": "Discussed in the episode"
+    },
+    {
+      "type": "features_person",
+      "target": "jeff-nuccitelli",
+      "role": "subject",
+      "context": "Discussed in the episode"
+    },
+    {
+      "type": "features_person",
+      "target": "james-lacatski",
+      "role": "subject",
+      "context": "Discussed in the episode"
+    },
+    {
+      "type": "features_person",
+      "target": "jacques-vallee",
+      "role": "subject",
+      "context": "Discussed in the episode"
+    },
+    {
+      "type": "features_person",
+      "target": "jay-stratton",
+      "role": "subject",
+      "context": "Discussed in the episode"
+    },
+    {
+      "type": "features_person",
+      "target": "philip-j-corso",
+      "role": "subject",
+      "context": "Discussed in the episode"
+    },
+    {
+      "type": "features_person",
+      "target": "anna-paulina-luna",
+      "role": "subject",
+      "context": "Discussed in the episode"
+    },
+    {
+      "type": "features_person",
+      "target": "tim-burchett",
+      "role": "subject",
+      "context": "Discussed in the episode"
+    },
+    {
+      "type": "features_person",
+      "target": "eric-burlison",
+      "role": "subject",
+      "context": "Discussed in the episode"
+    },
+    {
+      "type": "references_organization",
+      "target": "united-states-congress"
+    },
+    {
+      "type": "discussed_topic",
+      "target": "uap-transparency"
+    },
+    {
+      "type": "discussed_topic",
+      "target": "mystery-drones"
+    },
+    {
+      "type": "discussed_topic",
+      "target": "uap-disinformation"
+    },
+    {
+      "type": "discussed_topic",
+      "target": "congressional-oversight"
+    }
+  ],
+  "mediaLinks": [
+    {
+      "label": "Open the official Episode #103 page",
+      "url": "https://www.weaponizedpodcast.com/episodes-4/episode-103",
+      "platform": "WEAPONIZED"
+    },
+    {
+      "label": "Listen to WEAPONIZED",
+      "url": "https://link.chtbl.com/Weaponized",
+      "platform": "Official audio feed"
+    }
+  ],
+  "eventCategory": "Podcast publication",
+  "officialLinks": [],
+  "referenceSources": [
+    {
+      "label": "Official WEAPONIZED Episode #103 page",
+      "url": "https://www.weaponizedpodcast.com/episodes-4/episode-103",
+      "sourceType": "official_episode_page",
+      "role": "source"
+    },
+    {
+      "label": "Listen to WEAPONIZED",
+      "url": "https://link.chtbl.com/Weaponized",
+      "sourceType": "official_audio_feed",
+      "role": "source"
+    }
+  ]
+}
