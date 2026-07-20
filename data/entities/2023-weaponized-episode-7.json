@@ -1,0 +1,74 @@
+{
+  "id": "2023-weaponized-episode-7",
+  "type": "podcast_episode",
+  "name": "WEAPONIZED Episode #7 — Storm Area 51 and the Baghdad Phantom",
+  "summary": "The hosts examine the cultural impact and legal aftermath of the Storm Area 51 phenomenon and release multiple images of an object recorded by a U.S. Air Force Reaper drone and described as a phantom.",
+  "date": "2023-03-06",
+  "dateDisplay": "March 6, 2023",
+  "seriesId": "weaponized-podcast",
+  "episodeNumber": 7,
+  "episodeTitle": "Storm Area 51 and the Baghdad Phantom",
+  "status": "Published",
+  "mediaType": "Podcast episode",
+  "mediaPlatform": "WEAPONIZED",
+  "mediaHost": "Jeremy Corbell and George Knapp",
+  "mediaGuests": [],
+  "mediaSubjects": [],
+  "principalClaims": [
+    "claim-weaponized-7-1",
+    "claim-weaponized-7-2",
+    "claim-weaponized-7-3",
+    "claim-weaponized-7-4"
+  ],
+  "researchNotes": [],
+  "relationships": [
+    {
+      "type": "episode_of",
+      "target": "weaponized-podcast"
+    },
+    {
+      "type": "features_person",
+      "target": "jeremy-corbell",
+      "role": "host",
+      "context": "WEAPONIZED co-host"
+    },
+    {
+      "type": "features_person",
+      "target": "george-knapp",
+      "role": "host",
+      "context": "WEAPONIZED co-host"
+    },
+    {
+      "type": "discussed_topic",
+      "target": "area-51"
+    }
+  ],
+  "mediaLinks": [
+    {
+      "label": "Open the official Episode #7 page",
+      "url": "https://www.weaponizedpodcast.com/episodes-1/episode-number-7",
+      "platform": "WEAPONIZED"
+    },
+    {
+      "label": "Listen to WEAPONIZED",
+      "url": "https://link.chtbl.com/Weaponized",
+      "platform": "Official audio feed"
+    }
+  ],
+  "eventCategory": "Podcast publication",
+  "officialLinks": [],
+  "referenceSources": [
+    {
+      "label": "Official WEAPONIZED Episode #7 page",
+      "url": "https://www.weaponizedpodcast.com/episodes-1/episode-number-7",
+      "sourceType": "official_episode_page",
+      "role": "source"
+    },
+    {
+      "label": "Listen to WEAPONIZED",
+      "url": "https://link.chtbl.com/Weaponized",
+      "sourceType": "official_audio_feed",
+      "role": "source"
+    }
+  ]
+}

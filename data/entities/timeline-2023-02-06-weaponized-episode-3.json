@@ -1,0 +1,24 @@
+{
+  "id": "timeline-2023-02-06-weaponized-episode-3",
+  "type": "timeline_event",
+  "name": "WEAPONIZED Episode #3 published",
+  "summary": "Former intelligence officer Jay Stratton discusses his roles across AAWSAP, AATIP, and the UAP Task Force, including early work on the Tic Tac case and classified briefings delivered across government.",
+  "date": "2023-02-06",
+  "dateDisplay": "February 6, 2023",
+  "eventCategory": "Podcast publication",
+  "relationships": [
+    {
+      "type": "event_for",
+      "target": "2023-weaponized-episode-3"
+    }
+  ],
+  "officialLinks": [],
+  "referenceSources": [
+    {
+      "label": "Official WEAPONIZED Episode #3 page",
+      "url": "https://www.weaponizedpodcast.com/episodes-1/episode-number-3",
+      "sourceType": "official_episode_page",
+      "role": "source"
+    }
+  ]
+}

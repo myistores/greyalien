@@ -1,0 +1,90 @@
+{
+  "id": "2023-weaponized-episode-3",
+  "type": "podcast_episode",
+  "name": "WEAPONIZED Episode #3 — Jay Stratton — AAWSAP, AATIP, and the UAP Task Force",
+  "summary": "Former intelligence officer Jay Stratton discusses his roles across AAWSAP, AATIP, and the UAP Task Force, including early work on the Tic Tac case and classified briefings delivered across government.",
+  "date": "2023-02-06",
+  "dateDisplay": "February 6, 2023",
+  "seriesId": "weaponized-podcast",
+  "episodeNumber": 3,
+  "episodeTitle": "Jay Stratton — AAWSAP, AATIP, and the UAP Task Force",
+  "status": "Published",
+  "mediaType": "Podcast episode",
+  "mediaPlatform": "WEAPONIZED",
+  "mediaHost": "Jeremy Corbell and George Knapp",
+  "mediaGuests": [
+    "jay-stratton"
+  ],
+  "mediaSubjects": [],
+  "principalClaims": [
+    "claim-weaponized-3-1",
+    "claim-weaponized-3-2",
+    "claim-weaponized-3-3",
+    "claim-weaponized-3-4"
+  ],
+  "researchNotes": [],
+  "relationships": [
+    {
+      "type": "episode_of",
+      "target": "weaponized-podcast"
+    },
+    {
+      "type": "features_person",
+      "target": "jeremy-corbell",
+      "role": "host",
+      "context": "WEAPONIZED co-host"
+    },
+    {
+      "type": "features_person",
+      "target": "george-knapp",
+      "role": "host",
+      "context": "WEAPONIZED co-host"
+    },
+    {
+      "type": "features_person",
+      "target": "jay-stratton",
+      "role": "guest",
+      "context": "Featured guest or principal interview subject"
+    },
+    {
+      "type": "discussed_topic",
+      "target": "aawsap"
+    },
+    {
+      "type": "discussed_topic",
+      "target": "aatip"
+    },
+    {
+      "type": "discussed_topic",
+      "target": "uap-task-force"
+    }
+  ],
+  "mediaLinks": [
+    {
+      "label": "Open the official Episode #3 page",
+      "url": "https://www.weaponizedpodcast.com/episodes-1/episode-number-3",
+      "platform": "WEAPONIZED"
+    },
+    {
+      "label": "Listen to WEAPONIZED",
+      "url": "https://link.chtbl.com/Weaponized",
+      "platform": "Official audio feed"
+    }
+  ],
+  "eventCategory": "Podcast publication",
+  "officialLinks": [],
+  "referenceSources": [
+    {
+      "label": "Official WEAPONIZED Episode #3 page",
+      "url": "https://www.weaponizedpodcast.com/episodes-1/episode-number-3",
+      "sourceType": "official_episode_page",
+      "role": "source"
+    },
+    {
+      "label": "Listen to WEAPONIZED",
+      "url": "https://link.chtbl.com/Weaponized",
+      "sourceType": "official_audio_feed",
+      "role": "source"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "id": "timeline-2023-03-06-weaponized-episode-7",
+  "type": "timeline_event",
+  "name": "WEAPONIZED Episode #7 published",
+  "summary": "The hosts examine the cultural impact and legal aftermath of the Storm Area 51 phenomenon and release multiple images of an object recorded by a U.S. Air Force Reaper drone and described as a phantom.",
+  "date": "2023-03-06",
+  "dateDisplay": "March 6, 2023",
+  "eventCategory": "Podcast publication",
+  "relationships": [
+    {
+      "type": "event_for",
+      "target": "2023-weaponized-episode-7"
+    }
+  ],
+  "officialLinks": [],
+  "referenceSources": [
+    {
+      "label": "Official WEAPONIZED Episode #7 page",
+      "url": "https://www.weaponizedpodcast.com/episodes-1/episode-number-7",
+      "sourceType": "official_episode_page",
+      "role": "source"
+    }
+  ]
+}

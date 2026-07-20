@@ -1,0 +1,78 @@
+{
+  "id": "2023-weaponized-episode-6",
+  "type": "podcast_episode",
+  "name": "WEAPONIZED Episode #6 — The Defense Executive, a Recovered Craft, and a Living Occupant",
+  "summary": "George Knapp and Jeremy Corbell revisit a former defense-industry executive’s account involving a recovered craft from New Mexico and an allegedly living occupant, including a promised recorded deposition.",
+  "date": "2023-02-27",
+  "dateDisplay": "February 27, 2023",
+  "seriesId": "weaponized-podcast",
+  "episodeNumber": 6,
+  "episodeTitle": "The Defense Executive, a Recovered Craft, and a Living Occupant",
+  "status": "Published",
+  "mediaType": "Podcast episode",
+  "mediaPlatform": "WEAPONIZED",
+  "mediaHost": "Jeremy Corbell and George Knapp",
+  "mediaGuests": [],
+  "mediaSubjects": [],
+  "principalClaims": [
+    "claim-weaponized-6-1",
+    "claim-weaponized-6-2",
+    "claim-weaponized-6-3",
+    "claim-weaponized-6-4"
+  ],
+  "researchNotes": [],
+  "relationships": [
+    {
+      "type": "episode_of",
+      "target": "weaponized-podcast"
+    },
+    {
+      "type": "features_person",
+      "target": "jeremy-corbell",
+      "role": "host",
+      "context": "WEAPONIZED co-host"
+    },
+    {
+      "type": "features_person",
+      "target": "george-knapp",
+      "role": "host",
+      "context": "WEAPONIZED co-host"
+    },
+    {
+      "type": "discussed_topic",
+      "target": "crash-retrievals"
+    },
+    {
+      "type": "discussed_topic",
+      "target": "area-51"
+    }
+  ],
+  "mediaLinks": [
+    {
+      "label": "Open the official Episode #6 page",
+      "url": "https://www.weaponizedpodcast.com/episodes-1/episode-number-6",
+      "platform": "WEAPONIZED"
+    },
+    {
+      "label": "Listen to WEAPONIZED",
+      "url": "https://link.chtbl.com/Weaponized",
+      "platform": "Official audio feed"
+    }
+  ],
+  "eventCategory": "Podcast publication",
+  "officialLinks": [],
+  "referenceSources": [
+    {
+      "label": "Official WEAPONIZED Episode #6 page",
+      "url": "https://www.weaponizedpodcast.com/episodes-1/episode-number-6",
+      "sourceType": "official_episode_page",
+      "role": "source"
+    },
+    {
+      "label": "Listen to WEAPONIZED",
+      "url": "https://link.chtbl.com/Weaponized",
+      "sourceType": "official_audio_feed",
+      "role": "source"
+    }
+  ]
+}

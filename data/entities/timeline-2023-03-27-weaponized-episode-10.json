@@ -1,0 +1,24 @@
+{
+  "id": "timeline-2023-03-27-weaponized-episode-10",
+  "type": "timeline_event",
+  "name": "WEAPONIZED Episode #10 published",
+  "summary": "Duncan Trussell joins Corbell and Knapp for a wide-ranging discussion about UFOs, artificial intelligence, spirituality, Buddhism, psychedelics, gurus, and the nature of reality.",
+  "date": "2023-03-27",
+  "dateDisplay": "March 27, 2023",
+  "eventCategory": "Podcast publication",
+  "relationships": [
+    {
+      "type": "event_for",
+      "target": "2023-weaponized-episode-10"
+    }
+  ],
+  "officialLinks": [],
+  "referenceSources": [
+    {
+      "label": "Official WEAPONIZED Episode #10 page",
+      "url": "https://www.weaponizedpodcast.com/episodes-1/episode-number-10",
+      "sourceType": "official_episode_page",
+      "role": "source"
+    }
+  ]
+}

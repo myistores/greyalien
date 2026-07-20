@@ -1,0 +1,21 @@
+{
+  "id": "claim-weaponized-7-1",
+  "type": "claim",
+  "name": "The Storm Area 51 meme became a major cultural event reflecting frustration with UFO secrecy.",
+  "summary": "Claim or framing presented in WEAPONIZED Episode #7.",
+  "relationships": [
+    {
+      "type": "featured_in_media",
+      "target": "2023-weaponized-episode-7"
+    }
+  ],
+  "officialLinks": [],
+  "referenceSources": [
+    {
+      "label": "Official WEAPONIZED Episode #7 page",
+      "url": "https://www.weaponizedpodcast.com/episodes-1/episode-number-7",
+      "sourceType": "official_episode_page",
+      "role": "source"
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "id": "claim-weaponized-5-3",
+  "type": "claim",
+  "name": "AAWSAP represented a major government-funded effort to investigate UFO/UAP reports and associated effects.",
+  "summary": "Claim or framing presented in WEAPONIZED Episode #5.",
+  "relationships": [
+    {
+      "type": "featured_in_media",
+      "target": "2023-weaponized-episode-5"
+    }
+  ],
+  "officialLinks": [],
+  "referenceSources": [
+    {
+      "label": "Official WEAPONIZED Episode #5 page",
+      "url": "https://www.weaponizedpodcast.com/episodes-1/episode-number-5",
+      "sourceType": "official_episode_page",
+      "role": "source"
+    }
+  ]
+}

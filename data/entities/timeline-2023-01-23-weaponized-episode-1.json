@@ -1,0 +1,24 @@
+{
+  "id": "timeline-2023-01-23-weaponized-episode-1",
+  "type": "timeline_event",
+  "name": "WEAPONIZED Episode #1 published",
+  "summary": "Jeremy Corbell and George Knapp introduce WEAPONIZED and describe a changing public reality in which military personnel, scientists, journalists, and citizens can discuss UFO/UAP evidence more openly.",
+  "date": "2023-01-23",
+  "dateDisplay": "January 23, 2023",
+  "eventCategory": "Podcast publication",
+  "relationships": [
+    {
+      "type": "event_for",
+      "target": "2023-weaponized-episode-1"
+    }
+  ],
+  "officialLinks": [],
+  "referenceSources": [
+    {
+      "label": "Official WEAPONIZED Episode #1 page",
+      "url": "https://www.weaponizedpodcast.com/episodes-1/episode-number-1",
+      "sourceType": "official_episode_page",
+      "role": "source"
+    }
+  ]
+}

@@ -335,3 +335,6 @@
 - Added ten content-only production episode records, claims, relationships, timeline events, and official sources.
 - Rebuilt generated graph, podcast, related-content, entity-page, homepage, and sitemap outputs.
 - No architecture, rendering, template, schema, navigation, UI, styling, or routing changes.
+
+## V19.5
+- Added WEAPONIZED Episodes #1–#10 as a content-only production ingestion.

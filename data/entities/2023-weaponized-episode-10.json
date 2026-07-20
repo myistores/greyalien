@@ -1,0 +1,78 @@
+{
+  "id": "2023-weaponized-episode-10",
+  "type": "podcast_episode",
+  "name": "WEAPONIZED Episode #10 — Duncan Trussell — UFOs, AI, Spirituality, and Reality",
+  "summary": "Duncan Trussell joins Corbell and Knapp for a wide-ranging discussion about UFOs, artificial intelligence, spirituality, Buddhism, psychedelics, gurus, and the nature of reality.",
+  "date": "2023-03-27",
+  "dateDisplay": "March 27, 2023",
+  "seriesId": "weaponized-podcast",
+  "episodeNumber": 10,
+  "episodeTitle": "Duncan Trussell — UFOs, AI, Spirituality, and Reality",
+  "status": "Published",
+  "mediaType": "Podcast episode",
+  "mediaPlatform": "WEAPONIZED",
+  "mediaHost": "Jeremy Corbell and George Knapp",
+  "mediaGuests": [
+    "duncan-trussell"
+  ],
+  "mediaSubjects": [],
+  "principalClaims": [
+    "claim-weaponized-10-1",
+    "claim-weaponized-10-2",
+    "claim-weaponized-10-3",
+    "claim-weaponized-10-4"
+  ],
+  "researchNotes": [],
+  "relationships": [
+    {
+      "type": "episode_of",
+      "target": "weaponized-podcast"
+    },
+    {
+      "type": "features_person",
+      "target": "jeremy-corbell",
+      "role": "host",
+      "context": "WEAPONIZED co-host"
+    },
+    {
+      "type": "features_person",
+      "target": "george-knapp",
+      "role": "host",
+      "context": "WEAPONIZED co-host"
+    },
+    {
+      "type": "features_person",
+      "target": "duncan-trussell",
+      "role": "guest",
+      "context": "Featured guest or principal interview subject"
+    }
+  ],
+  "mediaLinks": [
+    {
+      "label": "Open the official Episode #10 page",
+      "url": "https://www.weaponizedpodcast.com/episodes-1/episode-number-10",
+      "platform": "WEAPONIZED"
+    },
+    {
+      "label": "Listen to WEAPONIZED",
+      "url": "https://link.chtbl.com/Weaponized",
+      "platform": "Official audio feed"
+    }
+  ],
+  "eventCategory": "Podcast publication",
+  "officialLinks": [],
+  "referenceSources": [
+    {
+      "label": "Official WEAPONIZED Episode #10 page",
+      "url": "https://www.weaponizedpodcast.com/episodes-1/episode-number-10",
+      "sourceType": "official_episode_page",
+      "role": "source"
+    },
+    {
+      "label": "Listen to WEAPONIZED",
+      "url": "https://link.chtbl.com/Weaponized",
+      "sourceType": "official_audio_feed",
+      "role": "source"
+    }
+  ]
+}

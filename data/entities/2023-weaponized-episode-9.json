@@ -1,0 +1,86 @@
+{
+  "id": "2023-weaponized-episode-9",
+  "type": "podcast_episode",
+  "name": "WEAPONIZED Episode #9 — Harry Reid’s AAWSAP Briefing and the Hidden History of AATIP",
+  "summary": "The hosts recount Harry Reid’s March 2018 closed-door meeting connecting George Knapp with AAWSAP manager James Lacatski and explain distinctions between AAWSAP and the publicly reported AATIP effort.",
+  "date": "2023-03-20",
+  "dateDisplay": "March 20, 2023",
+  "seriesId": "weaponized-podcast",
+  "episodeNumber": 9,
+  "episodeTitle": "Harry Reid’s AAWSAP Briefing and the Hidden History of AATIP",
+  "status": "Published",
+  "mediaType": "Podcast episode",
+  "mediaPlatform": "WEAPONIZED",
+  "mediaHost": "Jeremy Corbell and George Knapp",
+  "mediaGuests": [
+    "james-lacatski"
+  ],
+  "mediaSubjects": [],
+  "principalClaims": [
+    "claim-weaponized-9-1",
+    "claim-weaponized-9-2",
+    "claim-weaponized-9-3",
+    "claim-weaponized-9-4"
+  ],
+  "researchNotes": [],
+  "relationships": [
+    {
+      "type": "episode_of",
+      "target": "weaponized-podcast"
+    },
+    {
+      "type": "features_person",
+      "target": "jeremy-corbell",
+      "role": "host",
+      "context": "WEAPONIZED co-host"
+    },
+    {
+      "type": "features_person",
+      "target": "george-knapp",
+      "role": "host",
+      "context": "WEAPONIZED co-host"
+    },
+    {
+      "type": "features_person",
+      "target": "james-lacatski",
+      "role": "guest",
+      "context": "Featured guest or principal interview subject"
+    },
+    {
+      "type": "discussed_topic",
+      "target": "aawsap"
+    },
+    {
+      "type": "discussed_topic",
+      "target": "aatip"
+    }
+  ],
+  "mediaLinks": [
+    {
+      "label": "Open the official Episode #9 page",
+      "url": "https://www.weaponizedpodcast.com/episodes-1/episode-number-9",
+      "platform": "WEAPONIZED"
+    },
+    {
+      "label": "Listen to WEAPONIZED",
+      "url": "https://link.chtbl.com/Weaponized",
+      "platform": "Official audio feed"
+    }
+  ],
+  "eventCategory": "Podcast publication",
+  "officialLinks": [],
+  "referenceSources": [
+    {
+      "label": "Official WEAPONIZED Episode #9 page",
+      "url": "https://www.weaponizedpodcast.com/episodes-1/episode-number-9",
+      "sourceType": "official_episode_page",
+      "role": "source"
+    },
+    {
+      "label": "Listen to WEAPONIZED",
+      "url": "https://link.chtbl.com/Weaponized",
+      "sourceType": "official_audio_feed",
+      "role": "source"
+    }
+  ]
+}

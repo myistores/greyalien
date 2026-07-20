@@ -1,0 +1,74 @@
+{
+  "id": "2023-weaponized-episode-1",
+  "type": "podcast_episode",
+  "name": "WEAPONIZED Episode #1 — Launching WEAPONIZED — A New Consensus Reality",
+  "summary": "Jeremy Corbell and George Knapp introduce WEAPONIZED and describe a changing public reality in which military personnel, scientists, journalists, and citizens can discuss UFO/UAP evidence more openly.",
+  "date": "2023-01-23",
+  "dateDisplay": "January 23, 2023",
+  "seriesId": "weaponized-podcast",
+  "episodeNumber": 1,
+  "episodeTitle": "Launching WEAPONIZED — A New Consensus Reality",
+  "status": "Published",
+  "mediaType": "Podcast episode",
+  "mediaPlatform": "WEAPONIZED",
+  "mediaHost": "Jeremy Corbell and George Knapp",
+  "mediaGuests": [],
+  "mediaSubjects": [],
+  "principalClaims": [
+    "claim-weaponized-1-1",
+    "claim-weaponized-1-2",
+    "claim-weaponized-1-3",
+    "claim-weaponized-1-4"
+  ],
+  "researchNotes": [],
+  "relationships": [
+    {
+      "type": "episode_of",
+      "target": "weaponized-podcast"
+    },
+    {
+      "type": "features_person",
+      "target": "jeremy-corbell",
+      "role": "host",
+      "context": "WEAPONIZED co-host"
+    },
+    {
+      "type": "features_person",
+      "target": "george-knapp",
+      "role": "host",
+      "context": "WEAPONIZED co-host"
+    },
+    {
+      "type": "discussed_topic",
+      "target": "uap-transparency"
+    }
+  ],
+  "mediaLinks": [
+    {
+      "label": "Open the official Episode #1 page",
+      "url": "https://www.weaponizedpodcast.com/episodes-1/episode-number-1",
+      "platform": "WEAPONIZED"
+    },
+    {
+      "label": "Listen to WEAPONIZED",
+      "url": "https://link.chtbl.com/Weaponized",
+      "platform": "Official audio feed"
+    }
+  ],
+  "eventCategory": "Podcast publication",
+  "officialLinks": [],
+  "referenceSources": [
+    {
+      "label": "Official WEAPONIZED Episode #1 page",
+      "url": "https://www.weaponizedpodcast.com/episodes-1/episode-number-1",
+      "sourceType": "official_episode_page",
+      "role": "source"
+    },
+    {
+      "label": "Listen to WEAPONIZED",
+      "url": "https://link.chtbl.com/Weaponized",
+      "sourceType": "official_audio_feed",
+      "role": "source"
+    }
+  ]
+}

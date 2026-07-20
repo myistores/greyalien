@@ -1,0 +1,24 @@
+{
+  "id": "timeline-2023-02-27-weaponized-episode-6",
+  "type": "timeline_event",
+  "name": "WEAPONIZED Episode #6 published",
+  "summary": "George Knapp and Jeremy Corbell revisit a former defense-industry executive’s account involving a recovered craft from New Mexico and an allegedly living occupant, including a promised recorded deposition.",
+  "date": "2023-02-27",
+  "dateDisplay": "February 27, 2023",
+  "eventCategory": "Podcast publication",
+  "relationships": [
+    {
+      "type": "event_for",
+      "target": "2023-weaponized-episode-6"
+    }
+  ],
+  "officialLinks": [],
+  "referenceSources": [
+    {
+      "label": "Official WEAPONIZED Episode #6 page",
+      "url": "https://www.weaponizedpodcast.com/episodes-1/episode-number-6",
+      "sourceType": "official_episode_page",
+      "role": "source"
+    }
+  ]
+}

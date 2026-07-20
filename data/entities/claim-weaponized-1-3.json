@@ -1,0 +1,21 @@
+{
+  "id": "claim-weaponized-1-3",
+  "type": "claim",
+  "name": "WEAPONIZED is framed as an investigative platform intended to publish new reporting and evidence.",
+  "summary": "Claim or framing presented in WEAPONIZED Episode #1.",
+  "relationships": [
+    {
+      "type": "featured_in_media",
+      "target": "2023-weaponized-episode-1"
+    }
+  ],
+  "officialLinks": [],
+  "referenceSources": [
+    {
+      "label": "Official WEAPONIZED Episode #1 page",
+      "url": "https://www.weaponizedpodcast.com/episodes-1/episode-number-1",
+      "sourceType": "official_episode_page",
+      "role": "source"
+    }
+  ]
+}

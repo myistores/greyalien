@@ -1,0 +1,78 @@
+{
+  "id": "2023-weaponized-episode-2",
+  "type": "podcast_episode",
+  "name": "WEAPONIZED Episode #2 — John “Guts” Gutierrez and the 2019 Navy UAP Swarms",
+  "summary": "Navy commander John “Guts” Gutierrez discusses his aviation background and the 2019 West Coast incidents in which multiple Navy warships reported sustained incursions by numerous unidentified objects.",
+  "date": "2023-01-30",
+  "dateDisplay": "January 30, 2023",
+  "seriesId": "weaponized-podcast",
+  "episodeNumber": 2,
+  "episodeTitle": "John “Guts” Gutierrez and the 2019 Navy UAP Swarms",
+  "status": "Published",
+  "mediaType": "Podcast episode",
+  "mediaPlatform": "WEAPONIZED",
+  "mediaHost": "Jeremy Corbell and George Knapp",
+  "mediaGuests": [
+    "john-gutierrez"
+  ],
+  "mediaSubjects": [],
+  "principalClaims": [
+    "claim-weaponized-2-1",
+    "claim-weaponized-2-2",
+    "claim-weaponized-2-3",
+    "claim-weaponized-2-4"
+  ],
+  "researchNotes": [],
+  "relationships": [
+    {
+      "type": "episode_of",
+      "target": "weaponized-podcast"
+    },
+    {
+      "type": "features_person",
+      "target": "jeremy-corbell",
+      "role": "host",
+      "context": "WEAPONIZED co-host"
+    },
+    {
+      "type": "features_person",
+      "target": "george-knapp",
+      "role": "host",
+      "context": "WEAPONIZED co-host"
+    },
+    {
+      "type": "features_person",
+      "target": "john-gutierrez",
+      "role": "guest",
+      "context": "Featured guest or principal interview subject"
+    }
+  ],
+  "mediaLinks": [
+    {
+      "label": "Open the official Episode #2 page",
+      "url": "https://www.weaponizedpodcast.com/episodes-1/episode-number-2",
+      "platform": "WEAPONIZED"
+    },
+    {
+      "label": "Listen to WEAPONIZED",
+      "url": "https://link.chtbl.com/Weaponized",
+      "platform": "Official audio feed"
+    }
+  ],
+  "eventCategory": "Podcast publication",
+  "officialLinks": [],
+  "referenceSources": [
+    {
+      "label": "Official WEAPONIZED Episode #2 page",
+      "url": "https://www.weaponizedpodcast.com/episodes-1/episode-number-2",
+      "sourceType": "official_episode_page",
+      "role": "source"
+    },
+    {
+      "label": "Listen to WEAPONIZED",
+      "url": "https://link.chtbl.com/Weaponized",
+      "sourceType": "official_audio_feed",
+      "role": "source"
+    }
+  ]
+}

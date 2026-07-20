@@ -1,0 +1,82 @@
+{
+  "id": "2023-weaponized-episode-4",
+  "type": "podcast_episode",
+  "name": "WEAPONIZED Episode #4 — Spy Balloons, Unknown Objects, and UAP Transparency",
+  "summary": "Corbell and Knapp examine the Chinese surveillance balloon and three additional objects shot down over North America, with Dave Foley joining a discussion about transparency, confusion, and links to the 2019 UAP swarms.",
+  "date": "2023-02-13",
+  "dateDisplay": "February 13, 2023",
+  "seriesId": "weaponized-podcast",
+  "episodeNumber": 4,
+  "episodeTitle": "Spy Balloons, Unknown Objects, and UAP Transparency",
+  "status": "Published",
+  "mediaType": "Podcast episode",
+  "mediaPlatform": "WEAPONIZED",
+  "mediaHost": "Jeremy Corbell and George Knapp",
+  "mediaGuests": [
+    "dave-foley"
+  ],
+  "mediaSubjects": [],
+  "principalClaims": [
+    "claim-weaponized-4-1",
+    "claim-weaponized-4-2",
+    "claim-weaponized-4-3",
+    "claim-weaponized-4-4"
+  ],
+  "researchNotes": [],
+  "relationships": [
+    {
+      "type": "episode_of",
+      "target": "weaponized-podcast"
+    },
+    {
+      "type": "features_person",
+      "target": "jeremy-corbell",
+      "role": "host",
+      "context": "WEAPONIZED co-host"
+    },
+    {
+      "type": "features_person",
+      "target": "george-knapp",
+      "role": "host",
+      "context": "WEAPONIZED co-host"
+    },
+    {
+      "type": "features_person",
+      "target": "dave-foley",
+      "role": "guest",
+      "context": "Featured guest or principal interview subject"
+    },
+    {
+      "type": "discussed_topic",
+      "target": "uap-transparency"
+    }
+  ],
+  "mediaLinks": [
+    {
+      "label": "Open the official Episode #4 page",
+      "url": "https://www.weaponizedpodcast.com/episodes-1/episode-number-4",
+      "platform": "WEAPONIZED"
+    },
+    {
+      "label": "Listen to WEAPONIZED",
+      "url": "https://link.chtbl.com/Weaponized",
+      "platform": "Official audio feed"
+    }
+  ],
+  "eventCategory": "Podcast publication",
+  "officialLinks": [],
+  "referenceSources": [
+    {
+      "label": "Official WEAPONIZED Episode #4 page",
+      "url": "https://www.weaponizedpodcast.com/episodes-1/episode-number-4",
+      "sourceType": "official_episode_page",
+      "role": "source"
+    },
+    {
+      "label": "Listen to WEAPONIZED",
+      "url": "https://link.chtbl.com/Weaponized",
+      "sourceType": "official_audio_feed",
+      "role": "source"
+    }
+  ]
+}

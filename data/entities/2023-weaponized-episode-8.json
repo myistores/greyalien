@@ -1,0 +1,89 @@
+{
+  "id": "2023-weaponized-episode-8",
+  "type": "podcast_episode",
+  "name": "WEAPONIZED Episode #8 — Baghdad Phantom Analysis and the UFO “Silver Bullet”",
+  "summary": "Corbell and Knapp respond to analyses of the Baghdad Phantom, discuss new comments from Jay Stratton and Travis Taylor about the 2019 Navy swarms, and renew questions about alleged reverse-engineering programs.",
+  "date": "2023-03-13",
+  "dateDisplay": "March 13, 2023",
+  "seriesId": "weaponized-podcast",
+  "episodeNumber": 8,
+  "episodeTitle": "Baghdad Phantom Analysis and the UFO “Silver Bullet”",
+  "status": "Published",
+  "mediaType": "Podcast episode",
+  "mediaPlatform": "WEAPONIZED",
+  "mediaHost": "Jeremy Corbell and George Knapp",
+  "mediaGuests": [
+    "jay-stratton",
+    "travis-taylor"
+  ],
+  "mediaSubjects": [],
+  "principalClaims": [
+    "claim-weaponized-8-1",
+    "claim-weaponized-8-2",
+    "claim-weaponized-8-3",
+    "claim-weaponized-8-4"
+  ],
+  "researchNotes": [],
+  "relationships": [
+    {
+      "type": "episode_of",
+      "target": "weaponized-podcast"
+    },
+    {
+      "type": "features_person",
+      "target": "jeremy-corbell",
+      "role": "host",
+      "context": "WEAPONIZED co-host"
+    },
+    {
+      "type": "features_person",
+      "target": "george-knapp",
+      "role": "host",
+      "context": "WEAPONIZED co-host"
+    },
+    {
+      "type": "features_person",
+      "target": "jay-stratton",
+      "role": "guest",
+      "context": "Featured guest or principal interview subject"
+    },
+    {
+      "type": "features_person",
+      "target": "travis-taylor",
+      "role": "guest",
+      "context": "Featured guest or principal interview subject"
+    },
+    {
+      "type": "discussed_topic",
+      "target": "reverse-engineering"
+    }
+  ],
+  "mediaLinks": [
+    {
+      "label": "Open the official Episode #8 page",
+      "url": "https://www.weaponizedpodcast.com/episodes-1/episode-number-8",
+      "platform": "WEAPONIZED"
+    },
+    {
+      "label": "Listen to WEAPONIZED",
+      "url": "https://link.chtbl.com/Weaponized",
+      "platform": "Official audio feed"
+    }
+  ],
+  "eventCategory": "Podcast publication",
+  "officialLinks": [],
+  "referenceSources": [
+    {
+      "label": "Official WEAPONIZED Episode #8 page",
+      "url": "https://www.weaponizedpodcast.com/episodes-1/episode-number-8",
+      "sourceType": "official_episode_page",
+      "role": "source"
+    },
+    {
+      "label": "Listen to WEAPONIZED",
+      "url": "https://link.chtbl.com/Weaponized",
+      "sourceType": "official_audio_feed",
+      "role": "source"
+    }
+  ]
+}
