@@ -1,0 +1,112 @@
+{
+  "id": "2025-weaponized-episode-85",
+  "type": "podcast_episode",
+  "name": "WEAPONIZED Episode #85 — Weaponized Silence — The UFO Disclosure Dilemma",
+  "summary": "Joe Murgia, Danny Silva, and Ryan Robbins join the hosts to assess the approaching congressional hearing, witness intimidation, definitions of disclosure, disinformation, and the obstacles facing efforts to obtain undeniable public evidence.",
+  "date": "2025-08-12",
+  "dateDisplay": "August 12, 2025",
+  "seriesId": "weaponized-podcast",
+  "episodeNumber": 85,
+  "episodeTitle": "Weaponized Silence — The UFO Disclosure Dilemma",
+  "status": "Published",
+  "mediaType": "Podcast episode",
+  "mediaPlatform": "WEAPONIZED",
+  "mediaHost": "Jeremy Corbell and George Knapp",
+  "mediaGuests": [
+    "joe-murgia",
+    "danny-silva",
+    "ryan-robbins"
+  ],
+  "mediaSubjects": [
+    "UAP disclosure",
+    "September 2025 hearing",
+    "David Grusch"
+  ],
+  "principalClaims": [
+    "claim-disclosure-requires-verifiable-evidence",
+    "claim-firsthand-witnesses-remain-cautious",
+    "claim-congressional-strategy-influenced-by-grusch",
+    "claim-disinformation-shapes-public-debate"
+  ],
+  "researchNotes": [],
+  "relationships": [
+    {
+      "type": "episode_of",
+      "target": "weaponized-podcast"
+    },
+    {
+      "type": "features_person",
+      "target": "jeremy-corbell",
+      "role": "host",
+      "context": "WEAPONIZED co-host"
+    },
+    {
+      "type": "features_person",
+      "target": "george-knapp",
+      "role": "host",
+      "context": "WEAPONIZED co-host"
+    },
+    {
+      "type": "features_person",
+      "target": "joe-murgia",
+      "role": "guest",
+      "context": "Featured episode participant"
+    },
+    {
+      "type": "features_person",
+      "target": "danny-silva",
+      "role": "guest",
+      "context": "Featured episode participant"
+    },
+    {
+      "type": "features_person",
+      "target": "ryan-robbins",
+      "role": "guest",
+      "context": "Featured episode participant"
+    },
+    {
+      "type": "references_organization",
+      "target": "united-states-congress"
+    },
+    {
+      "type": "discussed_topic",
+      "target": "uap-disclosure"
+    },
+    {
+      "type": "discussed_topic",
+      "target": "congressional-oversight"
+    },
+    {
+      "type": "discussed_topic",
+      "target": "uap-disinformation"
+    }
+  ],
+  "mediaLinks": [
+    {
+      "label": "Open the official Episode #85 page",
+      "url": "https://www.weaponizedpodcast.com/episodes-3/episode-85",
+      "platform": "WEAPONIZED"
+    },
+    {
+      "label": "Listen to WEAPONIZED",
+      "url": "https://link.chtbl.com/Weaponized",
+      "platform": "Official audio feed"
+    }
+  ],
+  "eventCategory": "Podcast publication",
+  "officialLinks": [],
+  "referenceSources": [
+    {
+      "label": "Official WEAPONIZED Episode #85 page",
+      "url": "https://www.weaponizedpodcast.com/episodes-3/episode-85",
+      "sourceType": "official_episode_page",
+      "role": "source"
+    },
+    {
+      "label": "Listen to WEAPONIZED",
+      "url": "https://link.chtbl.com/Weaponized",
+      "sourceType": "official_audio_feed",
+      "role": "source"
+    }
+  ]
+}

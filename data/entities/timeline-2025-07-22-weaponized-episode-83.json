@@ -1,0 +1,30 @@
+{
+  "id": "timeline-2025-07-22-weaponized-episode-83",
+  "type": "timeline_event",
+  "name": "WEAPONIZED Episode #83 published",
+  "summary": "WEAPONIZED Episode #83, Storming the Silence — Dave Foley and the Fight for UAP Transparency, was published.",
+  "relationships": [
+    {
+      "type": "event_for",
+      "target": "2025-weaponized-episode-83"
+    }
+  ],
+  "officialLinks": [],
+  "referenceSources": [
+    {
+      "label": "Official WEAPONIZED Episode #83 page",
+      "url": "https://www.weaponizedpodcast.com/episodes-3/episode-83",
+      "sourceType": "official_episode_page",
+      "role": "source"
+    },
+    {
+      "label": "Listen to WEAPONIZED",
+      "url": "https://link.chtbl.com/Weaponized",
+      "sourceType": "official_audio_feed",
+      "role": "source"
+    }
+  ],
+  "date": "2025-07-22",
+  "dateDisplay": "July 22, 2025",
+  "eventCategory": "Podcast publication"
+}

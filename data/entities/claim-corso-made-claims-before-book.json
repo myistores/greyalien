@@ -1,0 +1,27 @@
+{
+  "id": "claim-corso-made-claims-before-book",
+  "type": "claim",
+  "name": "Philip Corso described his account to George Knapp years before publishing The Day After Roswell.",
+  "summary": "Philip Corso described his account to George Knapp years before publishing The Day After Roswell.",
+  "relationships": [
+    {
+      "type": "featured_in_media",
+      "target": "2025-weaponized-episode-87"
+    }
+  ],
+  "officialLinks": [],
+  "referenceSources": [
+    {
+      "label": "Official WEAPONIZED Episode #87 page",
+      "url": "https://www.weaponizedpodcast.com/episodes-3/episode-87",
+      "sourceType": "official_episode_page",
+      "role": "source"
+    },
+    {
+      "label": "Listen to WEAPONIZED",
+      "url": "https://link.chtbl.com/Weaponized",
+      "sourceType": "official_audio_feed",
+      "role": "source"
+    }
+  ]
+}

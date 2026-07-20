@@ -1,0 +1,135 @@
+{
+  "id": "2025-weaponized-episode-89",
+  "type": "podcast_episode",
+  "name": "WEAPONIZED Episode #89 — The 2025 UAP Hearing — Did It Move the Needle?",
+  "summary": "Participants in the September 2025 congressional UAP hearing discuss preparation, testimony, public reaction, whistleblower risks, and military video showing a missile engagement with an unidentified object over Yemen.",
+  "date": "2025-09-16",
+  "dateDisplay": "September 16, 2025",
+  "seriesId": "weaponized-podcast",
+  "episodeNumber": 89,
+  "episodeTitle": "The 2025 UAP Hearing — Did It Move the Needle?",
+  "status": "Published",
+  "mediaType": "Podcast episode",
+  "mediaPlatform": "WEAPONIZED",
+  "mediaHost": "Jeremy Corbell and George Knapp",
+  "mediaGuests": [
+    "jeff-nuccetelli",
+    "alexandro-wiggins",
+    "dylan-borland",
+    "marik-von-rennenkampff",
+    "matthew-brown"
+  ],
+  "mediaSubjects": [
+    "2025 congressional UAP hearing",
+    "Yemen Hellfire UAP video",
+    "Whistleblower testimony"
+  ],
+  "principalClaims": [
+    "claim-military-witnesses-testified-under-oath",
+    "claim-hearing-presented-yemen-video",
+    "claim-witnesses-described-preparation-and-aftermath",
+    "claim-public-reaction-largely-positive",
+    "claim-hearing-may-encourage-more-witnesses"
+  ],
+  "researchNotes": [],
+  "relationships": [
+    {
+      "type": "episode_of",
+      "target": "weaponized-podcast"
+    },
+    {
+      "type": "features_person",
+      "target": "jeremy-corbell",
+      "role": "host",
+      "context": "WEAPONIZED co-host"
+    },
+    {
+      "type": "features_person",
+      "target": "george-knapp",
+      "role": "host",
+      "context": "WEAPONIZED co-host"
+    },
+    {
+      "type": "features_person",
+      "target": "jeff-nuccetelli",
+      "role": "guest",
+      "context": "Featured episode participant"
+    },
+    {
+      "type": "features_person",
+      "target": "alexandro-wiggins",
+      "role": "guest",
+      "context": "Featured episode participant"
+    },
+    {
+      "type": "features_person",
+      "target": "dylan-borland",
+      "role": "guest",
+      "context": "Featured episode participant"
+    },
+    {
+      "type": "features_person",
+      "target": "marik-von-rennenkampff",
+      "role": "guest",
+      "context": "Featured episode participant"
+    },
+    {
+      "type": "features_person",
+      "target": "matthew-brown",
+      "role": "guest",
+      "context": "Featured episode participant"
+    },
+    {
+      "type": "references_organization",
+      "target": "united-states-congress"
+    },
+    {
+      "type": "discussed_topic",
+      "target": "congressional-oversight"
+    },
+    {
+      "type": "discussed_topic",
+      "target": "military-uap-witnesses"
+    },
+    {
+      "type": "discussed_topic",
+      "target": "whistleblower-retaliation"
+    },
+    {
+      "type": "references_case",
+      "target": "2025-house-uap-hearing"
+    },
+    {
+      "type": "references_case",
+      "target": "2025-yemen-hellfire-uap-video"
+    }
+  ],
+  "mediaLinks": [
+    {
+      "label": "Open the official Episode #89 page",
+      "url": "https://www.weaponizedpodcast.com/episodes-3/episode-89",
+      "platform": "WEAPONIZED"
+    },
+    {
+      "label": "Listen to WEAPONIZED",
+      "url": "https://link.chtbl.com/Weaponized",
+      "platform": "Official audio feed"
+    }
+  ],
+  "eventCategory": "Podcast publication",
+  "officialLinks": [],
+  "referenceSources": [
+    {
+      "label": "Official WEAPONIZED Episode #89 page",
+      "url": "https://www.weaponizedpodcast.com/episodes-3/episode-89",
+      "sourceType": "official_episode_page",
+      "role": "source"
+    },
+    {
+      "label": "Listen to WEAPONIZED",
+      "url": "https://link.chtbl.com/Weaponized",
+      "sourceType": "official_audio_feed",
+      "role": "source"
+    }
+  ]
+}

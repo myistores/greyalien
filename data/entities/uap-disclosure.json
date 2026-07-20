@@ -1,0 +1,22 @@
+{
+  "id": "uap-disclosure",
+  "type": "topic",
+  "name": "UAP Disclosure",
+  "summary": "Public release and official acknowledgment of information concerning unidentified anomalous phenomena.",
+  "relationships": [],
+  "officialLinks": [],
+  "referenceSources": [
+    {
+      "label": "Official WEAPONIZED Episode #85 page",
+      "url": "https://www.weaponizedpodcast.com/episodes-3/episode-85",
+      "sourceType": "official_episode_page",
+      "role": "source"
+    },
+    {
+      "label": "Listen to WEAPONIZED",
+      "url": "https://link.chtbl.com/Weaponized",
+      "sourceType": "official_audio_feed",
+      "role": "source"
+    }
+  ]
+}

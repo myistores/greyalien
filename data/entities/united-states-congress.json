@@ -1,0 +1,22 @@
+{
+  "id": "united-states-congress",
+  "type": "organization",
+  "name": "United States Congress",
+  "summary": "The legislative branch of the U.S. federal government.",
+  "relationships": [],
+  "officialLinks": [],
+  "referenceSources": [
+    {
+      "label": "Official WEAPONIZED Episode #84 page",
+      "url": "https://www.weaponizedpodcast.com/episodes-3/episode-84",
+      "sourceType": "official_episode_page",
+      "role": "source"
+    },
+    {
+      "label": "Listen to WEAPONIZED",
+      "url": "https://link.chtbl.com/Weaponized",
+      "sourceType": "official_audio_feed",
+      "role": "source"
+    }
+  ]
+}

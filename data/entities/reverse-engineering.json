@@ -1,0 +1,22 @@
+{
+  "id": "reverse-engineering",
+  "type": "topic",
+  "name": "Reverse Engineering",
+  "summary": "Efforts to understand and reproduce technologies by studying recovered systems or materials.",
+  "relationships": [],
+  "officialLinks": [],
+  "referenceSources": [
+    {
+      "label": "Official WEAPONIZED Episode #87 page",
+      "url": "https://www.weaponizedpodcast.com/episodes-3/episode-87",
+      "sourceType": "official_episode_page",
+      "role": "source"
+    },
+    {
+      "label": "Listen to WEAPONIZED",
+      "url": "https://link.chtbl.com/Weaponized",
+      "sourceType": "official_audio_feed",
+      "role": "source"
+    }
+  ]
+}

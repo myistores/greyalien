@@ -1,0 +1,27 @@
+{
+  "id": "claim-borland-worked-classified-contractor-role",
+  "type": "claim",
+  "name": "Borland says he moved from Air Force service into highly classified contractor work directed by an intelligence agency.",
+  "summary": "Borland says he moved from Air Force service into highly classified contractor work directed by an intelligence agency.",
+  "relationships": [
+    {
+      "type": "featured_in_media",
+      "target": "2025-weaponized-episode-90"
+    }
+  ],
+  "officialLinks": [],
+  "referenceSources": [
+    {
+      "label": "Official WEAPONIZED Episode #90 page",
+      "url": "https://www.weaponizedpodcast.com/episodes-3/episode-90",
+      "sourceType": "official_episode_page",
+      "role": "source"
+    },
+    {
+      "label": "Listen to WEAPONIZED",
+      "url": "https://link.chtbl.com/Weaponized",
+      "sourceType": "official_audio_feed",
+      "role": "source"
+    }
+  ]
+}

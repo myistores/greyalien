@@ -1,0 +1,105 @@
+{
+  "id": "2025-weaponized-episode-84",
+  "type": "podcast_episode",
+  "name": "WEAPONIZED Episode #84 — False Prophets and Flying Objects — The Whistleblower Wave",
+  "summary": "The hosts examine preparations for a September congressional UAP hearing, the reluctance of firsthand witnesses to testify, competing pressure from transparency advocates and secrecy interests, and a newly surfaced Defense Department case discussed with Dustin Slaughter.",
+  "date": "2025-08-05",
+  "dateDisplay": "August 5, 2025",
+  "seriesId": "weaponized-podcast",
+  "episodeNumber": 84,
+  "episodeTitle": "False Prophets and Flying Objects — The Whistleblower Wave",
+  "status": "Published",
+  "mediaType": "Podcast episode",
+  "mediaPlatform": "WEAPONIZED",
+  "mediaHost": "Jeremy Corbell and George Knapp",
+  "mediaGuests": [
+    "dustin-slaughter",
+    "matt-laslo"
+  ],
+  "mediaSubjects": [
+    "Congressional UAP hearing",
+    "Witness intimidation",
+    "FOIA reporting"
+  ],
+  "principalClaims": [
+    "claim-potential-witnesses-contacted",
+    "claim-witnesses-fear-retaliation",
+    "claim-legislative-protections-sought",
+    "claim-dod-records-produced-new-case"
+  ],
+  "researchNotes": [],
+  "relationships": [
+    {
+      "type": "episode_of",
+      "target": "weaponized-podcast"
+    },
+    {
+      "type": "features_person",
+      "target": "jeremy-corbell",
+      "role": "host",
+      "context": "WEAPONIZED co-host"
+    },
+    {
+      "type": "features_person",
+      "target": "george-knapp",
+      "role": "host",
+      "context": "WEAPONIZED co-host"
+    },
+    {
+      "type": "features_person",
+      "target": "dustin-slaughter",
+      "role": "guest",
+      "context": "Featured episode participant"
+    },
+    {
+      "type": "features_person",
+      "target": "matt-laslo",
+      "role": "guest",
+      "context": "Featured episode participant"
+    },
+    {
+      "type": "references_organization",
+      "target": "department-of-defense"
+    },
+    {
+      "type": "references_organization",
+      "target": "united-states-congress"
+    },
+    {
+      "type": "discussed_topic",
+      "target": "congressional-oversight"
+    },
+    {
+      "type": "discussed_topic",
+      "target": "whistleblower-retaliation"
+    }
+  ],
+  "mediaLinks": [
+    {
+      "label": "Open the official Episode #84 page",
+      "url": "https://www.weaponizedpodcast.com/episodes-3/episode-84",
+      "platform": "WEAPONIZED"
+    },
+    {
+      "label": "Listen to WEAPONIZED",
+      "url": "https://link.chtbl.com/Weaponized",
+      "platform": "Official audio feed"
+    }
+  ],
+  "eventCategory": "Podcast publication",
+  "officialLinks": [],
+  "referenceSources": [
+    {
+      "label": "Official WEAPONIZED Episode #84 page",
+      "url": "https://www.weaponizedpodcast.com/episodes-3/episode-84",
+      "sourceType": "official_episode_page",
+      "role": "source"
+    },
+    {
+      "label": "Listen to WEAPONIZED",
+      "url": "https://link.chtbl.com/Weaponized",
+      "sourceType": "official_audio_feed",
+      "role": "source"
+    }
+  ]
+}

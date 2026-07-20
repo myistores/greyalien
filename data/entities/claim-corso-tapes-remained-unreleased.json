@@ -1,0 +1,27 @@
+{
+  "id": "claim-corso-tapes-remained-unreleased",
+  "type": "claim",
+  "name": "The episode presents and analyzes recordings that had not previously been publicly released.",
+  "summary": "The episode presents and analyzes recordings that had not previously been publicly released.",
+  "relationships": [
+    {
+      "type": "featured_in_media",
+      "target": "2025-weaponized-episode-87"
+    }
+  ],
+  "officialLinks": [],
+  "referenceSources": [
+    {
+      "label": "Official WEAPONIZED Episode #87 page",
+      "url": "https://www.weaponizedpodcast.com/episodes-3/episode-87",
+      "sourceType": "official_episode_page",
+      "role": "source"
+    },
+    {
+      "label": "Listen to WEAPONIZED",
+      "url": "https://link.chtbl.com/Weaponized",
+      "sourceType": "official_audio_feed",
+      "role": "source"
+    }
+  ]
+}

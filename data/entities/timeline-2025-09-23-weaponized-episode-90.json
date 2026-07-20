@@ -1,0 +1,30 @@
+{
+  "id": "timeline-2025-09-23-weaponized-episode-90",
+  "type": "timeline_event",
+  "name": "WEAPONIZED Episode #90 published",
+  "summary": "WEAPONIZED Episode #90, The Reluctant UFO Whistleblower — Dylan Borland Tells All: Part 1, was published.",
+  "relationships": [
+    {
+      "type": "event_for",
+      "target": "2025-weaponized-episode-90"
+    }
+  ],
+  "officialLinks": [],
+  "referenceSources": [
+    {
+      "label": "Official WEAPONIZED Episode #90 page",
+      "url": "https://www.weaponizedpodcast.com/episodes-3/episode-90",
+      "sourceType": "official_episode_page",
+      "role": "source"
+    },
+    {
+      "label": "Listen to WEAPONIZED",
+      "url": "https://link.chtbl.com/Weaponized",
+      "sourceType": "official_audio_feed",
+      "role": "source"
+    }
+  ],
+  "date": "2025-09-23",
+  "dateDisplay": "September 23, 2025",
+  "eventCategory": "Podcast publication"
+}

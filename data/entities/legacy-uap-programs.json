@@ -1,0 +1,22 @@
+{
+  "id": "legacy-uap-programs",
+  "type": "topic",
+  "name": "Legacy UAP Programs",
+  "summary": "Alleged long-running classified programs involving UAP collection, exploitation, or reverse engineering.",
+  "relationships": [],
+  "officialLinks": [],
+  "referenceSources": [
+    {
+      "label": "Official WEAPONIZED Episode #90 page",
+      "url": "https://www.weaponizedpodcast.com/episodes-3/episode-90",
+      "sourceType": "official_episode_page",
+      "role": "source"
+    },
+    {
+      "label": "Listen to WEAPONIZED",
+      "url": "https://link.chtbl.com/Weaponized",
+      "sourceType": "official_audio_feed",
+      "role": "source"
+    }
+  ]
+}

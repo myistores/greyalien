@@ -1,0 +1,100 @@
+{
+  "id": "2025-weaponized-episode-87",
+  "type": "podcast_episode",
+  "name": "WEAPONIZED Episode #87 — Alien Bodies and Technology — The Lost Tapes of UFO Whistleblower Col. Corso",
+  "summary": "Jeremy Corbell and George Knapp revisit Philip J. Corso’s claims about Roswell materials, Pentagon technology transfer, and reverse engineering through interviews recorded before publication of The Day After Roswell.",
+  "date": "2025-08-26",
+  "dateDisplay": "August 26, 2025",
+  "seriesId": "weaponized-podcast",
+  "episodeNumber": 87,
+  "episodeTitle": "Alien Bodies and Technology — The Lost Tapes of UFO Whistleblower Col. Corso",
+  "status": "Published",
+  "mediaType": "Podcast episode",
+  "mediaPlatform": "WEAPONIZED",
+  "mediaHost": "Jeremy Corbell and George Knapp",
+  "mediaGuests": [],
+  "mediaSubjects": [
+    "Philip J. Corso",
+    "Roswell",
+    "NIDS interview tapes"
+  ],
+  "principalClaims": [
+    "claim-corso-made-claims-before-book",
+    "claim-corso-alleged-technology-transfer",
+    "claim-nids-recorded-corso-interviews",
+    "claim-corso-tapes-remained-unreleased"
+  ],
+  "researchNotes": [],
+  "relationships": [
+    {
+      "type": "episode_of",
+      "target": "weaponized-podcast"
+    },
+    {
+      "type": "features_person",
+      "target": "jeremy-corbell",
+      "role": "host",
+      "context": "WEAPONIZED co-host"
+    },
+    {
+      "type": "features_person",
+      "target": "george-knapp",
+      "role": "host",
+      "context": "WEAPONIZED co-host"
+    },
+    {
+      "type": "references_organization",
+      "target": "national-institute-for-discovery-science"
+    },
+    {
+      "type": "discussed_topic",
+      "target": "roswell-incident"
+    },
+    {
+      "type": "discussed_topic",
+      "target": "reverse-engineering"
+    },
+    {
+      "type": "discussed_topic",
+      "target": "legacy-uap-programs"
+    },
+    {
+      "type": "features_person",
+      "target": "philip-j-corso",
+      "role": "subject",
+      "context": "Primary historical subject"
+    },
+    {
+      "type": "references_publication",
+      "target": "the-day-after-roswell"
+    }
+  ],
+  "mediaLinks": [
+    {
+      "label": "Open the official Episode #87 page",
+      "url": "https://www.weaponizedpodcast.com/episodes-3/episode-87",
+      "platform": "WEAPONIZED"
+    },
+    {
+      "label": "Listen to WEAPONIZED",
+      "url": "https://link.chtbl.com/Weaponized",
+      "platform": "Official audio feed"
+    }
+  ],
+  "eventCategory": "Podcast publication",
+  "officialLinks": [],
+  "referenceSources": [
+    {
+      "label": "Official WEAPONIZED Episode #87 page",
+      "url": "https://www.weaponizedpodcast.com/episodes-3/episode-87",
+      "sourceType": "official_episode_page",
+      "role": "source"
+    },
+    {
+      "label": "Listen to WEAPONIZED",
+      "url": "https://link.chtbl.com/Weaponized",
+      "sourceType": "official_audio_feed",
+      "role": "source"
+    }
+  ]
+}

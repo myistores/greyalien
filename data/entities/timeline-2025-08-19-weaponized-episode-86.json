@@ -1,0 +1,30 @@
+{
+  "id": "timeline-2025-08-19-weaponized-episode-86",
+  "type": "timeline_event",
+  "name": "WEAPONIZED Episode #86 published",
+  "summary": "WEAPONIZED Episode #86, Threats, Intimidation, Prosecution — The Daunting Risks for UFO Whistleblowers, was published.",
+  "relationships": [
+    {
+      "type": "event_for",
+      "target": "2025-weaponized-episode-86"
+    }
+  ],
+  "officialLinks": [],
+  "referenceSources": [
+    {
+      "label": "Official WEAPONIZED Episode #86 page",
+      "url": "https://www.weaponizedpodcast.com/episodes-3/episode-86",
+      "sourceType": "official_episode_page",
+      "role": "source"
+    },
+    {
+      "label": "Listen to WEAPONIZED",
+      "url": "https://link.chtbl.com/Weaponized",
+      "sourceType": "official_audio_feed",
+      "role": "source"
+    }
+  ],
+  "date": "2025-08-19",
+  "dateDisplay": "August 19, 2025",
+  "eventCategory": "Podcast publication"
+}

@@ -1,0 +1,102 @@
+{
+  "id": "2025-weaponized-episode-90",
+  "type": "podcast_episode",
+  "name": "WEAPONIZED Episode #90 — The Reluctant UFO Whistleblower — Dylan Borland Tells All: Part 1",
+  "summary": "Dylan Borland recounts his path from the U.S. Air Force into classified contractor work, an alleged firsthand encounter with UAP technology, and claimed threats, clearance manipulation, intimidation, and economic pressure.",
+  "date": "2025-09-23",
+  "dateDisplay": "September 23, 2025",
+  "seriesId": "weaponized-podcast",
+  "episodeNumber": 90,
+  "episodeTitle": "The Reluctant UFO Whistleblower — Dylan Borland Tells All: Part 1",
+  "status": "Published",
+  "mediaType": "Podcast episode",
+  "mediaPlatform": "WEAPONIZED",
+  "mediaHost": "Jeremy Corbell and George Knapp",
+  "mediaGuests": [
+    "dylan-borland"
+  ],
+  "mediaSubjects": [
+    "Dylan Borland",
+    "Security clearances",
+    "UAP technology"
+  ],
+  "principalClaims": [
+    "claim-borland-worked-classified-contractor-role",
+    "claim-borland-reports-firsthand-uap-observation",
+    "claim-clearance-allegedly-used-as-leverage",
+    "claim-borland-alleges-threats-and-economic-pressure"
+  ],
+  "researchNotes": [],
+  "relationships": [
+    {
+      "type": "episode_of",
+      "target": "weaponized-podcast"
+    },
+    {
+      "type": "features_person",
+      "target": "jeremy-corbell",
+      "role": "host",
+      "context": "WEAPONIZED co-host"
+    },
+    {
+      "type": "features_person",
+      "target": "george-knapp",
+      "role": "host",
+      "context": "WEAPONIZED co-host"
+    },
+    {
+      "type": "features_person",
+      "target": "dylan-borland",
+      "role": "guest",
+      "context": "Featured episode participant"
+    },
+    {
+      "type": "references_organization",
+      "target": "united-states-air-force"
+    },
+    {
+      "type": "references_organization",
+      "target": "federal-bureau-of-investigation"
+    },
+    {
+      "type": "discussed_topic",
+      "target": "legacy-uap-programs"
+    },
+    {
+      "type": "discussed_topic",
+      "target": "security-clearance-retaliation"
+    },
+    {
+      "type": "discussed_topic",
+      "target": "whistleblower-retaliation"
+    }
+  ],
+  "mediaLinks": [
+    {
+      "label": "Open the official Episode #90 page",
+      "url": "https://www.weaponizedpodcast.com/episodes-3/episode-90",
+      "platform": "WEAPONIZED"
+    },
+    {
+      "label": "Listen to WEAPONIZED",
+      "url": "https://link.chtbl.com/Weaponized",
+      "platform": "Official audio feed"
+    }
+  ],
+  "eventCategory": "Podcast publication",
+  "officialLinks": [],
+  "referenceSources": [
+    {
+      "label": "Official WEAPONIZED Episode #90 page",
+      "url": "https://www.weaponizedpodcast.com/episodes-3/episode-90",
+      "sourceType": "official_episode_page",
+      "role": "source"
+    },
+    {
+      "label": "Listen to WEAPONIZED",
+      "url": "https://link.chtbl.com/Weaponized",
+      "sourceType": "official_audio_feed",
+      "role": "source"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "id": "timeline-2025-09-16-weaponized-episode-89",
+  "type": "timeline_event",
+  "name": "WEAPONIZED Episode #89 published",
+  "summary": "WEAPONIZED Episode #89, The 2025 UAP Hearing — Did It Move the Needle?, was published.",
+  "relationships": [
+    {
+      "type": "event_for",
+      "target": "2025-weaponized-episode-89"
+    }
+  ],
+  "officialLinks": [],
+  "referenceSources": [
+    {
+      "label": "Official WEAPONIZED Episode #89 page",
+      "url": "https://www.weaponizedpodcast.com/episodes-3/episode-89",
+      "sourceType": "official_episode_page",
+      "role": "source"
+    },
+    {
+      "label": "Listen to WEAPONIZED",
+      "url": "https://link.chtbl.com/Weaponized",
+      "sourceType": "official_audio_feed",
+      "role": "source"
+    }
+  ],
+  "date": "2025-09-16",
+  "dateDisplay": "September 16, 2025",
+  "eventCategory": "Podcast publication"
+}

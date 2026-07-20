@@ -1,0 +1,22 @@
+{
+  "id": "2025-yemen-hellfire-uap-video",
+  "type": "case",
+  "name": "2025 Yemen Hellfire UAP Video",
+  "summary": "Military imagery shown at a 2025 congressional hearing depicting a missile engagement with an unidentified object over Yemen.",
+  "relationships": [],
+  "officialLinks": [],
+  "referenceSources": [
+    {
+      "label": "Official WEAPONIZED Episode #89 page",
+      "url": "https://www.weaponizedpodcast.com/episodes-3/episode-89",
+      "sourceType": "official_episode_page",
+      "role": "source"
+    },
+    {
+      "label": "Listen to WEAPONIZED",
+      "url": "https://link.chtbl.com/Weaponized",
+      "sourceType": "official_audio_feed",
+      "role": "source"
+    }
+  ]
+}

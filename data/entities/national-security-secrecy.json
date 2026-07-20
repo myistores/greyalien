@@ -1,0 +1,22 @@
+{
+  "id": "national-security-secrecy",
+  "type": "topic",
+  "name": "National Security Secrecy",
+  "summary": "Legal and institutional controls governing classified national-security information.",
+  "relationships": [],
+  "officialLinks": [],
+  "referenceSources": [
+    {
+      "label": "Official WEAPONIZED Episode #86 page",
+      "url": "https://www.weaponizedpodcast.com/episodes-3/episode-86",
+      "sourceType": "official_episode_page",
+      "role": "source"
+    },
+    {
+      "label": "Listen to WEAPONIZED",
+      "url": "https://link.chtbl.com/Weaponized",
+      "sourceType": "official_audio_feed",
+      "role": "source"
+    }
+  ]
+}

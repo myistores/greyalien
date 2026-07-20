@@ -1,0 +1,30 @@
+{
+  "id": "timeline-2025-08-12-weaponized-episode-85",
+  "type": "timeline_event",
+  "name": "WEAPONIZED Episode #85 published",
+  "summary": "WEAPONIZED Episode #85, Weaponized Silence — The UFO Disclosure Dilemma, was published.",
+  "relationships": [
+    {
+      "type": "event_for",
+      "target": "2025-weaponized-episode-85"
+    }
+  ],
+  "officialLinks": [],
+  "referenceSources": [
+    {
+      "label": "Official WEAPONIZED Episode #85 page",
+      "url": "https://www.weaponizedpodcast.com/episodes-3/episode-85",
+      "sourceType": "official_episode_page",
+      "role": "source"
+    },
+    {
+      "label": "Listen to WEAPONIZED",
+      "url": "https://link.chtbl.com/Weaponized",
+      "sourceType": "official_audio_feed",
+      "role": "source"
+    }
+  ],
+  "date": "2025-08-12",
+  "dateDisplay": "August 12, 2025",
+  "eventCategory": "Podcast publication"
+}

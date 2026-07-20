@@ -1,0 +1,98 @@
+{
+  "id": "2025-weaponized-episode-91",
+  "type": "podcast_episode",
+  "name": "WEAPONIZED Episode #91 — Dylan Borland Unloads — The Truth About Legacy UFO Programs: Part 2",
+  "summary": "In the second part of the Dylan Borland interview, Borland expands on his allegations concerning legacy UAP programs, compartmented access, intimidation, and the nature of the technology and activity he says he encountered.",
+  "date": "2025-10-02",
+  "dateDisplay": "October 2, 2025",
+  "seriesId": "weaponized-podcast",
+  "episodeNumber": 91,
+  "episodeTitle": "Dylan Borland Unloads — The Truth About Legacy UFO Programs: Part 2",
+  "status": "Published",
+  "mediaType": "Podcast episode",
+  "mediaPlatform": "WEAPONIZED",
+  "mediaHost": "Jeremy Corbell and George Knapp",
+  "mediaGuests": [
+    "dylan-borland"
+  ],
+  "mediaSubjects": [
+    "Legacy UAP programs",
+    "Classified compartments",
+    "Whistleblower retaliation"
+  ],
+  "principalClaims": [
+    "claim-borland-expands-legacy-program-allegations",
+    "claim-program-access-highly-restricted",
+    "claim-borland-says-phenomenon-may-be-ancient",
+    "claim-retaliation-described-as-systemic"
+  ],
+  "researchNotes": [],
+  "relationships": [
+    {
+      "type": "episode_of",
+      "target": "weaponized-podcast"
+    },
+    {
+      "type": "features_person",
+      "target": "jeremy-corbell",
+      "role": "host",
+      "context": "WEAPONIZED co-host"
+    },
+    {
+      "type": "features_person",
+      "target": "george-knapp",
+      "role": "host",
+      "context": "WEAPONIZED co-host"
+    },
+    {
+      "type": "features_person",
+      "target": "dylan-borland",
+      "role": "guest",
+      "context": "Featured episode participant"
+    },
+    {
+      "type": "references_organization",
+      "target": "department-of-defense"
+    },
+    {
+      "type": "discussed_topic",
+      "target": "legacy-uap-programs"
+    },
+    {
+      "type": "discussed_topic",
+      "target": "security-clearance-retaliation"
+    },
+    {
+      "type": "discussed_topic",
+      "target": "whistleblower-retaliation"
+    }
+  ],
+  "mediaLinks": [
+    {
+      "label": "Open the official Episode #91 page",
+      "url": "https://www.weaponizedpodcast.com/episodes-3/episode-91",
+      "platform": "WEAPONIZED"
+    },
+    {
+      "label": "Listen to WEAPONIZED",
+      "url": "https://link.chtbl.com/Weaponized",
+      "platform": "Official audio feed"
+    }
+  ],
+  "eventCategory": "Podcast publication",
+  "officialLinks": [],
+  "referenceSources": [
+    {
+      "label": "Official WEAPONIZED Episode #91 page",
+      "url": "https://www.weaponizedpodcast.com/episodes-3/episode-91",
+      "sourceType": "official_episode_page",
+      "role": "source"
+    },
+    {
+      "label": "Listen to WEAPONIZED",
+      "url": "https://link.chtbl.com/Weaponized",
+      "sourceType": "official_audio_feed",
+      "role": "source"
+    }
+  ]
+}

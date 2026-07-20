@@ -103,6 +103,12 @@
       "dateDisplay": "Late 2024"
     },
     {
+      "id": "2025-yemen-hellfire-uap-video",
+      "type": "case",
+      "name": "2025 Yemen Hellfire UAP Video",
+      "summary": "Military imagery shown at a 2025 congressional hearing depicting a missile engagement with an unidentified object over Yemen."
+    },
+    {
       "id": "1997-peru-crash-claim",
       "type": "case",
       "name": "Alleged 1997 Peru Crash Encounter",
@@ -155,6 +161,12 @@
       "summary": "David Adair's account of being taken to a classified Nevada facility and viewing an unusual propulsion system."
     },
     {
+      "id": "eglin-runway-uap-incident",
+      "type": "case",
+      "name": "Eglin Runway UAP Incident",
+      "summary": "A military veteran’s account of a large craft hovering above a runway at Eglin Air Force Base."
+    },
+    {
       "id": "kona-blue-program",
       "type": "case",
       "name": "Kona Blue Proposed UAP Program",
@@ -191,6 +203,12 @@
       "type": "case",
       "name": "Roswell Incident",
       "summary": "The 1947 recovery of debris near Roswell, New Mexico, and the later claims and disputes surrounding its origin."
+    },
+    {
+      "id": "2025-house-uap-hearing",
+      "type": "case",
+      "name": "September 2025 House UAP Hearing",
+      "summary": "Congressional Secrets Task Force hearing featuring military witnesses and discussion of UAP evidence and whistleblower risks."
     },
     {
       "id": "skinwalker-ranch",
@@ -241,6 +259,12 @@
       "status": "Firsthand witness claim presented publicly and in written congressional testimony."
     },
     {
+      "id": "claim-secrecy-law-complicates-oversight",
+      "type": "claim",
+      "name": "American secrecy law can complicate effective congressional oversight of alleged UAP programs.",
+      "summary": "American secrecy law can complicate effective congressional oversight of alleged UAP programs."
+    },
+    {
       "id": "claim-one-uss-jackson-object-reported-emerging-from-ocean",
       "type": "claim",
       "name": "At least one reported USS Jackson object appeared to emerge from the ocean",
@@ -270,6 +294,48 @@
       "type": "claim",
       "name": "Bob Lazar claims that nine unconventional craft were stored at S4",
       "summary": "Bob Lazar has claimed that nine unconventional craft were housed in hangars at the alleged S4 facility near Area 51."
+    },
+    {
+      "id": "claim-clearance-allegedly-used-as-leverage",
+      "type": "claim",
+      "name": "Borland alleges that his security clearance was manipulated to restrict his options and silence him.",
+      "summary": "Borland alleges that his security clearance was manipulated to restrict his options and silence him."
+    },
+    {
+      "id": "claim-retaliation-described-as-systemic",
+      "type": "claim",
+      "name": "Borland characterizes intimidation and career pressure as mechanisms used to preserve secrecy.",
+      "summary": "Borland characterizes intimidation and career pressure as mechanisms used to preserve secrecy."
+    },
+    {
+      "id": "claim-borland-alleges-threats-and-economic-pressure",
+      "type": "claim",
+      "name": "Borland describes threats, intimidation, and economic pressure connected to his knowledge and disclosures.",
+      "summary": "Borland describes threats, intimidation, and economic pressure connected to his knowledge and disclosures."
+    },
+    {
+      "id": "claim-borland-expands-legacy-program-allegations",
+      "type": "claim",
+      "name": "Borland provides additional detail about alleged long-running UAP programs and their compartmented structure.",
+      "summary": "Borland provides additional detail about alleged long-running UAP programs and their compartmented structure."
+    },
+    {
+      "id": "claim-borland-reports-firsthand-uap-observation",
+      "type": "claim",
+      "name": "Borland reports personally observing technology he understood to be connected to UAP programs.",
+      "summary": "Borland reports personally observing technology he understood to be connected to UAP programs."
+    },
+    {
+      "id": "claim-borland-worked-classified-contractor-role",
+      "type": "claim",
+      "name": "Borland says he moved from Air Force service into highly classified contractor work directed by an intelligence agency.",
+      "summary": "Borland says he moved from Air Force service into highly classified contractor work directed by an intelligence agency."
+    },
+    {
+      "id": "claim-borland-says-phenomenon-may-be-ancient",
+      "type": "claim",
+      "name": "Borland suggests that the intelligence or technology involved may be very old.",
+      "summary": "Borland suggests that the intelligence or technology involved may be very old."
     },
     {
       "id": "claim-brown-alleged-secrecy-stifles-inquiry",
@@ -345,6 +411,12 @@
       "summary": "The official episode description presents or discusses this claim; it is recorded here as a source-attributed claim, not as independently verified fact."
     },
     {
+      "id": "claim-potential-witnesses-contacted",
+      "type": "claim",
+      "name": "Congressional members and staff contacted potential witnesses with firsthand knowledge of unusual technology.",
+      "summary": "Congressional members and staff contacted potential witnesses with firsthand knowledge of unusual technology."
+    },
+    {
       "id": "claim-immaculate-constellation-record-contained-falsified-page",
       "type": "claim",
       "name": "Corbell alleged that the Congressional Record version of the Immaculate Constellation report included a falsified twelfth page",
@@ -361,6 +433,18 @@
       "type": "claim",
       "name": "Corbell and Knapp challenged that historical explanation.",
       "summary": "The official episode description presents or discusses this claim; it is recorded here as a source-attributed claim, not as independently verified fact."
+    },
+    {
+      "id": "claim-corso-alleged-technology-transfer",
+      "type": "claim",
+      "name": "Corso alleged that material from Roswell was transferred into military and commercial research channels.",
+      "summary": "Corso alleged that material from Roswell was transferred into military and commercial research channels."
+    },
+    {
+      "id": "claim-foley-sighting-changed-view",
+      "type": "claim",
+      "name": "Dave Foley says a personal UFO sighting changed his view of the phenomenon.",
+      "summary": "Dave Foley says a personal UFO sighting changed his view of the phenomenon."
     },
     {
       "id": "claim-area-51-alien-engine",
@@ -409,11 +493,23 @@
       "summary": "The official episode description presents or discusses this claim; it is recorded here as a source-attributed claim, not as independently verified fact."
     },
     {
+      "id": "claim-disinformation-shapes-public-debate",
+      "type": "claim",
+      "name": "Disinformation and cultural stigma continue to shape the public UAP debate.",
+      "summary": "Disinformation and cultural stigma continue to shape the public UAP debate."
+    },
+    {
       "id": "claim-alien-autopsy-program",
       "type": "claim",
       "name": "Emery Smith Alien-Autopsy Program Claims",
       "summary": "Claims that Emery Smith participated in classified medical examinations of alleged non-human biological material.",
       "status": "Personal claims distributed primarily through interviews and entertainment media; not independently established."
+    },
+    {
+      "id": "claim-witnesses-described-preparation-and-aftermath",
+      "type": "claim",
+      "name": "Episode guests described how they prepared for testimony and reacted afterward.",
+      "summary": "Episode guests described how they prepared for testimony and reacted afterward."
     },
     {
       "id": "claim-south-pole-directed-energy",
@@ -429,10 +525,22 @@
       "summary": "The official episode description presents or discusses this claim; it is recorded here as a source-attributed claim, not as independently verified fact."
     },
     {
+      "id": "claim-planned-scif-briefings-did-not-materialize",
+      "type": "claim",
+      "name": "Expected closed-door congressional UAP briefings did not materialize as anticipated.",
+      "summary": "Expected closed-door congressional UAP briefings did not materialize as anticipated."
+    },
+    {
       "id": "claim-whistleblower-fear-continues-to-limit-disclosure",
       "type": "claim",
       "name": "Fear of professional consequences continues to deter potential UAP whistleblowers",
       "summary": "Blumenthal discussed why insiders may remain reluctant to come forward."
+    },
+    {
+      "id": "claim-dod-records-produced-new-case",
+      "type": "claim",
+      "name": "Government-records work produced information about an additional UAP case from the Department of Defense.",
+      "summary": "Government-records work produced information about an additional UAP case from the Department of Defense."
     },
     {
       "id": "claim-fbi-contacted-hastings",
@@ -557,6 +665,18 @@
       "status": "Attributed recommendation presented in an interview."
     },
     {
+      "id": "claim-disclosure-requires-verifiable-evidence",
+      "type": "claim",
+      "name": "Meaningful disclosure would require verifiable evidence rather than rhetoric alone.",
+      "summary": "Meaningful disclosure would require verifiable evidence rather than rhetoric alone."
+    },
+    {
+      "id": "claim-medical-community-often-ignores-cause",
+      "type": "claim",
+      "name": "Medical professionals may treat reported injuries without investigating the alleged anomalous cause.",
+      "summary": "Medical professionals may treat reported injuries without investigating the alleged anomalous cause."
+    },
+    {
       "id": "claim-capitol-hill-uap-hearing-planning",
       "type": "claim",
       "name": "Members and staff were planning additional congressional UAP hearings",
@@ -568,6 +688,12 @@
       "name": "Michael Herrera Indonesia Craft Claim",
       "summary": "Claim that Herrera observed a large advanced craft and unidentified personnel moving containers during a 2009 deployment in Indonesia.",
       "status": "Named firsthand account; central details remain unverified and have been publicly disputed."
+    },
+    {
+      "id": "claim-military-witnesses-testified-under-oath",
+      "type": "claim",
+      "name": "Military witnesses testified under oath about UAP encounters and retaliation risks.",
+      "summary": "Military witnesses testified under oath about UAP encounters and retaliation risks."
     },
     {
       "id": "claim-mystery-drone-incursions-remained-major-2024-story",
@@ -582,11 +708,29 @@
       "summary": "Mike Gold argued that NASA records could aid investigation of historical incidents and advanced materials."
     },
     {
+      "id": "claim-nids-recorded-corso-interviews",
+      "type": "claim",
+      "name": "Personnel associated with NIDS recorded two lengthy interviews with Corso.",
+      "summary": "Personnel associated with NIDS recorded two lengthy interviews with Corso."
+    },
+    {
+      "id": "claim-corso-made-claims-before-book",
+      "type": "claim",
+      "name": "Philip Corso described his account to George Knapp years before publishing The Day After Roswell.",
+      "summary": "Philip Corso described his account to George Knapp years before publishing The Day After Roswell."
+    },
+    {
       "id": "claim-roswell-technology-transfer",
       "type": "claim",
       "name": "Philip Corso Roswell Technology-Transfer Claim",
       "summary": "Claim that recovered Roswell material was transferred through military research channels and contributed to later technological developments.",
       "status": "Claim published in The Day After Roswell; not established as fact by GreyAlien."
+    },
+    {
+      "id": "claim-firsthand-witnesses-remain-cautious",
+      "type": "claim",
+      "name": "Potential firsthand witnesses were still cautious about public testimony.",
+      "summary": "Potential firsthand witnesses were still cautious about public testimony."
     },
     {
       "id": "claim-potential-uap-witnesses-faced-threats",
@@ -595,10 +739,22 @@
       "summary": "This was presented by the episode panel as a continuing barrier to disclosure."
     },
     {
+      "id": "claim-whistleblower-public-costs",
+      "type": "claim",
+      "name": "Public attacks and institutional resistance can discourage potential UAP whistleblowers from speaking.",
+      "summary": "Public attacks and institutional resistance can discourage potential UAP whistleblowers from speaking."
+    },
+    {
       "id": "claim-public-private-partnerships-could-advance-uap-study",
       "type": "claim",
       "name": "Public-private partnerships could advance transparent UAP research",
       "summary": "Gold expressed optimism about cooperation between government and commercial space organizations."
+    },
+    {
+      "id": "claim-aawsap-files-could-aid-research",
+      "type": "claim",
+      "name": "Releasing AAWSAP files could improve scientific and medical evaluation of close-encounter effects.",
+      "summary": "Releasing AAWSAP files could improve scientific and medical evaluation of close-encounter effects."
     },
     {
       "id": "claim-human-encounter-reports-may-be-central-to-uap-study",
@@ -637,6 +793,18 @@
       "summary": "The official episode description presents or discusses this claim; it is recorded here as a source-attributed claim, not as independently verified fact."
     },
     {
+      "id": "claim-cleared-witnesses-face-legal-risk",
+      "type": "claim",
+      "name": "Security-cleared witnesses face legal risk when discussing classified information, even with Congress.",
+      "summary": "Security-cleared witnesses face legal risk when discussing classified information, even with Congress."
+    },
+    {
+      "id": "claim-witnesses-fear-retaliation",
+      "type": "claim",
+      "name": "Some potential witnesses remained reluctant to testify because they feared retaliation.",
+      "summary": "Some potential witnesses remained reluctant to testify because they feared retaliation."
+    },
+    {
       "id": "claim-some-uso-reports-describe-transmedium-performance",
       "type": "claim",
       "name": "Some USO reports describe objects moving between water, air, and space",
@@ -667,10 +835,28 @@
       "summary": "The episode describes the report as a pivotal event whose effects continued years later."
     },
     {
+      "id": "claim-media-role-uap-suppression",
+      "type": "claim",
+      "name": "The episode argues that parts of the media help marginalize UAP witnesses and transparency efforts.",
+      "summary": "The episode argues that parts of the media help marginalize UAP witnesses and transparency efforts."
+    },
+    {
+      "id": "claim-public-reaction-largely-positive",
+      "type": "claim",
+      "name": "The episode characterizes public reaction to the hearing as broadly positive.",
+      "summary": "The episode characterizes public reaction to the hearing as broadly positive."
+    },
+    {
       "id": "claim-dod-deception-history-discussed",
       "type": "claim",
       "name": "The episode discussed acknowledged historical deception surrounding classified programs.",
       "summary": "The official episode description presents or discusses this claim; it is recorded here as a source-attributed claim, not as independently verified fact."
+    },
+    {
+      "id": "claim-congressional-strategy-influenced-by-grusch",
+      "type": "claim",
+      "name": "The episode discusses David Grusch’s role as an advisor to congressional disclosure efforts.",
+      "summary": "The episode discusses David Grusch’s role as an advisor to congressional disclosure efforts."
     },
     {
       "id": "claim-private-competition-crash-materials",
@@ -683,6 +869,18 @@
       "type": "claim",
       "name": "The episode notes public promises of UAP transparency from high-profile administration insiders.",
       "summary": "The official episode description presents or discusses this claim; it is recorded here as a source-attributed claim, not as independently verified fact."
+    },
+    {
+      "id": "claim-program-access-highly-restricted",
+      "type": "claim",
+      "name": "The episode portrays access to alleged legacy activities as tightly restricted and need-to-know controlled.",
+      "summary": "The episode portrays access to alleged legacy activities as tightly restricted and need-to-know controlled."
+    },
+    {
+      "id": "claim-corso-tapes-remained-unreleased",
+      "type": "claim",
+      "name": "The episode presents and analyzes recordings that had not previously been publicly released.",
+      "summary": "The episode presents and analyzes recordings that had not previously been publicly released."
     },
     {
       "id": "claim-uap-nuclear-connection-discussed",
@@ -727,6 +925,18 @@
       "summary": "The official episode description presents or discusses this claim; it is recorded here as a source-attributed claim, not as independently verified fact."
     },
     {
+      "id": "claim-hearing-presented-yemen-video",
+      "type": "claim",
+      "name": "The hearing presented military imagery of a missile engagement with an unidentified object over Yemen.",
+      "summary": "The hearing presented military imagery of a missile engagement with an unidentified object over Yemen."
+    },
+    {
+      "id": "claim-military-hazing-explanation-challenged",
+      "type": "claim",
+      "name": "The hosts and guest challenge claims that historic UFO reports can be reduced to elaborate military hazing.",
+      "summary": "The hosts and guest challenge claims that historic UFO reports can be reduced to elaborate military hazing."
+    },
+    {
       "id": "claim-60-minutes-report-omitted-key-2019-navy-swarm-context",
       "type": "claim",
       "name": "The hosts argued that a 60 Minutes drone report omitted important evidence from 2019 Navy incidents",
@@ -761,6 +971,12 @@
       "type": "claim",
       "name": "The journalists behind the 2017 report faced editorial resistance and professional blowback",
       "summary": "Ralph Blumenthal discussed disputes with editors and reactions from colleagues."
+    },
+    {
+      "id": "claim-witness-selected-for-congressional-hearing",
+      "type": "claim",
+      "name": "The military veteran had been considered and prepared as a witness for the September congressional hearing.",
+      "summary": "The military veteran had been considered and prepared as a witness for the September congressional hearing."
     },
     {
       "id": "claim-mosul-orb-recorded-2016",
@@ -799,6 +1015,18 @@
       "summary": "The official episode description presents or discusses this claim; it is recorded here as a source-attributed claim, not as independently verified fact."
     },
     {
+      "id": "claim-hearing-may-encourage-more-witnesses",
+      "type": "claim",
+      "name": "The participants discuss whether the hearing could encourage additional witnesses to come forward.",
+      "summary": "The participants discuss whether the hearing could encourage additional witnesses to come forward."
+    },
+    {
+      "id": "claim-witness-withdrew-before-hearing",
+      "type": "claim",
+      "name": "The planned witness did not appear at the hearing and later explained his account publicly on WEAPONIZED.",
+      "summary": "The planned witness did not appear at the hearing and later explained his account publicly on WEAPONIZED."
+    },
+    {
       "id": "claim-2024-uap-disclosure-amendment-failed",
       "type": "claim",
       "name": "The proposed 2024 UAP disclosure amendments did not survive the defense authorization process",
@@ -817,6 +1045,12 @@
       "summary": "The official episode description presents or discusses this claim; it is recorded here as a source-attributed claim, not as independently verified fact."
     },
     {
+      "id": "claim-close-encounters-associated-with-injuries",
+      "type": "claim",
+      "name": "The reviewed case literature associates some close encounters with serious physical, physiological, and psychological effects.",
+      "summary": "The reviewed case literature associates some close encounters with serious physical, physiological, and psychological effects."
+    },
+    {
       "id": "claim-mosul-orb-four-second-video",
       "type": "claim",
       "name": "The surveillance recording is described as a four-second video clip.",
@@ -829,10 +1063,34 @@
       "summary": "Matt Laslo provided an update indicating that the legislative effort might still have had a path forward."
     },
     {
+      "id": "claim-unhidden-report-builds-on-aawsap",
+      "type": "claim",
+      "name": "The Unhidden Foundation report builds on health-effects research associated with AAWSAP.",
+      "summary": "The Unhidden Foundation report builds on health-effects research associated with AAWSAP."
+    },
+    {
       "id": "claim-uss-jackson-four-objects-formation",
       "type": "claim",
       "name": "The witness described four objects joining and departing in tight formation.",
       "summary": "The official episode description presents or discusses this claim; it is recorded here as a source-attributed claim, not as independently verified fact."
+    },
+    {
+      "id": "claim-craft-departed-at-extraordinary-speed",
+      "type": "claim",
+      "name": "The witness describes the craft departing with extremely rapid acceleration.",
+      "summary": "The witness describes the craft departing with extremely rapid acceleration."
+    },
+    {
+      "id": "claim-witness-reports-large-hovering-craft",
+      "type": "claim",
+      "name": "The witness reports seeing a very large craft hovering above a runway at Eglin Air Force Base.",
+      "summary": "The witness reports seeing a very large craft hovering above a runway at Eglin Air Force Base."
+    },
+    {
+      "id": "claim-legislative-protections-sought",
+      "type": "claim",
+      "name": "Transparency advocates sought stronger legislative protections for whistleblowers.",
+      "summary": "Transparency advocates sought stronger legislative protections for whistleblowers."
     },
     {
       "id": "claim-two-uss-jackson-objects-recorded-from-command-center",
@@ -869,6 +1127,12 @@
       "type": "claim",
       "name": "Vandenberg security personnel reportedly investigated more than one unusual aerial incursion",
       "summary": "Nuccetelli described a second large-object incident and security response."
+    },
+    {
+      "id": "claim-retaliation-can-occur-without-prosecution",
+      "type": "claim",
+      "name": "Whistleblowers may suffer professional and personal consequences even when they are not prosecuted.",
+      "summary": "Whistleblowers may suffer professional and personal consequences even when they are not prosecuted."
     },
     {
       "id": "claim-uss-jackson-area-recurring-encounters",
@@ -931,6 +1195,12 @@
       "status": "Official NASA report"
     },
     {
+      "id": "need-to-know-book",
+      "type": "document",
+      "name": "Need to Know: The History, Law, and Practice of American Secrecy",
+      "summary": "Richard Beckwith’s book examining American secrecy law and practice."
+    },
+    {
       "id": "2023-house-uap-hearing-transcript",
       "type": "document",
       "name": "Official July 2023 Hearing Transcript",
@@ -948,6 +1218,12 @@
       "name": "The Day After Roswell",
       "summary": "1997 book by Philip J. Corso and William J. Birnes presenting claims about recovered Roswell technology and military reverse engineering.",
       "status": "Published memoir and claim record"
+    },
+    {
+      "id": "unhidden-close-encounter-health-effects-report",
+      "type": "document",
+      "name": "Unhidden Foundation Close-Encounter Health Effects Report",
+      "summary": "Report reviewing cases and research concerning injuries and health effects attributed to proximity to unknown advanced technology."
     },
     {
       "id": "document-2002-10-16-wilson-davis-notes",
@@ -1237,6 +1513,12 @@
       "summary": "Research organization associated with advanced propulsion, spacetime physics, and frontier-science studies."
     },
     {
+      "id": "eglin-air-force-base",
+      "type": "organization",
+      "name": "Eglin Air Force Base",
+      "summary": "U.S. Air Force installation in Florida associated with the Episode #92 witness account."
+    },
+    {
       "id": "federal-aviation-administration",
       "type": "organization",
       "name": "Federal Aviation Administration",
@@ -1405,6 +1687,12 @@
       "summary": "Research institute and policy organization bringing together academic, government, and industry expertise to address scientific, policy, and social questions raised by UAP."
     },
     {
+      "id": "unhidden-foundation",
+      "type": "organization",
+      "name": "The Unhidden Foundation",
+      "summary": "Research organization focused on injuries and health effects associated with close encounters."
+    },
+    {
       "id": "wall-street-journal",
       "type": "organization",
       "name": "The Wall Street Journal",
@@ -1469,6 +1757,12 @@
       "type": "organization",
       "name": "United States Army",
       "summary": "Land service branch of the U.S. Armed Forces."
+    },
+    {
+      "id": "united-states-congress",
+      "type": "organization",
+      "name": "United States Congress",
+      "summary": "The legislative branch of the U.S. federal government."
     },
     {
       "id": "united-states-marine-corps",
@@ -1625,6 +1919,12 @@
       "type": "person",
       "name": "Danny Silva",
       "summary": "Citizen journalist and publisher of The Silva Record, covering UAP policy and disclosure developments."
+    },
+    {
+      "id": "dave-foley",
+      "type": "person",
+      "name": "Dave Foley",
+      "summary": "Canadian actor and comedian who discusses his personal UFO sighting and changing view of the phenomenon."
     },
     {
       "id": "dave-navarro",
@@ -1879,6 +2179,12 @@
       "summary": "Harvard psychiatrist and Pulitzer Prize-winning author who investigated reported alien-abduction experiences and the 1994 Ariel School encounter."
     },
     {
+      "id": "john-priestland",
+      "type": "person",
+      "name": "John Priestland",
+      "summary": "UK physicist and founder of the Unhidden Foundation, which studies health effects reported after close encounters."
+    },
+    {
       "id": "jon-kosloski",
       "type": "person",
       "name": "Jon T. Kosloski",
@@ -2023,6 +2329,12 @@
       "summary": "Award-winning journalist and co-author of The New York Times’ December 2017 report on the Pentagon UFO program."
     },
     {
+      "id": "richard-beckwith",
+      "type": "person",
+      "name": "Richard Beckwith",
+      "summary": "Attorney and author who studies the history, law, and practice of American secrecy."
+    },
+    {
       "id": "richard-dolan",
       "type": "person",
       "name": "Richard Dolan",
@@ -2141,6 +2453,12 @@
       "type": "person",
       "name": "Travis Taylor",
       "summary": "Aerospace engineer, author, television personality, and former chief scientist for the UAP Task Force."
+    },
+    {
+      "id": "unnamed-eglin-uap-witness",
+      "type": "person",
+      "name": "Unnamed Eglin UAP Witness",
+      "summary": "Military veteran interviewed about a large craft reportedly observed hovering above a runway at Eglin Air Force Base."
     },
     {
       "id": "warren-randolph",
@@ -2463,6 +2781,15 @@
       "status": "Published"
     },
     {
+      "id": "2025-weaponized-episode-74",
+      "type": "podcast_episode",
+      "name": "WEAPONIZED Episode #74 — Matthew Brown and Immaculate Constellation — Part 1",
+      "summary": "Matthew Brown publicly identifies himself as the author of the Immaculate Constellation report and explains his background, how he encountered the term, and why he chose to come forward.",
+      "date": "2025-04-29",
+      "dateDisplay": "April 29, 2025",
+      "status": "Published"
+    },
+    {
       "id": "weaponized-matthew-brown-part-1",
       "type": "podcast_episode",
       "name": "WEAPONIZED Episode #74 — Matthew Brown Part 1: Immaculate Constellation",
@@ -2472,12 +2799,30 @@
       "status": "Published"
     },
     {
+      "id": "2025-weaponized-episode-75",
+      "type": "podcast_episode",
+      "name": "WEAPONIZED Episode #75 — Matthew Brown and Immaculate Constellation — Part 2",
+      "summary": "Matthew Brown discusses documents he says he reviewed, the reporting process he followed, and institutional barriers he encountered before publicly identifying himself.",
+      "date": "2025-05-06",
+      "dateDisplay": "May 6, 2025",
+      "status": "Published"
+    },
+    {
       "id": "weaponized-matthew-brown-part-2",
       "type": "podcast_episode",
       "name": "WEAPONIZED Episode #75 — Matthew Brown Part 2: Immaculate Constellation",
       "summary": "In Part 2, Matthew Brown joins Jeremy Corbell and George Knapp to discuss documents he says he reviewed, the alleged scope and compartmentalization of Immaculate Constellation, and the reporting process he followed before identifying himself publicly.",
       "date": "2025-05-06",
       "dateDisplay": "May 6, 2025",
+      "status": "Published"
+    },
+    {
+      "id": "2025-weaponized-episode-76",
+      "type": "podcast_episode",
+      "name": "WEAPONIZED Episode #76 — Matthew Brown and Immaculate Constellation — Part 3",
+      "summary": "In the conclusion of the interview, Matthew Brown discusses alleged classified UAP imagery, secrecy mechanisms, public perception management, and his appeal for other insiders to come forward.",
+      "date": "2025-05-13",
+      "dateDisplay": "May 13, 2025",
       "status": "Published"
     },
     {
@@ -2541,6 +2886,96 @@
       "summary": "The hosts survey recent UAP disclosure developments, including statements by administration insiders, additional military and intelligence witnesses, congressional interest in secret programs and drones, and reported competition for access to alleged crash materials.",
       "date": "2025-07-11",
       "dateDisplay": "July 11, 2025",
+      "status": "Published"
+    },
+    {
+      "id": "2025-weaponized-episode-83",
+      "type": "podcast_episode",
+      "name": "WEAPONIZED Episode #83 — Storming the Silence — Dave Foley and the Fight for UAP Transparency",
+      "summary": "Jeremy Corbell and George Knapp interview comedian and actor Dave Foley about his personal UFO sighting, his changing views, and the broader struggle over disinformation, whistleblower suppression, and media treatment of UAP.",
+      "date": "2025-07-22",
+      "dateDisplay": "July 22, 2025",
+      "status": "Published"
+    },
+    {
+      "id": "2025-weaponized-episode-84",
+      "type": "podcast_episode",
+      "name": "WEAPONIZED Episode #84 — False Prophets and Flying Objects — The Whistleblower Wave",
+      "summary": "The hosts examine preparations for a September congressional UAP hearing, the reluctance of firsthand witnesses to testify, competing pressure from transparency advocates and secrecy interests, and a newly surfaced Defense Department case discussed with Dustin Slaughter.",
+      "date": "2025-08-05",
+      "dateDisplay": "August 5, 2025",
+      "status": "Published"
+    },
+    {
+      "id": "2025-weaponized-episode-85",
+      "type": "podcast_episode",
+      "name": "WEAPONIZED Episode #85 — Weaponized Silence — The UFO Disclosure Dilemma",
+      "summary": "Joe Murgia, Danny Silva, and Ryan Robbins join the hosts to assess the approaching congressional hearing, witness intimidation, definitions of disclosure, disinformation, and the obstacles facing efforts to obtain undeniable public evidence.",
+      "date": "2025-08-12",
+      "dateDisplay": "August 12, 2025",
+      "status": "Published"
+    },
+    {
+      "id": "2025-weaponized-episode-86",
+      "type": "podcast_episode",
+      "name": "WEAPONIZED Episode #86 — Threats, Intimidation, Prosecution — The Daunting Risks for UFO Whistleblowers",
+      "summary": "Attorney Richard Beckwith and aerospace executive Mike Gold explain the legal, professional, and practical risks facing cleared personnel who consider disclosing sensitive UAP information to Congress, including confusion surrounding promised classified briefings.",
+      "date": "2025-08-19",
+      "dateDisplay": "August 19, 2025",
+      "status": "Published"
+    },
+    {
+      "id": "2025-weaponized-episode-87",
+      "type": "podcast_episode",
+      "name": "WEAPONIZED Episode #87 — Alien Bodies and Technology — The Lost Tapes of UFO Whistleblower Col. Corso",
+      "summary": "Jeremy Corbell and George Knapp revisit Philip J. Corso’s claims about Roswell materials, Pentagon technology transfer, and reverse engineering through interviews recorded before publication of The Day After Roswell.",
+      "date": "2025-08-26",
+      "dateDisplay": "August 26, 2025",
+      "status": "Published"
+    },
+    {
+      "id": "2025-weaponized-episode-88",
+      "type": "podcast_episode",
+      "name": "WEAPONIZED Episode #88 — Injured by UFOs — The Case-by-Case Medical Evidence",
+      "summary": "Physicist John Priestland discusses the Unhidden Foundation’s review of physical, physiological, and psychological injuries reported after close encounters and calls for release of AAWSAP records relevant to medical and scientific study.",
+      "date": "2025-09-02",
+      "dateDisplay": "September 2, 2025",
+      "status": "Published"
+    },
+    {
+      "id": "2025-weaponized-episode-89",
+      "type": "podcast_episode",
+      "name": "WEAPONIZED Episode #89 — The 2025 UAP Hearing — Did It Move the Needle?",
+      "summary": "Participants in the September 2025 congressional UAP hearing discuss preparation, testimony, public reaction, whistleblower risks, and military video showing a missile engagement with an unidentified object over Yemen.",
+      "date": "2025-09-16",
+      "dateDisplay": "September 16, 2025",
+      "status": "Published"
+    },
+    {
+      "id": "2025-weaponized-episode-90",
+      "type": "podcast_episode",
+      "name": "WEAPONIZED Episode #90 — The Reluctant UFO Whistleblower — Dylan Borland Tells All: Part 1",
+      "summary": "Dylan Borland recounts his path from the U.S. Air Force into classified contractor work, an alleged firsthand encounter with UAP technology, and claimed threats, clearance manipulation, intimidation, and economic pressure.",
+      "date": "2025-09-23",
+      "dateDisplay": "September 23, 2025",
+      "status": "Published"
+    },
+    {
+      "id": "2025-weaponized-episode-91",
+      "type": "podcast_episode",
+      "name": "WEAPONIZED Episode #91 — Dylan Borland Unloads — The Truth About Legacy UFO Programs: Part 2",
+      "summary": "In the second part of the Dylan Borland interview, Borland expands on his allegations concerning legacy UAP programs, compartmented access, intimidation, and the nature of the technology and activity he says he encountered.",
+      "date": "2025-10-02",
+      "dateDisplay": "October 2, 2025",
+      "status": "Published"
+    },
+    {
+      "id": "2025-weaponized-episode-92",
+      "type": "podcast_episode",
+      "name": "WEAPONIZED Episode #92 — The UAP Witness That Didn’t Testify — Congress Wanted You to Hear This",
+      "summary": "Jeremy Corbell and George Knapp interview a military veteran who had been expected to testify before Congress and who reports seeing a large craft hovering above a runway at Eglin Air Force Base before departing at extraordinary speed.",
+      "date": "2025-10-09",
+      "dateDisplay": "October 9, 2025",
       "status": "Published"
     },
     {
@@ -2927,6 +3362,86 @@
       "dateDisplay": "April 14, 2026"
     },
     {
+      "id": "timeline-2025-07-22-weaponized-episode-83",
+      "type": "timeline_event",
+      "name": "WEAPONIZED Episode #83 published",
+      "summary": "WEAPONIZED Episode #83, Storming the Silence — Dave Foley and the Fight for UAP Transparency, was published.",
+      "date": "2025-07-22",
+      "dateDisplay": "July 22, 2025"
+    },
+    {
+      "id": "timeline-2025-08-05-weaponized-episode-84",
+      "type": "timeline_event",
+      "name": "WEAPONIZED Episode #84 published",
+      "summary": "WEAPONIZED Episode #84, False Prophets and Flying Objects — The Whistleblower Wave, was published.",
+      "date": "2025-08-05",
+      "dateDisplay": "August 5, 2025"
+    },
+    {
+      "id": "timeline-2025-08-12-weaponized-episode-85",
+      "type": "timeline_event",
+      "name": "WEAPONIZED Episode #85 published",
+      "summary": "WEAPONIZED Episode #85, Weaponized Silence — The UFO Disclosure Dilemma, was published.",
+      "date": "2025-08-12",
+      "dateDisplay": "August 12, 2025"
+    },
+    {
+      "id": "timeline-2025-08-19-weaponized-episode-86",
+      "type": "timeline_event",
+      "name": "WEAPONIZED Episode #86 published",
+      "summary": "WEAPONIZED Episode #86, Threats, Intimidation, Prosecution — The Daunting Risks for UFO Whistleblowers, was published.",
+      "date": "2025-08-19",
+      "dateDisplay": "August 19, 2025"
+    },
+    {
+      "id": "timeline-2025-08-26-weaponized-episode-87",
+      "type": "timeline_event",
+      "name": "WEAPONIZED Episode #87 published",
+      "summary": "WEAPONIZED Episode #87, Alien Bodies and Technology — The Lost Tapes of UFO Whistleblower Col. Corso, was published.",
+      "date": "2025-08-26",
+      "dateDisplay": "August 26, 2025"
+    },
+    {
+      "id": "timeline-2025-09-02-weaponized-episode-88",
+      "type": "timeline_event",
+      "name": "WEAPONIZED Episode #88 published",
+      "summary": "WEAPONIZED Episode #88, Injured by UFOs — The Case-by-Case Medical Evidence, was published.",
+      "date": "2025-09-02",
+      "dateDisplay": "September 2, 2025"
+    },
+    {
+      "id": "timeline-2025-09-16-weaponized-episode-89",
+      "type": "timeline_event",
+      "name": "WEAPONIZED Episode #89 published",
+      "summary": "WEAPONIZED Episode #89, The 2025 UAP Hearing — Did It Move the Needle?, was published.",
+      "date": "2025-09-16",
+      "dateDisplay": "September 16, 2025"
+    },
+    {
+      "id": "timeline-2025-09-23-weaponized-episode-90",
+      "type": "timeline_event",
+      "name": "WEAPONIZED Episode #90 published",
+      "summary": "WEAPONIZED Episode #90, The Reluctant UFO Whistleblower — Dylan Borland Tells All: Part 1, was published.",
+      "date": "2025-09-23",
+      "dateDisplay": "September 23, 2025"
+    },
+    {
+      "id": "timeline-2025-10-02-weaponized-episode-91",
+      "type": "timeline_event",
+      "name": "WEAPONIZED Episode #91 published",
+      "summary": "WEAPONIZED Episode #91, Dylan Borland Unloads — The Truth About Legacy UFO Programs: Part 2, was published.",
+      "date": "2025-10-02",
+      "dateDisplay": "October 2, 2025"
+    },
+    {
+      "id": "timeline-2025-10-09-weaponized-episode-92",
+      "type": "timeline_event",
+      "name": "WEAPONIZED Episode #92 published",
+      "summary": "WEAPONIZED Episode #92, The UAP Witness That Didn’t Testify — Congress Wanted You to Hear This, was published.",
+      "date": "2025-10-09",
+      "dateDisplay": "October 9, 2025"
+    },
+    {
       "id": "timeline-2023-01-23-weaponized-launch",
       "type": "timeline_event",
       "name": "WEAPONIZED Launches with Jeremy Corbell and George Knapp",
@@ -2959,6 +3474,12 @@
       "summary": "Research and reporting concerning crop formations, their origins, and government or media investigations."
     },
     {
+      "id": "eglin-air-force-base-uap",
+      "type": "topic",
+      "name": "Eglin Air Force Base UAP",
+      "summary": "Reported UAP incidents associated with Eglin Air Force Base."
+    },
+    {
       "id": "extraterrestrial-hypothesis",
       "type": "topic",
       "name": "Extraterrestrial Hypothesis",
@@ -2989,10 +3510,34 @@
       "summary": "Name associated with allegations of a highly compartmentalized U.S. government UAP collection and intelligence program. The program's alleged scope and existence remain subjects of public claims and congressional interest."
     },
     {
+      "id": "legacy-uap-programs",
+      "type": "topic",
+      "name": "Legacy UAP Programs",
+      "summary": "Alleged long-running classified programs involving UAP collection, exploitation, or reverse engineering."
+    },
+    {
+      "id": "military-uap-witnesses",
+      "type": "topic",
+      "name": "Military UAP Witnesses",
+      "summary": "Service members and veterans reporting encounters with unidentified anomalous phenomena."
+    },
+    {
       "id": "mystery-drone-incursions",
       "type": "topic",
       "name": "Mystery Drone Incursions",
       "summary": "Unresolved reports of recurring unidentified drone-like objects near communities and restricted military airspace."
+    },
+    {
+      "id": "national-security-secrecy",
+      "type": "topic",
+      "name": "National Security Secrecy",
+      "summary": "Legal and institutional controls governing classified national-security information."
+    },
+    {
+      "id": "reverse-engineering",
+      "type": "topic",
+      "name": "Reverse Engineering",
+      "summary": "Efforts to understand and reproduce technologies by studying recovered systems or materials."
     },
     {
       "id": "scientific-investigation",
@@ -3001,16 +3546,40 @@
       "summary": "Scientific methods, data standards, and research approaches."
     },
     {
+      "id": "security-clearance-retaliation",
+      "type": "topic",
+      "name": "Security Clearance Retaliation",
+      "summary": "Alleged use of security-clearance processes to pressure, silence, or punish personnel."
+    },
+    {
       "id": "transmedium-uap",
       "type": "topic",
       "name": "Transmedium UAP",
       "summary": "Reports of unidentified objects appearing to move between air and water without an obvious transition or loss of performance."
     },
     {
+      "id": "uap-disclosure",
+      "type": "topic",
+      "name": "UAP Disclosure",
+      "summary": "Public release and official acknowledgment of information concerning unidentified anomalous phenomena."
+    },
+    {
       "id": "uap-disclosure-legislation",
       "type": "topic",
       "name": "UAP Disclosure Legislation",
       "summary": "Legislative proposals addressing UAP records, disclosure, reporting, and oversight."
+    },
+    {
+      "id": "uap-disinformation",
+      "type": "topic",
+      "name": "UAP Disinformation",
+      "summary": "Claims, messaging, and information campaigns that may distort public understanding of UAP."
+    },
+    {
+      "id": "uap-health-effects",
+      "type": "topic",
+      "name": "UAP Health Effects",
+      "summary": "Reported physical, physiological, and psychological effects associated with close encounters."
     },
     {
       "id": "nuclear-facility-uap-incursions",
@@ -3047,6 +3616,12 @@
       "type": "topic",
       "name": "Whistleblower Protection",
       "summary": "Legal and procedural protections for people reporting government misconduct or withheld information."
+    },
+    {
+      "id": "whistleblower-retaliation",
+      "type": "topic",
+      "name": "Whistleblower Retaliation",
+      "summary": "Professional, legal, financial, or personal retaliation alleged by people reporting sensitive information."
     }
   ]
 }

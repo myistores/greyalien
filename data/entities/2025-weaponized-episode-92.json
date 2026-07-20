@@ -1,0 +1,106 @@
+{
+  "id": "2025-weaponized-episode-92",
+  "type": "podcast_episode",
+  "name": "WEAPONIZED Episode #92 — The UAP Witness That Didn’t Testify — Congress Wanted You to Hear This",
+  "summary": "Jeremy Corbell and George Knapp interview a military veteran who had been expected to testify before Congress and who reports seeing a large craft hovering above a runway at Eglin Air Force Base before departing at extraordinary speed.",
+  "date": "2025-10-09",
+  "dateDisplay": "October 9, 2025",
+  "seriesId": "weaponized-podcast",
+  "episodeNumber": 92,
+  "episodeTitle": "The UAP Witness That Didn’t Testify — Congress Wanted You to Hear This",
+  "status": "Published",
+  "mediaType": "Podcast episode",
+  "mediaPlatform": "WEAPONIZED",
+  "mediaHost": "Jeremy Corbell and George Knapp",
+  "mediaGuests": [
+    "unnamed-eglin-uap-witness"
+  ],
+  "mediaSubjects": [
+    "Eglin Air Force Base",
+    "Congressional witness",
+    "Runway UAP"
+  ],
+  "principalClaims": [
+    "claim-witness-selected-for-congressional-hearing",
+    "claim-witness-reports-large-hovering-craft",
+    "claim-craft-departed-at-extraordinary-speed",
+    "claim-witness-withdrew-before-hearing"
+  ],
+  "researchNotes": [],
+  "relationships": [
+    {
+      "type": "episode_of",
+      "target": "weaponized-podcast"
+    },
+    {
+      "type": "features_person",
+      "target": "jeremy-corbell",
+      "role": "host",
+      "context": "WEAPONIZED co-host"
+    },
+    {
+      "type": "features_person",
+      "target": "george-knapp",
+      "role": "host",
+      "context": "WEAPONIZED co-host"
+    },
+    {
+      "type": "features_person",
+      "target": "unnamed-eglin-uap-witness",
+      "role": "guest",
+      "context": "Featured episode participant"
+    },
+    {
+      "type": "references_organization",
+      "target": "eglin-air-force-base"
+    },
+    {
+      "type": "references_organization",
+      "target": "united-states-congress"
+    },
+    {
+      "type": "discussed_topic",
+      "target": "eglin-air-force-base-uap"
+    },
+    {
+      "type": "discussed_topic",
+      "target": "military-uap-witnesses"
+    },
+    {
+      "type": "discussed_topic",
+      "target": "congressional-oversight"
+    },
+    {
+      "type": "references_case",
+      "target": "eglin-runway-uap-incident"
+    }
+  ],
+  "mediaLinks": [
+    {
+      "label": "Open the official Episode #92 page",
+      "url": "https://www.weaponizedpodcast.com/episodes-3/episode-92",
+      "platform": "WEAPONIZED"
+    },
+    {
+      "label": "Listen to WEAPONIZED",
+      "url": "https://link.chtbl.com/Weaponized",
+      "platform": "Official audio feed"
+    }
+  ],
+  "eventCategory": "Podcast publication",
+  "officialLinks": [],
+  "referenceSources": [
+    {
+      "label": "Official WEAPONIZED Episode #92 page",
+      "url": "https://www.weaponizedpodcast.com/episodes-3/episode-92",
+      "sourceType": "official_episode_page",
+      "role": "source"
+    },
+    {
+      "label": "Listen to WEAPONIZED",
+      "url": "https://link.chtbl.com/Weaponized",
+      "sourceType": "official_audio_feed",
+      "role": "source"
+    }
+  ]
+}

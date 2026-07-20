@@ -1,0 +1,30 @@
+{
+  "id": "timeline-2025-08-05-weaponized-episode-84",
+  "type": "timeline_event",
+  "name": "WEAPONIZED Episode #84 published",
+  "summary": "WEAPONIZED Episode #84, False Prophets and Flying Objects — The Whistleblower Wave, was published.",
+  "relationships": [
+    {
+      "type": "event_for",
+      "target": "2025-weaponized-episode-84"
+    }
+  ],
+  "officialLinks": [],
+  "referenceSources": [
+    {
+      "label": "Official WEAPONIZED Episode #84 page",
+      "url": "https://www.weaponizedpodcast.com/episodes-3/episode-84",
+      "sourceType": "official_episode_page",
+      "role": "source"
+    },
+    {
+      "label": "Listen to WEAPONIZED",
+      "url": "https://link.chtbl.com/Weaponized",
+      "sourceType": "official_audio_feed",
+      "role": "source"
+    }
+  ],
+  "date": "2025-08-05",
+  "dateDisplay": "August 5, 2025",
+  "eventCategory": "Podcast publication"
+}

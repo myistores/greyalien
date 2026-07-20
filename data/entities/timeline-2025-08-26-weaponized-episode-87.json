@@ -1,0 +1,30 @@
+{
+  "id": "timeline-2025-08-26-weaponized-episode-87",
+  "type": "timeline_event",
+  "name": "WEAPONIZED Episode #87 published",
+  "summary": "WEAPONIZED Episode #87, Alien Bodies and Technology — The Lost Tapes of UFO Whistleblower Col. Corso, was published.",
+  "relationships": [
+    {
+      "type": "event_for",
+      "target": "2025-weaponized-episode-87"
+    }
+  ],
+  "officialLinks": [],
+  "referenceSources": [
+    {
+      "label": "Official WEAPONIZED Episode #87 page",
+      "url": "https://www.weaponizedpodcast.com/episodes-3/episode-87",
+      "sourceType": "official_episode_page",
+      "role": "source"
+    },
+    {
+      "label": "Listen to WEAPONIZED",
+      "url": "https://link.chtbl.com/Weaponized",
+      "sourceType": "official_audio_feed",
+      "role": "source"
+    }
+  ],
+  "date": "2025-08-26",
+  "dateDisplay": "August 26, 2025",
+  "eventCategory": "Podcast publication"
+}

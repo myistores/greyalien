@@ -1,0 +1,27 @@
+{
+  "id": "claim-aawsap-files-could-aid-research",
+  "type": "claim",
+  "name": "Releasing AAWSAP files could improve scientific and medical evaluation of close-encounter effects.",
+  "summary": "Releasing AAWSAP files could improve scientific and medical evaluation of close-encounter effects.",
+  "relationships": [
+    {
+      "type": "featured_in_media",
+      "target": "2025-weaponized-episode-88"
+    }
+  ],
+  "officialLinks": [],
+  "referenceSources": [
+    {
+      "label": "Official WEAPONIZED Episode #88 page",
+      "url": "https://www.weaponizedpodcast.com/episodes-3/episode-88",
+      "sourceType": "official_episode_page",
+      "role": "source"
+    },
+    {
+      "label": "Listen to WEAPONIZED",
+      "url": "https://link.chtbl.com/Weaponized",
+      "sourceType": "official_audio_feed",
+      "role": "source"
+    }
+  ]
+}

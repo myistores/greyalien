@@ -1,0 +1,22 @@
+{
+  "id": "eglin-air-force-base",
+  "type": "organization",
+  "name": "Eglin Air Force Base",
+  "summary": "U.S. Air Force installation in Florida associated with the Episode #92 witness account.",
+  "relationships": [],
+  "officialLinks": [],
+  "referenceSources": [
+    {
+      "label": "Official WEAPONIZED Episode #92 page",
+      "url": "https://www.weaponizedpodcast.com/episodes-3/episode-92",
+      "sourceType": "official_episode_page",
+      "role": "source"
+    },
+    {
+      "label": "Listen to WEAPONIZED",
+      "url": "https://link.chtbl.com/Weaponized",
+      "sourceType": "official_audio_feed",
+      "role": "source"
+    }
+  ]
+}

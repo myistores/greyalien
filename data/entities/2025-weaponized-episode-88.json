@@ -1,0 +1,102 @@
+{
+  "id": "2025-weaponized-episode-88",
+  "type": "podcast_episode",
+  "name": "WEAPONIZED Episode #88 — Injured by UFOs — The Case-by-Case Medical Evidence",
+  "summary": "Physicist John Priestland discusses the Unhidden Foundation’s review of physical, physiological, and psychological injuries reported after close encounters and calls for release of AAWSAP records relevant to medical and scientific study.",
+  "date": "2025-09-02",
+  "dateDisplay": "September 2, 2025",
+  "seriesId": "weaponized-podcast",
+  "episodeNumber": 88,
+  "episodeTitle": "Injured by UFOs — The Case-by-Case Medical Evidence",
+  "status": "Published",
+  "mediaType": "Podcast episode",
+  "mediaPlatform": "WEAPONIZED",
+  "mediaHost": "Jeremy Corbell and George Knapp",
+  "mediaGuests": [
+    "john-priestland"
+  ],
+  "mediaSubjects": [
+    "Close-encounter injuries",
+    "Medical evidence",
+    "AAWSAP records"
+  ],
+  "principalClaims": [
+    "claim-close-encounters-associated-with-injuries",
+    "claim-medical-community-often-ignores-cause",
+    "claim-unhidden-report-builds-on-aawsap",
+    "claim-aawsap-files-could-aid-research"
+  ],
+  "researchNotes": [],
+  "relationships": [
+    {
+      "type": "episode_of",
+      "target": "weaponized-podcast"
+    },
+    {
+      "type": "features_person",
+      "target": "jeremy-corbell",
+      "role": "host",
+      "context": "WEAPONIZED co-host"
+    },
+    {
+      "type": "features_person",
+      "target": "george-knapp",
+      "role": "host",
+      "context": "WEAPONIZED co-host"
+    },
+    {
+      "type": "features_person",
+      "target": "john-priestland",
+      "role": "guest",
+      "context": "Featured episode participant"
+    },
+    {
+      "type": "references_organization",
+      "target": "unhidden-foundation"
+    },
+    {
+      "type": "references_organization",
+      "target": "defense-intelligence-agency"
+    },
+    {
+      "type": "discussed_topic",
+      "target": "uap-health-effects"
+    },
+    {
+      "type": "discussed_topic",
+      "target": "aawsap"
+    },
+    {
+      "type": "references_publication",
+      "target": "unhidden-close-encounter-health-effects-report"
+    }
+  ],
+  "mediaLinks": [
+    {
+      "label": "Open the official Episode #88 page",
+      "url": "https://www.weaponizedpodcast.com/episodes-3/episode-88",
+      "platform": "WEAPONIZED"
+    },
+    {
+      "label": "Listen to WEAPONIZED",
+      "url": "https://link.chtbl.com/Weaponized",
+      "platform": "Official audio feed"
+    }
+  ],
+  "eventCategory": "Podcast publication",
+  "officialLinks": [],
+  "referenceSources": [
+    {
+      "label": "Official WEAPONIZED Episode #88 page",
+      "url": "https://www.weaponizedpodcast.com/episodes-3/episode-88",
+      "sourceType": "official_episode_page",
+      "role": "source"
+    },
+    {
+      "label": "Listen to WEAPONIZED",
+      "url": "https://link.chtbl.com/Weaponized",
+      "sourceType": "official_audio_feed",
+      "role": "source"
+    }
+  ]
+}

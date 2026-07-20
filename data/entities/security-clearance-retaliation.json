@@ -1,0 +1,22 @@
+{
+  "id": "security-clearance-retaliation",
+  "type": "topic",
+  "name": "Security Clearance Retaliation",
+  "summary": "Alleged use of security-clearance processes to pressure, silence, or punish personnel.",
+  "relationships": [],
+  "officialLinks": [],
+  "referenceSources": [
+    {
+      "label": "Official WEAPONIZED Episode #90 page",
+      "url": "https://www.weaponizedpodcast.com/episodes-3/episode-90",
+      "sourceType": "official_episode_page",
+      "role": "source"
+    },
+    {
+      "label": "Listen to WEAPONIZED",
+      "url": "https://link.chtbl.com/Weaponized",
+      "sourceType": "official_audio_feed",
+      "role": "source"
+    }
+  ]
+}

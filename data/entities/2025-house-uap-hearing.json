@@ -1,0 +1,22 @@
+{
+  "id": "2025-house-uap-hearing",
+  "type": "case",
+  "name": "September 2025 House UAP Hearing",
+  "summary": "Congressional Secrets Task Force hearing featuring military witnesses and discussion of UAP evidence and whistleblower risks.",
+  "relationships": [],
+  "officialLinks": [],
+  "referenceSources": [
+    {
+      "label": "Official WEAPONIZED Episode #89 page",
+      "url": "https://www.weaponizedpodcast.com/episodes-3/episode-89",
+      "sourceType": "official_episode_page",
+      "role": "source"
+    },
+    {
+      "label": "Listen to WEAPONIZED",
+      "url": "https://link.chtbl.com/Weaponized",
+      "sourceType": "official_audio_feed",
+      "role": "source"
+    }
+  ]
+}

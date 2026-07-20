@@ -1,0 +1,22 @@
+{
+  "id": "unnamed-eglin-uap-witness",
+  "type": "person",
+  "name": "Unnamed Eglin UAP Witness",
+  "summary": "Military veteran interviewed about a large craft reportedly observed hovering above a runway at Eglin Air Force Base.",
+  "relationships": [],
+  "officialLinks": [],
+  "referenceSources": [
+    {
+      "label": "Official WEAPONIZED Episode #92 page",
+      "url": "https://www.weaponizedpodcast.com/episodes-3/episode-92",
+      "sourceType": "official_episode_page",
+      "role": "source"
+    },
+    {
+      "label": "Listen to WEAPONIZED",
+      "url": "https://link.chtbl.com/Weaponized",
+      "sourceType": "official_audio_feed",
+      "role": "source"
+    }
+  ]
+}

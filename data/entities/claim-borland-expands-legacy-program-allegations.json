@@ -1,0 +1,27 @@
+{
+  "id": "claim-borland-expands-legacy-program-allegations",
+  "type": "claim",
+  "name": "Borland provides additional detail about alleged long-running UAP programs and their compartmented structure.",
+  "summary": "Borland provides additional detail about alleged long-running UAP programs and their compartmented structure.",
+  "relationships": [
+    {
+      "type": "featured_in_media",
+      "target": "2025-weaponized-episode-91"
+    }
+  ],
+  "officialLinks": [],
+  "referenceSources": [
+    {
+      "label": "Official WEAPONIZED Episode #91 page",
+      "url": "https://www.weaponizedpodcast.com/episodes-3/episode-91",
+      "sourceType": "official_episode_page",
+      "role": "source"
+    },
+    {
+      "label": "Listen to WEAPONIZED",
+      "url": "https://link.chtbl.com/Weaponized",
+      "sourceType": "official_audio_feed",
+      "role": "source"
+    }
+  ]
+}

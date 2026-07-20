@@ -1,0 +1,22 @@
+{
+  "id": "eglin-runway-uap-incident",
+  "type": "case",
+  "name": "Eglin Runway UAP Incident",
+  "summary": "A military veteran’s account of a large craft hovering above a runway at Eglin Air Force Base.",
+  "relationships": [],
+  "officialLinks": [],
+  "referenceSources": [
+    {
+      "label": "Official WEAPONIZED Episode #92 page",
+      "url": "https://www.weaponizedpodcast.com/episodes-3/episode-92",
+      "sourceType": "official_episode_page",
+      "role": "source"
+    },
+    {
+      "label": "Listen to WEAPONIZED",
+      "url": "https://link.chtbl.com/Weaponized",
+      "sourceType": "official_audio_feed",
+      "role": "source"
+    }
+  ]
+}

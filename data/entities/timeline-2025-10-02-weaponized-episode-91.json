@@ -1,0 +1,30 @@
+{
+  "id": "timeline-2025-10-02-weaponized-episode-91",
+  "type": "timeline_event",
+  "name": "WEAPONIZED Episode #91 published",
+  "summary": "WEAPONIZED Episode #91, Dylan Borland Unloads — The Truth About Legacy UFO Programs: Part 2, was published.",
+  "relationships": [
+    {
+      "type": "event_for",
+      "target": "2025-weaponized-episode-91"
+    }
+  ],
+  "officialLinks": [],
+  "referenceSources": [
+    {
+      "label": "Official WEAPONIZED Episode #91 page",
+      "url": "https://www.weaponizedpodcast.com/episodes-3/episode-91",
+      "sourceType": "official_episode_page",
+      "role": "source"
+    },
+    {
+      "label": "Listen to WEAPONIZED",
+      "url": "https://link.chtbl.com/Weaponized",
+      "sourceType": "official_audio_feed",
+      "role": "source"
+    }
+  ],
+  "date": "2025-10-02",
+  "dateDisplay": "October 2, 2025",
+  "eventCategory": "Podcast publication"
+}

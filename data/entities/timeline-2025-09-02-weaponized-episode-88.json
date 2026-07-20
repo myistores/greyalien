@@ -1,0 +1,30 @@
+{
+  "id": "timeline-2025-09-02-weaponized-episode-88",
+  "type": "timeline_event",
+  "name": "WEAPONIZED Episode #88 published",
+  "summary": "WEAPONIZED Episode #88, Injured by UFOs — The Case-by-Case Medical Evidence, was published.",
+  "relationships": [
+    {
+      "type": "event_for",
+      "target": "2025-weaponized-episode-88"
+    }
+  ],
+  "officialLinks": [],
+  "referenceSources": [
+    {
+      "label": "Official WEAPONIZED Episode #88 page",
+      "url": "https://www.weaponizedpodcast.com/episodes-3/episode-88",
+      "sourceType": "official_episode_page",
+      "role": "source"
+    },
+    {
+      "label": "Listen to WEAPONIZED",
+      "url": "https://link.chtbl.com/Weaponized",
+      "sourceType": "official_audio_feed",
+      "role": "source"
+    }
+  ],
+  "date": "2025-09-02",
+  "dateDisplay": "September 2, 2025",
+  "eventCategory": "Podcast publication"
+}

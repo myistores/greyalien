@@ -1,0 +1,22 @@
+{
+  "id": "dave-foley",
+  "type": "person",
+  "name": "Dave Foley",
+  "summary": "Canadian actor and comedian who discusses his personal UFO sighting and changing view of the phenomenon.",
+  "relationships": [],
+  "officialLinks": [],
+  "referenceSources": [
+    {
+      "label": "Official WEAPONIZED Episode #83 page",
+      "url": "https://www.weaponizedpodcast.com/episodes-3/episode-83",
+      "sourceType": "official_episode_page",
+      "role": "source"
+    },
+    {
+      "label": "Listen to WEAPONIZED",
+      "url": "https://link.chtbl.com/Weaponized",
+      "sourceType": "official_audio_feed",
+      "role": "source"
+    }
+  ]
+}

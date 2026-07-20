@@ -1,0 +1,27 @@
+{
+  "id": "claim-military-witnesses-testified-under-oath",
+  "type": "claim",
+  "name": "Military witnesses testified under oath about UAP encounters and retaliation risks.",
+  "summary": "Military witnesses testified under oath about UAP encounters and retaliation risks.",
+  "relationships": [
+    {
+      "type": "featured_in_media",
+      "target": "2025-weaponized-episode-89"
+    }
+  ],
+  "officialLinks": [],
+  "referenceSources": [
+    {
+      "label": "Official WEAPONIZED Episode #89 page",
+      "url": "https://www.weaponizedpodcast.com/episodes-3/episode-89",
+      "sourceType": "official_episode_page",
+      "role": "source"
+    },
+    {
+      "label": "Listen to WEAPONIZED",
+      "url": "https://link.chtbl.com/Weaponized",
+      "sourceType": "official_audio_feed",
+      "role": "source"
+    }
+  ]
+}

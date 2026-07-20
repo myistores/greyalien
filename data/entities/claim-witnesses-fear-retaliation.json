@@ -1,0 +1,27 @@
+{
+  "id": "claim-witnesses-fear-retaliation",
+  "type": "claim",
+  "name": "Some potential witnesses remained reluctant to testify because they feared retaliation.",
+  "summary": "Some potential witnesses remained reluctant to testify because they feared retaliation.",
+  "relationships": [
+    {
+      "type": "featured_in_media",
+      "target": "2025-weaponized-episode-84"
+    }
+  ],
+  "officialLinks": [],
+  "referenceSources": [
+    {
+      "label": "Official WEAPONIZED Episode #84 page",
+      "url": "https://www.weaponizedpodcast.com/episodes-3/episode-84",
+      "sourceType": "official_episode_page",
+      "role": "source"
+    },
+    {
+      "label": "Listen to WEAPONIZED",
+      "url": "https://link.chtbl.com/Weaponized",
+      "sourceType": "official_audio_feed",
+      "role": "source"
+    }
+  ]
+}

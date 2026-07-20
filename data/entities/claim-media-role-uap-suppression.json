@@ -1,0 +1,27 @@
+{
+  "id": "claim-media-role-uap-suppression",
+  "type": "claim",
+  "name": "The episode argues that parts of the media help marginalize UAP witnesses and transparency efforts.",
+  "summary": "The episode argues that parts of the media help marginalize UAP witnesses and transparency efforts.",
+  "relationships": [
+    {
+      "type": "featured_in_media",
+      "target": "2025-weaponized-episode-83"
+    }
+  ],
+  "officialLinks": [],
+  "referenceSources": [
+    {
+      "label": "Official WEAPONIZED Episode #83 page",
+      "url": "https://www.weaponizedpodcast.com/episodes-3/episode-83",
+      "sourceType": "official_episode_page",
+      "role": "source"
+    },
+    {
+      "label": "Listen to WEAPONIZED",
+      "url": "https://link.chtbl.com/Weaponized",
+      "sourceType": "official_audio_feed",
+      "role": "source"
+    }
+  ]
+}

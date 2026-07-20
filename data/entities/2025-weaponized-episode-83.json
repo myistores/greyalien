@@ -1,0 +1,94 @@
+{
+  "id": "2025-weaponized-episode-83",
+  "type": "podcast_episode",
+  "name": "WEAPONIZED Episode #83 — Storming the Silence — Dave Foley and the Fight for UAP Transparency",
+  "summary": "Jeremy Corbell and George Knapp interview comedian and actor Dave Foley about his personal UFO sighting, his changing views, and the broader struggle over disinformation, whistleblower suppression, and media treatment of UAP.",
+  "date": "2025-07-22",
+  "dateDisplay": "July 22, 2025",
+  "seriesId": "weaponized-podcast",
+  "episodeNumber": 83,
+  "episodeTitle": "Storming the Silence — Dave Foley and the Fight for UAP Transparency",
+  "status": "Published",
+  "mediaType": "Podcast episode",
+  "mediaPlatform": "WEAPONIZED",
+  "mediaHost": "Jeremy Corbell and George Knapp",
+  "mediaGuests": [
+    "dave-foley"
+  ],
+  "mediaSubjects": [
+    "UAP disinformation",
+    "Whistleblower suppression",
+    "Media accountability"
+  ],
+  "principalClaims": [
+    "claim-foley-sighting-changed-view",
+    "claim-media-role-uap-suppression",
+    "claim-military-hazing-explanation-challenged",
+    "claim-whistleblower-public-costs"
+  ],
+  "researchNotes": [],
+  "relationships": [
+    {
+      "type": "episode_of",
+      "target": "weaponized-podcast"
+    },
+    {
+      "type": "features_person",
+      "target": "jeremy-corbell",
+      "role": "host",
+      "context": "WEAPONIZED co-host"
+    },
+    {
+      "type": "features_person",
+      "target": "george-knapp",
+      "role": "host",
+      "context": "WEAPONIZED co-host"
+    },
+    {
+      "type": "features_person",
+      "target": "dave-foley",
+      "role": "guest",
+      "context": "Featured episode participant"
+    },
+    {
+      "type": "references_organization",
+      "target": "wall-street-journal"
+    },
+    {
+      "type": "discussed_topic",
+      "target": "uap-disinformation"
+    },
+    {
+      "type": "discussed_topic",
+      "target": "whistleblower-retaliation"
+    }
+  ],
+  "mediaLinks": [
+    {
+      "label": "Open the official Episode #83 page",
+      "url": "https://www.weaponizedpodcast.com/episodes-3/episode-83",
+      "platform": "WEAPONIZED"
+    },
+    {
+      "label": "Listen to WEAPONIZED",
+      "url": "https://link.chtbl.com/Weaponized",
+      "platform": "Official audio feed"
+    }
+  ],
+  "eventCategory": "Podcast publication",
+  "officialLinks": [],
+  "referenceSources": [
+    {
+      "label": "Official WEAPONIZED Episode #83 page",
+      "url": "https://www.weaponizedpodcast.com/episodes-3/episode-83",
+      "sourceType": "official_episode_page",
+      "role": "source"
+    },
+    {
+      "label": "Listen to WEAPONIZED",
+      "url": "https://link.chtbl.com/Weaponized",
+      "sourceType": "official_audio_feed",
+      "role": "source"
+    }
+  ]
+}

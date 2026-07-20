@@ -1,0 +1,22 @@
+{
+  "id": "need-to-know-book",
+  "type": "document",
+  "name": "Need to Know: The History, Law, and Practice of American Secrecy",
+  "summary": "Richard Beckwith’s book examining American secrecy law and practice.",
+  "relationships": [],
+  "officialLinks": [],
+  "referenceSources": [
+    {
+      "label": "Official WEAPONIZED Episode #86 page",
+      "url": "https://www.weaponizedpodcast.com/episodes-3/episode-86",
+      "sourceType": "official_episode_page",
+      "role": "source"
+    },
+    {
+      "label": "Listen to WEAPONIZED",
+      "url": "https://link.chtbl.com/Weaponized",
+      "sourceType": "official_audio_feed",
+      "role": "source"
+    }
+  ]
+}
