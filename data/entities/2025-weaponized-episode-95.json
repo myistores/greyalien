@@ -1,0 +1,93 @@
+{
+  "id": "2025-weaponized-episode-95",
+  "type": "podcast_episode",
+  "name": "WEAPONIZED Episode #95 — The Area 51 Crash Retrieval and Its Cover Story",
+  "summary": "The hosts examine a September 2025 crash near Area 51, the rapid military response, the cordoning of public land, and civilian research challenging the Air Force explanation.",
+  "date": "2025-10-31",
+  "dateDisplay": "October 31, 2025",
+  "seriesId": "weaponized-podcast",
+  "episodeNumber": 95,
+  "episodeTitle": "The Area 51 Crash Retrieval and Its Cover Story",
+  "status": "Published",
+  "mediaType": "Podcast episode",
+  "mediaPlatform": "WEAPONIZED",
+  "mediaHost": "Jeremy Corbell and George Knapp",
+  "mediaGuests": [
+    "jeremy-corbell",
+    "george-knapp"
+  ],
+  "mediaSubjects": [],
+  "principalClaims": [
+    "claim-object-crashed-near-area-51",
+    "claim-military-secured-crash-area-quickly",
+    "claim-air-force-explanation-contained-inconsistencies",
+    "claim-crash-response-suggested-sensitive-retrieval"
+  ],
+  "researchNotes": [],
+  "relationships": [
+    {
+      "type": "episode_of",
+      "target": "weaponized-podcast"
+    },
+    {
+      "type": "features_person",
+      "target": "jeremy-corbell",
+      "role": "host",
+      "context": "WEAPONIZED co-host"
+    },
+    {
+      "type": "features_person",
+      "target": "george-knapp",
+      "role": "host",
+      "context": "WEAPONIZED co-host"
+    },
+    {
+      "type": "references_organization",
+      "target": "area-51"
+    },
+    {
+      "type": "references_organization",
+      "target": "united-states-air-force"
+    },
+    {
+      "type": "discussed_topic",
+      "target": "crash-retrievals"
+    },
+    {
+      "type": "discussed_topic",
+      "target": "military-secrecy"
+    },
+    {
+      "type": "discussed_topic",
+      "target": "disinformation"
+    }
+  ],
+  "mediaLinks": [
+    {
+      "label": "Open the official Episode #95 page",
+      "url": "https://www.weaponizedpodcast.com/episodes-4/episode-95",
+      "platform": "WEAPONIZED"
+    },
+    {
+      "label": "Listen to WEAPONIZED",
+      "url": "https://link.chtbl.com/Weaponized",
+      "platform": "Official audio feed"
+    }
+  ],
+  "eventCategory": "Podcast publication",
+  "officialLinks": [],
+  "referenceSources": [
+    {
+      "label": "Official WEAPONIZED Episode #95 page",
+      "url": "https://www.weaponizedpodcast.com/episodes-4/episode-95",
+      "sourceType": "official_episode_page",
+      "role": "source"
+    },
+    {
+      "label": "Listen to WEAPONIZED",
+      "url": "https://link.chtbl.com/Weaponized",
+      "sourceType": "official_audio_feed",
+      "role": "source"
+    }
+  ]
+}

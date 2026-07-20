@@ -1,0 +1,24 @@
+{
+  "id": "timeline-2025-12-16-weaponized-episode-101",
+  "type": "timeline_event",
+  "name": "WEAPONIZED Episode #101 published",
+  "summary": "Representatives Anna Paulina Luna, Tim Burchett, and Eric Burlison discuss resistance to congressional oversight, blocked witness access, intimidation, the limits of public hearings, possible presidential action, and alternative strategies.",
+  "date": "2025-12-16",
+  "dateDisplay": "December 16, 2025",
+  "eventCategory": "Podcast publication",
+  "relationships": [
+    {
+      "type": "event_for",
+      "target": "2025-weaponized-episode-101"
+    }
+  ],
+  "officialLinks": [],
+  "referenceSources": [
+    {
+      "label": "Official WEAPONIZED Episode #101 page",
+      "url": "https://www.weaponizedpodcast.com/episodes-4/episode-101",
+      "sourceType": "official_episode_page",
+      "role": "source"
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "id": "claim-secrecy-remains-a-major-scientific-obstacle",
+  "type": "claim",
+  "name": "Secrecy remains a major scientific obstacle",
+  "summary": "The discussion identifies classified information and fragmented access as central barriers to scientific progress.",
+  "claimStatus": "Reported in source",
+  "relationships": [
+    {
+      "type": "featured_in_media",
+      "target": "2025-weaponized-episode-102"
+    }
+  ],
+  "officialLinks": [],
+  "referenceSources": [
+    {
+      "label": "Official WEAPONIZED Episode #102 page",
+      "url": "https://www.weaponizedpodcast.com/episodes-4/episode-102",
+      "sourceType": "official_episode_page",
+      "role": "source"
+    }
+  ]
+}

@@ -1,0 +1,109 @@
+{
+  "id": "2025-weaponized-episode-101",
+  "type": "podcast_episode",
+  "name": "WEAPONIZED Episode #101 — Congressional UAP Champions on What Comes Next",
+  "summary": "Representatives Anna Paulina Luna, Tim Burchett, and Eric Burlison discuss resistance to congressional oversight, blocked witness access, intimidation, the limits of public hearings, possible presidential action, and alternative strategies.",
+  "date": "2025-12-16",
+  "dateDisplay": "December 16, 2025",
+  "seriesId": "weaponized-podcast",
+  "episodeNumber": 101,
+  "episodeTitle": "Congressional UAP Champions on What Comes Next",
+  "status": "Published",
+  "mediaType": "Podcast episode",
+  "mediaPlatform": "WEAPONIZED",
+  "mediaHost": "Jeremy Corbell and George Knapp",
+  "mediaGuests": [
+    "anna-paulina-luna",
+    "tim-burchett",
+    "eric-burlison"
+  ],
+  "mediaSubjects": [],
+  "principalClaims": [
+    "claim-congressional-uap-oversight-faced-obstruction",
+    "claim-public-hearings-may-have-reached-limits",
+    "claim-lawmakers-reported-intimidation-and-veiled-threats",
+    "claim-presidential-action-could-bypass-stalled-process",
+    "claim-house-members-are-pursuing-alternative-strategies"
+  ],
+  "researchNotes": [],
+  "relationships": [
+    {
+      "type": "episode_of",
+      "target": "weaponized-podcast"
+    },
+    {
+      "type": "features_person",
+      "target": "jeremy-corbell",
+      "role": "host",
+      "context": "WEAPONIZED co-host"
+    },
+    {
+      "type": "features_person",
+      "target": "george-knapp",
+      "role": "host",
+      "context": "WEAPONIZED co-host"
+    },
+    {
+      "type": "features_person",
+      "target": "anna-paulina-luna",
+      "role": "guest",
+      "context": "Featured episode participant"
+    },
+    {
+      "type": "features_person",
+      "target": "tim-burchett",
+      "role": "guest",
+      "context": "Featured episode participant"
+    },
+    {
+      "type": "features_person",
+      "target": "eric-burlison",
+      "role": "guest",
+      "context": "Featured episode participant"
+    },
+    {
+      "type": "references_organization",
+      "target": "united-states-congress"
+    },
+    {
+      "type": "discussed_topic",
+      "target": "congressional-oversight"
+    },
+    {
+      "type": "discussed_topic",
+      "target": "uap-disclosure"
+    },
+    {
+      "type": "discussed_topic",
+      "target": "government-transparency"
+    }
+  ],
+  "mediaLinks": [
+    {
+      "label": "Open the official Episode #101 page",
+      "url": "https://www.weaponizedpodcast.com/episodes-4/episode-101",
+      "platform": "WEAPONIZED"
+    },
+    {
+      "label": "Listen to WEAPONIZED",
+      "url": "https://link.chtbl.com/Weaponized",
+      "platform": "Official audio feed"
+    }
+  ],
+  "eventCategory": "Podcast publication",
+  "officialLinks": [],
+  "referenceSources": [
+    {
+      "label": "Official WEAPONIZED Episode #101 page",
+      "url": "https://www.weaponizedpodcast.com/episodes-4/episode-101",
+      "sourceType": "official_episode_page",
+      "role": "source"
+    },
+    {
+      "label": "Listen to WEAPONIZED",
+      "url": "https://link.chtbl.com/Weaponized",
+      "sourceType": "official_audio_feed",
+      "role": "source"
+    }
+  ]
+}

@@ -239,6 +239,24 @@
       "summary": "The official episode page links to the newly released document."
     },
     {
+      "id": "claim-aawsap-investigators-reported-hitchhiker-effects",
+      "type": "claim",
+      "name": "AAWSAP investigators reported hitchhiker effects",
+      "summary": "The episode discusses anomalous effects said to follow investigators away from research locations."
+    },
+    {
+      "id": "claim-aawsap-records-contain-substantial-findings",
+      "type": "claim",
+      "name": "AAWSAP records contain substantial findings",
+      "summary": "The discussion points to extensive AAWSAP documentation as a major source for future inquiry."
+    },
+    {
+      "id": "claim-eglin-triangle-details-expanded",
+      "type": "claim",
+      "name": "Additional Eglin triangle details were reported",
+      "summary": "The episode presents additional information about the large black triangle reportedly seen over an Eglin runway."
+    },
+    {
       "id": "claim-alex-wiggins-reported-ocean-emergence",
       "type": "claim",
       "name": "Alex Wiggins reported seeing a glowing Tic Tac-shaped object emerge from the ocean.",
@@ -263,6 +281,12 @@
       "type": "claim",
       "name": "American secrecy law can complicate effective congressional oversight of alleged UAP programs.",
       "summary": "American secrecy law can complicate effective congressional oversight of alleged UAP programs."
+    },
+    {
+      "id": "claim-object-crashed-near-area-51",
+      "type": "claim",
+      "name": "An unknown object crashed near Area 51",
+      "summary": "The episode reports that an unidentified aerial object struck public desert land near Area 51 on September 23, 2025."
     },
     {
       "id": "claim-one-uss-jackson-object-reported-emerging-from-ocean",
@@ -405,6 +429,12 @@
       "status": "Personal claims made in books and interviews; not independently established."
     },
     {
+      "id": "claim-congress-may-lack-access-to-core-aawsap-records",
+      "type": "claim",
+      "name": "Congress may lack access to core AAWSAP records",
+      "summary": "The hosts question whether lawmakers have received the relevant records or testimony."
+    },
+    {
       "id": "claim-congress-continues-secret-program-inquiry",
       "type": "claim",
       "name": "Congress was described as continuing inquiries into alleged secret programs and drone activity.",
@@ -415,6 +445,12 @@
       "type": "claim",
       "name": "Congressional members and staff contacted potential witnesses with firsthand knowledge of unusual technology.",
       "summary": "Congressional members and staff contacted potential witnesses with firsthand knowledge of unusual technology."
+    },
+    {
+      "id": "claim-congressional-uap-oversight-faced-obstruction",
+      "type": "claim",
+      "name": "Congressional UAP oversight faced obstruction",
+      "summary": "The lawmakers describe agencies and officials blocking access to witnesses, programs, and information."
     },
     {
       "id": "claim-immaculate-constellation-record-contained-falsified-page",
@@ -493,6 +529,18 @@
       "summary": "The official episode description presents or discusses this claim; it is recorded here as a source-attributed claim, not as independently verified fact."
     },
     {
+      "id": "claim-grusch-interview-restored-mainstream-attention",
+      "type": "claim",
+      "name": "David Grusch’s interview restored mainstream attention",
+      "summary": "The panel argues that Grusch’s televised interview returned core allegations to a large audience."
+    },
+    {
+      "id": "claim-disclosure-momentum-has-slowed",
+      "type": "claim",
+      "name": "Disclosure momentum has slowed",
+      "summary": "The hosts argue that public disclosure momentum has slowed but has not ended."
+    },
+    {
       "id": "claim-disinformation-shapes-public-debate",
       "type": "claim",
       "name": "Disinformation and cultural stigma continue to shape the public UAP debate.",
@@ -543,6 +591,12 @@
       "summary": "Government-records work produced information about an additional UAP case from the Department of Defense."
     },
     {
+      "id": "claim-harry-reid-influenced-lacatski-disclosure-decision",
+      "type": "claim",
+      "name": "Harry Reid influenced Lacatski’s disclosure decision",
+      "summary": "The episode credits Senator Harry Reid as an important influence on Lacatski’s decision to speak publicly."
+    },
+    {
       "id": "claim-fbi-contacted-hastings",
       "type": "claim",
       "name": "Hastings said the FBI recently contacted him regarding his findings.",
@@ -553,6 +607,18 @@
       "type": "claim",
       "name": "Hostile or dismissive media coverage can discourage UAP witnesses from speaking publicly",
       "summary": "The episode argues that ridicule and attacks have a chilling effect."
+    },
+    {
+      "id": "claim-house-members-are-pursuing-alternative-strategies",
+      "type": "claim",
+      "name": "House members are pursuing alternative strategies",
+      "summary": "The representatives indicate they are developing less visible methods to continue oversight and investigation."
+    },
+    {
+      "id": "claim-secrecy-resistance-remains-active",
+      "type": "claim",
+      "name": "Institutional resistance remains active",
+      "summary": "The episode describes continuing institutional resistance to UAP transparency."
     },
     {
       "id": "claim-vandenberg-witness-reported-large-red-object",
@@ -598,10 +664,46 @@
       "summary": "The official episode description presents or discusses this claim; it is recorded here as a source-attributed claim, not as independently verified fact."
     },
     {
+      "id": "claim-lacatski-addresses-recovered-bodies-and-craft",
+      "type": "claim",
+      "name": "Lacatski addresses recovered bodies and craft",
+      "summary": "The interview explores current theories and claims concerning recovered craft and biological materials."
+    },
+    {
+      "id": "claim-lacatski-characterizes-aaro-as-counterintelligence",
+      "type": "claim",
+      "name": "Lacatski characterizes AARO as counterintelligence",
+      "summary": "Lacatski describes AARO as serving disinformation or counterintelligence functions rather than a conventional investigation."
+    },
+    {
+      "id": "claim-lacatski-says-recovered-craft-was-accessed",
+      "type": "claim",
+      "name": "Lacatski says a recovered craft was accessed",
+      "summary": "Lacatski reiterates an authorized account that a recovered craft was entered and examined."
+    },
+    {
+      "id": "claim-counterintelligence-role-requires-careful-evaluation",
+      "type": "claim",
+      "name": "Lacatski’s counterintelligence role requires careful evaluation",
+      "summary": "The episode considers how Lacatski’s professional role affects interpretation of his statements."
+    },
+    {
+      "id": "claim-2025-created-new-disclosure-momentum",
+      "type": "claim",
+      "name": "Late 2025 created new disclosure momentum",
+      "summary": "The panel identifies converging media, documentary, and whistleblower developments as a renewed opportunity for transparency."
+    },
+    {
       "id": "claim-uk-drone-incursions-resisted-identification",
       "type": "claim",
       "name": "Late-2024 UK military-airspace intrusions had not been publicly identified or stopped",
       "summary": "Episode #62 describes recurring objects near military facilities and questions why available sensors and defenses had not resolved them."
+    },
+    {
+      "id": "claim-lawmakers-reported-intimidation-and-veiled-threats",
+      "type": "claim",
+      "name": "Lawmakers reported intimidation and veiled threats",
+      "summary": "The episode includes accounts of pressure and warnings directed at congressional transparency advocates."
     },
     {
       "id": "claim-maritime-forces-have-collected-uso-observations",
@@ -696,16 +798,46 @@
       "summary": "Military witnesses testified under oath about UAP encounters and retaliation risks."
     },
     {
+      "id": "claim-missing-411-cases-include-anomalous-features",
+      "type": "claim",
+      "name": "Missing 411 cases include anomalous features",
+      "summary": "Paulides describes disappearances with features he considers difficult to explain through ordinary search-and-rescue scenarios."
+    },
+    {
+      "id": "claim-momentum-could-fade-without-organized-follow-through",
+      "type": "claim",
+      "name": "Momentum could fade without organized follow-through",
+      "summary": "Participants warn that prior disclosure waves dissipated after official counter-narratives and declining media interest."
+    },
+    {
       "id": "claim-mystery-drone-incursions-remained-major-2024-story",
       "type": "claim",
       "name": "Mystery-drone incursions remained a major unresolved UAP-related story at the end of 2024",
       "summary": "The episode’s panel treated the incursions as one of the year’s central unresolved developments."
     },
     {
+      "id": "claim-drone-reporting-requires-sustained-scrutiny",
+      "type": "claim",
+      "name": "Mystery-drone reporting requires sustained scrutiny",
+      "summary": "The discussion emphasizes continued journalistic scrutiny of official explanations and unresolved incursions."
+    },
+    {
+      "id": "claim-mystery-drone-wave-remains-unresolved",
+      "type": "claim",
+      "name": "Mystery-drone wave remains unresolved",
+      "summary": "Sharp and the hosts argue that significant questions about the recent mystery-drone wave remain unanswered."
+    },
+    {
       "id": "claim-nasa-archives-may-support-uap-research",
       "type": "claim",
       "name": "NASA archives may contain information useful to UAP research",
       "summary": "Mike Gold argued that NASA records could aid investigation of historical incidents and advanced materials."
+    },
+    {
+      "id": "claim-official-investigations-faced-internal-opposition",
+      "type": "claim",
+      "name": "Official investigations faced internal opposition",
+      "summary": "Lacatski describes efforts by government actors to discourage or discredit anomalous-phenomena investigations."
     },
     {
       "id": "claim-nids-recorded-corso-interviews",
@@ -739,10 +871,28 @@
       "summary": "This was presented by the episode panel as a continuing barrier to disclosure."
     },
     {
+      "id": "claim-presidential-action-could-bypass-stalled-process",
+      "type": "claim",
+      "name": "Presidential action could bypass a stalled process",
+      "summary": "The discussion considers executive action as a possible route to greater disclosure."
+    },
+    {
+      "id": "claim-progress-requires-better-data-and-open-inquiry",
+      "type": "claim",
+      "name": "Progress requires better data and open inquiry",
+      "summary": "Vallée recommends disciplined research, improved evidence, and less institutional obstruction."
+    },
+    {
       "id": "claim-whistleblower-public-costs",
       "type": "claim",
       "name": "Public attacks and institutional resistance can discourage potential UAP whistleblowers from speaking.",
       "summary": "Public attacks and institutional resistance can discourage potential UAP whistleblowers from speaking."
+    },
+    {
+      "id": "claim-public-hearings-may-have-reached-limits",
+      "type": "claim",
+      "name": "Public hearings may have reached their limits",
+      "summary": "The guests suggest additional hearings may not deliver the breakthroughs expected by the public."
     },
     {
       "id": "claim-public-private-partnerships-could-advance-uap-study",
@@ -769,6 +919,12 @@
       "summary": "Richard Dolan’s research compiles historical and modern cases from multiple regions."
     },
     {
+      "id": "claim-mainstream-research-groups-avoid-cross-category-cases",
+      "type": "claim",
+      "name": "Research groups often avoid cross-category cases",
+      "summary": "The hosts and Paulides argue that UFO and Bigfoot organizations tend to avoid evidence that crosses disciplinary boundaries."
+    },
+    {
       "id": "claim-hastings-collected-government-witnesses",
       "type": "claim",
       "name": "Robert Hastings said he has collected testimony from more than 150 government witnesses concerning UFOs and nuclear facilities.",
@@ -793,10 +949,22 @@
       "summary": "The official episode description presents or discusses this claim; it is recorded here as a source-attributed claim, not as independently verified fact."
     },
     {
+      "id": "claim-secrecy-remains-a-major-scientific-obstacle",
+      "type": "claim",
+      "name": "Secrecy remains a major scientific obstacle",
+      "summary": "The discussion identifies classified information and fragmented access as central barriers to scientific progress."
+    },
+    {
       "id": "claim-cleared-witnesses-face-legal-risk",
       "type": "claim",
       "name": "Security-cleared witnesses face legal risk when discussing classified information, even with Congress.",
       "summary": "Security-cleared witnesses face legal risk when discussing classified information, even with Congress."
+    },
+    {
+      "id": "claim-skinwalker-research-treated-phenomena-as-connected",
+      "type": "claim",
+      "name": "Skinwalker research treated phenomena as connected",
+      "summary": "The episode links NIDS and AAWSAP research to a broader model involving craft, creatures, portals, and other anomalies."
     },
     {
       "id": "claim-witnesses-fear-retaliation",
@@ -817,10 +985,22 @@
       "summary": "The panel discussed DOD secrecy, AARO criticism, witness pressure, and congressional-hearing concerns."
     },
     {
+      "id": "claim-age-of-disclosure-broadened-public-interest",
+      "type": "claim",
+      "name": "The Age of Disclosure broadened public interest",
+      "summary": "The film is described as reaching audiences beyond the established UAP community."
+    },
+    {
       "id": "claim-age-of-disclosure-assembled-broad-insider-testimony",
       "type": "claim",
       "name": "The Age of Disclosure presented testimony from numerous scientists and government officials",
       "summary": "The official description says the film included nearly three dozen such participants advocating transparency."
+    },
+    {
+      "id": "claim-air-force-explanation-contained-inconsistencies",
+      "type": "claim",
+      "name": "The Air Force explanation contained inconsistencies",
+      "summary": "Civilian researchers are said to have identified false or contradictory elements in the official account."
     },
     {
       "id": "claim-imcon-ai-server-search",
@@ -973,6 +1153,24 @@
       "summary": "Ralph Blumenthal discussed disputes with editors and reactions from colleagues."
     },
     {
+      "id": "claim-kona-blue-cancellation-story-incomplete",
+      "type": "claim",
+      "name": "The Kona Blue cancellation story was incomplete",
+      "summary": "The episode argues that the public account of Kona Blue’s cancellation does not capture the full history."
+    },
+    {
+      "id": "claim-lacatski-interview-expanded-public-record",
+      "type": "claim",
+      "name": "The Lacatski interview expanded the public record",
+      "summary": "The hosts argue that the two-part interview added consequential details about AAWSAP and recovered-craft claims."
+    },
+    {
+      "id": "claim-military-secured-crash-area-quickly",
+      "type": "claim",
+      "name": "The military secured the crash area rapidly",
+      "summary": "The hosts report a rapid armed response and closure of a large area of public land."
+    },
+    {
       "id": "claim-witness-selected-for-congressional-hearing",
       "type": "claim",
       "name": "The military veteran had been considered and prepared as a witness for the September congressional hearing.",
@@ -1015,6 +1213,12 @@
       "summary": "The official episode description presents or discusses this claim; it is recorded here as a source-attributed claim, not as independently verified fact."
     },
     {
+      "id": "claim-tic-tac-origin-remains-contested",
+      "type": "claim",
+      "name": "The origin of Tic Tac objects remains contested",
+      "summary": "Lacatski discusses whether famous Tic Tac objects could represent U.S. technology while leaving the question unresolved."
+    },
+    {
       "id": "claim-hearing-may-encourage-more-witnesses",
       "type": "claim",
       "name": "The participants discuss whether the hearing could encourage additional witnesses to come forward.",
@@ -1033,6 +1237,12 @@
       "summary": "Episode #58 states that the proposed UAP Disclosure amendments were no longer viable for 2024 by the end of the recording session."
     },
     {
+      "id": "claim-public-record-still-supports-continued-inquiry",
+      "type": "claim",
+      "name": "The public record supports continued inquiry",
+      "summary": "The hosts contend that available testimony, documents, and cases justify continued investigation."
+    },
+    {
       "id": "claim-large-disc-video-military-sensor",
       "type": "claim",
       "name": "The released video was described as recorded by a military sensor over a conflict zone.",
@@ -1043,6 +1253,12 @@
       "type": "claim",
       "name": "The report described Immaculate Constellation as an alleged unacknowledged special access program.",
       "summary": "The official episode description presents or discusses this claim; it is recorded here as a source-attributed claim, not as independently verified fact."
+    },
+    {
+      "id": "claim-crash-response-suggested-sensitive-retrieval",
+      "type": "claim",
+      "name": "The response suggested a sensitive retrieval operation",
+      "summary": "The scale and speed of the response are presented as evidence that the object was treated as highly sensitive."
     },
     {
       "id": "claim-close-encounters-associated-with-injuries",
@@ -1057,10 +1273,22 @@
       "summary": "The official episode description presents or discusses this claim; it is recorded here as a source-attributed claim, not as independently verified fact."
     },
     {
+      "id": "claim-trinity-case-remains-important-to-vallee",
+      "type": "claim",
+      "name": "The Trinity case remains important to Vallée",
+      "summary": "Vallée discusses the alleged Trinity crash and questions surrounding recovered material."
+    },
+    {
       "id": "claim-uap-disclosure-act-remained-possible",
       "type": "claim",
       "name": "The UAP Disclosure Act may not have been completely dead in October 2024",
       "summary": "Matt Laslo provided an update indicating that the legislative effort might still have had a path forward."
+    },
+    {
+      "id": "claim-uap-phenomenon-has-multiple-layers",
+      "type": "claim",
+      "name": "The UAP phenomenon has multiple layers",
+      "summary": "Vallée argues that the phenomenon cannot be reduced to a simple extraterrestrial spacecraft model."
     },
     {
       "id": "claim-unhidden-report-builds-on-aawsap",
@@ -1105,6 +1333,12 @@
       "summary": "Lester Nare described continued Capitol Hill advocacy despite opposition to disclosure provisions."
     },
     {
+      "id": "claim-ufo-and-cryptid-reports-overlap",
+      "type": "claim",
+      "name": "UFO and cryptid reports overlap",
+      "summary": "The episode presents cases in which unusual creatures and UFO activity were reported in the same locations."
+    },
+    {
       "id": "claim-ufo-revolution-documented-path-to-congress",
       "type": "claim",
       "name": "UFO Revolution documented efforts to bring UAP information and whistleblowers before Congress",
@@ -1121,6 +1355,12 @@
       "type": "claim",
       "name": "USS Jackson crew members reportedly observed four Tic Tac-shaped objects in February 2023",
       "summary": "The official episode description attributes this count to witnesses."
+    },
+    {
+      "id": "claim-vallee-says-ufo-crashes-and-retrievals-are-real",
+      "type": "claim",
+      "name": "Vallée says UFO crashes and retrievals are real",
+      "summary": "The episode states that Vallée accepts the reality of crash events and recovery operations."
     },
     {
       "id": "claim-vandenberg-security-personnel-investigated-multiple-incursions",
@@ -1529,6 +1769,12 @@
       "type": "organization",
       "name": "Federal Bureau of Investigation",
       "summary": "United States federal law-enforcement agency referenced in discussion of Robert Hastings and nuclear-related UAP testimony."
+    },
+    {
+      "id": "fox-news",
+      "type": "organization",
+      "name": "Fox News",
+      "summary": "Organization referenced in WEAPONIZED Episodes #93–102."
     },
     {
       "id": "harvard-university",
@@ -1955,6 +2201,12 @@
       "type": "person",
       "name": "David Grusch",
       "summary": "Former U.S. intelligence officer who testified publicly before Congress in July 2023"
+    },
+    {
+      "id": "david-paulides",
+      "type": "person",
+      "name": "David Paulides",
+      "summary": "Former law-enforcement officer, author of the Missing 411 series, and filmmaker who researches unexplained disappearances and Sasquatch reports."
     },
     {
       "id": "david-schindele",
@@ -2465,6 +2717,33 @@
       "type": "person",
       "name": "Warren Randolph",
       "summary": "Federal Aviation Administration specialist who served on NASA's UAP Independent Study Team."
+    },
+    {
+      "id": "2025-weaponized-episode-100",
+      "type": "podcast_episode",
+      "name": "WEAPONIZED Episode #100 — Creatures From Another World? The UFO–Cryptid Connection",
+      "summary": "Author and filmmaker David Paulides discusses reported links among UFOs, Sasquatch, disappearances, portals, Skinwalker Ranch, and evidence presented in American Sasquatch: Man, Myth, or Monster.",
+      "date": "2025-12-02",
+      "dateDisplay": "December 2, 2025",
+      "status": "Published"
+    },
+    {
+      "id": "2025-weaponized-episode-101",
+      "type": "podcast_episode",
+      "name": "WEAPONIZED Episode #101 — Congressional UAP Champions on What Comes Next",
+      "summary": "Representatives Anna Paulina Luna, Tim Burchett, and Eric Burlison discuss resistance to congressional oversight, blocked witness access, intimidation, the limits of public hearings, possible presidential action, and alternative strategies.",
+      "date": "2025-12-16",
+      "dateDisplay": "December 16, 2025",
+      "status": "Published"
+    },
+    {
+      "id": "2025-weaponized-episode-102",
+      "type": "podcast_episode",
+      "name": "WEAPONIZED Episode #102 — Jacques Vallée — The Bizarre Nature of UFOs",
+      "summary": "Jacques Vallée joins Jeremy Corbell and George Knapp for a wide-ranging discussion of UFO history, Project Blue Book, remote viewing, NIDS, AAWSAP, crash retrievals, the Trinity case, congressional secrecy, science, and paths forward.",
+      "date": "2025-12-23",
+      "dateDisplay": "December 23, 2025",
+      "status": "Published"
     },
     {
       "id": "2026-weaponized-episode-115",
@@ -2979,6 +3258,69 @@
       "status": "Published"
     },
     {
+      "id": "2025-weaponized-episode-93",
+      "type": "podcast_episode",
+      "name": "WEAPONIZED Episode #93 — Mystery Drones, Eglin’s Black Triangle, and Chris Sharp",
+      "summary": "Jeremy Corbell and George Knapp speak with Liberation Times editor Chris Sharp about the mystery-drone wave and revisit additional details concerning the large black triangle reported over an Eglin Air Force Base runway.",
+      "date": "2025-10-15",
+      "dateDisplay": "October 15, 2025",
+      "status": "Published"
+    },
+    {
+      "id": "2025-weaponized-episode-94",
+      "type": "podcast_episode",
+      "name": "WEAPONIZED Episode #94 — Is UFO Disclosure Dead?",
+      "summary": "Corbell and Knapp assess claims that UAP disclosure has stalled, reviewing political resistance, media narratives, and the continuing evidence that keeps transparency efforts active.",
+      "date": "2025-10-22",
+      "dateDisplay": "October 22, 2025",
+      "status": "Published"
+    },
+    {
+      "id": "2025-weaponized-episode-95",
+      "type": "podcast_episode",
+      "name": "WEAPONIZED Episode #95 — The Area 51 Crash Retrieval and Its Cover Story",
+      "summary": "The hosts examine a September 2025 crash near Area 51, the rapid military response, the cordoning of public land, and civilian research challenging the Air Force explanation.",
+      "date": "2025-10-31",
+      "dateDisplay": "October 31, 2025",
+      "status": "Published"
+    },
+    {
+      "id": "2025-weaponized-episode-96",
+      "type": "podcast_episode",
+      "name": "WEAPONIZED Episode #96 — James Lacatski on AAWSAP, Kona Blue, and a Recovered Craft — Part 1",
+      "summary": "Former DIA official James Lacatski discusses AAWSAP, Kona Blue, AARO, alleged counterintelligence activity, and his authorized account of a recovered craft whose hull was reportedly breached.",
+      "date": "2025-11-05",
+      "dateDisplay": "November 5, 2025",
+      "status": "Published"
+    },
+    {
+      "id": "2025-weaponized-episode-97",
+      "type": "podcast_episode",
+      "name": "WEAPONIZED Episode #97 — James Lacatski on Disclosure, Hitchhikers, and the Tic Tac — Part 2",
+      "summary": "In the second part of the interview, James Lacatski discusses obstacles to disclosure, efforts to discredit official investigations, anomalous encounters, crash-retrieval questions, and whether Tic Tac objects could be U.S. technology.",
+      "date": "2025-11-11",
+      "dateDisplay": "November 11, 2025",
+      "status": "Published"
+    },
+    {
+      "id": "2025-weaponized-episode-98",
+      "type": "podcast_episode",
+      "name": "WEAPONIZED Episode #98 — Reassessing the James Lacatski Revelations",
+      "summary": "Jeremy Corbell and George Knapp review the implications of their Lacatski interviews, including AAWSAP, counterintelligence, AARO, recovered-craft claims, congressional access, and Harry Reid’s role.",
+      "date": "2025-11-18",
+      "dateDisplay": "November 18, 2025",
+      "status": "Published"
+    },
+    {
+      "id": "2025-weaponized-episode-99",
+      "type": "podcast_episode",
+      "name": "WEAPONIZED Episode #99 — Is This a Pivotal Moment for UFO Disclosure?",
+      "summary": "Ryan Robbins, Danny Silva, and Joe Murgia join the hosts to assess renewed public attention driven by The Age of Disclosure, David Grusch’s Fox interview, and James Lacatski’s AAWSAP revelations.",
+      "date": "2025-11-26",
+      "dateDisplay": "November 26, 2025",
+      "status": "Published"
+    },
+    {
       "id": "engaging-the-phenomenon-podcast",
       "type": "podcast_series",
       "name": "Engaging the Phenomenon",
@@ -3354,6 +3696,30 @@
       "dateDisplay": "October 11, 2017"
     },
     {
+      "id": "timeline-2025-12-02-weaponized-episode-100",
+      "type": "timeline_event",
+      "name": "WEAPONIZED Episode #100 published",
+      "summary": "Author and filmmaker David Paulides discusses reported links among UFOs, Sasquatch, disappearances, portals, Skinwalker Ranch, and evidence presented in American Sasquatch: Man, Myth, or Monster.",
+      "date": "2025-12-02",
+      "dateDisplay": "December 2, 2025"
+    },
+    {
+      "id": "timeline-2025-12-16-weaponized-episode-101",
+      "type": "timeline_event",
+      "name": "WEAPONIZED Episode #101 published",
+      "summary": "Representatives Anna Paulina Luna, Tim Burchett, and Eric Burlison discuss resistance to congressional oversight, blocked witness access, intimidation, the limits of public hearings, possible presidential action, and alternative strategies.",
+      "date": "2025-12-16",
+      "dateDisplay": "December 16, 2025"
+    },
+    {
+      "id": "timeline-2025-12-23-weaponized-episode-102",
+      "type": "timeline_event",
+      "name": "WEAPONIZED Episode #102 published",
+      "summary": "Jacques Vallée joins Jeremy Corbell and George Knapp for a wide-ranging discussion of UFO history, Project Blue Book, remote viewing, NIDS, AAWSAP, crash retrievals, the Trinity case, congressional secrecy, science, and paths forward.",
+      "date": "2025-12-23",
+      "dateDisplay": "December 23, 2025"
+    },
+    {
       "id": "timeline-2026-04-14-weaponized-episode-115",
       "type": "timeline_event",
       "name": "WEAPONIZED Episode #115 Revisits the Bob Lazar Story",
@@ -3442,6 +3808,62 @@
       "dateDisplay": "October 9, 2025"
     },
     {
+      "id": "timeline-2025-10-15-weaponized-episode-93",
+      "type": "timeline_event",
+      "name": "WEAPONIZED Episode #93 published",
+      "summary": "Jeremy Corbell and George Knapp speak with Liberation Times editor Chris Sharp about the mystery-drone wave and revisit additional details concerning the large black triangle reported over an Eglin Air Force Base runway.",
+      "date": "2025-10-15",
+      "dateDisplay": "October 15, 2025"
+    },
+    {
+      "id": "timeline-2025-10-22-weaponized-episode-94",
+      "type": "timeline_event",
+      "name": "WEAPONIZED Episode #94 published",
+      "summary": "Corbell and Knapp assess claims that UAP disclosure has stalled, reviewing political resistance, media narratives, and the continuing evidence that keeps transparency efforts active.",
+      "date": "2025-10-22",
+      "dateDisplay": "October 22, 2025"
+    },
+    {
+      "id": "timeline-2025-10-31-weaponized-episode-95",
+      "type": "timeline_event",
+      "name": "WEAPONIZED Episode #95 published",
+      "summary": "The hosts examine a September 2025 crash near Area 51, the rapid military response, the cordoning of public land, and civilian research challenging the Air Force explanation.",
+      "date": "2025-10-31",
+      "dateDisplay": "October 31, 2025"
+    },
+    {
+      "id": "timeline-2025-11-05-weaponized-episode-96",
+      "type": "timeline_event",
+      "name": "WEAPONIZED Episode #96 published",
+      "summary": "Former DIA official James Lacatski discusses AAWSAP, Kona Blue, AARO, alleged counterintelligence activity, and his authorized account of a recovered craft whose hull was reportedly breached.",
+      "date": "2025-11-05",
+      "dateDisplay": "November 5, 2025"
+    },
+    {
+      "id": "timeline-2025-11-11-weaponized-episode-97",
+      "type": "timeline_event",
+      "name": "WEAPONIZED Episode #97 published",
+      "summary": "In the second part of the interview, James Lacatski discusses obstacles to disclosure, efforts to discredit official investigations, anomalous encounters, crash-retrieval questions, and whether Tic Tac objects could be U.S. technology.",
+      "date": "2025-11-11",
+      "dateDisplay": "November 11, 2025"
+    },
+    {
+      "id": "timeline-2025-11-18-weaponized-episode-98",
+      "type": "timeline_event",
+      "name": "WEAPONIZED Episode #98 published",
+      "summary": "Jeremy Corbell and George Knapp review the implications of their Lacatski interviews, including AAWSAP, counterintelligence, AARO, recovered-craft claims, congressional access, and Harry Reid’s role.",
+      "date": "2025-11-18",
+      "dateDisplay": "November 18, 2025"
+    },
+    {
+      "id": "timeline-2025-11-26-weaponized-episode-99",
+      "type": "timeline_event",
+      "name": "WEAPONIZED Episode #99 published",
+      "summary": "Ryan Robbins, Danny Silva, and Joe Murgia join the hosts to assess renewed public attention driven by The Age of Disclosure, David Grusch’s Fox interview, and James Lacatski’s AAWSAP revelations.",
+      "date": "2025-11-26",
+      "dateDisplay": "November 26, 2025"
+    },
+    {
       "id": "timeline-2023-01-23-weaponized-launch",
       "type": "timeline_event",
       "name": "WEAPONIZED Launches with Jeremy Corbell and George Knapp",
@@ -3468,10 +3890,28 @@
       "summary": "Congressional access, review, and accountability involving executive-branch programs."
     },
     {
+      "id": "counterintelligence",
+      "type": "topic",
+      "name": "Counterintelligence",
+      "summary": "Topic connected to WEAPONIZED Episodes #93–102: Counterintelligence."
+    },
+    {
+      "id": "crash-retrievals",
+      "type": "topic",
+      "name": "Crash Retrievals",
+      "summary": "Topic connected to WEAPONIZED Episodes #93–102: Crash Retrievals."
+    },
+    {
       "id": "crop-circle-investigations",
       "type": "topic",
       "name": "Crop Circle Investigations",
       "summary": "Research and reporting concerning crop formations, their origins, and government or media investigations."
+    },
+    {
+      "id": "disinformation",
+      "type": "topic",
+      "name": "Disinformation",
+      "summary": "Topic connected to WEAPONIZED Episodes #93–102: Disinformation."
     },
     {
       "id": "eglin-air-force-base-uap",
@@ -3498,6 +3938,12 @@
       "summary": "Research and government activity concerning UFO reports before the modern UAP era."
     },
     {
+      "id": "hitchhiker-effect",
+      "type": "topic",
+      "name": "Hitchhiker Effect",
+      "summary": "Topic connected to WEAPONIZED Episodes #93–102: Hitchhiker Effect."
+    },
+    {
       "id": "human-encounter-research",
       "type": "topic",
       "name": "Human Encounter Research",
@@ -3510,10 +3956,28 @@
       "summary": "Name associated with allegations of a highly compartmentalized U.S. government UAP collection and intelligence program. The program's alleged scope and existence remain subjects of public claims and congressional interest."
     },
     {
+      "id": "kona-blue",
+      "type": "topic",
+      "name": "Kona Blue",
+      "summary": "Topic connected to WEAPONIZED Episodes #93–102: Kona Blue."
+    },
+    {
       "id": "legacy-uap-programs",
       "type": "topic",
       "name": "Legacy UAP Programs",
       "summary": "Alleged long-running classified programs involving UAP collection, exploitation, or reverse engineering."
+    },
+    {
+      "id": "media-coverage",
+      "type": "topic",
+      "name": "Media Coverage",
+      "summary": "Topic connected to WEAPONIZED Episodes #93–102: Media Coverage."
+    },
+    {
+      "id": "military-secrecy",
+      "type": "topic",
+      "name": "Military Secrecy",
+      "summary": "Topic connected to WEAPONIZED Episodes #93–102: Military Secrecy."
     },
     {
       "id": "military-uap-witnesses",
@@ -3522,10 +3986,22 @@
       "summary": "Service members and veterans reporting encounters with unidentified anomalous phenomena."
     },
     {
+      "id": "missing-411",
+      "type": "topic",
+      "name": "Missing 411",
+      "summary": "Topic connected to WEAPONIZED Episodes #93–102: Missing 411."
+    },
+    {
       "id": "mystery-drone-incursions",
       "type": "topic",
       "name": "Mystery Drone Incursions",
       "summary": "Unresolved reports of recurring unidentified drone-like objects near communities and restricted military airspace."
+    },
+    {
+      "id": "mystery-drones",
+      "type": "topic",
+      "name": "Mystery Drones",
+      "summary": "Topic connected to WEAPONIZED Episodes #93–102: Mystery Drones."
     },
     {
       "id": "national-security-secrecy",
@@ -3540,6 +4016,12 @@
       "summary": "Efforts to understand and reproduce technologies by studying recovered systems or materials."
     },
     {
+      "id": "sasquatch",
+      "type": "topic",
+      "name": "Sasquatch",
+      "summary": "Topic connected to WEAPONIZED Episodes #93–102: Sasquatch."
+    },
+    {
       "id": "scientific-investigation",
       "type": "topic",
       "name": "Scientific Investigation",
@@ -3552,10 +4034,22 @@
       "summary": "Alleged use of security-clearance processes to pressure, silence, or punish personnel."
     },
     {
+      "id": "tic-tac-uap",
+      "type": "topic",
+      "name": "Tic Tac UAP",
+      "summary": "Topic connected to WEAPONIZED Episodes #93–102: Tic Tac UAP."
+    },
+    {
       "id": "transmedium-uap",
       "type": "topic",
       "name": "Transmedium UAP",
       "summary": "Reports of unidentified objects appearing to move between air and water without an obvious transition or loss of performance."
+    },
+    {
+      "id": "trinity-ufo-case",
+      "type": "topic",
+      "name": "Trinity UFO Case",
+      "summary": "Topic connected to WEAPONIZED Episodes #93–102: Trinity UFO Case."
     },
     {
       "id": "uap-disclosure",
@@ -3604,6 +4098,18 @@
       "type": "topic",
       "name": "UAP Research",
       "summary": "Investigation and documentation of unidentified anomalous phenomena"
+    },
+    {
+      "id": "uap-science",
+      "type": "topic",
+      "name": "UAP Science",
+      "summary": "Topic connected to WEAPONIZED Episodes #93–102: UAP Science."
+    },
+    {
+      "id": "ufo-cryptid-connection",
+      "type": "topic",
+      "name": "UFO–Cryptid Connection",
+      "summary": "Topic connected to WEAPONIZED Episodes #93–102: UFO–Cryptid Connection."
     },
     {
       "id": "unidentified-submerged-objects",

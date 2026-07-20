@@ -1,0 +1,24 @@
+{
+  "id": "timeline-2025-11-11-weaponized-episode-97",
+  "type": "timeline_event",
+  "name": "WEAPONIZED Episode #97 published",
+  "summary": "In the second part of the interview, James Lacatski discusses obstacles to disclosure, efforts to discredit official investigations, anomalous encounters, crash-retrieval questions, and whether Tic Tac objects could be U.S. technology.",
+  "date": "2025-11-11",
+  "dateDisplay": "November 11, 2025",
+  "eventCategory": "Podcast publication",
+  "relationships": [
+    {
+      "type": "event_for",
+      "target": "2025-weaponized-episode-97"
+    }
+  ],
+  "officialLinks": [],
+  "referenceSources": [
+    {
+      "label": "Official WEAPONIZED Episode #97 page",
+      "url": "https://www.weaponizedpodcast.com/episodes-4/episode-97",
+      "sourceType": "official_episode_page",
+      "role": "source"
+    }
+  ]
+}

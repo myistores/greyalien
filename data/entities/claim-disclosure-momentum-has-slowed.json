@@ -1,0 +1,22 @@
+{
+  "id": "claim-disclosure-momentum-has-slowed",
+  "type": "claim",
+  "name": "Disclosure momentum has slowed",
+  "summary": "The hosts argue that public disclosure momentum has slowed but has not ended.",
+  "claimStatus": "Reported in source",
+  "relationships": [
+    {
+      "type": "featured_in_media",
+      "target": "2025-weaponized-episode-94"
+    }
+  ],
+  "officialLinks": [],
+  "referenceSources": [
+    {
+      "label": "Official WEAPONIZED Episode #94 page",
+      "url": "https://www.weaponizedpodcast.com/episodes-4/episode-94",
+      "sourceType": "official_episode_page",
+      "role": "source"
+    }
+  ]
+}

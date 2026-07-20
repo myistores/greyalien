@@ -1,0 +1,112 @@
+{
+  "id": "2025-weaponized-episode-99",
+  "type": "podcast_episode",
+  "name": "WEAPONIZED Episode #99 — Is This a Pivotal Moment for UFO Disclosure?",
+  "summary": "Ryan Robbins, Danny Silva, and Joe Murgia join the hosts to assess renewed public attention driven by The Age of Disclosure, David Grusch’s Fox interview, and James Lacatski’s AAWSAP revelations.",
+  "date": "2025-11-26",
+  "dateDisplay": "November 26, 2025",
+  "seriesId": "weaponized-podcast",
+  "episodeNumber": 99,
+  "episodeTitle": "Is This a Pivotal Moment for UFO Disclosure?",
+  "status": "Published",
+  "mediaType": "Podcast episode",
+  "mediaPlatform": "WEAPONIZED",
+  "mediaHost": "Jeremy Corbell and George Knapp",
+  "mediaGuests": [
+    "ryan-robbins",
+    "danny-silva",
+    "joe-murgia"
+  ],
+  "mediaSubjects": [],
+  "principalClaims": [
+    "claim-2025-created-new-disclosure-momentum",
+    "claim-age-of-disclosure-broadened-public-interest",
+    "claim-grusch-interview-restored-mainstream-attention",
+    "claim-momentum-could-fade-without-organized-follow-through"
+  ],
+  "researchNotes": [],
+  "relationships": [
+    {
+      "type": "episode_of",
+      "target": "weaponized-podcast"
+    },
+    {
+      "type": "features_person",
+      "target": "jeremy-corbell",
+      "role": "host",
+      "context": "WEAPONIZED co-host"
+    },
+    {
+      "type": "features_person",
+      "target": "george-knapp",
+      "role": "host",
+      "context": "WEAPONIZED co-host"
+    },
+    {
+      "type": "features_person",
+      "target": "ryan-robbins",
+      "role": "guest",
+      "context": "Featured episode participant"
+    },
+    {
+      "type": "features_person",
+      "target": "danny-silva",
+      "role": "guest",
+      "context": "Featured episode participant"
+    },
+    {
+      "type": "features_person",
+      "target": "joe-murgia",
+      "role": "guest",
+      "context": "Featured episode participant"
+    },
+    {
+      "type": "references_organization",
+      "target": "fox-news"
+    },
+    {
+      "type": "references_organization",
+      "target": "united-states-congress"
+    },
+    {
+      "type": "discussed_topic",
+      "target": "uap-disclosure"
+    },
+    {
+      "type": "discussed_topic",
+      "target": "media-coverage"
+    },
+    {
+      "type": "discussed_topic",
+      "target": "aawsap"
+    }
+  ],
+  "mediaLinks": [
+    {
+      "label": "Open the official Episode #99 page",
+      "url": "https://www.weaponizedpodcast.com/episodes-4/episode-99",
+      "platform": "WEAPONIZED"
+    },
+    {
+      "label": "Listen to WEAPONIZED",
+      "url": "https://link.chtbl.com/Weaponized",
+      "platform": "Official audio feed"
+    }
+  ],
+  "eventCategory": "Podcast publication",
+  "officialLinks": [],
+  "referenceSources": [
+    {
+      "label": "Official WEAPONIZED Episode #99 page",
+      "url": "https://www.weaponizedpodcast.com/episodes-4/episode-99",
+      "sourceType": "official_episode_page",
+      "role": "source"
+    },
+    {
+      "label": "Listen to WEAPONIZED",
+      "url": "https://link.chtbl.com/Weaponized",
+      "sourceType": "official_audio_feed",
+      "role": "source"
+    }
+  ]
+}

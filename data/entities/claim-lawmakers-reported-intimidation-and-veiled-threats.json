@@ -1,0 +1,22 @@
+{
+  "id": "claim-lawmakers-reported-intimidation-and-veiled-threats",
+  "type": "claim",
+  "name": "Lawmakers reported intimidation and veiled threats",
+  "summary": "The episode includes accounts of pressure and warnings directed at congressional transparency advocates.",
+  "claimStatus": "Reported in source",
+  "relationships": [
+    {
+      "type": "featured_in_media",
+      "target": "2025-weaponized-episode-101"
+    }
+  ],
+  "officialLinks": [],
+  "referenceSources": [
+    {
+      "label": "Official WEAPONIZED Episode #101 page",
+      "url": "https://www.weaponizedpodcast.com/episodes-4/episode-101",
+      "sourceType": "official_episode_page",
+      "role": "source"
+    }
+  ]
+}

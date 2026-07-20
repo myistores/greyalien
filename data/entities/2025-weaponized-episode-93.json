@@ -1,0 +1,97 @@
+{
+  "id": "2025-weaponized-episode-93",
+  "type": "podcast_episode",
+  "name": "WEAPONIZED Episode #93 — Mystery Drones, Eglin’s Black Triangle, and Chris Sharp",
+  "summary": "Jeremy Corbell and George Knapp speak with Liberation Times editor Chris Sharp about the mystery-drone wave and revisit additional details concerning the large black triangle reported over an Eglin Air Force Base runway.",
+  "date": "2025-10-15",
+  "dateDisplay": "October 15, 2025",
+  "seriesId": "weaponized-podcast",
+  "episodeNumber": 93,
+  "episodeTitle": "Mystery Drones, Eglin’s Black Triangle, and Chris Sharp",
+  "status": "Published",
+  "mediaType": "Podcast episode",
+  "mediaPlatform": "WEAPONIZED",
+  "mediaHost": "Jeremy Corbell and George Knapp",
+  "mediaGuests": [
+    "chris-sharp"
+  ],
+  "mediaSubjects": [],
+  "principalClaims": [
+    "claim-mystery-drone-wave-remains-unresolved",
+    "claim-eglin-triangle-details-expanded",
+    "claim-drone-reporting-requires-sustained-scrutiny"
+  ],
+  "researchNotes": [],
+  "relationships": [
+    {
+      "type": "episode_of",
+      "target": "weaponized-podcast"
+    },
+    {
+      "type": "features_person",
+      "target": "jeremy-corbell",
+      "role": "host",
+      "context": "WEAPONIZED co-host"
+    },
+    {
+      "type": "features_person",
+      "target": "george-knapp",
+      "role": "host",
+      "context": "WEAPONIZED co-host"
+    },
+    {
+      "type": "features_person",
+      "target": "chris-sharp",
+      "role": "guest",
+      "context": "Featured episode participant"
+    },
+    {
+      "type": "references_organization",
+      "target": "liberation-times"
+    },
+    {
+      "type": "references_organization",
+      "target": "eglin-air-force-base"
+    },
+    {
+      "type": "discussed_topic",
+      "target": "mystery-drones"
+    },
+    {
+      "type": "discussed_topic",
+      "target": "eglin-air-force-base-uap"
+    },
+    {
+      "type": "discussed_topic",
+      "target": "government-transparency"
+    }
+  ],
+  "mediaLinks": [
+    {
+      "label": "Open the official Episode #93 page",
+      "url": "https://www.weaponizedpodcast.com/episodes-4/episode-93",
+      "platform": "WEAPONIZED"
+    },
+    {
+      "label": "Listen to WEAPONIZED",
+      "url": "https://link.chtbl.com/Weaponized",
+      "platform": "Official audio feed"
+    }
+  ],
+  "eventCategory": "Podcast publication",
+  "officialLinks": [],
+  "referenceSources": [
+    {
+      "label": "Official WEAPONIZED Episode #93 page",
+      "url": "https://www.weaponizedpodcast.com/episodes-4/episode-93",
+      "sourceType": "official_episode_page",
+      "role": "source"
+    },
+    {
+      "label": "Listen to WEAPONIZED",
+      "url": "https://link.chtbl.com/Weaponized",
+      "sourceType": "official_audio_feed",
+      "role": "source"
+    }
+  ]
+}

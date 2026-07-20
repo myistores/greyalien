@@ -1,0 +1,16 @@
+{
+  "id": "military-secrecy",
+  "type": "topic",
+  "name": "Military Secrecy",
+  "summary": "Topic connected to WEAPONIZED Episodes #93–102: Military Secrecy.",
+  "relationships": [],
+  "officialLinks": [],
+  "referenceSources": [
+    {
+      "label": "Official WEAPONIZED source",
+      "url": "https://www.weaponizedpodcast.com/",
+      "sourceType": "official_episode_page",
+      "role": "source"
+    }
+  ]
+}

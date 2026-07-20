@@ -1,0 +1,22 @@
+{
+  "id": "claim-crash-response-suggested-sensitive-retrieval",
+  "type": "claim",
+  "name": "The response suggested a sensitive retrieval operation",
+  "summary": "The scale and speed of the response are presented as evidence that the object was treated as highly sensitive.",
+  "claimStatus": "Reported in source",
+  "relationships": [
+    {
+      "type": "featured_in_media",
+      "target": "2025-weaponized-episode-95"
+    }
+  ],
+  "officialLinks": [],
+  "referenceSources": [
+    {
+      "label": "Official WEAPONIZED Episode #95 page",
+      "url": "https://www.weaponizedpodcast.com/episodes-4/episode-95",
+      "sourceType": "official_episode_page",
+      "role": "source"
+    }
+  ]
+}

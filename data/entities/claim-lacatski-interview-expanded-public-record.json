@@ -1,0 +1,22 @@
+{
+  "id": "claim-lacatski-interview-expanded-public-record",
+  "type": "claim",
+  "name": "The Lacatski interview expanded the public record",
+  "summary": "The hosts argue that the two-part interview added consequential details about AAWSAP and recovered-craft claims.",
+  "claimStatus": "Reported in source",
+  "relationships": [
+    {
+      "type": "featured_in_media",
+      "target": "2025-weaponized-episode-98"
+    }
+  ],
+  "officialLinks": [],
+  "referenceSources": [
+    {
+      "label": "Official WEAPONIZED Episode #98 page",
+      "url": "https://www.weaponizedpodcast.com/episodes-4/episode-98",
+      "sourceType": "official_episode_page",
+      "role": "source"
+    }
+  ]
+}

@@ -28,6 +28,184 @@
       "relationshipCount": 13
     },
     {
+      "id": "2025-weaponized-episode-102",
+      "name": "WEAPONIZED Episode #102 — Jacques Vallée — The Bizarre Nature of UFOs",
+      "summary": "Jacques Vallée joins Jeremy Corbell and George Knapp for a wide-ranging discussion of UFO history, Project Blue Book, remote viewing, NIDS, AAWSAP, crash retrievals, the Trinity case, congressional secrecy, science, and paths forward.",
+      "date": "2025-12-23",
+      "dateDisplay": "December 23, 2025",
+      "episodeNumber": 102,
+      "episodeTitle": "Jacques Vallée — The Bizarre Nature of UFOs",
+      "status": "Published",
+      "seriesId": "weaponized-podcast",
+      "externalUrl": "",
+      "guestIds": [
+        "jacques-vallee"
+      ],
+      "subjectIds": [],
+      "claimIds": [],
+      "relationshipCount": 11
+    },
+    {
+      "id": "2025-weaponized-episode-101",
+      "name": "WEAPONIZED Episode #101 — Congressional UAP Champions on What Comes Next",
+      "summary": "Representatives Anna Paulina Luna, Tim Burchett, and Eric Burlison discuss resistance to congressional oversight, blocked witness access, intimidation, the limits of public hearings, possible presidential action, and alternative strategies.",
+      "date": "2025-12-16",
+      "dateDisplay": "December 16, 2025",
+      "episodeNumber": 101,
+      "episodeTitle": "Congressional UAP Champions on What Comes Next",
+      "status": "Published",
+      "seriesId": "weaponized-podcast",
+      "externalUrl": "",
+      "guestIds": [
+        "anna-paulina-luna",
+        "tim-burchett",
+        "eric-burlison"
+      ],
+      "subjectIds": [],
+      "claimIds": [],
+      "relationshipCount": 10
+    },
+    {
+      "id": "2025-weaponized-episode-100",
+      "name": "WEAPONIZED Episode #100 — Creatures From Another World? The UFO–Cryptid Connection",
+      "summary": "Author and filmmaker David Paulides discusses reported links among UFOs, Sasquatch, disappearances, portals, Skinwalker Ranch, and evidence presented in American Sasquatch: Man, Myth, or Monster.",
+      "date": "2025-12-02",
+      "dateDisplay": "December 2, 2025",
+      "episodeNumber": 100,
+      "episodeTitle": "Creatures From Another World? The UFO–Cryptid Connection",
+      "status": "Published",
+      "seriesId": "weaponized-podcast",
+      "externalUrl": "",
+      "guestIds": [
+        "david-paulides"
+      ],
+      "subjectIds": [],
+      "claimIds": [],
+      "relationshipCount": 9
+    },
+    {
+      "id": "2025-weaponized-episode-99",
+      "name": "WEAPONIZED Episode #99 — Is This a Pivotal Moment for UFO Disclosure?",
+      "summary": "Ryan Robbins, Danny Silva, and Joe Murgia join the hosts to assess renewed public attention driven by The Age of Disclosure, David Grusch’s Fox interview, and James Lacatski’s AAWSAP revelations.",
+      "date": "2025-11-26",
+      "dateDisplay": "November 26, 2025",
+      "episodeNumber": 99,
+      "episodeTitle": "Is This a Pivotal Moment for UFO Disclosure?",
+      "status": "Published",
+      "seriesId": "weaponized-podcast",
+      "externalUrl": "",
+      "guestIds": [
+        "ryan-robbins",
+        "danny-silva",
+        "joe-murgia"
+      ],
+      "subjectIds": [],
+      "claimIds": [],
+      "relationshipCount": 11
+    },
+    {
+      "id": "2025-weaponized-episode-98",
+      "name": "WEAPONIZED Episode #98 — Reassessing the James Lacatski Revelations",
+      "summary": "Jeremy Corbell and George Knapp review the implications of their Lacatski interviews, including AAWSAP, counterintelligence, AARO, recovered-craft claims, congressional access, and Harry Reid’s role.",
+      "date": "2025-11-18",
+      "dateDisplay": "November 18, 2025",
+      "episodeNumber": 98,
+      "episodeTitle": "Reassessing the James Lacatski Revelations",
+      "status": "Published",
+      "seriesId": "weaponized-podcast",
+      "externalUrl": "",
+      "guestIds": [],
+      "subjectIds": [],
+      "claimIds": [],
+      "relationshipCount": 9
+    },
+    {
+      "id": "2025-weaponized-episode-97",
+      "name": "WEAPONIZED Episode #97 — James Lacatski on Disclosure, Hitchhikers, and the Tic Tac — Part 2",
+      "summary": "In the second part of the interview, James Lacatski discusses obstacles to disclosure, efforts to discredit official investigations, anomalous encounters, crash-retrieval questions, and whether Tic Tac objects could be U.S. technology.",
+      "date": "2025-11-11",
+      "dateDisplay": "November 11, 2025",
+      "episodeNumber": 97,
+      "episodeTitle": "James Lacatski on Disclosure, Hitchhikers, and the Tic Tac — Part 2",
+      "status": "Published",
+      "seriesId": "weaponized-podcast",
+      "externalUrl": "",
+      "guestIds": [
+        "james-lacatski"
+      ],
+      "subjectIds": [],
+      "claimIds": [],
+      "relationshipCount": 9
+    },
+    {
+      "id": "2025-weaponized-episode-96",
+      "name": "WEAPONIZED Episode #96 — James Lacatski on AAWSAP, Kona Blue, and a Recovered Craft — Part 1",
+      "summary": "Former DIA official James Lacatski discusses AAWSAP, Kona Blue, AARO, alleged counterintelligence activity, and his authorized account of a recovered craft whose hull was reportedly breached.",
+      "date": "2025-11-05",
+      "dateDisplay": "November 5, 2025",
+      "episodeNumber": 96,
+      "episodeTitle": "James Lacatski on AAWSAP, Kona Blue, and a Recovered Craft — Part 1",
+      "status": "Published",
+      "seriesId": "weaponized-podcast",
+      "externalUrl": "",
+      "guestIds": [
+        "james-lacatski"
+      ],
+      "subjectIds": [],
+      "claimIds": [],
+      "relationshipCount": 10
+    },
+    {
+      "id": "2025-weaponized-episode-95",
+      "name": "WEAPONIZED Episode #95 — The Area 51 Crash Retrieval and Its Cover Story",
+      "summary": "The hosts examine a September 2025 crash near Area 51, the rapid military response, the cordoning of public land, and civilian research challenging the Air Force explanation.",
+      "date": "2025-10-31",
+      "dateDisplay": "October 31, 2025",
+      "episodeNumber": 95,
+      "episodeTitle": "The Area 51 Crash Retrieval and Its Cover Story",
+      "status": "Published",
+      "seriesId": "weaponized-podcast",
+      "externalUrl": "",
+      "guestIds": [],
+      "subjectIds": [],
+      "claimIds": [],
+      "relationshipCount": 8
+    },
+    {
+      "id": "2025-weaponized-episode-94",
+      "name": "WEAPONIZED Episode #94 — Is UFO Disclosure Dead?",
+      "summary": "Corbell and Knapp assess claims that UAP disclosure has stalled, reviewing political resistance, media narratives, and the continuing evidence that keeps transparency efforts active.",
+      "date": "2025-10-22",
+      "dateDisplay": "October 22, 2025",
+      "episodeNumber": 94,
+      "episodeTitle": "Is UFO Disclosure Dead?",
+      "status": "Published",
+      "seriesId": "weaponized-podcast",
+      "externalUrl": "",
+      "guestIds": [],
+      "subjectIds": [],
+      "claimIds": [],
+      "relationshipCount": 7
+    },
+    {
+      "id": "2025-weaponized-episode-93",
+      "name": "WEAPONIZED Episode #93 — Mystery Drones, Eglin’s Black Triangle, and Chris Sharp",
+      "summary": "Jeremy Corbell and George Knapp speak with Liberation Times editor Chris Sharp about the mystery-drone wave and revisit additional details concerning the large black triangle reported over an Eglin Air Force Base runway.",
+      "date": "2025-10-15",
+      "dateDisplay": "October 15, 2025",
+      "episodeNumber": 93,
+      "episodeTitle": "Mystery Drones, Eglin’s Black Triangle, and Chris Sharp",
+      "status": "Published",
+      "seriesId": "weaponized-podcast",
+      "externalUrl": "",
+      "guestIds": [
+        "chris-sharp"
+      ],
+      "subjectIds": [],
+      "claimIds": [],
+      "relationshipCount": 9
+    },
+    {
       "id": "2025-weaponized-episode-92",
       "name": "WEAPONIZED Episode #92 — The UAP Witness That Didn’t Testify — Congress Wanted You to Hear This",
       "summary": "Jeremy Corbell and George Knapp interview a military veteran who had been expected to testify before Congress and who reports seeing a large craft hovering above a runway at Eglin Air Force Base before departing at extraordinary speed.",

@@ -1,0 +1,22 @@
+{
+  "id": "claim-kona-blue-cancellation-story-incomplete",
+  "type": "claim",
+  "name": "The Kona Blue cancellation story was incomplete",
+  "summary": "The episode argues that the public account of Kona Blue’s cancellation does not capture the full history.",
+  "claimStatus": "Reported in source",
+  "relationships": [
+    {
+      "type": "featured_in_media",
+      "target": "2025-weaponized-episode-96"
+    }
+  ],
+  "officialLinks": [],
+  "referenceSources": [
+    {
+      "label": "Official WEAPONIZED Episode #96 page",
+      "url": "https://www.weaponizedpodcast.com/episodes-4/episode-96",
+      "sourceType": "official_episode_page",
+      "role": "source"
+    }
+  ]
+}

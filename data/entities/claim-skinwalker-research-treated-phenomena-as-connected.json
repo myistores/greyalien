@@ -1,0 +1,22 @@
+{
+  "id": "claim-skinwalker-research-treated-phenomena-as-connected",
+  "type": "claim",
+  "name": "Skinwalker research treated phenomena as connected",
+  "summary": "The episode links NIDS and AAWSAP research to a broader model involving craft, creatures, portals, and other anomalies.",
+  "claimStatus": "Reported in source",
+  "relationships": [
+    {
+      "type": "featured_in_media",
+      "target": "2025-weaponized-episode-100"
+    }
+  ],
+  "officialLinks": [],
+  "referenceSources": [
+    {
+      "label": "Official WEAPONIZED Episode #100 page",
+      "url": "https://www.weaponizedpodcast.com/episodes-4/episode-100",
+      "sourceType": "official_episode_page",
+      "role": "source"
+    }
+  ]
+}

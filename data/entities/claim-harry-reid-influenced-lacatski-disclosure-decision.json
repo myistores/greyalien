@@ -1,0 +1,22 @@
+{
+  "id": "claim-harry-reid-influenced-lacatski-disclosure-decision",
+  "type": "claim",
+  "name": "Harry Reid influenced Lacatski’s disclosure decision",
+  "summary": "The episode credits Senator Harry Reid as an important influence on Lacatski’s decision to speak publicly.",
+  "claimStatus": "Reported in source",
+  "relationships": [
+    {
+      "type": "featured_in_media",
+      "target": "2025-weaponized-episode-98"
+    }
+  ],
+  "officialLinks": [],
+  "referenceSources": [
+    {
+      "label": "Official WEAPONIZED Episode #98 page",
+      "url": "https://www.weaponizedpodcast.com/episodes-4/episode-98",
+      "sourceType": "official_episode_page",
+      "role": "source"
+    }
+  ]
+}

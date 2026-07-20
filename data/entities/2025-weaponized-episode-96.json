@@ -1,0 +1,102 @@
+{
+  "id": "2025-weaponized-episode-96",
+  "type": "podcast_episode",
+  "name": "WEAPONIZED Episode #96 — James Lacatski on AAWSAP, Kona Blue, and a Recovered Craft — Part 1",
+  "summary": "Former DIA official James Lacatski discusses AAWSAP, Kona Blue, AARO, alleged counterintelligence activity, and his authorized account of a recovered craft whose hull was reportedly breached.",
+  "date": "2025-11-05",
+  "dateDisplay": "November 5, 2025",
+  "seriesId": "weaponized-podcast",
+  "episodeNumber": 96,
+  "episodeTitle": "James Lacatski on AAWSAP, Kona Blue, and a Recovered Craft — Part 1",
+  "status": "Published",
+  "mediaType": "Podcast episode",
+  "mediaPlatform": "WEAPONIZED",
+  "mediaHost": "Jeremy Corbell and George Knapp",
+  "mediaGuests": [
+    "james-lacatski"
+  ],
+  "mediaSubjects": [],
+  "principalClaims": [
+    "claim-lacatski-says-recovered-craft-was-accessed",
+    "claim-kona-blue-cancellation-story-incomplete",
+    "claim-lacatski-characterizes-aaro-as-counterintelligence",
+    "claim-aawsap-records-contain-substantial-findings"
+  ],
+  "researchNotes": [],
+  "relationships": [
+    {
+      "type": "episode_of",
+      "target": "weaponized-podcast"
+    },
+    {
+      "type": "features_person",
+      "target": "jeremy-corbell",
+      "role": "host",
+      "context": "WEAPONIZED co-host"
+    },
+    {
+      "type": "features_person",
+      "target": "george-knapp",
+      "role": "host",
+      "context": "WEAPONIZED co-host"
+    },
+    {
+      "type": "features_person",
+      "target": "james-lacatski",
+      "role": "guest",
+      "context": "Featured episode participant"
+    },
+    {
+      "type": "references_organization",
+      "target": "defense-intelligence-agency"
+    },
+    {
+      "type": "references_organization",
+      "target": "aaro"
+    },
+    {
+      "type": "discussed_topic",
+      "target": "aawsap"
+    },
+    {
+      "type": "discussed_topic",
+      "target": "kona-blue"
+    },
+    {
+      "type": "discussed_topic",
+      "target": "crash-retrievals"
+    },
+    {
+      "type": "discussed_topic",
+      "target": "counterintelligence"
+    }
+  ],
+  "mediaLinks": [
+    {
+      "label": "Open the official Episode #96 page",
+      "url": "https://www.weaponizedpodcast.com/episodes-4/episode-96",
+      "platform": "WEAPONIZED"
+    },
+    {
+      "label": "Listen to WEAPONIZED",
+      "url": "https://link.chtbl.com/Weaponized",
+      "platform": "Official audio feed"
+    }
+  ],
+  "eventCategory": "Podcast publication",
+  "officialLinks": [],
+  "referenceSources": [
+    {
+      "label": "Official WEAPONIZED Episode #96 page",
+      "url": "https://www.weaponizedpodcast.com/episodes-4/episode-96",
+      "sourceType": "official_episode_page",
+      "role": "source"
+    },
+    {
+      "label": "Listen to WEAPONIZED",
+      "url": "https://link.chtbl.com/Weaponized",
+      "sourceType": "official_audio_feed",
+      "role": "source"
+    }
+  ]
+}

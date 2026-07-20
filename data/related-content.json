@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "generatedBy": "tools/build_related_content.py",
-  "generatedAt": "2026-07-20T00:27:17.439901+00:00",
+  "generatedAt": "2026-07-20T19:33:10.043999+00:00",
   "referencedIn": {
     "1960s-area-51-engine-claim": [
       {
@@ -1635,6 +1635,148 @@
         "context": ""
       }
     ],
+    "2025-weaponized-episode-100": [
+      {
+        "id": "claim-missing-411-cases-include-anomalous-features",
+        "type": "claim",
+        "name": "Missing 411 cases include anomalous features",
+        "relationshipType": "featured_in_media",
+        "role": "",
+        "context": ""
+      },
+      {
+        "id": "claim-mainstream-research-groups-avoid-cross-category-cases",
+        "type": "claim",
+        "name": "Research groups often avoid cross-category cases",
+        "relationshipType": "featured_in_media",
+        "role": "",
+        "context": ""
+      },
+      {
+        "id": "claim-skinwalker-research-treated-phenomena-as-connected",
+        "type": "claim",
+        "name": "Skinwalker research treated phenomena as connected",
+        "relationshipType": "featured_in_media",
+        "role": "",
+        "context": ""
+      },
+      {
+        "id": "claim-ufo-and-cryptid-reports-overlap",
+        "type": "claim",
+        "name": "UFO and cryptid reports overlap",
+        "relationshipType": "featured_in_media",
+        "role": "",
+        "context": ""
+      },
+      {
+        "id": "timeline-2025-12-02-weaponized-episode-100",
+        "type": "timeline_event",
+        "name": "WEAPONIZED Episode #100 published",
+        "relationshipType": "event_for",
+        "role": "",
+        "context": ""
+      }
+    ],
+    "2025-weaponized-episode-101": [
+      {
+        "id": "claim-congressional-uap-oversight-faced-obstruction",
+        "type": "claim",
+        "name": "Congressional UAP oversight faced obstruction",
+        "relationshipType": "featured_in_media",
+        "role": "",
+        "context": ""
+      },
+      {
+        "id": "claim-house-members-are-pursuing-alternative-strategies",
+        "type": "claim",
+        "name": "House members are pursuing alternative strategies",
+        "relationshipType": "featured_in_media",
+        "role": "",
+        "context": ""
+      },
+      {
+        "id": "claim-lawmakers-reported-intimidation-and-veiled-threats",
+        "type": "claim",
+        "name": "Lawmakers reported intimidation and veiled threats",
+        "relationshipType": "featured_in_media",
+        "role": "",
+        "context": ""
+      },
+      {
+        "id": "claim-presidential-action-could-bypass-stalled-process",
+        "type": "claim",
+        "name": "Presidential action could bypass a stalled process",
+        "relationshipType": "featured_in_media",
+        "role": "",
+        "context": ""
+      },
+      {
+        "id": "claim-public-hearings-may-have-reached-limits",
+        "type": "claim",
+        "name": "Public hearings may have reached their limits",
+        "relationshipType": "featured_in_media",
+        "role": "",
+        "context": ""
+      },
+      {
+        "id": "timeline-2025-12-16-weaponized-episode-101",
+        "type": "timeline_event",
+        "name": "WEAPONIZED Episode #101 published",
+        "relationshipType": "event_for",
+        "role": "",
+        "context": ""
+      }
+    ],
+    "2025-weaponized-episode-102": [
+      {
+        "id": "claim-progress-requires-better-data-and-open-inquiry",
+        "type": "claim",
+        "name": "Progress requires better data and open inquiry",
+        "relationshipType": "featured_in_media",
+        "role": "",
+        "context": ""
+      },
+      {
+        "id": "claim-secrecy-remains-a-major-scientific-obstacle",
+        "type": "claim",
+        "name": "Secrecy remains a major scientific obstacle",
+        "relationshipType": "featured_in_media",
+        "role": "",
+        "context": ""
+      },
+      {
+        "id": "claim-trinity-case-remains-important-to-vallee",
+        "type": "claim",
+        "name": "The Trinity case remains important to Vallée",
+        "relationshipType": "featured_in_media",
+        "role": "",
+        "context": ""
+      },
+      {
+        "id": "claim-uap-phenomenon-has-multiple-layers",
+        "type": "claim",
+        "name": "The UAP phenomenon has multiple layers",
+        "relationshipType": "featured_in_media",
+        "role": "",
+        "context": ""
+      },
+      {
+        "id": "claim-vallee-says-ufo-crashes-and-retrievals-are-real",
+        "type": "claim",
+        "name": "Vallée says UFO crashes and retrievals are real",
+        "relationshipType": "featured_in_media",
+        "role": "",
+        "context": ""
+      },
+      {
+        "id": "timeline-2025-12-23-weaponized-episode-102",
+        "type": "timeline_event",
+        "name": "WEAPONIZED Episode #102 published",
+        "relationshipType": "event_for",
+        "role": "",
+        "context": ""
+      }
+    ],
     "2025-weaponized-episode-65": [
       {
         "id": "claim-immaculate-constellation-record-contained-falsified-page",
@@ -2728,6 +2870,284 @@
         "context": ""
       }
     ],
+    "2025-weaponized-episode-93": [
+      {
+        "id": "claim-eglin-triangle-details-expanded",
+        "type": "claim",
+        "name": "Additional Eglin triangle details were reported",
+        "relationshipType": "featured_in_media",
+        "role": "",
+        "context": ""
+      },
+      {
+        "id": "claim-drone-reporting-requires-sustained-scrutiny",
+        "type": "claim",
+        "name": "Mystery-drone reporting requires sustained scrutiny",
+        "relationshipType": "featured_in_media",
+        "role": "",
+        "context": ""
+      },
+      {
+        "id": "claim-mystery-drone-wave-remains-unresolved",
+        "type": "claim",
+        "name": "Mystery-drone wave remains unresolved",
+        "relationshipType": "featured_in_media",
+        "role": "",
+        "context": ""
+      },
+      {
+        "id": "timeline-2025-10-15-weaponized-episode-93",
+        "type": "timeline_event",
+        "name": "WEAPONIZED Episode #93 published",
+        "relationshipType": "event_for",
+        "role": "",
+        "context": ""
+      }
+    ],
+    "2025-weaponized-episode-94": [
+      {
+        "id": "claim-disclosure-momentum-has-slowed",
+        "type": "claim",
+        "name": "Disclosure momentum has slowed",
+        "relationshipType": "featured_in_media",
+        "role": "",
+        "context": ""
+      },
+      {
+        "id": "claim-secrecy-resistance-remains-active",
+        "type": "claim",
+        "name": "Institutional resistance remains active",
+        "relationshipType": "featured_in_media",
+        "role": "",
+        "context": ""
+      },
+      {
+        "id": "claim-public-record-still-supports-continued-inquiry",
+        "type": "claim",
+        "name": "The public record supports continued inquiry",
+        "relationshipType": "featured_in_media",
+        "role": "",
+        "context": ""
+      },
+      {
+        "id": "timeline-2025-10-22-weaponized-episode-94",
+        "type": "timeline_event",
+        "name": "WEAPONIZED Episode #94 published",
+        "relationshipType": "event_for",
+        "role": "",
+        "context": ""
+      }
+    ],
+    "2025-weaponized-episode-95": [
+      {
+        "id": "claim-object-crashed-near-area-51",
+        "type": "claim",
+        "name": "An unknown object crashed near Area 51",
+        "relationshipType": "featured_in_media",
+        "role": "",
+        "context": ""
+      },
+      {
+        "id": "claim-air-force-explanation-contained-inconsistencies",
+        "type": "claim",
+        "name": "The Air Force explanation contained inconsistencies",
+        "relationshipType": "featured_in_media",
+        "role": "",
+        "context": ""
+      },
+      {
+        "id": "claim-military-secured-crash-area-quickly",
+        "type": "claim",
+        "name": "The military secured the crash area rapidly",
+        "relationshipType": "featured_in_media",
+        "role": "",
+        "context": ""
+      },
+      {
+        "id": "claim-crash-response-suggested-sensitive-retrieval",
+        "type": "claim",
+        "name": "The response suggested a sensitive retrieval operation",
+        "relationshipType": "featured_in_media",
+        "role": "",
+        "context": ""
+      },
+      {
+        "id": "timeline-2025-10-31-weaponized-episode-95",
+        "type": "timeline_event",
+        "name": "WEAPONIZED Episode #95 published",
+        "relationshipType": "event_for",
+        "role": "",
+        "context": ""
+      }
+    ],
+    "2025-weaponized-episode-96": [
+      {
+        "id": "claim-aawsap-records-contain-substantial-findings",
+        "type": "claim",
+        "name": "AAWSAP records contain substantial findings",
+        "relationshipType": "featured_in_media",
+        "role": "",
+        "context": ""
+      },
+      {
+        "id": "claim-lacatski-characterizes-aaro-as-counterintelligence",
+        "type": "claim",
+        "name": "Lacatski characterizes AARO as counterintelligence",
+        "relationshipType": "featured_in_media",
+        "role": "",
+        "context": ""
+      },
+      {
+        "id": "claim-lacatski-says-recovered-craft-was-accessed",
+        "type": "claim",
+        "name": "Lacatski says a recovered craft was accessed",
+        "relationshipType": "featured_in_media",
+        "role": "",
+        "context": ""
+      },
+      {
+        "id": "claim-kona-blue-cancellation-story-incomplete",
+        "type": "claim",
+        "name": "The Kona Blue cancellation story was incomplete",
+        "relationshipType": "featured_in_media",
+        "role": "",
+        "context": ""
+      },
+      {
+        "id": "timeline-2025-11-05-weaponized-episode-96",
+        "type": "timeline_event",
+        "name": "WEAPONIZED Episode #96 published",
+        "relationshipType": "event_for",
+        "role": "",
+        "context": ""
+      }
+    ],
+    "2025-weaponized-episode-97": [
+      {
+        "id": "claim-aawsap-investigators-reported-hitchhiker-effects",
+        "type": "claim",
+        "name": "AAWSAP investigators reported hitchhiker effects",
+        "relationshipType": "featured_in_media",
+        "role": "",
+        "context": ""
+      },
+      {
+        "id": "claim-lacatski-addresses-recovered-bodies-and-craft",
+        "type": "claim",
+        "name": "Lacatski addresses recovered bodies and craft",
+        "relationshipType": "featured_in_media",
+        "role": "",
+        "context": ""
+      },
+      {
+        "id": "claim-official-investigations-faced-internal-opposition",
+        "type": "claim",
+        "name": "Official investigations faced internal opposition",
+        "relationshipType": "featured_in_media",
+        "role": "",
+        "context": ""
+      },
+      {
+        "id": "claim-tic-tac-origin-remains-contested",
+        "type": "claim",
+        "name": "The origin of Tic Tac objects remains contested",
+        "relationshipType": "featured_in_media",
+        "role": "",
+        "context": ""
+      },
+      {
+        "id": "timeline-2025-11-11-weaponized-episode-97",
+        "type": "timeline_event",
+        "name": "WEAPONIZED Episode #97 published",
+        "relationshipType": "event_for",
+        "role": "",
+        "context": ""
+      }
+    ],
+    "2025-weaponized-episode-98": [
+      {
+        "id": "claim-congress-may-lack-access-to-core-aawsap-records",
+        "type": "claim",
+        "name": "Congress may lack access to core AAWSAP records",
+        "relationshipType": "featured_in_media",
+        "role": "",
+        "context": ""
+      },
+      {
+        "id": "claim-harry-reid-influenced-lacatski-disclosure-decision",
+        "type": "claim",
+        "name": "Harry Reid influenced Lacatski’s disclosure decision",
+        "relationshipType": "featured_in_media",
+        "role": "",
+        "context": ""
+      },
+      {
+        "id": "claim-counterintelligence-role-requires-careful-evaluation",
+        "type": "claim",
+        "name": "Lacatski’s counterintelligence role requires careful evaluation",
+        "relationshipType": "featured_in_media",
+        "role": "",
+        "context": ""
+      },
+      {
+        "id": "claim-lacatski-interview-expanded-public-record",
+        "type": "claim",
+        "name": "The Lacatski interview expanded the public record",
+        "relationshipType": "featured_in_media",
+        "role": "",
+        "context": ""
+      },
+      {
+        "id": "timeline-2025-11-18-weaponized-episode-98",
+        "type": "timeline_event",
+        "name": "WEAPONIZED Episode #98 published",
+        "relationshipType": "event_for",
+        "role": "",
+        "context": ""
+      }
+    ],
+    "2025-weaponized-episode-99": [
+      {
+        "id": "claim-grusch-interview-restored-mainstream-attention",
+        "type": "claim",
+        "name": "David Grusch’s interview restored mainstream attention",
+        "relationshipType": "featured_in_media",
+        "role": "",
+        "context": ""
+      },
+      {
+        "id": "claim-2025-created-new-disclosure-momentum",
+        "type": "claim",
+        "name": "Late 2025 created new disclosure momentum",
+        "relationshipType": "featured_in_media",
+        "role": "",
+        "context": ""
+      },
+      {
+        "id": "claim-momentum-could-fade-without-organized-follow-through",
+        "type": "claim",
+        "name": "Momentum could fade without organized follow-through",
+        "relationshipType": "featured_in_media",
+        "role": "",
+        "context": ""
+      },
+      {
+        "id": "claim-age-of-disclosure-broadened-public-interest",
+        "type": "claim",
+        "name": "The Age of Disclosure broadened public interest",
+        "relationshipType": "featured_in_media",
+        "role": "",
+        "context": ""
+      },
+      {
+        "id": "timeline-2025-11-26-weaponized-episode-99",
+        "type": "timeline_event",
+        "name": "WEAPONIZED Episode #99 published",
+        "relationshipType": "event_for",
+        "role": "",
+        "context": ""
+      }
+    ],
     "2025-weaponized-wiggins-interview": [
       {
         "id": "claim-uss-jackson-transmedium-objects",
@@ -3032,6 +3452,22 @@
         "context": ""
       },
       {
+        "id": "2025-weaponized-episode-96",
+        "type": "podcast_episode",
+        "name": "WEAPONIZED Episode #96 — James Lacatski on AAWSAP, Kona Blue, and a Recovered Craft — Part 1",
+        "relationshipType": "references_organization",
+        "role": "",
+        "context": ""
+      },
+      {
+        "id": "2025-weaponized-episode-98",
+        "type": "podcast_episode",
+        "name": "WEAPONIZED Episode #98 — Reassessing the James Lacatski Revelations",
+        "relationshipType": "references_organization",
+        "role": "",
+        "context": ""
+      },
+      {
         "id": "timeline-2023-10-31-aaro-secure-reporting-mechanism",
         "type": "timeline_event",
         "name": "AARO Launches a Secure UAP Reporting Mechanism",
@@ -3084,9 +3520,49 @@
         "context": ""
       },
       {
+        "id": "2025-weaponized-episode-102",
+        "type": "podcast_episode",
+        "name": "WEAPONIZED Episode #102 — Jacques Vallée — The Bizarre Nature of UFOs",
+        "relationshipType": "discussed_topic",
+        "role": "",
+        "context": ""
+      },
+      {
         "id": "2025-weaponized-episode-88",
         "type": "podcast_episode",
         "name": "WEAPONIZED Episode #88 — Injured by UFOs — The Case-by-Case Medical Evidence",
+        "relationshipType": "discussed_topic",
+        "role": "",
+        "context": ""
+      },
+      {
+        "id": "2025-weaponized-episode-96",
+        "type": "podcast_episode",
+        "name": "WEAPONIZED Episode #96 — James Lacatski on AAWSAP, Kona Blue, and a Recovered Craft — Part 1",
+        "relationshipType": "discussed_topic",
+        "role": "",
+        "context": ""
+      },
+      {
+        "id": "2025-weaponized-episode-97",
+        "type": "podcast_episode",
+        "name": "WEAPONIZED Episode #97 — James Lacatski on Disclosure, Hitchhikers, and the Tic Tac — Part 2",
+        "relationshipType": "discussed_topic",
+        "role": "",
+        "context": ""
+      },
+      {
+        "id": "2025-weaponized-episode-98",
+        "type": "podcast_episode",
+        "name": "WEAPONIZED Episode #98 — Reassessing the James Lacatski Revelations",
+        "relationshipType": "discussed_topic",
+        "role": "",
+        "context": ""
+      },
+      {
+        "id": "2025-weaponized-episode-99",
+        "type": "podcast_episode",
+        "name": "WEAPONIZED Episode #99 — Is This a Pivotal Moment for UFO Disclosure?",
         "relationshipType": "discussed_topic",
         "role": "",
         "context": ""
@@ -3208,6 +3684,14 @@
         "relationshipType": "references_person",
         "role": "",
         "context": ""
+      },
+      {
+        "id": "2025-weaponized-episode-101",
+        "type": "podcast_episode",
+        "name": "WEAPONIZED Episode #101 — Congressional UAP Champions on What Comes Next",
+        "relationshipType": "features_person",
+        "role": "guest",
+        "context": "Featured episode participant"
       }
     ],
     "area-51": [
@@ -3264,6 +3748,14 @@
         "type": "podcast_episode",
         "name": "WEAPONIZED Episode #115 — A New Chapter in the Bob Lazar Saga",
         "relationshipType": "discussed_case",
+        "role": "",
+        "context": ""
+      },
+      {
+        "id": "2025-weaponized-episode-95",
+        "type": "podcast_episode",
+        "name": "WEAPONIZED Episode #95 — The Area 51 Crash Retrieval and Its Cover Story",
+        "relationshipType": "references_organization",
         "role": "",
         "context": ""
       },
@@ -3823,6 +4315,14 @@
         "relationshipType": "features_person",
         "role": "guest",
         "context": "Reported from the UK on military-airspace incursions"
+      },
+      {
+        "id": "2025-weaponized-episode-93",
+        "type": "podcast_episode",
+        "name": "WEAPONIZED Episode #93 — Mystery Drones, Eglin’s Black Triangle, and Chris Sharp",
+        "relationshipType": "features_person",
+        "role": "guest",
+        "context": "Featured episode participant"
       }
     ],
     "christopher-kit-green": [],
@@ -3864,9 +4364,12 @@
     "claim-2024-uap-disclosure-amendment-failed": [],
     "claim-2024-uap-hearing-left-unresolved-questions": [],
     "claim-2024-uap-review-found-persistent-transparency-failures": [],
+    "claim-2025-created-new-disclosure-momentum": [],
     "claim-60-minutes-report-omitted-key-2019-navy-swarm-context": [],
     "claim-aaro-jellyfish-explanation-disputed": [],
     "claim-aawsap-files-could-aid-research": [],
+    "claim-aawsap-investigators-reported-hitchhiker-effects": [],
+    "claim-aawsap-records-contain-substantial-findings": [],
     "claim-additional-uap-insiders-should-come-forward": [
       {
         "id": "weaponized-matthew-brown-part-3",
@@ -3879,6 +4382,8 @@
     ],
     "claim-administration-insiders-promised-transparency": [],
     "claim-age-of-disclosure-assembled-broad-insider-testimony": [],
+    "claim-age-of-disclosure-broadened-public-interest": [],
+    "claim-air-force-explanation-contained-inconsistencies": [],
     "claim-alex-wiggins-reported-ocean-emergence": [],
     "claim-alien-autopsy-program": [
       {
@@ -3939,12 +4444,16 @@
     "claim-cleared-witnesses-face-legal-risk": [],
     "claim-close-encounters-associated-with-injuries": [],
     "claim-congress-continues-secret-program-inquiry": [],
+    "claim-congress-may-lack-access-to-core-aawsap-records": [],
     "claim-congressional-strategy-influenced-by-grusch": [],
+    "claim-congressional-uap-oversight-faced-obstruction": [],
     "claim-contact-in-desert-observations": [],
     "claim-corso-alleged-technology-transfer": [],
     "claim-corso-made-claims-before-book": [],
     "claim-corso-tapes-remained-unreleased": [],
+    "claim-counterintelligence-role-requires-careful-evaluation": [],
     "claim-craft-departed-at-extraordinary-speed": [],
+    "claim-crash-response-suggested-sensitive-retrieval": [],
     "claim-crash-retrieval-program": [
       {
         "id": "claim-army-crash-retrieval-teams",
@@ -4035,10 +4544,13 @@
         "context": "The discussion addresses allegations involving concealed retrieval and exploitation activity."
       }
     ],
+    "claim-disclosure-momentum-has-slowed": [],
     "claim-disclosure-requires-verifiable-evidence": [],
     "claim-disinformation-shapes-public-debate": [],
     "claim-dod-deception-history-discussed": [],
     "claim-dod-records-produced-new-case": [],
+    "claim-drone-reporting-requires-sustained-scrutiny": [],
+    "claim-eglin-triangle-details-expanded": [],
     "claim-element-115-propulsion": [
       {
         "id": "2026-weaponized-episode-115",
@@ -4080,10 +4592,13 @@
     "claim-foley-sighting-changed-view": [],
     "claim-fravor-added-new-nimitz-details": [],
     "claim-grusch-assisted-expert-briefings": [],
+    "claim-grusch-interview-restored-mainstream-attention": [],
+    "claim-harry-reid-influenced-lacatski-disclosure-decision": [],
     "claim-hastings-collected-government-witnesses": [],
     "claim-hearing-may-encourage-more-witnesses": [],
     "claim-hearing-presented-yemen-video": [],
     "claim-hosts-challenged-kirkpatrick-account": [],
+    "claim-house-members-are-pursuing-alternative-strategies": [],
     "claim-human-encounter-reports-may-be-central-to-uap-study": [],
     "claim-imcon-ai-server-search": [],
     "claim-imcon-described-usap": [],
@@ -4157,7 +4672,12 @@
     ],
     "claim-john-mack-faced-harvard-review-over-abduction-research": [],
     "claim-kirkpatrick-secret-technology-explanation": [],
+    "claim-kona-blue-cancellation-story-incomplete": [],
     "claim-kremer-pacific-transmedium-video": [],
+    "claim-lacatski-addresses-recovered-bodies-and-craft": [],
+    "claim-lacatski-characterizes-aaro-as-counterintelligence": [],
+    "claim-lacatski-interview-expanded-public-record": [],
+    "claim-lacatski-says-recovered-craft-was-accessed": [],
     "claim-langley-triangle-2012": [
       {
         "id": "2025-borland-written-testimony",
@@ -4180,21 +4700,27 @@
     "claim-large-disc-entered-cloud-cover": [],
     "claim-large-disc-video-military-sensor": [],
     "claim-lawmakers-received-closed-briefings": [],
+    "claim-lawmakers-reported-intimidation-and-veiled-threats": [],
     "claim-legislative-protections-sought": [],
     "claim-mack-investigated-ariel-school-witnesses": [],
+    "claim-mainstream-research-groups-avoid-cross-category-cases": [],
     "claim-maritime-forces-have-collected-uso-observations": [],
     "claim-media-role-uap-suppression": [],
     "claim-media-stigma-can-deter-uap-witnesses": [],
     "claim-medical-community-often-ignores-cause": [],
     "claim-military-hazing-explanation-challenged": [],
     "claim-military-labeled-disc-uap": [],
+    "claim-military-secured-crash-area-quickly": [],
     "claim-military-witnesses-testified-under-oath": [],
+    "claim-missing-411-cases-include-anomalous-features": [],
+    "claim-momentum-could-fade-without-organized-follow-through": [],
     "claim-more-former-officials-coming-forward": [],
     "claim-mosul-orb-four-second-video": [],
     "claim-mosul-orb-recorded-2016": [],
     "claim-mosul-orb-unidentified": [],
     "claim-multi-agency-ocean-technology-operation": [],
     "claim-mystery-drone-incursions-remained-major-2024-story": [],
+    "claim-mystery-drone-wave-remains-unresolved": [],
     "claim-nasa-archives-may-support-uap-research": [],
     "claim-navy-uap-aviation-safety": [
       {
@@ -4220,6 +4746,8 @@
     ],
     "claim-nimitz-two-week-sensor-detections": [],
     "claim-nyt-ufo-report-faced-internal-resistance": [],
+    "claim-object-crashed-near-area-51": [],
+    "claim-official-investigations-faced-internal-opposition": [],
     "claim-one-uss-jackson-object-reported-emerging-from-ocean": [],
     "claim-peru-crash-retrieval": [
       {
@@ -4251,10 +4779,14 @@
     "claim-planned-uap-hearing-canceled": [],
     "claim-potential-uap-witnesses-faced-threats": [],
     "claim-potential-witnesses-contacted": [],
+    "claim-presidential-action-could-bypass-stalled-process": [],
     "claim-private-competition-crash-materials": [],
     "claim-program-access-highly-restricted": [],
+    "claim-progress-requires-better-data-and-open-inquiry": [],
+    "claim-public-hearings-may-have-reached-limits": [],
     "claim-public-private-partnerships-could-advance-uap-study": [],
     "claim-public-reaction-largely-positive": [],
+    "claim-public-record-still-supports-continued-inquiry": [],
     "claim-retaliation-can-occur-without-prosecution": [],
     "claim-retaliation-described-as-systemic": [],
     "claim-roswell-technology-transfer": [
@@ -4395,6 +4927,8 @@
     ],
     "claim-saucer-nests-linked-in-reporting-to-crop-circle-history": [],
     "claim-secrecy-law-complicates-oversight": [],
+    "claim-secrecy-remains-a-major-scientific-obstacle": [],
+    "claim-secrecy-resistance-remains-active": [],
     "claim-secret-uap-programs": [
       {
         "id": "2024-elizondo-written-testimony",
@@ -4469,6 +5003,7 @@
         "context": "Disclosure concerned alleged concealed UAP programs"
       }
     ],
+    "claim-skinwalker-research-treated-phenomena-as-connected": [],
     "claim-slaughter-obtained-full-video": [],
     "claim-some-uso-reports-describe-transmedium-performance": [],
     "claim-south-pole-directed-energy": [
@@ -4505,6 +5040,8 @@
         "context": "Hecker's central allegation presented during the event"
       }
     ],
+    "claim-tic-tac-origin-remains-contested": [],
+    "claim-trinity-case-remains-important-to-vallee": [],
     "claim-two-uss-jackson-objects-recorded-from-command-center": [],
     "claim-uap-advocacy-continues-after-legislative-setback": [],
     "claim-uap-disclosure-act-remained-possible": [],
@@ -4520,6 +5057,8 @@
         "context": "Brown alleges that public understanding of UAP information is deliberately shaped through fear, self-interest, and institutional resistance."
       }
     ],
+    "claim-uap-phenomenon-has-multiple-layers": [],
+    "claim-ufo-and-cryptid-reports-overlap": [],
     "claim-ufo-revolution-documented-path-to-congress": [],
     "claim-uk-base-incursions-unresolved": [],
     "claim-uk-drone-incursions-resisted-identification": [],
@@ -4556,6 +5095,7 @@
         "context": ""
       }
     ],
+    "claim-vallee-says-ufo-crashes-and-retrievals-are-real": [],
     "claim-vandenberg-red-square-blotter-released": [],
     "claim-vandenberg-security-personnel-investigated-multiple-incursions": [],
     "claim-vandenberg-witness-reported-large-red-object": [],
@@ -4812,6 +5352,14 @@
         "context": ""
       },
       {
+        "id": "2025-weaponized-episode-101",
+        "type": "podcast_episode",
+        "name": "WEAPONIZED Episode #101 — Congressional UAP Champions on What Comes Next",
+        "relationshipType": "discussed_topic",
+        "role": "",
+        "context": ""
+      },
+      {
         "id": "2023-weaponized-episode-28",
         "type": "podcast_episode",
         "name": "WEAPONIZED Episode #28 — Congressional Hearing Roundtable",
@@ -4964,6 +5512,14 @@
         "context": ""
       },
       {
+        "id": "2025-weaponized-episode-94",
+        "type": "podcast_episode",
+        "name": "WEAPONIZED Episode #94 — Is UFO Disclosure Dead?",
+        "relationshipType": "discussed_topic",
+        "role": "",
+        "context": ""
+      },
+      {
         "id": "2024-08-20-imminent-luis-elizondo",
         "type": "publication",
         "name": "Luis Elizondo Publishes Imminent",
@@ -5000,6 +5556,50 @@
         "type": "topic",
         "name": "Immaculate Constellation",
         "relationshipType": "associated_topic",
+        "role": "",
+        "context": ""
+      }
+    ],
+    "counterintelligence": [
+      {
+        "id": "2025-weaponized-episode-96",
+        "type": "podcast_episode",
+        "name": "WEAPONIZED Episode #96 — James Lacatski on AAWSAP, Kona Blue, and a Recovered Craft — Part 1",
+        "relationshipType": "discussed_topic",
+        "role": "",
+        "context": ""
+      },
+      {
+        "id": "2025-weaponized-episode-98",
+        "type": "podcast_episode",
+        "name": "WEAPONIZED Episode #98 — Reassessing the James Lacatski Revelations",
+        "relationshipType": "discussed_topic",
+        "role": "",
+        "context": ""
+      }
+    ],
+    "crash-retrievals": [
+      {
+        "id": "2025-weaponized-episode-102",
+        "type": "podcast_episode",
+        "name": "WEAPONIZED Episode #102 — Jacques Vallée — The Bizarre Nature of UFOs",
+        "relationshipType": "discussed_topic",
+        "role": "",
+        "context": ""
+      },
+      {
+        "id": "2025-weaponized-episode-95",
+        "type": "podcast_episode",
+        "name": "WEAPONIZED Episode #95 — The Area 51 Crash Retrieval and Its Cover Story",
+        "relationshipType": "discussed_topic",
+        "role": "",
+        "context": ""
+      },
+      {
+        "id": "2025-weaponized-episode-96",
+        "type": "podcast_episode",
+        "name": "WEAPONIZED Episode #96 — James Lacatski on AAWSAP, Kona Blue, and a Recovered Craft — Part 1",
+        "relationshipType": "discussed_topic",
         "role": "",
         "context": ""
       }
@@ -5048,6 +5648,14 @@
         "id": "2025-weaponized-episode-85",
         "type": "podcast_episode",
         "name": "WEAPONIZED Episode #85 — Weaponized Silence — The UFO Disclosure Dilemma",
+        "relationshipType": "features_person",
+        "role": "guest",
+        "context": "Featured episode participant"
+      },
+      {
+        "id": "2025-weaponized-episode-99",
+        "type": "podcast_episode",
+        "name": "WEAPONIZED Episode #99 — Is This a Pivotal Moment for UFO Disclosure?",
         "relationshipType": "features_person",
         "role": "guest",
         "context": "Featured episode participant"
@@ -5234,6 +5842,16 @@
         "context": "Served in UAP-related intelligence assignments"
       }
     ],
+    "david-paulides": [
+      {
+        "id": "2025-weaponized-episode-100",
+        "type": "podcast_episode",
+        "name": "WEAPONIZED Episode #100 — Creatures From Another World? The UFO–Cryptid Connection",
+        "relationshipType": "features_person",
+        "role": "guest",
+        "context": "Featured episode participant"
+      }
+    ],
     "david-schindele": [],
     "david-spergel": [],
     "defense-intelligence-agency": [
@@ -5265,6 +5883,30 @@
         "id": "2025-weaponized-episode-88",
         "type": "podcast_episode",
         "name": "WEAPONIZED Episode #88 — Injured by UFOs — The Case-by-Case Medical Evidence",
+        "relationshipType": "references_organization",
+        "role": "",
+        "context": ""
+      },
+      {
+        "id": "2025-weaponized-episode-96",
+        "type": "podcast_episode",
+        "name": "WEAPONIZED Episode #96 — James Lacatski on AAWSAP, Kona Blue, and a Recovered Craft — Part 1",
+        "relationshipType": "references_organization",
+        "role": "",
+        "context": ""
+      },
+      {
+        "id": "2025-weaponized-episode-97",
+        "type": "podcast_episode",
+        "name": "WEAPONIZED Episode #97 — James Lacatski on Disclosure, Hitchhikers, and the Tic Tac — Part 2",
+        "relationshipType": "references_organization",
+        "role": "",
+        "context": ""
+      },
+      {
+        "id": "2025-weaponized-episode-98",
+        "type": "podcast_episode",
+        "name": "WEAPONIZED Episode #98 — Reassessing the James Lacatski Revelations",
         "relationshipType": "references_organization",
         "role": "",
         "context": ""
@@ -5654,6 +6296,16 @@
         "context": ""
       }
     ],
+    "disinformation": [
+      {
+        "id": "2025-weaponized-episode-95",
+        "type": "podcast_episode",
+        "name": "WEAPONIZED Episode #95 — The Area 51 Crash Retrieval and Its Cover Story",
+        "relationshipType": "discussed_topic",
+        "role": "",
+        "context": ""
+      }
+    ],
     "document-2002-10-16-wilson-davis-notes": [],
     "douglas-kurth": [],
     "dustin-slaughter": [
@@ -5758,6 +6410,14 @@
         "relationshipType": "discussed_topic",
         "role": "",
         "context": ""
+      },
+      {
+        "id": "2025-weaponized-episode-93",
+        "type": "podcast_episode",
+        "name": "WEAPONIZED Episode #93 — Mystery Drones, Eglin’s Black Triangle, and Chris Sharp",
+        "relationshipType": "discussed_topic",
+        "role": "",
+        "context": ""
       }
     ],
     "eglin-air-force-base": [
@@ -5765,6 +6425,14 @@
         "id": "2025-weaponized-episode-92",
         "type": "podcast_episode",
         "name": "WEAPONIZED Episode #92 — The UAP Witness That Didn’t Testify — Congress Wanted You to Hear This",
+        "relationshipType": "references_organization",
+        "role": "",
+        "context": ""
+      },
+      {
+        "id": "2025-weaponized-episode-93",
+        "type": "podcast_episode",
+        "name": "WEAPONIZED Episode #93 — Mystery Drones, Eglin’s Black Triangle, and Chris Sharp",
         "relationshipType": "references_organization",
         "role": "",
         "context": ""
@@ -5791,7 +6459,16 @@
       }
     ],
     "engaging-the-phenomenon-podcast": [],
-    "eric-burlison": [],
+    "eric-burlison": [
+      {
+        "id": "2025-weaponized-episode-101",
+        "type": "podcast_episode",
+        "name": "WEAPONIZED Episode #101 — Congressional UAP Champions on What Comes Next",
+        "relationshipType": "features_person",
+        "role": "guest",
+        "context": "Featured episode participant"
+      }
+    ],
     "eric-davis": [
       {
         "id": "document-2002-10-16-wilson-davis-notes",
@@ -5947,6 +6624,16 @@
       }
     ],
     "federica-bianco": [],
+    "fox-news": [
+      {
+        "id": "2025-weaponized-episode-99",
+        "type": "podcast_episode",
+        "name": "WEAPONIZED Episode #99 — Is This a Pivotal Moment for UFO Disclosure?",
+        "relationshipType": "references_organization",
+        "role": "",
+        "context": ""
+      }
+    ],
     "gaia": [
       {
         "id": "david-adair-area-51-interview",
@@ -6043,6 +6730,30 @@
     ],
     "gary-voorhis": [],
     "george-knapp": [
+      {
+        "id": "2025-weaponized-episode-100",
+        "type": "podcast_episode",
+        "name": "WEAPONIZED Episode #100 — Creatures From Another World? The UFO–Cryptid Connection",
+        "relationshipType": "features_person",
+        "role": "host",
+        "context": "WEAPONIZED co-host"
+      },
+      {
+        "id": "2025-weaponized-episode-101",
+        "type": "podcast_episode",
+        "name": "WEAPONIZED Episode #101 — Congressional UAP Champions on What Comes Next",
+        "relationshipType": "features_person",
+        "role": "host",
+        "context": "WEAPONIZED co-host"
+      },
+      {
+        "id": "2025-weaponized-episode-102",
+        "type": "podcast_episode",
+        "name": "WEAPONIZED Episode #102 — Jacques Vallée — The Bizarre Nature of UFOs",
+        "relationshipType": "features_person",
+        "role": "host",
+        "context": "WEAPONIZED co-host"
+      },
       {
         "id": "2026-weaponized-episode-115",
         "type": "podcast_episode",
@@ -6495,6 +7206,62 @@
         "id": "2025-weaponized-episode-92",
         "type": "podcast_episode",
         "name": "WEAPONIZED Episode #92 — The UAP Witness That Didn’t Testify — Congress Wanted You to Hear This",
+        "relationshipType": "features_person",
+        "role": "host",
+        "context": "WEAPONIZED co-host"
+      },
+      {
+        "id": "2025-weaponized-episode-93",
+        "type": "podcast_episode",
+        "name": "WEAPONIZED Episode #93 — Mystery Drones, Eglin’s Black Triangle, and Chris Sharp",
+        "relationshipType": "features_person",
+        "role": "host",
+        "context": "WEAPONIZED co-host"
+      },
+      {
+        "id": "2025-weaponized-episode-94",
+        "type": "podcast_episode",
+        "name": "WEAPONIZED Episode #94 — Is UFO Disclosure Dead?",
+        "relationshipType": "features_person",
+        "role": "host",
+        "context": "WEAPONIZED co-host"
+      },
+      {
+        "id": "2025-weaponized-episode-95",
+        "type": "podcast_episode",
+        "name": "WEAPONIZED Episode #95 — The Area 51 Crash Retrieval and Its Cover Story",
+        "relationshipType": "features_person",
+        "role": "host",
+        "context": "WEAPONIZED co-host"
+      },
+      {
+        "id": "2025-weaponized-episode-96",
+        "type": "podcast_episode",
+        "name": "WEAPONIZED Episode #96 — James Lacatski on AAWSAP, Kona Blue, and a Recovered Craft — Part 1",
+        "relationshipType": "features_person",
+        "role": "host",
+        "context": "WEAPONIZED co-host"
+      },
+      {
+        "id": "2025-weaponized-episode-97",
+        "type": "podcast_episode",
+        "name": "WEAPONIZED Episode #97 — James Lacatski on Disclosure, Hitchhikers, and the Tic Tac — Part 2",
+        "relationshipType": "features_person",
+        "role": "host",
+        "context": "WEAPONIZED co-host"
+      },
+      {
+        "id": "2025-weaponized-episode-98",
+        "type": "podcast_episode",
+        "name": "WEAPONIZED Episode #98 — Reassessing the James Lacatski Revelations",
+        "relationshipType": "features_person",
+        "role": "host",
+        "context": "WEAPONIZED co-host"
+      },
+      {
+        "id": "2025-weaponized-episode-99",
+        "type": "podcast_episode",
+        "name": "WEAPONIZED Episode #99 — Is This a Pivotal Moment for UFO Disclosure?",
         "relationshipType": "features_person",
         "role": "host",
         "context": "WEAPONIZED co-host"
@@ -6894,6 +7661,14 @@
         "context": ""
       },
       {
+        "id": "2025-weaponized-episode-101",
+        "type": "podcast_episode",
+        "name": "WEAPONIZED Episode #101 — Congressional UAP Champions on What Comes Next",
+        "relationshipType": "discussed_topic",
+        "role": "",
+        "context": ""
+      },
+      {
         "id": "2026-weaponized-episode-115",
         "type": "podcast_episode",
         "name": "WEAPONIZED Episode #115 — A New Chapter in the Bob Lazar Saga",
@@ -7161,6 +7936,22 @@
         "id": "2025-weaponized-episode-82",
         "type": "podcast_episode",
         "name": "WEAPONIZED Episode #82 — Disclosure, Drones, and Competition for Crash Materials",
+        "relationshipType": "discussed_topic",
+        "role": "",
+        "context": ""
+      },
+      {
+        "id": "2025-weaponized-episode-93",
+        "type": "podcast_episode",
+        "name": "WEAPONIZED Episode #93 — Mystery Drones, Eglin’s Black Triangle, and Chris Sharp",
+        "relationshipType": "discussed_topic",
+        "role": "",
+        "context": ""
+      },
+      {
+        "id": "2025-weaponized-episode-94",
+        "type": "podcast_episode",
+        "name": "WEAPONIZED Episode #94 — Is UFO Disclosure Dead?",
         "relationshipType": "discussed_topic",
         "role": "",
         "context": ""
@@ -7463,6 +8254,16 @@
         "context": ""
       }
     ],
+    "hitchhiker-effect": [
+      {
+        "id": "2025-weaponized-episode-97",
+        "type": "podcast_episode",
+        "name": "WEAPONIZED Episode #97 — James Lacatski on Disclosure, Hitchhikers, and the Tic Tac — Part 2",
+        "relationshipType": "discussed_topic",
+        "role": "",
+        "context": ""
+      }
+    ],
     "house-armed-services-committee": [
       {
         "id": "1966-04-05-house-ufo-hearing",
@@ -7747,6 +8548,14 @@
     ],
     "jacques-vallee": [
       {
+        "id": "2025-weaponized-episode-102",
+        "type": "podcast_episode",
+        "name": "WEAPONIZED Episode #102 — Jacques Vallée — The Bizarre Nature of UFOs",
+        "relationshipType": "features_person",
+        "role": "guest",
+        "context": "Featured episode participant"
+      },
+      {
         "id": "publication-1965-anatomy-of-a-phenomenon",
         "type": "publication",
         "name": "Anatomy of a Phenomenon",
@@ -7805,6 +8614,30 @@
         "relationshipType": "features_person",
         "role": "referenced_subject",
         "context": "Referenced past guest"
+      },
+      {
+        "id": "2025-weaponized-episode-96",
+        "type": "podcast_episode",
+        "name": "WEAPONIZED Episode #96 — James Lacatski on AAWSAP, Kona Blue, and a Recovered Craft — Part 1",
+        "relationshipType": "features_person",
+        "role": "guest",
+        "context": "Featured episode participant"
+      },
+      {
+        "id": "2025-weaponized-episode-97",
+        "type": "podcast_episode",
+        "name": "WEAPONIZED Episode #97 — James Lacatski on Disclosure, Hitchhikers, and the Tic Tac — Part 2",
+        "relationshipType": "features_person",
+        "role": "guest",
+        "context": "Featured episode participant"
+      },
+      {
+        "id": "2025-weaponized-episode-98",
+        "type": "podcast_episode",
+        "name": "WEAPONIZED Episode #98 — Reassessing the James Lacatski Revelations",
+        "relationshipType": "features_person",
+        "role": "subject",
+        "context": "Discussed in episode"
       }
     ],
     "jared-moskowitz": [],
@@ -7846,6 +8679,30 @@
         "relationshipType": "features_person",
         "role": "creator",
         "context": "Director and investigative filmmaker"
+      },
+      {
+        "id": "2025-weaponized-episode-100",
+        "type": "podcast_episode",
+        "name": "WEAPONIZED Episode #100 — Creatures From Another World? The UFO–Cryptid Connection",
+        "relationshipType": "features_person",
+        "role": "host",
+        "context": "WEAPONIZED co-host"
+      },
+      {
+        "id": "2025-weaponized-episode-101",
+        "type": "podcast_episode",
+        "name": "WEAPONIZED Episode #101 — Congressional UAP Champions on What Comes Next",
+        "relationshipType": "features_person",
+        "role": "host",
+        "context": "WEAPONIZED co-host"
+      },
+      {
+        "id": "2025-weaponized-episode-102",
+        "type": "podcast_episode",
+        "name": "WEAPONIZED Episode #102 — Jacques Vallée — The Bizarre Nature of UFOs",
+        "relationshipType": "features_person",
+        "role": "host",
+        "context": "WEAPONIZED co-host"
       },
       {
         "id": "2026-weaponized-episode-115",
@@ -8304,6 +9161,62 @@
         "context": "WEAPONIZED co-host"
       },
       {
+        "id": "2025-weaponized-episode-93",
+        "type": "podcast_episode",
+        "name": "WEAPONIZED Episode #93 — Mystery Drones, Eglin’s Black Triangle, and Chris Sharp",
+        "relationshipType": "features_person",
+        "role": "host",
+        "context": "WEAPONIZED co-host"
+      },
+      {
+        "id": "2025-weaponized-episode-94",
+        "type": "podcast_episode",
+        "name": "WEAPONIZED Episode #94 — Is UFO Disclosure Dead?",
+        "relationshipType": "features_person",
+        "role": "host",
+        "context": "WEAPONIZED co-host"
+      },
+      {
+        "id": "2025-weaponized-episode-95",
+        "type": "podcast_episode",
+        "name": "WEAPONIZED Episode #95 — The Area 51 Crash Retrieval and Its Cover Story",
+        "relationshipType": "features_person",
+        "role": "host",
+        "context": "WEAPONIZED co-host"
+      },
+      {
+        "id": "2025-weaponized-episode-96",
+        "type": "podcast_episode",
+        "name": "WEAPONIZED Episode #96 — James Lacatski on AAWSAP, Kona Blue, and a Recovered Craft — Part 1",
+        "relationshipType": "features_person",
+        "role": "host",
+        "context": "WEAPONIZED co-host"
+      },
+      {
+        "id": "2025-weaponized-episode-97",
+        "type": "podcast_episode",
+        "name": "WEAPONIZED Episode #97 — James Lacatski on Disclosure, Hitchhikers, and the Tic Tac — Part 2",
+        "relationshipType": "features_person",
+        "role": "host",
+        "context": "WEAPONIZED co-host"
+      },
+      {
+        "id": "2025-weaponized-episode-98",
+        "type": "podcast_episode",
+        "name": "WEAPONIZED Episode #98 — Reassessing the James Lacatski Revelations",
+        "relationshipType": "features_person",
+        "role": "host",
+        "context": "WEAPONIZED co-host"
+      },
+      {
+        "id": "2025-weaponized-episode-99",
+        "type": "podcast_episode",
+        "name": "WEAPONIZED Episode #99 — Is This a Pivotal Moment for UFO Disclosure?",
+        "relationshipType": "features_person",
+        "role": "host",
+        "context": "WEAPONIZED co-host"
+      },
+      {
         "id": "timeline-2018-12-04-bob-lazar-documentary-release",
         "type": "timeline_event",
         "name": "Bob Lazar: Area 51 & Flying Saucers Released",
@@ -8368,6 +9281,14 @@
         "id": "2025-weaponized-episode-85",
         "type": "podcast_episode",
         "name": "WEAPONIZED Episode #85 — Weaponized Silence — The UFO Disclosure Dilemma",
+        "relationshipType": "features_person",
+        "role": "guest",
+        "context": "Featured episode participant"
+      },
+      {
+        "id": "2025-weaponized-episode-99",
+        "type": "podcast_episode",
+        "name": "WEAPONIZED Episode #99 — Is This a Pivotal Moment for UFO Disclosure?",
         "relationshipType": "features_person",
         "role": "guest",
         "context": "Featured episode participant"
@@ -8497,6 +9418,16 @@
         "context": ""
       }
     ],
+    "kona-blue": [
+      {
+        "id": "2025-weaponized-episode-96",
+        "type": "podcast_episode",
+        "name": "WEAPONIZED Episode #96 — James Lacatski on AAWSAP, Kona Blue, and a Recovered Craft — Part 1",
+        "relationshipType": "discussed_topic",
+        "role": "",
+        "context": ""
+      }
+    ],
     "legacy-uap-programs": [
       {
         "id": "2025-weaponized-episode-87",
@@ -8573,6 +9504,14 @@
         "id": "2024-weaponized-episode-59",
         "type": "podcast_episode",
         "name": "WEAPONIZED Episode #59 — Journalists vs. Secrecy",
+        "relationshipType": "references_organization",
+        "role": "",
+        "context": ""
+      },
+      {
+        "id": "2025-weaponized-episode-93",
+        "type": "podcast_episode",
+        "name": "WEAPONIZED Episode #93 — Mystery Drones, Eglin’s Black Triangle, and Chris Sharp",
         "relationshipType": "references_organization",
         "role": "",
         "context": ""
@@ -8907,6 +9846,16 @@
         "context": "Featured episode participant"
       }
     ],
+    "media-coverage": [
+      {
+        "id": "2025-weaponized-episode-99",
+        "type": "podcast_episode",
+        "name": "WEAPONIZED Episode #99 — Is This a Pivotal Moment for UFO Disclosure?",
+        "relationshipType": "discussed_topic",
+        "role": "",
+        "context": ""
+      }
+    ],
     "merged-podcast": [
       {
         "id": "ryan-graves",
@@ -8981,6 +9930,16 @@
         "context": "Featured episode participant"
       }
     ],
+    "military-secrecy": [
+      {
+        "id": "2025-weaponized-episode-95",
+        "type": "podcast_episode",
+        "name": "WEAPONIZED Episode #95 — The Area 51 Crash Retrieval and Its Cover Story",
+        "relationshipType": "discussed_topic",
+        "role": "",
+        "context": ""
+      }
+    ],
     "military-uap-witnesses": [
       {
         "id": "2025-weaponized-episode-89",
@@ -9009,6 +9968,16 @@
         "context": ""
       }
     ],
+    "missing-411": [
+      {
+        "id": "2025-weaponized-episode-100",
+        "type": "podcast_episode",
+        "name": "WEAPONIZED Episode #100 — Creatures From Another World? The UFO–Cryptid Connection",
+        "relationshipType": "discussed_topic",
+        "role": "",
+        "context": ""
+      }
+    ],
     "mystery-drone-incursions": [
       {
         "id": "2024-weaponized-episode-63",
@@ -9030,6 +9999,16 @@
         "id": "2025-weaponized-episode-70",
         "type": "podcast_episode",
         "name": "WEAPONIZED Episode #70 — The Age of Disclosure and Media Coverage of UAP",
+        "relationshipType": "discussed_topic",
+        "role": "",
+        "context": ""
+      }
+    ],
+    "mystery-drones": [
+      {
+        "id": "2025-weaponized-episode-93",
+        "type": "podcast_episode",
+        "name": "WEAPONIZED Episode #93 — Mystery Drones, Eglin’s Black Triangle, and Chris Sharp",
         "relationshipType": "discussed_topic",
         "role": "",
         "context": ""
@@ -9199,6 +10178,22 @@
         "type": "person",
         "name": "John B. Alexander",
         "relationshipType": "affiliated_with",
+        "role": "",
+        "context": ""
+      },
+      {
+        "id": "2025-weaponized-episode-100",
+        "type": "podcast_episode",
+        "name": "WEAPONIZED Episode #100 — Creatures From Another World? The UFO–Cryptid Connection",
+        "relationshipType": "references_organization",
+        "role": "",
+        "context": ""
+      },
+      {
+        "id": "2025-weaponized-episode-102",
+        "type": "podcast_episode",
+        "name": "WEAPONIZED Episode #102 — Jacques Vallée — The Bizarre Nature of UFOs",
+        "relationshipType": "references_organization",
         "role": "",
         "context": ""
       },
@@ -9386,6 +10381,14 @@
         "type": "hearing",
         "name": "April 5, 1966 House UFO Hearing",
         "relationshipType": "held_by",
+        "role": "",
+        "context": ""
+      },
+      {
+        "id": "2025-weaponized-episode-102",
+        "type": "podcast_episode",
+        "name": "WEAPONIZED Episode #102 — Jacques Vallée — The Bizarre Nature of UFOs",
+        "relationshipType": "discussed_topic",
         "role": "",
         "context": ""
       }
@@ -9713,6 +10716,14 @@
         "relationshipType": "features_person",
         "role": "guest",
         "context": "Featured episode participant"
+      },
+      {
+        "id": "2025-weaponized-episode-99",
+        "type": "podcast_episode",
+        "name": "WEAPONIZED Episode #99 — Is This a Pivotal Moment for UFO Disclosure?",
+        "relationshipType": "features_person",
+        "role": "guest",
+        "context": "Featured episode participant"
       }
     ],
     "ryan-weigelt": [],
@@ -9828,6 +10839,16 @@
         "relationshipType": "timeline_connection",
         "role": "discussed",
         "context": "Primary alleged facility discussed"
+      }
+    ],
+    "sasquatch": [
+      {
+        "id": "2025-weaponized-episode-100",
+        "type": "podcast_episode",
+        "name": "WEAPONIZED Episode #100 — Creatures From Another World? The UFO–Cryptid Connection",
+        "relationshipType": "discussed_topic",
+        "role": "",
+        "context": ""
       }
     ],
     "scientific-investigation": [
@@ -10245,6 +11266,14 @@
         "context": ""
       },
       {
+        "id": "2025-weaponized-episode-100",
+        "type": "podcast_episode",
+        "name": "WEAPONIZED Episode #100 — Creatures From Another World? The UFO–Cryptid Connection",
+        "relationshipType": "discussed_topic",
+        "role": "",
+        "context": ""
+      },
+      {
         "id": "2023-weaponized-episode-45",
         "type": "podcast_episode",
         "name": "WEAPONIZED Episode #45 — John Alexander on Crash Retrievals, NIDS, and the Sol Conference",
@@ -10371,7 +11400,25 @@
         "context": "Discussed Colares investigation and files"
       }
     ],
+    "tic-tac-uap": [
+      {
+        "id": "2025-weaponized-episode-97",
+        "type": "podcast_episode",
+        "name": "WEAPONIZED Episode #97 — James Lacatski on Disclosure, Hitchhikers, and the Tic Tac — Part 2",
+        "relationshipType": "discussed_topic",
+        "role": "",
+        "context": ""
+      }
+    ],
     "tim-burchett": [
+      {
+        "id": "2025-weaponized-episode-101",
+        "type": "podcast_episode",
+        "name": "WEAPONIZED Episode #101 — Congressional UAP Champions on What Comes Next",
+        "relationshipType": "features_person",
+        "role": "guest",
+        "context": "Featured episode participant"
+      },
       {
         "id": "2024-weaponized-episode-52",
         "type": "podcast_episode",
@@ -10514,6 +11561,16 @@
     "timeline-2025-09-23-weaponized-episode-90": [],
     "timeline-2025-10-02-weaponized-episode-91": [],
     "timeline-2025-10-09-weaponized-episode-92": [],
+    "timeline-2025-10-15-weaponized-episode-93": [],
+    "timeline-2025-10-22-weaponized-episode-94": [],
+    "timeline-2025-10-31-weaponized-episode-95": [],
+    "timeline-2025-11-05-weaponized-episode-96": [],
+    "timeline-2025-11-11-weaponized-episode-97": [],
+    "timeline-2025-11-18-weaponized-episode-98": [],
+    "timeline-2025-11-26-weaponized-episode-99": [],
+    "timeline-2025-12-02-weaponized-episode-100": [],
+    "timeline-2025-12-16-weaponized-episode-101": [],
+    "timeline-2025-12-23-weaponized-episode-102": [],
     "timeline-2026-04-03-s4-bob-lazar-story-release": [],
     "timeline-2026-04-14-weaponized-episode-115": [],
     "to-the-stars-academy": [
@@ -10593,6 +11650,16 @@
       }
     ],
     "travis-taylor": [],
+    "trinity-ufo-case": [
+      {
+        "id": "2025-weaponized-episode-102",
+        "type": "podcast_episode",
+        "name": "WEAPONIZED Episode #102 — Jacques Vallée — The Bizarre Nature of UFOs",
+        "relationshipType": "discussed_topic",
+        "role": "",
+        "context": ""
+      }
+    ],
     "uap-caucus": [
       {
         "id": "lester-nare",
@@ -10697,9 +11764,49 @@
     ],
     "uap-disclosure": [
       {
+        "id": "2025-weaponized-episode-101",
+        "type": "podcast_episode",
+        "name": "WEAPONIZED Episode #101 — Congressional UAP Champions on What Comes Next",
+        "relationshipType": "discussed_topic",
+        "role": "",
+        "context": ""
+      },
+      {
         "id": "2025-weaponized-episode-85",
         "type": "podcast_episode",
         "name": "WEAPONIZED Episode #85 — Weaponized Silence — The UFO Disclosure Dilemma",
+        "relationshipType": "discussed_topic",
+        "role": "",
+        "context": ""
+      },
+      {
+        "id": "2025-weaponized-episode-94",
+        "type": "podcast_episode",
+        "name": "WEAPONIZED Episode #94 — Is UFO Disclosure Dead?",
+        "relationshipType": "discussed_topic",
+        "role": "",
+        "context": ""
+      },
+      {
+        "id": "2025-weaponized-episode-97",
+        "type": "podcast_episode",
+        "name": "WEAPONIZED Episode #97 — James Lacatski on Disclosure, Hitchhikers, and the Tic Tac — Part 2",
+        "relationshipType": "discussed_topic",
+        "role": "",
+        "context": ""
+      },
+      {
+        "id": "2025-weaponized-episode-98",
+        "type": "podcast_episode",
+        "name": "WEAPONIZED Episode #98 — Reassessing the James Lacatski Revelations",
+        "relationshipType": "discussed_topic",
+        "role": "",
+        "context": ""
+      },
+      {
+        "id": "2025-weaponized-episode-99",
+        "type": "podcast_episode",
+        "name": "WEAPONIZED Episode #99 — Is This a Pivotal Moment for UFO Disclosure?",
         "relationshipType": "discussed_topic",
         "role": "",
         "context": ""
@@ -11007,6 +12114,16 @@
         "context": ""
       }
     ],
+    "uap-science": [
+      {
+        "id": "2025-weaponized-episode-102",
+        "type": "podcast_episode",
+        "name": "WEAPONIZED Episode #102 — Jacques Vallée — The Bizarre Nature of UFOs",
+        "relationshipType": "discussed_topic",
+        "role": "",
+        "context": ""
+      }
+    ],
     "uap-task-force": [
       {
         "id": "2023-07-26-house-oversight-uap",
@@ -11055,6 +12172,16 @@
         "relationshipType": "timeline_connection",
         "role": "related_organization",
         "context": "Government UAP office supported during Nell’s Army assignment"
+      }
+    ],
+    "ufo-cryptid-connection": [
+      {
+        "id": "2025-weaponized-episode-100",
+        "type": "podcast_episode",
+        "name": "WEAPONIZED Episode #100 — Creatures From Another World? The UFO–Cryptid Connection",
+        "relationshipType": "discussed_topic",
+        "role": "",
+        "context": ""
       }
     ],
     "uk-military-airspace-incursions-2024": [
@@ -11249,6 +12376,14 @@
         "relationshipType": "references_organization",
         "role": "",
         "context": ""
+      },
+      {
+        "id": "2025-weaponized-episode-95",
+        "type": "podcast_episode",
+        "name": "WEAPONIZED Episode #95 — The Area 51 Crash Retrieval and Its Cover Story",
+        "relationshipType": "references_organization",
+        "role": "",
+        "context": ""
       }
     ],
     "united-states-army": [
@@ -11287,6 +12422,22 @@
     ],
     "united-states-congress": [
       {
+        "id": "2025-weaponized-episode-101",
+        "type": "podcast_episode",
+        "name": "WEAPONIZED Episode #101 — Congressional UAP Champions on What Comes Next",
+        "relationshipType": "references_organization",
+        "role": "",
+        "context": ""
+      },
+      {
+        "id": "2025-weaponized-episode-102",
+        "type": "podcast_episode",
+        "name": "WEAPONIZED Episode #102 — Jacques Vallée — The Bizarre Nature of UFOs",
+        "relationshipType": "references_organization",
+        "role": "",
+        "context": ""
+      },
+      {
         "id": "2025-weaponized-episode-84",
         "type": "podcast_episode",
         "name": "WEAPONIZED Episode #84 — False Prophets and Flying Objects — The Whistleblower Wave",
@@ -11322,6 +12473,22 @@
         "id": "2025-weaponized-episode-92",
         "type": "podcast_episode",
         "name": "WEAPONIZED Episode #92 — The UAP Witness That Didn’t Testify — Congress Wanted You to Hear This",
+        "relationshipType": "references_organization",
+        "role": "",
+        "context": ""
+      },
+      {
+        "id": "2025-weaponized-episode-94",
+        "type": "podcast_episode",
+        "name": "WEAPONIZED Episode #94 — Is UFO Disclosure Dead?",
+        "relationshipType": "references_organization",
+        "role": "",
+        "context": ""
+      },
+      {
+        "id": "2025-weaponized-episode-99",
+        "type": "podcast_episode",
+        "name": "WEAPONIZED Episode #99 — Is This a Pivotal Moment for UFO Disclosure?",
         "relationshipType": "references_organization",
         "role": "",
         "context": ""
@@ -11872,6 +13039,30 @@
         "context": ""
       },
       {
+        "id": "2025-weaponized-episode-100",
+        "type": "podcast_episode",
+        "name": "WEAPONIZED Episode #100 — Creatures From Another World? The UFO–Cryptid Connection",
+        "relationshipType": "episode_of",
+        "role": "",
+        "context": ""
+      },
+      {
+        "id": "2025-weaponized-episode-101",
+        "type": "podcast_episode",
+        "name": "WEAPONIZED Episode #101 — Congressional UAP Champions on What Comes Next",
+        "relationshipType": "episode_of",
+        "role": "",
+        "context": ""
+      },
+      {
+        "id": "2025-weaponized-episode-102",
+        "type": "podcast_episode",
+        "name": "WEAPONIZED Episode #102 — Jacques Vallée — The Bizarre Nature of UFOs",
+        "relationshipType": "episode_of",
+        "role": "",
+        "context": ""
+      },
+      {
         "id": "2026-weaponized-episode-115",
         "type": "podcast_episode",
         "name": "WEAPONIZED Episode #115 — A New Chapter in the Bob Lazar Saga",
@@ -12328,6 +13519,62 @@
         "context": ""
       },
       {
+        "id": "2025-weaponized-episode-93",
+        "type": "podcast_episode",
+        "name": "WEAPONIZED Episode #93 — Mystery Drones, Eglin’s Black Triangle, and Chris Sharp",
+        "relationshipType": "episode_of",
+        "role": "",
+        "context": ""
+      },
+      {
+        "id": "2025-weaponized-episode-94",
+        "type": "podcast_episode",
+        "name": "WEAPONIZED Episode #94 — Is UFO Disclosure Dead?",
+        "relationshipType": "episode_of",
+        "role": "",
+        "context": ""
+      },
+      {
+        "id": "2025-weaponized-episode-95",
+        "type": "podcast_episode",
+        "name": "WEAPONIZED Episode #95 — The Area 51 Crash Retrieval and Its Cover Story",
+        "relationshipType": "episode_of",
+        "role": "",
+        "context": ""
+      },
+      {
+        "id": "2025-weaponized-episode-96",
+        "type": "podcast_episode",
+        "name": "WEAPONIZED Episode #96 — James Lacatski on AAWSAP, Kona Blue, and a Recovered Craft — Part 1",
+        "relationshipType": "episode_of",
+        "role": "",
+        "context": ""
+      },
+      {
+        "id": "2025-weaponized-episode-97",
+        "type": "podcast_episode",
+        "name": "WEAPONIZED Episode #97 — James Lacatski on Disclosure, Hitchhikers, and the Tic Tac — Part 2",
+        "relationshipType": "episode_of",
+        "role": "",
+        "context": ""
+      },
+      {
+        "id": "2025-weaponized-episode-98",
+        "type": "podcast_episode",
+        "name": "WEAPONIZED Episode #98 — Reassessing the James Lacatski Revelations",
+        "relationshipType": "episode_of",
+        "role": "",
+        "context": ""
+      },
+      {
+        "id": "2025-weaponized-episode-99",
+        "type": "podcast_episode",
+        "name": "WEAPONIZED Episode #99 — Is This a Pivotal Moment for UFO Disclosure?",
+        "relationshipType": "episode_of",
+        "role": "",
+        "context": ""
+      },
+      {
         "id": "timeline-2024-01-08-jellyfish-uap-reporting",
         "type": "timeline_event",
         "name": "Corbell and Knapp Publish the Jellyfish UAP Footage",
@@ -12732,10 +13979,10 @@
         "score": 55
       },
       {
-        "id": "2025-weaponized-episode-82",
-        "name": "WEAPONIZED Episode #82 — Disclosure, Drones, and Competition for Crash Materials",
+        "id": "2025-weaponized-episode-101",
+        "name": "WEAPONIZED Episode #101 — Congressional UAP Champions on What Comes Next",
         "seriesId": "weaponized-podcast",
-        "date": "2025-07-11",
+        "date": "2025-12-16",
         "sharedEntityIds": [
           "congressional-oversight",
           "george-knapp",
@@ -12894,23 +14141,23 @@
         "score": 35
       },
       {
-        "id": "2025-weaponized-episode-82",
-        "name": "WEAPONIZED Episode #82 — Disclosure, Drones, and Competition for Crash Materials",
+        "id": "2025-weaponized-episode-102",
+        "name": "WEAPONIZED Episode #102 — Jacques Vallée — The Bizarre Nature of UFOs",
         "seriesId": "weaponized-podcast",
-        "date": "2025-07-11",
+        "date": "2025-12-23",
         "sharedEntityIds": [
           "george-knapp",
-          "government-transparency",
-          "jeremy-corbell"
+          "jeremy-corbell",
+          "national-institute-for-discovery-science"
         ],
         "sharedEntityCount": 3,
         "score": 35
       },
       {
-        "id": "2025-weaponized-episode-81",
-        "name": "WEAPONIZED Episode #81 — The Full Mosul Orb Video",
+        "id": "2025-weaponized-episode-101",
+        "name": "WEAPONIZED Episode #101 — Congressional UAP Champions on What Comes Next",
         "seriesId": "weaponized-podcast",
-        "date": "2025-07-01",
+        "date": "2025-12-16",
         "sharedEntityIds": [
           "george-knapp",
           "government-transparency",
@@ -12921,6 +14168,21 @@
       }
     ],
     "2023-weaponized-episode-44": [
+      {
+        "id": "2025-weaponized-episode-93",
+        "name": "WEAPONIZED Episode #93 — Mystery Drones, Eglin’s Black Triangle, and Chris Sharp",
+        "seriesId": "weaponized-podcast",
+        "date": "2025-10-15",
+        "sharedEntityIds": [
+          "chris-sharp",
+          "george-knapp",
+          "government-transparency",
+          "jeremy-corbell",
+          "liberation-times"
+        ],
+        "sharedEntityCount": 5,
+        "score": 55
+      },
       {
         "id": "2025-weaponized-episode-82",
         "name": "WEAPONIZED Episode #82 — Disclosure, Drones, and Competition for Crash Materials",
@@ -12967,10 +14229,10 @@
         "score": 55
       },
       {
-        "id": "2025-weaponized-episode-77",
-        "name": "WEAPONIZED Episode #77 — UAP Briefings, Immaculate Constellation, and the Jellyfish Debate",
+        "id": "2025-weaponized-episode-101",
+        "name": "WEAPONIZED Episode #101 — Congressional UAP Champions on What Comes Next",
         "seriesId": "weaponized-podcast",
-        "date": "2025-05-20",
+        "date": "2025-12-16",
         "sharedEntityIds": [
           "congressional-oversight",
           "george-knapp",
@@ -12981,24 +14243,10 @@
         "score": 45
       },
       {
-        "id": "weaponized-matthew-brown-part-3",
-        "name": "WEAPONIZED Episode #76 — Matthew Brown Part 3: Immaculate Constellation",
+        "id": "2025-weaponized-episode-94",
+        "name": "WEAPONIZED Episode #94 — Is UFO Disclosure Dead?",
         "seriesId": "weaponized-podcast",
-        "date": "2025-05-13",
-        "sharedEntityIds": [
-          "congressional-oversight",
-          "george-knapp",
-          "government-transparency",
-          "jeremy-corbell"
-        ],
-        "sharedEntityCount": 4,
-        "score": 45
-      },
-      {
-        "id": "weaponized-matthew-brown-part-2",
-        "name": "WEAPONIZED Episode #75 — Matthew Brown Part 2: Immaculate Constellation",
-        "seriesId": "weaponized-podcast",
-        "date": "2025-05-06",
+        "date": "2025-10-22",
         "sharedEntityIds": [
           "congressional-oversight",
           "george-knapp",
@@ -13025,6 +14273,20 @@
         ],
         "sharedEntityCount": 6,
         "score": 65
+      },
+      {
+        "id": "2025-weaponized-episode-100",
+        "name": "WEAPONIZED Episode #100 — Creatures From Another World? The UFO–Cryptid Connection",
+        "seriesId": "weaponized-podcast",
+        "date": "2025-12-02",
+        "sharedEntityIds": [
+          "george-knapp",
+          "jeremy-corbell",
+          "national-institute-for-discovery-science",
+          "skinwalker-ranch"
+        ],
+        "sharedEntityCount": 4,
+        "score": 45
       },
       {
         "id": "2025-weaponized-episode-87",
@@ -13073,19 +14335,6 @@
         "name": "WEAPONIZED Episode #115 — A New Chapter in the Bob Lazar Saga",
         "seriesId": "weaponized-podcast",
         "date": "2026-04-14",
-        "sharedEntityIds": [
-          "george-knapp",
-          "government-transparency",
-          "jeremy-corbell"
-        ],
-        "sharedEntityCount": 3,
-        "score": 35
-      },
-      {
-        "id": "2025-weaponized-episode-82",
-        "name": "WEAPONIZED Episode #82 — Disclosure, Drones, and Competition for Crash Materials",
-        "seriesId": "weaponized-podcast",
-        "date": "2025-07-11",
         "sharedEntityIds": [
           "george-knapp",
           "government-transparency",
@@ -13486,6 +14735,34 @@
         "score": 55
       },
       {
+        "id": "2025-weaponized-episode-101",
+        "name": "WEAPONIZED Episode #101 — Congressional UAP Champions on What Comes Next",
+        "seriesId": "weaponized-podcast",
+        "date": "2025-12-16",
+        "sharedEntityIds": [
+          "congressional-oversight",
+          "george-knapp",
+          "government-transparency",
+          "jeremy-corbell"
+        ],
+        "sharedEntityCount": 4,
+        "score": 45
+      },
+      {
+        "id": "2025-weaponized-episode-94",
+        "name": "WEAPONIZED Episode #94 — Is UFO Disclosure Dead?",
+        "seriesId": "weaponized-podcast",
+        "date": "2025-10-22",
+        "sharedEntityIds": [
+          "congressional-oversight",
+          "george-knapp",
+          "government-transparency",
+          "jeremy-corbell"
+        ],
+        "sharedEntityCount": 4,
+        "score": 45
+      },
+      {
         "id": "2025-weaponized-episode-84",
         "name": "WEAPONIZED Episode #84 — False Prophets and Flying Objects — The Whistleblower Wave",
         "seriesId": "weaponized-podcast",
@@ -13494,34 +14771,6 @@
           "congressional-oversight",
           "department-of-defense",
           "george-knapp",
-          "jeremy-corbell"
-        ],
-        "sharedEntityCount": 4,
-        "score": 45
-      },
-      {
-        "id": "2025-weaponized-episode-79",
-        "name": "WEAPONIZED Episode #79 — The Large Disc UAP Video",
-        "seriesId": "weaponized-podcast",
-        "date": "2025-06-17",
-        "sharedEntityIds": [
-          "department-of-defense",
-          "george-knapp",
-          "government-transparency",
-          "jeremy-corbell"
-        ],
-        "sharedEntityCount": 4,
-        "score": 45
-      },
-      {
-        "id": "2025-weaponized-episode-77",
-        "name": "WEAPONIZED Episode #77 — UAP Briefings, Immaculate Constellation, and the Jellyfish Debate",
-        "seriesId": "weaponized-podcast",
-        "date": "2025-05-20",
-        "sharedEntityIds": [
-          "congressional-oversight",
-          "george-knapp",
-          "government-transparency",
           "jeremy-corbell"
         ],
         "sharedEntityCount": 4,
@@ -13542,10 +14791,10 @@
         "score": 25
       },
       {
-        "id": "2025-weaponized-episode-92",
-        "name": "WEAPONIZED Episode #92 — The UAP Witness That Didn’t Testify — Congress Wanted You to Hear This",
+        "id": "2025-weaponized-episode-102",
+        "name": "WEAPONIZED Episode #102 — Jacques Vallée — The Bizarre Nature of UFOs",
         "seriesId": "weaponized-podcast",
-        "date": "2025-10-09",
+        "date": "2025-12-23",
         "sharedEntityIds": [
           "george-knapp",
           "jeremy-corbell"
@@ -13554,10 +14803,10 @@
         "score": 25
       },
       {
-        "id": "2025-weaponized-episode-91",
-        "name": "WEAPONIZED Episode #91 — Dylan Borland Unloads — The Truth About Legacy UFO Programs: Part 2",
+        "id": "2025-weaponized-episode-101",
+        "name": "WEAPONIZED Episode #101 — Congressional UAP Champions on What Comes Next",
         "seriesId": "weaponized-podcast",
-        "date": "2025-10-02",
+        "date": "2025-12-16",
         "sharedEntityIds": [
           "george-knapp",
           "jeremy-corbell"
@@ -13566,10 +14815,10 @@
         "score": 25
       },
       {
-        "id": "2025-weaponized-episode-90",
-        "name": "WEAPONIZED Episode #90 — The Reluctant UFO Whistleblower — Dylan Borland Tells All: Part 1",
+        "id": "2025-weaponized-episode-100",
+        "name": "WEAPONIZED Episode #100 — Creatures From Another World? The UFO–Cryptid Connection",
         "seriesId": "weaponized-podcast",
-        "date": "2025-09-23",
+        "date": "2025-12-02",
         "sharedEntityIds": [
           "george-knapp",
           "jeremy-corbell"
@@ -13578,10 +14827,10 @@
         "score": 25
       },
       {
-        "id": "2025-weaponized-episode-89",
-        "name": "WEAPONIZED Episode #89 — The 2025 UAP Hearing — Did It Move the Needle?",
+        "id": "2025-weaponized-episode-99",
+        "name": "WEAPONIZED Episode #99 — Is This a Pivotal Moment for UFO Disclosure?",
         "seriesId": "weaponized-podcast",
-        "date": "2025-09-16",
+        "date": "2025-11-26",
         "sharedEntityIds": [
           "george-knapp",
           "jeremy-corbell"
@@ -13590,10 +14839,10 @@
         "score": 25
       },
       {
-        "id": "2025-weaponized-episode-88",
-        "name": "WEAPONIZED Episode #88 — Injured by UFOs — The Case-by-Case Medical Evidence",
+        "id": "2025-weaponized-episode-98",
+        "name": "WEAPONIZED Episode #98 — Reassessing the James Lacatski Revelations",
         "seriesId": "weaponized-podcast",
-        "date": "2025-09-02",
+        "date": "2025-11-18",
         "sharedEntityIds": [
           "george-knapp",
           "jeremy-corbell"
@@ -13634,6 +14883,21 @@
         ],
         "sharedEntityCount": 6,
         "score": 65
+      },
+      {
+        "id": "2025-weaponized-episode-101",
+        "name": "WEAPONIZED Episode #101 — Congressional UAP Champions on What Comes Next",
+        "seriesId": "weaponized-podcast",
+        "date": "2025-12-16",
+        "sharedEntityIds": [
+          "congressional-oversight",
+          "george-knapp",
+          "government-transparency",
+          "jeremy-corbell",
+          "tim-burchett"
+        ],
+        "sharedEntityCount": 5,
+        "score": 55
       },
       {
         "id": "2025-weaponized-episode-77",
@@ -13679,20 +14943,6 @@
         ],
         "sharedEntityCount": 5,
         "score": 55
-      },
-      {
-        "id": "2025-weaponized-episode-85",
-        "name": "WEAPONIZED Episode #85 — Weaponized Silence — The UFO Disclosure Dilemma",
-        "seriesId": "weaponized-podcast",
-        "date": "2025-08-12",
-        "sharedEntityIds": [
-          "congressional-oversight",
-          "george-knapp",
-          "jeremy-corbell",
-          "joe-murgia"
-        ],
-        "sharedEntityCount": 4,
-        "score": 45
       }
     ],
     "2024-weaponized-episode-53": [
@@ -13832,23 +15082,10 @@
         "score": 35
       },
       {
-        "id": "2025-weaponized-episode-84",
-        "name": "WEAPONIZED Episode #84 — False Prophets and Flying Objects — The Whistleblower Wave",
+        "id": "2025-weaponized-episode-101",
+        "name": "WEAPONIZED Episode #101 — Congressional UAP Champions on What Comes Next",
         "seriesId": "weaponized-podcast",
-        "date": "2025-08-05",
-        "sharedEntityIds": [
-          "dustin-slaughter",
-          "george-knapp",
-          "jeremy-corbell"
-        ],
-        "sharedEntityCount": 3,
-        "score": 35
-      },
-      {
-        "id": "2025-weaponized-episode-82",
-        "name": "WEAPONIZED Episode #82 — Disclosure, Drones, and Competition for Crash Materials",
-        "seriesId": "weaponized-podcast",
-        "date": "2025-07-11",
+        "date": "2025-12-16",
         "sharedEntityIds": [
           "george-knapp",
           "government-transparency",
@@ -13858,10 +15095,23 @@
         "score": 35
       },
       {
-        "id": "2025-weaponized-episode-79",
-        "name": "WEAPONIZED Episode #79 — The Large Disc UAP Video",
+        "id": "2025-weaponized-episode-94",
+        "name": "WEAPONIZED Episode #94 — Is UFO Disclosure Dead?",
         "seriesId": "weaponized-podcast",
-        "date": "2025-06-17",
+        "date": "2025-10-22",
+        "sharedEntityIds": [
+          "george-knapp",
+          "government-transparency",
+          "jeremy-corbell"
+        ],
+        "sharedEntityCount": 3,
+        "score": 35
+      },
+      {
+        "id": "2025-weaponized-episode-93",
+        "name": "WEAPONIZED Episode #93 — Mystery Drones, Eglin’s Black Triangle, and Chris Sharp",
+        "seriesId": "weaponized-podcast",
+        "date": "2025-10-15",
         "sharedEntityIds": [
           "george-knapp",
           "government-transparency",
@@ -14128,6 +15378,34 @@
     ],
     "2024-weaponized-episode-58": [
       {
+        "id": "2025-weaponized-episode-101",
+        "name": "WEAPONIZED Episode #101 — Congressional UAP Champions on What Comes Next",
+        "seriesId": "weaponized-podcast",
+        "date": "2025-12-16",
+        "sharedEntityIds": [
+          "congressional-oversight",
+          "george-knapp",
+          "government-transparency",
+          "jeremy-corbell"
+        ],
+        "sharedEntityCount": 4,
+        "score": 45
+      },
+      {
+        "id": "2025-weaponized-episode-94",
+        "name": "WEAPONIZED Episode #94 — Is UFO Disclosure Dead?",
+        "seriesId": "weaponized-podcast",
+        "date": "2025-10-22",
+        "sharedEntityIds": [
+          "congressional-oversight",
+          "george-knapp",
+          "government-transparency",
+          "jeremy-corbell"
+        ],
+        "sharedEntityCount": 4,
+        "score": 45
+      },
+      {
         "id": "2025-weaponized-episode-82",
         "name": "WEAPONIZED Episode #82 — Disclosure, Drones, and Competition for Crash Materials",
         "seriesId": "weaponized-podcast",
@@ -14182,37 +15460,24 @@
         ],
         "sharedEntityCount": 4,
         "score": 45
-      },
-      {
-        "id": "weaponized-matthew-brown-part-1",
-        "name": "WEAPONIZED Episode #74 — Matthew Brown Part 1: Immaculate Constellation",
-        "seriesId": "weaponized-podcast",
-        "date": "2025-04-29",
-        "sharedEntityIds": [
-          "congressional-oversight",
-          "george-knapp",
-          "government-transparency",
-          "jeremy-corbell"
-        ],
-        "sharedEntityCount": 4,
-        "score": 45
-      },
-      {
-        "id": "2024-weaponized-episode-64",
-        "name": "WEAPONIZED Episode #64 — The 2024 UAP Year in Review",
-        "seriesId": "weaponized-podcast",
-        "date": "2024-12-31",
-        "sharedEntityIds": [
-          "congressional-oversight",
-          "george-knapp",
-          "government-transparency",
-          "jeremy-corbell"
-        ],
-        "sharedEntityCount": 4,
-        "score": 45
       }
     ],
     "2024-weaponized-episode-59": [
+      {
+        "id": "2025-weaponized-episode-93",
+        "name": "WEAPONIZED Episode #93 — Mystery Drones, Eglin’s Black Triangle, and Chris Sharp",
+        "seriesId": "weaponized-podcast",
+        "date": "2025-10-15",
+        "sharedEntityIds": [
+          "chris-sharp",
+          "george-knapp",
+          "government-transparency",
+          "jeremy-corbell",
+          "liberation-times"
+        ],
+        "sharedEntityCount": 5,
+        "score": 55
+      },
       {
         "id": "2023-weaponized-episode-44",
         "name": "WEAPONIZED Episode #44 — The Fight Over the UAP Disclosure Act",
@@ -14256,23 +15521,10 @@
         "score": 35
       },
       {
-        "id": "2025-weaponized-episode-84",
-        "name": "WEAPONIZED Episode #84 — False Prophets and Flying Objects — The Whistleblower Wave",
+        "id": "2025-weaponized-episode-101",
+        "name": "WEAPONIZED Episode #101 — Congressional UAP Champions on What Comes Next",
         "seriesId": "weaponized-podcast",
-        "date": "2025-08-05",
-        "sharedEntityIds": [
-          "george-knapp",
-          "jeremy-corbell",
-          "matt-laslo"
-        ],
-        "sharedEntityCount": 3,
-        "score": 35
-      },
-      {
-        "id": "2025-weaponized-episode-82",
-        "name": "WEAPONIZED Episode #82 — Disclosure, Drones, and Competition for Crash Materials",
-        "seriesId": "weaponized-podcast",
-        "date": "2025-07-11",
+        "date": "2025-12-16",
         "sharedEntityIds": [
           "george-knapp",
           "government-transparency",
@@ -14282,10 +15534,10 @@
         "score": 35
       },
       {
-        "id": "2025-weaponized-episode-81",
-        "name": "WEAPONIZED Episode #81 — The Full Mosul Orb Video",
+        "id": "2025-weaponized-episode-94",
+        "name": "WEAPONIZED Episode #94 — Is UFO Disclosure Dead?",
         "seriesId": "weaponized-podcast",
-        "date": "2025-07-01",
+        "date": "2025-10-22",
         "sharedEntityIds": [
           "george-knapp",
           "government-transparency",
@@ -14309,10 +15561,10 @@
         "score": 25
       },
       {
-        "id": "2025-weaponized-episode-92",
-        "name": "WEAPONIZED Episode #92 — The UAP Witness That Didn’t Testify — Congress Wanted You to Hear This",
+        "id": "2025-weaponized-episode-102",
+        "name": "WEAPONIZED Episode #102 — Jacques Vallée — The Bizarre Nature of UFOs",
         "seriesId": "weaponized-podcast",
-        "date": "2025-10-09",
+        "date": "2025-12-23",
         "sharedEntityIds": [
           "george-knapp",
           "jeremy-corbell"
@@ -14321,10 +15573,10 @@
         "score": 25
       },
       {
-        "id": "2025-weaponized-episode-91",
-        "name": "WEAPONIZED Episode #91 — Dylan Borland Unloads — The Truth About Legacy UFO Programs: Part 2",
+        "id": "2025-weaponized-episode-101",
+        "name": "WEAPONIZED Episode #101 — Congressional UAP Champions on What Comes Next",
         "seriesId": "weaponized-podcast",
-        "date": "2025-10-02",
+        "date": "2025-12-16",
         "sharedEntityIds": [
           "george-knapp",
           "jeremy-corbell"
@@ -14333,10 +15585,10 @@
         "score": 25
       },
       {
-        "id": "2025-weaponized-episode-90",
-        "name": "WEAPONIZED Episode #90 — The Reluctant UFO Whistleblower — Dylan Borland Tells All: Part 1",
+        "id": "2025-weaponized-episode-100",
+        "name": "WEAPONIZED Episode #100 — Creatures From Another World? The UFO–Cryptid Connection",
         "seriesId": "weaponized-podcast",
-        "date": "2025-09-23",
+        "date": "2025-12-02",
         "sharedEntityIds": [
           "george-knapp",
           "jeremy-corbell"
@@ -14345,10 +15597,10 @@
         "score": 25
       },
       {
-        "id": "2025-weaponized-episode-89",
-        "name": "WEAPONIZED Episode #89 — The 2025 UAP Hearing — Did It Move the Needle?",
+        "id": "2025-weaponized-episode-99",
+        "name": "WEAPONIZED Episode #99 — Is This a Pivotal Moment for UFO Disclosure?",
         "seriesId": "weaponized-podcast",
-        "date": "2025-09-16",
+        "date": "2025-11-26",
         "sharedEntityIds": [
           "george-knapp",
           "jeremy-corbell"
@@ -14357,10 +15609,10 @@
         "score": 25
       },
       {
-        "id": "2025-weaponized-episode-88",
-        "name": "WEAPONIZED Episode #88 — Injured by UFOs — The Case-by-Case Medical Evidence",
+        "id": "2025-weaponized-episode-98",
+        "name": "WEAPONIZED Episode #98 — Reassessing the James Lacatski Revelations",
         "seriesId": "weaponized-podcast",
-        "date": "2025-09-02",
+        "date": "2025-11-18",
         "sharedEntityIds": [
           "george-knapp",
           "jeremy-corbell"
@@ -14466,6 +15718,19 @@
         "score": 45
       },
       {
+        "id": "2025-weaponized-episode-93",
+        "name": "WEAPONIZED Episode #93 — Mystery Drones, Eglin’s Black Triangle, and Chris Sharp",
+        "seriesId": "weaponized-podcast",
+        "date": "2025-10-15",
+        "sharedEntityIds": [
+          "chris-sharp",
+          "george-knapp",
+          "jeremy-corbell"
+        ],
+        "sharedEntityCount": 3,
+        "score": 35
+      },
+      {
         "id": "2025-weaponized-episode-73",
         "name": "WEAPONIZED Episode #73 — USS Jackson Eyewitness Alex Wiggins",
         "seriesId": "weaponized-podcast",
@@ -14509,19 +15774,6 @@
         "name": "WEAPONIZED Episode #59 — Journalists vs. Secrecy",
         "seriesId": "weaponized-podcast",
         "date": "2024-10-01",
-        "sharedEntityIds": [
-          "chris-sharp",
-          "george-knapp",
-          "jeremy-corbell"
-        ],
-        "sharedEntityCount": 3,
-        "score": 35
-      },
-      {
-        "id": "2023-weaponized-episode-44",
-        "name": "WEAPONIZED Episode #44 — The Fight Over the UAP Disclosure Act",
-        "seriesId": "weaponized-podcast",
-        "date": "2023-12-11",
         "sharedEntityIds": [
           "chris-sharp",
           "george-knapp",
@@ -14646,6 +15898,21 @@
         "score": 65
       },
       {
+        "id": "2025-weaponized-episode-99",
+        "name": "WEAPONIZED Episode #99 — Is This a Pivotal Moment for UFO Disclosure?",
+        "seriesId": "weaponized-podcast",
+        "date": "2025-11-26",
+        "sharedEntityIds": [
+          "danny-silva",
+          "george-knapp",
+          "jeremy-corbell",
+          "joe-murgia",
+          "ryan-robbins"
+        ],
+        "sharedEntityCount": 5,
+        "score": 55
+      },
+      {
         "id": "2025-weaponized-episode-82",
         "name": "WEAPONIZED Episode #82 — Disclosure, Drones, and Competition for Crash Materials",
         "seriesId": "weaponized-podcast",
@@ -14689,21 +15956,257 @@
         ],
         "sharedEntityCount": 5,
         "score": 55
+      }
+    ],
+    "2025-weaponized-episode-100": [
+      {
+        "id": "2023-weaponized-episode-45",
+        "name": "WEAPONIZED Episode #45 — John Alexander on Crash Retrievals, NIDS, and the Sol Conference",
+        "seriesId": "weaponized-podcast",
+        "date": "2023-12-18",
+        "sharedEntityIds": [
+          "george-knapp",
+          "jeremy-corbell",
+          "national-institute-for-discovery-science",
+          "skinwalker-ranch"
+        ],
+        "sharedEntityCount": 4,
+        "score": 45
       },
       {
-        "id": "2024-weaponized-episode-55",
-        "name": "WEAPONIZED Episode #55 — AARO, Congressional Oversight, and the Kirkpatrick Interview",
+        "id": "2025-weaponized-episode-102",
+        "name": "WEAPONIZED Episode #102 — Jacques Vallée — The Bizarre Nature of UFOs",
         "seriesId": "weaponized-podcast",
-        "date": "2024-07-23",
+        "date": "2025-12-23",
         "sharedEntityIds": [
-          "aaro",
+          "george-knapp",
+          "jeremy-corbell",
+          "national-institute-for-discovery-science"
+        ],
+        "sharedEntityCount": 3,
+        "score": 35
+      },
+      {
+        "id": "2025-weaponized-episode-87",
+        "name": "WEAPONIZED Episode #87 — Alien Bodies and Technology — The Lost Tapes of UFO Whistleblower Col. Corso",
+        "seriesId": "weaponized-podcast",
+        "date": "2025-08-26",
+        "sharedEntityIds": [
+          "george-knapp",
+          "jeremy-corbell",
+          "national-institute-for-discovery-science"
+        ],
+        "sharedEntityCount": 3,
+        "score": 35
+      },
+      {
+        "id": "2023-weaponized-episode-43",
+        "name": "WEAPONIZED Episode #43 — The Unreleased Philip Corso Tapes",
+        "seriesId": "weaponized-podcast",
+        "date": "2023-12-04",
+        "sharedEntityIds": [
+          "george-knapp",
+          "jeremy-corbell",
+          "national-institute-for-discovery-science"
+        ],
+        "sharedEntityCount": 3,
+        "score": 35
+      },
+      {
+        "id": "2026-weaponized-episode-115",
+        "name": "WEAPONIZED Episode #115 — A New Chapter in the Bob Lazar Saga",
+        "seriesId": "weaponized-podcast",
+        "date": "2026-04-14",
+        "sharedEntityIds": [
+          "george-knapp",
+          "jeremy-corbell"
+        ],
+        "sharedEntityCount": 2,
+        "score": 25
+      },
+      {
+        "id": "2025-weaponized-episode-101",
+        "name": "WEAPONIZED Episode #101 — Congressional UAP Champions on What Comes Next",
+        "seriesId": "weaponized-podcast",
+        "date": "2025-12-16",
+        "sharedEntityIds": [
+          "george-knapp",
+          "jeremy-corbell"
+        ],
+        "sharedEntityCount": 2,
+        "score": 25
+      }
+    ],
+    "2025-weaponized-episode-101": [
+      {
+        "id": "2025-weaponized-episode-94",
+        "name": "WEAPONIZED Episode #94 — Is UFO Disclosure Dead?",
+        "seriesId": "weaponized-podcast",
+        "date": "2025-10-22",
+        "sharedEntityIds": [
           "congressional-oversight",
           "george-knapp",
           "government-transparency",
-          "jeremy-corbell"
+          "jeremy-corbell",
+          "uap-disclosure",
+          "united-states-congress"
+        ],
+        "sharedEntityCount": 6,
+        "score": 65
+      },
+      {
+        "id": "2025-weaponized-episode-85",
+        "name": "WEAPONIZED Episode #85 — Weaponized Silence — The UFO Disclosure Dilemma",
+        "seriesId": "weaponized-podcast",
+        "date": "2025-08-12",
+        "sharedEntityIds": [
+          "congressional-oversight",
+          "george-knapp",
+          "jeremy-corbell",
+          "uap-disclosure",
+          "united-states-congress"
         ],
         "sharedEntityCount": 5,
         "score": 55
+      },
+      {
+        "id": "2024-weaponized-episode-52",
+        "name": "WEAPONIZED Episode #52 — Season Finale and AARO Historical Report Review",
+        "seriesId": "weaponized-podcast",
+        "date": "2024-03-13",
+        "sharedEntityIds": [
+          "congressional-oversight",
+          "george-knapp",
+          "government-transparency",
+          "jeremy-corbell",
+          "tim-burchett"
+        ],
+        "sharedEntityCount": 5,
+        "score": 55
+      },
+      {
+        "id": "2025-weaponized-episode-99",
+        "name": "WEAPONIZED Episode #99 — Is This a Pivotal Moment for UFO Disclosure?",
+        "seriesId": "weaponized-podcast",
+        "date": "2025-11-26",
+        "sharedEntityIds": [
+          "george-knapp",
+          "jeremy-corbell",
+          "uap-disclosure",
+          "united-states-congress"
+        ],
+        "sharedEntityCount": 4,
+        "score": 45
+      },
+      {
+        "id": "2025-weaponized-episode-92",
+        "name": "WEAPONIZED Episode #92 — The UAP Witness That Didn’t Testify — Congress Wanted You to Hear This",
+        "seriesId": "weaponized-podcast",
+        "date": "2025-10-09",
+        "sharedEntityIds": [
+          "congressional-oversight",
+          "george-knapp",
+          "jeremy-corbell",
+          "united-states-congress"
+        ],
+        "sharedEntityCount": 4,
+        "score": 45
+      },
+      {
+        "id": "2025-weaponized-episode-89",
+        "name": "WEAPONIZED Episode #89 — The 2025 UAP Hearing — Did It Move the Needle?",
+        "seriesId": "weaponized-podcast",
+        "date": "2025-09-16",
+        "sharedEntityIds": [
+          "congressional-oversight",
+          "george-knapp",
+          "jeremy-corbell",
+          "united-states-congress"
+        ],
+        "sharedEntityCount": 4,
+        "score": 45
+      }
+    ],
+    "2025-weaponized-episode-102": [
+      {
+        "id": "2025-weaponized-episode-99",
+        "name": "WEAPONIZED Episode #99 — Is This a Pivotal Moment for UFO Disclosure?",
+        "seriesId": "weaponized-podcast",
+        "date": "2025-11-26",
+        "sharedEntityIds": [
+          "aawsap",
+          "george-knapp",
+          "jeremy-corbell",
+          "united-states-congress"
+        ],
+        "sharedEntityCount": 4,
+        "score": 45
+      },
+      {
+        "id": "2025-weaponized-episode-96",
+        "name": "WEAPONIZED Episode #96 — James Lacatski on AAWSAP, Kona Blue, and a Recovered Craft — Part 1",
+        "seriesId": "weaponized-podcast",
+        "date": "2025-11-05",
+        "sharedEntityIds": [
+          "aawsap",
+          "crash-retrievals",
+          "george-knapp",
+          "jeremy-corbell"
+        ],
+        "sharedEntityCount": 4,
+        "score": 45
+      },
+      {
+        "id": "2025-weaponized-episode-101",
+        "name": "WEAPONIZED Episode #101 — Congressional UAP Champions on What Comes Next",
+        "seriesId": "weaponized-podcast",
+        "date": "2025-12-16",
+        "sharedEntityIds": [
+          "george-knapp",
+          "jeremy-corbell",
+          "united-states-congress"
+        ],
+        "sharedEntityCount": 3,
+        "score": 35
+      },
+      {
+        "id": "2025-weaponized-episode-100",
+        "name": "WEAPONIZED Episode #100 — Creatures From Another World? The UFO–Cryptid Connection",
+        "seriesId": "weaponized-podcast",
+        "date": "2025-12-02",
+        "sharedEntityIds": [
+          "george-knapp",
+          "jeremy-corbell",
+          "national-institute-for-discovery-science"
+        ],
+        "sharedEntityCount": 3,
+        "score": 35
+      },
+      {
+        "id": "2025-weaponized-episode-98",
+        "name": "WEAPONIZED Episode #98 — Reassessing the James Lacatski Revelations",
+        "seriesId": "weaponized-podcast",
+        "date": "2025-11-18",
+        "sharedEntityIds": [
+          "aawsap",
+          "george-knapp",
+          "jeremy-corbell"
+        ],
+        "sharedEntityCount": 3,
+        "score": 35
+      },
+      {
+        "id": "2025-weaponized-episode-97",
+        "name": "WEAPONIZED Episode #97 — James Lacatski on Disclosure, Hitchhikers, and the Tic Tac — Part 2",
+        "seriesId": "weaponized-podcast",
+        "date": "2025-11-11",
+        "sharedEntityIds": [
+          "aawsap",
+          "george-knapp",
+          "jeremy-corbell"
+        ],
+        "sharedEntityCount": 3,
+        "score": 35
       }
     ],
     "2025-weaponized-episode-65": [
@@ -14836,10 +16339,23 @@
         "score": 45
       },
       {
-        "id": "2025-weaponized-episode-88",
-        "name": "WEAPONIZED Episode #88 — Injured by UFOs — The Case-by-Case Medical Evidence",
+        "id": "2025-weaponized-episode-101",
+        "name": "WEAPONIZED Episode #101 — Congressional UAP Champions on What Comes Next",
         "seriesId": "weaponized-podcast",
-        "date": "2025-09-02",
+        "date": "2025-12-16",
+        "sharedEntityIds": [
+          "george-knapp",
+          "government-transparency",
+          "jeremy-corbell"
+        ],
+        "sharedEntityCount": 3,
+        "score": 35
+      },
+      {
+        "id": "2025-weaponized-episode-98",
+        "name": "WEAPONIZED Episode #98 — Reassessing the James Lacatski Revelations",
+        "seriesId": "weaponized-podcast",
+        "date": "2025-11-18",
         "sharedEntityIds": [
           "defense-intelligence-agency",
           "george-knapp",
@@ -14849,26 +16365,13 @@
         "score": 35
       },
       {
-        "id": "2025-weaponized-episode-86",
-        "name": "WEAPONIZED Episode #86 — Threats, Intimidation, Prosecution — The Daunting Risks for UFO Whistleblowers",
+        "id": "2025-weaponized-episode-97",
+        "name": "WEAPONIZED Episode #97 — James Lacatski on Disclosure, Hitchhikers, and the Tic Tac — Part 2",
         "seriesId": "weaponized-podcast",
-        "date": "2025-08-19",
+        "date": "2025-11-11",
         "sharedEntityIds": [
+          "defense-intelligence-agency",
           "george-knapp",
-          "jeremy-corbell",
-          "mike-gold"
-        ],
-        "sharedEntityCount": 3,
-        "score": 35
-      },
-      {
-        "id": "2025-weaponized-episode-82",
-        "name": "WEAPONIZED Episode #82 — Disclosure, Drones, and Competition for Crash Materials",
-        "seriesId": "weaponized-podcast",
-        "date": "2025-07-11",
-        "sharedEntityIds": [
-          "george-knapp",
-          "government-transparency",
           "jeremy-corbell"
         ],
         "sharedEntityCount": 3,
@@ -15072,49 +16575,49 @@
         "score": 35
       },
       {
+        "id": "2025-weaponized-episode-101",
+        "name": "WEAPONIZED Episode #101 — Congressional UAP Champions on What Comes Next",
+        "seriesId": "weaponized-podcast",
+        "date": "2025-12-16",
+        "sharedEntityIds": [
+          "george-knapp",
+          "government-transparency",
+          "jeremy-corbell"
+        ],
+        "sharedEntityCount": 3,
+        "score": 35
+      },
+      {
+        "id": "2025-weaponized-episode-94",
+        "name": "WEAPONIZED Episode #94 — Is UFO Disclosure Dead?",
+        "seriesId": "weaponized-podcast",
+        "date": "2025-10-22",
+        "sharedEntityIds": [
+          "george-knapp",
+          "government-transparency",
+          "jeremy-corbell"
+        ],
+        "sharedEntityCount": 3,
+        "score": 35
+      },
+      {
+        "id": "2025-weaponized-episode-93",
+        "name": "WEAPONIZED Episode #93 — Mystery Drones, Eglin’s Black Triangle, and Chris Sharp",
+        "seriesId": "weaponized-podcast",
+        "date": "2025-10-15",
+        "sharedEntityIds": [
+          "george-knapp",
+          "government-transparency",
+          "jeremy-corbell"
+        ],
+        "sharedEntityCount": 3,
+        "score": 35
+      },
+      {
         "id": "2025-weaponized-episode-82",
         "name": "WEAPONIZED Episode #82 — Disclosure, Drones, and Competition for Crash Materials",
         "seriesId": "weaponized-podcast",
         "date": "2025-07-11",
-        "sharedEntityIds": [
-          "george-knapp",
-          "government-transparency",
-          "jeremy-corbell"
-        ],
-        "sharedEntityCount": 3,
-        "score": 35
-      },
-      {
-        "id": "2025-weaponized-episode-81",
-        "name": "WEAPONIZED Episode #81 — The Full Mosul Orb Video",
-        "seriesId": "weaponized-podcast",
-        "date": "2025-07-01",
-        "sharedEntityIds": [
-          "george-knapp",
-          "government-transparency",
-          "jeremy-corbell"
-        ],
-        "sharedEntityCount": 3,
-        "score": 35
-      },
-      {
-        "id": "2025-weaponized-episode-79",
-        "name": "WEAPONIZED Episode #79 — The Large Disc UAP Video",
-        "seriesId": "weaponized-podcast",
-        "date": "2025-06-17",
-        "sharedEntityIds": [
-          "george-knapp",
-          "government-transparency",
-          "jeremy-corbell"
-        ],
-        "sharedEntityCount": 3,
-        "score": 35
-      },
-      {
-        "id": "2025-weaponized-episode-78",
-        "name": "WEAPONIZED Episode #78 — Sean Kirkpatrick, AARO, and UFO Politics",
-        "seriesId": "weaponized-podcast",
-        "date": "2025-06-09",
         "sharedEntityIds": [
           "george-knapp",
           "government-transparency",
@@ -15226,10 +16729,23 @@
         "score": 35
       },
       {
-        "id": "2025-weaponized-episode-90",
-        "name": "WEAPONIZED Episode #90 — The Reluctant UFO Whistleblower — Dylan Borland Tells All: Part 1",
+        "id": "2025-weaponized-episode-101",
+        "name": "WEAPONIZED Episode #101 — Congressional UAP Champions on What Comes Next",
         "seriesId": "weaponized-podcast",
-        "date": "2025-09-23",
+        "date": "2025-12-16",
+        "sharedEntityIds": [
+          "george-knapp",
+          "government-transparency",
+          "jeremy-corbell"
+        ],
+        "sharedEntityCount": 3,
+        "score": 35
+      },
+      {
+        "id": "2025-weaponized-episode-95",
+        "name": "WEAPONIZED Episode #95 — The Area 51 Crash Retrieval and Its Cover Story",
+        "seriesId": "weaponized-podcast",
+        "date": "2025-10-31",
         "sharedEntityIds": [
           "george-knapp",
           "jeremy-corbell",
@@ -15239,23 +16755,10 @@
         "score": 35
       },
       {
-        "id": "2025-weaponized-episode-89",
-        "name": "WEAPONIZED Episode #89 — The 2025 UAP Hearing — Did It Move the Needle?",
+        "id": "2025-weaponized-episode-94",
+        "name": "WEAPONIZED Episode #94 — Is UFO Disclosure Dead?",
         "seriesId": "weaponized-podcast",
-        "date": "2025-09-16",
-        "sharedEntityIds": [
-          "george-knapp",
-          "jeff-nuccetelli",
-          "jeremy-corbell"
-        ],
-        "sharedEntityCount": 3,
-        "score": 35
-      },
-      {
-        "id": "2025-weaponized-episode-82",
-        "name": "WEAPONIZED Episode #82 — Disclosure, Drones, and Competition for Crash Materials",
-        "seriesId": "weaponized-podcast",
-        "date": "2025-07-11",
+        "date": "2025-10-22",
         "sharedEntityIds": [
           "george-knapp",
           "government-transparency",
@@ -15265,10 +16768,10 @@
         "score": 35
       },
       {
-        "id": "2025-weaponized-episode-81",
-        "name": "WEAPONIZED Episode #81 — The Full Mosul Orb Video",
+        "id": "2025-weaponized-episode-93",
+        "name": "WEAPONIZED Episode #93 — Mystery Drones, Eglin’s Black Triangle, and Chris Sharp",
         "seriesId": "weaponized-podcast",
-        "date": "2025-07-01",
+        "date": "2025-10-15",
         "sharedEntityIds": [
           "george-knapp",
           "government-transparency",
@@ -15278,14 +16781,14 @@
         "score": 35
       },
       {
-        "id": "2025-weaponized-episode-79",
-        "name": "WEAPONIZED Episode #79 — The Large Disc UAP Video",
+        "id": "2025-weaponized-episode-90",
+        "name": "WEAPONIZED Episode #90 — The Reluctant UFO Whistleblower — Dylan Borland Tells All: Part 1",
         "seriesId": "weaponized-podcast",
-        "date": "2025-06-17",
+        "date": "2025-09-23",
         "sharedEntityIds": [
           "george-knapp",
-          "government-transparency",
-          "jeremy-corbell"
+          "jeremy-corbell",
+          "united-states-air-force"
         ],
         "sharedEntityCount": 3,
         "score": 35
@@ -15352,10 +16855,10 @@
         "score": 45
       },
       {
-        "id": "2025-weaponized-episode-80",
-        "name": "WEAPONIZED Episode #80 — UFOs, Nuclear Weapons, and the Wall Street Journal",
+        "id": "2025-weaponized-episode-98",
+        "name": "WEAPONIZED Episode #98 — Reassessing the James Lacatski Revelations",
         "seriesId": "weaponized-podcast",
-        "date": "2025-06-24",
+        "date": "2025-11-18",
         "sharedEntityIds": [
           "aaro",
           "george-knapp",
@@ -15365,10 +16868,10 @@
         "score": 35
       },
       {
-        "id": "2025-weaponized-episode-78",
-        "name": "WEAPONIZED Episode #78 — Sean Kirkpatrick, AARO, and UFO Politics",
+        "id": "2025-weaponized-episode-96",
+        "name": "WEAPONIZED Episode #96 — James Lacatski on AAWSAP, Kona Blue, and a Recovered Craft — Part 1",
         "seriesId": "weaponized-podcast",
-        "date": "2025-06-09",
+        "date": "2025-11-05",
         "sharedEntityIds": [
           "aaro",
           "george-knapp",
@@ -16085,12 +17588,12 @@
         "score": 45
       },
       {
-        "id": "2025-weaponized-episode-90",
-        "name": "WEAPONIZED Episode #90 — The Reluctant UFO Whistleblower — Dylan Borland Tells All: Part 1",
+        "id": "2025-weaponized-episode-98",
+        "name": "WEAPONIZED Episode #98 — Reassessing the James Lacatski Revelations",
         "seriesId": "weaponized-podcast",
-        "date": "2025-09-23",
+        "date": "2025-11-18",
         "sharedEntityIds": [
-          "federal-bureau-of-investigation",
+          "aaro",
           "george-knapp",
           "jeremy-corbell"
         ],
@@ -16098,14 +17601,14 @@
         "score": 35
       },
       {
-        "id": "2025-weaponized-episode-89",
-        "name": "WEAPONIZED Episode #89 — The 2025 UAP Hearing — Did It Move the Needle?",
+        "id": "2025-weaponized-episode-96",
+        "name": "WEAPONIZED Episode #96 — James Lacatski on AAWSAP, Kona Blue, and a Recovered Craft — Part 1",
         "seriesId": "weaponized-podcast",
-        "date": "2025-09-16",
+        "date": "2025-11-05",
         "sharedEntityIds": [
+          "aaro",
           "george-knapp",
-          "jeremy-corbell",
-          "marik-von-rennenkampff"
+          "jeremy-corbell"
         ],
         "sharedEntityCount": 3,
         "score": 35
@@ -16244,6 +17747,34 @@
         "score": 55
       },
       {
+        "id": "2025-weaponized-episode-101",
+        "name": "WEAPONIZED Episode #101 — Congressional UAP Champions on What Comes Next",
+        "seriesId": "weaponized-podcast",
+        "date": "2025-12-16",
+        "sharedEntityIds": [
+          "congressional-oversight",
+          "george-knapp",
+          "government-transparency",
+          "jeremy-corbell"
+        ],
+        "sharedEntityCount": 4,
+        "score": 45
+      },
+      {
+        "id": "2025-weaponized-episode-94",
+        "name": "WEAPONIZED Episode #94 — Is UFO Disclosure Dead?",
+        "seriesId": "weaponized-podcast",
+        "date": "2025-10-22",
+        "sharedEntityIds": [
+          "congressional-oversight",
+          "george-knapp",
+          "government-transparency",
+          "jeremy-corbell"
+        ],
+        "sharedEntityCount": 4,
+        "score": 45
+      },
+      {
         "id": "2025-weaponized-episode-84",
         "name": "WEAPONIZED Episode #84 — False Prophets and Flying Objects — The Whistleblower Wave",
         "seriesId": "weaponized-podcast",
@@ -16252,34 +17783,6 @@
           "congressional-oversight",
           "department-of-defense",
           "george-knapp",
-          "jeremy-corbell"
-        ],
-        "sharedEntityCount": 4,
-        "score": 45
-      },
-      {
-        "id": "2025-weaponized-episode-79",
-        "name": "WEAPONIZED Episode #79 — The Large Disc UAP Video",
-        "seriesId": "weaponized-podcast",
-        "date": "2025-06-17",
-        "sharedEntityIds": [
-          "department-of-defense",
-          "george-knapp",
-          "government-transparency",
-          "jeremy-corbell"
-        ],
-        "sharedEntityCount": 4,
-        "score": 45
-      },
-      {
-        "id": "2025-weaponized-episode-77",
-        "name": "WEAPONIZED Episode #77 — UAP Briefings, Immaculate Constellation, and the Jellyfish Debate",
-        "seriesId": "weaponized-podcast",
-        "date": "2025-05-20",
-        "sharedEntityIds": [
-          "congressional-oversight",
-          "george-knapp",
-          "government-transparency",
           "jeremy-corbell"
         ],
         "sharedEntityCount": 4,
@@ -16398,6 +17901,34 @@
         "score": 55
       },
       {
+        "id": "2025-weaponized-episode-101",
+        "name": "WEAPONIZED Episode #101 — Congressional UAP Champions on What Comes Next",
+        "seriesId": "weaponized-podcast",
+        "date": "2025-12-16",
+        "sharedEntityIds": [
+          "congressional-oversight",
+          "george-knapp",
+          "jeremy-corbell",
+          "united-states-congress"
+        ],
+        "sharedEntityCount": 4,
+        "score": 45
+      },
+      {
+        "id": "2025-weaponized-episode-94",
+        "name": "WEAPONIZED Episode #94 — Is UFO Disclosure Dead?",
+        "seriesId": "weaponized-podcast",
+        "date": "2025-10-22",
+        "sharedEntityIds": [
+          "congressional-oversight",
+          "george-knapp",
+          "jeremy-corbell",
+          "united-states-congress"
+        ],
+        "sharedEntityCount": 4,
+        "score": 45
+      },
+      {
         "id": "2025-weaponized-episode-92",
         "name": "WEAPONIZED Episode #92 — The UAP Witness That Didn’t Testify — Congress Wanted You to Hear This",
         "seriesId": "weaponized-podcast",
@@ -16424,37 +17955,26 @@
         ],
         "sharedEntityCount": 4,
         "score": 45
-      },
-      {
-        "id": "2025-weaponized-episode-85",
-        "name": "WEAPONIZED Episode #85 — Weaponized Silence — The UFO Disclosure Dilemma",
-        "seriesId": "weaponized-podcast",
-        "date": "2025-08-12",
-        "sharedEntityIds": [
-          "congressional-oversight",
-          "george-knapp",
-          "jeremy-corbell",
-          "united-states-congress"
-        ],
-        "sharedEntityCount": 4,
-        "score": 45
-      },
-      {
-        "id": "2025-weaponized-episode-82",
-        "name": "WEAPONIZED Episode #82 — Disclosure, Drones, and Competition for Crash Materials",
-        "seriesId": "weaponized-podcast",
-        "date": "2025-07-11",
-        "sharedEntityIds": [
-          "congressional-oversight",
-          "department-of-defense",
-          "george-knapp",
-          "jeremy-corbell"
-        ],
-        "sharedEntityCount": 4,
-        "score": 45
       }
     ],
     "2025-weaponized-episode-85": [
+      {
+        "id": "2025-weaponized-episode-99",
+        "name": "WEAPONIZED Episode #99 — Is This a Pivotal Moment for UFO Disclosure?",
+        "seriesId": "weaponized-podcast",
+        "date": "2025-11-26",
+        "sharedEntityIds": [
+          "danny-silva",
+          "george-knapp",
+          "jeremy-corbell",
+          "joe-murgia",
+          "ryan-robbins",
+          "uap-disclosure",
+          "united-states-congress"
+        ],
+        "sharedEntityCount": 7,
+        "score": 75
+      },
       {
         "id": "2024-weaponized-episode-64",
         "name": "WEAPONIZED Episode #64 — The 2024 UAP Year in Review",
@@ -16470,6 +17990,36 @@
         ],
         "sharedEntityCount": 6,
         "score": 65
+      },
+      {
+        "id": "2025-weaponized-episode-101",
+        "name": "WEAPONIZED Episode #101 — Congressional UAP Champions on What Comes Next",
+        "seriesId": "weaponized-podcast",
+        "date": "2025-12-16",
+        "sharedEntityIds": [
+          "congressional-oversight",
+          "george-knapp",
+          "jeremy-corbell",
+          "uap-disclosure",
+          "united-states-congress"
+        ],
+        "sharedEntityCount": 5,
+        "score": 55
+      },
+      {
+        "id": "2025-weaponized-episode-94",
+        "name": "WEAPONIZED Episode #94 — Is UFO Disclosure Dead?",
+        "seriesId": "weaponized-podcast",
+        "date": "2025-10-22",
+        "sharedEntityIds": [
+          "congressional-oversight",
+          "george-knapp",
+          "jeremy-corbell",
+          "uap-disclosure",
+          "united-states-congress"
+        ],
+        "sharedEntityCount": 5,
+        "score": 55
       },
       {
         "id": "2025-weaponized-episode-92",
@@ -16495,48 +18045,6 @@
           "george-knapp",
           "jeremy-corbell",
           "united-states-congress"
-        ],
-        "sharedEntityCount": 4,
-        "score": 45
-      },
-      {
-        "id": "2025-weaponized-episode-86",
-        "name": "WEAPONIZED Episode #86 — Threats, Intimidation, Prosecution — The Daunting Risks for UFO Whistleblowers",
-        "seriesId": "weaponized-podcast",
-        "date": "2025-08-19",
-        "sharedEntityIds": [
-          "congressional-oversight",
-          "george-knapp",
-          "jeremy-corbell",
-          "united-states-congress"
-        ],
-        "sharedEntityCount": 4,
-        "score": 45
-      },
-      {
-        "id": "2025-weaponized-episode-84",
-        "name": "WEAPONIZED Episode #84 — False Prophets and Flying Objects — The Whistleblower Wave",
-        "seriesId": "weaponized-podcast",
-        "date": "2025-08-05",
-        "sharedEntityIds": [
-          "congressional-oversight",
-          "george-knapp",
-          "jeremy-corbell",
-          "united-states-congress"
-        ],
-        "sharedEntityCount": 4,
-        "score": 45
-      },
-      {
-        "id": "2024-weaponized-episode-52",
-        "name": "WEAPONIZED Episode #52 — Season Finale and AARO Historical Report Review",
-        "seriesId": "weaponized-podcast",
-        "date": "2024-03-13",
-        "sharedEntityIds": [
-          "congressional-oversight",
-          "george-knapp",
-          "jeremy-corbell",
-          "joe-murgia"
         ],
         "sharedEntityCount": 4,
         "score": 45
@@ -16574,6 +18082,34 @@
         "score": 55
       },
       {
+        "id": "2025-weaponized-episode-101",
+        "name": "WEAPONIZED Episode #101 — Congressional UAP Champions on What Comes Next",
+        "seriesId": "weaponized-podcast",
+        "date": "2025-12-16",
+        "sharedEntityIds": [
+          "congressional-oversight",
+          "george-knapp",
+          "jeremy-corbell",
+          "united-states-congress"
+        ],
+        "sharedEntityCount": 4,
+        "score": 45
+      },
+      {
+        "id": "2025-weaponized-episode-94",
+        "name": "WEAPONIZED Episode #94 — Is UFO Disclosure Dead?",
+        "seriesId": "weaponized-podcast",
+        "date": "2025-10-22",
+        "sharedEntityIds": [
+          "congressional-oversight",
+          "george-knapp",
+          "jeremy-corbell",
+          "united-states-congress"
+        ],
+        "sharedEntityCount": 4,
+        "score": 45
+      },
+      {
         "id": "2025-weaponized-episode-92",
         "name": "WEAPONIZED Episode #92 — The UAP Witness That Didn’t Testify — Congress Wanted You to Hear This",
         "seriesId": "weaponized-podcast",
@@ -16600,32 +18136,6 @@
         ],
         "sharedEntityCount": 4,
         "score": 45
-      },
-      {
-        "id": "2025-weaponized-episode-91",
-        "name": "WEAPONIZED Episode #91 — Dylan Borland Unloads — The Truth About Legacy UFO Programs: Part 2",
-        "seriesId": "weaponized-podcast",
-        "date": "2025-10-02",
-        "sharedEntityIds": [
-          "george-knapp",
-          "jeremy-corbell",
-          "whistleblower-retaliation"
-        ],
-        "sharedEntityCount": 3,
-        "score": 35
-      },
-      {
-        "id": "2025-weaponized-episode-90",
-        "name": "WEAPONIZED Episode #90 — The Reluctant UFO Whistleblower — Dylan Borland Tells All: Part 1",
-        "seriesId": "weaponized-podcast",
-        "date": "2025-09-23",
-        "sharedEntityIds": [
-          "george-knapp",
-          "jeremy-corbell",
-          "whistleblower-retaliation"
-        ],
-        "sharedEntityCount": 3,
-        "score": 35
       }
     ],
     "2025-weaponized-episode-87": [
@@ -16659,6 +18169,32 @@
         "score": 45
       },
       {
+        "id": "2025-weaponized-episode-102",
+        "name": "WEAPONIZED Episode #102 — Jacques Vallée — The Bizarre Nature of UFOs",
+        "seriesId": "weaponized-podcast",
+        "date": "2025-12-23",
+        "sharedEntityIds": [
+          "george-knapp",
+          "jeremy-corbell",
+          "national-institute-for-discovery-science"
+        ],
+        "sharedEntityCount": 3,
+        "score": 35
+      },
+      {
+        "id": "2025-weaponized-episode-100",
+        "name": "WEAPONIZED Episode #100 — Creatures From Another World? The UFO–Cryptid Connection",
+        "seriesId": "weaponized-podcast",
+        "date": "2025-12-02",
+        "sharedEntityIds": [
+          "george-knapp",
+          "jeremy-corbell",
+          "national-institute-for-discovery-science"
+        ],
+        "sharedEntityCount": 3,
+        "score": 35
+      },
+      {
         "id": "2025-weaponized-episode-91",
         "name": "WEAPONIZED Episode #91 — Dylan Borland Unloads — The Truth About Legacy UFO Programs: Part 2",
         "seriesId": "weaponized-podcast",
@@ -16683,33 +18219,77 @@
         ],
         "sharedEntityCount": 3,
         "score": 35
-      },
-      {
-        "id": "2026-weaponized-episode-115",
-        "name": "WEAPONIZED Episode #115 — A New Chapter in the Bob Lazar Saga",
-        "seriesId": "weaponized-podcast",
-        "date": "2026-04-14",
-        "sharedEntityIds": [
-          "george-knapp",
-          "jeremy-corbell"
-        ],
-        "sharedEntityCount": 2,
-        "score": 25
-      },
-      {
-        "id": "2025-weaponized-episode-92",
-        "name": "WEAPONIZED Episode #92 — The UAP Witness That Didn’t Testify — Congress Wanted You to Hear This",
-        "seriesId": "weaponized-podcast",
-        "date": "2025-10-09",
-        "sharedEntityIds": [
-          "george-knapp",
-          "jeremy-corbell"
-        ],
-        "sharedEntityCount": 2,
-        "score": 25
       }
     ],
     "2025-weaponized-episode-88": [
+      {
+        "id": "2025-weaponized-episode-98",
+        "name": "WEAPONIZED Episode #98 — Reassessing the James Lacatski Revelations",
+        "seriesId": "weaponized-podcast",
+        "date": "2025-11-18",
+        "sharedEntityIds": [
+          "aawsap",
+          "defense-intelligence-agency",
+          "george-knapp",
+          "jeremy-corbell"
+        ],
+        "sharedEntityCount": 4,
+        "score": 45
+      },
+      {
+        "id": "2025-weaponized-episode-97",
+        "name": "WEAPONIZED Episode #97 — James Lacatski on Disclosure, Hitchhikers, and the Tic Tac — Part 2",
+        "seriesId": "weaponized-podcast",
+        "date": "2025-11-11",
+        "sharedEntityIds": [
+          "aawsap",
+          "defense-intelligence-agency",
+          "george-knapp",
+          "jeremy-corbell"
+        ],
+        "sharedEntityCount": 4,
+        "score": 45
+      },
+      {
+        "id": "2025-weaponized-episode-96",
+        "name": "WEAPONIZED Episode #96 — James Lacatski on AAWSAP, Kona Blue, and a Recovered Craft — Part 1",
+        "seriesId": "weaponized-podcast",
+        "date": "2025-11-05",
+        "sharedEntityIds": [
+          "aawsap",
+          "defense-intelligence-agency",
+          "george-knapp",
+          "jeremy-corbell"
+        ],
+        "sharedEntityCount": 4,
+        "score": 45
+      },
+      {
+        "id": "2025-weaponized-episode-102",
+        "name": "WEAPONIZED Episode #102 — Jacques Vallée — The Bizarre Nature of UFOs",
+        "seriesId": "weaponized-podcast",
+        "date": "2025-12-23",
+        "sharedEntityIds": [
+          "aawsap",
+          "george-knapp",
+          "jeremy-corbell"
+        ],
+        "sharedEntityCount": 3,
+        "score": 35
+      },
+      {
+        "id": "2025-weaponized-episode-99",
+        "name": "WEAPONIZED Episode #99 — Is This a Pivotal Moment for UFO Disclosure?",
+        "seriesId": "weaponized-podcast",
+        "date": "2025-11-26",
+        "sharedEntityIds": [
+          "aawsap",
+          "george-knapp",
+          "jeremy-corbell"
+        ],
+        "sharedEntityCount": 3,
+        "score": 35
+      },
       {
         "id": "2025-weaponized-episode-66",
         "name": "WEAPONIZED Episode #66 — Mike Gold on NASA, UAP, and Space Research",
@@ -16722,66 +18302,6 @@
         ],
         "sharedEntityCount": 3,
         "score": 35
-      },
-      {
-        "id": "2026-weaponized-episode-115",
-        "name": "WEAPONIZED Episode #115 — A New Chapter in the Bob Lazar Saga",
-        "seriesId": "weaponized-podcast",
-        "date": "2026-04-14",
-        "sharedEntityIds": [
-          "george-knapp",
-          "jeremy-corbell"
-        ],
-        "sharedEntityCount": 2,
-        "score": 25
-      },
-      {
-        "id": "2025-weaponized-episode-92",
-        "name": "WEAPONIZED Episode #92 — The UAP Witness That Didn’t Testify — Congress Wanted You to Hear This",
-        "seriesId": "weaponized-podcast",
-        "date": "2025-10-09",
-        "sharedEntityIds": [
-          "george-knapp",
-          "jeremy-corbell"
-        ],
-        "sharedEntityCount": 2,
-        "score": 25
-      },
-      {
-        "id": "2025-weaponized-episode-91",
-        "name": "WEAPONIZED Episode #91 — Dylan Borland Unloads — The Truth About Legacy UFO Programs: Part 2",
-        "seriesId": "weaponized-podcast",
-        "date": "2025-10-02",
-        "sharedEntityIds": [
-          "george-knapp",
-          "jeremy-corbell"
-        ],
-        "sharedEntityCount": 2,
-        "score": 25
-      },
-      {
-        "id": "2025-weaponized-episode-90",
-        "name": "WEAPONIZED Episode #90 — The Reluctant UFO Whistleblower — Dylan Borland Tells All: Part 1",
-        "seriesId": "weaponized-podcast",
-        "date": "2025-09-23",
-        "sharedEntityIds": [
-          "george-knapp",
-          "jeremy-corbell"
-        ],
-        "sharedEntityCount": 2,
-        "score": 25
-      },
-      {
-        "id": "2025-weaponized-episode-89",
-        "name": "WEAPONIZED Episode #89 — The 2025 UAP Hearing — Did It Move the Needle?",
-        "seriesId": "weaponized-podcast",
-        "date": "2025-09-16",
-        "sharedEntityIds": [
-          "george-knapp",
-          "jeremy-corbell"
-        ],
-        "sharedEntityCount": 2,
-        "score": 25
       }
     ],
     "2025-weaponized-episode-89": [
@@ -16831,6 +18351,34 @@
         "score": 55
       },
       {
+        "id": "2025-weaponized-episode-101",
+        "name": "WEAPONIZED Episode #101 — Congressional UAP Champions on What Comes Next",
+        "seriesId": "weaponized-podcast",
+        "date": "2025-12-16",
+        "sharedEntityIds": [
+          "congressional-oversight",
+          "george-knapp",
+          "jeremy-corbell",
+          "united-states-congress"
+        ],
+        "sharedEntityCount": 4,
+        "score": 45
+      },
+      {
+        "id": "2025-weaponized-episode-94",
+        "name": "WEAPONIZED Episode #94 — Is UFO Disclosure Dead?",
+        "seriesId": "weaponized-podcast",
+        "date": "2025-10-22",
+        "sharedEntityIds": [
+          "congressional-oversight",
+          "george-knapp",
+          "jeremy-corbell",
+          "united-states-congress"
+        ],
+        "sharedEntityCount": 4,
+        "score": 45
+      },
+      {
         "id": "2025-weaponized-episode-91",
         "name": "WEAPONIZED Episode #91 — Dylan Borland Unloads — The Truth About Legacy UFO Programs: Part 2",
         "seriesId": "weaponized-podcast",
@@ -16840,34 +18388,6 @@
           "george-knapp",
           "jeremy-corbell",
           "whistleblower-retaliation"
-        ],
-        "sharedEntityCount": 4,
-        "score": 45
-      },
-      {
-        "id": "2025-weaponized-episode-90",
-        "name": "WEAPONIZED Episode #90 — The Reluctant UFO Whistleblower — Dylan Borland Tells All: Part 1",
-        "seriesId": "weaponized-podcast",
-        "date": "2025-09-23",
-        "sharedEntityIds": [
-          "dylan-borland",
-          "george-knapp",
-          "jeremy-corbell",
-          "whistleblower-retaliation"
-        ],
-        "sharedEntityCount": 4,
-        "score": 45
-      },
-      {
-        "id": "2025-weaponized-episode-85",
-        "name": "WEAPONIZED Episode #85 — Weaponized Silence — The UFO Disclosure Dilemma",
-        "seriesId": "weaponized-podcast",
-        "date": "2025-08-12",
-        "sharedEntityIds": [
-          "congressional-oversight",
-          "george-knapp",
-          "jeremy-corbell",
-          "united-states-congress"
         ],
         "sharedEntityCount": 4,
         "score": 45
@@ -16905,6 +18425,19 @@
         "score": 45
       },
       {
+        "id": "2025-weaponized-episode-95",
+        "name": "WEAPONIZED Episode #95 — The Area 51 Crash Retrieval and Its Cover Story",
+        "seriesId": "weaponized-podcast",
+        "date": "2025-10-31",
+        "sharedEntityIds": [
+          "george-knapp",
+          "jeremy-corbell",
+          "united-states-air-force"
+        ],
+        "sharedEntityCount": 3,
+        "score": 35
+      },
+      {
         "id": "2025-weaponized-episode-87",
         "name": "WEAPONIZED Episode #87 — Alien Bodies and Technology — The Lost Tapes of UFO Whistleblower Col. Corso",
         "seriesId": "weaponized-podcast",
@@ -16935,19 +18468,6 @@
         "name": "WEAPONIZED Episode #84 — False Prophets and Flying Objects — The Whistleblower Wave",
         "seriesId": "weaponized-podcast",
         "date": "2025-08-05",
-        "sharedEntityIds": [
-          "george-knapp",
-          "jeremy-corbell",
-          "whistleblower-retaliation"
-        ],
-        "sharedEntityCount": 3,
-        "score": 35
-      },
-      {
-        "id": "2025-weaponized-episode-83",
-        "name": "WEAPONIZED Episode #83 — Storming the Silence — Dave Foley and the Fight for UAP Transparency",
-        "seriesId": "weaponized-podcast",
-        "date": "2025-07-22",
         "sharedEntityIds": [
           "george-knapp",
           "jeremy-corbell",
@@ -17059,6 +18579,48 @@
         "score": 55
       },
       {
+        "id": "2025-weaponized-episode-101",
+        "name": "WEAPONIZED Episode #101 — Congressional UAP Champions on What Comes Next",
+        "seriesId": "weaponized-podcast",
+        "date": "2025-12-16",
+        "sharedEntityIds": [
+          "congressional-oversight",
+          "george-knapp",
+          "jeremy-corbell",
+          "united-states-congress"
+        ],
+        "sharedEntityCount": 4,
+        "score": 45
+      },
+      {
+        "id": "2025-weaponized-episode-94",
+        "name": "WEAPONIZED Episode #94 — Is UFO Disclosure Dead?",
+        "seriesId": "weaponized-podcast",
+        "date": "2025-10-22",
+        "sharedEntityIds": [
+          "congressional-oversight",
+          "george-knapp",
+          "jeremy-corbell",
+          "united-states-congress"
+        ],
+        "sharedEntityCount": 4,
+        "score": 45
+      },
+      {
+        "id": "2025-weaponized-episode-93",
+        "name": "WEAPONIZED Episode #93 — Mystery Drones, Eglin’s Black Triangle, and Chris Sharp",
+        "seriesId": "weaponized-podcast",
+        "date": "2025-10-15",
+        "sharedEntityIds": [
+          "eglin-air-force-base",
+          "eglin-air-force-base-uap",
+          "george-knapp",
+          "jeremy-corbell"
+        ],
+        "sharedEntityCount": 4,
+        "score": 45
+      },
+      {
         "id": "2025-weaponized-episode-86",
         "name": "WEAPONIZED Episode #86 — Threats, Intimidation, Prosecution — The Daunting Risks for UFO Whistleblowers",
         "seriesId": "weaponized-podcast",
@@ -17085,12 +18647,144 @@
         ],
         "sharedEntityCount": 4,
         "score": 45
+      }
+    ],
+    "2025-weaponized-episode-93": [
+      {
+        "id": "2024-weaponized-episode-59",
+        "name": "WEAPONIZED Episode #59 — Journalists vs. Secrecy",
+        "seriesId": "weaponized-podcast",
+        "date": "2024-10-01",
+        "sharedEntityIds": [
+          "chris-sharp",
+          "george-knapp",
+          "government-transparency",
+          "jeremy-corbell",
+          "liberation-times"
+        ],
+        "sharedEntityCount": 5,
+        "score": 55
       },
       {
-        "id": "2025-weaponized-episode-84",
-        "name": "WEAPONIZED Episode #84 — False Prophets and Flying Objects — The Whistleblower Wave",
+        "id": "2023-weaponized-episode-44",
+        "name": "WEAPONIZED Episode #44 — The Fight Over the UAP Disclosure Act",
         "seriesId": "weaponized-podcast",
-        "date": "2025-08-05",
+        "date": "2023-12-11",
+        "sharedEntityIds": [
+          "chris-sharp",
+          "george-knapp",
+          "government-transparency",
+          "jeremy-corbell",
+          "liberation-times"
+        ],
+        "sharedEntityCount": 5,
+        "score": 55
+      },
+      {
+        "id": "2025-weaponized-episode-92",
+        "name": "WEAPONIZED Episode #92 — The UAP Witness That Didn’t Testify — Congress Wanted You to Hear This",
+        "seriesId": "weaponized-podcast",
+        "date": "2025-10-09",
+        "sharedEntityIds": [
+          "eglin-air-force-base",
+          "eglin-air-force-base-uap",
+          "george-knapp",
+          "jeremy-corbell"
+        ],
+        "sharedEntityCount": 4,
+        "score": 45
+      },
+      {
+        "id": "2026-weaponized-episode-115",
+        "name": "WEAPONIZED Episode #115 — A New Chapter in the Bob Lazar Saga",
+        "seriesId": "weaponized-podcast",
+        "date": "2026-04-14",
+        "sharedEntityIds": [
+          "george-knapp",
+          "government-transparency",
+          "jeremy-corbell"
+        ],
+        "sharedEntityCount": 3,
+        "score": 35
+      },
+      {
+        "id": "2025-weaponized-episode-101",
+        "name": "WEAPONIZED Episode #101 — Congressional UAP Champions on What Comes Next",
+        "seriesId": "weaponized-podcast",
+        "date": "2025-12-16",
+        "sharedEntityIds": [
+          "george-knapp",
+          "government-transparency",
+          "jeremy-corbell"
+        ],
+        "sharedEntityCount": 3,
+        "score": 35
+      },
+      {
+        "id": "2025-weaponized-episode-94",
+        "name": "WEAPONIZED Episode #94 — Is UFO Disclosure Dead?",
+        "seriesId": "weaponized-podcast",
+        "date": "2025-10-22",
+        "sharedEntityIds": [
+          "george-knapp",
+          "government-transparency",
+          "jeremy-corbell"
+        ],
+        "sharedEntityCount": 3,
+        "score": 35
+      }
+    ],
+    "2025-weaponized-episode-94": [
+      {
+        "id": "2025-weaponized-episode-101",
+        "name": "WEAPONIZED Episode #101 — Congressional UAP Champions on What Comes Next",
+        "seriesId": "weaponized-podcast",
+        "date": "2025-12-16",
+        "sharedEntityIds": [
+          "congressional-oversight",
+          "george-knapp",
+          "government-transparency",
+          "jeremy-corbell",
+          "uap-disclosure",
+          "united-states-congress"
+        ],
+        "sharedEntityCount": 6,
+        "score": 65
+      },
+      {
+        "id": "2025-weaponized-episode-85",
+        "name": "WEAPONIZED Episode #85 — Weaponized Silence — The UFO Disclosure Dilemma",
+        "seriesId": "weaponized-podcast",
+        "date": "2025-08-12",
+        "sharedEntityIds": [
+          "congressional-oversight",
+          "george-knapp",
+          "jeremy-corbell",
+          "uap-disclosure",
+          "united-states-congress"
+        ],
+        "sharedEntityCount": 5,
+        "score": 55
+      },
+      {
+        "id": "2025-weaponized-episode-99",
+        "name": "WEAPONIZED Episode #99 — Is This a Pivotal Moment for UFO Disclosure?",
+        "seriesId": "weaponized-podcast",
+        "date": "2025-11-26",
+        "sharedEntityIds": [
+          "george-knapp",
+          "jeremy-corbell",
+          "uap-disclosure",
+          "united-states-congress"
+        ],
+        "sharedEntityCount": 4,
+        "score": 45
+      },
+      {
+        "id": "2025-weaponized-episode-92",
+        "name": "WEAPONIZED Episode #92 — The UAP Witness That Didn’t Testify — Congress Wanted You to Hear This",
+        "seriesId": "weaponized-podcast",
+        "date": "2025-10-09",
         "sharedEntityIds": [
           "congressional-oversight",
           "george-knapp",
@@ -17101,12 +18795,42 @@
         "score": 45
       },
       {
-        "id": "2025-weaponized-episode-82",
-        "name": "WEAPONIZED Episode #82 — Disclosure, Drones, and Competition for Crash Materials",
+        "id": "2025-weaponized-episode-89",
+        "name": "WEAPONIZED Episode #89 — The 2025 UAP Hearing — Did It Move the Needle?",
         "seriesId": "weaponized-podcast",
-        "date": "2025-07-11",
+        "date": "2025-09-16",
         "sharedEntityIds": [
           "congressional-oversight",
+          "george-knapp",
+          "jeremy-corbell",
+          "united-states-congress"
+        ],
+        "sharedEntityCount": 4,
+        "score": 45
+      },
+      {
+        "id": "2025-weaponized-episode-86",
+        "name": "WEAPONIZED Episode #86 — Threats, Intimidation, Prosecution — The Daunting Risks for UFO Whistleblowers",
+        "seriesId": "weaponized-podcast",
+        "date": "2025-08-19",
+        "sharedEntityIds": [
+          "congressional-oversight",
+          "george-knapp",
+          "jeremy-corbell",
+          "united-states-congress"
+        ],
+        "sharedEntityCount": 4,
+        "score": 45
+      }
+    ],
+    "2025-weaponized-episode-95": [
+      {
+        "id": "2026-weaponized-episode-115",
+        "name": "WEAPONIZED Episode #115 — A New Chapter in the Bob Lazar Saga",
+        "seriesId": "weaponized-podcast",
+        "date": "2026-04-14",
+        "sharedEntityIds": [
+          "area-51",
           "george-knapp",
           "jeremy-corbell"
         ],
@@ -17114,17 +18838,424 @@
         "score": 35
       },
       {
-        "id": "2025-weaponized-episode-77",
-        "name": "WEAPONIZED Episode #77 — UAP Briefings, Immaculate Constellation, and the Jellyfish Debate",
+        "id": "2025-weaponized-episode-102",
+        "name": "WEAPONIZED Episode #102 — Jacques Vallée — The Bizarre Nature of UFOs",
         "seriesId": "weaponized-podcast",
-        "date": "2025-05-20",
+        "date": "2025-12-23",
         "sharedEntityIds": [
-          "congressional-oversight",
+          "crash-retrievals",
           "george-knapp",
           "jeremy-corbell"
         ],
         "sharedEntityCount": 3,
         "score": 35
+      },
+      {
+        "id": "2025-weaponized-episode-96",
+        "name": "WEAPONIZED Episode #96 — James Lacatski on AAWSAP, Kona Blue, and a Recovered Craft — Part 1",
+        "seriesId": "weaponized-podcast",
+        "date": "2025-11-05",
+        "sharedEntityIds": [
+          "crash-retrievals",
+          "george-knapp",
+          "jeremy-corbell"
+        ],
+        "sharedEntityCount": 3,
+        "score": 35
+      },
+      {
+        "id": "2025-weaponized-episode-90",
+        "name": "WEAPONIZED Episode #90 — The Reluctant UFO Whistleblower — Dylan Borland Tells All: Part 1",
+        "seriesId": "weaponized-podcast",
+        "date": "2025-09-23",
+        "sharedEntityIds": [
+          "george-knapp",
+          "jeremy-corbell",
+          "united-states-air-force"
+        ],
+        "sharedEntityCount": 3,
+        "score": 35
+      },
+      {
+        "id": "2025-weaponized-episode-71",
+        "name": "WEAPONIZED Episode #71 — The Vandenberg Red Square UAP",
+        "seriesId": "weaponized-podcast",
+        "date": "2025-04-01",
+        "sharedEntityIds": [
+          "george-knapp",
+          "jeremy-corbell",
+          "united-states-air-force"
+        ],
+        "sharedEntityCount": 3,
+        "score": 35
+      },
+      {
+        "id": "2025-weaponized-episode-101",
+        "name": "WEAPONIZED Episode #101 — Congressional UAP Champions on What Comes Next",
+        "seriesId": "weaponized-podcast",
+        "date": "2025-12-16",
+        "sharedEntityIds": [
+          "george-knapp",
+          "jeremy-corbell"
+        ],
+        "sharedEntityCount": 2,
+        "score": 25
+      }
+    ],
+    "2025-weaponized-episode-96": [
+      {
+        "id": "2025-weaponized-episode-98",
+        "name": "WEAPONIZED Episode #98 — Reassessing the James Lacatski Revelations",
+        "seriesId": "weaponized-podcast",
+        "date": "2025-11-18",
+        "sharedEntityIds": [
+          "aaro",
+          "aawsap",
+          "counterintelligence",
+          "defense-intelligence-agency",
+          "george-knapp",
+          "james-lacatski",
+          "jeremy-corbell"
+        ],
+        "sharedEntityCount": 7,
+        "score": 75
+      },
+      {
+        "id": "2025-weaponized-episode-97",
+        "name": "WEAPONIZED Episode #97 — James Lacatski on Disclosure, Hitchhikers, and the Tic Tac — Part 2",
+        "seriesId": "weaponized-podcast",
+        "date": "2025-11-11",
+        "sharedEntityIds": [
+          "aawsap",
+          "defense-intelligence-agency",
+          "george-knapp",
+          "james-lacatski",
+          "jeremy-corbell"
+        ],
+        "sharedEntityCount": 5,
+        "score": 55
+      },
+      {
+        "id": "2025-weaponized-episode-102",
+        "name": "WEAPONIZED Episode #102 — Jacques Vallée — The Bizarre Nature of UFOs",
+        "seriesId": "weaponized-podcast",
+        "date": "2025-12-23",
+        "sharedEntityIds": [
+          "aawsap",
+          "crash-retrievals",
+          "george-knapp",
+          "jeremy-corbell"
+        ],
+        "sharedEntityCount": 4,
+        "score": 45
+      },
+      {
+        "id": "2025-weaponized-episode-88",
+        "name": "WEAPONIZED Episode #88 — Injured by UFOs — The Case-by-Case Medical Evidence",
+        "seriesId": "weaponized-podcast",
+        "date": "2025-09-02",
+        "sharedEntityIds": [
+          "aawsap",
+          "defense-intelligence-agency",
+          "george-knapp",
+          "jeremy-corbell"
+        ],
+        "sharedEntityCount": 4,
+        "score": 45
+      },
+      {
+        "id": "2024-weaponized-episode-52",
+        "name": "WEAPONIZED Episode #52 — Season Finale and AARO Historical Report Review",
+        "seriesId": "weaponized-podcast",
+        "date": "2024-03-13",
+        "sharedEntityIds": [
+          "aaro",
+          "george-knapp",
+          "james-lacatski",
+          "jeremy-corbell"
+        ],
+        "sharedEntityCount": 4,
+        "score": 45
+      },
+      {
+        "id": "2025-weaponized-episode-99",
+        "name": "WEAPONIZED Episode #99 — Is This a Pivotal Moment for UFO Disclosure?",
+        "seriesId": "weaponized-podcast",
+        "date": "2025-11-26",
+        "sharedEntityIds": [
+          "aawsap",
+          "george-knapp",
+          "jeremy-corbell"
+        ],
+        "sharedEntityCount": 3,
+        "score": 35
+      }
+    ],
+    "2025-weaponized-episode-97": [
+      {
+        "id": "2025-weaponized-episode-98",
+        "name": "WEAPONIZED Episode #98 — Reassessing the James Lacatski Revelations",
+        "seriesId": "weaponized-podcast",
+        "date": "2025-11-18",
+        "sharedEntityIds": [
+          "aawsap",
+          "defense-intelligence-agency",
+          "george-knapp",
+          "james-lacatski",
+          "jeremy-corbell",
+          "uap-disclosure"
+        ],
+        "sharedEntityCount": 6,
+        "score": 65
+      },
+      {
+        "id": "2025-weaponized-episode-96",
+        "name": "WEAPONIZED Episode #96 — James Lacatski on AAWSAP, Kona Blue, and a Recovered Craft — Part 1",
+        "seriesId": "weaponized-podcast",
+        "date": "2025-11-05",
+        "sharedEntityIds": [
+          "aawsap",
+          "defense-intelligence-agency",
+          "george-knapp",
+          "james-lacatski",
+          "jeremy-corbell"
+        ],
+        "sharedEntityCount": 5,
+        "score": 55
+      },
+      {
+        "id": "2025-weaponized-episode-99",
+        "name": "WEAPONIZED Episode #99 — Is This a Pivotal Moment for UFO Disclosure?",
+        "seriesId": "weaponized-podcast",
+        "date": "2025-11-26",
+        "sharedEntityIds": [
+          "aawsap",
+          "george-knapp",
+          "jeremy-corbell",
+          "uap-disclosure"
+        ],
+        "sharedEntityCount": 4,
+        "score": 45
+      },
+      {
+        "id": "2025-weaponized-episode-88",
+        "name": "WEAPONIZED Episode #88 — Injured by UFOs — The Case-by-Case Medical Evidence",
+        "seriesId": "weaponized-podcast",
+        "date": "2025-09-02",
+        "sharedEntityIds": [
+          "aawsap",
+          "defense-intelligence-agency",
+          "george-knapp",
+          "jeremy-corbell"
+        ],
+        "sharedEntityCount": 4,
+        "score": 45
+      },
+      {
+        "id": "2025-weaponized-episode-102",
+        "name": "WEAPONIZED Episode #102 — Jacques Vallée — The Bizarre Nature of UFOs",
+        "seriesId": "weaponized-podcast",
+        "date": "2025-12-23",
+        "sharedEntityIds": [
+          "aawsap",
+          "george-knapp",
+          "jeremy-corbell"
+        ],
+        "sharedEntityCount": 3,
+        "score": 35
+      },
+      {
+        "id": "2025-weaponized-episode-101",
+        "name": "WEAPONIZED Episode #101 — Congressional UAP Champions on What Comes Next",
+        "seriesId": "weaponized-podcast",
+        "date": "2025-12-16",
+        "sharedEntityIds": [
+          "george-knapp",
+          "jeremy-corbell",
+          "uap-disclosure"
+        ],
+        "sharedEntityCount": 3,
+        "score": 35
+      }
+    ],
+    "2025-weaponized-episode-98": [
+      {
+        "id": "2025-weaponized-episode-96",
+        "name": "WEAPONIZED Episode #96 — James Lacatski on AAWSAP, Kona Blue, and a Recovered Craft — Part 1",
+        "seriesId": "weaponized-podcast",
+        "date": "2025-11-05",
+        "sharedEntityIds": [
+          "aaro",
+          "aawsap",
+          "counterintelligence",
+          "defense-intelligence-agency",
+          "george-knapp",
+          "james-lacatski",
+          "jeremy-corbell"
+        ],
+        "sharedEntityCount": 7,
+        "score": 75
+      },
+      {
+        "id": "2025-weaponized-episode-97",
+        "name": "WEAPONIZED Episode #97 — James Lacatski on Disclosure, Hitchhikers, and the Tic Tac — Part 2",
+        "seriesId": "weaponized-podcast",
+        "date": "2025-11-11",
+        "sharedEntityIds": [
+          "aawsap",
+          "defense-intelligence-agency",
+          "george-knapp",
+          "james-lacatski",
+          "jeremy-corbell",
+          "uap-disclosure"
+        ],
+        "sharedEntityCount": 6,
+        "score": 65
+      },
+      {
+        "id": "2025-weaponized-episode-99",
+        "name": "WEAPONIZED Episode #99 — Is This a Pivotal Moment for UFO Disclosure?",
+        "seriesId": "weaponized-podcast",
+        "date": "2025-11-26",
+        "sharedEntityIds": [
+          "aawsap",
+          "george-knapp",
+          "jeremy-corbell",
+          "uap-disclosure"
+        ],
+        "sharedEntityCount": 4,
+        "score": 45
+      },
+      {
+        "id": "2025-weaponized-episode-88",
+        "name": "WEAPONIZED Episode #88 — Injured by UFOs — The Case-by-Case Medical Evidence",
+        "seriesId": "weaponized-podcast",
+        "date": "2025-09-02",
+        "sharedEntityIds": [
+          "aawsap",
+          "defense-intelligence-agency",
+          "george-knapp",
+          "jeremy-corbell"
+        ],
+        "sharedEntityCount": 4,
+        "score": 45
+      },
+      {
+        "id": "2024-weaponized-episode-52",
+        "name": "WEAPONIZED Episode #52 — Season Finale and AARO Historical Report Review",
+        "seriesId": "weaponized-podcast",
+        "date": "2024-03-13",
+        "sharedEntityIds": [
+          "aaro",
+          "george-knapp",
+          "james-lacatski",
+          "jeremy-corbell"
+        ],
+        "sharedEntityCount": 4,
+        "score": 45
+      },
+      {
+        "id": "2025-weaponized-episode-102",
+        "name": "WEAPONIZED Episode #102 — Jacques Vallée — The Bizarre Nature of UFOs",
+        "seriesId": "weaponized-podcast",
+        "date": "2025-12-23",
+        "sharedEntityIds": [
+          "aawsap",
+          "george-knapp",
+          "jeremy-corbell"
+        ],
+        "sharedEntityCount": 3,
+        "score": 35
+      }
+    ],
+    "2025-weaponized-episode-99": [
+      {
+        "id": "2025-weaponized-episode-85",
+        "name": "WEAPONIZED Episode #85 — Weaponized Silence — The UFO Disclosure Dilemma",
+        "seriesId": "weaponized-podcast",
+        "date": "2025-08-12",
+        "sharedEntityIds": [
+          "danny-silva",
+          "george-knapp",
+          "jeremy-corbell",
+          "joe-murgia",
+          "ryan-robbins",
+          "uap-disclosure",
+          "united-states-congress"
+        ],
+        "sharedEntityCount": 7,
+        "score": 75
+      },
+      {
+        "id": "2024-weaponized-episode-64",
+        "name": "WEAPONIZED Episode #64 — The 2024 UAP Year in Review",
+        "seriesId": "weaponized-podcast",
+        "date": "2024-12-31",
+        "sharedEntityIds": [
+          "danny-silva",
+          "george-knapp",
+          "jeremy-corbell",
+          "joe-murgia",
+          "ryan-robbins"
+        ],
+        "sharedEntityCount": 5,
+        "score": 55
+      },
+      {
+        "id": "2025-weaponized-episode-102",
+        "name": "WEAPONIZED Episode #102 — Jacques Vallée — The Bizarre Nature of UFOs",
+        "seriesId": "weaponized-podcast",
+        "date": "2025-12-23",
+        "sharedEntityIds": [
+          "aawsap",
+          "george-knapp",
+          "jeremy-corbell",
+          "united-states-congress"
+        ],
+        "sharedEntityCount": 4,
+        "score": 45
+      },
+      {
+        "id": "2025-weaponized-episode-101",
+        "name": "WEAPONIZED Episode #101 — Congressional UAP Champions on What Comes Next",
+        "seriesId": "weaponized-podcast",
+        "date": "2025-12-16",
+        "sharedEntityIds": [
+          "george-knapp",
+          "jeremy-corbell",
+          "uap-disclosure",
+          "united-states-congress"
+        ],
+        "sharedEntityCount": 4,
+        "score": 45
+      },
+      {
+        "id": "2025-weaponized-episode-98",
+        "name": "WEAPONIZED Episode #98 — Reassessing the James Lacatski Revelations",
+        "seriesId": "weaponized-podcast",
+        "date": "2025-11-18",
+        "sharedEntityIds": [
+          "aawsap",
+          "george-knapp",
+          "jeremy-corbell",
+          "uap-disclosure"
+        ],
+        "sharedEntityCount": 4,
+        "score": 45
+      },
+      {
+        "id": "2025-weaponized-episode-97",
+        "name": "WEAPONIZED Episode #97 — James Lacatski on Disclosure, Hitchhikers, and the Tic Tac — Part 2",
+        "seriesId": "weaponized-podcast",
+        "date": "2025-11-11",
+        "sharedEntityIds": [
+          "aawsap",
+          "george-knapp",
+          "jeremy-corbell",
+          "uap-disclosure"
+        ],
+        "sharedEntityCount": 4,
+        "score": 45
       }
     ],
     "2026-weaponized-episode-115": [
@@ -17185,10 +19316,10 @@
         "score": 45
       },
       {
-        "id": "2025-weaponized-episode-82",
-        "name": "WEAPONIZED Episode #82 — Disclosure, Drones, and Competition for Crash Materials",
+        "id": "2025-weaponized-episode-101",
+        "name": "WEAPONIZED Episode #101 — Congressional UAP Champions on What Comes Next",
         "seriesId": "weaponized-podcast",
-        "date": "2025-07-11",
+        "date": "2025-12-16",
         "sharedEntityIds": [
           "george-knapp",
           "government-transparency",
@@ -17198,13 +19329,13 @@
         "score": 35
       },
       {
-        "id": "2025-weaponized-episode-81",
-        "name": "WEAPONIZED Episode #81 — The Full Mosul Orb Video",
+        "id": "2025-weaponized-episode-95",
+        "name": "WEAPONIZED Episode #95 — The Area 51 Crash Retrieval and Its Cover Story",
         "seriesId": "weaponized-podcast",
-        "date": "2025-07-01",
+        "date": "2025-10-31",
         "sharedEntityIds": [
+          "area-51",
           "george-knapp",
-          "government-transparency",
           "jeremy-corbell"
         ],
         "sharedEntityCount": 3,

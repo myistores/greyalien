@@ -1,0 +1,98 @@
+{
+  "id": "2025-weaponized-episode-100",
+  "type": "podcast_episode",
+  "name": "WEAPONIZED Episode #100 — Creatures From Another World? The UFO–Cryptid Connection",
+  "summary": "Author and filmmaker David Paulides discusses reported links among UFOs, Sasquatch, disappearances, portals, Skinwalker Ranch, and evidence presented in American Sasquatch: Man, Myth, or Monster.",
+  "date": "2025-12-02",
+  "dateDisplay": "December 2, 2025",
+  "seriesId": "weaponized-podcast",
+  "episodeNumber": 100,
+  "episodeTitle": "Creatures From Another World? The UFO–Cryptid Connection",
+  "status": "Published",
+  "mediaType": "Podcast episode",
+  "mediaPlatform": "WEAPONIZED",
+  "mediaHost": "Jeremy Corbell and George Knapp",
+  "mediaGuests": [
+    "david-paulides"
+  ],
+  "mediaSubjects": [],
+  "principalClaims": [
+    "claim-ufo-and-cryptid-reports-overlap",
+    "claim-mainstream-research-groups-avoid-cross-category-cases",
+    "claim-missing-411-cases-include-anomalous-features",
+    "claim-skinwalker-research-treated-phenomena-as-connected"
+  ],
+  "researchNotes": [],
+  "relationships": [
+    {
+      "type": "episode_of",
+      "target": "weaponized-podcast"
+    },
+    {
+      "type": "features_person",
+      "target": "jeremy-corbell",
+      "role": "host",
+      "context": "WEAPONIZED co-host"
+    },
+    {
+      "type": "features_person",
+      "target": "george-knapp",
+      "role": "host",
+      "context": "WEAPONIZED co-host"
+    },
+    {
+      "type": "features_person",
+      "target": "david-paulides",
+      "role": "guest",
+      "context": "Featured episode participant"
+    },
+    {
+      "type": "references_organization",
+      "target": "national-institute-for-discovery-science"
+    },
+    {
+      "type": "discussed_topic",
+      "target": "sasquatch"
+    },
+    {
+      "type": "discussed_topic",
+      "target": "missing-411"
+    },
+    {
+      "type": "discussed_topic",
+      "target": "skinwalker-ranch"
+    },
+    {
+      "type": "discussed_topic",
+      "target": "ufo-cryptid-connection"
+    }
+  ],
+  "mediaLinks": [
+    {
+      "label": "Open the official Episode #100 page",
+      "url": "https://www.weaponizedpodcast.com/episodes-4/episode-100",
+      "platform": "WEAPONIZED"
+    },
+    {
+      "label": "Listen to WEAPONIZED",
+      "url": "https://link.chtbl.com/Weaponized",
+      "platform": "Official audio feed"
+    }
+  ],
+  "eventCategory": "Podcast publication",
+  "officialLinks": [],
+  "referenceSources": [
+    {
+      "label": "Official WEAPONIZED Episode #100 page",
+      "url": "https://www.weaponizedpodcast.com/episodes-4/episode-100",
+      "sourceType": "official_episode_page",
+      "role": "source"
+    },
+    {
+      "label": "Listen to WEAPONIZED",
+      "url": "https://link.chtbl.com/Weaponized",
+      "sourceType": "official_audio_feed",
+      "role": "source"
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "id": "claim-missing-411-cases-include-anomalous-features",
+  "type": "claim",
+  "name": "Missing 411 cases include anomalous features",
+  "summary": "Paulides describes disappearances with features he considers difficult to explain through ordinary search-and-rescue scenarios.",
+  "claimStatus": "Reported in source",
+  "relationships": [
+    {
+      "type": "featured_in_media",
+      "target": "2025-weaponized-episode-100"
+    }
+  ],
+  "officialLinks": [],
+  "referenceSources": [
+    {
+      "label": "Official WEAPONIZED Episode #100 page",
+      "url": "https://www.weaponizedpodcast.com/episodes-4/episode-100",
+      "sourceType": "official_episode_page",
+      "role": "source"
+    }
+  ]
+}

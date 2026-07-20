@@ -1,0 +1,22 @@
+{
+  "id": "claim-secrecy-resistance-remains-active",
+  "type": "claim",
+  "name": "Institutional resistance remains active",
+  "summary": "The episode describes continuing institutional resistance to UAP transparency.",
+  "claimStatus": "Reported in source",
+  "relationships": [
+    {
+      "type": "featured_in_media",
+      "target": "2025-weaponized-episode-94"
+    }
+  ],
+  "officialLinks": [],
+  "referenceSources": [
+    {
+      "label": "Official WEAPONIZED Episode #94 page",
+      "url": "https://www.weaponizedpodcast.com/episodes-4/episode-94",
+      "sourceType": "official_episode_page",
+      "role": "source"
+    }
+  ]
+}

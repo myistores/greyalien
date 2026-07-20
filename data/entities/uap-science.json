@@ -1,0 +1,16 @@
+{
+  "id": "uap-science",
+  "type": "topic",
+  "name": "UAP Science",
+  "summary": "Topic connected to WEAPONIZED Episodes #93–102: UAP Science.",
+  "relationships": [],
+  "officialLinks": [],
+  "referenceSources": [
+    {
+      "label": "Official WEAPONIZED source",
+      "url": "https://www.weaponizedpodcast.com/",
+      "sourceType": "official_episode_page",
+      "role": "source"
+    }
+  ]
+}

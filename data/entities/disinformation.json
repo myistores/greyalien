@@ -1,0 +1,16 @@
+{
+  "id": "disinformation",
+  "type": "topic",
+  "name": "Disinformation",
+  "summary": "Topic connected to WEAPONIZED Episodes #93–102: Disinformation.",
+  "relationships": [],
+  "officialLinks": [],
+  "referenceSources": [
+    {
+      "label": "Official WEAPONIZED source",
+      "url": "https://www.weaponizedpodcast.com/",
+      "sourceType": "official_episode_page",
+      "role": "source"
+    }
+  ]
+}

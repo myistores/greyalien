@@ -1,0 +1,16 @@
+{
+  "id": "fox-news",
+  "type": "organization",
+  "name": "Fox News",
+  "summary": "Organization referenced in WEAPONIZED Episodes #93–102.",
+  "relationships": [],
+  "officialLinks": [],
+  "referenceSources": [
+    {
+      "label": "Official WEAPONIZED source",
+      "url": "https://www.weaponizedpodcast.com/",
+      "sourceType": "official_episode_page",
+      "role": "source"
+    }
+  ]
+}

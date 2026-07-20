@@ -1,0 +1,16 @@
+{
+  "id": "tic-tac-uap",
+  "type": "topic",
+  "name": "Tic Tac UAP",
+  "summary": "Topic connected to WEAPONIZED Episodes #93–102: Tic Tac UAP.",
+  "relationships": [],
+  "officialLinks": [],
+  "referenceSources": [
+    {
+      "label": "Official WEAPONIZED source",
+      "url": "https://www.weaponizedpodcast.com/",
+      "sourceType": "official_episode_page",
+      "role": "source"
+    }
+  ]
+}

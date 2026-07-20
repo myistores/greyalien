@@ -1,0 +1,98 @@
+{
+  "id": "2025-weaponized-episode-97",
+  "type": "podcast_episode",
+  "name": "WEAPONIZED Episode #97 — James Lacatski on Disclosure, Hitchhikers, and the Tic Tac — Part 2",
+  "summary": "In the second part of the interview, James Lacatski discusses obstacles to disclosure, efforts to discredit official investigations, anomalous encounters, crash-retrieval questions, and whether Tic Tac objects could be U.S. technology.",
+  "date": "2025-11-11",
+  "dateDisplay": "November 11, 2025",
+  "seriesId": "weaponized-podcast",
+  "episodeNumber": 97,
+  "episodeTitle": "James Lacatski on Disclosure, Hitchhikers, and the Tic Tac — Part 2",
+  "status": "Published",
+  "mediaType": "Podcast episode",
+  "mediaPlatform": "WEAPONIZED",
+  "mediaHost": "Jeremy Corbell and George Knapp",
+  "mediaGuests": [
+    "james-lacatski"
+  ],
+  "mediaSubjects": [],
+  "principalClaims": [
+    "claim-official-investigations-faced-internal-opposition",
+    "claim-aawsap-investigators-reported-hitchhiker-effects",
+    "claim-lacatski-addresses-recovered-bodies-and-craft",
+    "claim-tic-tac-origin-remains-contested"
+  ],
+  "researchNotes": [],
+  "relationships": [
+    {
+      "type": "episode_of",
+      "target": "weaponized-podcast"
+    },
+    {
+      "type": "features_person",
+      "target": "jeremy-corbell",
+      "role": "host",
+      "context": "WEAPONIZED co-host"
+    },
+    {
+      "type": "features_person",
+      "target": "george-knapp",
+      "role": "host",
+      "context": "WEAPONIZED co-host"
+    },
+    {
+      "type": "features_person",
+      "target": "james-lacatski",
+      "role": "guest",
+      "context": "Featured episode participant"
+    },
+    {
+      "type": "references_organization",
+      "target": "defense-intelligence-agency"
+    },
+    {
+      "type": "discussed_topic",
+      "target": "aawsap"
+    },
+    {
+      "type": "discussed_topic",
+      "target": "hitchhiker-effect"
+    },
+    {
+      "type": "discussed_topic",
+      "target": "tic-tac-uap"
+    },
+    {
+      "type": "discussed_topic",
+      "target": "uap-disclosure"
+    }
+  ],
+  "mediaLinks": [
+    {
+      "label": "Open the official Episode #97 page",
+      "url": "https://www.weaponizedpodcast.com/episodes-4/episode-97",
+      "platform": "WEAPONIZED"
+    },
+    {
+      "label": "Listen to WEAPONIZED",
+      "url": "https://link.chtbl.com/Weaponized",
+      "platform": "Official audio feed"
+    }
+  ],
+  "eventCategory": "Podcast publication",
+  "officialLinks": [],
+  "referenceSources": [
+    {
+      "label": "Official WEAPONIZED Episode #97 page",
+      "url": "https://www.weaponizedpodcast.com/episodes-4/episode-97",
+      "sourceType": "official_episode_page",
+      "role": "source"
+    },
+    {
+      "label": "Listen to WEAPONIZED",
+      "url": "https://link.chtbl.com/Weaponized",
+      "sourceType": "official_audio_feed",
+      "role": "source"
+    }
+  ]
+}

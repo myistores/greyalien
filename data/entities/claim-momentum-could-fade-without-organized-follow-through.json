@@ -1,0 +1,22 @@
+{
+  "id": "claim-momentum-could-fade-without-organized-follow-through",
+  "type": "claim",
+  "name": "Momentum could fade without organized follow-through",
+  "summary": "Participants warn that prior disclosure waves dissipated after official counter-narratives and declining media interest.",
+  "claimStatus": "Reported in source",
+  "relationships": [
+    {
+      "type": "featured_in_media",
+      "target": "2025-weaponized-episode-99"
+    }
+  ],
+  "officialLinks": [],
+  "referenceSources": [
+    {
+      "label": "Official WEAPONIZED Episode #99 page",
+      "url": "https://www.weaponizedpodcast.com/episodes-4/episode-99",
+      "sourceType": "official_episode_page",
+      "role": "source"
+    }
+  ]
+}

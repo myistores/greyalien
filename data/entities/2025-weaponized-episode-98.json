@@ -1,0 +1,101 @@
+{
+  "id": "2025-weaponized-episode-98",
+  "type": "podcast_episode",
+  "name": "WEAPONIZED Episode #98 — Reassessing the James Lacatski Revelations",
+  "summary": "Jeremy Corbell and George Knapp review the implications of their Lacatski interviews, including AAWSAP, counterintelligence, AARO, recovered-craft claims, congressional access, and Harry Reid’s role.",
+  "date": "2025-11-18",
+  "dateDisplay": "November 18, 2025",
+  "seriesId": "weaponized-podcast",
+  "episodeNumber": 98,
+  "episodeTitle": "Reassessing the James Lacatski Revelations",
+  "status": "Published",
+  "mediaType": "Podcast episode",
+  "mediaPlatform": "WEAPONIZED",
+  "mediaHost": "Jeremy Corbell and George Knapp",
+  "mediaGuests": [
+    "jeremy-corbell",
+    "george-knapp"
+  ],
+  "mediaSubjects": [
+    "james-lacatski"
+  ],
+  "principalClaims": [
+    "claim-lacatski-interview-expanded-public-record",
+    "claim-counterintelligence-role-requires-careful-evaluation",
+    "claim-congress-may-lack-access-to-core-aawsap-records",
+    "claim-harry-reid-influenced-lacatski-disclosure-decision"
+  ],
+  "researchNotes": [],
+  "relationships": [
+    {
+      "type": "episode_of",
+      "target": "weaponized-podcast"
+    },
+    {
+      "type": "features_person",
+      "target": "jeremy-corbell",
+      "role": "host",
+      "context": "WEAPONIZED co-host"
+    },
+    {
+      "type": "features_person",
+      "target": "george-knapp",
+      "role": "host",
+      "context": "WEAPONIZED co-host"
+    },
+    {
+      "type": "features_person",
+      "target": "james-lacatski",
+      "role": "subject",
+      "context": "Discussed in episode"
+    },
+    {
+      "type": "references_organization",
+      "target": "aaro"
+    },
+    {
+      "type": "references_organization",
+      "target": "defense-intelligence-agency"
+    },
+    {
+      "type": "discussed_topic",
+      "target": "aawsap"
+    },
+    {
+      "type": "discussed_topic",
+      "target": "counterintelligence"
+    },
+    {
+      "type": "discussed_topic",
+      "target": "uap-disclosure"
+    }
+  ],
+  "mediaLinks": [
+    {
+      "label": "Open the official Episode #98 page",
+      "url": "https://www.weaponizedpodcast.com/episodes-4/episode-98",
+      "platform": "WEAPONIZED"
+    },
+    {
+      "label": "Listen to WEAPONIZED",
+      "url": "https://link.chtbl.com/Weaponized",
+      "platform": "Official audio feed"
+    }
+  ],
+  "eventCategory": "Podcast publication",
+  "officialLinks": [],
+  "referenceSources": [
+    {
+      "label": "Official WEAPONIZED Episode #98 page",
+      "url": "https://www.weaponizedpodcast.com/episodes-4/episode-98",
+      "sourceType": "official_episode_page",
+      "role": "source"
+    },
+    {
+      "label": "Listen to WEAPONIZED",
+      "url": "https://link.chtbl.com/Weaponized",
+      "sourceType": "official_audio_feed",
+      "role": "source"
+    }
+  ]
+}

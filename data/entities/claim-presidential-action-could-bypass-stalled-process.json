@@ -1,0 +1,22 @@
+{
+  "id": "claim-presidential-action-could-bypass-stalled-process",
+  "type": "claim",
+  "name": "Presidential action could bypass a stalled process",
+  "summary": "The discussion considers executive action as a possible route to greater disclosure.",
+  "claimStatus": "Reported in source",
+  "relationships": [
+    {
+      "type": "featured_in_media",
+      "target": "2025-weaponized-episode-101"
+    }
+  ],
+  "officialLinks": [],
+  "referenceSources": [
+    {
+      "label": "Official WEAPONIZED Episode #101 page",
+      "url": "https://www.weaponizedpodcast.com/episodes-4/episode-101",
+      "sourceType": "official_episode_page",
+      "role": "source"
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "id": "claim-lacatski-addresses-recovered-bodies-and-craft",
+  "type": "claim",
+  "name": "Lacatski addresses recovered bodies and craft",
+  "summary": "The interview explores current theories and claims concerning recovered craft and biological materials.",
+  "claimStatus": "Reported in source",
+  "relationships": [
+    {
+      "type": "featured_in_media",
+      "target": "2025-weaponized-episode-97"
+    }
+  ],
+  "officialLinks": [],
+  "referenceSources": [
+    {
+      "label": "Official WEAPONIZED Episode #97 page",
+      "url": "https://www.weaponizedpodcast.com/episodes-4/episode-97",
+      "sourceType": "official_episode_page",
+      "role": "source"
+    }
+  ]
+}

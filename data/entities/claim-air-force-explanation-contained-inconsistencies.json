@@ -1,0 +1,22 @@
+{
+  "id": "claim-air-force-explanation-contained-inconsistencies",
+  "type": "claim",
+  "name": "The Air Force explanation contained inconsistencies",
+  "summary": "Civilian researchers are said to have identified false or contradictory elements in the official account.",
+  "claimStatus": "Reported in source",
+  "relationships": [
+    {
+      "type": "featured_in_media",
+      "target": "2025-weaponized-episode-95"
+    }
+  ],
+  "officialLinks": [],
+  "referenceSources": [
+    {
+      "label": "Official WEAPONIZED Episode #95 page",
+      "url": "https://www.weaponizedpodcast.com/episodes-4/episode-95",
+      "sourceType": "official_episode_page",
+      "role": "source"
+    }
+  ]
+}

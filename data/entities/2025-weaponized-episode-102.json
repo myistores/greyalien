@@ -1,0 +1,107 @@
+{
+  "id": "2025-weaponized-episode-102",
+  "type": "podcast_episode",
+  "name": "WEAPONIZED Episode #102 — Jacques Vallée — The Bizarre Nature of UFOs",
+  "summary": "Jacques Vallée joins Jeremy Corbell and George Knapp for a wide-ranging discussion of UFO history, Project Blue Book, remote viewing, NIDS, AAWSAP, crash retrievals, the Trinity case, congressional secrecy, science, and paths forward.",
+  "date": "2025-12-23",
+  "dateDisplay": "December 23, 2025",
+  "seriesId": "weaponized-podcast",
+  "episodeNumber": 102,
+  "episodeTitle": "Jacques Vallée — The Bizarre Nature of UFOs",
+  "status": "Published",
+  "mediaType": "Podcast episode",
+  "mediaPlatform": "WEAPONIZED",
+  "mediaHost": "Jeremy Corbell and George Knapp",
+  "mediaGuests": [
+    "jacques-vallee"
+  ],
+  "mediaSubjects": [],
+  "principalClaims": [
+    "claim-vallee-says-ufo-crashes-and-retrievals-are-real",
+    "claim-uap-phenomenon-has-multiple-layers",
+    "claim-secrecy-remains-a-major-scientific-obstacle",
+    "claim-trinity-case-remains-important-to-vallee",
+    "claim-progress-requires-better-data-and-open-inquiry"
+  ],
+  "researchNotes": [],
+  "relationships": [
+    {
+      "type": "episode_of",
+      "target": "weaponized-podcast"
+    },
+    {
+      "type": "features_person",
+      "target": "jeremy-corbell",
+      "role": "host",
+      "context": "WEAPONIZED co-host"
+    },
+    {
+      "type": "features_person",
+      "target": "george-knapp",
+      "role": "host",
+      "context": "WEAPONIZED co-host"
+    },
+    {
+      "type": "features_person",
+      "target": "jacques-vallee",
+      "role": "guest",
+      "context": "Featured episode participant"
+    },
+    {
+      "type": "references_organization",
+      "target": "national-institute-for-discovery-science"
+    },
+    {
+      "type": "references_organization",
+      "target": "united-states-congress"
+    },
+    {
+      "type": "discussed_topic",
+      "target": "project-blue-book"
+    },
+    {
+      "type": "discussed_topic",
+      "target": "aawsap"
+    },
+    {
+      "type": "discussed_topic",
+      "target": "trinity-ufo-case"
+    },
+    {
+      "type": "discussed_topic",
+      "target": "uap-science"
+    },
+    {
+      "type": "discussed_topic",
+      "target": "crash-retrievals"
+    }
+  ],
+  "mediaLinks": [
+    {
+      "label": "Open the official Episode #102 page",
+      "url": "https://www.weaponizedpodcast.com/episodes-4/episode-102",
+      "platform": "WEAPONIZED"
+    },
+    {
+      "label": "Listen to WEAPONIZED",
+      "url": "https://link.chtbl.com/Weaponized",
+      "platform": "Official audio feed"
+    }
+  ],
+  "eventCategory": "Podcast publication",
+  "officialLinks": [],
+  "referenceSources": [
+    {
+      "label": "Official WEAPONIZED Episode #102 page",
+      "url": "https://www.weaponizedpodcast.com/episodes-4/episode-102",
+      "sourceType": "official_episode_page",
+      "role": "source"
+    },
+    {
+      "label": "Listen to WEAPONIZED",
+      "url": "https://link.chtbl.com/Weaponized",
+      "sourceType": "official_audio_feed",
+      "role": "source"
+    }
+  ]
+}

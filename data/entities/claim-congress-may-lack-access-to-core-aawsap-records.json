@@ -1,0 +1,22 @@
+{
+  "id": "claim-congress-may-lack-access-to-core-aawsap-records",
+  "type": "claim",
+  "name": "Congress may lack access to core AAWSAP records",
+  "summary": "The hosts question whether lawmakers have received the relevant records or testimony.",
+  "claimStatus": "Reported in source",
+  "relationships": [
+    {
+      "type": "featured_in_media",
+      "target": "2025-weaponized-episode-98"
+    }
+  ],
+  "officialLinks": [],
+  "referenceSources": [
+    {
+      "label": "Official WEAPONIZED Episode #98 page",
+      "url": "https://www.weaponizedpodcast.com/episodes-4/episode-98",
+      "sourceType": "official_episode_page",
+      "role": "source"
+    }
+  ]
+}

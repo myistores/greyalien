@@ -1,0 +1,22 @@
+{
+  "id": "claim-military-secured-crash-area-quickly",
+  "type": "claim",
+  "name": "The military secured the crash area rapidly",
+  "summary": "The hosts report a rapid armed response and closure of a large area of public land.",
+  "claimStatus": "Reported in source",
+  "relationships": [
+    {
+      "type": "featured_in_media",
+      "target": "2025-weaponized-episode-95"
+    }
+  ],
+  "officialLinks": [],
+  "referenceSources": [
+    {
+      "label": "Official WEAPONIZED Episode #95 page",
+      "url": "https://www.weaponizedpodcast.com/episodes-4/episode-95",
+      "sourceType": "official_episode_page",
+      "role": "source"
+    }
+  ]
+}

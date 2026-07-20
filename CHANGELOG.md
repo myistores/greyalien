@@ -330,3 +330,8 @@
 - Separated entity-owned links from GreyAlien research provenance.
 - Migrated legacy source fields to `officialLinks[]` and `referenceSources[]`.
 - Added renderer and validator support for both sections.
+
+## V19.3 — WEAPONIZED Episodes #93–#102
+- Added ten content-only production episode records, claims, relationships, timeline events, and official sources.
+- Rebuilt generated graph, podcast, related-content, entity-page, homepage, and sitemap outputs.
+- No architecture, rendering, template, schema, navigation, UI, styling, or routing changes.

@@ -1,0 +1,88 @@
+{
+  "id": "2025-weaponized-episode-94",
+  "type": "podcast_episode",
+  "name": "WEAPONIZED Episode #94 — Is UFO Disclosure Dead?",
+  "summary": "Corbell and Knapp assess claims that UAP disclosure has stalled, reviewing political resistance, media narratives, and the continuing evidence that keeps transparency efforts active.",
+  "date": "2025-10-22",
+  "dateDisplay": "October 22, 2025",
+  "seriesId": "weaponized-podcast",
+  "episodeNumber": 94,
+  "episodeTitle": "Is UFO Disclosure Dead?",
+  "status": "Published",
+  "mediaType": "Podcast episode",
+  "mediaPlatform": "WEAPONIZED",
+  "mediaHost": "Jeremy Corbell and George Knapp",
+  "mediaGuests": [
+    "jeremy-corbell",
+    "george-knapp"
+  ],
+  "mediaSubjects": [],
+  "principalClaims": [
+    "claim-disclosure-momentum-has-slowed",
+    "claim-secrecy-resistance-remains-active",
+    "claim-public-record-still-supports-continued-inquiry"
+  ],
+  "researchNotes": [],
+  "relationships": [
+    {
+      "type": "episode_of",
+      "target": "weaponized-podcast"
+    },
+    {
+      "type": "features_person",
+      "target": "jeremy-corbell",
+      "role": "host",
+      "context": "WEAPONIZED co-host"
+    },
+    {
+      "type": "features_person",
+      "target": "george-knapp",
+      "role": "host",
+      "context": "WEAPONIZED co-host"
+    },
+    {
+      "type": "references_organization",
+      "target": "united-states-congress"
+    },
+    {
+      "type": "discussed_topic",
+      "target": "uap-disclosure"
+    },
+    {
+      "type": "discussed_topic",
+      "target": "government-transparency"
+    },
+    {
+      "type": "discussed_topic",
+      "target": "congressional-oversight"
+    }
+  ],
+  "mediaLinks": [
+    {
+      "label": "Open the official Episode #94 page",
+      "url": "https://www.weaponizedpodcast.com/episodes-4/episode-94",
+      "platform": "WEAPONIZED"
+    },
+    {
+      "label": "Listen to WEAPONIZED",
+      "url": "https://link.chtbl.com/Weaponized",
+      "platform": "Official audio feed"
+    }
+  ],
+  "eventCategory": "Podcast publication",
+  "officialLinks": [],
+  "referenceSources": [
+    {
+      "label": "Official WEAPONIZED Episode #94 page",
+      "url": "https://www.weaponizedpodcast.com/episodes-4/episode-94",
+      "sourceType": "official_episode_page",
+      "role": "source"
+    },
+    {
+      "label": "Listen to WEAPONIZED",
+      "url": "https://link.chtbl.com/Weaponized",
+      "sourceType": "official_audio_feed",
+      "role": "source"
+    }
+  ]
+}
