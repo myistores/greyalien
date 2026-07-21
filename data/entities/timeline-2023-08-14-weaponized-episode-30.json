@@ -1,0 +1,24 @@
+{
+  "id": "timeline-2023-08-14-weaponized-episode-30",
+  "type": "timeline_event",
+  "name": "WEAPONIZED Episode #30 published",
+  "summary": "Jeremy Corbell and George Knapp examine efforts to discredit David Grusch after his public testimony, including reporting about his prior PTSD treatment, and discuss retaliation, whistleblower protections, and the potential chilling effect on other witnesses.",
+  "date": "2023-08-14",
+  "dateDisplay": "August 14, 2023",
+  "eventCategory": "Podcast publication",
+  "relationships": [
+    {
+      "type": "event_for",
+      "target": "2023-weaponized-episode-30"
+    }
+  ],
+  "officialLinks": [],
+  "referenceSources": [
+    {
+      "label": "Official WEAPONIZED Episode #30 page",
+      "url": "https://www.weaponizedpodcast.com/episodes-1/episode-number-30",
+      "sourceType": "official_episode_page",
+      "role": "source"
+    }
+  ]
+}

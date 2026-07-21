@@ -1,0 +1,21 @@
+{
+  "id": "claim-weaponized-31-1",
+  "type": "claim",
+  "name": "Factory-farming systems can impose severe and prolonged suffering on large numbers of animals.",
+  "summary": "Claim or framing presented in WEAPONIZED Episode #31.",
+  "relationships": [
+    {
+      "type": "featured_in_media",
+      "target": "2023-weaponized-episode-31"
+    }
+  ],
+  "officialLinks": [],
+  "referenceSources": [
+    {
+      "label": "Official WEAPONIZED Episode #31 page",
+      "url": "https://www.weaponizedpodcast.com/episodes-2/episode-31",
+      "sourceType": "official_episode_page",
+      "role": "source"
+    }
+  ]
+}

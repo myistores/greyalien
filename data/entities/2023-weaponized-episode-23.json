@@ -1,0 +1,84 @@
+{
+  "id": "2023-weaponized-episode-23",
+  "type": "podcast_episode",
+  "name": "WEAPONIZED Episode #23 — Whitley Strieber — Communion, The Visitors, and Readiness for Disclosure",
+  "summary": "Author Whitley Strieber discusses his decades of reported encounters with non-human intelligences, the cultural impact of Communion, evolving ideas about the Visitors, crash-retrieval allegations, whistleblowers, and whether society is prepared for disclosure.",
+  "date": "2023-06-26",
+  "dateDisplay": "June 26, 2023",
+  "seriesId": "weaponized-podcast",
+  "episodeNumber": 23,
+  "episodeTitle": "Whitley Strieber — Communion, The Visitors, and Readiness for Disclosure",
+  "status": "Published",
+  "mediaType": "Podcast episode",
+  "mediaPlatform": "WEAPONIZED",
+  "mediaHost": "Jeremy Corbell and George Knapp",
+  "mediaGuests": [
+    "whitley-strieber"
+  ],
+  "mediaSubjects": [],
+  "principalClaims": [
+    "claim-weaponized-23-1",
+    "claim-weaponized-23-2",
+    "claim-weaponized-23-3",
+    "claim-weaponized-23-4"
+  ],
+  "researchNotes": [],
+  "keyDiscussionTopics": [
+    "Experiencer testimony",
+    "Communion",
+    "Non-human intelligence",
+    "Disclosure readiness"
+  ],
+  "relationships": [
+    {
+      "type": "episode_of",
+      "target": "weaponized-podcast"
+    },
+    {
+      "type": "features_person",
+      "target": "jeremy-corbell",
+      "role": "host",
+      "context": "WEAPONIZED co-host"
+    },
+    {
+      "type": "features_person",
+      "target": "george-knapp",
+      "role": "host",
+      "context": "WEAPONIZED co-host"
+    },
+    {
+      "type": "features_person",
+      "target": "whitley-strieber",
+      "role": "guest",
+      "context": "Featured interview guest and experiencer"
+    }
+  ],
+  "mediaLinks": [
+    {
+      "label": "Open the official Episode #23 page",
+      "url": "https://www.weaponizedpodcast.com/episodes-1/episode-number-23",
+      "platform": "WEAPONIZED"
+    },
+    {
+      "label": "Listen to WEAPONIZED",
+      "url": "https://link.chtbl.com/Weaponized",
+      "platform": "Official audio feed"
+    }
+  ],
+  "eventCategory": "Podcast publication",
+  "officialLinks": [],
+  "referenceSources": [
+    {
+      "label": "Official WEAPONIZED Episode #23 page",
+      "url": "https://www.weaponizedpodcast.com/episodes-1/episode-number-23",
+      "sourceType": "official_episode_page",
+      "role": "source"
+    },
+    {
+      "label": "Listen to WEAPONIZED",
+      "url": "https://link.chtbl.com/Weaponized",
+      "sourceType": "official_audio_feed",
+      "role": "source"
+    }
+  ]
+}

@@ -1,0 +1,106 @@
+{
+  "id": "2023-weaponized-episode-27",
+  "type": "podcast_episode",
+  "name": "WEAPONIZED Episode #27 — The Historic House UAP Hearing and a Fresh Look at the Nimitz Tic Tac Case",
+  "summary": "Ahead of the July 2023 House hearing, Jeremy Corbell and George Knapp explain why the testimony of David Grusch, David Fravor, and Ryan Graves should be considered historic and revisit the Nimitz Tic Tac encounter through a key eyewitness account.",
+  "date": "2023-07-24",
+  "dateDisplay": "July 24, 2023",
+  "seriesId": "weaponized-podcast",
+  "episodeNumber": 27,
+  "episodeTitle": "The Historic House UAP Hearing and a Fresh Look at the Nimitz Tic Tac Case",
+  "status": "Published",
+  "mediaType": "Podcast episode",
+  "mediaPlatform": "WEAPONIZED",
+  "mediaHost": "Jeremy Corbell and George Knapp",
+  "mediaGuests": [],
+  "mediaSubjects": [],
+  "principalClaims": [
+    "claim-weaponized-27-1",
+    "claim-weaponized-27-2",
+    "claim-weaponized-27-3",
+    "claim-weaponized-27-4"
+  ],
+  "researchNotes": [],
+  "keyDiscussionTopics": [
+    "2023 House UAP hearing",
+    "Nimitz Tic Tac encounter",
+    "Military eyewitnesses",
+    "UAP testimony"
+  ],
+  "relationships": [
+    {
+      "type": "episode_of",
+      "target": "weaponized-podcast"
+    },
+    {
+      "type": "features_person",
+      "target": "jeremy-corbell",
+      "role": "host",
+      "context": "WEAPONIZED co-host"
+    },
+    {
+      "type": "features_person",
+      "target": "george-knapp",
+      "role": "host",
+      "context": "WEAPONIZED co-host"
+    },
+    {
+      "type": "references_case",
+      "target": "2023-07-26-house-oversight-uap",
+      "role": "subject",
+      "context": "Hearing previewed in the episode"
+    },
+    {
+      "type": "references_case",
+      "target": "2004-nimitz-encounter",
+      "role": "subject",
+      "context": "Tic Tac case revisited"
+    },
+    {
+      "type": "references_person",
+      "target": "david-fravor",
+      "role": "subject",
+      "context": "Key Nimitz witness and hearing witness"
+    },
+    {
+      "type": "references_person",
+      "target": "david-grusch",
+      "role": "context",
+      "context": "Scheduled hearing witness"
+    },
+    {
+      "type": "references_person",
+      "target": "ryan-graves",
+      "role": "context",
+      "context": "Scheduled hearing witness"
+    }
+  ],
+  "mediaLinks": [
+    {
+      "label": "Open the official Episode #27 page",
+      "url": "https://www.weaponizedpodcast.com/episodes-1/episode-number-27",
+      "platform": "WEAPONIZED"
+    },
+    {
+      "label": "Listen to WEAPONIZED",
+      "url": "https://link.chtbl.com/Weaponized",
+      "platform": "Official audio feed"
+    }
+  ],
+  "eventCategory": "Podcast publication",
+  "officialLinks": [],
+  "referenceSources": [
+    {
+      "label": "Official WEAPONIZED Episode #27 page",
+      "url": "https://www.weaponizedpodcast.com/episodes-1/episode-number-27",
+      "sourceType": "official_episode_page",
+      "role": "source"
+    },
+    {
+      "label": "Listen to WEAPONIZED",
+      "url": "https://link.chtbl.com/Weaponized",
+      "sourceType": "official_audio_feed",
+      "role": "source"
+    }
+  ]
+}

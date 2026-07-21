@@ -1,0 +1,21 @@
+{
+  "id": "claim-weaponized-24-2",
+  "type": "claim",
+  "name": "Canadian officials were being urged to investigate alleged multinational UAP reverse-engineering activity.",
+  "summary": "Claim or framing presented in WEAPONIZED Episode #24.",
+  "relationships": [
+    {
+      "type": "featured_in_media",
+      "target": "2023-weaponized-episode-24"
+    }
+  ],
+  "officialLinks": [],
+  "referenceSources": [
+    {
+      "label": "Official WEAPONIZED Episode #24 page",
+      "url": "https://www.weaponizedpodcast.com/episodes-1/episode-number-24",
+      "sourceType": "official_episode_page",
+      "role": "source"
+    }
+  ]
+}

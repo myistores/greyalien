@@ -1,0 +1,21 @@
+{
+  "id": "claim-weaponized-29-1",
+  "type": "claim",
+  "name": "The Nimitz carrier group detected unidentified objects repeatedly over approximately two weeks in November 2004.",
+  "summary": "Claim or framing presented in WEAPONIZED Episode #29.",
+  "relationships": [
+    {
+      "type": "featured_in_media",
+      "target": "2023-weaponized-episode-29"
+    }
+  ],
+  "officialLinks": [],
+  "referenceSources": [
+    {
+      "label": "Official WEAPONIZED Episode #29 page",
+      "url": "https://www.weaponizedpodcast.com/episodes-1/episode-number-29",
+      "sourceType": "official_episode_page",
+      "role": "source"
+    }
+  ]
+}

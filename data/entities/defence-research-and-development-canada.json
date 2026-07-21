@@ -1,0 +1,21 @@
+{
+  "id": "defence-research-and-development-canada",
+  "type": "organization",
+  "name": "Defence Research and Development Canada",
+  "summary": "Canadian defense science and technology organization referenced in connection with alleged recovered UAP material.",
+  "relationships": [
+    {
+      "type": "discussed_in_interview",
+      "target": "2023-weaponized-episode-22"
+    }
+  ],
+  "officialLinks": [],
+  "referenceSources": [
+    {
+      "label": "Official WEAPONIZED Episode #22 page",
+      "url": "https://www.weaponizedpodcast.com/episodes-1/episode-number-22",
+      "sourceType": "official_episode_page",
+      "role": "source"
+    }
+  ]
+}

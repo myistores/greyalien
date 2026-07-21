@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "generatedBy": "tools/build_related_content.py",
-  "generatedAt": "2026-07-21T16:56:45.948555+00:00",
+  "generatedAt": "2026-07-21T17:28:07.026804+00:00",
   "referencedIn": {
     "1960s-area-51-engine-claim": [
       {
@@ -335,6 +335,22 @@
         "relationshipType": "reported_case",
         "role": "",
         "context": ""
+      },
+      {
+        "id": "2023-weaponized-episode-27",
+        "type": "podcast_episode",
+        "name": "WEAPONIZED Episode #27 — The Historic House UAP Hearing and a Fresh Look at the Nimitz Tic Tac Case",
+        "relationshipType": "references_case",
+        "role": "subject",
+        "context": "Tic Tac case revisited"
+      },
+      {
+        "id": "2023-weaponized-episode-29",
+        "type": "podcast_episode",
+        "name": "WEAPONIZED Episode #29 — David Fravor and the Nimitz Tic Tac Encounter",
+        "relationshipType": "references_case",
+        "role": "subject",
+        "context": "Principal case examined"
       },
       {
         "id": "2024-weaponized-episode-61",
@@ -691,12 +707,52 @@
         "context": "Testified publicly under oath about pilot reporting and aviation safety"
       },
       {
+        "id": "2023-weaponized-episode-24",
+        "type": "podcast_episode",
+        "name": "WEAPONIZED Episode #24 — Congressional Momentum, Canadian Transparency, and Barriers to UAP Disclosure",
+        "relationshipType": "references_case",
+        "role": "context",
+        "context": "Discusses the emerging congressional disclosure process"
+      },
+      {
+        "id": "2023-weaponized-episode-25",
+        "type": "podcast_episode",
+        "name": "WEAPONIZED Episode #25 — Tim Burchett, Congressional UFO Hearings, and the Coming House Testimony",
+        "relationshipType": "references_case",
+        "role": "subject",
+        "context": "Upcoming public UAP hearing discussed in the episode"
+      },
+      {
+        "id": "2023-weaponized-episode-26",
+        "type": "podcast_episode",
+        "name": "WEAPONIZED Episode #26 — The UAP Disclosure Act, Chuck Schumer, and the Upcoming House Hearing",
+        "relationshipType": "references_case",
+        "role": "context",
+        "context": "Upcoming hearing discussed"
+      },
+      {
+        "id": "2023-weaponized-episode-27",
+        "type": "podcast_episode",
+        "name": "WEAPONIZED Episode #27 — The Historic House UAP Hearing and a Fresh Look at the Nimitz Tic Tac Case",
+        "relationshipType": "references_case",
+        "role": "subject",
+        "context": "Hearing previewed in the episode"
+      },
+      {
         "id": "2023-weaponized-episode-28",
         "type": "podcast_episode",
         "name": "WEAPONIZED Episode #28 — Congressional Hearing Roundtable",
         "relationshipType": "followed_hearing",
         "role": "",
         "context": "Post-hearing roundtable examining the testimony and next steps"
+      },
+      {
+        "id": "2023-weaponized-episode-30",
+        "type": "podcast_episode",
+        "name": "WEAPONIZED Episode #30 — David Grusch, Whistleblower Retaliation, and the Attempt to Discredit His Testimony",
+        "relationshipType": "references_case",
+        "role": "context",
+        "context": "Follows Grusch’s public congressional testimony"
       },
       {
         "id": "2024-weaponized-episode-55",
@@ -1452,7 +1508,349 @@
       }
     ],
     "2023-weaponized-episode-21": [],
+    "2023-weaponized-episode-22": [
+      {
+        "id": "claim-weaponized-22-1",
+        "type": "claim",
+        "name": "Larry Maguire’s letter alleges a multinational Five Eyes effort to analyze and reverse-engineer recovered UAP materials.",
+        "relationshipType": "featured_in_media",
+        "role": "",
+        "context": ""
+      },
+      {
+        "id": "claim-weaponized-22-3",
+        "type": "claim",
+        "name": "Maguire urged Canada to address the UAP issue before further disclosures damage public trust.",
+        "relationshipType": "featured_in_media",
+        "role": "",
+        "context": ""
+      },
+      {
+        "id": "claim-weaponized-22-4",
+        "type": "claim",
+        "name": "The episode presents the letter as evidence requiring government oversight and public scrutiny, not as independently proven confirmation of every allegation.",
+        "relationshipType": "featured_in_media",
+        "role": "",
+        "context": ""
+      },
+      {
+        "id": "claim-weaponized-22-2",
+        "type": "claim",
+        "name": "The letter states that some allegedly recovered materials date to the early 1950s.",
+        "relationshipType": "featured_in_media",
+        "role": "",
+        "context": ""
+      },
+      {
+        "id": "defence-research-and-development-canada",
+        "type": "organization",
+        "name": "Defence Research and Development Canada",
+        "relationshipType": "discussed_in_interview",
+        "role": "",
+        "context": ""
+      },
+      {
+        "id": "five-eyes",
+        "type": "organization",
+        "name": "Five Eyes",
+        "relationshipType": "discussed_in_interview",
+        "role": "",
+        "context": ""
+      },
+      {
+        "id": "larry-maguire",
+        "type": "person",
+        "name": "Larry Maguire",
+        "relationshipType": "appeared_in",
+        "role": "guest",
+        "context": "Featured in WEAPONIZED Episode #22"
+      },
+      {
+        "id": "timeline-2023-06-19-weaponized-episode-22",
+        "type": "timeline_event",
+        "name": "WEAPONIZED Episode #22 published",
+        "relationshipType": "event_for",
+        "role": "",
+        "context": ""
+      }
+    ],
+    "2023-weaponized-episode-23": [
+      {
+        "id": "claim-weaponized-23-2",
+        "type": "claim",
+        "name": "Strieber characterizes the phenomenon as more complex than a single extraterrestrial explanation.",
+        "relationshipType": "featured_in_media",
+        "role": "",
+        "context": ""
+      },
+      {
+        "id": "claim-weaponized-23-4",
+        "type": "claim",
+        "name": "The interview connects experiencer testimony with contemporary debates over crash retrievals, whistleblowers, secrecy, and disclosure.",
+        "relationshipType": "featured_in_media",
+        "role": "",
+        "context": ""
+      },
+      {
+        "id": "claim-weaponized-23-3",
+        "type": "claim",
+        "name": "The public response to Communion included large numbers of readers reporting broadly similar experiences.",
+        "relationshipType": "featured_in_media",
+        "role": "",
+        "context": ""
+      },
+      {
+        "id": "claim-weaponized-23-1",
+        "type": "claim",
+        "name": "Whitley Strieber reports that unusual encounters described in Communion continued after the book’s publication.",
+        "relationshipType": "featured_in_media",
+        "role": "",
+        "context": ""
+      },
+      {
+        "id": "whitley-strieber",
+        "type": "person",
+        "name": "Whitley Strieber",
+        "relationshipType": "appeared_in",
+        "role": "guest",
+        "context": "Featured in WEAPONIZED Episode #23"
+      },
+      {
+        "id": "timeline-2023-06-26-weaponized-episode-23",
+        "type": "timeline_event",
+        "name": "WEAPONIZED Episode #23 published",
+        "relationshipType": "event_for",
+        "role": "",
+        "context": ""
+      }
+    ],
+    "2023-weaponized-episode-24": [
+      {
+        "id": "claim-weaponized-24-2",
+        "type": "claim",
+        "name": "Canadian officials were being urged to investigate alleged multinational UAP reverse-engineering activity.",
+        "relationshipType": "featured_in_media",
+        "role": "",
+        "context": ""
+      },
+      {
+        "id": "claim-weaponized-24-3",
+        "type": "claim",
+        "name": "Special-access programs and defense-contractor custody were identified as possible barriers to congressional oversight.",
+        "relationshipType": "featured_in_media",
+        "role": "",
+        "context": ""
+      },
+      {
+        "id": "claim-weaponized-24-4",
+        "type": "claim",
+        "name": "The episode argues that legislative momentum had increased while full disclosure remained uncertain.",
+        "relationshipType": "featured_in_media",
+        "role": "",
+        "context": ""
+      },
+      {
+        "id": "claim-weaponized-24-1",
+        "type": "claim",
+        "name": "U.S. lawmakers were pursuing access not only to UAP files but also to alleged recovered hardware and materials.",
+        "relationshipType": "featured_in_media",
+        "role": "",
+        "context": ""
+      },
+      {
+        "id": "timeline-2023-07-03-weaponized-episode-24",
+        "type": "timeline_event",
+        "name": "WEAPONIZED Episode #24 published",
+        "relationshipType": "event_for",
+        "role": "",
+        "context": ""
+      }
+    ],
+    "2023-weaponized-episode-25": [
+      {
+        "id": "claim-weaponized-25-4",
+        "type": "claim",
+        "name": "Representative Tim Burchett discussed expectations for the hearing and the need for greater transparency.",
+        "relationshipType": "featured_in_media",
+        "role": "",
+        "context": ""
+      },
+      {
+        "id": "claim-weaponized-25-2",
+        "type": "claim",
+        "name": "Senate language sought information from special-access programs and contractors that might possess exotic materials.",
+        "relationshipType": "featured_in_media",
+        "role": "",
+        "context": ""
+      },
+      {
+        "id": "claim-weaponized-25-3",
+        "type": "claim",
+        "name": "The House Oversight Committee was preparing a public hearing with whistleblowers and eyewitnesses.",
+        "relationshipType": "featured_in_media",
+        "role": "",
+        "context": ""
+      },
+      {
+        "id": "claim-weaponized-25-1",
+        "type": "claim",
+        "name": "UAP oversight had developed into a bipartisan issue in both chambers of Congress.",
+        "relationshipType": "featured_in_media",
+        "role": "",
+        "context": ""
+      },
+      {
+        "id": "timeline-2023-07-10-weaponized-episode-25",
+        "type": "timeline_event",
+        "name": "WEAPONIZED Episode #25 published",
+        "relationshipType": "event_for",
+        "role": "",
+        "context": ""
+      }
+    ],
+    "2023-weaponized-episode-26": [
+      {
+        "id": "claim-weaponized-26-4",
+        "type": "claim",
+        "name": "Chris Sharp discussed both the potential impact of the legislation and the significance of the upcoming House hearing.",
+        "relationshipType": "featured_in_media",
+        "role": "",
+        "context": ""
+      },
+      {
+        "id": "claim-weaponized-26-1",
+        "type": "claim",
+        "name": "Chuck Schumer’s proposal sought release and review of long-classified UAP records.",
+        "relationshipType": "featured_in_media",
+        "role": "",
+        "context": ""
+      },
+      {
+        "id": "claim-weaponized-26-3",
+        "type": "claim",
+        "name": "Harry Reid’s earlier support for UAP investigations was presented as an important precursor to the legislation.",
+        "relationshipType": "featured_in_media",
+        "role": "",
+        "context": ""
+      },
+      {
+        "id": "claim-weaponized-26-2",
+        "type": "claim",
+        "name": "The proposed legislation explicitly addressed possible government, contractor, and private custody of non-human technology or biological evidence.",
+        "relationshipType": "featured_in_media",
+        "role": "",
+        "context": ""
+      },
+      {
+        "id": "chuck-schumer",
+        "type": "person",
+        "name": "Chuck Schumer",
+        "relationshipType": "appeared_in",
+        "role": "guest",
+        "context": "Featured in WEAPONIZED Episode #26"
+      },
+      {
+        "id": "harry-reid",
+        "type": "person",
+        "name": "Harry Reid",
+        "relationshipType": "appeared_in",
+        "role": "guest",
+        "context": "Featured in WEAPONIZED Episode #26"
+      },
+      {
+        "id": "timeline-2023-07-17-weaponized-episode-26",
+        "type": "timeline_event",
+        "name": "WEAPONIZED Episode #26 published",
+        "relationshipType": "event_for",
+        "role": "",
+        "context": ""
+      }
+    ],
+    "2023-weaponized-episode-27": [
+      {
+        "id": "claim-weaponized-27-2",
+        "type": "claim",
+        "name": "The episode argues that the hearing was historically significant even where some underlying cases were already public.",
+        "relationshipType": "featured_in_media",
+        "role": "",
+        "context": ""
+      },
+      {
+        "id": "claim-weaponized-27-4",
+        "type": "claim",
+        "name": "The hosts reject the idea that familiarity with the Tic Tac case makes renewed sworn testimony unimportant.",
+        "relationshipType": "featured_in_media",
+        "role": "",
+        "context": ""
+      },
+      {
+        "id": "claim-weaponized-27-1",
+        "type": "claim",
+        "name": "The July 2023 House hearing was expected to feature David Grusch, David Fravor, and Ryan Graves.",
+        "relationshipType": "featured_in_media",
+        "role": "",
+        "context": ""
+      },
+      {
+        "id": "claim-weaponized-27-3",
+        "type": "claim",
+        "name": "The Nimitz Tic Tac case is revisited through testimony from a key eyewitness involved in documenting the carrier group’s encounter.",
+        "relationshipType": "featured_in_media",
+        "role": "",
+        "context": ""
+      },
+      {
+        "id": "timeline-2023-07-24-weaponized-episode-27",
+        "type": "timeline_event",
+        "name": "WEAPONIZED Episode #27 published",
+        "relationshipType": "event_for",
+        "role": "",
+        "context": ""
+      }
+    ],
     "2023-weaponized-episode-28": [],
+    "2023-weaponized-episode-29": [
+      {
+        "id": "claim-weaponized-29-2",
+        "type": "claim",
+        "name": "David Fravor was directed to intercept one object later widely known as the Tic Tac UAP.",
+        "relationshipType": "featured_in_media",
+        "role": "",
+        "context": ""
+      },
+      {
+        "id": "claim-weaponized-29-4",
+        "type": "claim",
+        "name": "Fravor’s public testimony became a major catalyst for renewed UAP reporting and disclosure demands.",
+        "relationshipType": "featured_in_media",
+        "role": "",
+        "context": ""
+      },
+      {
+        "id": "claim-weaponized-29-3",
+        "type": "claim",
+        "name": "The encounter was not formally investigated until years after it occurred.",
+        "relationshipType": "featured_in_media",
+        "role": "",
+        "context": ""
+      },
+      {
+        "id": "claim-weaponized-29-1",
+        "type": "claim",
+        "name": "The Nimitz carrier group detected unidentified objects repeatedly over approximately two weeks in November 2004.",
+        "relationshipType": "featured_in_media",
+        "role": "",
+        "context": ""
+      },
+      {
+        "id": "timeline-2023-08-07-weaponized-episode-29",
+        "type": "timeline_event",
+        "name": "WEAPONIZED Episode #29 published",
+        "relationshipType": "event_for",
+        "role": "",
+        "context": ""
+      }
+    ],
     "2023-weaponized-episode-3": [
       {
         "id": "claim-weaponized-3-1",
@@ -1490,6 +1888,106 @@
         "id": "timeline-2023-02-06-weaponized-episode-3",
         "type": "timeline_event",
         "name": "WEAPONIZED Episode #3 published",
+        "relationshipType": "event_for",
+        "role": "",
+        "context": ""
+      }
+    ],
+    "2023-weaponized-episode-30": [
+      {
+        "id": "claim-weaponized-30-1",
+        "type": "claim",
+        "name": "David Grusch said he interviewed more than forty people with claimed firsthand knowledge of hidden UAP programs.",
+        "relationshipType": "featured_in_media",
+        "role": "",
+        "context": ""
+      },
+      {
+        "id": "claim-weaponized-30-3",
+        "type": "claim",
+        "name": "Disclosure of information about his prior PTSD treatment was portrayed as an attempt to damage his credibility.",
+        "relationshipType": "featured_in_media",
+        "role": "",
+        "context": ""
+      },
+      {
+        "id": "claim-weaponized-30-2",
+        "type": "claim",
+        "name": "Grusch had filed complaints alleging retaliation through intelligence-community oversight channels.",
+        "relationshipType": "featured_in_media",
+        "role": "",
+        "context": ""
+      },
+      {
+        "id": "claim-weaponized-30-4",
+        "type": "claim",
+        "name": "The episode argues that attacks on Grusch could discourage other potential whistleblowers from coming forward.",
+        "relationshipType": "featured_in_media",
+        "role": "",
+        "context": ""
+      },
+      {
+        "id": "timeline-2023-08-14-weaponized-episode-30",
+        "type": "timeline_event",
+        "name": "WEAPONIZED Episode #30 published",
+        "relationshipType": "event_for",
+        "role": "",
+        "context": ""
+      }
+    ],
+    "2023-weaponized-episode-31": [
+      {
+        "id": "claim-weaponized-31-3",
+        "type": "claim",
+        "name": "Citizen-led state reforms have established minimum animal-welfare standards in multiple jurisdictions.",
+        "relationshipType": "featured_in_media",
+        "role": "",
+        "context": ""
+      },
+      {
+        "id": "claim-weaponized-31-1",
+        "type": "claim",
+        "name": "Factory-farming systems can impose severe and prolonged suffering on large numbers of animals.",
+        "relationshipType": "featured_in_media",
+        "role": "",
+        "context": ""
+      },
+      {
+        "id": "claim-weaponized-31-4",
+        "type": "claim",
+        "name": "Large agricultural interests were described as seeking federal action that could override state-level protections.",
+        "relationshipType": "featured_in_media",
+        "role": "",
+        "context": ""
+      },
+      {
+        "id": "claim-weaponized-31-2",
+        "type": "claim",
+        "name": "The episode argues that industrial animal agriculture can also create harms for human health and communities.",
+        "relationshipType": "featured_in_media",
+        "role": "",
+        "context": ""
+      },
+      {
+        "id": "animal-wellness-action",
+        "type": "organization",
+        "name": "Animal Wellness Action",
+        "relationshipType": "discussed_in_interview",
+        "role": "",
+        "context": ""
+      },
+      {
+        "id": "wayne-pacelle",
+        "type": "person",
+        "name": "Wayne Pacelle",
+        "relationshipType": "appeared_in",
+        "role": "guest",
+        "context": "Featured in WEAPONIZED Episode #31"
+      },
+      {
+        "id": "timeline-2023-08-21-weaponized-episode-31",
+        "type": "timeline_event",
+        "name": "WEAPONIZED Episode #31 published",
         "relationshipType": "event_for",
         "role": "",
         "context": ""
@@ -5098,6 +5596,16 @@
       }
     ],
     "anamaria-berea": [],
+    "animal-wellness-action": [
+      {
+        "id": "2023-weaponized-episode-31",
+        "type": "podcast_episode",
+        "name": "WEAPONIZED Episode #31 — Wayne Pacelle — Factory Farming, Animal Welfare, and Corporate Power",
+        "relationshipType": "references_organization",
+        "role": "context",
+        "context": "Organization identified for further information"
+      }
+    ],
     "anna-paulina-luna": [
       {
         "id": "2026-03-31-house-uap-video-request-letter",
@@ -5837,6 +6345,14 @@
         "context": "Featured episode participant"
       },
       {
+        "id": "2023-weaponized-episode-26",
+        "type": "podcast_episode",
+        "name": "WEAPONIZED Episode #26 — The UAP Disclosure Act, Chuck Schumer, and the Upcoming House Hearing",
+        "relationshipType": "features_person",
+        "role": "guest",
+        "context": "Journalist discussing UAP legislation"
+      },
+      {
         "id": "2023-weaponized-episode-44",
         "type": "podcast_episode",
         "name": "WEAPONIZED Episode #44 — The Fight Over the UAP Disclosure Act",
@@ -5902,6 +6418,16 @@
         "relationshipType": "timeline_connection",
         "role": "participant",
         "context": "National Security Affairs Advisor and former government official"
+      }
+    ],
+    "chuck-schumer": [
+      {
+        "id": "2023-weaponized-episode-26",
+        "type": "podcast_episode",
+        "name": "WEAPONIZED Episode #26 — The UAP Disclosure Act, Chuck Schumer, and the Upcoming House Hearing",
+        "relationshipType": "references_person",
+        "role": "subject",
+        "context": "Sponsor associated with proposed disclosure legislation"
       }
     ],
     "claim-2017-nyt-ufo-report-changed-public-discourse": [],
@@ -6743,10 +7269,46 @@
     "claim-weaponized-20-2": [],
     "claim-weaponized-20-3": [],
     "claim-weaponized-20-4": [],
+    "claim-weaponized-22-1": [],
+    "claim-weaponized-22-2": [],
+    "claim-weaponized-22-3": [],
+    "claim-weaponized-22-4": [],
+    "claim-weaponized-23-1": [],
+    "claim-weaponized-23-2": [],
+    "claim-weaponized-23-3": [],
+    "claim-weaponized-23-4": [],
+    "claim-weaponized-24-1": [],
+    "claim-weaponized-24-2": [],
+    "claim-weaponized-24-3": [],
+    "claim-weaponized-24-4": [],
+    "claim-weaponized-25-1": [],
+    "claim-weaponized-25-2": [],
+    "claim-weaponized-25-3": [],
+    "claim-weaponized-25-4": [],
+    "claim-weaponized-26-1": [],
+    "claim-weaponized-26-2": [],
+    "claim-weaponized-26-3": [],
+    "claim-weaponized-26-4": [],
+    "claim-weaponized-27-1": [],
+    "claim-weaponized-27-2": [],
+    "claim-weaponized-27-3": [],
+    "claim-weaponized-27-4": [],
+    "claim-weaponized-29-1": [],
+    "claim-weaponized-29-2": [],
+    "claim-weaponized-29-3": [],
+    "claim-weaponized-29-4": [],
     "claim-weaponized-3-1": [],
     "claim-weaponized-3-2": [],
     "claim-weaponized-3-3": [],
     "claim-weaponized-3-4": [],
+    "claim-weaponized-30-1": [],
+    "claim-weaponized-30-2": [],
+    "claim-weaponized-30-3": [],
+    "claim-weaponized-30-4": [],
+    "claim-weaponized-31-1": [],
+    "claim-weaponized-31-2": [],
+    "claim-weaponized-31-3": [],
+    "claim-weaponized-31-4": [],
     "claim-weaponized-4-1": [],
     "claim-weaponized-4-2": [],
     "claim-weaponized-4-3": [],
@@ -7493,12 +8055,28 @@
         "context": ""
       },
       {
+        "id": "2023-weaponized-episode-27",
+        "type": "podcast_episode",
+        "name": "WEAPONIZED Episode #27 — The Historic House UAP Hearing and a Fresh Look at the Nimitz Tic Tac Case",
+        "relationshipType": "references_person",
+        "role": "subject",
+        "context": "Key Nimitz witness and hearing witness"
+      },
+      {
         "id": "2023-weaponized-episode-28",
         "type": "podcast_episode",
         "name": "WEAPONIZED Episode #28 — Congressional Hearing Roundtable",
         "relationshipType": "features_person",
         "role": "primary_subject",
         "context": "Congressional witness discussed in the episode"
+      },
+      {
+        "id": "2023-weaponized-episode-29",
+        "type": "podcast_episode",
+        "name": "WEAPONIZED Episode #29 — David Fravor and the Nimitz Tic Tac Encounter",
+        "relationshipType": "features_person",
+        "role": "subject",
+        "context": "Principal military witness"
       },
       {
         "id": "2024-weaponized-episode-55",
@@ -7544,12 +8122,28 @@
         "context": "Central subject of the episode following his first public disclosures"
       },
       {
+        "id": "2023-weaponized-episode-27",
+        "type": "podcast_episode",
+        "name": "WEAPONIZED Episode #27 — The Historic House UAP Hearing and a Fresh Look at the Nimitz Tic Tac Case",
+        "relationshipType": "references_person",
+        "role": "context",
+        "context": "Scheduled hearing witness"
+      },
+      {
         "id": "2023-weaponized-episode-28",
         "type": "podcast_episode",
         "name": "WEAPONIZED Episode #28 — Congressional Hearing Roundtable",
         "relationshipType": "features_person",
         "role": "primary_subject",
         "context": "Congressional witness discussed in the episode"
+      },
+      {
+        "id": "2023-weaponized-episode-30",
+        "type": "podcast_episode",
+        "name": "WEAPONIZED Episode #30 — David Grusch, Whistleblower Retaliation, and the Attempt to Discredit His Testimony",
+        "relationshipType": "features_person",
+        "role": "subject",
+        "context": "Whistleblower whose treatment and allegations are examined"
       },
       {
         "id": "2023-weaponized-episode-42",
@@ -7620,6 +8214,16 @@
     ],
     "david-schindele": [],
     "david-spergel": [],
+    "defence-research-and-development-canada": [
+      {
+        "id": "2023-weaponized-episode-22",
+        "type": "podcast_episode",
+        "name": "WEAPONIZED Episode #22 — Allied UAP Reverse-Engineering Programs and the Larry Maguire Letter",
+        "relationshipType": "references_organization",
+        "role": "subject",
+        "context": "Canadian organization discussed in the letter"
+      }
+    ],
     "defense-intelligence-agency": [
       {
         "id": "aawsap",
@@ -8432,6 +9036,24 @@
       }
     ],
     "federica-bianco": [],
+    "five-eyes": [
+      {
+        "id": "2023-weaponized-episode-22",
+        "type": "podcast_episode",
+        "name": "WEAPONIZED Episode #22 — Allied UAP Reverse-Engineering Programs and the Larry Maguire Letter",
+        "relationshipType": "references_organization",
+        "role": "subject",
+        "context": "Alliance alleged to coordinate UAP exploitation programs"
+      },
+      {
+        "id": "2023-weaponized-episode-24",
+        "type": "podcast_episode",
+        "name": "WEAPONIZED Episode #24 — Congressional Momentum, Canadian Transparency, and Barriers to UAP Disclosure",
+        "relationshipType": "references_organization",
+        "role": "context",
+        "context": "Discusses allied transparency and alleged reverse-engineering efforts"
+      }
+    ],
     "five-observables": [
       {
         "id": "2026-weaponized-episode-108",
@@ -8773,6 +9395,54 @@
         "context": "WEAPONIZED co-host"
       },
       {
+        "id": "2023-weaponized-episode-22",
+        "type": "podcast_episode",
+        "name": "WEAPONIZED Episode #22 — Allied UAP Reverse-Engineering Programs and the Larry Maguire Letter",
+        "relationshipType": "features_person",
+        "role": "host",
+        "context": "WEAPONIZED co-host"
+      },
+      {
+        "id": "2023-weaponized-episode-23",
+        "type": "podcast_episode",
+        "name": "WEAPONIZED Episode #23 — Whitley Strieber — Communion, The Visitors, and Readiness for Disclosure",
+        "relationshipType": "features_person",
+        "role": "host",
+        "context": "WEAPONIZED co-host"
+      },
+      {
+        "id": "2023-weaponized-episode-24",
+        "type": "podcast_episode",
+        "name": "WEAPONIZED Episode #24 — Congressional Momentum, Canadian Transparency, and Barriers to UAP Disclosure",
+        "relationshipType": "features_person",
+        "role": "host",
+        "context": "WEAPONIZED co-host"
+      },
+      {
+        "id": "2023-weaponized-episode-25",
+        "type": "podcast_episode",
+        "name": "WEAPONIZED Episode #25 — Tim Burchett, Congressional UFO Hearings, and the Coming House Testimony",
+        "relationshipType": "features_person",
+        "role": "host",
+        "context": "WEAPONIZED co-host"
+      },
+      {
+        "id": "2023-weaponized-episode-26",
+        "type": "podcast_episode",
+        "name": "WEAPONIZED Episode #26 — The UAP Disclosure Act, Chuck Schumer, and the Upcoming House Hearing",
+        "relationshipType": "features_person",
+        "role": "host",
+        "context": "WEAPONIZED co-host"
+      },
+      {
+        "id": "2023-weaponized-episode-27",
+        "type": "podcast_episode",
+        "name": "WEAPONIZED Episode #27 — The Historic House UAP Hearing and a Fresh Look at the Nimitz Tic Tac Case",
+        "relationshipType": "features_person",
+        "role": "host",
+        "context": "WEAPONIZED co-host"
+      },
+      {
         "id": "2023-weaponized-episode-28",
         "type": "podcast_episode",
         "name": "WEAPONIZED Episode #28 — Congressional Hearing Roundtable",
@@ -8781,9 +9451,33 @@
         "context": "WEAPONIZED co-host"
       },
       {
+        "id": "2023-weaponized-episode-29",
+        "type": "podcast_episode",
+        "name": "WEAPONIZED Episode #29 — David Fravor and the Nimitz Tic Tac Encounter",
+        "relationshipType": "features_person",
+        "role": "host",
+        "context": "WEAPONIZED co-host"
+      },
+      {
         "id": "2023-weaponized-episode-3",
         "type": "podcast_episode",
         "name": "WEAPONIZED Episode #3 — Jay Stratton — AAWSAP, AATIP, and the UAP Task Force",
+        "relationshipType": "features_person",
+        "role": "host",
+        "context": "WEAPONIZED co-host"
+      },
+      {
+        "id": "2023-weaponized-episode-30",
+        "type": "podcast_episode",
+        "name": "WEAPONIZED Episode #30 — David Grusch, Whistleblower Retaliation, and the Attempt to Discredit His Testimony",
+        "relationshipType": "features_person",
+        "role": "host",
+        "context": "WEAPONIZED co-host"
+      },
+      {
+        "id": "2023-weaponized-episode-31",
+        "type": "podcast_episode",
+        "name": "WEAPONIZED Episode #31 — Wayne Pacelle — Factory Farming, Animal Welfare, and Corporate Power",
         "relationshipType": "features_person",
         "role": "host",
         "context": "WEAPONIZED co-host"
@@ -10189,6 +10883,16 @@
     ],
     "harald-malmgren": [],
     "harold-brown": [],
+    "harry-reid": [
+      {
+        "id": "2023-weaponized-episode-26",
+        "type": "podcast_episode",
+        "name": "WEAPONIZED Episode #26 — The UAP Disclosure Act, Chuck Schumer, and the Upcoming House Hearing",
+        "relationshipType": "references_person",
+        "role": "context",
+        "context": "Credited as an influence on modern UAP oversight"
+      }
+    ],
     "harvard-university": [
       {
         "id": "2025-weaponized-episode-69",
@@ -11059,6 +11763,54 @@
         "context": "WEAPONIZED co-host"
       },
       {
+        "id": "2023-weaponized-episode-22",
+        "type": "podcast_episode",
+        "name": "WEAPONIZED Episode #22 — Allied UAP Reverse-Engineering Programs and the Larry Maguire Letter",
+        "relationshipType": "features_person",
+        "role": "host",
+        "context": "WEAPONIZED co-host"
+      },
+      {
+        "id": "2023-weaponized-episode-23",
+        "type": "podcast_episode",
+        "name": "WEAPONIZED Episode #23 — Whitley Strieber — Communion, The Visitors, and Readiness for Disclosure",
+        "relationshipType": "features_person",
+        "role": "host",
+        "context": "WEAPONIZED co-host"
+      },
+      {
+        "id": "2023-weaponized-episode-24",
+        "type": "podcast_episode",
+        "name": "WEAPONIZED Episode #24 — Congressional Momentum, Canadian Transparency, and Barriers to UAP Disclosure",
+        "relationshipType": "features_person",
+        "role": "host",
+        "context": "WEAPONIZED co-host"
+      },
+      {
+        "id": "2023-weaponized-episode-25",
+        "type": "podcast_episode",
+        "name": "WEAPONIZED Episode #25 — Tim Burchett, Congressional UFO Hearings, and the Coming House Testimony",
+        "relationshipType": "features_person",
+        "role": "host",
+        "context": "WEAPONIZED co-host"
+      },
+      {
+        "id": "2023-weaponized-episode-26",
+        "type": "podcast_episode",
+        "name": "WEAPONIZED Episode #26 — The UAP Disclosure Act, Chuck Schumer, and the Upcoming House Hearing",
+        "relationshipType": "features_person",
+        "role": "host",
+        "context": "WEAPONIZED co-host"
+      },
+      {
+        "id": "2023-weaponized-episode-27",
+        "type": "podcast_episode",
+        "name": "WEAPONIZED Episode #27 — The Historic House UAP Hearing and a Fresh Look at the Nimitz Tic Tac Case",
+        "relationshipType": "features_person",
+        "role": "host",
+        "context": "WEAPONIZED co-host"
+      },
+      {
         "id": "2023-weaponized-episode-28",
         "type": "podcast_episode",
         "name": "WEAPONIZED Episode #28 — Congressional Hearing Roundtable",
@@ -11067,9 +11819,33 @@
         "context": "WEAPONIZED co-host"
       },
       {
+        "id": "2023-weaponized-episode-29",
+        "type": "podcast_episode",
+        "name": "WEAPONIZED Episode #29 — David Fravor and the Nimitz Tic Tac Encounter",
+        "relationshipType": "features_person",
+        "role": "host",
+        "context": "WEAPONIZED co-host"
+      },
+      {
         "id": "2023-weaponized-episode-3",
         "type": "podcast_episode",
         "name": "WEAPONIZED Episode #3 — Jay Stratton — AAWSAP, AATIP, and the UAP Task Force",
+        "relationshipType": "features_person",
+        "role": "host",
+        "context": "WEAPONIZED co-host"
+      },
+      {
+        "id": "2023-weaponized-episode-30",
+        "type": "podcast_episode",
+        "name": "WEAPONIZED Episode #30 — David Grusch, Whistleblower Retaliation, and the Attempt to Discredit His Testimony",
+        "relationshipType": "features_person",
+        "role": "host",
+        "context": "WEAPONIZED co-host"
+      },
+      {
+        "id": "2023-weaponized-episode-31",
+        "type": "podcast_episode",
+        "name": "WEAPONIZED Episode #31 — Wayne Pacelle — Factory Farming, Animal Welfare, and Corporate Power",
         "relationshipType": "features_person",
         "role": "host",
         "context": "WEAPONIZED co-host"
@@ -11850,6 +12626,16 @@
         "relationshipType": "discussed_topic",
         "role": "",
         "context": ""
+      }
+    ],
+    "larry-maguire": [
+      {
+        "id": "2023-weaponized-episode-22",
+        "type": "podcast_episode",
+        "name": "WEAPONIZED Episode #22 — Allied UAP Reverse-Engineering Programs and the Larry Maguire Letter",
+        "relationshipType": "features_person",
+        "role": "subject",
+        "context": "Author of the letter examined in the episode"
       }
     ],
     "legacy-uap-programs": [
@@ -13276,6 +14062,14 @@
         "context": "Founded and led by Ryan Graves"
       },
       {
+        "id": "2023-weaponized-episode-27",
+        "type": "podcast_episode",
+        "name": "WEAPONIZED Episode #27 — The Historic House UAP Hearing and a Fresh Look at the Nimitz Tic Tac Case",
+        "relationshipType": "references_person",
+        "role": "context",
+        "context": "Scheduled hearing witness"
+      },
+      {
         "id": "2023-weaponized-episode-28",
         "type": "podcast_episode",
         "name": "WEAPONIZED Episode #28 — Congressional Hearing Roundtable",
@@ -14174,6 +14968,14 @@
         "context": "Discussed in the episode"
       },
       {
+        "id": "2023-weaponized-episode-25",
+        "type": "podcast_episode",
+        "name": "WEAPONIZED Episode #25 — Tim Burchett, Congressional UFO Hearings, and the Coming House Testimony",
+        "relationshipType": "features_person",
+        "role": "guest",
+        "context": "Congressional interview guest"
+      },
+      {
         "id": "2024-weaponized-episode-52",
         "type": "podcast_episode",
         "name": "WEAPONIZED Episode #52 — Season Finale and AARO Historical Report Review",
@@ -14296,6 +15098,15 @@
       }
     ],
     "timeline-2023-06-14-avi-loeb-im1-expedition": [],
+    "timeline-2023-06-19-weaponized-episode-22": [],
+    "timeline-2023-06-26-weaponized-episode-23": [],
+    "timeline-2023-07-03-weaponized-episode-24": [],
+    "timeline-2023-07-10-weaponized-episode-25": [],
+    "timeline-2023-07-17-weaponized-episode-26": [],
+    "timeline-2023-07-24-weaponized-episode-27": [],
+    "timeline-2023-08-07-weaponized-episode-29": [],
+    "timeline-2023-08-14-weaponized-episode-30": [],
+    "timeline-2023-08-21-weaponized-episode-31": [],
     "timeline-2023-10-31-aaro-secure-reporting-mechanism": [],
     "timeline-2023-11-17-sol-inaugural-symposium": [
       {
@@ -15870,6 +16681,16 @@
       }
     ],
     "warren-randolph": [],
+    "wayne-pacelle": [
+      {
+        "id": "2023-weaponized-episode-31",
+        "type": "podcast_episode",
+        "name": "WEAPONIZED Episode #31 — Wayne Pacelle — Factory Farming, Animal Welfare, and Corporate Power",
+        "relationshipType": "features_person",
+        "role": "guest",
+        "context": "Featured animal-welfare advocate"
+      }
+    ],
     "weaponized-matthew-brown-part-1": [
       {
         "id": "claim-brown-sought-congressional-testimony",
@@ -16278,6 +17099,54 @@
         "context": ""
       },
       {
+        "id": "2023-weaponized-episode-22",
+        "type": "podcast_episode",
+        "name": "WEAPONIZED Episode #22 — Allied UAP Reverse-Engineering Programs and the Larry Maguire Letter",
+        "relationshipType": "episode_of",
+        "role": "",
+        "context": ""
+      },
+      {
+        "id": "2023-weaponized-episode-23",
+        "type": "podcast_episode",
+        "name": "WEAPONIZED Episode #23 — Whitley Strieber — Communion, The Visitors, and Readiness for Disclosure",
+        "relationshipType": "episode_of",
+        "role": "",
+        "context": ""
+      },
+      {
+        "id": "2023-weaponized-episode-24",
+        "type": "podcast_episode",
+        "name": "WEAPONIZED Episode #24 — Congressional Momentum, Canadian Transparency, and Barriers to UAP Disclosure",
+        "relationshipType": "episode_of",
+        "role": "",
+        "context": ""
+      },
+      {
+        "id": "2023-weaponized-episode-25",
+        "type": "podcast_episode",
+        "name": "WEAPONIZED Episode #25 — Tim Burchett, Congressional UFO Hearings, and the Coming House Testimony",
+        "relationshipType": "episode_of",
+        "role": "",
+        "context": ""
+      },
+      {
+        "id": "2023-weaponized-episode-26",
+        "type": "podcast_episode",
+        "name": "WEAPONIZED Episode #26 — The UAP Disclosure Act, Chuck Schumer, and the Upcoming House Hearing",
+        "relationshipType": "episode_of",
+        "role": "",
+        "context": ""
+      },
+      {
+        "id": "2023-weaponized-episode-27",
+        "type": "podcast_episode",
+        "name": "WEAPONIZED Episode #27 — The Historic House UAP Hearing and a Fresh Look at the Nimitz Tic Tac Case",
+        "relationshipType": "episode_of",
+        "role": "",
+        "context": ""
+      },
+      {
         "id": "2023-weaponized-episode-28",
         "type": "podcast_episode",
         "name": "WEAPONIZED Episode #28 — Congressional Hearing Roundtable",
@@ -16286,9 +17155,33 @@
         "context": ""
       },
       {
+        "id": "2023-weaponized-episode-29",
+        "type": "podcast_episode",
+        "name": "WEAPONIZED Episode #29 — David Fravor and the Nimitz Tic Tac Encounter",
+        "relationshipType": "episode_of",
+        "role": "",
+        "context": ""
+      },
+      {
         "id": "2023-weaponized-episode-3",
         "type": "podcast_episode",
         "name": "WEAPONIZED Episode #3 — Jay Stratton — AAWSAP, AATIP, and the UAP Task Force",
+        "relationshipType": "episode_of",
+        "role": "",
+        "context": ""
+      },
+      {
+        "id": "2023-weaponized-episode-30",
+        "type": "podcast_episode",
+        "name": "WEAPONIZED Episode #30 — David Grusch, Whistleblower Retaliation, and the Attempt to Discredit His Testimony",
+        "relationshipType": "episode_of",
+        "role": "",
+        "context": ""
+      },
+      {
+        "id": "2023-weaponized-episode-31",
+        "type": "podcast_episode",
+        "name": "WEAPONIZED Episode #31 — Wayne Pacelle — Factory Farming, Animal Welfare, and Corporate Power",
         "relationshipType": "episode_of",
         "role": "",
         "context": ""
@@ -17074,6 +17967,16 @@
         "relationshipType": "references_organization",
         "role": "",
         "context": ""
+      }
+    ],
+    "whitley-strieber": [
+      {
+        "id": "2023-weaponized-episode-23",
+        "type": "podcast_episode",
+        "name": "WEAPONIZED Episode #23 — Whitley Strieber — Communion, The Visitors, and Readiness for Disclosure",
+        "relationshipType": "features_person",
+        "role": "guest",
+        "context": "Featured interview guest and experiencer"
       }
     ],
     "will-brown": [
@@ -18177,6 +19080,484 @@
         "score": 45
       }
     ],
+    "2023-weaponized-episode-22": [
+      {
+        "id": "2023-weaponized-episode-24",
+        "name": "WEAPONIZED Episode #24 — Congressional Momentum, Canadian Transparency, and Barriers to UAP Disclosure",
+        "seriesId": "weaponized-podcast",
+        "date": "2023-07-03",
+        "sharedEntityIds": [
+          "five-eyes",
+          "george-knapp",
+          "jeremy-corbell"
+        ],
+        "sharedEntityCount": 3,
+        "score": 35
+      },
+      {
+        "id": "2026-weaponized-episode-115",
+        "name": "WEAPONIZED Episode #115 — A New Chapter in the Bob Lazar Saga",
+        "seriesId": "weaponized-podcast",
+        "date": "2026-04-14",
+        "sharedEntityIds": [
+          "george-knapp",
+          "jeremy-corbell"
+        ],
+        "sharedEntityCount": 2,
+        "score": 25
+      },
+      {
+        "id": "2026-weaponized-episode-112",
+        "name": "WEAPONIZED Episode #112 — Eric Burlison — Classified Site Visit and Congressional UAP Oversight",
+        "seriesId": "weaponized-podcast",
+        "date": "2026-03-13",
+        "sharedEntityIds": [
+          "george-knapp",
+          "jeremy-corbell"
+        ],
+        "sharedEntityCount": 2,
+        "score": 25
+      },
+      {
+        "id": "2026-weaponized-episode-111",
+        "name": "WEAPONIZED Episode #111 — Lenval Logan — UAP Task Force Analysis and Better Classified Evidence",
+        "seriesId": "weaponized-podcast",
+        "date": "2026-03-03",
+        "sharedEntityIds": [
+          "george-knapp",
+          "jeremy-corbell"
+        ],
+        "sharedEntityCount": 2,
+        "score": 25
+      },
+      {
+        "id": "2026-weaponized-episode-110",
+        "name": "WEAPONIZED Episode #110 — Chris Sharp — Former AARO Deputy Director Describes Unexplained Cases",
+        "seriesId": "weaponized-podcast",
+        "date": "2026-02-24",
+        "sharedEntityIds": [
+          "george-knapp",
+          "jeremy-corbell"
+        ],
+        "sharedEntityCount": 2,
+        "score": 25
+      },
+      {
+        "id": "2026-weaponized-episode-109",
+        "name": "WEAPONIZED Episode #109 — Bob Lazar in Austin, Syria UAP Debate, and Area 51 Access",
+        "seriesId": "weaponized-podcast",
+        "date": "2026-02-11",
+        "sharedEntityIds": [
+          "george-knapp",
+          "jeremy-corbell"
+        ],
+        "sharedEntityCount": 2,
+        "score": 25
+      }
+    ],
+    "2023-weaponized-episode-23": [
+      {
+        "id": "2026-weaponized-episode-115",
+        "name": "WEAPONIZED Episode #115 — A New Chapter in the Bob Lazar Saga",
+        "seriesId": "weaponized-podcast",
+        "date": "2026-04-14",
+        "sharedEntityIds": [
+          "george-knapp",
+          "jeremy-corbell"
+        ],
+        "sharedEntityCount": 2,
+        "score": 25
+      },
+      {
+        "id": "2026-weaponized-episode-112",
+        "name": "WEAPONIZED Episode #112 — Eric Burlison — Classified Site Visit and Congressional UAP Oversight",
+        "seriesId": "weaponized-podcast",
+        "date": "2026-03-13",
+        "sharedEntityIds": [
+          "george-knapp",
+          "jeremy-corbell"
+        ],
+        "sharedEntityCount": 2,
+        "score": 25
+      },
+      {
+        "id": "2026-weaponized-episode-111",
+        "name": "WEAPONIZED Episode #111 — Lenval Logan — UAP Task Force Analysis and Better Classified Evidence",
+        "seriesId": "weaponized-podcast",
+        "date": "2026-03-03",
+        "sharedEntityIds": [
+          "george-knapp",
+          "jeremy-corbell"
+        ],
+        "sharedEntityCount": 2,
+        "score": 25
+      },
+      {
+        "id": "2026-weaponized-episode-110",
+        "name": "WEAPONIZED Episode #110 — Chris Sharp — Former AARO Deputy Director Describes Unexplained Cases",
+        "seriesId": "weaponized-podcast",
+        "date": "2026-02-24",
+        "sharedEntityIds": [
+          "george-knapp",
+          "jeremy-corbell"
+        ],
+        "sharedEntityCount": 2,
+        "score": 25
+      },
+      {
+        "id": "2026-weaponized-episode-109",
+        "name": "WEAPONIZED Episode #109 — Bob Lazar in Austin, Syria UAP Debate, and Area 51 Access",
+        "seriesId": "weaponized-podcast",
+        "date": "2026-02-11",
+        "sharedEntityIds": [
+          "george-knapp",
+          "jeremy-corbell"
+        ],
+        "sharedEntityCount": 2,
+        "score": 25
+      },
+      {
+        "id": "2026-weaponized-episode-108",
+        "name": "WEAPONIZED Episode #108 — Syria UAP Video — Apparent Instantaneous Acceleration",
+        "seriesId": "weaponized-podcast",
+        "date": "2026-02-03",
+        "sharedEntityIds": [
+          "george-knapp",
+          "jeremy-corbell"
+        ],
+        "sharedEntityCount": 2,
+        "score": 25
+      }
+    ],
+    "2023-weaponized-episode-24": [
+      {
+        "id": "2024-weaponized-episode-55",
+        "name": "WEAPONIZED Episode #55 — AARO, Congressional Oversight, and the Kirkpatrick Interview",
+        "seriesId": "weaponized-podcast",
+        "date": "2024-07-23",
+        "sharedEntityIds": [
+          "2023-07-26-house-oversight-uap",
+          "george-knapp",
+          "jeremy-corbell"
+        ],
+        "sharedEntityCount": 3,
+        "score": 35
+      },
+      {
+        "id": "2023-weaponized-episode-30",
+        "name": "WEAPONIZED Episode #30 — David Grusch, Whistleblower Retaliation, and the Attempt to Discredit His Testimony",
+        "seriesId": "weaponized-podcast",
+        "date": "2023-08-14",
+        "sharedEntityIds": [
+          "2023-07-26-house-oversight-uap",
+          "george-knapp",
+          "jeremy-corbell"
+        ],
+        "sharedEntityCount": 3,
+        "score": 35
+      },
+      {
+        "id": "2023-weaponized-episode-28",
+        "name": "WEAPONIZED Episode #28 — Congressional Hearing Roundtable",
+        "seriesId": "weaponized-podcast",
+        "date": "2023-07-31",
+        "sharedEntityIds": [
+          "2023-07-26-house-oversight-uap",
+          "george-knapp",
+          "jeremy-corbell"
+        ],
+        "sharedEntityCount": 3,
+        "score": 35
+      },
+      {
+        "id": "2023-weaponized-episode-27",
+        "name": "WEAPONIZED Episode #27 — The Historic House UAP Hearing and a Fresh Look at the Nimitz Tic Tac Case",
+        "seriesId": "weaponized-podcast",
+        "date": "2023-07-24",
+        "sharedEntityIds": [
+          "2023-07-26-house-oversight-uap",
+          "george-knapp",
+          "jeremy-corbell"
+        ],
+        "sharedEntityCount": 3,
+        "score": 35
+      },
+      {
+        "id": "2023-weaponized-episode-26",
+        "name": "WEAPONIZED Episode #26 — The UAP Disclosure Act, Chuck Schumer, and the Upcoming House Hearing",
+        "seriesId": "weaponized-podcast",
+        "date": "2023-07-17",
+        "sharedEntityIds": [
+          "2023-07-26-house-oversight-uap",
+          "george-knapp",
+          "jeremy-corbell"
+        ],
+        "sharedEntityCount": 3,
+        "score": 35
+      },
+      {
+        "id": "2023-weaponized-episode-25",
+        "name": "WEAPONIZED Episode #25 — Tim Burchett, Congressional UFO Hearings, and the Coming House Testimony",
+        "seriesId": "weaponized-podcast",
+        "date": "2023-07-10",
+        "sharedEntityIds": [
+          "2023-07-26-house-oversight-uap",
+          "george-knapp",
+          "jeremy-corbell"
+        ],
+        "sharedEntityCount": 3,
+        "score": 35
+      }
+    ],
+    "2023-weaponized-episode-25": [
+      {
+        "id": "2026-weaponized-episode-103",
+        "name": "WEAPONIZED Episode #103 — 2025 Year in Review — Progress, Evidence, and Pushback",
+        "seriesId": "weaponized-podcast",
+        "date": "2026-01-01",
+        "sharedEntityIds": [
+          "george-knapp",
+          "jeremy-corbell",
+          "tim-burchett"
+        ],
+        "sharedEntityCount": 3,
+        "score": 35
+      },
+      {
+        "id": "2025-weaponized-episode-101",
+        "name": "WEAPONIZED Episode #101 — Congressional UAP Champions on What Comes Next",
+        "seriesId": "weaponized-podcast",
+        "date": "2025-12-16",
+        "sharedEntityIds": [
+          "george-knapp",
+          "jeremy-corbell",
+          "tim-burchett"
+        ],
+        "sharedEntityCount": 3,
+        "score": 35
+      },
+      {
+        "id": "2024-weaponized-episode-55",
+        "name": "WEAPONIZED Episode #55 — AARO, Congressional Oversight, and the Kirkpatrick Interview",
+        "seriesId": "weaponized-podcast",
+        "date": "2024-07-23",
+        "sharedEntityIds": [
+          "2023-07-26-house-oversight-uap",
+          "george-knapp",
+          "jeremy-corbell"
+        ],
+        "sharedEntityCount": 3,
+        "score": 35
+      },
+      {
+        "id": "2024-weaponized-episode-52",
+        "name": "WEAPONIZED Episode #52 — Season Finale and AARO Historical Report Review",
+        "seriesId": "weaponized-podcast",
+        "date": "2024-03-13",
+        "sharedEntityIds": [
+          "george-knapp",
+          "jeremy-corbell",
+          "tim-burchett"
+        ],
+        "sharedEntityCount": 3,
+        "score": 35
+      },
+      {
+        "id": "2023-weaponized-episode-30",
+        "name": "WEAPONIZED Episode #30 — David Grusch, Whistleblower Retaliation, and the Attempt to Discredit His Testimony",
+        "seriesId": "weaponized-podcast",
+        "date": "2023-08-14",
+        "sharedEntityIds": [
+          "2023-07-26-house-oversight-uap",
+          "george-knapp",
+          "jeremy-corbell"
+        ],
+        "sharedEntityCount": 3,
+        "score": 35
+      },
+      {
+        "id": "2023-weaponized-episode-28",
+        "name": "WEAPONIZED Episode #28 — Congressional Hearing Roundtable",
+        "seriesId": "weaponized-podcast",
+        "date": "2023-07-31",
+        "sharedEntityIds": [
+          "2023-07-26-house-oversight-uap",
+          "george-knapp",
+          "jeremy-corbell"
+        ],
+        "sharedEntityCount": 3,
+        "score": 35
+      }
+    ],
+    "2023-weaponized-episode-26": [
+      {
+        "id": "2026-weaponized-episode-110",
+        "name": "WEAPONIZED Episode #110 — Chris Sharp — Former AARO Deputy Director Describes Unexplained Cases",
+        "seriesId": "weaponized-podcast",
+        "date": "2026-02-24",
+        "sharedEntityIds": [
+          "chris-sharp",
+          "george-knapp",
+          "jeremy-corbell"
+        ],
+        "sharedEntityCount": 3,
+        "score": 35
+      },
+      {
+        "id": "2025-weaponized-episode-93",
+        "name": "WEAPONIZED Episode #93 — Mystery Drones, Eglin’s Black Triangle, and Chris Sharp",
+        "seriesId": "weaponized-podcast",
+        "date": "2025-10-15",
+        "sharedEntityIds": [
+          "chris-sharp",
+          "george-knapp",
+          "jeremy-corbell"
+        ],
+        "sharedEntityCount": 3,
+        "score": 35
+      },
+      {
+        "id": "2024-weaponized-episode-62",
+        "name": "WEAPONIZED Episode #62 — Sky Intruders, Drones, and a Transmedium UFO Video",
+        "seriesId": "weaponized-podcast",
+        "date": "2024-12-03",
+        "sharedEntityIds": [
+          "chris-sharp",
+          "george-knapp",
+          "jeremy-corbell"
+        ],
+        "sharedEntityCount": 3,
+        "score": 35
+      },
+      {
+        "id": "2024-weaponized-episode-59",
+        "name": "WEAPONIZED Episode #59 — Journalists vs. Secrecy",
+        "seriesId": "weaponized-podcast",
+        "date": "2024-10-01",
+        "sharedEntityIds": [
+          "chris-sharp",
+          "george-knapp",
+          "jeremy-corbell"
+        ],
+        "sharedEntityCount": 3,
+        "score": 35
+      },
+      {
+        "id": "2024-weaponized-episode-55",
+        "name": "WEAPONIZED Episode #55 — AARO, Congressional Oversight, and the Kirkpatrick Interview",
+        "seriesId": "weaponized-podcast",
+        "date": "2024-07-23",
+        "sharedEntityIds": [
+          "2023-07-26-house-oversight-uap",
+          "george-knapp",
+          "jeremy-corbell"
+        ],
+        "sharedEntityCount": 3,
+        "score": 35
+      },
+      {
+        "id": "2023-weaponized-episode-44",
+        "name": "WEAPONIZED Episode #44 — The Fight Over the UAP Disclosure Act",
+        "seriesId": "weaponized-podcast",
+        "date": "2023-12-11",
+        "sharedEntityIds": [
+          "chris-sharp",
+          "george-knapp",
+          "jeremy-corbell"
+        ],
+        "sharedEntityCount": 3,
+        "score": 35
+      }
+    ],
+    "2023-weaponized-episode-27": [
+      {
+        "id": "2024-weaponized-episode-55",
+        "name": "WEAPONIZED Episode #55 — AARO, Congressional Oversight, and the Kirkpatrick Interview",
+        "seriesId": "weaponized-podcast",
+        "date": "2024-07-23",
+        "sharedEntityIds": [
+          "2023-07-26-house-oversight-uap",
+          "david-fravor",
+          "david-grusch",
+          "george-knapp",
+          "jeremy-corbell",
+          "ryan-graves"
+        ],
+        "sharedEntityCount": 6,
+        "score": 65
+      },
+      {
+        "id": "2023-weaponized-episode-28",
+        "name": "WEAPONIZED Episode #28 — Congressional Hearing Roundtable",
+        "seriesId": "weaponized-podcast",
+        "date": "2023-07-31",
+        "sharedEntityIds": [
+          "2023-07-26-house-oversight-uap",
+          "david-fravor",
+          "david-grusch",
+          "george-knapp",
+          "jeremy-corbell",
+          "ryan-graves"
+        ],
+        "sharedEntityCount": 6,
+        "score": 65
+      },
+      {
+        "id": "2024-weaponized-episode-61",
+        "name": "WEAPONIZED Episode #61 — The Tic Tac at Twenty",
+        "seriesId": "weaponized-podcast",
+        "date": "2024-11-08",
+        "sharedEntityIds": [
+          "2004-nimitz-encounter",
+          "david-fravor",
+          "george-knapp",
+          "jeremy-corbell"
+        ],
+        "sharedEntityCount": 4,
+        "score": 45
+      },
+      {
+        "id": "2023-weaponized-episode-30",
+        "name": "WEAPONIZED Episode #30 — David Grusch, Whistleblower Retaliation, and the Attempt to Discredit His Testimony",
+        "seriesId": "weaponized-podcast",
+        "date": "2023-08-14",
+        "sharedEntityIds": [
+          "2023-07-26-house-oversight-uap",
+          "david-grusch",
+          "george-knapp",
+          "jeremy-corbell"
+        ],
+        "sharedEntityCount": 4,
+        "score": 45
+      },
+      {
+        "id": "2023-weaponized-episode-29",
+        "name": "WEAPONIZED Episode #29 — David Fravor and the Nimitz Tic Tac Encounter",
+        "seriesId": "weaponized-podcast",
+        "date": "2023-08-07",
+        "sharedEntityIds": [
+          "2004-nimitz-encounter",
+          "david-fravor",
+          "george-knapp",
+          "jeremy-corbell"
+        ],
+        "sharedEntityCount": 4,
+        "score": 45
+      },
+      {
+        "id": "2025-weaponized-episode-77",
+        "name": "WEAPONIZED Episode #77 — UAP Briefings, Immaculate Constellation, and the Jellyfish Debate",
+        "seriesId": "weaponized-podcast",
+        "date": "2025-05-20",
+        "sharedEntityIds": [
+          "david-grusch",
+          "george-knapp",
+          "jeremy-corbell"
+        ],
+        "sharedEntityCount": 3,
+        "score": 35
+      }
+    ],
     "2023-weaponized-episode-28": [
       {
         "id": "2024-weaponized-episode-55",
@@ -18229,6 +19610,22 @@
         "score": 65
       },
       {
+        "id": "2023-weaponized-episode-27",
+        "name": "WEAPONIZED Episode #27 — The Historic House UAP Hearing and a Fresh Look at the Nimitz Tic Tac Case",
+        "seriesId": "weaponized-podcast",
+        "date": "2023-07-24",
+        "sharedEntityIds": [
+          "2023-07-26-house-oversight-uap",
+          "david-fravor",
+          "david-grusch",
+          "george-knapp",
+          "jeremy-corbell",
+          "ryan-graves"
+        ],
+        "sharedEntityCount": 6,
+        "score": 65
+      },
+      {
         "id": "2023-weaponized-episode-21",
         "name": "WEAPONIZED Episode #21 — The David Grusch Revelations",
         "seriesId": "weaponized-podcast",
@@ -18258,20 +19655,88 @@
         ],
         "sharedEntityCount": 5,
         "score": 55
-      },
+      }
+    ],
+    "2023-weaponized-episode-29": [
       {
-        "id": "2025-weaponized-episode-101",
-        "name": "WEAPONIZED Episode #101 — Congressional UAP Champions on What Comes Next",
+        "id": "2024-weaponized-episode-61",
+        "name": "WEAPONIZED Episode #61 — The Tic Tac at Twenty",
         "seriesId": "weaponized-podcast",
-        "date": "2025-12-16",
+        "date": "2024-11-08",
         "sharedEntityIds": [
-          "congressional-oversight",
+          "2004-nimitz-encounter",
+          "david-fravor",
           "george-knapp",
-          "government-transparency",
           "jeremy-corbell"
         ],
         "sharedEntityCount": 4,
         "score": 45
+      },
+      {
+        "id": "2023-weaponized-episode-27",
+        "name": "WEAPONIZED Episode #27 — The Historic House UAP Hearing and a Fresh Look at the Nimitz Tic Tac Case",
+        "seriesId": "weaponized-podcast",
+        "date": "2023-07-24",
+        "sharedEntityIds": [
+          "2004-nimitz-encounter",
+          "david-fravor",
+          "george-knapp",
+          "jeremy-corbell"
+        ],
+        "sharedEntityCount": 4,
+        "score": 45
+      },
+      {
+        "id": "2025-weaponized-episode-72",
+        "name": "WEAPONIZED Episode #72 — The USS Jackson Tic Tac Video",
+        "seriesId": "weaponized-podcast",
+        "date": "2025-04-08",
+        "sharedEntityIds": [
+          "2004-nimitz-encounter",
+          "george-knapp",
+          "jeremy-corbell"
+        ],
+        "sharedEntityCount": 3,
+        "score": 35
+      },
+      {
+        "id": "2024-weaponized-episode-62",
+        "name": "WEAPONIZED Episode #62 — Sky Intruders, Drones, and a Transmedium UFO Video",
+        "seriesId": "weaponized-podcast",
+        "date": "2024-12-03",
+        "sharedEntityIds": [
+          "2004-nimitz-encounter",
+          "george-knapp",
+          "jeremy-corbell"
+        ],
+        "sharedEntityCount": 3,
+        "score": 35
+      },
+      {
+        "id": "2024-weaponized-episode-55",
+        "name": "WEAPONIZED Episode #55 — AARO, Congressional Oversight, and the Kirkpatrick Interview",
+        "seriesId": "weaponized-podcast",
+        "date": "2024-07-23",
+        "sharedEntityIds": [
+          "david-fravor",
+          "george-knapp",
+          "jeremy-corbell"
+        ],
+        "sharedEntityCount": 3,
+        "score": 35
+      },
+      {
+        "id": "2023-weaponized-episode-28",
+        "name": "WEAPONIZED Episode #28 — Congressional Hearing Roundtable",
+        "seriesId": "weaponized-podcast",
+        "date": "2023-07-31",
+        "sharedEntityIds": [
+          "david-fravor",
+          "george-knapp",
+          "jeremy-corbell"
+        ],
+        "sharedEntityCount": 3,
+        "score": 35
       }
     ],
     "2023-weaponized-episode-3": [
@@ -18354,6 +19819,163 @@
         ],
         "sharedEntityCount": 3,
         "score": 35
+      }
+    ],
+    "2023-weaponized-episode-30": [
+      {
+        "id": "2024-weaponized-episode-55",
+        "name": "WEAPONIZED Episode #55 — AARO, Congressional Oversight, and the Kirkpatrick Interview",
+        "seriesId": "weaponized-podcast",
+        "date": "2024-07-23",
+        "sharedEntityIds": [
+          "2023-07-26-house-oversight-uap",
+          "david-grusch",
+          "george-knapp",
+          "jeremy-corbell"
+        ],
+        "sharedEntityCount": 4,
+        "score": 45
+      },
+      {
+        "id": "2023-weaponized-episode-28",
+        "name": "WEAPONIZED Episode #28 — Congressional Hearing Roundtable",
+        "seriesId": "weaponized-podcast",
+        "date": "2023-07-31",
+        "sharedEntityIds": [
+          "2023-07-26-house-oversight-uap",
+          "david-grusch",
+          "george-knapp",
+          "jeremy-corbell"
+        ],
+        "sharedEntityCount": 4,
+        "score": 45
+      },
+      {
+        "id": "2023-weaponized-episode-27",
+        "name": "WEAPONIZED Episode #27 — The Historic House UAP Hearing and a Fresh Look at the Nimitz Tic Tac Case",
+        "seriesId": "weaponized-podcast",
+        "date": "2023-07-24",
+        "sharedEntityIds": [
+          "2023-07-26-house-oversight-uap",
+          "david-grusch",
+          "george-knapp",
+          "jeremy-corbell"
+        ],
+        "sharedEntityCount": 4,
+        "score": 45
+      },
+      {
+        "id": "2025-weaponized-episode-77",
+        "name": "WEAPONIZED Episode #77 — UAP Briefings, Immaculate Constellation, and the Jellyfish Debate",
+        "seriesId": "weaponized-podcast",
+        "date": "2025-05-20",
+        "sharedEntityIds": [
+          "david-grusch",
+          "george-knapp",
+          "jeremy-corbell"
+        ],
+        "sharedEntityCount": 3,
+        "score": 35
+      },
+      {
+        "id": "2024-weaponized-episode-46",
+        "name": "WEAPONIZED Episode #46 — Richard Dolan on Disclosure, History, and USO Cases",
+        "seriesId": "weaponized-podcast",
+        "date": "2024-01-08",
+        "sharedEntityIds": [
+          "david-grusch",
+          "george-knapp",
+          "jeremy-corbell"
+        ],
+        "sharedEntityCount": 3,
+        "score": 35
+      },
+      {
+        "id": "2023-weaponized-episode-42",
+        "name": "WEAPONIZED Episode #42 — The Sol Foundation Conference and Grusch Revelations",
+        "seriesId": "weaponized-podcast",
+        "date": "2023-11-27",
+        "sharedEntityIds": [
+          "david-grusch",
+          "george-knapp",
+          "jeremy-corbell"
+        ],
+        "sharedEntityCount": 3,
+        "score": 35
+      }
+    ],
+    "2023-weaponized-episode-31": [
+      {
+        "id": "2026-weaponized-episode-115",
+        "name": "WEAPONIZED Episode #115 — A New Chapter in the Bob Lazar Saga",
+        "seriesId": "weaponized-podcast",
+        "date": "2026-04-14",
+        "sharedEntityIds": [
+          "george-knapp",
+          "jeremy-corbell"
+        ],
+        "sharedEntityCount": 2,
+        "score": 25
+      },
+      {
+        "id": "2026-weaponized-episode-112",
+        "name": "WEAPONIZED Episode #112 — Eric Burlison — Classified Site Visit and Congressional UAP Oversight",
+        "seriesId": "weaponized-podcast",
+        "date": "2026-03-13",
+        "sharedEntityIds": [
+          "george-knapp",
+          "jeremy-corbell"
+        ],
+        "sharedEntityCount": 2,
+        "score": 25
+      },
+      {
+        "id": "2026-weaponized-episode-111",
+        "name": "WEAPONIZED Episode #111 — Lenval Logan — UAP Task Force Analysis and Better Classified Evidence",
+        "seriesId": "weaponized-podcast",
+        "date": "2026-03-03",
+        "sharedEntityIds": [
+          "george-knapp",
+          "jeremy-corbell"
+        ],
+        "sharedEntityCount": 2,
+        "score": 25
+      },
+      {
+        "id": "2026-weaponized-episode-110",
+        "name": "WEAPONIZED Episode #110 — Chris Sharp — Former AARO Deputy Director Describes Unexplained Cases",
+        "seriesId": "weaponized-podcast",
+        "date": "2026-02-24",
+        "sharedEntityIds": [
+          "george-knapp",
+          "jeremy-corbell"
+        ],
+        "sharedEntityCount": 2,
+        "score": 25
+      },
+      {
+        "id": "2026-weaponized-episode-109",
+        "name": "WEAPONIZED Episode #109 — Bob Lazar in Austin, Syria UAP Debate, and Area 51 Access",
+        "seriesId": "weaponized-podcast",
+        "date": "2026-02-11",
+        "sharedEntityIds": [
+          "george-knapp",
+          "jeremy-corbell"
+        ],
+        "sharedEntityCount": 2,
+        "score": 25
+      },
+      {
+        "id": "2026-weaponized-episode-108",
+        "name": "WEAPONIZED Episode #108 — Syria UAP Video — Apparent Instantaneous Acceleration",
+        "seriesId": "weaponized-podcast",
+        "date": "2026-02-03",
+        "sharedEntityIds": [
+          "george-knapp",
+          "jeremy-corbell"
+        ],
+        "sharedEntityCount": 2,
+        "score": 25
       }
     ],
     "2023-weaponized-episode-4": [
@@ -20020,6 +21642,22 @@
         "score": 65
       },
       {
+        "id": "2023-weaponized-episode-27",
+        "name": "WEAPONIZED Episode #27 — The Historic House UAP Hearing and a Fresh Look at the Nimitz Tic Tac Case",
+        "seriesId": "weaponized-podcast",
+        "date": "2023-07-24",
+        "sharedEntityIds": [
+          "2023-07-26-house-oversight-uap",
+          "david-fravor",
+          "david-grusch",
+          "george-knapp",
+          "jeremy-corbell",
+          "ryan-graves"
+        ],
+        "sharedEntityCount": 6,
+        "score": 65
+      },
+      {
         "id": "2025-weaponized-episode-78",
         "name": "WEAPONIZED Episode #78 — Sean Kirkpatrick, AARO, and UFO Politics",
         "seriesId": "weaponized-podcast",
@@ -20039,21 +21677,6 @@
         "name": "WEAPONIZED Episode #64 — The 2024 UAP Year in Review",
         "seriesId": "weaponized-podcast",
         "date": "2024-12-31",
-        "sharedEntityIds": [
-          "aaro",
-          "congressional-oversight",
-          "george-knapp",
-          "government-transparency",
-          "jeremy-corbell"
-        ],
-        "sharedEntityCount": 5,
-        "score": 55
-      },
-      {
-        "id": "2024-weaponized-episode-52",
-        "name": "WEAPONIZED Episode #52 — Season Finale and AARO Historical Report Review",
-        "seriesId": "weaponized-podcast",
-        "date": "2024-03-13",
         "sharedEntityIds": [
           "aaro",
           "congressional-oversight",
@@ -20485,6 +22108,34 @@
         "score": 45
       },
       {
+        "id": "2023-weaponized-episode-29",
+        "name": "WEAPONIZED Episode #29 — David Fravor and the Nimitz Tic Tac Encounter",
+        "seriesId": "weaponized-podcast",
+        "date": "2023-08-07",
+        "sharedEntityIds": [
+          "2004-nimitz-encounter",
+          "david-fravor",
+          "george-knapp",
+          "jeremy-corbell"
+        ],
+        "sharedEntityCount": 4,
+        "score": 45
+      },
+      {
+        "id": "2023-weaponized-episode-27",
+        "name": "WEAPONIZED Episode #27 — The Historic House UAP Hearing and a Fresh Look at the Nimitz Tic Tac Case",
+        "seriesId": "weaponized-podcast",
+        "date": "2023-07-24",
+        "sharedEntityIds": [
+          "2004-nimitz-encounter",
+          "david-fravor",
+          "george-knapp",
+          "jeremy-corbell"
+        ],
+        "sharedEntityCount": 4,
+        "score": 45
+      },
+      {
         "id": "2026-weaponized-episode-106",
         "name": "WEAPONIZED Episode #106 — Ryan “Neo” Bodenheimer — Four Pilot UAP Encounters",
         "seriesId": "weaponized-podcast",
@@ -20517,32 +22168,6 @@
         "date": "2025-04-01",
         "sharedEntityIds": [
           "aviation-safety",
-          "george-knapp",
-          "jeremy-corbell"
-        ],
-        "sharedEntityCount": 3,
-        "score": 35
-      },
-      {
-        "id": "2024-weaponized-episode-62",
-        "name": "WEAPONIZED Episode #62 — Sky Intruders, Drones, and a Transmedium UFO Video",
-        "seriesId": "weaponized-podcast",
-        "date": "2024-12-03",
-        "sharedEntityIds": [
-          "2004-nimitz-encounter",
-          "george-knapp",
-          "jeremy-corbell"
-        ],
-        "sharedEntityCount": 3,
-        "score": 35
-      },
-      {
-        "id": "2024-weaponized-episode-55",
-        "name": "WEAPONIZED Episode #55 — AARO, Congressional Oversight, and the Kirkpatrick Interview",
-        "seriesId": "weaponized-podcast",
-        "date": "2024-07-23",
-        "sharedEntityIds": [
-          "david-fravor",
           "george-knapp",
           "jeremy-corbell"
         ],

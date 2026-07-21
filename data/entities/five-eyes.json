@@ -1,0 +1,21 @@
+{
+  "id": "five-eyes",
+  "type": "organization",
+  "name": "Five Eyes",
+  "summary": "Intelligence alliance of the United States, Canada, United Kingdom, Australia, and New Zealand.",
+  "relationships": [
+    {
+      "type": "discussed_in_interview",
+      "target": "2023-weaponized-episode-22"
+    }
+  ],
+  "officialLinks": [],
+  "referenceSources": [
+    {
+      "label": "Official WEAPONIZED Episode #22 page",
+      "url": "https://www.weaponizedpodcast.com/episodes-1/episode-number-22",
+      "sourceType": "official_episode_page",
+      "role": "source"
+    }
+  ]
+}

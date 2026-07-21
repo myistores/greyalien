@@ -1,0 +1,28 @@
+{
+  "id": "wayne-pacelle",
+  "type": "person",
+  "name": "Wayne Pacelle",
+  "summary": "Animal-welfare advocate and co-founder of organizations working on animal-protection policy and enforcement.",
+  "relationships": [
+    {
+      "type": "appeared_in",
+      "target": "2023-weaponized-episode-31",
+      "role": "guest",
+      "context": "Featured in WEAPONIZED Episode #31"
+    }
+  ],
+  "profileStatus": "Animal-welfare advocate and co-founder of organizations working on animal-protection policy and enforcement.",
+  "profileSummary": "Animal-welfare advocate and co-founder of organizations working on animal-protection policy and enforcement.",
+  "profileBadge": "Guest",
+  "profileBadgeClass": "badge-witness",
+  "inclusionNote": "Included as a principal subject or guest in WEAPONIZED Episode #31.",
+  "officialLinks": [],
+  "referenceSources": [
+    {
+      "label": "Official WEAPONIZED Episode #31 page",
+      "url": "https://www.weaponizedpodcast.com/episodes-2/episode-31",
+      "sourceType": "official_episode_page",
+      "role": "source"
+    }
+  ]
+}

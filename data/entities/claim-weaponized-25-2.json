@@ -1,0 +1,21 @@
+{
+  "id": "claim-weaponized-25-2",
+  "type": "claim",
+  "name": "Senate language sought information from special-access programs and contractors that might possess exotic materials.",
+  "summary": "Claim or framing presented in WEAPONIZED Episode #25.",
+  "relationships": [
+    {
+      "type": "featured_in_media",
+      "target": "2023-weaponized-episode-25"
+    }
+  ],
+  "officialLinks": [],
+  "referenceSources": [
+    {
+      "label": "Official WEAPONIZED Episode #25 page",
+      "url": "https://www.weaponizedpodcast.com/episodes-1/episode-number-25",
+      "sourceType": "official_episode_page",
+      "role": "source"
+    }
+  ]
+}

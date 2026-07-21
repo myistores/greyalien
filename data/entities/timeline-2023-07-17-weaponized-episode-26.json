@@ -1,0 +1,24 @@
+{
+  "id": "timeline-2023-07-17-weaponized-episode-26",
+  "type": "timeline_event",
+  "name": "WEAPONIZED Episode #26 published",
+  "summary": "British journalist Chris Sharp joins Jeremy Corbell and George Knapp to examine Senator Chuck Schumer’s proposed UAP disclosure legislation, its focus on government and contractor-held records and materials, Harry Reid’s influence, and the approaching House hearing.",
+  "date": "2023-07-17",
+  "dateDisplay": "July 17, 2023",
+  "eventCategory": "Podcast publication",
+  "relationships": [
+    {
+      "type": "event_for",
+      "target": "2023-weaponized-episode-26"
+    }
+  ],
+  "officialLinks": [],
+  "referenceSources": [
+    {
+      "label": "Official WEAPONIZED Episode #26 page",
+      "url": "https://www.weaponizedpodcast.com/episodes-1/episode-number-26",
+      "sourceType": "official_episode_page",
+      "role": "source"
+    }
+  ]
+}

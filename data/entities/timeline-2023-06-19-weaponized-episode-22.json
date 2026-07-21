@@ -1,0 +1,24 @@
+{
+  "id": "timeline-2023-06-19-weaponized-episode-22",
+  "type": "timeline_event",
+  "name": "WEAPONIZED Episode #22 published",
+  "summary": "Jeremy Corbell and George Knapp examine Canadian MP Larry Maguire’s letter alleging that Five Eyes nations have coordinated programs to analyze and reverse-engineer recovered UAP materials, including material reportedly held by Defence Research and Development Canada.",
+  "date": "2023-06-19",
+  "dateDisplay": "June 19, 2023",
+  "eventCategory": "Podcast publication",
+  "relationships": [
+    {
+      "type": "event_for",
+      "target": "2023-weaponized-episode-22"
+    }
+  ],
+  "officialLinks": [],
+  "referenceSources": [
+    {
+      "label": "Official WEAPONIZED Episode #22 page",
+      "url": "https://www.weaponizedpodcast.com/episodes-1/episode-number-22",
+      "sourceType": "official_episode_page",
+      "role": "source"
+    }
+  ]
+}

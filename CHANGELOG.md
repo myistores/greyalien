@@ -1,3 +1,12 @@
+# V19.7 — WEAPONIZED Episodes 22–31 Backfill
+
+- Added the nine previously missing records: Episodes #22–#27 and #29–#31.
+- Preserved the existing Episode #21 and Episode #28 entities and relationships.
+- Added 36 source-grounded principal claims and nine podcast-publication timeline events.
+- Added or reused canonical people, organizations, hearings, cases, and topics.
+- Updated Latest Additions, Development Updates, release metadata, graph outputs, podcast indexes, related content, entity pages, and sitemap.
+- No architecture, rendering, template, schema, navigation, UI, styling, or routing changes.
+
 # V19.6 — WEAPONIZED Episodes 11–20
 
 - Added WEAPONIZED Episodes #11–#20 as content-only production records.

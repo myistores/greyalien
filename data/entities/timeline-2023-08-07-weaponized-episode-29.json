@@ -1,0 +1,24 @@
+{
+  "id": "timeline-2023-08-07-weaponized-episode-29",
+  "type": "timeline_event",
+  "name": "WEAPONIZED Episode #29 published",
+  "summary": "WEAPONIZED revisits the 2004 Nimitz Carrier Strike Group encounters, Commander David Fravor’s pursuit of the Tic Tac object, the delayed official investigation, and why his testimony became central to modern demands for UAP transparency.",
+  "date": "2023-08-07",
+  "dateDisplay": "August 7, 2023",
+  "eventCategory": "Podcast publication",
+  "relationships": [
+    {
+      "type": "event_for",
+      "target": "2023-weaponized-episode-29"
+    }
+  ],
+  "officialLinks": [],
+  "referenceSources": [
+    {
+      "label": "Official WEAPONIZED Episode #29 page",
+      "url": "https://www.weaponizedpodcast.com/episodes-1/episode-number-29",
+      "sourceType": "official_episode_page",
+      "role": "source"
+    }
+  ]
+}

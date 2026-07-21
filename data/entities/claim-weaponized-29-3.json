@@ -1,0 +1,21 @@
+{
+  "id": "claim-weaponized-29-3",
+  "type": "claim",
+  "name": "The encounter was not formally investigated until years after it occurred.",
+  "summary": "Claim or framing presented in WEAPONIZED Episode #29.",
+  "relationships": [
+    {
+      "type": "featured_in_media",
+      "target": "2023-weaponized-episode-29"
+    }
+  ],
+  "officialLinks": [],
+  "referenceSources": [
+    {
+      "label": "Official WEAPONIZED Episode #29 page",
+      "url": "https://www.weaponizedpodcast.com/episodes-1/episode-number-29",
+      "sourceType": "official_episode_page",
+      "role": "source"
+    }
+  ]
+}

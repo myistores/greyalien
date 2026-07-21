@@ -1,0 +1,21 @@
+{
+  "id": "claim-weaponized-27-4",
+  "type": "claim",
+  "name": "The hosts reject the idea that familiarity with the Tic Tac case makes renewed sworn testimony unimportant.",
+  "summary": "Claim or framing presented in WEAPONIZED Episode #27.",
+  "relationships": [
+    {
+      "type": "featured_in_media",
+      "target": "2023-weaponized-episode-27"
+    }
+  ],
+  "officialLinks": [],
+  "referenceSources": [
+    {
+      "label": "Official WEAPONIZED Episode #27 page",
+      "url": "https://www.weaponizedpodcast.com/episodes-1/episode-number-27",
+      "sourceType": "official_episode_page",
+      "role": "source"
+    }
+  ]
+}

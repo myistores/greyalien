@@ -1,0 +1,24 @@
+{
+  "id": "timeline-2023-06-26-weaponized-episode-23",
+  "type": "timeline_event",
+  "name": "WEAPONIZED Episode #23 published",
+  "summary": "Author Whitley Strieber discusses his decades of reported encounters with non-human intelligences, the cultural impact of Communion, evolving ideas about the Visitors, crash-retrieval allegations, whistleblowers, and whether society is prepared for disclosure.",
+  "date": "2023-06-26",
+  "dateDisplay": "June 26, 2023",
+  "eventCategory": "Podcast publication",
+  "relationships": [
+    {
+      "type": "event_for",
+      "target": "2023-weaponized-episode-23"
+    }
+  ],
+  "officialLinks": [],
+  "referenceSources": [
+    {
+      "label": "Official WEAPONIZED Episode #23 page",
+      "url": "https://www.weaponizedpodcast.com/episodes-1/episode-number-23",
+      "sourceType": "official_episode_page",
+      "role": "source"
+    }
+  ]
+}

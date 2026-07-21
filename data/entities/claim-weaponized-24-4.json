@@ -1,0 +1,21 @@
+{
+  "id": "claim-weaponized-24-4",
+  "type": "claim",
+  "name": "The episode argues that legislative momentum had increased while full disclosure remained uncertain.",
+  "summary": "Claim or framing presented in WEAPONIZED Episode #24.",
+  "relationships": [
+    {
+      "type": "featured_in_media",
+      "target": "2023-weaponized-episode-24"
+    }
+  ],
+  "officialLinks": [],
+  "referenceSources": [
+    {
+      "label": "Official WEAPONIZED Episode #24 page",
+      "url": "https://www.weaponizedpodcast.com/episodes-1/episode-number-24",
+      "sourceType": "official_episode_page",
+      "role": "source"
+    }
+  ]
+}

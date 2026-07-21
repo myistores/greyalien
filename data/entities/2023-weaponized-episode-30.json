@@ -1,0 +1,88 @@
+{
+  "id": "2023-weaponized-episode-30",
+  "type": "podcast_episode",
+  "name": "WEAPONIZED Episode #30 — David Grusch, Whistleblower Retaliation, and the Attempt to Discredit His Testimony",
+  "summary": "Jeremy Corbell and George Knapp examine efforts to discredit David Grusch after his public testimony, including reporting about his prior PTSD treatment, and discuss retaliation, whistleblower protections, and the potential chilling effect on other witnesses.",
+  "date": "2023-08-14",
+  "dateDisplay": "August 14, 2023",
+  "seriesId": "weaponized-podcast",
+  "episodeNumber": 30,
+  "episodeTitle": "David Grusch, Whistleblower Retaliation, and the Attempt to Discredit His Testimony",
+  "status": "Published",
+  "mediaType": "Podcast episode",
+  "mediaPlatform": "WEAPONIZED",
+  "mediaHost": "Jeremy Corbell and George Knapp",
+  "mediaGuests": [],
+  "mediaSubjects": [],
+  "principalClaims": [
+    "claim-weaponized-30-1",
+    "claim-weaponized-30-2",
+    "claim-weaponized-30-3",
+    "claim-weaponized-30-4"
+  ],
+  "researchNotes": [],
+  "keyDiscussionTopics": [
+    "David Grusch",
+    "Whistleblower retaliation",
+    "PTSD privacy",
+    "Intelligence Community Inspector General"
+  ],
+  "relationships": [
+    {
+      "type": "episode_of",
+      "target": "weaponized-podcast"
+    },
+    {
+      "type": "features_person",
+      "target": "jeremy-corbell",
+      "role": "host",
+      "context": "WEAPONIZED co-host"
+    },
+    {
+      "type": "features_person",
+      "target": "george-knapp",
+      "role": "host",
+      "context": "WEAPONIZED co-host"
+    },
+    {
+      "type": "features_person",
+      "target": "david-grusch",
+      "role": "subject",
+      "context": "Whistleblower whose treatment and allegations are examined"
+    },
+    {
+      "type": "references_case",
+      "target": "2023-07-26-house-oversight-uap",
+      "role": "context",
+      "context": "Follows Grusch’s public congressional testimony"
+    }
+  ],
+  "mediaLinks": [
+    {
+      "label": "Open the official Episode #30 page",
+      "url": "https://www.weaponizedpodcast.com/episodes-1/episode-number-30",
+      "platform": "WEAPONIZED"
+    },
+    {
+      "label": "Listen to WEAPONIZED",
+      "url": "https://link.chtbl.com/Weaponized",
+      "platform": "Official audio feed"
+    }
+  ],
+  "eventCategory": "Podcast publication",
+  "officialLinks": [],
+  "referenceSources": [
+    {
+      "label": "Official WEAPONIZED Episode #30 page",
+      "url": "https://www.weaponizedpodcast.com/episodes-1/episode-number-30",
+      "sourceType": "official_episode_page",
+      "role": "source"
+    },
+    {
+      "label": "Listen to WEAPONIZED",
+      "url": "https://link.chtbl.com/Weaponized",
+      "sourceType": "official_audio_feed",
+      "role": "source"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "id": "timeline-2023-07-10-weaponized-episode-25",
+  "type": "timeline_event",
+  "name": "WEAPONIZED Episode #25 published",
+  "summary": "Jeremy Corbell and George Knapp review the history of congressional UFO hearings and interview Representative Tim Burchett about the anticipated July 2023 House hearing, prospective witnesses, bipartisan interest, and alleged hidden crash-retrieval materials.",
+  "date": "2023-07-10",
+  "dateDisplay": "July 10, 2023",
+  "eventCategory": "Podcast publication",
+  "relationships": [
+    {
+      "type": "event_for",
+      "target": "2023-weaponized-episode-25"
+    }
+  ],
+  "officialLinks": [],
+  "referenceSources": [
+    {
+      "label": "Official WEAPONIZED Episode #25 page",
+      "url": "https://www.weaponizedpodcast.com/episodes-1/episode-number-25",
+      "sourceType": "official_episode_page",
+      "role": "source"
+    }
+  ]
+}

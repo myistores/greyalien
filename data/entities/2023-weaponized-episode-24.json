@@ -1,0 +1,88 @@
+{
+  "id": "2023-weaponized-episode-24",
+  "type": "podcast_episode",
+  "name": "WEAPONIZED Episode #24 — Congressional Momentum, Canadian Transparency, and Barriers to UAP Disclosure",
+  "summary": "Jeremy Corbell and George Knapp review expanding U.S. and Canadian legislative efforts to uncover classified UAP records, alleged recovered hardware, special-access programs, and contractor-held materials while assessing institutional barriers to disclosure.",
+  "date": "2023-07-03",
+  "dateDisplay": "July 3, 2023",
+  "seriesId": "weaponized-podcast",
+  "episodeNumber": 24,
+  "episodeTitle": "Congressional Momentum, Canadian Transparency, and Barriers to UAP Disclosure",
+  "status": "Published",
+  "mediaType": "Podcast episode",
+  "mediaPlatform": "WEAPONIZED",
+  "mediaHost": "Jeremy Corbell and George Knapp",
+  "mediaGuests": [],
+  "mediaSubjects": [],
+  "principalClaims": [
+    "claim-weaponized-24-1",
+    "claim-weaponized-24-2",
+    "claim-weaponized-24-3",
+    "claim-weaponized-24-4"
+  ],
+  "researchNotes": [],
+  "keyDiscussionTopics": [
+    "Congressional oversight",
+    "Canadian UAP policy",
+    "Special access programs",
+    "Defense contractors"
+  ],
+  "relationships": [
+    {
+      "type": "episode_of",
+      "target": "weaponized-podcast"
+    },
+    {
+      "type": "features_person",
+      "target": "jeremy-corbell",
+      "role": "host",
+      "context": "WEAPONIZED co-host"
+    },
+    {
+      "type": "features_person",
+      "target": "george-knapp",
+      "role": "host",
+      "context": "WEAPONIZED co-host"
+    },
+    {
+      "type": "references_case",
+      "target": "2023-07-26-house-oversight-uap",
+      "role": "context",
+      "context": "Discusses the emerging congressional disclosure process"
+    },
+    {
+      "type": "references_organization",
+      "target": "five-eyes",
+      "role": "context",
+      "context": "Discusses allied transparency and alleged reverse-engineering efforts"
+    }
+  ],
+  "mediaLinks": [
+    {
+      "label": "Open the official Episode #24 page",
+      "url": "https://www.weaponizedpodcast.com/episodes-1/episode-number-24",
+      "platform": "WEAPONIZED"
+    },
+    {
+      "label": "Listen to WEAPONIZED",
+      "url": "https://link.chtbl.com/Weaponized",
+      "platform": "Official audio feed"
+    }
+  ],
+  "eventCategory": "Podcast publication",
+  "officialLinks": [],
+  "referenceSources": [
+    {
+      "label": "Official WEAPONIZED Episode #24 page",
+      "url": "https://www.weaponizedpodcast.com/episodes-1/episode-number-24",
+      "sourceType": "official_episode_page",
+      "role": "source"
+    },
+    {
+      "label": "Listen to WEAPONIZED",
+      "url": "https://link.chtbl.com/Weaponized",
+      "sourceType": "official_audio_feed",
+      "role": "source"
+    }
+  ]
+}

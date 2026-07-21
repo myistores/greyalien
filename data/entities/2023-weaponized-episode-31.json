@@ -1,0 +1,90 @@
+{
+  "id": "2023-weaponized-episode-31",
+  "type": "podcast_episode",
+  "name": "WEAPONIZED Episode #31 — Wayne Pacelle — Factory Farming, Animal Welfare, and Corporate Power",
+  "summary": "Animal-welfare advocate Wayne Pacelle discusses suffering in industrial agriculture, the effects of factory-farming business models on animals and people, state-level reforms, and efforts by large agricultural interests to override those protections.",
+  "date": "2023-08-21",
+  "dateDisplay": "August 21, 2023",
+  "seriesId": "weaponized-podcast",
+  "episodeNumber": 31,
+  "episodeTitle": "Wayne Pacelle — Factory Farming, Animal Welfare, and Corporate Power",
+  "status": "Published",
+  "mediaType": "Podcast episode",
+  "mediaPlatform": "WEAPONIZED",
+  "mediaHost": "Jeremy Corbell and George Knapp",
+  "mediaGuests": [
+    "wayne-pacelle"
+  ],
+  "mediaSubjects": [],
+  "principalClaims": [
+    "claim-weaponized-31-1",
+    "claim-weaponized-31-2",
+    "claim-weaponized-31-3",
+    "claim-weaponized-31-4"
+  ],
+  "researchNotes": [],
+  "keyDiscussionTopics": [
+    "Animal welfare",
+    "Factory farming",
+    "Agricultural policy",
+    "Corporate influence"
+  ],
+  "relationships": [
+    {
+      "type": "episode_of",
+      "target": "weaponized-podcast"
+    },
+    {
+      "type": "features_person",
+      "target": "jeremy-corbell",
+      "role": "host",
+      "context": "WEAPONIZED co-host"
+    },
+    {
+      "type": "features_person",
+      "target": "george-knapp",
+      "role": "host",
+      "context": "WEAPONIZED co-host"
+    },
+    {
+      "type": "features_person",
+      "target": "wayne-pacelle",
+      "role": "guest",
+      "context": "Featured animal-welfare advocate"
+    },
+    {
+      "type": "references_organization",
+      "target": "animal-wellness-action",
+      "role": "context",
+      "context": "Organization identified for further information"
+    }
+  ],
+  "mediaLinks": [
+    {
+      "label": "Open the official Episode #31 page",
+      "url": "https://www.weaponizedpodcast.com/episodes-2/episode-31",
+      "platform": "WEAPONIZED"
+    },
+    {
+      "label": "Listen to WEAPONIZED",
+      "url": "https://link.chtbl.com/Weaponized",
+      "platform": "Official audio feed"
+    }
+  ],
+  "eventCategory": "Podcast publication",
+  "officialLinks": [],
+  "referenceSources": [
+    {
+      "label": "Official WEAPONIZED Episode #31 page",
+      "url": "https://www.weaponizedpodcast.com/episodes-2/episode-31",
+      "sourceType": "official_episode_page",
+      "role": "source"
+    },
+    {
+      "label": "Listen to WEAPONIZED",
+      "url": "https://link.chtbl.com/Weaponized",
+      "sourceType": "official_audio_feed",
+      "role": "source"
+    }
+  ]
+}

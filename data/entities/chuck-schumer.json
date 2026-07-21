@@ -1,0 +1,28 @@
+{
+  "id": "chuck-schumer",
+  "type": "person",
+  "name": "Chuck Schumer",
+  "summary": "United States senator associated with the 2023 UAP Disclosure Act proposal.",
+  "relationships": [
+    {
+      "type": "appeared_in",
+      "target": "2023-weaponized-episode-26",
+      "role": "guest",
+      "context": "Featured in WEAPONIZED Episode #26"
+    }
+  ],
+  "profileStatus": "United States senator associated with the 2023 UAP Disclosure Act proposal.",
+  "profileSummary": "United States senator associated with the 2023 UAP Disclosure Act proposal.",
+  "profileBadge": "Guest",
+  "profileBadgeClass": "badge-witness",
+  "inclusionNote": "Included as a principal subject or guest in WEAPONIZED Episode #26.",
+  "officialLinks": [],
+  "referenceSources": [
+    {
+      "label": "Official WEAPONIZED Episode #26 page",
+      "url": "https://www.weaponizedpodcast.com/episodes-1/episode-number-26",
+      "sourceType": "official_episode_page",
+      "role": "source"
+    }
+  ]
+}

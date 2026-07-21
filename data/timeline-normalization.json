@@ -331,6 +331,69 @@
       "name": "Avi Loeb Leads the IM1 Interstellar Meteor Recovery Expedition",
       "aliases": []
     },
+    "timeline-2023-06-19-weaponized-episode-22": {
+      "id": "timeline-2023-06-19-weaponized-episode-22",
+      "date": "2023-06-19",
+      "eventCategory": "Podcast publication",
+      "name": "WEAPONIZED Episode #22 published",
+      "aliases": []
+    },
+    "timeline-2023-06-26-weaponized-episode-23": {
+      "id": "timeline-2023-06-26-weaponized-episode-23",
+      "date": "2023-06-26",
+      "eventCategory": "Podcast publication",
+      "name": "WEAPONIZED Episode #23 published",
+      "aliases": []
+    },
+    "timeline-2023-07-03-weaponized-episode-24": {
+      "id": "timeline-2023-07-03-weaponized-episode-24",
+      "date": "2023-07-03",
+      "eventCategory": "Podcast publication",
+      "name": "WEAPONIZED Episode #24 published",
+      "aliases": []
+    },
+    "timeline-2023-07-10-weaponized-episode-25": {
+      "id": "timeline-2023-07-10-weaponized-episode-25",
+      "date": "2023-07-10",
+      "eventCategory": "Podcast publication",
+      "name": "WEAPONIZED Episode #25 published",
+      "aliases": []
+    },
+    "timeline-2023-07-17-weaponized-episode-26": {
+      "id": "timeline-2023-07-17-weaponized-episode-26",
+      "date": "2023-07-17",
+      "eventCategory": "Podcast publication",
+      "name": "WEAPONIZED Episode #26 published",
+      "aliases": []
+    },
+    "timeline-2023-07-24-weaponized-episode-27": {
+      "id": "timeline-2023-07-24-weaponized-episode-27",
+      "date": "2023-07-24",
+      "eventCategory": "Podcast publication",
+      "name": "WEAPONIZED Episode #27 published",
+      "aliases": []
+    },
+    "timeline-2023-08-07-weaponized-episode-29": {
+      "id": "timeline-2023-08-07-weaponized-episode-29",
+      "date": "2023-08-07",
+      "eventCategory": "Podcast publication",
+      "name": "WEAPONIZED Episode #29 published",
+      "aliases": []
+    },
+    "timeline-2023-08-14-weaponized-episode-30": {
+      "id": "timeline-2023-08-14-weaponized-episode-30",
+      "date": "2023-08-14",
+      "eventCategory": "Podcast publication",
+      "name": "WEAPONIZED Episode #30 published",
+      "aliases": []
+    },
+    "timeline-2023-08-21-weaponized-episode-31": {
+      "id": "timeline-2023-08-21-weaponized-episode-31",
+      "date": "2023-08-21",
+      "eventCategory": "Podcast publication",
+      "name": "WEAPONIZED Episode #31 published",
+      "aliases": []
+    },
     "timeline-2023-10-31-aaro-secure-reporting-mechanism": {
       "id": "timeline-2023-10-31-aaro-secure-reporting-mechanism",
       "date": "2023-10-31",
@@ -597,7 +660,7 @@
   },
   "conflicts": [],
   "statistics": {
-    "canonicalEventCount": 83,
+    "canonicalEventCount": 92,
     "aliasCount": 3,
     "conflictCount": 0
   }

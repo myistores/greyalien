@@ -1,0 +1,21 @@
+{
+  "id": "claim-weaponized-22-4",
+  "type": "claim",
+  "name": "The episode presents the letter as evidence requiring government oversight and public scrutiny, not as independently proven confirmation of every allegation.",
+  "summary": "Claim or framing presented in WEAPONIZED Episode #22.",
+  "relationships": [
+    {
+      "type": "featured_in_media",
+      "target": "2023-weaponized-episode-22"
+    }
+  ],
+  "officialLinks": [],
+  "referenceSources": [
+    {
+      "label": "Official WEAPONIZED Episode #22 page",
+      "url": "https://www.weaponizedpodcast.com/episodes-1/episode-number-22",
+      "sourceType": "official_episode_page",
+      "role": "source"
+    }
+  ]
+}

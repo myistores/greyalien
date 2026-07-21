@@ -1,0 +1,88 @@
+{
+  "id": "2023-weaponized-episode-25",
+  "type": "podcast_episode",
+  "name": "WEAPONIZED Episode #25 — Tim Burchett, Congressional UFO Hearings, and the Coming House Testimony",
+  "summary": "Jeremy Corbell and George Knapp review the history of congressional UFO hearings and interview Representative Tim Burchett about the anticipated July 2023 House hearing, prospective witnesses, bipartisan interest, and alleged hidden crash-retrieval materials.",
+  "date": "2023-07-10",
+  "dateDisplay": "July 10, 2023",
+  "seriesId": "weaponized-podcast",
+  "episodeNumber": 25,
+  "episodeTitle": "Tim Burchett, Congressional UFO Hearings, and the Coming House Testimony",
+  "status": "Published",
+  "mediaType": "Podcast episode",
+  "mediaPlatform": "WEAPONIZED",
+  "mediaHost": "Jeremy Corbell and George Knapp",
+  "mediaGuests": [],
+  "mediaSubjects": [],
+  "principalClaims": [
+    "claim-weaponized-25-1",
+    "claim-weaponized-25-2",
+    "claim-weaponized-25-3",
+    "claim-weaponized-25-4"
+  ],
+  "researchNotes": [],
+  "keyDiscussionTopics": [
+    "Congressional hearings",
+    "Bipartisan UAP oversight",
+    "Whistleblower testimony",
+    "Crash retrieval allegations"
+  ],
+  "relationships": [
+    {
+      "type": "episode_of",
+      "target": "weaponized-podcast"
+    },
+    {
+      "type": "features_person",
+      "target": "jeremy-corbell",
+      "role": "host",
+      "context": "WEAPONIZED co-host"
+    },
+    {
+      "type": "features_person",
+      "target": "george-knapp",
+      "role": "host",
+      "context": "WEAPONIZED co-host"
+    },
+    {
+      "type": "features_person",
+      "target": "tim-burchett",
+      "role": "guest",
+      "context": "Congressional interview guest"
+    },
+    {
+      "type": "references_case",
+      "target": "2023-07-26-house-oversight-uap",
+      "role": "subject",
+      "context": "Upcoming public UAP hearing discussed in the episode"
+    }
+  ],
+  "mediaLinks": [
+    {
+      "label": "Open the official Episode #25 page",
+      "url": "https://www.weaponizedpodcast.com/episodes-1/episode-number-25",
+      "platform": "WEAPONIZED"
+    },
+    {
+      "label": "Listen to WEAPONIZED",
+      "url": "https://link.chtbl.com/Weaponized",
+      "platform": "Official audio feed"
+    }
+  ],
+  "eventCategory": "Podcast publication",
+  "officialLinks": [],
+  "referenceSources": [
+    {
+      "label": "Official WEAPONIZED Episode #25 page",
+      "url": "https://www.weaponizedpodcast.com/episodes-1/episode-number-25",
+      "sourceType": "official_episode_page",
+      "role": "source"
+    },
+    {
+      "label": "Listen to WEAPONIZED",
+      "url": "https://link.chtbl.com/Weaponized",
+      "sourceType": "official_audio_feed",
+      "role": "source"
+    }
+  ]
+}

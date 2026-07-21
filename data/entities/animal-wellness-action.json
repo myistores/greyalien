@@ -1,0 +1,21 @@
+{
+  "id": "animal-wellness-action",
+  "type": "organization",
+  "name": "Animal Wellness Action",
+  "summary": "Animal-welfare advocacy organization working on public policy and enforcement initiatives.",
+  "relationships": [
+    {
+      "type": "discussed_in_interview",
+      "target": "2023-weaponized-episode-31"
+    }
+  ],
+  "officialLinks": [],
+  "referenceSources": [
+    {
+      "label": "Official WEAPONIZED Episode #31 page",
+      "url": "https://www.weaponizedpodcast.com/episodes-2/episode-31",
+      "sourceType": "official_episode_page",
+      "role": "source"
+    }
+  ]
+}

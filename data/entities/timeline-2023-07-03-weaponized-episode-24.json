@@ -1,0 +1,24 @@
+{
+  "id": "timeline-2023-07-03-weaponized-episode-24",
+  "type": "timeline_event",
+  "name": "WEAPONIZED Episode #24 published",
+  "summary": "Jeremy Corbell and George Knapp review expanding U.S. and Canadian legislative efforts to uncover classified UAP records, alleged recovered hardware, special-access programs, and contractor-held materials while assessing institutional barriers to disclosure.",
+  "date": "2023-07-03",
+  "dateDisplay": "July 3, 2023",
+  "eventCategory": "Podcast publication",
+  "relationships": [
+    {
+      "type": "event_for",
+      "target": "2023-weaponized-episode-24"
+    }
+  ],
+  "officialLinks": [],
+  "referenceSources": [
+    {
+      "label": "Official WEAPONIZED Episode #24 page",
+      "url": "https://www.weaponizedpodcast.com/episodes-1/episode-number-24",
+      "sourceType": "official_episode_page",
+      "role": "source"
+    }
+  ]
+}

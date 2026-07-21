@@ -1,0 +1,103 @@
+{
+  "id": "2023-weaponized-episode-26",
+  "type": "podcast_episode",
+  "name": "WEAPONIZED Episode #26 — The UAP Disclosure Act, Chuck Schumer, and the Upcoming House Hearing",
+  "summary": "British journalist Chris Sharp joins Jeremy Corbell and George Knapp to examine Senator Chuck Schumer’s proposed UAP disclosure legislation, its focus on government and contractor-held records and materials, Harry Reid’s influence, and the approaching House hearing.",
+  "date": "2023-07-17",
+  "dateDisplay": "July 17, 2023",
+  "seriesId": "weaponized-podcast",
+  "episodeNumber": 26,
+  "episodeTitle": "The UAP Disclosure Act, Chuck Schumer, and the Upcoming House Hearing",
+  "status": "Published",
+  "mediaType": "Podcast episode",
+  "mediaPlatform": "WEAPONIZED",
+  "mediaHost": "Jeremy Corbell and George Knapp",
+  "mediaGuests": [
+    "chuck-schumer",
+    "harry-reid"
+  ],
+  "mediaSubjects": [],
+  "principalClaims": [
+    "claim-weaponized-26-1",
+    "claim-weaponized-26-2",
+    "claim-weaponized-26-3",
+    "claim-weaponized-26-4"
+  ],
+  "researchNotes": [],
+  "keyDiscussionTopics": [
+    "UAP Disclosure Act",
+    "Chuck Schumer",
+    "Harry Reid",
+    "Congressional transparency"
+  ],
+  "relationships": [
+    {
+      "type": "episode_of",
+      "target": "weaponized-podcast"
+    },
+    {
+      "type": "features_person",
+      "target": "jeremy-corbell",
+      "role": "host",
+      "context": "WEAPONIZED co-host"
+    },
+    {
+      "type": "features_person",
+      "target": "george-knapp",
+      "role": "host",
+      "context": "WEAPONIZED co-host"
+    },
+    {
+      "type": "features_person",
+      "target": "chris-sharp",
+      "role": "guest",
+      "context": "Journalist discussing UAP legislation"
+    },
+    {
+      "type": "references_person",
+      "target": "chuck-schumer",
+      "role": "subject",
+      "context": "Sponsor associated with proposed disclosure legislation"
+    },
+    {
+      "type": "references_person",
+      "target": "harry-reid",
+      "role": "context",
+      "context": "Credited as an influence on modern UAP oversight"
+    },
+    {
+      "type": "references_case",
+      "target": "2023-07-26-house-oversight-uap",
+      "role": "context",
+      "context": "Upcoming hearing discussed"
+    }
+  ],
+  "mediaLinks": [
+    {
+      "label": "Open the official Episode #26 page",
+      "url": "https://www.weaponizedpodcast.com/episodes-1/episode-number-26",
+      "platform": "WEAPONIZED"
+    },
+    {
+      "label": "Listen to WEAPONIZED",
+      "url": "https://link.chtbl.com/Weaponized",
+      "platform": "Official audio feed"
+    }
+  ],
+  "eventCategory": "Podcast publication",
+  "officialLinks": [],
+  "referenceSources": [
+    {
+      "label": "Official WEAPONIZED Episode #26 page",
+      "url": "https://www.weaponizedpodcast.com/episodes-1/episode-number-26",
+      "sourceType": "official_episode_page",
+      "role": "source"
+    },
+    {
+      "label": "Listen to WEAPONIZED",
+      "url": "https://link.chtbl.com/Weaponized",
+      "sourceType": "official_audio_feed",
+      "role": "source"
+    }
+  ]
+}

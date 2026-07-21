@@ -1,0 +1,28 @@
+{
+  "id": "larry-maguire",
+  "type": "person",
+  "name": "Larry Maguire",
+  "summary": "Canadian Member of Parliament associated with a letter urging government transparency regarding alleged allied UAP material programs.",
+  "relationships": [
+    {
+      "type": "appeared_in",
+      "target": "2023-weaponized-episode-22",
+      "role": "guest",
+      "context": "Featured in WEAPONIZED Episode #22"
+    }
+  ],
+  "profileStatus": "Canadian Member of Parliament associated with a letter urging government transparency regarding alleged allied UAP material programs.",
+  "profileSummary": "Canadian Member of Parliament associated with a letter urging government transparency regarding alleged allied UAP material programs.",
+  "profileBadge": "Guest",
+  "profileBadgeClass": "badge-witness",
+  "inclusionNote": "Included as a principal subject or guest in WEAPONIZED Episode #22.",
+  "officialLinks": [],
+  "referenceSources": [
+    {
+      "label": "Official WEAPONIZED Episode #22 page",
+      "url": "https://www.weaponizedpodcast.com/episodes-1/episode-number-22",
+      "sourceType": "official_episode_page",
+      "role": "source"
+    }
+  ]
+}

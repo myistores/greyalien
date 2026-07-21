@@ -1,0 +1,21 @@
+{
+  "id": "claim-weaponized-26-1",
+  "type": "claim",
+  "name": "Chuck Schumer’s proposal sought release and review of long-classified UAP records.",
+  "summary": "Claim or framing presented in WEAPONIZED Episode #26.",
+  "relationships": [
+    {
+      "type": "featured_in_media",
+      "target": "2023-weaponized-episode-26"
+    }
+  ],
+  "officialLinks": [],
+  "referenceSources": [
+    {
+      "label": "Official WEAPONIZED Episode #26 page",
+      "url": "https://www.weaponizedpodcast.com/episodes-1/episode-number-26",
+      "sourceType": "official_episode_page",
+      "role": "source"
+    }
+  ]
+}

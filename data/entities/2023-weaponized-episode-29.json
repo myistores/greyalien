@@ -1,0 +1,88 @@
+{
+  "id": "2023-weaponized-episode-29",
+  "type": "podcast_episode",
+  "name": "WEAPONIZED Episode #29 — David Fravor and the Nimitz Tic Tac Encounter",
+  "summary": "WEAPONIZED revisits the 2004 Nimitz Carrier Strike Group encounters, Commander David Fravor’s pursuit of the Tic Tac object, the delayed official investigation, and why his testimony became central to modern demands for UAP transparency.",
+  "date": "2023-08-07",
+  "dateDisplay": "August 7, 2023",
+  "seriesId": "weaponized-podcast",
+  "episodeNumber": 29,
+  "episodeTitle": "David Fravor and the Nimitz Tic Tac Encounter",
+  "status": "Published",
+  "mediaType": "Podcast episode",
+  "mediaPlatform": "WEAPONIZED",
+  "mediaHost": "Jeremy Corbell and George Knapp",
+  "mediaGuests": [],
+  "mediaSubjects": [],
+  "principalClaims": [
+    "claim-weaponized-29-1",
+    "claim-weaponized-29-2",
+    "claim-weaponized-29-3",
+    "claim-weaponized-29-4"
+  ],
+  "researchNotes": [],
+  "keyDiscussionTopics": [
+    "Nimitz encounter",
+    "David Fravor",
+    "Tic Tac UAP",
+    "Naval sensors"
+  ],
+  "relationships": [
+    {
+      "type": "episode_of",
+      "target": "weaponized-podcast"
+    },
+    {
+      "type": "features_person",
+      "target": "jeremy-corbell",
+      "role": "host",
+      "context": "WEAPONIZED co-host"
+    },
+    {
+      "type": "features_person",
+      "target": "george-knapp",
+      "role": "host",
+      "context": "WEAPONIZED co-host"
+    },
+    {
+      "type": "references_case",
+      "target": "2004-nimitz-encounter",
+      "role": "subject",
+      "context": "Principal case examined"
+    },
+    {
+      "type": "features_person",
+      "target": "david-fravor",
+      "role": "subject",
+      "context": "Principal military witness"
+    }
+  ],
+  "mediaLinks": [
+    {
+      "label": "Open the official Episode #29 page",
+      "url": "https://www.weaponizedpodcast.com/episodes-1/episode-number-29",
+      "platform": "WEAPONIZED"
+    },
+    {
+      "label": "Listen to WEAPONIZED",
+      "url": "https://link.chtbl.com/Weaponized",
+      "platform": "Official audio feed"
+    }
+  ],
+  "eventCategory": "Podcast publication",
+  "officialLinks": [],
+  "referenceSources": [
+    {
+      "label": "Official WEAPONIZED Episode #29 page",
+      "url": "https://www.weaponizedpodcast.com/episodes-1/episode-number-29",
+      "sourceType": "official_episode_page",
+      "role": "source"
+    },
+    {
+      "label": "Listen to WEAPONIZED",
+      "url": "https://link.chtbl.com/Weaponized",
+      "sourceType": "official_audio_feed",
+      "role": "source"
+    }
+  ]
+}
