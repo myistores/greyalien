@@ -1,0 +1,90 @@
+{
+  "id": "2023-weaponized-episode-35",
+  "type": "podcast_episode",
+  "name": "WEAPONIZED Episode #35 \u2014 UFO History, Gulf of Mexico Objects, and Congressional Stakes",
+  "summary": "The episode reviews historical milestones in public understanding of UFOs and features Christopher Sharp on a reported Gulf of Mexico encounter and the status of UAP legislation.",
+  "date": "2023-09-25",
+  "dateDisplay": "September 25, 2023",
+  "seriesId": "weaponized-podcast",
+  "episodeNumber": 35,
+  "episodeTitle": "UFO History, Gulf of Mexico Objects, and Congressional Stakes",
+  "status": "Published",
+  "mediaType": "Podcast episode",
+  "mediaPlatform": "WEAPONIZED",
+  "mediaHost": "Jeremy Corbell and George Knapp",
+  "mediaGuests": [
+    "christopher-sharp"
+  ],
+  "mediaSubjects": [],
+  "principalClaims": [
+    "claim-weaponized-35-1",
+    "claim-weaponized-35-2",
+    "claim-weaponized-35-3",
+    "claim-weaponized-35-4"
+  ],
+  "researchNotes": [],
+  "keyDiscussionTopics": [
+    "UFO history",
+    "Gulf of Mexico encounter",
+    "UAP legislation",
+    "Public perception"
+  ],
+  "relationships": [
+    {
+      "type": "episode_of",
+      "target": "weaponized-podcast"
+    },
+    {
+      "type": "features_person",
+      "target": "jeremy-corbell",
+      "role": "host",
+      "context": "WEAPONIZED co-host"
+    },
+    {
+      "type": "features_person",
+      "target": "george-knapp",
+      "role": "host",
+      "context": "WEAPONIZED co-host"
+    },
+    {
+      "type": "features_person",
+      "target": "christopher-sharp",
+      "role": "guest",
+      "context": "Featured guest in Episode #35"
+    },
+    {
+      "type": "references_organization",
+      "target": "united-states-air-force",
+      "role": "context",
+      "context": "Discussed in Episode #35"
+    }
+  ],
+  "mediaLinks": [
+    {
+      "label": "Open the official Episode #35 page",
+      "url": "https://www.weaponizedpodcast.com/episodes-2/episode-35",
+      "platform": "WEAPONIZED"
+    },
+    {
+      "label": "Listen to WEAPONIZED",
+      "url": "https://link.chtbl.com/Weaponized",
+      "platform": "Official audio feed"
+    }
+  ],
+  "eventCategory": "Podcast publication",
+  "officialLinks": [],
+  "referenceSources": [
+    {
+      "label": "Official WEAPONIZED Episode #35 page",
+      "url": "https://www.weaponizedpodcast.com/episodes-2/episode-35",
+      "sourceType": "official_episode_page",
+      "role": "source"
+    },
+    {
+      "label": "Listen to WEAPONIZED",
+      "url": "https://link.chtbl.com/Weaponized",
+      "sourceType": "official_audio_feed",
+      "role": "source"
+    }
+  ]
+}

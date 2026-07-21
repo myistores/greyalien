@@ -1,0 +1,90 @@
+{
+  "id": "2023-weaponized-episode-37",
+  "type": "podcast_episode",
+  "name": "WEAPONIZED Episode #37 \u2014 Chris Ramsay \u2014 Remote Viewing and Psychic Espionage",
+  "summary": "Chris Ramsay discusses Project Stargate, Grill Flame, government remote-viewing programs, key participants, and reported cases involving UFOs and ancient Mars.",
+  "date": "2023-10-09",
+  "dateDisplay": "October 9, 2023",
+  "seriesId": "weaponized-podcast",
+  "episodeNumber": 37,
+  "episodeTitle": "Chris Ramsay \u2014 Remote Viewing and Psychic Espionage",
+  "status": "Published",
+  "mediaType": "Podcast episode",
+  "mediaPlatform": "WEAPONIZED",
+  "mediaHost": "Jeremy Corbell and George Knapp",
+  "mediaGuests": [
+    "chris-ramsay"
+  ],
+  "mediaSubjects": [],
+  "principalClaims": [
+    "claim-weaponized-37-1",
+    "claim-weaponized-37-2",
+    "claim-weaponized-37-3",
+    "claim-weaponized-37-4"
+  ],
+  "researchNotes": [],
+  "keyDiscussionTopics": [
+    "Remote viewing",
+    "Project Stargate",
+    "Psychic espionage",
+    "Mars"
+  ],
+  "relationships": [
+    {
+      "type": "episode_of",
+      "target": "weaponized-podcast"
+    },
+    {
+      "type": "features_person",
+      "target": "jeremy-corbell",
+      "role": "host",
+      "context": "WEAPONIZED co-host"
+    },
+    {
+      "type": "features_person",
+      "target": "george-knapp",
+      "role": "host",
+      "context": "WEAPONIZED co-host"
+    },
+    {
+      "type": "features_person",
+      "target": "chris-ramsay",
+      "role": "guest",
+      "context": "Featured guest in Episode #37"
+    },
+    {
+      "type": "references_organization",
+      "target": "central-intelligence-agency",
+      "role": "context",
+      "context": "Discussed in Episode #37"
+    }
+  ],
+  "mediaLinks": [
+    {
+      "label": "Open the official Episode #37 page",
+      "url": "https://www.weaponizedpodcast.com/episodes-2/episode-37",
+      "platform": "WEAPONIZED"
+    },
+    {
+      "label": "Listen to WEAPONIZED",
+      "url": "https://link.chtbl.com/Weaponized",
+      "platform": "Official audio feed"
+    }
+  ],
+  "eventCategory": "Podcast publication",
+  "officialLinks": [],
+  "referenceSources": [
+    {
+      "label": "Official WEAPONIZED Episode #37 page",
+      "url": "https://www.weaponizedpodcast.com/episodes-2/episode-37",
+      "sourceType": "official_episode_page",
+      "role": "source"
+    },
+    {
+      "label": "Listen to WEAPONIZED",
+      "url": "https://link.chtbl.com/Weaponized",
+      "sourceType": "official_audio_feed",
+      "role": "source"
+    }
+  ]
+}

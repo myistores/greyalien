@@ -1,0 +1,90 @@
+{
+  "id": "2023-weaponized-episode-32",
+  "type": "podcast_episode",
+  "name": "WEAPONIZED Episode #32 \u2014 John Lear \u2014 Aviation, Secrecy, and a Controversial UFO Legacy",
+  "summary": "A retrospective on aviator John Lear examines his aviation career, intelligence-world connections, UFO claims, and influence on George Knapp and Jeremy Corbell.",
+  "date": "2023-08-28",
+  "dateDisplay": "August 28, 2023",
+  "seriesId": "weaponized-podcast",
+  "episodeNumber": 32,
+  "episodeTitle": "John Lear \u2014 Aviation, Secrecy, and a Controversial UFO Legacy",
+  "status": "Published",
+  "mediaType": "Podcast episode",
+  "mediaPlatform": "WEAPONIZED",
+  "mediaHost": "Jeremy Corbell and George Knapp",
+  "mediaGuests": [
+    "john-lear"
+  ],
+  "mediaSubjects": [],
+  "principalClaims": [
+    "claim-weaponized-32-1",
+    "claim-weaponized-32-2",
+    "claim-weaponized-32-3",
+    "claim-weaponized-32-4"
+  ],
+  "researchNotes": [],
+  "keyDiscussionTopics": [
+    "John Lear",
+    "Aviation history",
+    "UFO secrecy",
+    "Disinformation"
+  ],
+  "relationships": [
+    {
+      "type": "episode_of",
+      "target": "weaponized-podcast"
+    },
+    {
+      "type": "features_person",
+      "target": "jeremy-corbell",
+      "role": "host",
+      "context": "WEAPONIZED co-host"
+    },
+    {
+      "type": "features_person",
+      "target": "george-knapp",
+      "role": "host",
+      "context": "WEAPONIZED co-host"
+    },
+    {
+      "type": "features_person",
+      "target": "john-lear",
+      "role": "guest",
+      "context": "Featured guest in Episode #32"
+    },
+    {
+      "type": "references_organization",
+      "target": "department-of-defense",
+      "role": "context",
+      "context": "Discussed in Episode #32"
+    }
+  ],
+  "mediaLinks": [
+    {
+      "label": "Open the official Episode #32 page",
+      "url": "https://www.weaponizedpodcast.com/episodes-2/episode-32",
+      "platform": "WEAPONIZED"
+    },
+    {
+      "label": "Listen to WEAPONIZED",
+      "url": "https://link.chtbl.com/Weaponized",
+      "platform": "Official audio feed"
+    }
+  ],
+  "eventCategory": "Podcast publication",
+  "officialLinks": [],
+  "referenceSources": [
+    {
+      "label": "Official WEAPONIZED Episode #32 page",
+      "url": "https://www.weaponizedpodcast.com/episodes-2/episode-32",
+      "sourceType": "official_episode_page",
+      "role": "source"
+    },
+    {
+      "label": "Listen to WEAPONIZED",
+      "url": "https://link.chtbl.com/Weaponized",
+      "sourceType": "official_audio_feed",
+      "role": "source"
+    }
+  ]
+}

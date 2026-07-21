@@ -1,0 +1,21 @@
+{
+  "id": "claim-weaponized-41-4",
+  "type": "claim",
+  "name": "An allied aircraft reportedly fired an advanced missile at an unidentified object in the Middle East.",
+  "summary": "Claim or framing presented in WEAPONIZED Episode #41.",
+  "relationships": [
+    {
+      "type": "featured_in_media",
+      "target": "2023-weaponized-episode-41"
+    }
+  ],
+  "officialLinks": [],
+  "referenceSources": [
+    {
+      "label": "Official WEAPONIZED Episode #41 page",
+      "url": "https://www.weaponizedpodcast.com/episodes-2/episode-41",
+      "sourceType": "official_episode_page",
+      "role": "source"
+    }
+  ]
+}

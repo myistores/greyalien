@@ -1,0 +1,28 @@
+{
+  "id": "chris-ramsay",
+  "type": "person",
+  "name": "Chris Ramsay",
+  "summary": "Magician, filmmaker, and investigator who produced a documentary series on U.S. government remote-viewing programs.",
+  "relationships": [
+    {
+      "type": "appeared_in",
+      "target": "2023-weaponized-episode-37",
+      "role": "guest",
+      "context": "Featured in WEAPONIZED Episode #37"
+    }
+  ],
+  "profileStatus": "Magician, filmmaker, and investigator who produced a documentary series on U.S. government remote-viewing programs.",
+  "profileSummary": "Magician, filmmaker, and investigator who produced a documentary series on U.S. government remote-viewing programs.",
+  "profileBadge": "Guest",
+  "profileBadgeClass": "badge-witness",
+  "inclusionNote": "Included as a principal subject or guest in WEAPONIZED Episode #37.",
+  "officialLinks": [],
+  "referenceSources": [
+    {
+      "label": "Official WEAPONIZED Episode #37 page",
+      "url": "https://www.weaponizedpodcast.com/episodes-2/episode-37",
+      "sourceType": "official_episode_page",
+      "role": "source"
+    }
+  ]
+}

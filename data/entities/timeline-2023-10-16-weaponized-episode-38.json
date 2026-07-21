@@ -1,0 +1,24 @@
+{
+  "id": "timeline-2023-10-16-weaponized-episode-38",
+  "type": "timeline_event",
+  "name": "WEAPONIZED Episode #38 published",
+  "summary": "James Lacatski and Colm Kelleher discuss AAWSAP, its large UFO database, reported advanced performance characteristics, and a major claim concerning a craft of unknown origin.",
+  "date": "2023-10-16",
+  "dateDisplay": "October 16, 2023",
+  "eventCategory": "Podcast publication",
+  "relationships": [
+    {
+      "type": "event_for",
+      "target": "2023-weaponized-episode-38"
+    }
+  ],
+  "officialLinks": [],
+  "referenceSources": [
+    {
+      "label": "Official WEAPONIZED Episode #38 page",
+      "url": "https://www.weaponizedpodcast.com/episodes-2/episode-38",
+      "sourceType": "official_episode_page",
+      "role": "source"
+    }
+  ]
+}

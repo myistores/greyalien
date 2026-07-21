@@ -1,0 +1,24 @@
+{
+  "id": "timeline-2023-09-18-weaponized-episode-34",
+  "type": "timeline_event",
+  "name": "WEAPONIZED Episode #34 published",
+  "summary": "The hosts examine institutional resistance to congressional scrutiny, scientific study, and media coverage of UAP, while urging public advocacy before the current transparency window closes.",
+  "date": "2023-09-18",
+  "dateDisplay": "September 18, 2023",
+  "eventCategory": "Podcast publication",
+  "relationships": [
+    {
+      "type": "event_for",
+      "target": "2023-weaponized-episode-34"
+    }
+  ],
+  "officialLinks": [],
+  "referenceSources": [
+    {
+      "label": "Official WEAPONIZED Episode #34 page",
+      "url": "https://www.weaponizedpodcast.com/episodes-2/episode-34",
+      "sourceType": "official_episode_page",
+      "role": "source"
+    }
+  ]
+}

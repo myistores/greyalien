@@ -1,0 +1,82 @@
+{
+  "id": "2023-weaponized-episode-34",
+  "type": "podcast_episode",
+  "name": "WEAPONIZED Episode #34 \u2014 The Pushback Against UFO Transparency",
+  "summary": "The hosts examine institutional resistance to congressional scrutiny, scientific study, and media coverage of UAP, while urging public advocacy before the current transparency window closes.",
+  "date": "2023-09-18",
+  "dateDisplay": "September 18, 2023",
+  "seriesId": "weaponized-podcast",
+  "episodeNumber": 34,
+  "episodeTitle": "The Pushback Against UFO Transparency",
+  "status": "Published",
+  "mediaType": "Podcast episode",
+  "mediaPlatform": "WEAPONIZED",
+  "mediaHost": "Jeremy Corbell and George Knapp",
+  "mediaGuests": [],
+  "mediaSubjects": [],
+  "principalClaims": [
+    "claim-weaponized-34-1",
+    "claim-weaponized-34-2",
+    "claim-weaponized-34-3",
+    "claim-weaponized-34-4"
+  ],
+  "researchNotes": [],
+  "keyDiscussionTopics": [
+    "UFO transparency",
+    "Congressional oversight",
+    "Public advocacy",
+    "Institutional resistance"
+  ],
+  "relationships": [
+    {
+      "type": "episode_of",
+      "target": "weaponized-podcast"
+    },
+    {
+      "type": "features_person",
+      "target": "jeremy-corbell",
+      "role": "host",
+      "context": "WEAPONIZED co-host"
+    },
+    {
+      "type": "features_person",
+      "target": "george-knapp",
+      "role": "host",
+      "context": "WEAPONIZED co-host"
+    },
+    {
+      "type": "references_organization",
+      "target": "department-of-defense",
+      "role": "context",
+      "context": "Discussed in Episode #34"
+    }
+  ],
+  "mediaLinks": [
+    {
+      "label": "Open the official Episode #34 page",
+      "url": "https://www.weaponizedpodcast.com/episodes-2/episode-34",
+      "platform": "WEAPONIZED"
+    },
+    {
+      "label": "Listen to WEAPONIZED",
+      "url": "https://link.chtbl.com/Weaponized",
+      "platform": "Official audio feed"
+    }
+  ],
+  "eventCategory": "Podcast publication",
+  "officialLinks": [],
+  "referenceSources": [
+    {
+      "label": "Official WEAPONIZED Episode #34 page",
+      "url": "https://www.weaponizedpodcast.com/episodes-2/episode-34",
+      "sourceType": "official_episode_page",
+      "role": "source"
+    },
+    {
+      "label": "Listen to WEAPONIZED",
+      "url": "https://link.chtbl.com/Weaponized",
+      "sourceType": "official_audio_feed",
+      "role": "source"
+    }
+  ]
+}

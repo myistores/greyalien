@@ -1,0 +1,21 @@
+{
+  "id": "claim-weaponized-36-1",
+  "type": "claim",
+  "name": "Virtual and augmented reality technologies may eventually become difficult to distinguish from ordinary experience.",
+  "summary": "Claim or framing presented in WEAPONIZED Episode #36.",
+  "relationships": [
+    {
+      "type": "featured_in_media",
+      "target": "2023-weaponized-episode-36"
+    }
+  ],
+  "officialLinks": [],
+  "referenceSources": [
+    {
+      "label": "Official WEAPONIZED Episode #36 page",
+      "url": "https://www.weaponizedpodcast.com/episodes-2/episode-36",
+      "sourceType": "official_episode_page",
+      "role": "source"
+    }
+  ]
+}

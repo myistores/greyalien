@@ -1,0 +1,24 @@
+{
+  "id": "timeline-2023-11-13-weaponized-episode-41",
+  "type": "timeline_event",
+  "name": "WEAPONIZED Episode #41 published",
+  "summary": "The episode examines military policy toward unidentified aerial intrusions and reports two incidents involving weapons fired at unknown objects near a U.S. warship in the Pacific and in the Middle East.",
+  "date": "2023-11-13",
+  "dateDisplay": "November 13, 2023",
+  "eventCategory": "Podcast publication",
+  "relationships": [
+    {
+      "type": "event_for",
+      "target": "2023-weaponized-episode-41"
+    }
+  ],
+  "officialLinks": [],
+  "referenceSources": [
+    {
+      "label": "Official WEAPONIZED Episode #41 page",
+      "url": "https://www.weaponizedpodcast.com/episodes-2/episode-41",
+      "sourceType": "official_episode_page",
+      "role": "source"
+    }
+  ]
+}

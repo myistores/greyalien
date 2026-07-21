@@ -1,0 +1,24 @@
+{
+  "id": "timeline-2023-09-04-weaponized-episode-33",
+  "type": "timeline_event",
+  "name": "WEAPONIZED Episode #33 published",
+  "summary": "Corbell and Knapp revisit topics raised on The Joe Rogan Experience, including crash-retrieval evidence, changes in AARO leadership, and whether the office is fulfilling its congressional mandate.",
+  "date": "2023-09-04",
+  "dateDisplay": "September 4, 2023",
+  "eventCategory": "Podcast publication",
+  "relationships": [
+    {
+      "type": "event_for",
+      "target": "2023-weaponized-episode-33"
+    }
+  ],
+  "officialLinks": [],
+  "referenceSources": [
+    {
+      "label": "Official WEAPONIZED Episode #33 page",
+      "url": "https://www.weaponizedpodcast.com/episodes-2/episode-33",
+      "sourceType": "official_episode_page",
+      "role": "source"
+    }
+  ]
+}

@@ -1,0 +1,97 @@
+{
+  "id": "2023-weaponized-episode-38",
+  "type": "podcast_episode",
+  "name": "WEAPONIZED Episode #38 \u2014 James Lacatski and Colm Kelleher \u2014 Inside AAWSAP",
+  "summary": "James Lacatski and Colm Kelleher discuss AAWSAP, its large UFO database, reported advanced performance characteristics, and a major claim concerning a craft of unknown origin.",
+  "date": "2023-10-16",
+  "dateDisplay": "October 16, 2023",
+  "seriesId": "weaponized-podcast",
+  "episodeNumber": 38,
+  "episodeTitle": "James Lacatski and Colm Kelleher \u2014 Inside AAWSAP",
+  "status": "Published",
+  "mediaType": "Podcast episode",
+  "mediaPlatform": "WEAPONIZED",
+  "mediaHost": "Jeremy Corbell and George Knapp",
+  "mediaGuests": [
+    "james-lacatski",
+    "colm-kelleher"
+  ],
+  "mediaSubjects": [],
+  "principalClaims": [
+    "claim-weaponized-38-1",
+    "claim-weaponized-38-2",
+    "claim-weaponized-38-3",
+    "claim-weaponized-38-4"
+  ],
+  "researchNotes": [],
+  "keyDiscussionTopics": [
+    "AAWSAP",
+    "UFO databases",
+    "Advanced propulsion",
+    "Craft of unknown origin"
+  ],
+  "relationships": [
+    {
+      "type": "episode_of",
+      "target": "weaponized-podcast"
+    },
+    {
+      "type": "features_person",
+      "target": "jeremy-corbell",
+      "role": "host",
+      "context": "WEAPONIZED co-host"
+    },
+    {
+      "type": "features_person",
+      "target": "george-knapp",
+      "role": "host",
+      "context": "WEAPONIZED co-host"
+    },
+    {
+      "type": "features_person",
+      "target": "james-lacatski",
+      "role": "guest",
+      "context": "Featured guest in Episode #38"
+    },
+    {
+      "type": "features_person",
+      "target": "colm-kelleher",
+      "role": "guest",
+      "context": "Featured guest in Episode #38"
+    },
+    {
+      "type": "references_organization",
+      "target": "defense-intelligence-agency",
+      "role": "context",
+      "context": "Discussed in Episode #38"
+    }
+  ],
+  "mediaLinks": [
+    {
+      "label": "Open the official Episode #38 page",
+      "url": "https://www.weaponizedpodcast.com/episodes-2/episode-38",
+      "platform": "WEAPONIZED"
+    },
+    {
+      "label": "Listen to WEAPONIZED",
+      "url": "https://link.chtbl.com/Weaponized",
+      "platform": "Official audio feed"
+    }
+  ],
+  "eventCategory": "Podcast publication",
+  "officialLinks": [],
+  "referenceSources": [
+    {
+      "label": "Official WEAPONIZED Episode #38 page",
+      "url": "https://www.weaponizedpodcast.com/episodes-2/episode-38",
+      "sourceType": "official_episode_page",
+      "role": "source"
+    },
+    {
+      "label": "Listen to WEAPONIZED",
+      "url": "https://link.chtbl.com/Weaponized",
+      "sourceType": "official_audio_feed",
+      "role": "source"
+    }
+  ]
+}

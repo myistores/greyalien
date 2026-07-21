@@ -394,11 +394,81 @@
       "name": "WEAPONIZED Episode #31 published",
       "aliases": []
     },
+    "timeline-2023-08-28-weaponized-episode-32": {
+      "id": "timeline-2023-08-28-weaponized-episode-32",
+      "date": "2023-08-28",
+      "eventCategory": "Podcast publication",
+      "name": "WEAPONIZED Episode #32 published",
+      "aliases": []
+    },
+    "timeline-2023-09-04-weaponized-episode-33": {
+      "id": "timeline-2023-09-04-weaponized-episode-33",
+      "date": "2023-09-04",
+      "eventCategory": "Podcast publication",
+      "name": "WEAPONIZED Episode #33 published",
+      "aliases": []
+    },
+    "timeline-2023-09-18-weaponized-episode-34": {
+      "id": "timeline-2023-09-18-weaponized-episode-34",
+      "date": "2023-09-18",
+      "eventCategory": "Podcast publication",
+      "name": "WEAPONIZED Episode #34 published",
+      "aliases": []
+    },
+    "timeline-2023-09-25-weaponized-episode-35": {
+      "id": "timeline-2023-09-25-weaponized-episode-35",
+      "date": "2023-09-25",
+      "eventCategory": "Podcast publication",
+      "name": "WEAPONIZED Episode #35 published",
+      "aliases": []
+    },
+    "timeline-2023-10-02-weaponized-episode-36": {
+      "id": "timeline-2023-10-02-weaponized-episode-36",
+      "date": "2023-10-02",
+      "eventCategory": "Podcast publication",
+      "name": "WEAPONIZED Episode #36 published",
+      "aliases": []
+    },
+    "timeline-2023-10-09-weaponized-episode-37": {
+      "id": "timeline-2023-10-09-weaponized-episode-37",
+      "date": "2023-10-09",
+      "eventCategory": "Podcast publication",
+      "name": "WEAPONIZED Episode #37 published",
+      "aliases": []
+    },
+    "timeline-2023-10-16-weaponized-episode-38": {
+      "id": "timeline-2023-10-16-weaponized-episode-38",
+      "date": "2023-10-16",
+      "eventCategory": "Podcast publication",
+      "name": "WEAPONIZED Episode #38 published",
+      "aliases": []
+    },
+    "timeline-2023-10-23-weaponized-episode-39": {
+      "id": "timeline-2023-10-23-weaponized-episode-39",
+      "date": "2023-10-23",
+      "eventCategory": "Podcast publication",
+      "name": "WEAPONIZED Episode #39 published",
+      "aliases": []
+    },
     "timeline-2023-10-31-aaro-secure-reporting-mechanism": {
       "id": "timeline-2023-10-31-aaro-secure-reporting-mechanism",
       "date": "2023-10-31",
       "eventCategory": "Government reporting system",
       "name": "AARO Launches a Secure UAP Reporting Mechanism",
+      "aliases": []
+    },
+    "timeline-2023-11-06-weaponized-episode-40": {
+      "id": "timeline-2023-11-06-weaponized-episode-40",
+      "date": "2023-11-06",
+      "eventCategory": "Podcast publication",
+      "name": "WEAPONIZED Episode #40 published",
+      "aliases": []
+    },
+    "timeline-2023-11-13-weaponized-episode-41": {
+      "id": "timeline-2023-11-13-weaponized-episode-41",
+      "date": "2023-11-13",
+      "eventCategory": "Podcast publication",
+      "name": "WEAPONIZED Episode #41 published",
       "aliases": []
     },
     "timeline-2023-11-17-sol-inaugural-symposium": {
@@ -660,7 +730,7 @@
   },
   "conflicts": [],
   "statistics": {
-    "canonicalEventCount": 92,
+    "canonicalEventCount": 102,
     "aliasCount": 3,
     "conflictCount": 0
   }

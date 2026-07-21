@@ -1,0 +1,84 @@
+{
+  "id": "2023-weaponized-episode-36",
+  "type": "podcast_episode",
+  "name": "WEAPONIZED Episode #36 \u2014 Jules Urbach \u2014 Virtual Reality, AI, and Post-Biological Intelligence",
+  "summary": "Technology entrepreneur Jules Urbach discusses virtual reality, artificial intelligence, human-machine integration, and whether advanced civilizations might evolve into non-physical forms.",
+  "date": "2023-10-02",
+  "dateDisplay": "October 2, 2023",
+  "seriesId": "weaponized-podcast",
+  "episodeNumber": 36,
+  "episodeTitle": "Jules Urbach \u2014 Virtual Reality, AI, and Post-Biological Intelligence",
+  "status": "Published",
+  "mediaType": "Podcast episode",
+  "mediaPlatform": "WEAPONIZED",
+  "mediaHost": "Jeremy Corbell and George Knapp",
+  "mediaGuests": [
+    "jules-urbach"
+  ],
+  "mediaSubjects": [],
+  "principalClaims": [
+    "claim-weaponized-36-1",
+    "claim-weaponized-36-2",
+    "claim-weaponized-36-3",
+    "claim-weaponized-36-4"
+  ],
+  "researchNotes": [],
+  "keyDiscussionTopics": [
+    "Virtual reality",
+    "Artificial intelligence",
+    "Human evolution",
+    "Advanced civilizations"
+  ],
+  "relationships": [
+    {
+      "type": "episode_of",
+      "target": "weaponized-podcast"
+    },
+    {
+      "type": "features_person",
+      "target": "jeremy-corbell",
+      "role": "host",
+      "context": "WEAPONIZED co-host"
+    },
+    {
+      "type": "features_person",
+      "target": "george-knapp",
+      "role": "host",
+      "context": "WEAPONIZED co-host"
+    },
+    {
+      "type": "features_person",
+      "target": "jules-urbach",
+      "role": "guest",
+      "context": "Featured guest in Episode #36"
+    }
+  ],
+  "mediaLinks": [
+    {
+      "label": "Open the official Episode #36 page",
+      "url": "https://www.weaponizedpodcast.com/episodes-2/episode-36",
+      "platform": "WEAPONIZED"
+    },
+    {
+      "label": "Listen to WEAPONIZED",
+      "url": "https://link.chtbl.com/Weaponized",
+      "platform": "Official audio feed"
+    }
+  ],
+  "eventCategory": "Podcast publication",
+  "officialLinks": [],
+  "referenceSources": [
+    {
+      "label": "Official WEAPONIZED Episode #36 page",
+      "url": "https://www.weaponizedpodcast.com/episodes-2/episode-36",
+      "sourceType": "official_episode_page",
+      "role": "source"
+    },
+    {
+      "label": "Listen to WEAPONIZED",
+      "url": "https://link.chtbl.com/Weaponized",
+      "sourceType": "official_audio_feed",
+      "role": "source"
+    }
+  ]
+}

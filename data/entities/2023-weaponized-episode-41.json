@@ -1,0 +1,82 @@
+{
+  "id": "2023-weaponized-episode-41",
+  "type": "podcast_episode",
+  "name": "WEAPONIZED Episode #41 \u2014 Military Engagements with Unidentified Aerial Intruders",
+  "summary": "The episode examines military policy toward unidentified aerial intrusions and reports two incidents involving weapons fired at unknown objects near a U.S. warship in the Pacific and in the Middle East.",
+  "date": "2023-11-13",
+  "dateDisplay": "November 13, 2023",
+  "seriesId": "weaponized-podcast",
+  "episodeNumber": 41,
+  "episodeTitle": "Military Engagements with Unidentified Aerial Intruders",
+  "status": "Published",
+  "mediaType": "Podcast episode",
+  "mediaPlatform": "WEAPONIZED",
+  "mediaHost": "Jeremy Corbell and George Knapp",
+  "mediaGuests": [],
+  "mediaSubjects": [],
+  "principalClaims": [
+    "claim-weaponized-41-1",
+    "claim-weaponized-41-2",
+    "claim-weaponized-41-3",
+    "claim-weaponized-41-4"
+  ],
+  "researchNotes": [],
+  "keyDiscussionTopics": [
+    "Military engagement policy",
+    "Unidentified aerial intrusions",
+    "Pacific Ocean incident",
+    "Middle East drone incident"
+  ],
+  "relationships": [
+    {
+      "type": "episode_of",
+      "target": "weaponized-podcast"
+    },
+    {
+      "type": "features_person",
+      "target": "jeremy-corbell",
+      "role": "host",
+      "context": "WEAPONIZED co-host"
+    },
+    {
+      "type": "features_person",
+      "target": "george-knapp",
+      "role": "host",
+      "context": "WEAPONIZED co-host"
+    },
+    {
+      "type": "references_organization",
+      "target": "department-of-defense",
+      "role": "context",
+      "context": "Discussed in Episode #41"
+    }
+  ],
+  "mediaLinks": [
+    {
+      "label": "Open the official Episode #41 page",
+      "url": "https://www.weaponizedpodcast.com/episodes-2/episode-41",
+      "platform": "WEAPONIZED"
+    },
+    {
+      "label": "Listen to WEAPONIZED",
+      "url": "https://link.chtbl.com/Weaponized",
+      "platform": "Official audio feed"
+    }
+  ],
+  "eventCategory": "Podcast publication",
+  "officialLinks": [],
+  "referenceSources": [
+    {
+      "label": "Official WEAPONIZED Episode #41 page",
+      "url": "https://www.weaponizedpodcast.com/episodes-2/episode-41",
+      "sourceType": "official_episode_page",
+      "role": "source"
+    },
+    {
+      "label": "Listen to WEAPONIZED",
+      "url": "https://link.chtbl.com/Weaponized",
+      "sourceType": "official_audio_feed",
+      "role": "source"
+    }
+  ]
+}

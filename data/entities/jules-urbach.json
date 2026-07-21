@@ -1,0 +1,28 @@
+{
+  "id": "jules-urbach",
+  "type": "person",
+  "name": "Jules Urbach",
+  "summary": "Technology entrepreneur and founder of OTOY, known for work in graphics, rendering, virtual reality, and immersive media.",
+  "relationships": [
+    {
+      "type": "appeared_in",
+      "target": "2023-weaponized-episode-36",
+      "role": "guest",
+      "context": "Featured in WEAPONIZED Episode #36"
+    }
+  ],
+  "profileStatus": "Technology entrepreneur and founder of OTOY, known for work in graphics, rendering, virtual reality, and immersive media.",
+  "profileSummary": "Technology entrepreneur and founder of OTOY, known for work in graphics, rendering, virtual reality, and immersive media.",
+  "profileBadge": "Guest",
+  "profileBadgeClass": "badge-witness",
+  "inclusionNote": "Included as a principal subject or guest in WEAPONIZED Episode #36.",
+  "officialLinks": [],
+  "referenceSources": [
+    {
+      "label": "Official WEAPONIZED Episode #36 page",
+      "url": "https://www.weaponizedpodcast.com/episodes-2/episode-36",
+      "sourceType": "official_episode_page",
+      "role": "source"
+    }
+  ]
+}

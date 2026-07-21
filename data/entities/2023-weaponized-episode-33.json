@@ -1,0 +1,88 @@
+{
+  "id": "2023-weaponized-episode-33",
+  "type": "podcast_episode",
+  "name": "WEAPONIZED Episode #33 \u2014 AARO, Crash Retrievals, and the Dark Side of the UFO Mystery",
+  "summary": "Corbell and Knapp revisit topics raised on The Joe Rogan Experience, including crash-retrieval evidence, changes in AARO leadership, and whether the office is fulfilling its congressional mandate.",
+  "date": "2023-09-04",
+  "dateDisplay": "September 4, 2023",
+  "seriesId": "weaponized-podcast",
+  "episodeNumber": 33,
+  "episodeTitle": "AARO, Crash Retrievals, and the Dark Side of the UFO Mystery",
+  "status": "Published",
+  "mediaType": "Podcast episode",
+  "mediaPlatform": "WEAPONIZED",
+  "mediaHost": "Jeremy Corbell and George Knapp",
+  "mediaGuests": [],
+  "mediaSubjects": [],
+  "principalClaims": [
+    "claim-weaponized-33-1",
+    "claim-weaponized-33-2",
+    "claim-weaponized-33-3",
+    "claim-weaponized-33-4"
+  ],
+  "researchNotes": [],
+  "keyDiscussionTopics": [
+    "AARO",
+    "Crash retrievals",
+    "UFO transparency",
+    "Department of Defense"
+  ],
+  "relationships": [
+    {
+      "type": "episode_of",
+      "target": "weaponized-podcast"
+    },
+    {
+      "type": "features_person",
+      "target": "jeremy-corbell",
+      "role": "host",
+      "context": "WEAPONIZED co-host"
+    },
+    {
+      "type": "features_person",
+      "target": "george-knapp",
+      "role": "host",
+      "context": "WEAPONIZED co-host"
+    },
+    {
+      "type": "references_organization",
+      "target": "all-domain-anomaly-resolution-office",
+      "role": "context",
+      "context": "Discussed in Episode #33"
+    },
+    {
+      "type": "references_organization",
+      "target": "department-of-defense",
+      "role": "context",
+      "context": "Discussed in Episode #33"
+    }
+  ],
+  "mediaLinks": [
+    {
+      "label": "Open the official Episode #33 page",
+      "url": "https://www.weaponizedpodcast.com/episodes-2/episode-33",
+      "platform": "WEAPONIZED"
+    },
+    {
+      "label": "Listen to WEAPONIZED",
+      "url": "https://link.chtbl.com/Weaponized",
+      "platform": "Official audio feed"
+    }
+  ],
+  "eventCategory": "Podcast publication",
+  "officialLinks": [],
+  "referenceSources": [
+    {
+      "label": "Official WEAPONIZED Episode #33 page",
+      "url": "https://www.weaponizedpodcast.com/episodes-2/episode-33",
+      "sourceType": "official_episode_page",
+      "role": "source"
+    },
+    {
+      "label": "Listen to WEAPONIZED",
+      "url": "https://link.chtbl.com/Weaponized",
+      "sourceType": "official_audio_feed",
+      "role": "source"
+    }
+  ]
+}

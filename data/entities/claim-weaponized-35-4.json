@@ -1,0 +1,21 @@
+{
+  "id": "claim-weaponized-35-4",
+  "type": "claim",
+  "name": "Media reporting remains important for documenting developments that official channels may not fully explain.",
+  "summary": "Claim or framing presented in WEAPONIZED Episode #35.",
+  "relationships": [
+    {
+      "type": "featured_in_media",
+      "target": "2023-weaponized-episode-35"
+    }
+  ],
+  "officialLinks": [],
+  "referenceSources": [
+    {
+      "label": "Official WEAPONIZED Episode #35 page",
+      "url": "https://www.weaponizedpodcast.com/episodes-2/episode-35",
+      "sourceType": "official_episode_page",
+      "role": "source"
+    }
+  ]
+}

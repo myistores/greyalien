@@ -1,0 +1,24 @@
+{
+  "id": "timeline-2023-10-23-weaponized-episode-39",
+  "type": "timeline_event",
+  "name": "WEAPONIZED Episode #39 published",
+  "summary": "The hosts assess public reaction to James Lacatski and Colm Kelleher\u2019s statements, critique a new AARO report, and revisit an older intelligence interview about crash retrievals and reverse engineering.",
+  "date": "2023-10-23",
+  "dateDisplay": "October 23, 2023",
+  "eventCategory": "Podcast publication",
+  "relationships": [
+    {
+      "type": "event_for",
+      "target": "2023-weaponized-episode-39"
+    }
+  ],
+  "officialLinks": [],
+  "referenceSources": [
+    {
+      "label": "Official WEAPONIZED Episode #39 page",
+      "url": "https://www.weaponizedpodcast.com/episodes-2/episode-39",
+      "sourceType": "official_episode_page",
+      "role": "source"
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "id": "claim-weaponized-39-3",
+  "type": "claim",
+  "name": "Historical intelligence testimony has included references to crash-retrieval and reverse-engineering efforts.",
+  "summary": "Claim or framing presented in WEAPONIZED Episode #39.",
+  "relationships": [
+    {
+      "type": "featured_in_media",
+      "target": "2023-weaponized-episode-39"
+    }
+  ],
+  "officialLinks": [],
+  "referenceSources": [
+    {
+      "label": "Official WEAPONIZED Episode #39 page",
+      "url": "https://www.weaponizedpodcast.com/episodes-2/episode-39",
+      "sourceType": "official_episode_page",
+      "role": "source"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "id": "timeline-2023-11-06-weaponized-episode-40",
+  "type": "timeline_event",
+  "name": "WEAPONIZED Episode #40 published",
+  "summary": "Representative Tim Burchett discusses a limited classified briefing with the Defense Department inspector general, congressional frustration, and prospects for further UFO transparency.",
+  "date": "2023-11-06",
+  "dateDisplay": "November 6, 2023",
+  "eventCategory": "Podcast publication",
+  "relationships": [
+    {
+      "type": "event_for",
+      "target": "2023-weaponized-episode-40"
+    }
+  ],
+  "officialLinks": [],
+  "referenceSources": [
+    {
+      "label": "Official WEAPONIZED Episode #40 page",
+      "url": "https://www.weaponizedpodcast.com/episodes-2/episode-40",
+      "sourceType": "official_episode_page",
+      "role": "source"
+    }
+  ]
+}

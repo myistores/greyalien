@@ -1,0 +1,21 @@
+{
+  "id": "claim-weaponized-35-2",
+  "type": "claim",
+  "name": "A U.S. Air Force aircraft reportedly encountered an unexplained formation over the Gulf of Mexico.",
+  "summary": "Claim or framing presented in WEAPONIZED Episode #35.",
+  "relationships": [
+    {
+      "type": "featured_in_media",
+      "target": "2023-weaponized-episode-35"
+    }
+  ],
+  "officialLinks": [],
+  "referenceSources": [
+    {
+      "label": "Official WEAPONIZED Episode #35 page",
+      "url": "https://www.weaponizedpodcast.com/episodes-2/episode-35",
+      "sourceType": "official_episode_page",
+      "role": "source"
+    }
+  ]
+}

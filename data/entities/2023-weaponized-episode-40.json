@@ -1,0 +1,90 @@
+{
+  "id": "2023-weaponized-episode-40",
+  "type": "podcast_episode",
+  "name": "WEAPONIZED Episode #40 \u2014 Tim Burchett \u2014 The SCIF Briefing and Congressional UFO Oversight",
+  "summary": "Representative Tim Burchett discusses a limited classified briefing with the Defense Department inspector general, congressional frustration, and prospects for further UFO transparency.",
+  "date": "2023-11-06",
+  "dateDisplay": "November 6, 2023",
+  "seriesId": "weaponized-podcast",
+  "episodeNumber": 40,
+  "episodeTitle": "Tim Burchett \u2014 The SCIF Briefing and Congressional UFO Oversight",
+  "status": "Published",
+  "mediaType": "Podcast episode",
+  "mediaPlatform": "WEAPONIZED",
+  "mediaHost": "Jeremy Corbell and George Knapp",
+  "mediaGuests": [
+    "tim-burchett"
+  ],
+  "mediaSubjects": [],
+  "principalClaims": [
+    "claim-weaponized-40-1",
+    "claim-weaponized-40-2",
+    "claim-weaponized-40-3",
+    "claim-weaponized-40-4"
+  ],
+  "researchNotes": [],
+  "keyDiscussionTopics": [
+    "Congressional oversight",
+    "SCIF briefing",
+    "Tim Burchett",
+    "UFO transparency"
+  ],
+  "relationships": [
+    {
+      "type": "episode_of",
+      "target": "weaponized-podcast"
+    },
+    {
+      "type": "features_person",
+      "target": "jeremy-corbell",
+      "role": "host",
+      "context": "WEAPONIZED co-host"
+    },
+    {
+      "type": "features_person",
+      "target": "george-knapp",
+      "role": "host",
+      "context": "WEAPONIZED co-host"
+    },
+    {
+      "type": "features_person",
+      "target": "tim-burchett",
+      "role": "guest",
+      "context": "Featured guest in Episode #40"
+    },
+    {
+      "type": "references_organization",
+      "target": "department-of-defense",
+      "role": "context",
+      "context": "Discussed in Episode #40"
+    }
+  ],
+  "mediaLinks": [
+    {
+      "label": "Open the official Episode #40 page",
+      "url": "https://www.weaponizedpodcast.com/episodes-2/episode-40",
+      "platform": "WEAPONIZED"
+    },
+    {
+      "label": "Listen to WEAPONIZED",
+      "url": "https://link.chtbl.com/Weaponized",
+      "platform": "Official audio feed"
+    }
+  ],
+  "eventCategory": "Podcast publication",
+  "officialLinks": [],
+  "referenceSources": [
+    {
+      "label": "Official WEAPONIZED Episode #40 page",
+      "url": "https://www.weaponizedpodcast.com/episodes-2/episode-40",
+      "sourceType": "official_episode_page",
+      "role": "source"
+    },
+    {
+      "label": "Listen to WEAPONIZED",
+      "url": "https://link.chtbl.com/Weaponized",
+      "sourceType": "official_audio_feed",
+      "role": "source"
+    }
+  ]
+}

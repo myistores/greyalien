@@ -1,3 +1,10 @@
+# V19.8 — WEAPONIZED Episodes #32–#41
+
+- Added ten WEAPONIZED episode records (#32–#41).
+- Added 40 source-grounded principal claims and ten publication timeline events.
+- Updated Latest Additions, Development Updates, podcast indexes, graph outputs, related content, entity pages, and sitemap.
+- Content-only production ingestion; no platform changes.
+
 # V19.7 — WEAPONIZED Episodes 22–31 Backfill
 
 - Added the nine previously missing records: Episodes #22–#27 and #29–#31.

@@ -1,0 +1,21 @@
+{
+  "id": "claim-weaponized-37-1",
+  "type": "claim",
+  "name": "U.S. agencies invested years and substantial funding in operational remote-viewing research.",
+  "summary": "Claim or framing presented in WEAPONIZED Episode #37.",
+  "relationships": [
+    {
+      "type": "featured_in_media",
+      "target": "2023-weaponized-episode-37"
+    }
+  ],
+  "officialLinks": [],
+  "referenceSources": [
+    {
+      "label": "Official WEAPONIZED Episode #37 page",
+      "url": "https://www.weaponizedpodcast.com/episodes-2/episode-37",
+      "sourceType": "official_episode_page",
+      "role": "source"
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "id": "christopher-sharp",
+  "type": "person",
+  "name": "Christopher Sharp",
+  "summary": "Journalist and editor associated with Liberation Times who reports on UAP policy, military encounters, and disclosure efforts.",
+  "relationships": [
+    {
+      "type": "appeared_in",
+      "target": "2023-weaponized-episode-35",
+      "role": "guest",
+      "context": "Featured in WEAPONIZED Episode #35"
+    }
+  ],
+  "profileStatus": "Journalist and editor associated with Liberation Times who reports on UAP policy, military encounters, and disclosure efforts.",
+  "profileSummary": "Journalist and editor associated with Liberation Times who reports on UAP policy, military encounters, and disclosure efforts.",
+  "profileBadge": "Guest",
+  "profileBadgeClass": "badge-witness",
+  "inclusionNote": "Included as a principal subject or guest in WEAPONIZED Episode #35.",
+  "officialLinks": [],
+  "referenceSources": [
+    {
+      "label": "Official WEAPONIZED Episode #35 page",
+      "url": "https://www.weaponizedpodcast.com/episodes-2/episode-35",
+      "sourceType": "official_episode_page",
+      "role": "source"
+    }
+  ]
+}
