@@ -1,0 +1,21 @@
+{
+  "id": "claim-weaponized-13-2",
+  "type": "claim",
+  "name": "George Knapp interviewed Russian military officials and scientists after the collapse of the Soviet Union.",
+  "summary": "Claim or framing presented in WEAPONIZED Episode #13.",
+  "relationships": [
+    {
+      "type": "featured_in_media",
+      "target": "2023-weaponized-episode-13"
+    }
+  ],
+  "officialLinks": [],
+  "referenceSources": [
+    {
+      "label": "Official WEAPONIZED Episode #13 page",
+      "url": "https://www.weaponizedpodcast.com/episodes-1/episode-number-13",
+      "sourceType": "official_episode_page",
+      "role": "source"
+    }
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "id": "2023-weaponized-episode-13",
+  "type": "podcast_episode",
+  "name": "WEAPONIZED Episode #13 — The Russian UFO Files — Military and Scientific Investigations",
+  "summary": "Corbell and Knapp examine George Knapp’s post-Soviet reporting on Russian military and scientific UFO investigations, including interviews with officials and researchers connected to a decade-long nationwide Ministry of Defense program.",
+  "date": "2023-04-17",
+  "dateDisplay": "April 17, 2023",
+  "seriesId": "weaponized-podcast",
+  "episodeNumber": 13,
+  "episodeTitle": "The Russian UFO Files — Military and Scientific Investigations",
+  "status": "Published",
+  "mediaType": "Podcast episode",
+  "mediaPlatform": "WEAPONIZED",
+  "mediaHost": "Jeremy Corbell and George Knapp",
+  "mediaGuests": [],
+  "mediaSubjects": [
+    "russian-military-ufo-investigation"
+  ],
+  "principalClaims": [
+    "claim-weaponized-13-1",
+    "claim-weaponized-13-2",
+    "claim-weaponized-13-3",
+    "claim-weaponized-13-4"
+  ],
+  "researchNotes": [],
+  "relationships": [
+    {
+      "type": "episode_of",
+      "target": "weaponized-podcast"
+    },
+    {
+      "type": "features_person",
+      "target": "jeremy-corbell",
+      "role": "host",
+      "context": "WEAPONIZED co-host"
+    },
+    {
+      "type": "features_person",
+      "target": "george-knapp",
+      "role": "host",
+      "context": "WEAPONIZED co-host"
+    },
+    {
+      "type": "references_case",
+      "target": "russian-military-ufo-investigation",
+      "role": "subject",
+      "context": "Principal subject of the episode"
+    }
+  ],
+  "mediaLinks": [
+    {
+      "label": "Open the official Episode #13 page",
+      "url": "https://www.weaponizedpodcast.com/episodes-1/episode-number-13",
+      "platform": "WEAPONIZED"
+    },
+    {
+      "label": "Listen to WEAPONIZED",
+      "url": "https://link.chtbl.com/Weaponized",
+      "platform": "Official audio feed"
+    }
+  ],
+  "eventCategory": "Podcast publication",
+  "officialLinks": [],
+  "referenceSources": [
+    {
+      "label": "Official WEAPONIZED Episode #13 page",
+      "url": "https://www.weaponizedpodcast.com/episodes-1/episode-number-13",
+      "sourceType": "official_episode_page",
+      "role": "source"
+    },
+    {
+      "label": "Listen to WEAPONIZED",
+      "url": "https://link.chtbl.com/Weaponized",
+      "sourceType": "official_audio_feed",
+      "role": "source"
+    }
+  ]
+}

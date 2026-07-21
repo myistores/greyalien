@@ -1,0 +1,21 @@
+{
+  "id": "claim-weaponized-11-1",
+  "type": "claim",
+  "name": "Pandemic-era theater disruption and streaming services altered the traditional Hollywood studio business model.",
+  "summary": "Claim or framing presented in WEAPONIZED Episode #11.",
+  "relationships": [
+    {
+      "type": "featured_in_media",
+      "target": "2023-weaponized-episode-11"
+    }
+  ],
+  "officialLinks": [],
+  "referenceSources": [
+    {
+      "label": "Official WEAPONIZED Episode #11 page",
+      "url": "https://www.weaponizedpodcast.com/episodes-1/episode-number-11",
+      "sourceType": "official_episode_page",
+      "role": "source"
+    }
+  ]
+}

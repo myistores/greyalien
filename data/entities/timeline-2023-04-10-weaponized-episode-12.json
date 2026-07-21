@@ -1,0 +1,24 @@
+{
+  "id": "timeline-2023-04-10-weaponized-episode-12",
+  "type": "timeline_event",
+  "name": "WEAPONIZED Episode #12 published",
+  "summary": "In the second half of the Colm Kelleher interview, the former AAWSAP project manager discusses anomalous effects associated with Skinwalker Ranch, the program’s technology objectives, and his stated knowledge of UFO crash-retrieval efforts.",
+  "date": "2023-04-10",
+  "dateDisplay": "April 10, 2023",
+  "eventCategory": "Podcast publication",
+  "relationships": [
+    {
+      "type": "event_for",
+      "target": "2023-weaponized-episode-12"
+    }
+  ],
+  "officialLinks": [],
+  "referenceSources": [
+    {
+      "label": "Official WEAPONIZED Episode #12 page",
+      "url": "https://www.weaponizedpodcast.com/episodes-1/episode-number-12",
+      "sourceType": "official_episode_page",
+      "role": "source"
+    }
+  ]
+}

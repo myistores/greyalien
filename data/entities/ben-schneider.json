@@ -1,0 +1,14 @@
+{
+  "id": "ben-schneider",
+  "type": "person",
+  "name": "Ben Schneider",
+  "summary": "Founder, lead singer, and principal songwriter of the band Lord Huron.",
+  "relationships": [
+    {
+      "type": "affiliated_with",
+      "target": "lord-huron"
+    }
+  ],
+  "officialLinks": [],
+  "referenceSources": []
+}

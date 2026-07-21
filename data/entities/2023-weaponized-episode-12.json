@@ -1,0 +1,86 @@
+{
+  "id": "2023-weaponized-episode-12",
+  "type": "podcast_episode",
+  "name": "WEAPONIZED Episode #12 — Colm Kelleher Part Two — AAWSAP, the Hitchhiker Effect, and Crash Retrievals",
+  "summary": "In the second half of the Colm Kelleher interview, the former AAWSAP project manager discusses anomalous effects associated with Skinwalker Ranch, the program’s technology objectives, and his stated knowledge of UFO crash-retrieval efforts.",
+  "date": "2023-04-10",
+  "dateDisplay": "April 10, 2023",
+  "seriesId": "weaponized-podcast",
+  "episodeNumber": 12,
+  "episodeTitle": "Colm Kelleher Part Two — AAWSAP, the Hitchhiker Effect, and Crash Retrievals",
+  "status": "Published",
+  "mediaType": "Podcast episode",
+  "mediaPlatform": "WEAPONIZED",
+  "mediaHost": "Jeremy Corbell and George Knapp",
+  "mediaGuests": [
+    "colm-kelleher"
+  ],
+  "mediaSubjects": [
+    "skinwalker-ranch"
+  ],
+  "principalClaims": [
+    "claim-weaponized-12-1",
+    "claim-weaponized-12-2",
+    "claim-weaponized-12-3",
+    "claim-weaponized-12-4"
+  ],
+  "researchNotes": [],
+  "relationships": [
+    {
+      "type": "episode_of",
+      "target": "weaponized-podcast"
+    },
+    {
+      "type": "features_person",
+      "target": "jeremy-corbell",
+      "role": "host",
+      "context": "WEAPONIZED co-host"
+    },
+    {
+      "type": "features_person",
+      "target": "george-knapp",
+      "role": "host",
+      "context": "WEAPONIZED co-host"
+    },
+    {
+      "type": "features_person",
+      "target": "colm-kelleher",
+      "role": "guest",
+      "context": "Featured guest or principal interview subject"
+    },
+    {
+      "type": "references_case",
+      "target": "skinwalker-ranch",
+      "role": "subject",
+      "context": "Principal subject of the episode"
+    }
+  ],
+  "mediaLinks": [
+    {
+      "label": "Open the official Episode #12 page",
+      "url": "https://www.weaponizedpodcast.com/episodes-1/episode-number-12",
+      "platform": "WEAPONIZED"
+    },
+    {
+      "label": "Listen to WEAPONIZED",
+      "url": "https://link.chtbl.com/Weaponized",
+      "platform": "Official audio feed"
+    }
+  ],
+  "eventCategory": "Podcast publication",
+  "officialLinks": [],
+  "referenceSources": [
+    {
+      "label": "Official WEAPONIZED Episode #12 page",
+      "url": "https://www.weaponizedpodcast.com/episodes-1/episode-number-12",
+      "sourceType": "official_episode_page",
+      "role": "source"
+    },
+    {
+      "label": "Listen to WEAPONIZED",
+      "url": "https://link.chtbl.com/Weaponized",
+      "sourceType": "official_audio_feed",
+      "role": "source"
+    }
+  ]
+}

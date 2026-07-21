@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "entityCount": 787,
-  "relationshipCount": 1881,
+  "entityCount": 855,
+  "relationshipCount": 1978,
   "unresolvedRelationshipCount": 16,
   "connectionCounts": {
     "1960s-area-51-engine-claim": {
@@ -194,10 +194,60 @@
       "outgoing": 4,
       "total": 9
     },
+    "2023-weaponized-episode-11": {
+      "incoming": 5,
+      "outgoing": 5,
+      "total": 10
+    },
+    "2023-weaponized-episode-12": {
+      "incoming": 5,
+      "outgoing": 5,
+      "total": 10
+    },
+    "2023-weaponized-episode-13": {
+      "incoming": 5,
+      "outgoing": 4,
+      "total": 9
+    },
+    "2023-weaponized-episode-14": {
+      "incoming": 5,
+      "outgoing": 5,
+      "total": 10
+    },
+    "2023-weaponized-episode-15": {
+      "incoming": 5,
+      "outgoing": 4,
+      "total": 9
+    },
+    "2023-weaponized-episode-16": {
+      "incoming": 5,
+      "outgoing": 4,
+      "total": 9
+    },
+    "2023-weaponized-episode-17": {
+      "incoming": 5,
+      "outgoing": 5,
+      "total": 10
+    },
+    "2023-weaponized-episode-18": {
+      "incoming": 5,
+      "outgoing": 4,
+      "total": 9
+    },
+    "2023-weaponized-episode-19": {
+      "incoming": 5,
+      "outgoing": 4,
+      "total": 9
+    },
     "2023-weaponized-episode-2": {
       "incoming": 5,
       "outgoing": 4,
       "total": 9
+    },
+    "2023-weaponized-episode-20": {
+      "incoming": 5,
+      "outgoing": 5,
+      "total": 10
     },
     "2023-weaponized-episode-21": {
       "incoming": 0,
@@ -789,6 +839,11 @@
       "outgoing": 0,
       "total": 1
     },
+    "ben-schneider": {
+      "incoming": 1,
+      "outgoing": 1,
+      "total": 2
+    },
     "big-sur-missile-film-claim": {
       "incoming": 1,
       "outgoing": 0,
@@ -828,6 +883,11 @@
       "incoming": 2,
       "outgoing": 1,
       "total": 3
+    },
+    "buddha-jones": {
+      "incoming": 2,
+      "outgoing": 0,
+      "total": 2
     },
     "calvine-ufo": {
       "incoming": 1,
@@ -2049,6 +2109,186 @@
       "outgoing": 1,
       "total": 1
     },
+    "claim-weaponized-11-1": {
+      "incoming": 0,
+      "outgoing": 1,
+      "total": 1
+    },
+    "claim-weaponized-11-2": {
+      "incoming": 0,
+      "outgoing": 1,
+      "total": 1
+    },
+    "claim-weaponized-11-3": {
+      "incoming": 0,
+      "outgoing": 1,
+      "total": 1
+    },
+    "claim-weaponized-11-4": {
+      "incoming": 0,
+      "outgoing": 1,
+      "total": 1
+    },
+    "claim-weaponized-12-1": {
+      "incoming": 0,
+      "outgoing": 1,
+      "total": 1
+    },
+    "claim-weaponized-12-2": {
+      "incoming": 0,
+      "outgoing": 1,
+      "total": 1
+    },
+    "claim-weaponized-12-3": {
+      "incoming": 0,
+      "outgoing": 1,
+      "total": 1
+    },
+    "claim-weaponized-12-4": {
+      "incoming": 0,
+      "outgoing": 1,
+      "total": 1
+    },
+    "claim-weaponized-13-1": {
+      "incoming": 0,
+      "outgoing": 1,
+      "total": 1
+    },
+    "claim-weaponized-13-2": {
+      "incoming": 0,
+      "outgoing": 1,
+      "total": 1
+    },
+    "claim-weaponized-13-3": {
+      "incoming": 0,
+      "outgoing": 1,
+      "total": 1
+    },
+    "claim-weaponized-13-4": {
+      "incoming": 0,
+      "outgoing": 1,
+      "total": 1
+    },
+    "claim-weaponized-14-1": {
+      "incoming": 0,
+      "outgoing": 1,
+      "total": 1
+    },
+    "claim-weaponized-14-2": {
+      "incoming": 0,
+      "outgoing": 1,
+      "total": 1
+    },
+    "claim-weaponized-14-3": {
+      "incoming": 0,
+      "outgoing": 1,
+      "total": 1
+    },
+    "claim-weaponized-14-4": {
+      "incoming": 0,
+      "outgoing": 1,
+      "total": 1
+    },
+    "claim-weaponized-15-1": {
+      "incoming": 0,
+      "outgoing": 1,
+      "total": 1
+    },
+    "claim-weaponized-15-2": {
+      "incoming": 0,
+      "outgoing": 1,
+      "total": 1
+    },
+    "claim-weaponized-15-3": {
+      "incoming": 0,
+      "outgoing": 1,
+      "total": 1
+    },
+    "claim-weaponized-15-4": {
+      "incoming": 0,
+      "outgoing": 1,
+      "total": 1
+    },
+    "claim-weaponized-16-1": {
+      "incoming": 0,
+      "outgoing": 1,
+      "total": 1
+    },
+    "claim-weaponized-16-2": {
+      "incoming": 0,
+      "outgoing": 1,
+      "total": 1
+    },
+    "claim-weaponized-16-3": {
+      "incoming": 0,
+      "outgoing": 1,
+      "total": 1
+    },
+    "claim-weaponized-16-4": {
+      "incoming": 0,
+      "outgoing": 1,
+      "total": 1
+    },
+    "claim-weaponized-17-1": {
+      "incoming": 0,
+      "outgoing": 1,
+      "total": 1
+    },
+    "claim-weaponized-17-2": {
+      "incoming": 0,
+      "outgoing": 1,
+      "total": 1
+    },
+    "claim-weaponized-17-3": {
+      "incoming": 0,
+      "outgoing": 1,
+      "total": 1
+    },
+    "claim-weaponized-17-4": {
+      "incoming": 0,
+      "outgoing": 1,
+      "total": 1
+    },
+    "claim-weaponized-18-1": {
+      "incoming": 0,
+      "outgoing": 1,
+      "total": 1
+    },
+    "claim-weaponized-18-2": {
+      "incoming": 0,
+      "outgoing": 1,
+      "total": 1
+    },
+    "claim-weaponized-18-3": {
+      "incoming": 0,
+      "outgoing": 1,
+      "total": 1
+    },
+    "claim-weaponized-18-4": {
+      "incoming": 0,
+      "outgoing": 1,
+      "total": 1
+    },
+    "claim-weaponized-19-1": {
+      "incoming": 0,
+      "outgoing": 1,
+      "total": 1
+    },
+    "claim-weaponized-19-2": {
+      "incoming": 0,
+      "outgoing": 1,
+      "total": 1
+    },
+    "claim-weaponized-19-3": {
+      "incoming": 0,
+      "outgoing": 1,
+      "total": 1
+    },
+    "claim-weaponized-19-4": {
+      "incoming": 0,
+      "outgoing": 1,
+      "total": 1
+    },
     "claim-weaponized-2-1": {
       "incoming": 0,
       "outgoing": 1,
@@ -2065,6 +2305,26 @@
       "total": 1
     },
     "claim-weaponized-2-4": {
+      "incoming": 0,
+      "outgoing": 1,
+      "total": 1
+    },
+    "claim-weaponized-20-1": {
+      "incoming": 0,
+      "outgoing": 1,
+      "total": 1
+    },
+    "claim-weaponized-20-2": {
+      "incoming": 0,
+      "outgoing": 1,
+      "total": 1
+    },
+    "claim-weaponized-20-3": {
+      "incoming": 0,
+      "outgoing": 1,
+      "total": 1
+    },
+    "claim-weaponized-20-4": {
       "incoming": 0,
       "outgoing": 1,
       "total": 1
@@ -2290,9 +2550,9 @@
       "total": 2
     },
     "colm-kelleher": {
-      "incoming": 2,
+      "incoming": 3,
       "outgoing": 1,
-      "total": 3
+      "total": 4
     },
     "congressional-oversight": {
       "incoming": 33,
@@ -2340,9 +2600,9 @@
       "total": 4
     },
     "dave-foley": {
-      "incoming": 2,
+      "incoming": 3,
       "outgoing": 0,
-      "total": 2
+      "total": 3
     },
     "dave-navarro": {
       "incoming": 1,
@@ -2565,9 +2825,9 @@
       "total": 3
     },
     "george-knapp": {
-      "incoming": 92,
+      "incoming": 102,
       "outgoing": 7,
-      "total": 99
+      "total": 109
     },
     "glenn-gaffney": {
       "incoming": 1,
@@ -2720,9 +2980,9 @@
       "total": 1
     },
     "jeremy-corbell": {
-      "incoming": 92,
+      "incoming": 102,
       "outgoing": 5,
-      "total": 97
+      "total": 107
     },
     "jim-penniston": {
       "incoming": 0,
@@ -2763,6 +3023,11 @@
       "incoming": 1,
       "outgoing": 0,
       "total": 1
+    },
+    "john-long": {
+      "incoming": 1,
+      "outgoing": 1,
+      "total": 2
     },
     "john-mack": {
       "incoming": 0,
@@ -2809,6 +3074,11 @@
       "outgoing": 3,
       "total": 3
     },
+    "kirsten-gillibrand": {
+      "incoming": 1,
+      "outgoing": 0,
+      "total": 1
+    },
     "klas-tv": {
       "incoming": 2,
       "outgoing": 0,
@@ -2853,6 +3123,11 @@
       "incoming": 4,
       "outgoing": 2,
       "total": 6
+    },
+    "lord-huron": {
+      "incoming": 2,
+      "outgoing": 0,
+      "total": 2
     },
     "los-alamos-monitor": {
       "incoming": 1,
@@ -3129,6 +3404,11 @@
       "outgoing": 5,
       "total": 8
     },
+    "robbie-williams": {
+      "incoming": 1,
+      "outgoing": 0,
+      "total": 1
+    },
     "robert-hastings": {
       "incoming": 2,
       "outgoing": 1,
@@ -3168,6 +3448,11 @@
       "incoming": 5,
       "outgoing": 0,
       "total": 5
+    },
+    "russian-military-ufo-investigation": {
+      "incoming": 2,
+      "outgoing": 0,
+      "total": 2
     },
     "ryan-bodenheimer": {
       "incoming": 1,
@@ -3225,9 +3510,9 @@
       "total": 4
     },
     "sean-kirkpatrick": {
-      "incoming": 7,
+      "incoming": 8,
       "outgoing": 4,
-      "total": 11
+      "total": 12
     },
     "security-clearance-retaliation": {
       "incoming": 2,
@@ -3260,9 +3545,9 @@
       "total": 1
     },
     "skinwalker-ranch": {
-      "incoming": 4,
+      "incoming": 6,
       "outgoing": 0,
-      "total": 4
+      "total": 6
     },
     "sol-foundation": {
       "incoming": 5,
@@ -3504,6 +3789,56 @@
       "outgoing": 1,
       "total": 1
     },
+    "timeline-2023-04-03-weaponized-episode-11": {
+      "incoming": 0,
+      "outgoing": 1,
+      "total": 1
+    },
+    "timeline-2023-04-10-weaponized-episode-12": {
+      "incoming": 0,
+      "outgoing": 1,
+      "total": 1
+    },
+    "timeline-2023-04-17-weaponized-episode-13": {
+      "incoming": 0,
+      "outgoing": 1,
+      "total": 1
+    },
+    "timeline-2023-04-24-weaponized-episode-14": {
+      "incoming": 0,
+      "outgoing": 1,
+      "total": 1
+    },
+    "timeline-2023-05-01-weaponized-episode-15": {
+      "incoming": 0,
+      "outgoing": 1,
+      "total": 1
+    },
+    "timeline-2023-05-08-weaponized-episode-16": {
+      "incoming": 0,
+      "outgoing": 1,
+      "total": 1
+    },
+    "timeline-2023-05-15-weaponized-episode-17": {
+      "incoming": 0,
+      "outgoing": 1,
+      "total": 1
+    },
+    "timeline-2023-05-22-weaponized-episode-18": {
+      "incoming": 0,
+      "outgoing": 1,
+      "total": 1
+    },
+    "timeline-2023-05-29-weaponized-episode-19": {
+      "incoming": 0,
+      "outgoing": 1,
+      "total": 1
+    },
+    "timeline-2023-06-05-weaponized-episode-20": {
+      "incoming": 0,
+      "outgoing": 1,
+      "total": 1
+    },
     "timeline-2023-06-12-disclosure-project-national-press-club": {
       "incoming": 2,
       "outgoing": 5,
@@ -3719,6 +4054,11 @@
       "outgoing": 0,
       "total": 1
     },
+    "twentynine-palms-triangle-incident": {
+      "incoming": 2,
+      "outgoing": 0,
+      "total": 2
+    },
     "uap-caucus": {
       "incoming": 2,
       "outgoing": 2,
@@ -3910,9 +4250,9 @@
       "total": 21
     },
     "weaponized-podcast": {
-      "incoming": 93,
+      "incoming": 103,
       "outgoing": 2,
-      "total": 95
+      "total": 105
     },
     "whistleblower-protection": {
       "incoming": 20,

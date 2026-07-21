@@ -1,3 +1,11 @@
+# V19.6 — WEAPONIZED Episodes 11–20
+
+- Added WEAPONIZED Episodes #11–#20 as content-only production records.
+- Added 40 source-grounded principal claims and 10 podcast-publication timeline events.
+- Added or reused canonical people, organizations, and case entities.
+- Updated Latest Additions, Development Updates, release metadata, graph outputs, podcast indexes, related content, entity pages, and sitemap.
+- No architecture, rendering, template, schema, navigation, UI, styling, or routing changes.
+
 ## V19.1.1 — WEAPONIZED Episodes #73–#82 Production Batch
 
 - Added production episode records and source-grounded claims for Episodes #73–#82.

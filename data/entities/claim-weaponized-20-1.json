@@ -1,0 +1,21 @@
+{
+  "id": "claim-weaponized-20-1",
+  "type": "claim",
+  "name": "Lord Huron’s songs repeatedly explore death, time, space, folklore, spirits, and cosmological themes.",
+  "summary": "Claim or framing presented in WEAPONIZED Episode #20.",
+  "relationships": [
+    {
+      "type": "featured_in_media",
+      "target": "2023-weaponized-episode-20"
+    }
+  ],
+  "officialLinks": [],
+  "referenceSources": [
+    {
+      "label": "Official WEAPONIZED Episode #20 page",
+      "url": "https://www.weaponizedpodcast.com/episodes-1/episode-number-20",
+      "sourceType": "official_episode_page",
+      "role": "source"
+    }
+  ]
+}

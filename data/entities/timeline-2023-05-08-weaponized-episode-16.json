@@ -1,0 +1,24 @@
+{
+  "id": "timeline-2023-05-08-weaponized-episode-16",
+  "type": "timeline_event",
+  "name": "WEAPONIZED Episode #16 published",
+  "summary": "Corbell and Knapp revisit covert and semi-covert UFO research conducted by Soviet scientists and academic groups, drawing on interviews George Knapp recorded during reporting trips to Russia in the 1990s.",
+  "date": "2023-05-08",
+  "dateDisplay": "May 8, 2023",
+  "eventCategory": "Podcast publication",
+  "relationships": [
+    {
+      "type": "event_for",
+      "target": "2023-weaponized-episode-16"
+    }
+  ],
+  "officialLinks": [],
+  "referenceSources": [
+    {
+      "label": "Official WEAPONIZED Episode #16 page",
+      "url": "https://www.weaponizedpodcast.com/episodes-1/episode-number-16",
+      "sourceType": "official_episode_page",
+      "role": "source"
+    }
+  ]
+}

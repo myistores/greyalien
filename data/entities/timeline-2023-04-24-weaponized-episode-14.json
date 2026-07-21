@@ -1,0 +1,24 @@
+{
+  "id": "timeline-2023-04-24-weaponized-episode-14",
+  "type": "timeline_event",
+  "name": "WEAPONIZED Episode #14 published",
+  "summary": "Corbell and Knapp review Sean Kirkpatrick’s public testimony before a Senate subcommittee chaired by Kirsten Gillibrand, including AARO’s evidence claims and newly presented Middle East UAP footage.",
+  "date": "2023-04-24",
+  "dateDisplay": "April 24, 2023",
+  "eventCategory": "Podcast publication",
+  "relationships": [
+    {
+      "type": "event_for",
+      "target": "2023-weaponized-episode-14"
+    }
+  ],
+  "officialLinks": [],
+  "referenceSources": [
+    {
+      "label": "Official WEAPONIZED Episode #14 page",
+      "url": "https://www.weaponizedpodcast.com/episodes-1/episode-number-14",
+      "sourceType": "official_episode_page",
+      "role": "source"
+    }
+  ]
+}

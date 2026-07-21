@@ -243,10 +243,23 @@
       "dateDisplay": "November 2010–2011"
     },
     {
+      "id": "russian-military-ufo-investigation",
+      "type": "case",
+      "name": "Soviet and Russian Military UFO Investigations",
+      "summary": "Reported military and scientific UFO investigations conducted in the Soviet Union and later described by officials and researchers interviewed after its collapse."
+    },
+    {
       "id": "syria-uap-2021",
       "type": "case",
       "name": "Syria Uap 2021",
       "summary": "A knowledge-graph entity referenced in the V19.4 WEAPONIZED production batch."
+    },
+    {
+      "id": "twentynine-palms-triangle-incident",
+      "type": "case",
+      "name": "Twentynine Palms Triangle Incident",
+      "summary": "April 2021 UAP incident in which Marines training at Twentynine Palms reported and recorded a large triangular arrangement or object in the night sky.",
+      "date": "2021-04"
     },
     {
       "id": "vandenberg-red-square-uap",
@@ -305,10 +318,22 @@
       "summary": "Phillips reportedly described cases involving acceleration, right-angle turns, and maneuvers beyond known aircraft."
     },
     {
+      "id": "claim-weaponized-14-2",
+      "type": "claim",
+      "name": "AARO presented video of an unresolved object recorded by a Department of Defense sensor platform in the Middle East.",
+      "summary": "Claim or framing presented in WEAPONIZED Episode #14."
+    },
+    {
       "id": "claim-aaro-withheld-videos-of-its-strongest-unresolved-cases",
       "type": "claim",
       "name": "AARO withheld videos of its strongest unresolved cases",
       "summary": "Despite internal findings, the office is said not to have released representative footage publicly."
+    },
+    {
+      "id": "claim-weaponized-12-1",
+      "type": "claim",
+      "name": "AAWSAP employed approximately fifty full-time staff and investigators during the DIA-funded program.",
+      "summary": "Claim or framing presented in WEAPONIZED Episode #12."
     },
     {
       "id": "claim-aawsap-investigators-reported-hitchhiker-effects",
@@ -333,6 +358,12 @@
       "type": "claim",
       "name": "Additional Eglin triangle details were reported",
       "summary": "The episode presents additional information about the large black triangle reportedly seen over an Eglin runway."
+    },
+    {
+      "id": "claim-weaponized-19-4",
+      "type": "claim",
+      "name": "Additional witness testimony led Corbell and Knapp to keep the incident classified as an active investigation.",
+      "summary": "Claim or framing presented in WEAPONIZED Episode #19."
     },
     {
       "id": "claim-weaponized-8-1",
@@ -407,6 +438,12 @@
       "type": "claim",
       "name": "AWACS systems have tracked objects with extraordinary motion",
       "summary": "The interview describes high-speed objects making turns inconsistent with known aircraft."
+    },
+    {
+      "id": "claim-weaponized-20-2",
+      "type": "claim",
+      "name": "Ben Schneider draws creative inspiration from Great Lakes history and regional Indigenous traditions.",
+      "summary": "Claim or framing presented in WEAPONIZED Episode #20."
     },
     {
       "id": "claim-s4-reverse-engineering",
@@ -536,6 +573,18 @@
       "summary": "The official episode description presents or discusses this claim; it is recorded here as a source-attributed claim, not as independently verified fact."
     },
     {
+      "id": "claim-weaponized-11-2",
+      "type": "claim",
+      "name": "Buddha Jones expanded from major-studio trailer production into television and streaming marketing campaigns.",
+      "summary": "Claim or framing presented in WEAPONIZED Episode #11."
+    },
+    {
+      "id": "claim-weaponized-11-3",
+      "type": "claim",
+      "name": "Buddha Jones worked on UFO-themed entertainment projects, including the film NOPE.",
+      "summary": "Claim or framing presented in WEAPONIZED Episode #11."
+    },
+    {
       "id": "claim-weaponized-10-3",
       "type": "claim",
       "name": "Buddhism, spirituality, gurus, and psychedelics are treated as frameworks for interpreting human experience.",
@@ -639,6 +688,12 @@
       "summary": "The official episode description presents or discusses this claim; it is recorded here as a source-attributed claim, not as independently verified fact."
     },
     {
+      "id": "claim-weaponized-14-3",
+      "type": "claim",
+      "name": "Corbell and Knapp compare the presented object with the previously published Mosul Orb imagery.",
+      "summary": "Claim or framing presented in WEAPONIZED Episode #14."
+    },
+    {
       "id": "claim-corso-alleged-technology-transfer",
       "type": "claim",
       "name": "Corso alleged that material from Roswell was transferred into military and commercial research channels.",
@@ -649,6 +704,12 @@
       "type": "claim",
       "name": "Critiques of the Syria UAP footage do not fully resolve the case",
       "summary": "Corbell and Knapp argue that debunking claims fail to account for the complete sensor sequence."
+    },
+    {
+      "id": "claim-weaponized-15-1",
+      "type": "claim",
+      "name": "Dave Foley describes a longstanding personal interest in the UFO mystery.",
+      "summary": "Claim or framing presented in WEAPONIZED Episode #15."
     },
     {
       "id": "claim-foley-sighting-changed-view",
@@ -721,6 +782,12 @@
       "summary": "Disinformation and cultural stigma continue to shape the public UAP debate."
     },
     {
+      "id": "claim-weaponized-18-1",
+      "type": "claim",
+      "name": "Dozens of Marines reportedly observed a large triangular object over Twentynine Palms in April 2021.",
+      "summary": "Claim or framing presented in WEAPONIZED Episode #18."
+    },
+    {
       "id": "claim-efforts-to-obtain-alleged-video-evidence-encountered-interference",
       "type": "claim",
       "name": "Efforts to obtain alleged video evidence encountered interference",
@@ -771,6 +838,36 @@
       "summary": "Blumenthal discussed why insiders may remain reluctant to come forward."
     },
     {
+      "id": "claim-weaponized-15-3",
+      "type": "claim",
+      "name": "Foley recounts attending the Storm Area 51 gathering in Nevada.",
+      "summary": "Claim or framing presented in WEAPONIZED Episode #15."
+    },
+    {
+      "id": "claim-weaponized-15-4",
+      "type": "claim",
+      "name": "Foley reports an unexpected and dramatic UFO encounter in Southern California.",
+      "summary": "Claim or framing presented in WEAPONIZED Episode #15."
+    },
+    {
+      "id": "claim-weaponized-15-2",
+      "type": "claim",
+      "name": "Foley says he encouraged Joe Rogan to reconsider the UFO subject with fresh attention.",
+      "summary": "Claim or framing presented in WEAPONIZED Episode #15."
+    },
+    {
+      "id": "claim-weaponized-13-2",
+      "type": "claim",
+      "name": "George Knapp interviewed Russian military officials and scientists after the collapse of the Soviet Union.",
+      "summary": "Claim or framing presented in WEAPONIZED Episode #13."
+    },
+    {
+      "id": "claim-weaponized-16-4",
+      "type": "claim",
+      "name": "George Knapp recorded interviews with Russian scientists who had not previously discussed their work on camera.",
+      "summary": "Claim or framing presented in WEAPONIZED Episode #16."
+    },
+    {
       "id": "claim-government-held-sensor-records-may-contain-stronger-evidence-than-public-release",
       "type": "claim",
       "name": "Government-held sensor records may contain stronger evidence than public releases",
@@ -817,6 +914,12 @@
       "type": "claim",
       "name": "Independent experts require direct and transparent access",
       "summary": "The discussion emphasizes controlled examination, provenance, imaging, and reproducible analysis."
+    },
+    {
+      "id": "claim-weaponized-16-2",
+      "type": "claim",
+      "name": "Independent Soviet scientists and academic groups investigated UFO reports despite political and professional risks.",
+      "summary": "Claim or framing presented in WEAPONIZED Episode #16."
     },
     {
       "id": "claim-instantaneous-acceleration-is-one-of-the-militarys-five-observables",
@@ -892,6 +995,24 @@
       "summary": "Chris Sharp and Matt Laslo said they had faced attacks connected to their UAP reporting."
     },
     {
+      "id": "claim-weaponized-12-2",
+      "type": "claim",
+      "name": "Kelleher describes an overlap between UFO incidents and anomalous experiences sometimes called the hitchhiker effect.",
+      "summary": "Claim or framing presented in WEAPONIZED Episode #12."
+    },
+    {
+      "id": "claim-weaponized-12-4",
+      "type": "claim",
+      "name": "Kelleher says he had personal knowledge of efforts involving UFO crash retrievals.",
+      "summary": "Claim or framing presented in WEAPONIZED Episode #12."
+    },
+    {
+      "id": "claim-weaponized-12-3",
+      "type": "claim",
+      "name": "Kelleher states that AAWSAP sought to identify and ultimately reproduce capabilities associated with UFO technology.",
+      "summary": "Claim or framing presented in WEAPONIZED Episode #12."
+    },
+    {
       "id": "claim-weaponized-5-4",
       "type": "claim",
       "name": "Kelleher’s work connected conventional scientific training with investigation of anomalous phenomena.",
@@ -964,10 +1085,34 @@
       "summary": "He recounts seeing an object from an aircraft window with a form later associated with the Calvine photograph."
     },
     {
+      "id": "claim-weaponized-20-3",
+      "type": "claim",
+      "name": "Lord Huron combines folk, rock, country, punk, Asian, and surf influences in a layered musical style.",
+      "summary": "Claim or framing presented in WEAPONIZED Episode #20."
+    },
+    {
+      "id": "claim-weaponized-20-1",
+      "type": "claim",
+      "name": "Lord Huron’s songs repeatedly explore death, time, space, folklore, spirits, and cosmological themes.",
+      "summary": "Claim or framing presented in WEAPONIZED Episode #20."
+    },
+    {
+      "id": "claim-weaponized-19-1",
+      "type": "claim",
+      "name": "Marine witnesses familiar with military flares said the observed lights did not resemble routine training ordnance.",
+      "summary": "Claim or framing presented in WEAPONIZED Episode #19."
+    },
+    {
       "id": "claim-maritime-forces-have-collected-uso-observations",
       "type": "claim",
       "name": "Mariners and naval forces have reported unidentified objects operating in or near water",
       "summary": "Dolan discussed reports attributed to sailors, mariners, and naval personnel."
+    },
+    {
+      "id": "claim-weaponized-18-3",
+      "type": "claim",
+      "name": "Marines captured conventional and low-light images while base personnel deployed helicopters, ground units, and illumination flares.",
+      "summary": "Claim or framing presented in WEAPONIZED Episode #18."
     },
     {
       "id": "claim-uap-perception-management",
@@ -1086,6 +1231,12 @@
       "summary": "Participants warn that prior disclosure waves dissipated after official counter-narratives and declining media interest."
     },
     {
+      "id": "claim-weaponized-16-3",
+      "type": "claim",
+      "name": "Much of the Soviet-era UFO research became accessible only after the USSR collapsed.",
+      "summary": "Claim or framing presented in WEAPONIZED Episode #16."
+    },
+    {
       "id": "claim-mystery-drone-incursions-remained-major-2024-story",
       "type": "claim",
       "name": "Mystery-drone incursions remained a major unresolved UAP-related story at the end of 2024",
@@ -1156,6 +1307,18 @@
       "type": "claim",
       "name": "Original UAP Task Force members were not integrated into AARO",
       "summary": "Logan discusses the loss of experienced personnel and institutional knowledge."
+    },
+    {
+      "id": "claim-weaponized-11-1",
+      "type": "claim",
+      "name": "Pandemic-era theater disruption and streaming services altered the traditional Hollywood studio business model.",
+      "summary": "Claim or framing presented in WEAPONIZED Episode #11."
+    },
+    {
+      "id": "claim-weaponized-13-3",
+      "type": "claim",
+      "name": "Participants in the Russian program reportedly studied both UFO incidents and potential UFO technology.",
+      "summary": "Claim or framing presented in WEAPONIZED Episode #13."
     },
     {
       "id": "claim-nids-recorded-corso-interviews",
@@ -1237,6 +1400,12 @@
       "summary": "Gold expressed optimism about cooperation between government and commercial space organizations."
     },
     {
+      "id": "claim-weaponized-19-3",
+      "type": "claim",
+      "name": "Publication of the initial material prompted media coverage and inquiries from congressional staff.",
+      "summary": "Claim or framing presented in WEAPONIZED Episode #19."
+    },
+    {
       "id": "claim-reduced-stigma-encouraged-the-pilot-to-speak-publicly",
       "type": "claim",
       "name": "Reduced stigma encouraged the pilot to speak publicly",
@@ -1273,6 +1442,12 @@
       "summary": "The hosts and Paulides argue that UFO and Bigfoot organizations tend to avoid evidence that crosses disciplinary boundaries."
     },
     {
+      "id": "claim-weaponized-17-1",
+      "type": "claim",
+      "name": "Robbie Williams describes a lifetime of unusual experiences and encounters.",
+      "summary": "Claim or framing presented in WEAPONIZED Episode #17."
+    },
+    {
       "id": "claim-hastings-collected-government-witnesses",
       "type": "claim",
       "name": "Robert Hastings said he has collected testimony from more than 150 government witnesses concerning UFOs and nuclear facilities.",
@@ -1285,10 +1460,28 @@
       "summary": "Kremer described video of an unidentified object that appeared to transition from air into water."
     },
     {
+      "id": "claim-weaponized-13-1",
+      "type": "claim",
+      "name": "Russian military officials described a nationwide UFO investigation that continued for roughly ten years.",
+      "summary": "Claim or framing presented in WEAPONIZED Episode #13."
+    },
+    {
+      "id": "claim-weaponized-13-4",
+      "type": "claim",
+      "name": "Russian sources told Knapp that Soviet authorities also tracked United States government UFO activities.",
+      "summary": "Claim or framing presented in WEAPONIZED Episode #13."
+    },
+    {
       "id": "claim-navy-uap-aviation-safety",
       "type": "claim",
       "name": "Ryan Graves states that recurring UAP encounters created an aviation-safety concern",
       "summary": "Ryan Graves has stated that military aviators encountered unidentified objects repeatedly and that the frequency and behavior of those objects presented an unresolved aviation-safety concern."
+    },
+    {
+      "id": "claim-weaponized-14-1",
+      "type": "claim",
+      "name": "Sean Kirkpatrick told the Senate subcommittee that AARO had not found credible evidence of extraterrestrial technology.",
+      "summary": "Claim or framing presented in WEAPONIZED Episode #14."
     },
     {
       "id": "claim-kirkpatrick-secret-technology-explanation",
@@ -1307,6 +1500,12 @@
       "type": "claim",
       "name": "Security-cleared witnesses face legal risk when discussing classified information, even with Congress.",
       "summary": "Security-cleared witnesses face legal risk when discussing classified information, even with Congress."
+    },
+    {
+      "id": "claim-weaponized-19-2",
+      "type": "claim",
+      "name": "Several witnesses reported perceiving the outline of a craft behind the lights.",
+      "summary": "Claim or framing presented in WEAPONIZED Episode #19."
     },
     {
       "id": "claim-skinwalker-research-treated-phenomena-as-connected",
@@ -1355,6 +1554,12 @@
       "type": "claim",
       "name": "Soviet and U.S. programs show notable parallels",
       "summary": "The episode compares collection, secrecy, pilot encounters, tracking, crashes, and technology exploitation."
+    },
+    {
+      "id": "claim-weaponized-16-1",
+      "type": "claim",
+      "name": "Soviet leaders publicly dismissed UFO research while authorizing secret scientific investigations behind the scenes.",
+      "summary": "Claim or framing presented in WEAPONIZED Episode #16."
     },
     {
       "id": "claim-weaponized-3-3",
@@ -1435,6 +1640,12 @@
       "summary": "The episode describes the report as a pivotal event whose effects continued years later."
     },
     {
+      "id": "claim-weaponized-14-4",
+      "type": "claim",
+      "name": "The episode argues that future congressional hearings may provide stronger oversight and more substantive answers.",
+      "summary": "Claim or framing presented in WEAPONIZED Episode #14."
+    },
+    {
       "id": "claim-media-role-uap-suppression",
       "type": "claim",
       "name": "The episode argues that parts of the media help marginalize UAP witnesses and transparency efforts.",
@@ -1501,6 +1712,12 @@
       "summary": "The official episode description presents or discusses this claim; it is recorded here as a source-attributed claim, not as independently verified fact."
     },
     {
+      "id": "claim-weaponized-11-4",
+      "type": "claim",
+      "name": "The episode presents trailer creation as a specialized form of storytelling and audience communication.",
+      "summary": "Claim or framing presented in WEAPONIZED Episode #11."
+    },
+    {
       "id": "claim-weaponized-4-3",
       "type": "claim",
       "name": "The episode questions whether the incidents represented greater transparency or continuing information control.",
@@ -1525,6 +1742,12 @@
       "summary": "Claim or framing presented in WEAPONIZED Episode #2."
     },
     {
+      "id": "claim-weaponized-18-4",
+      "type": "claim",
+      "name": "The episode states that the incident was not formally passed to AARO despite numerous witnesses and recorded imagery.",
+      "summary": "Claim or framing presented in WEAPONIZED Episode #18."
+    },
+    {
       "id": "claim-military-labeled-disc-uap",
       "type": "claim",
       "name": "The episode states that the military labeled the object a UAP.",
@@ -1541,6 +1764,12 @@
       "type": "claim",
       "name": "The episode urges congressional questioning about alleged reverse engineering of non-human technology.",
       "summary": "Claim or framing presented in WEAPONIZED Episode #8."
+    },
+    {
+      "id": "claim-weaponized-20-4",
+      "type": "claim",
+      "name": "The episode visits the band’s Whispering Pines studio and examines the ideas behind Schneider’s songwriting.",
+      "summary": "Claim or framing presented in WEAPONIZED Episode #20."
     },
     {
       "id": "claim-weaponized-2-4",
@@ -1619,6 +1848,12 @@
       "type": "claim",
       "name": "The hosts rejected the suggestion that the cargo ship Bass Strait launched the reported Navy drones",
       "summary": "The episode characterizes that inference as inaccurate."
+    },
+    {
+      "id": "claim-weaponized-17-3",
+      "type": "claim",
+      "name": "The interview connects Williams’s interest in anomalous phenomena with his personal and creative life.",
+      "summary": "Claim or framing presented in WEAPONIZED Episode #17."
     },
     {
       "id": "claim-nyt-ufo-report-faced-internal-resistance",
@@ -1945,10 +2180,28 @@
       "summary": "The official episode description presents or discusses this claim; it is recorded here as a source-attributed claim, not as independently verified fact."
     },
     {
+      "id": "claim-weaponized-17-4",
+      "type": "claim",
+      "name": "Williams discusses an upcoming film based on his life and a new phase of his performance career.",
+      "summary": "Claim or framing presented in WEAPONIZED Episode #17."
+    },
+    {
+      "id": "claim-weaponized-17-2",
+      "type": "claim",
+      "name": "Williams visited Skinwalker Ranch with Jeremy Corbell and George Knapp.",
+      "summary": "Claim or framing presented in WEAPONIZED Episode #17."
+    },
+    {
       "id": "claim-witness-intimidation-contributed-to-decades-of-silence",
       "type": "claim",
       "name": "Witness intimidation contributed to decades of silence",
       "summary": "The episode attributes reluctance among participants to pressure and fear associated with the alleged cover-up."
+    },
+    {
+      "id": "claim-weaponized-18-2",
+      "type": "claim",
+      "name": "Witnesses said the object remained nearly motionless for more than ten minutes.",
+      "summary": "Claim or framing presented in WEAPONIZED Episode #18."
     },
     {
       "id": "claim-zero-gravity-may-enable-exotic-material-research",
@@ -2311,6 +2564,12 @@
       "summary": "Brazilian UFO research organization associated with Thiago Ticchetti."
     },
     {
+      "id": "buddha-jones",
+      "type": "organization",
+      "name": "Buddha Jones",
+      "summary": "Entertainment marketing company known for movie trailers and campaigns for film, television, and streaming projects."
+    },
+    {
       "id": "central-intelligence-agency",
       "type": "organization",
       "name": "Central Intelligence Agency",
@@ -2405,6 +2664,12 @@
       "type": "organization",
       "name": "Liberation Times",
       "summary": "Publication covering UAP policy, legislation, government transparency, and related reporting."
+    },
+    {
+      "id": "lord-huron",
+      "type": "organization",
+      "name": "Lord Huron",
+      "summary": "Los Angeles-based band whose music frequently explores folklore, mortality, ghosts, cosmology, memory, and lost love."
     },
     {
       "id": "malmstrom-air-force-base",
@@ -2681,6 +2946,12 @@
       "type": "person",
       "name": "Avi Loeb",
       "summary": "Harvard astrophysicist, founder of the Galileo Project, and chair of the UAP Science Advisory Council."
+    },
+    {
+      "id": "ben-schneider",
+      "type": "person",
+      "name": "Ben Schneider",
+      "summary": "Founder, lead singer, and principal songwriter of the band Lord Huron."
     },
     {
       "id": "bob-lazar",
@@ -3073,6 +3344,12 @@
       "summary": "Harvard psychiatrist and Pulitzer Prize-winning author who investigated reported alien-abduction experiences and the 1994 Ariel School encounter."
     },
     {
+      "id": "john-long",
+      "type": "person",
+      "name": "John Long",
+      "summary": "Co-founder of the entertainment marketing and trailer-production company Buddha Jones."
+    },
+    {
       "id": "john-priestland",
       "type": "person",
       "name": "John Priestland",
@@ -3125,6 +3402,12 @@
       "type": "person",
       "name": "Kevin Day",
       "summary": "Former U.S. Navy radar operator who reported tracking anomalous objects during the 2004 Nimitz events."
+    },
+    {
+      "id": "kirsten-gillibrand",
+      "type": "person",
+      "name": "Kirsten Gillibrand",
+      "summary": "United States senator associated with congressional oversight and legislation concerning UAP reporting and investigation."
     },
     {
       "id": "lenval-logan",
@@ -3251,6 +3534,12 @@
       "type": "person",
       "name": "Richard Dolan",
       "summary": "Historian and author whose work examines UFO history, government secrecy, intelligence activity, disclosure, and unidentified submerged object cases."
+    },
+    {
+      "id": "robbie-williams",
+      "type": "person",
+      "name": "Robbie Williams",
+      "summary": "British singer, songwriter, and entertainer who has publicly discussed unusual experiences and an interest in UFOs."
     },
     {
       "id": "robert-hastings",
@@ -3505,6 +3794,15 @@
       "status": "Published"
     },
     {
+      "id": "2023-weaponized-episode-11",
+      "type": "podcast_episode",
+      "name": "WEAPONIZED Episode #11 — John Long — Hollywood, UFO Projects, and the Art of the Movie Trailer",
+      "summary": "John Long, co-founder of Buddha Jones, joins Corbell and Knapp to discuss changes reshaping Hollywood, the future of theatrical and streaming entertainment, UFO-themed productions including NOPE, and the creative craft of movie-trailer marketing.",
+      "date": "2023-04-03",
+      "dateDisplay": "April 3, 2023",
+      "status": "Published"
+    },
+    {
       "id": "2026-weaponized-episode-110",
       "type": "podcast_episode",
       "name": "WEAPONIZED Episode #110 — Chris Sharp — Former AARO Deputy Director Describes Unexplained Cases",
@@ -3541,12 +3839,93 @@
       "status": "Published"
     },
     {
+      "id": "2023-weaponized-episode-12",
+      "type": "podcast_episode",
+      "name": "WEAPONIZED Episode #12 — Colm Kelleher Part Two — AAWSAP, the Hitchhiker Effect, and Crash Retrievals",
+      "summary": "In the second half of the Colm Kelleher interview, the former AAWSAP project manager discusses anomalous effects associated with Skinwalker Ranch, the program’s technology objectives, and his stated knowledge of UFO crash-retrieval efforts.",
+      "date": "2023-04-10",
+      "dateDisplay": "April 10, 2023",
+      "status": "Published"
+    },
+    {
+      "id": "2023-weaponized-episode-13",
+      "type": "podcast_episode",
+      "name": "WEAPONIZED Episode #13 — The Russian UFO Files — Military and Scientific Investigations",
+      "summary": "Corbell and Knapp examine George Knapp’s post-Soviet reporting on Russian military and scientific UFO investigations, including interviews with officials and researchers connected to a decade-long nationwide Ministry of Defense program.",
+      "date": "2023-04-17",
+      "dateDisplay": "April 17, 2023",
+      "status": "Published"
+    },
+    {
+      "id": "2023-weaponized-episode-14",
+      "type": "podcast_episode",
+      "name": "WEAPONIZED Episode #14 — AARO Testifies to the Senate — Sean Kirkpatrick and the Middle East UAP",
+      "summary": "Corbell and Knapp review Sean Kirkpatrick’s public testimony before a Senate subcommittee chaired by Kirsten Gillibrand, including AARO’s evidence claims and newly presented Middle East UAP footage.",
+      "date": "2023-04-24",
+      "dateDisplay": "April 24, 2023",
+      "status": "Published"
+    },
+    {
+      "id": "2023-weaponized-episode-15",
+      "type": "podcast_episode",
+      "name": "WEAPONIZED Episode #15 — Dave Foley — Comedy, UFO Curiosity, and a Southern California Encounter",
+      "summary": "Actor and comedian Dave Foley discusses his career, his longstanding interest in UFOs, the Storm Area 51 event, conversations with Joe Rogan, and an unexpected UFO encounter in Southern California.",
+      "date": "2023-05-01",
+      "dateDisplay": "May 1, 2023",
+      "status": "Published"
+    },
+    {
+      "id": "2023-weaponized-episode-16",
+      "type": "podcast_episode",
+      "name": "WEAPONIZED Episode #16 — Secret Soviet UFO Science — Researchers Behind the Iron Curtain",
+      "summary": "Corbell and Knapp revisit covert and semi-covert UFO research conducted by Soviet scientists and academic groups, drawing on interviews George Knapp recorded during reporting trips to Russia in the 1990s.",
+      "date": "2023-05-08",
+      "dateDisplay": "May 8, 2023",
+      "status": "Published"
+    },
+    {
+      "id": "2023-weaponized-episode-17",
+      "type": "podcast_episode",
+      "name": "WEAPONIZED Episode #17 — Robbie Williams — Music, Unusual Experiences, and Skinwalker Ranch",
+      "summary": "Robbie Williams discusses his career, personal challenges, media scrutiny, unusual experiences, a visit to Skinwalker Ranch, and future creative projects.",
+      "date": "2023-05-15",
+      "dateDisplay": "May 15, 2023",
+      "status": "Published"
+    },
+    {
+      "id": "2023-weaponized-episode-18",
+      "type": "podcast_episode",
+      "name": "WEAPONIZED Episode #18 — The Mojave Triangle UAP — Marine Witnesses at Twentynine Palms",
+      "summary": "Corbell and Knapp present videos, photographs, and witness accounts from Marines who reported a large triangular object over the Twentynine Palms training base in April 2021.",
+      "date": "2023-05-22",
+      "dateDisplay": "May 22, 2023",
+      "status": "Published"
+    },
+    {
+      "id": "2023-weaponized-episode-19",
+      "type": "podcast_episode",
+      "name": "WEAPONIZED Episode #19 — The Mojave Triangle Investigation Continues — New Marine Testimony",
+      "summary": "Following the initial Twentynine Palms release, Corbell and Knapp provide additional Marine interviews, respond to flare explanations, and explain why they consider the Mojave Triangle incident an open investigation.",
+      "date": "2023-05-29",
+      "dateDisplay": "May 29, 2023",
+      "status": "Published"
+    },
+    {
       "id": "2023-weaponized-episode-2",
       "type": "podcast_episode",
       "name": "WEAPONIZED Episode #2 — John “Guts” Gutierrez and the 2019 Navy UAP Swarms",
       "summary": "Navy commander John “Guts” Gutierrez discusses his aviation background and the 2019 West Coast incidents in which multiple Navy warships reported sustained incursions by numerous unidentified objects.",
       "date": "2023-01-30",
       "dateDisplay": "January 30, 2023",
+      "status": "Published"
+    },
+    {
+      "id": "2023-weaponized-episode-20",
+      "type": "podcast_episode",
+      "name": "WEAPONIZED Episode #20 — Ben Schneider and Lord Huron — Music, Myth, Ghosts, and Cosmic Questions",
+      "summary": "Ben Schneider of Lord Huron discusses the band’s exploration of death, time, folklore, ghosts, cosmology, and lost love, along with the musical influences and creative environment behind its work.",
+      "date": "2023-06-05",
+      "dateDisplay": "June 5, 2023",
       "status": "Published"
     },
     {
@@ -4650,6 +5029,14 @@
       "dateDisplay": "February 11, 2026"
     },
     {
+      "id": "timeline-2023-04-03-weaponized-episode-11",
+      "type": "timeline_event",
+      "name": "WEAPONIZED Episode #11 published",
+      "summary": "John Long, co-founder of Buddha Jones, joins Corbell and Knapp to discuss changes reshaping Hollywood, the future of theatrical and streaming entertainment, UFO-themed productions including NOPE, and the creative craft of movie-trailer marketing.",
+      "date": "2023-04-03",
+      "dateDisplay": "April 3, 2023"
+    },
+    {
       "id": "timeline-2026-02-24-weaponized-episode-110",
       "type": "timeline_event",
       "name": "WEAPONIZED Episode #110 published",
@@ -4682,12 +5069,84 @@
       "dateDisplay": "April 14, 2026"
     },
     {
+      "id": "timeline-2023-04-10-weaponized-episode-12",
+      "type": "timeline_event",
+      "name": "WEAPONIZED Episode #12 published",
+      "summary": "In the second half of the Colm Kelleher interview, the former AAWSAP project manager discusses anomalous effects associated with Skinwalker Ranch, the program’s technology objectives, and his stated knowledge of UFO crash-retrieval efforts.",
+      "date": "2023-04-10",
+      "dateDisplay": "April 10, 2023"
+    },
+    {
+      "id": "timeline-2023-04-17-weaponized-episode-13",
+      "type": "timeline_event",
+      "name": "WEAPONIZED Episode #13 published",
+      "summary": "Corbell and Knapp examine George Knapp’s post-Soviet reporting on Russian military and scientific UFO investigations, including interviews with officials and researchers connected to a decade-long nationwide Ministry of Defense program.",
+      "date": "2023-04-17",
+      "dateDisplay": "April 17, 2023"
+    },
+    {
+      "id": "timeline-2023-04-24-weaponized-episode-14",
+      "type": "timeline_event",
+      "name": "WEAPONIZED Episode #14 published",
+      "summary": "Corbell and Knapp review Sean Kirkpatrick’s public testimony before a Senate subcommittee chaired by Kirsten Gillibrand, including AARO’s evidence claims and newly presented Middle East UAP footage.",
+      "date": "2023-04-24",
+      "dateDisplay": "April 24, 2023"
+    },
+    {
+      "id": "timeline-2023-05-01-weaponized-episode-15",
+      "type": "timeline_event",
+      "name": "WEAPONIZED Episode #15 published",
+      "summary": "Actor and comedian Dave Foley discusses his career, his longstanding interest in UFOs, the Storm Area 51 event, conversations with Joe Rogan, and an unexpected UFO encounter in Southern California.",
+      "date": "2023-05-01",
+      "dateDisplay": "May 1, 2023"
+    },
+    {
+      "id": "timeline-2023-05-08-weaponized-episode-16",
+      "type": "timeline_event",
+      "name": "WEAPONIZED Episode #16 published",
+      "summary": "Corbell and Knapp revisit covert and semi-covert UFO research conducted by Soviet scientists and academic groups, drawing on interviews George Knapp recorded during reporting trips to Russia in the 1990s.",
+      "date": "2023-05-08",
+      "dateDisplay": "May 8, 2023"
+    },
+    {
+      "id": "timeline-2023-05-15-weaponized-episode-17",
+      "type": "timeline_event",
+      "name": "WEAPONIZED Episode #17 published",
+      "summary": "Robbie Williams discusses his career, personal challenges, media scrutiny, unusual experiences, a visit to Skinwalker Ranch, and future creative projects.",
+      "date": "2023-05-15",
+      "dateDisplay": "May 15, 2023"
+    },
+    {
+      "id": "timeline-2023-05-22-weaponized-episode-18",
+      "type": "timeline_event",
+      "name": "WEAPONIZED Episode #18 published",
+      "summary": "Corbell and Knapp present videos, photographs, and witness accounts from Marines who reported a large triangular object over the Twentynine Palms training base in April 2021.",
+      "date": "2023-05-22",
+      "dateDisplay": "May 22, 2023"
+    },
+    {
+      "id": "timeline-2023-05-29-weaponized-episode-19",
+      "type": "timeline_event",
+      "name": "WEAPONIZED Episode #19 published",
+      "summary": "Following the initial Twentynine Palms release, Corbell and Knapp provide additional Marine interviews, respond to flare explanations, and explain why they consider the Mojave Triangle incident an open investigation.",
+      "date": "2023-05-29",
+      "dateDisplay": "May 29, 2023"
+    },
+    {
       "id": "timeline-2023-01-30-weaponized-episode-2",
       "type": "timeline_event",
       "name": "WEAPONIZED Episode #2 published",
       "summary": "Navy commander John “Guts” Gutierrez discusses his aviation background and the 2019 West Coast incidents in which multiple Navy warships reported sustained incursions by numerous unidentified objects.",
       "date": "2023-01-30",
       "dateDisplay": "January 30, 2023"
+    },
+    {
+      "id": "timeline-2023-06-05-weaponized-episode-20",
+      "type": "timeline_event",
+      "name": "WEAPONIZED Episode #20 published",
+      "summary": "Ben Schneider of Lord Huron discusses the band’s exploration of death, time, folklore, ghosts, cosmology, and lost love, along with the musical influences and creative environment behind its work.",
+      "date": "2023-06-05",
+      "dateDisplay": "June 5, 2023"
     },
     {
       "id": "timeline-2023-02-06-weaponized-episode-3",

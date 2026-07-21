@@ -1,0 +1,86 @@
+{
+  "id": "2023-weaponized-episode-11",
+  "type": "podcast_episode",
+  "name": "WEAPONIZED Episode #11 — John Long — Hollywood, UFO Projects, and the Art of the Movie Trailer",
+  "summary": "John Long, co-founder of Buddha Jones, joins Corbell and Knapp to discuss changes reshaping Hollywood, the future of theatrical and streaming entertainment, UFO-themed productions including NOPE, and the creative craft of movie-trailer marketing.",
+  "date": "2023-04-03",
+  "dateDisplay": "April 3, 2023",
+  "seriesId": "weaponized-podcast",
+  "episodeNumber": 11,
+  "episodeTitle": "John Long — Hollywood, UFO Projects, and the Art of the Movie Trailer",
+  "status": "Published",
+  "mediaType": "Podcast episode",
+  "mediaPlatform": "WEAPONIZED",
+  "mediaHost": "Jeremy Corbell and George Knapp",
+  "mediaGuests": [
+    "john-long"
+  ],
+  "mediaSubjects": [
+    "buddha-jones"
+  ],
+  "principalClaims": [
+    "claim-weaponized-11-1",
+    "claim-weaponized-11-2",
+    "claim-weaponized-11-3",
+    "claim-weaponized-11-4"
+  ],
+  "researchNotes": [],
+  "relationships": [
+    {
+      "type": "episode_of",
+      "target": "weaponized-podcast"
+    },
+    {
+      "type": "features_person",
+      "target": "jeremy-corbell",
+      "role": "host",
+      "context": "WEAPONIZED co-host"
+    },
+    {
+      "type": "features_person",
+      "target": "george-knapp",
+      "role": "host",
+      "context": "WEAPONIZED co-host"
+    },
+    {
+      "type": "features_person",
+      "target": "john-long",
+      "role": "guest",
+      "context": "Featured guest or principal interview subject"
+    },
+    {
+      "type": "references_organization",
+      "target": "buddha-jones",
+      "role": "subject",
+      "context": "Principal subject of the episode"
+    }
+  ],
+  "mediaLinks": [
+    {
+      "label": "Open the official Episode #11 page",
+      "url": "https://www.weaponizedpodcast.com/episodes-1/episode-number-11",
+      "platform": "WEAPONIZED"
+    },
+    {
+      "label": "Listen to WEAPONIZED",
+      "url": "https://link.chtbl.com/Weaponized",
+      "platform": "Official audio feed"
+    }
+  ],
+  "eventCategory": "Podcast publication",
+  "officialLinks": [],
+  "referenceSources": [
+    {
+      "label": "Official WEAPONIZED Episode #11 page",
+      "url": "https://www.weaponizedpodcast.com/episodes-1/episode-number-11",
+      "sourceType": "official_episode_page",
+      "role": "source"
+    },
+    {
+      "label": "Listen to WEAPONIZED",
+      "url": "https://link.chtbl.com/Weaponized",
+      "sourceType": "official_audio_feed",
+      "role": "source"
+    }
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "id": "2023-weaponized-episode-15",
+  "type": "podcast_episode",
+  "name": "WEAPONIZED Episode #15 — Dave Foley — Comedy, UFO Curiosity, and a Southern California Encounter",
+  "summary": "Actor and comedian Dave Foley discusses his career, his longstanding interest in UFOs, the Storm Area 51 event, conversations with Joe Rogan, and an unexpected UFO encounter in Southern California.",
+  "date": "2023-05-01",
+  "dateDisplay": "May 1, 2023",
+  "seriesId": "weaponized-podcast",
+  "episodeNumber": 15,
+  "episodeTitle": "Dave Foley — Comedy, UFO Curiosity, and a Southern California Encounter",
+  "status": "Published",
+  "mediaType": "Podcast episode",
+  "mediaPlatform": "WEAPONIZED",
+  "mediaHost": "Jeremy Corbell and George Knapp",
+  "mediaGuests": [
+    "dave-foley"
+  ],
+  "mediaSubjects": [],
+  "principalClaims": [
+    "claim-weaponized-15-1",
+    "claim-weaponized-15-2",
+    "claim-weaponized-15-3",
+    "claim-weaponized-15-4"
+  ],
+  "researchNotes": [],
+  "relationships": [
+    {
+      "type": "episode_of",
+      "target": "weaponized-podcast"
+    },
+    {
+      "type": "features_person",
+      "target": "jeremy-corbell",
+      "role": "host",
+      "context": "WEAPONIZED co-host"
+    },
+    {
+      "type": "features_person",
+      "target": "george-knapp",
+      "role": "host",
+      "context": "WEAPONIZED co-host"
+    },
+    {
+      "type": "features_person",
+      "target": "dave-foley",
+      "role": "guest",
+      "context": "Featured guest or principal interview subject"
+    }
+  ],
+  "mediaLinks": [
+    {
+      "label": "Open the official Episode #15 page",
+      "url": "https://www.weaponizedpodcast.com/episodes-1/episode-number-15",
+      "platform": "WEAPONIZED"
+    },
+    {
+      "label": "Listen to WEAPONIZED",
+      "url": "https://link.chtbl.com/Weaponized",
+      "platform": "Official audio feed"
+    }
+  ],
+  "eventCategory": "Podcast publication",
+  "officialLinks": [],
+  "referenceSources": [
+    {
+      "label": "Official WEAPONIZED Episode #15 page",
+      "url": "https://www.weaponizedpodcast.com/episodes-1/episode-number-15",
+      "sourceType": "official_episode_page",
+      "role": "source"
+    },
+    {
+      "label": "Listen to WEAPONIZED",
+      "url": "https://link.chtbl.com/Weaponized",
+      "sourceType": "official_audio_feed",
+      "role": "source"
+    }
+  ]
+}

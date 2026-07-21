@@ -1,0 +1,21 @@
+{
+  "id": "claim-weaponized-12-2",
+  "type": "claim",
+  "name": "Kelleher describes an overlap between UFO incidents and anomalous experiences sometimes called the hitchhiker effect.",
+  "summary": "Claim or framing presented in WEAPONIZED Episode #12.",
+  "relationships": [
+    {
+      "type": "featured_in_media",
+      "target": "2023-weaponized-episode-12"
+    }
+  ],
+  "officialLinks": [],
+  "referenceSources": [
+    {
+      "label": "Official WEAPONIZED Episode #12 page",
+      "url": "https://www.weaponizedpodcast.com/episodes-1/episode-number-12",
+      "sourceType": "official_episode_page",
+      "role": "source"
+    }
+  ]
+}

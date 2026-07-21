@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "generatedBy": "tools/build_related_content.py",
-  "generatedAt": "2026-07-20T20:47:38.033239+00:00",
+  "generatedAt": "2026-07-21T16:56:45.948555+00:00",
   "referencedIn": {
     "1960s-area-51-engine-claim": [
       {
@@ -989,6 +989,384 @@
         "context": ""
       }
     ],
+    "2023-weaponized-episode-11": [
+      {
+        "id": "claim-weaponized-11-2",
+        "type": "claim",
+        "name": "Buddha Jones expanded from major-studio trailer production into television and streaming marketing campaigns.",
+        "relationshipType": "featured_in_media",
+        "role": "",
+        "context": ""
+      },
+      {
+        "id": "claim-weaponized-11-3",
+        "type": "claim",
+        "name": "Buddha Jones worked on UFO-themed entertainment projects, including the film NOPE.",
+        "relationshipType": "featured_in_media",
+        "role": "",
+        "context": ""
+      },
+      {
+        "id": "claim-weaponized-11-1",
+        "type": "claim",
+        "name": "Pandemic-era theater disruption and streaming services altered the traditional Hollywood studio business model.",
+        "relationshipType": "featured_in_media",
+        "role": "",
+        "context": ""
+      },
+      {
+        "id": "claim-weaponized-11-4",
+        "type": "claim",
+        "name": "The episode presents trailer creation as a specialized form of storytelling and audience communication.",
+        "relationshipType": "featured_in_media",
+        "role": "",
+        "context": ""
+      },
+      {
+        "id": "timeline-2023-04-03-weaponized-episode-11",
+        "type": "timeline_event",
+        "name": "WEAPONIZED Episode #11 published",
+        "relationshipType": "event_for",
+        "role": "",
+        "context": ""
+      }
+    ],
+    "2023-weaponized-episode-12": [
+      {
+        "id": "claim-weaponized-12-1",
+        "type": "claim",
+        "name": "AAWSAP employed approximately fifty full-time staff and investigators during the DIA-funded program.",
+        "relationshipType": "featured_in_media",
+        "role": "",
+        "context": ""
+      },
+      {
+        "id": "claim-weaponized-12-2",
+        "type": "claim",
+        "name": "Kelleher describes an overlap between UFO incidents and anomalous experiences sometimes called the hitchhiker effect.",
+        "relationshipType": "featured_in_media",
+        "role": "",
+        "context": ""
+      },
+      {
+        "id": "claim-weaponized-12-4",
+        "type": "claim",
+        "name": "Kelleher says he had personal knowledge of efforts involving UFO crash retrievals.",
+        "relationshipType": "featured_in_media",
+        "role": "",
+        "context": ""
+      },
+      {
+        "id": "claim-weaponized-12-3",
+        "type": "claim",
+        "name": "Kelleher states that AAWSAP sought to identify and ultimately reproduce capabilities associated with UFO technology.",
+        "relationshipType": "featured_in_media",
+        "role": "",
+        "context": ""
+      },
+      {
+        "id": "timeline-2023-04-10-weaponized-episode-12",
+        "type": "timeline_event",
+        "name": "WEAPONIZED Episode #12 published",
+        "relationshipType": "event_for",
+        "role": "",
+        "context": ""
+      }
+    ],
+    "2023-weaponized-episode-13": [
+      {
+        "id": "claim-weaponized-13-2",
+        "type": "claim",
+        "name": "George Knapp interviewed Russian military officials and scientists after the collapse of the Soviet Union.",
+        "relationshipType": "featured_in_media",
+        "role": "",
+        "context": ""
+      },
+      {
+        "id": "claim-weaponized-13-3",
+        "type": "claim",
+        "name": "Participants in the Russian program reportedly studied both UFO incidents and potential UFO technology.",
+        "relationshipType": "featured_in_media",
+        "role": "",
+        "context": ""
+      },
+      {
+        "id": "claim-weaponized-13-1",
+        "type": "claim",
+        "name": "Russian military officials described a nationwide UFO investigation that continued for roughly ten years.",
+        "relationshipType": "featured_in_media",
+        "role": "",
+        "context": ""
+      },
+      {
+        "id": "claim-weaponized-13-4",
+        "type": "claim",
+        "name": "Russian sources told Knapp that Soviet authorities also tracked United States government UFO activities.",
+        "relationshipType": "featured_in_media",
+        "role": "",
+        "context": ""
+      },
+      {
+        "id": "timeline-2023-04-17-weaponized-episode-13",
+        "type": "timeline_event",
+        "name": "WEAPONIZED Episode #13 published",
+        "relationshipType": "event_for",
+        "role": "",
+        "context": ""
+      }
+    ],
+    "2023-weaponized-episode-14": [
+      {
+        "id": "claim-weaponized-14-2",
+        "type": "claim",
+        "name": "AARO presented video of an unresolved object recorded by a Department of Defense sensor platform in the Middle East.",
+        "relationshipType": "featured_in_media",
+        "role": "",
+        "context": ""
+      },
+      {
+        "id": "claim-weaponized-14-3",
+        "type": "claim",
+        "name": "Corbell and Knapp compare the presented object with the previously published Mosul Orb imagery.",
+        "relationshipType": "featured_in_media",
+        "role": "",
+        "context": ""
+      },
+      {
+        "id": "claim-weaponized-14-1",
+        "type": "claim",
+        "name": "Sean Kirkpatrick told the Senate subcommittee that AARO had not found credible evidence of extraterrestrial technology.",
+        "relationshipType": "featured_in_media",
+        "role": "",
+        "context": ""
+      },
+      {
+        "id": "claim-weaponized-14-4",
+        "type": "claim",
+        "name": "The episode argues that future congressional hearings may provide stronger oversight and more substantive answers.",
+        "relationshipType": "featured_in_media",
+        "role": "",
+        "context": ""
+      },
+      {
+        "id": "timeline-2023-04-24-weaponized-episode-14",
+        "type": "timeline_event",
+        "name": "WEAPONIZED Episode #14 published",
+        "relationshipType": "event_for",
+        "role": "",
+        "context": ""
+      }
+    ],
+    "2023-weaponized-episode-15": [
+      {
+        "id": "claim-weaponized-15-1",
+        "type": "claim",
+        "name": "Dave Foley describes a longstanding personal interest in the UFO mystery.",
+        "relationshipType": "featured_in_media",
+        "role": "",
+        "context": ""
+      },
+      {
+        "id": "claim-weaponized-15-3",
+        "type": "claim",
+        "name": "Foley recounts attending the Storm Area 51 gathering in Nevada.",
+        "relationshipType": "featured_in_media",
+        "role": "",
+        "context": ""
+      },
+      {
+        "id": "claim-weaponized-15-4",
+        "type": "claim",
+        "name": "Foley reports an unexpected and dramatic UFO encounter in Southern California.",
+        "relationshipType": "featured_in_media",
+        "role": "",
+        "context": ""
+      },
+      {
+        "id": "claim-weaponized-15-2",
+        "type": "claim",
+        "name": "Foley says he encouraged Joe Rogan to reconsider the UFO subject with fresh attention.",
+        "relationshipType": "featured_in_media",
+        "role": "",
+        "context": ""
+      },
+      {
+        "id": "timeline-2023-05-01-weaponized-episode-15",
+        "type": "timeline_event",
+        "name": "WEAPONIZED Episode #15 published",
+        "relationshipType": "event_for",
+        "role": "",
+        "context": ""
+      }
+    ],
+    "2023-weaponized-episode-16": [
+      {
+        "id": "claim-weaponized-16-4",
+        "type": "claim",
+        "name": "George Knapp recorded interviews with Russian scientists who had not previously discussed their work on camera.",
+        "relationshipType": "featured_in_media",
+        "role": "",
+        "context": ""
+      },
+      {
+        "id": "claim-weaponized-16-2",
+        "type": "claim",
+        "name": "Independent Soviet scientists and academic groups investigated UFO reports despite political and professional risks.",
+        "relationshipType": "featured_in_media",
+        "role": "",
+        "context": ""
+      },
+      {
+        "id": "claim-weaponized-16-3",
+        "type": "claim",
+        "name": "Much of the Soviet-era UFO research became accessible only after the USSR collapsed.",
+        "relationshipType": "featured_in_media",
+        "role": "",
+        "context": ""
+      },
+      {
+        "id": "claim-weaponized-16-1",
+        "type": "claim",
+        "name": "Soviet leaders publicly dismissed UFO research while authorizing secret scientific investigations behind the scenes.",
+        "relationshipType": "featured_in_media",
+        "role": "",
+        "context": ""
+      },
+      {
+        "id": "timeline-2023-05-08-weaponized-episode-16",
+        "type": "timeline_event",
+        "name": "WEAPONIZED Episode #16 published",
+        "relationshipType": "event_for",
+        "role": "",
+        "context": ""
+      }
+    ],
+    "2023-weaponized-episode-17": [
+      {
+        "id": "claim-weaponized-17-1",
+        "type": "claim",
+        "name": "Robbie Williams describes a lifetime of unusual experiences and encounters.",
+        "relationshipType": "featured_in_media",
+        "role": "",
+        "context": ""
+      },
+      {
+        "id": "claim-weaponized-17-3",
+        "type": "claim",
+        "name": "The interview connects Williams’s interest in anomalous phenomena with his personal and creative life.",
+        "relationshipType": "featured_in_media",
+        "role": "",
+        "context": ""
+      },
+      {
+        "id": "claim-weaponized-17-4",
+        "type": "claim",
+        "name": "Williams discusses an upcoming film based on his life and a new phase of his performance career.",
+        "relationshipType": "featured_in_media",
+        "role": "",
+        "context": ""
+      },
+      {
+        "id": "claim-weaponized-17-2",
+        "type": "claim",
+        "name": "Williams visited Skinwalker Ranch with Jeremy Corbell and George Knapp.",
+        "relationshipType": "featured_in_media",
+        "role": "",
+        "context": ""
+      },
+      {
+        "id": "timeline-2023-05-15-weaponized-episode-17",
+        "type": "timeline_event",
+        "name": "WEAPONIZED Episode #17 published",
+        "relationshipType": "event_for",
+        "role": "",
+        "context": ""
+      }
+    ],
+    "2023-weaponized-episode-18": [
+      {
+        "id": "claim-weaponized-18-1",
+        "type": "claim",
+        "name": "Dozens of Marines reportedly observed a large triangular object over Twentynine Palms in April 2021.",
+        "relationshipType": "featured_in_media",
+        "role": "",
+        "context": ""
+      },
+      {
+        "id": "claim-weaponized-18-3",
+        "type": "claim",
+        "name": "Marines captured conventional and low-light images while base personnel deployed helicopters, ground units, and illumination flares.",
+        "relationshipType": "featured_in_media",
+        "role": "",
+        "context": ""
+      },
+      {
+        "id": "claim-weaponized-18-4",
+        "type": "claim",
+        "name": "The episode states that the incident was not formally passed to AARO despite numerous witnesses and recorded imagery.",
+        "relationshipType": "featured_in_media",
+        "role": "",
+        "context": ""
+      },
+      {
+        "id": "claim-weaponized-18-2",
+        "type": "claim",
+        "name": "Witnesses said the object remained nearly motionless for more than ten minutes.",
+        "relationshipType": "featured_in_media",
+        "role": "",
+        "context": ""
+      },
+      {
+        "id": "timeline-2023-05-22-weaponized-episode-18",
+        "type": "timeline_event",
+        "name": "WEAPONIZED Episode #18 published",
+        "relationshipType": "event_for",
+        "role": "",
+        "context": ""
+      }
+    ],
+    "2023-weaponized-episode-19": [
+      {
+        "id": "claim-weaponized-19-4",
+        "type": "claim",
+        "name": "Additional witness testimony led Corbell and Knapp to keep the incident classified as an active investigation.",
+        "relationshipType": "featured_in_media",
+        "role": "",
+        "context": ""
+      },
+      {
+        "id": "claim-weaponized-19-1",
+        "type": "claim",
+        "name": "Marine witnesses familiar with military flares said the observed lights did not resemble routine training ordnance.",
+        "relationshipType": "featured_in_media",
+        "role": "",
+        "context": ""
+      },
+      {
+        "id": "claim-weaponized-19-3",
+        "type": "claim",
+        "name": "Publication of the initial material prompted media coverage and inquiries from congressional staff.",
+        "relationshipType": "featured_in_media",
+        "role": "",
+        "context": ""
+      },
+      {
+        "id": "claim-weaponized-19-2",
+        "type": "claim",
+        "name": "Several witnesses reported perceiving the outline of a craft behind the lights.",
+        "relationshipType": "featured_in_media",
+        "role": "",
+        "context": ""
+      },
+      {
+        "id": "timeline-2023-05-29-weaponized-episode-19",
+        "type": "timeline_event",
+        "name": "WEAPONIZED Episode #19 published",
+        "relationshipType": "event_for",
+        "role": "",
+        "context": ""
+      }
+    ],
     "2023-weaponized-episode-2": [
       {
         "id": "claim-weaponized-2-3",
@@ -1026,6 +1404,48 @@
         "id": "timeline-2023-01-30-weaponized-episode-2",
         "type": "timeline_event",
         "name": "WEAPONIZED Episode #2 published",
+        "relationshipType": "event_for",
+        "role": "",
+        "context": ""
+      }
+    ],
+    "2023-weaponized-episode-20": [
+      {
+        "id": "claim-weaponized-20-2",
+        "type": "claim",
+        "name": "Ben Schneider draws creative inspiration from Great Lakes history and regional Indigenous traditions.",
+        "relationshipType": "featured_in_media",
+        "role": "",
+        "context": ""
+      },
+      {
+        "id": "claim-weaponized-20-3",
+        "type": "claim",
+        "name": "Lord Huron combines folk, rock, country, punk, Asian, and surf influences in a layered musical style.",
+        "relationshipType": "featured_in_media",
+        "role": "",
+        "context": ""
+      },
+      {
+        "id": "claim-weaponized-20-1",
+        "type": "claim",
+        "name": "Lord Huron’s songs repeatedly explore death, time, space, folklore, spirits, and cosmological themes.",
+        "relationshipType": "featured_in_media",
+        "role": "",
+        "context": ""
+      },
+      {
+        "id": "claim-weaponized-20-4",
+        "type": "claim",
+        "name": "The episode visits the band’s Whispering Pines studio and examines the ideas behind Schneider’s songwriting.",
+        "relationshipType": "featured_in_media",
+        "role": "",
+        "context": ""
+      },
+      {
+        "id": "timeline-2023-06-05-weaponized-episode-20",
+        "type": "timeline_event",
+        "name": "WEAPONIZED Episode #20 published",
         "relationshipType": "event_for",
         "role": "",
         "context": ""
@@ -5132,6 +5552,16 @@
         "context": ""
       }
     ],
+    "ben-schneider": [
+      {
+        "id": "2023-weaponized-episode-20",
+        "type": "podcast_episode",
+        "name": "WEAPONIZED Episode #20 — Ben Schneider and Lord Huron — Music, Myth, Ghosts, and Cosmic Questions",
+        "relationshipType": "features_person",
+        "role": "guest",
+        "context": "Featured guest or principal interview subject"
+      }
+    ],
     "big-sur-missile-film-claim": [
       {
         "id": "robert-jacobs",
@@ -5337,6 +5767,24 @@
         "relationshipType": "features_person",
         "role": "referenced_subject",
         "context": "Referenced journalist"
+      }
+    ],
+    "buddha-jones": [
+      {
+        "id": "john-long",
+        "type": "person",
+        "name": "John Long",
+        "relationshipType": "affiliated_with",
+        "role": "",
+        "context": ""
+      },
+      {
+        "id": "2023-weaponized-episode-11",
+        "type": "podcast_episode",
+        "name": "WEAPONIZED Episode #11 — John Long — Hollywood, UFO Projects, and the Art of the Movie Trailer",
+        "relationshipType": "references_organization",
+        "role": "subject",
+        "context": "Principal subject of the episode"
       }
     ],
     "calvine-ufo": [
@@ -6251,10 +6699,50 @@
     "claim-weaponized-10-2": [],
     "claim-weaponized-10-3": [],
     "claim-weaponized-10-4": [],
+    "claim-weaponized-11-1": [],
+    "claim-weaponized-11-2": [],
+    "claim-weaponized-11-3": [],
+    "claim-weaponized-11-4": [],
+    "claim-weaponized-12-1": [],
+    "claim-weaponized-12-2": [],
+    "claim-weaponized-12-3": [],
+    "claim-weaponized-12-4": [],
+    "claim-weaponized-13-1": [],
+    "claim-weaponized-13-2": [],
+    "claim-weaponized-13-3": [],
+    "claim-weaponized-13-4": [],
+    "claim-weaponized-14-1": [],
+    "claim-weaponized-14-2": [],
+    "claim-weaponized-14-3": [],
+    "claim-weaponized-14-4": [],
+    "claim-weaponized-15-1": [],
+    "claim-weaponized-15-2": [],
+    "claim-weaponized-15-3": [],
+    "claim-weaponized-15-4": [],
+    "claim-weaponized-16-1": [],
+    "claim-weaponized-16-2": [],
+    "claim-weaponized-16-3": [],
+    "claim-weaponized-16-4": [],
+    "claim-weaponized-17-1": [],
+    "claim-weaponized-17-2": [],
+    "claim-weaponized-17-3": [],
+    "claim-weaponized-17-4": [],
+    "claim-weaponized-18-1": [],
+    "claim-weaponized-18-2": [],
+    "claim-weaponized-18-3": [],
+    "claim-weaponized-18-4": [],
+    "claim-weaponized-19-1": [],
+    "claim-weaponized-19-2": [],
+    "claim-weaponized-19-3": [],
+    "claim-weaponized-19-4": [],
     "claim-weaponized-2-1": [],
     "claim-weaponized-2-2": [],
     "claim-weaponized-2-3": [],
     "claim-weaponized-2-4": [],
+    "claim-weaponized-20-1": [],
+    "claim-weaponized-20-2": [],
+    "claim-weaponized-20-3": [],
+    "claim-weaponized-20-4": [],
     "claim-weaponized-3-1": [],
     "claim-weaponized-3-2": [],
     "claim-weaponized-3-3": [],
@@ -6497,6 +6985,14 @@
       }
     ],
     "colm-kelleher": [
+      {
+        "id": "2023-weaponized-episode-12",
+        "type": "podcast_episode",
+        "name": "WEAPONIZED Episode #12 — Colm Kelleher Part Two — AAWSAP, the Hitchhiker Effect, and Crash Retrievals",
+        "relationshipType": "features_person",
+        "role": "guest",
+        "context": "Featured guest or principal interview subject"
+      },
       {
         "id": "2023-weaponized-episode-5",
         "type": "podcast_episode",
@@ -6916,6 +7412,14 @@
       }
     ],
     "dave-foley": [
+      {
+        "id": "2023-weaponized-episode-15",
+        "type": "podcast_episode",
+        "name": "WEAPONIZED Episode #15 — Dave Foley — Comedy, UFO Curiosity, and a Southern California Encounter",
+        "relationshipType": "features_person",
+        "role": "guest",
+        "context": "Featured guest or principal interview subject"
+      },
       {
         "id": "2023-weaponized-episode-4",
         "type": "podcast_episode",
@@ -8141,6 +8645,14 @@
         "context": "WEAPONIZED co-host"
       },
       {
+        "id": "2023-weaponized-episode-11",
+        "type": "podcast_episode",
+        "name": "WEAPONIZED Episode #11 — John Long — Hollywood, UFO Projects, and the Art of the Movie Trailer",
+        "relationshipType": "features_person",
+        "role": "host",
+        "context": "WEAPONIZED co-host"
+      },
+      {
         "id": "2026-weaponized-episode-110",
         "type": "podcast_episode",
         "name": "WEAPONIZED Episode #110 — Chris Sharp — Former AARO Deputy Director Describes Unexplained Cases",
@@ -8173,9 +8685,81 @@
         "context": "WEAPONIZED co-host"
       },
       {
+        "id": "2023-weaponized-episode-12",
+        "type": "podcast_episode",
+        "name": "WEAPONIZED Episode #12 — Colm Kelleher Part Two — AAWSAP, the Hitchhiker Effect, and Crash Retrievals",
+        "relationshipType": "features_person",
+        "role": "host",
+        "context": "WEAPONIZED co-host"
+      },
+      {
+        "id": "2023-weaponized-episode-13",
+        "type": "podcast_episode",
+        "name": "WEAPONIZED Episode #13 — The Russian UFO Files — Military and Scientific Investigations",
+        "relationshipType": "features_person",
+        "role": "host",
+        "context": "WEAPONIZED co-host"
+      },
+      {
+        "id": "2023-weaponized-episode-14",
+        "type": "podcast_episode",
+        "name": "WEAPONIZED Episode #14 — AARO Testifies to the Senate — Sean Kirkpatrick and the Middle East UAP",
+        "relationshipType": "features_person",
+        "role": "host",
+        "context": "WEAPONIZED co-host"
+      },
+      {
+        "id": "2023-weaponized-episode-15",
+        "type": "podcast_episode",
+        "name": "WEAPONIZED Episode #15 — Dave Foley — Comedy, UFO Curiosity, and a Southern California Encounter",
+        "relationshipType": "features_person",
+        "role": "host",
+        "context": "WEAPONIZED co-host"
+      },
+      {
+        "id": "2023-weaponized-episode-16",
+        "type": "podcast_episode",
+        "name": "WEAPONIZED Episode #16 — Secret Soviet UFO Science — Researchers Behind the Iron Curtain",
+        "relationshipType": "features_person",
+        "role": "host",
+        "context": "WEAPONIZED co-host"
+      },
+      {
+        "id": "2023-weaponized-episode-17",
+        "type": "podcast_episode",
+        "name": "WEAPONIZED Episode #17 — Robbie Williams — Music, Unusual Experiences, and Skinwalker Ranch",
+        "relationshipType": "features_person",
+        "role": "host",
+        "context": "WEAPONIZED co-host"
+      },
+      {
+        "id": "2023-weaponized-episode-18",
+        "type": "podcast_episode",
+        "name": "WEAPONIZED Episode #18 — The Mojave Triangle UAP — Marine Witnesses at Twentynine Palms",
+        "relationshipType": "features_person",
+        "role": "host",
+        "context": "WEAPONIZED co-host"
+      },
+      {
+        "id": "2023-weaponized-episode-19",
+        "type": "podcast_episode",
+        "name": "WEAPONIZED Episode #19 — The Mojave Triangle Investigation Continues — New Marine Testimony",
+        "relationshipType": "features_person",
+        "role": "host",
+        "context": "WEAPONIZED co-host"
+      },
+      {
         "id": "2023-weaponized-episode-2",
         "type": "podcast_episode",
         "name": "WEAPONIZED Episode #2 — John “Guts” Gutierrez and the 2019 Navy UAP Swarms",
+        "relationshipType": "features_person",
+        "role": "host",
+        "context": "WEAPONIZED co-host"
+      },
+      {
+        "id": "2023-weaponized-episode-20",
+        "type": "podcast_episode",
+        "name": "WEAPONIZED Episode #20 — Ben Schneider and Lord Huron — Music, Myth, Ghosts, and Cosmic Questions",
         "relationshipType": "features_person",
         "role": "host",
         "context": "WEAPONIZED co-host"
@@ -10347,6 +10931,14 @@
         "context": "WEAPONIZED co-host"
       },
       {
+        "id": "2023-weaponized-episode-11",
+        "type": "podcast_episode",
+        "name": "WEAPONIZED Episode #11 — John Long — Hollywood, UFO Projects, and the Art of the Movie Trailer",
+        "relationshipType": "features_person",
+        "role": "host",
+        "context": "WEAPONIZED co-host"
+      },
+      {
         "id": "2026-weaponized-episode-110",
         "type": "podcast_episode",
         "name": "WEAPONIZED Episode #110 — Chris Sharp — Former AARO Deputy Director Describes Unexplained Cases",
@@ -10379,9 +10971,81 @@
         "context": "WEAPONIZED co-host"
       },
       {
+        "id": "2023-weaponized-episode-12",
+        "type": "podcast_episode",
+        "name": "WEAPONIZED Episode #12 — Colm Kelleher Part Two — AAWSAP, the Hitchhiker Effect, and Crash Retrievals",
+        "relationshipType": "features_person",
+        "role": "host",
+        "context": "WEAPONIZED co-host"
+      },
+      {
+        "id": "2023-weaponized-episode-13",
+        "type": "podcast_episode",
+        "name": "WEAPONIZED Episode #13 — The Russian UFO Files — Military and Scientific Investigations",
+        "relationshipType": "features_person",
+        "role": "host",
+        "context": "WEAPONIZED co-host"
+      },
+      {
+        "id": "2023-weaponized-episode-14",
+        "type": "podcast_episode",
+        "name": "WEAPONIZED Episode #14 — AARO Testifies to the Senate — Sean Kirkpatrick and the Middle East UAP",
+        "relationshipType": "features_person",
+        "role": "host",
+        "context": "WEAPONIZED co-host"
+      },
+      {
+        "id": "2023-weaponized-episode-15",
+        "type": "podcast_episode",
+        "name": "WEAPONIZED Episode #15 — Dave Foley — Comedy, UFO Curiosity, and a Southern California Encounter",
+        "relationshipType": "features_person",
+        "role": "host",
+        "context": "WEAPONIZED co-host"
+      },
+      {
+        "id": "2023-weaponized-episode-16",
+        "type": "podcast_episode",
+        "name": "WEAPONIZED Episode #16 — Secret Soviet UFO Science — Researchers Behind the Iron Curtain",
+        "relationshipType": "features_person",
+        "role": "host",
+        "context": "WEAPONIZED co-host"
+      },
+      {
+        "id": "2023-weaponized-episode-17",
+        "type": "podcast_episode",
+        "name": "WEAPONIZED Episode #17 — Robbie Williams — Music, Unusual Experiences, and Skinwalker Ranch",
+        "relationshipType": "features_person",
+        "role": "host",
+        "context": "WEAPONIZED co-host"
+      },
+      {
+        "id": "2023-weaponized-episode-18",
+        "type": "podcast_episode",
+        "name": "WEAPONIZED Episode #18 — The Mojave Triangle UAP — Marine Witnesses at Twentynine Palms",
+        "relationshipType": "features_person",
+        "role": "host",
+        "context": "WEAPONIZED co-host"
+      },
+      {
+        "id": "2023-weaponized-episode-19",
+        "type": "podcast_episode",
+        "name": "WEAPONIZED Episode #19 — The Mojave Triangle Investigation Continues — New Marine Testimony",
+        "relationshipType": "features_person",
+        "role": "host",
+        "context": "WEAPONIZED co-host"
+      },
+      {
         "id": "2023-weaponized-episode-2",
         "type": "podcast_episode",
         "name": "WEAPONIZED Episode #2 — John “Guts” Gutierrez and the 2019 Navy UAP Swarms",
+        "relationshipType": "features_person",
+        "role": "host",
+        "context": "WEAPONIZED co-host"
+      },
+      {
+        "id": "2023-weaponized-episode-20",
+        "type": "podcast_episode",
+        "name": "WEAPONIZED Episode #20 — Ben Schneider and Lord Huron — Music, Myth, Ghosts, and Cosmic Questions",
         "relationshipType": "features_person",
         "role": "host",
         "context": "WEAPONIZED co-host"
@@ -11054,6 +11718,16 @@
         "context": "Featured guest or principal interview subject"
       }
     ],
+    "john-long": [
+      {
+        "id": "2023-weaponized-episode-11",
+        "type": "podcast_episode",
+        "name": "WEAPONIZED Episode #11 — John Long — Hollywood, UFO Projects, and the Art of the Movie Trailer",
+        "relationshipType": "features_person",
+        "role": "guest",
+        "context": "Featured guest or principal interview subject"
+      }
+    ],
     "john-mack": [],
     "john-priestland": [
       {
@@ -11130,6 +11804,16 @@
     "karlin-toner": [],
     "karson-kammerzell": [],
     "kevin-day": [],
+    "kirsten-gillibrand": [
+      {
+        "id": "2023-weaponized-episode-14",
+        "type": "podcast_episode",
+        "name": "WEAPONIZED Episode #14 — AARO Testifies to the Senate — Sean Kirkpatrick and the Middle East UAP",
+        "relationshipType": "features_person",
+        "role": "subject",
+        "context": "Principal subject of the episode"
+      }
+    ],
     "klas-tv": [
       {
         "id": "timeline-1989-05-15-bob-lazar-dennis-interview",
@@ -11265,6 +11949,24 @@
         "relationshipType": "references_organization",
         "role": "",
         "context": ""
+      }
+    ],
+    "lord-huron": [
+      {
+        "id": "ben-schneider",
+        "type": "person",
+        "name": "Ben Schneider",
+        "relationshipType": "affiliated_with",
+        "role": "",
+        "context": ""
+      },
+      {
+        "id": "2023-weaponized-episode-20",
+        "type": "podcast_episode",
+        "name": "WEAPONIZED Episode #20 — Ben Schneider and Lord Huron — Music, Myth, Ghosts, and Cosmic Questions",
+        "relationshipType": "references_organization",
+        "role": "subject",
+        "context": "Principal subject of the episode"
       }
     ],
     "los-alamos-monitor": [
@@ -12418,6 +13120,16 @@
         "context": "Featured episode participant"
       }
     ],
+    "robbie-williams": [
+      {
+        "id": "2023-weaponized-episode-17",
+        "type": "podcast_episode",
+        "name": "WEAPONIZED Episode #17 — Robbie Williams — Music, Unusual Experiences, and Skinwalker Ranch",
+        "relationshipType": "features_person",
+        "role": "guest",
+        "context": "Featured guest or principal interview subject"
+      }
+    ],
     "robert-hastings": [
       {
         "id": "2024-weaponized-episode-54",
@@ -12508,6 +13220,24 @@
         "relationshipType": "discussed_topic",
         "role": "",
         "context": ""
+      }
+    ],
+    "russian-military-ufo-investigation": [
+      {
+        "id": "2023-weaponized-episode-13",
+        "type": "podcast_episode",
+        "name": "WEAPONIZED Episode #13 — The Russian UFO Files — Military and Scientific Investigations",
+        "relationshipType": "references_case",
+        "role": "subject",
+        "context": "Principal subject of the episode"
+      },
+      {
+        "id": "2023-weaponized-episode-16",
+        "type": "podcast_episode",
+        "name": "WEAPONIZED Episode #16 — Secret Soviet UFO Science — Researchers Behind the Iron Curtain",
+        "relationshipType": "references_case",
+        "role": "subject",
+        "context": "Principal subject of the episode"
       }
     ],
     "ryan-bodenheimer": [
@@ -13019,6 +13749,14 @@
     "scott-kelly": [],
     "sean-kirkpatrick": [
       {
+        "id": "2023-weaponized-episode-14",
+        "type": "podcast_episode",
+        "name": "WEAPONIZED Episode #14 — AARO Testifies to the Senate — Sean Kirkpatrick and the Middle East UAP",
+        "relationshipType": "features_person",
+        "role": "subject",
+        "context": "Principal subject of the episode"
+      },
+      {
         "id": "2024-weaponized-episode-49",
         "type": "podcast_episode",
         "name": "WEAPONIZED Episode #49 — Pushback, AARO, and the UFO Information War",
@@ -13190,6 +13928,22 @@
         "relationshipType": "discussed_topic",
         "role": "",
         "context": ""
+      },
+      {
+        "id": "2023-weaponized-episode-12",
+        "type": "podcast_episode",
+        "name": "WEAPONIZED Episode #12 — Colm Kelleher Part Two — AAWSAP, the Hitchhiker Effect, and Crash Retrievals",
+        "relationshipType": "references_case",
+        "role": "subject",
+        "context": "Principal subject of the episode"
+      },
+      {
+        "id": "2023-weaponized-episode-17",
+        "type": "podcast_episode",
+        "name": "WEAPONIZED Episode #17 — Robbie Williams — Music, Unusual Experiences, and Skinwalker Ranch",
+        "relationshipType": "references_case",
+        "role": "subject",
+        "context": "Principal subject of the episode"
       },
       {
         "id": "2023-weaponized-episode-45",
@@ -13513,6 +14267,16 @@
     "timeline-2023-03-13-weaponized-episode-8": [],
     "timeline-2023-03-20-weaponized-episode-9": [],
     "timeline-2023-03-27-weaponized-episode-10": [],
+    "timeline-2023-04-03-weaponized-episode-11": [],
+    "timeline-2023-04-10-weaponized-episode-12": [],
+    "timeline-2023-04-17-weaponized-episode-13": [],
+    "timeline-2023-04-24-weaponized-episode-14": [],
+    "timeline-2023-05-01-weaponized-episode-15": [],
+    "timeline-2023-05-08-weaponized-episode-16": [],
+    "timeline-2023-05-15-weaponized-episode-17": [],
+    "timeline-2023-05-22-weaponized-episode-18": [],
+    "timeline-2023-05-29-weaponized-episode-19": [],
+    "timeline-2023-06-05-weaponized-episode-20": [],
     "timeline-2023-06-12-disclosure-project-national-press-club": [
       {
         "id": "eric-hecker",
@@ -13697,6 +14461,24 @@
         "relationshipType": "discussed_topic",
         "role": "",
         "context": ""
+      }
+    ],
+    "twentynine-palms-triangle-incident": [
+      {
+        "id": "2023-weaponized-episode-18",
+        "type": "podcast_episode",
+        "name": "WEAPONIZED Episode #18 — The Mojave Triangle UAP — Marine Witnesses at Twentynine Palms",
+        "relationshipType": "references_case",
+        "role": "subject",
+        "context": "Principal subject of the episode"
+      },
+      {
+        "id": "2023-weaponized-episode-19",
+        "type": "podcast_episode",
+        "name": "WEAPONIZED Episode #19 — The Mojave Triangle Investigation Continues — New Marine Testimony",
+        "relationshipType": "references_case",
+        "role": "subject",
+        "context": "Principal subject of the episode"
       }
     ],
     "uap-caucus": [
@@ -15368,6 +16150,14 @@
         "context": ""
       },
       {
+        "id": "2023-weaponized-episode-11",
+        "type": "podcast_episode",
+        "name": "WEAPONIZED Episode #11 — John Long — Hollywood, UFO Projects, and the Art of the Movie Trailer",
+        "relationshipType": "episode_of",
+        "role": "",
+        "context": ""
+      },
+      {
         "id": "2026-weaponized-episode-110",
         "type": "podcast_episode",
         "name": "WEAPONIZED Episode #110 — Chris Sharp — Former AARO Deputy Director Describes Unexplained Cases",
@@ -15400,9 +16190,81 @@
         "context": ""
       },
       {
+        "id": "2023-weaponized-episode-12",
+        "type": "podcast_episode",
+        "name": "WEAPONIZED Episode #12 — Colm Kelleher Part Two — AAWSAP, the Hitchhiker Effect, and Crash Retrievals",
+        "relationshipType": "episode_of",
+        "role": "",
+        "context": ""
+      },
+      {
+        "id": "2023-weaponized-episode-13",
+        "type": "podcast_episode",
+        "name": "WEAPONIZED Episode #13 — The Russian UFO Files — Military and Scientific Investigations",
+        "relationshipType": "episode_of",
+        "role": "",
+        "context": ""
+      },
+      {
+        "id": "2023-weaponized-episode-14",
+        "type": "podcast_episode",
+        "name": "WEAPONIZED Episode #14 — AARO Testifies to the Senate — Sean Kirkpatrick and the Middle East UAP",
+        "relationshipType": "episode_of",
+        "role": "",
+        "context": ""
+      },
+      {
+        "id": "2023-weaponized-episode-15",
+        "type": "podcast_episode",
+        "name": "WEAPONIZED Episode #15 — Dave Foley — Comedy, UFO Curiosity, and a Southern California Encounter",
+        "relationshipType": "episode_of",
+        "role": "",
+        "context": ""
+      },
+      {
+        "id": "2023-weaponized-episode-16",
+        "type": "podcast_episode",
+        "name": "WEAPONIZED Episode #16 — Secret Soviet UFO Science — Researchers Behind the Iron Curtain",
+        "relationshipType": "episode_of",
+        "role": "",
+        "context": ""
+      },
+      {
+        "id": "2023-weaponized-episode-17",
+        "type": "podcast_episode",
+        "name": "WEAPONIZED Episode #17 — Robbie Williams — Music, Unusual Experiences, and Skinwalker Ranch",
+        "relationshipType": "episode_of",
+        "role": "",
+        "context": ""
+      },
+      {
+        "id": "2023-weaponized-episode-18",
+        "type": "podcast_episode",
+        "name": "WEAPONIZED Episode #18 — The Mojave Triangle UAP — Marine Witnesses at Twentynine Palms",
+        "relationshipType": "episode_of",
+        "role": "",
+        "context": ""
+      },
+      {
+        "id": "2023-weaponized-episode-19",
+        "type": "podcast_episode",
+        "name": "WEAPONIZED Episode #19 — The Mojave Triangle Investigation Continues — New Marine Testimony",
+        "relationshipType": "episode_of",
+        "role": "",
+        "context": ""
+      },
+      {
         "id": "2023-weaponized-episode-2",
         "type": "podcast_episode",
         "name": "WEAPONIZED Episode #2 — John “Guts” Gutierrez and the 2019 Navy UAP Swarms",
+        "relationshipType": "episode_of",
+        "role": "",
+        "context": ""
+      },
+      {
+        "id": "2023-weaponized-episode-20",
+        "type": "podcast_episode",
+        "name": "WEAPONIZED Episode #20 — Ben Schneider and Lord Huron — Music, Myth, Ghosts, and Cosmic Questions",
         "relationshipType": "episode_of",
         "role": "",
         "context": ""
@@ -16390,7 +17252,767 @@
         "score": 25
       }
     ],
+    "2023-weaponized-episode-11": [
+      {
+        "id": "2026-weaponized-episode-115",
+        "name": "WEAPONIZED Episode #115 — A New Chapter in the Bob Lazar Saga",
+        "seriesId": "weaponized-podcast",
+        "date": "2026-04-14",
+        "sharedEntityIds": [
+          "george-knapp",
+          "jeremy-corbell"
+        ],
+        "sharedEntityCount": 2,
+        "score": 25
+      },
+      {
+        "id": "2026-weaponized-episode-112",
+        "name": "WEAPONIZED Episode #112 — Eric Burlison — Classified Site Visit and Congressional UAP Oversight",
+        "seriesId": "weaponized-podcast",
+        "date": "2026-03-13",
+        "sharedEntityIds": [
+          "george-knapp",
+          "jeremy-corbell"
+        ],
+        "sharedEntityCount": 2,
+        "score": 25
+      },
+      {
+        "id": "2026-weaponized-episode-111",
+        "name": "WEAPONIZED Episode #111 — Lenval Logan — UAP Task Force Analysis and Better Classified Evidence",
+        "seriesId": "weaponized-podcast",
+        "date": "2026-03-03",
+        "sharedEntityIds": [
+          "george-knapp",
+          "jeremy-corbell"
+        ],
+        "sharedEntityCount": 2,
+        "score": 25
+      },
+      {
+        "id": "2026-weaponized-episode-110",
+        "name": "WEAPONIZED Episode #110 — Chris Sharp — Former AARO Deputy Director Describes Unexplained Cases",
+        "seriesId": "weaponized-podcast",
+        "date": "2026-02-24",
+        "sharedEntityIds": [
+          "george-knapp",
+          "jeremy-corbell"
+        ],
+        "sharedEntityCount": 2,
+        "score": 25
+      },
+      {
+        "id": "2026-weaponized-episode-109",
+        "name": "WEAPONIZED Episode #109 — Bob Lazar in Austin, Syria UAP Debate, and Area 51 Access",
+        "seriesId": "weaponized-podcast",
+        "date": "2026-02-11",
+        "sharedEntityIds": [
+          "george-knapp",
+          "jeremy-corbell"
+        ],
+        "sharedEntityCount": 2,
+        "score": 25
+      },
+      {
+        "id": "2026-weaponized-episode-108",
+        "name": "WEAPONIZED Episode #108 — Syria UAP Video — Apparent Instantaneous Acceleration",
+        "seriesId": "weaponized-podcast",
+        "date": "2026-02-03",
+        "sharedEntityIds": [
+          "george-knapp",
+          "jeremy-corbell"
+        ],
+        "sharedEntityCount": 2,
+        "score": 25
+      }
+    ],
+    "2023-weaponized-episode-12": [
+      {
+        "id": "2023-weaponized-episode-5",
+        "name": "WEAPONIZED Episode #5 — Colm Kelleher — AAWSAP and Scientific Anomaly Research",
+        "seriesId": "weaponized-podcast",
+        "date": "2023-02-20",
+        "sharedEntityIds": [
+          "colm-kelleher",
+          "george-knapp",
+          "jeremy-corbell",
+          "skinwalker-ranch"
+        ],
+        "sharedEntityCount": 4,
+        "score": 45
+      },
+      {
+        "id": "2025-weaponized-episode-100",
+        "name": "WEAPONIZED Episode #100 — Creatures From Another World? The UFO–Cryptid Connection",
+        "seriesId": "weaponized-podcast",
+        "date": "2025-12-02",
+        "sharedEntityIds": [
+          "george-knapp",
+          "jeremy-corbell",
+          "skinwalker-ranch"
+        ],
+        "sharedEntityCount": 3,
+        "score": 35
+      },
+      {
+        "id": "2024-weaponized-episode-52",
+        "name": "WEAPONIZED Episode #52 — Season Finale and AARO Historical Report Review",
+        "seriesId": "weaponized-podcast",
+        "date": "2024-03-13",
+        "sharedEntityIds": [
+          "colm-kelleher",
+          "george-knapp",
+          "jeremy-corbell"
+        ],
+        "sharedEntityCount": 3,
+        "score": 35
+      },
+      {
+        "id": "2023-weaponized-episode-45",
+        "name": "WEAPONIZED Episode #45 — John Alexander on Crash Retrievals, NIDS, and the Sol Conference",
+        "seriesId": "weaponized-podcast",
+        "date": "2023-12-18",
+        "sharedEntityIds": [
+          "george-knapp",
+          "jeremy-corbell",
+          "skinwalker-ranch"
+        ],
+        "sharedEntityCount": 3,
+        "score": 35
+      },
+      {
+        "id": "2023-weaponized-episode-17",
+        "name": "WEAPONIZED Episode #17 — Robbie Williams — Music, Unusual Experiences, and Skinwalker Ranch",
+        "seriesId": "weaponized-podcast",
+        "date": "2023-05-15",
+        "sharedEntityIds": [
+          "george-knapp",
+          "jeremy-corbell",
+          "skinwalker-ranch"
+        ],
+        "sharedEntityCount": 3,
+        "score": 35
+      },
+      {
+        "id": "2026-weaponized-episode-115",
+        "name": "WEAPONIZED Episode #115 — A New Chapter in the Bob Lazar Saga",
+        "seriesId": "weaponized-podcast",
+        "date": "2026-04-14",
+        "sharedEntityIds": [
+          "george-knapp",
+          "jeremy-corbell"
+        ],
+        "sharedEntityCount": 2,
+        "score": 25
+      }
+    ],
+    "2023-weaponized-episode-13": [
+      {
+        "id": "2023-weaponized-episode-16",
+        "name": "WEAPONIZED Episode #16 — Secret Soviet UFO Science — Researchers Behind the Iron Curtain",
+        "seriesId": "weaponized-podcast",
+        "date": "2023-05-08",
+        "sharedEntityIds": [
+          "george-knapp",
+          "jeremy-corbell",
+          "russian-military-ufo-investigation"
+        ],
+        "sharedEntityCount": 3,
+        "score": 35
+      },
+      {
+        "id": "2026-weaponized-episode-115",
+        "name": "WEAPONIZED Episode #115 — A New Chapter in the Bob Lazar Saga",
+        "seriesId": "weaponized-podcast",
+        "date": "2026-04-14",
+        "sharedEntityIds": [
+          "george-knapp",
+          "jeremy-corbell"
+        ],
+        "sharedEntityCount": 2,
+        "score": 25
+      },
+      {
+        "id": "2026-weaponized-episode-112",
+        "name": "WEAPONIZED Episode #112 — Eric Burlison — Classified Site Visit and Congressional UAP Oversight",
+        "seriesId": "weaponized-podcast",
+        "date": "2026-03-13",
+        "sharedEntityIds": [
+          "george-knapp",
+          "jeremy-corbell"
+        ],
+        "sharedEntityCount": 2,
+        "score": 25
+      },
+      {
+        "id": "2026-weaponized-episode-111",
+        "name": "WEAPONIZED Episode #111 — Lenval Logan — UAP Task Force Analysis and Better Classified Evidence",
+        "seriesId": "weaponized-podcast",
+        "date": "2026-03-03",
+        "sharedEntityIds": [
+          "george-knapp",
+          "jeremy-corbell"
+        ],
+        "sharedEntityCount": 2,
+        "score": 25
+      },
+      {
+        "id": "2026-weaponized-episode-110",
+        "name": "WEAPONIZED Episode #110 — Chris Sharp — Former AARO Deputy Director Describes Unexplained Cases",
+        "seriesId": "weaponized-podcast",
+        "date": "2026-02-24",
+        "sharedEntityIds": [
+          "george-knapp",
+          "jeremy-corbell"
+        ],
+        "sharedEntityCount": 2,
+        "score": 25
+      },
+      {
+        "id": "2026-weaponized-episode-109",
+        "name": "WEAPONIZED Episode #109 — Bob Lazar in Austin, Syria UAP Debate, and Area 51 Access",
+        "seriesId": "weaponized-podcast",
+        "date": "2026-02-11",
+        "sharedEntityIds": [
+          "george-knapp",
+          "jeremy-corbell"
+        ],
+        "sharedEntityCount": 2,
+        "score": 25
+      }
+    ],
+    "2023-weaponized-episode-14": [
+      {
+        "id": "2025-weaponized-episode-78",
+        "name": "WEAPONIZED Episode #78 — Sean Kirkpatrick, AARO, and UFO Politics",
+        "seriesId": "weaponized-podcast",
+        "date": "2025-06-09",
+        "sharedEntityIds": [
+          "george-knapp",
+          "jeremy-corbell",
+          "sean-kirkpatrick"
+        ],
+        "sharedEntityCount": 3,
+        "score": 35
+      },
+      {
+        "id": "2024-weaponized-episode-55",
+        "name": "WEAPONIZED Episode #55 — AARO, Congressional Oversight, and the Kirkpatrick Interview",
+        "seriesId": "weaponized-podcast",
+        "date": "2024-07-23",
+        "sharedEntityIds": [
+          "george-knapp",
+          "jeremy-corbell",
+          "sean-kirkpatrick"
+        ],
+        "sharedEntityCount": 3,
+        "score": 35
+      },
+      {
+        "id": "2024-weaponized-episode-53",
+        "name": "WEAPONIZED Episode #53 — Kona Blue, AARO, and Continuing UAP Incursions",
+        "seriesId": "weaponized-podcast",
+        "date": "2024-04-29",
+        "sharedEntityIds": [
+          "george-knapp",
+          "jeremy-corbell",
+          "sean-kirkpatrick"
+        ],
+        "sharedEntityCount": 3,
+        "score": 35
+      },
+      {
+        "id": "2024-weaponized-episode-49",
+        "name": "WEAPONIZED Episode #49 — Pushback, AARO, and the UFO Information War",
+        "seriesId": "weaponized-podcast",
+        "date": "2024-02-05",
+        "sharedEntityIds": [
+          "george-knapp",
+          "jeremy-corbell",
+          "sean-kirkpatrick"
+        ],
+        "sharedEntityCount": 3,
+        "score": 35
+      },
+      {
+        "id": "2026-weaponized-episode-115",
+        "name": "WEAPONIZED Episode #115 — A New Chapter in the Bob Lazar Saga",
+        "seriesId": "weaponized-podcast",
+        "date": "2026-04-14",
+        "sharedEntityIds": [
+          "george-knapp",
+          "jeremy-corbell"
+        ],
+        "sharedEntityCount": 2,
+        "score": 25
+      },
+      {
+        "id": "2026-weaponized-episode-112",
+        "name": "WEAPONIZED Episode #112 — Eric Burlison — Classified Site Visit and Congressional UAP Oversight",
+        "seriesId": "weaponized-podcast",
+        "date": "2026-03-13",
+        "sharedEntityIds": [
+          "george-knapp",
+          "jeremy-corbell"
+        ],
+        "sharedEntityCount": 2,
+        "score": 25
+      }
+    ],
+    "2023-weaponized-episode-15": [
+      {
+        "id": "2025-weaponized-episode-83",
+        "name": "WEAPONIZED Episode #83 — Storming the Silence — Dave Foley and the Fight for UAP Transparency",
+        "seriesId": "weaponized-podcast",
+        "date": "2025-07-22",
+        "sharedEntityIds": [
+          "dave-foley",
+          "george-knapp",
+          "jeremy-corbell"
+        ],
+        "sharedEntityCount": 3,
+        "score": 35
+      },
+      {
+        "id": "2023-weaponized-episode-4",
+        "name": "WEAPONIZED Episode #4 — Spy Balloons, Unknown Objects, and UAP Transparency",
+        "seriesId": "weaponized-podcast",
+        "date": "2023-02-13",
+        "sharedEntityIds": [
+          "dave-foley",
+          "george-knapp",
+          "jeremy-corbell"
+        ],
+        "sharedEntityCount": 3,
+        "score": 35
+      },
+      {
+        "id": "2026-weaponized-episode-115",
+        "name": "WEAPONIZED Episode #115 — A New Chapter in the Bob Lazar Saga",
+        "seriesId": "weaponized-podcast",
+        "date": "2026-04-14",
+        "sharedEntityIds": [
+          "george-knapp",
+          "jeremy-corbell"
+        ],
+        "sharedEntityCount": 2,
+        "score": 25
+      },
+      {
+        "id": "2026-weaponized-episode-112",
+        "name": "WEAPONIZED Episode #112 — Eric Burlison — Classified Site Visit and Congressional UAP Oversight",
+        "seriesId": "weaponized-podcast",
+        "date": "2026-03-13",
+        "sharedEntityIds": [
+          "george-knapp",
+          "jeremy-corbell"
+        ],
+        "sharedEntityCount": 2,
+        "score": 25
+      },
+      {
+        "id": "2026-weaponized-episode-111",
+        "name": "WEAPONIZED Episode #111 — Lenval Logan — UAP Task Force Analysis and Better Classified Evidence",
+        "seriesId": "weaponized-podcast",
+        "date": "2026-03-03",
+        "sharedEntityIds": [
+          "george-knapp",
+          "jeremy-corbell"
+        ],
+        "sharedEntityCount": 2,
+        "score": 25
+      },
+      {
+        "id": "2026-weaponized-episode-110",
+        "name": "WEAPONIZED Episode #110 — Chris Sharp — Former AARO Deputy Director Describes Unexplained Cases",
+        "seriesId": "weaponized-podcast",
+        "date": "2026-02-24",
+        "sharedEntityIds": [
+          "george-knapp",
+          "jeremy-corbell"
+        ],
+        "sharedEntityCount": 2,
+        "score": 25
+      }
+    ],
+    "2023-weaponized-episode-16": [
+      {
+        "id": "2023-weaponized-episode-13",
+        "name": "WEAPONIZED Episode #13 — The Russian UFO Files — Military and Scientific Investigations",
+        "seriesId": "weaponized-podcast",
+        "date": "2023-04-17",
+        "sharedEntityIds": [
+          "george-knapp",
+          "jeremy-corbell",
+          "russian-military-ufo-investigation"
+        ],
+        "sharedEntityCount": 3,
+        "score": 35
+      },
+      {
+        "id": "2026-weaponized-episode-115",
+        "name": "WEAPONIZED Episode #115 — A New Chapter in the Bob Lazar Saga",
+        "seriesId": "weaponized-podcast",
+        "date": "2026-04-14",
+        "sharedEntityIds": [
+          "george-knapp",
+          "jeremy-corbell"
+        ],
+        "sharedEntityCount": 2,
+        "score": 25
+      },
+      {
+        "id": "2026-weaponized-episode-112",
+        "name": "WEAPONIZED Episode #112 — Eric Burlison — Classified Site Visit and Congressional UAP Oversight",
+        "seriesId": "weaponized-podcast",
+        "date": "2026-03-13",
+        "sharedEntityIds": [
+          "george-knapp",
+          "jeremy-corbell"
+        ],
+        "sharedEntityCount": 2,
+        "score": 25
+      },
+      {
+        "id": "2026-weaponized-episode-111",
+        "name": "WEAPONIZED Episode #111 — Lenval Logan — UAP Task Force Analysis and Better Classified Evidence",
+        "seriesId": "weaponized-podcast",
+        "date": "2026-03-03",
+        "sharedEntityIds": [
+          "george-knapp",
+          "jeremy-corbell"
+        ],
+        "sharedEntityCount": 2,
+        "score": 25
+      },
+      {
+        "id": "2026-weaponized-episode-110",
+        "name": "WEAPONIZED Episode #110 — Chris Sharp — Former AARO Deputy Director Describes Unexplained Cases",
+        "seriesId": "weaponized-podcast",
+        "date": "2026-02-24",
+        "sharedEntityIds": [
+          "george-knapp",
+          "jeremy-corbell"
+        ],
+        "sharedEntityCount": 2,
+        "score": 25
+      },
+      {
+        "id": "2026-weaponized-episode-109",
+        "name": "WEAPONIZED Episode #109 — Bob Lazar in Austin, Syria UAP Debate, and Area 51 Access",
+        "seriesId": "weaponized-podcast",
+        "date": "2026-02-11",
+        "sharedEntityIds": [
+          "george-knapp",
+          "jeremy-corbell"
+        ],
+        "sharedEntityCount": 2,
+        "score": 25
+      }
+    ],
+    "2023-weaponized-episode-17": [
+      {
+        "id": "2025-weaponized-episode-100",
+        "name": "WEAPONIZED Episode #100 — Creatures From Another World? The UFO–Cryptid Connection",
+        "seriesId": "weaponized-podcast",
+        "date": "2025-12-02",
+        "sharedEntityIds": [
+          "george-knapp",
+          "jeremy-corbell",
+          "skinwalker-ranch"
+        ],
+        "sharedEntityCount": 3,
+        "score": 35
+      },
+      {
+        "id": "2023-weaponized-episode-45",
+        "name": "WEAPONIZED Episode #45 — John Alexander on Crash Retrievals, NIDS, and the Sol Conference",
+        "seriesId": "weaponized-podcast",
+        "date": "2023-12-18",
+        "sharedEntityIds": [
+          "george-knapp",
+          "jeremy-corbell",
+          "skinwalker-ranch"
+        ],
+        "sharedEntityCount": 3,
+        "score": 35
+      },
+      {
+        "id": "2023-weaponized-episode-12",
+        "name": "WEAPONIZED Episode #12 — Colm Kelleher Part Two — AAWSAP, the Hitchhiker Effect, and Crash Retrievals",
+        "seriesId": "weaponized-podcast",
+        "date": "2023-04-10",
+        "sharedEntityIds": [
+          "george-knapp",
+          "jeremy-corbell",
+          "skinwalker-ranch"
+        ],
+        "sharedEntityCount": 3,
+        "score": 35
+      },
+      {
+        "id": "2023-weaponized-episode-5",
+        "name": "WEAPONIZED Episode #5 — Colm Kelleher — AAWSAP and Scientific Anomaly Research",
+        "seriesId": "weaponized-podcast",
+        "date": "2023-02-20",
+        "sharedEntityIds": [
+          "george-knapp",
+          "jeremy-corbell",
+          "skinwalker-ranch"
+        ],
+        "sharedEntityCount": 3,
+        "score": 35
+      },
+      {
+        "id": "2026-weaponized-episode-115",
+        "name": "WEAPONIZED Episode #115 — A New Chapter in the Bob Lazar Saga",
+        "seriesId": "weaponized-podcast",
+        "date": "2026-04-14",
+        "sharedEntityIds": [
+          "george-knapp",
+          "jeremy-corbell"
+        ],
+        "sharedEntityCount": 2,
+        "score": 25
+      },
+      {
+        "id": "2026-weaponized-episode-112",
+        "name": "WEAPONIZED Episode #112 — Eric Burlison — Classified Site Visit and Congressional UAP Oversight",
+        "seriesId": "weaponized-podcast",
+        "date": "2026-03-13",
+        "sharedEntityIds": [
+          "george-knapp",
+          "jeremy-corbell"
+        ],
+        "sharedEntityCount": 2,
+        "score": 25
+      }
+    ],
+    "2023-weaponized-episode-18": [
+      {
+        "id": "2023-weaponized-episode-19",
+        "name": "WEAPONIZED Episode #19 — The Mojave Triangle Investigation Continues — New Marine Testimony",
+        "seriesId": "weaponized-podcast",
+        "date": "2023-05-29",
+        "sharedEntityIds": [
+          "george-knapp",
+          "jeremy-corbell",
+          "twentynine-palms-triangle-incident"
+        ],
+        "sharedEntityCount": 3,
+        "score": 35
+      },
+      {
+        "id": "2026-weaponized-episode-115",
+        "name": "WEAPONIZED Episode #115 — A New Chapter in the Bob Lazar Saga",
+        "seriesId": "weaponized-podcast",
+        "date": "2026-04-14",
+        "sharedEntityIds": [
+          "george-knapp",
+          "jeremy-corbell"
+        ],
+        "sharedEntityCount": 2,
+        "score": 25
+      },
+      {
+        "id": "2026-weaponized-episode-112",
+        "name": "WEAPONIZED Episode #112 — Eric Burlison — Classified Site Visit and Congressional UAP Oversight",
+        "seriesId": "weaponized-podcast",
+        "date": "2026-03-13",
+        "sharedEntityIds": [
+          "george-knapp",
+          "jeremy-corbell"
+        ],
+        "sharedEntityCount": 2,
+        "score": 25
+      },
+      {
+        "id": "2026-weaponized-episode-111",
+        "name": "WEAPONIZED Episode #111 — Lenval Logan — UAP Task Force Analysis and Better Classified Evidence",
+        "seriesId": "weaponized-podcast",
+        "date": "2026-03-03",
+        "sharedEntityIds": [
+          "george-knapp",
+          "jeremy-corbell"
+        ],
+        "sharedEntityCount": 2,
+        "score": 25
+      },
+      {
+        "id": "2026-weaponized-episode-110",
+        "name": "WEAPONIZED Episode #110 — Chris Sharp — Former AARO Deputy Director Describes Unexplained Cases",
+        "seriesId": "weaponized-podcast",
+        "date": "2026-02-24",
+        "sharedEntityIds": [
+          "george-knapp",
+          "jeremy-corbell"
+        ],
+        "sharedEntityCount": 2,
+        "score": 25
+      },
+      {
+        "id": "2026-weaponized-episode-109",
+        "name": "WEAPONIZED Episode #109 — Bob Lazar in Austin, Syria UAP Debate, and Area 51 Access",
+        "seriesId": "weaponized-podcast",
+        "date": "2026-02-11",
+        "sharedEntityIds": [
+          "george-knapp",
+          "jeremy-corbell"
+        ],
+        "sharedEntityCount": 2,
+        "score": 25
+      }
+    ],
+    "2023-weaponized-episode-19": [
+      {
+        "id": "2023-weaponized-episode-18",
+        "name": "WEAPONIZED Episode #18 — The Mojave Triangle UAP — Marine Witnesses at Twentynine Palms",
+        "seriesId": "weaponized-podcast",
+        "date": "2023-05-22",
+        "sharedEntityIds": [
+          "george-knapp",
+          "jeremy-corbell",
+          "twentynine-palms-triangle-incident"
+        ],
+        "sharedEntityCount": 3,
+        "score": 35
+      },
+      {
+        "id": "2026-weaponized-episode-115",
+        "name": "WEAPONIZED Episode #115 — A New Chapter in the Bob Lazar Saga",
+        "seriesId": "weaponized-podcast",
+        "date": "2026-04-14",
+        "sharedEntityIds": [
+          "george-knapp",
+          "jeremy-corbell"
+        ],
+        "sharedEntityCount": 2,
+        "score": 25
+      },
+      {
+        "id": "2026-weaponized-episode-112",
+        "name": "WEAPONIZED Episode #112 — Eric Burlison — Classified Site Visit and Congressional UAP Oversight",
+        "seriesId": "weaponized-podcast",
+        "date": "2026-03-13",
+        "sharedEntityIds": [
+          "george-knapp",
+          "jeremy-corbell"
+        ],
+        "sharedEntityCount": 2,
+        "score": 25
+      },
+      {
+        "id": "2026-weaponized-episode-111",
+        "name": "WEAPONIZED Episode #111 — Lenval Logan — UAP Task Force Analysis and Better Classified Evidence",
+        "seriesId": "weaponized-podcast",
+        "date": "2026-03-03",
+        "sharedEntityIds": [
+          "george-knapp",
+          "jeremy-corbell"
+        ],
+        "sharedEntityCount": 2,
+        "score": 25
+      },
+      {
+        "id": "2026-weaponized-episode-110",
+        "name": "WEAPONIZED Episode #110 — Chris Sharp — Former AARO Deputy Director Describes Unexplained Cases",
+        "seriesId": "weaponized-podcast",
+        "date": "2026-02-24",
+        "sharedEntityIds": [
+          "george-knapp",
+          "jeremy-corbell"
+        ],
+        "sharedEntityCount": 2,
+        "score": 25
+      },
+      {
+        "id": "2026-weaponized-episode-109",
+        "name": "WEAPONIZED Episode #109 — Bob Lazar in Austin, Syria UAP Debate, and Area 51 Access",
+        "seriesId": "weaponized-podcast",
+        "date": "2026-02-11",
+        "sharedEntityIds": [
+          "george-knapp",
+          "jeremy-corbell"
+        ],
+        "sharedEntityCount": 2,
+        "score": 25
+      }
+    ],
     "2023-weaponized-episode-2": [
+      {
+        "id": "2026-weaponized-episode-115",
+        "name": "WEAPONIZED Episode #115 — A New Chapter in the Bob Lazar Saga",
+        "seriesId": "weaponized-podcast",
+        "date": "2026-04-14",
+        "sharedEntityIds": [
+          "george-knapp",
+          "jeremy-corbell"
+        ],
+        "sharedEntityCount": 2,
+        "score": 25
+      },
+      {
+        "id": "2026-weaponized-episode-112",
+        "name": "WEAPONIZED Episode #112 — Eric Burlison — Classified Site Visit and Congressional UAP Oversight",
+        "seriesId": "weaponized-podcast",
+        "date": "2026-03-13",
+        "sharedEntityIds": [
+          "george-knapp",
+          "jeremy-corbell"
+        ],
+        "sharedEntityCount": 2,
+        "score": 25
+      },
+      {
+        "id": "2026-weaponized-episode-111",
+        "name": "WEAPONIZED Episode #111 — Lenval Logan — UAP Task Force Analysis and Better Classified Evidence",
+        "seriesId": "weaponized-podcast",
+        "date": "2026-03-03",
+        "sharedEntityIds": [
+          "george-knapp",
+          "jeremy-corbell"
+        ],
+        "sharedEntityCount": 2,
+        "score": 25
+      },
+      {
+        "id": "2026-weaponized-episode-110",
+        "name": "WEAPONIZED Episode #110 — Chris Sharp — Former AARO Deputy Director Describes Unexplained Cases",
+        "seriesId": "weaponized-podcast",
+        "date": "2026-02-24",
+        "sharedEntityIds": [
+          "george-knapp",
+          "jeremy-corbell"
+        ],
+        "sharedEntityCount": 2,
+        "score": 25
+      },
+      {
+        "id": "2026-weaponized-episode-109",
+        "name": "WEAPONIZED Episode #109 — Bob Lazar in Austin, Syria UAP Debate, and Area 51 Access",
+        "seriesId": "weaponized-podcast",
+        "date": "2026-02-11",
+        "sharedEntityIds": [
+          "george-knapp",
+          "jeremy-corbell"
+        ],
+        "sharedEntityCount": 2,
+        "score": 25
+      },
+      {
+        "id": "2026-weaponized-episode-108",
+        "name": "WEAPONIZED Episode #108 — Syria UAP Video — Apparent Instantaneous Acceleration",
+        "seriesId": "weaponized-podcast",
+        "date": "2026-02-03",
+        "sharedEntityIds": [
+          "george-knapp",
+          "jeremy-corbell"
+        ],
+        "sharedEntityCount": 2,
+        "score": 25
+      }
+    ],
+    "2023-weaponized-episode-20": [
       {
         "id": "2026-weaponized-episode-115",
         "name": "WEAPONIZED Episode #115 — A New Chapter in the Bob Lazar Saga",
@@ -17167,6 +18789,20 @@
     ],
     "2023-weaponized-episode-5": [
       {
+        "id": "2023-weaponized-episode-12",
+        "name": "WEAPONIZED Episode #12 — Colm Kelleher Part Two — AAWSAP, the Hitchhiker Effect, and Crash Retrievals",
+        "seriesId": "weaponized-podcast",
+        "date": "2023-04-10",
+        "sharedEntityIds": [
+          "colm-kelleher",
+          "george-knapp",
+          "jeremy-corbell",
+          "skinwalker-ranch"
+        ],
+        "sharedEntityCount": 4,
+        "score": 45
+      },
+      {
         "id": "2025-weaponized-episode-102",
         "name": "WEAPONIZED Episode #102 — Jacques Vallée — The Bizarre Nature of UFOs",
         "seriesId": "weaponized-podcast",
@@ -17223,19 +18859,6 @@
         "name": "WEAPONIZED Episode #97 — James Lacatski on Disclosure, Hitchhikers, and the Tic Tac — Part 2",
         "seriesId": "weaponized-podcast",
         "date": "2025-11-11",
-        "sharedEntityIds": [
-          "aawsap",
-          "george-knapp",
-          "jeremy-corbell"
-        ],
-        "sharedEntityCount": 3,
-        "score": 35
-      },
-      {
-        "id": "2025-weaponized-episode-96",
-        "name": "WEAPONIZED Episode #96 — James Lacatski on AAWSAP, Kona Blue, and a Recovered Craft — Part 1",
-        "seriesId": "weaponized-podcast",
-        "date": "2025-11-05",
         "sharedEntityIds": [
           "aawsap",
           "george-knapp",
@@ -19238,10 +20861,10 @@
         "score": 35
       },
       {
-        "id": "2023-weaponized-episode-5",
-        "name": "WEAPONIZED Episode #5 — Colm Kelleher — AAWSAP and Scientific Anomaly Research",
+        "id": "2023-weaponized-episode-17",
+        "name": "WEAPONIZED Episode #17 — Robbie Williams — Music, Unusual Experiences, and Skinwalker Ranch",
         "seriesId": "weaponized-podcast",
-        "date": "2023-02-20",
+        "date": "2023-05-15",
         "sharedEntityIds": [
           "george-knapp",
           "jeremy-corbell",
@@ -19251,16 +20874,17 @@
         "score": 35
       },
       {
-        "id": "2026-weaponized-episode-115",
-        "name": "WEAPONIZED Episode #115 — A New Chapter in the Bob Lazar Saga",
+        "id": "2023-weaponized-episode-12",
+        "name": "WEAPONIZED Episode #12 — Colm Kelleher Part Two — AAWSAP, the Hitchhiker Effect, and Crash Retrievals",
         "seriesId": "weaponized-podcast",
-        "date": "2026-04-14",
+        "date": "2023-04-10",
         "sharedEntityIds": [
           "george-knapp",
-          "jeremy-corbell"
+          "jeremy-corbell",
+          "skinwalker-ranch"
         ],
-        "sharedEntityCount": 2,
-        "score": 25
+        "sharedEntityCount": 3,
+        "score": 35
       }
     ],
     "2025-weaponized-episode-101": [

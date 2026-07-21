@@ -1,0 +1,85 @@
+{
+  "id": "2023-weaponized-episode-14",
+  "type": "podcast_episode",
+  "name": "WEAPONIZED Episode #14 — AARO Testifies to the Senate — Sean Kirkpatrick and the Middle East UAP",
+  "summary": "Corbell and Knapp review Sean Kirkpatrick’s public testimony before a Senate subcommittee chaired by Kirsten Gillibrand, including AARO’s evidence claims and newly presented Middle East UAP footage.",
+  "date": "2023-04-24",
+  "dateDisplay": "April 24, 2023",
+  "seriesId": "weaponized-podcast",
+  "episodeNumber": 14,
+  "episodeTitle": "AARO Testifies to the Senate — Sean Kirkpatrick and the Middle East UAP",
+  "status": "Published",
+  "mediaType": "Podcast episode",
+  "mediaPlatform": "WEAPONIZED",
+  "mediaHost": "Jeremy Corbell and George Knapp",
+  "mediaGuests": [],
+  "mediaSubjects": [
+    "sean-kirkpatrick",
+    "kirsten-gillibrand"
+  ],
+  "principalClaims": [
+    "claim-weaponized-14-1",
+    "claim-weaponized-14-2",
+    "claim-weaponized-14-3",
+    "claim-weaponized-14-4"
+  ],
+  "researchNotes": [],
+  "relationships": [
+    {
+      "type": "episode_of",
+      "target": "weaponized-podcast"
+    },
+    {
+      "type": "features_person",
+      "target": "jeremy-corbell",
+      "role": "host",
+      "context": "WEAPONIZED co-host"
+    },
+    {
+      "type": "features_person",
+      "target": "george-knapp",
+      "role": "host",
+      "context": "WEAPONIZED co-host"
+    },
+    {
+      "type": "features_person",
+      "target": "sean-kirkpatrick",
+      "role": "subject",
+      "context": "Principal subject of the episode"
+    },
+    {
+      "type": "features_person",
+      "target": "kirsten-gillibrand",
+      "role": "subject",
+      "context": "Principal subject of the episode"
+    }
+  ],
+  "mediaLinks": [
+    {
+      "label": "Open the official Episode #14 page",
+      "url": "https://www.weaponizedpodcast.com/episodes-1/episode-number-14",
+      "platform": "WEAPONIZED"
+    },
+    {
+      "label": "Listen to WEAPONIZED",
+      "url": "https://link.chtbl.com/Weaponized",
+      "platform": "Official audio feed"
+    }
+  ],
+  "eventCategory": "Podcast publication",
+  "officialLinks": [],
+  "referenceSources": [
+    {
+      "label": "Official WEAPONIZED Episode #14 page",
+      "url": "https://www.weaponizedpodcast.com/episodes-1/episode-number-14",
+      "sourceType": "official_episode_page",
+      "role": "source"
+    },
+    {
+      "label": "Listen to WEAPONIZED",
+      "url": "https://link.chtbl.com/Weaponized",
+      "sourceType": "official_audio_feed",
+      "role": "source"
+    }
+  ]
+}

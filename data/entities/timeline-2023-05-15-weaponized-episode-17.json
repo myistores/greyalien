@@ -1,0 +1,24 @@
+{
+  "id": "timeline-2023-05-15-weaponized-episode-17",
+  "type": "timeline_event",
+  "name": "WEAPONIZED Episode #17 published",
+  "summary": "Robbie Williams discusses his career, personal challenges, media scrutiny, unusual experiences, a visit to Skinwalker Ranch, and future creative projects.",
+  "date": "2023-05-15",
+  "dateDisplay": "May 15, 2023",
+  "eventCategory": "Podcast publication",
+  "relationships": [
+    {
+      "type": "event_for",
+      "target": "2023-weaponized-episode-17"
+    }
+  ],
+  "officialLinks": [],
+  "referenceSources": [
+    {
+      "label": "Official WEAPONIZED Episode #17 page",
+      "url": "https://www.weaponizedpodcast.com/episodes-1/episode-number-17",
+      "sourceType": "official_episode_page",
+      "role": "source"
+    }
+  ]
+}

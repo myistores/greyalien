@@ -1,0 +1,21 @@
+{
+  "id": "claim-weaponized-14-3",
+  "type": "claim",
+  "name": "Corbell and Knapp compare the presented object with the previously published Mosul Orb imagery.",
+  "summary": "Claim or framing presented in WEAPONIZED Episode #14.",
+  "relationships": [
+    {
+      "type": "featured_in_media",
+      "target": "2023-weaponized-episode-14"
+    }
+  ],
+  "officialLinks": [],
+  "referenceSources": [
+    {
+      "label": "Official WEAPONIZED Episode #14 page",
+      "url": "https://www.weaponizedpodcast.com/episodes-1/episode-number-14",
+      "sourceType": "official_episode_page",
+      "role": "source"
+    }
+  ]
+}

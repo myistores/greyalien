@@ -1,0 +1,86 @@
+{
+  "id": "2023-weaponized-episode-20",
+  "type": "podcast_episode",
+  "name": "WEAPONIZED Episode #20 — Ben Schneider and Lord Huron — Music, Myth, Ghosts, and Cosmic Questions",
+  "summary": "Ben Schneider of Lord Huron discusses the band’s exploration of death, time, folklore, ghosts, cosmology, and lost love, along with the musical influences and creative environment behind its work.",
+  "date": "2023-06-05",
+  "dateDisplay": "June 5, 2023",
+  "seriesId": "weaponized-podcast",
+  "episodeNumber": 20,
+  "episodeTitle": "Ben Schneider and Lord Huron — Music, Myth, Ghosts, and Cosmic Questions",
+  "status": "Published",
+  "mediaType": "Podcast episode",
+  "mediaPlatform": "WEAPONIZED",
+  "mediaHost": "Jeremy Corbell and George Knapp",
+  "mediaGuests": [
+    "ben-schneider"
+  ],
+  "mediaSubjects": [
+    "lord-huron"
+  ],
+  "principalClaims": [
+    "claim-weaponized-20-1",
+    "claim-weaponized-20-2",
+    "claim-weaponized-20-3",
+    "claim-weaponized-20-4"
+  ],
+  "researchNotes": [],
+  "relationships": [
+    {
+      "type": "episode_of",
+      "target": "weaponized-podcast"
+    },
+    {
+      "type": "features_person",
+      "target": "jeremy-corbell",
+      "role": "host",
+      "context": "WEAPONIZED co-host"
+    },
+    {
+      "type": "features_person",
+      "target": "george-knapp",
+      "role": "host",
+      "context": "WEAPONIZED co-host"
+    },
+    {
+      "type": "features_person",
+      "target": "ben-schneider",
+      "role": "guest",
+      "context": "Featured guest or principal interview subject"
+    },
+    {
+      "type": "references_organization",
+      "target": "lord-huron",
+      "role": "subject",
+      "context": "Principal subject of the episode"
+    }
+  ],
+  "mediaLinks": [
+    {
+      "label": "Open the official Episode #20 page",
+      "url": "https://www.weaponizedpodcast.com/episodes-1/episode-number-20",
+      "platform": "WEAPONIZED"
+    },
+    {
+      "label": "Listen to WEAPONIZED",
+      "url": "https://link.chtbl.com/Weaponized",
+      "platform": "Official audio feed"
+    }
+  ],
+  "eventCategory": "Podcast publication",
+  "officialLinks": [],
+  "referenceSources": [
+    {
+      "label": "Official WEAPONIZED Episode #20 page",
+      "url": "https://www.weaponizedpodcast.com/episodes-1/episode-number-20",
+      "sourceType": "official_episode_page",
+      "role": "source"
+    },
+    {
+      "label": "Listen to WEAPONIZED",
+      "url": "https://link.chtbl.com/Weaponized",
+      "sourceType": "official_audio_feed",
+      "role": "source"
+    }
+  ]
+}

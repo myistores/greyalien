@@ -1,0 +1,14 @@
+{
+  "id": "john-long",
+  "type": "person",
+  "name": "John Long",
+  "summary": "Co-founder of the entertainment marketing and trailer-production company Buddha Jones.",
+  "relationships": [
+    {
+      "type": "affiliated_with",
+      "target": "buddha-jones"
+    }
+  ],
+  "officialLinks": [],
+  "referenceSources": []
+}

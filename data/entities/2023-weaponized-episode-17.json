@@ -1,0 +1,86 @@
+{
+  "id": "2023-weaponized-episode-17",
+  "type": "podcast_episode",
+  "name": "WEAPONIZED Episode #17 — Robbie Williams — Music, Unusual Experiences, and Skinwalker Ranch",
+  "summary": "Robbie Williams discusses his career, personal challenges, media scrutiny, unusual experiences, a visit to Skinwalker Ranch, and future creative projects.",
+  "date": "2023-05-15",
+  "dateDisplay": "May 15, 2023",
+  "seriesId": "weaponized-podcast",
+  "episodeNumber": 17,
+  "episodeTitle": "Robbie Williams — Music, Unusual Experiences, and Skinwalker Ranch",
+  "status": "Published",
+  "mediaType": "Podcast episode",
+  "mediaPlatform": "WEAPONIZED",
+  "mediaHost": "Jeremy Corbell and George Knapp",
+  "mediaGuests": [
+    "robbie-williams"
+  ],
+  "mediaSubjects": [
+    "skinwalker-ranch"
+  ],
+  "principalClaims": [
+    "claim-weaponized-17-1",
+    "claim-weaponized-17-2",
+    "claim-weaponized-17-3",
+    "claim-weaponized-17-4"
+  ],
+  "researchNotes": [],
+  "relationships": [
+    {
+      "type": "episode_of",
+      "target": "weaponized-podcast"
+    },
+    {
+      "type": "features_person",
+      "target": "jeremy-corbell",
+      "role": "host",
+      "context": "WEAPONIZED co-host"
+    },
+    {
+      "type": "features_person",
+      "target": "george-knapp",
+      "role": "host",
+      "context": "WEAPONIZED co-host"
+    },
+    {
+      "type": "features_person",
+      "target": "robbie-williams",
+      "role": "guest",
+      "context": "Featured guest or principal interview subject"
+    },
+    {
+      "type": "references_case",
+      "target": "skinwalker-ranch",
+      "role": "subject",
+      "context": "Principal subject of the episode"
+    }
+  ],
+  "mediaLinks": [
+    {
+      "label": "Open the official Episode #17 page",
+      "url": "https://www.weaponizedpodcast.com/episodes-1/episode-number-17",
+      "platform": "WEAPONIZED"
+    },
+    {
+      "label": "Listen to WEAPONIZED",
+      "url": "https://link.chtbl.com/Weaponized",
+      "platform": "Official audio feed"
+    }
+  ],
+  "eventCategory": "Podcast publication",
+  "officialLinks": [],
+  "referenceSources": [
+    {
+      "label": "Official WEAPONIZED Episode #17 page",
+      "url": "https://www.weaponizedpodcast.com/episodes-1/episode-number-17",
+      "sourceType": "official_episode_page",
+      "role": "source"
+    },
+    {
+      "label": "Listen to WEAPONIZED",
+      "url": "https://link.chtbl.com/Weaponized",
+      "sourceType": "official_audio_feed",
+      "role": "source"
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "id": "claim-weaponized-16-3",
+  "type": "claim",
+  "name": "Much of the Soviet-era UFO research became accessible only after the USSR collapsed.",
+  "summary": "Claim or framing presented in WEAPONIZED Episode #16.",
+  "relationships": [
+    {
+      "type": "featured_in_media",
+      "target": "2023-weaponized-episode-16"
+    }
+  ],
+  "officialLinks": [],
+  "referenceSources": [
+    {
+      "label": "Official WEAPONIZED Episode #16 page",
+      "url": "https://www.weaponizedpodcast.com/episodes-1/episode-number-16",
+      "sourceType": "official_episode_page",
+      "role": "source"
+    }
+  ]
+}

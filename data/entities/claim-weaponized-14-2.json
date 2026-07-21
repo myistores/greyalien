@@ -1,0 +1,21 @@
+{
+  "id": "claim-weaponized-14-2",
+  "type": "claim",
+  "name": "AARO presented video of an unresolved object recorded by a Department of Defense sensor platform in the Middle East.",
+  "summary": "Claim or framing presented in WEAPONIZED Episode #14.",
+  "relationships": [
+    {
+      "type": "featured_in_media",
+      "target": "2023-weaponized-episode-14"
+    }
+  ],
+  "officialLinks": [],
+  "referenceSources": [
+    {
+      "label": "Official WEAPONIZED Episode #14 page",
+      "url": "https://www.weaponizedpodcast.com/episodes-1/episode-number-14",
+      "sourceType": "official_episode_page",
+      "role": "source"
+    }
+  ]
+}

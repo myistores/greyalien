@@ -1,0 +1,24 @@
+{
+  "id": "timeline-2023-04-03-weaponized-episode-11",
+  "type": "timeline_event",
+  "name": "WEAPONIZED Episode #11 published",
+  "summary": "John Long, co-founder of Buddha Jones, joins Corbell and Knapp to discuss changes reshaping Hollywood, the future of theatrical and streaming entertainment, UFO-themed productions including NOPE, and the creative craft of movie-trailer marketing.",
+  "date": "2023-04-03",
+  "dateDisplay": "April 3, 2023",
+  "eventCategory": "Podcast publication",
+  "relationships": [
+    {
+      "type": "event_for",
+      "target": "2023-weaponized-episode-11"
+    }
+  ],
+  "officialLinks": [],
+  "referenceSources": [
+    {
+      "label": "Official WEAPONIZED Episode #11 page",
+      "url": "https://www.weaponizedpodcast.com/episodes-1/episode-number-11",
+      "sourceType": "official_episode_page",
+      "role": "source"
+    }
+  ]
+}

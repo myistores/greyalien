@@ -1,0 +1,21 @@
+{
+  "id": "claim-weaponized-11-2",
+  "type": "claim",
+  "name": "Buddha Jones expanded from major-studio trailer production into television and streaming marketing campaigns.",
+  "summary": "Claim or framing presented in WEAPONIZED Episode #11.",
+  "relationships": [
+    {
+      "type": "featured_in_media",
+      "target": "2023-weaponized-episode-11"
+    }
+  ],
+  "officialLinks": [],
+  "referenceSources": [
+    {
+      "label": "Official WEAPONIZED Episode #11 page",
+      "url": "https://www.weaponizedpodcast.com/episodes-1/episode-number-11",
+      "sourceType": "official_episode_page",
+      "role": "source"
+    }
+  ]
+}

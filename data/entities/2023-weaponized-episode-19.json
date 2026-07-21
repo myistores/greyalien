@@ -1,0 +1,78 @@
+{
+  "id": "2023-weaponized-episode-19",
+  "type": "podcast_episode",
+  "name": "WEAPONIZED Episode #19 — The Mojave Triangle Investigation Continues — New Marine Testimony",
+  "summary": "Following the initial Twentynine Palms release, Corbell and Knapp provide additional Marine interviews, respond to flare explanations, and explain why they consider the Mojave Triangle incident an open investigation.",
+  "date": "2023-05-29",
+  "dateDisplay": "May 29, 2023",
+  "seriesId": "weaponized-podcast",
+  "episodeNumber": 19,
+  "episodeTitle": "The Mojave Triangle Investigation Continues — New Marine Testimony",
+  "status": "Published",
+  "mediaType": "Podcast episode",
+  "mediaPlatform": "WEAPONIZED",
+  "mediaHost": "Jeremy Corbell and George Knapp",
+  "mediaGuests": [],
+  "mediaSubjects": [
+    "twentynine-palms-triangle-incident"
+  ],
+  "principalClaims": [
+    "claim-weaponized-19-1",
+    "claim-weaponized-19-2",
+    "claim-weaponized-19-3",
+    "claim-weaponized-19-4"
+  ],
+  "researchNotes": [],
+  "relationships": [
+    {
+      "type": "episode_of",
+      "target": "weaponized-podcast"
+    },
+    {
+      "type": "features_person",
+      "target": "jeremy-corbell",
+      "role": "host",
+      "context": "WEAPONIZED co-host"
+    },
+    {
+      "type": "features_person",
+      "target": "george-knapp",
+      "role": "host",
+      "context": "WEAPONIZED co-host"
+    },
+    {
+      "type": "references_case",
+      "target": "twentynine-palms-triangle-incident",
+      "role": "subject",
+      "context": "Principal subject of the episode"
+    }
+  ],
+  "mediaLinks": [
+    {
+      "label": "Open the official Episode #19 page",
+      "url": "https://www.weaponizedpodcast.com/episodes-1/episode-number-19",
+      "platform": "WEAPONIZED"
+    },
+    {
+      "label": "Listen to WEAPONIZED",
+      "url": "https://link.chtbl.com/Weaponized",
+      "platform": "Official audio feed"
+    }
+  ],
+  "eventCategory": "Podcast publication",
+  "officialLinks": [],
+  "referenceSources": [
+    {
+      "label": "Official WEAPONIZED Episode #19 page",
+      "url": "https://www.weaponizedpodcast.com/episodes-1/episode-number-19",
+      "sourceType": "official_episode_page",
+      "role": "source"
+    },
+    {
+      "label": "Listen to WEAPONIZED",
+      "url": "https://link.chtbl.com/Weaponized",
+      "sourceType": "official_audio_feed",
+      "role": "source"
+    }
+  ]
+}
