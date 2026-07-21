@@ -1,7 +1,7 @@
-# GreyAlien V19.9 Deployment Report
+# GreyAlien V20 Deployment Report
 
 **Status:** Ready for deployment  
-**Generated:** 2026-07-21T19:13:17.616039+00:00
+**Generated:** 2026-07-21T21:41:41.035981+00:00
 
 - Entities: 1046
 - Resolved relationships: 2337
@@ -15,4 +15,4 @@
 
 ## Release summary
 
-Added production records for the seven previously missing WEAPONIZED episodes in #113–#120 while preserving the existing Episode #115 record, including executive summaries, key discussion topics, 35 source-grounded principal claims, canonical entity reuse, supporting people and organizations, seven timeline events, official episode and audio references, related-content integration, and updated relationship counts.
+Implemented true sequential numeric ordering for WEAPONIZED episode connections and removed the Related Timeline section from podcast episode pages. No other architecture, rendering, template, schema, navigation, UI, styling, routing, or content changes were made.
