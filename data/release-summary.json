@@ -1,7 +1,7 @@
 {
-  "version": "20",
-  "title": "WEAPONIZED Podcast Optimization \u2014 Phase 1",
+  "version": "20.1",
+  "title": "Related Podcast Series Optimization",
   "date": "2026-07-21",
-  "summary": "Implemented true sequential numeric ordering for WEAPONIZED episode connections and removed the Related Timeline section from podcast episode pages. No other architecture, rendering, template, schema, navigation, UI, styling, routing, or content changes were made.",
-  "phase": "Podcast optimization \u2014 Phase 1"
+  "summary": "Suppressed each podcast episode's own parent series from Related Podcast Series, retained only directly connected cross-series records, and hides the section when none qualify. The rule applies generically to all current and future podcast series.",
+  "phase": "Podcast optimization — Related Podcast Series"
 }

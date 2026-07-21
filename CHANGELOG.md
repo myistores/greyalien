@@ -376,3 +376,9 @@
 
 ## V19.5
 - Added WEAPONIZED Episodes #1–#10 as a content-only production ingestion.
+## V20.1 — Related Podcast Series Optimization
+- Suppressed a podcast episode’s own parent series from Related Podcast Series.
+- Other podcast series remain eligible only through direct cross-series relationships.
+- The section is omitted when no qualifying series remains.
+- The rule is generic for all current and future podcast series.
+
