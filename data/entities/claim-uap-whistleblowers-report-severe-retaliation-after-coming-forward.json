@@ -1,0 +1,21 @@
+{
+  "id": "claim-uap-whistleblowers-report-severe-retaliation-after-coming-forward",
+  "type": "claim",
+  "name": "UAP whistleblowers report severe retaliation after coming forward",
+  "summary": "The panelists describe surveillance, break-ins, legal threats, intimidation, unemployment, and financial hardship after disclosing UAP information.",
+  "relationships": [
+    {
+      "type": "featured_in_media",
+      "target": "2026-weaponized-episode-119"
+    }
+  ],
+  "officialLinks": [],
+  "referenceSources": [
+    {
+      "label": "Official WEAPONIZED Episode #119 page",
+      "url": "https://www.weaponizedpodcast.com/episodes-4/episode-119",
+      "sourceType": "official_episode_page",
+      "role": "source"
+    }
+  ]
+}

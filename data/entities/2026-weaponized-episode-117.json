@@ -1,0 +1,128 @@
+{
+  "id": "2026-weaponized-episode-117",
+  "type": "podcast_episode",
+  "name": "WEAPONIZED Episode #117 — Federal UFO Files, Public Expectations, and Sleeping Dog",
+  "summary": "Jeremy Corbell and George Knapp assess a major federal release of UFO files and videos, warn against unrealistic expectations of immediate full disclosure, explain the context of selected UAP footage, and discuss Michael Lazovsky’s documentary Sleeping Dog and the role of investigative journalism.",
+  "date": "2026-05-08",
+  "dateDisplay": "May 8, 2026",
+  "seriesId": "weaponized-podcast",
+  "episodeNumber": 117,
+  "episodeTitle": "Federal UFO Files, Public Expectations, and Sleeping Dog",
+  "status": "Published",
+  "mediaType": "Podcast episode",
+  "mediaPlatform": "WEAPONIZED",
+  "mediaHost": "Jeremy Corbell and George Knapp",
+  "mediaGuests": [
+    "michael-lazovsky"
+  ],
+  "mediaSubjects": [],
+  "principalClaims": [
+    "claim-federal-ufo-file-release-drew-massive-public-attention",
+    "claim-initial-file-release-did-not-constitute-full-disclosure",
+    "claim-burchett-warned-the-public-to-lower-expectations-for-the-first-release",
+    "claim-context-is-required-to-interpret-released-uap-videos",
+    "claim-sleeping-dog-emphasizes-journalisms-role-in-ufo-transparency"
+  ],
+  "researchNotes": [],
+  "relationships": [
+    {
+      "type": "episode_of",
+      "target": "weaponized-podcast"
+    },
+    {
+      "type": "features_person",
+      "target": "jeremy-corbell",
+      "role": "host",
+      "context": "WEAPONIZED co-host"
+    },
+    {
+      "type": "features_person",
+      "target": "george-knapp",
+      "role": "host",
+      "context": "WEAPONIZED co-host"
+    },
+    {
+      "type": "features_person",
+      "target": "michael-lazovsky",
+      "role": "guest",
+      "context": "Featured episode participant"
+    },
+    {
+      "type": "references_organization",
+      "target": "department-of-defense"
+    },
+    {
+      "type": "discussed_topic",
+      "target": "uap-data-release"
+    },
+    {
+      "type": "discussed_topic",
+      "target": "uap-transparency"
+    },
+    {
+      "type": "discussed_topic",
+      "target": "ufo-journalism"
+    },
+    {
+      "type": "discussed_topic",
+      "target": "sleeping-dog-documentary"
+    },
+    {
+      "type": "discussed_topic",
+      "target": "public-disclosure"
+    },
+    {
+      "type": "presented_claim",
+      "target": "claim-federal-ufo-file-release-drew-massive-public-attention",
+      "context": "Principal claim discussed in the episode"
+    },
+    {
+      "type": "presented_claim",
+      "target": "claim-initial-file-release-did-not-constitute-full-disclosure",
+      "context": "Principal claim discussed in the episode"
+    },
+    {
+      "type": "presented_claim",
+      "target": "claim-burchett-warned-the-public-to-lower-expectations-for-the-first-release",
+      "context": "Principal claim discussed in the episode"
+    },
+    {
+      "type": "presented_claim",
+      "target": "claim-context-is-required-to-interpret-released-uap-videos",
+      "context": "Principal claim discussed in the episode"
+    },
+    {
+      "type": "presented_claim",
+      "target": "claim-sleeping-dog-emphasizes-journalisms-role-in-ufo-transparency",
+      "context": "Principal claim discussed in the episode"
+    }
+  ],
+  "mediaLinks": [
+    {
+      "label": "Open the official Episode #117 page",
+      "url": "https://www.weaponizedpodcast.com/episodes-4/episode-117",
+      "platform": "WEAPONIZED"
+    },
+    {
+      "label": "Listen to WEAPONIZED",
+      "url": "https://link.chtbl.com/Weaponized",
+      "platform": "Official audio feed"
+    }
+  ],
+  "eventCategory": "Podcast publication",
+  "officialLinks": [],
+  "referenceSources": [
+    {
+      "label": "Official WEAPONIZED Episode #117 page",
+      "url": "https://www.weaponizedpodcast.com/episodes-4/episode-117",
+      "sourceType": "official_episode_page",
+      "role": "source"
+    },
+    {
+      "label": "Listen to WEAPONIZED",
+      "url": "https://link.chtbl.com/Weaponized",
+      "sourceType": "official_audio_feed",
+      "role": "source"
+    }
+  ]
+}

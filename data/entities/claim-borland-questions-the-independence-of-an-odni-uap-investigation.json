@@ -1,0 +1,21 @@
+{
+  "id": "claim-borland-questions-the-independence-of-an-odni-uap-investigation",
+  "type": "claim",
+  "name": "Borland questions the independence of an ODNI UAP investigation",
+  "summary": "Borland says an ODNI-created inquiry that solicited whistleblower testimony was compromised and did not provide expected protection.",
+  "relationships": [
+    {
+      "type": "featured_in_media",
+      "target": "2026-weaponized-episode-118"
+    }
+  ],
+  "officialLinks": [],
+  "referenceSources": [
+    {
+      "label": "Official WEAPONIZED Episode #118 page",
+      "url": "https://www.weaponizedpodcast.com/episodes-4/episode-118",
+      "sourceType": "official_episode_page",
+      "role": "source"
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "id": "claim-panel-proposes-a-support-plan-for-future-uap-witnesses",
+  "type": "claim",
+  "name": "The panel proposes a support plan for future UAP witnesses",
+  "summary": "The participants outline practical measures intended to protect and assist future whistleblowers and witnesses.",
+  "relationships": [
+    {
+      "type": "featured_in_media",
+      "target": "2026-weaponized-episode-119"
+    }
+  ],
+  "officialLinks": [],
+  "referenceSources": [
+    {
+      "label": "Official WEAPONIZED Episode #119 page",
+      "url": "https://www.weaponizedpodcast.com/episodes-4/episode-119",
+      "sourceType": "official_episode_page",
+      "role": "source"
+    }
+  ]
+}

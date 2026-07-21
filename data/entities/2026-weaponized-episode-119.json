@@ -1,0 +1,142 @@
+{
+  "id": "2026-weaponized-episode-119",
+  "type": "podcast_episode",
+  "name": "WEAPONIZED Episode #119 — The Price Paid by UAP Whistleblowers",
+  "summary": "Recorded at Contact in the Desert, Dylan Borland, Matthew Brown, and Alex Wiggins describe unemployment, surveillance, break-ins, intimidation, legal threats, and financial harm after coming forward, while proposing practical support and protection for future UAP witnesses.",
+  "date": "2026-06-04",
+  "dateDisplay": "June 4, 2026",
+  "seriesId": "weaponized-podcast",
+  "episodeNumber": 119,
+  "episodeTitle": "The Price Paid by UAP Whistleblowers",
+  "status": "Published",
+  "mediaType": "Podcast episode",
+  "mediaPlatform": "WEAPONIZED",
+  "mediaHost": "Jeremy Corbell and George Knapp",
+  "mediaGuests": [
+    "dylan-borland",
+    "matthew-brown",
+    "alex-wiggins"
+  ],
+  "mediaSubjects": [],
+  "principalClaims": [
+    "claim-uap-whistleblowers-report-severe-retaliation-after-coming-forward",
+    "claim-borland-says-he-faced-treason-threats-after-congressional-testimony",
+    "claim-brown-says-immaculate-constellation-disclosure-damaged-his-life",
+    "claim-wiggins-reports-intimidation-after-testifying-about-tic-tac-objects",
+    "claim-panel-proposes-a-support-plan-for-future-uap-witnesses"
+  ],
+  "researchNotes": [],
+  "relationships": [
+    {
+      "type": "episode_of",
+      "target": "weaponized-podcast"
+    },
+    {
+      "type": "features_person",
+      "target": "jeremy-corbell",
+      "role": "host",
+      "context": "WEAPONIZED co-host"
+    },
+    {
+      "type": "features_person",
+      "target": "george-knapp",
+      "role": "host",
+      "context": "WEAPONIZED co-host"
+    },
+    {
+      "type": "features_person",
+      "target": "dylan-borland",
+      "role": "guest",
+      "context": "Featured episode participant"
+    },
+    {
+      "type": "features_person",
+      "target": "matthew-brown",
+      "role": "guest",
+      "context": "Featured episode participant"
+    },
+    {
+      "type": "features_person",
+      "target": "alex-wiggins",
+      "role": "guest",
+      "context": "Featured episode participant"
+    },
+    {
+      "type": "references_organization",
+      "target": "united-states-congress"
+    },
+    {
+      "type": "discussed_topic",
+      "target": "contact-in-the-desert"
+    },
+    {
+      "type": "discussed_topic",
+      "target": "whistleblower-protection"
+    },
+    {
+      "type": "discussed_topic",
+      "target": "whistleblower-retaliation"
+    },
+    {
+      "type": "discussed_topic",
+      "target": "uap-transparency"
+    },
+    {
+      "type": "discussed_topic",
+      "target": "public-disclosure"
+    },
+    {
+      "type": "presented_claim",
+      "target": "claim-uap-whistleblowers-report-severe-retaliation-after-coming-forward",
+      "context": "Principal claim discussed in the episode"
+    },
+    {
+      "type": "presented_claim",
+      "target": "claim-borland-says-he-faced-treason-threats-after-congressional-testimony",
+      "context": "Principal claim discussed in the episode"
+    },
+    {
+      "type": "presented_claim",
+      "target": "claim-brown-says-immaculate-constellation-disclosure-damaged-his-life",
+      "context": "Principal claim discussed in the episode"
+    },
+    {
+      "type": "presented_claim",
+      "target": "claim-wiggins-reports-intimidation-after-testifying-about-tic-tac-objects",
+      "context": "Principal claim discussed in the episode"
+    },
+    {
+      "type": "presented_claim",
+      "target": "claim-panel-proposes-a-support-plan-for-future-uap-witnesses",
+      "context": "Principal claim discussed in the episode"
+    }
+  ],
+  "mediaLinks": [
+    {
+      "label": "Open the official Episode #119 page",
+      "url": "https://www.weaponizedpodcast.com/episodes-4/episode-119",
+      "platform": "WEAPONIZED"
+    },
+    {
+      "label": "Listen to WEAPONIZED",
+      "url": "https://link.chtbl.com/Weaponized",
+      "platform": "Official audio feed"
+    }
+  ],
+  "eventCategory": "Podcast publication",
+  "officialLinks": [],
+  "referenceSources": [
+    {
+      "label": "Official WEAPONIZED Episode #119 page",
+      "url": "https://www.weaponizedpodcast.com/episodes-4/episode-119",
+      "sourceType": "official_episode_page",
+      "role": "source"
+    },
+    {
+      "label": "Listen to WEAPONIZED",
+      "url": "https://link.chtbl.com/Weaponized",
+      "sourceType": "official_audio_feed",
+      "role": "source"
+    }
+  ]
+}

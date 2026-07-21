@@ -1,0 +1,24 @@
+{
+  "id": "timeline-2026-06-04-weaponized-episode-119",
+  "type": "timeline_event",
+  "name": "WEAPONIZED Episode #119 published",
+  "summary": "Recorded at Contact in the Desert, Dylan Borland, Matthew Brown, and Alex Wiggins describe unemployment, surveillance, break-ins, intimidation, legal threats, and financial harm after coming forward, while proposing practical support and protection for future UAP witnesses.",
+  "date": "2026-06-04",
+  "dateDisplay": "June 4, 2026",
+  "eventCategory": "Podcast publication",
+  "relationships": [
+    {
+      "type": "event_for",
+      "target": "2026-weaponized-episode-119"
+    }
+  ],
+  "officialLinks": [],
+  "referenceSources": [
+    {
+      "label": "Official WEAPONIZED Episode #119 page",
+      "url": "https://www.weaponizedpodcast.com/episodes-4/episode-119",
+      "sourceType": "official_episode_page",
+      "role": "source"
+    }
+  ]
+}

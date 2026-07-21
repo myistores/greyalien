@@ -3,6 +3,131 @@
   "generatedBy": "tools/build_podcasts.py",
   "episodes": [
     {
+      "id": "2026-weaponized-episode-120",
+      "name": "WEAPONIZED Episode #120 — Whitley Strieber — Transformation 2026 and the Meaning of Close Encounters",
+      "summary": "Whitley Strieber discusses Communion, his continuing interpretation of encounters with non-human beings, the impact his writing had on others with similar experiences, and how Transformation 2026 revisits childhood memories and possible implications for humanity.",
+      "date": "2026-06-18",
+      "dateDisplay": "June 18, 2026",
+      "episodeNumber": 120,
+      "episodeTitle": "Whitley Strieber — Transformation 2026 and the Meaning of Close Encounters",
+      "status": "Published",
+      "seriesId": "weaponized-podcast",
+      "externalUrl": "",
+      "guestIds": [
+        "whitley-strieber"
+      ],
+      "subjectIds": [],
+      "claimIds": [
+        "claim-strieber-argues-close-encounters-are-central-to-the-nhi-question",
+        "claim-communion-helped-encounter-witnesses-discuss-their-experiences",
+        "claim-strieber-describes-an-ongoing-relationship-with-the-others",
+        "claim-transformation-2026-revisits-childhood-encounter-memories",
+        "claim-episode-contrasts-experiencer-accounts-with-nuts-and-bolts-disclosure"
+      ],
+      "relationshipCount": 14
+    },
+    {
+      "id": "2026-weaponized-episode-119",
+      "name": "WEAPONIZED Episode #119 — The Price Paid by UAP Whistleblowers",
+      "summary": "Recorded at Contact in the Desert, Dylan Borland, Matthew Brown, and Alex Wiggins describe unemployment, surveillance, break-ins, intimidation, legal threats, and financial harm after coming forward, while proposing practical support and protection for future UAP witnesses.",
+      "date": "2026-06-04",
+      "dateDisplay": "June 4, 2026",
+      "episodeNumber": 119,
+      "episodeTitle": "The Price Paid by UAP Whistleblowers",
+      "status": "Published",
+      "seriesId": "weaponized-podcast",
+      "externalUrl": "",
+      "guestIds": [
+        "dylan-borland",
+        "matthew-brown",
+        "alex-wiggins"
+      ],
+      "subjectIds": [],
+      "claimIds": [
+        "claim-uap-whistleblowers-report-severe-retaliation-after-coming-forward",
+        "claim-borland-says-he-faced-treason-threats-after-congressional-testimony",
+        "claim-brown-says-immaculate-constellation-disclosure-damaged-his-life",
+        "claim-wiggins-reports-intimidation-after-testifying-about-tic-tac-objects",
+        "claim-panel-proposes-a-support-plan-for-future-uap-witnesses"
+      ],
+      "relationshipCount": 17
+    },
+    {
+      "id": "2026-weaponized-episode-118",
+      "name": "WEAPONIZED Episode #118 — Dylan Borland on the Costs of Coming Forward",
+      "summary": "At Oregon’s McMinnville UFO Festival, Dylan Borland describes his background, congressional testimony, alleged surveillance and hacking, financial hardship, legal threats, and concerns about an ODNI UAP investigation that he says failed to protect participating whistleblowers.",
+      "date": "2026-05-22",
+      "dateDisplay": "May 22, 2026",
+      "episodeNumber": 118,
+      "episodeTitle": "Dylan Borland on the Costs of Coming Forward",
+      "status": "Published",
+      "seriesId": "weaponized-podcast",
+      "externalUrl": "",
+      "guestIds": [
+        "dylan-borland"
+      ],
+      "subjectIds": [],
+      "claimIds": [
+        "claim-borland-describes-financial-and-personal-hardship-after-coming-forward",
+        "claim-borland-alleges-surveillance-hacking-and-legal-threats",
+        "claim-borland-says-he-testified-to-congress-about-legacy-ufo-programs",
+        "claim-borland-questions-the-independence-of-an-odni-uap-investigation",
+        "claim-episode-argues-whistleblower-protection-is-essential-to-future-testimony"
+      ],
+      "relationshipCount": 16
+    },
+    {
+      "id": "2026-weaponized-episode-117",
+      "name": "WEAPONIZED Episode #117 — Federal UFO Files, Public Expectations, and Sleeping Dog",
+      "summary": "Jeremy Corbell and George Knapp assess a major federal release of UFO files and videos, warn against unrealistic expectations of immediate full disclosure, explain the context of selected UAP footage, and discuss Michael Lazovsky’s documentary Sleeping Dog and the role of investigative journalism.",
+      "date": "2026-05-08",
+      "dateDisplay": "May 8, 2026",
+      "episodeNumber": 117,
+      "episodeTitle": "Federal UFO Files, Public Expectations, and Sleeping Dog",
+      "status": "Published",
+      "seriesId": "weaponized-podcast",
+      "externalUrl": "",
+      "guestIds": [
+        "michael-lazovsky"
+      ],
+      "subjectIds": [],
+      "claimIds": [
+        "claim-federal-ufo-file-release-drew-massive-public-attention",
+        "claim-initial-file-release-did-not-constitute-full-disclosure",
+        "claim-burchett-warned-the-public-to-lower-expectations-for-the-first-release",
+        "claim-context-is-required-to-interpret-released-uap-videos",
+        "claim-sleeping-dog-emphasizes-journalisms-role-in-ufo-transparency"
+      ],
+      "relationshipCount": 15
+    },
+    {
+      "id": "2026-weaponized-episode-116",
+      "name": "WEAPONIZED Episode #116 — UAP Transparency at the National Space Symposium",
+      "summary": "Jeremy Corbell and George Knapp review a National Space Symposium panel featuring David Grusch, Representative Eric Burlison, Mike Gold, and Rod Roddenberry discussing UAP transparency, credible testimony, space-sector responsibilities, and serious evaluation of anomalous reports.",
+      "date": "2026-04-25",
+      "dateDisplay": "April 25, 2026",
+      "episodeNumber": 116,
+      "episodeTitle": "UAP Transparency at the National Space Symposium",
+      "status": "Published",
+      "seriesId": "weaponized-podcast",
+      "externalUrl": "",
+      "guestIds": [
+        "david-grusch",
+        "eric-burlison",
+        "mike-gold",
+        "rod-roddenberry"
+      ],
+      "subjectIds": [],
+      "claimIds": [
+        "claim-national-space-symposium-hosted-its-first-panel-of-uap-witnesses-and-insiders",
+        "claim-grusch-burlison-gold-and-roddenberry-advocated-serious-uap-evaluation",
+        "claim-space-sector-leaders-have-a-role-in-uap-transparency",
+        "claim-congressional-oversight-remains-central-to-uap-accountability",
+        "claim-public-professional-forums-can-normalize-serious-uap-discussion"
+      ],
+      "relationshipCount": 18
+    },
+    {
       "id": "2026-weaponized-episode-115",
       "name": "WEAPONIZED Episode #115 — A New Chapter in the Bob Lazar Saga",
       "summary": "Luigi Venditelli joins Jeremy Corbell and George Knapp to discuss S4: The Bob Lazar Story, its reconstruction of the alleged S4 facility, and the continuing debate surrounding Bob Lazar’s claims.",
@@ -26,6 +151,54 @@
         "claim-s4-documentary-reconstruction"
       ],
       "relationshipCount": 13
+    },
+    {
+      "id": "2026-weaponized-episode-114",
+      "name": "WEAPONIZED Episode #114 — Dr. James Lacatski — This Is UFO Disclosure, As Far As It Can Go",
+      "summary": "James Lacatski discusses AAWSAP’s creation, data archive, investigations of UAP and paranormal phenomena, the limits of government knowledge, and his view that published books may be the closest the public comes to the unreleased program files.",
+      "date": "2026-04-08",
+      "dateDisplay": "April 8, 2026",
+      "episodeNumber": 114,
+      "episodeTitle": "Dr. James Lacatski — This Is UFO Disclosure, As Far As It Can Go",
+      "status": "Published",
+      "seriesId": "weaponized-podcast",
+      "externalUrl": "",
+      "guestIds": [
+        "james-lacatski"
+      ],
+      "subjectIds": [],
+      "claimIds": [
+        "claim-aawsap-built-a-large-ufo-data-warehouse",
+        "claim-lacaktski-places-ufo-events-within-a-larger-paranormal-framework",
+        "claim-lacatski-says-government-does-not-know-the-full-origin-of-ufo-phenomena",
+        "claim-lacatski-doubts-the-complete-aawsap-files-will-be-released",
+        "claim-lacatski-says-a-smaller-effort-may-have-followed-aawsap"
+      ],
+      "relationshipCount": 15
+    },
+    {
+      "id": "2026-weaponized-episode-113",
+      "name": "WEAPONIZED Episode #113 — Matthew Brown Exposes How Whistleblowers Are Being Set Up",
+      "summary": "Matthew Brown expands on his assertions about Immaculate Constellation, describes the personal and financial consequences of coming forward, and argues that purported investigative channels can function as mechanisms for pressure rather than protection.",
+      "date": "2026-03-18",
+      "dateDisplay": "March 18, 2026",
+      "episodeNumber": 113,
+      "episodeTitle": "Matthew Brown Exposes How Whistleblowers Are Being Set Up",
+      "status": "Published",
+      "seriesId": "weaponized-podcast",
+      "externalUrl": "",
+      "guestIds": [
+        "matthew-brown"
+      ],
+      "subjectIds": [],
+      "claimIds": [
+        "claim-brown-describes-immaculate-constellation-as-a-layered-data-operation",
+        "claim-brown-says-compartmentation-keeps-agencies-unaware-of-program-scope",
+        "claim-brown-reports-severe-personal-and-financial-costs-after-coming-forward",
+        "claim-brown-says-a-purported-investigative-interview-felt-like-an-intelligence-operation",
+        "claim-brown-argues-independent-scrutiny-is-essential-to-disclosure"
+      ],
+      "relationshipCount": 16
     },
     {
       "id": "2026-weaponized-episode-112",

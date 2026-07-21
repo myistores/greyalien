@@ -1,0 +1,24 @@
+{
+  "id": "timeline-2026-05-08-weaponized-episode-117",
+  "type": "timeline_event",
+  "name": "WEAPONIZED Episode #117 published",
+  "summary": "Jeremy Corbell and George Knapp assess a major federal release of UFO files and videos, warn against unrealistic expectations of immediate full disclosure, explain the context of selected UAP footage, and discuss Michael Lazovsky’s documentary Sleeping Dog and the role of investigative journalism.",
+  "date": "2026-05-08",
+  "dateDisplay": "May 8, 2026",
+  "eventCategory": "Podcast publication",
+  "relationships": [
+    {
+      "type": "event_for",
+      "target": "2026-weaponized-episode-117"
+    }
+  ],
+  "officialLinks": [],
+  "referenceSources": [
+    {
+      "label": "Official WEAPONIZED Episode #117 page",
+      "url": "https://www.weaponizedpodcast.com/episodes-4/episode-117",
+      "sourceType": "official_episode_page",
+      "role": "source"
+    }
+  ]
+}

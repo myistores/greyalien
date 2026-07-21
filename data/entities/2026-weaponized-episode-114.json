@@ -1,0 +1,128 @@
+{
+  "id": "2026-weaponized-episode-114",
+  "type": "podcast_episode",
+  "name": "WEAPONIZED Episode #114 — Dr. James Lacatski — This Is UFO Disclosure, As Far As It Can Go",
+  "summary": "James Lacatski discusses AAWSAP’s creation, data archive, investigations of UAP and paranormal phenomena, the limits of government knowledge, and his view that published books may be the closest the public comes to the unreleased program files.",
+  "date": "2026-04-08",
+  "dateDisplay": "April 8, 2026",
+  "seriesId": "weaponized-podcast",
+  "episodeNumber": 114,
+  "episodeTitle": "Dr. James Lacatski — This Is UFO Disclosure, As Far As It Can Go",
+  "status": "Published",
+  "mediaType": "Podcast episode",
+  "mediaPlatform": "WEAPONIZED",
+  "mediaHost": "Jeremy Corbell and George Knapp",
+  "mediaGuests": [
+    "james-lacatski"
+  ],
+  "mediaSubjects": [],
+  "principalClaims": [
+    "claim-aawsap-built-a-large-ufo-data-warehouse",
+    "claim-lacaktski-places-ufo-events-within-a-larger-paranormal-framework",
+    "claim-lacatski-says-government-does-not-know-the-full-origin-of-ufo-phenomena",
+    "claim-lacatski-doubts-the-complete-aawsap-files-will-be-released",
+    "claim-lacatski-says-a-smaller-effort-may-have-followed-aawsap"
+  ],
+  "researchNotes": [],
+  "relationships": [
+    {
+      "type": "episode_of",
+      "target": "weaponized-podcast"
+    },
+    {
+      "type": "features_person",
+      "target": "jeremy-corbell",
+      "role": "host",
+      "context": "WEAPONIZED co-host"
+    },
+    {
+      "type": "features_person",
+      "target": "george-knapp",
+      "role": "host",
+      "context": "WEAPONIZED co-host"
+    },
+    {
+      "type": "features_person",
+      "target": "james-lacatski",
+      "role": "guest",
+      "context": "Featured episode participant"
+    },
+    {
+      "type": "references_organization",
+      "target": "defense-intelligence-agency"
+    },
+    {
+      "type": "discussed_topic",
+      "target": "aawsap"
+    },
+    {
+      "type": "discussed_topic",
+      "target": "paranormal-phenomena"
+    },
+    {
+      "type": "discussed_topic",
+      "target": "skinwalker-ranch"
+    },
+    {
+      "type": "discussed_topic",
+      "target": "public-disclosure"
+    },
+    {
+      "type": "discussed_topic",
+      "target": "classified-programs"
+    },
+    {
+      "type": "presented_claim",
+      "target": "claim-aawsap-built-a-large-ufo-data-warehouse",
+      "context": "Principal claim discussed in the episode"
+    },
+    {
+      "type": "presented_claim",
+      "target": "claim-lacaktski-places-ufo-events-within-a-larger-paranormal-framework",
+      "context": "Principal claim discussed in the episode"
+    },
+    {
+      "type": "presented_claim",
+      "target": "claim-lacatski-says-government-does-not-know-the-full-origin-of-ufo-phenomena",
+      "context": "Principal claim discussed in the episode"
+    },
+    {
+      "type": "presented_claim",
+      "target": "claim-lacatski-doubts-the-complete-aawsap-files-will-be-released",
+      "context": "Principal claim discussed in the episode"
+    },
+    {
+      "type": "presented_claim",
+      "target": "claim-lacatski-says-a-smaller-effort-may-have-followed-aawsap",
+      "context": "Principal claim discussed in the episode"
+    }
+  ],
+  "mediaLinks": [
+    {
+      "label": "Open the official Episode #114 page",
+      "url": "https://www.weaponizedpodcast.com/episodes-4/episode-114",
+      "platform": "WEAPONIZED"
+    },
+    {
+      "label": "Listen to WEAPONIZED",
+      "url": "https://link.chtbl.com/Weaponized",
+      "platform": "Official audio feed"
+    }
+  ],
+  "eventCategory": "Podcast publication",
+  "officialLinks": [],
+  "referenceSources": [
+    {
+      "label": "Official WEAPONIZED Episode #114 page",
+      "url": "https://www.weaponizedpodcast.com/episodes-4/episode-114",
+      "sourceType": "official_episode_page",
+      "role": "source"
+    },
+    {
+      "label": "Listen to WEAPONIZED",
+      "url": "https://link.chtbl.com/Weaponized",
+      "sourceType": "official_audio_feed",
+      "role": "source"
+    }
+  ]
+}

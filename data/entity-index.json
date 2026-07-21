@@ -366,6 +366,12 @@
       "summary": "Claim or framing presented in WEAPONIZED Episode #38."
     },
     {
+      "id": "claim-aawsap-built-a-large-ufo-data-warehouse",
+      "type": "claim",
+      "name": "AAWSAP built a large UFO data warehouse",
+      "summary": "Lacatski says AAWSAP assembled an extensive data repository and more than one hundred detailed reports concerning UAP cases and related phenomena."
+    },
+    {
       "id": "claim-weaponized-12-1",
       "type": "claim",
       "name": "AAWSAP employed approximately fifty full-time staff and investigators during the DIA-funded program.",
@@ -525,6 +531,12 @@
       "summary": "The former military and commercial pilot describes multiple incidents rather than a single isolated sighting."
     },
     {
+      "id": "claim-borland-alleges-surveillance-hacking-and-legal-threats",
+      "type": "claim",
+      "name": "Borland alleges surveillance, hacking, and legal threats",
+      "summary": "Borland reports phone monitoring, computer intrusions, surveillance, and threats of prosecution connected to his disclosures."
+    },
+    {
       "id": "claim-clearance-allegedly-used-as-leverage",
       "type": "claim",
       "name": "Borland alleges that his security clearance was manipulated to restrict his options and silence him.",
@@ -535,6 +547,12 @@
       "type": "claim",
       "name": "Borland characterizes intimidation and career pressure as mechanisms used to preserve secrecy.",
       "summary": "Borland characterizes intimidation and career pressure as mechanisms used to preserve secrecy."
+    },
+    {
+      "id": "claim-borland-describes-financial-and-personal-hardship-after-coming-forward",
+      "type": "claim",
+      "name": "Borland describes financial and personal hardship after coming forward",
+      "summary": "Borland says he and his family experienced severe financial strain and disruption after he became a public UAP whistleblower."
     },
     {
       "id": "claim-borland-alleges-threats-and-economic-pressure",
@@ -549,16 +567,34 @@
       "summary": "Borland provides additional detail about alleged long-running UAP programs and their compartmented structure."
     },
     {
+      "id": "claim-borland-questions-the-independence-of-an-odni-uap-investigation",
+      "type": "claim",
+      "name": "Borland questions the independence of an ODNI UAP investigation",
+      "summary": "Borland says an ODNI-created inquiry that solicited whistleblower testimony was compromised and did not provide expected protection."
+    },
+    {
       "id": "claim-borland-reports-firsthand-uap-observation",
       "type": "claim",
       "name": "Borland reports personally observing technology he understood to be connected to UAP programs.",
       "summary": "Borland reports personally observing technology he understood to be connected to UAP programs."
     },
     {
+      "id": "claim-borland-says-he-faced-treason-threats-after-congressional-testimony",
+      "type": "claim",
+      "name": "Borland says he faced treason threats after congressional testimony",
+      "summary": "Dylan Borland reports unemployment and threats involving treason allegations following his 2025 testimony."
+    },
+    {
       "id": "claim-borland-worked-classified-contractor-role",
       "type": "claim",
       "name": "Borland says he moved from Air Force service into highly classified contractor work directed by an intelligence agency.",
       "summary": "Borland says he moved from Air Force service into highly classified contractor work directed by an intelligence agency."
+    },
+    {
+      "id": "claim-borland-says-he-testified-to-congress-about-legacy-ufo-programs",
+      "type": "claim",
+      "name": "Borland says he testified to Congress about legacy UFO programs",
+      "summary": "The episode references Borland’s sworn September 2025 congressional testimony concerning alleged legacy UAP programs."
     },
     {
       "id": "claim-borland-says-phenomenon-may-be-ancient",
@@ -573,6 +609,12 @@
       "summary": "The official episode description presents or discusses this claim; it is recorded here as a source-attributed claim, not as independently verified fact."
     },
     {
+      "id": "claim-brown-argues-independent-scrutiny-is-essential-to-disclosure",
+      "type": "claim",
+      "name": "Brown argues independent scrutiny is essential to disclosure",
+      "summary": "Brown concludes that public scrutiny and independent journalism may be more effective than official channels in producing meaningful transparency."
+    },
+    {
       "id": "claim-brown-described-sensitive-documents",
       "type": "claim",
       "name": "Brown described reading documents that he believed showed a wider UAP secrecy structure.",
@@ -585,10 +627,22 @@
       "summary": "The official episode description presents or discusses this claim; it is recorded here as a source-attributed claim, not as independently verified fact."
     },
     {
+      "id": "claim-brown-describes-immaculate-constellation-as-a-layered-data-operation",
+      "type": "claim",
+      "name": "Brown describes Immaculate Constellation as a layered UAP data operation",
+      "summary": "Brown asserts that Immaculate Constellation collects, filters, and compartmentalizes UAP information across government systems."
+    },
+    {
       "id": "claim-brown-sought-congressional-testimony",
       "type": "claim",
       "name": "Brown indicated willingness to testify to Congress if requested.",
       "summary": "The official episode description presents or discusses this claim; it is recorded here as a source-attributed claim, not as independently verified fact."
+    },
+    {
+      "id": "claim-brown-reports-severe-personal-and-financial-costs-after-coming-forward",
+      "type": "claim",
+      "name": "Brown reports severe personal and financial costs after coming forward",
+      "summary": "Brown describes job loss, financial hardship, emotional strain, and reputational attacks following his public disclosures."
     },
     {
       "id": "claim-brown-described-varied-uap-shapes",
@@ -615,6 +669,24 @@
       "summary": "The official episode description presents or discusses this claim; it is recorded here as a source-attributed claim, not as independently verified fact."
     },
     {
+      "id": "claim-brown-says-a-purported-investigative-interview-felt-like-an-intelligence-operation",
+      "type": "claim",
+      "name": "Brown says a purported investigative interview felt like an intelligence operation",
+      "summary": "Brown says an ODNI-associated UAP interview he expected to provide protection instead felt adversarial and operational."
+    },
+    {
+      "id": "claim-brown-says-compartmentation-keeps-agencies-unaware-of-program-scope",
+      "type": "claim",
+      "name": "Brown says compartmentation obscures the program’s full scope",
+      "summary": "Brown argues that restricted routing and compartmentation leave much of the defense and intelligence community unaware of the effort’s full nature."
+    },
+    {
+      "id": "claim-brown-says-immaculate-constellation-disclosure-damaged-his-life",
+      "type": "claim",
+      "name": "Brown says the Immaculate Constellation disclosure damaged his life",
+      "summary": "Matthew Brown describes major personal and financial consequences after revealing the alleged classified effort."
+    },
+    {
       "id": "claim-brown-urged-other-insiders-forward",
       "type": "claim",
       "name": "Brown urged other knowledgeable insiders to come forward.",
@@ -637,6 +709,12 @@
       "type": "claim",
       "name": "Buddhism, spirituality, gurus, and psychedelics are treated as frameworks for interpreting human experience.",
       "summary": "Claim or framing presented in WEAPONIZED Episode #10."
+    },
+    {
+      "id": "claim-burchett-warned-the-public-to-lower-expectations-for-the-first-release",
+      "type": "claim",
+      "name": "Burchett warned the public to lower expectations for the first release",
+      "summary": "The episode notes that Representative Tim Burchett had advised that the first installment would be limited and that later releases might be more revealing."
     },
     {
       "id": "claim-burlison-believes-significant-uap-information-remains-withheld",
@@ -712,6 +790,12 @@
       "summary": "Claim or framing presented in WEAPONIZED Episode #5."
     },
     {
+      "id": "claim-communion-helped-encounter-witnesses-discuss-their-experiences",
+      "type": "claim",
+      "name": "Communion helped encounter witnesses discuss their experiences",
+      "summary": "The episode credits Communion with helping many readers acknowledge and speak about experiences they had previously kept private."
+    },
+    {
       "id": "claim-congress-may-lack-access-to-core-aawsap-records",
       "type": "claim",
       "name": "Congress may lack access to core AAWSAP records",
@@ -742,10 +826,22 @@
       "summary": "Congressional members and staff contacted potential witnesses with firsthand knowledge of unusual technology."
     },
     {
+      "id": "claim-congressional-oversight-remains-central-to-uap-accountability",
+      "type": "claim",
+      "name": "Congressional oversight remains central to UAP accountability",
+      "summary": "Burlison’s participation reflects continuing congressional efforts to obtain information and accountability concerning UAP programs."
+    },
+    {
       "id": "claim-congressional-uap-oversight-faced-obstruction",
       "type": "claim",
       "name": "Congressional UAP oversight faced obstruction",
       "summary": "The lawmakers describe agencies and officials blocking access to witnesses, programs, and information."
+    },
+    {
+      "id": "claim-context-is-required-to-interpret-released-uap-videos",
+      "type": "claim",
+      "name": "Context is required to interpret released UAP videos",
+      "summary": "The hosts argue that documents and videos should be evaluated with background information rather than judged solely from isolated clips."
     },
     {
       "id": "claim-weaponized-40-4",
@@ -1217,10 +1313,34 @@
       "summary": "Claim or framing presented in WEAPONIZED Episode #38."
     },
     {
+      "id": "claim-lacatski-doubts-the-complete-aawsap-files-will-be-released",
+      "type": "claim",
+      "name": "Lacatski doubts the complete AAWSAP files will be released",
+      "summary": "Lacatski says his books may be the closest public approximation to disclosure because the underlying AAWSAP files are unlikely to be released."
+    },
+    {
+      "id": "claim-lacaktski-places-ufo-events-within-a-larger-paranormal-framework",
+      "type": "claim",
+      "name": "Lacatski places UFO events within a larger paranormal framework",
+      "summary": "Lacatski argues that UFO incidents may constitute one part of a broader spectrum of anomalous or paranormal phenomena."
+    },
+    {
       "id": "claim-lacatski-says-recovered-craft-was-accessed",
       "type": "claim",
       "name": "Lacatski says a recovered craft was accessed",
       "summary": "Lacatski reiterates an authorized account that a recovered craft was entered and examined."
+    },
+    {
+      "id": "claim-lacatski-says-a-smaller-effort-may-have-followed-aawsap",
+      "type": "claim",
+      "name": "Lacatski says a smaller effort may have followed AAWSAP",
+      "summary": "Lacatski hints that a narrower effort associated with the proposed Kona Blue program continued aspects of the work after AAWSAP ended."
+    },
+    {
+      "id": "claim-lacatski-says-government-does-not-know-the-full-origin-of-ufo-phenomena",
+      "type": "claim",
+      "name": "Lacatski says government does not know the full origin of UFO phenomena",
+      "summary": "Lacatski states that, to his knowledge, no government office possesses a complete explanation of UFO origins or intelligence."
     },
     {
       "id": "claim-counterintelligence-role-requires-careful-evaluation",
@@ -1549,6 +1669,12 @@
       "summary": "Claim or framing presented in WEAPONIZED Episode #11."
     },
     {
+      "id": "claim-grusch-burlison-gold-and-roddenberry-advocated-serious-uap-evaluation",
+      "type": "claim",
+      "name": "Panelists advocated serious evaluation of UAP reports",
+      "summary": "David Grusch, Eric Burlison, Mike Gold, and Rod Roddenberry emphasized honesty, transparency, and substantive evaluation of UAP-related evidence."
+    },
+    {
       "id": "claim-weaponized-13-3",
       "type": "claim",
       "name": "Participants in the Russian program reportedly studied both UFO incidents and potential UFO technology.",
@@ -1608,6 +1734,12 @@
       "type": "claim",
       "name": "Previously restricted UAP imagery entered public discussion",
       "summary": "The hosts state that images and videos previously held on government systems were unveiled or confirmed during the year."
+    },
+    {
+      "id": "claim-public-professional-forums-can-normalize-serious-uap-discussion",
+      "type": "claim",
+      "name": "Professional forums can normalize serious UAP discussion",
+      "summary": "The enthusiastic audience response is presented as evidence that high-level professional settings can support serious public discussion of UAP issues."
     },
     {
       "id": "claim-progress-requires-better-data-and-open-inquiry",
@@ -1796,6 +1928,12 @@
       "summary": "The episode links NIDS and AAWSAP research to a broader model involving craft, creatures, portals, and other anomalies."
     },
     {
+      "id": "claim-sleeping-dog-emphasizes-journalisms-role-in-ufo-transparency",
+      "type": "claim",
+      "name": "Sleeping Dog emphasizes journalism’s role in UFO transparency",
+      "summary": "Michael Lazovsky’s documentary is presented as an examination of how sustained journalism contributes to public understanding and accountability."
+    },
+    {
       "id": "claim-weaponized-38-2",
       "type": "claim",
       "name": "Some cases in the database reportedly displayed performance beyond known conventional technology.",
@@ -1862,6 +2000,12 @@
       "summary": "Claim or framing presented in WEAPONIZED Episode #16."
     },
     {
+      "id": "claim-space-sector-leaders-have-a-role-in-uap-transparency",
+      "type": "claim",
+      "name": "Space-sector leaders have a role in UAP transparency",
+      "summary": "The discussion connects UAP inquiry with institutions and professionals responsible for national security, aerospace, and space exploration."
+    },
+    {
       "id": "claim-weaponized-24-3",
       "type": "claim",
       "name": "Special-access programs and defense-contractor custody were identified as possible barriers to congressional oversight.",
@@ -1880,10 +2024,22 @@
       "summary": "Claim or framing presented in WEAPONIZED Episode #3."
     },
     {
+      "id": "claim-strieber-argues-close-encounters-are-central-to-the-nhi-question",
+      "type": "claim",
+      "name": "Strieber argues close encounters are central to the NHI question",
+      "summary": "Strieber and the hosts frame direct encounter reports as potentially central to understanding the non-human intelligence question."
+    },
+    {
       "id": "claim-weaponized-23-2",
       "type": "claim",
       "name": "Strieber characterizes the phenomenon as more complex than a single extraterrestrial explanation.",
       "summary": "Claim or framing presented in WEAPONIZED Episode #23."
+    },
+    {
+      "id": "claim-strieber-describes-an-ongoing-relationship-with-the-others",
+      "type": "claim",
+      "name": "Strieber describes an ongoing relationship with “the Others”",
+      "summary": "Strieber says his reported relationship with non-human beings has continued and evolved over time."
     },
     {
       "id": "claim-weaponized-2-1",
@@ -2006,6 +2162,12 @@
       "summary": "Claim or framing presented in WEAPONIZED Episode #27."
     },
     {
+      "id": "claim-episode-argues-whistleblower-protection-is-essential-to-future-testimony",
+      "type": "claim",
+      "name": "The episode argues whistleblower protection is essential to future testimony",
+      "summary": "Borland’s account is used to illustrate how retaliation risks can deter future witnesses from speaking publicly or to Congress."
+    },
+    {
       "id": "claim-public-reaction-largely-positive",
       "type": "claim",
       "name": "The episode characterizes public reaction to the hearing as broadly positive.",
@@ -2016,6 +2178,12 @@
       "type": "claim",
       "name": "The episode connects cultural and philosophical inquiry with the broader UAP conversation.",
       "summary": "Claim or framing presented in WEAPONIZED Episode #10."
+    },
+    {
+      "id": "claim-episode-contrasts-experiencer-accounts-with-nuts-and-bolts-disclosure",
+      "type": "claim",
+      "name": "The episode contrasts experiencer accounts with nuts-and-bolts disclosure",
+      "summary": "The discussion questions whether public focus on craft, bodies, and technology overlooks the human significance of reported face-to-face encounters."
     },
     {
       "id": "claim-dod-deception-history-discussed",
@@ -2144,6 +2312,12 @@
       "summary": "The claim reflects the investigative path described by the two ABC journalists, not an independent verification of causation."
     },
     {
+      "id": "claim-federal-ufo-file-release-drew-massive-public-attention",
+      "type": "claim",
+      "name": "The federal UFO file release drew massive public attention",
+      "summary": "The episode reports extraordinary public traffic to a new federal repository of UFO documents and videos."
+    },
+    {
       "id": "claim-s4-documentary-reconstruction",
       "type": "claim",
       "name": "The filmmakers state that the S4 reconstruction is based on Bob Lazar’s recollections",
@@ -2222,6 +2396,12 @@
       "summary": "Claim or framing presented in WEAPONIZED Episode #25."
     },
     {
+      "id": "claim-initial-file-release-did-not-constitute-full-disclosure",
+      "type": "claim",
+      "name": "The initial file release did not constitute full disclosure",
+      "summary": "Corbell and Knapp stress that the first release did not provide comprehensive transparency or proof of rumored crash-retrieval programs."
+    },
+    {
       "id": "claim-weaponized-23-4",
       "type": "claim",
       "name": "The interview connects experiencer testimony with contemporary debates over crash retrievals, whistleblowers, secrecy, and disclosure.",
@@ -2294,6 +2474,12 @@
       "summary": "The episode explores allegations of human remains being altered and sold through a private collectors market."
     },
     {
+      "id": "claim-national-space-symposium-hosted-its-first-panel-of-uap-witnesses-and-insiders",
+      "type": "claim",
+      "name": "The National Space Symposium hosted a panel of UAP witnesses and insiders",
+      "summary": "The episode describes the symposium as hosting a dedicated UAP witness and insider panel for the first time."
+    },
+    {
       "id": "claim-nimitz-two-week-sensor-detections",
       "type": "claim",
       "name": "The Nimitz carrier group detected unidentified incursions for nearly two weeks in November 2004",
@@ -2352,6 +2538,12 @@
       "type": "claim",
       "name": "The origin of Tic Tac objects remains contested",
       "summary": "Lacatski discusses whether famous Tic Tac objects could represent U.S. technology while leaving the question unresolved."
+    },
+    {
+      "id": "claim-panel-proposes-a-support-plan-for-future-uap-witnesses",
+      "type": "claim",
+      "name": "The panel proposes a support plan for future UAP witnesses",
+      "summary": "The participants outline practical measures intended to protect and assist future whistleblowers and witnesses."
     },
     {
       "id": "claim-hearing-may-encourage-more-witnesses",
@@ -2516,6 +2708,12 @@
       "summary": "Claim or framing presented in WEAPONIZED Episode #4."
     },
     {
+      "id": "claim-transformation-2026-revisits-childhood-encounter-memories",
+      "type": "claim",
+      "name": "Transformation 2026 revisits childhood encounter memories",
+      "summary": "Strieber’s new book returns to incomplete memories of childhood encounters and explores their possible significance."
+    },
+    {
       "id": "claim-legislative-protections-sought",
       "type": "claim",
       "name": "Transparency advocates sought stronger legislative protections for whistleblowers.",
@@ -2562,6 +2760,12 @@
       "type": "claim",
       "name": "UAP transparency advocacy continued after the 2024 legislative setback",
       "summary": "Lester Nare described continued Capitol Hill advocacy despite opposition to disclosure provisions."
+    },
+    {
+      "id": "claim-uap-whistleblowers-report-severe-retaliation-after-coming-forward",
+      "type": "claim",
+      "name": "UAP whistleblowers report severe retaliation after coming forward",
+      "summary": "The panelists describe surveillance, break-ins, legal threats, intimidation, unemployment, and financial hardship after disclosing UAP information."
     },
     {
       "id": "claim-ufo-and-cryptid-reports-overlap",
@@ -2630,6 +2834,12 @@
       "summary": "Claim or framing presented in WEAPONIZED Episode #23."
     },
     {
+      "id": "claim-wiggins-reports-intimidation-after-testifying-about-tic-tac-objects",
+      "type": "claim",
+      "name": "Wiggins reports intimidation after testifying about Tic Tac objects",
+      "summary": "Alex Wiggins says he received threats and intimidation after describing a Navy encounter involving four Tic Tac-shaped objects."
+    },
+    {
       "id": "claim-uss-jackson-area-recurring-encounters",
       "type": "claim",
       "name": "Wiggins said sailors routinely encounter unidentified objects in the region.",
@@ -2693,6 +2903,12 @@
       "status": "Official House document"
     },
     {
+      "id": "future-visions",
+      "type": "document",
+      "name": "Inside the U.S. Government Covert UFO Program: Future Visions",
+      "summary": "Book by James Lacatski drawing on material associated with AAWSAP investigations and files."
+    },
+    {
       "id": "2024-elizondo-written-testimony",
       "type": "document",
       "name": "Luis Elizondo Written Testimony",
@@ -2737,6 +2953,12 @@
       "name": "The Day After Roswell",
       "summary": "1997 book by Philip J. Corso and William J. Birnes presenting claims about recovered Roswell technology and military reverse engineering.",
       "status": "Published memoir and claim record"
+    },
+    {
+      "id": "transformation-2026",
+      "type": "document",
+      "name": "Transformation 2026",
+      "summary": "Book by Whitley Strieber revisiting his reported encounter experiences and their possible meaning."
     },
     {
       "id": "unhidden-close-encounter-health-effects-report",
@@ -3192,6 +3414,12 @@
       "type": "organization",
       "name": "New Paradigm Institute",
       "summary": "Legal and public-policy initiative focused on UAP transparency, congressional action, whistleblower support, and public education."
+    },
+    {
+      "id": "office-of-the-director-of-national-intelligence",
+      "type": "organization",
+      "name": "Office of the Director of National Intelligence",
+      "summary": "United States intelligence-community office responsible for coordinating national intelligence activities."
     },
     {
       "id": "project-blue-book",
@@ -3998,6 +4226,12 @@
       "summary": "Former U.S. Marine who publicly alleged that he observed a large advanced craft and unidentified personnel during a 2009 humanitarian deployment in Indonesia."
     },
     {
+      "id": "michael-lazovsky",
+      "type": "person",
+      "name": "Michael Lazovsky",
+      "summary": "Documentary filmmaker and director of Sleeping Dog, a film about UFO journalism and transparency."
+    },
+    {
       "id": "michael-shellenberger",
       "type": "person",
       "name": "Michael Shellenberger",
@@ -4080,6 +4314,12 @@
       "type": "person",
       "name": "Robert Salas",
       "summary": "Former U.S. Air Force missile officer who has associated a 1967 missile shutdown with a reported UFO event."
+    },
+    {
+      "id": "rod-roddenberry",
+      "type": "person",
+      "name": "Rod Roddenberry",
+      "summary": "Producer and advocate for space exploration and the search for extraterrestrial intelligence."
     },
     {
       "id": "ronald-moultrie",
@@ -4358,6 +4598,24 @@
       "status": "Published"
     },
     {
+      "id": "2026-weaponized-episode-113",
+      "type": "podcast_episode",
+      "name": "WEAPONIZED Episode #113 — Matthew Brown Exposes How Whistleblowers Are Being Set Up",
+      "summary": "Matthew Brown expands on his assertions about Immaculate Constellation, describes the personal and financial consequences of coming forward, and argues that purported investigative channels can function as mechanisms for pressure rather than protection.",
+      "date": "2026-03-18",
+      "dateDisplay": "March 18, 2026",
+      "status": "Published"
+    },
+    {
+      "id": "2026-weaponized-episode-114",
+      "type": "podcast_episode",
+      "name": "WEAPONIZED Episode #114 — Dr. James Lacatski — This Is UFO Disclosure, As Far As It Can Go",
+      "summary": "James Lacatski discusses AAWSAP’s creation, data archive, investigations of UAP and paranormal phenomena, the limits of government knowledge, and his view that published books may be the closest the public comes to the unreleased program files.",
+      "date": "2026-04-08",
+      "dateDisplay": "April 8, 2026",
+      "status": "Published"
+    },
+    {
       "id": "2026-weaponized-episode-115",
       "type": "podcast_episode",
       "name": "WEAPONIZED Episode #115 — A New Chapter in the Bob Lazar Saga",
@@ -4367,12 +4625,57 @@
       "status": "Published"
     },
     {
+      "id": "2026-weaponized-episode-116",
+      "type": "podcast_episode",
+      "name": "WEAPONIZED Episode #116 — UAP Transparency at the National Space Symposium",
+      "summary": "Jeremy Corbell and George Knapp review a National Space Symposium panel featuring David Grusch, Representative Eric Burlison, Mike Gold, and Rod Roddenberry discussing UAP transparency, credible testimony, space-sector responsibilities, and serious evaluation of anomalous reports.",
+      "date": "2026-04-25",
+      "dateDisplay": "April 25, 2026",
+      "status": "Published"
+    },
+    {
+      "id": "2026-weaponized-episode-117",
+      "type": "podcast_episode",
+      "name": "WEAPONIZED Episode #117 — Federal UFO Files, Public Expectations, and Sleeping Dog",
+      "summary": "Jeremy Corbell and George Knapp assess a major federal release of UFO files and videos, warn against unrealistic expectations of immediate full disclosure, explain the context of selected UAP footage, and discuss Michael Lazovsky’s documentary Sleeping Dog and the role of investigative journalism.",
+      "date": "2026-05-08",
+      "dateDisplay": "May 8, 2026",
+      "status": "Published"
+    },
+    {
+      "id": "2026-weaponized-episode-118",
+      "type": "podcast_episode",
+      "name": "WEAPONIZED Episode #118 — Dylan Borland on the Costs of Coming Forward",
+      "summary": "At Oregon’s McMinnville UFO Festival, Dylan Borland describes his background, congressional testimony, alleged surveillance and hacking, financial hardship, legal threats, and concerns about an ODNI UAP investigation that he says failed to protect participating whistleblowers.",
+      "date": "2026-05-22",
+      "dateDisplay": "May 22, 2026",
+      "status": "Published"
+    },
+    {
+      "id": "2026-weaponized-episode-119",
+      "type": "podcast_episode",
+      "name": "WEAPONIZED Episode #119 — The Price Paid by UAP Whistleblowers",
+      "summary": "Recorded at Contact in the Desert, Dylan Borland, Matthew Brown, and Alex Wiggins describe unemployment, surveillance, break-ins, intimidation, legal threats, and financial harm after coming forward, while proposing practical support and protection for future UAP witnesses.",
+      "date": "2026-06-04",
+      "dateDisplay": "June 4, 2026",
+      "status": "Published"
+    },
+    {
       "id": "2023-weaponized-episode-12",
       "type": "podcast_episode",
       "name": "WEAPONIZED Episode #12 — Colm Kelleher Part Two — AAWSAP, the Hitchhiker Effect, and Crash Retrievals",
       "summary": "In the second half of the Colm Kelleher interview, the former AAWSAP project manager discusses anomalous effects associated with Skinwalker Ranch, the program’s technology objectives, and his stated knowledge of UFO crash-retrieval efforts.",
       "date": "2023-04-10",
       "dateDisplay": "April 10, 2023",
+      "status": "Published"
+    },
+    {
+      "id": "2026-weaponized-episode-120",
+      "type": "podcast_episode",
+      "name": "WEAPONIZED Episode #120 — Whitley Strieber — Transformation 2026 and the Meaning of Close Encounters",
+      "summary": "Whitley Strieber discusses Communion, his continuing interpretation of encounters with non-human beings, the impact his writing had on others with similar experiences, and how Transformation 2026 revisits childhood memories and possible implications for humanity.",
+      "date": "2026-06-18",
+      "dateDisplay": "June 18, 2026",
       "status": "Published"
     },
     {
@@ -5361,6 +5664,12 @@
       "dateDisplay": "1969"
     },
     {
+      "id": "sleeping-dog-documentary",
+      "type": "publication",
+      "name": "Sleeping Dog",
+      "summary": "Documentary film examining the role of journalism in UFO investigation and public transparency."
+    },
+    {
       "id": "publication-1975-edge-of-reality",
       "type": "publication",
       "name": "The Edge of Reality",
@@ -5760,6 +6069,22 @@
       "dateDisplay": "March 13, 2026"
     },
     {
+      "id": "timeline-2026-03-18-weaponized-episode-113",
+      "type": "timeline_event",
+      "name": "WEAPONIZED Episode #113 published",
+      "summary": "Matthew Brown expands on his assertions about Immaculate Constellation, describes the personal and financial consequences of coming forward, and argues that purported investigative channels can function as mechanisms for pressure rather than protection.",
+      "date": "2026-03-18",
+      "dateDisplay": "March 18, 2026"
+    },
+    {
+      "id": "timeline-2026-04-08-weaponized-episode-114",
+      "type": "timeline_event",
+      "name": "WEAPONIZED Episode #114 published",
+      "summary": "James Lacatski discusses AAWSAP’s creation, data archive, investigations of UAP and paranormal phenomena, the limits of government knowledge, and his view that published books may be the closest the public comes to the unreleased program files.",
+      "date": "2026-04-08",
+      "dateDisplay": "April 8, 2026"
+    },
+    {
       "id": "timeline-2026-04-14-weaponized-episode-115",
       "type": "timeline_event",
       "name": "WEAPONIZED Episode #115 Revisits the Bob Lazar Story",
@@ -5768,12 +6093,52 @@
       "dateDisplay": "April 14, 2026"
     },
     {
+      "id": "timeline-2026-04-25-weaponized-episode-116",
+      "type": "timeline_event",
+      "name": "WEAPONIZED Episode #116 published",
+      "summary": "Jeremy Corbell and George Knapp review a National Space Symposium panel featuring David Grusch, Representative Eric Burlison, Mike Gold, and Rod Roddenberry discussing UAP transparency, credible testimony, space-sector responsibilities, and serious evaluation of anomalous reports.",
+      "date": "2026-04-25",
+      "dateDisplay": "April 25, 2026"
+    },
+    {
+      "id": "timeline-2026-05-08-weaponized-episode-117",
+      "type": "timeline_event",
+      "name": "WEAPONIZED Episode #117 published",
+      "summary": "Jeremy Corbell and George Knapp assess a major federal release of UFO files and videos, warn against unrealistic expectations of immediate full disclosure, explain the context of selected UAP footage, and discuss Michael Lazovsky’s documentary Sleeping Dog and the role of investigative journalism.",
+      "date": "2026-05-08",
+      "dateDisplay": "May 8, 2026"
+    },
+    {
+      "id": "timeline-2026-05-22-weaponized-episode-118",
+      "type": "timeline_event",
+      "name": "WEAPONIZED Episode #118 published",
+      "summary": "At Oregon’s McMinnville UFO Festival, Dylan Borland describes his background, congressional testimony, alleged surveillance and hacking, financial hardship, legal threats, and concerns about an ODNI UAP investigation that he says failed to protect participating whistleblowers.",
+      "date": "2026-05-22",
+      "dateDisplay": "May 22, 2026"
+    },
+    {
+      "id": "timeline-2026-06-04-weaponized-episode-119",
+      "type": "timeline_event",
+      "name": "WEAPONIZED Episode #119 published",
+      "summary": "Recorded at Contact in the Desert, Dylan Borland, Matthew Brown, and Alex Wiggins describe unemployment, surveillance, break-ins, intimidation, legal threats, and financial harm after coming forward, while proposing practical support and protection for future UAP witnesses.",
+      "date": "2026-06-04",
+      "dateDisplay": "June 4, 2026"
+    },
+    {
       "id": "timeline-2023-04-10-weaponized-episode-12",
       "type": "timeline_event",
       "name": "WEAPONIZED Episode #12 published",
       "summary": "In the second half of the Colm Kelleher interview, the former AAWSAP project manager discusses anomalous effects associated with Skinwalker Ranch, the program’s technology objectives, and his stated knowledge of UFO crash-retrieval efforts.",
       "date": "2023-04-10",
       "dateDisplay": "April 10, 2023"
+    },
+    {
+      "id": "timeline-2026-06-18-weaponized-episode-120",
+      "type": "timeline_event",
+      "name": "WEAPONIZED Episode #120 published",
+      "summary": "Whitley Strieber discusses Communion, his continuing interpretation of encounters with non-human beings, the impact his writing had on others with similar experiences, and how Transformation 2026 revisits childhood memories and possible implications for humanity.",
+      "date": "2026-06-18",
+      "dateDisplay": "June 18, 2026"
     },
     {
       "id": "timeline-2023-04-17-weaponized-episode-13",
@@ -6224,10 +6589,22 @@
       "summary": "A knowledge-graph entity referenced in the V19.4 WEAPONIZED production batch."
     },
     {
+      "id": "close-encounters",
+      "type": "topic",
+      "name": "Close Encounters",
+      "summary": "A knowledge-graph topic used to connect source-grounded WEAPONIZED reporting about close encounters."
+    },
+    {
       "id": "congressional-oversight",
       "type": "topic",
       "name": "Congressional Oversight",
       "summary": "Congressional access, review, and accountability involving executive-branch programs."
+    },
+    {
+      "id": "contact-in-the-desert",
+      "type": "topic",
+      "name": "Contact in the Desert",
+      "summary": "Large public conference focused on UFOs, anomalous phenomena, and related research."
     },
     {
       "id": "counterintelligence",
@@ -6320,6 +6697,12 @@
       "summary": "Alleged long-running classified programs involving UAP collection, exploitation, or reverse engineering."
     },
     {
+      "id": "mcminnville-ufo-festival",
+      "type": "topic",
+      "name": "McMinnville UFO Festival",
+      "summary": "Annual Oregon gathering focused on UFO history, witnesses, researchers, and public discussion."
+    },
+    {
       "id": "media-coverage",
       "type": "topic",
       "name": "Media Coverage",
@@ -6372,6 +6755,30 @@
       "type": "topic",
       "name": "National Security Secrecy",
       "summary": "Legal and institutional controls governing classified national-security information."
+    },
+    {
+      "id": "national-space-symposium",
+      "type": "topic",
+      "name": "National Space Symposium",
+      "summary": "Annual gathering of space-sector, defense, military, intelligence, technology, and scientific leaders."
+    },
+    {
+      "id": "non-human-intelligence",
+      "type": "topic",
+      "name": "Non-Human Intelligence",
+      "summary": "A topic concerning claims, hypotheses, and testimony about intelligence not attributed to known human actors."
+    },
+    {
+      "id": "paranormal-phenomena",
+      "type": "topic",
+      "name": "Paranormal Phenomena",
+      "summary": "A knowledge-graph topic used to connect source-grounded WEAPONIZED reporting about paranormal phenomena."
+    },
+    {
+      "id": "public-disclosure",
+      "type": "topic",
+      "name": "Public Disclosure",
+      "summary": "A knowledge-graph topic used to connect source-grounded WEAPONIZED reporting about public disclosure."
     },
     {
       "id": "research-integrity",
@@ -6440,6 +6847,12 @@
       "summary": "A knowledge-graph entity referenced in the V19.4 WEAPONIZED production batch."
     },
     {
+      "id": "space-exploration",
+      "type": "topic",
+      "name": "Space Exploration",
+      "summary": "A knowledge-graph topic used to connect source-grounded WEAPONIZED reporting about space exploration."
+    },
+    {
       "id": "thread-3-program",
       "type": "topic",
       "name": "Thread 3 Program",
@@ -6462,6 +6875,12 @@
       "type": "topic",
       "name": "Trinity UFO Case",
       "summary": "Topic connected to WEAPONIZED Episodes #93–102: Trinity UFO Case."
+    },
+    {
+      "id": "uap-data-release",
+      "type": "topic",
+      "name": "UAP Data Release",
+      "summary": "A knowledge-graph topic used to connect source-grounded WEAPONIZED reporting about uap data release."
     },
     {
       "id": "uap-disclosure",
@@ -6528,6 +6947,12 @@
       "type": "topic",
       "name": "Uap Transparency",
       "summary": "A knowledge-graph entity referenced in the V19.4 WEAPONIZED production batch."
+    },
+    {
+      "id": "ufo-journalism",
+      "type": "topic",
+      "name": "UFO Journalism",
+      "summary": "A knowledge-graph topic used to connect source-grounded WEAPONIZED reporting about ufo journalism."
     },
     {
       "id": "ufo-cryptid-connection",

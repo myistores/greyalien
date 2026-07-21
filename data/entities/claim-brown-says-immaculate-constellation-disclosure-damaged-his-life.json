@@ -1,0 +1,21 @@
+{
+  "id": "claim-brown-says-immaculate-constellation-disclosure-damaged-his-life",
+  "type": "claim",
+  "name": "Brown says the Immaculate Constellation disclosure damaged his life",
+  "summary": "Matthew Brown describes major personal and financial consequences after revealing the alleged classified effort.",
+  "relationships": [
+    {
+      "type": "featured_in_media",
+      "target": "2026-weaponized-episode-119"
+    }
+  ],
+  "officialLinks": [],
+  "referenceSources": [
+    {
+      "label": "Official WEAPONIZED Episode #119 page",
+      "url": "https://www.weaponizedpodcast.com/episodes-4/episode-119",
+      "sourceType": "official_episode_page",
+      "role": "source"
+    }
+  ]
+}

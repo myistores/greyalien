@@ -1,0 +1,124 @@
+{
+  "id": "2026-weaponized-episode-120",
+  "type": "podcast_episode",
+  "name": "WEAPONIZED Episode #120 — Whitley Strieber — Transformation 2026 and the Meaning of Close Encounters",
+  "summary": "Whitley Strieber discusses Communion, his continuing interpretation of encounters with non-human beings, the impact his writing had on others with similar experiences, and how Transformation 2026 revisits childhood memories and possible implications for humanity.",
+  "date": "2026-06-18",
+  "dateDisplay": "June 18, 2026",
+  "seriesId": "weaponized-podcast",
+  "episodeNumber": 120,
+  "episodeTitle": "Whitley Strieber — Transformation 2026 and the Meaning of Close Encounters",
+  "status": "Published",
+  "mediaType": "Podcast episode",
+  "mediaPlatform": "WEAPONIZED",
+  "mediaHost": "Jeremy Corbell and George Knapp",
+  "mediaGuests": [
+    "whitley-strieber"
+  ],
+  "mediaSubjects": [],
+  "principalClaims": [
+    "claim-strieber-argues-close-encounters-are-central-to-the-nhi-question",
+    "claim-communion-helped-encounter-witnesses-discuss-their-experiences",
+    "claim-strieber-describes-an-ongoing-relationship-with-the-others",
+    "claim-transformation-2026-revisits-childhood-encounter-memories",
+    "claim-episode-contrasts-experiencer-accounts-with-nuts-and-bolts-disclosure"
+  ],
+  "researchNotes": [],
+  "relationships": [
+    {
+      "type": "episode_of",
+      "target": "weaponized-podcast"
+    },
+    {
+      "type": "features_person",
+      "target": "jeremy-corbell",
+      "role": "host",
+      "context": "WEAPONIZED co-host"
+    },
+    {
+      "type": "features_person",
+      "target": "george-knapp",
+      "role": "host",
+      "context": "WEAPONIZED co-host"
+    },
+    {
+      "type": "features_person",
+      "target": "whitley-strieber",
+      "role": "guest",
+      "context": "Featured episode participant"
+    },
+    {
+      "type": "discussed_topic",
+      "target": "close-encounters"
+    },
+    {
+      "type": "discussed_topic",
+      "target": "non-human-intelligence"
+    },
+    {
+      "type": "discussed_topic",
+      "target": "transformation-2026"
+    },
+    {
+      "type": "discussed_topic",
+      "target": "public-disclosure"
+    },
+    {
+      "type": "discussed_topic",
+      "target": "uap-transparency"
+    },
+    {
+      "type": "presented_claim",
+      "target": "claim-strieber-argues-close-encounters-are-central-to-the-nhi-question",
+      "context": "Principal claim discussed in the episode"
+    },
+    {
+      "type": "presented_claim",
+      "target": "claim-communion-helped-encounter-witnesses-discuss-their-experiences",
+      "context": "Principal claim discussed in the episode"
+    },
+    {
+      "type": "presented_claim",
+      "target": "claim-strieber-describes-an-ongoing-relationship-with-the-others",
+      "context": "Principal claim discussed in the episode"
+    },
+    {
+      "type": "presented_claim",
+      "target": "claim-transformation-2026-revisits-childhood-encounter-memories",
+      "context": "Principal claim discussed in the episode"
+    },
+    {
+      "type": "presented_claim",
+      "target": "claim-episode-contrasts-experiencer-accounts-with-nuts-and-bolts-disclosure",
+      "context": "Principal claim discussed in the episode"
+    }
+  ],
+  "mediaLinks": [
+    {
+      "label": "Open the official Episode #120 page",
+      "url": "https://www.weaponizedpodcast.com/episodes-4/episode-120",
+      "platform": "WEAPONIZED"
+    },
+    {
+      "label": "Listen to WEAPONIZED",
+      "url": "https://link.chtbl.com/Weaponized",
+      "platform": "Official audio feed"
+    }
+  ],
+  "eventCategory": "Podcast publication",
+  "officialLinks": [],
+  "referenceSources": [
+    {
+      "label": "Official WEAPONIZED Episode #120 page",
+      "url": "https://www.weaponizedpodcast.com/episodes-4/episode-120",
+      "sourceType": "official_episode_page",
+      "role": "source"
+    },
+    {
+      "label": "Listen to WEAPONIZED",
+      "url": "https://link.chtbl.com/Weaponized",
+      "sourceType": "official_audio_feed",
+      "role": "source"
+    }
+  ]
+}

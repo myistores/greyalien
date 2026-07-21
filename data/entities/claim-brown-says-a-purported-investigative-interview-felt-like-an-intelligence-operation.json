@@ -1,0 +1,21 @@
+{
+  "id": "claim-brown-says-a-purported-investigative-interview-felt-like-an-intelligence-operation",
+  "type": "claim",
+  "name": "Brown says a purported investigative interview felt like an intelligence operation",
+  "summary": "Brown says an ODNI-associated UAP interview he expected to provide protection instead felt adversarial and operational.",
+  "relationships": [
+    {
+      "type": "featured_in_media",
+      "target": "2026-weaponized-episode-113"
+    }
+  ],
+  "officialLinks": [],
+  "referenceSources": [
+    {
+      "label": "Official WEAPONIZED Episode #113 page",
+      "url": "https://www.weaponizedpodcast.com/episodes-4/episode-113",
+      "sourceType": "official_episode_page",
+      "role": "source"
+    }
+  ]
+}

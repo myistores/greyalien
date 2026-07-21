@@ -1,0 +1,21 @@
+{
+  "id": "claim-federal-ufo-file-release-drew-massive-public-attention",
+  "type": "claim",
+  "name": "The federal UFO file release drew massive public attention",
+  "summary": "The episode reports extraordinary public traffic to a new federal repository of UFO documents and videos.",
+  "relationships": [
+    {
+      "type": "featured_in_media",
+      "target": "2026-weaponized-episode-117"
+    }
+  ],
+  "officialLinks": [],
+  "referenceSources": [
+    {
+      "label": "Official WEAPONIZED Episode #117 page",
+      "url": "https://www.weaponizedpodcast.com/episodes-4/episode-117",
+      "sourceType": "official_episode_page",
+      "role": "source"
+    }
+  ]
+}

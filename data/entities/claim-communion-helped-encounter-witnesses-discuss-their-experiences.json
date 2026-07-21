@@ -1,0 +1,21 @@
+{
+  "id": "claim-communion-helped-encounter-witnesses-discuss-their-experiences",
+  "type": "claim",
+  "name": "Communion helped encounter witnesses discuss their experiences",
+  "summary": "The episode credits Communion with helping many readers acknowledge and speak about experiences they had previously kept private.",
+  "relationships": [
+    {
+      "type": "featured_in_media",
+      "target": "2026-weaponized-episode-120"
+    }
+  ],
+  "officialLinks": [],
+  "referenceSources": [
+    {
+      "label": "Official WEAPONIZED Episode #120 page",
+      "url": "https://www.weaponizedpodcast.com/episodes-4/episode-120",
+      "sourceType": "official_episode_page",
+      "role": "source"
+    }
+  ]
+}

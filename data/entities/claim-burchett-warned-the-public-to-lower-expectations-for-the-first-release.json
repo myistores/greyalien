@@ -1,0 +1,21 @@
+{
+  "id": "claim-burchett-warned-the-public-to-lower-expectations-for-the-first-release",
+  "type": "claim",
+  "name": "Burchett warned the public to lower expectations for the first release",
+  "summary": "The episode notes that Representative Tim Burchett had advised that the first installment would be limited and that later releases might be more revealing.",
+  "relationships": [
+    {
+      "type": "featured_in_media",
+      "target": "2026-weaponized-episode-117"
+    }
+  ],
+  "officialLinks": [],
+  "referenceSources": [
+    {
+      "label": "Official WEAPONIZED Episode #117 page",
+      "url": "https://www.weaponizedpodcast.com/episodes-4/episode-117",
+      "sourceType": "official_episode_page",
+      "role": "source"
+    }
+  ]
+}

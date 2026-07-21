@@ -1,0 +1,21 @@
+{
+  "id": "claim-borland-describes-financial-and-personal-hardship-after-coming-forward",
+  "type": "claim",
+  "name": "Borland describes financial and personal hardship after coming forward",
+  "summary": "Borland says he and his family experienced severe financial strain and disruption after he became a public UAP whistleblower.",
+  "relationships": [
+    {
+      "type": "featured_in_media",
+      "target": "2026-weaponized-episode-118"
+    }
+  ],
+  "officialLinks": [],
+  "referenceSources": [
+    {
+      "label": "Official WEAPONIZED Episode #118 page",
+      "url": "https://www.weaponizedpodcast.com/episodes-4/episode-118",
+      "sourceType": "official_episode_page",
+      "role": "source"
+    }
+  ]
+}

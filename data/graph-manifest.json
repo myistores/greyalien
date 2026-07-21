@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "entityCount": 981,
-  "relationshipCount": 2184,
+  "entityCount": 1046,
+  "relationshipCount": 2337,
   "unresolvedRelationshipCount": 16,
   "connectionCounts": {
     "1960s-area-51-engine-claim": {
@@ -834,10 +834,45 @@
       "outgoing": 9,
       "total": 15
     },
+    "2026-weaponized-episode-113": {
+      "incoming": 6,
+      "outgoing": 16,
+      "total": 22
+    },
+    "2026-weaponized-episode-114": {
+      "incoming": 6,
+      "outgoing": 15,
+      "total": 21
+    },
     "2026-weaponized-episode-115": {
       "incoming": 4,
       "outgoing": 13,
       "total": 17
+    },
+    "2026-weaponized-episode-116": {
+      "incoming": 6,
+      "outgoing": 18,
+      "total": 24
+    },
+    "2026-weaponized-episode-117": {
+      "incoming": 6,
+      "outgoing": 15,
+      "total": 21
+    },
+    "2026-weaponized-episode-118": {
+      "incoming": 6,
+      "outgoing": 16,
+      "total": 22
+    },
+    "2026-weaponized-episode-119": {
+      "incoming": 6,
+      "outgoing": 17,
+      "total": 23
+    },
+    "2026-weaponized-episode-120": {
+      "incoming": 6,
+      "outgoing": 14,
+      "total": 20
     },
     "60-minutes": {
       "incoming": 1,
@@ -855,9 +890,9 @@
       "total": 6
     },
     "aawsap": {
-      "incoming": 13,
+      "incoming": 14,
       "outgoing": 3,
-      "total": 16
+      "total": 17
     },
     "advanced-theoretical-physics-program": {
       "incoming": 2,
@@ -870,9 +905,9 @@
       "total": 2
     },
     "alex-wiggins": {
-      "incoming": 1,
+      "incoming": 2,
       "outgoing": 1,
-      "total": 2
+      "total": 3
     },
     "alexandro-wiggins": {
       "incoming": 4,
@@ -1114,6 +1149,11 @@
       "outgoing": 1,
       "total": 1
     },
+    "claim-aawsap-built-a-large-ufo-data-warehouse": {
+      "incoming": 1,
+      "outgoing": 1,
+      "total": 2
+    },
     "claim-aawsap-files-could-aid-research": {
       "incoming": 0,
       "outgoing": 1,
@@ -1204,20 +1244,45 @@
       "outgoing": 1,
       "total": 1
     },
+    "claim-borland-alleges-surveillance-hacking-and-legal-threats": {
+      "incoming": 1,
+      "outgoing": 1,
+      "total": 2
+    },
     "claim-borland-alleges-threats-and-economic-pressure": {
       "incoming": 0,
       "outgoing": 1,
       "total": 1
+    },
+    "claim-borland-describes-financial-and-personal-hardship-after-coming-forward": {
+      "incoming": 1,
+      "outgoing": 1,
+      "total": 2
     },
     "claim-borland-expands-legacy-program-allegations": {
       "incoming": 0,
       "outgoing": 1,
       "total": 1
     },
+    "claim-borland-questions-the-independence-of-an-odni-uap-investigation": {
+      "incoming": 1,
+      "outgoing": 1,
+      "total": 2
+    },
     "claim-borland-reports-firsthand-uap-observation": {
       "incoming": 0,
       "outgoing": 1,
       "total": 1
+    },
+    "claim-borland-says-he-faced-treason-threats-after-congressional-testimony": {
+      "incoming": 1,
+      "outgoing": 1,
+      "total": 2
+    },
+    "claim-borland-says-he-testified-to-congress-about-legacy-ufo-programs": {
+      "incoming": 1,
+      "outgoing": 1,
+      "total": 2
     },
     "claim-borland-says-phenomenon-may-be-ancient": {
       "incoming": 0,
@@ -1233,6 +1298,11 @@
       "incoming": 0,
       "outgoing": 1,
       "total": 1
+    },
+    "claim-brown-argues-independent-scrutiny-is-essential-to-disclosure": {
+      "incoming": 1,
+      "outgoing": 1,
+      "total": 2
     },
     "claim-brown-authored-imcon-report": {
       "incoming": 0,
@@ -1254,6 +1324,11 @@
       "outgoing": 1,
       "total": 1
     },
+    "claim-brown-describes-immaculate-constellation-as-a-layered-data-operation": {
+      "incoming": 1,
+      "outgoing": 1,
+      "total": 2
+    },
     "claim-brown-expected-clearance-consequences": {
       "incoming": 0,
       "outgoing": 1,
@@ -1269,6 +1344,26 @@
       "outgoing": 1,
       "total": 1
     },
+    "claim-brown-reports-severe-personal-and-financial-costs-after-coming-forward": {
+      "incoming": 1,
+      "outgoing": 1,
+      "total": 2
+    },
+    "claim-brown-says-a-purported-investigative-interview-felt-like-an-intelligence-operation": {
+      "incoming": 1,
+      "outgoing": 1,
+      "total": 2
+    },
+    "claim-brown-says-compartmentation-keeps-agencies-unaware-of-program-scope": {
+      "incoming": 1,
+      "outgoing": 1,
+      "total": 2
+    },
+    "claim-brown-says-immaculate-constellation-disclosure-damaged-his-life": {
+      "incoming": 1,
+      "outgoing": 1,
+      "total": 2
+    },
     "claim-brown-sought-congressional-testimony": {
       "incoming": 0,
       "outgoing": 1,
@@ -1278,6 +1373,11 @@
       "incoming": 0,
       "outgoing": 1,
       "total": 1
+    },
+    "claim-burchett-warned-the-public-to-lower-expectations-for-the-first-release": {
+      "incoming": 1,
+      "outgoing": 1,
+      "total": 2
     },
     "claim-burlison-believes-significant-uap-information-remains-withheld": {
       "incoming": 0,
@@ -1319,6 +1419,11 @@
       "outgoing": 1,
       "total": 1
     },
+    "claim-communion-helped-encounter-witnesses-discuss-their-experiences": {
+      "incoming": 1,
+      "outgoing": 1,
+      "total": 2
+    },
     "claim-congress-continues-secret-program-inquiry": {
       "incoming": 0,
       "outgoing": 1,
@@ -1339,6 +1444,11 @@
       "outgoing": 1,
       "total": 1
     },
+    "claim-congressional-oversight-remains-central-to-uap-accountability": {
+      "incoming": 1,
+      "outgoing": 1,
+      "total": 2
+    },
     "claim-congressional-strategy-influenced-by-grusch": {
       "incoming": 0,
       "outgoing": 1,
@@ -1353,6 +1463,11 @@
       "incoming": 0,
       "outgoing": 1,
       "total": 1
+    },
+    "claim-context-is-required-to-interpret-released-uap-videos": {
+      "incoming": 1,
+      "outgoing": 1,
+      "total": 2
     },
     "claim-corso-alleged-technology-transfer": {
       "incoming": 0,
@@ -1439,6 +1554,16 @@
       "outgoing": 2,
       "total": 5
     },
+    "claim-episode-argues-whistleblower-protection-is-essential-to-future-testimony": {
+      "incoming": 1,
+      "outgoing": 1,
+      "total": 2
+    },
+    "claim-episode-contrasts-experiencer-accounts-with-nuts-and-bolts-disclosure": {
+      "incoming": 1,
+      "outgoing": 1,
+      "total": 2
+    },
     "claim-excessive-secrecy-stifles-inquiry": {
       "incoming": 1,
       "outgoing": 4,
@@ -1453,6 +1578,11 @@
       "incoming": 0,
       "outgoing": 1,
       "total": 1
+    },
+    "claim-federal-ufo-file-release-drew-massive-public-attention": {
+      "incoming": 1,
+      "outgoing": 1,
+      "total": 2
     },
     "claim-firsthand-witnesses-remain-cautious": {
       "incoming": 0,
@@ -1478,6 +1608,11 @@
       "incoming": 0,
       "outgoing": 1,
       "total": 1
+    },
+    "claim-grusch-burlison-gold-and-roddenberry-advocated-serious-uap-evaluation": {
+      "incoming": 1,
+      "outgoing": 1,
+      "total": 2
     },
     "claim-grusch-interview-restored-mainstream-attention": {
       "incoming": 0,
@@ -1569,6 +1704,11 @@
       "outgoing": 4,
       "total": 7
     },
+    "claim-initial-file-release-did-not-constitute-full-disclosure": {
+      "incoming": 1,
+      "outgoing": 1,
+      "total": 2
+    },
     "claim-instantaneous-acceleration-is-one-of-the-militarys-five-observables": {
       "incoming": 0,
       "outgoing": 1,
@@ -1604,6 +1744,11 @@
       "outgoing": 1,
       "total": 1
     },
+    "claim-lacaktski-places-ufo-events-within-a-larger-paranormal-framework": {
+      "incoming": 1,
+      "outgoing": 1,
+      "total": 2
+    },
     "claim-lacatski-addresses-recovered-bodies-and-craft": {
       "incoming": 0,
       "outgoing": 1,
@@ -1614,10 +1759,25 @@
       "outgoing": 1,
       "total": 1
     },
+    "claim-lacatski-doubts-the-complete-aawsap-files-will-be-released": {
+      "incoming": 1,
+      "outgoing": 1,
+      "total": 2
+    },
     "claim-lacatski-interview-expanded-public-record": {
       "incoming": 0,
       "outgoing": 1,
       "total": 1
+    },
+    "claim-lacatski-says-a-smaller-effort-may-have-followed-aawsap": {
+      "incoming": 1,
+      "outgoing": 1,
+      "total": 2
+    },
+    "claim-lacatski-says-government-does-not-know-the-full-origin-of-ufo-phenomena": {
+      "incoming": 1,
+      "outgoing": 1,
+      "total": 2
     },
     "claim-lacatski-says-recovered-craft-was-accessed": {
       "incoming": 0,
@@ -1774,6 +1934,11 @@
       "outgoing": 1,
       "total": 1
     },
+    "claim-national-space-symposium-hosted-its-first-panel-of-uap-witnesses-and-insiders": {
+      "incoming": 1,
+      "outgoing": 1,
+      "total": 2
+    },
     "claim-navy-uap-aviation-safety": {
       "incoming": 1,
       "outgoing": 2,
@@ -1844,6 +2009,11 @@
       "outgoing": 1,
       "total": 1
     },
+    "claim-panel-proposes-a-support-plan-for-future-uap-witnesses": {
+      "incoming": 1,
+      "outgoing": 1,
+      "total": 2
+    },
     "claim-peru-crash-retrieval": {
       "incoming": 3,
       "outgoing": 4,
@@ -1908,6 +2078,11 @@
       "incoming": 0,
       "outgoing": 1,
       "total": 1
+    },
+    "claim-public-professional-forums-can-normalize-serious-uap-discussion": {
+      "incoming": 1,
+      "outgoing": 1,
+      "total": 2
     },
     "claim-public-reaction-largely-positive": {
       "incoming": 0,
@@ -1994,6 +2169,11 @@
       "outgoing": 1,
       "total": 1
     },
+    "claim-sleeping-dog-emphasizes-journalisms-role-in-ufo-transparency": {
+      "incoming": 1,
+      "outgoing": 1,
+      "total": 2
+    },
     "claim-some-objects-appeared-to-manage-their-signatures-near-sensitive-sites": {
       "incoming": 0,
       "outgoing": 1,
@@ -2023,6 +2203,21 @@
       "incoming": 0,
       "outgoing": 1,
       "total": 1
+    },
+    "claim-space-sector-leaders-have-a-role-in-uap-transparency": {
+      "incoming": 1,
+      "outgoing": 1,
+      "total": 2
+    },
+    "claim-strieber-argues-close-encounters-are-central-to-the-nhi-question": {
+      "incoming": 1,
+      "outgoing": 1,
+      "total": 2
+    },
+    "claim-strieber-describes-an-ongoing-relationship-with-the-others": {
+      "incoming": 1,
+      "outgoing": 1,
+      "total": 2
     },
     "claim-the-case-may-implicate-u-s-custody-of-recovered-evidence": {
       "incoming": 0,
@@ -2058,6 +2253,11 @@
       "incoming": 0,
       "outgoing": 1,
       "total": 1
+    },
+    "claim-transformation-2026-revisits-childhood-encounter-memories": {
+      "incoming": 1,
+      "outgoing": 1,
+      "total": 2
     },
     "claim-trinity-case-remains-important-to-vallee": {
       "incoming": 0,
@@ -2103,6 +2303,11 @@
       "incoming": 0,
       "outgoing": 1,
       "total": 1
+    },
+    "claim-uap-whistleblowers-report-severe-retaliation-after-coming-forward": {
+      "incoming": 1,
+      "outgoing": 1,
+      "total": 2
     },
     "claim-ufo-and-cryptid-reports-overlap": {
       "incoming": 0,
@@ -2984,6 +3189,11 @@
       "outgoing": 7,
       "total": 15
     },
+    "claim-wiggins-reports-intimidation-after-testifying-about-tic-tac-objects": {
+      "incoming": 1,
+      "outgoing": 1,
+      "total": 2
+    },
     "claim-witness-intimidation-contributed-to-decades-of-silence": {
       "incoming": 0,
       "outgoing": 1,
@@ -3030,14 +3240,19 @@
       "total": 13
     },
     "classified-programs": {
-      "incoming": 1,
+      "incoming": 4,
       "outgoing": 0,
-      "total": 1
+      "total": 4
     },
     "clifford-stone": {
       "incoming": 1,
       "outgoing": 2,
       "total": 3
+    },
+    "close-encounters": {
+      "incoming": 1,
+      "outgoing": 0,
+      "total": 1
     },
     "colares-ufo-incidents": {
       "incoming": 1,
@@ -3050,9 +3265,14 @@
       "total": 6
     },
     "congressional-oversight": {
-      "incoming": 33,
+      "incoming": 34,
       "outgoing": 0,
-      "total": 33
+      "total": 34
+    },
+    "contact-in-the-desert": {
+      "incoming": 1,
+      "outgoing": 0,
+      "total": 1
     },
     "counterintelligence": {
       "incoming": 2,
@@ -3125,9 +3345,9 @@
       "total": 2
     },
     "david-grusch": {
-      "incoming": 12,
+      "incoming": 13,
       "outgoing": 6,
-      "total": 18
+      "total": 19
     },
     "david-paulides": {
       "incoming": 1,
@@ -3150,14 +3370,14 @@
       "total": 2
     },
     "defense-intelligence-agency": {
-      "incoming": 9,
+      "incoming": 10,
       "outgoing": 1,
-      "total": 10
+      "total": 11
     },
     "department-of-defense": {
-      "incoming": 46,
+      "incoming": 48,
       "outgoing": 3,
-      "total": 49
+      "total": 51
     },
     "department-of-energy": {
       "incoming": 2,
@@ -3200,9 +3420,9 @@
       "total": 5
     },
     "dylan-borland": {
-      "incoming": 7,
+      "incoming": 9,
       "outgoing": 7,
-      "total": 14
+      "total": 16
     },
     "earthtech-international": {
       "incoming": 2,
@@ -3235,9 +3455,9 @@
       "total": 1
     },
     "eric-burlison": {
-      "incoming": 4,
+      "incoming": 5,
       "outgoing": 1,
-      "total": 5
+      "total": 6
     },
     "eric-davis": {
       "incoming": 3,
@@ -3309,6 +3529,11 @@
       "outgoing": 0,
       "total": 1
     },
+    "future-visions": {
+      "incoming": 0,
+      "outgoing": 0,
+      "total": 0
+    },
     "gaia": {
       "incoming": 3,
       "outgoing": 0,
@@ -3330,9 +3555,9 @@
       "total": 3
     },
     "george-knapp": {
-      "incoming": 121,
+      "incoming": 128,
       "outgoing": 7,
-      "total": 128
+      "total": 135
     },
     "glenn-gaffney": {
       "incoming": 1,
@@ -3415,9 +3640,9 @@
       "total": 3
     },
     "immaculate-constellation": {
-      "incoming": 11,
+      "incoming": 12,
       "outgoing": 2,
-      "total": 13
+      "total": 14
     },
     "instantaneous-acceleration": {
       "incoming": 1,
@@ -3460,9 +3685,9 @@
       "total": 1
     },
     "james-lacatski": {
-      "incoming": 8,
+      "incoming": 9,
       "outgoing": 1,
-      "total": 9
+      "total": 10
     },
     "jared-moskowitz": {
       "incoming": 0,
@@ -3490,9 +3715,9 @@
       "total": 1
     },
     "jeremy-corbell": {
-      "incoming": 121,
+      "incoming": 128,
       "outgoing": 5,
-      "total": 126
+      "total": 133
     },
     "jim-penniston": {
       "incoming": 0,
@@ -3695,9 +3920,14 @@
       "total": 5
     },
     "matthew-brown": {
-      "incoming": 19,
+      "incoming": 21,
       "outgoing": 2,
-      "total": 21
+      "total": 23
+    },
+    "mcminnville-ufo-festival": {
+      "incoming": 1,
+      "outgoing": 0,
+      "total": 1
     },
     "media-coverage": {
       "incoming": 1,
@@ -3724,6 +3954,11 @@
       "outgoing": 2,
       "total": 4
     },
+    "michael-lazovsky": {
+      "incoming": 1,
+      "outgoing": 0,
+      "total": 1
+    },
     "michael-shellenberger": {
       "incoming": 0,
       "outgoing": 1,
@@ -3735,9 +3970,9 @@
       "total": 1
     },
     "mike-gold": {
-      "incoming": 2,
+      "incoming": 3,
       "outgoing": 1,
-      "total": 3
+      "total": 4
     },
     "military-pilot-uap-encounters": {
       "incoming": 1,
@@ -3809,6 +4044,11 @@
       "outgoing": 0,
       "total": 1
     },
+    "national-space-symposium": {
+      "incoming": 1,
+      "outgoing": 0,
+      "total": 1
+    },
     "nazca-mummies": {
       "incoming": 1,
       "outgoing": 0,
@@ -3834,6 +4074,11 @@
       "outgoing": 0,
       "total": 3
     },
+    "non-human-intelligence": {
+      "incoming": 1,
+      "outgoing": 0,
+      "total": 1
+    },
     "nuclear-facility-uap-incidents": {
       "incoming": 1,
       "outgoing": 0,
@@ -3843,6 +4088,16 @@
       "incoming": 2,
       "outgoing": 0,
       "total": 2
+    },
+    "office-of-the-director-of-national-intelligence": {
+      "incoming": 2,
+      "outgoing": 0,
+      "total": 2
+    },
+    "paranormal-phenomena": {
+      "incoming": 1,
+      "outgoing": 0,
+      "total": 1
     },
     "patrick-pj-hughes": {
       "incoming": 0,
@@ -3868,6 +4123,11 @@
       "incoming": 1,
       "outgoing": 0,
       "total": 1
+    },
+    "public-disclosure": {
+      "incoming": 5,
+      "outgoing": 0,
+      "total": 5
     },
     "publication-1965-anatomy-of-a-phenomenon": {
       "incoming": 0,
@@ -3953,6 +4213,11 @@
       "incoming": 0,
       "outgoing": 3,
       "total": 3
+    },
+    "rod-roddenberry": {
+      "incoming": 1,
+      "outgoing": 0,
+      "total": 1
     },
     "ronald-moultrie": {
       "incoming": 0,
@@ -4070,9 +4335,14 @@
       "total": 1
     },
     "skinwalker-ranch": {
-      "incoming": 6,
+      "incoming": 7,
       "outgoing": 0,
-      "total": 6
+      "total": 7
+    },
+    "sleeping-dog-documentary": {
+      "incoming": 1,
+      "outgoing": 0,
+      "total": 1
     },
     "sol-foundation": {
       "incoming": 5,
@@ -4100,6 +4370,11 @@
       "total": 1
     },
     "space-based-uap": {
+      "incoming": 1,
+      "outgoing": 0,
+      "total": 1
+    },
+    "space-exploration": {
       "incoming": 1,
       "outgoing": 0,
       "total": 1
@@ -4644,20 +4919,60 @@
       "outgoing": 1,
       "total": 1
     },
+    "timeline-2026-03-18-weaponized-episode-113": {
+      "incoming": 0,
+      "outgoing": 1,
+      "total": 1
+    },
     "timeline-2026-04-03-s4-bob-lazar-story-release": {
       "incoming": 0,
       "outgoing": 5,
       "total": 5
+    },
+    "timeline-2026-04-08-weaponized-episode-114": {
+      "incoming": 0,
+      "outgoing": 1,
+      "total": 1
     },
     "timeline-2026-04-14-weaponized-episode-115": {
       "incoming": 0,
       "outgoing": 11,
       "total": 11
     },
+    "timeline-2026-04-25-weaponized-episode-116": {
+      "incoming": 0,
+      "outgoing": 1,
+      "total": 1
+    },
+    "timeline-2026-05-08-weaponized-episode-117": {
+      "incoming": 0,
+      "outgoing": 1,
+      "total": 1
+    },
+    "timeline-2026-05-22-weaponized-episode-118": {
+      "incoming": 0,
+      "outgoing": 1,
+      "total": 1
+    },
+    "timeline-2026-06-04-weaponized-episode-119": {
+      "incoming": 0,
+      "outgoing": 1,
+      "total": 1
+    },
+    "timeline-2026-06-18-weaponized-episode-120": {
+      "incoming": 0,
+      "outgoing": 1,
+      "total": 1
+    },
     "to-the-stars-academy": {
       "incoming": 4,
       "outgoing": 3,
       "total": 7
+    },
+    "transformation-2026": {
+      "incoming": 1,
+      "outgoing": 0,
+      "total": 1
     },
     "transmedium-uap": {
       "incoming": 5,
@@ -4683,6 +4998,11 @@
       "incoming": 2,
       "outgoing": 2,
       "total": 4
+    },
+    "uap-data-release": {
+      "incoming": 1,
+      "outgoing": 0,
+      "total": 1
     },
     "uap-disclosure": {
       "incoming": 6,
@@ -4750,11 +5070,16 @@
       "total": 9
     },
     "uap-transparency": {
-      "incoming": 7,
+      "incoming": 13,
       "outgoing": 0,
-      "total": 7
+      "total": 13
     },
     "ufo-cryptid-connection": {
+      "incoming": 1,
+      "outgoing": 0,
+      "total": 1
+    },
+    "ufo-journalism": {
       "incoming": 1,
       "outgoing": 0,
       "total": 1
@@ -4795,9 +5120,9 @@
       "total": 4
     },
     "united-states-congress": {
-      "incoming": 13,
+      "incoming": 16,
       "outgoing": 0,
-      "total": 13
+      "total": 16
     },
     "united-states-department-of-defense": {
       "incoming": 2,
@@ -4875,19 +5200,19 @@
       "total": 21
     },
     "weaponized-podcast": {
-      "incoming": 122,
+      "incoming": 129,
       "outgoing": 2,
-      "total": 124
+      "total": 131
     },
     "whistleblower-protection": {
-      "incoming": 20,
+      "incoming": 23,
       "outgoing": 0,
-      "total": 20
+      "total": 23
     },
     "whistleblower-retaliation": {
-      "incoming": 6,
+      "incoming": 9,
       "outgoing": 0,
-      "total": 6
+      "total": 9
     },
     "white-house": {
       "incoming": 1,
@@ -4895,9 +5220,9 @@
       "total": 1
     },
     "whitley-strieber": {
-      "incoming": 1,
+      "incoming": 2,
       "outgoing": 1,
-      "total": 2
+      "total": 3
     },
     "will-brown": {
       "incoming": 1,

@@ -1,0 +1,21 @@
+{
+  "id": "claim-strieber-argues-close-encounters-are-central-to-the-nhi-question",
+  "type": "claim",
+  "name": "Strieber argues close encounters are central to the NHI question",
+  "summary": "Strieber and the hosts frame direct encounter reports as potentially central to understanding the non-human intelligence question.",
+  "relationships": [
+    {
+      "type": "featured_in_media",
+      "target": "2026-weaponized-episode-120"
+    }
+  ],
+  "officialLinks": [],
+  "referenceSources": [
+    {
+      "label": "Official WEAPONIZED Episode #120 page",
+      "url": "https://www.weaponizedpodcast.com/episodes-4/episode-120",
+      "sourceType": "official_episode_page",
+      "role": "source"
+    }
+  ]
+}

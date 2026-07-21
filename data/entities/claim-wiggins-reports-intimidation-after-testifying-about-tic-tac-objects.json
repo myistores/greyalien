@@ -1,0 +1,21 @@
+{
+  "id": "claim-wiggins-reports-intimidation-after-testifying-about-tic-tac-objects",
+  "type": "claim",
+  "name": "Wiggins reports intimidation after testifying about Tic Tac objects",
+  "summary": "Alex Wiggins says he received threats and intimidation after describing a Navy encounter involving four Tic Tac-shaped objects.",
+  "relationships": [
+    {
+      "type": "featured_in_media",
+      "target": "2026-weaponized-episode-119"
+    }
+  ],
+  "officialLinks": [],
+  "referenceSources": [
+    {
+      "label": "Official WEAPONIZED Episode #119 page",
+      "url": "https://www.weaponizedpodcast.com/episodes-4/episode-119",
+      "sourceType": "official_episode_page",
+      "role": "source"
+    }
+  ]
+}

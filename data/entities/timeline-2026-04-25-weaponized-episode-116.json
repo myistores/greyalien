@@ -1,0 +1,24 @@
+{
+  "id": "timeline-2026-04-25-weaponized-episode-116",
+  "type": "timeline_event",
+  "name": "WEAPONIZED Episode #116 published",
+  "summary": "Jeremy Corbell and George Knapp review a National Space Symposium panel featuring David Grusch, Representative Eric Burlison, Mike Gold, and Rod Roddenberry discussing UAP transparency, credible testimony, space-sector responsibilities, and serious evaluation of anomalous reports.",
+  "date": "2026-04-25",
+  "dateDisplay": "April 25, 2026",
+  "eventCategory": "Podcast publication",
+  "relationships": [
+    {
+      "type": "event_for",
+      "target": "2026-weaponized-episode-116"
+    }
+  ],
+  "officialLinks": [],
+  "referenceSources": [
+    {
+      "label": "Official WEAPONIZED Episode #116 page",
+      "url": "https://www.weaponizedpodcast.com/episodes-4/episode-116",
+      "sourceType": "official_episode_page",
+      "role": "source"
+    }
+  ]
+}

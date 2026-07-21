@@ -1,0 +1,21 @@
+{
+  "id": "claim-episode-argues-whistleblower-protection-is-essential-to-future-testimony",
+  "type": "claim",
+  "name": "The episode argues whistleblower protection is essential to future testimony",
+  "summary": "Borland’s account is used to illustrate how retaliation risks can deter future witnesses from speaking publicly or to Congress.",
+  "relationships": [
+    {
+      "type": "featured_in_media",
+      "target": "2026-weaponized-episode-118"
+    }
+  ],
+  "officialLinks": [],
+  "referenceSources": [
+    {
+      "label": "Official WEAPONIZED Episode #118 page",
+      "url": "https://www.weaponizedpodcast.com/episodes-4/episode-118",
+      "sourceType": "official_episode_page",
+      "role": "source"
+    }
+  ]
+}

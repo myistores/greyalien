@@ -1,0 +1,132 @@
+{
+  "id": "2026-weaponized-episode-113",
+  "type": "podcast_episode",
+  "name": "WEAPONIZED Episode #113 — Matthew Brown Exposes How Whistleblowers Are Being Set Up",
+  "summary": "Matthew Brown expands on his assertions about Immaculate Constellation, describes the personal and financial consequences of coming forward, and argues that purported investigative channels can function as mechanisms for pressure rather than protection.",
+  "date": "2026-03-18",
+  "dateDisplay": "March 18, 2026",
+  "seriesId": "weaponized-podcast",
+  "episodeNumber": 113,
+  "episodeTitle": "Matthew Brown Exposes How Whistleblowers Are Being Set Up",
+  "status": "Published",
+  "mediaType": "Podcast episode",
+  "mediaPlatform": "WEAPONIZED",
+  "mediaHost": "Jeremy Corbell and George Knapp",
+  "mediaGuests": [
+    "matthew-brown"
+  ],
+  "mediaSubjects": [],
+  "principalClaims": [
+    "claim-brown-describes-immaculate-constellation-as-a-layered-data-operation",
+    "claim-brown-says-compartmentation-keeps-agencies-unaware-of-program-scope",
+    "claim-brown-reports-severe-personal-and-financial-costs-after-coming-forward",
+    "claim-brown-says-a-purported-investigative-interview-felt-like-an-intelligence-operation",
+    "claim-brown-argues-independent-scrutiny-is-essential-to-disclosure"
+  ],
+  "researchNotes": [],
+  "relationships": [
+    {
+      "type": "episode_of",
+      "target": "weaponized-podcast"
+    },
+    {
+      "type": "features_person",
+      "target": "jeremy-corbell",
+      "role": "host",
+      "context": "WEAPONIZED co-host"
+    },
+    {
+      "type": "features_person",
+      "target": "george-knapp",
+      "role": "host",
+      "context": "WEAPONIZED co-host"
+    },
+    {
+      "type": "features_person",
+      "target": "matthew-brown",
+      "role": "guest",
+      "context": "Featured episode participant"
+    },
+    {
+      "type": "references_organization",
+      "target": "office-of-the-director-of-national-intelligence"
+    },
+    {
+      "type": "references_organization",
+      "target": "department-of-defense"
+    },
+    {
+      "type": "discussed_topic",
+      "target": "immaculate-constellation"
+    },
+    {
+      "type": "discussed_topic",
+      "target": "classified-programs"
+    },
+    {
+      "type": "discussed_topic",
+      "target": "whistleblower-protection"
+    },
+    {
+      "type": "discussed_topic",
+      "target": "whistleblower-retaliation"
+    },
+    {
+      "type": "discussed_topic",
+      "target": "uap-transparency"
+    },
+    {
+      "type": "presented_claim",
+      "target": "claim-brown-describes-immaculate-constellation-as-a-layered-data-operation",
+      "context": "Principal claim discussed in the episode"
+    },
+    {
+      "type": "presented_claim",
+      "target": "claim-brown-says-compartmentation-keeps-agencies-unaware-of-program-scope",
+      "context": "Principal claim discussed in the episode"
+    },
+    {
+      "type": "presented_claim",
+      "target": "claim-brown-reports-severe-personal-and-financial-costs-after-coming-forward",
+      "context": "Principal claim discussed in the episode"
+    },
+    {
+      "type": "presented_claim",
+      "target": "claim-brown-says-a-purported-investigative-interview-felt-like-an-intelligence-operation",
+      "context": "Principal claim discussed in the episode"
+    },
+    {
+      "type": "presented_claim",
+      "target": "claim-brown-argues-independent-scrutiny-is-essential-to-disclosure",
+      "context": "Principal claim discussed in the episode"
+    }
+  ],
+  "mediaLinks": [
+    {
+      "label": "Open the official Episode #113 page",
+      "url": "https://www.weaponizedpodcast.com/episodes-4/episode-113",
+      "platform": "WEAPONIZED"
+    },
+    {
+      "label": "Listen to WEAPONIZED",
+      "url": "https://link.chtbl.com/Weaponized",
+      "platform": "Official audio feed"
+    }
+  ],
+  "eventCategory": "Podcast publication",
+  "officialLinks": [],
+  "referenceSources": [
+    {
+      "label": "Official WEAPONIZED Episode #113 page",
+      "url": "https://www.weaponizedpodcast.com/episodes-4/episode-113",
+      "sourceType": "official_episode_page",
+      "role": "source"
+    },
+    {
+      "label": "Listen to WEAPONIZED",
+      "url": "https://link.chtbl.com/Weaponized",
+      "sourceType": "official_audio_feed",
+      "role": "source"
+    }
+  ]
+}

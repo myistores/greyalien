@@ -1,3 +1,11 @@
+# V19.9 — WEAPONIZED Episodes #113–#120
+
+- Added Episodes #113, #114, and #116–#120 as content-only production records.
+- Preserved the existing Episode #115 record without duplication or replacement.
+- Added 35 source-grounded principal claims and seven publication timeline events.
+- Updated Latest Additions, Development Updates, relationship counts, podcast indexes, related content, entity pages, and sitemap outputs.
+- No architecture, rendering, template, schema, navigation, UI, styling, or routing changes.
+
 # V19.8 — WEAPONIZED Episodes #32–#41
 
 - Added ten WEAPONIZED episode records (#32–#41).

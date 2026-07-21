@@ -1,0 +1,21 @@
+{
+  "id": "claim-brown-argues-independent-scrutiny-is-essential-to-disclosure",
+  "type": "claim",
+  "name": "Brown argues independent scrutiny is essential to disclosure",
+  "summary": "Brown concludes that public scrutiny and independent journalism may be more effective than official channels in producing meaningful transparency.",
+  "relationships": [
+    {
+      "type": "featured_in_media",
+      "target": "2026-weaponized-episode-113"
+    }
+  ],
+  "officialLinks": [],
+  "referenceSources": [
+    {
+      "label": "Official WEAPONIZED Episode #113 page",
+      "url": "https://www.weaponizedpodcast.com/episodes-4/episode-113",
+      "sourceType": "official_episode_page",
+      "role": "source"
+    }
+  ]
+}

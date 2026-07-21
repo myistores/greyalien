@@ -1,0 +1,21 @@
+{
+  "id": "claim-lacatski-says-a-smaller-effort-may-have-followed-aawsap",
+  "type": "claim",
+  "name": "Lacatski says a smaller effort may have followed AAWSAP",
+  "summary": "Lacatski hints that a narrower effort associated with the proposed Kona Blue program continued aspects of the work after AAWSAP ended.",
+  "relationships": [
+    {
+      "type": "featured_in_media",
+      "target": "2026-weaponized-episode-114"
+    }
+  ],
+  "officialLinks": [],
+  "referenceSources": [
+    {
+      "label": "Official WEAPONIZED Episode #114 page",
+      "url": "https://www.weaponizedpodcast.com/episodes-4/episode-114",
+      "sourceType": "official_episode_page",
+      "role": "source"
+    }
+  ]
+}
