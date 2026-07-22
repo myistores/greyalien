@@ -382,3 +382,9 @@
 - The section is omitted when no qualifying series remains.
 - The rule is generic for all current and future podcast series.
 
+
+## V20.2 — Duplicate Entity Rendering Suppression
+- Added canonical-aware duplicate suppression before relationship-card grouping.
+- Applied one-card-per-real-world-entity behavior across all relationship sections and Continue Research.
+- Added stable podcast episode identity using parent series and episode number.
+- Preserved all entity records and knowledge-graph relationships unchanged.
