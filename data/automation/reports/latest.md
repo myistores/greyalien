@@ -1,10 +1,10 @@
-# GreyAlien V20.3 Deployment Report
+# GreyAlien V20.4 Deployment Report
 
 **Status:** Ready for deployment  
-**Generated:** 2026-07-22T18:06:43.895155+00:00
+**Generated:** 2026-07-22T19:25:35.170475+00:00
 
 - Entities: 1046
-- Resolved relationships: 2339
+- Resolved relationships: 2351
 - Unresolved legacy warnings: 16
 - Podcast series: 8
 - Researched podcast episodes: 123
@@ -15,4 +15,4 @@
 
 ## Release summary
 
-Confirmed the canonical Transformation 2026 document, added the source-supported Whitley Strieber author relationship and missing Episode 120 appearance link, preserved the existing episode-to-document relationship, and documented unsupported enrichment opportunities.
+Enriched Bob Lazar, David Grusch, and Jacques Vallée with narrowly selected source-supported documentary, podcast, publication, claim, and organization relationships; repaired the canonical Grusch secret-program claim attribution; and preserved all unrelated graph content.

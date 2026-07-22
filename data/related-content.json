@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "generatedBy": "tools/build_related_content.py",
-  "generatedAt": "2026-07-22T18:06:36.810826+00:00",
+  "generatedAt": "2026-07-22T19:25:27.573430+00:00",
   "referencedIn": {
     "1960s-area-51-engine-claim": [
       {
@@ -511,6 +511,14 @@
     ],
     "2018-bob-lazar-area-51-flying-saucers": [
       {
+        "id": "bob-lazar",
+        "type": "person",
+        "name": "Bob Lazar",
+        "relationshipType": "appeared_in",
+        "role": "primary_subject",
+        "context": "Central documentary subject"
+      },
+      {
         "id": "jeremy-corbell",
         "type": "person",
         "name": "Jeremy Corbell",
@@ -659,6 +667,14 @@
     ],
     "2023-07-26-house-oversight-uap": [
       {
+        "id": "claim-secret-uap-programs",
+        "type": "claim",
+        "name": "David Grusch alleges that secret UAP programs were withheld from congressional oversight",
+        "relationshipType": "presented_at",
+        "role": "",
+        "context": ""
+      },
+      {
         "id": "claim-crash-retrieval-program",
         "type": "claim",
         "name": "David Grusch alleges that the United States has operated a crash-retrieval program",
@@ -792,6 +808,14 @@
       }
     ],
     "2023-grusch-written-testimony": [
+      {
+        "id": "claim-secret-uap-programs",
+        "type": "claim",
+        "name": "David Grusch alleges that secret UAP programs were withheld from congressional oversight",
+        "relationshipType": "contained_in",
+        "role": "",
+        "context": ""
+      },
       {
         "id": "claim-crash-retrieval-program",
         "type": "claim",
@@ -2790,14 +2814,6 @@
         "context": ""
       },
       {
-        "id": "claim-secret-uap-programs",
-        "type": "claim",
-        "name": "David Grusch alleges that secret UAP programs were withheld from congressional oversight",
-        "relationshipType": "presented_at",
-        "role": "",
-        "context": ""
-      },
-      {
         "id": "2024-elizondo-written-testimony",
         "type": "document",
         "name": "Luis Elizondo Written Testimony",
@@ -2898,14 +2914,6 @@
         "id": "claim-whistleblower-retaliation",
         "type": "claim",
         "name": "David Grusch alleges he experienced retaliation connected to his UAP disclosures",
-        "relationshipType": "contained_in",
-        "role": "",
-        "context": ""
-      },
-      {
-        "id": "claim-secret-uap-programs",
-        "type": "claim",
-        "name": "David Grusch alleges that secret UAP programs were withheld from congressional oversight",
         "relationshipType": "contained_in",
         "role": "",
         "context": ""
@@ -3557,6 +3565,14 @@
         "relationshipType": "featured_in_media",
         "role": "",
         "context": ""
+      },
+      {
+        "id": "jacques-vallee",
+        "type": "person",
+        "name": "Jacques Vallée",
+        "relationshipType": "appeared_in",
+        "role": "guest",
+        "context": "Featured episode participant"
       },
       {
         "id": "timeline-2025-12-23-weaponized-episode-102",
@@ -5004,6 +5020,14 @@
     ],
     "2026-s4-bob-lazar-story": [
       {
+        "id": "bob-lazar",
+        "type": "person",
+        "name": "Bob Lazar",
+        "relationshipType": "appeared_in",
+        "role": "primary_subject",
+        "context": "Central documentary subject and narrator"
+      },
+      {
         "id": "timeline-2026-04-03-s4-bob-lazar-story-release",
         "type": "timeline_event",
         "name": "S4: The Bob Lazar Story Released Digitally",
@@ -5686,6 +5710,14 @@
         "relationshipType": "featured_in_media",
         "role": "",
         "context": ""
+      },
+      {
+        "id": "david-grusch",
+        "type": "person",
+        "name": "David Grusch",
+        "relationshipType": "appeared_in",
+        "role": "guest",
+        "context": "Featured participant in the National Space Symposium panel discussion"
       },
       {
         "id": "timeline-2026-04-25-weaponized-episode-116",
@@ -7672,6 +7704,14 @@
     "claim-eglin-triangle-details-expanded": [],
     "claim-element-115-propulsion": [
       {
+        "id": "bob-lazar",
+        "type": "person",
+        "name": "Bob Lazar",
+        "relationshipType": "made_claim",
+        "role": "",
+        "context": "Claimed a stable form of Element 115 powered the Sport Model craft"
+      },
+      {
         "id": "2026-weaponized-episode-115",
         "type": "podcast_episode",
         "name": "WEAPONIZED Episode #115 — A New Chapter in the Bob Lazar Saga",
@@ -8108,6 +8148,14 @@
     ],
     "claim-s4-nine-craft": [
       {
+        "id": "bob-lazar",
+        "type": "person",
+        "name": "Bob Lazar",
+        "relationshipType": "made_claim",
+        "role": "",
+        "context": "Claimed nine unconventional craft were stored at the alleged S4 facility"
+      },
+      {
         "id": "2026-weaponized-episode-115",
         "type": "podcast_episode",
         "name": "WEAPONIZED Episode #115 — A New Chapter in the Bob Lazar Saga",
@@ -8202,6 +8250,14 @@
         "relationshipType": "made_claim",
         "role": "",
         "context": ""
+      },
+      {
+        "id": "david-grusch",
+        "type": "person",
+        "name": "David Grusch",
+        "relationshipType": "made_claim",
+        "role": "",
+        "context": "Alleged that classified UAP programs were withheld from authorized congressional oversight"
       },
       {
         "id": "harald-malmgren",
@@ -8511,7 +8567,16 @@
     "claim-weaponized-3-2": [],
     "claim-weaponized-3-3": [],
     "claim-weaponized-3-4": [],
-    "claim-weaponized-30-1": [],
+    "claim-weaponized-30-1": [
+      {
+        "id": "david-grusch",
+        "type": "person",
+        "name": "David Grusch",
+        "relationshipType": "made_claim",
+        "role": "",
+        "context": "Stated that he interviewed more than forty people with claimed firsthand knowledge"
+      }
+    ],
     "claim-weaponized-30-2": [],
     "claim-weaponized-30-3": [],
     "claim-weaponized-30-4": [],
@@ -9433,6 +9498,14 @@
     ],
     "david-grinspoon": [],
     "david-grusch": [
+      {
+        "id": "claim-secret-uap-programs",
+        "type": "claim",
+        "name": "David Grusch alleges that secret UAP programs were withheld from congressional oversight",
+        "relationshipType": "made_by",
+        "role": "",
+        "context": ""
+      },
       {
         "id": "2023-grusch-written-testimony",
         "type": "document",
@@ -14566,14 +14639,6 @@
         "context": ""
       },
       {
-        "id": "claim-secret-uap-programs",
-        "type": "claim",
-        "name": "David Grusch alleges that secret UAP programs were withheld from congressional oversight",
-        "relationshipType": "made_by",
-        "role": "",
-        "context": ""
-      },
-      {
         "id": "2024-elizondo-written-testimony",
         "type": "document",
         "name": "Luis Elizondo Written Testimony",
@@ -15275,6 +15340,14 @@
     ],
     "national-institute-for-discovery-science": [
       {
+        "id": "jacques-vallee",
+        "type": "person",
+        "name": "Jacques Vallée",
+        "relationshipType": "affiliated_with",
+        "role": "scientific_advisor",
+        "context": "Served in the NIDS scientific advisory network"
+      },
+      {
         "id": "john-b-alexander",
         "type": "person",
         "name": "John B. Alexander",
@@ -15632,9 +15705,36 @@
         "context": ""
       }
     ],
-    "publication-1965-anatomy-of-a-phenomenon": [],
-    "publication-1969-passport-to-magonia": [],
-    "publication-1975-edge-of-reality": [],
+    "publication-1965-anatomy-of-a-phenomenon": [
+      {
+        "id": "jacques-vallee",
+        "type": "person",
+        "name": "Jacques Vallée",
+        "relationshipType": "authored",
+        "role": "author",
+        "context": "Author of the foundational 1965 scientific appraisal"
+      }
+    ],
+    "publication-1969-passport-to-magonia": [
+      {
+        "id": "jacques-vallee",
+        "type": "person",
+        "name": "Jacques Vallée",
+        "relationshipType": "authored",
+        "role": "author",
+        "context": "Author of the influential 1969 comparative study"
+      }
+    ],
+    "publication-1975-edge-of-reality": [
+      {
+        "id": "jacques-vallee",
+        "type": "person",
+        "name": "Jacques Vallée",
+        "relationshipType": "authored",
+        "role": "co_author",
+        "context": "Co-authored with J. Allen Hynek"
+      }
+    ],
     "queensland-saucer-nests": [
       {
         "id": "2024-weaponized-episode-63",

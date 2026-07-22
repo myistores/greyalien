@@ -1,7 +1,7 @@
 {
-  "version": "20.3",
-  "title": "Knowledge Graph Enrichment Pilot — Whitley Strieber",
+  "version": "20.4",
+  "title": "Knowledge Graph Enrichment — Batch A",
   "date": "2026-07-22",
-  "summary": "Confirmed the canonical Transformation 2026 document, added the source-supported Whitley Strieber author relationship and missing Episode 120 appearance link, preserved the existing episode-to-document relationship, and documented unsupported enrichment opportunities.",
-  "phase": "Knowledge graph enrichment pilot"
+  "summary": "Enriched Bob Lazar, David Grusch, and Jacques Vallée with narrowly selected source-supported documentary, podcast, publication, claim, and organization relationships; repaired the canonical Grusch secret-program claim attribution; and preserved all unrelated graph content.",
+  "phase": "Knowledge graph enrichment — Batch A"
 }

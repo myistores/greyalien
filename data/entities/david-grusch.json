@@ -33,6 +33,22 @@
     {
       "type": "made_claim",
       "target": "claim-whistleblower-retaliation"
+    },
+    {
+      "type": "appeared_in",
+      "target": "2026-weaponized-episode-116",
+      "role": "guest",
+      "context": "Featured participant in the National Space Symposium panel discussion"
+    },
+    {
+      "type": "made_claim",
+      "target": "claim-secret-uap-programs",
+      "context": "Alleged that classified UAP programs were withheld from authorized congressional oversight"
+    },
+    {
+      "type": "made_claim",
+      "target": "claim-weaponized-30-1",
+      "context": "Stated that he interviewed more than forty people with claimed firsthand knowledge"
     }
   ],
   "profileStatus": "Public whistleblower and congressional witness",

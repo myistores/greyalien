@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "entityCount": 1046,
-  "relationshipCount": 2339,
+  "relationshipCount": 2351,
   "unresolvedRelationshipCount": 16,
   "connectionCounts": {
     "1960s-area-51-engine-claim": {
@@ -90,9 +90,9 @@
       "total": 4
     },
     "2018-bob-lazar-area-51-flying-saucers": {
-      "incoming": 2,
+      "incoming": 3,
       "outgoing": 4,
-      "total": 6
+      "total": 7
     },
     "2019-05-26-nyt-navy-pilots-uap": {
       "incoming": 1,
@@ -145,9 +145,9 @@
       "total": 8
     },
     "2023-07-26-house-oversight-uap": {
-      "incoming": 14,
+      "incoming": 15,
       "outgoing": 10,
-      "total": 24
+      "total": 25
     },
     "2023-09-06-podcast-ufo-jonathan-weygandt": {
       "incoming": 1,
@@ -160,9 +160,9 @@
       "total": 8
     },
     "2023-grusch-written-testimony": {
-      "incoming": 2,
+      "incoming": 3,
       "outgoing": 4,
-      "total": 6
+      "total": 7
     },
     "2023-house-uap-hearing-transcript": {
       "incoming": 1,
@@ -420,9 +420,9 @@
       "total": 6
     },
     "2024-11-13-house-oversight-uap": {
-      "incoming": 10,
+      "incoming": 9,
       "outgoing": 11,
-      "total": 21
+      "total": 20
     },
     "2024-11-19-senate-aaro-update": {
       "incoming": 1,
@@ -445,9 +445,9 @@
       "total": 4
     },
     "2024-elizondo-written-testimony": {
-      "incoming": 3,
+      "incoming": 2,
       "outgoing": 6,
-      "total": 9
+      "total": 8
     },
     "2024-weaponized-episode-46": {
       "incoming": 1,
@@ -580,9 +580,9 @@
       "total": 16
     },
     "2025-weaponized-episode-102": {
-      "incoming": 6,
+      "incoming": 7,
       "outgoing": 11,
-      "total": 17
+      "total": 18
     },
     "2025-weaponized-episode-65": {
       "incoming": 3,
@@ -780,9 +780,9 @@
       "total": 6
     },
     "2026-s4-bob-lazar-story": {
-      "incoming": 1,
+      "incoming": 2,
       "outgoing": 4,
-      "total": 5
+      "total": 6
     },
     "2026-weaponized-episode-103": {
       "incoming": 6,
@@ -850,9 +850,9 @@
       "total": 17
     },
     "2026-weaponized-episode-116": {
-      "incoming": 6,
+      "incoming": 7,
       "outgoing": 18,
-      "total": 24
+      "total": 25
     },
     "2026-weaponized-episode-117": {
       "incoming": 6,
@@ -996,8 +996,8 @@
     },
     "bob-lazar": {
       "incoming": 15,
-      "outgoing": 5,
-      "total": 20
+      "outgoing": 9,
+      "total": 24
     },
     "boris-sokolov": {
       "incoming": 1,
@@ -1550,9 +1550,9 @@
       "total": 1
     },
     "claim-element-115-propulsion": {
-      "incoming": 3,
+      "incoming": 4,
       "outgoing": 2,
-      "total": 5
+      "total": 6
     },
     "claim-episode-argues-whistleblower-protection-is-essential-to-future-testimony": {
       "incoming": 1,
@@ -2125,9 +2125,9 @@
       "total": 5
     },
     "claim-s4-nine-craft": {
-      "incoming": 2,
+      "incoming": 3,
       "outgoing": 2,
-      "total": 4
+      "total": 5
     },
     "claim-s4-reverse-engineering": {
       "incoming": 7,
@@ -2155,9 +2155,9 @@
       "total": 1
     },
     "claim-secret-uap-programs": {
-      "incoming": 9,
+      "incoming": 10,
       "outgoing": 5,
-      "total": 14
+      "total": 15
     },
     "claim-skinwalker-research-treated-phenomena-as-connected": {
       "incoming": 0,
@@ -2810,9 +2810,9 @@
       "total": 1
     },
     "claim-weaponized-30-1": {
-      "incoming": 0,
+      "incoming": 1,
       "outgoing": 1,
-      "total": 1
+      "total": 2
     },
     "claim-weaponized-30-2": {
       "incoming": 0,
@@ -3345,9 +3345,9 @@
       "total": 2
     },
     "david-grusch": {
-      "incoming": 13,
-      "outgoing": 6,
-      "total": 19
+      "incoming": 14,
+      "outgoing": 9,
+      "total": 23
     },
     "david-paulides": {
       "incoming": 1,
@@ -3661,8 +3661,8 @@
     },
     "jacques-vallee": {
       "incoming": 8,
-      "outgoing": 1,
-      "total": 9
+      "outgoing": 6,
+      "total": 14
     },
     "jake-barber": {
       "incoming": 0,
@@ -3890,9 +3890,9 @@
       "total": 4
     },
     "luis-elizondo": {
-      "incoming": 9,
+      "incoming": 8,
       "outgoing": 6,
-      "total": 15
+      "total": 14
     },
     "malmstrom-air-force-base": {
       "incoming": 1,
@@ -4030,9 +4030,9 @@
       "total": 2
     },
     "national-institute-for-discovery-science": {
-      "incoming": 7,
+      "incoming": 8,
       "outgoing": 0,
-      "total": 7
+      "total": 8
     },
     "national-press-club": {
       "incoming": 1,
@@ -4130,19 +4130,19 @@
       "total": 5
     },
     "publication-1965-anatomy-of-a-phenomenon": {
-      "incoming": 0,
+      "incoming": 1,
       "outgoing": 1,
-      "total": 1
+      "total": 2
     },
     "publication-1969-passport-to-magonia": {
-      "incoming": 0,
+      "incoming": 1,
       "outgoing": 1,
-      "total": 1
+      "total": 2
     },
     "publication-1975-edge-of-reality": {
-      "incoming": 0,
+      "incoming": 1,
       "outgoing": 2,
-      "total": 2
+      "total": 3
     },
     "queensland-saucer-nests": {
       "incoming": 1,

@@ -25,6 +25,28 @@
       "target": "2026-weaponized-episode-115",
       "role": "primary_subject",
       "context": "Central subject of the episode and documentary discussion"
+    },
+    {
+      "type": "appeared_in",
+      "target": "2018-bob-lazar-area-51-flying-saucers",
+      "role": "primary_subject",
+      "context": "Central documentary subject"
+    },
+    {
+      "type": "appeared_in",
+      "target": "2026-s4-bob-lazar-story",
+      "role": "primary_subject",
+      "context": "Central documentary subject and narrator"
+    },
+    {
+      "type": "made_claim",
+      "target": "claim-element-115-propulsion",
+      "context": "Claimed a stable form of Element 115 powered the Sport Model craft"
+    },
+    {
+      "type": "made_claim",
+      "target": "claim-s4-nine-craft",
+      "context": "Claimed nine unconventional craft were stored at the alleged S4 facility"
     }
   ],
   "profileStatus": "Foundational public claimant and disclosure personality",

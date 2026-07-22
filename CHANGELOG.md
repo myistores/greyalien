@@ -397,3 +397,10 @@
 - Applied one-card-per-real-world-entity behavior across all relationship sections and Continue Research.
 - Added stable podcast episode identity using parent series and episode number.
 - Preserved all entity records and knowledge-graph relationships unchanged.
+
+## V20.4 — Knowledge Graph Enrichment, Batch A
+- Enriched Bob Lazar with two central documentary and two canonical claim relationships.
+- Enriched David Grusch with a direct Episode #116 guest link and two canonical claim relationships.
+- Repaired the canonical secret-UAP-program claim attribution and evidence chain to David Grusch and the July 2023 hearing record.
+- Enriched Jacques Vallée with three authorship relationships, Episode #102 guest status, and NIDS scientific-advisor affiliation.
+- Rebuilt reciprocal discovery and unique graph counts without creating entities or changing presentation architecture.

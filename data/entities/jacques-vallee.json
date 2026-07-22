@@ -8,6 +8,36 @@
       "type": "collaborated_with",
       "target": "j-allen-hynek",
       "role": "Research collaborator"
+    },
+    {
+      "type": "authored",
+      "target": "publication-1965-anatomy-of-a-phenomenon",
+      "role": "author",
+      "context": "Author of the foundational 1965 scientific appraisal"
+    },
+    {
+      "type": "authored",
+      "target": "publication-1969-passport-to-magonia",
+      "role": "author",
+      "context": "Author of the influential 1969 comparative study"
+    },
+    {
+      "type": "authored",
+      "target": "publication-1975-edge-of-reality",
+      "role": "co_author",
+      "context": "Co-authored with J. Allen Hynek"
+    },
+    {
+      "type": "appeared_in",
+      "target": "2025-weaponized-episode-102",
+      "role": "guest",
+      "context": "Featured episode participant"
+    },
+    {
+      "type": "affiliated_with",
+      "target": "national-institute-for-discovery-science",
+      "role": "scientific_advisor",
+      "context": "Served in the NIDS scientific advisory network"
     }
   ],
   "profileStatus": "Scientist, author, and UAP researcher",
