@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "generatedBy": "tools/build_related_content.py",
-  "generatedAt": "2026-07-21T19:13:00.427392+00:00",
+  "generatedAt": "2026-07-22T18:06:36.810826+00:00",
   "referencedIn": {
     "1960s-area-51-engine-claim": [
       {
@@ -5886,6 +5886,14 @@
         "relationshipType": "featured_in_media",
         "role": "",
         "context": ""
+      },
+      {
+        "id": "whitley-strieber",
+        "type": "person",
+        "name": "Whitley Strieber",
+        "relationshipType": "appeared_in",
+        "role": "guest",
+        "context": "Featured in WEAPONIZED Episode #120"
       },
       {
         "id": "timeline-2026-06-18-weaponized-episode-120",
@@ -17159,6 +17167,14 @@
       }
     ],
     "transformation-2026": [
+      {
+        "id": "whitley-strieber",
+        "type": "person",
+        "name": "Whitley Strieber",
+        "relationshipType": "authored",
+        "role": "",
+        "context": "Author of Transformation 2026"
+      },
       {
         "id": "2026-weaponized-episode-120",
         "type": "podcast_episode",

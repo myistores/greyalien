@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "entityCount": 1046,
-  "relationshipCount": 2337,
+  "relationshipCount": 2339,
   "unresolvedRelationshipCount": 16,
   "connectionCounts": {
     "1960s-area-51-engine-claim": {
@@ -870,9 +870,9 @@
       "total": 23
     },
     "2026-weaponized-episode-120": {
-      "incoming": 6,
+      "incoming": 7,
       "outgoing": 14,
-      "total": 20
+      "total": 21
     },
     "60-minutes": {
       "incoming": 1,
@@ -4970,9 +4970,9 @@
       "total": 7
     },
     "transformation-2026": {
-      "incoming": 1,
+      "incoming": 2,
       "outgoing": 0,
-      "total": 1
+      "total": 2
     },
     "transmedium-uap": {
       "incoming": 5,
@@ -5221,8 +5221,8 @@
     },
     "whitley-strieber": {
       "incoming": 2,
-      "outgoing": 1,
-      "total": 3
+      "outgoing": 3,
+      "total": 5
     },
     "will-brown": {
       "incoming": 1,

@@ -9,6 +9,17 @@
       "target": "2023-weaponized-episode-23",
       "role": "guest",
       "context": "Featured in WEAPONIZED Episode #23"
+    },
+    {
+      "type": "appeared_in",
+      "target": "2026-weaponized-episode-120",
+      "role": "guest",
+      "context": "Featured in WEAPONIZED Episode #120"
+    },
+    {
+      "type": "authored",
+      "target": "transformation-2026",
+      "context": "Author of Transformation 2026"
     }
   ],
   "profileStatus": "Author of Communion who has publicly described decades of unusual encounters with beings he calls the Visitors.",
@@ -23,6 +34,18 @@
       "url": "https://www.weaponizedpodcast.com/episodes-1/episode-number-23",
       "sourceType": "official_episode_page",
       "role": "source"
+    },
+    {
+      "label": "Official WEAPONIZED Episode #120 page",
+      "url": "https://www.weaponizedpodcast.com/episodes-4/episode-120",
+      "sourceType": "official_episode_page",
+      "role": "source"
+    },
+    {
+      "label": "Google Books — Transformation 2026",
+      "url": "https://books.google.com/books/about/Transformation_2026.html?id=45ff0QEACAAJ",
+      "sourceType": "bibliographic_record",
+      "role": "primary_reference"
     }
   ]
 }

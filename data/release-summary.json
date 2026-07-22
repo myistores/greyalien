@@ -1,7 +1,7 @@
 {
-  "version": "20.1",
-  "title": "Related Podcast Series Optimization",
-  "date": "2026-07-21",
-  "summary": "Suppressed each podcast episode's own parent series from Related Podcast Series, retained only directly connected cross-series records, and hides the section when none qualify. The rule applies generically to all current and future podcast series.",
-  "phase": "Podcast optimization — Related Podcast Series"
+  "version": "20.3",
+  "title": "Knowledge Graph Enrichment Pilot — Whitley Strieber",
+  "date": "2026-07-22",
+  "summary": "Confirmed the canonical Transformation 2026 document, added the source-supported Whitley Strieber author relationship and missing Episode 120 appearance link, preserved the existing episode-to-document relationship, and documented unsupported enrichment opportunities.",
+  "phase": "Knowledge graph enrichment pilot"
 }

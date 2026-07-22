@@ -2,8 +2,21 @@
   "id": "transformation-2026",
   "type": "document",
   "name": "Transformation 2026",
-  "summary": "Book by Whitley Strieber revisiting his reported encounter experiences and their possible meaning.",
+  "summary": "Updated edition of Whitley Strieber’s Transformation, revisiting his family’s reported encounter experiences and their possible meaning.",
   "relationships": [],
   "officialLinks": [],
-  "referenceSources": []
+  "referenceSources": [
+    {
+      "label": "Google Books — Transformation 2026",
+      "url": "https://books.google.com/books/about/Transformation_2026.html?id=45ff0QEACAAJ",
+      "sourceType": "bibliographic_record",
+      "role": "primary_reference"
+    },
+    {
+      "label": "Official WEAPONIZED Episode #120 page",
+      "url": "https://www.weaponizedpodcast.com/episodes-4/episode-120",
+      "sourceType": "official_episode_page",
+      "role": "supporting_reference"
+    }
+  ]
 }

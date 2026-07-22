@@ -1,0 +1,82 @@
+{
+  "startedAt": "2026-07-22T18:06:34.791146+00:00",
+  "finishedAt": "2026-07-22T18:06:44.018543+00:00",
+  "status": "passed",
+  "steps": [
+    {
+      "step": "build_graph.py",
+      "returnCode": 0,
+      "output": "Built index for 1046 entities and 2339 resolved relationships."
+    },
+    {
+      "step": "build_timeline_normalization.py",
+      "returnCode": 0,
+      "output": "Timeline normalization built: 109 canonical events, 3 aliases, 0 conflicts."
+    },
+    {
+      "step": "build_podcasts.py",
+      "returnCode": 0,
+      "output": "Built 8 podcast series and 123 episode records."
+    },
+    {
+      "step": "build_related_content.py",
+      "returnCode": 0,
+      "output": "Built related-content data for 1046 entities and 123 podcast episodes."
+    },
+    {
+      "step": "build_entity_pages.py",
+      "returnCode": 0,
+      "output": "Generated 1046 stable entity pages."
+    },
+    {
+      "step": "build_homepage.py",
+      "returnCode": 0,
+      "output": "Updated homepage Latest Additions for GreyAlien Version 20.3."
+    },
+    {
+      "step": "build_sitemap.py",
+      "returnCode": 0,
+      "output": "Built sitemap with 1057 URLs."
+    },
+    {
+      "step": "validate_graph.py",
+      "returnCode": 0,
+      "output": "Checked 1046 entities and 2355 declared relationships.\nWarnings: 16 unresolved legacy relationship targets remain.\nVALIDATION PASSED"
+    },
+    {
+      "step": "validate_podcasts.py",
+      "returnCode": 0,
+      "output": "Checked 8 series and 123 episodes.\nPODCAST VALIDATION PASSED"
+    },
+    {
+      "step": "validate_rendering_rules.py",
+      "returnCode": 0,
+      "output": "Rendering rule validation: PASSED (11 categories, 12 entity types)\nUnified Media category: interview + podcast_episode"
+    },
+    {
+      "step": "validate_timeline_normalization.py",
+      "returnCode": 0,
+      "output": "Timeline normalization validation: PASSED (3 aliases)."
+    },
+    {
+      "step": "validate_sources.py",
+      "returnCode": 0,
+      "output": "Link architecture validation: 98 official links, 1061 reference sources, 0 errors, 31 warnings.\nWARNING: 60-minutes: no verified official links recorded\nWARNING: aatip: no verified official links recorded\nWARNING: aawsap: no verified official links recorded\nWARNING: advanced-theoretical-physics-program: no verified official links recorded\nWARNING: all-domain-anomaly-resolution-office: no verified official links recorded\nWARNING: animal-wellness-action: no verified official links recorded\nWARNING: ask-a-pol: no verified official links recorded\nWARNING: australian-broadcasting-corporation: no verified official links recorded\nWARNING: bigelow-aerospace: no verified official links recorded\nWARNING: brazilian-commission-of-ufologists: no verified official links recorded\nWARNING: buddha-jones: no verified official links recorded\nWARNING: defence-research-and-development-canada: no verified official links recorded\nWARNING: eglin-air-force-base: no verified official links recorded\nWARNING: five-eyes: no verified official links recorded\nWARNING: fox-news: no verified official links recorded\nWARNING: harvard-university: no verified official links recorded\nWARNING: lord-huron: no verified official links recorded\nWARNING: national-press-club: no verified official links recorded\nWARNING: office-of-the-director-of-national-intelligence: no verified official links recorded\nWARNING: soviet-armed-forces: no verified official links recorded\nWARNING: the-new-york-times: no verified official links recorded\nWARNING: uap-caucus: no verified official links recorded\nWARNING: uap-register: no verified official links recorded\nWARNING: uap-science-advisory-council: no verified official links recorded\nWARNING: unhidden-foundation: no verified official links recorded\nWARNING: united-states-air-force-thunderbirds: no verified official links recorded\nWARNING: united-states-congress: no verified official links recorded\nWARNING: united-states-department-of-defense: no verified official links recorded\nWARNING: uss-jackson: no verified official links recorded\nWARNING: wall-street-journal: no verified official links recorded\nWARNING: white-house: no verified official links recorded"
+    },
+    {
+      "step": "validate_visual_identity.py",
+      "returnCode": 0,
+      "output": "Visual identity validation: 0 error(s), 0 warning(s)."
+    },
+    {
+      "step": "validate_research_accelerator.py",
+      "returnCode": 0,
+      "output": "Research Accelerator validation: 0 error(s)."
+    },
+    {
+      "step": "build_deployment_report.py",
+      "returnCode": 0,
+      "output": "Created deployment report: data/automation/reports/latest.md"
+    }
+  ]
+}

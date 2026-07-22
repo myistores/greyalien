@@ -1,3 +1,12 @@
+# V20.3 — Knowledge Graph Enrichment Pilot: Whitley Strieber
+
+- Confirmed `transformation-2026` as the canonical Transformation 2026 document entity.
+- Added the source-supported author relationship between Whitley Strieber and Transformation 2026.
+- Added Whitley Strieber’s missing direct appearance relationship to WEAPONIZED Episode #120.
+- Preserved the existing Episode #120-to-document relationship.
+- Documented unsupported enrichment opportunities rather than adding speculative relationships.
+- Rebuilt and validated reciprocal rendering and relationship counts.
+
 # V20 — WEAPONIZED Podcast Optimization — Phase 1
 
 - Corrected WEAPONIZED episode connection ordering to use true numeric episode sequence rather than filename or lexical order.
