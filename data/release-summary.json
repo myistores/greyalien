@@ -1,7 +1,7 @@
 {
-  "version": "20.4",
-  "title": "Knowledge Graph Enrichment — Batch A",
+  "version": "20.5",
+  "title": "Knowledge Graph Enrichment \u2014 Batch B",
   "date": "2026-07-22",
-  "summary": "Enriched Bob Lazar, David Grusch, and Jacques Vallée with narrowly selected source-supported documentary, podcast, publication, claim, and organization relationships; repaired the canonical Grusch secret-program claim attribution; and preserved all unrelated graph content.",
-  "phase": "Knowledge graph enrichment — Batch A"
+  "summary": "Enriched Ryan Graves and Karl Nell with narrowly selected source-supported claim, organization, and event relationships; repaired inaccurate Christopher Mellon and Karl Nell claimant links to David Grusch-specific canonical claims; and preserved all unrelated graph content.",
+  "phase": "Knowledge graph enrichment \u2014 Batch B"
 }

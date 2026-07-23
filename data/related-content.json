@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "generatedBy": "tools/build_related_content.py",
-  "generatedAt": "2026-07-22T19:25:27.573430+00:00",
+  "generatedAt": "2026-07-23T00:24:11.092532+00:00",
   "referencedIn": {
     "1960s-area-51-engine-claim": [
       {
@@ -7661,14 +7661,6 @@
         "context": ""
       },
       {
-        "id": "karl-nell",
-        "type": "person",
-        "name": "Karl Nell",
-        "relationshipType": "made_claim",
-        "role": "",
-        "context": ""
-      },
-      {
         "id": "2023-weaponized-episode-21",
         "type": "podcast_episode",
         "name": "WEAPONIZED Episode #21 — The David Grusch Revelations",
@@ -7992,6 +7984,14 @@
     ],
     "claim-navy-uap-aviation-safety": [
       {
+        "id": "ryan-graves",
+        "type": "person",
+        "name": "Ryan Graves",
+        "relationshipType": "made_claim",
+        "role": "claimant",
+        "context": "Graves described recurring military UAP encounters as an unresolved aviation-safety concern in his written congressional testimony."
+      },
+      {
         "id": "2023-weaponized-episode-28",
         "type": "podcast_episode",
         "name": "WEAPONIZED Episode #28 — Congressional Hearing Roundtable",
@@ -8240,14 +8240,6 @@
         "type": "document",
         "name": "Luis Elizondo Written Testimony",
         "relationshipType": "contains_claim",
-        "role": "",
-        "context": ""
-      },
-      {
-        "id": "christopher-mellon",
-        "type": "person",
-        "name": "Christopher Mellon",
-        "relationshipType": "made_claim",
         "role": "",
         "context": ""
       },
@@ -16785,6 +16777,14 @@
         "context": ""
       },
       {
+        "id": "karl-nell",
+        "type": "person",
+        "name": "Karl Nell",
+        "relationshipType": "affiliated_with",
+        "role": "White-paper author and symposium contributor",
+        "context": "Authored a Sol Foundation disclosure paper and participated in Sol symposium programming."
+      },
+      {
         "id": "2023-weaponized-episode-42",
         "type": "podcast_episode",
         "name": "WEAPONIZED Episode #42 — The Sol Foundation Conference and Grusch Revelations",
@@ -17075,7 +17075,16 @@
     "timeline-2021-07-david-grusch-dod-ig-disclosure": [],
     "timeline-2021-07-galileo-project-founded": [],
     "timeline-2021-10-30-elizondo-galileo-affiliate": [],
-    "timeline-2021-2022-karl-nell-uaptf-support": [],
+    "timeline-2021-2022-karl-nell-uaptf-support": [
+      {
+        "id": "karl-nell",
+        "type": "person",
+        "name": "Karl Nell",
+        "relationshipType": "timeline_connection",
+        "role": "participant",
+        "context": "Served in an Army role supporting the UAP Task Force and related congressional engagement."
+      }
+    ],
     "timeline-2022-05-25-david-grusch-ppd19-complaint": [],
     "timeline-2022-07-20-kirkpatrick-named-aaro-director": [],
     "timeline-2023-01-23-weaponized-episode-1": [],
@@ -17157,6 +17166,14 @@
     "timeline-2023-11-13-weaponized-episode-41": [],
     "timeline-2023-11-17-sol-inaugural-symposium": [
       {
+        "id": "karl-nell",
+        "type": "person",
+        "name": "Karl Nell",
+        "relationshipType": "timeline_connection",
+        "role": "participant",
+        "context": "Participated in the Sol Foundation inaugural symposium."
+      },
+      {
         "id": "2023-weaponized-episode-42",
         "type": "podcast_episode",
         "name": "WEAPONIZED Episode #42 — The Sol Foundation Conference and Grusch Revelations",
@@ -17191,7 +17208,16 @@
         "context": "Follow-up reporting after public release of the footage"
       }
     ],
-    "timeline-2024-05-21-karl-nell-salt-uap-presentation": [],
+    "timeline-2024-05-21-karl-nell-salt-uap-presentation": [
+      {
+        "id": "karl-nell",
+        "type": "person",
+        "name": "Karl Nell",
+        "relationshipType": "timeline_connection",
+        "role": "speaker",
+        "context": "Delivered the SALT presentation on controlled UAP disclosure."
+      }
+    ],
     "timeline-2024-11-22-sol-symposium": [],
     "timeline-2025-07-22-weaponized-episode-83": [],
     "timeline-2025-08-05-weaponized-episode-84": [],

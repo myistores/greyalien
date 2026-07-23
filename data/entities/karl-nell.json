@@ -10,8 +10,31 @@
       "role": "Retired U.S. Army officer"
     },
     {
-      "type": "made_claim",
-      "target": "claim-crash-retrieval-program"
+      "type": "timeline_connection",
+      "target": "timeline-2021-2022-karl-nell-uaptf-support",
+      "role": "participant",
+      "context": "Served in an Army role supporting the UAP Task Force and related congressional engagement.",
+      "timeline": true
+    },
+    {
+      "type": "timeline_connection",
+      "target": "timeline-2024-05-21-karl-nell-salt-uap-presentation",
+      "role": "speaker",
+      "context": "Delivered the SALT presentation on controlled UAP disclosure.",
+      "timeline": true
+    },
+    {
+      "type": "timeline_connection",
+      "target": "timeline-2023-11-17-sol-inaugural-symposium",
+      "role": "participant",
+      "context": "Participated in the Sol Foundation inaugural symposium.",
+      "timeline": true
+    },
+    {
+      "type": "affiliated_with",
+      "target": "sol-foundation",
+      "role": "White-paper author and symposium contributor",
+      "context": "Authored a Sol Foundation disclosure paper and participated in Sol symposium programming."
     }
   ],
   "profileStatus": "Former military officer and public disclosure advocate",

@@ -404,3 +404,9 @@
 - Repaired the canonical secret-UAP-program claim attribution and evidence chain to David Grusch and the July 2023 hearing record.
 - Enriched Jacques Vallée with three authorship relationships, Episode #102 guest status, and NIDS scientific-advisor affiliation.
 - Rebuilt reciprocal discovery and unique graph counts without creating entities or changing presentation architecture.
+## V20.5 — Knowledge Graph Enrichment, Batch B
+- Added Ryan Graves’s direct claimant relationship to the canonical aviation-safety claim.
+- Removed inaccurate Christopher Mellon and Karl Nell claimant edges to David Grusch-specific canonical claims.
+- Added Karl Nell’s direct Sol Foundation, UAP Task Force support, SALT presentation, and inaugural Sol symposium relationships.
+- Rebuilt reciprocal discovery and unique graph counts without creating entities or changing presentation architecture.
+

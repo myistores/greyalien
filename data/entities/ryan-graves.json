@@ -51,6 +51,12 @@
       "timeline": true,
       "role": "creator",
       "context": "Founded and launched Americans for Safe Aerospace"
+    },
+    {
+      "type": "made_claim",
+      "target": "claim-navy-uap-aviation-safety",
+      "role": "claimant",
+      "context": "Graves described recurring military UAP encounters as an unresolved aviation-safety concern in his written congressional testimony."
     }
   ],
   "profileStatus": "Firsthand military witness and congressional witness",

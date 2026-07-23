@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "entityCount": 1046,
-  "relationshipCount": 2351,
+  "relationshipCount": 2354,
   "unresolvedRelationshipCount": 16,
   "connectionCounts": {
     "1960s-area-51-engine-claim": {
@@ -1071,8 +1071,8 @@
     },
     "christopher-mellon": {
       "incoming": 4,
-      "outgoing": 7,
-      "total": 11
+      "outgoing": 6,
+      "total": 10
     },
     "christopher-sharp": {
       "incoming": 1,
@@ -1500,9 +1500,9 @@
       "total": 1
     },
     "claim-crash-retrieval-program": {
-      "incoming": 11,
+      "incoming": 10,
       "outgoing": 5,
-      "total": 16
+      "total": 15
     },
     "claim-critiques-of-the-syria-uap-footage-do-not-fully-resolve-the-case": {
       "incoming": 0,
@@ -1940,9 +1940,9 @@
       "total": 2
     },
     "claim-navy-uap-aviation-safety": {
-      "incoming": 1,
+      "incoming": 2,
       "outgoing": 2,
-      "total": 3
+      "total": 4
     },
     "claim-new-firsthand-witnesses-were-located-after-years-of-investigation": {
       "incoming": 0,
@@ -2155,9 +2155,9 @@
       "total": 1
     },
     "claim-secret-uap-programs": {
-      "incoming": 10,
+      "incoming": 9,
       "outgoing": 5,
-      "total": 15
+      "total": 14
     },
     "claim-skinwalker-research-treated-phenomena-as-connected": {
       "incoming": 0,
@@ -3801,8 +3801,8 @@
     },
     "karl-nell": {
       "incoming": 3,
-      "outgoing": 2,
-      "total": 5
+      "outgoing": 5,
+      "total": 8
     },
     "karlin-toner": {
       "incoming": 0,
@@ -4251,8 +4251,8 @@
     },
     "ryan-graves": {
       "incoming": 8,
-      "outgoing": 7,
-      "total": 15
+      "outgoing": 8,
+      "total": 16
     },
     "ryan-robbins": {
       "incoming": 3,
@@ -4345,9 +4345,9 @@
       "total": 1
     },
     "sol-foundation": {
-      "incoming": 5,
+      "incoming": 6,
       "outgoing": 2,
-      "total": 7
+      "total": 8
     },
     "somewhere-in-the-skies-podcast": {
       "incoming": 0,
@@ -4520,9 +4520,9 @@
       "total": 4
     },
     "timeline-2021-2022-karl-nell-uaptf-support": {
-      "incoming": 0,
+      "incoming": 1,
       "outgoing": 5,
-      "total": 5
+      "total": 6
     },
     "timeline-2022-05-25-david-grusch-ppd19-complaint": {
       "incoming": 0,
@@ -4750,9 +4750,9 @@
       "total": 1
     },
     "timeline-2023-11-17-sol-inaugural-symposium": {
-      "incoming": 1,
+      "incoming": 2,
       "outgoing": 7,
-      "total": 8
+      "total": 9
     },
     "timeline-2024-01-08-jellyfish-uap-reporting": {
       "incoming": 3,
@@ -4760,9 +4760,9 @@
       "total": 7
     },
     "timeline-2024-05-21-karl-nell-salt-uap-presentation": {
-      "incoming": 0,
+      "incoming": 1,
       "outgoing": 3,
-      "total": 3
+      "total": 4
     },
     "timeline-2024-11-22-sol-symposium": {
       "incoming": 0,
