@@ -1,0 +1,95 @@
+{
+  "id": "2022-need-to-know-episode-7",
+  "type": "podcast_episode",
+  "name": "Need to Know Episode #7 — Air Force Versus Navy",
+  "summary": "Ross Coulthart and Bryce Zabel compare the U.S. Navy’s public engagement with UAP reporting against the U.S. Air Force’s more limited transparency, using Christopher Mellon’s criticism as a starting point.",
+  "date": "2022-02-17",
+  "dateDisplay": "February 17, 2022",
+  "seriesId": "need-to-know-podcast",
+  "episodeNumber": 7,
+  "episodeTitle": "Air Force Versus Navy",
+  "status": "Published",
+  "mediaType": "Podcast episode",
+  "mediaPlatform": "Need to Know",
+  "mediaHost": "Ross Coulthart and Bryce Zabel",
+  "mediaGuests": [],
+  "mediaSubjects": [],
+  "principalClaims": [
+    "claim-need-to-know-7-1",
+    "claim-need-to-know-7-2",
+    "claim-need-to-know-7-3",
+    "claim-need-to-know-7-4"
+  ],
+  "researchNotes": [],
+  "relationships": [
+    {
+      "type": "episode_of",
+      "target": "need-to-know-podcast"
+    },
+    {
+      "type": "features_person",
+      "target": "ross-coulthart",
+      "role": "host",
+      "context": "Need to Know co-host"
+    },
+    {
+      "type": "features_person",
+      "target": "bryce-zabel",
+      "role": "host",
+      "context": "Need to Know co-host"
+    },
+    {
+      "type": "features_person",
+      "target": "christopher-mellon",
+      "role": "subject"
+    },
+    {
+      "type": "references_organization",
+      "target": "united-states-air-force"
+    },
+    {
+      "type": "references_organization",
+      "target": "united-states-navy"
+    },
+    {
+      "type": "discussed_topic",
+      "target": "uap-transparency"
+    },
+    {
+      "type": "discussed_topic",
+      "target": "government-transparency"
+    },
+    {
+      "type": "discussed_topic",
+      "target": "congressional-oversight"
+    }
+  ],
+  "mediaLinks": [
+    {
+      "label": "Watch Need to Know Episode #7 on YouTube",
+      "url": "https://www.youtube.com/watch?v=jIN54qqF9S0",
+      "platform": "YouTube"
+    },
+    {
+      "label": "Watch the official Need to Know collection",
+      "url": "https://www.youtube.com/playlist?list=PLXdU8QbJkboeMcvUNyGpb9h6FUS9cVBti",
+      "platform": "YouTube"
+    }
+  ],
+  "eventCategory": "Podcast publication",
+  "officialLinks": [],
+  "referenceSources": [
+    {
+      "label": "Official Need to Know Episode 7 video — Air Force Versus Navy",
+      "url": "https://www.youtube.com/watch?v=jIN54qqF9S0",
+      "sourceType": "official_episode_video",
+      "role": "source"
+    },
+    {
+      "label": "Need to Know official YouTube collection",
+      "url": "https://www.youtube.com/playlist?list=PLXdU8QbJkboeMcvUNyGpb9h6FUS9cVBti",
+      "sourceType": "official_video_collection",
+      "role": "source"
+    }
+  ]
+}

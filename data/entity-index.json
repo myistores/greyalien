@@ -747,6 +747,12 @@
       "summary": "Claim or framing presented in WEAPONIZED Episode #24."
     },
     {
+      "id": "claim-need-to-know-9-3",
+      "type": "claim",
+      "name": "Case documentation and witness interviewing are presented as essential safeguards against mythology and retrospective distortion.",
+      "summary": "Claim or editorial framing presented in Need to Know Episode #9."
+    },
+    {
       "id": "claim-weaponized-33-2",
       "type": "claim",
       "name": "Changes in the management of AARO raised questions about the office’s independence and direction.",
@@ -763,6 +769,12 @@
       "type": "claim",
       "name": "Chris Sharp reported a multi-agency effort pursuing alleged non-human technology in the ocean",
       "summary": "Episode #59 presents Sharp’s reporting about an alleged multi-agency operation involving technology in the world’s oceans."
+    },
+    {
+      "id": "claim-need-to-know-7-1",
+      "type": "claim",
+      "name": "Christopher Mellon’s public criticism is used to question why the U.S. Air Force appears less forthcoming about UAP than the U.S. Navy.",
+      "summary": "Claim or editorial framing presented in Need to Know Episode #7."
     },
     {
       "id": "claim-weaponized-26-1",
@@ -850,6 +862,18 @@
       "summary": "The lawmakers describe agencies and officials blocking access to witnesses, programs, and information."
     },
     {
+      "id": "claim-need-to-know-12-1",
+      "type": "claim",
+      "name": "Congressional UFO hearings have historically produced limited lasting transparency without sustained follow-up.",
+      "summary": "Claim or editorial framing presented in Need to Know Episode #12."
+    },
+    {
+      "id": "claim-need-to-know-13-4",
+      "type": "claim",
+      "name": "Constructive criticism is presented as more useful than ridicule or hostility within the UAP community.",
+      "summary": "Claim or editorial framing presented in Need to Know Episode #13."
+    },
+    {
       "id": "claim-context-is-required-to-interpret-released-uap-videos",
       "type": "claim",
       "name": "Context is required to interpret released UAP videos",
@@ -890,6 +914,12 @@
       "type": "claim",
       "name": "Corso alleged that material from Roswell was transferred into military and commercial research channels.",
       "summary": "Corso alleged that material from Roswell was transferred into military and commercial research channels."
+    },
+    {
+      "id": "claim-need-to-know-8-3",
+      "type": "claim",
+      "name": "Coulthart’s reporting journey is described as moving from skepticism toward the view that the UAP issue warrants serious investigation.",
+      "summary": "Claim or editorial framing presented in Need to Know Episode #8."
     },
     {
       "id": "claim-critiques-of-the-syria-uap-footage-do-not-fully-resolve-the-case",
@@ -1010,6 +1040,24 @@
       "summary": "Claim or framing presented in WEAPONIZED Episode #18."
     },
     {
+      "id": "claim-need-to-know-15-4",
+      "type": "claim",
+      "name": "Early Air Force decisions helped shape later official UFO policy and the public transparency debate.",
+      "summary": "Claim or editorial framing presented in Need to Know Episode #15."
+    },
+    {
+      "id": "claim-need-to-know-9-1",
+      "type": "claim",
+      "name": "Early UFO investigators established investigative practices that continue to influence modern UAP research.",
+      "summary": "Claim or editorial framing presented in Need to Know Episode #9."
+    },
+    {
+      "id": "claim-need-to-know-12-2",
+      "type": "claim",
+      "name": "Effective hearings require informed questioning, access to records, and witnesses able to address program history and current cases.",
+      "summary": "Claim or editorial framing presented in Need to Know Episode #12."
+    },
+    {
       "id": "claim-efforts-to-obtain-alleged-video-evidence-encountered-interference",
       "type": "claim",
       "name": "Efforts to obtain alleged video evidence encountered interference",
@@ -1021,6 +1069,12 @@
       "name": "Emery Smith Alien-Autopsy Program Claims",
       "summary": "Claims that Emery Smith participated in classified medical examinations of alleged non-human biological material.",
       "status": "Personal claims distributed primarily through interviews and entertainment media; not independently established."
+    },
+    {
+      "id": "claim-need-to-know-11-3",
+      "type": "claim",
+      "name": "Entertainment figures can influence public engagement with UAP even when they are not traditional investigators.",
+      "summary": "Claim or editorial framing presented in Need to Know Episode #11."
     },
     {
       "id": "claim-need-to-know-1-2",
@@ -1058,6 +1112,12 @@
       "type": "claim",
       "name": "Experienced pilots can provide valuable observational evidence",
       "summary": "The interview emphasizes the relevance of flight experience when evaluating unusual aerial events."
+    },
+    {
+      "id": "claim-need-to-know-13-1",
+      "type": "claim",
+      "name": "Factional conflict and personal attacks can distract from substantive UAP research.",
+      "summary": "Claim or editorial framing presented in Need to Know Episode #13."
     },
     {
       "id": "claim-weaponized-31-1",
@@ -1150,6 +1210,12 @@
       "summary": "The official episode description presents or discusses this claim; it is recorded here as a source-attributed claim, not as independently verified fact."
     },
     {
+      "id": "claim-need-to-know-7-4",
+      "type": "claim",
+      "name": "Historical Air Force responsibility for UFO investigation remains relevant to present-day demands for records and accountability.",
+      "summary": "Claim or editorial framing presented in Need to Know Episode #7."
+    },
+    {
       "id": "claim-weaponized-39-3",
       "type": "claim",
       "name": "Historical intelligence testimony has included references to crash-retrieval and reverse-engineering efforts.",
@@ -1178,6 +1244,12 @@
       "type": "claim",
       "name": "Important results from government psychic programs remain classified or poorly documented publicly.",
       "summary": "Claim or framing presented in WEAPONIZED Episode #37."
+    },
+    {
+      "id": "claim-need-to-know-8-1",
+      "type": "claim",
+      "name": "In Plain Sight is presented as an investigation that connects modern UAP reporting with a longer history of cases and official inquiry.",
+      "summary": "Claim or editorial framing presented in Need to Know Episode #8."
     },
     {
       "id": "claim-independent-experts-require-direct-and-transparent-access",
@@ -1244,6 +1316,12 @@
       "type": "claim",
       "name": "John Lear combined deep aviation experience with firsthand exposure to defense and intelligence circles.",
       "summary": "Claim or framing presented in WEAPONIZED Episode #32."
+    },
+    {
+      "id": "claim-need-to-know-11-2",
+      "type": "claim",
+      "name": "John Lennon’s reported New York UFO sighting illustrates how celebrity accounts can become part of cultural UFO history.",
+      "summary": "Claim or editorial framing presented in Need to Know Episode #11."
     },
     {
       "id": "claim-john-mack-faced-harvard-review-over-abduction-research",
@@ -1439,6 +1517,12 @@
       "summary": "Claim or framing presented in WEAPONIZED Episode #20."
     },
     {
+      "id": "claim-need-to-know-14-2",
+      "type": "claim",
+      "name": "Luis Elizondo argues that the hearing represented progress but left important historical, technical, and accountability questions unresolved.",
+      "summary": "Claim or editorial framing presented in Need to Know Episode #14."
+    },
+    {
       "id": "claim-weaponized-22-3",
       "type": "claim",
       "name": "Maguire urged Canada to address the UAP issue before further disclosures damage public trust.",
@@ -1534,6 +1618,12 @@
       "type": "claim",
       "name": "Media reporting remains important for documenting developments that official channels may not fully explain.",
       "summary": "Claim or framing presented in WEAPONIZED Episode #35."
+    },
+    {
+      "id": "claim-need-to-know-10-3",
+      "type": "claim",
+      "name": "Medical evidence should be evaluated case by case rather than used to generalize beyond the available record.",
+      "summary": "Claim or editorial framing presented in Need to Know Episode #10."
     },
     {
       "id": "claim-medical-community-often-ignores-cause",
@@ -1643,6 +1733,12 @@
       "type": "claim",
       "name": "NIDS used forensic methods to investigate animal mutilations, black triangles, and other anomalies.",
       "summary": "Claim or framing presented in WEAPONIZED Episode #5."
+    },
+    {
+      "id": "claim-need-to-know-16-3",
+      "type": "claim",
+      "name": "Official discussion in 2022 is compared with earlier waves of public interest to identify recurring patterns of attention and retreat.",
+      "summary": "Claim or editorial framing presented in Need to Know Episode #16."
     },
     {
       "id": "claim-official-investigations-faced-internal-opposition",
@@ -1766,6 +1862,12 @@
       "summary": "Vallée recommends disciplined research, improved evidence, and less institutional obstruction."
     },
     {
+      "id": "claim-need-to-know-15-1",
+      "type": "claim",
+      "name": "Project Sign personnel are reported to have prepared an Estimate of the Situation that considered an interplanetary explanation for UFO reports.",
+      "summary": "Claim or editorial framing presented in Need to Know Episode #15."
+    },
+    {
       "id": "claim-prominent-mummy-specimens-show-signs-of-physical-manipulation",
       "type": "claim",
       "name": "Prominent mummy specimens show signs of physical manipulation",
@@ -1790,6 +1892,12 @@
       "summary": "Claim or framing presented in WEAPONIZED Episode #4."
     },
     {
+      "id": "claim-need-to-know-13-2",
+      "type": "claim",
+      "name": "Public discussion benefits when claims are separated from evidence and uncertainty is stated clearly.",
+      "summary": "Claim or editorial framing presented in Need to Know Episode #13."
+    },
+    {
       "id": "claim-public-hearings-may-have-reached-limits",
       "type": "claim",
       "name": "Public hearings may have reached their limits",
@@ -1800,6 +1908,12 @@
       "type": "claim",
       "name": "Public reporting from official UAP offices remains constrained by classification and institutional incentives.",
       "summary": "Claim or framing presented in WEAPONIZED Episode #39."
+    },
+    {
+      "id": "claim-need-to-know-12-3",
+      "type": "claim",
+      "name": "Public testimony is only one part of oversight because significant information may remain in classified briefings.",
+      "summary": "Claim or editorial framing presented in Need to Know Episode #12."
     },
     {
       "id": "claim-weaponized-35-1",
@@ -1866,6 +1980,12 @@
       "type": "claim",
       "name": "Research groups often avoid cross-category cases",
       "summary": "The hosts and Paulides argue that UFO and Bigfoot organizations tend to avoid evidence that crosses disciplinary boundaries."
+    },
+    {
+      "id": "claim-need-to-know-10-4",
+      "type": "claim",
+      "name": "Responsible UAP research should prioritize witness welfare and avoid causing additional harm.",
+      "summary": "Claim or editorial framing presented in Need to Know Episode #10."
     },
     {
       "id": "claim-weaponized-17-1",
@@ -1986,6 +2106,12 @@
       "type": "claim",
       "name": "Some promoters have previously fabricated evidence",
       "summary": "The episode notes documented credibility problems among people involved in advancing the mummy claims."
+    },
+    {
+      "id": "claim-need-to-know-10-1",
+      "type": "claim",
+      "name": "Some reported close encounters include physical injuries or biological effects that merit careful medical review.",
+      "summary": "Claim or editorial framing presented in Need to Know Episode #10."
     },
     {
       "id": "claim-weaponized-37-2",
@@ -2120,6 +2246,12 @@
       "summary": "Claim or framing presented in WEAPONIZED Episode #4."
     },
     {
+      "id": "claim-need-to-know-8-4",
+      "type": "claim",
+      "name": "The book’s broader lesson is that the phenomenon cannot be assessed solely through recent military videos or isolated incidents.",
+      "summary": "Claim or editorial framing presented in Need to Know Episode #8."
+    },
+    {
       "id": "claim-the-case-may-implicate-u-s-custody-of-recovered-evidence",
       "type": "claim",
       "name": "The case may implicate U.S. custody of recovered evidence",
@@ -2156,6 +2288,12 @@
       "summary": "Claim or editorial framing presented in Need to Know Episode #6."
     },
     {
+      "id": "claim-need-to-know-14-3",
+      "type": "claim",
+      "name": "The discussion highlights the difference between public testimony and the fuller information potentially available in classified settings.",
+      "summary": "Claim or editorial framing presented in Need to Know Episode #14."
+    },
+    {
       "id": "claim-need-to-know-2-4",
       "type": "claim",
       "name": "The discussion presents 2022 as a test of whether institutional momentum would produce meaningful public answers.",
@@ -2166,6 +2304,12 @@
       "type": "claim",
       "name": "The discussion treats legislation as a concrete step toward greater public transparency rather than a complete resolution of the issue.",
       "summary": "Claim or editorial framing presented in Need to Know Episode #3."
+    },
+    {
+      "id": "claim-need-to-know-15-3",
+      "type": "claim",
+      "name": "The document’s absence from the public record requires researchers to distinguish confirmed history from testimony about its contents.",
+      "summary": "Claim or editorial framing presented in Need to Know Episode #15."
     },
     {
       "id": "claim-weaponized-29-3",
@@ -2210,6 +2354,24 @@
       "summary": "The episode argues that parts of the media help marginalize UAP witnesses and transparency efforts."
     },
     {
+      "id": "claim-need-to-know-13-3",
+      "type": "claim",
+      "name": "The episode argues that researchers and commentators should focus on accountability rather than personality-driven disputes.",
+      "summary": "Claim or editorial framing presented in Need to Know Episode #13."
+    },
+    {
+      "id": "claim-need-to-know-10-2",
+      "type": "claim",
+      "name": "The episode argues that ridicule and secrecy can discourage affected witnesses from seeking help or reporting experiences.",
+      "summary": "Claim or editorial framing presented in Need to Know Episode #10."
+    },
+    {
+      "id": "claim-need-to-know-16-2",
+      "type": "claim",
+      "name": "The episode argues that sustained oversight matters more than a single burst of congressional or media attention.",
+      "summary": "Claim or editorial framing presented in Need to Know Episode #16."
+    },
+    {
       "id": "claim-weaponized-27-2",
       "type": "claim",
       "name": "The episode argues that the hearing was historically significant even where some underlying cases were already public.",
@@ -2228,6 +2390,12 @@
       "summary": "The episode characterizes public reaction to the hearing as broadly positive."
     },
     {
+      "id": "claim-need-to-know-9-2",
+      "type": "claim",
+      "name": "The episode compares American and Australian investigative histories rather than treating the phenomenon as exclusively American.",
+      "summary": "Claim or editorial framing presented in Need to Know Episode #9."
+    },
+    {
       "id": "claim-weaponized-10-4",
       "type": "claim",
       "name": "The episode connects cultural and philosophical inquiry with the broader UAP conversation.",
@@ -2238,6 +2406,12 @@
       "type": "claim",
       "name": "The episode contrasts experiencer accounts with nuts-and-bolts disclosure",
       "summary": "The discussion questions whether public focus on craft, bodies, and technology overlooks the human significance of reported face-to-face encounters."
+    },
+    {
+      "id": "claim-need-to-know-7-2",
+      "type": "claim",
+      "name": "The episode contrasts the Navy’s role in major modern UAP cases with the Air Force’s comparatively limited public accounting.",
+      "summary": "Claim or editorial framing presented in Need to Know Episode #7."
     },
     {
       "id": "claim-dod-deception-history-discussed",
@@ -2256,6 +2430,18 @@
       "type": "claim",
       "name": "The episode discusses reports that technology billionaires are seeking access to alleged crash materials.",
       "summary": "The official episode description presents or discusses this claim; it is recorded here as a source-attributed claim, not as independently verified fact."
+    },
+    {
+      "id": "claim-need-to-know-11-4",
+      "type": "claim",
+      "name": "The episode distinguishes cultural impact from evidentiary weight when discussing celebrity-associated UFO stories.",
+      "summary": "Claim or editorial framing presented in Need to Know Episode #11."
+    },
+    {
+      "id": "claim-need-to-know-8-2",
+      "type": "claim",
+      "name": "The episode emphasizes evaluating witness testimony alongside documents, institutional history, and scientific questions.",
+      "summary": "Claim or editorial framing presented in Need to Know Episode #8."
     },
     {
       "id": "claim-need-to-know-6-1",
@@ -2450,6 +2636,12 @@
       "summary": "Claim or editorial framing presented in Need to Know Episode #4."
     },
     {
+      "id": "claim-need-to-know-9-4",
+      "type": "claim",
+      "name": "The hosts argue that modern researchers benefit from understanding both the achievements and limitations of earlier investigators.",
+      "summary": "Claim or editorial framing presented in Need to Know Episode #9."
+    },
+    {
       "id": "claim-need-to-know-6-2",
       "type": "claim",
       "name": "The hosts argue that presidential authority could be decisive in overcoming institutional barriers to disclosure.",
@@ -2460,6 +2652,18 @@
       "type": "claim",
       "name": "The hosts argue that public debunking attempts did not adequately explain the object.",
       "summary": "Claim or framing presented in WEAPONIZED Episode #8."
+    },
+    {
+      "id": "claim-need-to-know-12-4",
+      "type": "claim",
+      "name": "The hosts argue that renewed congressional interest could be consequential if lawmakers maintain pressure after a hearing ends.",
+      "summary": "Claim or editorial framing presented in Need to Know Episode #12."
+    },
+    {
+      "id": "claim-need-to-know-7-3",
+      "type": "claim",
+      "name": "The hosts argue that uneven transparency between military services complicates public understanding and congressional oversight.",
+      "summary": "Claim or editorial framing presented in Need to Know Episode #7."
     },
     {
       "id": "claim-60-minutes-report-omitted-key-2019-navy-swarm-context",
@@ -2490,6 +2694,12 @@
       "type": "claim",
       "name": "The hosts frame 2021 as a significant year for public UFO/UAP news and research.",
       "summary": "Claim or editorial framing presented in Need to Know Episode #1."
+    },
+    {
+      "id": "claim-need-to-know-16-4",
+      "type": "claim",
+      "name": "The hosts frame the summer of 2022 as a test of whether institutional engagement would produce lasting transparency.",
+      "summary": "Claim or editorial framing presented in Need to Know Episode #16."
     },
     {
       "id": "claim-need-to-know-5-3",
@@ -2592,6 +2802,18 @@
       "type": "claim",
       "name": "The letter states that some allegedly recovered materials date to the early 1950s.",
       "summary": "Claim or framing presented in WEAPONIZED Episode #22."
+    },
+    {
+      "id": "claim-need-to-know-14-1",
+      "type": "claim",
+      "name": "The May 17, 2022 hearing marked the first open congressional UFO hearing in more than five decades.",
+      "summary": "Claim or editorial framing presented in Need to Know Episode #14."
+    },
+    {
+      "id": "claim-need-to-know-16-1",
+      "type": "claim",
+      "name": "The May 2022 House hearing renewed public attention but did not resolve central questions about UAP data and historical programs.",
+      "summary": "Claim or editorial framing presented in Need to Know Episode #16."
     },
     {
       "id": "claim-military-secured-crash-area-quickly",
@@ -2756,6 +2978,12 @@
       "summary": "The official episode description presents or discusses this claim; it is recorded here as a source-attributed claim, not as independently verified fact."
     },
     {
+      "id": "claim-need-to-know-15-2",
+      "type": "claim",
+      "name": "The reported rejection of the estimate illustrates early institutional conflict over how the Air Force should interpret UFO evidence.",
+      "summary": "Claim or editorial framing presented in Need to Know Episode #15."
+    },
+    {
       "id": "claim-crash-response-suggested-sensitive-retrieval",
       "type": "claim",
       "name": "The response suggested a sensitive retrieval operation",
@@ -2840,6 +3068,12 @@
       "summary": "The Unhidden Foundation report builds on health-effects research associated with AAWSAP."
     },
     {
+      "id": "claim-need-to-know-14-4",
+      "type": "claim",
+      "name": "The Wilson–Davis Notes are discussed as a controversial document requiring careful evaluation rather than assumption.",
+      "summary": "Claim or editorial framing presented in Need to Know Episode #14."
+    },
+    {
       "id": "claim-uss-jackson-four-objects-formation",
       "type": "claim",
       "name": "The witness described four objects joining and departing in tight formation.",
@@ -2862,6 +3096,12 @@
       "type": "claim",
       "name": "Three additional unidentified objects were shot down after the Chinese surveillance balloon incident.",
       "summary": "Claim or framing presented in WEAPONIZED Episode #4."
+    },
+    {
+      "id": "claim-need-to-know-11-1",
+      "type": "claim",
+      "name": "Tom DeLonge’s transition from rock musician to public UAP advocate helped bring the subject to a large mainstream audience.",
+      "summary": "Claim or editorial framing presented in Need to Know Episode #11."
     },
     {
       "id": "claim-transformation-2026-revisits-childhood-encounter-memories",
@@ -3057,6 +3297,13 @@
       "name": "Dylan Borland Written Testimony",
       "summary": "Written whistleblower statement submitted for the September 9, 2025 House hearing.",
       "status": "Official House document"
+    },
+    {
+      "id": "estimate-of-the-situation-1948",
+      "type": "document",
+      "name": "Estimate of the Situation",
+      "summary": "Reported 1948 Project Sign assessment said to have considered an interplanetary explanation for UFO reports before being rejected by Air Force leadership.",
+      "date": "1948"
     },
     {
       "id": "future-visions",
@@ -3594,6 +3841,12 @@
       "type": "organization",
       "name": "Project On Government Oversight",
       "summary": "Nonpartisan government-accountability organization."
+    },
+    {
+      "id": "project-sign",
+      "type": "organization",
+      "name": "Project Sign",
+      "summary": "Early U.S. Air Force UFO investigation program established in 1948 and associated with the disputed Estimate of the Situation."
     },
     {
       "id": "raf-bentwaters",
@@ -4238,6 +4491,12 @@
       "summary": "Aviator and prominent UFO commentator whose claims and influence shaped modern public discussion of secrecy and alleged hidden programs."
     },
     {
+      "id": "john-lennon",
+      "type": "person",
+      "name": "John Lennon",
+      "summary": "Musician whose reported 1974 New York UFO sighting is discussed in Need to Know Episode #11."
+    },
+    {
       "id": "john-long",
       "type": "person",
       "name": "John Long",
@@ -4580,6 +4839,12 @@
       "summary": "Tim Phillips is referenced in WEAPONIZED Episodes #103–#112."
     },
     {
+      "id": "tom-delonge",
+      "type": "person",
+      "name": "Tom DeLonge",
+      "summary": "Musician and co-founder of To The Stars Academy whose public UAP advocacy and entertainment career are discussed in Need to Know Episode #11."
+    },
+    {
       "id": "travis-taylor",
       "type": "person",
       "name": "Travis Taylor",
@@ -4625,6 +4890,69 @@
       "status": "Published"
     },
     {
+      "id": "2022-need-to-know-episode-10",
+      "type": "podcast_episode",
+      "name": "Need to Know Episode #10 — Do No Harm",
+      "summary": "Ross Coulthart and Bryce Zabel discuss reported human injuries and biological effects associated with close UAP encounters, emphasizing the need for responsible medical documentation and research.",
+      "date": "2022-04-01",
+      "dateDisplay": "April 1, 2022",
+      "status": "Published"
+    },
+    {
+      "id": "2022-need-to-know-episode-11",
+      "type": "podcast_episode",
+      "name": "Need to Know Episode #11 — UFOs and Rock Stars",
+      "summary": "Ross Coulthart and Bryce Zabel explore intersections between popular music and UFO culture, focusing on Tom DeLonge’s UAP advocacy and John Lennon’s reported 1974 sighting.",
+      "date": "2022-04-14",
+      "dateDisplay": "April 14, 2022",
+      "status": "Published"
+    },
+    {
+      "id": "2022-need-to-know-episode-12",
+      "type": "podcast_episode",
+      "name": "Need to Know Episode #12 — Congressional UFO Hearings",
+      "summary": "Ross Coulthart and Bryce Zabel review the history of congressional UFO hearings and assess what meaningful future oversight would require ahead of renewed public attention in 2022.",
+      "date": "2022-04-29",
+      "dateDisplay": "April 29, 2022",
+      "status": "Published"
+    },
+    {
+      "id": "2022-need-to-know-episode-13",
+      "type": "podcast_episode",
+      "name": "Need to Know Episode #13 — Bryce’s Rant",
+      "summary": "In a short standalone commentary, Bryce Zabel critiques recurring dysfunction within modern ufology and calls for more disciplined, constructive, and evidence-focused public discussion.",
+      "date": "2022-04-28",
+      "dateDisplay": "April 28, 2022",
+      "status": "Published"
+    },
+    {
+      "id": "2022-need-to-know-episode-14",
+      "type": "podcast_episode",
+      "name": "Need to Know Episode #14 — Elizondo on UAP Hearing",
+      "summary": "Ross Coulthart and Bryce Zabel are joined by Luis Elizondo to assess the May 17, 2022 House UAP hearing, its limitations, and implications for oversight, while also discussing the Wilson–Davis Notes.",
+      "date": "2022-05-17",
+      "dateDisplay": "May 17, 2022",
+      "status": "Published"
+    },
+    {
+      "id": "2022-need-to-know-episode-15",
+      "type": "podcast_episode",
+      "name": "Need to Know Episode #15 — Estimate of the Situation",
+      "summary": "Ross Coulthart and Bryce Zabel examine the reported 1948 Project Sign Estimate of the Situation and what the document’s disputed history reveals about early Air Force UFO analysis and institutional resistance.",
+      "date": "2022-06-05",
+      "dateDisplay": "June 5, 2022",
+      "status": "Published"
+    },
+    {
+      "id": "2022-need-to-know-episode-16",
+      "type": "podcast_episode",
+      "name": "Need to Know Episode #16 — Summer of the Saucers",
+      "summary": "Ross Coulthart and Bryce Zabel examine the renewed public and congressional focus on UFOs in the summer of 2022, placing the May hearing and continuing media attention within a longer cycle of official interest.",
+      "date": "2022-06-21",
+      "dateDisplay": "June 21, 2022",
+      "status": "Published"
+    },
+    {
       "id": "2021-need-to-know-episode-2",
       "type": "podcast_episode",
       "name": "Need to Know Episode #2 — The Year Ahead",
@@ -4667,6 +4995,33 @@
       "summary": "Ross Coulthart and Bryce Zabel explore the relationship between the United States presidency and the UFO/UAP issue, asking what presidents may have been told and what presidential leadership could mean for disclosure.",
       "date": "2022-02-03",
       "dateDisplay": "February 3, 2022",
+      "status": "Published"
+    },
+    {
+      "id": "2022-need-to-know-episode-7",
+      "type": "podcast_episode",
+      "name": "Need to Know Episode #7 — Air Force Versus Navy",
+      "summary": "Ross Coulthart and Bryce Zabel compare the U.S. Navy’s public engagement with UAP reporting against the U.S. Air Force’s more limited transparency, using Christopher Mellon’s criticism as a starting point.",
+      "date": "2022-02-17",
+      "dateDisplay": "February 17, 2022",
+      "status": "Published"
+    },
+    {
+      "id": "2022-need-to-know-episode-8",
+      "type": "podcast_episode",
+      "name": "Need to Know Episode #8 — In Plain Sight",
+      "summary": "Bryce Zabel examines Ross Coulthart’s book In Plain Sight, drawing out its investigative approach, historical cases, official records, and implications for understanding the modern UAP issue.",
+      "date": "2022-03-03",
+      "dateDisplay": "March 3, 2022",
+      "status": "Published"
+    },
+    {
+      "id": "2022-need-to-know-episode-9",
+      "type": "podcast_episode",
+      "name": "Need to Know Episode #9 — Classic UFO Investigators",
+      "summary": "Ross Coulthart and Bryce Zabel revisit formative UFO investigators and early investigations in the United States and Australia, considering how their methods and findings shaped later research.",
+      "date": "2022-03-18",
+      "dateDisplay": "March 18, 2022",
       "status": "Published"
     },
     {
@@ -5846,6 +6201,13 @@
       "summary": "Subscription streaming platform publishing programs on spirituality, alternative history, and disclosure topics."
     },
     {
+      "id": "in-plain-sight-ross-coulthart",
+      "type": "publication",
+      "name": "In Plain Sight: An Investigation into UFOs and Impossible Science",
+      "summary": "Ross Coulthart’s 2021 book surveying historical cases, official records, witnesses, and scientific questions surrounding UFOs and UAP.",
+      "date": "2021"
+    },
+    {
       "id": "lex-fridman-podcast",
       "type": "publication",
       "name": "Lex Fridman Podcast",
@@ -6101,6 +6463,62 @@
       "dateDisplay": "December 16, 2021"
     },
     {
+      "id": "timeline-2022-04-01-need-to-know-episode-10",
+      "type": "timeline_event",
+      "name": "Need to Know Episode #10 published",
+      "summary": "Ross Coulthart and Bryce Zabel discuss reported human injuries and biological effects associated with close UAP encounters, emphasizing the need for responsible medical documentation and research.",
+      "date": "2022-04-01",
+      "dateDisplay": "April 1, 2022"
+    },
+    {
+      "id": "timeline-2022-04-14-need-to-know-episode-11",
+      "type": "timeline_event",
+      "name": "Need to Know Episode #11 published",
+      "summary": "Ross Coulthart and Bryce Zabel explore intersections between popular music and UFO culture, focusing on Tom DeLonge’s UAP advocacy and John Lennon’s reported 1974 sighting.",
+      "date": "2022-04-14",
+      "dateDisplay": "April 14, 2022"
+    },
+    {
+      "id": "timeline-2022-04-29-need-to-know-episode-12",
+      "type": "timeline_event",
+      "name": "Need to Know Episode #12 published",
+      "summary": "Ross Coulthart and Bryce Zabel review the history of congressional UFO hearings and assess what meaningful future oversight would require ahead of renewed public attention in 2022.",
+      "date": "2022-04-29",
+      "dateDisplay": "April 29, 2022"
+    },
+    {
+      "id": "timeline-2022-04-28-need-to-know-episode-13",
+      "type": "timeline_event",
+      "name": "Need to Know Episode #13 published",
+      "summary": "In a short standalone commentary, Bryce Zabel critiques recurring dysfunction within modern ufology and calls for more disciplined, constructive, and evidence-focused public discussion.",
+      "date": "2022-04-28",
+      "dateDisplay": "April 28, 2022"
+    },
+    {
+      "id": "timeline-2022-05-17-need-to-know-episode-14",
+      "type": "timeline_event",
+      "name": "Need to Know Episode #14 published",
+      "summary": "Ross Coulthart and Bryce Zabel are joined by Luis Elizondo to assess the May 17, 2022 House UAP hearing, its limitations, and implications for oversight, while also discussing the Wilson–Davis Notes.",
+      "date": "2022-05-17",
+      "dateDisplay": "May 17, 2022"
+    },
+    {
+      "id": "timeline-2022-06-05-need-to-know-episode-15",
+      "type": "timeline_event",
+      "name": "Need to Know Episode #15 published",
+      "summary": "Ross Coulthart and Bryce Zabel examine the reported 1948 Project Sign Estimate of the Situation and what the document’s disputed history reveals about early Air Force UFO analysis and institutional resistance.",
+      "date": "2022-06-05",
+      "dateDisplay": "June 5, 2022"
+    },
+    {
+      "id": "timeline-2022-06-21-need-to-know-episode-16",
+      "type": "timeline_event",
+      "name": "Need to Know Episode #16 published",
+      "summary": "Ross Coulthart and Bryce Zabel examine the renewed public and congressional focus on UFOs in the summer of 2022, placing the May hearing and continuing media attention within a longer cycle of official interest.",
+      "date": "2022-06-21",
+      "dateDisplay": "June 21, 2022"
+    },
+    {
       "id": "timeline-2021-12-16-need-to-know-episode-2",
       "type": "timeline_event",
       "name": "Need to Know Episode #2 published",
@@ -6139,6 +6557,30 @@
       "summary": "Ross Coulthart and Bryce Zabel explore the relationship between the United States presidency and the UFO/UAP issue, asking what presidents may have been told and what presidential leadership could mean for disclosure.",
       "date": "2022-02-03",
       "dateDisplay": "February 3, 2022"
+    },
+    {
+      "id": "timeline-2022-02-17-need-to-know-episode-7",
+      "type": "timeline_event",
+      "name": "Need to Know Episode #7 published",
+      "summary": "Ross Coulthart and Bryce Zabel compare the U.S. Navy’s public engagement with UAP reporting against the U.S. Air Force’s more limited transparency, using Christopher Mellon’s criticism as a starting point.",
+      "date": "2022-02-17",
+      "dateDisplay": "February 17, 2022"
+    },
+    {
+      "id": "timeline-2022-03-03-need-to-know-episode-8",
+      "type": "timeline_event",
+      "name": "Need to Know Episode #8 published",
+      "summary": "Bryce Zabel examines Ross Coulthart’s book In Plain Sight, drawing out its investigative approach, historical cases, official records, and implications for understanding the modern UAP issue.",
+      "date": "2022-03-03",
+      "dateDisplay": "March 3, 2022"
+    },
+    {
+      "id": "timeline-2022-03-18-need-to-know-episode-9",
+      "type": "timeline_event",
+      "name": "Need to Know Episode #9 published",
+      "summary": "Ross Coulthart and Bryce Zabel revisit formative UFO investigators and early investigations in the United States and Australia, considering how their methods and findings shaped later research.",
+      "date": "2022-03-18",
+      "dateDisplay": "March 18, 2022"
     },
     {
       "id": "timeline-1995-nids-science-advisory-board",

@@ -1,0 +1,82 @@
+{
+  "id": "2022-need-to-know-episode-13",
+  "type": "podcast_episode",
+  "name": "Need to Know Episode #13 — Bryce’s Rant",
+  "summary": "In a short standalone commentary, Bryce Zabel critiques recurring dysfunction within modern ufology and calls for more disciplined, constructive, and evidence-focused public discussion.",
+  "date": "2022-04-28",
+  "dateDisplay": "April 28, 2022",
+  "seriesId": "need-to-know-podcast",
+  "episodeNumber": 13,
+  "episodeTitle": "Bryce’s Rant",
+  "status": "Published",
+  "mediaType": "Podcast episode",
+  "mediaPlatform": "Need to Know",
+  "mediaHost": "Ross Coulthart and Bryce Zabel",
+  "mediaGuests": [],
+  "mediaSubjects": [],
+  "principalClaims": [
+    "claim-need-to-know-13-1",
+    "claim-need-to-know-13-2",
+    "claim-need-to-know-13-3",
+    "claim-need-to-know-13-4"
+  ],
+  "researchNotes": [],
+  "relationships": [
+    {
+      "type": "episode_of",
+      "target": "need-to-know-podcast"
+    },
+    {
+      "type": "features_person",
+      "target": "ross-coulthart",
+      "role": "host",
+      "context": "Need to Know co-host"
+    },
+    {
+      "type": "features_person",
+      "target": "bryce-zabel",
+      "role": "host",
+      "context": "Need to Know co-host"
+    },
+    {
+      "type": "discussed_topic",
+      "target": "uap-stigma"
+    },
+    {
+      "type": "discussed_topic",
+      "target": "media-coverage"
+    },
+    {
+      "type": "discussed_topic",
+      "target": "uap-science"
+    }
+  ],
+  "mediaLinks": [
+    {
+      "label": "Watch Need to Know Episode #13 on YouTube",
+      "url": "https://www.youtube.com/watch?v=HRCT_ddq39U",
+      "platform": "YouTube"
+    },
+    {
+      "label": "Watch the official Need to Know collection",
+      "url": "https://www.youtube.com/playlist?list=PLXdU8QbJkboeMcvUNyGpb9h6FUS9cVBti",
+      "platform": "YouTube"
+    }
+  ],
+  "eventCategory": "Podcast publication",
+  "officialLinks": [],
+  "referenceSources": [
+    {
+      "label": "Official Need to Know Episode 13 video — Bryce’s Rant",
+      "url": "https://www.youtube.com/watch?v=HRCT_ddq39U",
+      "sourceType": "official_episode_video",
+      "role": "source"
+    },
+    {
+      "label": "Need to Know official YouTube collection",
+      "url": "https://www.youtube.com/playlist?list=PLXdU8QbJkboeMcvUNyGpb9h6FUS9cVBti",
+      "sourceType": "official_video_collection",
+      "role": "source"
+    }
+  ]
+}

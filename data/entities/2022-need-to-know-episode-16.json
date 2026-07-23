@@ -1,0 +1,94 @@
+{
+  "id": "2022-need-to-know-episode-16",
+  "type": "podcast_episode",
+  "name": "Need to Know Episode #16 — Summer of the Saucers",
+  "summary": "Ross Coulthart and Bryce Zabel examine the renewed public and congressional focus on UFOs in the summer of 2022, placing the May hearing and continuing media attention within a longer cycle of official interest.",
+  "date": "2022-06-21",
+  "dateDisplay": "June 21, 2022",
+  "seriesId": "need-to-know-podcast",
+  "episodeNumber": 16,
+  "episodeTitle": "Summer of the Saucers",
+  "status": "Published",
+  "mediaType": "Podcast episode",
+  "mediaPlatform": "Need to Know",
+  "mediaHost": "Ross Coulthart and Bryce Zabel",
+  "mediaGuests": [],
+  "mediaSubjects": [],
+  "principalClaims": [
+    "claim-need-to-know-16-1",
+    "claim-need-to-know-16-2",
+    "claim-need-to-know-16-3",
+    "claim-need-to-know-16-4"
+  ],
+  "researchNotes": [],
+  "relationships": [
+    {
+      "type": "episode_of",
+      "target": "need-to-know-podcast"
+    },
+    {
+      "type": "features_person",
+      "target": "ross-coulthart",
+      "role": "host",
+      "context": "Need to Know co-host"
+    },
+    {
+      "type": "features_person",
+      "target": "bryce-zabel",
+      "role": "host",
+      "context": "Need to Know co-host"
+    },
+    {
+      "type": "references_hearing",
+      "target": "2022-05-17-house-intelligence-uap"
+    },
+    {
+      "type": "documented_by",
+      "target": "2022-house-uap-hearing-transcript"
+    },
+    {
+      "type": "discussed_topic",
+      "target": "congressional-oversight"
+    },
+    {
+      "type": "discussed_topic",
+      "target": "media-coverage"
+    },
+    {
+      "type": "discussed_topic",
+      "target": "uap-transparency"
+    },
+    {
+      "type": "discussed_topic",
+      "target": "historical-ufo-research"
+    }
+  ],
+  "mediaLinks": [
+    {
+      "label": "Watch Need to Know Episode #16 on YouTube",
+      "url": "https://www.youtube.com/watch?v=0dwsvzsn3ko",
+      "platform": "YouTube"
+    },
+    {
+      "label": "Watch the official Need to Know collection",
+      "url": "https://www.youtube.com/playlist?list=PLXdU8QbJkboeMcvUNyGpb9h6FUS9cVBti",
+      "platform": "YouTube"
+    }
+  ],
+  "eventCategory": "Podcast publication",
+  "officialLinks": [],
+  "referenceSources": [
+    {
+      "label": "Official Need to Know Episode 16 video — Summer of the Saucers",
+      "url": "https://www.youtube.com/watch?v=0dwsvzsn3ko",
+      "sourceType": "official_episode_video",
+      "role": "source"
+    },
+    {
+      "label": "Need to Know official YouTube collection",
+      "url": "https://www.youtube.com/playlist?list=PLXdU8QbJkboeMcvUNyGpb9h6FUS9cVBti",
+      "sourceType": "official_video_collection",
+      "role": "source"
+    }
+  ]
+}

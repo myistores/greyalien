@@ -1,0 +1,27 @@
+{
+  "id": "claim-need-to-know-8-2",
+  "type": "claim",
+  "name": "The episode emphasizes evaluating witness testimony alongside documents, institutional history, and scientific questions.",
+  "summary": "Claim or editorial framing presented in Need to Know Episode #8.",
+  "relationships": [
+    {
+      "type": "featured_in_media",
+      "target": "2022-need-to-know-episode-8"
+    }
+  ],
+  "officialLinks": [],
+  "referenceSources": [
+    {
+      "label": "Official Need to Know Episode 8 video — In Plain Sight",
+      "url": "https://www.youtube.com/watch?v=HnY4W9DoKbM",
+      "sourceType": "official_episode_video",
+      "role": "source"
+    },
+    {
+      "label": "Need to Know official YouTube collection",
+      "url": "https://www.youtube.com/playlist?list=PLXdU8QbJkboeMcvUNyGpb9h6FUS9cVBti",
+      "sourceType": "official_video_collection",
+      "role": "source"
+    }
+  ]
+}

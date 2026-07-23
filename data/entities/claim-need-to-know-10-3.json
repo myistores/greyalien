@@ -1,0 +1,27 @@
+{
+  "id": "claim-need-to-know-10-3",
+  "type": "claim",
+  "name": "Medical evidence should be evaluated case by case rather than used to generalize beyond the available record.",
+  "summary": "Claim or editorial framing presented in Need to Know Episode #10.",
+  "relationships": [
+    {
+      "type": "featured_in_media",
+      "target": "2022-need-to-know-episode-10"
+    }
+  ],
+  "officialLinks": [],
+  "referenceSources": [
+    {
+      "label": "Official Need to Know Episode 10 video — Do No Harm",
+      "url": "https://www.youtube.com/watch?v=AIbv1KzDNdQ",
+      "sourceType": "official_episode_video",
+      "role": "source"
+    },
+    {
+      "label": "Need to Know official YouTube collection",
+      "url": "https://www.youtube.com/playlist?list=PLXdU8QbJkboeMcvUNyGpb9h6FUS9cVBti",
+      "sourceType": "official_video_collection",
+      "role": "source"
+    }
+  ]
+}

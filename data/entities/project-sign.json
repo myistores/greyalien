@@ -1,0 +1,14 @@
+{
+  "id": "project-sign",
+  "type": "organization",
+  "name": "Project Sign",
+  "summary": "Early U.S. Air Force UFO investigation program established in 1948 and associated with the disputed Estimate of the Situation.",
+  "relationships": [
+    {
+      "type": "affiliated_with",
+      "target": "united-states-air-force"
+    }
+  ],
+  "officialLinks": [],
+  "referenceSources": []
+}

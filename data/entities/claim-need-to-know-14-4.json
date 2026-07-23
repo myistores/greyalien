@@ -1,0 +1,27 @@
+{
+  "id": "claim-need-to-know-14-4",
+  "type": "claim",
+  "name": "The Wilson–Davis Notes are discussed as a controversial document requiring careful evaluation rather than assumption.",
+  "summary": "Claim or editorial framing presented in Need to Know Episode #14.",
+  "relationships": [
+    {
+      "type": "featured_in_media",
+      "target": "2022-need-to-know-episode-14"
+    }
+  ],
+  "officialLinks": [],
+  "referenceSources": [
+    {
+      "label": "Official Need to Know Episode 14 video — Elizondo on UAP Hearing",
+      "url": "https://www.youtube.com/watch?v=YOjSBPfmoIM",
+      "sourceType": "official_episode_video",
+      "role": "source"
+    },
+    {
+      "label": "Need to Know official YouTube collection",
+      "url": "https://www.youtube.com/playlist?list=PLXdU8QbJkboeMcvUNyGpb9h6FUS9cVBti",
+      "sourceType": "official_video_collection",
+      "role": "source"
+    }
+  ]
+}

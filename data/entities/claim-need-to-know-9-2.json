@@ -1,0 +1,27 @@
+{
+  "id": "claim-need-to-know-9-2",
+  "type": "claim",
+  "name": "The episode compares American and Australian investigative histories rather than treating the phenomenon as exclusively American.",
+  "summary": "Claim or editorial framing presented in Need to Know Episode #9.",
+  "relationships": [
+    {
+      "type": "featured_in_media",
+      "target": "2022-need-to-know-episode-9"
+    }
+  ],
+  "officialLinks": [],
+  "referenceSources": [
+    {
+      "label": "Official Need to Know Episode 9 video — Classic UFO Investigators",
+      "url": "https://www.youtube.com/watch?v=j30le32EG_c",
+      "sourceType": "official_episode_video",
+      "role": "source"
+    },
+    {
+      "label": "Need to Know official YouTube collection",
+      "url": "https://www.youtube.com/playlist?list=PLXdU8QbJkboeMcvUNyGpb9h6FUS9cVBti",
+      "sourceType": "official_video_collection",
+      "role": "source"
+    }
+  ]
+}

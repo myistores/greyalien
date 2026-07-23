@@ -198,11 +198,81 @@
       "name": "Need to Know Episode #6 published",
       "aliases": []
     },
+    "timeline-2022-02-17-need-to-know-episode-7": {
+      "id": "timeline-2022-02-17-need-to-know-episode-7",
+      "date": "2022-02-17",
+      "eventCategory": "Podcast publication",
+      "name": "Need to Know Episode #7 published",
+      "aliases": []
+    },
+    "timeline-2022-03-03-need-to-know-episode-8": {
+      "id": "timeline-2022-03-03-need-to-know-episode-8",
+      "date": "2022-03-03",
+      "eventCategory": "Podcast publication",
+      "name": "Need to Know Episode #8 published",
+      "aliases": []
+    },
+    "timeline-2022-03-18-need-to-know-episode-9": {
+      "id": "timeline-2022-03-18-need-to-know-episode-9",
+      "date": "2022-03-18",
+      "eventCategory": "Podcast publication",
+      "name": "Need to Know Episode #9 published",
+      "aliases": []
+    },
+    "timeline-2022-04-01-need-to-know-episode-10": {
+      "id": "timeline-2022-04-01-need-to-know-episode-10",
+      "date": "2022-04-01",
+      "eventCategory": "Podcast publication",
+      "name": "Need to Know Episode #10 published",
+      "aliases": []
+    },
+    "timeline-2022-04-14-need-to-know-episode-11": {
+      "id": "timeline-2022-04-14-need-to-know-episode-11",
+      "date": "2022-04-14",
+      "eventCategory": "Podcast publication",
+      "name": "Need to Know Episode #11 published",
+      "aliases": []
+    },
+    "timeline-2022-04-28-need-to-know-episode-13": {
+      "id": "timeline-2022-04-28-need-to-know-episode-13",
+      "date": "2022-04-28",
+      "eventCategory": "Podcast publication",
+      "name": "Need to Know Episode #13 published",
+      "aliases": []
+    },
+    "timeline-2022-04-29-need-to-know-episode-12": {
+      "id": "timeline-2022-04-29-need-to-know-episode-12",
+      "date": "2022-04-29",
+      "eventCategory": "Podcast publication",
+      "name": "Need to Know Episode #12 published",
+      "aliases": []
+    },
+    "timeline-2022-05-17-need-to-know-episode-14": {
+      "id": "timeline-2022-05-17-need-to-know-episode-14",
+      "date": "2022-05-17",
+      "eventCategory": "Podcast publication",
+      "name": "Need to Know Episode #14 published",
+      "aliases": []
+    },
     "timeline-2022-05-25-david-grusch-ppd19-complaint": {
       "id": "timeline-2022-05-25-david-grusch-ppd19-complaint",
       "date": "2022-05-25",
       "eventCategory": "Whistleblower filing",
       "name": "David Grusch Files a PPD-19 Whistleblower Complaint",
+      "aliases": []
+    },
+    "timeline-2022-06-05-need-to-know-episode-15": {
+      "id": "timeline-2022-06-05-need-to-know-episode-15",
+      "date": "2022-06-05",
+      "eventCategory": "Podcast publication",
+      "name": "Need to Know Episode #15 published",
+      "aliases": []
+    },
+    "timeline-2022-06-21-need-to-know-episode-16": {
+      "id": "timeline-2022-06-21-need-to-know-episode-16",
+      "date": "2022-06-21",
+      "eventCategory": "Podcast publication",
+      "name": "Need to Know Episode #16 published",
       "aliases": []
     },
     "timeline-2022-07-20-kirkpatrick-named-aaro-director": {
@@ -821,7 +891,7 @@
   },
   "conflicts": [],
   "statistics": {
-    "canonicalEventCount": 115,
+    "canonicalEventCount": 125,
     "aliasCount": 3,
     "conflictCount": 0
   }

@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "generatedBy": "tools/build_related_content.py",
-  "generatedAt": "2026-07-23T01:59:49.262660+00:00",
+  "generatedAt": "2026-07-23T23:26:24.137641+00:00",
   "referencedIn": {
     "1946-scandinavian-ghost-rockets": [
       {
@@ -775,9 +775,352 @@
         "relationshipType": "testified_at",
         "role": "",
         "context": ""
+      },
+      {
+        "id": "2022-need-to-know-episode-12",
+        "type": "podcast_episode",
+        "name": "Need to Know Episode #12 — Congressional UFO Hearings",
+        "relationshipType": "references_hearing",
+        "role": "",
+        "context": ""
+      },
+      {
+        "id": "2022-need-to-know-episode-14",
+        "type": "podcast_episode",
+        "name": "Need to Know Episode #14 — Elizondo on UAP Hearing",
+        "relationshipType": "references_hearing",
+        "role": "",
+        "context": ""
+      },
+      {
+        "id": "2022-need-to-know-episode-16",
+        "type": "podcast_episode",
+        "name": "Need to Know Episode #16 — Summer of the Saucers",
+        "relationshipType": "references_hearing",
+        "role": "",
+        "context": ""
       }
     ],
-    "2022-house-uap-hearing-transcript": [],
+    "2022-house-uap-hearing-transcript": [
+      {
+        "id": "2022-need-to-know-episode-12",
+        "type": "podcast_episode",
+        "name": "Need to Know Episode #12 — Congressional UFO Hearings",
+        "relationshipType": "documented_by",
+        "role": "",
+        "context": ""
+      },
+      {
+        "id": "2022-need-to-know-episode-14",
+        "type": "podcast_episode",
+        "name": "Need to Know Episode #14 — Elizondo on UAP Hearing",
+        "relationshipType": "documented_by",
+        "role": "",
+        "context": ""
+      },
+      {
+        "id": "2022-need-to-know-episode-16",
+        "type": "podcast_episode",
+        "name": "Need to Know Episode #16 — Summer of the Saucers",
+        "relationshipType": "documented_by",
+        "role": "",
+        "context": ""
+      }
+    ],
+    "2022-need-to-know-episode-10": [
+      {
+        "id": "claim-need-to-know-10-3",
+        "type": "claim",
+        "name": "Medical evidence should be evaluated case by case rather than used to generalize beyond the available record.",
+        "relationshipType": "featured_in_media",
+        "role": "",
+        "context": ""
+      },
+      {
+        "id": "claim-need-to-know-10-4",
+        "type": "claim",
+        "name": "Responsible UAP research should prioritize witness welfare and avoid causing additional harm.",
+        "relationshipType": "featured_in_media",
+        "role": "",
+        "context": ""
+      },
+      {
+        "id": "claim-need-to-know-10-1",
+        "type": "claim",
+        "name": "Some reported close encounters include physical injuries or biological effects that merit careful medical review.",
+        "relationshipType": "featured_in_media",
+        "role": "",
+        "context": ""
+      },
+      {
+        "id": "claim-need-to-know-10-2",
+        "type": "claim",
+        "name": "The episode argues that ridicule and secrecy can discourage affected witnesses from seeking help or reporting experiences.",
+        "relationshipType": "featured_in_media",
+        "role": "",
+        "context": ""
+      },
+      {
+        "id": "timeline-2022-04-01-need-to-know-episode-10",
+        "type": "timeline_event",
+        "name": "Need to Know Episode #10 published",
+        "relationshipType": "event_for",
+        "role": "",
+        "context": ""
+      }
+    ],
+    "2022-need-to-know-episode-11": [
+      {
+        "id": "claim-need-to-know-11-3",
+        "type": "claim",
+        "name": "Entertainment figures can influence public engagement with UAP even when they are not traditional investigators.",
+        "relationshipType": "featured_in_media",
+        "role": "",
+        "context": ""
+      },
+      {
+        "id": "claim-need-to-know-11-2",
+        "type": "claim",
+        "name": "John Lennon’s reported New York UFO sighting illustrates how celebrity accounts can become part of cultural UFO history.",
+        "relationshipType": "featured_in_media",
+        "role": "",
+        "context": ""
+      },
+      {
+        "id": "claim-need-to-know-11-4",
+        "type": "claim",
+        "name": "The episode distinguishes cultural impact from evidentiary weight when discussing celebrity-associated UFO stories.",
+        "relationshipType": "featured_in_media",
+        "role": "",
+        "context": ""
+      },
+      {
+        "id": "claim-need-to-know-11-1",
+        "type": "claim",
+        "name": "Tom DeLonge’s transition from rock musician to public UAP advocate helped bring the subject to a large mainstream audience.",
+        "relationshipType": "featured_in_media",
+        "role": "",
+        "context": ""
+      },
+      {
+        "id": "timeline-2022-04-14-need-to-know-episode-11",
+        "type": "timeline_event",
+        "name": "Need to Know Episode #11 published",
+        "relationshipType": "event_for",
+        "role": "",
+        "context": ""
+      }
+    ],
+    "2022-need-to-know-episode-12": [
+      {
+        "id": "claim-need-to-know-12-1",
+        "type": "claim",
+        "name": "Congressional UFO hearings have historically produced limited lasting transparency without sustained follow-up.",
+        "relationshipType": "featured_in_media",
+        "role": "",
+        "context": ""
+      },
+      {
+        "id": "claim-need-to-know-12-2",
+        "type": "claim",
+        "name": "Effective hearings require informed questioning, access to records, and witnesses able to address program history and current cases.",
+        "relationshipType": "featured_in_media",
+        "role": "",
+        "context": ""
+      },
+      {
+        "id": "claim-need-to-know-12-3",
+        "type": "claim",
+        "name": "Public testimony is only one part of oversight because significant information may remain in classified briefings.",
+        "relationshipType": "featured_in_media",
+        "role": "",
+        "context": ""
+      },
+      {
+        "id": "claim-need-to-know-12-4",
+        "type": "claim",
+        "name": "The hosts argue that renewed congressional interest could be consequential if lawmakers maintain pressure after a hearing ends.",
+        "relationshipType": "featured_in_media",
+        "role": "",
+        "context": ""
+      },
+      {
+        "id": "timeline-2022-04-29-need-to-know-episode-12",
+        "type": "timeline_event",
+        "name": "Need to Know Episode #12 published",
+        "relationshipType": "event_for",
+        "role": "",
+        "context": ""
+      }
+    ],
+    "2022-need-to-know-episode-13": [
+      {
+        "id": "claim-need-to-know-13-4",
+        "type": "claim",
+        "name": "Constructive criticism is presented as more useful than ridicule or hostility within the UAP community.",
+        "relationshipType": "featured_in_media",
+        "role": "",
+        "context": ""
+      },
+      {
+        "id": "claim-need-to-know-13-1",
+        "type": "claim",
+        "name": "Factional conflict and personal attacks can distract from substantive UAP research.",
+        "relationshipType": "featured_in_media",
+        "role": "",
+        "context": ""
+      },
+      {
+        "id": "claim-need-to-know-13-2",
+        "type": "claim",
+        "name": "Public discussion benefits when claims are separated from evidence and uncertainty is stated clearly.",
+        "relationshipType": "featured_in_media",
+        "role": "",
+        "context": ""
+      },
+      {
+        "id": "claim-need-to-know-13-3",
+        "type": "claim",
+        "name": "The episode argues that researchers and commentators should focus on accountability rather than personality-driven disputes.",
+        "relationshipType": "featured_in_media",
+        "role": "",
+        "context": ""
+      },
+      {
+        "id": "timeline-2022-04-28-need-to-know-episode-13",
+        "type": "timeline_event",
+        "name": "Need to Know Episode #13 published",
+        "relationshipType": "event_for",
+        "role": "",
+        "context": ""
+      }
+    ],
+    "2022-need-to-know-episode-14": [
+      {
+        "id": "claim-need-to-know-14-2",
+        "type": "claim",
+        "name": "Luis Elizondo argues that the hearing represented progress but left important historical, technical, and accountability questions unresolved.",
+        "relationshipType": "featured_in_media",
+        "role": "",
+        "context": ""
+      },
+      {
+        "id": "claim-need-to-know-14-3",
+        "type": "claim",
+        "name": "The discussion highlights the difference between public testimony and the fuller information potentially available in classified settings.",
+        "relationshipType": "featured_in_media",
+        "role": "",
+        "context": ""
+      },
+      {
+        "id": "claim-need-to-know-14-1",
+        "type": "claim",
+        "name": "The May 17, 2022 hearing marked the first open congressional UFO hearing in more than five decades.",
+        "relationshipType": "featured_in_media",
+        "role": "",
+        "context": ""
+      },
+      {
+        "id": "claim-need-to-know-14-4",
+        "type": "claim",
+        "name": "The Wilson–Davis Notes are discussed as a controversial document requiring careful evaluation rather than assumption.",
+        "relationshipType": "featured_in_media",
+        "role": "",
+        "context": ""
+      },
+      {
+        "id": "timeline-2022-05-17-need-to-know-episode-14",
+        "type": "timeline_event",
+        "name": "Need to Know Episode #14 published",
+        "relationshipType": "event_for",
+        "role": "",
+        "context": ""
+      }
+    ],
+    "2022-need-to-know-episode-15": [
+      {
+        "id": "claim-need-to-know-15-4",
+        "type": "claim",
+        "name": "Early Air Force decisions helped shape later official UFO policy and the public transparency debate.",
+        "relationshipType": "featured_in_media",
+        "role": "",
+        "context": ""
+      },
+      {
+        "id": "claim-need-to-know-15-1",
+        "type": "claim",
+        "name": "Project Sign personnel are reported to have prepared an Estimate of the Situation that considered an interplanetary explanation for UFO reports.",
+        "relationshipType": "featured_in_media",
+        "role": "",
+        "context": ""
+      },
+      {
+        "id": "claim-need-to-know-15-3",
+        "type": "claim",
+        "name": "The document’s absence from the public record requires researchers to distinguish confirmed history from testimony about its contents.",
+        "relationshipType": "featured_in_media",
+        "role": "",
+        "context": ""
+      },
+      {
+        "id": "claim-need-to-know-15-2",
+        "type": "claim",
+        "name": "The reported rejection of the estimate illustrates early institutional conflict over how the Air Force should interpret UFO evidence.",
+        "relationshipType": "featured_in_media",
+        "role": "",
+        "context": ""
+      },
+      {
+        "id": "timeline-2022-06-05-need-to-know-episode-15",
+        "type": "timeline_event",
+        "name": "Need to Know Episode #15 published",
+        "relationshipType": "event_for",
+        "role": "",
+        "context": ""
+      }
+    ],
+    "2022-need-to-know-episode-16": [
+      {
+        "id": "claim-need-to-know-16-3",
+        "type": "claim",
+        "name": "Official discussion in 2022 is compared with earlier waves of public interest to identify recurring patterns of attention and retreat.",
+        "relationshipType": "featured_in_media",
+        "role": "",
+        "context": ""
+      },
+      {
+        "id": "claim-need-to-know-16-2",
+        "type": "claim",
+        "name": "The episode argues that sustained oversight matters more than a single burst of congressional or media attention.",
+        "relationshipType": "featured_in_media",
+        "role": "",
+        "context": ""
+      },
+      {
+        "id": "claim-need-to-know-16-4",
+        "type": "claim",
+        "name": "The hosts frame the summer of 2022 as a test of whether institutional engagement would produce lasting transparency.",
+        "relationshipType": "featured_in_media",
+        "role": "",
+        "context": ""
+      },
+      {
+        "id": "claim-need-to-know-16-1",
+        "type": "claim",
+        "name": "The May 2022 House hearing renewed public attention but did not resolve central questions about UAP data and historical programs.",
+        "relationshipType": "featured_in_media",
+        "role": "",
+        "context": ""
+      },
+      {
+        "id": "timeline-2022-06-21-need-to-know-episode-16",
+        "type": "timeline_event",
+        "name": "Need to Know Episode #16 published",
+        "relationshipType": "event_for",
+        "role": "",
+        "context": ""
+      }
+    ],
     "2022-need-to-know-episode-4": [
       {
         "id": "claim-need-to-know-4-3",
@@ -899,6 +1242,132 @@
         "id": "timeline-2022-02-03-need-to-know-episode-6",
         "type": "timeline_event",
         "name": "Need to Know Episode #6 published",
+        "relationshipType": "event_for",
+        "role": "",
+        "context": ""
+      }
+    ],
+    "2022-need-to-know-episode-7": [
+      {
+        "id": "claim-need-to-know-7-1",
+        "type": "claim",
+        "name": "Christopher Mellon’s public criticism is used to question why the U.S. Air Force appears less forthcoming about UAP than the U.S. Navy.",
+        "relationshipType": "featured_in_media",
+        "role": "",
+        "context": ""
+      },
+      {
+        "id": "claim-need-to-know-7-4",
+        "type": "claim",
+        "name": "Historical Air Force responsibility for UFO investigation remains relevant to present-day demands for records and accountability.",
+        "relationshipType": "featured_in_media",
+        "role": "",
+        "context": ""
+      },
+      {
+        "id": "claim-need-to-know-7-2",
+        "type": "claim",
+        "name": "The episode contrasts the Navy’s role in major modern UAP cases with the Air Force’s comparatively limited public accounting.",
+        "relationshipType": "featured_in_media",
+        "role": "",
+        "context": ""
+      },
+      {
+        "id": "claim-need-to-know-7-3",
+        "type": "claim",
+        "name": "The hosts argue that uneven transparency between military services complicates public understanding and congressional oversight.",
+        "relationshipType": "featured_in_media",
+        "role": "",
+        "context": ""
+      },
+      {
+        "id": "timeline-2022-02-17-need-to-know-episode-7",
+        "type": "timeline_event",
+        "name": "Need to Know Episode #7 published",
+        "relationshipType": "event_for",
+        "role": "",
+        "context": ""
+      }
+    ],
+    "2022-need-to-know-episode-8": [
+      {
+        "id": "claim-need-to-know-8-3",
+        "type": "claim",
+        "name": "Coulthart’s reporting journey is described as moving from skepticism toward the view that the UAP issue warrants serious investigation.",
+        "relationshipType": "featured_in_media",
+        "role": "",
+        "context": ""
+      },
+      {
+        "id": "claim-need-to-know-8-1",
+        "type": "claim",
+        "name": "In Plain Sight is presented as an investigation that connects modern UAP reporting with a longer history of cases and official inquiry.",
+        "relationshipType": "featured_in_media",
+        "role": "",
+        "context": ""
+      },
+      {
+        "id": "claim-need-to-know-8-4",
+        "type": "claim",
+        "name": "The book’s broader lesson is that the phenomenon cannot be assessed solely through recent military videos or isolated incidents.",
+        "relationshipType": "featured_in_media",
+        "role": "",
+        "context": ""
+      },
+      {
+        "id": "claim-need-to-know-8-2",
+        "type": "claim",
+        "name": "The episode emphasizes evaluating witness testimony alongside documents, institutional history, and scientific questions.",
+        "relationshipType": "featured_in_media",
+        "role": "",
+        "context": ""
+      },
+      {
+        "id": "timeline-2022-03-03-need-to-know-episode-8",
+        "type": "timeline_event",
+        "name": "Need to Know Episode #8 published",
+        "relationshipType": "event_for",
+        "role": "",
+        "context": ""
+      }
+    ],
+    "2022-need-to-know-episode-9": [
+      {
+        "id": "claim-need-to-know-9-3",
+        "type": "claim",
+        "name": "Case documentation and witness interviewing are presented as essential safeguards against mythology and retrospective distortion.",
+        "relationshipType": "featured_in_media",
+        "role": "",
+        "context": ""
+      },
+      {
+        "id": "claim-need-to-know-9-1",
+        "type": "claim",
+        "name": "Early UFO investigators established investigative practices that continue to influence modern UAP research.",
+        "relationshipType": "featured_in_media",
+        "role": "",
+        "context": ""
+      },
+      {
+        "id": "claim-need-to-know-9-2",
+        "type": "claim",
+        "name": "The episode compares American and Australian investigative histories rather than treating the phenomenon as exclusively American.",
+        "relationshipType": "featured_in_media",
+        "role": "",
+        "context": ""
+      },
+      {
+        "id": "claim-need-to-know-9-4",
+        "type": "claim",
+        "name": "The hosts argue that modern researchers benefit from understanding both the achievements and limitations of earlier investigators.",
+        "relationshipType": "featured_in_media",
+        "role": "",
+        "context": ""
+      },
+      {
+        "id": "timeline-2022-03-18-need-to-know-episode-9",
+        "type": "timeline_event",
+        "name": "Need to Know Episode #9 published",
         "relationshipType": "event_for",
         "role": "",
         "context": ""
@@ -7437,6 +7906,62 @@
         "context": "Need to Know co-host"
       },
       {
+        "id": "2022-need-to-know-episode-10",
+        "type": "podcast_episode",
+        "name": "Need to Know Episode #10 — Do No Harm",
+        "relationshipType": "features_person",
+        "role": "host",
+        "context": "Need to Know co-host"
+      },
+      {
+        "id": "2022-need-to-know-episode-11",
+        "type": "podcast_episode",
+        "name": "Need to Know Episode #11 — UFOs and Rock Stars",
+        "relationshipType": "features_person",
+        "role": "host",
+        "context": "Need to Know co-host"
+      },
+      {
+        "id": "2022-need-to-know-episode-12",
+        "type": "podcast_episode",
+        "name": "Need to Know Episode #12 — Congressional UFO Hearings",
+        "relationshipType": "features_person",
+        "role": "host",
+        "context": "Need to Know co-host"
+      },
+      {
+        "id": "2022-need-to-know-episode-13",
+        "type": "podcast_episode",
+        "name": "Need to Know Episode #13 — Bryce’s Rant",
+        "relationshipType": "features_person",
+        "role": "host",
+        "context": "Need to Know co-host"
+      },
+      {
+        "id": "2022-need-to-know-episode-14",
+        "type": "podcast_episode",
+        "name": "Need to Know Episode #14 — Elizondo on UAP Hearing",
+        "relationshipType": "features_person",
+        "role": "host",
+        "context": "Need to Know co-host"
+      },
+      {
+        "id": "2022-need-to-know-episode-15",
+        "type": "podcast_episode",
+        "name": "Need to Know Episode #15 — Estimate of the Situation",
+        "relationshipType": "features_person",
+        "role": "host",
+        "context": "Need to Know co-host"
+      },
+      {
+        "id": "2022-need-to-know-episode-16",
+        "type": "podcast_episode",
+        "name": "Need to Know Episode #16 — Summer of the Saucers",
+        "relationshipType": "features_person",
+        "role": "host",
+        "context": "Need to Know co-host"
+      },
+      {
         "id": "2021-need-to-know-episode-2",
         "type": "podcast_episode",
         "name": "Need to Know Episode #2 — The Year Ahead",
@@ -7472,6 +7997,30 @@
         "id": "2022-need-to-know-episode-6",
         "type": "podcast_episode",
         "name": "Need to Know Episode #6 — Take Me to Your Leader",
+        "relationshipType": "features_person",
+        "role": "host",
+        "context": "Need to Know co-host"
+      },
+      {
+        "id": "2022-need-to-know-episode-7",
+        "type": "podcast_episode",
+        "name": "Need to Know Episode #7 — Air Force Versus Navy",
+        "relationshipType": "features_person",
+        "role": "host",
+        "context": "Need to Know co-host"
+      },
+      {
+        "id": "2022-need-to-know-episode-8",
+        "type": "podcast_episode",
+        "name": "Need to Know Episode #8 — In Plain Sight",
+        "relationshipType": "features_person",
+        "role": "host",
+        "context": "Need to Know co-host"
+      },
+      {
+        "id": "2022-need-to-know-episode-9",
+        "type": "podcast_episode",
+        "name": "Need to Know Episode #9 — Classic UFO Investigators",
         "relationshipType": "features_person",
         "role": "host",
         "context": "Need to Know co-host"
@@ -7627,6 +8176,14 @@
         "name": "To The Stars Academy of Arts & Science",
         "relationshipType": "affiliated_with",
         "role": "National Security Affairs Advisor",
+        "context": ""
+      },
+      {
+        "id": "2022-need-to-know-episode-7",
+        "type": "podcast_episode",
+        "name": "Need to Know Episode #7 — Air Force Versus Navy",
+        "relationshipType": "features_person",
+        "role": "subject",
         "context": ""
       },
       {
@@ -8346,6 +8903,34 @@
     "claim-need-to-know-1-2": [],
     "claim-need-to-know-1-3": [],
     "claim-need-to-know-1-4": [],
+    "claim-need-to-know-10-1": [],
+    "claim-need-to-know-10-2": [],
+    "claim-need-to-know-10-3": [],
+    "claim-need-to-know-10-4": [],
+    "claim-need-to-know-11-1": [],
+    "claim-need-to-know-11-2": [],
+    "claim-need-to-know-11-3": [],
+    "claim-need-to-know-11-4": [],
+    "claim-need-to-know-12-1": [],
+    "claim-need-to-know-12-2": [],
+    "claim-need-to-know-12-3": [],
+    "claim-need-to-know-12-4": [],
+    "claim-need-to-know-13-1": [],
+    "claim-need-to-know-13-2": [],
+    "claim-need-to-know-13-3": [],
+    "claim-need-to-know-13-4": [],
+    "claim-need-to-know-14-1": [],
+    "claim-need-to-know-14-2": [],
+    "claim-need-to-know-14-3": [],
+    "claim-need-to-know-14-4": [],
+    "claim-need-to-know-15-1": [],
+    "claim-need-to-know-15-2": [],
+    "claim-need-to-know-15-3": [],
+    "claim-need-to-know-15-4": [],
+    "claim-need-to-know-16-1": [],
+    "claim-need-to-know-16-2": [],
+    "claim-need-to-know-16-3": [],
+    "claim-need-to-know-16-4": [],
     "claim-need-to-know-2-1": [],
     "claim-need-to-know-2-2": [],
     "claim-need-to-know-2-3": [],
@@ -8366,6 +8951,18 @@
     "claim-need-to-know-6-2": [],
     "claim-need-to-know-6-3": [],
     "claim-need-to-know-6-4": [],
+    "claim-need-to-know-7-1": [],
+    "claim-need-to-know-7-2": [],
+    "claim-need-to-know-7-3": [],
+    "claim-need-to-know-7-4": [],
+    "claim-need-to-know-8-1": [],
+    "claim-need-to-know-8-2": [],
+    "claim-need-to-know-8-3": [],
+    "claim-need-to-know-8-4": [],
+    "claim-need-to-know-9-1": [],
+    "claim-need-to-know-9-2": [],
+    "claim-need-to-know-9-3": [],
+    "claim-need-to-know-9-4": [],
     "claim-new-firsthand-witnesses-were-located-after-years-of-investigation": [],
     "claim-new-jersey-drone-operator-unidentified": [],
     "claim-nids-recorded-corso-interviews": [],
@@ -9347,6 +9944,30 @@
         "context": ""
       },
       {
+        "id": "2022-need-to-know-episode-12",
+        "type": "podcast_episode",
+        "name": "Need to Know Episode #12 — Congressional UFO Hearings",
+        "relationshipType": "discussed_topic",
+        "role": "",
+        "context": ""
+      },
+      {
+        "id": "2022-need-to-know-episode-14",
+        "type": "podcast_episode",
+        "name": "Need to Know Episode #14 — Elizondo on UAP Hearing",
+        "relationshipType": "discussed_topic",
+        "role": "",
+        "context": ""
+      },
+      {
+        "id": "2022-need-to-know-episode-16",
+        "type": "podcast_episode",
+        "name": "Need to Know Episode #16 — Summer of the Saucers",
+        "relationshipType": "discussed_topic",
+        "role": "",
+        "context": ""
+      },
+      {
         "id": "2021-need-to-know-episode-3",
         "type": "podcast_episode",
         "name": "Need to Know Episode #3 — Bipartisan Support for UAP Research",
@@ -9358,6 +9979,14 @@
         "id": "2022-need-to-know-episode-4",
         "type": "podcast_episode",
         "name": "Need to Know Episode #4 — Media Coverage of Harry Reid’s Death",
+        "relationshipType": "discussed_topic",
+        "role": "",
+        "context": ""
+      },
+      {
+        "id": "2022-need-to-know-episode-7",
+        "type": "podcast_episode",
+        "name": "Need to Know Episode #7 — Air Force Versus Navy",
         "relationshipType": "discussed_topic",
         "role": "",
         "context": ""
@@ -10531,7 +11160,16 @@
         "context": ""
       }
     ],
-    "document-2002-10-16-wilson-davis-notes": [],
+    "document-2002-10-16-wilson-davis-notes": [
+      {
+        "id": "2022-need-to-know-episode-14",
+        "type": "podcast_episode",
+        "name": "Need to Know Episode #14 — Elizondo on UAP Hearing",
+        "relationshipType": "documented_by",
+        "role": "",
+        "context": ""
+      }
+    ],
     "douglas-kurth": [],
     "duncan-trussell": [
       {
@@ -10864,6 +11502,16 @@
         "relationshipType": "features_person",
         "role": "guest",
         "context": "Featured episode participant"
+      }
+    ],
+    "estimate-of-the-situation-1948": [
+      {
+        "id": "2022-need-to-know-episode-15",
+        "type": "podcast_episode",
+        "name": "Need to Know Episode #15 — Estimate of the Situation",
+        "relationshipType": "documented_by",
+        "role": "",
+        "context": ""
       }
     ],
     "event-2023-house-hearing-held": [],
@@ -12447,6 +13095,30 @@
         "context": ""
       },
       {
+        "id": "2022-need-to-know-episode-12",
+        "type": "podcast_episode",
+        "name": "Need to Know Episode #12 — Congressional UFO Hearings",
+        "relationshipType": "discussed_topic",
+        "role": "",
+        "context": ""
+      },
+      {
+        "id": "2022-need-to-know-episode-14",
+        "type": "podcast_episode",
+        "name": "Need to Know Episode #14 — Elizondo on UAP Hearing",
+        "relationshipType": "discussed_topic",
+        "role": "",
+        "context": ""
+      },
+      {
+        "id": "2022-need-to-know-episode-15",
+        "type": "podcast_episode",
+        "name": "Need to Know Episode #15 — Estimate of the Situation",
+        "relationshipType": "discussed_topic",
+        "role": "",
+        "context": ""
+      },
+      {
         "id": "2021-need-to-know-episode-2",
         "type": "podcast_episode",
         "name": "Need to Know Episode #2 — The Year Ahead",
@@ -12474,6 +13146,22 @@
         "id": "2022-need-to-know-episode-6",
         "type": "podcast_episode",
         "name": "Need to Know Episode #6 — Take Me to Your Leader",
+        "relationshipType": "discussed_topic",
+        "role": "",
+        "context": ""
+      },
+      {
+        "id": "2022-need-to-know-episode-7",
+        "type": "podcast_episode",
+        "name": "Need to Know Episode #7 — Air Force Versus Navy",
+        "relationshipType": "discussed_topic",
+        "role": "",
+        "context": ""
+      },
+      {
+        "id": "2022-need-to-know-episode-8",
+        "type": "podcast_episode",
+        "name": "Need to Know Episode #8 — In Plain Sight",
         "relationshipType": "discussed_topic",
         "role": "",
         "context": ""
@@ -13026,6 +13714,46 @@
         "context": ""
       },
       {
+        "id": "2022-need-to-know-episode-11",
+        "type": "podcast_episode",
+        "name": "Need to Know Episode #11 — UFOs and Rock Stars",
+        "relationshipType": "discussed_topic",
+        "role": "",
+        "context": ""
+      },
+      {
+        "id": "2022-need-to-know-episode-15",
+        "type": "podcast_episode",
+        "name": "Need to Know Episode #15 — Estimate of the Situation",
+        "relationshipType": "discussed_topic",
+        "role": "",
+        "context": ""
+      },
+      {
+        "id": "2022-need-to-know-episode-16",
+        "type": "podcast_episode",
+        "name": "Need to Know Episode #16 — Summer of the Saucers",
+        "relationshipType": "discussed_topic",
+        "role": "",
+        "context": ""
+      },
+      {
+        "id": "2022-need-to-know-episode-8",
+        "type": "podcast_episode",
+        "name": "Need to Know Episode #8 — In Plain Sight",
+        "relationshipType": "discussed_topic",
+        "role": "",
+        "context": ""
+      },
+      {
+        "id": "2022-need-to-know-episode-9",
+        "type": "podcast_episode",
+        "name": "Need to Know Episode #9 — Classic UFO Investigators",
+        "relationshipType": "discussed_topic",
+        "role": "",
+        "context": ""
+      },
+      {
         "id": "2023-weaponized-episode-43",
         "type": "podcast_episode",
         "name": "WEAPONIZED Episode #43 — The Unreleased Philip Corso Tapes",
@@ -13206,6 +13934,22 @@
     ],
     "human-encounter-research": [
       {
+        "id": "2022-need-to-know-episode-10",
+        "type": "podcast_episode",
+        "name": "Need to Know Episode #10 — Do No Harm",
+        "relationshipType": "discussed_topic",
+        "role": "",
+        "context": ""
+      },
+      {
+        "id": "2022-need-to-know-episode-9",
+        "type": "podcast_episode",
+        "name": "Need to Know Episode #9 — Classic UFO Investigators",
+        "relationshipType": "discussed_topic",
+        "role": "",
+        "context": ""
+      },
+      {
         "id": "2025-weaponized-episode-69",
         "type": "podcast_episode",
         "name": "WEAPONIZED Episode #69 — John Mack, Ariel School, and Reporting the Unreportable",
@@ -13338,6 +14082,16 @@
         "context": ""
       }
     ],
+    "in-plain-sight-ross-coulthart": [
+      {
+        "id": "2022-need-to-know-episode-8",
+        "type": "podcast_episode",
+        "name": "Need to Know Episode #8 — In Plain Sight",
+        "relationshipType": "references_publication",
+        "role": "",
+        "context": ""
+      }
+    ],
     "instantaneous-acceleration": [
       {
         "id": "2026-weaponized-episode-108",
@@ -13389,6 +14143,14 @@
         "name": "Jacques Vallée",
         "relationshipType": "collaborated_with",
         "role": "Research collaborator",
+        "context": ""
+      },
+      {
+        "id": "2022-need-to-know-episode-9",
+        "type": "podcast_episode",
+        "name": "Need to Know Episode #9 — Classic UFO Investigators",
+        "relationshipType": "features_person",
+        "role": "subject",
         "context": ""
       },
       {
@@ -14736,6 +15498,16 @@
         "context": "Featured guest in Episode #32"
       }
     ],
+    "john-lennon": [
+      {
+        "id": "2022-need-to-know-episode-11",
+        "type": "podcast_episode",
+        "name": "Need to Know Episode #11 — UFOs and Rock Stars",
+        "relationshipType": "features_person",
+        "role": "subject",
+        "context": ""
+      }
+    ],
     "john-long": [
       {
         "id": "2023-weaponized-episode-11",
@@ -15069,6 +15841,14 @@
         "context": ""
       },
       {
+        "id": "2022-need-to-know-episode-14",
+        "type": "podcast_episode",
+        "name": "Need to Know Episode #14 — Elizondo on UAP Hearing",
+        "relationshipType": "features_person",
+        "role": "guest",
+        "context": ""
+      },
+      {
         "id": "2026-weaponized-episode-111",
         "type": "podcast_episode",
         "name": "WEAPONIZED Episode #111 — Lenval Logan — UAP Task Force Analysis and Better Classified Evidence",
@@ -15379,6 +16159,30 @@
       }
     ],
     "media-coverage": [
+      {
+        "id": "2022-need-to-know-episode-11",
+        "type": "podcast_episode",
+        "name": "Need to Know Episode #11 — UFOs and Rock Stars",
+        "relationshipType": "discussed_topic",
+        "role": "",
+        "context": ""
+      },
+      {
+        "id": "2022-need-to-know-episode-13",
+        "type": "podcast_episode",
+        "name": "Need to Know Episode #13 — Bryce’s Rant",
+        "relationshipType": "discussed_topic",
+        "role": "",
+        "context": ""
+      },
+      {
+        "id": "2022-need-to-know-episode-16",
+        "type": "podcast_episode",
+        "name": "Need to Know Episode #16 — Summer of the Saucers",
+        "relationshipType": "discussed_topic",
+        "role": "",
+        "context": ""
+      },
       {
         "id": "2022-need-to-know-episode-4",
         "type": "podcast_episode",
@@ -15928,6 +16732,62 @@
         "context": ""
       },
       {
+        "id": "2022-need-to-know-episode-10",
+        "type": "podcast_episode",
+        "name": "Need to Know Episode #10 — Do No Harm",
+        "relationshipType": "episode_of",
+        "role": "",
+        "context": ""
+      },
+      {
+        "id": "2022-need-to-know-episode-11",
+        "type": "podcast_episode",
+        "name": "Need to Know Episode #11 — UFOs and Rock Stars",
+        "relationshipType": "episode_of",
+        "role": "",
+        "context": ""
+      },
+      {
+        "id": "2022-need-to-know-episode-12",
+        "type": "podcast_episode",
+        "name": "Need to Know Episode #12 — Congressional UFO Hearings",
+        "relationshipType": "episode_of",
+        "role": "",
+        "context": ""
+      },
+      {
+        "id": "2022-need-to-know-episode-13",
+        "type": "podcast_episode",
+        "name": "Need to Know Episode #13 — Bryce’s Rant",
+        "relationshipType": "episode_of",
+        "role": "",
+        "context": ""
+      },
+      {
+        "id": "2022-need-to-know-episode-14",
+        "type": "podcast_episode",
+        "name": "Need to Know Episode #14 — Elizondo on UAP Hearing",
+        "relationshipType": "episode_of",
+        "role": "",
+        "context": ""
+      },
+      {
+        "id": "2022-need-to-know-episode-15",
+        "type": "podcast_episode",
+        "name": "Need to Know Episode #15 — Estimate of the Situation",
+        "relationshipType": "episode_of",
+        "role": "",
+        "context": ""
+      },
+      {
+        "id": "2022-need-to-know-episode-16",
+        "type": "podcast_episode",
+        "name": "Need to Know Episode #16 — Summer of the Saucers",
+        "relationshipType": "episode_of",
+        "role": "",
+        "context": ""
+      },
+      {
         "id": "2021-need-to-know-episode-2",
         "type": "podcast_episode",
         "name": "Need to Know Episode #2 — The Year Ahead",
@@ -15963,6 +16823,30 @@
         "id": "2022-need-to-know-episode-6",
         "type": "podcast_episode",
         "name": "Need to Know Episode #6 — Take Me to Your Leader",
+        "relationshipType": "episode_of",
+        "role": "",
+        "context": ""
+      },
+      {
+        "id": "2022-need-to-know-episode-7",
+        "type": "podcast_episode",
+        "name": "Need to Know Episode #7 — Air Force Versus Navy",
+        "relationshipType": "episode_of",
+        "role": "",
+        "context": ""
+      },
+      {
+        "id": "2022-need-to-know-episode-8",
+        "type": "podcast_episode",
+        "name": "Need to Know Episode #8 — In Plain Sight",
+        "relationshipType": "episode_of",
+        "role": "",
+        "context": ""
+      },
+      {
+        "id": "2022-need-to-know-episode-9",
+        "type": "podcast_episode",
+        "name": "Need to Know Episode #9 — Classic UFO Investigators",
         "relationshipType": "episode_of",
         "role": "",
         "context": ""
@@ -16141,6 +17025,22 @@
         "context": ""
       },
       {
+        "id": "2022-need-to-know-episode-15",
+        "type": "podcast_episode",
+        "name": "Need to Know Episode #15 — Estimate of the Situation",
+        "relationshipType": "references_organization",
+        "role": "",
+        "context": ""
+      },
+      {
+        "id": "2022-need-to-know-episode-9",
+        "type": "podcast_episode",
+        "name": "Need to Know Episode #9 — Classic UFO Investigators",
+        "relationshipType": "references_organization",
+        "role": "",
+        "context": ""
+      },
+      {
         "id": "2025-weaponized-episode-102",
         "type": "podcast_episode",
         "name": "WEAPONIZED Episode #102 — Jacques Vallée — The Bizarre Nature of UFOs",
@@ -16159,7 +17059,33 @@
         "context": ""
       }
     ],
+    "project-sign": [
+      {
+        "id": "estimate-of-the-situation-1948",
+        "type": "document",
+        "name": "Estimate of the Situation",
+        "relationshipType": "published_by",
+        "role": "",
+        "context": ""
+      },
+      {
+        "id": "2022-need-to-know-episode-15",
+        "type": "podcast_episode",
+        "name": "Need to Know Episode #15 — Estimate of the Situation",
+        "relationshipType": "references_organization",
+        "role": "",
+        "context": ""
+      }
+    ],
     "public-disclosure": [
+      {
+        "id": "2022-need-to-know-episode-12",
+        "type": "podcast_episode",
+        "name": "Need to Know Episode #12 — Congressional UFO Hearings",
+        "relationshipType": "discussed_topic",
+        "role": "",
+        "context": ""
+      },
       {
         "id": "2021-need-to-know-episode-2",
         "type": "podcast_episode",
@@ -16471,6 +17397,62 @@
         "context": "Need to Know co-host"
       },
       {
+        "id": "2022-need-to-know-episode-10",
+        "type": "podcast_episode",
+        "name": "Need to Know Episode #10 — Do No Harm",
+        "relationshipType": "features_person",
+        "role": "host",
+        "context": "Need to Know co-host"
+      },
+      {
+        "id": "2022-need-to-know-episode-11",
+        "type": "podcast_episode",
+        "name": "Need to Know Episode #11 — UFOs and Rock Stars",
+        "relationshipType": "features_person",
+        "role": "host",
+        "context": "Need to Know co-host"
+      },
+      {
+        "id": "2022-need-to-know-episode-12",
+        "type": "podcast_episode",
+        "name": "Need to Know Episode #12 — Congressional UFO Hearings",
+        "relationshipType": "features_person",
+        "role": "host",
+        "context": "Need to Know co-host"
+      },
+      {
+        "id": "2022-need-to-know-episode-13",
+        "type": "podcast_episode",
+        "name": "Need to Know Episode #13 — Bryce’s Rant",
+        "relationshipType": "features_person",
+        "role": "host",
+        "context": "Need to Know co-host"
+      },
+      {
+        "id": "2022-need-to-know-episode-14",
+        "type": "podcast_episode",
+        "name": "Need to Know Episode #14 — Elizondo on UAP Hearing",
+        "relationshipType": "features_person",
+        "role": "host",
+        "context": "Need to Know co-host"
+      },
+      {
+        "id": "2022-need-to-know-episode-15",
+        "type": "podcast_episode",
+        "name": "Need to Know Episode #15 — Estimate of the Situation",
+        "relationshipType": "features_person",
+        "role": "host",
+        "context": "Need to Know co-host"
+      },
+      {
+        "id": "2022-need-to-know-episode-16",
+        "type": "podcast_episode",
+        "name": "Need to Know Episode #16 — Summer of the Saucers",
+        "relationshipType": "features_person",
+        "role": "host",
+        "context": "Need to Know co-host"
+      },
+      {
         "id": "2021-need-to-know-episode-2",
         "type": "podcast_episode",
         "name": "Need to Know Episode #2 — The Year Ahead",
@@ -16511,6 +17493,38 @@
         "context": "Need to Know co-host"
       },
       {
+        "id": "2022-need-to-know-episode-7",
+        "type": "podcast_episode",
+        "name": "Need to Know Episode #7 — Air Force Versus Navy",
+        "relationshipType": "features_person",
+        "role": "host",
+        "context": "Need to Know co-host"
+      },
+      {
+        "id": "2022-need-to-know-episode-8",
+        "type": "podcast_episode",
+        "name": "Need to Know Episode #8 — In Plain Sight",
+        "relationshipType": "features_person",
+        "role": "host",
+        "context": "Need to Know co-host"
+      },
+      {
+        "id": "2022-need-to-know-episode-8",
+        "type": "podcast_episode",
+        "name": "Need to Know Episode #8 — In Plain Sight",
+        "relationshipType": "features_person",
+        "role": "author_subject",
+        "context": ""
+      },
+      {
+        "id": "2022-need-to-know-episode-9",
+        "type": "podcast_episode",
+        "name": "Need to Know Episode #9 — Classic UFO Investigators",
+        "relationshipType": "features_person",
+        "role": "host",
+        "context": "Need to Know co-host"
+      },
+      {
         "id": "2023-weaponized-episode-28",
         "type": "podcast_episode",
         "name": "WEAPONIZED Episode #28 — Congressional Hearing Roundtable",
@@ -16525,6 +17539,14 @@
         "relationshipType": "features_person",
         "role": "referenced_subject",
         "context": "Referenced journalist"
+      },
+      {
+        "id": "in-plain-sight-ross-coulthart",
+        "type": "publication",
+        "name": "In Plain Sight: An Investigation into UFOs and Impossible Science",
+        "relationshipType": "features_person",
+        "role": "author",
+        "context": ""
       }
     ],
     "roswell-incident": [
@@ -17723,7 +18745,17 @@
     "timeline-2022-01-04-need-to-know-episode-4": [],
     "timeline-2022-01-20-need-to-know-episode-5": [],
     "timeline-2022-02-03-need-to-know-episode-6": [],
+    "timeline-2022-02-17-need-to-know-episode-7": [],
+    "timeline-2022-03-03-need-to-know-episode-8": [],
+    "timeline-2022-03-18-need-to-know-episode-9": [],
+    "timeline-2022-04-01-need-to-know-episode-10": [],
+    "timeline-2022-04-14-need-to-know-episode-11": [],
+    "timeline-2022-04-28-need-to-know-episode-13": [],
+    "timeline-2022-04-29-need-to-know-episode-12": [],
+    "timeline-2022-05-17-need-to-know-episode-14": [],
     "timeline-2022-05-25-david-grusch-ppd19-complaint": [],
+    "timeline-2022-06-05-need-to-know-episode-15": [],
+    "timeline-2022-06-21-need-to-know-episode-16": [],
     "timeline-2022-07-20-kirkpatrick-named-aaro-director": [],
     "timeline-2023-01-23-weaponized-episode-1": [],
     "timeline-2023-01-23-weaponized-launch": [
@@ -17922,12 +18954,38 @@
         "context": ""
       },
       {
+        "id": "tom-delonge",
+        "type": "person",
+        "name": "Tom DeLonge",
+        "relationshipType": "affiliated_with",
+        "role": "",
+        "context": ""
+      },
+      {
+        "id": "2022-need-to-know-episode-11",
+        "type": "podcast_episode",
+        "name": "Need to Know Episode #11 — UFOs and Rock Stars",
+        "relationshipType": "references_organization",
+        "role": "",
+        "context": ""
+      },
+      {
         "id": "timeline-2017-10-christopher-mellon-ttsa",
         "type": "timeline_event",
         "name": "To The Stars Academy Launches with a UAP Science and Government Team",
         "relationshipType": "timeline_connection",
         "role": "related_organization",
         "context": "Organization launched in October 2017"
+      }
+    ],
+    "tom-delonge": [
+      {
+        "id": "2022-need-to-know-episode-11",
+        "type": "podcast_episode",
+        "name": "Need to Know Episode #11 — UFOs and Rock Stars",
+        "relationshipType": "features_person",
+        "role": "subject",
+        "context": ""
       }
     ],
     "transformation-2026": [
@@ -18234,6 +19292,14 @@
     ],
     "uap-health-effects": [
       {
+        "id": "2022-need-to-know-episode-10",
+        "type": "podcast_episode",
+        "name": "Need to Know Episode #10 — Do No Harm",
+        "relationshipType": "discussed_topic",
+        "role": "",
+        "context": ""
+      },
+      {
         "id": "2025-weaponized-episode-88",
         "type": "podcast_episode",
         "name": "WEAPONIZED Episode #88 — Injured by UFOs — The Case-by-Case Medical Evidence",
@@ -18518,6 +19584,38 @@
     ],
     "uap-science": [
       {
+        "id": "2022-need-to-know-episode-10",
+        "type": "podcast_episode",
+        "name": "Need to Know Episode #10 — Do No Harm",
+        "relationshipType": "discussed_topic",
+        "role": "",
+        "context": ""
+      },
+      {
+        "id": "2022-need-to-know-episode-13",
+        "type": "podcast_episode",
+        "name": "Need to Know Episode #13 — Bryce’s Rant",
+        "relationshipType": "discussed_topic",
+        "role": "",
+        "context": ""
+      },
+      {
+        "id": "2022-need-to-know-episode-8",
+        "type": "podcast_episode",
+        "name": "Need to Know Episode #8 — In Plain Sight",
+        "relationshipType": "discussed_topic",
+        "role": "",
+        "context": ""
+      },
+      {
+        "id": "2022-need-to-know-episode-9",
+        "type": "podcast_episode",
+        "name": "Need to Know Episode #9 — Classic UFO Investigators",
+        "relationshipType": "discussed_topic",
+        "role": "",
+        "context": ""
+      },
+      {
         "id": "2025-weaponized-episode-102",
         "type": "podcast_episode",
         "name": "WEAPONIZED Episode #102 — Jacques Vallée — The Bizarre Nature of UFOs",
@@ -18527,6 +19625,22 @@
       }
     ],
     "uap-stigma": [
+      {
+        "id": "2022-need-to-know-episode-10",
+        "type": "podcast_episode",
+        "name": "Need to Know Episode #10 — Do No Harm",
+        "relationshipType": "discussed_topic",
+        "role": "",
+        "context": ""
+      },
+      {
+        "id": "2022-need-to-know-episode-13",
+        "type": "podcast_episode",
+        "name": "Need to Know Episode #13 — Bryce’s Rant",
+        "relationshipType": "discussed_topic",
+        "role": "",
+        "context": ""
+      },
       {
         "id": "2026-weaponized-episode-106",
         "type": "podcast_episode",
@@ -18620,6 +19734,14 @@
         "context": ""
       },
       {
+        "id": "2022-need-to-know-episode-16",
+        "type": "podcast_episode",
+        "name": "Need to Know Episode #16 — Summer of the Saucers",
+        "relationshipType": "discussed_topic",
+        "role": "",
+        "context": ""
+      },
+      {
         "id": "2021-need-to-know-episode-2",
         "type": "podcast_episode",
         "name": "Need to Know Episode #2 — The Year Ahead",
@@ -18631,6 +19753,14 @@
         "id": "2022-need-to-know-episode-6",
         "type": "podcast_episode",
         "name": "Need to Know Episode #6 — Take Me to Your Leader",
+        "relationshipType": "discussed_topic",
+        "role": "",
+        "context": ""
+      },
+      {
+        "id": "2022-need-to-know-episode-7",
+        "type": "podcast_episode",
+        "name": "Need to Know Episode #7 — Air Force Versus Navy",
         "relationshipType": "discussed_topic",
         "role": "",
         "context": ""
@@ -18860,6 +19990,14 @@
         "context": ""
       },
       {
+        "id": "project-sign",
+        "type": "organization",
+        "name": "Project Sign",
+        "relationshipType": "affiliated_with",
+        "role": "",
+        "context": ""
+      },
+      {
         "id": "charles-halt",
         "type": "person",
         "name": "Charles Halt",
@@ -18945,6 +20083,22 @@
         "name": "Robert Salas",
         "relationshipType": "affiliated_with",
         "role": "Former missile launch officer",
+        "context": ""
+      },
+      {
+        "id": "2022-need-to-know-episode-15",
+        "type": "podcast_episode",
+        "name": "Need to Know Episode #15 — Estimate of the Situation",
+        "relationshipType": "references_organization",
+        "role": "",
+        "context": ""
+      },
+      {
+        "id": "2022-need-to-know-episode-7",
+        "type": "podcast_episode",
+        "name": "Need to Know Episode #7 — Air Force Versus Navy",
+        "relationshipType": "references_organization",
+        "role": "",
         "context": ""
       },
       {
@@ -19419,6 +20573,14 @@
         "name": "Tim Gallaudet",
         "relationshipType": "affiliated_with",
         "role": "Retired rear admiral",
+        "context": ""
+      },
+      {
+        "id": "2022-need-to-know-episode-7",
+        "type": "podcast_episode",
+        "name": "Need to Know Episode #7 — Air Force Versus Navy",
+        "relationshipType": "references_organization",
+        "role": "",
         "context": ""
       },
       {
@@ -21120,6 +22282,20 @@
         "score": 55
       },
       {
+        "id": "2022-need-to-know-episode-7",
+        "name": "Need to Know Episode #7 — Air Force Versus Navy",
+        "seriesId": "need-to-know-podcast",
+        "date": "2022-02-17",
+        "sharedEntityIds": [
+          "bryce-zabel",
+          "government-transparency",
+          "ross-coulthart",
+          "uap-transparency"
+        ],
+        "sharedEntityCount": 4,
+        "score": 45
+      },
+      {
         "id": "2022-need-to-know-episode-6",
         "name": "Need to Know Episode #6 — Take Me to Your Leader",
         "seriesId": "need-to-know-podcast",
@@ -21134,23 +22310,23 @@
         "score": 45
       },
       {
-        "id": "2022-need-to-know-episode-5",
-        "name": "Need to Know Episode #5 — Roswell and Beyond",
+        "id": "2022-need-to-know-episode-16",
+        "name": "Need to Know Episode #16 — Summer of the Saucers",
         "seriesId": "need-to-know-podcast",
-        "date": "2022-01-20",
+        "date": "2022-06-21",
         "sharedEntityIds": [
           "bryce-zabel",
           "ross-coulthart",
-          "scientific-investigation"
+          "uap-transparency"
         ],
         "sharedEntityCount": 3,
         "score": 35
       },
       {
-        "id": "2022-need-to-know-episode-4",
-        "name": "Need to Know Episode #4 — Media Coverage of Harry Reid’s Death",
+        "id": "2022-need-to-know-episode-15",
+        "name": "Need to Know Episode #15 — Estimate of the Situation",
         "seriesId": "need-to-know-podcast",
-        "date": "2022-01-04",
+        "date": "2022-06-05",
         "sharedEntityIds": [
           "bryce-zabel",
           "government-transparency",
@@ -21160,10 +22336,10 @@
         "score": 35
       },
       {
-        "id": "2021-need-to-know-episode-3",
-        "name": "Need to Know Episode #3 — Bipartisan Support for UAP Research",
+        "id": "2022-need-to-know-episode-14",
+        "name": "Need to Know Episode #14 — Elizondo on UAP Hearing",
         "seriesId": "need-to-know-podcast",
-        "date": "2021-12-27",
+        "date": "2022-05-17",
         "sharedEntityIds": [
           "bryce-zabel",
           "government-transparency",
@@ -21171,19 +22347,6 @@
         ],
         "sharedEntityCount": 3,
         "score": 35
-      },
-      {
-        "id": "2024-weaponized-episode-52",
-        "name": "WEAPONIZED Episode #52 — Season Finale and AARO Historical Report Review",
-        "seriesId": "weaponized-podcast",
-        "date": "2024-03-13",
-        "sharedEntityIds": [
-          "bryce-zabel",
-          "government-transparency",
-          "ross-coulthart"
-        ],
-        "sharedEntityCount": 3,
-        "score": 30
       }
     ],
     "2021-need-to-know-episode-2": [
@@ -21218,23 +22381,51 @@
         "score": 55
       },
       {
-        "id": "2022-need-to-know-episode-5",
-        "name": "Need to Know Episode #5 — Roswell and Beyond",
+        "id": "2022-need-to-know-episode-12",
+        "name": "Need to Know Episode #12 — Congressional UFO Hearings",
         "seriesId": "need-to-know-podcast",
-        "date": "2022-01-20",
+        "date": "2022-04-29",
+        "sharedEntityIds": [
+          "bryce-zabel",
+          "government-transparency",
+          "public-disclosure",
+          "ross-coulthart"
+        ],
+        "sharedEntityCount": 4,
+        "score": 45
+      },
+      {
+        "id": "2022-need-to-know-episode-7",
+        "name": "Need to Know Episode #7 — Air Force Versus Navy",
+        "seriesId": "need-to-know-podcast",
+        "date": "2022-02-17",
+        "sharedEntityIds": [
+          "bryce-zabel",
+          "government-transparency",
+          "ross-coulthart",
+          "uap-transparency"
+        ],
+        "sharedEntityCount": 4,
+        "score": 45
+      },
+      {
+        "id": "2022-need-to-know-episode-16",
+        "name": "Need to Know Episode #16 — Summer of the Saucers",
+        "seriesId": "need-to-know-podcast",
+        "date": "2022-06-21",
         "sharedEntityIds": [
           "bryce-zabel",
           "ross-coulthart",
-          "scientific-investigation"
+          "uap-transparency"
         ],
         "sharedEntityCount": 3,
         "score": 35
       },
       {
-        "id": "2022-need-to-know-episode-4",
-        "name": "Need to Know Episode #4 — Media Coverage of Harry Reid’s Death",
+        "id": "2022-need-to-know-episode-15",
+        "name": "Need to Know Episode #15 — Estimate of the Situation",
         "seriesId": "need-to-know-podcast",
-        "date": "2022-01-04",
+        "date": "2022-06-05",
         "sharedEntityIds": [
           "bryce-zabel",
           "government-transparency",
@@ -21242,35 +22433,51 @@
         ],
         "sharedEntityCount": 3,
         "score": 35
-      },
-      {
-        "id": "2021-need-to-know-episode-3",
-        "name": "Need to Know Episode #3 — Bipartisan Support for UAP Research",
-        "seriesId": "need-to-know-podcast",
-        "date": "2021-12-27",
-        "sharedEntityIds": [
-          "bryce-zabel",
-          "government-transparency",
-          "ross-coulthart"
-        ],
-        "sharedEntityCount": 3,
-        "score": 35
-      },
-      {
-        "id": "2024-weaponized-episode-52",
-        "name": "WEAPONIZED Episode #52 — Season Finale and AARO Historical Report Review",
-        "seriesId": "weaponized-podcast",
-        "date": "2024-03-13",
-        "sharedEntityIds": [
-          "bryce-zabel",
-          "government-transparency",
-          "ross-coulthart"
-        ],
-        "sharedEntityCount": 3,
-        "score": 30
       }
     ],
     "2021-need-to-know-episode-3": [
+      {
+        "id": "2022-need-to-know-episode-14",
+        "name": "Need to Know Episode #14 — Elizondo on UAP Hearing",
+        "seriesId": "need-to-know-podcast",
+        "date": "2022-05-17",
+        "sharedEntityIds": [
+          "bryce-zabel",
+          "congressional-oversight",
+          "government-transparency",
+          "ross-coulthart"
+        ],
+        "sharedEntityCount": 4,
+        "score": 45
+      },
+      {
+        "id": "2022-need-to-know-episode-12",
+        "name": "Need to Know Episode #12 — Congressional UFO Hearings",
+        "seriesId": "need-to-know-podcast",
+        "date": "2022-04-29",
+        "sharedEntityIds": [
+          "bryce-zabel",
+          "congressional-oversight",
+          "government-transparency",
+          "ross-coulthart"
+        ],
+        "sharedEntityCount": 4,
+        "score": 45
+      },
+      {
+        "id": "2022-need-to-know-episode-7",
+        "name": "Need to Know Episode #7 — Air Force Versus Navy",
+        "seriesId": "need-to-know-podcast",
+        "date": "2022-02-17",
+        "sharedEntityIds": [
+          "bryce-zabel",
+          "congressional-oversight",
+          "government-transparency",
+          "ross-coulthart"
+        ],
+        "sharedEntityCount": 4,
+        "score": 45
+      },
       {
         "id": "2022-need-to-know-episode-4",
         "name": "Need to Know Episode #4 — Media Coverage of Harry Reid’s Death",
@@ -21312,6 +22519,213 @@
         ],
         "sharedEntityCount": 4,
         "score": 40
+      }
+    ],
+    "2022-need-to-know-episode-10": [
+      {
+        "id": "2022-need-to-know-episode-13",
+        "name": "Need to Know Episode #13 — Bryce’s Rant",
+        "seriesId": "need-to-know-podcast",
+        "date": "2022-04-28",
+        "sharedEntityIds": [
+          "bryce-zabel",
+          "ross-coulthart",
+          "uap-science",
+          "uap-stigma"
+        ],
+        "sharedEntityCount": 4,
+        "score": 45
+      },
+      {
+        "id": "2022-need-to-know-episode-9",
+        "name": "Need to Know Episode #9 — Classic UFO Investigators",
+        "seriesId": "need-to-know-podcast",
+        "date": "2022-03-18",
+        "sharedEntityIds": [
+          "bryce-zabel",
+          "human-encounter-research",
+          "ross-coulthart",
+          "uap-science"
+        ],
+        "sharedEntityCount": 4,
+        "score": 45
+      },
+      {
+        "id": "2022-need-to-know-episode-8",
+        "name": "Need to Know Episode #8 — In Plain Sight",
+        "seriesId": "need-to-know-podcast",
+        "date": "2022-03-03",
+        "sharedEntityIds": [
+          "bryce-zabel",
+          "ross-coulthart",
+          "uap-science"
+        ],
+        "sharedEntityCount": 3,
+        "score": 35
+      },
+      {
+        "id": "2022-need-to-know-episode-16",
+        "name": "Need to Know Episode #16 — Summer of the Saucers",
+        "seriesId": "need-to-know-podcast",
+        "date": "2022-06-21",
+        "sharedEntityIds": [
+          "bryce-zabel",
+          "ross-coulthart"
+        ],
+        "sharedEntityCount": 2,
+        "score": 25
+      },
+      {
+        "id": "2022-need-to-know-episode-15",
+        "name": "Need to Know Episode #15 — Estimate of the Situation",
+        "seriesId": "need-to-know-podcast",
+        "date": "2022-06-05",
+        "sharedEntityIds": [
+          "bryce-zabel",
+          "ross-coulthart"
+        ],
+        "sharedEntityCount": 2,
+        "score": 25
+      },
+      {
+        "id": "2022-need-to-know-episode-14",
+        "name": "Need to Know Episode #14 — Elizondo on UAP Hearing",
+        "seriesId": "need-to-know-podcast",
+        "date": "2022-05-17",
+        "sharedEntityIds": [
+          "bryce-zabel",
+          "ross-coulthart"
+        ],
+        "sharedEntityCount": 2,
+        "score": 25
+      }
+    ],
+    "2022-need-to-know-episode-11": [
+      {
+        "id": "2022-need-to-know-episode-16",
+        "name": "Need to Know Episode #16 — Summer of the Saucers",
+        "seriesId": "need-to-know-podcast",
+        "date": "2022-06-21",
+        "sharedEntityIds": [
+          "bryce-zabel",
+          "historical-ufo-research",
+          "media-coverage",
+          "ross-coulthart"
+        ],
+        "sharedEntityCount": 4,
+        "score": 45
+      },
+      {
+        "id": "2022-need-to-know-episode-15",
+        "name": "Need to Know Episode #15 — Estimate of the Situation",
+        "seriesId": "need-to-know-podcast",
+        "date": "2022-06-05",
+        "sharedEntityIds": [
+          "bryce-zabel",
+          "historical-ufo-research",
+          "ross-coulthart"
+        ],
+        "sharedEntityCount": 3,
+        "score": 35
+      },
+      {
+        "id": "2022-need-to-know-episode-13",
+        "name": "Need to Know Episode #13 — Bryce’s Rant",
+        "seriesId": "need-to-know-podcast",
+        "date": "2022-04-28",
+        "sharedEntityIds": [
+          "bryce-zabel",
+          "media-coverage",
+          "ross-coulthart"
+        ],
+        "sharedEntityCount": 3,
+        "score": 35
+      },
+      {
+        "id": "2022-need-to-know-episode-9",
+        "name": "Need to Know Episode #9 — Classic UFO Investigators",
+        "seriesId": "need-to-know-podcast",
+        "date": "2022-03-18",
+        "sharedEntityIds": [
+          "bryce-zabel",
+          "historical-ufo-research",
+          "ross-coulthart"
+        ],
+        "sharedEntityCount": 3,
+        "score": 35
+      },
+      {
+        "id": "2022-need-to-know-episode-8",
+        "name": "Need to Know Episode #8 — In Plain Sight",
+        "seriesId": "need-to-know-podcast",
+        "date": "2022-03-03",
+        "sharedEntityIds": [
+          "bryce-zabel",
+          "historical-ufo-research",
+          "ross-coulthart"
+        ],
+        "sharedEntityCount": 3,
+        "score": 35
+      },
+      {
+        "id": "2022-need-to-know-episode-5",
+        "name": "Need to Know Episode #5 — Roswell and Beyond",
+        "seriesId": "need-to-know-podcast",
+        "date": "2022-01-20",
+        "sharedEntityIds": [
+          "bryce-zabel",
+          "media-coverage",
+          "ross-coulthart"
+        ],
+        "sharedEntityCount": 3,
+        "score": 35
+      }
+    ],
+    "2022-need-to-know-episode-12": [
+      {
+        "id": "2022-need-to-know-episode-14",
+        "name": "Need to Know Episode #14 — Elizondo on UAP Hearing",
+        "seriesId": "need-to-know-podcast",
+        "date": "2022-05-17",
+        "sharedEntityIds": [
+          "2022-05-17-house-intelligence-uap",
+          "2022-house-uap-hearing-transcript",
+          "bryce-zabel",
+          "congressional-oversight",
+          "government-transparency",
+          "ross-coulthart"
+        ],
+        "sharedEntityCount": 6,
+        "score": 65
+      },
+      {
+        "id": "2022-need-to-know-episode-16",
+        "name": "Need to Know Episode #16 — Summer of the Saucers",
+        "seriesId": "need-to-know-podcast",
+        "date": "2022-06-21",
+        "sharedEntityIds": [
+          "2022-05-17-house-intelligence-uap",
+          "2022-house-uap-hearing-transcript",
+          "bryce-zabel",
+          "congressional-oversight",
+          "ross-coulthart"
+        ],
+        "sharedEntityCount": 5,
+        "score": 55
+      },
+      {
+        "id": "2022-need-to-know-episode-7",
+        "name": "Need to Know Episode #7 — Air Force Versus Navy",
+        "seriesId": "need-to-know-podcast",
+        "date": "2022-02-17",
+        "sharedEntityIds": [
+          "bryce-zabel",
+          "congressional-oversight",
+          "government-transparency",
+          "ross-coulthart"
+        ],
+        "sharedEntityCount": 4,
+        "score": 45
       },
       {
         "id": "2022-need-to-know-episode-6",
@@ -21321,16 +22735,272 @@
         "sharedEntityIds": [
           "bryce-zabel",
           "government-transparency",
+          "public-disclosure",
+          "ross-coulthart"
+        ],
+        "sharedEntityCount": 4,
+        "score": 45
+      },
+      {
+        "id": "2022-need-to-know-episode-4",
+        "name": "Need to Know Episode #4 — Media Coverage of Harry Reid’s Death",
+        "seriesId": "need-to-know-podcast",
+        "date": "2022-01-04",
+        "sharedEntityIds": [
+          "bryce-zabel",
+          "congressional-oversight",
+          "government-transparency",
+          "ross-coulthart"
+        ],
+        "sharedEntityCount": 4,
+        "score": 45
+      },
+      {
+        "id": "2021-need-to-know-episode-3",
+        "name": "Need to Know Episode #3 — Bipartisan Support for UAP Research",
+        "seriesId": "need-to-know-podcast",
+        "date": "2021-12-27",
+        "sharedEntityIds": [
+          "bryce-zabel",
+          "congressional-oversight",
+          "government-transparency",
+          "ross-coulthart"
+        ],
+        "sharedEntityCount": 4,
+        "score": 45
+      }
+    ],
+    "2022-need-to-know-episode-13": [
+      {
+        "id": "2022-need-to-know-episode-10",
+        "name": "Need to Know Episode #10 — Do No Harm",
+        "seriesId": "need-to-know-podcast",
+        "date": "2022-04-01",
+        "sharedEntityIds": [
+          "bryce-zabel",
+          "ross-coulthart",
+          "uap-science",
+          "uap-stigma"
+        ],
+        "sharedEntityCount": 4,
+        "score": 45
+      },
+      {
+        "id": "2022-need-to-know-episode-16",
+        "name": "Need to Know Episode #16 — Summer of the Saucers",
+        "seriesId": "need-to-know-podcast",
+        "date": "2022-06-21",
+        "sharedEntityIds": [
+          "bryce-zabel",
+          "media-coverage",
           "ross-coulthart"
         ],
         "sharedEntityCount": 3,
         "score": 35
       },
       {
-        "id": "2021-need-to-know-episode-2",
-        "name": "Need to Know Episode #2 — The Year Ahead",
+        "id": "2022-need-to-know-episode-11",
+        "name": "Need to Know Episode #11 — UFOs and Rock Stars",
         "seriesId": "need-to-know-podcast",
-        "date": "2021-12-16",
+        "date": "2022-04-14",
+        "sharedEntityIds": [
+          "bryce-zabel",
+          "media-coverage",
+          "ross-coulthart"
+        ],
+        "sharedEntityCount": 3,
+        "score": 35
+      },
+      {
+        "id": "2022-need-to-know-episode-9",
+        "name": "Need to Know Episode #9 — Classic UFO Investigators",
+        "seriesId": "need-to-know-podcast",
+        "date": "2022-03-18",
+        "sharedEntityIds": [
+          "bryce-zabel",
+          "ross-coulthart",
+          "uap-science"
+        ],
+        "sharedEntityCount": 3,
+        "score": 35
+      },
+      {
+        "id": "2022-need-to-know-episode-8",
+        "name": "Need to Know Episode #8 — In Plain Sight",
+        "seriesId": "need-to-know-podcast",
+        "date": "2022-03-03",
+        "sharedEntityIds": [
+          "bryce-zabel",
+          "ross-coulthart",
+          "uap-science"
+        ],
+        "sharedEntityCount": 3,
+        "score": 35
+      },
+      {
+        "id": "2022-need-to-know-episode-5",
+        "name": "Need to Know Episode #5 — Roswell and Beyond",
+        "seriesId": "need-to-know-podcast",
+        "date": "2022-01-20",
+        "sharedEntityIds": [
+          "bryce-zabel",
+          "media-coverage",
+          "ross-coulthart"
+        ],
+        "sharedEntityCount": 3,
+        "score": 35
+      }
+    ],
+    "2022-need-to-know-episode-14": [
+      {
+        "id": "2022-need-to-know-episode-12",
+        "name": "Need to Know Episode #12 — Congressional UFO Hearings",
+        "seriesId": "need-to-know-podcast",
+        "date": "2022-04-29",
+        "sharedEntityIds": [
+          "2022-05-17-house-intelligence-uap",
+          "2022-house-uap-hearing-transcript",
+          "bryce-zabel",
+          "congressional-oversight",
+          "government-transparency",
+          "ross-coulthart"
+        ],
+        "sharedEntityCount": 6,
+        "score": 65
+      },
+      {
+        "id": "2022-need-to-know-episode-16",
+        "name": "Need to Know Episode #16 — Summer of the Saucers",
+        "seriesId": "need-to-know-podcast",
+        "date": "2022-06-21",
+        "sharedEntityIds": [
+          "2022-05-17-house-intelligence-uap",
+          "2022-house-uap-hearing-transcript",
+          "bryce-zabel",
+          "congressional-oversight",
+          "ross-coulthart"
+        ],
+        "sharedEntityCount": 5,
+        "score": 55
+      },
+      {
+        "id": "2022-need-to-know-episode-7",
+        "name": "Need to Know Episode #7 — Air Force Versus Navy",
+        "seriesId": "need-to-know-podcast",
+        "date": "2022-02-17",
+        "sharedEntityIds": [
+          "bryce-zabel",
+          "congressional-oversight",
+          "government-transparency",
+          "ross-coulthart"
+        ],
+        "sharedEntityCount": 4,
+        "score": 45
+      },
+      {
+        "id": "2022-need-to-know-episode-4",
+        "name": "Need to Know Episode #4 — Media Coverage of Harry Reid’s Death",
+        "seriesId": "need-to-know-podcast",
+        "date": "2022-01-04",
+        "sharedEntityIds": [
+          "bryce-zabel",
+          "congressional-oversight",
+          "government-transparency",
+          "ross-coulthart"
+        ],
+        "sharedEntityCount": 4,
+        "score": 45
+      },
+      {
+        "id": "2021-need-to-know-episode-3",
+        "name": "Need to Know Episode #3 — Bipartisan Support for UAP Research",
+        "seriesId": "need-to-know-podcast",
+        "date": "2021-12-27",
+        "sharedEntityIds": [
+          "bryce-zabel",
+          "congressional-oversight",
+          "government-transparency",
+          "ross-coulthart"
+        ],
+        "sharedEntityCount": 4,
+        "score": 45
+      },
+      {
+        "id": "2024-weaponized-episode-52",
+        "name": "WEAPONIZED Episode #52 — Season Finale and AARO Historical Report Review",
+        "seriesId": "weaponized-podcast",
+        "date": "2024-03-13",
+        "sharedEntityIds": [
+          "bryce-zabel",
+          "congressional-oversight",
+          "government-transparency",
+          "ross-coulthart"
+        ],
+        "sharedEntityCount": 4,
+        "score": 40
+      }
+    ],
+    "2022-need-to-know-episode-15": [
+      {
+        "id": "2022-need-to-know-episode-9",
+        "name": "Need to Know Episode #9 — Classic UFO Investigators",
+        "seriesId": "need-to-know-podcast",
+        "date": "2022-03-18",
+        "sharedEntityIds": [
+          "bryce-zabel",
+          "historical-ufo-research",
+          "project-blue-book",
+          "ross-coulthart"
+        ],
+        "sharedEntityCount": 4,
+        "score": 45
+      },
+      {
+        "id": "2022-need-to-know-episode-8",
+        "name": "Need to Know Episode #8 — In Plain Sight",
+        "seriesId": "need-to-know-podcast",
+        "date": "2022-03-03",
+        "sharedEntityIds": [
+          "bryce-zabel",
+          "government-transparency",
+          "historical-ufo-research",
+          "ross-coulthart"
+        ],
+        "sharedEntityCount": 4,
+        "score": 45
+      },
+      {
+        "id": "2022-need-to-know-episode-7",
+        "name": "Need to Know Episode #7 — Air Force Versus Navy",
+        "seriesId": "need-to-know-podcast",
+        "date": "2022-02-17",
+        "sharedEntityIds": [
+          "bryce-zabel",
+          "government-transparency",
+          "ross-coulthart",
+          "united-states-air-force"
+        ],
+        "sharedEntityCount": 4,
+        "score": 45
+      },
+      {
+        "id": "2022-need-to-know-episode-16",
+        "name": "Need to Know Episode #16 — Summer of the Saucers",
+        "seriesId": "need-to-know-podcast",
+        "date": "2022-06-21",
+        "sharedEntityIds": [
+          "bryce-zabel",
+          "historical-ufo-research",
+          "ross-coulthart"
+        ],
+        "sharedEntityCount": 3,
+        "score": 35
+      },
+      {
+        "id": "2022-need-to-know-episode-14",
+        "name": "Need to Know Episode #14 — Elizondo on UAP Hearing",
+        "seriesId": "need-to-know-podcast",
+        "date": "2022-05-17",
         "sharedEntityIds": [
           "bryce-zabel",
           "government-transparency",
@@ -21340,13 +23010,100 @@
         "score": 35
       },
       {
-        "id": "2021-need-to-know-episode-1",
-        "name": "Need to Know Episode #1 — 2021 Top Ten",
+        "id": "2022-need-to-know-episode-12",
+        "name": "Need to Know Episode #12 — Congressional UFO Hearings",
         "seriesId": "need-to-know-podcast",
-        "date": "2021-12-16",
+        "date": "2022-04-29",
         "sharedEntityIds": [
           "bryce-zabel",
           "government-transparency",
+          "ross-coulthart"
+        ],
+        "sharedEntityCount": 3,
+        "score": 35
+      }
+    ],
+    "2022-need-to-know-episode-16": [
+      {
+        "id": "2022-need-to-know-episode-14",
+        "name": "Need to Know Episode #14 — Elizondo on UAP Hearing",
+        "seriesId": "need-to-know-podcast",
+        "date": "2022-05-17",
+        "sharedEntityIds": [
+          "2022-05-17-house-intelligence-uap",
+          "2022-house-uap-hearing-transcript",
+          "bryce-zabel",
+          "congressional-oversight",
+          "ross-coulthart"
+        ],
+        "sharedEntityCount": 5,
+        "score": 55
+      },
+      {
+        "id": "2022-need-to-know-episode-12",
+        "name": "Need to Know Episode #12 — Congressional UFO Hearings",
+        "seriesId": "need-to-know-podcast",
+        "date": "2022-04-29",
+        "sharedEntityIds": [
+          "2022-05-17-house-intelligence-uap",
+          "2022-house-uap-hearing-transcript",
+          "bryce-zabel",
+          "congressional-oversight",
+          "ross-coulthart"
+        ],
+        "sharedEntityCount": 5,
+        "score": 55
+      },
+      {
+        "id": "2022-need-to-know-episode-11",
+        "name": "Need to Know Episode #11 — UFOs and Rock Stars",
+        "seriesId": "need-to-know-podcast",
+        "date": "2022-04-14",
+        "sharedEntityIds": [
+          "bryce-zabel",
+          "historical-ufo-research",
+          "media-coverage",
+          "ross-coulthart"
+        ],
+        "sharedEntityCount": 4,
+        "score": 45
+      },
+      {
+        "id": "2022-need-to-know-episode-7",
+        "name": "Need to Know Episode #7 — Air Force Versus Navy",
+        "seriesId": "need-to-know-podcast",
+        "date": "2022-02-17",
+        "sharedEntityIds": [
+          "bryce-zabel",
+          "congressional-oversight",
+          "ross-coulthart",
+          "uap-transparency"
+        ],
+        "sharedEntityCount": 4,
+        "score": 45
+      },
+      {
+        "id": "2022-need-to-know-episode-4",
+        "name": "Need to Know Episode #4 — Media Coverage of Harry Reid’s Death",
+        "seriesId": "need-to-know-podcast",
+        "date": "2022-01-04",
+        "sharedEntityIds": [
+          "bryce-zabel",
+          "congressional-oversight",
+          "media-coverage",
+          "ross-coulthart"
+        ],
+        "sharedEntityCount": 4,
+        "score": 45
+      },
+      {
+        "id": "2022-need-to-know-episode-15",
+        "name": "Need to Know Episode #15 — Estimate of the Situation",
+        "seriesId": "need-to-know-podcast",
+        "date": "2022-06-05",
+        "sharedEntityIds": [
+          "bryce-zabel",
+          "historical-ufo-research",
           "ross-coulthart"
         ],
         "sharedEntityCount": 3,
@@ -21355,6 +23112,62 @@
     ],
     "2022-need-to-know-episode-4": [
       {
+        "id": "2022-need-to-know-episode-16",
+        "name": "Need to Know Episode #16 — Summer of the Saucers",
+        "seriesId": "need-to-know-podcast",
+        "date": "2022-06-21",
+        "sharedEntityIds": [
+          "bryce-zabel",
+          "congressional-oversight",
+          "media-coverage",
+          "ross-coulthart"
+        ],
+        "sharedEntityCount": 4,
+        "score": 45
+      },
+      {
+        "id": "2022-need-to-know-episode-14",
+        "name": "Need to Know Episode #14 — Elizondo on UAP Hearing",
+        "seriesId": "need-to-know-podcast",
+        "date": "2022-05-17",
+        "sharedEntityIds": [
+          "bryce-zabel",
+          "congressional-oversight",
+          "government-transparency",
+          "ross-coulthart"
+        ],
+        "sharedEntityCount": 4,
+        "score": 45
+      },
+      {
+        "id": "2022-need-to-know-episode-12",
+        "name": "Need to Know Episode #12 — Congressional UFO Hearings",
+        "seriesId": "need-to-know-podcast",
+        "date": "2022-04-29",
+        "sharedEntityIds": [
+          "bryce-zabel",
+          "congressional-oversight",
+          "government-transparency",
+          "ross-coulthart"
+        ],
+        "sharedEntityCount": 4,
+        "score": 45
+      },
+      {
+        "id": "2022-need-to-know-episode-7",
+        "name": "Need to Know Episode #7 — Air Force Versus Navy",
+        "seriesId": "need-to-know-podcast",
+        "date": "2022-02-17",
+        "sharedEntityIds": [
+          "bryce-zabel",
+          "congressional-oversight",
+          "government-transparency",
+          "ross-coulthart"
+        ],
+        "sharedEntityCount": 4,
+        "score": 45
+      },
+      {
         "id": "2021-need-to-know-episode-3",
         "name": "Need to Know Episode #3 — Bipartisan Support for UAP Research",
         "seriesId": "need-to-know-podcast",
@@ -21381,39 +23194,14 @@
         ],
         "sharedEntityCount": 4,
         "score": 40
-      },
+      }
+    ],
+    "2022-need-to-know-episode-5": [
       {
-        "id": "2023-weaponized-episode-28",
-        "name": "WEAPONIZED Episode #28 — Congressional Hearing Roundtable",
-        "seriesId": "weaponized-podcast",
-        "date": "2023-07-31",
-        "sharedEntityIds": [
-          "bryce-zabel",
-          "congressional-oversight",
-          "government-transparency",
-          "ross-coulthart"
-        ],
-        "sharedEntityCount": 4,
-        "score": 40
-      },
-      {
-        "id": "2022-need-to-know-episode-6",
-        "name": "Need to Know Episode #6 — Take Me to Your Leader",
+        "id": "2022-need-to-know-episode-16",
+        "name": "Need to Know Episode #16 — Summer of the Saucers",
         "seriesId": "need-to-know-podcast",
-        "date": "2022-02-03",
-        "sharedEntityIds": [
-          "bryce-zabel",
-          "government-transparency",
-          "ross-coulthart"
-        ],
-        "sharedEntityCount": 3,
-        "score": 35
-      },
-      {
-        "id": "2022-need-to-know-episode-5",
-        "name": "Need to Know Episode #5 — Roswell and Beyond",
-        "seriesId": "need-to-know-podcast",
-        "date": "2022-01-20",
+        "date": "2022-06-21",
         "sharedEntityIds": [
           "bryce-zabel",
           "media-coverage",
@@ -21423,20 +23211,31 @@
         "score": 35
       },
       {
-        "id": "2021-need-to-know-episode-2",
-        "name": "Need to Know Episode #2 — The Year Ahead",
+        "id": "2022-need-to-know-episode-13",
+        "name": "Need to Know Episode #13 — Bryce’s Rant",
         "seriesId": "need-to-know-podcast",
-        "date": "2021-12-16",
+        "date": "2022-04-28",
         "sharedEntityIds": [
           "bryce-zabel",
-          "government-transparency",
+          "media-coverage",
           "ross-coulthart"
         ],
         "sharedEntityCount": 3,
         "score": 35
-      }
-    ],
-    "2022-need-to-know-episode-5": [
+      },
+      {
+        "id": "2022-need-to-know-episode-11",
+        "name": "Need to Know Episode #11 — UFOs and Rock Stars",
+        "seriesId": "need-to-know-podcast",
+        "date": "2022-04-14",
+        "sharedEntityIds": [
+          "bryce-zabel",
+          "media-coverage",
+          "ross-coulthart"
+        ],
+        "sharedEntityCount": 3,
+        "score": 35
+      },
       {
         "id": "2022-need-to-know-episode-4",
         "name": "Need to Know Episode #4 — Media Coverage of Harry Reid’s Death",
@@ -21475,42 +23274,6 @@
         ],
         "sharedEntityCount": 3,
         "score": 35
-      },
-      {
-        "id": "2022-need-to-know-episode-6",
-        "name": "Need to Know Episode #6 — Take Me to Your Leader",
-        "seriesId": "need-to-know-podcast",
-        "date": "2022-02-03",
-        "sharedEntityIds": [
-          "bryce-zabel",
-          "ross-coulthart"
-        ],
-        "sharedEntityCount": 2,
-        "score": 25
-      },
-      {
-        "id": "2021-need-to-know-episode-3",
-        "name": "Need to Know Episode #3 — Bipartisan Support for UAP Research",
-        "seriesId": "need-to-know-podcast",
-        "date": "2021-12-27",
-        "sharedEntityIds": [
-          "bryce-zabel",
-          "ross-coulthart"
-        ],
-        "sharedEntityCount": 2,
-        "score": 25
-      },
-      {
-        "id": "2024-weaponized-episode-52",
-        "name": "WEAPONIZED Episode #52 — Season Finale and AARO Historical Report Review",
-        "seriesId": "weaponized-podcast",
-        "date": "2024-03-13",
-        "sharedEntityIds": [
-          "bryce-zabel",
-          "ross-coulthart"
-        ],
-        "sharedEntityCount": 2,
-        "score": 20
       }
     ],
     "2022-need-to-know-episode-6": [
@@ -21530,10 +23293,136 @@
         "score": 55
       },
       {
+        "id": "2022-need-to-know-episode-12",
+        "name": "Need to Know Episode #12 — Congressional UFO Hearings",
+        "seriesId": "need-to-know-podcast",
+        "date": "2022-04-29",
+        "sharedEntityIds": [
+          "bryce-zabel",
+          "government-transparency",
+          "public-disclosure",
+          "ross-coulthart"
+        ],
+        "sharedEntityCount": 4,
+        "score": 45
+      },
+      {
+        "id": "2022-need-to-know-episode-7",
+        "name": "Need to Know Episode #7 — Air Force Versus Navy",
+        "seriesId": "need-to-know-podcast",
+        "date": "2022-02-17",
+        "sharedEntityIds": [
+          "bryce-zabel",
+          "government-transparency",
+          "ross-coulthart",
+          "uap-transparency"
+        ],
+        "sharedEntityCount": 4,
+        "score": 45
+      },
+      {
         "id": "2021-need-to-know-episode-1",
         "name": "Need to Know Episode #1 — 2021 Top Ten",
         "seriesId": "need-to-know-podcast",
         "date": "2021-12-16",
+        "sharedEntityIds": [
+          "bryce-zabel",
+          "government-transparency",
+          "ross-coulthart",
+          "uap-transparency"
+        ],
+        "sharedEntityCount": 4,
+        "score": 45
+      },
+      {
+        "id": "2022-need-to-know-episode-16",
+        "name": "Need to Know Episode #16 — Summer of the Saucers",
+        "seriesId": "need-to-know-podcast",
+        "date": "2022-06-21",
+        "sharedEntityIds": [
+          "bryce-zabel",
+          "ross-coulthart",
+          "uap-transparency"
+        ],
+        "sharedEntityCount": 3,
+        "score": 35
+      },
+      {
+        "id": "2022-need-to-know-episode-15",
+        "name": "Need to Know Episode #15 — Estimate of the Situation",
+        "seriesId": "need-to-know-podcast",
+        "date": "2022-06-05",
+        "sharedEntityIds": [
+          "bryce-zabel",
+          "government-transparency",
+          "ross-coulthart"
+        ],
+        "sharedEntityCount": 3,
+        "score": 35
+      }
+    ],
+    "2022-need-to-know-episode-7": [
+      {
+        "id": "2022-need-to-know-episode-16",
+        "name": "Need to Know Episode #16 — Summer of the Saucers",
+        "seriesId": "need-to-know-podcast",
+        "date": "2022-06-21",
+        "sharedEntityIds": [
+          "bryce-zabel",
+          "congressional-oversight",
+          "ross-coulthart",
+          "uap-transparency"
+        ],
+        "sharedEntityCount": 4,
+        "score": 45
+      },
+      {
+        "id": "2022-need-to-know-episode-15",
+        "name": "Need to Know Episode #15 — Estimate of the Situation",
+        "seriesId": "need-to-know-podcast",
+        "date": "2022-06-05",
+        "sharedEntityIds": [
+          "bryce-zabel",
+          "government-transparency",
+          "ross-coulthart",
+          "united-states-air-force"
+        ],
+        "sharedEntityCount": 4,
+        "score": 45
+      },
+      {
+        "id": "2022-need-to-know-episode-14",
+        "name": "Need to Know Episode #14 — Elizondo on UAP Hearing",
+        "seriesId": "need-to-know-podcast",
+        "date": "2022-05-17",
+        "sharedEntityIds": [
+          "bryce-zabel",
+          "congressional-oversight",
+          "government-transparency",
+          "ross-coulthart"
+        ],
+        "sharedEntityCount": 4,
+        "score": 45
+      },
+      {
+        "id": "2022-need-to-know-episode-12",
+        "name": "Need to Know Episode #12 — Congressional UFO Hearings",
+        "seriesId": "need-to-know-podcast",
+        "date": "2022-04-29",
+        "sharedEntityIds": [
+          "bryce-zabel",
+          "congressional-oversight",
+          "government-transparency",
+          "ross-coulthart"
+        ],
+        "sharedEntityCount": 4,
+        "score": 45
+      },
+      {
+        "id": "2022-need-to-know-episode-6",
+        "name": "Need to Know Episode #6 — Take Me to Your Leader",
+        "seriesId": "need-to-know-podcast",
+        "date": "2022-02-03",
         "sharedEntityIds": [
           "bryce-zabel",
           "government-transparency",
@@ -21550,17 +23439,61 @@
         "date": "2022-01-04",
         "sharedEntityIds": [
           "bryce-zabel",
+          "congressional-oversight",
           "government-transparency",
           "ross-coulthart"
         ],
-        "sharedEntityCount": 3,
-        "score": 35
-      },
+        "sharedEntityCount": 4,
+        "score": 45
+      }
+    ],
+    "2022-need-to-know-episode-8": [
       {
-        "id": "2021-need-to-know-episode-3",
-        "name": "Need to Know Episode #3 — Bipartisan Support for UAP Research",
+        "id": "2022-need-to-know-episode-15",
+        "name": "Need to Know Episode #15 — Estimate of the Situation",
         "seriesId": "need-to-know-podcast",
-        "date": "2021-12-27",
+        "date": "2022-06-05",
+        "sharedEntityIds": [
+          "bryce-zabel",
+          "government-transparency",
+          "historical-ufo-research",
+          "ross-coulthart"
+        ],
+        "sharedEntityCount": 4,
+        "score": 45
+      },
+      {
+        "id": "2022-need-to-know-episode-9",
+        "name": "Need to Know Episode #9 — Classic UFO Investigators",
+        "seriesId": "need-to-know-podcast",
+        "date": "2022-03-18",
+        "sharedEntityIds": [
+          "bryce-zabel",
+          "historical-ufo-research",
+          "ross-coulthart",
+          "uap-science"
+        ],
+        "sharedEntityCount": 4,
+        "score": 45
+      },
+      {
+        "id": "2022-need-to-know-episode-16",
+        "name": "Need to Know Episode #16 — Summer of the Saucers",
+        "seriesId": "need-to-know-podcast",
+        "date": "2022-06-21",
+        "sharedEntityIds": [
+          "bryce-zabel",
+          "historical-ufo-research",
+          "ross-coulthart"
+        ],
+        "sharedEntityCount": 3,
+        "score": 35
+      },
+      {
+        "id": "2022-need-to-know-episode-14",
+        "name": "Need to Know Episode #14 — Elizondo on UAP Hearing",
+        "seriesId": "need-to-know-podcast",
+        "date": "2022-05-17",
         "sharedEntityIds": [
           "bryce-zabel",
           "government-transparency",
@@ -21570,30 +23503,113 @@
         "score": 35
       },
       {
-        "id": "2024-weaponized-episode-52",
-        "name": "WEAPONIZED Episode #52 — Season Finale and AARO Historical Report Review",
-        "seriesId": "weaponized-podcast",
-        "date": "2024-03-13",
+        "id": "2022-need-to-know-episode-12",
+        "name": "Need to Know Episode #12 — Congressional UFO Hearings",
+        "seriesId": "need-to-know-podcast",
+        "date": "2022-04-29",
         "sharedEntityIds": [
           "bryce-zabel",
           "government-transparency",
           "ross-coulthart"
         ],
         "sharedEntityCount": 3,
-        "score": 30
+        "score": 35
       },
       {
-        "id": "2023-weaponized-episode-28",
-        "name": "WEAPONIZED Episode #28 — Congressional Hearing Roundtable",
-        "seriesId": "weaponized-podcast",
-        "date": "2023-07-31",
+        "id": "2022-need-to-know-episode-13",
+        "name": "Need to Know Episode #13 — Bryce’s Rant",
+        "seriesId": "need-to-know-podcast",
+        "date": "2022-04-28",
         "sharedEntityIds": [
           "bryce-zabel",
-          "government-transparency",
+          "ross-coulthart",
+          "uap-science"
+        ],
+        "sharedEntityCount": 3,
+        "score": 35
+      }
+    ],
+    "2022-need-to-know-episode-9": [
+      {
+        "id": "2022-need-to-know-episode-15",
+        "name": "Need to Know Episode #15 — Estimate of the Situation",
+        "seriesId": "need-to-know-podcast",
+        "date": "2022-06-05",
+        "sharedEntityIds": [
+          "bryce-zabel",
+          "historical-ufo-research",
+          "project-blue-book",
+          "ross-coulthart"
+        ],
+        "sharedEntityCount": 4,
+        "score": 45
+      },
+      {
+        "id": "2022-need-to-know-episode-10",
+        "name": "Need to Know Episode #10 — Do No Harm",
+        "seriesId": "need-to-know-podcast",
+        "date": "2022-04-01",
+        "sharedEntityIds": [
+          "bryce-zabel",
+          "human-encounter-research",
+          "ross-coulthart",
+          "uap-science"
+        ],
+        "sharedEntityCount": 4,
+        "score": 45
+      },
+      {
+        "id": "2022-need-to-know-episode-8",
+        "name": "Need to Know Episode #8 — In Plain Sight",
+        "seriesId": "need-to-know-podcast",
+        "date": "2022-03-03",
+        "sharedEntityIds": [
+          "bryce-zabel",
+          "historical-ufo-research",
+          "ross-coulthart",
+          "uap-science"
+        ],
+        "sharedEntityCount": 4,
+        "score": 45
+      },
+      {
+        "id": "2022-need-to-know-episode-16",
+        "name": "Need to Know Episode #16 — Summer of the Saucers",
+        "seriesId": "need-to-know-podcast",
+        "date": "2022-06-21",
+        "sharedEntityIds": [
+          "bryce-zabel",
+          "historical-ufo-research",
           "ross-coulthart"
         ],
         "sharedEntityCount": 3,
-        "score": 30
+        "score": 35
+      },
+      {
+        "id": "2022-need-to-know-episode-13",
+        "name": "Need to Know Episode #13 — Bryce’s Rant",
+        "seriesId": "need-to-know-podcast",
+        "date": "2022-04-28",
+        "sharedEntityIds": [
+          "bryce-zabel",
+          "ross-coulthart",
+          "uap-science"
+        ],
+        "sharedEntityCount": 3,
+        "score": 35
+      },
+      {
+        "id": "2022-need-to-know-episode-11",
+        "name": "Need to Know Episode #11 — UFOs and Rock Stars",
+        "seriesId": "need-to-know-podcast",
+        "date": "2022-04-14",
+        "sharedEntityIds": [
+          "bryce-zabel",
+          "historical-ufo-research",
+          "ross-coulthart"
+        ],
+        "sharedEntityCount": 3,
+        "score": 35
       }
     ],
     "2023-weaponized-episode-1": [

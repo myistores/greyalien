@@ -1,0 +1,91 @@
+{
+  "id": "2022-need-to-know-episode-9",
+  "type": "podcast_episode",
+  "name": "Need to Know Episode #9 — Classic UFO Investigators",
+  "summary": "Ross Coulthart and Bryce Zabel revisit formative UFO investigators and early investigations in the United States and Australia, considering how their methods and findings shaped later research.",
+  "date": "2022-03-18",
+  "dateDisplay": "March 18, 2022",
+  "seriesId": "need-to-know-podcast",
+  "episodeNumber": 9,
+  "episodeTitle": "Classic UFO Investigators",
+  "status": "Published",
+  "mediaType": "Podcast episode",
+  "mediaPlatform": "Need to Know",
+  "mediaHost": "Ross Coulthart and Bryce Zabel",
+  "mediaGuests": [],
+  "mediaSubjects": [],
+  "principalClaims": [
+    "claim-need-to-know-9-1",
+    "claim-need-to-know-9-2",
+    "claim-need-to-know-9-3",
+    "claim-need-to-know-9-4"
+  ],
+  "researchNotes": [],
+  "relationships": [
+    {
+      "type": "episode_of",
+      "target": "need-to-know-podcast"
+    },
+    {
+      "type": "features_person",
+      "target": "ross-coulthart",
+      "role": "host",
+      "context": "Need to Know co-host"
+    },
+    {
+      "type": "features_person",
+      "target": "bryce-zabel",
+      "role": "host",
+      "context": "Need to Know co-host"
+    },
+    {
+      "type": "references_organization",
+      "target": "project-blue-book"
+    },
+    {
+      "type": "features_person",
+      "target": "j-allen-hynek",
+      "role": "subject"
+    },
+    {
+      "type": "discussed_topic",
+      "target": "historical-ufo-research"
+    },
+    {
+      "type": "discussed_topic",
+      "target": "uap-science"
+    },
+    {
+      "type": "discussed_topic",
+      "target": "human-encounter-research"
+    }
+  ],
+  "mediaLinks": [
+    {
+      "label": "Watch Need to Know Episode #9 on YouTube",
+      "url": "https://www.youtube.com/watch?v=j30le32EG_c",
+      "platform": "YouTube"
+    },
+    {
+      "label": "Watch the official Need to Know collection",
+      "url": "https://www.youtube.com/playlist?list=PLXdU8QbJkboeMcvUNyGpb9h6FUS9cVBti",
+      "platform": "YouTube"
+    }
+  ],
+  "eventCategory": "Podcast publication",
+  "officialLinks": [],
+  "referenceSources": [
+    {
+      "label": "Official Need to Know Episode 9 video — Classic UFO Investigators",
+      "url": "https://www.youtube.com/watch?v=j30le32EG_c",
+      "sourceType": "official_episode_video",
+      "role": "source"
+    },
+    {
+      "label": "Need to Know official YouTube collection",
+      "url": "https://www.youtube.com/playlist?list=PLXdU8QbJkboeMcvUNyGpb9h6FUS9cVBti",
+      "sourceType": "official_video_collection",
+      "role": "source"
+    }
+  ]
+}

@@ -1,18 +1,18 @@
-# GreyAlien V21.1 Deployment Report
+# GreyAlien V21.2 Deployment Report
 
 **Status:** Ready for deployment  
-**Generated:** 2026-07-23T01:59:57.453442+00:00
+**Generated:** 2026-07-23T23:26:30.777371+00:00
 
-- Entities: 1085
-- Resolved relationships: 2437
+- Entities: 1150
+- Resolved relationships: 2572
 - Unresolved legacy warnings: 16
 - Podcast series: 8
-- Researched podcast episodes: 129
-- Episode records with related-episode recommendations: 129
-- Generated entity entry pages: 1085
-- Sitemap URLs: 1096
+- Researched podcast episodes: 139
+- Episode records with related-episode recommendations: 139
+- Generated entity entry pages: 1150
+- Sitemap URLs: 1161
 - Validation: Passed
 
 ## Release summary
 
-Added Need to Know Episodes #2–6, corrected Episodes #1–6 to direct official YouTube episode links, and extended cross-series discovery through canonical people, cases, documents, organizations, and topics.
+Added Need to Know Episodes #7–16 with direct official YouTube links, source-grounded claims, publication timeline events, canonical entity reuse, and carefully limited cross-series knowledge-graph relationships.

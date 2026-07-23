@@ -436,3 +436,11 @@
 - Added Karl Nell’s direct Sol Foundation, UAP Task Force support, SALT presentation, and inaugural Sol symposium relationships.
 - Rebuilt reciprocal discovery and unique graph counts without creating entities or changing presentation architecture.
 
+
+# V21.2 — Need to Know Podcast Integration (Batch 3)
+
+- Added Need to Know Episodes #7–16 as ten content-only production records.
+- Added forty source-grounded principal claims and ten podcast-publication timeline events.
+- Added direct official YouTube episode links for every new episode while retaining the official collection as the secondary source.
+- Reused canonical graph entities and added only five genuinely missing historical or biographical records.
+- Preserved all architecture, rendering, schema, template, navigation, routing, UI, styling, and knowledge-graph engine behavior.

@@ -1,0 +1,27 @@
+{
+  "id": "claim-need-to-know-15-1",
+  "type": "claim",
+  "name": "Project Sign personnel are reported to have prepared an Estimate of the Situation that considered an interplanetary explanation for UFO reports.",
+  "summary": "Claim or editorial framing presented in Need to Know Episode #15.",
+  "relationships": [
+    {
+      "type": "featured_in_media",
+      "target": "2022-need-to-know-episode-15"
+    }
+  ],
+  "officialLinks": [],
+  "referenceSources": [
+    {
+      "label": "Official Need to Know Episode 15 video — Estimate of the Situation",
+      "url": "https://www.youtube.com/watch?v=W8k8yl5yLGk",
+      "sourceType": "official_episode_video",
+      "role": "source"
+    },
+    {
+      "label": "Need to Know official YouTube collection",
+      "url": "https://www.youtube.com/playlist?list=PLXdU8QbJkboeMcvUNyGpb9h6FUS9cVBti",
+      "sourceType": "official_video_collection",
+      "role": "source"
+    }
+  ]
+}

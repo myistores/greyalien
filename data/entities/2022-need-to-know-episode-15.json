@@ -1,0 +1,94 @@
+{
+  "id": "2022-need-to-know-episode-15",
+  "type": "podcast_episode",
+  "name": "Need to Know Episode #15 — Estimate of the Situation",
+  "summary": "Ross Coulthart and Bryce Zabel examine the reported 1948 Project Sign Estimate of the Situation and what the document’s disputed history reveals about early Air Force UFO analysis and institutional resistance.",
+  "date": "2022-06-05",
+  "dateDisplay": "June 5, 2022",
+  "seriesId": "need-to-know-podcast",
+  "episodeNumber": 15,
+  "episodeTitle": "Estimate of the Situation",
+  "status": "Published",
+  "mediaType": "Podcast episode",
+  "mediaPlatform": "Need to Know",
+  "mediaHost": "Ross Coulthart and Bryce Zabel",
+  "mediaGuests": [],
+  "mediaSubjects": [],
+  "principalClaims": [
+    "claim-need-to-know-15-1",
+    "claim-need-to-know-15-2",
+    "claim-need-to-know-15-3",
+    "claim-need-to-know-15-4"
+  ],
+  "researchNotes": [],
+  "relationships": [
+    {
+      "type": "episode_of",
+      "target": "need-to-know-podcast"
+    },
+    {
+      "type": "features_person",
+      "target": "ross-coulthart",
+      "role": "host",
+      "context": "Need to Know co-host"
+    },
+    {
+      "type": "features_person",
+      "target": "bryce-zabel",
+      "role": "host",
+      "context": "Need to Know co-host"
+    },
+    {
+      "type": "documented_by",
+      "target": "estimate-of-the-situation-1948"
+    },
+    {
+      "type": "references_organization",
+      "target": "project-sign"
+    },
+    {
+      "type": "references_organization",
+      "target": "united-states-air-force"
+    },
+    {
+      "type": "references_organization",
+      "target": "project-blue-book"
+    },
+    {
+      "type": "discussed_topic",
+      "target": "historical-ufo-research"
+    },
+    {
+      "type": "discussed_topic",
+      "target": "government-transparency"
+    }
+  ],
+  "mediaLinks": [
+    {
+      "label": "Watch Need to Know Episode #15 on YouTube",
+      "url": "https://www.youtube.com/watch?v=W8k8yl5yLGk",
+      "platform": "YouTube"
+    },
+    {
+      "label": "Watch the official Need to Know collection",
+      "url": "https://www.youtube.com/playlist?list=PLXdU8QbJkboeMcvUNyGpb9h6FUS9cVBti",
+      "platform": "YouTube"
+    }
+  ],
+  "eventCategory": "Podcast publication",
+  "officialLinks": [],
+  "referenceSources": [
+    {
+      "label": "Official Need to Know Episode 15 video — Estimate of the Situation",
+      "url": "https://www.youtube.com/watch?v=W8k8yl5yLGk",
+      "sourceType": "official_episode_video",
+      "role": "source"
+    },
+    {
+      "label": "Need to Know official YouTube collection",
+      "url": "https://www.youtube.com/playlist?list=PLXdU8QbJkboeMcvUNyGpb9h6FUS9cVBti",
+      "sourceType": "official_video_collection",
+      "role": "source"
+    }
+  ]
+}

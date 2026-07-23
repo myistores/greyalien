@@ -1,0 +1,91 @@
+{
+  "id": "2022-need-to-know-episode-8",
+  "type": "podcast_episode",
+  "name": "Need to Know Episode #8 — In Plain Sight",
+  "summary": "Bryce Zabel examines Ross Coulthart’s book In Plain Sight, drawing out its investigative approach, historical cases, official records, and implications for understanding the modern UAP issue.",
+  "date": "2022-03-03",
+  "dateDisplay": "March 3, 2022",
+  "seriesId": "need-to-know-podcast",
+  "episodeNumber": 8,
+  "episodeTitle": "In Plain Sight",
+  "status": "Published",
+  "mediaType": "Podcast episode",
+  "mediaPlatform": "Need to Know",
+  "mediaHost": "Ross Coulthart and Bryce Zabel",
+  "mediaGuests": [],
+  "mediaSubjects": [],
+  "principalClaims": [
+    "claim-need-to-know-8-1",
+    "claim-need-to-know-8-2",
+    "claim-need-to-know-8-3",
+    "claim-need-to-know-8-4"
+  ],
+  "researchNotes": [],
+  "relationships": [
+    {
+      "type": "episode_of",
+      "target": "need-to-know-podcast"
+    },
+    {
+      "type": "features_person",
+      "target": "ross-coulthart",
+      "role": "host",
+      "context": "Need to Know co-host"
+    },
+    {
+      "type": "features_person",
+      "target": "bryce-zabel",
+      "role": "host",
+      "context": "Need to Know co-host"
+    },
+    {
+      "type": "references_publication",
+      "target": "in-plain-sight-ross-coulthart"
+    },
+    {
+      "type": "features_person",
+      "target": "ross-coulthart",
+      "role": "author_subject"
+    },
+    {
+      "type": "discussed_topic",
+      "target": "historical-ufo-research"
+    },
+    {
+      "type": "discussed_topic",
+      "target": "uap-science"
+    },
+    {
+      "type": "discussed_topic",
+      "target": "government-transparency"
+    }
+  ],
+  "mediaLinks": [
+    {
+      "label": "Watch Need to Know Episode #8 on YouTube",
+      "url": "https://www.youtube.com/watch?v=HnY4W9DoKbM",
+      "platform": "YouTube"
+    },
+    {
+      "label": "Watch the official Need to Know collection",
+      "url": "https://www.youtube.com/playlist?list=PLXdU8QbJkboeMcvUNyGpb9h6FUS9cVBti",
+      "platform": "YouTube"
+    }
+  ],
+  "eventCategory": "Podcast publication",
+  "officialLinks": [],
+  "referenceSources": [
+    {
+      "label": "Official Need to Know Episode 8 video — In Plain Sight",
+      "url": "https://www.youtube.com/watch?v=HnY4W9DoKbM",
+      "sourceType": "official_episode_video",
+      "role": "source"
+    },
+    {
+      "label": "Need to Know official YouTube collection",
+      "url": "https://www.youtube.com/playlist?list=PLXdU8QbJkboeMcvUNyGpb9h6FUS9cVBti",
+      "sourceType": "official_video_collection",
+      "role": "source"
+    }
+  ]
+}

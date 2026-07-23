@@ -1,0 +1,27 @@
+{
+  "id": "claim-need-to-know-13-3",
+  "type": "claim",
+  "name": "The episode argues that researchers and commentators should focus on accountability rather than personality-driven disputes.",
+  "summary": "Claim or editorial framing presented in Need to Know Episode #13.",
+  "relationships": [
+    {
+      "type": "featured_in_media",
+      "target": "2022-need-to-know-episode-13"
+    }
+  ],
+  "officialLinks": [],
+  "referenceSources": [
+    {
+      "label": "Official Need to Know Episode 13 video — Bryce’s Rant",
+      "url": "https://www.youtube.com/watch?v=HRCT_ddq39U",
+      "sourceType": "official_episode_video",
+      "role": "source"
+    },
+    {
+      "label": "Need to Know official YouTube collection",
+      "url": "https://www.youtube.com/playlist?list=PLXdU8QbJkboeMcvUNyGpb9h6FUS9cVBti",
+      "sourceType": "official_video_collection",
+      "role": "source"
+    }
+  ]
+}

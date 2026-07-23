@@ -1,0 +1,97 @@
+{
+  "id": "2022-need-to-know-episode-14",
+  "type": "podcast_episode",
+  "name": "Need to Know Episode #14 — Elizondo on UAP Hearing",
+  "summary": "Ross Coulthart and Bryce Zabel are joined by Luis Elizondo to assess the May 17, 2022 House UAP hearing, its limitations, and implications for oversight, while also discussing the Wilson–Davis Notes.",
+  "date": "2022-05-17",
+  "dateDisplay": "May 17, 2022",
+  "seriesId": "need-to-know-podcast",
+  "episodeNumber": 14,
+  "episodeTitle": "Elizondo on UAP Hearing",
+  "status": "Published",
+  "mediaType": "Podcast episode",
+  "mediaPlatform": "Need to Know",
+  "mediaHost": "Ross Coulthart and Bryce Zabel",
+  "mediaGuests": [
+    "Luis Elizondo"
+  ],
+  "mediaSubjects": [],
+  "principalClaims": [
+    "claim-need-to-know-14-1",
+    "claim-need-to-know-14-2",
+    "claim-need-to-know-14-3",
+    "claim-need-to-know-14-4"
+  ],
+  "researchNotes": [],
+  "relationships": [
+    {
+      "type": "episode_of",
+      "target": "need-to-know-podcast"
+    },
+    {
+      "type": "features_person",
+      "target": "ross-coulthart",
+      "role": "host",
+      "context": "Need to Know co-host"
+    },
+    {
+      "type": "features_person",
+      "target": "bryce-zabel",
+      "role": "host",
+      "context": "Need to Know co-host"
+    },
+    {
+      "type": "features_person",
+      "target": "luis-elizondo",
+      "role": "guest"
+    },
+    {
+      "type": "references_hearing",
+      "target": "2022-05-17-house-intelligence-uap"
+    },
+    {
+      "type": "documented_by",
+      "target": "2022-house-uap-hearing-transcript"
+    },
+    {
+      "type": "documented_by",
+      "target": "document-2002-10-16-wilson-davis-notes"
+    },
+    {
+      "type": "discussed_topic",
+      "target": "congressional-oversight"
+    },
+    {
+      "type": "discussed_topic",
+      "target": "government-transparency"
+    }
+  ],
+  "mediaLinks": [
+    {
+      "label": "Watch Need to Know Episode #14 on YouTube",
+      "url": "https://www.youtube.com/watch?v=YOjSBPfmoIM",
+      "platform": "YouTube"
+    },
+    {
+      "label": "Watch the official Need to Know collection",
+      "url": "https://www.youtube.com/playlist?list=PLXdU8QbJkboeMcvUNyGpb9h6FUS9cVBti",
+      "platform": "YouTube"
+    }
+  ],
+  "eventCategory": "Podcast publication",
+  "officialLinks": [],
+  "referenceSources": [
+    {
+      "label": "Official Need to Know Episode 14 video — Elizondo on UAP Hearing",
+      "url": "https://www.youtube.com/watch?v=YOjSBPfmoIM",
+      "sourceType": "official_episode_video",
+      "role": "source"
+    },
+    {
+      "label": "Need to Know official YouTube collection",
+      "url": "https://www.youtube.com/playlist?list=PLXdU8QbJkboeMcvUNyGpb9h6FUS9cVBti",
+      "sourceType": "official_video_collection",
+      "role": "source"
+    }
+  ]
+}

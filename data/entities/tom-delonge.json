@@ -1,0 +1,14 @@
+{
+  "id": "tom-delonge",
+  "type": "person",
+  "name": "Tom DeLonge",
+  "summary": "Musician and co-founder of To The Stars Academy whose public UAP advocacy and entertainment career are discussed in Need to Know Episode #11.",
+  "relationships": [
+    {
+      "type": "affiliated_with",
+      "target": "to-the-stars-academy"
+    }
+  ],
+  "officialLinks": [],
+  "referenceSources": []
+}

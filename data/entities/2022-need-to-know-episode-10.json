@@ -1,0 +1,86 @@
+{
+  "id": "2022-need-to-know-episode-10",
+  "type": "podcast_episode",
+  "name": "Need to Know Episode #10 — Do No Harm",
+  "summary": "Ross Coulthart and Bryce Zabel discuss reported human injuries and biological effects associated with close UAP encounters, emphasizing the need for responsible medical documentation and research.",
+  "date": "2022-04-01",
+  "dateDisplay": "April 1, 2022",
+  "seriesId": "need-to-know-podcast",
+  "episodeNumber": 10,
+  "episodeTitle": "Do No Harm",
+  "status": "Published",
+  "mediaType": "Podcast episode",
+  "mediaPlatform": "Need to Know",
+  "mediaHost": "Ross Coulthart and Bryce Zabel",
+  "mediaGuests": [],
+  "mediaSubjects": [],
+  "principalClaims": [
+    "claim-need-to-know-10-1",
+    "claim-need-to-know-10-2",
+    "claim-need-to-know-10-3",
+    "claim-need-to-know-10-4"
+  ],
+  "researchNotes": [],
+  "relationships": [
+    {
+      "type": "episode_of",
+      "target": "need-to-know-podcast"
+    },
+    {
+      "type": "features_person",
+      "target": "ross-coulthart",
+      "role": "host",
+      "context": "Need to Know co-host"
+    },
+    {
+      "type": "features_person",
+      "target": "bryce-zabel",
+      "role": "host",
+      "context": "Need to Know co-host"
+    },
+    {
+      "type": "discussed_topic",
+      "target": "uap-health-effects"
+    },
+    {
+      "type": "discussed_topic",
+      "target": "human-encounter-research"
+    },
+    {
+      "type": "discussed_topic",
+      "target": "uap-science"
+    },
+    {
+      "type": "discussed_topic",
+      "target": "uap-stigma"
+    }
+  ],
+  "mediaLinks": [
+    {
+      "label": "Watch Need to Know Episode #10 on YouTube",
+      "url": "https://www.youtube.com/watch?v=AIbv1KzDNdQ",
+      "platform": "YouTube"
+    },
+    {
+      "label": "Watch the official Need to Know collection",
+      "url": "https://www.youtube.com/playlist?list=PLXdU8QbJkboeMcvUNyGpb9h6FUS9cVBti",
+      "platform": "YouTube"
+    }
+  ],
+  "eventCategory": "Podcast publication",
+  "officialLinks": [],
+  "referenceSources": [
+    {
+      "label": "Official Need to Know Episode 10 video — Do No Harm",
+      "url": "https://www.youtube.com/watch?v=AIbv1KzDNdQ",
+      "sourceType": "official_episode_video",
+      "role": "source"
+    },
+    {
+      "label": "Need to Know official YouTube collection",
+      "url": "https://www.youtube.com/playlist?list=PLXdU8QbJkboeMcvUNyGpb9h6FUS9cVBti",
+      "sourceType": "official_video_collection",
+      "role": "source"
+    }
+  ]
+}
