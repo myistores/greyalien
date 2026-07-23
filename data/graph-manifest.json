@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "entityCount": 1046,
-  "relationshipCount": 2354,
+  "relationshipCount": 2360,
   "unresolvedRelationshipCount": 16,
   "connectionCounts": {
     "1960s-area-51-engine-claim": {
@@ -85,9 +85,9 @@
       "total": 7
     },
     "2017-iraq-jellyfish-uap": {
-      "incoming": 1,
+      "incoming": 3,
       "outgoing": 3,
-      "total": 4
+      "total": 6
     },
     "2018-bob-lazar-area-51-flying-saucers": {
       "incoming": 3,
@@ -420,9 +420,9 @@
       "total": 6
     },
     "2024-11-13-house-oversight-uap": {
-      "incoming": 9,
+      "incoming": 11,
       "outgoing": 11,
-      "total": 20
+      "total": 22
     },
     "2024-11-19-senate-aaro-update": {
       "incoming": 1,
@@ -3556,8 +3556,8 @@
     },
     "george-knapp": {
       "incoming": 128,
-      "outgoing": 7,
-      "total": 135
+      "outgoing": 10,
+      "total": 138
     },
     "glenn-gaffney": {
       "incoming": 1,
@@ -3716,8 +3716,8 @@
     },
     "jeremy-corbell": {
       "incoming": 128,
-      "outgoing": 5,
-      "total": 133
+      "outgoing": 8,
+      "total": 136
     },
     "jim-penniston": {
       "incoming": 0,
@@ -4335,9 +4335,9 @@
       "total": 1
     },
     "skinwalker-ranch": {
-      "incoming": 7,
+      "incoming": 9,
       "outgoing": 0,
-      "total": 7
+      "total": 9
     },
     "sleeping-dog-documentary": {
       "incoming": 1,

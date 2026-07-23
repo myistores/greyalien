@@ -45,8 +45,45 @@
       "role": "host",
       "context": "Co-hosted the Bob Lazar and S4 documentary discussion",
       "timeline": true
+    },
+    {
+      "type": "reported_case",
+      "target": "2017-iraq-jellyfish-uap",
+      "role": "co-investigator and publisher",
+      "context": "Obtained, investigated, and publicly released the military-recorded Jellyfish UAP footage with Jeremy Corbell."
+    },
+    {
+      "type": "reported_case",
+      "target": "skinwalker-ranch",
+      "role": "investigative journalist",
+      "context": "Conducted and presented long-running reporting on Skinwalker Ranch and the private and government investigations associated with the property."
+    },
+    {
+      "type": "presented_at",
+      "target": "2024-11-13-house-oversight-uap",
+      "role": "evidence contributor",
+      "context": "Provided witness statements, documents, and source material supporting the November 2024 House UAP hearing."
     }
   ],
   "officialLinks": [],
-  "referenceSources": []
+  "referenceSources": [
+    {
+      "label": "Official WEAPONIZED Jellyfish UAP report",
+      "url": "https://www.weaponizedpodcast.com/news-1/the-jellyfish-uap",
+      "sourceType": "official_reporting",
+      "role": "source"
+    },
+    {
+      "label": "Official Skinwalker Ranch presentation record",
+      "url": "https://www.extraordinarybeliefs.com/news-3/ufo-fest-2018",
+      "sourceType": "official_event_record",
+      "role": "source"
+    },
+    {
+      "label": "Official WEAPONIZED hearing support report",
+      "url": "https://www.weaponizedpodcast.com/news-1/ojai-magazine",
+      "sourceType": "official_reporting",
+      "role": "source"
+    }
+  ]
 }

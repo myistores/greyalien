@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "generatedBy": "tools/build_related_content.py",
-  "generatedAt": "2026-07-23T00:24:11.092532+00:00",
+  "generatedAt": "2026-07-23T00:42:26.586454+00:00",
   "referencedIn": {
     "1960s-area-51-engine-claim": [
       {
@@ -500,6 +500,22 @@
       }
     ],
     "2017-iraq-jellyfish-uap": [
+      {
+        "id": "george-knapp",
+        "type": "person",
+        "name": "George Knapp",
+        "relationshipType": "reported_case",
+        "role": "co-investigator and publisher",
+        "context": "Obtained, investigated, and publicly released the military-recorded Jellyfish UAP footage with Jeremy Corbell."
+      },
+      {
+        "id": "jeremy-corbell",
+        "type": "person",
+        "name": "Jeremy Corbell",
+        "relationshipType": "reported_case",
+        "role": "co-investigator and publisher",
+        "context": "Obtained, investigated, and publicly released the military-recorded Jellyfish UAP footage with George Knapp."
+      },
       {
         "id": "2024-weaponized-episode-47",
         "type": "podcast_episode",
@@ -2828,6 +2844,22 @@
         "relationshipType": "references_hearing",
         "role": "",
         "context": ""
+      },
+      {
+        "id": "george-knapp",
+        "type": "person",
+        "name": "George Knapp",
+        "relationshipType": "presented_at",
+        "role": "evidence contributor",
+        "context": "Provided witness statements, documents, and source material supporting the November 2024 House UAP hearing."
+      },
+      {
+        "id": "jeremy-corbell",
+        "type": "person",
+        "name": "Jeremy Corbell",
+        "relationshipType": "presented_at",
+        "role": "evidence contributor",
+        "context": "Provided witness material and documents supporting the hearing, including delivery of the authorized Immaculate Constellation report for the Congressional Record."
       },
       {
         "id": "luis-elizondo",
@@ -16700,6 +16732,22 @@
       }
     ],
     "skinwalker-ranch": [
+      {
+        "id": "george-knapp",
+        "type": "person",
+        "name": "George Knapp",
+        "relationshipType": "reported_case",
+        "role": "investigative journalist",
+        "context": "Conducted and presented long-running reporting on Skinwalker Ranch and the private and government investigations associated with the property."
+      },
+      {
+        "id": "jeremy-corbell",
+        "type": "person",
+        "name": "Jeremy Corbell",
+        "relationshipType": "reported_case",
+        "role": "documentary filmmaker",
+        "context": "Directed investigative documentary work examining the history and research associated with Skinwalker Ranch."
+      },
       {
         "id": "travis-taylor",
         "type": "person",

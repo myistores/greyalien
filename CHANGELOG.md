@@ -1,3 +1,11 @@
+# V20.6 — Knowledge Graph Enrichment, Batch C
+
+- Enriched Jeremy Corbell and George Knapp with six narrowly selected, source-supported relationships.
+- Added direct Jellyfish UAP reporting, Skinwalker Ranch investigation, and November 2024 House hearing evidence-contribution connections.
+- Preserved all existing valid graph content and reciprocal episode discovery.
+- Added no entities and made no architecture, schema, rendering, template, navigation, routing, UI, or styling changes.
+- Rebuilt and validated reciprocal discovery, unique connection counts, and duplicate-card suppression.
+
 # V20.3 — Knowledge Graph Enrichment Pilot: Whitley Strieber
 
 - Confirmed `transformation-2026` as the canonical Transformation 2026 document entity.

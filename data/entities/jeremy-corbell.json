@@ -35,6 +35,24 @@
       "role": "host",
       "context": "Co-hosted the Bob Lazar and S4 documentary discussion",
       "timeline": true
+    },
+    {
+      "type": "reported_case",
+      "target": "2017-iraq-jellyfish-uap",
+      "role": "co-investigator and publisher",
+      "context": "Obtained, investigated, and publicly released the military-recorded Jellyfish UAP footage with George Knapp."
+    },
+    {
+      "type": "reported_case",
+      "target": "skinwalker-ranch",
+      "role": "documentary filmmaker",
+      "context": "Directed investigative documentary work examining the history and research associated with Skinwalker Ranch."
+    },
+    {
+      "type": "presented_at",
+      "target": "2024-11-13-house-oversight-uap",
+      "role": "evidence contributor",
+      "context": "Provided witness material and documents supporting the hearing, including delivery of the authorized Immaculate Constellation report for the Congressional Record."
     }
   ],
   "profileStatus": "Podcast host and investigative media contributor",
@@ -44,5 +62,24 @@
   "profileBadge": "Investigative Media Contributor",
   "profileBadgeClass": "badge-journalist",
   "officialLinks": [],
-  "referenceSources": []
+  "referenceSources": [
+    {
+      "label": "Official WEAPONIZED Jellyfish UAP report",
+      "url": "https://www.weaponizedpodcast.com/news-1/the-jellyfish-uap",
+      "sourceType": "official_reporting",
+      "role": "source"
+    },
+    {
+      "label": "Official Jeremy Corbell filmography",
+      "url": "https://www.extraordinarybeliefs.com/films",
+      "sourceType": "official_biography",
+      "role": "source"
+    },
+    {
+      "label": "Official WEAPONIZED congressional-record report",
+      "url": "https://www.weaponizedpodcast.com/news-1/immaculate-constellation-congressional-record",
+      "sourceType": "official_reporting",
+      "role": "source"
+    }
+  ]
 }
