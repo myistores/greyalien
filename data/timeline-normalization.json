@@ -149,6 +149,13 @@
       "name": "The Galileo Project Names Luis Elizondo a Research Affiliate",
       "aliases": []
     },
+    "timeline-2021-12-16-need-to-know-episode-1": {
+      "id": "timeline-2021-12-16-need-to-know-episode-1",
+      "date": "2021-12-16",
+      "eventCategory": "Podcast publication",
+      "name": "Need to Know Episode #1 published",
+      "aliases": []
+    },
     "timeline-2021-2022-karl-nell-uaptf-support": {
       "id": "timeline-2021-2022-karl-nell-uaptf-support",
       "date": "2021-01-01",
@@ -779,7 +786,7 @@
   },
   "conflicts": [],
   "statistics": {
-    "canonicalEventCount": 109,
+    "canonicalEventCount": 110,
     "aliasCount": 3,
     "conflictCount": 0
   }

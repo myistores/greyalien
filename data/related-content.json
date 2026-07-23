@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "generatedBy": "tools/build_related_content.py",
-  "generatedAt": "2026-07-23T00:42:26.586454+00:00",
+  "generatedAt": "2026-07-23T01:17:56.766214+00:00",
   "referencedIn": {
     "1960s-area-51-engine-claim": [
       {
@@ -587,6 +587,48 @@
         "relationshipType": "appeared_in",
         "role": "guest",
         "context": "Long-form public interview focused on the Nimitz encounter"
+      }
+    ],
+    "2021-need-to-know-episode-1": [
+      {
+        "id": "claim-need-to-know-1-2",
+        "type": "claim",
+        "name": "Episode 1 uses a ranked year-in-review format to identify the developments the hosts considered most consequential in 2021.",
+        "relationshipType": "featured_in_media",
+        "role": "",
+        "context": ""
+      },
+      {
+        "id": "claim-need-to-know-1-3",
+        "type": "claim",
+        "name": "The episode treats governmental activity, scientific research, and public reporting as interconnected parts of the changing UAP landscape.",
+        "relationshipType": "featured_in_media",
+        "role": "",
+        "context": ""
+      },
+      {
+        "id": "claim-need-to-know-1-1",
+        "type": "claim",
+        "name": "The hosts frame 2021 as a significant year for public UFO/UAP news and research.",
+        "relationshipType": "featured_in_media",
+        "role": "",
+        "context": ""
+      },
+      {
+        "id": "claim-need-to-know-1-4",
+        "type": "claim",
+        "name": "The hosts present sustained investigation and evidence-based discussion as necessary for understanding the UAP issue.",
+        "relationshipType": "featured_in_media",
+        "role": "",
+        "context": ""
+      },
+      {
+        "id": "timeline-2021-12-16-need-to-know-episode-1",
+        "type": "timeline_event",
+        "name": "Need to Know Episode #1 published",
+        "relationshipType": "event_for",
+        "role": "",
+        "context": ""
       }
     ],
     "2022-05-03-house-intelligence-classified-uap-briefing": [
@@ -7167,6 +7209,14 @@
     ],
     "bryce-zabel": [
       {
+        "id": "2021-need-to-know-episode-1",
+        "type": "podcast_episode",
+        "name": "Need to Know Episode #1 — 2021 Top Ten",
+        "relationshipType": "features_person",
+        "role": "host",
+        "context": "Need to Know co-host"
+      },
+      {
         "id": "2023-weaponized-episode-28",
         "type": "podcast_episode",
         "name": "WEAPONIZED Episode #28 — Congressional Hearing Roundtable",
@@ -8032,6 +8082,10 @@
         "context": "Ryan Graves testimony discussed in the episode"
       }
     ],
+    "claim-need-to-know-1-1": [],
+    "claim-need-to-know-1-2": [],
+    "claim-need-to-know-1-3": [],
+    "claim-need-to-know-1-4": [],
     "claim-new-firsthand-witnesses-were-located-after-years-of-investigation": [],
     "claim-new-jersey-drone-operator-unidentified": [],
     "claim-nids-recorded-corso-interviews": [],
@@ -12089,6 +12143,14 @@
         "context": ""
       },
       {
+        "id": "2021-need-to-know-episode-1",
+        "type": "podcast_episode",
+        "name": "Need to Know Episode #1 — 2021 Top Ten",
+        "relationshipType": "discussed_topic",
+        "role": "",
+        "context": ""
+      },
+      {
         "id": "2025-weaponized-episode-101",
         "type": "podcast_episode",
         "name": "WEAPONIZED Episode #101 — Congressional UAP Champions on What Comes Next",
@@ -15494,6 +15556,14 @@
         "relationshipType": "affiliated_with",
         "role": "Former co-host",
         "context": ""
+      },
+      {
+        "id": "2021-need-to-know-episode-1",
+        "type": "podcast_episode",
+        "name": "Need to Know Episode #1 — 2021 Top Ten",
+        "relationshipType": "episode_of",
+        "role": "",
+        "context": ""
       }
     ],
     "new-paradigm-institute": [
@@ -15975,6 +16045,14 @@
     ],
     "ross-coulthart": [
       {
+        "id": "2021-need-to-know-episode-1",
+        "type": "podcast_episode",
+        "name": "Need to Know Episode #1 — 2021 Top Ten",
+        "relationshipType": "features_person",
+        "role": "host",
+        "context": "Need to Know co-host"
+      },
+      {
         "id": "2023-weaponized-episode-28",
         "type": "podcast_episode",
         "name": "WEAPONIZED Episode #28 — Congressional Hearing Roundtable",
@@ -16400,6 +16478,14 @@
         "type": "organization",
         "name": "UAP Science Advisory Council",
         "relationshipType": "addresses_topic",
+        "role": "",
+        "context": ""
+      },
+      {
+        "id": "2021-need-to-know-episode-1",
+        "type": "podcast_episode",
+        "name": "Need to Know Episode #1 — 2021 Top Ten",
+        "relationshipType": "discussed_topic",
         "role": "",
         "context": ""
       },
@@ -17123,6 +17209,7 @@
     "timeline-2021-07-david-grusch-dod-ig-disclosure": [],
     "timeline-2021-07-galileo-project-founded": [],
     "timeline-2021-10-30-elizondo-galileo-affiliate": [],
+    "timeline-2021-12-16-need-to-know-episode-1": [],
     "timeline-2021-2022-karl-nell-uaptf-support": [
       {
         "id": "karl-nell",
@@ -18005,6 +18092,14 @@
       }
     ],
     "uap-transparency": [
+      {
+        "id": "2021-need-to-know-episode-1",
+        "type": "podcast_episode",
+        "name": "Need to Know Episode #1 — 2021 Top Ten",
+        "relationshipType": "discussed_topic",
+        "role": "",
+        "context": ""
+      },
       {
         "id": "2023-weaponized-episode-1",
         "type": "podcast_episode",
@@ -20439,6 +20534,82 @@
     ]
   },
   "relatedEpisodes": {
+    "2021-need-to-know-episode-1": [
+      {
+        "id": "2024-weaponized-episode-52",
+        "name": "WEAPONIZED Episode #52 — Season Finale and AARO Historical Report Review",
+        "seriesId": "weaponized-podcast",
+        "date": "2024-03-13",
+        "sharedEntityIds": [
+          "bryce-zabel",
+          "government-transparency",
+          "ross-coulthart"
+        ],
+        "sharedEntityCount": 3,
+        "score": 30
+      },
+      {
+        "id": "2023-weaponized-episode-28",
+        "name": "WEAPONIZED Episode #28 — Congressional Hearing Roundtable",
+        "seriesId": "weaponized-podcast",
+        "date": "2023-07-31",
+        "sharedEntityIds": [
+          "bryce-zabel",
+          "government-transparency",
+          "ross-coulthart"
+        ],
+        "sharedEntityCount": 3,
+        "score": 30
+      },
+      {
+        "id": "2026-weaponized-episode-115",
+        "name": "WEAPONIZED Episode #115 — A New Chapter in the Bob Lazar Saga",
+        "seriesId": "weaponized-podcast",
+        "date": "2026-04-14",
+        "sharedEntityIds": [
+          "government-transparency",
+          "scientific-investigation"
+        ],
+        "sharedEntityCount": 2,
+        "score": 20
+      },
+      {
+        "id": "2025-weaponized-episode-66",
+        "name": "WEAPONIZED Episode #66 — Mike Gold on NASA, UAP, and Space Research",
+        "seriesId": "weaponized-podcast",
+        "date": "2025-02-11",
+        "sharedEntityIds": [
+          "government-transparency",
+          "scientific-investigation"
+        ],
+        "sharedEntityCount": 2,
+        "score": 20
+      },
+      {
+        "id": "2024-weaponized-episode-46",
+        "name": "WEAPONIZED Episode #46 — Richard Dolan on Disclosure, History, and USO Cases",
+        "seriesId": "weaponized-podcast",
+        "date": "2024-01-08",
+        "sharedEntityIds": [
+          "government-transparency",
+          "scientific-investigation"
+        ],
+        "sharedEntityCount": 2,
+        "score": 20
+      },
+      {
+        "id": "2023-weaponized-episode-42",
+        "name": "WEAPONIZED Episode #42 — The Sol Foundation Conference and Grusch Revelations",
+        "seriesId": "weaponized-podcast",
+        "date": "2023-11-27",
+        "sharedEntityIds": [
+          "government-transparency",
+          "scientific-investigation"
+        ],
+        "sharedEntityCount": 2,
+        "score": 20
+      }
+    ],
     "2023-weaponized-episode-1": [
       {
         "id": "2026-weaponized-episode-120",

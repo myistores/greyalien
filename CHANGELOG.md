@@ -1,3 +1,11 @@
+# V21 — Need to Know Podcast Integration Pilot
+
+- Added Need to Know Episode #1, “2021 Top Ten,” as a complete podcast episode entity.
+- Reused canonical Need to Know, Ross Coulthart, Bryce Zabel, and topic entities.
+- Added four source-grounded principal claims and one publication timeline event.
+- Rebuilt cross-series related content, reciprocal graph discovery, unique counts, entity pages, podcast indexes, homepage, and sitemap.
+- Made no architecture, schema, rendering, template, navigation, routing, UI, styling, or platform changes.
+
 # V20.6 — Knowledge Graph Enrichment, Batch C
 
 - Enriched Jeremy Corbell and George Knapp with six narrowly selected, source-supported relationships.

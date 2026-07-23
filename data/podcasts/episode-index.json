@@ -2247,6 +2247,22 @@
       "subjectIds": [],
       "claimIds": [],
       "relationshipCount": 4
+    },
+    {
+      "id": "2021-need-to-know-episode-1",
+      "name": "Need to Know Episode #1 — 2021 Top Ten",
+      "summary": "Ross Coulthart and Bryce Zabel launch Need to Know with a year-in-review discussion of the UFO/UAP news and research developments they considered most significant in 2021.",
+      "date": "2021-12-16",
+      "dateDisplay": "December 16, 2021",
+      "episodeNumber": 1,
+      "episodeTitle": "2021 Top Ten",
+      "status": "Published",
+      "seriesId": "need-to-know-podcast",
+      "externalUrl": "",
+      "guestIds": [],
+      "subjectIds": [],
+      "claimIds": [],
+      "relationshipCount": 6
     }
   ]
 }

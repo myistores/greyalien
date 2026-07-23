@@ -1,0 +1,21 @@
+{
+  "id": "claim-need-to-know-1-2",
+  "type": "claim",
+  "name": "Episode 1 uses a ranked year-in-review format to identify the developments the hosts considered most consequential in 2021.",
+  "summary": "Claim or editorial framing presented in Need to Know Episode #1.",
+  "relationships": [
+    {
+      "type": "featured_in_media",
+      "target": "2021-need-to-know-episode-1"
+    }
+  ],
+  "officialLinks": [],
+  "referenceSources": [
+    {
+      "label": "Official Need to Know Episode 1 listing \u2014 2021 Top Ten",
+      "url": "https://needtoknow.today/podcasts-on-youtube",
+      "sourceType": "official_episode_page",
+      "role": "source"
+    }
+  ]
+}

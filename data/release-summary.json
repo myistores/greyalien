@@ -1,7 +1,7 @@
 {
-  "version": "20.6",
-  "title": "Knowledge Graph Enrichment — Batch C",
+  "version": "21",
+  "title": "Need to Know Podcast Integration \u2014 Pilot",
   "date": "2026-07-22",
-  "summary": "Enriched Jeremy Corbell and George Knapp with narrowly selected, source-supported connections to the Jellyfish UAP reporting, Skinwalker Ranch investigations, and the November 2024 House UAP hearing; preserved all existing valid content and platform behavior.",
-  "phase": "Knowledge graph enrichment — Batch C"
+  "summary": "Added Need to Know Episode #1 as the first cross-series podcast ingestion, reusing canonical hosts, series, and topics while preserving the WEAPONIZED graph.",
+  "phase": "Cross-series podcast production pilot"
 }

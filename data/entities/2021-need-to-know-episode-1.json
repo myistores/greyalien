@@ -1,0 +1,82 @@
+{
+  "id": "2021-need-to-know-episode-1",
+  "type": "podcast_episode",
+  "name": "Need to Know Episode #1 \u2014 2021 Top Ten",
+  "summary": "Ross Coulthart and Bryce Zabel launch Need to Know with a year-in-review discussion of the UFO/UAP news and research developments they considered most significant in 2021.",
+  "date": "2021-12-16",
+  "dateDisplay": "December 16, 2021",
+  "seriesId": "need-to-know-podcast",
+  "episodeNumber": 1,
+  "episodeTitle": "2021 Top Ten",
+  "status": "Published",
+  "mediaType": "Podcast episode",
+  "mediaPlatform": "Need to Know",
+  "mediaHost": "Ross Coulthart and Bryce Zabel",
+  "mediaGuests": [],
+  "mediaSubjects": [],
+  "principalClaims": [
+    "claim-need-to-know-1-1",
+    "claim-need-to-know-1-2",
+    "claim-need-to-know-1-3",
+    "claim-need-to-know-1-4"
+  ],
+  "researchNotes": [],
+  "relationships": [
+    {
+      "type": "episode_of",
+      "target": "need-to-know-podcast"
+    },
+    {
+      "type": "features_person",
+      "target": "ross-coulthart",
+      "role": "host",
+      "context": "Need to Know co-host"
+    },
+    {
+      "type": "features_person",
+      "target": "bryce-zabel",
+      "role": "host",
+      "context": "Need to Know co-host"
+    },
+    {
+      "type": "discussed_topic",
+      "target": "uap-transparency"
+    },
+    {
+      "type": "discussed_topic",
+      "target": "government-transparency"
+    },
+    {
+      "type": "discussed_topic",
+      "target": "scientific-investigation"
+    }
+  ],
+  "mediaLinks": [
+    {
+      "label": "Watch the official Need to Know collection",
+      "url": "https://www.youtube.com/playlist?list=PLXdU8QbJkboeMcvUNyGpb9h6FUS9cVBti",
+      "platform": "YouTube"
+    },
+    {
+      "label": "Listen to Need to Know",
+      "url": "https://open.spotify.com/show/24xucCwPjcXENqwUgtKZaY",
+      "platform": "Spotify"
+    }
+  ],
+  "eventCategory": "Podcast publication",
+  "officialLinks": [],
+  "referenceSources": [
+    {
+      "label": "Official Need to Know Episode 1 listing \u2014 2021 Top Ten",
+      "url": "https://needtoknow.today/podcasts-on-youtube",
+      "sourceType": "official_episode_page",
+      "role": "source"
+    },
+    {
+      "label": "Need to Know official YouTube collection",
+      "url": "https://www.youtube.com/playlist?list=PLXdU8QbJkboeMcvUNyGpb9h6FUS9cVBti",
+      "sourceType": "official_video_collection",
+      "role": "source"
+    }
+  ]
+}

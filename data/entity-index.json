@@ -6,9 +6,9 @@
     "hearing",
     "interview",
     "publication",
+    "podcast_episode",
     "document",
     "timeline_event",
-    "podcast_episode",
     "organization",
     "person",
     "topic",
@@ -1009,6 +1009,12 @@
       "name": "Emery Smith Alien-Autopsy Program Claims",
       "summary": "Claims that Emery Smith participated in classified medical examinations of alleged non-human biological material.",
       "status": "Personal claims distributed primarily through interviews and entertainment media; not independently established."
+    },
+    {
+      "id": "claim-need-to-know-1-2",
+      "type": "claim",
+      "name": "Episode 1 uses a ranked year-in-review format to identify the developments the hosts considered most consequential in 2021.",
+      "summary": "Claim or editorial framing presented in Need to Know Episode #1."
     },
     {
       "id": "claim-witnesses-described-preparation-and-aftermath",
@@ -2288,6 +2294,12 @@
       "summary": "The official episode description presents or discusses this claim; it is recorded here as a source-attributed claim, not as independently verified fact."
     },
     {
+      "id": "claim-need-to-know-1-3",
+      "type": "claim",
+      "name": "The episode treats governmental activity, scientific research, and public reporting as interconnected parts of the changing UAP landscape.",
+      "summary": "Claim or editorial framing presented in Need to Know Episode #1."
+    },
+    {
       "id": "claim-weaponized-8-4",
       "type": "claim",
       "name": "The episode urges congressional questioning about alleged reverse engineering of non-human technology.",
@@ -2366,10 +2378,22 @@
       "summary": "The official episode description presents or discusses this claim; it is recorded here as a source-attributed claim, not as independently verified fact."
     },
     {
+      "id": "claim-need-to-know-1-1",
+      "type": "claim",
+      "name": "The hosts frame 2021 as a significant year for public UFO/UAP news and research.",
+      "summary": "Claim or editorial framing presented in Need to Know Episode #1."
+    },
+    {
       "id": "claim-weaponized-1-1",
       "type": "claim",
       "name": "The hosts present public acknowledgment of UAP as a major shift in consensus reality.",
       "summary": "Claim or framing presented in WEAPONIZED Episode #1."
+    },
+    {
+      "id": "claim-need-to-know-1-4",
+      "type": "claim",
+      "name": "The hosts present sustained investigation and evidence-based discussion as necessary for understanding the UAP issue.",
+      "summary": "Claim or editorial framing presented in Need to Know Episode #1."
     },
     {
       "id": "claim-uss-jackson-incident-not-reported-to-aaro",
@@ -4454,6 +4478,15 @@
       "summary": "Will Brown is referenced in WEAPONIZED Episodes #103–#112."
     },
     {
+      "id": "2021-need-to-know-episode-1",
+      "type": "podcast_episode",
+      "name": "Need to Know Episode #1 — 2021 Top Ten",
+      "summary": "Ross Coulthart and Bryce Zabel launch Need to Know with a year-in-review discussion of the UFO/UAP news and research developments they considered most significant in 2021.",
+      "date": "2021-12-16",
+      "dateDisplay": "December 16, 2021",
+      "status": "Published"
+    },
+    {
       "id": "2023-weaponized-episode-1",
       "type": "podcast_episode",
       "name": "WEAPONIZED Episode #1 — Launching WEAPONIZED — A New Consensus Reality",
@@ -5875,6 +5908,14 @@
       "summary": "NASA held a public meeting of its UAP Independent Study Team on May 31, 2023.",
       "date": "2023-05-31",
       "dateDisplay": "May 31, 2023"
+    },
+    {
+      "id": "timeline-2021-12-16-need-to-know-episode-1",
+      "type": "timeline_event",
+      "name": "Need to Know Episode #1 published",
+      "summary": "Ross Coulthart and Bryce Zabel launch Need to Know with a year-in-review discussion of the UFO/UAP news and research developments they considered most significant in 2021.",
+      "date": "2021-12-16",
+      "dateDisplay": "December 16, 2021"
     },
     {
       "id": "timeline-1995-nids-science-advisory-board",
