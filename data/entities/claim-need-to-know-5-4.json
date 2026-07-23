@@ -1,0 +1,27 @@
+{
+  "id": "claim-need-to-know-5-4",
+  "type": "claim",
+  "name": "The Roswell incident is discussed within the broader historical context of the 1947 wave rather than as an isolated event.",
+  "summary": "Claim or editorial framing presented in Need to Know Episode #5.",
+  "relationships": [
+    {
+      "type": "featured_in_media",
+      "target": "2022-need-to-know-episode-5"
+    }
+  ],
+  "officialLinks": [],
+  "referenceSources": [
+    {
+      "label": "Official Need to Know Episode 5 video — Roswell and Beyond",
+      "url": "https://www.youtube.com/watch?v=bsOiS6rsoEM",
+      "sourceType": "official_episode_video",
+      "role": "source"
+    },
+    {
+      "label": "Need to Know official YouTube collection",
+      "url": "https://www.youtube.com/playlist?list=PLXdU8QbJkboeMcvUNyGpb9h6FUS9cVBti",
+      "sourceType": "official_video_collection",
+      "role": "source"
+    }
+  ]
+}

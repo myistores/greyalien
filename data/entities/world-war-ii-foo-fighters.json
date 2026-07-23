@@ -1,0 +1,14 @@
+{
+  "id": "world-war-ii-foo-fighters",
+  "type": "case",
+  "name": "World War II Foo Fighter Reports",
+  "summary": "Reports by Allied aircrews during World War II describing unexplained luminous objects encountered near military aircraft.",
+  "relationships": [
+    {
+      "type": "discussed_topic",
+      "target": "scientific-investigation"
+    }
+  ],
+  "officialLinks": [],
+  "referenceSources": []
+}

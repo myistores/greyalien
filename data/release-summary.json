@@ -1,7 +1,7 @@
 {
-  "version": "21",
-  "title": "Need to Know Podcast Integration \u2014 Pilot",
+  "version": "21.1",
+  "title": "Need to Know Podcast Integration \u2014 Batch 2",
   "date": "2026-07-22",
-  "summary": "Added Need to Know Episode #1 as the first cross-series podcast ingestion, reusing canonical hosts, series, and topics while preserving the WEAPONIZED graph.",
-  "phase": "Cross-series podcast production pilot"
+  "summary": "Added Need to Know Episodes #2\u20136, corrected Episodes #1\u20136 to direct official YouTube episode links, and extended cross-series discovery through canonical people, cases, documents, organizations, and topics.",
+  "phase": "Cross-series podcast production batch"
 }

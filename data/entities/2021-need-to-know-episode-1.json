@@ -1,7 +1,7 @@
 {
   "id": "2021-need-to-know-episode-1",
   "type": "podcast_episode",
-  "name": "Need to Know Episode #1 \u2014 2021 Top Ten",
+  "name": "Need to Know Episode #1 — 2021 Top Ten",
   "summary": "Ross Coulthart and Bryce Zabel launch Need to Know with a year-in-review discussion of the UFO/UAP news and research developments they considered most significant in 2021.",
   "date": "2021-12-16",
   "dateDisplay": "December 16, 2021",
@@ -53,23 +53,23 @@
   ],
   "mediaLinks": [
     {
-      "label": "Watch the official Need to Know collection",
-      "url": "https://www.youtube.com/playlist?list=PLXdU8QbJkboeMcvUNyGpb9h6FUS9cVBti",
+      "label": "Watch Need to Know Episode #1 on YouTube",
+      "url": "https://www.youtube.com/watch?v=rHwjvFf_VOo",
       "platform": "YouTube"
     },
     {
-      "label": "Listen to Need to Know",
-      "url": "https://open.spotify.com/show/24xucCwPjcXENqwUgtKZaY",
-      "platform": "Spotify"
+      "label": "Watch the official Need to Know collection",
+      "url": "https://www.youtube.com/playlist?list=PLXdU8QbJkboeMcvUNyGpb9h6FUS9cVBti",
+      "platform": "YouTube"
     }
   ],
   "eventCategory": "Podcast publication",
   "officialLinks": [],
   "referenceSources": [
     {
-      "label": "Official Need to Know Episode 1 listing \u2014 2021 Top Ten",
-      "url": "https://needtoknow.today/podcasts-on-youtube",
-      "sourceType": "official_episode_page",
+      "label": "Official Need to Know Episode 1 video — 2021 Top Ten",
+      "url": "https://www.youtube.com/watch?v=rHwjvFf_VOo",
+      "sourceType": "official_episode_video",
       "role": "source"
     },
     {

@@ -12,9 +12,15 @@
   "officialLinks": [],
   "referenceSources": [
     {
-      "label": "Official Need to Know Episode 1 listing \u2014 2021 Top Ten",
-      "url": "https://needtoknow.today/podcasts-on-youtube",
-      "sourceType": "official_episode_page",
+      "label": "Official Need to Know Episode 1 video — 2021 Top Ten",
+      "url": "https://www.youtube.com/watch?v=rHwjvFf_VOo",
+      "sourceType": "official_episode_video",
+      "role": "source"
+    },
+    {
+      "label": "Need to Know official YouTube collection",
+      "url": "https://www.youtube.com/playlist?list=PLXdU8QbJkboeMcvUNyGpb9h6FUS9cVBti",
+      "sourceType": "official_video_collection",
       "role": "source"
     }
   ]

@@ -1,0 +1,30 @@
+{
+  "id": "timeline-2022-02-03-need-to-know-episode-6",
+  "type": "timeline_event",
+  "name": "Need to Know Episode #6 published",
+  "summary": "Ross Coulthart and Bryce Zabel explore the relationship between the United States presidency and the UFO/UAP issue, asking what presidents may have been told and what presidential leadership could mean for disclosure.",
+  "date": "2022-02-03",
+  "dateDisplay": "February 3, 2022",
+  "eventCategory": "Podcast publication",
+  "relationships": [
+    {
+      "type": "event_for",
+      "target": "2022-need-to-know-episode-6"
+    }
+  ],
+  "officialLinks": [],
+  "referenceSources": [
+    {
+      "label": "Official Need to Know Episode 6 video — Take Me to Your Leader",
+      "url": "https://www.youtube.com/watch?v=Pu0OstWkqo0",
+      "sourceType": "official_episode_video",
+      "role": "source"
+    },
+    {
+      "label": "Need to Know official YouTube collection",
+      "url": "https://www.youtube.com/playlist?list=PLXdU8QbJkboeMcvUNyGpb9h6FUS9cVBti",
+      "sourceType": "official_video_collection",
+      "role": "source"
+    }
+  ]
+}

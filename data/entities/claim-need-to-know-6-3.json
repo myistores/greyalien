@@ -1,0 +1,27 @@
+{
+  "id": "claim-need-to-know-6-3",
+  "type": "claim",
+  "name": "The discussion distinguishes public presidential statements from the deeper question of what presidents may learn in classified settings.",
+  "summary": "Claim or editorial framing presented in Need to Know Episode #6.",
+  "relationships": [
+    {
+      "type": "featured_in_media",
+      "target": "2022-need-to-know-episode-6"
+    }
+  ],
+  "officialLinks": [],
+  "referenceSources": [
+    {
+      "label": "Official Need to Know Episode 6 video — Take Me to Your Leader",
+      "url": "https://www.youtube.com/watch?v=Pu0OstWkqo0",
+      "sourceType": "official_episode_video",
+      "role": "source"
+    },
+    {
+      "label": "Need to Know official YouTube collection",
+      "url": "https://www.youtube.com/playlist?list=PLXdU8QbJkboeMcvUNyGpb9h6FUS9cVBti",
+      "sourceType": "official_video_collection",
+      "role": "source"
+    }
+  ]
+}

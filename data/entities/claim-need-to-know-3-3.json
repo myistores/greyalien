@@ -1,0 +1,27 @@
+{
+  "id": "claim-need-to-know-3-3",
+  "type": "claim",
+  "name": "The hosts argue that congressional oversight is important for sustaining accountability within the executive branch.",
+  "summary": "Claim or editorial framing presented in Need to Know Episode #3.",
+  "relationships": [
+    {
+      "type": "featured_in_media",
+      "target": "2021-need-to-know-episode-3"
+    }
+  ],
+  "officialLinks": [],
+  "referenceSources": [
+    {
+      "label": "Official Need to Know Episode 3 video — Bipartisan Support for UAP Research",
+      "url": "https://www.youtube.com/watch?v=wF_8gBlUZhY",
+      "sourceType": "official_episode_video",
+      "role": "source"
+    },
+    {
+      "label": "Need to Know official YouTube collection",
+      "url": "https://www.youtube.com/playlist?list=PLXdU8QbJkboeMcvUNyGpb9h6FUS9cVBti",
+      "sourceType": "official_video_collection",
+      "role": "source"
+    }
+  ]
+}

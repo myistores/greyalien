@@ -1,0 +1,86 @@
+{
+  "id": "2022-need-to-know-episode-6",
+  "type": "podcast_episode",
+  "name": "Need to Know Episode #6 — Take Me to Your Leader",
+  "summary": "Ross Coulthart and Bryce Zabel explore the relationship between the United States presidency and the UFO/UAP issue, asking what presidents may have been told and what presidential leadership could mean for disclosure.",
+  "date": "2022-02-03",
+  "dateDisplay": "February 3, 2022",
+  "seriesId": "need-to-know-podcast",
+  "episodeNumber": 6,
+  "episodeTitle": "Take Me to Your Leader",
+  "status": "Published",
+  "mediaType": "Podcast episode",
+  "mediaPlatform": "Need to Know",
+  "mediaHost": "Ross Coulthart and Bryce Zabel",
+  "mediaGuests": [],
+  "mediaSubjects": [],
+  "principalClaims": [
+    "claim-need-to-know-6-1",
+    "claim-need-to-know-6-2",
+    "claim-need-to-know-6-3",
+    "claim-need-to-know-6-4"
+  ],
+  "researchNotes": [],
+  "relationships": [
+    {
+      "type": "episode_of",
+      "target": "need-to-know-podcast"
+    },
+    {
+      "type": "features_person",
+      "target": "ross-coulthart",
+      "role": "host",
+      "context": "Need to Know co-host"
+    },
+    {
+      "type": "features_person",
+      "target": "bryce-zabel",
+      "role": "host",
+      "context": "Need to Know co-host"
+    },
+    {
+      "type": "references_organization",
+      "target": "white-house"
+    },
+    {
+      "type": "discussed_topic",
+      "target": "government-transparency"
+    },
+    {
+      "type": "discussed_topic",
+      "target": "public-disclosure"
+    },
+    {
+      "type": "discussed_topic",
+      "target": "uap-transparency"
+    }
+  ],
+  "mediaLinks": [
+    {
+      "label": "Watch Need to Know Episode #6 on YouTube",
+      "url": "https://www.youtube.com/watch?v=Pu0OstWkqo0",
+      "platform": "YouTube"
+    },
+    {
+      "label": "Watch the official Need to Know collection",
+      "url": "https://www.youtube.com/playlist?list=PLXdU8QbJkboeMcvUNyGpb9h6FUS9cVBti",
+      "platform": "YouTube"
+    }
+  ],
+  "eventCategory": "Podcast publication",
+  "officialLinks": [],
+  "referenceSources": [
+    {
+      "label": "Official Need to Know Episode 6 video — Take Me to Your Leader",
+      "url": "https://www.youtube.com/watch?v=Pu0OstWkqo0",
+      "sourceType": "official_episode_video",
+      "role": "source"
+    },
+    {
+      "label": "Need to Know official YouTube collection",
+      "url": "https://www.youtube.com/playlist?list=PLXdU8QbJkboeMcvUNyGpb9h6FUS9cVBti",
+      "sourceType": "official_video_collection",
+      "role": "source"
+    }
+  ]
+}

@@ -1,9 +1,14 @@
 {
   "schemaVersion": 1,
-  "entityCount": 1052,
-  "relationshipCount": 2371,
+  "entityCount": 1085,
+  "relationshipCount": 2437,
   "unresolvedRelationshipCount": 16,
   "connectionCounts": {
+    "1946-scandinavian-ghost-rockets": {
+      "incoming": 1,
+      "outgoing": 1,
+      "total": 2
+    },
     "1960s-area-51-engine-claim": {
       "incoming": 3,
       "outgoing": 0,
@@ -114,6 +119,16 @@
       "outgoing": 6,
       "total": 11
     },
+    "2021-need-to-know-episode-2": {
+      "incoming": 5,
+      "outgoing": 7,
+      "total": 12
+    },
+    "2021-need-to-know-episode-3": {
+      "incoming": 5,
+      "outgoing": 8,
+      "total": 13
+    },
     "2022-05-03-house-intelligence-classified-uap-briefing": {
       "incoming": 2,
       "outgoing": 6,
@@ -128,6 +143,21 @@
       "incoming": 0,
       "outgoing": 1,
       "total": 1
+    },
+    "2022-need-to-know-episode-4": {
+      "incoming": 5,
+      "outgoing": 7,
+      "total": 12
+    },
+    "2022-need-to-know-episode-5": {
+      "incoming": 5,
+      "outgoing": 8,
+      "total": 13
+    },
+    "2022-need-to-know-episode-6": {
+      "incoming": 5,
+      "outgoing": 7,
+      "total": 12
     },
     "2023-04-19-senate-aaro-oversight": {
       "incoming": 1,
@@ -1020,9 +1050,9 @@
       "total": 2
     },
     "bryce-zabel": {
-      "incoming": 3,
+      "incoming": 8,
       "outgoing": 1,
-      "total": 4
+      "total": 9
     },
     "buddha-jones": {
       "incoming": 2,
@@ -1965,6 +1995,106 @@
       "total": 1
     },
     "claim-need-to-know-1-4": {
+      "incoming": 0,
+      "outgoing": 1,
+      "total": 1
+    },
+    "claim-need-to-know-2-1": {
+      "incoming": 0,
+      "outgoing": 1,
+      "total": 1
+    },
+    "claim-need-to-know-2-2": {
+      "incoming": 0,
+      "outgoing": 1,
+      "total": 1
+    },
+    "claim-need-to-know-2-3": {
+      "incoming": 0,
+      "outgoing": 1,
+      "total": 1
+    },
+    "claim-need-to-know-2-4": {
+      "incoming": 0,
+      "outgoing": 1,
+      "total": 1
+    },
+    "claim-need-to-know-3-1": {
+      "incoming": 0,
+      "outgoing": 1,
+      "total": 1
+    },
+    "claim-need-to-know-3-2": {
+      "incoming": 0,
+      "outgoing": 1,
+      "total": 1
+    },
+    "claim-need-to-know-3-3": {
+      "incoming": 0,
+      "outgoing": 1,
+      "total": 1
+    },
+    "claim-need-to-know-3-4": {
+      "incoming": 0,
+      "outgoing": 1,
+      "total": 1
+    },
+    "claim-need-to-know-4-1": {
+      "incoming": 0,
+      "outgoing": 1,
+      "total": 1
+    },
+    "claim-need-to-know-4-2": {
+      "incoming": 0,
+      "outgoing": 1,
+      "total": 1
+    },
+    "claim-need-to-know-4-3": {
+      "incoming": 0,
+      "outgoing": 1,
+      "total": 1
+    },
+    "claim-need-to-know-4-4": {
+      "incoming": 0,
+      "outgoing": 1,
+      "total": 1
+    },
+    "claim-need-to-know-5-1": {
+      "incoming": 0,
+      "outgoing": 1,
+      "total": 1
+    },
+    "claim-need-to-know-5-2": {
+      "incoming": 0,
+      "outgoing": 1,
+      "total": 1
+    },
+    "claim-need-to-know-5-3": {
+      "incoming": 0,
+      "outgoing": 1,
+      "total": 1
+    },
+    "claim-need-to-know-5-4": {
+      "incoming": 0,
+      "outgoing": 1,
+      "total": 1
+    },
+    "claim-need-to-know-6-1": {
+      "incoming": 0,
+      "outgoing": 1,
+      "total": 1
+    },
+    "claim-need-to-know-6-2": {
+      "incoming": 0,
+      "outgoing": 1,
+      "total": 1
+    },
+    "claim-need-to-know-6-3": {
+      "incoming": 0,
+      "outgoing": 1,
+      "total": 1
+    },
+    "claim-need-to-know-6-4": {
       "incoming": 0,
       "outgoing": 1,
       "total": 1
@@ -3290,9 +3420,9 @@
       "total": 6
     },
     "congressional-oversight": {
-      "incoming": 34,
+      "incoming": 36,
       "outgoing": 0,
-      "total": 34
+      "total": 36
     },
     "contact-in-the-desert": {
       "incoming": 1,
@@ -3590,9 +3720,9 @@
       "total": 1
     },
     "government-transparency": {
-      "incoming": 99,
+      "incoming": 103,
       "outgoing": 0,
-      "total": 99
+      "total": 103
     },
     "hal-puthoff": {
       "incoming": 3,
@@ -3610,9 +3740,9 @@
       "total": 1
     },
     "harry-reid": {
-      "incoming": 1,
+      "incoming": 2,
       "outgoing": 1,
-      "total": 2
+      "total": 3
     },
     "harvard-university": {
       "incoming": 1,
@@ -3955,9 +4085,9 @@
       "total": 1
     },
     "media-coverage": {
-      "incoming": 1,
+      "incoming": 3,
       "outgoing": 0,
-      "total": 1
+      "total": 3
     },
     "merged-podcast": {
       "incoming": 1,
@@ -4054,6 +4184,11 @@
       "outgoing": 1,
       "total": 2
     },
+    "national-defense-authorization-act-fy2022": {
+      "incoming": 1,
+      "outgoing": 2,
+      "total": 3
+    },
     "national-institute-for-discovery-science": {
       "incoming": 8,
       "outgoing": 0,
@@ -4085,9 +4220,9 @@
       "total": 1
     },
     "need-to-know-podcast": {
-      "incoming": 3,
+      "incoming": 8,
       "outgoing": 1,
-      "total": 4
+      "total": 9
     },
     "new-paradigm-institute": {
       "incoming": 1,
@@ -4150,9 +4285,9 @@
       "total": 1
     },
     "public-disclosure": {
-      "incoming": 5,
+      "incoming": 7,
       "outgoing": 0,
-      "total": 5
+      "total": 7
     },
     "publication-1965-anatomy-of-a-phenomenon": {
       "incoming": 1,
@@ -4255,14 +4390,14 @@
       "total": 3
     },
     "ross-coulthart": {
-      "incoming": 3,
+      "incoming": 8,
       "outgoing": 3,
-      "total": 6
+      "total": 11
     },
     "roswell-incident": {
-      "incoming": 5,
+      "incoming": 6,
       "outgoing": 0,
-      "total": 5
+      "total": 6
     },
     "russian-military-ufo-investigation": {
       "incoming": 2,
@@ -4310,9 +4445,9 @@
       "total": 1
     },
     "scientific-investigation": {
-      "incoming": 34,
+      "incoming": 38,
       "outgoing": 0,
-      "total": 34
+      "total": 38
     },
     "scott-bray": {
       "incoming": 0,
@@ -4549,10 +4684,35 @@
       "outgoing": 1,
       "total": 1
     },
+    "timeline-2021-12-16-need-to-know-episode-2": {
+      "incoming": 0,
+      "outgoing": 1,
+      "total": 1
+    },
+    "timeline-2021-12-27-need-to-know-episode-3": {
+      "incoming": 0,
+      "outgoing": 1,
+      "total": 1
+    },
     "timeline-2021-2022-karl-nell-uaptf-support": {
       "incoming": 1,
       "outgoing": 5,
       "total": 6
+    },
+    "timeline-2022-01-04-need-to-know-episode-4": {
+      "incoming": 0,
+      "outgoing": 1,
+      "total": 1
+    },
+    "timeline-2022-01-20-need-to-know-episode-5": {
+      "incoming": 0,
+      "outgoing": 1,
+      "total": 1
+    },
+    "timeline-2022-02-03-need-to-know-episode-6": {
+      "incoming": 0,
+      "outgoing": 1,
+      "total": 1
     },
     "timeline-2022-05-25-david-grusch-ppd19-complaint": {
       "incoming": 0,
@@ -5045,9 +5205,9 @@
       "total": 5
     },
     "uap-disclosure-legislation": {
-      "incoming": 8,
+      "incoming": 10,
       "outgoing": 0,
-      "total": 8
+      "total": 10
     },
     "uap-disinformation": {
       "incoming": 3,
@@ -5100,9 +5260,9 @@
       "total": 9
     },
     "uap-transparency": {
-      "incoming": 14,
+      "incoming": 16,
       "outgoing": 0,
-      "total": 14
+      "total": 16
     },
     "ufo-cryptid-connection": {
       "incoming": 1,
@@ -5150,9 +5310,9 @@
       "total": 4
     },
     "united-states-congress": {
-      "incoming": 16,
+      "incoming": 18,
       "outgoing": 0,
-      "total": 16
+      "total": 18
     },
     "united-states-department-of-defense": {
       "incoming": 2,
@@ -5245,9 +5405,9 @@
       "total": 9
     },
     "white-house": {
-      "incoming": 1,
+      "incoming": 2,
       "outgoing": 0,
-      "total": 1
+      "total": 2
     },
     "whitley-strieber": {
       "incoming": 2,
@@ -5263,6 +5423,11 @@
       "incoming": 1,
       "outgoing": 0,
       "total": 1
+    },
+    "world-war-ii-foo-fighters": {
+      "incoming": 1,
+      "outgoing": 1,
+      "total": 2
     }
   },
   "unresolvedRelationships": [

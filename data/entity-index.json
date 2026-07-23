@@ -18,6 +18,12 @@
   ],
   "entities": [
     {
+      "id": "1946-scandinavian-ghost-rockets",
+      "type": "case",
+      "name": "1946 Scandinavian Ghost Rocket Reports",
+      "summary": "A wave of reported unidentified rocket-like objects over Scandinavia in 1946 that became an important precursor to the modern flying-saucer era."
+    },
+    {
       "id": "1966-minot-missile-ufo-incident",
       "type": "case",
       "name": "1966 Minot Missile UFO Incident",
@@ -274,6 +280,12 @@
       "type": "case",
       "name": "Varginha Ufo Incident",
       "summary": "A knowledge-graph entity referenced in the V19.4 WEAPONIZED production batch."
+    },
+    {
+      "id": "world-war-ii-foo-fighters",
+      "type": "case",
+      "name": "World War II Foo Fighter Reports",
+      "summary": "Reports by Allied aircrews during World War II describing unexplained luminous objects encountered near military aircraft."
     },
     {
       "id": "claim-2025-produced-new-public-witnesses-and-whistleblowers",
@@ -2060,6 +2072,12 @@
       "summary": "Claim or framing presented in WEAPONIZED Episode #9."
     },
     {
+      "id": "claim-need-to-know-5-2",
+      "type": "claim",
+      "name": "The 1946 Scandinavian ghost rocket reports are presented as another major pre-1947 wave of unexplained aerial observations.",
+      "summary": "Claim or editorial framing presented in Need to Know Episode #5."
+    },
+    {
       "id": "claim-2024-uap-review-found-persistent-transparency-failures",
       "type": "claim",
       "name": "The 2024 UAP year-in-review panel identified continuing transparency failures",
@@ -2126,6 +2144,30 @@
       "summary": "The episode describes the report as a pivotal event whose effects continued years later."
     },
     {
+      "id": "claim-need-to-know-4-3",
+      "type": "claim",
+      "name": "The discussion criticizes media coverage that frames the UAP subject primarily through ridicule or omission.",
+      "summary": "Claim or editorial framing presented in Need to Know Episode #4."
+    },
+    {
+      "id": "claim-need-to-know-6-3",
+      "type": "claim",
+      "name": "The discussion distinguishes public presidential statements from the deeper question of what presidents may learn in classified settings.",
+      "summary": "Claim or editorial framing presented in Need to Know Episode #6."
+    },
+    {
+      "id": "claim-need-to-know-2-4",
+      "type": "claim",
+      "name": "The discussion presents 2022 as a test of whether institutional momentum would produce meaningful public answers.",
+      "summary": "Claim or editorial framing presented in Need to Know Episode #2."
+    },
+    {
+      "id": "claim-need-to-know-3-4",
+      "type": "claim",
+      "name": "The discussion treats legislation as a concrete step toward greater public transparency rather than a complete resolution of the issue.",
+      "summary": "Claim or editorial framing presented in Need to Know Episode #3."
+    },
+    {
       "id": "claim-weaponized-29-3",
       "type": "claim",
       "name": "The encounter was not formally investigated until years after it occurred.",
@@ -2142,6 +2184,12 @@
       "type": "claim",
       "name": "The episode argues that future congressional hearings may provide stronger oversight and more substantive answers.",
       "summary": "Claim or framing presented in WEAPONIZED Episode #14."
+    },
+    {
+      "id": "claim-need-to-know-2-2",
+      "type": "claim",
+      "name": "The episode argues that government transparency and sustained journalism would be central to UAP developments in 2022.",
+      "summary": "Claim or editorial framing presented in Need to Know Episode #2."
     },
     {
       "id": "claim-weaponized-31-2",
@@ -2210,6 +2258,18 @@
       "summary": "The official episode description presents or discusses this claim; it is recorded here as a source-attributed claim, not as independently verified fact."
     },
     {
+      "id": "claim-need-to-know-6-1",
+      "type": "claim",
+      "name": "The episode examines whether U.S. presidents receive meaningful access to classified information concerning UAP.",
+      "summary": "Claim or editorial framing presented in Need to Know Episode #6."
+    },
+    {
+      "id": "claim-need-to-know-6-4",
+      "type": "claim",
+      "name": "The episode frames executive leadership and government transparency as closely connected elements of the UAP issue.",
+      "summary": "Claim or editorial framing presented in Need to Know Episode #6."
+    },
+    {
       "id": "claim-weaponized-6-4",
       "type": "claim",
       "name": "The episode identifies the defense executive publicly after years of uncertainty.",
@@ -2220,6 +2280,12 @@
       "type": "claim",
       "name": "The episode notes public promises of UAP transparency from high-profile administration insiders.",
       "summary": "The official episode description presents or discusses this claim; it is recorded here as a source-attributed claim, not as independently verified fact."
+    },
+    {
+      "id": "claim-need-to-know-5-1",
+      "type": "claim",
+      "name": "The episode places World War II foo fighter reports among the important precursors to the modern UFO era.",
+      "summary": "Claim or editorial framing presented in Need to Know Episode #5."
     },
     {
       "id": "claim-program-access-highly-restricted",
@@ -2250,6 +2316,12 @@
       "type": "claim",
       "name": "The episode presents trailer creation as a specialized form of storytelling and audience communication.",
       "summary": "Claim or framing presented in WEAPONIZED Episode #11."
+    },
+    {
+      "id": "claim-need-to-know-3-1",
+      "type": "claim",
+      "name": "The episode presents UAP investigation as an issue capable of attracting bipartisan congressional support.",
+      "summary": "Claim or editorial framing presented in Need to Know Episode #3."
     },
     {
       "id": "claim-weaponized-4-3",
@@ -2300,6 +2372,12 @@
       "summary": "Claim or editorial framing presented in Need to Know Episode #1."
     },
     {
+      "id": "claim-need-to-know-4-2",
+      "type": "claim",
+      "name": "The episode treats Reid’s support for classified and congressional UAP inquiry as an important part of his public legacy.",
+      "summary": "Claim or editorial framing presented in Need to Know Episode #4."
+    },
+    {
       "id": "claim-weaponized-8-4",
       "type": "claim",
       "name": "The episode urges congressional questioning about alleged reverse engineering of non-human technology.",
@@ -2336,6 +2414,12 @@
       "summary": "The creators of S4: The Bob Lazar Story describe the production’s visual reconstruction of the alleged facility as being developed from Bob Lazar’s recollections and account."
     },
     {
+      "id": "claim-need-to-know-3-2",
+      "type": "claim",
+      "name": "The fiscal-year 2022 defense authorization law is described as creating a stronger statutory basis for organized UAP research and reporting.",
+      "summary": "Claim or editorial framing presented in Need to Know Episode #3."
+    },
+    {
       "id": "claim-wsj-reporting-challenged",
       "type": "claim",
       "name": "The guests challenged Wall Street Journal explanations for historical nuclear-site incidents.",
@@ -2354,6 +2438,24 @@
       "summary": "The hosts and guest challenge claims that historic UFO reports can be reduced to elaborate military hazing."
     },
     {
+      "id": "claim-need-to-know-3-3",
+      "type": "claim",
+      "name": "The hosts argue that congressional oversight is important for sustaining accountability within the executive branch.",
+      "summary": "Claim or editorial framing presented in Need to Know Episode #3."
+    },
+    {
+      "id": "claim-need-to-know-4-1",
+      "type": "claim",
+      "name": "The hosts argue that many obituaries underplayed Harry Reid’s role in advancing government investigation of UAP.",
+      "summary": "Claim or editorial framing presented in Need to Know Episode #4."
+    },
+    {
+      "id": "claim-need-to-know-6-2",
+      "type": "claim",
+      "name": "The hosts argue that presidential authority could be decisive in overcoming institutional barriers to disclosure.",
+      "summary": "Claim or editorial framing presented in Need to Know Episode #6."
+    },
+    {
       "id": "claim-weaponized-8-2",
       "type": "claim",
       "name": "The hosts argue that public debunking attempts did not adequately explain the object.",
@@ -2364,6 +2466,12 @@
       "type": "claim",
       "name": "The hosts argued that a 60 Minutes drone report omitted important evidence from 2019 Navy incidents",
       "summary": "This is explicitly presented as the hosts’ criticism of the broadcast."
+    },
+    {
+      "id": "claim-need-to-know-2-1",
+      "type": "claim",
+      "name": "The hosts characterize 2021 as the most consequential year for public UAP progress since 2017.",
+      "summary": "Claim or editorial framing presented in Need to Know Episode #2."
     },
     {
       "id": "claim-more-former-officials-coming-forward",
@@ -2382,6 +2490,24 @@
       "type": "claim",
       "name": "The hosts frame 2021 as a significant year for public UFO/UAP news and research.",
       "summary": "Claim or editorial framing presented in Need to Know Episode #1."
+    },
+    {
+      "id": "claim-need-to-know-5-3",
+      "type": "claim",
+      "name": "The hosts identify 1947 as the seminal year in which the modern flying-saucer phenomenon entered public consciousness.",
+      "summary": "Claim or editorial framing presented in Need to Know Episode #5."
+    },
+    {
+      "id": "claim-need-to-know-2-3",
+      "type": "claim",
+      "name": "The hosts identify continued scientific investigation as necessary to move the subject beyond speculation.",
+      "summary": "Claim or editorial framing presented in Need to Know Episode #2."
+    },
+    {
+      "id": "claim-need-to-know-4-4",
+      "type": "claim",
+      "name": "The hosts present accurate historical context as essential to responsible coverage of government UAP programs.",
+      "summary": "Claim or editorial framing presented in Need to Know Episode #4."
     },
     {
       "id": "claim-weaponized-1-1",
@@ -2640,6 +2766,12 @@
       "type": "claim",
       "name": "The reviewed case literature associates some close encounters with serious physical, physiological, and psychological effects.",
       "summary": "The reviewed case literature associates some close encounters with serious physical, physiological, and psychological effects."
+    },
+    {
+      "id": "claim-need-to-know-5-4",
+      "type": "claim",
+      "name": "The Roswell incident is discussed within the broader historical context of the 1947 wave rather than as an isolated event.",
+      "summary": "Claim or editorial framing presented in Need to Know Episode #5."
     },
     {
       "id": "claim-weaponized-33-1",
@@ -2952,6 +3084,12 @@
       "name": "NASA UAP Independent Study Team Report",
       "summary": "Final report of NASA's UAP Independent Study Team, released in September 2023.",
       "status": "Official NASA report"
+    },
+    {
+      "id": "national-defense-authorization-act-fy2022",
+      "type": "document",
+      "name": "National Defense Authorization Act for Fiscal Year 2022",
+      "summary": "The annual U.S. defense authorization law signed in December 2021, including provisions that advanced formal government reporting and oversight of unidentified aerial phenomena."
     },
     {
       "id": "need-to-know-book",
@@ -4487,6 +4625,51 @@
       "status": "Published"
     },
     {
+      "id": "2021-need-to-know-episode-2",
+      "type": "podcast_episode",
+      "name": "Need to Know Episode #2 — The Year Ahead",
+      "summary": "Ross Coulthart and Bryce Zabel assess the momentum created by UAP developments in 2021 and outline the reporting, government action, and unanswered questions they expected to shape 2022.",
+      "date": "2021-12-16",
+      "dateDisplay": "December 16, 2021",
+      "status": "Published"
+    },
+    {
+      "id": "2021-need-to-know-episode-3",
+      "type": "podcast_episode",
+      "name": "Need to Know Episode #3 — Bipartisan Support for UAP Research",
+      "summary": "Ross Coulthart and Bryce Zabel discuss the newly signed fiscal-year 2022 defense authorization law and the bipartisan congressional support behind stronger UAP research, reporting, and oversight.",
+      "date": "2021-12-27",
+      "dateDisplay": "December 27, 2021",
+      "status": "Published"
+    },
+    {
+      "id": "2022-need-to-know-episode-4",
+      "type": "podcast_episode",
+      "name": "Need to Know Episode #4 — Media Coverage of Harry Reid’s Death",
+      "summary": "Ross Coulthart and Bryce Zabel examine how major news organizations covered former senator Harry Reid’s death, focusing on whether his consequential role in advancing government UAP investigation was minimized or omitted.",
+      "date": "2022-01-04",
+      "dateDisplay": "January 4, 2022",
+      "status": "Published"
+    },
+    {
+      "id": "2022-need-to-know-episode-5",
+      "type": "podcast_episode",
+      "name": "Need to Know Episode #5 — Roswell and Beyond",
+      "summary": "Bryce Zabel and Ross Coulthart trace the emergence of modern UFO history from World War II foo fighter reports and the 1946 Scandinavian ghost rockets through the flying-saucer wave of 1947 and the Roswell incident.",
+      "date": "2022-01-20",
+      "dateDisplay": "January 20, 2022",
+      "status": "Published"
+    },
+    {
+      "id": "2022-need-to-know-episode-6",
+      "type": "podcast_episode",
+      "name": "Need to Know Episode #6 — Take Me to Your Leader",
+      "summary": "Ross Coulthart and Bryce Zabel explore the relationship between the United States presidency and the UFO/UAP issue, asking what presidents may have been told and what presidential leadership could mean for disclosure.",
+      "date": "2022-02-03",
+      "dateDisplay": "February 3, 2022",
+      "status": "Published"
+    },
+    {
       "id": "2023-weaponized-episode-1",
       "type": "podcast_episode",
       "name": "WEAPONIZED Episode #1 — Launching WEAPONIZED — A New Consensus Reality",
@@ -5916,6 +6099,46 @@
       "summary": "Ross Coulthart and Bryce Zabel launch Need to Know with a year-in-review discussion of the UFO/UAP news and research developments they considered most significant in 2021.",
       "date": "2021-12-16",
       "dateDisplay": "December 16, 2021"
+    },
+    {
+      "id": "timeline-2021-12-16-need-to-know-episode-2",
+      "type": "timeline_event",
+      "name": "Need to Know Episode #2 published",
+      "summary": "Ross Coulthart and Bryce Zabel assess the momentum created by UAP developments in 2021 and outline the reporting, government action, and unanswered questions they expected to shape 2022.",
+      "date": "2021-12-16",
+      "dateDisplay": "December 16, 2021"
+    },
+    {
+      "id": "timeline-2021-12-27-need-to-know-episode-3",
+      "type": "timeline_event",
+      "name": "Need to Know Episode #3 published",
+      "summary": "Ross Coulthart and Bryce Zabel discuss the newly signed fiscal-year 2022 defense authorization law and the bipartisan congressional support behind stronger UAP research, reporting, and oversight.",
+      "date": "2021-12-27",
+      "dateDisplay": "December 27, 2021"
+    },
+    {
+      "id": "timeline-2022-01-04-need-to-know-episode-4",
+      "type": "timeline_event",
+      "name": "Need to Know Episode #4 published",
+      "summary": "Ross Coulthart and Bryce Zabel examine how major news organizations covered former senator Harry Reid’s death, focusing on whether his consequential role in advancing government UAP investigation was minimized or omitted.",
+      "date": "2022-01-04",
+      "dateDisplay": "January 4, 2022"
+    },
+    {
+      "id": "timeline-2022-01-20-need-to-know-episode-5",
+      "type": "timeline_event",
+      "name": "Need to Know Episode #5 published",
+      "summary": "Bryce Zabel and Ross Coulthart trace the emergence of modern UFO history from World War II foo fighter reports and the 1946 Scandinavian ghost rockets through the flying-saucer wave of 1947 and the Roswell incident.",
+      "date": "2022-01-20",
+      "dateDisplay": "January 20, 2022"
+    },
+    {
+      "id": "timeline-2022-02-03-need-to-know-episode-6",
+      "type": "timeline_event",
+      "name": "Need to Know Episode #6 published",
+      "summary": "Ross Coulthart and Bryce Zabel explore the relationship between the United States presidency and the UFO/UAP issue, asking what presidents may have been told and what presidential leadership could mean for disclosure.",
+      "date": "2022-02-03",
+      "dateDisplay": "February 3, 2022"
     },
     {
       "id": "timeline-1995-nids-science-advisory-board",

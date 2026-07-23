@@ -1,0 +1,90 @@
+{
+  "id": "2022-need-to-know-episode-5",
+  "type": "podcast_episode",
+  "name": "Need to Know Episode #5 — Roswell and Beyond",
+  "summary": "Bryce Zabel and Ross Coulthart trace the emergence of modern UFO history from World War II foo fighter reports and the 1946 Scandinavian ghost rockets through the flying-saucer wave of 1947 and the Roswell incident.",
+  "date": "2022-01-20",
+  "dateDisplay": "January 20, 2022",
+  "seriesId": "need-to-know-podcast",
+  "episodeNumber": 5,
+  "episodeTitle": "Roswell and Beyond",
+  "status": "Published",
+  "mediaType": "Podcast episode",
+  "mediaPlatform": "Need to Know",
+  "mediaHost": "Ross Coulthart and Bryce Zabel",
+  "mediaGuests": [],
+  "mediaSubjects": [],
+  "principalClaims": [
+    "claim-need-to-know-5-1",
+    "claim-need-to-know-5-2",
+    "claim-need-to-know-5-3",
+    "claim-need-to-know-5-4"
+  ],
+  "researchNotes": [],
+  "relationships": [
+    {
+      "type": "episode_of",
+      "target": "need-to-know-podcast"
+    },
+    {
+      "type": "features_person",
+      "target": "ross-coulthart",
+      "role": "host",
+      "context": "Need to Know co-host"
+    },
+    {
+      "type": "features_person",
+      "target": "bryce-zabel",
+      "role": "host",
+      "context": "Need to Know co-host"
+    },
+    {
+      "type": "references_case",
+      "target": "world-war-ii-foo-fighters"
+    },
+    {
+      "type": "references_case",
+      "target": "1946-scandinavian-ghost-rockets"
+    },
+    {
+      "type": "references_case",
+      "target": "roswell-incident"
+    },
+    {
+      "type": "discussed_topic",
+      "target": "scientific-investigation"
+    },
+    {
+      "type": "discussed_topic",
+      "target": "media-coverage"
+    }
+  ],
+  "mediaLinks": [
+    {
+      "label": "Watch Need to Know Episode #5 on YouTube",
+      "url": "https://www.youtube.com/watch?v=bsOiS6rsoEM",
+      "platform": "YouTube"
+    },
+    {
+      "label": "Watch the official Need to Know collection",
+      "url": "https://www.youtube.com/playlist?list=PLXdU8QbJkboeMcvUNyGpb9h6FUS9cVBti",
+      "platform": "YouTube"
+    }
+  ],
+  "eventCategory": "Podcast publication",
+  "officialLinks": [],
+  "referenceSources": [
+    {
+      "label": "Official Need to Know Episode 5 video — Roswell and Beyond",
+      "url": "https://www.youtube.com/watch?v=bsOiS6rsoEM",
+      "sourceType": "official_episode_video",
+      "role": "source"
+    },
+    {
+      "label": "Need to Know official YouTube collection",
+      "url": "https://www.youtube.com/playlist?list=PLXdU8QbJkboeMcvUNyGpb9h6FUS9cVBti",
+      "sourceType": "official_video_collection",
+      "role": "source"
+    }
+  ]
+}

@@ -1,0 +1,86 @@
+{
+  "id": "2021-need-to-know-episode-2",
+  "type": "podcast_episode",
+  "name": "Need to Know Episode #2 — The Year Ahead",
+  "summary": "Ross Coulthart and Bryce Zabel assess the momentum created by UAP developments in 2021 and outline the reporting, government action, and unanswered questions they expected to shape 2022.",
+  "date": "2021-12-16",
+  "dateDisplay": "December 16, 2021",
+  "seriesId": "need-to-know-podcast",
+  "episodeNumber": 2,
+  "episodeTitle": "The Year Ahead",
+  "status": "Published",
+  "mediaType": "Podcast episode",
+  "mediaPlatform": "Need to Know",
+  "mediaHost": "Ross Coulthart and Bryce Zabel",
+  "mediaGuests": [],
+  "mediaSubjects": [],
+  "principalClaims": [
+    "claim-need-to-know-2-1",
+    "claim-need-to-know-2-2",
+    "claim-need-to-know-2-3",
+    "claim-need-to-know-2-4"
+  ],
+  "researchNotes": [],
+  "relationships": [
+    {
+      "type": "episode_of",
+      "target": "need-to-know-podcast"
+    },
+    {
+      "type": "features_person",
+      "target": "ross-coulthart",
+      "role": "host",
+      "context": "Need to Know co-host"
+    },
+    {
+      "type": "features_person",
+      "target": "bryce-zabel",
+      "role": "host",
+      "context": "Need to Know co-host"
+    },
+    {
+      "type": "discussed_topic",
+      "target": "uap-transparency"
+    },
+    {
+      "type": "discussed_topic",
+      "target": "government-transparency"
+    },
+    {
+      "type": "discussed_topic",
+      "target": "scientific-investigation"
+    },
+    {
+      "type": "discussed_topic",
+      "target": "public-disclosure"
+    }
+  ],
+  "mediaLinks": [
+    {
+      "label": "Watch Need to Know Episode #2 on YouTube",
+      "url": "https://www.youtube.com/watch?v=bVIZO5zTNEY",
+      "platform": "YouTube"
+    },
+    {
+      "label": "Watch the official Need to Know collection",
+      "url": "https://www.youtube.com/playlist?list=PLXdU8QbJkboeMcvUNyGpb9h6FUS9cVBti",
+      "platform": "YouTube"
+    }
+  ],
+  "eventCategory": "Podcast publication",
+  "officialLinks": [],
+  "referenceSources": [
+    {
+      "label": "Official Need to Know Episode 2 video — The Year Ahead",
+      "url": "https://www.youtube.com/watch?v=bVIZO5zTNEY",
+      "sourceType": "official_episode_video",
+      "role": "source"
+    },
+    {
+      "label": "Need to Know official YouTube collection",
+      "url": "https://www.youtube.com/playlist?list=PLXdU8QbJkboeMcvUNyGpb9h6FUS9cVBti",
+      "sourceType": "official_video_collection",
+      "role": "source"
+    }
+  ]
+}

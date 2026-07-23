@@ -1,0 +1,90 @@
+{
+  "id": "2022-need-to-know-episode-4",
+  "type": "podcast_episode",
+  "name": "Need to Know Episode #4 — Media Coverage of Harry Reid’s Death",
+  "summary": "Ross Coulthart and Bryce Zabel examine how major news organizations covered former senator Harry Reid’s death, focusing on whether his consequential role in advancing government UAP investigation was minimized or omitted.",
+  "date": "2022-01-04",
+  "dateDisplay": "January 4, 2022",
+  "seriesId": "need-to-know-podcast",
+  "episodeNumber": 4,
+  "episodeTitle": "Media Coverage of Harry Reid’s Death",
+  "status": "Published",
+  "mediaType": "Podcast episode",
+  "mediaPlatform": "Need to Know",
+  "mediaHost": "Ross Coulthart and Bryce Zabel",
+  "mediaGuests": [],
+  "mediaSubjects": [
+    "Harry Reid"
+  ],
+  "principalClaims": [
+    "claim-need-to-know-4-1",
+    "claim-need-to-know-4-2",
+    "claim-need-to-know-4-3",
+    "claim-need-to-know-4-4"
+  ],
+  "researchNotes": [],
+  "relationships": [
+    {
+      "type": "episode_of",
+      "target": "need-to-know-podcast"
+    },
+    {
+      "type": "features_person",
+      "target": "ross-coulthart",
+      "role": "host",
+      "context": "Need to Know co-host"
+    },
+    {
+      "type": "features_person",
+      "target": "bryce-zabel",
+      "role": "host",
+      "context": "Need to Know co-host"
+    },
+    {
+      "type": "features_person",
+      "target": "harry-reid",
+      "role": "subject",
+      "context": "Assessment of media coverage following Reid’s death"
+    },
+    {
+      "type": "discussed_topic",
+      "target": "media-coverage"
+    },
+    {
+      "type": "discussed_topic",
+      "target": "government-transparency"
+    },
+    {
+      "type": "discussed_topic",
+      "target": "congressional-oversight"
+    }
+  ],
+  "mediaLinks": [
+    {
+      "label": "Watch Need to Know Episode #4 on YouTube",
+      "url": "https://www.youtube.com/watch?v=e962GK3qK9w",
+      "platform": "YouTube"
+    },
+    {
+      "label": "Watch the official Need to Know collection",
+      "url": "https://www.youtube.com/playlist?list=PLXdU8QbJkboeMcvUNyGpb9h6FUS9cVBti",
+      "platform": "YouTube"
+    }
+  ],
+  "eventCategory": "Podcast publication",
+  "officialLinks": [],
+  "referenceSources": [
+    {
+      "label": "Official Need to Know Episode 4 video — Media Coverage of Harry Reid’s Death",
+      "url": "https://www.youtube.com/watch?v=e962GK3qK9w",
+      "sourceType": "official_episode_video",
+      "role": "source"
+    },
+    {
+      "label": "Need to Know official YouTube collection",
+      "url": "https://www.youtube.com/playlist?list=PLXdU8QbJkboeMcvUNyGpb9h6FUS9cVBti",
+      "sourceType": "official_video_collection",
+      "role": "source"
+    }
+  ]
+}

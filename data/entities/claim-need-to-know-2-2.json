@@ -1,0 +1,27 @@
+{
+  "id": "claim-need-to-know-2-2",
+  "type": "claim",
+  "name": "The episode argues that government transparency and sustained journalism would be central to UAP developments in 2022.",
+  "summary": "Claim or editorial framing presented in Need to Know Episode #2.",
+  "relationships": [
+    {
+      "type": "featured_in_media",
+      "target": "2021-need-to-know-episode-2"
+    }
+  ],
+  "officialLinks": [],
+  "referenceSources": [
+    {
+      "label": "Official Need to Know Episode 2 video — The Year Ahead",
+      "url": "https://www.youtube.com/watch?v=bVIZO5zTNEY",
+      "sourceType": "official_episode_video",
+      "role": "source"
+    },
+    {
+      "label": "Need to Know official YouTube collection",
+      "url": "https://www.youtube.com/playlist?list=PLXdU8QbJkboeMcvUNyGpb9h6FUS9cVBti",
+      "sourceType": "official_video_collection",
+      "role": "source"
+    }
+  ]
+}

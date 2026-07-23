@@ -1,0 +1,90 @@
+{
+  "id": "2021-need-to-know-episode-3",
+  "type": "podcast_episode",
+  "name": "Need to Know Episode #3 — Bipartisan Support for UAP Research",
+  "summary": "Ross Coulthart and Bryce Zabel discuss the newly signed fiscal-year 2022 defense authorization law and the bipartisan congressional support behind stronger UAP research, reporting, and oversight.",
+  "date": "2021-12-27",
+  "dateDisplay": "December 27, 2021",
+  "seriesId": "need-to-know-podcast",
+  "episodeNumber": 3,
+  "episodeTitle": "Bipartisan Support for UAP Research",
+  "status": "Published",
+  "mediaType": "Podcast episode",
+  "mediaPlatform": "Need to Know",
+  "mediaHost": "Ross Coulthart and Bryce Zabel",
+  "mediaGuests": [],
+  "mediaSubjects": [],
+  "principalClaims": [
+    "claim-need-to-know-3-1",
+    "claim-need-to-know-3-2",
+    "claim-need-to-know-3-3",
+    "claim-need-to-know-3-4"
+  ],
+  "researchNotes": [],
+  "relationships": [
+    {
+      "type": "episode_of",
+      "target": "need-to-know-podcast"
+    },
+    {
+      "type": "features_person",
+      "target": "ross-coulthart",
+      "role": "host",
+      "context": "Need to Know co-host"
+    },
+    {
+      "type": "features_person",
+      "target": "bryce-zabel",
+      "role": "host",
+      "context": "Need to Know co-host"
+    },
+    {
+      "type": "discussed_topic",
+      "target": "uap-disclosure-legislation"
+    },
+    {
+      "type": "discussed_topic",
+      "target": "congressional-oversight"
+    },
+    {
+      "type": "discussed_topic",
+      "target": "government-transparency"
+    },
+    {
+      "type": "references_publication",
+      "target": "national-defense-authorization-act-fy2022"
+    },
+    {
+      "type": "references_organization",
+      "target": "united-states-congress"
+    }
+  ],
+  "mediaLinks": [
+    {
+      "label": "Watch Need to Know Episode #3 on YouTube",
+      "url": "https://www.youtube.com/watch?v=wF_8gBlUZhY",
+      "platform": "YouTube"
+    },
+    {
+      "label": "Watch the official Need to Know collection",
+      "url": "https://www.youtube.com/playlist?list=PLXdU8QbJkboeMcvUNyGpb9h6FUS9cVBti",
+      "platform": "YouTube"
+    }
+  ],
+  "eventCategory": "Podcast publication",
+  "officialLinks": [],
+  "referenceSources": [
+    {
+      "label": "Official Need to Know Episode 3 video — Bipartisan Support for UAP Research",
+      "url": "https://www.youtube.com/watch?v=wF_8gBlUZhY",
+      "sourceType": "official_episode_video",
+      "role": "source"
+    },
+    {
+      "label": "Need to Know official YouTube collection",
+      "url": "https://www.youtube.com/playlist?list=PLXdU8QbJkboeMcvUNyGpb9h6FUS9cVBti",
+      "sourceType": "official_video_collection",
+      "role": "source"
+    }
+  ]
+}

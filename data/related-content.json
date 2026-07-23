@@ -1,8 +1,18 @@
 {
   "schemaVersion": 1,
   "generatedBy": "tools/build_related_content.py",
-  "generatedAt": "2026-07-23T01:17:56.766214+00:00",
+  "generatedAt": "2026-07-23T01:59:49.262660+00:00",
   "referencedIn": {
+    "1946-scandinavian-ghost-rockets": [
+      {
+        "id": "2022-need-to-know-episode-5",
+        "type": "podcast_episode",
+        "name": "Need to Know Episode #5 — Roswell and Beyond",
+        "relationshipType": "references_case",
+        "role": "",
+        "context": ""
+      }
+    ],
     "1960s-area-51-engine-claim": [
       {
         "id": "claim-area-51-alien-engine",
@@ -631,6 +641,90 @@
         "context": ""
       }
     ],
+    "2021-need-to-know-episode-2": [
+      {
+        "id": "claim-need-to-know-2-4",
+        "type": "claim",
+        "name": "The discussion presents 2022 as a test of whether institutional momentum would produce meaningful public answers.",
+        "relationshipType": "featured_in_media",
+        "role": "",
+        "context": ""
+      },
+      {
+        "id": "claim-need-to-know-2-2",
+        "type": "claim",
+        "name": "The episode argues that government transparency and sustained journalism would be central to UAP developments in 2022.",
+        "relationshipType": "featured_in_media",
+        "role": "",
+        "context": ""
+      },
+      {
+        "id": "claim-need-to-know-2-1",
+        "type": "claim",
+        "name": "The hosts characterize 2021 as the most consequential year for public UAP progress since 2017.",
+        "relationshipType": "featured_in_media",
+        "role": "",
+        "context": ""
+      },
+      {
+        "id": "claim-need-to-know-2-3",
+        "type": "claim",
+        "name": "The hosts identify continued scientific investigation as necessary to move the subject beyond speculation.",
+        "relationshipType": "featured_in_media",
+        "role": "",
+        "context": ""
+      },
+      {
+        "id": "timeline-2021-12-16-need-to-know-episode-2",
+        "type": "timeline_event",
+        "name": "Need to Know Episode #2 published",
+        "relationshipType": "event_for",
+        "role": "",
+        "context": ""
+      }
+    ],
+    "2021-need-to-know-episode-3": [
+      {
+        "id": "claim-need-to-know-3-4",
+        "type": "claim",
+        "name": "The discussion treats legislation as a concrete step toward greater public transparency rather than a complete resolution of the issue.",
+        "relationshipType": "featured_in_media",
+        "role": "",
+        "context": ""
+      },
+      {
+        "id": "claim-need-to-know-3-1",
+        "type": "claim",
+        "name": "The episode presents UAP investigation as an issue capable of attracting bipartisan congressional support.",
+        "relationshipType": "featured_in_media",
+        "role": "",
+        "context": ""
+      },
+      {
+        "id": "claim-need-to-know-3-2",
+        "type": "claim",
+        "name": "The fiscal-year 2022 defense authorization law is described as creating a stronger statutory basis for organized UAP research and reporting.",
+        "relationshipType": "featured_in_media",
+        "role": "",
+        "context": ""
+      },
+      {
+        "id": "claim-need-to-know-3-3",
+        "type": "claim",
+        "name": "The hosts argue that congressional oversight is important for sustaining accountability within the executive branch.",
+        "relationshipType": "featured_in_media",
+        "role": "",
+        "context": ""
+      },
+      {
+        "id": "timeline-2021-12-27-need-to-know-episode-3",
+        "type": "timeline_event",
+        "name": "Need to Know Episode #3 published",
+        "relationshipType": "event_for",
+        "role": "",
+        "context": ""
+      }
+    ],
     "2022-05-03-house-intelligence-classified-uap-briefing": [
       {
         "id": "ronald-moultrie",
@@ -684,6 +778,132 @@
       }
     ],
     "2022-house-uap-hearing-transcript": [],
+    "2022-need-to-know-episode-4": [
+      {
+        "id": "claim-need-to-know-4-3",
+        "type": "claim",
+        "name": "The discussion criticizes media coverage that frames the UAP subject primarily through ridicule or omission.",
+        "relationshipType": "featured_in_media",
+        "role": "",
+        "context": ""
+      },
+      {
+        "id": "claim-need-to-know-4-2",
+        "type": "claim",
+        "name": "The episode treats Reid’s support for classified and congressional UAP inquiry as an important part of his public legacy.",
+        "relationshipType": "featured_in_media",
+        "role": "",
+        "context": ""
+      },
+      {
+        "id": "claim-need-to-know-4-1",
+        "type": "claim",
+        "name": "The hosts argue that many obituaries underplayed Harry Reid’s role in advancing government investigation of UAP.",
+        "relationshipType": "featured_in_media",
+        "role": "",
+        "context": ""
+      },
+      {
+        "id": "claim-need-to-know-4-4",
+        "type": "claim",
+        "name": "The hosts present accurate historical context as essential to responsible coverage of government UAP programs.",
+        "relationshipType": "featured_in_media",
+        "role": "",
+        "context": ""
+      },
+      {
+        "id": "timeline-2022-01-04-need-to-know-episode-4",
+        "type": "timeline_event",
+        "name": "Need to Know Episode #4 published",
+        "relationshipType": "event_for",
+        "role": "",
+        "context": ""
+      }
+    ],
+    "2022-need-to-know-episode-5": [
+      {
+        "id": "claim-need-to-know-5-2",
+        "type": "claim",
+        "name": "The 1946 Scandinavian ghost rocket reports are presented as another major pre-1947 wave of unexplained aerial observations.",
+        "relationshipType": "featured_in_media",
+        "role": "",
+        "context": ""
+      },
+      {
+        "id": "claim-need-to-know-5-1",
+        "type": "claim",
+        "name": "The episode places World War II foo fighter reports among the important precursors to the modern UFO era.",
+        "relationshipType": "featured_in_media",
+        "role": "",
+        "context": ""
+      },
+      {
+        "id": "claim-need-to-know-5-3",
+        "type": "claim",
+        "name": "The hosts identify 1947 as the seminal year in which the modern flying-saucer phenomenon entered public consciousness.",
+        "relationshipType": "featured_in_media",
+        "role": "",
+        "context": ""
+      },
+      {
+        "id": "claim-need-to-know-5-4",
+        "type": "claim",
+        "name": "The Roswell incident is discussed within the broader historical context of the 1947 wave rather than as an isolated event.",
+        "relationshipType": "featured_in_media",
+        "role": "",
+        "context": ""
+      },
+      {
+        "id": "timeline-2022-01-20-need-to-know-episode-5",
+        "type": "timeline_event",
+        "name": "Need to Know Episode #5 published",
+        "relationshipType": "event_for",
+        "role": "",
+        "context": ""
+      }
+    ],
+    "2022-need-to-know-episode-6": [
+      {
+        "id": "claim-need-to-know-6-3",
+        "type": "claim",
+        "name": "The discussion distinguishes public presidential statements from the deeper question of what presidents may learn in classified settings.",
+        "relationshipType": "featured_in_media",
+        "role": "",
+        "context": ""
+      },
+      {
+        "id": "claim-need-to-know-6-1",
+        "type": "claim",
+        "name": "The episode examines whether U.S. presidents receive meaningful access to classified information concerning UAP.",
+        "relationshipType": "featured_in_media",
+        "role": "",
+        "context": ""
+      },
+      {
+        "id": "claim-need-to-know-6-4",
+        "type": "claim",
+        "name": "The episode frames executive leadership and government transparency as closely connected elements of the UAP issue.",
+        "relationshipType": "featured_in_media",
+        "role": "",
+        "context": ""
+      },
+      {
+        "id": "claim-need-to-know-6-2",
+        "type": "claim",
+        "name": "The hosts argue that presidential authority could be decisive in overcoming institutional barriers to disclosure.",
+        "relationshipType": "featured_in_media",
+        "role": "",
+        "context": ""
+      },
+      {
+        "id": "timeline-2022-02-03-need-to-know-episode-6",
+        "type": "timeline_event",
+        "name": "Need to Know Episode #6 published",
+        "relationshipType": "event_for",
+        "role": "",
+        "context": ""
+      }
+    ],
     "2023-04-19-senate-aaro-oversight": [
       {
         "id": "sean-kirkpatrick",
@@ -7217,6 +7437,46 @@
         "context": "Need to Know co-host"
       },
       {
+        "id": "2021-need-to-know-episode-2",
+        "type": "podcast_episode",
+        "name": "Need to Know Episode #2 — The Year Ahead",
+        "relationshipType": "features_person",
+        "role": "host",
+        "context": "Need to Know co-host"
+      },
+      {
+        "id": "2021-need-to-know-episode-3",
+        "type": "podcast_episode",
+        "name": "Need to Know Episode #3 — Bipartisan Support for UAP Research",
+        "relationshipType": "features_person",
+        "role": "host",
+        "context": "Need to Know co-host"
+      },
+      {
+        "id": "2022-need-to-know-episode-4",
+        "type": "podcast_episode",
+        "name": "Need to Know Episode #4 — Media Coverage of Harry Reid’s Death",
+        "relationshipType": "features_person",
+        "role": "host",
+        "context": "Need to Know co-host"
+      },
+      {
+        "id": "2022-need-to-know-episode-5",
+        "type": "podcast_episode",
+        "name": "Need to Know Episode #5 — Roswell and Beyond",
+        "relationshipType": "features_person",
+        "role": "host",
+        "context": "Need to Know co-host"
+      },
+      {
+        "id": "2022-need-to-know-episode-6",
+        "type": "podcast_episode",
+        "name": "Need to Know Episode #6 — Take Me to Your Leader",
+        "relationshipType": "features_person",
+        "role": "host",
+        "context": "Need to Know co-host"
+      },
+      {
         "id": "2023-weaponized-episode-28",
         "type": "podcast_episode",
         "name": "WEAPONIZED Episode #28 — Congressional Hearing Roundtable",
@@ -8086,6 +8346,26 @@
     "claim-need-to-know-1-2": [],
     "claim-need-to-know-1-3": [],
     "claim-need-to-know-1-4": [],
+    "claim-need-to-know-2-1": [],
+    "claim-need-to-know-2-2": [],
+    "claim-need-to-know-2-3": [],
+    "claim-need-to-know-2-4": [],
+    "claim-need-to-know-3-1": [],
+    "claim-need-to-know-3-2": [],
+    "claim-need-to-know-3-3": [],
+    "claim-need-to-know-3-4": [],
+    "claim-need-to-know-4-1": [],
+    "claim-need-to-know-4-2": [],
+    "claim-need-to-know-4-3": [],
+    "claim-need-to-know-4-4": [],
+    "claim-need-to-know-5-1": [],
+    "claim-need-to-know-5-2": [],
+    "claim-need-to-know-5-3": [],
+    "claim-need-to-know-5-4": [],
+    "claim-need-to-know-6-1": [],
+    "claim-need-to-know-6-2": [],
+    "claim-need-to-know-6-3": [],
+    "claim-need-to-know-6-4": [],
     "claim-new-firsthand-witnesses-were-located-after-years-of-investigation": [],
     "claim-new-jersey-drone-operator-unidentified": [],
     "claim-nids-recorded-corso-interviews": [],
@@ -9062,6 +9342,22 @@
         "id": "2024-12-06-house-classified-aaro-briefing",
         "type": "hearing",
         "name": "December 6, 2024 Classified AARO Briefing",
+        "relationshipType": "discussed_topic",
+        "role": "",
+        "context": ""
+      },
+      {
+        "id": "2021-need-to-know-episode-3",
+        "type": "podcast_episode",
+        "name": "Need to Know Episode #3 — Bipartisan Support for UAP Research",
+        "relationshipType": "discussed_topic",
+        "role": "",
+        "context": ""
+      },
+      {
+        "id": "2022-need-to-know-episode-4",
+        "type": "podcast_episode",
+        "name": "Need to Know Episode #4 — Media Coverage of Harry Reid’s Death",
         "relationshipType": "discussed_topic",
         "role": "",
         "context": ""
@@ -12151,6 +12447,38 @@
         "context": ""
       },
       {
+        "id": "2021-need-to-know-episode-2",
+        "type": "podcast_episode",
+        "name": "Need to Know Episode #2 — The Year Ahead",
+        "relationshipType": "discussed_topic",
+        "role": "",
+        "context": ""
+      },
+      {
+        "id": "2021-need-to-know-episode-3",
+        "type": "podcast_episode",
+        "name": "Need to Know Episode #3 — Bipartisan Support for UAP Research",
+        "relationshipType": "discussed_topic",
+        "role": "",
+        "context": ""
+      },
+      {
+        "id": "2022-need-to-know-episode-4",
+        "type": "podcast_episode",
+        "name": "Need to Know Episode #4 — Media Coverage of Harry Reid’s Death",
+        "relationshipType": "discussed_topic",
+        "role": "",
+        "context": ""
+      },
+      {
+        "id": "2022-need-to-know-episode-6",
+        "type": "podcast_episode",
+        "name": "Need to Know Episode #6 — Take Me to Your Leader",
+        "relationshipType": "discussed_topic",
+        "role": "",
+        "context": ""
+      },
+      {
         "id": "2025-weaponized-episode-101",
         "type": "podcast_episode",
         "name": "WEAPONIZED Episode #101 — Congressional UAP Champions on What Comes Next",
@@ -12612,6 +12940,14 @@
     "harald-malmgren": [],
     "harold-brown": [],
     "harry-reid": [
+      {
+        "id": "2022-need-to-know-episode-4",
+        "type": "podcast_episode",
+        "name": "Need to Know Episode #4 — Media Coverage of Harry Reid’s Death",
+        "relationshipType": "features_person",
+        "role": "subject",
+        "context": "Assessment of media coverage following Reid’s death"
+      },
       {
         "id": "2023-weaponized-episode-26",
         "type": "podcast_episode",
@@ -15044,6 +15380,22 @@
     ],
     "media-coverage": [
       {
+        "id": "2022-need-to-know-episode-4",
+        "type": "podcast_episode",
+        "name": "Need to Know Episode #4 — Media Coverage of Harry Reid’s Death",
+        "relationshipType": "discussed_topic",
+        "role": "",
+        "context": ""
+      },
+      {
+        "id": "2022-need-to-know-episode-5",
+        "type": "podcast_episode",
+        "name": "Need to Know Episode #5 — Roswell and Beyond",
+        "relationshipType": "discussed_topic",
+        "role": "",
+        "context": ""
+      },
+      {
         "id": "2025-weaponized-episode-99",
         "type": "podcast_episode",
         "name": "WEAPONIZED Episode #99 — Is This a Pivotal Moment for UFO Disclosure?",
@@ -15424,6 +15776,16 @@
         "context": ""
       }
     ],
+    "national-defense-authorization-act-fy2022": [
+      {
+        "id": "2021-need-to-know-episode-3",
+        "type": "podcast_episode",
+        "name": "Need to Know Episode #3 — Bipartisan Support for UAP Research",
+        "relationshipType": "references_publication",
+        "role": "",
+        "context": ""
+      }
+    ],
     "national-institute-for-discovery-science": [
       {
         "id": "jacques-vallee",
@@ -15561,6 +15923,46 @@
         "id": "2021-need-to-know-episode-1",
         "type": "podcast_episode",
         "name": "Need to Know Episode #1 — 2021 Top Ten",
+        "relationshipType": "episode_of",
+        "role": "",
+        "context": ""
+      },
+      {
+        "id": "2021-need-to-know-episode-2",
+        "type": "podcast_episode",
+        "name": "Need to Know Episode #2 — The Year Ahead",
+        "relationshipType": "episode_of",
+        "role": "",
+        "context": ""
+      },
+      {
+        "id": "2021-need-to-know-episode-3",
+        "type": "podcast_episode",
+        "name": "Need to Know Episode #3 — Bipartisan Support for UAP Research",
+        "relationshipType": "episode_of",
+        "role": "",
+        "context": ""
+      },
+      {
+        "id": "2022-need-to-know-episode-4",
+        "type": "podcast_episode",
+        "name": "Need to Know Episode #4 — Media Coverage of Harry Reid’s Death",
+        "relationshipType": "episode_of",
+        "role": "",
+        "context": ""
+      },
+      {
+        "id": "2022-need-to-know-episode-5",
+        "type": "podcast_episode",
+        "name": "Need to Know Episode #5 — Roswell and Beyond",
+        "relationshipType": "episode_of",
+        "role": "",
+        "context": ""
+      },
+      {
+        "id": "2022-need-to-know-episode-6",
+        "type": "podcast_episode",
+        "name": "Need to Know Episode #6 — Take Me to Your Leader",
         "relationshipType": "episode_of",
         "role": "",
         "context": ""
@@ -15758,6 +16160,22 @@
       }
     ],
     "public-disclosure": [
+      {
+        "id": "2021-need-to-know-episode-2",
+        "type": "podcast_episode",
+        "name": "Need to Know Episode #2 — The Year Ahead",
+        "relationshipType": "discussed_topic",
+        "role": "",
+        "context": ""
+      },
+      {
+        "id": "2022-need-to-know-episode-6",
+        "type": "podcast_episode",
+        "name": "Need to Know Episode #6 — Take Me to Your Leader",
+        "relationshipType": "discussed_topic",
+        "role": "",
+        "context": ""
+      },
       {
         "id": "2026-weaponized-episode-114",
         "type": "podcast_episode",
@@ -16053,6 +16471,46 @@
         "context": "Need to Know co-host"
       },
       {
+        "id": "2021-need-to-know-episode-2",
+        "type": "podcast_episode",
+        "name": "Need to Know Episode #2 — The Year Ahead",
+        "relationshipType": "features_person",
+        "role": "host",
+        "context": "Need to Know co-host"
+      },
+      {
+        "id": "2021-need-to-know-episode-3",
+        "type": "podcast_episode",
+        "name": "Need to Know Episode #3 — Bipartisan Support for UAP Research",
+        "relationshipType": "features_person",
+        "role": "host",
+        "context": "Need to Know co-host"
+      },
+      {
+        "id": "2022-need-to-know-episode-4",
+        "type": "podcast_episode",
+        "name": "Need to Know Episode #4 — Media Coverage of Harry Reid’s Death",
+        "relationshipType": "features_person",
+        "role": "host",
+        "context": "Need to Know co-host"
+      },
+      {
+        "id": "2022-need-to-know-episode-5",
+        "type": "podcast_episode",
+        "name": "Need to Know Episode #5 — Roswell and Beyond",
+        "relationshipType": "features_person",
+        "role": "host",
+        "context": "Need to Know co-host"
+      },
+      {
+        "id": "2022-need-to-know-episode-6",
+        "type": "podcast_episode",
+        "name": "Need to Know Episode #6 — Take Me to Your Leader",
+        "relationshipType": "features_person",
+        "role": "host",
+        "context": "Need to Know co-host"
+      },
+      {
         "id": "2023-weaponized-episode-28",
         "type": "podcast_episode",
         "name": "WEAPONIZED Episode #28 — Congressional Hearing Roundtable",
@@ -16091,6 +16549,14 @@
         "type": "person",
         "name": "Philip J. Corso",
         "relationshipType": "reported_case",
+        "role": "",
+        "context": ""
+      },
+      {
+        "id": "2022-need-to-know-episode-5",
+        "type": "podcast_episode",
+        "name": "Need to Know Episode #5 — Roswell and Beyond",
+        "relationshipType": "references_case",
         "role": "",
         "context": ""
       },
@@ -16378,6 +16844,22 @@
     ],
     "scientific-investigation": [
       {
+        "id": "1946-scandinavian-ghost-rockets",
+        "type": "case",
+        "name": "1946 Scandinavian Ghost Rocket Reports",
+        "relationshipType": "discussed_topic",
+        "role": "",
+        "context": ""
+      },
+      {
+        "id": "world-war-ii-foo-fighters",
+        "type": "case",
+        "name": "World War II Foo Fighter Reports",
+        "relationshipType": "discussed_topic",
+        "role": "",
+        "context": ""
+      },
+      {
         "id": "claim-element-115-propulsion",
         "type": "claim",
         "name": "Bob Lazar claims that Element 115 powered the Sport Model craft",
@@ -16485,6 +16967,22 @@
         "id": "2021-need-to-know-episode-1",
         "type": "podcast_episode",
         "name": "Need to Know Episode #1 — 2021 Top Ten",
+        "relationshipType": "discussed_topic",
+        "role": "",
+        "context": ""
+      },
+      {
+        "id": "2021-need-to-know-episode-2",
+        "type": "podcast_episode",
+        "name": "Need to Know Episode #2 — The Year Ahead",
+        "relationshipType": "discussed_topic",
+        "role": "",
+        "context": ""
+      },
+      {
+        "id": "2022-need-to-know-episode-5",
+        "type": "podcast_episode",
+        "name": "Need to Know Episode #5 — Roswell and Beyond",
         "relationshipType": "discussed_topic",
         "role": "",
         "context": ""
@@ -17210,6 +17708,8 @@
     "timeline-2021-07-galileo-project-founded": [],
     "timeline-2021-10-30-elizondo-galileo-affiliate": [],
     "timeline-2021-12-16-need-to-know-episode-1": [],
+    "timeline-2021-12-16-need-to-know-episode-2": [],
+    "timeline-2021-12-27-need-to-know-episode-3": [],
     "timeline-2021-2022-karl-nell-uaptf-support": [
       {
         "id": "karl-nell",
@@ -17220,6 +17720,9 @@
         "context": "Served in an Army role supporting the UAP Task Force and related congressional engagement."
       }
     ],
+    "timeline-2022-01-04-need-to-know-episode-4": [],
+    "timeline-2022-01-20-need-to-know-episode-5": [],
+    "timeline-2022-02-03-need-to-know-episode-6": [],
     "timeline-2022-05-25-david-grusch-ppd19-complaint": [],
     "timeline-2022-07-20-kirkpatrick-named-aaro-director": [],
     "timeline-2023-01-23-weaponized-episode-1": [],
@@ -17573,6 +18076,14 @@
     ],
     "uap-disclosure-legislation": [
       {
+        "id": "national-defense-authorization-act-fy2022",
+        "type": "document",
+        "name": "National Defense Authorization Act for Fiscal Year 2022",
+        "relationshipType": "discussed_topic",
+        "role": "",
+        "context": ""
+      },
+      {
         "id": "2024-12-18-fy2025-ndaa-uap-provisions",
         "type": "hearing",
         "name": "December 18, 2024 FY2025 NDAA Action",
@@ -17600,6 +18111,14 @@
         "id": "2024-11-13-house-oversight-uap",
         "type": "hearing",
         "name": "November 13, 2024 House UAP Hearing",
+        "relationshipType": "discussed_topic",
+        "role": "",
+        "context": ""
+      },
+      {
+        "id": "2021-need-to-know-episode-3",
+        "type": "podcast_episode",
+        "name": "Need to Know Episode #3 — Bipartisan Support for UAP Research",
         "relationshipType": "discussed_topic",
         "role": "",
         "context": ""
@@ -18101,6 +18620,22 @@
         "context": ""
       },
       {
+        "id": "2021-need-to-know-episode-2",
+        "type": "podcast_episode",
+        "name": "Need to Know Episode #2 — The Year Ahead",
+        "relationshipType": "discussed_topic",
+        "role": "",
+        "context": ""
+      },
+      {
+        "id": "2022-need-to-know-episode-6",
+        "type": "podcast_episode",
+        "name": "Need to Know Episode #6 — Take Me to Your Leader",
+        "relationshipType": "discussed_topic",
+        "role": "",
+        "context": ""
+      },
+      {
         "id": "2023-weaponized-episode-1",
         "type": "podcast_episode",
         "name": "WEAPONIZED Episode #1 — Launching WEAPONIZED — A New Consensus Reality",
@@ -18504,6 +19039,22 @@
       }
     ],
     "united-states-congress": [
+      {
+        "id": "national-defense-authorization-act-fy2022",
+        "type": "document",
+        "name": "National Defense Authorization Act for Fiscal Year 2022",
+        "relationshipType": "published_by",
+        "role": "",
+        "context": ""
+      },
+      {
+        "id": "2021-need-to-know-episode-3",
+        "type": "podcast_episode",
+        "name": "Need to Know Episode #3 — Bipartisan Support for UAP Research",
+        "relationshipType": "references_organization",
+        "role": "",
+        "context": ""
+      },
       {
         "id": "2025-weaponized-episode-101",
         "type": "podcast_episode",
@@ -20486,6 +21037,14 @@
     ],
     "white-house": [
       {
+        "id": "2022-need-to-know-episode-6",
+        "type": "podcast_episode",
+        "name": "Need to Know Episode #6 — Take Me to Your Leader",
+        "relationshipType": "references_organization",
+        "role": "",
+        "context": ""
+      },
+      {
         "id": "2026-weaponized-episode-109",
         "type": "podcast_episode",
         "name": "WEAPONIZED Episode #109 — Bob Lazar in Austin, Syria UAP Debate, and Area 51 Access",
@@ -20531,10 +21090,485 @@
         "role": "",
         "context": ""
       }
+    ],
+    "world-war-ii-foo-fighters": [
+      {
+        "id": "2022-need-to-know-episode-5",
+        "type": "podcast_episode",
+        "name": "Need to Know Episode #5 — Roswell and Beyond",
+        "relationshipType": "references_case",
+        "role": "",
+        "context": ""
+      }
     ]
   },
   "relatedEpisodes": {
     "2021-need-to-know-episode-1": [
+      {
+        "id": "2021-need-to-know-episode-2",
+        "name": "Need to Know Episode #2 — The Year Ahead",
+        "seriesId": "need-to-know-podcast",
+        "date": "2021-12-16",
+        "sharedEntityIds": [
+          "bryce-zabel",
+          "government-transparency",
+          "ross-coulthart",
+          "scientific-investigation",
+          "uap-transparency"
+        ],
+        "sharedEntityCount": 5,
+        "score": 55
+      },
+      {
+        "id": "2022-need-to-know-episode-6",
+        "name": "Need to Know Episode #6 — Take Me to Your Leader",
+        "seriesId": "need-to-know-podcast",
+        "date": "2022-02-03",
+        "sharedEntityIds": [
+          "bryce-zabel",
+          "government-transparency",
+          "ross-coulthart",
+          "uap-transparency"
+        ],
+        "sharedEntityCount": 4,
+        "score": 45
+      },
+      {
+        "id": "2022-need-to-know-episode-5",
+        "name": "Need to Know Episode #5 — Roswell and Beyond",
+        "seriesId": "need-to-know-podcast",
+        "date": "2022-01-20",
+        "sharedEntityIds": [
+          "bryce-zabel",
+          "ross-coulthart",
+          "scientific-investigation"
+        ],
+        "sharedEntityCount": 3,
+        "score": 35
+      },
+      {
+        "id": "2022-need-to-know-episode-4",
+        "name": "Need to Know Episode #4 — Media Coverage of Harry Reid’s Death",
+        "seriesId": "need-to-know-podcast",
+        "date": "2022-01-04",
+        "sharedEntityIds": [
+          "bryce-zabel",
+          "government-transparency",
+          "ross-coulthart"
+        ],
+        "sharedEntityCount": 3,
+        "score": 35
+      },
+      {
+        "id": "2021-need-to-know-episode-3",
+        "name": "Need to Know Episode #3 — Bipartisan Support for UAP Research",
+        "seriesId": "need-to-know-podcast",
+        "date": "2021-12-27",
+        "sharedEntityIds": [
+          "bryce-zabel",
+          "government-transparency",
+          "ross-coulthart"
+        ],
+        "sharedEntityCount": 3,
+        "score": 35
+      },
+      {
+        "id": "2024-weaponized-episode-52",
+        "name": "WEAPONIZED Episode #52 — Season Finale and AARO Historical Report Review",
+        "seriesId": "weaponized-podcast",
+        "date": "2024-03-13",
+        "sharedEntityIds": [
+          "bryce-zabel",
+          "government-transparency",
+          "ross-coulthart"
+        ],
+        "sharedEntityCount": 3,
+        "score": 30
+      }
+    ],
+    "2021-need-to-know-episode-2": [
+      {
+        "id": "2022-need-to-know-episode-6",
+        "name": "Need to Know Episode #6 — Take Me to Your Leader",
+        "seriesId": "need-to-know-podcast",
+        "date": "2022-02-03",
+        "sharedEntityIds": [
+          "bryce-zabel",
+          "government-transparency",
+          "public-disclosure",
+          "ross-coulthart",
+          "uap-transparency"
+        ],
+        "sharedEntityCount": 5,
+        "score": 55
+      },
+      {
+        "id": "2021-need-to-know-episode-1",
+        "name": "Need to Know Episode #1 — 2021 Top Ten",
+        "seriesId": "need-to-know-podcast",
+        "date": "2021-12-16",
+        "sharedEntityIds": [
+          "bryce-zabel",
+          "government-transparency",
+          "ross-coulthart",
+          "scientific-investigation",
+          "uap-transparency"
+        ],
+        "sharedEntityCount": 5,
+        "score": 55
+      },
+      {
+        "id": "2022-need-to-know-episode-5",
+        "name": "Need to Know Episode #5 — Roswell and Beyond",
+        "seriesId": "need-to-know-podcast",
+        "date": "2022-01-20",
+        "sharedEntityIds": [
+          "bryce-zabel",
+          "ross-coulthart",
+          "scientific-investigation"
+        ],
+        "sharedEntityCount": 3,
+        "score": 35
+      },
+      {
+        "id": "2022-need-to-know-episode-4",
+        "name": "Need to Know Episode #4 — Media Coverage of Harry Reid’s Death",
+        "seriesId": "need-to-know-podcast",
+        "date": "2022-01-04",
+        "sharedEntityIds": [
+          "bryce-zabel",
+          "government-transparency",
+          "ross-coulthart"
+        ],
+        "sharedEntityCount": 3,
+        "score": 35
+      },
+      {
+        "id": "2021-need-to-know-episode-3",
+        "name": "Need to Know Episode #3 — Bipartisan Support for UAP Research",
+        "seriesId": "need-to-know-podcast",
+        "date": "2021-12-27",
+        "sharedEntityIds": [
+          "bryce-zabel",
+          "government-transparency",
+          "ross-coulthart"
+        ],
+        "sharedEntityCount": 3,
+        "score": 35
+      },
+      {
+        "id": "2024-weaponized-episode-52",
+        "name": "WEAPONIZED Episode #52 — Season Finale and AARO Historical Report Review",
+        "seriesId": "weaponized-podcast",
+        "date": "2024-03-13",
+        "sharedEntityIds": [
+          "bryce-zabel",
+          "government-transparency",
+          "ross-coulthart"
+        ],
+        "sharedEntityCount": 3,
+        "score": 30
+      }
+    ],
+    "2021-need-to-know-episode-3": [
+      {
+        "id": "2022-need-to-know-episode-4",
+        "name": "Need to Know Episode #4 — Media Coverage of Harry Reid’s Death",
+        "seriesId": "need-to-know-podcast",
+        "date": "2022-01-04",
+        "sharedEntityIds": [
+          "bryce-zabel",
+          "congressional-oversight",
+          "government-transparency",
+          "ross-coulthart"
+        ],
+        "sharedEntityCount": 4,
+        "score": 45
+      },
+      {
+        "id": "2024-weaponized-episode-52",
+        "name": "WEAPONIZED Episode #52 — Season Finale and AARO Historical Report Review",
+        "seriesId": "weaponized-podcast",
+        "date": "2024-03-13",
+        "sharedEntityIds": [
+          "bryce-zabel",
+          "congressional-oversight",
+          "government-transparency",
+          "ross-coulthart"
+        ],
+        "sharedEntityCount": 4,
+        "score": 40
+      },
+      {
+        "id": "2023-weaponized-episode-28",
+        "name": "WEAPONIZED Episode #28 — Congressional Hearing Roundtable",
+        "seriesId": "weaponized-podcast",
+        "date": "2023-07-31",
+        "sharedEntityIds": [
+          "bryce-zabel",
+          "congressional-oversight",
+          "government-transparency",
+          "ross-coulthart"
+        ],
+        "sharedEntityCount": 4,
+        "score": 40
+      },
+      {
+        "id": "2022-need-to-know-episode-6",
+        "name": "Need to Know Episode #6 — Take Me to Your Leader",
+        "seriesId": "need-to-know-podcast",
+        "date": "2022-02-03",
+        "sharedEntityIds": [
+          "bryce-zabel",
+          "government-transparency",
+          "ross-coulthart"
+        ],
+        "sharedEntityCount": 3,
+        "score": 35
+      },
+      {
+        "id": "2021-need-to-know-episode-2",
+        "name": "Need to Know Episode #2 — The Year Ahead",
+        "seriesId": "need-to-know-podcast",
+        "date": "2021-12-16",
+        "sharedEntityIds": [
+          "bryce-zabel",
+          "government-transparency",
+          "ross-coulthart"
+        ],
+        "sharedEntityCount": 3,
+        "score": 35
+      },
+      {
+        "id": "2021-need-to-know-episode-1",
+        "name": "Need to Know Episode #1 — 2021 Top Ten",
+        "seriesId": "need-to-know-podcast",
+        "date": "2021-12-16",
+        "sharedEntityIds": [
+          "bryce-zabel",
+          "government-transparency",
+          "ross-coulthart"
+        ],
+        "sharedEntityCount": 3,
+        "score": 35
+      }
+    ],
+    "2022-need-to-know-episode-4": [
+      {
+        "id": "2021-need-to-know-episode-3",
+        "name": "Need to Know Episode #3 — Bipartisan Support for UAP Research",
+        "seriesId": "need-to-know-podcast",
+        "date": "2021-12-27",
+        "sharedEntityIds": [
+          "bryce-zabel",
+          "congressional-oversight",
+          "government-transparency",
+          "ross-coulthart"
+        ],
+        "sharedEntityCount": 4,
+        "score": 45
+      },
+      {
+        "id": "2024-weaponized-episode-52",
+        "name": "WEAPONIZED Episode #52 — Season Finale and AARO Historical Report Review",
+        "seriesId": "weaponized-podcast",
+        "date": "2024-03-13",
+        "sharedEntityIds": [
+          "bryce-zabel",
+          "congressional-oversight",
+          "government-transparency",
+          "ross-coulthart"
+        ],
+        "sharedEntityCount": 4,
+        "score": 40
+      },
+      {
+        "id": "2023-weaponized-episode-28",
+        "name": "WEAPONIZED Episode #28 — Congressional Hearing Roundtable",
+        "seriesId": "weaponized-podcast",
+        "date": "2023-07-31",
+        "sharedEntityIds": [
+          "bryce-zabel",
+          "congressional-oversight",
+          "government-transparency",
+          "ross-coulthart"
+        ],
+        "sharedEntityCount": 4,
+        "score": 40
+      },
+      {
+        "id": "2022-need-to-know-episode-6",
+        "name": "Need to Know Episode #6 — Take Me to Your Leader",
+        "seriesId": "need-to-know-podcast",
+        "date": "2022-02-03",
+        "sharedEntityIds": [
+          "bryce-zabel",
+          "government-transparency",
+          "ross-coulthart"
+        ],
+        "sharedEntityCount": 3,
+        "score": 35
+      },
+      {
+        "id": "2022-need-to-know-episode-5",
+        "name": "Need to Know Episode #5 — Roswell and Beyond",
+        "seriesId": "need-to-know-podcast",
+        "date": "2022-01-20",
+        "sharedEntityIds": [
+          "bryce-zabel",
+          "media-coverage",
+          "ross-coulthart"
+        ],
+        "sharedEntityCount": 3,
+        "score": 35
+      },
+      {
+        "id": "2021-need-to-know-episode-2",
+        "name": "Need to Know Episode #2 — The Year Ahead",
+        "seriesId": "need-to-know-podcast",
+        "date": "2021-12-16",
+        "sharedEntityIds": [
+          "bryce-zabel",
+          "government-transparency",
+          "ross-coulthart"
+        ],
+        "sharedEntityCount": 3,
+        "score": 35
+      }
+    ],
+    "2022-need-to-know-episode-5": [
+      {
+        "id": "2022-need-to-know-episode-4",
+        "name": "Need to Know Episode #4 — Media Coverage of Harry Reid’s Death",
+        "seriesId": "need-to-know-podcast",
+        "date": "2022-01-04",
+        "sharedEntityIds": [
+          "bryce-zabel",
+          "media-coverage",
+          "ross-coulthart"
+        ],
+        "sharedEntityCount": 3,
+        "score": 35
+      },
+      {
+        "id": "2021-need-to-know-episode-2",
+        "name": "Need to Know Episode #2 — The Year Ahead",
+        "seriesId": "need-to-know-podcast",
+        "date": "2021-12-16",
+        "sharedEntityIds": [
+          "bryce-zabel",
+          "ross-coulthart",
+          "scientific-investigation"
+        ],
+        "sharedEntityCount": 3,
+        "score": 35
+      },
+      {
+        "id": "2021-need-to-know-episode-1",
+        "name": "Need to Know Episode #1 — 2021 Top Ten",
+        "seriesId": "need-to-know-podcast",
+        "date": "2021-12-16",
+        "sharedEntityIds": [
+          "bryce-zabel",
+          "ross-coulthart",
+          "scientific-investigation"
+        ],
+        "sharedEntityCount": 3,
+        "score": 35
+      },
+      {
+        "id": "2022-need-to-know-episode-6",
+        "name": "Need to Know Episode #6 — Take Me to Your Leader",
+        "seriesId": "need-to-know-podcast",
+        "date": "2022-02-03",
+        "sharedEntityIds": [
+          "bryce-zabel",
+          "ross-coulthart"
+        ],
+        "sharedEntityCount": 2,
+        "score": 25
+      },
+      {
+        "id": "2021-need-to-know-episode-3",
+        "name": "Need to Know Episode #3 — Bipartisan Support for UAP Research",
+        "seriesId": "need-to-know-podcast",
+        "date": "2021-12-27",
+        "sharedEntityIds": [
+          "bryce-zabel",
+          "ross-coulthart"
+        ],
+        "sharedEntityCount": 2,
+        "score": 25
+      },
+      {
+        "id": "2024-weaponized-episode-52",
+        "name": "WEAPONIZED Episode #52 — Season Finale and AARO Historical Report Review",
+        "seriesId": "weaponized-podcast",
+        "date": "2024-03-13",
+        "sharedEntityIds": [
+          "bryce-zabel",
+          "ross-coulthart"
+        ],
+        "sharedEntityCount": 2,
+        "score": 20
+      }
+    ],
+    "2022-need-to-know-episode-6": [
+      {
+        "id": "2021-need-to-know-episode-2",
+        "name": "Need to Know Episode #2 — The Year Ahead",
+        "seriesId": "need-to-know-podcast",
+        "date": "2021-12-16",
+        "sharedEntityIds": [
+          "bryce-zabel",
+          "government-transparency",
+          "public-disclosure",
+          "ross-coulthart",
+          "uap-transparency"
+        ],
+        "sharedEntityCount": 5,
+        "score": 55
+      },
+      {
+        "id": "2021-need-to-know-episode-1",
+        "name": "Need to Know Episode #1 — 2021 Top Ten",
+        "seriesId": "need-to-know-podcast",
+        "date": "2021-12-16",
+        "sharedEntityIds": [
+          "bryce-zabel",
+          "government-transparency",
+          "ross-coulthart",
+          "uap-transparency"
+        ],
+        "sharedEntityCount": 4,
+        "score": 45
+      },
+      {
+        "id": "2022-need-to-know-episode-4",
+        "name": "Need to Know Episode #4 — Media Coverage of Harry Reid’s Death",
+        "seriesId": "need-to-know-podcast",
+        "date": "2022-01-04",
+        "sharedEntityIds": [
+          "bryce-zabel",
+          "government-transparency",
+          "ross-coulthart"
+        ],
+        "sharedEntityCount": 3,
+        "score": 35
+      },
+      {
+        "id": "2021-need-to-know-episode-3",
+        "name": "Need to Know Episode #3 — Bipartisan Support for UAP Research",
+        "seriesId": "need-to-know-podcast",
+        "date": "2021-12-27",
+        "sharedEntityIds": [
+          "bryce-zabel",
+          "government-transparency",
+          "ross-coulthart"
+        ],
+        "sharedEntityCount": 3,
+        "score": 35
+      },
       {
         "id": "2024-weaponized-episode-52",
         "name": "WEAPONIZED Episode #52 — Season Finale and AARO Historical Report Review",
@@ -20560,54 +21594,6 @@
         ],
         "sharedEntityCount": 3,
         "score": 30
-      },
-      {
-        "id": "2026-weaponized-episode-115",
-        "name": "WEAPONIZED Episode #115 — A New Chapter in the Bob Lazar Saga",
-        "seriesId": "weaponized-podcast",
-        "date": "2026-04-14",
-        "sharedEntityIds": [
-          "government-transparency",
-          "scientific-investigation"
-        ],
-        "sharedEntityCount": 2,
-        "score": 20
-      },
-      {
-        "id": "2025-weaponized-episode-66",
-        "name": "WEAPONIZED Episode #66 — Mike Gold on NASA, UAP, and Space Research",
-        "seriesId": "weaponized-podcast",
-        "date": "2025-02-11",
-        "sharedEntityIds": [
-          "government-transparency",
-          "scientific-investigation"
-        ],
-        "sharedEntityCount": 2,
-        "score": 20
-      },
-      {
-        "id": "2024-weaponized-episode-46",
-        "name": "WEAPONIZED Episode #46 — Richard Dolan on Disclosure, History, and USO Cases",
-        "seriesId": "weaponized-podcast",
-        "date": "2024-01-08",
-        "sharedEntityIds": [
-          "government-transparency",
-          "scientific-investigation"
-        ],
-        "sharedEntityCount": 2,
-        "score": 20
-      },
-      {
-        "id": "2023-weaponized-episode-42",
-        "name": "WEAPONIZED Episode #42 — The Sol Foundation Conference and Grusch Revelations",
-        "seriesId": "weaponized-podcast",
-        "date": "2023-11-27",
-        "sharedEntityIds": [
-          "government-transparency",
-          "scientific-investigation"
-        ],
-        "sharedEntityCount": 2,
-        "score": 20
       }
     ],
     "2023-weaponized-episode-1": [

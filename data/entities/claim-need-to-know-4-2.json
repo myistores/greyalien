@@ -1,0 +1,27 @@
+{
+  "id": "claim-need-to-know-4-2",
+  "type": "claim",
+  "name": "The episode treats Reid’s support for classified and congressional UAP inquiry as an important part of his public legacy.",
+  "summary": "Claim or editorial framing presented in Need to Know Episode #4.",
+  "relationships": [
+    {
+      "type": "featured_in_media",
+      "target": "2022-need-to-know-episode-4"
+    }
+  ],
+  "officialLinks": [],
+  "referenceSources": [
+    {
+      "label": "Official Need to Know Episode 4 video — Media Coverage of Harry Reid’s Death",
+      "url": "https://www.youtube.com/watch?v=e962GK3qK9w",
+      "sourceType": "official_episode_video",
+      "role": "source"
+    },
+    {
+      "label": "Need to Know official YouTube collection",
+      "url": "https://www.youtube.com/playlist?list=PLXdU8QbJkboeMcvUNyGpb9h6FUS9cVBti",
+      "sourceType": "official_video_collection",
+      "role": "source"
+    }
+  ]
+}

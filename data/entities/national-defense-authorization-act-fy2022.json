@@ -1,0 +1,18 @@
+{
+  "id": "national-defense-authorization-act-fy2022",
+  "type": "document",
+  "name": "National Defense Authorization Act for Fiscal Year 2022",
+  "summary": "The annual U.S. defense authorization law signed in December 2021, including provisions that advanced formal government reporting and oversight of unidentified aerial phenomena.",
+  "relationships": [
+    {
+      "type": "published_by",
+      "target": "united-states-congress"
+    },
+    {
+      "type": "discussed_topic",
+      "target": "uap-disclosure-legislation"
+    }
+  ],
+  "officialLinks": [],
+  "referenceSources": []
+}

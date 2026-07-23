@@ -1,3 +1,13 @@
+# V21.1 — Need to Know Podcast Integration Batch 2 (2026-07-22)
+
+- Added Need to Know Episodes #2–6 as complete podcast episode entities.
+- Added 20 source-grounded principal claims and five podcast-publication timeline events.
+- Reused canonical Ross Coulthart, Bryce Zabel, Harry Reid, Roswell Incident, White House, United States Congress, and established topic entities.
+- Added narrowly required canonical records for the FY2022 NDAA, World War II foo fighter reports, and 1946 Scandinavian ghost rocket reports.
+- Replaced the generic archive reference on Need to Know Episodes #1–6 with each episode’s direct official YouTube URL.
+- Retained the official Need to Know YouTube collection as the secondary reference source.
+- Preserved all platform architecture and existing WEAPONIZED relationships.
+
 # V21 — Need to Know Podcast Integration Pilot
 
 - Added Need to Know Episode #1, “2021 Top Ten,” as a complete podcast episode entity.
