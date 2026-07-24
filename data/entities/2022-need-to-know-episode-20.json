@@ -1,0 +1,108 @@
+{
+  "id": "2022-need-to-know-episode-20",
+  "type": "podcast_episode",
+  "name": "Need to Know Episode #20 — 7NEWS Spotlight Special Edition",
+  "summary": "This special edition follows Ross Coulthart and Bryce Zabel as they examine the UAP issue through interviews with military witnesses, researchers, and media figures, including Ryan Graves, Jeremy Corbell, and Garry Nolan.",
+  "date": "2022-08-25",
+  "dateDisplay": "August 25, 2022",
+  "seriesId": "need-to-know-podcast",
+  "episodeNumber": 20,
+  "episodeTitle": "7NEWS Spotlight Special Edition",
+  "status": "Published",
+  "mediaType": "Podcast episode",
+  "mediaPlatform": "Need to Know",
+  "mediaHost": "Ross Coulthart and Bryce Zabel",
+  "mediaGuests": [],
+  "mediaSubjects": [],
+  "principalClaims": [
+    "claim-need-to-know-20-1",
+    "claim-need-to-know-20-2",
+    "claim-need-to-know-20-3",
+    "claim-need-to-know-20-4"
+  ],
+  "researchNotes": [],
+  "relationships": [
+    {
+      "type": "episode_of",
+      "target": "need-to-know-podcast"
+    },
+    {
+      "type": "features_person",
+      "target": "ross-coulthart",
+      "role": "host",
+      "context": "Need to Know co-host"
+    },
+    {
+      "type": "features_person",
+      "target": "bryce-zabel",
+      "role": "host",
+      "context": "Need to Know co-host"
+    },
+    {
+      "type": "features_person",
+      "target": "ryan-graves",
+      "role": "subject",
+      "context": "Featured or discussed in the official episode"
+    },
+    {
+      "type": "features_person",
+      "target": "jeremy-corbell",
+      "role": "subject",
+      "context": "Featured or discussed in the official episode"
+    },
+    {
+      "type": "features_person",
+      "target": "garry-nolan",
+      "role": "subject",
+      "context": "Featured or discussed in the official episode"
+    },
+    {
+      "type": "references_case",
+      "target": "2014-2015-east-coast-navy-encounters"
+    },
+    {
+      "type": "references_case",
+      "target": "2004-nimitz-encounter"
+    },
+    {
+      "type": "discussed_topic",
+      "target": "aviation-safety"
+    },
+    {
+      "type": "discussed_topic",
+      "target": "uap-research"
+    },
+    {
+      "type": "discussed_topic",
+      "target": "media-coverage"
+    }
+  ],
+  "mediaLinks": [
+    {
+      "label": "Watch Need to Know Episode #20 on YouTube",
+      "url": "https://www.youtube.com/watch?v=pSZUBulON6I",
+      "platform": "YouTube"
+    },
+    {
+      "label": "Watch the official Need to Know collection",
+      "url": "https://www.youtube.com/playlist?list=PLXdU8QbJkboeMcvUNyGpb9h6FUS9cVBti",
+      "platform": "YouTube"
+    }
+  ],
+  "eventCategory": "Podcast publication",
+  "officialLinks": [],
+  "referenceSources": [
+    {
+      "label": "Official Need to Know Episode 20 video — 7NEWS Spotlight Special Edition",
+      "url": "https://www.youtube.com/watch?v=pSZUBulON6I",
+      "sourceType": "official_episode_video",
+      "role": "source"
+    },
+    {
+      "label": "Need to Know official YouTube collection",
+      "url": "https://www.youtube.com/playlist?list=PLXdU8QbJkboeMcvUNyGpb9h6FUS9cVBti",
+      "sourceType": "official_video_collection",
+      "role": "source"
+    }
+  ]
+}

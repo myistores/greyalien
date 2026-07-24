@@ -275,11 +275,46 @@
       "name": "Need to Know Episode #16 published",
       "aliases": []
     },
+    "timeline-2022-07-14-need-to-know-episode-17": {
+      "id": "timeline-2022-07-14-need-to-know-episode-17",
+      "date": "2022-07-14",
+      "eventCategory": "Podcast publication",
+      "name": "Need to Know Episode #17 published",
+      "aliases": []
+    },
     "timeline-2022-07-20-kirkpatrick-named-aaro-director": {
       "id": "timeline-2022-07-20-kirkpatrick-named-aaro-director",
       "date": "2022-07-20",
       "eventCategory": "Government appointment",
       "name": "Sean Kirkpatrick Is Named the First Director of AARO",
+      "aliases": []
+    },
+    "timeline-2022-08-05-need-to-know-episode-18": {
+      "id": "timeline-2022-08-05-need-to-know-episode-18",
+      "date": "2022-08-05",
+      "eventCategory": "Podcast publication",
+      "name": "Need to Know Episode #18 published",
+      "aliases": []
+    },
+    "timeline-2022-08-15-need-to-know-episode-19": {
+      "id": "timeline-2022-08-15-need-to-know-episode-19",
+      "date": "2022-08-15",
+      "eventCategory": "Podcast publication",
+      "name": "Need to Know Episode #19 published",
+      "aliases": []
+    },
+    "timeline-2022-08-25-need-to-know-episode-20": {
+      "id": "timeline-2022-08-25-need-to-know-episode-20",
+      "date": "2022-08-25",
+      "eventCategory": "Podcast publication",
+      "name": "Need to Know Episode #20 published",
+      "aliases": []
+    },
+    "timeline-2022-09-14-need-to-know-episode-21": {
+      "id": "timeline-2022-09-14-need-to-know-episode-21",
+      "date": "2022-09-14",
+      "eventCategory": "Podcast publication",
+      "name": "Need to Know Episode #21 published",
       "aliases": []
     },
     "timeline-2023-01-23-weaponized-episode-1": {
@@ -891,7 +926,7 @@
   },
   "conflicts": [],
   "statistics": {
-    "canonicalEventCount": 125,
+    "canonicalEventCount": 130,
     "aliasCount": 3,
     "conflictCount": 0
   }

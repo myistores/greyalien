@@ -1,0 +1,82 @@
+{
+  "id": "2022-need-to-know-episode-19",
+  "type": "podcast_episode",
+  "name": "Need to Know Episode #19 — Virtual Beers",
+  "summary": "Ross Coulthart and Bryce Zabel join listeners Rob and Kieran for an informal live discussion that reflects on the origins of Need to Know, audience questions, and the value of sustained public engagement with the UAP issue.",
+  "date": "2022-08-15",
+  "dateDisplay": "August 15, 2022",
+  "seriesId": "need-to-know-podcast",
+  "episodeNumber": 19,
+  "episodeTitle": "Virtual Beers",
+  "status": "Published",
+  "mediaType": "Podcast episode",
+  "mediaPlatform": "Need to Know",
+  "mediaHost": "Ross Coulthart and Bryce Zabel",
+  "mediaGuests": [],
+  "mediaSubjects": [],
+  "principalClaims": [
+    "claim-need-to-know-19-1",
+    "claim-need-to-know-19-2",
+    "claim-need-to-know-19-3",
+    "claim-need-to-know-19-4"
+  ],
+  "researchNotes": [],
+  "relationships": [
+    {
+      "type": "episode_of",
+      "target": "need-to-know-podcast"
+    },
+    {
+      "type": "features_person",
+      "target": "ross-coulthart",
+      "role": "host",
+      "context": "Need to Know co-host"
+    },
+    {
+      "type": "features_person",
+      "target": "bryce-zabel",
+      "role": "host",
+      "context": "Need to Know co-host"
+    },
+    {
+      "type": "discussed_topic",
+      "target": "uap-research"
+    },
+    {
+      "type": "discussed_topic",
+      "target": "media-coverage"
+    },
+    {
+      "type": "discussed_topic",
+      "target": "government-transparency"
+    }
+  ],
+  "mediaLinks": [
+    {
+      "label": "Watch Need to Know Episode #19 on YouTube",
+      "url": "https://www.youtube.com/watch?v=A0SdTFO4GDY",
+      "platform": "YouTube"
+    },
+    {
+      "label": "Watch the official Need to Know collection",
+      "url": "https://www.youtube.com/playlist?list=PLXdU8QbJkboeMcvUNyGpb9h6FUS9cVBti",
+      "platform": "YouTube"
+    }
+  ],
+  "eventCategory": "Podcast publication",
+  "officialLinks": [],
+  "referenceSources": [
+    {
+      "label": "Official Need to Know Episode 19 video — Virtual Beers",
+      "url": "https://www.youtube.com/watch?v=A0SdTFO4GDY",
+      "sourceType": "official_episode_video",
+      "role": "source"
+    },
+    {
+      "label": "Need to Know official YouTube collection",
+      "url": "https://www.youtube.com/playlist?list=PLXdU8QbJkboeMcvUNyGpb9h6FUS9cVBti",
+      "sourceType": "official_video_collection",
+      "role": "source"
+    }
+  ]
+}

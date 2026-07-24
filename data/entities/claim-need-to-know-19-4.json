@@ -1,0 +1,27 @@
+{
+  "id": "claim-need-to-know-19-4",
+  "type": "claim",
+  "name": "Public engagement is strengthened when journalists explain how they evaluate sources, uncertainty, and competing interpretations.",
+  "summary": "Claim or editorial framing presented in Need to Know Episode #19.",
+  "relationships": [
+    {
+      "type": "featured_in_media",
+      "target": "2022-need-to-know-episode-19"
+    }
+  ],
+  "officialLinks": [],
+  "referenceSources": [
+    {
+      "label": "Official Need to Know Episode 19 video — Virtual Beers",
+      "url": "https://www.youtube.com/watch?v=A0SdTFO4GDY",
+      "sourceType": "official_episode_video",
+      "role": "source"
+    },
+    {
+      "label": "Need to Know official YouTube collection",
+      "url": "https://www.youtube.com/playlist?list=PLXdU8QbJkboeMcvUNyGpb9h6FUS9cVBti",
+      "sourceType": "official_video_collection",
+      "role": "source"
+    }
+  ]
+}

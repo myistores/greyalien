@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "entityCount": 1150,
-  "relationshipCount": 2572,
+  "entityCount": 1180,
+  "relationshipCount": 2639,
   "unresolvedRelationshipCount": 16,
   "connectionCounts": {
     "1946-scandinavian-ghost-rockets": {
@@ -60,9 +60,9 @@
       "total": 1
     },
     "2004-nimitz-encounter": {
-      "incoming": 20,
+      "incoming": 22,
       "outgoing": 4,
-      "total": 24
+      "total": 26
     },
     "2009-indonesia-craft-claim": {
       "incoming": 4,
@@ -70,9 +70,9 @@
       "total": 5
     },
     "2014-2015-east-coast-navy-encounters": {
-      "incoming": 3,
+      "incoming": 4,
       "outgoing": 3,
-      "total": 6
+      "total": 7
     },
     "2015-pantex-diamond-uap-incident": {
       "incoming": 1,
@@ -178,6 +178,31 @@
       "incoming": 5,
       "outgoing": 9,
       "total": 14
+    },
+    "2022-need-to-know-episode-17": {
+      "incoming": 5,
+      "outgoing": 8,
+      "total": 13
+    },
+    "2022-need-to-know-episode-18": {
+      "incoming": 5,
+      "outgoing": 9,
+      "total": 14
+    },
+    "2022-need-to-know-episode-19": {
+      "incoming": 5,
+      "outgoing": 6,
+      "total": 11
+    },
+    "2022-need-to-know-episode-20": {
+      "incoming": 5,
+      "outgoing": 11,
+      "total": 16
+    },
+    "2022-need-to-know-episode-21": {
+      "incoming": 5,
+      "outgoing": 8,
+      "total": 13
     },
     "2022-need-to-know-episode-4": {
       "incoming": 5,
@@ -965,9 +990,9 @@
       "total": 2
     },
     "aaro": {
-      "incoming": 29,
+      "incoming": 30,
       "outgoing": 4,
-      "total": 33
+      "total": 34
     },
     "aatip": {
       "incoming": 3,
@@ -1050,9 +1075,9 @@
       "total": 6
     },
     "aviation-safety": {
-      "incoming": 29,
+      "incoming": 31,
       "outgoing": 1,
-      "total": 30
+      "total": 32
     },
     "awacs": {
       "incoming": 1,
@@ -1100,9 +1125,9 @@
       "total": 2
     },
     "bryce-zabel": {
-      "incoming": 18,
+      "incoming": 23,
       "outgoing": 1,
-      "total": 19
+      "total": 24
     },
     "buddha-jones": {
       "incoming": 2,
@@ -2189,6 +2214,66 @@
       "outgoing": 1,
       "total": 1
     },
+    "claim-need-to-know-17-1": {
+      "incoming": 0,
+      "outgoing": 1,
+      "total": 1
+    },
+    "claim-need-to-know-17-2": {
+      "incoming": 0,
+      "outgoing": 1,
+      "total": 1
+    },
+    "claim-need-to-know-17-3": {
+      "incoming": 0,
+      "outgoing": 1,
+      "total": 1
+    },
+    "claim-need-to-know-17-4": {
+      "incoming": 0,
+      "outgoing": 1,
+      "total": 1
+    },
+    "claim-need-to-know-18-1": {
+      "incoming": 0,
+      "outgoing": 1,
+      "total": 1
+    },
+    "claim-need-to-know-18-2": {
+      "incoming": 0,
+      "outgoing": 1,
+      "total": 1
+    },
+    "claim-need-to-know-18-3": {
+      "incoming": 0,
+      "outgoing": 1,
+      "total": 1
+    },
+    "claim-need-to-know-18-4": {
+      "incoming": 0,
+      "outgoing": 1,
+      "total": 1
+    },
+    "claim-need-to-know-19-1": {
+      "incoming": 0,
+      "outgoing": 1,
+      "total": 1
+    },
+    "claim-need-to-know-19-2": {
+      "incoming": 0,
+      "outgoing": 1,
+      "total": 1
+    },
+    "claim-need-to-know-19-3": {
+      "incoming": 0,
+      "outgoing": 1,
+      "total": 1
+    },
+    "claim-need-to-know-19-4": {
+      "incoming": 0,
+      "outgoing": 1,
+      "total": 1
+    },
     "claim-need-to-know-2-1": {
       "incoming": 0,
       "outgoing": 1,
@@ -2205,6 +2290,46 @@
       "total": 1
     },
     "claim-need-to-know-2-4": {
+      "incoming": 0,
+      "outgoing": 1,
+      "total": 1
+    },
+    "claim-need-to-know-20-1": {
+      "incoming": 0,
+      "outgoing": 1,
+      "total": 1
+    },
+    "claim-need-to-know-20-2": {
+      "incoming": 0,
+      "outgoing": 1,
+      "total": 1
+    },
+    "claim-need-to-know-20-3": {
+      "incoming": 0,
+      "outgoing": 1,
+      "total": 1
+    },
+    "claim-need-to-know-20-4": {
+      "incoming": 0,
+      "outgoing": 1,
+      "total": 1
+    },
+    "claim-need-to-know-21-1": {
+      "incoming": 0,
+      "outgoing": 1,
+      "total": 1
+    },
+    "claim-need-to-know-21-2": {
+      "incoming": 0,
+      "outgoing": 1,
+      "total": 1
+    },
+    "claim-need-to-know-21-3": {
+      "incoming": 0,
+      "outgoing": 1,
+      "total": 1
+    },
+    "claim-need-to-know-21-4": {
       "incoming": 0,
       "outgoing": 1,
       "total": 1
@@ -3670,9 +3795,9 @@
       "total": 6
     },
     "congressional-oversight": {
-      "incoming": 40,
+      "incoming": 41,
       "outgoing": 0,
-      "total": 40
+      "total": 41
     },
     "contact-in-the-desert": {
       "incoming": 1,
@@ -3740,9 +3865,9 @@
       "total": 5
     },
     "david-fravor": {
-      "incoming": 8,
+      "incoming": 9,
       "outgoing": 5,
-      "total": 13
+      "total": 14
     },
     "david-grinspoon": {
       "incoming": 0,
@@ -3955,9 +4080,9 @@
       "total": 6
     },
     "garry-nolan": {
-      "incoming": 4,
+      "incoming": 5,
       "outgoing": 2,
-      "total": 6
+      "total": 7
     },
     "gary-voorhis": {
       "incoming": 0,
@@ -3975,9 +4100,9 @@
       "total": 1
     },
     "government-transparency": {
-      "incoming": 108,
+      "incoming": 110,
       "outgoing": 0,
-      "total": 108
+      "total": 110
     },
     "hal-puthoff": {
       "incoming": 3,
@@ -4010,9 +4135,9 @@
       "total": 1
     },
     "historical-ufo-research": {
-      "incoming": 20,
+      "incoming": 22,
       "outgoing": 0,
-      "total": 20
+      "total": 22
     },
     "hitchhiker-effect": {
       "incoming": 1,
@@ -4130,9 +4255,9 @@
       "total": 1
     },
     "jeremy-corbell": {
-      "incoming": 128,
+      "incoming": 129,
       "outgoing": 8,
-      "total": 136
+      "total": 137
     },
     "jim-penniston": {
       "incoming": 0,
@@ -4240,9 +4365,9 @@
       "total": 3
     },
     "kirsten-gillibrand": {
-      "incoming": 1,
+      "incoming": 2,
       "outgoing": 0,
-      "total": 1
+      "total": 2
     },
     "klas-tv": {
       "incoming": 2,
@@ -4310,9 +4435,9 @@
       "total": 4
     },
     "luis-elizondo": {
-      "incoming": 9,
+      "incoming": 10,
       "outgoing": 6,
-      "total": 15
+      "total": 16
     },
     "malmstrom-air-force-base": {
       "incoming": 1,
@@ -4350,9 +4475,9 @@
       "total": 1
     },
     "media-coverage": {
-      "incoming": 6,
+      "incoming": 9,
       "outgoing": 0,
-      "total": 6
+      "total": 9
     },
     "merged-podcast": {
       "incoming": 1,
@@ -4450,9 +4575,9 @@
       "total": 2
     },
     "national-defense-authorization-act-fy2022": {
-      "incoming": 1,
+      "incoming": 2,
       "outgoing": 2,
-      "total": 3
+      "total": 4
     },
     "national-institute-for-discovery-science": {
       "incoming": 8,
@@ -4485,9 +4610,9 @@
       "total": 1
     },
     "need-to-know-podcast": {
-      "incoming": 18,
+      "incoming": 23,
       "outgoing": 1,
-      "total": 19
+      "total": 24
     },
     "new-paradigm-institute": {
       "incoming": 1,
@@ -4660,9 +4785,9 @@
       "total": 3
     },
     "ross-coulthart": {
-      "incoming": 20,
+      "incoming": 25,
       "outgoing": 3,
-      "total": 23
+      "total": 28
     },
     "roswell-incident": {
       "incoming": 6,
@@ -4680,9 +4805,9 @@
       "total": 1
     },
     "ryan-graves": {
-      "incoming": 8,
+      "incoming": 9,
       "outgoing": 8,
-      "total": 16
+      "total": 17
     },
     "ryan-robbins": {
       "incoming": 3,
@@ -5039,10 +5164,35 @@
       "outgoing": 1,
       "total": 1
     },
+    "timeline-2022-07-14-need-to-know-episode-17": {
+      "incoming": 0,
+      "outgoing": 1,
+      "total": 1
+    },
     "timeline-2022-07-20-kirkpatrick-named-aaro-director": {
       "incoming": 0,
       "outgoing": 3,
       "total": 3
+    },
+    "timeline-2022-08-05-need-to-know-episode-18": {
+      "incoming": 0,
+      "outgoing": 1,
+      "total": 1
+    },
+    "timeline-2022-08-15-need-to-know-episode-19": {
+      "incoming": 0,
+      "outgoing": 1,
+      "total": 1
+    },
+    "timeline-2022-08-25-need-to-know-episode-20": {
+      "incoming": 0,
+      "outgoing": 1,
+      "total": 1
+    },
+    "timeline-2022-09-14-need-to-know-episode-21": {
+      "incoming": 0,
+      "outgoing": 1,
+      "total": 1
     },
     "timeline-2023-01-23-weaponized-episode-1": {
       "incoming": 0,
@@ -5560,9 +5710,9 @@
       "total": 13
     },
     "uap-research": {
-      "incoming": 8,
+      "incoming": 12,
       "outgoing": 0,
-      "total": 8
+      "total": 12
     },
     "uap-science": {
       "incoming": 5,
@@ -5580,14 +5730,14 @@
       "total": 3
     },
     "uap-task-force": {
-      "incoming": 9,
+      "incoming": 10,
       "outgoing": 0,
-      "total": 9
+      "total": 10
     },
     "uap-transparency": {
-      "incoming": 18,
+      "incoming": 19,
       "outgoing": 0,
-      "total": 18
+      "total": 19
     },
     "ufo-cryptid-connection": {
       "incoming": 1,

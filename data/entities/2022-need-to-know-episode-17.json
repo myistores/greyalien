@@ -1,0 +1,92 @@
+{
+  "id": "2022-need-to-know-episode-17",
+  "type": "podcast_episode",
+  "name": "Need to Know Episode #17 — Beyond Nimitz",
+  "summary": "Ross Coulthart and Bryce Zabel revisit the 2004 Nimitz encounter through the documentary work that helped preserve witness testimony and broaden public understanding of the case beyond the best-known cockpit accounts.",
+  "date": "2022-07-14",
+  "dateDisplay": "July 14, 2022",
+  "seriesId": "need-to-know-podcast",
+  "episodeNumber": 17,
+  "episodeTitle": "Beyond Nimitz",
+  "status": "Published",
+  "mediaType": "Podcast episode",
+  "mediaPlatform": "Need to Know",
+  "mediaHost": "Ross Coulthart and Bryce Zabel",
+  "mediaGuests": [],
+  "mediaSubjects": [],
+  "principalClaims": [
+    "claim-need-to-know-17-1",
+    "claim-need-to-know-17-2",
+    "claim-need-to-know-17-3",
+    "claim-need-to-know-17-4"
+  ],
+  "researchNotes": [],
+  "relationships": [
+    {
+      "type": "episode_of",
+      "target": "need-to-know-podcast"
+    },
+    {
+      "type": "features_person",
+      "target": "ross-coulthart",
+      "role": "host",
+      "context": "Need to Know co-host"
+    },
+    {
+      "type": "features_person",
+      "target": "bryce-zabel",
+      "role": "host",
+      "context": "Need to Know co-host"
+    },
+    {
+      "type": "references_case",
+      "target": "2004-nimitz-encounter"
+    },
+    {
+      "type": "features_person",
+      "target": "david-fravor",
+      "role": "subject",
+      "context": "Featured or discussed in the official episode"
+    },
+    {
+      "type": "discussed_topic",
+      "target": "historical-ufo-research"
+    },
+    {
+      "type": "discussed_topic",
+      "target": "uap-research"
+    },
+    {
+      "type": "discussed_topic",
+      "target": "aviation-safety"
+    }
+  ],
+  "mediaLinks": [
+    {
+      "label": "Watch Need to Know Episode #17 on YouTube",
+      "url": "https://www.youtube.com/watch?v=7UzU_l6hDLk",
+      "platform": "YouTube"
+    },
+    {
+      "label": "Watch the official Need to Know collection",
+      "url": "https://www.youtube.com/playlist?list=PLXdU8QbJkboeMcvUNyGpb9h6FUS9cVBti",
+      "platform": "YouTube"
+    }
+  ],
+  "eventCategory": "Podcast publication",
+  "officialLinks": [],
+  "referenceSources": [
+    {
+      "label": "Official Need to Know Episode 17 video — Beyond Nimitz",
+      "url": "https://www.youtube.com/watch?v=7UzU_l6hDLk",
+      "sourceType": "official_episode_video",
+      "role": "source"
+    },
+    {
+      "label": "Need to Know official YouTube collection",
+      "url": "https://www.youtube.com/playlist?list=PLXdU8QbJkboeMcvUNyGpb9h6FUS9cVBti",
+      "sourceType": "official_video_collection",
+      "role": "source"
+    }
+  ]
+}

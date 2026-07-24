@@ -1,3 +1,12 @@
+# V21.3 — Need to Know Podcast Integration Batch 4 (2026-07-24)
+
+- Added Need to Know Episodes #17–21 as complete podcast episode entities.
+- Added 20 source-grounded principal claims and five podcast-publication timeline events.
+- Reused canonical Nimitz encounter, Ryan Graves, Jeremy Corbell, Garry Nolan, Luis Elizondo, AARO, UAP Task Force, FY2022 NDAA, and established topic entities.
+- Used direct official video links for all five releases, including the official 7NEWS Spotlight video for Episode #20.
+- Retained the official Need to Know YouTube collection as the secondary reference source.
+- Preserved all platform architecture and existing WEAPONIZED relationships.
+
 # V21.1 — Need to Know Podcast Integration Batch 2 (2026-07-22)
 
 - Added Need to Know Episodes #2–6 as complete podcast episode entities.

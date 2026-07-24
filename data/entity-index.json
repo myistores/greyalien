@@ -512,6 +512,12 @@
       "summary": "Claim or framing presented in WEAPONIZED Episode #20."
     },
     {
+      "id": "claim-need-to-know-18-3",
+      "type": "claim",
+      "name": "Bipartisan legislative interest increased the likelihood that UAP oversight would persist beyond a single news cycle.",
+      "summary": "Claim or editorial framing presented in Need to Know Episode #18."
+    },
+    {
       "id": "claim-s4-reverse-engineering",
       "type": "claim",
       "name": "Bob Lazar claims he worked at S4 on reverse-engineering an unconventional craft",
@@ -844,6 +850,12 @@
       "summary": "The episode highlights interviews and assistance involving Representatives Luna, Burchett, and Burlison."
     },
     {
+      "id": "claim-need-to-know-18-2",
+      "type": "claim",
+      "name": "Congressional mandates can improve accountability only when agencies provide meaningful data, access, and implementation support.",
+      "summary": "Claim or editorial framing presented in Need to Know Episode #18."
+    },
+    {
       "id": "claim-potential-witnesses-contacted",
       "type": "claim",
       "name": "Congressional members and staff contacted potential witnesses with firsthand knowledge of unusual technology.",
@@ -884,6 +896,12 @@
       "type": "claim",
       "name": "Continued pressure from lawmakers is necessary for meaningful transparency.",
       "summary": "Claim or framing presented in WEAPONIZED Episode #40."
+    },
+    {
+      "id": "claim-need-to-know-17-4",
+      "type": "claim",
+      "name": "Continued study of the Nimitz case benefits from comparing testimony across pilots, radar operators, and other carrier-group personnel.",
+      "summary": "Claim or editorial framing presented in Need to Know Episode #17."
     },
     {
       "id": "claim-immaculate-constellation-record-contained-falsified-page",
@@ -1016,6 +1034,12 @@
       "summary": "Claim or framing presented in WEAPONIZED Episode #34."
     },
     {
+      "id": "claim-need-to-know-19-1",
+      "type": "claim",
+      "name": "Direct audience conversations can surface practical questions that formal interviews and news reports may overlook.",
+      "summary": "Claim or editorial framing presented in Need to Know Episode #19."
+    },
+    {
       "id": "claim-disclosure-momentum-has-slowed",
       "type": "claim",
       "name": "Disclosure momentum has slowed",
@@ -1032,6 +1056,12 @@
       "type": "claim",
       "name": "Disinformation and cultural stigma continue to shape the public UAP debate.",
       "summary": "Disinformation and cultural stigma continue to shape the public UAP debate."
+    },
+    {
+      "id": "claim-need-to-know-17-2",
+      "type": "claim",
+      "name": "Documentary reconstruction can preserve witness accounts and technical context that are otherwise fragmented across interviews and reports.",
+      "summary": "Claim or editorial framing presented in Need to Know Episode #17."
     },
     {
       "id": "claim-weaponized-18-1",
@@ -1166,6 +1196,12 @@
       "type": "claim",
       "name": "George Knapp recorded interviews with Russian scientists who had not previously discussed their work on camera.",
       "summary": "Claim or framing presented in WEAPONIZED Episode #16."
+    },
+    {
+      "id": "claim-need-to-know-21-4",
+      "type": "claim",
+      "name": "Government secrecy and limited data access make reform difficult because researchers cannot independently evaluate many official claims.",
+      "summary": "Claim or editorial framing presented in Need to Know Episode #21."
     },
     {
       "id": "claim-government-held-sensor-records-may-contain-stronger-evidence-than-public-release",
@@ -1523,6 +1559,12 @@
       "summary": "Claim or editorial framing presented in Need to Know Episode #14."
     },
     {
+      "id": "claim-need-to-know-21-1",
+      "type": "claim",
+      "name": "Luis Elizondo argues that the UAP subject should move beyond factionalism and unsupported narratives toward disciplined investigation.",
+      "summary": "Claim or editorial framing presented in Need to Know Episode #21."
+    },
+    {
       "id": "claim-weaponized-22-3",
       "type": "claim",
       "name": "Maguire urged Canada to address the UAP issue before further disclosures damage public trust.",
@@ -1655,6 +1697,12 @@
       "type": "claim",
       "name": "Military and scientific attention has moved the UFO subject further into open discussion.",
       "summary": "Claim or framing presented in WEAPONIZED Episode #1."
+    },
+    {
+      "id": "claim-need-to-know-20-1",
+      "type": "claim",
+      "name": "Military aviators have reported recurring unidentified objects that they regard as an aviation-safety concern.",
+      "summary": "Claim or editorial framing presented in Need to Know Episode #20."
     },
     {
       "id": "claim-weaponized-2-3",
@@ -1898,6 +1946,12 @@
       "summary": "Claim or editorial framing presented in Need to Know Episode #13."
     },
     {
+      "id": "claim-need-to-know-19-4",
+      "type": "claim",
+      "name": "Public engagement is strengthened when journalists explain how they evaluate sources, uncertainty, and competing interpretations.",
+      "summary": "Claim or editorial framing presented in Need to Know Episode #19."
+    },
+    {
       "id": "claim-public-hearings-may-have-reached-limits",
       "type": "claim",
       "name": "Public hearings may have reached their limits",
@@ -1914,6 +1968,12 @@
       "type": "claim",
       "name": "Public testimony is only one part of oversight because significant information may remain in classified briefings.",
       "summary": "Claim or editorial framing presented in Need to Know Episode #12."
+    },
+    {
+      "id": "claim-need-to-know-20-4",
+      "type": "claim",
+      "name": "Public understanding is improved when claims are presented alongside the limits of the available evidence and the need for further investigation.",
+      "summary": "Claim or editorial framing presented in Need to Know Episode #20."
     },
     {
       "id": "claim-weaponized-35-1",
@@ -1982,6 +2042,12 @@
       "summary": "The hosts and Paulides argue that UFO and Bigfoot organizations tend to avoid evidence that crosses disciplinary boundaries."
     },
     {
+      "id": "claim-need-to-know-19-3",
+      "type": "claim",
+      "name": "Responsible UAP coverage benefits from separating verified information from speculation while remaining open to unresolved evidence.",
+      "summary": "Claim or editorial framing presented in Need to Know Episode #19."
+    },
+    {
       "id": "claim-need-to-know-10-4",
       "type": "claim",
       "name": "Responsible UAP research should prioritize witness welfare and avoid causing additional harm.",
@@ -2022,6 +2088,18 @@
       "type": "claim",
       "name": "Ryan Graves states that recurring UAP encounters created an aviation-safety concern",
       "summary": "Ryan Graves has stated that military aviators encountered unidentified objects repeatedly and that the frequency and behavior of those objects presented an unresolved aviation-safety concern."
+    },
+    {
+      "id": "claim-need-to-know-20-2",
+      "type": "claim",
+      "name": "Scientific examination of physical, biological, and sensor evidence requires access to reliable data and transparent methods.",
+      "summary": "Claim or editorial framing presented in Need to Know Episode #20."
+    },
+    {
+      "id": "claim-need-to-know-21-2",
+      "type": "claim",
+      "name": "Scientific progress requires testable evidence, transparent methods, and clearer distinctions between fact, inference, and speculation.",
+      "summary": "Claim or editorial framing presented in Need to Know Episode #21."
     },
     {
       "id": "claim-weaponized-14-1",
@@ -2264,6 +2342,12 @@
       "summary": "Claim or framing presented in WEAPONIZED Episode #10."
     },
     {
+      "id": "claim-need-to-know-18-1",
+      "type": "claim",
+      "name": "The creation of a permanent UAP office represented a structural change from earlier temporary or narrowly scoped government efforts.",
+      "summary": "Claim or editorial framing presented in Need to Know Episode #18."
+    },
+    {
       "id": "claim-weaponized-34-4",
       "type": "claim",
       "name": "The current period of congressional and scientific attention represents a limited opportunity for reform.",
@@ -2310,6 +2394,12 @@
       "type": "claim",
       "name": "The document’s absence from the public record requires researchers to distinguish confirmed history from testimony about its contents.",
       "summary": "Claim or editorial framing presented in Need to Know Episode #15."
+    },
+    {
+      "id": "claim-need-to-know-18-4",
+      "type": "claim",
+      "name": "The effectiveness of the new government process would depend on transparency, leadership, and cooperation across military and intelligence organizations.",
+      "summary": "Claim or editorial framing presented in Need to Know Episode #18."
     },
     {
       "id": "claim-weaponized-29-3",
@@ -2684,6 +2774,12 @@
       "summary": "The official episode description presents or discusses this claim; it is recorded here as a source-attributed claim, not as independently verified fact."
     },
     {
+      "id": "claim-need-to-know-19-2",
+      "type": "claim",
+      "name": "The hosts describe Need to Know as an effort to combine investigative reporting with accessible public discussion.",
+      "summary": "Claim or editorial framing presented in Need to Know Episode #19."
+    },
+    {
       "id": "claim-aaro-jellyfish-explanation-disputed",
       "type": "claim",
       "name": "The hosts disputed AARO commentary concerning the Jellyfish UAP.",
@@ -2834,6 +2930,12 @@
       "summary": "Claim or framing presented in WEAPONIZED Episode #1."
     },
     {
+      "id": "claim-need-to-know-20-3",
+      "type": "claim",
+      "name": "The modern UAP discussion combines firsthand military testimony, investigative journalism, and emerging scientific interest.",
+      "summary": "Claim or editorial framing presented in Need to Know Episode #20."
+    },
+    {
       "id": "claim-mosul-orb-recorded-2016",
       "type": "claim",
       "name": "The Mosul Orb was recorded over Mosul, Iraq, in April 2016.",
@@ -2862,6 +2964,12 @@
       "type": "claim",
       "name": "The Nimitz carrier group detected unidentified objects repeatedly over approximately two weeks in November 2004.",
       "summary": "Claim or framing presented in WEAPONIZED Episode #29."
+    },
+    {
+      "id": "claim-need-to-know-17-1",
+      "type": "claim",
+      "name": "The Nimitz encounter is supported by multiple categories of evidence and testimony extending beyond a single pilot account.",
+      "summary": "Claim or editorial framing presented in Need to Know Episode #17."
     },
     {
       "id": "claim-weaponized-27-3",
@@ -2984,6 +3092,12 @@
       "summary": "Claim or editorial framing presented in Need to Know Episode #15."
     },
     {
+      "id": "claim-need-to-know-17-3",
+      "type": "claim",
+      "name": "The reported Tic Tac behavior remains difficult to reconcile with conventional aircraft performance described by the witnesses.",
+      "summary": "Claim or editorial framing presented in Need to Know Episode #17."
+    },
+    {
       "id": "claim-crash-response-suggested-sensitive-retrieval",
       "type": "claim",
       "name": "The response suggested a sensitive retrieval operation",
@@ -3102,6 +3216,12 @@
       "type": "claim",
       "name": "Tom DeLonge’s transition from rock musician to public UAP advocate helped bring the subject to a large mainstream audience.",
       "summary": "Claim or editorial framing presented in Need to Know Episode #11."
+    },
+    {
+      "id": "claim-need-to-know-21-3",
+      "type": "claim",
+      "name": "Traditional ufology has preserved important historical material but can be weakened by personality conflicts and poor evidentiary standards.",
+      "summary": "Claim or editorial framing presented in Need to Know Episode #21."
     },
     {
       "id": "claim-transformation-2026-revisits-childhood-encounter-memories",
@@ -4953,12 +5073,57 @@
       "status": "Published"
     },
     {
+      "id": "2022-need-to-know-episode-17",
+      "type": "podcast_episode",
+      "name": "Need to Know Episode #17 — Beyond Nimitz",
+      "summary": "Ross Coulthart and Bryce Zabel revisit the 2004 Nimitz encounter through the documentary work that helped preserve witness testimony and broaden public understanding of the case beyond the best-known cockpit accounts.",
+      "date": "2022-07-14",
+      "dateDisplay": "July 14, 2022",
+      "status": "Published"
+    },
+    {
+      "id": "2022-need-to-know-episode-18",
+      "type": "podcast_episode",
+      "name": "Need to Know Episode #18 — Real Change Ahead?",
+      "summary": "Ross Coulthart and Bryce Zabel assess whether newly established government structures, congressional pressure, and defense-policy changes were likely to produce durable UAP transparency and investigation.",
+      "date": "2022-08-05",
+      "dateDisplay": "August 5, 2022",
+      "status": "Published"
+    },
+    {
+      "id": "2022-need-to-know-episode-19",
+      "type": "podcast_episode",
+      "name": "Need to Know Episode #19 — Virtual Beers",
+      "summary": "Ross Coulthart and Bryce Zabel join listeners Rob and Kieran for an informal live discussion that reflects on the origins of Need to Know, audience questions, and the value of sustained public engagement with the UAP issue.",
+      "date": "2022-08-15",
+      "dateDisplay": "August 15, 2022",
+      "status": "Published"
+    },
+    {
       "id": "2021-need-to-know-episode-2",
       "type": "podcast_episode",
       "name": "Need to Know Episode #2 — The Year Ahead",
       "summary": "Ross Coulthart and Bryce Zabel assess the momentum created by UAP developments in 2021 and outline the reporting, government action, and unanswered questions they expected to shape 2022.",
       "date": "2021-12-16",
       "dateDisplay": "December 16, 2021",
+      "status": "Published"
+    },
+    {
+      "id": "2022-need-to-know-episode-20",
+      "type": "podcast_episode",
+      "name": "Need to Know Episode #20 — 7NEWS Spotlight Special Edition",
+      "summary": "This special edition follows Ross Coulthart and Bryce Zabel as they examine the UAP issue through interviews with military witnesses, researchers, and media figures, including Ryan Graves, Jeremy Corbell, and Garry Nolan.",
+      "date": "2022-08-25",
+      "dateDisplay": "August 25, 2022",
+      "status": "Published"
+    },
+    {
+      "id": "2022-need-to-know-episode-21",
+      "type": "podcast_episode",
+      "name": "Need to Know Episode #21 — UFOlogy Must Die?",
+      "summary": "Ross Coulthart and Bryce Zabel return after their documentary special to examine Luis Elizondo’s argument that traditional ufology should give way to a more disciplined, scientific, and evidence-centered approach.",
+      "date": "2022-09-14",
+      "dateDisplay": "September 14, 2022",
       "status": "Published"
     },
     {
@@ -6519,12 +6684,52 @@
       "dateDisplay": "June 21, 2022"
     },
     {
+      "id": "timeline-2022-07-14-need-to-know-episode-17",
+      "type": "timeline_event",
+      "name": "Need to Know Episode #17 published",
+      "summary": "Ross Coulthart and Bryce Zabel revisit the 2004 Nimitz encounter through the documentary work that helped preserve witness testimony and broaden public understanding of the case beyond the best-known cockpit accounts.",
+      "date": "2022-07-14",
+      "dateDisplay": "July 14, 2022"
+    },
+    {
+      "id": "timeline-2022-08-05-need-to-know-episode-18",
+      "type": "timeline_event",
+      "name": "Need to Know Episode #18 published",
+      "summary": "Ross Coulthart and Bryce Zabel assess whether newly established government structures, congressional pressure, and defense-policy changes were likely to produce durable UAP transparency and investigation.",
+      "date": "2022-08-05",
+      "dateDisplay": "August 5, 2022"
+    },
+    {
+      "id": "timeline-2022-08-15-need-to-know-episode-19",
+      "type": "timeline_event",
+      "name": "Need to Know Episode #19 published",
+      "summary": "Ross Coulthart and Bryce Zabel join listeners Rob and Kieran for an informal live discussion that reflects on the origins of Need to Know, audience questions, and the value of sustained public engagement with the UAP issue.",
+      "date": "2022-08-15",
+      "dateDisplay": "August 15, 2022"
+    },
+    {
       "id": "timeline-2021-12-16-need-to-know-episode-2",
       "type": "timeline_event",
       "name": "Need to Know Episode #2 published",
       "summary": "Ross Coulthart and Bryce Zabel assess the momentum created by UAP developments in 2021 and outline the reporting, government action, and unanswered questions they expected to shape 2022.",
       "date": "2021-12-16",
       "dateDisplay": "December 16, 2021"
+    },
+    {
+      "id": "timeline-2022-08-25-need-to-know-episode-20",
+      "type": "timeline_event",
+      "name": "Need to Know Episode #20 published",
+      "summary": "This special edition follows Ross Coulthart and Bryce Zabel as they examine the UAP issue through interviews with military witnesses, researchers, and media figures, including Ryan Graves, Jeremy Corbell, and Garry Nolan.",
+      "date": "2022-08-25",
+      "dateDisplay": "August 25, 2022"
+    },
+    {
+      "id": "timeline-2022-09-14-need-to-know-episode-21",
+      "type": "timeline_event",
+      "name": "Need to Know Episode #21 published",
+      "summary": "Ross Coulthart and Bryce Zabel return after their documentary special to examine Luis Elizondo’s argument that traditional ufology should give way to a more disciplined, scientific, and evidence-centered approach.",
+      "date": "2022-09-14",
+      "dateDisplay": "September 14, 2022"
     },
     {
       "id": "timeline-2021-12-27-need-to-know-episode-3",
