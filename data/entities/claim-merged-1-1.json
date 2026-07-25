@@ -1,0 +1,27 @@
+{
+  "id": "claim-merged-1-1",
+  "type": "claim",
+  "name": "Scientific investigation of UAP should emphasize testable evidence, rigorous methods, and multidisciplinary expertise.",
+  "summary": "The episode presents a science-first framework for studying UAP rather than relying on belief or dismissal.",
+  "relationships": [
+    {
+      "type": "featured_in_media",
+      "target": "2023-merged-episode-1"
+    }
+  ],
+  "officialLinks": [],
+  "referenceSources": [
+    {
+      "label": "Official MERGED Episode #1 page \u2014 Interview with Dr. Garry Nolan",
+      "url": "https://www.mergedpodcast.com/episodes/interview-garry-nolan",
+      "sourceType": "official_episode_page",
+      "role": "source"
+    },
+    {
+      "label": "Official MERGED Episode #1 video \u2014 How UAP Could Change Science Forever",
+      "url": "https://www.youtube.com/watch?v=rx2x_w5wimk",
+      "sourceType": "official_episode_video",
+      "role": "source"
+    }
+  ]
+}

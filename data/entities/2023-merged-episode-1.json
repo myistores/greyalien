@@ -1,0 +1,102 @@
+{
+  "id": "2023-merged-episode-1",
+  "type": "podcast_episode",
+  "name": "MERGED Episode #1 \u2014 Interview with Dr. Garry Nolan",
+  "summary": "Ryan Graves launches the MERGED interview series with Stanford professor Garry Nolan for a science-first discussion of UAP evidence, research methods, possible biological and technological implications, and the need for rigorous multidisciplinary investigation.",
+  "date": "2023-01-10",
+  "dateDisplay": "January 10, 2023",
+  "seriesId": "merged-podcast",
+  "episodeNumber": 1,
+  "episodeTitle": "Interview with Dr. Garry Nolan",
+  "status": "Published",
+  "mediaType": "Podcast episode",
+  "mediaPlatform": "MERGED",
+  "mediaHost": "Ryan Graves",
+  "mediaGuests": [
+    "Garry Nolan"
+  ],
+  "mediaSubjects": [
+    "Scientific investigation of UAP",
+    "Biological and technological hypotheses",
+    "UAP research methods"
+  ],
+  "principalClaims": [
+    "claim-merged-1-1",
+    "claim-merged-1-2",
+    "claim-merged-1-3",
+    "claim-merged-1-4"
+  ],
+  "researchNotes": [
+    "The official MERGED website identifies Dr. Garry Nolan as the featured guest and Ryan Graves as host.",
+    "The official episode description frames the conversation around scientific approaches to UAP, including potential biological and technological explanations.",
+    "The direct YouTube record is used as the primary official video; the introductory trailer is not treated as Episode #1."
+  ],
+  "relationships": [
+    {
+      "type": "episode_of",
+      "target": "merged-podcast"
+    },
+    {
+      "type": "features_person",
+      "target": "ryan-graves",
+      "role": "host",
+      "context": "MERGED host and former U.S. Navy F/A-18 pilot"
+    },
+    {
+      "type": "features_person",
+      "target": "garry-nolan",
+      "role": "guest",
+      "context": "Featured scientific guest discussing evidence-focused UAP research"
+    },
+    {
+      "type": "discussed_topic",
+      "target": "scientific-investigation"
+    },
+    {
+      "type": "discussed_topic",
+      "target": "uap-research"
+    },
+    {
+      "type": "discussed_topic",
+      "target": "aviation-safety"
+    },
+    {
+      "type": "references_organization",
+      "target": "galileo-project",
+      "context": "Relevant scientific research context associated with Garry Nolan"
+    },
+    {
+      "type": "timeline_connection",
+      "target": "timeline-2023-01-10-merged-episode-1",
+      "context": "Launch of the first numbered MERGED interview episode"
+    }
+  ],
+  "mediaLinks": [
+    {
+      "label": "Open the official MERGED Episode #1 page",
+      "url": "https://www.mergedpodcast.com/episodes/interview-garry-nolan",
+      "platform": "MERGED"
+    },
+    {
+      "label": "Watch MERGED Episode #1 on YouTube",
+      "url": "https://www.youtube.com/watch?v=rx2x_w5wimk",
+      "platform": "YouTube"
+    }
+  ],
+  "eventCategory": "Podcast publication",
+  "officialLinks": [],
+  "referenceSources": [
+    {
+      "label": "Official MERGED Episode #1 page \u2014 Interview with Dr. Garry Nolan",
+      "url": "https://www.mergedpodcast.com/episodes/interview-garry-nolan",
+      "sourceType": "official_episode_page",
+      "role": "source"
+    },
+    {
+      "label": "Official MERGED Episode #1 video \u2014 How UAP Could Change Science Forever",
+      "url": "https://www.youtube.com/watch?v=rx2x_w5wimk",
+      "sourceType": "official_episode_video",
+      "role": "source"
+    }
+  ]
+}

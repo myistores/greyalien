@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "entityCount": 1450,
-  "relationshipCount": 3210,
+  "entityCount": 1456,
+  "relationshipCount": 3223,
   "unresolvedRelationshipCount": 16,
   "connectionCounts": {
     "1946-scandinavian-ghost-rockets": {
@@ -298,6 +298,11 @@
       "incoming": 1,
       "outgoing": 1,
       "total": 2
+    },
+    "2023-merged-episode-1": {
+      "incoming": 5,
+      "outgoing": 8,
+      "total": 13
     },
     "2023-nasa-uap-independent-study-report": {
       "incoming": 12,
@@ -1345,9 +1350,9 @@
       "total": 6
     },
     "aviation-safety": {
-      "incoming": 31,
+      "incoming": 32,
       "outgoing": 1,
-      "total": 32
+      "total": 33
     },
     "awacs": {
       "incoming": 1,
@@ -2240,6 +2245,26 @@
       "total": 1
     },
     "claim-medical-community-often-ignores-cause": {
+      "incoming": 0,
+      "outgoing": 1,
+      "total": 1
+    },
+    "claim-merged-1-1": {
+      "incoming": 0,
+      "outgoing": 1,
+      "total": 1
+    },
+    "claim-merged-1-2": {
+      "incoming": 0,
+      "outgoing": 1,
+      "total": 1
+    },
+    "claim-merged-1-3": {
+      "incoming": 0,
+      "outgoing": 1,
+      "total": 1
+    },
+    "claim-merged-1-4": {
       "incoming": 0,
       "outgoing": 1,
       "total": 1
@@ -5155,14 +5180,14 @@
       "total": 3
     },
     "galileo-project": {
-      "incoming": 4,
-      "outgoing": 2,
-      "total": 6
-    },
-    "garry-nolan": {
       "incoming": 5,
       "outgoing": 2,
       "total": 7
+    },
+    "garry-nolan": {
+      "incoming": 6,
+      "outgoing": 2,
+      "total": 8
     },
     "gary-voorhis": {
       "incoming": 0,
@@ -5560,9 +5585,9 @@
       "total": 63
     },
     "merged-podcast": {
-      "incoming": 1,
+      "incoming": 2,
       "outgoing": 2,
-      "total": 3
+      "total": 4
     },
     "michael-gold": {
       "incoming": 0,
@@ -5885,9 +5910,9 @@
       "total": 1
     },
     "ryan-graves": {
-      "incoming": 9,
+      "incoming": 10,
       "outgoing": 8,
-      "total": 17
+      "total": 18
     },
     "ryan-robbins": {
       "incoming": 3,
@@ -5920,9 +5945,9 @@
       "total": 1
     },
     "scientific-investigation": {
-      "incoming": 38,
+      "incoming": 39,
       "outgoing": 0,
-      "total": 38
+      "total": 39
     },
     "scott-bray": {
       "incoming": 0,
@@ -6298,6 +6323,11 @@
       "incoming": 0,
       "outgoing": 1,
       "total": 1
+    },
+    "timeline-2023-01-10-merged-episode-1": {
+      "incoming": 1,
+      "outgoing": 1,
+      "total": 2
     },
     "timeline-2023-01-13-need-to-know-episode-27": {
       "incoming": 0,
@@ -7060,9 +7090,9 @@
       "total": 13
     },
     "uap-research": {
-      "incoming": 66,
+      "incoming": 67,
       "outgoing": 0,
-      "total": 66
+      "total": 67
     },
     "uap-science": {
       "incoming": 5,

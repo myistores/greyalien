@@ -78,3 +78,6 @@ The accelerator never publishes directly. See `V18\_4\_RESEARCH\_ACCELERATOR.md`
 
 ### V21.5
 Need to Know Episodes 22–75 were added as a content-only production batch with direct official media links, canonical entity reuse, and cross-series validation.
+
+### V22.0
+MERGED Episode #1 was added as the third integrated podcast-series pilot using the validated content-only production workflow, direct official media, canonical entity reuse, and evidence-based cross-series discovery.

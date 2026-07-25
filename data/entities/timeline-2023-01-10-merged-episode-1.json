@@ -1,0 +1,30 @@
+{
+  "id": "timeline-2023-01-10-merged-episode-1",
+  "type": "timeline_event",
+  "name": "MERGED publishes Episode #1 with Dr. Garry Nolan",
+  "summary": "Ryan Graves begins the numbered MERGED interview series with a science-focused conversation featuring Stanford professor Garry Nolan.",
+  "date": "2023-01-10",
+  "dateDisplay": "January 10, 2023",
+  "eventCategory": "Podcast publication",
+  "relationships": [
+    {
+      "type": "event_for",
+      "target": "2023-merged-episode-1"
+    }
+  ],
+  "officialLinks": [],
+  "referenceSources": [
+    {
+      "label": "Official MERGED Episode #1 page \u2014 Interview with Dr. Garry Nolan",
+      "url": "https://www.mergedpodcast.com/episodes/interview-garry-nolan",
+      "sourceType": "official_episode_page",
+      "role": "source"
+    },
+    {
+      "label": "Official MERGED Episode #1 video \u2014 How UAP Could Change Science Forever",
+      "url": "https://www.youtube.com/watch?v=rx2x_w5wimk",
+      "sourceType": "official_episode_video",
+      "role": "source"
+    }
+  ]
+}

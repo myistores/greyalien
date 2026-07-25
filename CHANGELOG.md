@@ -470,3 +470,10 @@
 - Reused canonical entities and preserved the content-only production boundary.
 - Restored the official NTK/36 David Grusch release, preventing an off-by-one media shift through Episode #74; excluded the unnumbered Spielberg special from the numbered sequence.
 - Validated 75 sequential Need to Know records with 75 unique direct official video IDs.
+
+## V22.0 — MERGED Podcast Integration Pilot
+- Added MERGED Episode #1 featuring Dr. Garry Nolan and hosted by Ryan Graves.
+- Added four source-grounded claims and one historically meaningful launch timeline event.
+- Reused existing canonical people, series, organizations, and topics without creating duplicates.
+- Added direct official episode-page and YouTube links; cross-series discovery is generated from shared canonical people and topics without forced series edges.
+- Preserved the content-only production boundary with no platform changes.

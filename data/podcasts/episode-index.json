@@ -3033,6 +3033,24 @@
       "relationshipCount": 7
     },
     {
+      "id": "2023-merged-episode-1",
+      "name": "MERGED Episode #1 — Interview with Dr. Garry Nolan",
+      "summary": "Ryan Graves launches the MERGED interview series with Stanford professor Garry Nolan for a science-first discussion of UAP evidence, research methods, possible biological and technological implications, and the need for rigorous multidisciplinary investigation.",
+      "date": "2023-01-10",
+      "dateDisplay": "January 10, 2023",
+      "episodeNumber": 1,
+      "episodeTitle": "Interview with Dr. Garry Nolan",
+      "status": "Published",
+      "seriesId": "merged-podcast",
+      "externalUrl": "",
+      "guestIds": [
+        "garry-nolan"
+      ],
+      "subjectIds": [],
+      "claimIds": [],
+      "relationshipCount": 8
+    },
+    {
       "id": "2023-need-to-know-episode-26",
       "name": "Need to Know Episode #26 — The NDAA Is Law!",
       "summary": "Ross Coulthart and Bryce Zabel examine The NDAA Is Law!, connecting the episode’s central subject to current UAP reporting, institutional transparency, and the longer history of the phenomenon while distinguishing established information from unresolved claims.",

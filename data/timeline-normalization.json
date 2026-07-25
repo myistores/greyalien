@@ -352,6 +352,13 @@
       "name": "Need to Know Episode #26 published",
       "aliases": []
     },
+    "timeline-2023-01-10-merged-episode-1": {
+      "id": "timeline-2023-01-10-merged-episode-1",
+      "date": "2023-01-10",
+      "eventCategory": "Podcast publication",
+      "name": "MERGED publishes Episode #1 with Dr. Garry Nolan",
+      "aliases": []
+    },
     "timeline-2023-01-13-need-to-know-episode-27": {
       "id": "timeline-2023-01-13-need-to-know-episode-27",
       "date": "2023-01-13",
@@ -1304,7 +1311,7 @@
   },
   "conflicts": [],
   "statistics": {
-    "canonicalEventCount": 184,
+    "canonicalEventCount": 185,
     "aliasCount": 3,
     "conflictCount": 0
   }

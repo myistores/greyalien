@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "generatedBy": "tools/build_related_content.py",
-  "generatedAt": "2026-07-25T17:16:28.173286+00:00",
+  "generatedAt": "2026-07-25T18:43:49.667985+00:00",
   "referencedIn": {
     "1946-scandinavian-ghost-rockets": [
       {
@@ -1956,6 +1956,48 @@
         "type": "timeline_event",
         "name": "July 2023 UAP Hearing Held",
         "relationshipType": "resulted_in",
+        "role": "",
+        "context": ""
+      }
+    ],
+    "2023-merged-episode-1": [
+      {
+        "id": "claim-merged-1-2",
+        "type": "claim",
+        "name": "Potential explanations for UAP may involve biological as well as technological questions that require careful empirical study.",
+        "relationshipType": "featured_in_media",
+        "role": "",
+        "context": ""
+      },
+      {
+        "id": "claim-merged-1-4",
+        "type": "claim",
+        "name": "Progress on UAP research depends on better data, transparent analysis, and collaboration among scientists, pilots, and technical specialists.",
+        "relationshipType": "featured_in_media",
+        "role": "",
+        "context": ""
+      },
+      {
+        "id": "claim-merged-1-1",
+        "type": "claim",
+        "name": "Scientific investigation of UAP should emphasize testable evidence, rigorous methods, and multidisciplinary expertise.",
+        "relationshipType": "featured_in_media",
+        "role": "",
+        "context": ""
+      },
+      {
+        "id": "claim-merged-1-3",
+        "type": "claim",
+        "name": "Stigma and institutional resistance can limit the collection and analysis of useful UAP observations.",
+        "relationshipType": "featured_in_media",
+        "role": "",
+        "context": ""
+      },
+      {
+        "id": "timeline-2023-01-10-merged-episode-1",
+        "type": "timeline_event",
+        "name": "MERGED publishes Episode #1 with Dr. Garry Nolan",
+        "relationshipType": "event_for",
         "role": "",
         "context": ""
       }
@@ -9741,6 +9783,14 @@
         "context": ""
       },
       {
+        "id": "2023-merged-episode-1",
+        "type": "podcast_episode",
+        "name": "MERGED Episode #1 — Interview with Dr. Garry Nolan",
+        "relationshipType": "discussed_topic",
+        "role": "",
+        "context": ""
+      },
+      {
         "id": "2022-need-to-know-episode-17",
         "type": "podcast_episode",
         "name": "Need to Know Episode #17 — Beyond Nimitz",
@@ -11471,6 +11521,10 @@
     "claim-media-role-uap-suppression": [],
     "claim-media-stigma-can-deter-uap-witnesses": [],
     "claim-medical-community-often-ignores-cause": [],
+    "claim-merged-1-1": [],
+    "claim-merged-1-2": [],
+    "claim-merged-1-3": [],
+    "claim-merged-1-4": [],
     "claim-military-hazing-explanation-challenged": [],
     "claim-military-labeled-disc-uap": [],
     "claim-military-secured-crash-area-quickly": [],
@@ -14546,6 +14600,14 @@
         "context": ""
       },
       {
+        "id": "2023-merged-episode-1",
+        "type": "podcast_episode",
+        "name": "MERGED Episode #1 — Interview with Dr. Garry Nolan",
+        "relationshipType": "references_organization",
+        "role": "",
+        "context": "Relevant scientific research context associated with Garry Nolan"
+      },
+      {
         "id": "timeline-2021-07-galileo-project-founded",
         "type": "timeline_event",
         "name": "Avi Loeb Co-Founds the Galileo Project for Systematic UAP Research",
@@ -14571,6 +14633,14 @@
       }
     ],
     "garry-nolan": [
+      {
+        "id": "2023-merged-episode-1",
+        "type": "podcast_episode",
+        "name": "MERGED Episode #1 — Interview with Dr. Garry Nolan",
+        "relationshipType": "features_person",
+        "role": "guest",
+        "context": "Featured scientific guest discussing evidence-focused UAP research"
+      },
       {
         "id": "2022-need-to-know-episode-20",
         "type": "podcast_episode",
@@ -20124,6 +20194,14 @@
         "relationshipType": "affiliated_with",
         "role": "Host",
         "context": ""
+      },
+      {
+        "id": "2023-merged-episode-1",
+        "type": "podcast_episode",
+        "name": "MERGED Episode #1 — Interview with Dr. Garry Nolan",
+        "relationshipType": "episode_of",
+        "role": "",
+        "context": ""
       }
     ],
     "michael-gold": [],
@@ -22537,6 +22615,14 @@
         "context": "Founded and led by Ryan Graves"
       },
       {
+        "id": "2023-merged-episode-1",
+        "type": "podcast_episode",
+        "name": "MERGED Episode #1 — Interview with Dr. Garry Nolan",
+        "relationshipType": "features_person",
+        "role": "host",
+        "context": "MERGED host and former U.S. Navy F/A-18 pilot"
+      },
+      {
         "id": "2022-need-to-know-episode-20",
         "type": "podcast_episode",
         "name": "Need to Know Episode #20 — 7NEWS Spotlight Special Edition",
@@ -22874,6 +22960,14 @@
         "type": "organization",
         "name": "UAP Science Advisory Council",
         "relationshipType": "addresses_topic",
+        "role": "",
+        "context": ""
+      },
+      {
+        "id": "2023-merged-episode-1",
+        "type": "podcast_episode",
+        "name": "MERGED Episode #1 — Interview with Dr. Garry Nolan",
+        "relationshipType": "discussed_topic",
         "role": "",
         "context": ""
       },
@@ -23667,6 +23761,16 @@
     "timeline-2022-11-01-need-to-know-episode-24": [],
     "timeline-2022-11-29-need-to-know-episode-25": [],
     "timeline-2023-01-06-need-to-know-episode-26": [],
+    "timeline-2023-01-10-merged-episode-1": [
+      {
+        "id": "2023-merged-episode-1",
+        "type": "podcast_episode",
+        "name": "MERGED Episode #1 — Interview with Dr. Garry Nolan",
+        "relationshipType": "timeline_connection",
+        "role": "",
+        "context": "Launch of the first numbered MERGED interview episode"
+      }
+    ],
     "timeline-2023-01-13-need-to-know-episode-27": [],
     "timeline-2023-01-23-weaponized-episode-1": [],
     "timeline-2023-01-23-weaponized-launch": [
@@ -24471,6 +24575,14 @@
         "type": "case",
         "name": "2017 Iraq Jellyfish UAP Incident",
         "relationshipType": "associated_topic",
+        "role": "",
+        "context": ""
+      },
+      {
+        "id": "2023-merged-episode-1",
+        "type": "podcast_episode",
+        "name": "MERGED Episode #1 — Interview with Dr. Garry Nolan",
+        "relationshipType": "discussed_topic",
         "role": "",
         "context": ""
       },
@@ -29905,6 +30017,80 @@
         ],
         "sharedEntityCount": 3,
         "score": 35
+      }
+    ],
+    "2023-merged-episode-1": [
+      {
+        "id": "2022-need-to-know-episode-20",
+        "name": "Need to Know Episode #20 — 7NEWS Spotlight Special Edition",
+        "seriesId": "need-to-know-podcast",
+        "date": "2022-08-25",
+        "sharedEntityIds": [
+          "aviation-safety",
+          "garry-nolan",
+          "ryan-graves",
+          "uap-research"
+        ],
+        "sharedEntityCount": 4,
+        "score": 40
+      },
+      {
+        "id": "2024-weaponized-episode-48",
+        "name": "WEAPONIZED Episode #48 — Ernest Cline, UFO History, and Science-Fiction Culture",
+        "seriesId": "weaponized-podcast",
+        "date": "2024-01-22",
+        "sharedEntityIds": [
+          "scientific-investigation",
+          "uap-research"
+        ],
+        "sharedEntityCount": 2,
+        "score": 20
+      },
+      {
+        "id": "2023-weaponized-episode-42",
+        "name": "WEAPONIZED Episode #42 — The Sol Foundation Conference and Grusch Revelations",
+        "seriesId": "weaponized-podcast",
+        "date": "2023-11-27",
+        "sharedEntityIds": [
+          "garry-nolan",
+          "scientific-investigation"
+        ],
+        "sharedEntityCount": 2,
+        "score": 20
+      },
+      {
+        "id": "2022-need-to-know-episode-17",
+        "name": "Need to Know Episode #17 — Beyond Nimitz",
+        "seriesId": "need-to-know-podcast",
+        "date": "2022-07-14",
+        "sharedEntityIds": [
+          "aviation-safety",
+          "uap-research"
+        ],
+        "sharedEntityCount": 2,
+        "score": 20
+      },
+      {
+        "id": "2026-need-to-know-episode-75",
+        "name": "Need to Know Episode #75 — Is the Tic Tac Really Lockheed Martin Technology?",
+        "seriesId": "need-to-know-podcast",
+        "date": "2026-07-05",
+        "sharedEntityIds": [
+          "uap-research"
+        ],
+        "sharedEntityCount": 1,
+        "score": 10
+      },
+      {
+        "id": "2026-need-to-know-episode-74",
+        "name": "Need to Know Episode #74 — The Day After Disclosure Day",
+        "seriesId": "need-to-know-podcast",
+        "date": "2026-06-04",
+        "sharedEntityIds": [
+          "uap-research"
+        ],
+        "sharedEntityCount": 1,
+        "score": 10
       }
     ],
     "2023-need-to-know-episode-26": [
