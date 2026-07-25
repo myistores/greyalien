@@ -1,0 +1,28 @@
+{
+  "id": "claim-need-to-know-36-2",
+  "type": "claim",
+  "name": "The hosts distinguish Grusch’s reported testimony and credentials from the still-unverified underlying claims, emphasizing the need for congressional and documentary scrutiny.",
+  "summary": "The hosts distinguish Grusch’s reported testimony and credentials from the still-unverified underlying claims, emphasizing the need for congressional and documentary scrutiny.",
+  "status": "Attributed",
+  "relationships": [
+    {
+      "type": "featured_in_media",
+      "target": "2023-need-to-know-episode-36"
+    }
+  ],
+  "officialLinks": [],
+  "referenceSources": [
+    {
+      "label": "Official Need to Know Episode 36 video — Whistleblower Dave Grusch (with NewsNation Promo Clips)",
+      "url": "https://www.youtube.com/watch?v=-PwZsQidbqE",
+      "sourceType": "official_episode_video",
+      "role": "source"
+    },
+    {
+      "label": "Need to Know official YouTube collection",
+      "url": "https://www.youtube.com/playlist?list=PLXdU8QbJkboeMcvUNyGpb9h6FUS9cVBti",
+      "sourceType": "official_video_collection",
+      "role": "source"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "id": "claim-need-to-know-61-2",
+  "type": "claim",
+  "name": "The hosts distinguish publicly documented information from claims that still require corroboration, transparency, or additional evidence.",
+  "summary": "Claim or editorial framing presented in Need to Know Episode #61.",
+  "relationships": [
+    {
+      "type": "featured_in_media",
+      "target": "2025-need-to-know-episode-61"
+    }
+  ],
+  "officialLinks": [],
+  "referenceSources": [
+    {
+      "label": "Official Need to Know Episode 61 video — Gimme Some Truth",
+      "url": "https://www.youtube.com/watch?v=1viZCDLJfqg",
+      "sourceType": "official_episode_video",
+      "role": "source"
+    },
+    {
+      "label": "Need to Know official YouTube collection",
+      "url": "https://www.youtube.com/playlist?list=PLXdU8QbJkboeMcvUNyGpb9h6FUS9cVBti",
+      "sourceType": "official_video_collection",
+      "role": "source"
+    }
+  ]
+}

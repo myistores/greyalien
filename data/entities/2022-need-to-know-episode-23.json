@@ -1,0 +1,81 @@
+{
+  "id": "2022-need-to-know-episode-23",
+  "type": "podcast_episode",
+  "name": "Need to Know Episode #23 — Core Secret",
+  "summary": "Ross Coulthart and Bryce Zabel examine Core Secret, connecting the episode’s central subject to current UAP reporting, institutional transparency, and the longer history of the phenomenon while distinguishing established information from unresolved claims.",
+  "date": "2022-10-21",
+  "dateDisplay": "October 21, 2022",
+  "seriesId": "need-to-know-podcast",
+  "episodeNumber": 23,
+  "episodeTitle": "Core Secret",
+  "status": "Published",
+  "mediaType": "Podcast episode",
+  "mediaPlatform": "Need to Know",
+  "mediaHost": "Ross Coulthart and Bryce Zabel",
+  "mediaGuests": [],
+  "mediaSubjects": [],
+  "principalClaims": [
+    "claim-need-to-know-23-1",
+    "claim-need-to-know-23-2",
+    "claim-need-to-know-23-3"
+  ],
+  "researchNotes": [],
+  "relationships": [
+    {
+      "type": "episode_of",
+      "target": "need-to-know-podcast"
+    },
+    {
+      "type": "features_person",
+      "target": "bryce-zabel",
+      "role": "host",
+      "context": "Need to Know host"
+    },
+    {
+      "type": "features_person",
+      "target": "ross-coulthart",
+      "role": "host",
+      "context": "Need to Know host"
+    },
+    {
+      "type": "discussed_topic",
+      "target": "uap-research"
+    },
+    {
+      "type": "discussed_topic",
+      "target": "government-transparency"
+    },
+    {
+      "type": "discussed_topic",
+      "target": "media-coverage"
+    }
+  ],
+  "mediaLinks": [
+    {
+      "label": "Watch Need to Know Episode #23 on YouTube",
+      "url": "https://www.youtube.com/watch?v=e6XE7wef6k0",
+      "platform": "YouTube"
+    },
+    {
+      "label": "Watch the official Need to Know collection",
+      "url": "https://www.youtube.com/playlist?list=PLXdU8QbJkboeMcvUNyGpb9h6FUS9cVBti",
+      "platform": "YouTube"
+    }
+  ],
+  "eventCategory": "Podcast publication",
+  "officialLinks": [],
+  "referenceSources": [
+    {
+      "label": "Official Need to Know Episode 23 video — Core Secret",
+      "url": "https://www.youtube.com/watch?v=e6XE7wef6k0",
+      "sourceType": "official_episode_video",
+      "role": "source"
+    },
+    {
+      "label": "Need to Know official YouTube collection",
+      "url": "https://www.youtube.com/playlist?list=PLXdU8QbJkboeMcvUNyGpb9h6FUS9cVBti",
+      "sourceType": "official_video_collection",
+      "role": "source"
+    }
+  ]
+}

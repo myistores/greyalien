@@ -1,0 +1,81 @@
+{
+  "id": "2025-need-to-know-episode-62",
+  "type": "podcast_episode",
+  "name": "Need to Know Episode #62 — Watch the Skies",
+  "summary": "Ross Coulthart and Bryce Zabel examine Watch the Skies, connecting the episode’s central subject to current UAP reporting, institutional transparency, and the longer history of the phenomenon while distinguishing established information from unresolved claims.",
+  "date": "2025-04-07",
+  "dateDisplay": "April 7, 2025",
+  "seriesId": "need-to-know-podcast",
+  "episodeNumber": 62,
+  "episodeTitle": "Watch the Skies",
+  "status": "Published",
+  "mediaType": "Podcast episode",
+  "mediaPlatform": "Need to Know",
+  "mediaHost": "Ross Coulthart and Bryce Zabel",
+  "mediaGuests": [],
+  "mediaSubjects": [],
+  "principalClaims": [
+    "claim-need-to-know-62-1",
+    "claim-need-to-know-62-2",
+    "claim-need-to-know-62-3"
+  ],
+  "researchNotes": [],
+  "relationships": [
+    {
+      "type": "episode_of",
+      "target": "need-to-know-podcast"
+    },
+    {
+      "type": "features_person",
+      "target": "bryce-zabel",
+      "role": "host",
+      "context": "Need to Know host"
+    },
+    {
+      "type": "features_person",
+      "target": "ross-coulthart",
+      "role": "host",
+      "context": "Need to Know host"
+    },
+    {
+      "type": "discussed_topic",
+      "target": "uap-research"
+    },
+    {
+      "type": "discussed_topic",
+      "target": "government-transparency"
+    },
+    {
+      "type": "discussed_topic",
+      "target": "media-coverage"
+    }
+  ],
+  "mediaLinks": [
+    {
+      "label": "Watch Need to Know Episode #62 on YouTube",
+      "url": "https://www.youtube.com/watch?v=83EQaXJvYRI",
+      "platform": "YouTube"
+    },
+    {
+      "label": "Watch the official Need to Know collection",
+      "url": "https://www.youtube.com/playlist?list=PLXdU8QbJkboeMcvUNyGpb9h6FUS9cVBti",
+      "platform": "YouTube"
+    }
+  ],
+  "eventCategory": "Podcast publication",
+  "officialLinks": [],
+  "referenceSources": [
+    {
+      "label": "Official Need to Know Episode 62 video — Watch the Skies",
+      "url": "https://www.youtube.com/watch?v=83EQaXJvYRI",
+      "sourceType": "official_episode_video",
+      "role": "source"
+    },
+    {
+      "label": "Need to Know official YouTube collection",
+      "url": "https://www.youtube.com/playlist?list=PLXdU8QbJkboeMcvUNyGpb9h6FUS9cVBti",
+      "sourceType": "official_video_collection",
+      "role": "source"
+    }
+  ]
+}

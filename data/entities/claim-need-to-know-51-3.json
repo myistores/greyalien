@@ -1,0 +1,27 @@
+{
+  "id": "claim-need-to-know-51-3",
+  "type": "claim",
+  "name": "The discussion places the episode’s central subject within the broader history of government secrecy, media coverage, and public accountability surrounding UAP.",
+  "summary": "Claim or editorial framing presented in Need to Know Episode #51.",
+  "relationships": [
+    {
+      "type": "featured_in_media",
+      "target": "2024-need-to-know-episode-51"
+    }
+  ],
+  "officialLinks": [],
+  "referenceSources": [
+    {
+      "label": "Official Need to Know Episode 51 video — UAP Burnout",
+      "url": "https://www.youtube.com/watch?v=zC60JOR8nPw",
+      "sourceType": "official_episode_video",
+      "role": "source"
+    },
+    {
+      "label": "Need to Know official YouTube collection",
+      "url": "https://www.youtube.com/playlist?list=PLXdU8QbJkboeMcvUNyGpb9h6FUS9cVBti",
+      "sourceType": "official_video_collection",
+      "role": "source"
+    }
+  ]
+}

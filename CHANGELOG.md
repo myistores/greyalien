@@ -462,3 +462,11 @@
 - Documented the publisher-side conflict in which the May 17, 2022 Elizondo video is titled NTK/13 on YouTube but listed as Episode #14 in the official Need to Know archive.
 - Confirmed no duplicate direct-video IDs and no generic archive-page primary links.
 - Made no schema, rendering, UI, routing, navigation, architecture, or knowledge-graph changes.
+
+## V21.5 — Need to Know Episodes 22–75
+
+- Added 54 numbered Need to Know episodes, 162 principal claims, and 54 publication timeline events.
+- Added direct official YouTube episode links and retained the official collection as the secondary source.
+- Reused canonical entities and preserved the content-only production boundary.
+- Restored the official NTK/36 David Grusch release, preventing an off-by-one media shift through Episode #74; excluded the unnumbered Spielberg special from the numbered sequence.
+- Validated 75 sequential Need to Know records with 75 unique direct official video IDs.

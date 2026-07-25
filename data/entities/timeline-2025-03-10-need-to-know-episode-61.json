@@ -1,0 +1,30 @@
+{
+  "id": "timeline-2025-03-10-need-to-know-episode-61",
+  "type": "timeline_event",
+  "name": "Need to Know Episode #61 published",
+  "summary": "Need to Know published Episode #61, “Gimme Some Truth.”",
+  "date": "2025-03-10",
+  "dateDisplay": "March 10, 2025",
+  "eventCategory": "Podcast publication",
+  "relationships": [
+    {
+      "type": "event_for",
+      "target": "2025-need-to-know-episode-61"
+    }
+  ],
+  "officialLinks": [],
+  "referenceSources": [
+    {
+      "label": "Official Need to Know Episode 61 video — Gimme Some Truth",
+      "url": "https://www.youtube.com/watch?v=1viZCDLJfqg",
+      "sourceType": "official_episode_video",
+      "role": "source"
+    },
+    {
+      "label": "Need to Know official YouTube collection",
+      "url": "https://www.youtube.com/playlist?list=PLXdU8QbJkboeMcvUNyGpb9h6FUS9cVBti",
+      "sourceType": "official_video_collection",
+      "role": "source"
+    }
+  ]
+}

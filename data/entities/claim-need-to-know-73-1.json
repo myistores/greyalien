@@ -1,0 +1,27 @@
+{
+  "id": "claim-need-to-know-73-1",
+  "type": "claim",
+  "name": "The episode centers its analysis on “UFO Disclosure Plot Twist” as a significant development or question in the contemporary UAP discussion.",
+  "summary": "Claim or editorial framing presented in Need to Know Episode #73.",
+  "relationships": [
+    {
+      "type": "featured_in_media",
+      "target": "2026-need-to-know-episode-73"
+    }
+  ],
+  "officialLinks": [],
+  "referenceSources": [
+    {
+      "label": "Official Need to Know Episode 73 video — UFO Disclosure Plot Twist",
+      "url": "https://www.youtube.com/watch?v=8C1pgdKUuoQ",
+      "sourceType": "official_episode_video",
+      "role": "source"
+    },
+    {
+      "label": "Need to Know official YouTube collection",
+      "url": "https://www.youtube.com/playlist?list=PLXdU8QbJkboePTgyvfpJ6X8MXWPkfxOgv",
+      "sourceType": "official_video_collection",
+      "role": "source"
+    }
+  ]
+}

@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "entityCount": 1180,
-  "relationshipCount": 2639,
+  "entityCount": 1450,
+  "relationshipCount": 3210,
   "unresolvedRelationshipCount": 16,
   "connectionCounts": {
     "1946-scandinavian-ghost-rockets": {
@@ -204,6 +204,26 @@
       "outgoing": 8,
       "total": 13
     },
+    "2022-need-to-know-episode-22": {
+      "incoming": 4,
+      "outgoing": 6,
+      "total": 10
+    },
+    "2022-need-to-know-episode-23": {
+      "incoming": 4,
+      "outgoing": 6,
+      "total": 10
+    },
+    "2022-need-to-know-episode-24": {
+      "incoming": 4,
+      "outgoing": 7,
+      "total": 11
+    },
+    "2022-need-to-know-episode-25": {
+      "incoming": 4,
+      "outgoing": 6,
+      "total": 10
+    },
     "2022-need-to-know-episode-4": {
       "incoming": 5,
       "outgoing": 7,
@@ -283,6 +303,116 @@
       "incoming": 12,
       "outgoing": 5,
       "total": 17
+    },
+    "2023-need-to-know-episode-26": {
+      "incoming": 4,
+      "outgoing": 6,
+      "total": 10
+    },
+    "2023-need-to-know-episode-27": {
+      "incoming": 4,
+      "outgoing": 7,
+      "total": 11
+    },
+    "2023-need-to-know-episode-28": {
+      "incoming": 4,
+      "outgoing": 6,
+      "total": 10
+    },
+    "2023-need-to-know-episode-29": {
+      "incoming": 4,
+      "outgoing": 6,
+      "total": 10
+    },
+    "2023-need-to-know-episode-30": {
+      "incoming": 4,
+      "outgoing": 7,
+      "total": 11
+    },
+    "2023-need-to-know-episode-31": {
+      "incoming": 4,
+      "outgoing": 7,
+      "total": 11
+    },
+    "2023-need-to-know-episode-32": {
+      "incoming": 4,
+      "outgoing": 7,
+      "total": 11
+    },
+    "2023-need-to-know-episode-33": {
+      "incoming": 4,
+      "outgoing": 7,
+      "total": 11
+    },
+    "2023-need-to-know-episode-34": {
+      "incoming": 4,
+      "outgoing": 6,
+      "total": 10
+    },
+    "2023-need-to-know-episode-35": {
+      "incoming": 4,
+      "outgoing": 7,
+      "total": 11
+    },
+    "2023-need-to-know-episode-36": {
+      "incoming": 4,
+      "outgoing": 7,
+      "total": 11
+    },
+    "2023-need-to-know-episode-37": {
+      "incoming": 4,
+      "outgoing": 8,
+      "total": 12
+    },
+    "2023-need-to-know-episode-38": {
+      "incoming": 4,
+      "outgoing": 7,
+      "total": 11
+    },
+    "2023-need-to-know-episode-39": {
+      "incoming": 4,
+      "outgoing": 7,
+      "total": 11
+    },
+    "2023-need-to-know-episode-40": {
+      "incoming": 4,
+      "outgoing": 7,
+      "total": 11
+    },
+    "2023-need-to-know-episode-41": {
+      "incoming": 4,
+      "outgoing": 7,
+      "total": 11
+    },
+    "2023-need-to-know-episode-42": {
+      "incoming": 4,
+      "outgoing": 7,
+      "total": 11
+    },
+    "2023-need-to-know-episode-43": {
+      "incoming": 4,
+      "outgoing": 6,
+      "total": 10
+    },
+    "2023-need-to-know-episode-44": {
+      "incoming": 4,
+      "outgoing": 6,
+      "total": 10
+    },
+    "2023-need-to-know-episode-45": {
+      "incoming": 4,
+      "outgoing": 6,
+      "total": 10
+    },
+    "2023-need-to-know-episode-46": {
+      "incoming": 4,
+      "outgoing": 6,
+      "total": 10
+    },
+    "2023-need-to-know-episode-47": {
+      "incoming": 4,
+      "outgoing": 6,
+      "total": 10
     },
     "2023-newsnation-grusch-interview": {
       "incoming": 3,
@@ -559,6 +689,66 @@
       "outgoing": 6,
       "total": 8
     },
+    "2024-need-to-know-episode-48": {
+      "incoming": 4,
+      "outgoing": 6,
+      "total": 10
+    },
+    "2024-need-to-know-episode-49": {
+      "incoming": 4,
+      "outgoing": 8,
+      "total": 12
+    },
+    "2024-need-to-know-episode-50": {
+      "incoming": 4,
+      "outgoing": 7,
+      "total": 11
+    },
+    "2024-need-to-know-episode-51": {
+      "incoming": 4,
+      "outgoing": 6,
+      "total": 10
+    },
+    "2024-need-to-know-episode-52": {
+      "incoming": 4,
+      "outgoing": 7,
+      "total": 11
+    },
+    "2024-need-to-know-episode-53": {
+      "incoming": 4,
+      "outgoing": 7,
+      "total": 11
+    },
+    "2024-need-to-know-episode-54": {
+      "incoming": 4,
+      "outgoing": 7,
+      "total": 11
+    },
+    "2024-need-to-know-episode-55": {
+      "incoming": 4,
+      "outgoing": 7,
+      "total": 11
+    },
+    "2024-need-to-know-episode-56": {
+      "incoming": 4,
+      "outgoing": 7,
+      "total": 11
+    },
+    "2024-need-to-know-episode-57": {
+      "incoming": 4,
+      "outgoing": 8,
+      "total": 12
+    },
+    "2024-need-to-know-episode-58": {
+      "incoming": 4,
+      "outgoing": 7,
+      "total": 11
+    },
+    "2024-need-to-know-episode-59": {
+      "incoming": 4,
+      "outgoing": 6,
+      "total": 10
+    },
     "2024-weaponized-episode-46": {
       "incoming": 1,
       "outgoing": 10,
@@ -678,6 +868,56 @@
       "incoming": 1,
       "outgoing": 1,
       "total": 2
+    },
+    "2025-need-to-know-episode-60": {
+      "incoming": 4,
+      "outgoing": 6,
+      "total": 10
+    },
+    "2025-need-to-know-episode-61": {
+      "incoming": 4,
+      "outgoing": 6,
+      "total": 10
+    },
+    "2025-need-to-know-episode-62": {
+      "incoming": 4,
+      "outgoing": 6,
+      "total": 10
+    },
+    "2025-need-to-know-episode-63": {
+      "incoming": 4,
+      "outgoing": 7,
+      "total": 11
+    },
+    "2025-need-to-know-episode-64": {
+      "incoming": 4,
+      "outgoing": 7,
+      "total": 11
+    },
+    "2025-need-to-know-episode-65": {
+      "incoming": 4,
+      "outgoing": 6,
+      "total": 10
+    },
+    "2025-need-to-know-episode-66": {
+      "incoming": 4,
+      "outgoing": 6,
+      "total": 10
+    },
+    "2025-need-to-know-episode-67": {
+      "incoming": 4,
+      "outgoing": 6,
+      "total": 10
+    },
+    "2025-need-to-know-episode-68": {
+      "incoming": 4,
+      "outgoing": 7,
+      "total": 11
+    },
+    "2025-need-to-know-episode-69": {
+      "incoming": 4,
+      "outgoing": 6,
+      "total": 10
     },
     "2025-weaponized-episode-100": {
       "incoming": 5,
@@ -889,6 +1129,36 @@
       "outgoing": 5,
       "total": 6
     },
+    "2026-need-to-know-episode-70": {
+      "incoming": 4,
+      "outgoing": 6,
+      "total": 10
+    },
+    "2026-need-to-know-episode-71": {
+      "incoming": 4,
+      "outgoing": 6,
+      "total": 10
+    },
+    "2026-need-to-know-episode-72": {
+      "incoming": 4,
+      "outgoing": 7,
+      "total": 11
+    },
+    "2026-need-to-know-episode-73": {
+      "incoming": 4,
+      "outgoing": 6,
+      "total": 10
+    },
+    "2026-need-to-know-episode-74": {
+      "incoming": 4,
+      "outgoing": 7,
+      "total": 11
+    },
+    "2026-need-to-know-episode-75": {
+      "incoming": 4,
+      "outgoing": 6,
+      "total": 10
+    },
     "2026-s4-bob-lazar-story": {
       "incoming": 2,
       "outgoing": 4,
@@ -990,9 +1260,9 @@
       "total": 2
     },
     "aaro": {
-      "incoming": 30,
+      "incoming": 35,
       "outgoing": 4,
-      "total": 34
+      "total": 39
     },
     "aatip": {
       "incoming": 3,
@@ -1125,9 +1395,9 @@
       "total": 2
     },
     "bryce-zabel": {
-      "incoming": 23,
+      "incoming": 77,
       "outgoing": 1,
-      "total": 24
+      "total": 78
     },
     "buddha-jones": {
       "incoming": 2,
@@ -1190,9 +1460,9 @@
       "total": 2
     },
     "chuck-schumer": {
-      "incoming": 1,
+      "incoming": 2,
       "outgoing": 1,
-      "total": 2
+      "total": 3
     },
     "claim-2017-nyt-ufo-report-changed-public-discourse": {
       "incoming": 0,
@@ -2334,6 +2604,126 @@
       "outgoing": 1,
       "total": 1
     },
+    "claim-need-to-know-22-1": {
+      "incoming": 0,
+      "outgoing": 1,
+      "total": 1
+    },
+    "claim-need-to-know-22-2": {
+      "incoming": 0,
+      "outgoing": 1,
+      "total": 1
+    },
+    "claim-need-to-know-22-3": {
+      "incoming": 0,
+      "outgoing": 1,
+      "total": 1
+    },
+    "claim-need-to-know-23-1": {
+      "incoming": 0,
+      "outgoing": 1,
+      "total": 1
+    },
+    "claim-need-to-know-23-2": {
+      "incoming": 0,
+      "outgoing": 1,
+      "total": 1
+    },
+    "claim-need-to-know-23-3": {
+      "incoming": 0,
+      "outgoing": 1,
+      "total": 1
+    },
+    "claim-need-to-know-24-1": {
+      "incoming": 0,
+      "outgoing": 1,
+      "total": 1
+    },
+    "claim-need-to-know-24-2": {
+      "incoming": 0,
+      "outgoing": 1,
+      "total": 1
+    },
+    "claim-need-to-know-24-3": {
+      "incoming": 0,
+      "outgoing": 1,
+      "total": 1
+    },
+    "claim-need-to-know-25-1": {
+      "incoming": 0,
+      "outgoing": 1,
+      "total": 1
+    },
+    "claim-need-to-know-25-2": {
+      "incoming": 0,
+      "outgoing": 1,
+      "total": 1
+    },
+    "claim-need-to-know-25-3": {
+      "incoming": 0,
+      "outgoing": 1,
+      "total": 1
+    },
+    "claim-need-to-know-26-1": {
+      "incoming": 0,
+      "outgoing": 1,
+      "total": 1
+    },
+    "claim-need-to-know-26-2": {
+      "incoming": 0,
+      "outgoing": 1,
+      "total": 1
+    },
+    "claim-need-to-know-26-3": {
+      "incoming": 0,
+      "outgoing": 1,
+      "total": 1
+    },
+    "claim-need-to-know-27-1": {
+      "incoming": 0,
+      "outgoing": 1,
+      "total": 1
+    },
+    "claim-need-to-know-27-2": {
+      "incoming": 0,
+      "outgoing": 1,
+      "total": 1
+    },
+    "claim-need-to-know-27-3": {
+      "incoming": 0,
+      "outgoing": 1,
+      "total": 1
+    },
+    "claim-need-to-know-28-1": {
+      "incoming": 0,
+      "outgoing": 1,
+      "total": 1
+    },
+    "claim-need-to-know-28-2": {
+      "incoming": 0,
+      "outgoing": 1,
+      "total": 1
+    },
+    "claim-need-to-know-28-3": {
+      "incoming": 0,
+      "outgoing": 1,
+      "total": 1
+    },
+    "claim-need-to-know-29-1": {
+      "incoming": 0,
+      "outgoing": 1,
+      "total": 1
+    },
+    "claim-need-to-know-29-2": {
+      "incoming": 0,
+      "outgoing": 1,
+      "total": 1
+    },
+    "claim-need-to-know-29-3": {
+      "incoming": 0,
+      "outgoing": 1,
+      "total": 1
+    },
     "claim-need-to-know-3-1": {
       "incoming": 0,
       "outgoing": 1,
@@ -2350,6 +2740,156 @@
       "total": 1
     },
     "claim-need-to-know-3-4": {
+      "incoming": 0,
+      "outgoing": 1,
+      "total": 1
+    },
+    "claim-need-to-know-30-1": {
+      "incoming": 0,
+      "outgoing": 1,
+      "total": 1
+    },
+    "claim-need-to-know-30-2": {
+      "incoming": 0,
+      "outgoing": 1,
+      "total": 1
+    },
+    "claim-need-to-know-30-3": {
+      "incoming": 0,
+      "outgoing": 1,
+      "total": 1
+    },
+    "claim-need-to-know-31-1": {
+      "incoming": 0,
+      "outgoing": 1,
+      "total": 1
+    },
+    "claim-need-to-know-31-2": {
+      "incoming": 0,
+      "outgoing": 1,
+      "total": 1
+    },
+    "claim-need-to-know-31-3": {
+      "incoming": 0,
+      "outgoing": 1,
+      "total": 1
+    },
+    "claim-need-to-know-32-1": {
+      "incoming": 0,
+      "outgoing": 1,
+      "total": 1
+    },
+    "claim-need-to-know-32-2": {
+      "incoming": 0,
+      "outgoing": 1,
+      "total": 1
+    },
+    "claim-need-to-know-32-3": {
+      "incoming": 0,
+      "outgoing": 1,
+      "total": 1
+    },
+    "claim-need-to-know-33-1": {
+      "incoming": 0,
+      "outgoing": 1,
+      "total": 1
+    },
+    "claim-need-to-know-33-2": {
+      "incoming": 0,
+      "outgoing": 1,
+      "total": 1
+    },
+    "claim-need-to-know-33-3": {
+      "incoming": 0,
+      "outgoing": 1,
+      "total": 1
+    },
+    "claim-need-to-know-34-1": {
+      "incoming": 0,
+      "outgoing": 1,
+      "total": 1
+    },
+    "claim-need-to-know-34-2": {
+      "incoming": 0,
+      "outgoing": 1,
+      "total": 1
+    },
+    "claim-need-to-know-34-3": {
+      "incoming": 0,
+      "outgoing": 1,
+      "total": 1
+    },
+    "claim-need-to-know-35-1": {
+      "incoming": 0,
+      "outgoing": 1,
+      "total": 1
+    },
+    "claim-need-to-know-35-2": {
+      "incoming": 0,
+      "outgoing": 1,
+      "total": 1
+    },
+    "claim-need-to-know-35-3": {
+      "incoming": 0,
+      "outgoing": 1,
+      "total": 1
+    },
+    "claim-need-to-know-36-1": {
+      "incoming": 0,
+      "outgoing": 1,
+      "total": 1
+    },
+    "claim-need-to-know-36-2": {
+      "incoming": 0,
+      "outgoing": 1,
+      "total": 1
+    },
+    "claim-need-to-know-36-3": {
+      "incoming": 0,
+      "outgoing": 1,
+      "total": 1
+    },
+    "claim-need-to-know-37-1": {
+      "incoming": 0,
+      "outgoing": 1,
+      "total": 1
+    },
+    "claim-need-to-know-37-2": {
+      "incoming": 0,
+      "outgoing": 1,
+      "total": 1
+    },
+    "claim-need-to-know-37-3": {
+      "incoming": 0,
+      "outgoing": 1,
+      "total": 1
+    },
+    "claim-need-to-know-38-1": {
+      "incoming": 0,
+      "outgoing": 1,
+      "total": 1
+    },
+    "claim-need-to-know-38-2": {
+      "incoming": 0,
+      "outgoing": 1,
+      "total": 1
+    },
+    "claim-need-to-know-38-3": {
+      "incoming": 0,
+      "outgoing": 1,
+      "total": 1
+    },
+    "claim-need-to-know-39-1": {
+      "incoming": 0,
+      "outgoing": 1,
+      "total": 1
+    },
+    "claim-need-to-know-39-2": {
+      "incoming": 0,
+      "outgoing": 1,
+      "total": 1
+    },
+    "claim-need-to-know-39-3": {
       "incoming": 0,
       "outgoing": 1,
       "total": 1
@@ -2374,6 +2914,156 @@
       "outgoing": 1,
       "total": 1
     },
+    "claim-need-to-know-40-1": {
+      "incoming": 0,
+      "outgoing": 1,
+      "total": 1
+    },
+    "claim-need-to-know-40-2": {
+      "incoming": 0,
+      "outgoing": 1,
+      "total": 1
+    },
+    "claim-need-to-know-40-3": {
+      "incoming": 0,
+      "outgoing": 1,
+      "total": 1
+    },
+    "claim-need-to-know-41-1": {
+      "incoming": 0,
+      "outgoing": 1,
+      "total": 1
+    },
+    "claim-need-to-know-41-2": {
+      "incoming": 0,
+      "outgoing": 1,
+      "total": 1
+    },
+    "claim-need-to-know-41-3": {
+      "incoming": 0,
+      "outgoing": 1,
+      "total": 1
+    },
+    "claim-need-to-know-42-1": {
+      "incoming": 0,
+      "outgoing": 1,
+      "total": 1
+    },
+    "claim-need-to-know-42-2": {
+      "incoming": 0,
+      "outgoing": 1,
+      "total": 1
+    },
+    "claim-need-to-know-42-3": {
+      "incoming": 0,
+      "outgoing": 1,
+      "total": 1
+    },
+    "claim-need-to-know-43-1": {
+      "incoming": 0,
+      "outgoing": 1,
+      "total": 1
+    },
+    "claim-need-to-know-43-2": {
+      "incoming": 0,
+      "outgoing": 1,
+      "total": 1
+    },
+    "claim-need-to-know-43-3": {
+      "incoming": 0,
+      "outgoing": 1,
+      "total": 1
+    },
+    "claim-need-to-know-44-1": {
+      "incoming": 0,
+      "outgoing": 1,
+      "total": 1
+    },
+    "claim-need-to-know-44-2": {
+      "incoming": 0,
+      "outgoing": 1,
+      "total": 1
+    },
+    "claim-need-to-know-44-3": {
+      "incoming": 0,
+      "outgoing": 1,
+      "total": 1
+    },
+    "claim-need-to-know-45-1": {
+      "incoming": 0,
+      "outgoing": 1,
+      "total": 1
+    },
+    "claim-need-to-know-45-2": {
+      "incoming": 0,
+      "outgoing": 1,
+      "total": 1
+    },
+    "claim-need-to-know-45-3": {
+      "incoming": 0,
+      "outgoing": 1,
+      "total": 1
+    },
+    "claim-need-to-know-46-1": {
+      "incoming": 0,
+      "outgoing": 1,
+      "total": 1
+    },
+    "claim-need-to-know-46-2": {
+      "incoming": 0,
+      "outgoing": 1,
+      "total": 1
+    },
+    "claim-need-to-know-46-3": {
+      "incoming": 0,
+      "outgoing": 1,
+      "total": 1
+    },
+    "claim-need-to-know-47-1": {
+      "incoming": 0,
+      "outgoing": 1,
+      "total": 1
+    },
+    "claim-need-to-know-47-2": {
+      "incoming": 0,
+      "outgoing": 1,
+      "total": 1
+    },
+    "claim-need-to-know-47-3": {
+      "incoming": 0,
+      "outgoing": 1,
+      "total": 1
+    },
+    "claim-need-to-know-48-1": {
+      "incoming": 0,
+      "outgoing": 1,
+      "total": 1
+    },
+    "claim-need-to-know-48-2": {
+      "incoming": 0,
+      "outgoing": 1,
+      "total": 1
+    },
+    "claim-need-to-know-48-3": {
+      "incoming": 0,
+      "outgoing": 1,
+      "total": 1
+    },
+    "claim-need-to-know-49-1": {
+      "incoming": 0,
+      "outgoing": 1,
+      "total": 1
+    },
+    "claim-need-to-know-49-2": {
+      "incoming": 0,
+      "outgoing": 1,
+      "total": 1
+    },
+    "claim-need-to-know-49-3": {
+      "incoming": 0,
+      "outgoing": 1,
+      "total": 1
+    },
     "claim-need-to-know-5-1": {
       "incoming": 0,
       "outgoing": 1,
@@ -2390,6 +3080,156 @@
       "total": 1
     },
     "claim-need-to-know-5-4": {
+      "incoming": 0,
+      "outgoing": 1,
+      "total": 1
+    },
+    "claim-need-to-know-50-1": {
+      "incoming": 0,
+      "outgoing": 1,
+      "total": 1
+    },
+    "claim-need-to-know-50-2": {
+      "incoming": 0,
+      "outgoing": 1,
+      "total": 1
+    },
+    "claim-need-to-know-50-3": {
+      "incoming": 0,
+      "outgoing": 1,
+      "total": 1
+    },
+    "claim-need-to-know-51-1": {
+      "incoming": 0,
+      "outgoing": 1,
+      "total": 1
+    },
+    "claim-need-to-know-51-2": {
+      "incoming": 0,
+      "outgoing": 1,
+      "total": 1
+    },
+    "claim-need-to-know-51-3": {
+      "incoming": 0,
+      "outgoing": 1,
+      "total": 1
+    },
+    "claim-need-to-know-52-1": {
+      "incoming": 0,
+      "outgoing": 1,
+      "total": 1
+    },
+    "claim-need-to-know-52-2": {
+      "incoming": 0,
+      "outgoing": 1,
+      "total": 1
+    },
+    "claim-need-to-know-52-3": {
+      "incoming": 0,
+      "outgoing": 1,
+      "total": 1
+    },
+    "claim-need-to-know-53-1": {
+      "incoming": 0,
+      "outgoing": 1,
+      "total": 1
+    },
+    "claim-need-to-know-53-2": {
+      "incoming": 0,
+      "outgoing": 1,
+      "total": 1
+    },
+    "claim-need-to-know-53-3": {
+      "incoming": 0,
+      "outgoing": 1,
+      "total": 1
+    },
+    "claim-need-to-know-54-1": {
+      "incoming": 0,
+      "outgoing": 1,
+      "total": 1
+    },
+    "claim-need-to-know-54-2": {
+      "incoming": 0,
+      "outgoing": 1,
+      "total": 1
+    },
+    "claim-need-to-know-54-3": {
+      "incoming": 0,
+      "outgoing": 1,
+      "total": 1
+    },
+    "claim-need-to-know-55-1": {
+      "incoming": 0,
+      "outgoing": 1,
+      "total": 1
+    },
+    "claim-need-to-know-55-2": {
+      "incoming": 0,
+      "outgoing": 1,
+      "total": 1
+    },
+    "claim-need-to-know-55-3": {
+      "incoming": 0,
+      "outgoing": 1,
+      "total": 1
+    },
+    "claim-need-to-know-56-1": {
+      "incoming": 0,
+      "outgoing": 1,
+      "total": 1
+    },
+    "claim-need-to-know-56-2": {
+      "incoming": 0,
+      "outgoing": 1,
+      "total": 1
+    },
+    "claim-need-to-know-56-3": {
+      "incoming": 0,
+      "outgoing": 1,
+      "total": 1
+    },
+    "claim-need-to-know-57-1": {
+      "incoming": 0,
+      "outgoing": 1,
+      "total": 1
+    },
+    "claim-need-to-know-57-2": {
+      "incoming": 0,
+      "outgoing": 1,
+      "total": 1
+    },
+    "claim-need-to-know-57-3": {
+      "incoming": 0,
+      "outgoing": 1,
+      "total": 1
+    },
+    "claim-need-to-know-58-1": {
+      "incoming": 0,
+      "outgoing": 1,
+      "total": 1
+    },
+    "claim-need-to-know-58-2": {
+      "incoming": 0,
+      "outgoing": 1,
+      "total": 1
+    },
+    "claim-need-to-know-58-3": {
+      "incoming": 0,
+      "outgoing": 1,
+      "total": 1
+    },
+    "claim-need-to-know-59-1": {
+      "incoming": 0,
+      "outgoing": 1,
+      "total": 1
+    },
+    "claim-need-to-know-59-2": {
+      "incoming": 0,
+      "outgoing": 1,
+      "total": 1
+    },
+    "claim-need-to-know-59-3": {
       "incoming": 0,
       "outgoing": 1,
       "total": 1
@@ -2414,6 +3254,156 @@
       "outgoing": 1,
       "total": 1
     },
+    "claim-need-to-know-60-1": {
+      "incoming": 0,
+      "outgoing": 1,
+      "total": 1
+    },
+    "claim-need-to-know-60-2": {
+      "incoming": 0,
+      "outgoing": 1,
+      "total": 1
+    },
+    "claim-need-to-know-60-3": {
+      "incoming": 0,
+      "outgoing": 1,
+      "total": 1
+    },
+    "claim-need-to-know-61-1": {
+      "incoming": 0,
+      "outgoing": 1,
+      "total": 1
+    },
+    "claim-need-to-know-61-2": {
+      "incoming": 0,
+      "outgoing": 1,
+      "total": 1
+    },
+    "claim-need-to-know-61-3": {
+      "incoming": 0,
+      "outgoing": 1,
+      "total": 1
+    },
+    "claim-need-to-know-62-1": {
+      "incoming": 0,
+      "outgoing": 1,
+      "total": 1
+    },
+    "claim-need-to-know-62-2": {
+      "incoming": 0,
+      "outgoing": 1,
+      "total": 1
+    },
+    "claim-need-to-know-62-3": {
+      "incoming": 0,
+      "outgoing": 1,
+      "total": 1
+    },
+    "claim-need-to-know-63-1": {
+      "incoming": 0,
+      "outgoing": 1,
+      "total": 1
+    },
+    "claim-need-to-know-63-2": {
+      "incoming": 0,
+      "outgoing": 1,
+      "total": 1
+    },
+    "claim-need-to-know-63-3": {
+      "incoming": 0,
+      "outgoing": 1,
+      "total": 1
+    },
+    "claim-need-to-know-64-1": {
+      "incoming": 0,
+      "outgoing": 1,
+      "total": 1
+    },
+    "claim-need-to-know-64-2": {
+      "incoming": 0,
+      "outgoing": 1,
+      "total": 1
+    },
+    "claim-need-to-know-64-3": {
+      "incoming": 0,
+      "outgoing": 1,
+      "total": 1
+    },
+    "claim-need-to-know-65-1": {
+      "incoming": 0,
+      "outgoing": 1,
+      "total": 1
+    },
+    "claim-need-to-know-65-2": {
+      "incoming": 0,
+      "outgoing": 1,
+      "total": 1
+    },
+    "claim-need-to-know-65-3": {
+      "incoming": 0,
+      "outgoing": 1,
+      "total": 1
+    },
+    "claim-need-to-know-66-1": {
+      "incoming": 0,
+      "outgoing": 1,
+      "total": 1
+    },
+    "claim-need-to-know-66-2": {
+      "incoming": 0,
+      "outgoing": 1,
+      "total": 1
+    },
+    "claim-need-to-know-66-3": {
+      "incoming": 0,
+      "outgoing": 1,
+      "total": 1
+    },
+    "claim-need-to-know-67-1": {
+      "incoming": 0,
+      "outgoing": 1,
+      "total": 1
+    },
+    "claim-need-to-know-67-2": {
+      "incoming": 0,
+      "outgoing": 1,
+      "total": 1
+    },
+    "claim-need-to-know-67-3": {
+      "incoming": 0,
+      "outgoing": 1,
+      "total": 1
+    },
+    "claim-need-to-know-68-1": {
+      "incoming": 0,
+      "outgoing": 1,
+      "total": 1
+    },
+    "claim-need-to-know-68-2": {
+      "incoming": 0,
+      "outgoing": 1,
+      "total": 1
+    },
+    "claim-need-to-know-68-3": {
+      "incoming": 0,
+      "outgoing": 1,
+      "total": 1
+    },
+    "claim-need-to-know-69-1": {
+      "incoming": 0,
+      "outgoing": 1,
+      "total": 1
+    },
+    "claim-need-to-know-69-2": {
+      "incoming": 0,
+      "outgoing": 1,
+      "total": 1
+    },
+    "claim-need-to-know-69-3": {
+      "incoming": 0,
+      "outgoing": 1,
+      "total": 1
+    },
     "claim-need-to-know-7-1": {
       "incoming": 0,
       "outgoing": 1,
@@ -2430,6 +3420,96 @@
       "total": 1
     },
     "claim-need-to-know-7-4": {
+      "incoming": 0,
+      "outgoing": 1,
+      "total": 1
+    },
+    "claim-need-to-know-70-1": {
+      "incoming": 0,
+      "outgoing": 1,
+      "total": 1
+    },
+    "claim-need-to-know-70-2": {
+      "incoming": 0,
+      "outgoing": 1,
+      "total": 1
+    },
+    "claim-need-to-know-70-3": {
+      "incoming": 0,
+      "outgoing": 1,
+      "total": 1
+    },
+    "claim-need-to-know-71-1": {
+      "incoming": 0,
+      "outgoing": 1,
+      "total": 1
+    },
+    "claim-need-to-know-71-2": {
+      "incoming": 0,
+      "outgoing": 1,
+      "total": 1
+    },
+    "claim-need-to-know-71-3": {
+      "incoming": 0,
+      "outgoing": 1,
+      "total": 1
+    },
+    "claim-need-to-know-72-1": {
+      "incoming": 0,
+      "outgoing": 1,
+      "total": 1
+    },
+    "claim-need-to-know-72-2": {
+      "incoming": 0,
+      "outgoing": 1,
+      "total": 1
+    },
+    "claim-need-to-know-72-3": {
+      "incoming": 0,
+      "outgoing": 1,
+      "total": 1
+    },
+    "claim-need-to-know-73-1": {
+      "incoming": 0,
+      "outgoing": 1,
+      "total": 1
+    },
+    "claim-need-to-know-73-2": {
+      "incoming": 0,
+      "outgoing": 1,
+      "total": 1
+    },
+    "claim-need-to-know-73-3": {
+      "incoming": 0,
+      "outgoing": 1,
+      "total": 1
+    },
+    "claim-need-to-know-74-1": {
+      "incoming": 0,
+      "outgoing": 1,
+      "total": 1
+    },
+    "claim-need-to-know-74-2": {
+      "incoming": 0,
+      "outgoing": 1,
+      "total": 1
+    },
+    "claim-need-to-know-74-3": {
+      "incoming": 0,
+      "outgoing": 1,
+      "total": 1
+    },
+    "claim-need-to-know-75-1": {
+      "incoming": 0,
+      "outgoing": 1,
+      "total": 1
+    },
+    "claim-need-to-know-75-2": {
+      "incoming": 0,
+      "outgoing": 1,
+      "total": 1
+    },
+    "claim-need-to-know-75-3": {
       "incoming": 0,
       "outgoing": 1,
       "total": 1
@@ -3795,14 +4875,14 @@
       "total": 6
     },
     "congressional-oversight": {
-      "incoming": 41,
+      "incoming": 47,
       "outgoing": 0,
-      "total": 41
+      "total": 47
     },
     "contact-in-the-desert": {
-      "incoming": 1,
+      "incoming": 2,
       "outgoing": 0,
-      "total": 1
+      "total": 2
     },
     "counterintelligence": {
       "incoming": 2,
@@ -3875,9 +4955,9 @@
       "total": 2
     },
     "david-grusch": {
-      "incoming": 14,
+      "incoming": 19,
       "outgoing": 9,
-      "total": 23
+      "total": 28
     },
     "david-paulides": {
       "incoming": 1,
@@ -4100,9 +5180,9 @@
       "total": 1
     },
     "government-transparency": {
-      "incoming": 110,
+      "incoming": 164,
       "outgoing": 0,
-      "total": 110
+      "total": 164
     },
     "hal-puthoff": {
       "incoming": 3,
@@ -4135,9 +5215,9 @@
       "total": 1
     },
     "historical-ufo-research": {
-      "incoming": 22,
+      "incoming": 24,
       "outgoing": 0,
-      "total": 22
+      "total": 24
     },
     "hitchhiker-effect": {
       "incoming": 1,
@@ -4175,9 +5255,9 @@
       "total": 3
     },
     "immaculate-constellation": {
-      "incoming": 12,
+      "incoming": 13,
       "outgoing": 2,
-      "total": 14
+      "total": 15
     },
     "in-plain-sight-ross-coulthart": {
       "incoming": 1,
@@ -4345,9 +5425,9 @@
       "total": 2
     },
     "karl-nell": {
-      "incoming": 3,
+      "incoming": 4,
       "outgoing": 5,
-      "total": 8
+      "total": 9
     },
     "karlin-toner": {
       "incoming": 0,
@@ -4435,9 +5515,9 @@
       "total": 4
     },
     "luis-elizondo": {
-      "incoming": 10,
+      "incoming": 12,
       "outgoing": 6,
-      "total": 16
+      "total": 18
     },
     "malmstrom-air-force-base": {
       "incoming": 1,
@@ -4475,9 +5555,9 @@
       "total": 1
     },
     "media-coverage": {
-      "incoming": 9,
+      "incoming": 63,
       "outgoing": 0,
-      "total": 9
+      "total": 63
     },
     "merged-podcast": {
       "incoming": 1,
@@ -4610,9 +5690,9 @@
       "total": 1
     },
     "need-to-know-podcast": {
-      "incoming": 23,
+      "incoming": 77,
       "outgoing": 1,
-      "total": 24
+      "total": 78
     },
     "new-paradigm-institute": {
       "incoming": 1,
@@ -4620,9 +5700,9 @@
       "total": 3
     },
     "newsnation": {
-      "incoming": 3,
+      "incoming": 4,
       "outgoing": 0,
-      "total": 3
+      "total": 4
     },
     "non-human-intelligence": {
       "incoming": 1,
@@ -4740,9 +5820,9 @@
       "total": 1
     },
     "richard-dolan": {
-      "incoming": 3,
+      "incoming": 14,
       "outgoing": 5,
-      "total": 8
+      "total": 19
     },
     "robbie-williams": {
       "incoming": 1,
@@ -4785,14 +5865,14 @@
       "total": 3
     },
     "ross-coulthart": {
-      "incoming": 25,
+      "incoming": 69,
       "outgoing": 3,
-      "total": 28
+      "total": 72
     },
     "roswell-incident": {
-      "incoming": 6,
+      "incoming": 7,
       "outgoing": 0,
-      "total": 6
+      "total": 7
     },
     "russian-military-ufo-investigation": {
       "incoming": 2,
@@ -4855,9 +5935,9 @@
       "total": 4
     },
     "sean-kirkpatrick": {
-      "incoming": 8,
+      "incoming": 9,
       "outgoing": 4,
-      "total": 12
+      "total": 13
     },
     "security-clearance-retaliation": {
       "incoming": 2,
@@ -5194,6 +6274,36 @@
       "outgoing": 1,
       "total": 1
     },
+    "timeline-2022-10-06-need-to-know-episode-22": {
+      "incoming": 0,
+      "outgoing": 1,
+      "total": 1
+    },
+    "timeline-2022-10-21-need-to-know-episode-23": {
+      "incoming": 0,
+      "outgoing": 1,
+      "total": 1
+    },
+    "timeline-2022-11-01-need-to-know-episode-24": {
+      "incoming": 0,
+      "outgoing": 1,
+      "total": 1
+    },
+    "timeline-2022-11-29-need-to-know-episode-25": {
+      "incoming": 0,
+      "outgoing": 1,
+      "total": 1
+    },
+    "timeline-2023-01-06-need-to-know-episode-26": {
+      "incoming": 0,
+      "outgoing": 1,
+      "total": 1
+    },
+    "timeline-2023-01-13-need-to-know-episode-27": {
+      "incoming": 0,
+      "outgoing": 1,
+      "total": 1
+    },
     "timeline-2023-01-23-weaponized-episode-1": {
       "incoming": 0,
       "outgoing": 1,
@@ -5214,7 +6324,17 @@
       "outgoing": 1,
       "total": 1
     },
+    "timeline-2023-02-10-need-to-know-episode-28": {
+      "incoming": 0,
+      "outgoing": 1,
+      "total": 1
+    },
     "timeline-2023-02-13-weaponized-episode-4": {
+      "incoming": 0,
+      "outgoing": 1,
+      "total": 1
+    },
+    "timeline-2023-02-16-need-to-know-episode-29": {
       "incoming": 0,
       "outgoing": 1,
       "total": 1
@@ -5239,12 +6359,22 @@
       "outgoing": 1,
       "total": 1
     },
+    "timeline-2023-03-16-need-to-know-episode-30": {
+      "incoming": 0,
+      "outgoing": 1,
+      "total": 1
+    },
     "timeline-2023-03-20-weaponized-episode-9": {
       "incoming": 0,
       "outgoing": 1,
       "total": 1
     },
     "timeline-2023-03-27-weaponized-episode-10": {
+      "incoming": 0,
+      "outgoing": 1,
+      "total": 1
+    },
+    "timeline-2023-04-02-need-to-know-episode-31": {
       "incoming": 0,
       "outgoing": 1,
       "total": 1
@@ -5259,12 +6389,22 @@
       "outgoing": 1,
       "total": 1
     },
+    "timeline-2023-04-15-need-to-know-episode-32": {
+      "incoming": 0,
+      "outgoing": 1,
+      "total": 1
+    },
     "timeline-2023-04-17-weaponized-episode-13": {
       "incoming": 0,
       "outgoing": 1,
       "total": 1
     },
     "timeline-2023-04-24-weaponized-episode-14": {
+      "incoming": 0,
+      "outgoing": 1,
+      "total": 1
+    },
+    "timeline-2023-04-26-need-to-know-episode-33": {
       "incoming": 0,
       "outgoing": 1,
       "total": 1
@@ -5289,7 +6429,17 @@
       "outgoing": 1,
       "total": 1
     },
+    "timeline-2023-05-25-need-to-know-episode-34": {
+      "incoming": 0,
+      "outgoing": 1,
+      "total": 1
+    },
     "timeline-2023-05-29-weaponized-episode-19": {
+      "incoming": 0,
+      "outgoing": 1,
+      "total": 1
+    },
+    "timeline-2023-06-05-need-to-know-episode-35": {
       "incoming": 0,
       "outgoing": 1,
       "total": 1
@@ -5299,10 +6449,20 @@
       "outgoing": 1,
       "total": 1
     },
+    "timeline-2023-06-07-need-to-know-episode-36": {
+      "incoming": 0,
+      "outgoing": 1,
+      "total": 1
+    },
     "timeline-2023-06-12-disclosure-project-national-press-club": {
       "incoming": 2,
       "outgoing": 5,
       "total": 7
+    },
+    "timeline-2023-06-12-need-to-know-episode-37": {
+      "incoming": 0,
+      "outgoing": 1,
+      "total": 1
     },
     "timeline-2023-06-14-avi-loeb-im1-expedition": {
       "incoming": 0,
@@ -5310,6 +6470,11 @@
       "total": 3
     },
     "timeline-2023-06-19-weaponized-episode-22": {
+      "incoming": 0,
+      "outgoing": 1,
+      "total": 1
+    },
+    "timeline-2023-06-24-need-to-know-episode-38": {
       "incoming": 0,
       "outgoing": 1,
       "total": 1
@@ -5324,7 +6489,17 @@
       "outgoing": 1,
       "total": 1
     },
+    "timeline-2023-07-08-need-to-know-episode-39": {
+      "incoming": 0,
+      "outgoing": 1,
+      "total": 1
+    },
     "timeline-2023-07-10-weaponized-episode-25": {
+      "incoming": 0,
+      "outgoing": 1,
+      "total": 1
+    },
+    "timeline-2023-07-17-need-to-know-episode-40": {
       "incoming": 0,
       "outgoing": 1,
       "total": 1
@@ -5335,6 +6510,16 @@
       "total": 1
     },
     "timeline-2023-07-24-weaponized-episode-27": {
+      "incoming": 0,
+      "outgoing": 1,
+      "total": 1
+    },
+    "timeline-2023-07-27-need-to-know-episode-41": {
+      "incoming": 0,
+      "outgoing": 1,
+      "total": 1
+    },
+    "timeline-2023-08-05-need-to-know-episode-42": {
       "incoming": 0,
       "outgoing": 1,
       "total": 1
@@ -5350,6 +6535,11 @@
       "total": 1
     },
     "timeline-2023-08-21-weaponized-episode-31": {
+      "incoming": 0,
+      "outgoing": 1,
+      "total": 1
+    },
+    "timeline-2023-08-26-need-to-know-episode-43": {
       "incoming": 0,
       "outgoing": 1,
       "total": 1
@@ -5374,6 +6564,11 @@
       "outgoing": 1,
       "total": 1
     },
+    "timeline-2023-09-27-need-to-know-episode-44": {
+      "incoming": 0,
+      "outgoing": 1,
+      "total": 1
+    },
     "timeline-2023-10-02-weaponized-episode-36": {
       "incoming": 0,
       "outgoing": 1,
@@ -5394,6 +6589,11 @@
       "outgoing": 1,
       "total": 1
     },
+    "timeline-2023-10-24-need-to-know-episode-45": {
+      "incoming": 0,
+      "outgoing": 1,
+      "total": 1
+    },
     "timeline-2023-10-31-aaro-secure-reporting-mechanism": {
       "incoming": 0,
       "outgoing": 3,
@@ -5409,25 +6609,125 @@
       "outgoing": 1,
       "total": 1
     },
+    "timeline-2023-11-17-need-to-know-episode-46": {
+      "incoming": 0,
+      "outgoing": 1,
+      "total": 1
+    },
     "timeline-2023-11-17-sol-inaugural-symposium": {
       "incoming": 2,
       "outgoing": 7,
       "total": 9
+    },
+    "timeline-2023-12-08-need-to-know-episode-47": {
+      "incoming": 0,
+      "outgoing": 1,
+      "total": 1
+    },
+    "timeline-2024-01-05-need-to-know-episode-48": {
+      "incoming": 0,
+      "outgoing": 1,
+      "total": 1
     },
     "timeline-2024-01-08-jellyfish-uap-reporting": {
       "incoming": 3,
       "outgoing": 4,
       "total": 7
     },
+    "timeline-2024-02-08-need-to-know-episode-49": {
+      "incoming": 0,
+      "outgoing": 1,
+      "total": 1
+    },
+    "timeline-2024-03-13-need-to-know-episode-50": {
+      "incoming": 0,
+      "outgoing": 1,
+      "total": 1
+    },
+    "timeline-2024-04-15-need-to-know-episode-51": {
+      "incoming": 0,
+      "outgoing": 1,
+      "total": 1
+    },
+    "timeline-2024-05-11-need-to-know-episode-52": {
+      "incoming": 0,
+      "outgoing": 1,
+      "total": 1
+    },
     "timeline-2024-05-21-karl-nell-salt-uap-presentation": {
       "incoming": 1,
       "outgoing": 3,
       "total": 4
     },
+    "timeline-2024-06-08-need-to-know-episode-53": {
+      "incoming": 0,
+      "outgoing": 1,
+      "total": 1
+    },
+    "timeline-2024-07-12-need-to-know-episode-54": {
+      "incoming": 0,
+      "outgoing": 1,
+      "total": 1
+    },
+    "timeline-2024-08-17-need-to-know-episode-55": {
+      "incoming": 0,
+      "outgoing": 1,
+      "total": 1
+    },
+    "timeline-2024-09-13-need-to-know-episode-56": {
+      "incoming": 0,
+      "outgoing": 1,
+      "total": 1
+    },
+    "timeline-2024-10-17-need-to-know-episode-57": {
+      "incoming": 0,
+      "outgoing": 1,
+      "total": 1
+    },
+    "timeline-2024-11-10-need-to-know-episode-58": {
+      "incoming": 0,
+      "outgoing": 1,
+      "total": 1
+    },
     "timeline-2024-11-22-sol-symposium": {
       "incoming": 0,
       "outgoing": 4,
       "total": 4
+    },
+    "timeline-2024-12-09-need-to-know-episode-59": {
+      "incoming": 0,
+      "outgoing": 1,
+      "total": 1
+    },
+    "timeline-2025-02-12-need-to-know-episode-60": {
+      "incoming": 0,
+      "outgoing": 1,
+      "total": 1
+    },
+    "timeline-2025-03-10-need-to-know-episode-61": {
+      "incoming": 0,
+      "outgoing": 1,
+      "total": 1
+    },
+    "timeline-2025-04-07-need-to-know-episode-62": {
+      "incoming": 0,
+      "outgoing": 1,
+      "total": 1
+    },
+    "timeline-2025-05-10-need-to-know-episode-63": {
+      "incoming": 0,
+      "outgoing": 1,
+      "total": 1
+    },
+    "timeline-2025-06-08-need-to-know-episode-64": {
+      "incoming": 0,
+      "outgoing": 1,
+      "total": 1
+    },
+    "timeline-2025-07-07-need-to-know-episode-65": {
+      "incoming": 0,
+      "outgoing": 1,
+      "total": 1
     },
     "timeline-2025-07-22-weaponized-episode-83": {
       "incoming": 0,
@@ -5435,6 +6735,11 @@
       "total": 1
     },
     "timeline-2025-08-05-weaponized-episode-84": {
+      "incoming": 0,
+      "outgoing": 1,
+      "total": 1
+    },
+    "timeline-2025-08-11-need-to-know-episode-66": {
       "incoming": 0,
       "outgoing": 1,
       "total": 1
@@ -5455,6 +6760,11 @@
       "total": 1
     },
     "timeline-2025-09-02-weaponized-episode-88": {
+      "incoming": 0,
+      "outgoing": 1,
+      "total": 1
+    },
+    "timeline-2025-09-04-need-to-know-episode-67": {
       "incoming": 0,
       "outgoing": 1,
       "total": 1
@@ -5484,6 +6794,11 @@
       "outgoing": 1,
       "total": 1
     },
+    "timeline-2025-10-20-need-to-know-episode-68": {
+      "incoming": 0,
+      "outgoing": 1,
+      "total": 1
+    },
     "timeline-2025-10-22-weaponized-episode-94": {
       "incoming": 0,
       "outgoing": 1,
@@ -5509,6 +6824,11 @@
       "outgoing": 1,
       "total": 1
     },
+    "timeline-2025-11-23-need-to-know-episode-69": {
+      "incoming": 0,
+      "outgoing": 1,
+      "total": 1
+    },
     "timeline-2025-11-26-weaponized-episode-99": {
       "incoming": 0,
       "outgoing": 1,
@@ -5530,6 +6850,11 @@
       "total": 1
     },
     "timeline-2026-01-01-weaponized-episode-103": {
+      "incoming": 0,
+      "outgoing": 1,
+      "total": 1
+    },
+    "timeline-2026-01-02-need-to-know-episode-70": {
       "incoming": 0,
       "outgoing": 1,
       "total": 1
@@ -5564,6 +6889,11 @@
       "outgoing": 1,
       "total": 1
     },
+    "timeline-2026-02-16-need-to-know-episode-71": {
+      "incoming": 0,
+      "outgoing": 1,
+      "total": 1
+    },
     "timeline-2026-02-24-weaponized-episode-110": {
       "incoming": 0,
       "outgoing": 1,
@@ -5580,6 +6910,11 @@
       "total": 1
     },
     "timeline-2026-03-18-weaponized-episode-113": {
+      "incoming": 0,
+      "outgoing": 1,
+      "total": 1
+    },
+    "timeline-2026-03-30-need-to-know-episode-72": {
       "incoming": 0,
       "outgoing": 1,
       "total": 1
@@ -5609,7 +6944,17 @@
       "outgoing": 1,
       "total": 1
     },
+    "timeline-2026-05-10-need-to-know-episode-73": {
+      "incoming": 0,
+      "outgoing": 1,
+      "total": 1
+    },
     "timeline-2026-05-22-weaponized-episode-118": {
+      "incoming": 0,
+      "outgoing": 1,
+      "total": 1
+    },
+    "timeline-2026-06-04-need-to-know-episode-74": {
       "incoming": 0,
       "outgoing": 1,
       "total": 1
@@ -5620,6 +6965,11 @@
       "total": 1
     },
     "timeline-2026-06-18-weaponized-episode-120": {
+      "incoming": 0,
+      "outgoing": 1,
+      "total": 1
+    },
+    "timeline-2026-07-05-need-to-know-episode-75": {
       "incoming": 0,
       "outgoing": 1,
       "total": 1
@@ -5670,9 +7020,9 @@
       "total": 1
     },
     "uap-disclosure": {
-      "incoming": 6,
+      "incoming": 7,
       "outgoing": 0,
-      "total": 6
+      "total": 7
     },
     "uap-disclosure-act-2023": {
       "incoming": 2,
@@ -5710,9 +7060,9 @@
       "total": 13
     },
     "uap-research": {
-      "incoming": 12,
+      "incoming": 66,
       "outgoing": 0,
-      "total": 12
+      "total": 66
     },
     "uap-science": {
       "incoming": 5,
@@ -5765,9 +7115,9 @@
       "total": 1
     },
     "unidentified-submerged-objects": {
-      "incoming": 5,
+      "incoming": 7,
       "outgoing": 1,
-      "total": 6
+      "total": 8
     },
     "united-states-air-force": {
       "incoming": 23,

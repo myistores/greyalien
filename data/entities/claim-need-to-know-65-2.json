@@ -1,0 +1,27 @@
+{
+  "id": "claim-need-to-know-65-2",
+  "type": "claim",
+  "name": "The hosts distinguish publicly documented information from claims that still require corroboration, transparency, or additional evidence.",
+  "summary": "Claim or editorial framing presented in Need to Know Episode #65.",
+  "relationships": [
+    {
+      "type": "featured_in_media",
+      "target": "2025-need-to-know-episode-65"
+    }
+  ],
+  "officialLinks": [],
+  "referenceSources": [
+    {
+      "label": "Official Need to Know Episode 65 video — Ross Coulthart's Final Show — Whose Tech Is It?",
+      "url": "https://www.youtube.com/watch?v=cmxyApOGPCA",
+      "sourceType": "official_episode_video",
+      "role": "source"
+    },
+    {
+      "label": "Need to Know official YouTube collection",
+      "url": "https://www.youtube.com/playlist?list=PLXdU8QbJkboeMcvUNyGpb9h6FUS9cVBti",
+      "sourceType": "official_video_collection",
+      "role": "source"
+    }
+  ]
+}

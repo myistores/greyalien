@@ -1,0 +1,27 @@
+{
+  "id": "claim-need-to-know-29-3",
+  "type": "claim",
+  "name": "The discussion places the episode’s central subject within the broader history of government secrecy, media coverage, and public accountability surrounding UAP.",
+  "summary": "Claim or editorial framing presented in Need to Know Episode #29.",
+  "relationships": [
+    {
+      "type": "featured_in_media",
+      "target": "2023-need-to-know-episode-29"
+    }
+  ],
+  "officialLinks": [],
+  "referenceSources": [
+    {
+      "label": "Official Need to Know Episode 29 video — 99 Chinese Balloons?",
+      "url": "https://www.youtube.com/watch?v=g2TI1D1h3AQ",
+      "sourceType": "official_episode_video",
+      "role": "source"
+    },
+    {
+      "label": "Need to Know official YouTube collection",
+      "url": "https://www.youtube.com/playlist?list=PLXdU8QbJkboeMcvUNyGpb9h6FUS9cVBti",
+      "sourceType": "official_video_collection",
+      "role": "source"
+    }
+  ]
+}

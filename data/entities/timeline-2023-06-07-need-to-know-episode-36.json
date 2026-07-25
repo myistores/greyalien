@@ -1,0 +1,15 @@
+{
+  "id": "timeline-2023-06-07-need-to-know-episode-36",
+  "type": "timeline_event",
+  "name": "Need to Know published Episode #36, “Whistleblower Dave Grusch (with NewsNation Promo Clips).”",
+  "summary": "Need to Know published Episode #36, “Whistleblower Dave Grusch (with NewsNation Promo Clips).”",
+  "date": "2023-06-07",
+  "dateDisplay": "June 7, 2023",
+  "eventCategory": "Podcast publication",
+  "relationships": [
+    {
+      "type": "event_for",
+      "target": "2023-need-to-know-episode-36"
+    }
+  ]
+}

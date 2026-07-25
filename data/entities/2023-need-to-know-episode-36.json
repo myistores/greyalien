@@ -1,0 +1,89 @@
+{
+  "id": "2023-need-to-know-episode-36",
+  "type": "podcast_episode",
+  "name": "Need to Know Episode #36 — Whistleblower Dave Grusch (with NewsNation Promo Clips)",
+  "summary": "Bryce Zabel and Ross Coulthart examine the public emergence of former intelligence official David Grusch and the NewsNation reporting that introduced his allegations concerning concealed UAP retrieval and reverse-engineering programs.",
+  "date": "2023-06-07",
+  "dateDisplay": "June 7, 2023",
+  "seriesId": "need-to-know-podcast",
+  "episodeNumber": 36,
+  "episodeTitle": "Whistleblower Dave Grusch (with NewsNation Promo Clips)",
+  "status": "Published",
+  "mediaType": "Podcast episode",
+  "mediaPlatform": "Need to Know",
+  "mediaHost": "Bryce Zabel and Ross Coulthart",
+  "mediaGuests": [],
+  "mediaSubjects": [
+    "david-grusch"
+  ],
+  "principalClaims": [
+    "claim-need-to-know-36-1",
+    "claim-need-to-know-36-2",
+    "claim-need-to-know-36-3"
+  ],
+  "researchNotes": [],
+  "relationships": [
+    {
+      "type": "episode_of",
+      "target": "need-to-know-podcast"
+    },
+    {
+      "type": "features_person",
+      "target": "bryce-zabel",
+      "role": "host",
+      "context": "Need to Know host"
+    },
+    {
+      "type": "features_person",
+      "target": "ross-coulthart",
+      "role": "host",
+      "context": "Need to Know host"
+    },
+    {
+      "type": "features_person",
+      "target": "david-grusch",
+      "role": "subject",
+      "context": "Primary subject of the episode"
+    },
+    {
+      "type": "discussed_topic",
+      "target": "government-transparency"
+    },
+    {
+      "type": "discussed_topic",
+      "target": "uap-research"
+    },
+    {
+      "type": "discussed_topic",
+      "target": "media-coverage"
+    }
+  ],
+  "mediaLinks": [
+    {
+      "label": "Watch Need to Know Episode #36 on YouTube",
+      "url": "https://www.youtube.com/watch?v=-PwZsQidbqE",
+      "platform": "YouTube"
+    },
+    {
+      "label": "Watch the official Need to Know collection",
+      "url": "https://www.youtube.com/playlist?list=PLXdU8QbJkboeMcvUNyGpb9h6FUS9cVBti",
+      "platform": "YouTube"
+    }
+  ],
+  "eventCategory": "Podcast publication",
+  "officialLinks": [],
+  "referenceSources": [
+    {
+      "label": "Official Need to Know Episode 36 video — Whistleblower Dave Grusch (with NewsNation Promo Clips)",
+      "url": "https://www.youtube.com/watch?v=-PwZsQidbqE",
+      "sourceType": "official_episode_video",
+      "role": "source"
+    },
+    {
+      "label": "Need to Know official YouTube collection",
+      "url": "https://www.youtube.com/playlist?list=PLXdU8QbJkboeMcvUNyGpb9h6FUS9cVBti",
+      "sourceType": "official_video_collection",
+      "role": "source"
+    }
+  ]
+}

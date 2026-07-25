@@ -1,0 +1,85 @@
+{
+  "id": "2023-need-to-know-episode-31",
+  "type": "podcast_episode",
+  "name": "Need to Know Episode #31 — Would You Like Some Danish with Your UFO?",
+  "summary": "Ross Coulthart and Bryce Zabel examine Would You Like Some Danish with Your UFO?, connecting the episode’s central subject to current UAP reporting, institutional transparency, and the longer history of the phenomenon while distinguishing established information from unresolved claims.",
+  "date": "2023-04-02",
+  "dateDisplay": "April 2, 2023",
+  "seriesId": "need-to-know-podcast",
+  "episodeNumber": 31,
+  "episodeTitle": "Would You Like Some Danish with Your UFO?",
+  "status": "Published",
+  "mediaType": "Podcast episode",
+  "mediaPlatform": "Need to Know",
+  "mediaHost": "Ross Coulthart and Bryce Zabel",
+  "mediaGuests": [],
+  "mediaSubjects": [],
+  "principalClaims": [
+    "claim-need-to-know-31-1",
+    "claim-need-to-know-31-2",
+    "claim-need-to-know-31-3"
+  ],
+  "researchNotes": [],
+  "relationships": [
+    {
+      "type": "episode_of",
+      "target": "need-to-know-podcast"
+    },
+    {
+      "type": "features_person",
+      "target": "bryce-zabel",
+      "role": "host",
+      "context": "Need to Know host"
+    },
+    {
+      "type": "features_person",
+      "target": "ross-coulthart",
+      "role": "host",
+      "context": "Need to Know host"
+    },
+    {
+      "type": "discussed_topic",
+      "target": "uap-research"
+    },
+    {
+      "type": "discussed_topic",
+      "target": "government-transparency"
+    },
+    {
+      "type": "discussed_topic",
+      "target": "media-coverage"
+    },
+    {
+      "type": "discussed_topic",
+      "target": "historical-ufo-research"
+    }
+  ],
+  "mediaLinks": [
+    {
+      "label": "Watch Need to Know Episode #31 on YouTube",
+      "url": "https://www.youtube.com/watch?v=5VwDo_m5Yok",
+      "platform": "YouTube"
+    },
+    {
+      "label": "Watch the official Need to Know collection",
+      "url": "https://www.youtube.com/playlist?list=PLXdU8QbJkboeMcvUNyGpb9h6FUS9cVBti",
+      "platform": "YouTube"
+    }
+  ],
+  "eventCategory": "Podcast publication",
+  "officialLinks": [],
+  "referenceSources": [
+    {
+      "label": "Official Need to Know Episode 31 video — Would You Like Some Danish with Your UFO?",
+      "url": "https://www.youtube.com/watch?v=5VwDo_m5Yok",
+      "sourceType": "official_episode_video",
+      "role": "source"
+    },
+    {
+      "label": "Need to Know official YouTube collection",
+      "url": "https://www.youtube.com/playlist?list=PLXdU8QbJkboeMcvUNyGpb9h6FUS9cVBti",
+      "sourceType": "official_video_collection",
+      "role": "source"
+    }
+  ]
+}

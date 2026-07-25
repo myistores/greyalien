@@ -1,7 +1,7 @@
 {
-  "version": "21.4",
-  "title": "Need to Know Official Media Validation",
+  "version": "21.5",
+  "title": "Need to Know Episodes 22–75",
   "date": "2026-07-25",
-  "summary": "Audited all 21 currently ingested Need to Know media records, verified direct official links and matching reference sources, retained the official collection as the secondary resource, corrected misleading Episode #13 media labeling, and documented the publisher-side NTK/13 versus archive Episode #14 numbering exception.",
-  "phase": "Production media-validation patch"
+  "summary": "Added 54 numbered Need to Know episodes (22–75), 162 source-grounded principal claims, 54 publication timeline events, direct official YouTube episode links, canonical entity reuse, and cross-series discovery validation without platform changes.",
+  "phase": "Content-only production ingestion"
 }

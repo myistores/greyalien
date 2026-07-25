@@ -1,0 +1,30 @@
+{
+  "id": "timeline-2025-07-07-need-to-know-episode-65",
+  "type": "timeline_event",
+  "name": "Need to Know Episode #65 published",
+  "summary": "Need to Know published Episode #65, “Ross Coulthart's Final Show — Whose Tech Is It?.”",
+  "date": "2025-07-07",
+  "dateDisplay": "July 7, 2025",
+  "eventCategory": "Podcast publication",
+  "relationships": [
+    {
+      "type": "event_for",
+      "target": "2025-need-to-know-episode-65"
+    }
+  ],
+  "officialLinks": [],
+  "referenceSources": [
+    {
+      "label": "Official Need to Know Episode 65 video — Ross Coulthart's Final Show — Whose Tech Is It?",
+      "url": "https://www.youtube.com/watch?v=cmxyApOGPCA",
+      "sourceType": "official_episode_video",
+      "role": "source"
+    },
+    {
+      "label": "Need to Know official YouTube collection",
+      "url": "https://www.youtube.com/playlist?list=PLXdU8QbJkboeMcvUNyGpb9h6FUS9cVBti",
+      "sourceType": "official_video_collection",
+      "role": "source"
+    }
+  ]
+}

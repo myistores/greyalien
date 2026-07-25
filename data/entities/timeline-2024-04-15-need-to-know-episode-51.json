@@ -1,0 +1,30 @@
+{
+  "id": "timeline-2024-04-15-need-to-know-episode-51",
+  "type": "timeline_event",
+  "name": "Need to Know Episode #51 published",
+  "summary": "Need to Know published Episode #51, “UAP Burnout.”",
+  "date": "2024-04-15",
+  "dateDisplay": "April 15, 2024",
+  "eventCategory": "Podcast publication",
+  "relationships": [
+    {
+      "type": "event_for",
+      "target": "2024-need-to-know-episode-51"
+    }
+  ],
+  "officialLinks": [],
+  "referenceSources": [
+    {
+      "label": "Official Need to Know Episode 51 video — UAP Burnout",
+      "url": "https://www.youtube.com/watch?v=zC60JOR8nPw",
+      "sourceType": "official_episode_video",
+      "role": "source"
+    },
+    {
+      "label": "Need to Know official YouTube collection",
+      "url": "https://www.youtube.com/playlist?list=PLXdU8QbJkboeMcvUNyGpb9h6FUS9cVBti",
+      "sourceType": "official_video_collection",
+      "role": "source"
+    }
+  ]
+}
