@@ -1,0 +1,86 @@
+{
+  "id": "2023-merged-episode-19",
+  "type": "podcast_episode",
+  "name": "MERGED Episode #19 — Vandenberg “Red Square” Witness Speaks for First Time",
+  "summary": "A former Air Force security officer recounts a 2004 Vandenberg incident, preserved records, and later AARO interactions.",
+  "date": "2023-11-08",
+  "dateDisplay": "November 8, 2023",
+  "seriesId": "merged-podcast",
+  "episodeNumber": 19,
+  "episodeTitle": "Vandenberg “Red Square” Witness Speaks for First Time",
+  "status": "Published",
+  "mediaType": "Podcast episode",
+  "mediaPlatform": "MERGED",
+  "mediaHost": "Ryan Graves",
+  "mediaGuests": [
+    "Jeff Nuccetelli"
+  ],
+  "mediaSubjects": [
+    "Vandenberg Red Square Incident",
+    "Aaro",
+    "Uap Reporting"
+  ],
+  "principalClaims": [
+    "claim-merged-19-1",
+    "claim-merged-19-2",
+    "claim-merged-19-3",
+    "claim-merged-19-4"
+  ],
+  "researchNotes": [
+    "Direct episode metadata and description were verified against the MERGED syndicated episode record for Episode #19.",
+    "Canonical entities were reused where available; new guest entities were created only when no existing equivalent was present.",
+    "Cross-series discovery is generated through shared canonical people, cases, organizations, and topics rather than incidental mentions."
+  ],
+  "relationships": [
+    {
+      "type": "episode_of",
+      "target": "merged-podcast"
+    },
+    {
+      "type": "features_person",
+      "target": "ryan-graves",
+      "role": "host",
+      "context": "MERGED host and former U.S. Navy F/A-18 pilot"
+    },
+    {
+      "type": "features_person",
+      "target": "jeff-nuccetelli",
+      "role": "guest",
+      "context": "Featured guest for MERGED Episode #19"
+    },
+    {
+      "type": "discussed_topic",
+      "target": "uap-research"
+    },
+    {
+      "type": "references_organization",
+      "target": "aaro"
+    },
+    {
+      "type": "discussed_topic",
+      "target": "aviation-safety"
+    }
+  ],
+  "mediaLinks": [
+    {
+      "label": "Listen to MERGED Episode #19",
+      "url": "https://www.ivoox.com/en/vandenberg-8220red-square-witness-speaks-for-first-time-audios-mp3_rf_119179267_1.html",
+      "platform": "iVoox"
+    },
+    {
+      "label": "Find MERGED Episode #19 on the official YouTube channel",
+      "url": "https://www.youtube.com/@merged_podcast/search?query=Merged+Podcast+EP+19+Jeff+Nuccetelli",
+      "platform": "YouTube"
+    }
+  ],
+  "eventCategory": "Podcast publication",
+  "officialLinks": [],
+  "referenceSources": [
+    {
+      "label": "MERGED Episode #19 on iVoox",
+      "url": "https://www.ivoox.com/en/vandenberg-8220red-square-witness-speaks-for-first-time-audios-mp3_rf_119179267_1.html",
+      "sourceType": "podcast_platform_episode",
+      "role": "source"
+    }
+  ]
+}

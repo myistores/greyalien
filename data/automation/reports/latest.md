@@ -1,16 +1,16 @@
 # GreyAlien V22.0 Deployment Report
 
 **Status:** Ready for deployment  
-**Generated:** 2026-07-25T18:43:56.825123+00:00
+**Generated:** 2026-07-25T19:31:17.092223+00:00
 
-- Entities: 1456
-- Resolved relationships: 3223
+- Entities: 1558
+- Resolved relationships: 3391
 - Unresolved legacy warnings: 16
 - Podcast series: 8
-- Researched podcast episodes: 199
-- Episode records with related-episode recommendations: 199
-- Generated entity entry pages: 1456
-- Sitemap URLs: 1467
+- Researched podcast episodes: 217
+- Episode records with related-episode recommendations: 217
+- Generated entity entry pages: 1558
+- Sitemap URLs: 1569
 - Validation: Passed
 
 ## Release summary

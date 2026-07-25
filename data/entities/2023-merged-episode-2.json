@@ -1,0 +1,88 @@
+{
+  "id": "2023-merged-episode-2",
+  "type": "podcast_episode",
+  "name": "MERGED Episode #2 — Pilot’s Shocking UAP Sightings & What This Means For Aviation",
+  "summary": "Pilot testimony, radar audio, reporting barriers, and aviation safety.",
+  "date": "2023-01-31",
+  "dateDisplay": "January 31, 2023",
+  "seriesId": "merged-podcast",
+  "episodeNumber": 2,
+  "episodeTitle": "Pilot’s Shocking UAP Sightings & What This Means For Aviation",
+  "status": "Published",
+  "mediaType": "Podcast episode",
+  "mediaPlatform": "MERGED",
+  "mediaHost": "Ryan Graves",
+  "mediaGuests": [
+    "Mark Hulsey"
+  ],
+  "mediaSubjects": [
+    "Aviation Safety",
+    "Uap Reporting",
+    "Uap Research"
+  ],
+  "principalClaims": [
+    "claim-merged-2-1",
+    "claim-merged-2-2",
+    "claim-merged-2-3",
+    "claim-merged-2-4"
+  ],
+  "researchNotes": [
+    "Direct episode metadata and description were verified against the MERGED syndicated episode record for Episode #2.",
+    "Canonical entities were reused where available; new guest entities were created only when no existing equivalent was present.",
+    "Cross-series discovery is generated through shared canonical people, cases, organizations, and topics rather than incidental mentions."
+  ],
+  "relationships": [
+    {
+      "type": "episode_of",
+      "target": "merged-podcast"
+    },
+    {
+      "type": "features_person",
+      "target": "ryan-graves",
+      "role": "host",
+      "context": "MERGED host and former U.S. Navy F/A-18 pilot"
+    },
+    {
+      "type": "features_person",
+      "target": "mark-hulsey",
+      "role": "guest",
+      "context": "Featured guest for MERGED Episode #2"
+    },
+    {
+      "type": "discussed_topic",
+      "target": "aviation-safety"
+    },
+    {
+      "type": "discussed_topic",
+      "target": "uap-research"
+    }
+  ],
+  "mediaLinks": [
+    {
+      "label": "Listen to MERGED Episode #2",
+      "url": "https://www.ivoox.com/en/pilot8217s-shocking-uap-sightings-what-this-means-audios-mp3_rf_102351793_1.html",
+      "platform": "iVoox"
+    },
+    {
+      "label": "Watch MERGED Episode #2 on YouTube",
+      "url": "https://www.youtube.com/watch?v=UjildVLwSHw",
+      "platform": "YouTube"
+    }
+  ],
+  "eventCategory": "Podcast publication",
+  "officialLinks": [],
+  "referenceSources": [
+    {
+      "label": "MERGED Episode #2 on iVoox",
+      "url": "https://www.ivoox.com/en/pilot8217s-shocking-uap-sightings-what-this-means-audios-mp3_rf_102351793_1.html",
+      "sourceType": "podcast_platform_episode",
+      "role": "source"
+    },
+    {
+      "label": "Official MERGED Episode #2 video",
+      "url": "https://www.youtube.com/watch?v=UjildVLwSHw",
+      "sourceType": "official_episode_video",
+      "role": "source"
+    }
+  ]
+}

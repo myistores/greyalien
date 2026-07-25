@@ -1,0 +1,16 @@
+{
+  "id": "robin-hanson",
+  "type": "person",
+  "name": "Robin Hanson",
+  "summary": "George Mason University economist known for the Great Filter and grabby-alien models.",
+  "relationships": [],
+  "officialLinks": [],
+  "referenceSources": [
+    {
+      "label": "MERGED episode featuring Robin Hanson",
+      "url": "https://www.ivoox.com/en/through-the-great-filter-a-spacetime-search-for-audios-mp3_rf_110006855_1.html",
+      "sourceType": "podcast_platform",
+      "role": "primary_reference"
+    }
+  ]
+}

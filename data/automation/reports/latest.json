@@ -1,15 +1,15 @@
 {
   "version": "22.0",
   "title": "MERGED Podcast Integration Pilot",
-  "generatedAt": "2026-07-25T18:43:56.825123+00:00",
+  "generatedAt": "2026-07-25T19:31:17.092223+00:00",
   "status": "ready_for_deployment",
-  "entityCount": 1456,
-  "resolvedRelationshipCount": 3223,
+  "entityCount": 1558,
+  "resolvedRelationshipCount": 3391,
   "unresolvedRelationshipWarnings": 16,
   "podcastSeriesCount": 8,
-  "podcastEpisodeCount": 199,
-  "relatedEpisodeSets": 199,
-  "generatedEntityPageCount": 1456,
-  "sitemapUrlCount": 1467,
+  "podcastEpisodeCount": 217,
+  "relatedEpisodeSets": 217,
+  "generatedEntityPageCount": 1558,
+  "sitemapUrlCount": 1569,
   "validation": "passed"
 }

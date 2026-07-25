@@ -1,0 +1,27 @@
+{
+  "id": "claim-merged-10-4",
+  "type": "claim",
+  "name": "The conversation connects the episode’s subject to broader aviation safety, scientific research, or public-accountability needs.",
+  "summary": "The conversation connects the episode’s subject to broader aviation safety, scientific research, or public-accountability needs.",
+  "relationships": [
+    {
+      "type": "featured_in_media",
+      "target": "2023-merged-episode-10"
+    }
+  ],
+  "officialLinks": [],
+  "referenceSources": [
+    {
+      "label": "MERGED Episode #10 on iVoox",
+      "url": "https://www.ivoox.com/en/looking-to-the-sky-for-extraordinary-evidence-of-audios-mp3_rf_110874897_1.html",
+      "sourceType": "podcast_platform_episode",
+      "role": "source"
+    },
+    {
+      "label": "Official MERGED Episode #10 video",
+      "url": "https://www.youtube.com/watch?v=fw9l0mK466I",
+      "sourceType": "official_episode_video",
+      "role": "source"
+    }
+  ]
+}

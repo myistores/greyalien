@@ -1,0 +1,21 @@
+{
+  "id": "claim-merged-7-1",
+  "type": "claim",
+  "name": "Curt Jaimungal presents firsthand or professional experience relevant to the episode’s central subject.",
+  "summary": "Curt Jaimungal presents firsthand or professional experience relevant to the episode’s central subject.",
+  "relationships": [
+    {
+      "type": "featured_in_media",
+      "target": "2023-merged-episode-7"
+    }
+  ],
+  "officialLinks": [],
+  "referenceSources": [
+    {
+      "label": "MERGED Episode #7 on iVoox",
+      "url": "https://www.ivoox.com/en/exploring-theories-of-uap-ufos-consciousness-and-physics-audios-mp3_rf_105853901_1.html",
+      "sourceType": "podcast_platform_episode",
+      "role": "source"
+    }
+  ]
+}

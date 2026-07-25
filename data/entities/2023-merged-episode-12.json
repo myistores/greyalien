@@ -1,0 +1,88 @@
+{
+  "id": "2023-merged-episode-12",
+  "type": "podcast_episode",
+  "name": "MERGED Episode #12 — A New Era of Aviation Safety",
+  "summary": "Human factors, pilot training, cognitive performance, and research into extraordinary aviation experiences.",
+  "date": "2023-07-19",
+  "dateDisplay": "July 19, 2023",
+  "seriesId": "merged-podcast",
+  "episodeNumber": 12,
+  "episodeTitle": "A New Era of Aviation Safety",
+  "status": "Published",
+  "mediaType": "Podcast episode",
+  "mediaPlatform": "MERGED",
+  "mediaHost": "Ryan Graves",
+  "mediaGuests": [
+    "Iya Whiteley"
+  ],
+  "mediaSubjects": [
+    "Aviation Safety",
+    "Uap Reporting",
+    "Scientific Investigation"
+  ],
+  "principalClaims": [
+    "claim-merged-12-1",
+    "claim-merged-12-2",
+    "claim-merged-12-3",
+    "claim-merged-12-4"
+  ],
+  "researchNotes": [
+    "Direct episode metadata and description were verified against the MERGED syndicated episode record for Episode #12.",
+    "Canonical entities were reused where available; new guest entities were created only when no existing equivalent was present.",
+    "Cross-series discovery is generated through shared canonical people, cases, organizations, and topics rather than incidental mentions."
+  ],
+  "relationships": [
+    {
+      "type": "episode_of",
+      "target": "merged-podcast"
+    },
+    {
+      "type": "features_person",
+      "target": "ryan-graves",
+      "role": "host",
+      "context": "MERGED host and former U.S. Navy F/A-18 pilot"
+    },
+    {
+      "type": "features_person",
+      "target": "iya-whiteley",
+      "role": "guest",
+      "context": "Featured guest for MERGED Episode #12"
+    },
+    {
+      "type": "discussed_topic",
+      "target": "aviation-safety"
+    },
+    {
+      "type": "discussed_topic",
+      "target": "scientific-investigation"
+    }
+  ],
+  "mediaLinks": [
+    {
+      "label": "Listen to MERGED Episode #12",
+      "url": "https://www.ivoox.com/en/a-new-era-of-aviation-safety-with-audios-mp3_rf_112776246_1.html",
+      "platform": "iVoox"
+    },
+    {
+      "label": "Watch MERGED Episode #12 on YouTube",
+      "url": "https://www.youtube.com/watch?v=kJxUPEStiPM",
+      "platform": "YouTube"
+    }
+  ],
+  "eventCategory": "Podcast publication",
+  "officialLinks": [],
+  "referenceSources": [
+    {
+      "label": "MERGED Episode #12 on iVoox",
+      "url": "https://www.ivoox.com/en/a-new-era-of-aviation-safety-with-audios-mp3_rf_112776246_1.html",
+      "sourceType": "podcast_platform_episode",
+      "role": "source"
+    },
+    {
+      "label": "Official MERGED Episode #12 video",
+      "url": "https://www.youtube.com/watch?v=kJxUPEStiPM",
+      "sourceType": "official_episode_video",
+      "role": "source"
+    }
+  ]
+}

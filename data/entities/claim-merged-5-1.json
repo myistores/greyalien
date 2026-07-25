@@ -1,0 +1,27 @@
+{
+  "id": "claim-merged-5-1",
+  "type": "claim",
+  "name": "Christiaan van Heijst presents firsthand or professional experience relevant to the episode’s central subject.",
+  "summary": "Christiaan van Heijst presents firsthand or professional experience relevant to the episode’s central subject.",
+  "relationships": [
+    {
+      "type": "featured_in_media",
+      "target": "2023-merged-episode-5"
+    }
+  ],
+  "officialLinks": [],
+  "referenceSources": [
+    {
+      "label": "MERGED Episode #5 on iVoox",
+      "url": "https://www.ivoox.com/en/decoding-uap-ufo-sightings-insights-from-a-747-audios-mp3_rf_103592094_1.html",
+      "sourceType": "podcast_platform_episode",
+      "role": "source"
+    },
+    {
+      "label": "Official MERGED Episode #5 video",
+      "url": "https://www.youtube.com/watch?v=yVrn9-nRcno",
+      "sourceType": "official_episode_video",
+      "role": "source"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "id": "claim-merged-12-1",
+  "type": "claim",
+  "name": "Iya Whiteley presents firsthand or professional experience relevant to the episode’s central subject.",
+  "summary": "Iya Whiteley presents firsthand or professional experience relevant to the episode’s central subject.",
+  "relationships": [
+    {
+      "type": "featured_in_media",
+      "target": "2023-merged-episode-12"
+    }
+  ],
+  "officialLinks": [],
+  "referenceSources": [
+    {
+      "label": "MERGED Episode #12 on iVoox",
+      "url": "https://www.ivoox.com/en/a-new-era-of-aviation-safety-with-audios-mp3_rf_112776246_1.html",
+      "sourceType": "podcast_platform_episode",
+      "role": "source"
+    },
+    {
+      "label": "Official MERGED Episode #12 video",
+      "url": "https://www.youtube.com/watch?v=kJxUPEStiPM",
+      "sourceType": "official_episode_video",
+      "role": "source"
+    }
+  ]
+}

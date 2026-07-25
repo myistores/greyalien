@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "entityCount": 1456,
-  "relationshipCount": 3223,
+  "entityCount": 1558,
+  "relationshipCount": 3391,
   "unresolvedRelationshipCount": 16,
   "connectionCounts": {
     "1946-scandinavian-ghost-rockets": {
@@ -275,9 +275,9 @@
       "total": 8
     },
     "2023-07-26-house-oversight-uap": {
-      "incoming": 15,
+      "incoming": 16,
       "outgoing": 10,
-      "total": 25
+      "total": 26
     },
     "2023-09-06-podcast-ufo-jonathan-weygandt": {
       "incoming": 1,
@@ -303,6 +303,96 @@
       "incoming": 5,
       "outgoing": 8,
       "total": 13
+    },
+    "2023-merged-episode-10": {
+      "incoming": 4,
+      "outgoing": 6,
+      "total": 10
+    },
+    "2023-merged-episode-11": {
+      "incoming": 4,
+      "outgoing": 5,
+      "total": 9
+    },
+    "2023-merged-episode-12": {
+      "incoming": 4,
+      "outgoing": 5,
+      "total": 9
+    },
+    "2023-merged-episode-13": {
+      "incoming": 4,
+      "outgoing": 6,
+      "total": 10
+    },
+    "2023-merged-episode-14": {
+      "incoming": 4,
+      "outgoing": 5,
+      "total": 9
+    },
+    "2023-merged-episode-15": {
+      "incoming": 4,
+      "outgoing": 5,
+      "total": 9
+    },
+    "2023-merged-episode-16": {
+      "incoming": 4,
+      "outgoing": 6,
+      "total": 10
+    },
+    "2023-merged-episode-17": {
+      "incoming": 4,
+      "outgoing": 6,
+      "total": 10
+    },
+    "2023-merged-episode-18": {
+      "incoming": 4,
+      "outgoing": 5,
+      "total": 9
+    },
+    "2023-merged-episode-19": {
+      "incoming": 4,
+      "outgoing": 6,
+      "total": 10
+    },
+    "2023-merged-episode-2": {
+      "incoming": 4,
+      "outgoing": 5,
+      "total": 9
+    },
+    "2023-merged-episode-3": {
+      "incoming": 4,
+      "outgoing": 5,
+      "total": 9
+    },
+    "2023-merged-episode-4": {
+      "incoming": 4,
+      "outgoing": 5,
+      "total": 9
+    },
+    "2023-merged-episode-5": {
+      "incoming": 4,
+      "outgoing": 5,
+      "total": 9
+    },
+    "2023-merged-episode-6": {
+      "incoming": 4,
+      "outgoing": 6,
+      "total": 10
+    },
+    "2023-merged-episode-7": {
+      "incoming": 4,
+      "outgoing": 5,
+      "total": 9
+    },
+    "2023-merged-episode-8": {
+      "incoming": 4,
+      "outgoing": 5,
+      "total": 9
+    },
+    "2023-merged-episode-9": {
+      "incoming": 4,
+      "outgoing": 5,
+      "total": 9
     },
     "2023-nasa-uap-independent-study-report": {
       "incoming": 12,
@@ -1265,9 +1355,9 @@
       "total": 2
     },
     "aaro": {
-      "incoming": 35,
+      "incoming": 36,
       "outgoing": 4,
-      "total": 39
+      "total": 40
     },
     "aatip": {
       "incoming": 3,
@@ -1279,15 +1369,25 @@
       "outgoing": 3,
       "total": 17
     },
+    "abby-white": {
+      "incoming": 1,
+      "outgoing": 0,
+      "total": 1
+    },
+    "adam-frank": {
+      "incoming": 1,
+      "outgoing": 0,
+      "total": 1
+    },
     "advanced-theoretical-physics-program": {
       "incoming": 2,
       "outgoing": 2,
       "total": 4
     },
     "alex-dietrich": {
-      "incoming": 0,
+      "incoming": 1,
       "outgoing": 2,
-      "total": 2
+      "total": 3
     },
     "alex-wiggins": {
       "incoming": 2,
@@ -1319,6 +1419,11 @@
       "outgoing": 2,
       "total": 2
     },
+    "andy-mead": {
+      "incoming": 1,
+      "outgoing": 0,
+      "total": 1
+    },
     "animal-wellness-action": {
       "incoming": 1,
       "outgoing": 1,
@@ -1345,14 +1450,14 @@
       "total": 2
     },
     "avi-loeb": {
-      "incoming": 4,
+      "incoming": 5,
       "outgoing": 2,
-      "total": 6
+      "total": 7
     },
     "aviation-safety": {
-      "incoming": 32,
+      "incoming": 42,
       "outgoing": 1,
-      "total": 33
+      "total": 43
     },
     "awacs": {
       "incoming": 1,
@@ -1448,6 +1553,16 @@
       "incoming": 7,
       "outgoing": 3,
       "total": 10
+    },
+    "chris-van-voorhis": {
+      "incoming": 1,
+      "outgoing": 0,
+      "total": 1
+    },
+    "christiaan-van-heijst": {
+      "incoming": 1,
+      "outgoing": 0,
+      "total": 1
     },
     "christopher-kit-green": {
       "incoming": 0,
@@ -2265,6 +2380,366 @@
       "total": 1
     },
     "claim-merged-1-4": {
+      "incoming": 0,
+      "outgoing": 1,
+      "total": 1
+    },
+    "claim-merged-10-1": {
+      "incoming": 0,
+      "outgoing": 1,
+      "total": 1
+    },
+    "claim-merged-10-2": {
+      "incoming": 0,
+      "outgoing": 1,
+      "total": 1
+    },
+    "claim-merged-10-3": {
+      "incoming": 0,
+      "outgoing": 1,
+      "total": 1
+    },
+    "claim-merged-10-4": {
+      "incoming": 0,
+      "outgoing": 1,
+      "total": 1
+    },
+    "claim-merged-11-1": {
+      "incoming": 0,
+      "outgoing": 1,
+      "total": 1
+    },
+    "claim-merged-11-2": {
+      "incoming": 0,
+      "outgoing": 1,
+      "total": 1
+    },
+    "claim-merged-11-3": {
+      "incoming": 0,
+      "outgoing": 1,
+      "total": 1
+    },
+    "claim-merged-11-4": {
+      "incoming": 0,
+      "outgoing": 1,
+      "total": 1
+    },
+    "claim-merged-12-1": {
+      "incoming": 0,
+      "outgoing": 1,
+      "total": 1
+    },
+    "claim-merged-12-2": {
+      "incoming": 0,
+      "outgoing": 1,
+      "total": 1
+    },
+    "claim-merged-12-3": {
+      "incoming": 0,
+      "outgoing": 1,
+      "total": 1
+    },
+    "claim-merged-12-4": {
+      "incoming": 0,
+      "outgoing": 1,
+      "total": 1
+    },
+    "claim-merged-13-1": {
+      "incoming": 0,
+      "outgoing": 1,
+      "total": 1
+    },
+    "claim-merged-13-2": {
+      "incoming": 0,
+      "outgoing": 1,
+      "total": 1
+    },
+    "claim-merged-13-3": {
+      "incoming": 0,
+      "outgoing": 1,
+      "total": 1
+    },
+    "claim-merged-13-4": {
+      "incoming": 0,
+      "outgoing": 1,
+      "total": 1
+    },
+    "claim-merged-14-1": {
+      "incoming": 0,
+      "outgoing": 1,
+      "total": 1
+    },
+    "claim-merged-14-2": {
+      "incoming": 0,
+      "outgoing": 1,
+      "total": 1
+    },
+    "claim-merged-14-3": {
+      "incoming": 0,
+      "outgoing": 1,
+      "total": 1
+    },
+    "claim-merged-14-4": {
+      "incoming": 0,
+      "outgoing": 1,
+      "total": 1
+    },
+    "claim-merged-15-1": {
+      "incoming": 0,
+      "outgoing": 1,
+      "total": 1
+    },
+    "claim-merged-15-2": {
+      "incoming": 0,
+      "outgoing": 1,
+      "total": 1
+    },
+    "claim-merged-15-3": {
+      "incoming": 0,
+      "outgoing": 1,
+      "total": 1
+    },
+    "claim-merged-15-4": {
+      "incoming": 0,
+      "outgoing": 1,
+      "total": 1
+    },
+    "claim-merged-16-1": {
+      "incoming": 0,
+      "outgoing": 1,
+      "total": 1
+    },
+    "claim-merged-16-2": {
+      "incoming": 0,
+      "outgoing": 1,
+      "total": 1
+    },
+    "claim-merged-16-3": {
+      "incoming": 0,
+      "outgoing": 1,
+      "total": 1
+    },
+    "claim-merged-16-4": {
+      "incoming": 0,
+      "outgoing": 1,
+      "total": 1
+    },
+    "claim-merged-17-1": {
+      "incoming": 0,
+      "outgoing": 1,
+      "total": 1
+    },
+    "claim-merged-17-2": {
+      "incoming": 0,
+      "outgoing": 1,
+      "total": 1
+    },
+    "claim-merged-17-3": {
+      "incoming": 0,
+      "outgoing": 1,
+      "total": 1
+    },
+    "claim-merged-17-4": {
+      "incoming": 0,
+      "outgoing": 1,
+      "total": 1
+    },
+    "claim-merged-18-1": {
+      "incoming": 0,
+      "outgoing": 1,
+      "total": 1
+    },
+    "claim-merged-18-2": {
+      "incoming": 0,
+      "outgoing": 1,
+      "total": 1
+    },
+    "claim-merged-18-3": {
+      "incoming": 0,
+      "outgoing": 1,
+      "total": 1
+    },
+    "claim-merged-18-4": {
+      "incoming": 0,
+      "outgoing": 1,
+      "total": 1
+    },
+    "claim-merged-19-1": {
+      "incoming": 0,
+      "outgoing": 1,
+      "total": 1
+    },
+    "claim-merged-19-2": {
+      "incoming": 0,
+      "outgoing": 1,
+      "total": 1
+    },
+    "claim-merged-19-3": {
+      "incoming": 0,
+      "outgoing": 1,
+      "total": 1
+    },
+    "claim-merged-19-4": {
+      "incoming": 0,
+      "outgoing": 1,
+      "total": 1
+    },
+    "claim-merged-2-1": {
+      "incoming": 0,
+      "outgoing": 1,
+      "total": 1
+    },
+    "claim-merged-2-2": {
+      "incoming": 0,
+      "outgoing": 1,
+      "total": 1
+    },
+    "claim-merged-2-3": {
+      "incoming": 0,
+      "outgoing": 1,
+      "total": 1
+    },
+    "claim-merged-2-4": {
+      "incoming": 0,
+      "outgoing": 1,
+      "total": 1
+    },
+    "claim-merged-3-1": {
+      "incoming": 0,
+      "outgoing": 1,
+      "total": 1
+    },
+    "claim-merged-3-2": {
+      "incoming": 0,
+      "outgoing": 1,
+      "total": 1
+    },
+    "claim-merged-3-3": {
+      "incoming": 0,
+      "outgoing": 1,
+      "total": 1
+    },
+    "claim-merged-3-4": {
+      "incoming": 0,
+      "outgoing": 1,
+      "total": 1
+    },
+    "claim-merged-4-1": {
+      "incoming": 0,
+      "outgoing": 1,
+      "total": 1
+    },
+    "claim-merged-4-2": {
+      "incoming": 0,
+      "outgoing": 1,
+      "total": 1
+    },
+    "claim-merged-4-3": {
+      "incoming": 0,
+      "outgoing": 1,
+      "total": 1
+    },
+    "claim-merged-4-4": {
+      "incoming": 0,
+      "outgoing": 1,
+      "total": 1
+    },
+    "claim-merged-5-1": {
+      "incoming": 0,
+      "outgoing": 1,
+      "total": 1
+    },
+    "claim-merged-5-2": {
+      "incoming": 0,
+      "outgoing": 1,
+      "total": 1
+    },
+    "claim-merged-5-3": {
+      "incoming": 0,
+      "outgoing": 1,
+      "total": 1
+    },
+    "claim-merged-5-4": {
+      "incoming": 0,
+      "outgoing": 1,
+      "total": 1
+    },
+    "claim-merged-6-1": {
+      "incoming": 0,
+      "outgoing": 1,
+      "total": 1
+    },
+    "claim-merged-6-2": {
+      "incoming": 0,
+      "outgoing": 1,
+      "total": 1
+    },
+    "claim-merged-6-3": {
+      "incoming": 0,
+      "outgoing": 1,
+      "total": 1
+    },
+    "claim-merged-6-4": {
+      "incoming": 0,
+      "outgoing": 1,
+      "total": 1
+    },
+    "claim-merged-7-1": {
+      "incoming": 0,
+      "outgoing": 1,
+      "total": 1
+    },
+    "claim-merged-7-2": {
+      "incoming": 0,
+      "outgoing": 1,
+      "total": 1
+    },
+    "claim-merged-7-3": {
+      "incoming": 0,
+      "outgoing": 1,
+      "total": 1
+    },
+    "claim-merged-7-4": {
+      "incoming": 0,
+      "outgoing": 1,
+      "total": 1
+    },
+    "claim-merged-8-1": {
+      "incoming": 0,
+      "outgoing": 1,
+      "total": 1
+    },
+    "claim-merged-8-2": {
+      "incoming": 0,
+      "outgoing": 1,
+      "total": 1
+    },
+    "claim-merged-8-3": {
+      "incoming": 0,
+      "outgoing": 1,
+      "total": 1
+    },
+    "claim-merged-8-4": {
+      "incoming": 0,
+      "outgoing": 1,
+      "total": 1
+    },
+    "claim-merged-9-1": {
+      "incoming": 0,
+      "outgoing": 1,
+      "total": 1
+    },
+    "claim-merged-9-2": {
+      "incoming": 0,
+      "outgoing": 1,
+      "total": 1
+    },
+    "claim-merged-9-3": {
+      "incoming": 0,
+      "outgoing": 1,
+      "total": 1
+    },
+    "claim-merged-9-4": {
       "incoming": 0,
       "outgoing": 1,
       "total": 1
@@ -4924,6 +5399,11 @@
       "outgoing": 0,
       "total": 1
     },
+    "curt-jaimungal": {
+      "incoming": 1,
+      "outgoing": 0,
+      "total": 1
+    },
     "dan-cleary": {
       "incoming": 1,
       "outgoing": 1,
@@ -4970,9 +5450,9 @@
       "total": 5
     },
     "david-fravor": {
-      "incoming": 9,
+      "incoming": 10,
       "outgoing": 5,
-      "total": 14
+      "total": 15
     },
     "david-grinspoon": {
       "incoming": 0,
@@ -5180,9 +5660,9 @@
       "total": 3
     },
     "galileo-project": {
-      "incoming": 5,
+      "incoming": 8,
       "outgoing": 2,
-      "total": 7
+      "total": 10
     },
     "garry-nolan": {
       "incoming": 6,
@@ -5299,6 +5779,11 @@
       "outgoing": 0,
       "total": 4
     },
+    "iya-whiteley": {
+      "incoming": 1,
+      "outgoing": 0,
+      "total": 1
+    },
     "j-allen-hynek": {
       "incoming": 3,
       "outgoing": 2,
@@ -5350,9 +5835,9 @@
       "total": 7
     },
     "jeff-nuccetelli": {
-      "incoming": 2,
+      "incoming": 3,
       "outgoing": 1,
-      "total": 3
+      "total": 4
     },
     "jeffrey-nuccetelli": {
       "incoming": 0,
@@ -5464,6 +5949,11 @@
       "outgoing": 2,
       "total": 2
     },
+    "kegan-gill": {
+      "incoming": 1,
+      "outgoing": 0,
+      "total": 1
+    },
     "kevin-day": {
       "incoming": 0,
       "outgoing": 3,
@@ -5564,15 +6054,25 @@
       "outgoing": 2,
       "total": 2
     },
+    "mark-hulsey": {
+      "incoming": 1,
+      "outgoing": 0,
+      "total": 1
+    },
     "matt-laslo": {
-      "incoming": 3,
+      "incoming": 4,
       "outgoing": 2,
-      "total": 5
+      "total": 6
     },
     "matthew-brown": {
       "incoming": 21,
       "outgoing": 2,
       "total": 23
+    },
+    "matthew-szydagis": {
+      "incoming": 1,
+      "outgoing": 0,
+      "total": 1
     },
     "mcminnville-ufo-festival": {
       "incoming": 1,
@@ -5585,9 +6085,9 @@
       "total": 63
     },
     "merged-podcast": {
-      "incoming": 2,
+      "incoming": 20,
       "outgoing": 2,
-      "total": 4
+      "total": 22
     },
     "michael-gold": {
       "incoming": 0,
@@ -5605,6 +6105,11 @@
       "total": 4
     },
     "michael-lazovsky": {
+      "incoming": 1,
+      "outgoing": 0,
+      "total": 1
+    },
+    "michael-lembeck": {
       "incoming": 1,
       "outgoing": 0,
       "total": 1
@@ -5665,9 +6170,9 @@
       "total": 2
     },
     "nasa": {
-      "incoming": 7,
+      "incoming": 8,
       "outgoing": 2,
-      "total": 9
+      "total": 10
     },
     "nasa-uap-independent-study-team": {
       "incoming": 11,
@@ -5874,6 +6379,11 @@
       "outgoing": 3,
       "total": 3
     },
+    "robin-hanson": {
+      "incoming": 1,
+      "outgoing": 0,
+      "total": 1
+    },
     "rod-roddenberry": {
       "incoming": 1,
       "outgoing": 0,
@@ -5910,9 +6420,9 @@
       "total": 1
     },
     "ryan-graves": {
-      "incoming": 10,
+      "incoming": 28,
       "outgoing": 8,
-      "total": 18
+      "total": 36
     },
     "ryan-robbins": {
       "incoming": 3,
@@ -5945,9 +6455,9 @@
       "total": 1
     },
     "scientific-investigation": {
-      "incoming": 39,
+      "incoming": 50,
       "outgoing": 0,
-      "total": 39
+      "total": 50
     },
     "scott-bray": {
       "incoming": 0,
@@ -6090,9 +6600,9 @@
       "total": 6
     },
     "tim-gallaudet": {
-      "incoming": 0,
+      "incoming": 1,
       "outgoing": 2,
-      "total": 2
+      "total": 3
     },
     "tim-phillips": {
       "incoming": 1,
@@ -7090,9 +7600,9 @@
       "total": 13
     },
     "uap-research": {
-      "incoming": 67,
+      "incoming": 80,
       "outgoing": 0,
-      "total": 67
+      "total": 80
     },
     "uap-science": {
       "incoming": 5,
@@ -7115,9 +7625,9 @@
       "total": 10
     },
     "uap-transparency": {
-      "incoming": 19,
+      "incoming": 20,
       "outgoing": 0,
-      "total": 19
+      "total": 20
     },
     "ufo-cryptid-connection": {
       "incoming": 1,
@@ -7145,9 +7655,9 @@
       "total": 1
     },
     "unidentified-submerged-objects": {
-      "incoming": 7,
+      "incoming": 8,
       "outgoing": 1,
-      "total": 8
+      "total": 9
     },
     "united-states-air-force": {
       "incoming": 23,

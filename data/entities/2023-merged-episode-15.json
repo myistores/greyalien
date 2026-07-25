@@ -1,0 +1,88 @@
+{
+  "id": "2023-merged-episode-15",
+  "type": "podcast_episode",
+  "name": "MERGED Episode #15 — The Sounds of the Sky: The Galileo Project’s Search for UAP",
+  "summary": "Acoustic instrumentation, machine-learning classification, multisensor observatories, and real-time sky monitoring.",
+  "date": "2023-09-14",
+  "dateDisplay": "September 14, 2023",
+  "seriesId": "merged-podcast",
+  "episodeNumber": 15,
+  "episodeTitle": "The Sounds of the Sky: The Galileo Project’s Search for UAP",
+  "status": "Published",
+  "mediaType": "Podcast episode",
+  "mediaPlatform": "MERGED",
+  "mediaHost": "Ryan Graves",
+  "mediaGuests": [
+    "Andy Mead"
+  ],
+  "mediaSubjects": [
+    "Galileo Project",
+    "Scientific Investigation",
+    "Sensor Data"
+  ],
+  "principalClaims": [
+    "claim-merged-15-1",
+    "claim-merged-15-2",
+    "claim-merged-15-3",
+    "claim-merged-15-4"
+  ],
+  "researchNotes": [
+    "Direct episode metadata and description were verified against the MERGED syndicated episode record for Episode #15.",
+    "Canonical entities were reused where available; new guest entities were created only when no existing equivalent was present.",
+    "Cross-series discovery is generated through shared canonical people, cases, organizations, and topics rather than incidental mentions."
+  ],
+  "relationships": [
+    {
+      "type": "episode_of",
+      "target": "merged-podcast"
+    },
+    {
+      "type": "features_person",
+      "target": "ryan-graves",
+      "role": "host",
+      "context": "MERGED host and former U.S. Navy F/A-18 pilot"
+    },
+    {
+      "type": "features_person",
+      "target": "andy-mead",
+      "role": "guest",
+      "context": "Featured guest for MERGED Episode #15"
+    },
+    {
+      "type": "references_organization",
+      "target": "galileo-project"
+    },
+    {
+      "type": "discussed_topic",
+      "target": "scientific-investigation"
+    }
+  ],
+  "mediaLinks": [
+    {
+      "label": "Listen to MERGED Episode #15",
+      "url": "https://www.ivoox.com/en/the-sounds-of-the-sky-the-galileo-audios-mp3_rf_116041882_1.html",
+      "platform": "iVoox"
+    },
+    {
+      "label": "Watch MERGED Episode #15 on YouTube",
+      "url": "https://www.youtube.com/watch?v=87POecVP-s4",
+      "platform": "YouTube"
+    }
+  ],
+  "eventCategory": "Podcast publication",
+  "officialLinks": [],
+  "referenceSources": [
+    {
+      "label": "MERGED Episode #15 on iVoox",
+      "url": "https://www.ivoox.com/en/the-sounds-of-the-sky-the-galileo-audios-mp3_rf_116041882_1.html",
+      "sourceType": "podcast_platform_episode",
+      "role": "source"
+    },
+    {
+      "label": "Official MERGED Episode #15 video",
+      "url": "https://www.youtube.com/watch?v=87POecVP-s4",
+      "sourceType": "official_episode_video",
+      "role": "source"
+    }
+  ]
+}

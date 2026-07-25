@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "generatedBy": "tools/build_related_content.py",
-  "generatedAt": "2026-07-25T18:43:49.667985+00:00",
+  "generatedAt": "2026-07-25T19:31:10.059962+00:00",
   "referencedIn": {
     "1946-scandinavian-ghost-rockets": [
       {
@@ -1840,6 +1840,14 @@
         "context": "Testified publicly under oath about pilot reporting and aviation safety"
       },
       {
+        "id": "2023-merged-episode-17",
+        "type": "podcast_episode",
+        "name": "MERGED Episode #17 — Asking Difficult Questions: Congressional Accountability on UAP",
+        "relationshipType": "discussed_topic",
+        "role": "",
+        "context": ""
+      },
+      {
         "id": "2023-weaponized-episode-24",
         "type": "podcast_episode",
         "name": "WEAPONIZED Episode #24 — Congressional Momentum, Canadian Transparency, and Barriers to UAP Disclosure",
@@ -1998,6 +2006,618 @@
         "type": "timeline_event",
         "name": "MERGED publishes Episode #1 with Dr. Garry Nolan",
         "relationshipType": "event_for",
+        "role": "",
+        "context": ""
+      }
+    ],
+    "2023-merged-episode-10": [
+      {
+        "id": "claim-merged-10-1",
+        "type": "claim",
+        "name": "Avi Loeb presents firsthand or professional experience relevant to the episode’s central subject.",
+        "relationshipType": "featured_in_media",
+        "role": "",
+        "context": ""
+      },
+      {
+        "id": "claim-merged-10-4",
+        "type": "claim",
+        "name": "The conversation connects the episode’s subject to broader aviation safety, scientific research, or public-accountability needs.",
+        "relationshipType": "featured_in_media",
+        "role": "",
+        "context": ""
+      },
+      {
+        "id": "claim-merged-10-3",
+        "type": "claim",
+        "name": "The discussion identifies institutional, cultural, or technical barriers that limit reliable UAP data collection.",
+        "relationshipType": "featured_in_media",
+        "role": "",
+        "context": ""
+      },
+      {
+        "id": "claim-merged-10-2",
+        "type": "claim",
+        "name": "The episode argues that the subject should be evaluated through evidence, structured reporting, or reproducible scientific methods.",
+        "relationshipType": "featured_in_media",
+        "role": "",
+        "context": ""
+      }
+    ],
+    "2023-merged-episode-11": [
+      {
+        "id": "claim-merged-11-1",
+        "type": "claim",
+        "name": "David Fravor presents firsthand or professional experience relevant to the episode’s central subject.",
+        "relationshipType": "featured_in_media",
+        "role": "",
+        "context": ""
+      },
+      {
+        "id": "claim-merged-11-4",
+        "type": "claim",
+        "name": "The conversation connects the episode’s subject to broader aviation safety, scientific research, or public-accountability needs.",
+        "relationshipType": "featured_in_media",
+        "role": "",
+        "context": ""
+      },
+      {
+        "id": "claim-merged-11-3",
+        "type": "claim",
+        "name": "The discussion identifies institutional, cultural, or technical barriers that limit reliable UAP data collection.",
+        "relationshipType": "featured_in_media",
+        "role": "",
+        "context": ""
+      },
+      {
+        "id": "claim-merged-11-2",
+        "type": "claim",
+        "name": "The episode argues that the subject should be evaluated through evidence, structured reporting, or reproducible scientific methods.",
+        "relationshipType": "featured_in_media",
+        "role": "",
+        "context": ""
+      }
+    ],
+    "2023-merged-episode-12": [
+      {
+        "id": "claim-merged-12-1",
+        "type": "claim",
+        "name": "Iya Whiteley presents firsthand or professional experience relevant to the episode’s central subject.",
+        "relationshipType": "featured_in_media",
+        "role": "",
+        "context": ""
+      },
+      {
+        "id": "claim-merged-12-4",
+        "type": "claim",
+        "name": "The conversation connects the episode’s subject to broader aviation safety, scientific research, or public-accountability needs.",
+        "relationshipType": "featured_in_media",
+        "role": "",
+        "context": ""
+      },
+      {
+        "id": "claim-merged-12-3",
+        "type": "claim",
+        "name": "The discussion identifies institutional, cultural, or technical barriers that limit reliable UAP data collection.",
+        "relationshipType": "featured_in_media",
+        "role": "",
+        "context": ""
+      },
+      {
+        "id": "claim-merged-12-2",
+        "type": "claim",
+        "name": "The episode argues that the subject should be evaluated through evidence, structured reporting, or reproducible scientific methods.",
+        "relationshipType": "featured_in_media",
+        "role": "",
+        "context": ""
+      }
+    ],
+    "2023-merged-episode-13": [
+      {
+        "id": "claim-merged-13-1",
+        "type": "claim",
+        "name": "Michael Lembeck presents firsthand or professional experience relevant to the episode’s central subject.",
+        "relationshipType": "featured_in_media",
+        "role": "",
+        "context": ""
+      },
+      {
+        "id": "claim-merged-13-4",
+        "type": "claim",
+        "name": "The conversation connects the episode’s subject to broader aviation safety, scientific research, or public-accountability needs.",
+        "relationshipType": "featured_in_media",
+        "role": "",
+        "context": ""
+      },
+      {
+        "id": "claim-merged-13-3",
+        "type": "claim",
+        "name": "The discussion identifies institutional, cultural, or technical barriers that limit reliable UAP data collection.",
+        "relationshipType": "featured_in_media",
+        "role": "",
+        "context": ""
+      },
+      {
+        "id": "claim-merged-13-2",
+        "type": "claim",
+        "name": "The episode argues that the subject should be evaluated through evidence, structured reporting, or reproducible scientific methods.",
+        "relationshipType": "featured_in_media",
+        "role": "",
+        "context": ""
+      }
+    ],
+    "2023-merged-episode-14": [
+      {
+        "id": "claim-merged-14-1",
+        "type": "claim",
+        "name": "Alex Dietrich presents firsthand or professional experience relevant to the episode’s central subject.",
+        "relationshipType": "featured_in_media",
+        "role": "",
+        "context": ""
+      },
+      {
+        "id": "claim-merged-14-4",
+        "type": "claim",
+        "name": "The conversation connects the episode’s subject to broader aviation safety, scientific research, or public-accountability needs.",
+        "relationshipType": "featured_in_media",
+        "role": "",
+        "context": ""
+      },
+      {
+        "id": "claim-merged-14-3",
+        "type": "claim",
+        "name": "The discussion identifies institutional, cultural, or technical barriers that limit reliable UAP data collection.",
+        "relationshipType": "featured_in_media",
+        "role": "",
+        "context": ""
+      },
+      {
+        "id": "claim-merged-14-2",
+        "type": "claim",
+        "name": "The episode argues that the subject should be evaluated through evidence, structured reporting, or reproducible scientific methods.",
+        "relationshipType": "featured_in_media",
+        "role": "",
+        "context": ""
+      }
+    ],
+    "2023-merged-episode-15": [
+      {
+        "id": "claim-merged-15-1",
+        "type": "claim",
+        "name": "Andy Mead presents firsthand or professional experience relevant to the episode’s central subject.",
+        "relationshipType": "featured_in_media",
+        "role": "",
+        "context": ""
+      },
+      {
+        "id": "claim-merged-15-4",
+        "type": "claim",
+        "name": "The conversation connects the episode’s subject to broader aviation safety, scientific research, or public-accountability needs.",
+        "relationshipType": "featured_in_media",
+        "role": "",
+        "context": ""
+      },
+      {
+        "id": "claim-merged-15-3",
+        "type": "claim",
+        "name": "The discussion identifies institutional, cultural, or technical barriers that limit reliable UAP data collection.",
+        "relationshipType": "featured_in_media",
+        "role": "",
+        "context": ""
+      },
+      {
+        "id": "claim-merged-15-2",
+        "type": "claim",
+        "name": "The episode argues that the subject should be evaluated through evidence, structured reporting, or reproducible scientific methods.",
+        "relationshipType": "featured_in_media",
+        "role": "",
+        "context": ""
+      }
+    ],
+    "2023-merged-episode-16": [
+      {
+        "id": "claim-merged-16-4",
+        "type": "claim",
+        "name": "The conversation connects the episode’s subject to broader aviation safety, scientific research, or public-accountability needs.",
+        "relationshipType": "featured_in_media",
+        "role": "",
+        "context": ""
+      },
+      {
+        "id": "claim-merged-16-3",
+        "type": "claim",
+        "name": "The discussion identifies institutional, cultural, or technical barriers that limit reliable UAP data collection.",
+        "relationshipType": "featured_in_media",
+        "role": "",
+        "context": ""
+      },
+      {
+        "id": "claim-merged-16-2",
+        "type": "claim",
+        "name": "The episode argues that the subject should be evaluated through evidence, structured reporting, or reproducible scientific methods.",
+        "relationshipType": "featured_in_media",
+        "role": "",
+        "context": ""
+      },
+      {
+        "id": "claim-merged-16-1",
+        "type": "claim",
+        "name": "Tim Gallaudet presents firsthand or professional experience relevant to the episode’s central subject.",
+        "relationshipType": "featured_in_media",
+        "role": "",
+        "context": ""
+      }
+    ],
+    "2023-merged-episode-17": [
+      {
+        "id": "claim-merged-17-1",
+        "type": "claim",
+        "name": "Matt Laslo presents firsthand or professional experience relevant to the episode’s central subject.",
+        "relationshipType": "featured_in_media",
+        "role": "",
+        "context": ""
+      },
+      {
+        "id": "claim-merged-17-4",
+        "type": "claim",
+        "name": "The conversation connects the episode’s subject to broader aviation safety, scientific research, or public-accountability needs.",
+        "relationshipType": "featured_in_media",
+        "role": "",
+        "context": ""
+      },
+      {
+        "id": "claim-merged-17-3",
+        "type": "claim",
+        "name": "The discussion identifies institutional, cultural, or technical barriers that limit reliable UAP data collection.",
+        "relationshipType": "featured_in_media",
+        "role": "",
+        "context": ""
+      },
+      {
+        "id": "claim-merged-17-2",
+        "type": "claim",
+        "name": "The episode argues that the subject should be evaluated through evidence, structured reporting, or reproducible scientific methods.",
+        "relationshipType": "featured_in_media",
+        "role": "",
+        "context": ""
+      }
+    ],
+    "2023-merged-episode-18": [
+      {
+        "id": "claim-merged-18-1",
+        "type": "claim",
+        "name": "Adam Frank presents firsthand or professional experience relevant to the episode’s central subject.",
+        "relationshipType": "featured_in_media",
+        "role": "",
+        "context": ""
+      },
+      {
+        "id": "claim-merged-18-4",
+        "type": "claim",
+        "name": "The conversation connects the episode’s subject to broader aviation safety, scientific research, or public-accountability needs.",
+        "relationshipType": "featured_in_media",
+        "role": "",
+        "context": ""
+      },
+      {
+        "id": "claim-merged-18-3",
+        "type": "claim",
+        "name": "The discussion identifies institutional, cultural, or technical barriers that limit reliable UAP data collection.",
+        "relationshipType": "featured_in_media",
+        "role": "",
+        "context": ""
+      },
+      {
+        "id": "claim-merged-18-2",
+        "type": "claim",
+        "name": "The episode argues that the subject should be evaluated through evidence, structured reporting, or reproducible scientific methods.",
+        "relationshipType": "featured_in_media",
+        "role": "",
+        "context": ""
+      }
+    ],
+    "2023-merged-episode-19": [
+      {
+        "id": "claim-merged-19-1",
+        "type": "claim",
+        "name": "Jeff Nuccetelli presents firsthand or professional experience relevant to the episode’s central subject.",
+        "relationshipType": "featured_in_media",
+        "role": "",
+        "context": ""
+      },
+      {
+        "id": "claim-merged-19-4",
+        "type": "claim",
+        "name": "The conversation connects the episode’s subject to broader aviation safety, scientific research, or public-accountability needs.",
+        "relationshipType": "featured_in_media",
+        "role": "",
+        "context": ""
+      },
+      {
+        "id": "claim-merged-19-3",
+        "type": "claim",
+        "name": "The discussion identifies institutional, cultural, or technical barriers that limit reliable UAP data collection.",
+        "relationshipType": "featured_in_media",
+        "role": "",
+        "context": ""
+      },
+      {
+        "id": "claim-merged-19-2",
+        "type": "claim",
+        "name": "The episode argues that the subject should be evaluated through evidence, structured reporting, or reproducible scientific methods.",
+        "relationshipType": "featured_in_media",
+        "role": "",
+        "context": ""
+      }
+    ],
+    "2023-merged-episode-2": [
+      {
+        "id": "claim-merged-2-1",
+        "type": "claim",
+        "name": "Mark Hulsey presents firsthand or professional experience relevant to the episode’s central subject.",
+        "relationshipType": "featured_in_media",
+        "role": "",
+        "context": ""
+      },
+      {
+        "id": "claim-merged-2-4",
+        "type": "claim",
+        "name": "The conversation connects the episode’s subject to broader aviation safety, scientific research, or public-accountability needs.",
+        "relationshipType": "featured_in_media",
+        "role": "",
+        "context": ""
+      },
+      {
+        "id": "claim-merged-2-3",
+        "type": "claim",
+        "name": "The discussion identifies institutional, cultural, or technical barriers that limit reliable UAP data collection.",
+        "relationshipType": "featured_in_media",
+        "role": "",
+        "context": ""
+      },
+      {
+        "id": "claim-merged-2-2",
+        "type": "claim",
+        "name": "The episode argues that the subject should be evaluated through evidence, structured reporting, or reproducible scientific methods.",
+        "relationshipType": "featured_in_media",
+        "role": "",
+        "context": ""
+      }
+    ],
+    "2023-merged-episode-3": [
+      {
+        "id": "claim-merged-3-1",
+        "type": "claim",
+        "name": "Kegan Gill presents firsthand or professional experience relevant to the episode’s central subject.",
+        "relationshipType": "featured_in_media",
+        "role": "",
+        "context": ""
+      },
+      {
+        "id": "claim-merged-3-4",
+        "type": "claim",
+        "name": "The conversation connects the episode’s subject to broader aviation safety, scientific research, or public-accountability needs.",
+        "relationshipType": "featured_in_media",
+        "role": "",
+        "context": ""
+      },
+      {
+        "id": "claim-merged-3-3",
+        "type": "claim",
+        "name": "The discussion identifies institutional, cultural, or technical barriers that limit reliable UAP data collection.",
+        "relationshipType": "featured_in_media",
+        "role": "",
+        "context": ""
+      },
+      {
+        "id": "claim-merged-3-2",
+        "type": "claim",
+        "name": "The episode argues that the subject should be evaluated through evidence, structured reporting, or reproducible scientific methods.",
+        "relationshipType": "featured_in_media",
+        "role": "",
+        "context": ""
+      }
+    ],
+    "2023-merged-episode-4": [
+      {
+        "id": "claim-merged-4-1",
+        "type": "claim",
+        "name": "Chris Van Voorhis presents firsthand or professional experience relevant to the episode’s central subject.",
+        "relationshipType": "featured_in_media",
+        "role": "",
+        "context": ""
+      },
+      {
+        "id": "claim-merged-4-4",
+        "type": "claim",
+        "name": "The conversation connects the episode’s subject to broader aviation safety, scientific research, or public-accountability needs.",
+        "relationshipType": "featured_in_media",
+        "role": "",
+        "context": ""
+      },
+      {
+        "id": "claim-merged-4-3",
+        "type": "claim",
+        "name": "The discussion identifies institutional, cultural, or technical barriers that limit reliable UAP data collection.",
+        "relationshipType": "featured_in_media",
+        "role": "",
+        "context": ""
+      },
+      {
+        "id": "claim-merged-4-2",
+        "type": "claim",
+        "name": "The episode argues that the subject should be evaluated through evidence, structured reporting, or reproducible scientific methods.",
+        "relationshipType": "featured_in_media",
+        "role": "",
+        "context": ""
+      }
+    ],
+    "2023-merged-episode-5": [
+      {
+        "id": "claim-merged-5-1",
+        "type": "claim",
+        "name": "Christiaan van Heijst presents firsthand or professional experience relevant to the episode’s central subject.",
+        "relationshipType": "featured_in_media",
+        "role": "",
+        "context": ""
+      },
+      {
+        "id": "claim-merged-5-4",
+        "type": "claim",
+        "name": "The conversation connects the episode’s subject to broader aviation safety, scientific research, or public-accountability needs.",
+        "relationshipType": "featured_in_media",
+        "role": "",
+        "context": ""
+      },
+      {
+        "id": "claim-merged-5-3",
+        "type": "claim",
+        "name": "The discussion identifies institutional, cultural, or technical barriers that limit reliable UAP data collection.",
+        "relationshipType": "featured_in_media",
+        "role": "",
+        "context": ""
+      },
+      {
+        "id": "claim-merged-5-2",
+        "type": "claim",
+        "name": "The episode argues that the subject should be evaluated through evidence, structured reporting, or reproducible scientific methods.",
+        "relationshipType": "featured_in_media",
+        "role": "",
+        "context": ""
+      }
+    ],
+    "2023-merged-episode-6": [
+      {
+        "id": "claim-merged-6-1",
+        "type": "claim",
+        "name": "Abby White presents firsthand or professional experience relevant to the episode’s central subject.",
+        "relationshipType": "featured_in_media",
+        "role": "",
+        "context": ""
+      },
+      {
+        "id": "claim-merged-6-4",
+        "type": "claim",
+        "name": "The conversation connects the episode’s subject to broader aviation safety, scientific research, or public-accountability needs.",
+        "relationshipType": "featured_in_media",
+        "role": "",
+        "context": ""
+      },
+      {
+        "id": "claim-merged-6-3",
+        "type": "claim",
+        "name": "The discussion identifies institutional, cultural, or technical barriers that limit reliable UAP data collection.",
+        "relationshipType": "featured_in_media",
+        "role": "",
+        "context": ""
+      },
+      {
+        "id": "claim-merged-6-2",
+        "type": "claim",
+        "name": "The episode argues that the subject should be evaluated through evidence, structured reporting, or reproducible scientific methods.",
+        "relationshipType": "featured_in_media",
+        "role": "",
+        "context": ""
+      }
+    ],
+    "2023-merged-episode-7": [
+      {
+        "id": "claim-merged-7-1",
+        "type": "claim",
+        "name": "Curt Jaimungal presents firsthand or professional experience relevant to the episode’s central subject.",
+        "relationshipType": "featured_in_media",
+        "role": "",
+        "context": ""
+      },
+      {
+        "id": "claim-merged-7-4",
+        "type": "claim",
+        "name": "The conversation connects the episode’s subject to broader aviation safety, scientific research, or public-accountability needs.",
+        "relationshipType": "featured_in_media",
+        "role": "",
+        "context": ""
+      },
+      {
+        "id": "claim-merged-7-3",
+        "type": "claim",
+        "name": "The discussion identifies institutional, cultural, or technical barriers that limit reliable UAP data collection.",
+        "relationshipType": "featured_in_media",
+        "role": "",
+        "context": ""
+      },
+      {
+        "id": "claim-merged-7-2",
+        "type": "claim",
+        "name": "The episode argues that the subject should be evaluated through evidence, structured reporting, or reproducible scientific methods.",
+        "relationshipType": "featured_in_media",
+        "role": "",
+        "context": ""
+      }
+    ],
+    "2023-merged-episode-8": [
+      {
+        "id": "claim-merged-8-1",
+        "type": "claim",
+        "name": "Matthew Szydagis presents firsthand or professional experience relevant to the episode’s central subject.",
+        "relationshipType": "featured_in_media",
+        "role": "",
+        "context": ""
+      },
+      {
+        "id": "claim-merged-8-4",
+        "type": "claim",
+        "name": "The conversation connects the episode’s subject to broader aviation safety, scientific research, or public-accountability needs.",
+        "relationshipType": "featured_in_media",
+        "role": "",
+        "context": ""
+      },
+      {
+        "id": "claim-merged-8-3",
+        "type": "claim",
+        "name": "The discussion identifies institutional, cultural, or technical barriers that limit reliable UAP data collection.",
+        "relationshipType": "featured_in_media",
+        "role": "",
+        "context": ""
+      },
+      {
+        "id": "claim-merged-8-2",
+        "type": "claim",
+        "name": "The episode argues that the subject should be evaluated through evidence, structured reporting, or reproducible scientific methods.",
+        "relationshipType": "featured_in_media",
+        "role": "",
+        "context": ""
+      }
+    ],
+    "2023-merged-episode-9": [
+      {
+        "id": "claim-merged-9-1",
+        "type": "claim",
+        "name": "Robin Hanson presents firsthand or professional experience relevant to the episode’s central subject.",
+        "relationshipType": "featured_in_media",
+        "role": "",
+        "context": ""
+      },
+      {
+        "id": "claim-merged-9-4",
+        "type": "claim",
+        "name": "The conversation connects the episode’s subject to broader aviation safety, scientific research, or public-accountability needs.",
+        "relationshipType": "featured_in_media",
+        "role": "",
+        "context": ""
+      },
+      {
+        "id": "claim-merged-9-3",
+        "type": "claim",
+        "name": "The discussion identifies institutional, cultural, or technical barriers that limit reliable UAP data collection.",
+        "relationshipType": "featured_in_media",
+        "role": "",
+        "context": ""
+      },
+      {
+        "id": "claim-merged-9-2",
+        "type": "claim",
+        "name": "The episode argues that the subject should be evaluated through evidence, structured reporting, or reproducible scientific methods.",
+        "relationshipType": "featured_in_media",
         "role": "",
         "context": ""
       }
@@ -8927,6 +9547,14 @@
         "context": ""
       },
       {
+        "id": "2023-merged-episode-19",
+        "type": "podcast_episode",
+        "name": "MERGED Episode #19 — Vandenberg “Red Square” Witness Speaks for First Time",
+        "relationshipType": "references_organization",
+        "role": "",
+        "context": ""
+      },
+      {
         "id": "2022-need-to-know-episode-18",
         "type": "podcast_episode",
         "name": "Need to Know Episode #18 — Real Change Ahead?",
@@ -9243,6 +9871,26 @@
         "context": "Defense Intelligence Agency-funded research program"
       }
     ],
+    "abby-white": [
+      {
+        "id": "2023-merged-episode-6",
+        "type": "podcast_episode",
+        "name": "MERGED Episode #6 — Researching UAP in the Galileo Project",
+        "relationshipType": "features_person",
+        "role": "guest",
+        "context": "Featured guest for MERGED Episode #6"
+      }
+    ],
+    "adam-frank": [
+      {
+        "id": "2023-merged-episode-18",
+        "type": "podcast_episode",
+        "name": "MERGED Episode #18 — UAP Research or SETI: Who Finds NHI First?",
+        "relationshipType": "features_person",
+        "role": "guest",
+        "context": "Featured guest for MERGED Episode #18"
+      }
+    ],
     "advanced-theoretical-physics-program": [
       {
         "id": "john-b-alexander",
@@ -9261,7 +9909,16 @@
         "context": "Alexander led the earlier Defense Department UFO inquiry described in the episode"
       }
     ],
-    "alex-dietrich": [],
+    "alex-dietrich": [
+      {
+        "id": "2023-merged-episode-14",
+        "type": "podcast_episode",
+        "name": "MERGED Episode #14 — Pilots & Witnesses: Systematic UAP Reporting for Pilots",
+        "relationshipType": "features_person",
+        "role": "guest",
+        "context": "Featured guest for MERGED Episode #14"
+      }
+    ],
     "alex-wiggins": [
       {
         "id": "2026-weaponized-episode-119",
@@ -9393,6 +10050,16 @@
       }
     ],
     "anamaria-berea": [],
+    "andy-mead": [
+      {
+        "id": "2023-merged-episode-15",
+        "type": "podcast_episode",
+        "name": "MERGED Episode #15 — The Sounds of the Sky: The Galileo Project’s Search for UAP",
+        "relationshipType": "features_person",
+        "role": "guest",
+        "context": "Featured guest for MERGED Episode #15"
+      }
+    ],
     "animal-wellness-action": [
       {
         "id": "2023-weaponized-episode-31",
@@ -9580,6 +10247,14 @@
       }
     ],
     "avi-loeb": [
+      {
+        "id": "2023-merged-episode-10",
+        "type": "podcast_episode",
+        "name": "MERGED Episode #10 — Looking to the Sky for Extraordinary Evidence of UAP",
+        "relationshipType": "features_person",
+        "role": "guest",
+        "context": "Featured guest for MERGED Episode #10"
+      },
       {
         "id": "timeline-2021-07-galileo-project-founded",
         "type": "timeline_event",
@@ -9786,6 +10461,86 @@
         "id": "2023-merged-episode-1",
         "type": "podcast_episode",
         "name": "MERGED Episode #1 — Interview with Dr. Garry Nolan",
+        "relationshipType": "discussed_topic",
+        "role": "",
+        "context": ""
+      },
+      {
+        "id": "2023-merged-episode-11",
+        "type": "podcast_episode",
+        "name": "MERGED Episode #11 — Beyond the Stigma: A UAP Call to Action",
+        "relationshipType": "discussed_topic",
+        "role": "",
+        "context": ""
+      },
+      {
+        "id": "2023-merged-episode-12",
+        "type": "podcast_episode",
+        "name": "MERGED Episode #12 — A New Era of Aviation Safety",
+        "relationshipType": "discussed_topic",
+        "role": "",
+        "context": ""
+      },
+      {
+        "id": "2023-merged-episode-13",
+        "type": "podcast_episode",
+        "name": "MERGED Episode #13 — An Open-Minded Scientific Approach to UAP",
+        "relationshipType": "discussed_topic",
+        "role": "",
+        "context": ""
+      },
+      {
+        "id": "2023-merged-episode-14",
+        "type": "podcast_episode",
+        "name": "MERGED Episode #14 — Pilots & Witnesses: Systematic UAP Reporting for Pilots",
+        "relationshipType": "discussed_topic",
+        "role": "",
+        "context": ""
+      },
+      {
+        "id": "2023-merged-episode-17",
+        "type": "podcast_episode",
+        "name": "MERGED Episode #17 — Asking Difficult Questions: Congressional Accountability on UAP",
+        "relationshipType": "discussed_topic",
+        "role": "",
+        "context": ""
+      },
+      {
+        "id": "2023-merged-episode-19",
+        "type": "podcast_episode",
+        "name": "MERGED Episode #19 — Vandenberg “Red Square” Witness Speaks for First Time",
+        "relationshipType": "discussed_topic",
+        "role": "",
+        "context": ""
+      },
+      {
+        "id": "2023-merged-episode-2",
+        "type": "podcast_episode",
+        "name": "MERGED Episode #2 — Pilot’s Shocking UAP Sightings & What This Means For Aviation",
+        "relationshipType": "discussed_topic",
+        "role": "",
+        "context": ""
+      },
+      {
+        "id": "2023-merged-episode-3",
+        "type": "podcast_episode",
+        "name": "MERGED Episode #3 — Unbreakable Resilience: How I Survived a Supersonic Jet Crash",
+        "relationshipType": "discussed_topic",
+        "role": "",
+        "context": ""
+      },
+      {
+        "id": "2023-merged-episode-4",
+        "type": "podcast_episode",
+        "name": "MERGED Episode #4 — Pilot Breaks the Silence on UAP Encounters",
+        "relationshipType": "discussed_topic",
+        "role": "",
+        "context": ""
+      },
+      {
+        "id": "2023-merged-episode-5",
+        "type": "podcast_episode",
+        "name": "MERGED Episode #5 — Decoding UAP Sightings: Insights from a 747 Pilot",
         "relationshipType": "discussed_topic",
         "role": "",
         "context": ""
@@ -10824,6 +11579,26 @@
         "context": "Featured episode participant"
       }
     ],
+    "chris-van-voorhis": [
+      {
+        "id": "2023-merged-episode-4",
+        "type": "podcast_episode",
+        "name": "MERGED Episode #4 — Pilot Breaks the Silence on UAP Encounters",
+        "relationshipType": "features_person",
+        "role": "guest",
+        "context": "Featured guest for MERGED Episode #4"
+      }
+    ],
+    "christiaan-van-heijst": [
+      {
+        "id": "2023-merged-episode-5",
+        "type": "podcast_episode",
+        "name": "MERGED Episode #5 — Decoding UAP Sightings: Insights from a 747 Pilot",
+        "relationshipType": "features_person",
+        "role": "guest",
+        "context": "Featured guest for MERGED Episode #5"
+      }
+    ],
     "christopher-kit-green": [],
     "christopher-mellon": [
       {
@@ -11525,6 +12300,78 @@
     "claim-merged-1-2": [],
     "claim-merged-1-3": [],
     "claim-merged-1-4": [],
+    "claim-merged-10-1": [],
+    "claim-merged-10-2": [],
+    "claim-merged-10-3": [],
+    "claim-merged-10-4": [],
+    "claim-merged-11-1": [],
+    "claim-merged-11-2": [],
+    "claim-merged-11-3": [],
+    "claim-merged-11-4": [],
+    "claim-merged-12-1": [],
+    "claim-merged-12-2": [],
+    "claim-merged-12-3": [],
+    "claim-merged-12-4": [],
+    "claim-merged-13-1": [],
+    "claim-merged-13-2": [],
+    "claim-merged-13-3": [],
+    "claim-merged-13-4": [],
+    "claim-merged-14-1": [],
+    "claim-merged-14-2": [],
+    "claim-merged-14-3": [],
+    "claim-merged-14-4": [],
+    "claim-merged-15-1": [],
+    "claim-merged-15-2": [],
+    "claim-merged-15-3": [],
+    "claim-merged-15-4": [],
+    "claim-merged-16-1": [],
+    "claim-merged-16-2": [],
+    "claim-merged-16-3": [],
+    "claim-merged-16-4": [],
+    "claim-merged-17-1": [],
+    "claim-merged-17-2": [],
+    "claim-merged-17-3": [],
+    "claim-merged-17-4": [],
+    "claim-merged-18-1": [],
+    "claim-merged-18-2": [],
+    "claim-merged-18-3": [],
+    "claim-merged-18-4": [],
+    "claim-merged-19-1": [],
+    "claim-merged-19-2": [],
+    "claim-merged-19-3": [],
+    "claim-merged-19-4": [],
+    "claim-merged-2-1": [],
+    "claim-merged-2-2": [],
+    "claim-merged-2-3": [],
+    "claim-merged-2-4": [],
+    "claim-merged-3-1": [],
+    "claim-merged-3-2": [],
+    "claim-merged-3-3": [],
+    "claim-merged-3-4": [],
+    "claim-merged-4-1": [],
+    "claim-merged-4-2": [],
+    "claim-merged-4-3": [],
+    "claim-merged-4-4": [],
+    "claim-merged-5-1": [],
+    "claim-merged-5-2": [],
+    "claim-merged-5-3": [],
+    "claim-merged-5-4": [],
+    "claim-merged-6-1": [],
+    "claim-merged-6-2": [],
+    "claim-merged-6-3": [],
+    "claim-merged-6-4": [],
+    "claim-merged-7-1": [],
+    "claim-merged-7-2": [],
+    "claim-merged-7-3": [],
+    "claim-merged-7-4": [],
+    "claim-merged-8-1": [],
+    "claim-merged-8-2": [],
+    "claim-merged-8-3": [],
+    "claim-merged-8-4": [],
+    "claim-merged-9-1": [],
+    "claim-merged-9-2": [],
+    "claim-merged-9-3": [],
+    "claim-merged-9-4": [],
     "claim-military-hazing-explanation-challenged": [],
     "claim-military-labeled-disc-uap": [],
     "claim-military-secured-crash-area-quickly": [],
@@ -13226,6 +14073,16 @@
         "context": ""
       }
     ],
+    "curt-jaimungal": [
+      {
+        "id": "2023-merged-episode-7",
+        "type": "podcast_episode",
+        "name": "MERGED Episode #7 — Exploring Theories of UAP, Consciousness, and Physics",
+        "relationshipType": "features_person",
+        "role": "guest",
+        "context": "Featured guest for MERGED Episode #7"
+      }
+    ],
     "dan-cleary": [
       {
         "id": "2025-weaponized-episode-78",
@@ -13363,6 +14220,14 @@
         "relationshipType": "made_claim",
         "role": "",
         "context": ""
+      },
+      {
+        "id": "2023-merged-episode-11",
+        "type": "podcast_episode",
+        "name": "MERGED Episode #11 — Beyond the Stigma: A UAP Call to Action",
+        "relationshipType": "features_person",
+        "role": "guest",
+        "context": "Featured guest for MERGED Episode #11"
       },
       {
         "id": "2022-need-to-know-episode-17",
@@ -14606,6 +15471,30 @@
         "relationshipType": "references_organization",
         "role": "",
         "context": "Relevant scientific research context associated with Garry Nolan"
+      },
+      {
+        "id": "2023-merged-episode-10",
+        "type": "podcast_episode",
+        "name": "MERGED Episode #10 — Looking to the Sky for Extraordinary Evidence of UAP",
+        "relationshipType": "references_organization",
+        "role": "",
+        "context": ""
+      },
+      {
+        "id": "2023-merged-episode-15",
+        "type": "podcast_episode",
+        "name": "MERGED Episode #15 — The Sounds of the Sky: The Galileo Project’s Search for UAP",
+        "relationshipType": "references_organization",
+        "role": "",
+        "context": ""
+      },
+      {
+        "id": "2023-merged-episode-6",
+        "type": "podcast_episode",
+        "name": "MERGED Episode #6 — Researching UAP in the Galileo Project",
+        "relationshipType": "references_organization",
+        "role": "",
+        "context": ""
       },
       {
         "id": "timeline-2021-07-galileo-project-founded",
@@ -17610,6 +18499,16 @@
         "context": "Complaint was submitted through intelligence-community oversight channels"
       }
     ],
+    "iya-whiteley": [
+      {
+        "id": "2023-merged-episode-12",
+        "type": "podcast_episode",
+        "name": "MERGED Episode #12 — A New Era of Aviation Safety",
+        "relationshipType": "features_person",
+        "role": "guest",
+        "context": "Featured guest for MERGED Episode #12"
+      }
+    ],
     "j-allen-hynek": [
       {
         "id": "jacques-vallee",
@@ -17843,6 +18742,14 @@
       }
     ],
     "jeff-nuccetelli": [
+      {
+        "id": "2023-merged-episode-19",
+        "type": "podcast_episode",
+        "name": "MERGED Episode #19 — Vandenberg “Red Square” Witness Speaks for First Time",
+        "relationshipType": "features_person",
+        "role": "guest",
+        "context": "Featured guest for MERGED Episode #19"
+      },
       {
         "id": "2025-weaponized-episode-71",
         "type": "podcast_episode",
@@ -19093,6 +20000,16 @@
     ],
     "karlin-toner": [],
     "karson-kammerzell": [],
+    "kegan-gill": [
+      {
+        "id": "2023-merged-episode-3",
+        "type": "podcast_episode",
+        "name": "MERGED Episode #3 — Unbreakable Resilience: How I Survived a Supersonic Jet Crash",
+        "relationshipType": "features_person",
+        "role": "guest",
+        "context": "Featured guest for MERGED Episode #3"
+      }
+    ],
     "kevin-day": [],
     "kirsten-gillibrand": [
       {
@@ -19474,6 +20391,16 @@
       }
     ],
     "mario-woods": [],
+    "mark-hulsey": [
+      {
+        "id": "2023-merged-episode-2",
+        "type": "podcast_episode",
+        "name": "MERGED Episode #2 — Pilot’s Shocking UAP Sightings & What This Means For Aviation",
+        "relationshipType": "features_person",
+        "role": "guest",
+        "context": "Featured guest for MERGED Episode #2"
+      }
+    ],
     "matt-laslo": [
       {
         "id": "ask-a-pol",
@@ -19482,6 +20409,14 @@
         "relationshipType": "affiliated_with",
         "role": "",
         "context": ""
+      },
+      {
+        "id": "2023-merged-episode-17",
+        "type": "podcast_episode",
+        "name": "MERGED Episode #17 — Asking Difficult Questions: Congressional Accountability on UAP",
+        "relationshipType": "features_person",
+        "role": "guest",
+        "context": "Featured guest for MERGED Episode #17"
       },
       {
         "id": "2024-weaponized-episode-59",
@@ -19668,6 +20603,16 @@
         "relationshipType": "features_person",
         "role": "guest",
         "context": "Featured episode participant"
+      }
+    ],
+    "matthew-szydagis": [
+      {
+        "id": "2023-merged-episode-8",
+        "type": "podcast_episode",
+        "name": "MERGED Episode #8 — Where the Search for Dark Matter and UAP Meet",
+        "relationshipType": "features_person",
+        "role": "guest",
+        "context": "Featured guest for MERGED Episode #8"
       }
     ],
     "mcminnville-ufo-festival": [
@@ -20202,6 +21147,150 @@
         "relationshipType": "episode_of",
         "role": "",
         "context": ""
+      },
+      {
+        "id": "2023-merged-episode-10",
+        "type": "podcast_episode",
+        "name": "MERGED Episode #10 — Looking to the Sky for Extraordinary Evidence of UAP",
+        "relationshipType": "episode_of",
+        "role": "",
+        "context": ""
+      },
+      {
+        "id": "2023-merged-episode-11",
+        "type": "podcast_episode",
+        "name": "MERGED Episode #11 — Beyond the Stigma: A UAP Call to Action",
+        "relationshipType": "episode_of",
+        "role": "",
+        "context": ""
+      },
+      {
+        "id": "2023-merged-episode-12",
+        "type": "podcast_episode",
+        "name": "MERGED Episode #12 — A New Era of Aviation Safety",
+        "relationshipType": "episode_of",
+        "role": "",
+        "context": ""
+      },
+      {
+        "id": "2023-merged-episode-13",
+        "type": "podcast_episode",
+        "name": "MERGED Episode #13 — An Open-Minded Scientific Approach to UAP",
+        "relationshipType": "episode_of",
+        "role": "",
+        "context": ""
+      },
+      {
+        "id": "2023-merged-episode-14",
+        "type": "podcast_episode",
+        "name": "MERGED Episode #14 — Pilots & Witnesses: Systematic UAP Reporting for Pilots",
+        "relationshipType": "episode_of",
+        "role": "",
+        "context": ""
+      },
+      {
+        "id": "2023-merged-episode-15",
+        "type": "podcast_episode",
+        "name": "MERGED Episode #15 — The Sounds of the Sky: The Galileo Project’s Search for UAP",
+        "relationshipType": "episode_of",
+        "role": "",
+        "context": ""
+      },
+      {
+        "id": "2023-merged-episode-16",
+        "type": "podcast_episode",
+        "name": "MERGED Episode #16 — Navigating the Deep: Searching for Undersea UAP",
+        "relationshipType": "episode_of",
+        "role": "",
+        "context": ""
+      },
+      {
+        "id": "2023-merged-episode-17",
+        "type": "podcast_episode",
+        "name": "MERGED Episode #17 — Asking Difficult Questions: Congressional Accountability on UAP",
+        "relationshipType": "episode_of",
+        "role": "",
+        "context": ""
+      },
+      {
+        "id": "2023-merged-episode-18",
+        "type": "podcast_episode",
+        "name": "MERGED Episode #18 — UAP Research or SETI: Who Finds NHI First?",
+        "relationshipType": "episode_of",
+        "role": "",
+        "context": ""
+      },
+      {
+        "id": "2023-merged-episode-19",
+        "type": "podcast_episode",
+        "name": "MERGED Episode #19 — Vandenberg “Red Square” Witness Speaks for First Time",
+        "relationshipType": "episode_of",
+        "role": "",
+        "context": ""
+      },
+      {
+        "id": "2023-merged-episode-2",
+        "type": "podcast_episode",
+        "name": "MERGED Episode #2 — Pilot’s Shocking UAP Sightings & What This Means For Aviation",
+        "relationshipType": "episode_of",
+        "role": "",
+        "context": ""
+      },
+      {
+        "id": "2023-merged-episode-3",
+        "type": "podcast_episode",
+        "name": "MERGED Episode #3 — Unbreakable Resilience: How I Survived a Supersonic Jet Crash",
+        "relationshipType": "episode_of",
+        "role": "",
+        "context": ""
+      },
+      {
+        "id": "2023-merged-episode-4",
+        "type": "podcast_episode",
+        "name": "MERGED Episode #4 — Pilot Breaks the Silence on UAP Encounters",
+        "relationshipType": "episode_of",
+        "role": "",
+        "context": ""
+      },
+      {
+        "id": "2023-merged-episode-5",
+        "type": "podcast_episode",
+        "name": "MERGED Episode #5 — Decoding UAP Sightings: Insights from a 747 Pilot",
+        "relationshipType": "episode_of",
+        "role": "",
+        "context": ""
+      },
+      {
+        "id": "2023-merged-episode-6",
+        "type": "podcast_episode",
+        "name": "MERGED Episode #6 — Researching UAP in the Galileo Project",
+        "relationshipType": "episode_of",
+        "role": "",
+        "context": ""
+      },
+      {
+        "id": "2023-merged-episode-7",
+        "type": "podcast_episode",
+        "name": "MERGED Episode #7 — Exploring Theories of UAP, Consciousness, and Physics",
+        "relationshipType": "episode_of",
+        "role": "",
+        "context": ""
+      },
+      {
+        "id": "2023-merged-episode-8",
+        "type": "podcast_episode",
+        "name": "MERGED Episode #8 — Where the Search for Dark Matter and UAP Meet",
+        "relationshipType": "episode_of",
+        "role": "",
+        "context": ""
+      },
+      {
+        "id": "2023-merged-episode-9",
+        "type": "podcast_episode",
+        "name": "MERGED Episode #9 — Through the Great Filter: A Spacetime Search for UAP",
+        "relationshipType": "episode_of",
+        "role": "",
+        "context": ""
       }
     ],
     "michael-gold": [],
@@ -20257,6 +21346,16 @@
         "relationshipType": "features_person",
         "role": "guest",
         "context": "Featured episode participant"
+      }
+    ],
+    "michael-lembeck": [
+      {
+        "id": "2023-merged-episode-13",
+        "type": "podcast_episode",
+        "name": "MERGED Episode #13 — An Open-Minded Scientific Approach to UAP",
+        "relationshipType": "features_person",
+        "role": "guest",
+        "context": "Featured guest for MERGED Episode #13"
       }
     ],
     "michael-shellenberger": [],
@@ -20537,6 +21636,14 @@
         "name": "Scott Kelly",
         "relationshipType": "affiliated_with",
         "role": "Former astronaut",
+        "context": ""
+      },
+      {
+        "id": "2023-merged-episode-18",
+        "type": "podcast_episode",
+        "name": "MERGED Episode #18 — UAP Research or SETI: Who Finds NHI First?",
+        "relationshipType": "references_organization",
+        "role": "",
         "context": ""
       },
       {
@@ -21928,6 +23035,16 @@
     "robert-jacobs": [],
     "robert-l-hall": [],
     "robert-salas": [],
+    "robin-hanson": [
+      {
+        "id": "2023-merged-episode-9",
+        "type": "podcast_episode",
+        "name": "MERGED Episode #9 — Through the Great Filter: A Spacetime Search for UAP",
+        "relationshipType": "features_person",
+        "role": "guest",
+        "context": "Featured guest for MERGED Episode #9"
+      }
+    ],
     "rod-roddenberry": [
       {
         "id": "2026-weaponized-episode-116",
@@ -22623,6 +23740,150 @@
         "context": "MERGED host and former U.S. Navy F/A-18 pilot"
       },
       {
+        "id": "2023-merged-episode-10",
+        "type": "podcast_episode",
+        "name": "MERGED Episode #10 — Looking to the Sky for Extraordinary Evidence of UAP",
+        "relationshipType": "features_person",
+        "role": "host",
+        "context": "MERGED host and former U.S. Navy F/A-18 pilot"
+      },
+      {
+        "id": "2023-merged-episode-11",
+        "type": "podcast_episode",
+        "name": "MERGED Episode #11 — Beyond the Stigma: A UAP Call to Action",
+        "relationshipType": "features_person",
+        "role": "host",
+        "context": "MERGED host and former U.S. Navy F/A-18 pilot"
+      },
+      {
+        "id": "2023-merged-episode-12",
+        "type": "podcast_episode",
+        "name": "MERGED Episode #12 — A New Era of Aviation Safety",
+        "relationshipType": "features_person",
+        "role": "host",
+        "context": "MERGED host and former U.S. Navy F/A-18 pilot"
+      },
+      {
+        "id": "2023-merged-episode-13",
+        "type": "podcast_episode",
+        "name": "MERGED Episode #13 — An Open-Minded Scientific Approach to UAP",
+        "relationshipType": "features_person",
+        "role": "host",
+        "context": "MERGED host and former U.S. Navy F/A-18 pilot"
+      },
+      {
+        "id": "2023-merged-episode-14",
+        "type": "podcast_episode",
+        "name": "MERGED Episode #14 — Pilots & Witnesses: Systematic UAP Reporting for Pilots",
+        "relationshipType": "features_person",
+        "role": "host",
+        "context": "MERGED host and former U.S. Navy F/A-18 pilot"
+      },
+      {
+        "id": "2023-merged-episode-15",
+        "type": "podcast_episode",
+        "name": "MERGED Episode #15 — The Sounds of the Sky: The Galileo Project’s Search for UAP",
+        "relationshipType": "features_person",
+        "role": "host",
+        "context": "MERGED host and former U.S. Navy F/A-18 pilot"
+      },
+      {
+        "id": "2023-merged-episode-16",
+        "type": "podcast_episode",
+        "name": "MERGED Episode #16 — Navigating the Deep: Searching for Undersea UAP",
+        "relationshipType": "features_person",
+        "role": "host",
+        "context": "MERGED host and former U.S. Navy F/A-18 pilot"
+      },
+      {
+        "id": "2023-merged-episode-17",
+        "type": "podcast_episode",
+        "name": "MERGED Episode #17 — Asking Difficult Questions: Congressional Accountability on UAP",
+        "relationshipType": "features_person",
+        "role": "host",
+        "context": "MERGED host and former U.S. Navy F/A-18 pilot"
+      },
+      {
+        "id": "2023-merged-episode-18",
+        "type": "podcast_episode",
+        "name": "MERGED Episode #18 — UAP Research or SETI: Who Finds NHI First?",
+        "relationshipType": "features_person",
+        "role": "host",
+        "context": "MERGED host and former U.S. Navy F/A-18 pilot"
+      },
+      {
+        "id": "2023-merged-episode-19",
+        "type": "podcast_episode",
+        "name": "MERGED Episode #19 — Vandenberg “Red Square” Witness Speaks for First Time",
+        "relationshipType": "features_person",
+        "role": "host",
+        "context": "MERGED host and former U.S. Navy F/A-18 pilot"
+      },
+      {
+        "id": "2023-merged-episode-2",
+        "type": "podcast_episode",
+        "name": "MERGED Episode #2 — Pilot’s Shocking UAP Sightings & What This Means For Aviation",
+        "relationshipType": "features_person",
+        "role": "host",
+        "context": "MERGED host and former U.S. Navy F/A-18 pilot"
+      },
+      {
+        "id": "2023-merged-episode-3",
+        "type": "podcast_episode",
+        "name": "MERGED Episode #3 — Unbreakable Resilience: How I Survived a Supersonic Jet Crash",
+        "relationshipType": "features_person",
+        "role": "host",
+        "context": "MERGED host and former U.S. Navy F/A-18 pilot"
+      },
+      {
+        "id": "2023-merged-episode-4",
+        "type": "podcast_episode",
+        "name": "MERGED Episode #4 — Pilot Breaks the Silence on UAP Encounters",
+        "relationshipType": "features_person",
+        "role": "host",
+        "context": "MERGED host and former U.S. Navy F/A-18 pilot"
+      },
+      {
+        "id": "2023-merged-episode-5",
+        "type": "podcast_episode",
+        "name": "MERGED Episode #5 — Decoding UAP Sightings: Insights from a 747 Pilot",
+        "relationshipType": "features_person",
+        "role": "host",
+        "context": "MERGED host and former U.S. Navy F/A-18 pilot"
+      },
+      {
+        "id": "2023-merged-episode-6",
+        "type": "podcast_episode",
+        "name": "MERGED Episode #6 — Researching UAP in the Galileo Project",
+        "relationshipType": "features_person",
+        "role": "host",
+        "context": "MERGED host and former U.S. Navy F/A-18 pilot"
+      },
+      {
+        "id": "2023-merged-episode-7",
+        "type": "podcast_episode",
+        "name": "MERGED Episode #7 — Exploring Theories of UAP, Consciousness, and Physics",
+        "relationshipType": "features_person",
+        "role": "host",
+        "context": "MERGED host and former U.S. Navy F/A-18 pilot"
+      },
+      {
+        "id": "2023-merged-episode-8",
+        "type": "podcast_episode",
+        "name": "MERGED Episode #8 — Where the Search for Dark Matter and UAP Meet",
+        "relationshipType": "features_person",
+        "role": "host",
+        "context": "MERGED host and former U.S. Navy F/A-18 pilot"
+      },
+      {
+        "id": "2023-merged-episode-9",
+        "type": "podcast_episode",
+        "name": "MERGED Episode #9 — Through the Great Filter: A Spacetime Search for UAP",
+        "relationshipType": "features_person",
+        "role": "host",
+        "context": "MERGED host and former U.S. Navy F/A-18 pilot"
+      },
+      {
         "id": "2022-need-to-know-episode-20",
         "type": "podcast_episode",
         "name": "Need to Know Episode #20 — 7NEWS Spotlight Special Edition",
@@ -22967,6 +24228,94 @@
         "id": "2023-merged-episode-1",
         "type": "podcast_episode",
         "name": "MERGED Episode #1 — Interview with Dr. Garry Nolan",
+        "relationshipType": "discussed_topic",
+        "role": "",
+        "context": ""
+      },
+      {
+        "id": "2023-merged-episode-10",
+        "type": "podcast_episode",
+        "name": "MERGED Episode #10 — Looking to the Sky for Extraordinary Evidence of UAP",
+        "relationshipType": "discussed_topic",
+        "role": "",
+        "context": ""
+      },
+      {
+        "id": "2023-merged-episode-12",
+        "type": "podcast_episode",
+        "name": "MERGED Episode #12 — A New Era of Aviation Safety",
+        "relationshipType": "discussed_topic",
+        "role": "",
+        "context": ""
+      },
+      {
+        "id": "2023-merged-episode-13",
+        "type": "podcast_episode",
+        "name": "MERGED Episode #13 — An Open-Minded Scientific Approach to UAP",
+        "relationshipType": "discussed_topic",
+        "role": "",
+        "context": ""
+      },
+      {
+        "id": "2023-merged-episode-15",
+        "type": "podcast_episode",
+        "name": "MERGED Episode #15 — The Sounds of the Sky: The Galileo Project’s Search for UAP",
+        "relationshipType": "discussed_topic",
+        "role": "",
+        "context": ""
+      },
+      {
+        "id": "2023-merged-episode-16",
+        "type": "podcast_episode",
+        "name": "MERGED Episode #16 — Navigating the Deep: Searching for Undersea UAP",
+        "relationshipType": "discussed_topic",
+        "role": "",
+        "context": ""
+      },
+      {
+        "id": "2023-merged-episode-18",
+        "type": "podcast_episode",
+        "name": "MERGED Episode #18 — UAP Research or SETI: Who Finds NHI First?",
+        "relationshipType": "discussed_topic",
+        "role": "",
+        "context": ""
+      },
+      {
+        "id": "2023-merged-episode-5",
+        "type": "podcast_episode",
+        "name": "MERGED Episode #5 — Decoding UAP Sightings: Insights from a 747 Pilot",
+        "relationshipType": "discussed_topic",
+        "role": "",
+        "context": ""
+      },
+      {
+        "id": "2023-merged-episode-6",
+        "type": "podcast_episode",
+        "name": "MERGED Episode #6 — Researching UAP in the Galileo Project",
+        "relationshipType": "discussed_topic",
+        "role": "",
+        "context": ""
+      },
+      {
+        "id": "2023-merged-episode-7",
+        "type": "podcast_episode",
+        "name": "MERGED Episode #7 — Exploring Theories of UAP, Consciousness, and Physics",
+        "relationshipType": "discussed_topic",
+        "role": "",
+        "context": ""
+      },
+      {
+        "id": "2023-merged-episode-8",
+        "type": "podcast_episode",
+        "name": "MERGED Episode #8 — Where the Search for Dark Matter and UAP Meet",
+        "relationshipType": "discussed_topic",
+        "role": "",
+        "context": ""
+      },
+      {
+        "id": "2023-merged-episode-9",
+        "type": "podcast_episode",
+        "name": "MERGED Episode #9 — Through the Great Filter: A Spacetime Search for UAP",
         "relationshipType": "discussed_topic",
         "role": "",
         "context": ""
@@ -23669,7 +25018,16 @@
         "context": "Referenced disclosure advocate"
       }
     ],
-    "tim-gallaudet": [],
+    "tim-gallaudet": [
+      {
+        "id": "2023-merged-episode-16",
+        "type": "podcast_episode",
+        "name": "MERGED Episode #16 — Navigating the Deep: Searching for Undersea UAP",
+        "relationshipType": "features_person",
+        "role": "guest",
+        "context": "Featured guest for MERGED Episode #16"
+      }
+    ],
     "tim-phillips": [
       {
         "id": "2026-weaponized-episode-110",
@@ -24587,6 +25945,110 @@
         "context": ""
       },
       {
+        "id": "2023-merged-episode-10",
+        "type": "podcast_episode",
+        "name": "MERGED Episode #10 — Looking to the Sky for Extraordinary Evidence of UAP",
+        "relationshipType": "discussed_topic",
+        "role": "",
+        "context": ""
+      },
+      {
+        "id": "2023-merged-episode-11",
+        "type": "podcast_episode",
+        "name": "MERGED Episode #11 — Beyond the Stigma: A UAP Call to Action",
+        "relationshipType": "discussed_topic",
+        "role": "",
+        "context": ""
+      },
+      {
+        "id": "2023-merged-episode-13",
+        "type": "podcast_episode",
+        "name": "MERGED Episode #13 — An Open-Minded Scientific Approach to UAP",
+        "relationshipType": "discussed_topic",
+        "role": "",
+        "context": ""
+      },
+      {
+        "id": "2023-merged-episode-14",
+        "type": "podcast_episode",
+        "name": "MERGED Episode #14 — Pilots & Witnesses: Systematic UAP Reporting for Pilots",
+        "relationshipType": "discussed_topic",
+        "role": "",
+        "context": ""
+      },
+      {
+        "id": "2023-merged-episode-16",
+        "type": "podcast_episode",
+        "name": "MERGED Episode #16 — Navigating the Deep: Searching for Undersea UAP",
+        "relationshipType": "discussed_topic",
+        "role": "",
+        "context": ""
+      },
+      {
+        "id": "2023-merged-episode-19",
+        "type": "podcast_episode",
+        "name": "MERGED Episode #19 — Vandenberg “Red Square” Witness Speaks for First Time",
+        "relationshipType": "discussed_topic",
+        "role": "",
+        "context": ""
+      },
+      {
+        "id": "2023-merged-episode-2",
+        "type": "podcast_episode",
+        "name": "MERGED Episode #2 — Pilot’s Shocking UAP Sightings & What This Means For Aviation",
+        "relationshipType": "discussed_topic",
+        "role": "",
+        "context": ""
+      },
+      {
+        "id": "2023-merged-episode-3",
+        "type": "podcast_episode",
+        "name": "MERGED Episode #3 — Unbreakable Resilience: How I Survived a Supersonic Jet Crash",
+        "relationshipType": "discussed_topic",
+        "role": "",
+        "context": ""
+      },
+      {
+        "id": "2023-merged-episode-4",
+        "type": "podcast_episode",
+        "name": "MERGED Episode #4 — Pilot Breaks the Silence on UAP Encounters",
+        "relationshipType": "discussed_topic",
+        "role": "",
+        "context": ""
+      },
+      {
+        "id": "2023-merged-episode-6",
+        "type": "podcast_episode",
+        "name": "MERGED Episode #6 — Researching UAP in the Galileo Project",
+        "relationshipType": "discussed_topic",
+        "role": "",
+        "context": ""
+      },
+      {
+        "id": "2023-merged-episode-7",
+        "type": "podcast_episode",
+        "name": "MERGED Episode #7 — Exploring Theories of UAP, Consciousness, and Physics",
+        "relationshipType": "discussed_topic",
+        "role": "",
+        "context": ""
+      },
+      {
+        "id": "2023-merged-episode-8",
+        "type": "podcast_episode",
+        "name": "MERGED Episode #8 — Where the Search for Dark Matter and UAP Meet",
+        "relationshipType": "discussed_topic",
+        "role": "",
+        "context": ""
+      },
+      {
+        "id": "2023-merged-episode-9",
+        "type": "podcast_episode",
+        "name": "MERGED Episode #9 — Through the Great Filter: A Spacetime Search for UAP",
+        "relationshipType": "discussed_topic",
+        "role": "",
+        "context": ""
+      },
+      {
         "id": "2022-need-to-know-episode-17",
         "type": "podcast_episode",
         "name": "Need to Know Episode #17 — Beyond Nimitz",
@@ -25277,6 +26739,14 @@
     ],
     "uap-transparency": [
       {
+        "id": "2023-merged-episode-17",
+        "type": "podcast_episode",
+        "name": "MERGED Episode #17 — Asking Difficult Questions: Congressional Accountability on UAP",
+        "relationshipType": "discussed_topic",
+        "role": "",
+        "context": ""
+      },
+      {
         "id": "2021-need-to-know-episode-1",
         "type": "podcast_episode",
         "name": "Need to Know Episode #1 — 2021 Top Ten",
@@ -25484,6 +26954,14 @@
         "id": "richard-dolan",
         "type": "person",
         "name": "Richard Dolan",
+        "relationshipType": "discussed_topic",
+        "role": "",
+        "context": ""
+      },
+      {
+        "id": "2023-merged-episode-16",
+        "type": "podcast_episode",
+        "name": "MERGED Episode #16 — Navigating the Deep: Searching for Undersea UAP",
         "relationshipType": "discussed_topic",
         "role": "",
         "context": ""
@@ -30021,6 +31499,48 @@
     ],
     "2023-merged-episode-1": [
       {
+        "id": "2023-merged-episode-13",
+        "name": "MERGED Episode #13 — An Open-Minded Scientific Approach to UAP",
+        "seriesId": "merged-podcast",
+        "date": "2023-08-15",
+        "sharedEntityIds": [
+          "aviation-safety",
+          "ryan-graves",
+          "scientific-investigation",
+          "uap-research"
+        ],
+        "sharedEntityCount": 4,
+        "score": 45
+      },
+      {
+        "id": "2023-merged-episode-10",
+        "name": "MERGED Episode #10 — Looking to the Sky for Extraordinary Evidence of UAP",
+        "seriesId": "merged-podcast",
+        "date": "2023-06-21",
+        "sharedEntityIds": [
+          "galileo-project",
+          "ryan-graves",
+          "scientific-investigation",
+          "uap-research"
+        ],
+        "sharedEntityCount": 4,
+        "score": 45
+      },
+      {
+        "id": "2023-merged-episode-6",
+        "name": "MERGED Episode #6 — Researching UAP in the Galileo Project",
+        "seriesId": "merged-podcast",
+        "date": "2023-03-10",
+        "sharedEntityIds": [
+          "galileo-project",
+          "ryan-graves",
+          "scientific-investigation",
+          "uap-research"
+        ],
+        "sharedEntityCount": 4,
+        "score": 45
+      },
+      {
         "id": "2022-need-to-know-episode-20",
         "name": "Need to Know Episode #20 — 7NEWS Spotlight Special Edition",
         "seriesId": "need-to-know-podcast",
@@ -30035,62 +31555,1454 @@
         "score": 40
       },
       {
-        "id": "2024-weaponized-episode-48",
-        "name": "WEAPONIZED Episode #48 — Ernest Cline, UFO History, and Science-Fiction Culture",
-        "seriesId": "weaponized-podcast",
-        "date": "2024-01-22",
+        "id": "2023-merged-episode-19",
+        "name": "MERGED Episode #19 — Vandenberg “Red Square” Witness Speaks for First Time",
+        "seriesId": "merged-podcast",
+        "date": "2023-11-08",
         "sharedEntityIds": [
+          "aviation-safety",
+          "ryan-graves",
+          "uap-research"
+        ],
+        "sharedEntityCount": 3,
+        "score": 35
+      },
+      {
+        "id": "2023-merged-episode-16",
+        "name": "MERGED Episode #16 — Navigating the Deep: Searching for Undersea UAP",
+        "seriesId": "merged-podcast",
+        "date": "2023-09-28",
+        "sharedEntityIds": [
+          "ryan-graves",
           "scientific-investigation",
           "uap-research"
         ],
-        "sharedEntityCount": 2,
-        "score": 20
+        "sharedEntityCount": 3,
+        "score": 35
+      }
+    ],
+    "2023-merged-episode-10": [
+      {
+        "id": "2023-merged-episode-6",
+        "name": "MERGED Episode #6 — Researching UAP in the Galileo Project",
+        "seriesId": "merged-podcast",
+        "date": "2023-03-10",
+        "sharedEntityIds": [
+          "galileo-project",
+          "ryan-graves",
+          "scientific-investigation",
+          "uap-research"
+        ],
+        "sharedEntityCount": 4,
+        "score": 45
       },
       {
-        "id": "2023-weaponized-episode-42",
-        "name": "WEAPONIZED Episode #42 — The Sol Foundation Conference and Grusch Revelations",
-        "seriesId": "weaponized-podcast",
-        "date": "2023-11-27",
+        "id": "2023-merged-episode-1",
+        "name": "MERGED Episode #1 — Interview with Dr. Garry Nolan",
+        "seriesId": "merged-podcast",
+        "date": "2023-01-10",
         "sharedEntityIds": [
-          "garry-nolan",
+          "galileo-project",
+          "ryan-graves",
+          "scientific-investigation",
+          "uap-research"
+        ],
+        "sharedEntityCount": 4,
+        "score": 45
+      },
+      {
+        "id": "2023-merged-episode-16",
+        "name": "MERGED Episode #16 — Navigating the Deep: Searching for Undersea UAP",
+        "seriesId": "merged-podcast",
+        "date": "2023-09-28",
+        "sharedEntityIds": [
+          "ryan-graves",
+          "scientific-investigation",
+          "uap-research"
+        ],
+        "sharedEntityCount": 3,
+        "score": 35
+      },
+      {
+        "id": "2023-merged-episode-15",
+        "name": "MERGED Episode #15 — The Sounds of the Sky: The Galileo Project’s Search for UAP",
+        "seriesId": "merged-podcast",
+        "date": "2023-09-14",
+        "sharedEntityIds": [
+          "galileo-project",
+          "ryan-graves",
+          "scientific-investigation"
+        ],
+        "sharedEntityCount": 3,
+        "score": 35
+      },
+      {
+        "id": "2023-merged-episode-13",
+        "name": "MERGED Episode #13 — An Open-Minded Scientific Approach to UAP",
+        "seriesId": "merged-podcast",
+        "date": "2023-08-15",
+        "sharedEntityIds": [
+          "ryan-graves",
+          "scientific-investigation",
+          "uap-research"
+        ],
+        "sharedEntityCount": 3,
+        "score": 35
+      },
+      {
+        "id": "2023-merged-episode-9",
+        "name": "MERGED Episode #9 — Through the Great Filter: A Spacetime Search for UAP",
+        "seriesId": "merged-podcast",
+        "date": "2023-06-08",
+        "sharedEntityIds": [
+          "ryan-graves",
+          "scientific-investigation",
+          "uap-research"
+        ],
+        "sharedEntityCount": 3,
+        "score": 35
+      }
+    ],
+    "2023-merged-episode-11": [
+      {
+        "id": "2023-merged-episode-19",
+        "name": "MERGED Episode #19 — Vandenberg “Red Square” Witness Speaks for First Time",
+        "seriesId": "merged-podcast",
+        "date": "2023-11-08",
+        "sharedEntityIds": [
+          "aviation-safety",
+          "ryan-graves",
+          "uap-research"
+        ],
+        "sharedEntityCount": 3,
+        "score": 35
+      },
+      {
+        "id": "2023-merged-episode-14",
+        "name": "MERGED Episode #14 — Pilots & Witnesses: Systematic UAP Reporting for Pilots",
+        "seriesId": "merged-podcast",
+        "date": "2023-08-31",
+        "sharedEntityIds": [
+          "aviation-safety",
+          "ryan-graves",
+          "uap-research"
+        ],
+        "sharedEntityCount": 3,
+        "score": 35
+      },
+      {
+        "id": "2023-merged-episode-13",
+        "name": "MERGED Episode #13 — An Open-Minded Scientific Approach to UAP",
+        "seriesId": "merged-podcast",
+        "date": "2023-08-15",
+        "sharedEntityIds": [
+          "aviation-safety",
+          "ryan-graves",
+          "uap-research"
+        ],
+        "sharedEntityCount": 3,
+        "score": 35
+      },
+      {
+        "id": "2023-merged-episode-4",
+        "name": "MERGED Episode #4 — Pilot Breaks the Silence on UAP Encounters",
+        "seriesId": "merged-podcast",
+        "date": "2023-02-14",
+        "sharedEntityIds": [
+          "aviation-safety",
+          "ryan-graves",
+          "uap-research"
+        ],
+        "sharedEntityCount": 3,
+        "score": 35
+      },
+      {
+        "id": "2023-merged-episode-3",
+        "name": "MERGED Episode #3 — Unbreakable Resilience: How I Survived a Supersonic Jet Crash",
+        "seriesId": "merged-podcast",
+        "date": "2023-02-07",
+        "sharedEntityIds": [
+          "aviation-safety",
+          "ryan-graves",
+          "uap-research"
+        ],
+        "sharedEntityCount": 3,
+        "score": 35
+      },
+      {
+        "id": "2023-merged-episode-2",
+        "name": "MERGED Episode #2 — Pilot’s Shocking UAP Sightings & What This Means For Aviation",
+        "seriesId": "merged-podcast",
+        "date": "2023-01-31",
+        "sharedEntityIds": [
+          "aviation-safety",
+          "ryan-graves",
+          "uap-research"
+        ],
+        "sharedEntityCount": 3,
+        "score": 35
+      }
+    ],
+    "2023-merged-episode-12": [
+      {
+        "id": "2023-merged-episode-13",
+        "name": "MERGED Episode #13 — An Open-Minded Scientific Approach to UAP",
+        "seriesId": "merged-podcast",
+        "date": "2023-08-15",
+        "sharedEntityIds": [
+          "aviation-safety",
+          "ryan-graves",
+          "scientific-investigation"
+        ],
+        "sharedEntityCount": 3,
+        "score": 35
+      },
+      {
+        "id": "2023-merged-episode-5",
+        "name": "MERGED Episode #5 — Decoding UAP Sightings: Insights from a 747 Pilot",
+        "seriesId": "merged-podcast",
+        "date": "2023-02-28",
+        "sharedEntityIds": [
+          "aviation-safety",
+          "ryan-graves",
+          "scientific-investigation"
+        ],
+        "sharedEntityCount": 3,
+        "score": 35
+      },
+      {
+        "id": "2023-merged-episode-1",
+        "name": "MERGED Episode #1 — Interview with Dr. Garry Nolan",
+        "seriesId": "merged-podcast",
+        "date": "2023-01-10",
+        "sharedEntityIds": [
+          "aviation-safety",
+          "ryan-graves",
+          "scientific-investigation"
+        ],
+        "sharedEntityCount": 3,
+        "score": 35
+      },
+      {
+        "id": "2023-merged-episode-19",
+        "name": "MERGED Episode #19 — Vandenberg “Red Square” Witness Speaks for First Time",
+        "seriesId": "merged-podcast",
+        "date": "2023-11-08",
+        "sharedEntityIds": [
+          "aviation-safety",
+          "ryan-graves"
+        ],
+        "sharedEntityCount": 2,
+        "score": 25
+      },
+      {
+        "id": "2023-merged-episode-18",
+        "name": "MERGED Episode #18 — UAP Research or SETI: Who Finds NHI First?",
+        "seriesId": "merged-podcast",
+        "date": "2023-10-26",
+        "sharedEntityIds": [
+          "ryan-graves",
           "scientific-investigation"
         ],
         "sharedEntityCount": 2,
-        "score": 20
+        "score": 25
       },
       {
-        "id": "2022-need-to-know-episode-17",
-        "name": "Need to Know Episode #17 — Beyond Nimitz",
-        "seriesId": "need-to-know-podcast",
-        "date": "2022-07-14",
+        "id": "2023-merged-episode-17",
+        "name": "MERGED Episode #17 — Asking Difficult Questions: Congressional Accountability on UAP",
+        "seriesId": "merged-podcast",
+        "date": "2023-10-12",
         "sharedEntityIds": [
           "aviation-safety",
-          "uap-research"
+          "ryan-graves"
         ],
         "sharedEntityCount": 2,
-        "score": 20
-      },
+        "score": 25
+      }
+    ],
+    "2023-merged-episode-13": [
       {
-        "id": "2026-need-to-know-episode-75",
-        "name": "Need to Know Episode #75 — Is the Tic Tac Really Lockheed Martin Technology?",
-        "seriesId": "need-to-know-podcast",
-        "date": "2026-07-05",
+        "id": "2023-merged-episode-1",
+        "name": "MERGED Episode #1 — Interview with Dr. Garry Nolan",
+        "seriesId": "merged-podcast",
+        "date": "2023-01-10",
         "sharedEntityIds": [
+          "aviation-safety",
+          "ryan-graves",
+          "scientific-investigation",
           "uap-research"
         ],
-        "sharedEntityCount": 1,
-        "score": 10
+        "sharedEntityCount": 4,
+        "score": 45
       },
       {
-        "id": "2026-need-to-know-episode-74",
-        "name": "Need to Know Episode #74 — The Day After Disclosure Day",
-        "seriesId": "need-to-know-podcast",
-        "date": "2026-06-04",
+        "id": "2023-merged-episode-19",
+        "name": "MERGED Episode #19 — Vandenberg “Red Square” Witness Speaks for First Time",
+        "seriesId": "merged-podcast",
+        "date": "2023-11-08",
         "sharedEntityIds": [
+          "aviation-safety",
+          "ryan-graves",
           "uap-research"
         ],
-        "sharedEntityCount": 1,
-        "score": 10
+        "sharedEntityCount": 3,
+        "score": 35
+      },
+      {
+        "id": "2023-merged-episode-16",
+        "name": "MERGED Episode #16 — Navigating the Deep: Searching for Undersea UAP",
+        "seriesId": "merged-podcast",
+        "date": "2023-09-28",
+        "sharedEntityIds": [
+          "ryan-graves",
+          "scientific-investigation",
+          "uap-research"
+        ],
+        "sharedEntityCount": 3,
+        "score": 35
+      },
+      {
+        "id": "2023-merged-episode-14",
+        "name": "MERGED Episode #14 — Pilots & Witnesses: Systematic UAP Reporting for Pilots",
+        "seriesId": "merged-podcast",
+        "date": "2023-08-31",
+        "sharedEntityIds": [
+          "aviation-safety",
+          "ryan-graves",
+          "uap-research"
+        ],
+        "sharedEntityCount": 3,
+        "score": 35
+      },
+      {
+        "id": "2023-merged-episode-12",
+        "name": "MERGED Episode #12 — A New Era of Aviation Safety",
+        "seriesId": "merged-podcast",
+        "date": "2023-07-19",
+        "sharedEntityIds": [
+          "aviation-safety",
+          "ryan-graves",
+          "scientific-investigation"
+        ],
+        "sharedEntityCount": 3,
+        "score": 35
+      },
+      {
+        "id": "2023-merged-episode-11",
+        "name": "MERGED Episode #11 — Beyond the Stigma: A UAP Call to Action",
+        "seriesId": "merged-podcast",
+        "date": "2023-07-07",
+        "sharedEntityIds": [
+          "aviation-safety",
+          "ryan-graves",
+          "uap-research"
+        ],
+        "sharedEntityCount": 3,
+        "score": 35
+      }
+    ],
+    "2023-merged-episode-14": [
+      {
+        "id": "2023-merged-episode-19",
+        "name": "MERGED Episode #19 — Vandenberg “Red Square” Witness Speaks for First Time",
+        "seriesId": "merged-podcast",
+        "date": "2023-11-08",
+        "sharedEntityIds": [
+          "aviation-safety",
+          "ryan-graves",
+          "uap-research"
+        ],
+        "sharedEntityCount": 3,
+        "score": 35
+      },
+      {
+        "id": "2023-merged-episode-13",
+        "name": "MERGED Episode #13 — An Open-Minded Scientific Approach to UAP",
+        "seriesId": "merged-podcast",
+        "date": "2023-08-15",
+        "sharedEntityIds": [
+          "aviation-safety",
+          "ryan-graves",
+          "uap-research"
+        ],
+        "sharedEntityCount": 3,
+        "score": 35
+      },
+      {
+        "id": "2023-merged-episode-11",
+        "name": "MERGED Episode #11 — Beyond the Stigma: A UAP Call to Action",
+        "seriesId": "merged-podcast",
+        "date": "2023-07-07",
+        "sharedEntityIds": [
+          "aviation-safety",
+          "ryan-graves",
+          "uap-research"
+        ],
+        "sharedEntityCount": 3,
+        "score": 35
+      },
+      {
+        "id": "2023-merged-episode-4",
+        "name": "MERGED Episode #4 — Pilot Breaks the Silence on UAP Encounters",
+        "seriesId": "merged-podcast",
+        "date": "2023-02-14",
+        "sharedEntityIds": [
+          "aviation-safety",
+          "ryan-graves",
+          "uap-research"
+        ],
+        "sharedEntityCount": 3,
+        "score": 35
+      },
+      {
+        "id": "2023-merged-episode-3",
+        "name": "MERGED Episode #3 — Unbreakable Resilience: How I Survived a Supersonic Jet Crash",
+        "seriesId": "merged-podcast",
+        "date": "2023-02-07",
+        "sharedEntityIds": [
+          "aviation-safety",
+          "ryan-graves",
+          "uap-research"
+        ],
+        "sharedEntityCount": 3,
+        "score": 35
+      },
+      {
+        "id": "2023-merged-episode-2",
+        "name": "MERGED Episode #2 — Pilot’s Shocking UAP Sightings & What This Means For Aviation",
+        "seriesId": "merged-podcast",
+        "date": "2023-01-31",
+        "sharedEntityIds": [
+          "aviation-safety",
+          "ryan-graves",
+          "uap-research"
+        ],
+        "sharedEntityCount": 3,
+        "score": 35
+      }
+    ],
+    "2023-merged-episode-15": [
+      {
+        "id": "2023-merged-episode-10",
+        "name": "MERGED Episode #10 — Looking to the Sky for Extraordinary Evidence of UAP",
+        "seriesId": "merged-podcast",
+        "date": "2023-06-21",
+        "sharedEntityIds": [
+          "galileo-project",
+          "ryan-graves",
+          "scientific-investigation"
+        ],
+        "sharedEntityCount": 3,
+        "score": 35
+      },
+      {
+        "id": "2023-merged-episode-6",
+        "name": "MERGED Episode #6 — Researching UAP in the Galileo Project",
+        "seriesId": "merged-podcast",
+        "date": "2023-03-10",
+        "sharedEntityIds": [
+          "galileo-project",
+          "ryan-graves",
+          "scientific-investigation"
+        ],
+        "sharedEntityCount": 3,
+        "score": 35
+      },
+      {
+        "id": "2023-merged-episode-1",
+        "name": "MERGED Episode #1 — Interview with Dr. Garry Nolan",
+        "seriesId": "merged-podcast",
+        "date": "2023-01-10",
+        "sharedEntityIds": [
+          "galileo-project",
+          "ryan-graves",
+          "scientific-investigation"
+        ],
+        "sharedEntityCount": 3,
+        "score": 35
+      },
+      {
+        "id": "2023-merged-episode-18",
+        "name": "MERGED Episode #18 — UAP Research or SETI: Who Finds NHI First?",
+        "seriesId": "merged-podcast",
+        "date": "2023-10-26",
+        "sharedEntityIds": [
+          "ryan-graves",
+          "scientific-investigation"
+        ],
+        "sharedEntityCount": 2,
+        "score": 25
+      },
+      {
+        "id": "2023-merged-episode-16",
+        "name": "MERGED Episode #16 — Navigating the Deep: Searching for Undersea UAP",
+        "seriesId": "merged-podcast",
+        "date": "2023-09-28",
+        "sharedEntityIds": [
+          "ryan-graves",
+          "scientific-investigation"
+        ],
+        "sharedEntityCount": 2,
+        "score": 25
+      },
+      {
+        "id": "2023-merged-episode-13",
+        "name": "MERGED Episode #13 — An Open-Minded Scientific Approach to UAP",
+        "seriesId": "merged-podcast",
+        "date": "2023-08-15",
+        "sharedEntityIds": [
+          "ryan-graves",
+          "scientific-investigation"
+        ],
+        "sharedEntityCount": 2,
+        "score": 25
+      }
+    ],
+    "2023-merged-episode-16": [
+      {
+        "id": "2023-merged-episode-13",
+        "name": "MERGED Episode #13 — An Open-Minded Scientific Approach to UAP",
+        "seriesId": "merged-podcast",
+        "date": "2023-08-15",
+        "sharedEntityIds": [
+          "ryan-graves",
+          "scientific-investigation",
+          "uap-research"
+        ],
+        "sharedEntityCount": 3,
+        "score": 35
+      },
+      {
+        "id": "2023-merged-episode-10",
+        "name": "MERGED Episode #10 — Looking to the Sky for Extraordinary Evidence of UAP",
+        "seriesId": "merged-podcast",
+        "date": "2023-06-21",
+        "sharedEntityIds": [
+          "ryan-graves",
+          "scientific-investigation",
+          "uap-research"
+        ],
+        "sharedEntityCount": 3,
+        "score": 35
+      },
+      {
+        "id": "2023-merged-episode-9",
+        "name": "MERGED Episode #9 — Through the Great Filter: A Spacetime Search for UAP",
+        "seriesId": "merged-podcast",
+        "date": "2023-06-08",
+        "sharedEntityIds": [
+          "ryan-graves",
+          "scientific-investigation",
+          "uap-research"
+        ],
+        "sharedEntityCount": 3,
+        "score": 35
+      },
+      {
+        "id": "2023-merged-episode-8",
+        "name": "MERGED Episode #8 — Where the Search for Dark Matter and UAP Meet",
+        "seriesId": "merged-podcast",
+        "date": "2023-06-03",
+        "sharedEntityIds": [
+          "ryan-graves",
+          "scientific-investigation",
+          "uap-research"
+        ],
+        "sharedEntityCount": 3,
+        "score": 35
+      },
+      {
+        "id": "2023-merged-episode-7",
+        "name": "MERGED Episode #7 — Exploring Theories of UAP, Consciousness, and Physics",
+        "seriesId": "merged-podcast",
+        "date": "2023-04-05",
+        "sharedEntityIds": [
+          "ryan-graves",
+          "scientific-investigation",
+          "uap-research"
+        ],
+        "sharedEntityCount": 3,
+        "score": 35
+      },
+      {
+        "id": "2023-merged-episode-6",
+        "name": "MERGED Episode #6 — Researching UAP in the Galileo Project",
+        "seriesId": "merged-podcast",
+        "date": "2023-03-10",
+        "sharedEntityIds": [
+          "ryan-graves",
+          "scientific-investigation",
+          "uap-research"
+        ],
+        "sharedEntityCount": 3,
+        "score": 35
+      }
+    ],
+    "2023-merged-episode-17": [
+      {
+        "id": "2023-merged-episode-19",
+        "name": "MERGED Episode #19 — Vandenberg “Red Square” Witness Speaks for First Time",
+        "seriesId": "merged-podcast",
+        "date": "2023-11-08",
+        "sharedEntityIds": [
+          "aviation-safety",
+          "ryan-graves"
+        ],
+        "sharedEntityCount": 2,
+        "score": 25
+      },
+      {
+        "id": "2023-merged-episode-14",
+        "name": "MERGED Episode #14 — Pilots & Witnesses: Systematic UAP Reporting for Pilots",
+        "seriesId": "merged-podcast",
+        "date": "2023-08-31",
+        "sharedEntityIds": [
+          "aviation-safety",
+          "ryan-graves"
+        ],
+        "sharedEntityCount": 2,
+        "score": 25
+      },
+      {
+        "id": "2023-merged-episode-13",
+        "name": "MERGED Episode #13 — An Open-Minded Scientific Approach to UAP",
+        "seriesId": "merged-podcast",
+        "date": "2023-08-15",
+        "sharedEntityIds": [
+          "aviation-safety",
+          "ryan-graves"
+        ],
+        "sharedEntityCount": 2,
+        "score": 25
+      },
+      {
+        "id": "2023-merged-episode-12",
+        "name": "MERGED Episode #12 — A New Era of Aviation Safety",
+        "seriesId": "merged-podcast",
+        "date": "2023-07-19",
+        "sharedEntityIds": [
+          "aviation-safety",
+          "ryan-graves"
+        ],
+        "sharedEntityCount": 2,
+        "score": 25
+      },
+      {
+        "id": "2023-merged-episode-11",
+        "name": "MERGED Episode #11 — Beyond the Stigma: A UAP Call to Action",
+        "seriesId": "merged-podcast",
+        "date": "2023-07-07",
+        "sharedEntityIds": [
+          "aviation-safety",
+          "ryan-graves"
+        ],
+        "sharedEntityCount": 2,
+        "score": 25
+      },
+      {
+        "id": "2023-merged-episode-5",
+        "name": "MERGED Episode #5 — Decoding UAP Sightings: Insights from a 747 Pilot",
+        "seriesId": "merged-podcast",
+        "date": "2023-02-28",
+        "sharedEntityIds": [
+          "aviation-safety",
+          "ryan-graves"
+        ],
+        "sharedEntityCount": 2,
+        "score": 25
+      }
+    ],
+    "2023-merged-episode-18": [
+      {
+        "id": "2023-merged-episode-16",
+        "name": "MERGED Episode #16 — Navigating the Deep: Searching for Undersea UAP",
+        "seriesId": "merged-podcast",
+        "date": "2023-09-28",
+        "sharedEntityIds": [
+          "ryan-graves",
+          "scientific-investigation"
+        ],
+        "sharedEntityCount": 2,
+        "score": 25
+      },
+      {
+        "id": "2023-merged-episode-15",
+        "name": "MERGED Episode #15 — The Sounds of the Sky: The Galileo Project’s Search for UAP",
+        "seriesId": "merged-podcast",
+        "date": "2023-09-14",
+        "sharedEntityIds": [
+          "ryan-graves",
+          "scientific-investigation"
+        ],
+        "sharedEntityCount": 2,
+        "score": 25
+      },
+      {
+        "id": "2023-merged-episode-13",
+        "name": "MERGED Episode #13 — An Open-Minded Scientific Approach to UAP",
+        "seriesId": "merged-podcast",
+        "date": "2023-08-15",
+        "sharedEntityIds": [
+          "ryan-graves",
+          "scientific-investigation"
+        ],
+        "sharedEntityCount": 2,
+        "score": 25
+      },
+      {
+        "id": "2023-merged-episode-12",
+        "name": "MERGED Episode #12 — A New Era of Aviation Safety",
+        "seriesId": "merged-podcast",
+        "date": "2023-07-19",
+        "sharedEntityIds": [
+          "ryan-graves",
+          "scientific-investigation"
+        ],
+        "sharedEntityCount": 2,
+        "score": 25
+      },
+      {
+        "id": "2023-merged-episode-10",
+        "name": "MERGED Episode #10 — Looking to the Sky for Extraordinary Evidence of UAP",
+        "seriesId": "merged-podcast",
+        "date": "2023-06-21",
+        "sharedEntityIds": [
+          "ryan-graves",
+          "scientific-investigation"
+        ],
+        "sharedEntityCount": 2,
+        "score": 25
+      },
+      {
+        "id": "2023-merged-episode-9",
+        "name": "MERGED Episode #9 — Through the Great Filter: A Spacetime Search for UAP",
+        "seriesId": "merged-podcast",
+        "date": "2023-06-08",
+        "sharedEntityIds": [
+          "ryan-graves",
+          "scientific-investigation"
+        ],
+        "sharedEntityCount": 2,
+        "score": 25
+      }
+    ],
+    "2023-merged-episode-19": [
+      {
+        "id": "2023-merged-episode-14",
+        "name": "MERGED Episode #14 — Pilots & Witnesses: Systematic UAP Reporting for Pilots",
+        "seriesId": "merged-podcast",
+        "date": "2023-08-31",
+        "sharedEntityIds": [
+          "aviation-safety",
+          "ryan-graves",
+          "uap-research"
+        ],
+        "sharedEntityCount": 3,
+        "score": 35
+      },
+      {
+        "id": "2023-merged-episode-13",
+        "name": "MERGED Episode #13 — An Open-Minded Scientific Approach to UAP",
+        "seriesId": "merged-podcast",
+        "date": "2023-08-15",
+        "sharedEntityIds": [
+          "aviation-safety",
+          "ryan-graves",
+          "uap-research"
+        ],
+        "sharedEntityCount": 3,
+        "score": 35
+      },
+      {
+        "id": "2023-merged-episode-11",
+        "name": "MERGED Episode #11 — Beyond the Stigma: A UAP Call to Action",
+        "seriesId": "merged-podcast",
+        "date": "2023-07-07",
+        "sharedEntityIds": [
+          "aviation-safety",
+          "ryan-graves",
+          "uap-research"
+        ],
+        "sharedEntityCount": 3,
+        "score": 35
+      },
+      {
+        "id": "2023-merged-episode-4",
+        "name": "MERGED Episode #4 — Pilot Breaks the Silence on UAP Encounters",
+        "seriesId": "merged-podcast",
+        "date": "2023-02-14",
+        "sharedEntityIds": [
+          "aviation-safety",
+          "ryan-graves",
+          "uap-research"
+        ],
+        "sharedEntityCount": 3,
+        "score": 35
+      },
+      {
+        "id": "2023-merged-episode-3",
+        "name": "MERGED Episode #3 — Unbreakable Resilience: How I Survived a Supersonic Jet Crash",
+        "seriesId": "merged-podcast",
+        "date": "2023-02-07",
+        "sharedEntityIds": [
+          "aviation-safety",
+          "ryan-graves",
+          "uap-research"
+        ],
+        "sharedEntityCount": 3,
+        "score": 35
+      },
+      {
+        "id": "2023-merged-episode-2",
+        "name": "MERGED Episode #2 — Pilot’s Shocking UAP Sightings & What This Means For Aviation",
+        "seriesId": "merged-podcast",
+        "date": "2023-01-31",
+        "sharedEntityIds": [
+          "aviation-safety",
+          "ryan-graves",
+          "uap-research"
+        ],
+        "sharedEntityCount": 3,
+        "score": 35
+      }
+    ],
+    "2023-merged-episode-2": [
+      {
+        "id": "2023-merged-episode-19",
+        "name": "MERGED Episode #19 — Vandenberg “Red Square” Witness Speaks for First Time",
+        "seriesId": "merged-podcast",
+        "date": "2023-11-08",
+        "sharedEntityIds": [
+          "aviation-safety",
+          "ryan-graves",
+          "uap-research"
+        ],
+        "sharedEntityCount": 3,
+        "score": 35
+      },
+      {
+        "id": "2023-merged-episode-14",
+        "name": "MERGED Episode #14 — Pilots & Witnesses: Systematic UAP Reporting for Pilots",
+        "seriesId": "merged-podcast",
+        "date": "2023-08-31",
+        "sharedEntityIds": [
+          "aviation-safety",
+          "ryan-graves",
+          "uap-research"
+        ],
+        "sharedEntityCount": 3,
+        "score": 35
+      },
+      {
+        "id": "2023-merged-episode-13",
+        "name": "MERGED Episode #13 — An Open-Minded Scientific Approach to UAP",
+        "seriesId": "merged-podcast",
+        "date": "2023-08-15",
+        "sharedEntityIds": [
+          "aviation-safety",
+          "ryan-graves",
+          "uap-research"
+        ],
+        "sharedEntityCount": 3,
+        "score": 35
+      },
+      {
+        "id": "2023-merged-episode-11",
+        "name": "MERGED Episode #11 — Beyond the Stigma: A UAP Call to Action",
+        "seriesId": "merged-podcast",
+        "date": "2023-07-07",
+        "sharedEntityIds": [
+          "aviation-safety",
+          "ryan-graves",
+          "uap-research"
+        ],
+        "sharedEntityCount": 3,
+        "score": 35
+      },
+      {
+        "id": "2023-merged-episode-4",
+        "name": "MERGED Episode #4 — Pilot Breaks the Silence on UAP Encounters",
+        "seriesId": "merged-podcast",
+        "date": "2023-02-14",
+        "sharedEntityIds": [
+          "aviation-safety",
+          "ryan-graves",
+          "uap-research"
+        ],
+        "sharedEntityCount": 3,
+        "score": 35
+      },
+      {
+        "id": "2023-merged-episode-3",
+        "name": "MERGED Episode #3 — Unbreakable Resilience: How I Survived a Supersonic Jet Crash",
+        "seriesId": "merged-podcast",
+        "date": "2023-02-07",
+        "sharedEntityIds": [
+          "aviation-safety",
+          "ryan-graves",
+          "uap-research"
+        ],
+        "sharedEntityCount": 3,
+        "score": 35
+      }
+    ],
+    "2023-merged-episode-3": [
+      {
+        "id": "2023-merged-episode-19",
+        "name": "MERGED Episode #19 — Vandenberg “Red Square” Witness Speaks for First Time",
+        "seriesId": "merged-podcast",
+        "date": "2023-11-08",
+        "sharedEntityIds": [
+          "aviation-safety",
+          "ryan-graves",
+          "uap-research"
+        ],
+        "sharedEntityCount": 3,
+        "score": 35
+      },
+      {
+        "id": "2023-merged-episode-14",
+        "name": "MERGED Episode #14 — Pilots & Witnesses: Systematic UAP Reporting for Pilots",
+        "seriesId": "merged-podcast",
+        "date": "2023-08-31",
+        "sharedEntityIds": [
+          "aviation-safety",
+          "ryan-graves",
+          "uap-research"
+        ],
+        "sharedEntityCount": 3,
+        "score": 35
+      },
+      {
+        "id": "2023-merged-episode-13",
+        "name": "MERGED Episode #13 — An Open-Minded Scientific Approach to UAP",
+        "seriesId": "merged-podcast",
+        "date": "2023-08-15",
+        "sharedEntityIds": [
+          "aviation-safety",
+          "ryan-graves",
+          "uap-research"
+        ],
+        "sharedEntityCount": 3,
+        "score": 35
+      },
+      {
+        "id": "2023-merged-episode-11",
+        "name": "MERGED Episode #11 — Beyond the Stigma: A UAP Call to Action",
+        "seriesId": "merged-podcast",
+        "date": "2023-07-07",
+        "sharedEntityIds": [
+          "aviation-safety",
+          "ryan-graves",
+          "uap-research"
+        ],
+        "sharedEntityCount": 3,
+        "score": 35
+      },
+      {
+        "id": "2023-merged-episode-4",
+        "name": "MERGED Episode #4 — Pilot Breaks the Silence on UAP Encounters",
+        "seriesId": "merged-podcast",
+        "date": "2023-02-14",
+        "sharedEntityIds": [
+          "aviation-safety",
+          "ryan-graves",
+          "uap-research"
+        ],
+        "sharedEntityCount": 3,
+        "score": 35
+      },
+      {
+        "id": "2023-merged-episode-2",
+        "name": "MERGED Episode #2 — Pilot’s Shocking UAP Sightings & What This Means For Aviation",
+        "seriesId": "merged-podcast",
+        "date": "2023-01-31",
+        "sharedEntityIds": [
+          "aviation-safety",
+          "ryan-graves",
+          "uap-research"
+        ],
+        "sharedEntityCount": 3,
+        "score": 35
+      }
+    ],
+    "2023-merged-episode-4": [
+      {
+        "id": "2023-merged-episode-19",
+        "name": "MERGED Episode #19 — Vandenberg “Red Square” Witness Speaks for First Time",
+        "seriesId": "merged-podcast",
+        "date": "2023-11-08",
+        "sharedEntityIds": [
+          "aviation-safety",
+          "ryan-graves",
+          "uap-research"
+        ],
+        "sharedEntityCount": 3,
+        "score": 35
+      },
+      {
+        "id": "2023-merged-episode-14",
+        "name": "MERGED Episode #14 — Pilots & Witnesses: Systematic UAP Reporting for Pilots",
+        "seriesId": "merged-podcast",
+        "date": "2023-08-31",
+        "sharedEntityIds": [
+          "aviation-safety",
+          "ryan-graves",
+          "uap-research"
+        ],
+        "sharedEntityCount": 3,
+        "score": 35
+      },
+      {
+        "id": "2023-merged-episode-13",
+        "name": "MERGED Episode #13 — An Open-Minded Scientific Approach to UAP",
+        "seriesId": "merged-podcast",
+        "date": "2023-08-15",
+        "sharedEntityIds": [
+          "aviation-safety",
+          "ryan-graves",
+          "uap-research"
+        ],
+        "sharedEntityCount": 3,
+        "score": 35
+      },
+      {
+        "id": "2023-merged-episode-11",
+        "name": "MERGED Episode #11 — Beyond the Stigma: A UAP Call to Action",
+        "seriesId": "merged-podcast",
+        "date": "2023-07-07",
+        "sharedEntityIds": [
+          "aviation-safety",
+          "ryan-graves",
+          "uap-research"
+        ],
+        "sharedEntityCount": 3,
+        "score": 35
+      },
+      {
+        "id": "2023-merged-episode-3",
+        "name": "MERGED Episode #3 — Unbreakable Resilience: How I Survived a Supersonic Jet Crash",
+        "seriesId": "merged-podcast",
+        "date": "2023-02-07",
+        "sharedEntityIds": [
+          "aviation-safety",
+          "ryan-graves",
+          "uap-research"
+        ],
+        "sharedEntityCount": 3,
+        "score": 35
+      },
+      {
+        "id": "2023-merged-episode-2",
+        "name": "MERGED Episode #2 — Pilot’s Shocking UAP Sightings & What This Means For Aviation",
+        "seriesId": "merged-podcast",
+        "date": "2023-01-31",
+        "sharedEntityIds": [
+          "aviation-safety",
+          "ryan-graves",
+          "uap-research"
+        ],
+        "sharedEntityCount": 3,
+        "score": 35
+      }
+    ],
+    "2023-merged-episode-5": [
+      {
+        "id": "2023-merged-episode-13",
+        "name": "MERGED Episode #13 — An Open-Minded Scientific Approach to UAP",
+        "seriesId": "merged-podcast",
+        "date": "2023-08-15",
+        "sharedEntityIds": [
+          "aviation-safety",
+          "ryan-graves",
+          "scientific-investigation"
+        ],
+        "sharedEntityCount": 3,
+        "score": 35
+      },
+      {
+        "id": "2023-merged-episode-12",
+        "name": "MERGED Episode #12 — A New Era of Aviation Safety",
+        "seriesId": "merged-podcast",
+        "date": "2023-07-19",
+        "sharedEntityIds": [
+          "aviation-safety",
+          "ryan-graves",
+          "scientific-investigation"
+        ],
+        "sharedEntityCount": 3,
+        "score": 35
+      },
+      {
+        "id": "2023-merged-episode-1",
+        "name": "MERGED Episode #1 — Interview with Dr. Garry Nolan",
+        "seriesId": "merged-podcast",
+        "date": "2023-01-10",
+        "sharedEntityIds": [
+          "aviation-safety",
+          "ryan-graves",
+          "scientific-investigation"
+        ],
+        "sharedEntityCount": 3,
+        "score": 35
+      },
+      {
+        "id": "2023-merged-episode-19",
+        "name": "MERGED Episode #19 — Vandenberg “Red Square” Witness Speaks for First Time",
+        "seriesId": "merged-podcast",
+        "date": "2023-11-08",
+        "sharedEntityIds": [
+          "aviation-safety",
+          "ryan-graves"
+        ],
+        "sharedEntityCount": 2,
+        "score": 25
+      },
+      {
+        "id": "2023-merged-episode-18",
+        "name": "MERGED Episode #18 — UAP Research or SETI: Who Finds NHI First?",
+        "seriesId": "merged-podcast",
+        "date": "2023-10-26",
+        "sharedEntityIds": [
+          "ryan-graves",
+          "scientific-investigation"
+        ],
+        "sharedEntityCount": 2,
+        "score": 25
+      },
+      {
+        "id": "2023-merged-episode-17",
+        "name": "MERGED Episode #17 — Asking Difficult Questions: Congressional Accountability on UAP",
+        "seriesId": "merged-podcast",
+        "date": "2023-10-12",
+        "sharedEntityIds": [
+          "aviation-safety",
+          "ryan-graves"
+        ],
+        "sharedEntityCount": 2,
+        "score": 25
+      }
+    ],
+    "2023-merged-episode-6": [
+      {
+        "id": "2023-merged-episode-10",
+        "name": "MERGED Episode #10 — Looking to the Sky for Extraordinary Evidence of UAP",
+        "seriesId": "merged-podcast",
+        "date": "2023-06-21",
+        "sharedEntityIds": [
+          "galileo-project",
+          "ryan-graves",
+          "scientific-investigation",
+          "uap-research"
+        ],
+        "sharedEntityCount": 4,
+        "score": 45
+      },
+      {
+        "id": "2023-merged-episode-1",
+        "name": "MERGED Episode #1 — Interview with Dr. Garry Nolan",
+        "seriesId": "merged-podcast",
+        "date": "2023-01-10",
+        "sharedEntityIds": [
+          "galileo-project",
+          "ryan-graves",
+          "scientific-investigation",
+          "uap-research"
+        ],
+        "sharedEntityCount": 4,
+        "score": 45
+      },
+      {
+        "id": "2023-merged-episode-16",
+        "name": "MERGED Episode #16 — Navigating the Deep: Searching for Undersea UAP",
+        "seriesId": "merged-podcast",
+        "date": "2023-09-28",
+        "sharedEntityIds": [
+          "ryan-graves",
+          "scientific-investigation",
+          "uap-research"
+        ],
+        "sharedEntityCount": 3,
+        "score": 35
+      },
+      {
+        "id": "2023-merged-episode-15",
+        "name": "MERGED Episode #15 — The Sounds of the Sky: The Galileo Project’s Search for UAP",
+        "seriesId": "merged-podcast",
+        "date": "2023-09-14",
+        "sharedEntityIds": [
+          "galileo-project",
+          "ryan-graves",
+          "scientific-investigation"
+        ],
+        "sharedEntityCount": 3,
+        "score": 35
+      },
+      {
+        "id": "2023-merged-episode-13",
+        "name": "MERGED Episode #13 — An Open-Minded Scientific Approach to UAP",
+        "seriesId": "merged-podcast",
+        "date": "2023-08-15",
+        "sharedEntityIds": [
+          "ryan-graves",
+          "scientific-investigation",
+          "uap-research"
+        ],
+        "sharedEntityCount": 3,
+        "score": 35
+      },
+      {
+        "id": "2023-merged-episode-9",
+        "name": "MERGED Episode #9 — Through the Great Filter: A Spacetime Search for UAP",
+        "seriesId": "merged-podcast",
+        "date": "2023-06-08",
+        "sharedEntityIds": [
+          "ryan-graves",
+          "scientific-investigation",
+          "uap-research"
+        ],
+        "sharedEntityCount": 3,
+        "score": 35
+      }
+    ],
+    "2023-merged-episode-7": [
+      {
+        "id": "2023-merged-episode-16",
+        "name": "MERGED Episode #16 — Navigating the Deep: Searching for Undersea UAP",
+        "seriesId": "merged-podcast",
+        "date": "2023-09-28",
+        "sharedEntityIds": [
+          "ryan-graves",
+          "scientific-investigation",
+          "uap-research"
+        ],
+        "sharedEntityCount": 3,
+        "score": 35
+      },
+      {
+        "id": "2023-merged-episode-13",
+        "name": "MERGED Episode #13 — An Open-Minded Scientific Approach to UAP",
+        "seriesId": "merged-podcast",
+        "date": "2023-08-15",
+        "sharedEntityIds": [
+          "ryan-graves",
+          "scientific-investigation",
+          "uap-research"
+        ],
+        "sharedEntityCount": 3,
+        "score": 35
+      },
+      {
+        "id": "2023-merged-episode-10",
+        "name": "MERGED Episode #10 — Looking to the Sky for Extraordinary Evidence of UAP",
+        "seriesId": "merged-podcast",
+        "date": "2023-06-21",
+        "sharedEntityIds": [
+          "ryan-graves",
+          "scientific-investigation",
+          "uap-research"
+        ],
+        "sharedEntityCount": 3,
+        "score": 35
+      },
+      {
+        "id": "2023-merged-episode-9",
+        "name": "MERGED Episode #9 — Through the Great Filter: A Spacetime Search for UAP",
+        "seriesId": "merged-podcast",
+        "date": "2023-06-08",
+        "sharedEntityIds": [
+          "ryan-graves",
+          "scientific-investigation",
+          "uap-research"
+        ],
+        "sharedEntityCount": 3,
+        "score": 35
+      },
+      {
+        "id": "2023-merged-episode-8",
+        "name": "MERGED Episode #8 — Where the Search for Dark Matter and UAP Meet",
+        "seriesId": "merged-podcast",
+        "date": "2023-06-03",
+        "sharedEntityIds": [
+          "ryan-graves",
+          "scientific-investigation",
+          "uap-research"
+        ],
+        "sharedEntityCount": 3,
+        "score": 35
+      },
+      {
+        "id": "2023-merged-episode-6",
+        "name": "MERGED Episode #6 — Researching UAP in the Galileo Project",
+        "seriesId": "merged-podcast",
+        "date": "2023-03-10",
+        "sharedEntityIds": [
+          "ryan-graves",
+          "scientific-investigation",
+          "uap-research"
+        ],
+        "sharedEntityCount": 3,
+        "score": 35
+      }
+    ],
+    "2023-merged-episode-8": [
+      {
+        "id": "2023-merged-episode-16",
+        "name": "MERGED Episode #16 — Navigating the Deep: Searching for Undersea UAP",
+        "seriesId": "merged-podcast",
+        "date": "2023-09-28",
+        "sharedEntityIds": [
+          "ryan-graves",
+          "scientific-investigation",
+          "uap-research"
+        ],
+        "sharedEntityCount": 3,
+        "score": 35
+      },
+      {
+        "id": "2023-merged-episode-13",
+        "name": "MERGED Episode #13 — An Open-Minded Scientific Approach to UAP",
+        "seriesId": "merged-podcast",
+        "date": "2023-08-15",
+        "sharedEntityIds": [
+          "ryan-graves",
+          "scientific-investigation",
+          "uap-research"
+        ],
+        "sharedEntityCount": 3,
+        "score": 35
+      },
+      {
+        "id": "2023-merged-episode-10",
+        "name": "MERGED Episode #10 — Looking to the Sky for Extraordinary Evidence of UAP",
+        "seriesId": "merged-podcast",
+        "date": "2023-06-21",
+        "sharedEntityIds": [
+          "ryan-graves",
+          "scientific-investigation",
+          "uap-research"
+        ],
+        "sharedEntityCount": 3,
+        "score": 35
+      },
+      {
+        "id": "2023-merged-episode-9",
+        "name": "MERGED Episode #9 — Through the Great Filter: A Spacetime Search for UAP",
+        "seriesId": "merged-podcast",
+        "date": "2023-06-08",
+        "sharedEntityIds": [
+          "ryan-graves",
+          "scientific-investigation",
+          "uap-research"
+        ],
+        "sharedEntityCount": 3,
+        "score": 35
+      },
+      {
+        "id": "2023-merged-episode-7",
+        "name": "MERGED Episode #7 — Exploring Theories of UAP, Consciousness, and Physics",
+        "seriesId": "merged-podcast",
+        "date": "2023-04-05",
+        "sharedEntityIds": [
+          "ryan-graves",
+          "scientific-investigation",
+          "uap-research"
+        ],
+        "sharedEntityCount": 3,
+        "score": 35
+      },
+      {
+        "id": "2023-merged-episode-6",
+        "name": "MERGED Episode #6 — Researching UAP in the Galileo Project",
+        "seriesId": "merged-podcast",
+        "date": "2023-03-10",
+        "sharedEntityIds": [
+          "ryan-graves",
+          "scientific-investigation",
+          "uap-research"
+        ],
+        "sharedEntityCount": 3,
+        "score": 35
+      }
+    ],
+    "2023-merged-episode-9": [
+      {
+        "id": "2023-merged-episode-16",
+        "name": "MERGED Episode #16 — Navigating the Deep: Searching for Undersea UAP",
+        "seriesId": "merged-podcast",
+        "date": "2023-09-28",
+        "sharedEntityIds": [
+          "ryan-graves",
+          "scientific-investigation",
+          "uap-research"
+        ],
+        "sharedEntityCount": 3,
+        "score": 35
+      },
+      {
+        "id": "2023-merged-episode-13",
+        "name": "MERGED Episode #13 — An Open-Minded Scientific Approach to UAP",
+        "seriesId": "merged-podcast",
+        "date": "2023-08-15",
+        "sharedEntityIds": [
+          "ryan-graves",
+          "scientific-investigation",
+          "uap-research"
+        ],
+        "sharedEntityCount": 3,
+        "score": 35
+      },
+      {
+        "id": "2023-merged-episode-10",
+        "name": "MERGED Episode #10 — Looking to the Sky for Extraordinary Evidence of UAP",
+        "seriesId": "merged-podcast",
+        "date": "2023-06-21",
+        "sharedEntityIds": [
+          "ryan-graves",
+          "scientific-investigation",
+          "uap-research"
+        ],
+        "sharedEntityCount": 3,
+        "score": 35
+      },
+      {
+        "id": "2023-merged-episode-8",
+        "name": "MERGED Episode #8 — Where the Search for Dark Matter and UAP Meet",
+        "seriesId": "merged-podcast",
+        "date": "2023-06-03",
+        "sharedEntityIds": [
+          "ryan-graves",
+          "scientific-investigation",
+          "uap-research"
+        ],
+        "sharedEntityCount": 3,
+        "score": 35
+      },
+      {
+        "id": "2023-merged-episode-7",
+        "name": "MERGED Episode #7 — Exploring Theories of UAP, Consciousness, and Physics",
+        "seriesId": "merged-podcast",
+        "date": "2023-04-05",
+        "sharedEntityIds": [
+          "ryan-graves",
+          "scientific-investigation",
+          "uap-research"
+        ],
+        "sharedEntityCount": 3,
+        "score": 35
+      },
+      {
+        "id": "2023-merged-episode-6",
+        "name": "MERGED Episode #6 — Researching UAP in the Galileo Project",
+        "seriesId": "merged-podcast",
+        "date": "2023-03-10",
+        "sharedEntityIds": [
+          "ryan-graves",
+          "scientific-investigation",
+          "uap-research"
+        ],
+        "sharedEntityCount": 3,
+        "score": 35
       }
     ],
     "2023-need-to-know-episode-26": [

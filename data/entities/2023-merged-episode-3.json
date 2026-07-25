@@ -1,0 +1,81 @@
+{
+  "id": "2023-merged-episode-3",
+  "type": "podcast_episode",
+  "name": "MERGED Episode #3 — Unbreakable Resilience: How I Survived a Supersonic Jet Crash",
+  "summary": "A naval aviator’s survival, recovery, trauma, resilience, and personal UAP experience.",
+  "date": "2023-02-07",
+  "dateDisplay": "February 7, 2023",
+  "seriesId": "merged-podcast",
+  "episodeNumber": 3,
+  "episodeTitle": "Unbreakable Resilience: How I Survived a Supersonic Jet Crash",
+  "status": "Published",
+  "mediaType": "Podcast episode",
+  "mediaPlatform": "MERGED",
+  "mediaHost": "Ryan Graves",
+  "mediaGuests": [
+    "Kegan Gill"
+  ],
+  "mediaSubjects": [
+    "Aviation Safety",
+    "Uap Research"
+  ],
+  "principalClaims": [
+    "claim-merged-3-1",
+    "claim-merged-3-2",
+    "claim-merged-3-3",
+    "claim-merged-3-4"
+  ],
+  "researchNotes": [
+    "Direct episode metadata and description were verified against the MERGED syndicated episode record for Episode #3.",
+    "Canonical entities were reused where available; new guest entities were created only when no existing equivalent was present.",
+    "Cross-series discovery is generated through shared canonical people, cases, organizations, and topics rather than incidental mentions."
+  ],
+  "relationships": [
+    {
+      "type": "episode_of",
+      "target": "merged-podcast"
+    },
+    {
+      "type": "features_person",
+      "target": "ryan-graves",
+      "role": "host",
+      "context": "MERGED host and former U.S. Navy F/A-18 pilot"
+    },
+    {
+      "type": "features_person",
+      "target": "kegan-gill",
+      "role": "guest",
+      "context": "Featured guest for MERGED Episode #3"
+    },
+    {
+      "type": "discussed_topic",
+      "target": "aviation-safety"
+    },
+    {
+      "type": "discussed_topic",
+      "target": "uap-research"
+    }
+  ],
+  "mediaLinks": [
+    {
+      "label": "Listen to MERGED Episode #3",
+      "url": "https://www.ivoox.com/en/unbreakable-resilience-how-i-survived-a-supersonic-jet-audios-mp3_rf_102717308_1.html",
+      "platform": "iVoox"
+    },
+    {
+      "label": "Find MERGED Episode #3 on the official YouTube channel",
+      "url": "https://www.youtube.com/@merged_podcast/search?query=Merged+Podcast+EP+3+Kegan+Gill",
+      "platform": "YouTube"
+    }
+  ],
+  "eventCategory": "Podcast publication",
+  "officialLinks": [],
+  "referenceSources": [
+    {
+      "label": "MERGED Episode #3 on iVoox",
+      "url": "https://www.ivoox.com/en/unbreakable-resilience-how-i-survived-a-supersonic-jet-audios-mp3_rf_102717308_1.html",
+      "sourceType": "podcast_platform_episode",
+      "role": "source"
+    }
+  ]
+}

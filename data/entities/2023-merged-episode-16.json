@@ -1,0 +1,86 @@
+{
+  "id": "2023-merged-episode-16",
+  "type": "podcast_episode",
+  "name": "MERGED Episode #16 — Navigating the Deep: Searching for Undersea UAP",
+  "summary": "Ocean science, GOFAST and GIMBAL context, NOAA experience, and research into transmedium or undersea anomalies.",
+  "date": "2023-09-28",
+  "dateDisplay": "September 28, 2023",
+  "seriesId": "merged-podcast",
+  "episodeNumber": 16,
+  "episodeTitle": "Navigating the Deep: Searching for Undersea UAP",
+  "status": "Published",
+  "mediaType": "Podcast episode",
+  "mediaPlatform": "MERGED",
+  "mediaHost": "Ryan Graves",
+  "mediaGuests": [
+    "Tim Gallaudet"
+  ],
+  "mediaSubjects": [
+    "Unidentified Submerged Objects",
+    "Gimbal Video",
+    "Gofast Video"
+  ],
+  "principalClaims": [
+    "claim-merged-16-1",
+    "claim-merged-16-2",
+    "claim-merged-16-3",
+    "claim-merged-16-4"
+  ],
+  "researchNotes": [
+    "Direct episode metadata and description were verified against the MERGED syndicated episode record for Episode #16.",
+    "Canonical entities were reused where available; new guest entities were created only when no existing equivalent was present.",
+    "Cross-series discovery is generated through shared canonical people, cases, organizations, and topics rather than incidental mentions."
+  ],
+  "relationships": [
+    {
+      "type": "episode_of",
+      "target": "merged-podcast"
+    },
+    {
+      "type": "features_person",
+      "target": "ryan-graves",
+      "role": "host",
+      "context": "MERGED host and former U.S. Navy F/A-18 pilot"
+    },
+    {
+      "type": "features_person",
+      "target": "tim-gallaudet",
+      "role": "guest",
+      "context": "Featured guest for MERGED Episode #16"
+    },
+    {
+      "type": "discussed_topic",
+      "target": "unidentified-submerged-objects"
+    },
+    {
+      "type": "discussed_topic",
+      "target": "uap-research"
+    },
+    {
+      "type": "discussed_topic",
+      "target": "scientific-investigation"
+    }
+  ],
+  "mediaLinks": [
+    {
+      "label": "Listen to MERGED Episode #16",
+      "url": "https://www.ivoox.com/en/navigating-the-deep-searching-for-undersea-uap-audios-mp3_rf_116831042_1.html",
+      "platform": "iVoox"
+    },
+    {
+      "label": "Find MERGED Episode #16 on the official YouTube channel",
+      "url": "https://www.youtube.com/@merged_podcast/search?query=Merged+Podcast+EP+16+Tim+Gallaudet",
+      "platform": "YouTube"
+    }
+  ],
+  "eventCategory": "Podcast publication",
+  "officialLinks": [],
+  "referenceSources": [
+    {
+      "label": "MERGED Episode #16 on iVoox",
+      "url": "https://www.ivoox.com/en/navigating-the-deep-searching-for-undersea-uap-audios-mp3_rf_116831042_1.html",
+      "sourceType": "podcast_platform_episode",
+      "role": "source"
+    }
+  ]
+}

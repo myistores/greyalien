@@ -1,0 +1,16 @@
+{
+  "id": "adam-frank",
+  "type": "person",
+  "name": "Adam Frank",
+  "summary": "University of Rochester astrophysicist and author whose work covers stellar evolution, exoplanets, astrobiology, and technosignatures.",
+  "relationships": [],
+  "officialLinks": [],
+  "referenceSources": [
+    {
+      "label": "MERGED episode featuring Adam Frank",
+      "url": "https://www.ivoox.com/en/uap-research-or-seti-who-finds-nhi-audios-mp3_rf_118459031_1.html",
+      "sourceType": "podcast_platform",
+      "role": "primary_reference"
+    }
+  ]
+}

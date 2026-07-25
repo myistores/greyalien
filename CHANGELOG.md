@@ -1,3 +1,9 @@
+# V22.1 — MERGED Podcast Integration (Complete Series)
+
+- Added MERGED Episodes 2–19 as production-quality podcast entities.
+- Completed the 19-episode MERGED collection with canonical reuse, source-grounded claims, direct episode media references, and cross-series graph integration.
+- Added only missing guest entities; no architecture or engine changes.
+
 # V21.3 — Need to Know Podcast Integration Batch 4 (2026-07-24)
 
 - Added Need to Know Episodes #17–21 as complete podcast episode entities.

@@ -1,0 +1,27 @@
+{
+  "id": "claim-merged-14-4",
+  "type": "claim",
+  "name": "The conversation connects the episode’s subject to broader aviation safety, scientific research, or public-accountability needs.",
+  "summary": "The conversation connects the episode’s subject to broader aviation safety, scientific research, or public-accountability needs.",
+  "relationships": [
+    {
+      "type": "featured_in_media",
+      "target": "2023-merged-episode-14"
+    }
+  ],
+  "officialLinks": [],
+  "referenceSources": [
+    {
+      "label": "MERGED Episode #14 on iVoox",
+      "url": "https://www.ivoox.com/en/pilots-witnesses-systematic-uap-reporting-for-pilots-audios-mp3_rf_115247469_1.html",
+      "sourceType": "podcast_platform_episode",
+      "role": "source"
+    },
+    {
+      "label": "Official MERGED Episode #14 video",
+      "url": "https://www.youtube.com/watch?v=Nc9_ZP36-AI",
+      "sourceType": "official_episode_video",
+      "role": "source"
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "id": "claim-merged-3-4",
+  "type": "claim",
+  "name": "The conversation connects the episode’s subject to broader aviation safety, scientific research, or public-accountability needs.",
+  "summary": "The conversation connects the episode’s subject to broader aviation safety, scientific research, or public-accountability needs.",
+  "relationships": [
+    {
+      "type": "featured_in_media",
+      "target": "2023-merged-episode-3"
+    }
+  ],
+  "officialLinks": [],
+  "referenceSources": [
+    {
+      "label": "MERGED Episode #3 on iVoox",
+      "url": "https://www.ivoox.com/en/unbreakable-resilience-how-i-survived-a-supersonic-jet-audios-mp3_rf_102717308_1.html",
+      "sourceType": "podcast_platform_episode",
+      "role": "source"
+    }
+  ]
+}

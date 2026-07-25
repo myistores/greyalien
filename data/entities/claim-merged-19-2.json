@@ -1,0 +1,21 @@
+{
+  "id": "claim-merged-19-2",
+  "type": "claim",
+  "name": "The episode argues that the subject should be evaluated through evidence, structured reporting, or reproducible scientific methods.",
+  "summary": "The episode argues that the subject should be evaluated through evidence, structured reporting, or reproducible scientific methods.",
+  "relationships": [
+    {
+      "type": "featured_in_media",
+      "target": "2023-merged-episode-19"
+    }
+  ],
+  "officialLinks": [],
+  "referenceSources": [
+    {
+      "label": "MERGED Episode #19 on iVoox",
+      "url": "https://www.ivoox.com/en/vandenberg-8220red-square-witness-speaks-for-first-time-audios-mp3_rf_119179267_1.html",
+      "sourceType": "podcast_platform_episode",
+      "role": "source"
+    }
+  ]
+}

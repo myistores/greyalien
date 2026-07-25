@@ -1,0 +1,21 @@
+{
+  "id": "claim-merged-17-1",
+  "type": "claim",
+  "name": "Matt Laslo presents firsthand or professional experience relevant to the episode’s central subject.",
+  "summary": "Matt Laslo presents firsthand or professional experience relevant to the episode’s central subject.",
+  "relationships": [
+    {
+      "type": "featured_in_media",
+      "target": "2023-merged-episode-17"
+    }
+  ],
+  "officialLinks": [],
+  "referenceSources": [
+    {
+      "label": "MERGED Episode #17 on iVoox",
+      "url": "https://www.ivoox.com/en/asking-difficult-questions-congressional-accountability-on-uap-audios-mp3_rf_117633407_1.html",
+      "sourceType": "podcast_platform_episode",
+      "role": "source"
+    }
+  ]
+}

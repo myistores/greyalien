@@ -1,0 +1,27 @@
+{
+  "id": "claim-merged-13-4",
+  "type": "claim",
+  "name": "The conversation connects the episode’s subject to broader aviation safety, scientific research, or public-accountability needs.",
+  "summary": "The conversation connects the episode’s subject to broader aviation safety, scientific research, or public-accountability needs.",
+  "relationships": [
+    {
+      "type": "featured_in_media",
+      "target": "2023-merged-episode-13"
+    }
+  ],
+  "officialLinks": [],
+  "referenceSources": [
+    {
+      "label": "MERGED Episode #13 on iVoox",
+      "url": "https://www.ivoox.com/en/an-open-minded-scientific-approach-to-uap-ufos-audios-mp3_rf_114279386_1.html",
+      "sourceType": "podcast_platform_episode",
+      "role": "source"
+    },
+    {
+      "label": "Official MERGED Episode #13 video",
+      "url": "https://www.youtube.com/watch?v=KFSWeJe_7-4",
+      "sourceType": "official_episode_video",
+      "role": "source"
+    }
+  ]
+}

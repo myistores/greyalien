@@ -81,3 +81,7 @@ Need to Know Episodes 22–75 were added as a content-only production batch with
 
 ### V22.0
 MERGED Episode #1 was added as the third integrated podcast-series pilot using the validated content-only production workflow, direct official media, canonical entity reuse, and evidence-based cross-series discovery.
+
+
+### V22.1
+MERGED Episodes 2–19 completed the 19-episode series as a content-only production ingestion with canonical entity reuse, source-grounded claims, direct episode media, and validated cross-series discovery.

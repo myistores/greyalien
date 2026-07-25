@@ -1,0 +1,27 @@
+{
+  "id": "claim-merged-8-3",
+  "type": "claim",
+  "name": "The discussion identifies institutional, cultural, or technical barriers that limit reliable UAP data collection.",
+  "summary": "The discussion identifies institutional, cultural, or technical barriers that limit reliable UAP data collection.",
+  "relationships": [
+    {
+      "type": "featured_in_media",
+      "target": "2023-merged-episode-8"
+    }
+  ],
+  "officialLinks": [],
+  "referenceSources": [
+    {
+      "label": "MERGED Episode #8 on iVoox",
+      "url": "https://www.ivoox.com/en/where-the-search-for-dark-matter-and-uap-audios-mp3_rf_109610969_1.html",
+      "sourceType": "podcast_platform_episode",
+      "role": "source"
+    },
+    {
+      "label": "Official MERGED Episode #8 video",
+      "url": "https://www.youtube.com/watch?v=4knd6hQbHZI",
+      "sourceType": "official_episode_video",
+      "role": "source"
+    }
+  ]
+}

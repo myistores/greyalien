@@ -1,0 +1,27 @@
+{
+  "id": "claim-merged-15-4",
+  "type": "claim",
+  "name": "The conversation connects the episode’s subject to broader aviation safety, scientific research, or public-accountability needs.",
+  "summary": "The conversation connects the episode’s subject to broader aviation safety, scientific research, or public-accountability needs.",
+  "relationships": [
+    {
+      "type": "featured_in_media",
+      "target": "2023-merged-episode-15"
+    }
+  ],
+  "officialLinks": [],
+  "referenceSources": [
+    {
+      "label": "MERGED Episode #15 on iVoox",
+      "url": "https://www.ivoox.com/en/the-sounds-of-the-sky-the-galileo-audios-mp3_rf_116041882_1.html",
+      "sourceType": "podcast_platform_episode",
+      "role": "source"
+    },
+    {
+      "label": "Official MERGED Episode #15 video",
+      "url": "https://www.youtube.com/watch?v=87POecVP-s4",
+      "sourceType": "official_episode_video",
+      "role": "source"
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "id": "andy-mead",
+  "type": "person",
+  "name": "Andy Mead",
+  "summary": "Audio engineer and Galileo Project acoustics co-lead working on multisensor aerial monitoring.",
+  "relationships": [],
+  "officialLinks": [],
+  "referenceSources": [
+    {
+      "label": "MERGED episode featuring Andy Mead",
+      "url": "https://www.ivoox.com/en/the-sounds-of-the-sky-the-galileo-audios-mp3_rf_116041882_1.html",
+      "sourceType": "podcast_platform",
+      "role": "primary_reference"
+    }
+  ]
+}

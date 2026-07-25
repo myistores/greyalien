@@ -1,0 +1,82 @@
+{
+  "id": "2023-merged-episode-9",
+  "type": "podcast_episode",
+  "name": "MERGED Episode #9 — Through the Great Filter: A Spacetime Search for UAP",
+  "summary": "The Great Filter, grabby-alien models, long-term civilization, and implications for UAP inquiry.",
+  "date": "2023-06-08",
+  "dateDisplay": "June 8, 2023",
+  "seriesId": "merged-podcast",
+  "episodeNumber": 9,
+  "episodeTitle": "Through the Great Filter: A Spacetime Search for UAP",
+  "status": "Published",
+  "mediaType": "Podcast episode",
+  "mediaPlatform": "MERGED",
+  "mediaHost": "Ryan Graves",
+  "mediaGuests": [
+    "Robin Hanson"
+  ],
+  "mediaSubjects": [
+    "Scientific Investigation",
+    "Uap Research",
+    "Extraterrestrial Life"
+  ],
+  "principalClaims": [
+    "claim-merged-9-1",
+    "claim-merged-9-2",
+    "claim-merged-9-3",
+    "claim-merged-9-4"
+  ],
+  "researchNotes": [
+    "Direct episode metadata and description were verified against the MERGED syndicated episode record for Episode #9.",
+    "Canonical entities were reused where available; new guest entities were created only when no existing equivalent was present.",
+    "Cross-series discovery is generated through shared canonical people, cases, organizations, and topics rather than incidental mentions."
+  ],
+  "relationships": [
+    {
+      "type": "episode_of",
+      "target": "merged-podcast"
+    },
+    {
+      "type": "features_person",
+      "target": "ryan-graves",
+      "role": "host",
+      "context": "MERGED host and former U.S. Navy F/A-18 pilot"
+    },
+    {
+      "type": "features_person",
+      "target": "robin-hanson",
+      "role": "guest",
+      "context": "Featured guest for MERGED Episode #9"
+    },
+    {
+      "type": "discussed_topic",
+      "target": "scientific-investigation"
+    },
+    {
+      "type": "discussed_topic",
+      "target": "uap-research"
+    }
+  ],
+  "mediaLinks": [
+    {
+      "label": "Listen to MERGED Episode #9",
+      "url": "https://www.ivoox.com/en/through-the-great-filter-a-spacetime-search-for-audios-mp3_rf_110006855_1.html",
+      "platform": "iVoox"
+    },
+    {
+      "label": "Find MERGED Episode #9 on the official YouTube channel",
+      "url": "https://www.youtube.com/@merged_podcast/search?query=Merged+Podcast+EP+9+Robin+Hanson",
+      "platform": "YouTube"
+    }
+  ],
+  "eventCategory": "Podcast publication",
+  "officialLinks": [],
+  "referenceSources": [
+    {
+      "label": "MERGED Episode #9 on iVoox",
+      "url": "https://www.ivoox.com/en/through-the-great-filter-a-spacetime-search-for-audios-mp3_rf_110006855_1.html",
+      "sourceType": "podcast_platform_episode",
+      "role": "source"
+    }
+  ]
+}

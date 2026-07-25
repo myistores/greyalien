@@ -1,0 +1,92 @@
+{
+  "id": "2023-merged-episode-6",
+  "type": "podcast_episode",
+  "name": "MERGED Episode #6 — Researching UAP in the Galileo Project",
+  "summary": "An inside look at Galileo Project instrumentation, research protocols, stigma reduction, and early-career science.",
+  "date": "2023-03-10",
+  "dateDisplay": "March 10, 2023",
+  "seriesId": "merged-podcast",
+  "episodeNumber": 6,
+  "episodeTitle": "Researching UAP in the Galileo Project",
+  "status": "Published",
+  "mediaType": "Podcast episode",
+  "mediaPlatform": "MERGED",
+  "mediaHost": "Ryan Graves",
+  "mediaGuests": [
+    "Abby White"
+  ],
+  "mediaSubjects": [
+    "Galileo Project",
+    "Scientific Investigation",
+    "Uap Research"
+  ],
+  "principalClaims": [
+    "claim-merged-6-1",
+    "claim-merged-6-2",
+    "claim-merged-6-3",
+    "claim-merged-6-4"
+  ],
+  "researchNotes": [
+    "Direct episode metadata and description were verified against the MERGED syndicated episode record for Episode #6.",
+    "Canonical entities were reused where available; new guest entities were created only when no existing equivalent was present.",
+    "Cross-series discovery is generated through shared canonical people, cases, organizations, and topics rather than incidental mentions."
+  ],
+  "relationships": [
+    {
+      "type": "episode_of",
+      "target": "merged-podcast"
+    },
+    {
+      "type": "features_person",
+      "target": "ryan-graves",
+      "role": "host",
+      "context": "MERGED host and former U.S. Navy F/A-18 pilot"
+    },
+    {
+      "type": "features_person",
+      "target": "abby-white",
+      "role": "guest",
+      "context": "Featured guest for MERGED Episode #6"
+    },
+    {
+      "type": "references_organization",
+      "target": "galileo-project"
+    },
+    {
+      "type": "discussed_topic",
+      "target": "scientific-investigation"
+    },
+    {
+      "type": "discussed_topic",
+      "target": "uap-research"
+    }
+  ],
+  "mediaLinks": [
+    {
+      "label": "Listen to MERGED Episode #6",
+      "url": "https://www.ivoox.com/en/researching-uap-ufos-in-the-galileo-project-audios-mp3_rf_104396960_1.html",
+      "platform": "iVoox"
+    },
+    {
+      "label": "Watch MERGED Episode #6 on YouTube",
+      "url": "https://www.youtube.com/watch?v=56So2gXKFcg",
+      "platform": "YouTube"
+    }
+  ],
+  "eventCategory": "Podcast publication",
+  "officialLinks": [],
+  "referenceSources": [
+    {
+      "label": "MERGED Episode #6 on iVoox",
+      "url": "https://www.ivoox.com/en/researching-uap-ufos-in-the-galileo-project-audios-mp3_rf_104396960_1.html",
+      "sourceType": "podcast_platform_episode",
+      "role": "source"
+    },
+    {
+      "label": "Official MERGED Episode #6 video",
+      "url": "https://www.youtube.com/watch?v=56So2gXKFcg",
+      "sourceType": "official_episode_video",
+      "role": "source"
+    }
+  ]
+}

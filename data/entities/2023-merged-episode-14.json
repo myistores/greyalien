@@ -1,0 +1,88 @@
+{
+  "id": "2023-merged-episode-14",
+  "type": "podcast_episode",
+  "name": "MERGED Episode #14 — Pilots & Witnesses: Systematic UAP Reporting for Pilots",
+  "summary": "A pilot-to-pilot discussion of the Nimitz encounter, public testimony, and building a safer reporting process.",
+  "date": "2023-08-31",
+  "dateDisplay": "August 31, 2023",
+  "seriesId": "merged-podcast",
+  "episodeNumber": 14,
+  "episodeTitle": "Pilots & Witnesses: Systematic UAP Reporting for Pilots",
+  "status": "Published",
+  "mediaType": "Podcast episode",
+  "mediaPlatform": "MERGED",
+  "mediaHost": "Ryan Graves",
+  "mediaGuests": [
+    "Alex Dietrich"
+  ],
+  "mediaSubjects": [
+    "Aviation Safety",
+    "Uap Reporting",
+    "Nimitz Incident 2004"
+  ],
+  "principalClaims": [
+    "claim-merged-14-1",
+    "claim-merged-14-2",
+    "claim-merged-14-3",
+    "claim-merged-14-4"
+  ],
+  "researchNotes": [
+    "Direct episode metadata and description were verified against the MERGED syndicated episode record for Episode #14.",
+    "Canonical entities were reused where available; new guest entities were created only when no existing equivalent was present.",
+    "Cross-series discovery is generated through shared canonical people, cases, organizations, and topics rather than incidental mentions."
+  ],
+  "relationships": [
+    {
+      "type": "episode_of",
+      "target": "merged-podcast"
+    },
+    {
+      "type": "features_person",
+      "target": "ryan-graves",
+      "role": "host",
+      "context": "MERGED host and former U.S. Navy F/A-18 pilot"
+    },
+    {
+      "type": "features_person",
+      "target": "alex-dietrich",
+      "role": "guest",
+      "context": "Featured guest for MERGED Episode #14"
+    },
+    {
+      "type": "discussed_topic",
+      "target": "aviation-safety"
+    },
+    {
+      "type": "discussed_topic",
+      "target": "uap-research"
+    }
+  ],
+  "mediaLinks": [
+    {
+      "label": "Listen to MERGED Episode #14",
+      "url": "https://www.ivoox.com/en/pilots-witnesses-systematic-uap-reporting-for-pilots-audios-mp3_rf_115247469_1.html",
+      "platform": "iVoox"
+    },
+    {
+      "label": "Watch MERGED Episode #14 on YouTube",
+      "url": "https://www.youtube.com/watch?v=Nc9_ZP36-AI",
+      "platform": "YouTube"
+    }
+  ],
+  "eventCategory": "Podcast publication",
+  "officialLinks": [],
+  "referenceSources": [
+    {
+      "label": "MERGED Episode #14 on iVoox",
+      "url": "https://www.ivoox.com/en/pilots-witnesses-systematic-uap-reporting-for-pilots-audios-mp3_rf_115247469_1.html",
+      "sourceType": "podcast_platform_episode",
+      "role": "source"
+    },
+    {
+      "label": "Official MERGED Episode #14 video",
+      "url": "https://www.youtube.com/watch?v=Nc9_ZP36-AI",
+      "sourceType": "official_episode_video",
+      "role": "source"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "id": "claim-merged-11-3",
+  "type": "claim",
+  "name": "The discussion identifies institutional, cultural, or technical barriers that limit reliable UAP data collection.",
+  "summary": "The discussion identifies institutional, cultural, or technical barriers that limit reliable UAP data collection.",
+  "relationships": [
+    {
+      "type": "featured_in_media",
+      "target": "2023-merged-episode-11"
+    }
+  ],
+  "officialLinks": [],
+  "referenceSources": [
+    {
+      "label": "MERGED Episode #11 on iVoox",
+      "url": "https://www.ivoox.com/en/beyond-the-stigma-a-uap-ufo-call-to-audios-mp3_rf_111932780_1.html",
+      "sourceType": "podcast_platform_episode",
+      "role": "source"
+    },
+    {
+      "label": "Official MERGED Episode #11 video",
+      "url": "https://www.youtube.com/watch?v=KuX4GLHLRz8",
+      "sourceType": "official_episode_video",
+      "role": "source"
+    }
+  ]
+}

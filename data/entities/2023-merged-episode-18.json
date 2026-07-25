@@ -1,0 +1,82 @@
+{
+  "id": "2023-merged-episode-18",
+  "type": "podcast_episode",
+  "name": "MERGED Episode #18 — UAP Research or SETI: Who Finds NHI First?",
+  "summary": "Technosignatures, exoplanet habitability, astrobiology, SETI, and whether UAP merits scientific study.",
+  "date": "2023-10-26",
+  "dateDisplay": "October 26, 2023",
+  "seriesId": "merged-podcast",
+  "episodeNumber": 18,
+  "episodeTitle": "UAP Research or SETI: Who Finds NHI First?",
+  "status": "Published",
+  "mediaType": "Podcast episode",
+  "mediaPlatform": "MERGED",
+  "mediaHost": "Ryan Graves",
+  "mediaGuests": [
+    "Adam Frank"
+  ],
+  "mediaSubjects": [
+    "Seti",
+    "Extraterrestrial Life",
+    "Scientific Investigation"
+  ],
+  "principalClaims": [
+    "claim-merged-18-1",
+    "claim-merged-18-2",
+    "claim-merged-18-3",
+    "claim-merged-18-4"
+  ],
+  "researchNotes": [
+    "Direct episode metadata and description were verified against the MERGED syndicated episode record for Episode #18.",
+    "Canonical entities were reused where available; new guest entities were created only when no existing equivalent was present.",
+    "Cross-series discovery is generated through shared canonical people, cases, organizations, and topics rather than incidental mentions."
+  ],
+  "relationships": [
+    {
+      "type": "episode_of",
+      "target": "merged-podcast"
+    },
+    {
+      "type": "features_person",
+      "target": "ryan-graves",
+      "role": "host",
+      "context": "MERGED host and former U.S. Navy F/A-18 pilot"
+    },
+    {
+      "type": "features_person",
+      "target": "adam-frank",
+      "role": "guest",
+      "context": "Featured guest for MERGED Episode #18"
+    },
+    {
+      "type": "discussed_topic",
+      "target": "scientific-investigation"
+    },
+    {
+      "type": "references_organization",
+      "target": "nasa"
+    }
+  ],
+  "mediaLinks": [
+    {
+      "label": "Listen to MERGED Episode #18",
+      "url": "https://www.ivoox.com/en/uap-research-or-seti-who-finds-nhi-audios-mp3_rf_118459031_1.html",
+      "platform": "iVoox"
+    },
+    {
+      "label": "Find MERGED Episode #18 on the official YouTube channel",
+      "url": "https://www.youtube.com/@merged_podcast/search?query=Merged+Podcast+EP+18+Adam+Frank",
+      "platform": "YouTube"
+    }
+  ],
+  "eventCategory": "Podcast publication",
+  "officialLinks": [],
+  "referenceSources": [
+    {
+      "label": "MERGED Episode #18 on iVoox",
+      "url": "https://www.ivoox.com/en/uap-research-or-seti-who-finds-nhi-audios-mp3_rf_118459031_1.html",
+      "sourceType": "podcast_platform_episode",
+      "role": "source"
+    }
+  ]
+}

@@ -1,0 +1,88 @@
+{
+  "id": "2023-merged-episode-8",
+  "type": "podcast_episode",
+  "name": "MERGED Episode #8 — Where the Search for Dark Matter and UAP Meet",
+  "summary": "Dark-matter detection methods, scientific rigor, and how anomalous observations might be investigated.",
+  "date": "2023-06-03",
+  "dateDisplay": "June 3, 2023",
+  "seriesId": "merged-podcast",
+  "episodeNumber": 8,
+  "episodeTitle": "Where the Search for Dark Matter and UAP Meet",
+  "status": "Published",
+  "mediaType": "Podcast episode",
+  "mediaPlatform": "MERGED",
+  "mediaHost": "Ryan Graves",
+  "mediaGuests": [
+    "Matthew Szydagis"
+  ],
+  "mediaSubjects": [
+    "Scientific Investigation",
+    "Uap Research",
+    "Dark Matter"
+  ],
+  "principalClaims": [
+    "claim-merged-8-1",
+    "claim-merged-8-2",
+    "claim-merged-8-3",
+    "claim-merged-8-4"
+  ],
+  "researchNotes": [
+    "Direct episode metadata and description were verified against the MERGED syndicated episode record for Episode #8.",
+    "Canonical entities were reused where available; new guest entities were created only when no existing equivalent was present.",
+    "Cross-series discovery is generated through shared canonical people, cases, organizations, and topics rather than incidental mentions."
+  ],
+  "relationships": [
+    {
+      "type": "episode_of",
+      "target": "merged-podcast"
+    },
+    {
+      "type": "features_person",
+      "target": "ryan-graves",
+      "role": "host",
+      "context": "MERGED host and former U.S. Navy F/A-18 pilot"
+    },
+    {
+      "type": "features_person",
+      "target": "matthew-szydagis",
+      "role": "guest",
+      "context": "Featured guest for MERGED Episode #8"
+    },
+    {
+      "type": "discussed_topic",
+      "target": "scientific-investigation"
+    },
+    {
+      "type": "discussed_topic",
+      "target": "uap-research"
+    }
+  ],
+  "mediaLinks": [
+    {
+      "label": "Listen to MERGED Episode #8",
+      "url": "https://www.ivoox.com/en/where-the-search-for-dark-matter-and-uap-audios-mp3_rf_109610969_1.html",
+      "platform": "iVoox"
+    },
+    {
+      "label": "Watch MERGED Episode #8 on YouTube",
+      "url": "https://www.youtube.com/watch?v=4knd6hQbHZI",
+      "platform": "YouTube"
+    }
+  ],
+  "eventCategory": "Podcast publication",
+  "officialLinks": [],
+  "referenceSources": [
+    {
+      "label": "MERGED Episode #8 on iVoox",
+      "url": "https://www.ivoox.com/en/where-the-search-for-dark-matter-and-uap-audios-mp3_rf_109610969_1.html",
+      "sourceType": "podcast_platform_episode",
+      "role": "source"
+    },
+    {
+      "label": "Official MERGED Episode #8 video",
+      "url": "https://www.youtube.com/watch?v=4knd6hQbHZI",
+      "sourceType": "official_episode_video",
+      "role": "source"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "id": "claim-merged-2-3",
+  "type": "claim",
+  "name": "The discussion identifies institutional, cultural, or technical barriers that limit reliable UAP data collection.",
+  "summary": "The discussion identifies institutional, cultural, or technical barriers that limit reliable UAP data collection.",
+  "relationships": [
+    {
+      "type": "featured_in_media",
+      "target": "2023-merged-episode-2"
+    }
+  ],
+  "officialLinks": [],
+  "referenceSources": [
+    {
+      "label": "MERGED Episode #2 on iVoox",
+      "url": "https://www.ivoox.com/en/pilot8217s-shocking-uap-sightings-what-this-means-audios-mp3_rf_102351793_1.html",
+      "sourceType": "podcast_platform_episode",
+      "role": "source"
+    },
+    {
+      "label": "Official MERGED Episode #2 video",
+      "url": "https://www.youtube.com/watch?v=UjildVLwSHw",
+      "sourceType": "official_episode_video",
+      "role": "source"
+    }
+  ]
+}

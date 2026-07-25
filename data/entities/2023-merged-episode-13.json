@@ -1,0 +1,92 @@
+{
+  "id": "2023-merged-episode-13",
+  "type": "podcast_episode",
+  "name": "MERGED Episode #13 — An Open-Minded Scientific Approach to UAP",
+  "summary": "AIAA’s scientific and aerospace-safety approach to UAP, barriers to study, and institutional research standards.",
+  "date": "2023-08-15",
+  "dateDisplay": "August 15, 2023",
+  "seriesId": "merged-podcast",
+  "episodeNumber": 13,
+  "episodeTitle": "An Open-Minded Scientific Approach to UAP",
+  "status": "Published",
+  "mediaType": "Podcast episode",
+  "mediaPlatform": "MERGED",
+  "mediaHost": "Ryan Graves",
+  "mediaGuests": [
+    "Michael Lembeck"
+  ],
+  "mediaSubjects": [
+    "Aviation Safety",
+    "Scientific Investigation",
+    "Uap Research"
+  ],
+  "principalClaims": [
+    "claim-merged-13-1",
+    "claim-merged-13-2",
+    "claim-merged-13-3",
+    "claim-merged-13-4"
+  ],
+  "researchNotes": [
+    "Direct episode metadata and description were verified against the MERGED syndicated episode record for Episode #13.",
+    "Canonical entities were reused where available; new guest entities were created only when no existing equivalent was present.",
+    "Cross-series discovery is generated through shared canonical people, cases, organizations, and topics rather than incidental mentions."
+  ],
+  "relationships": [
+    {
+      "type": "episode_of",
+      "target": "merged-podcast"
+    },
+    {
+      "type": "features_person",
+      "target": "ryan-graves",
+      "role": "host",
+      "context": "MERGED host and former U.S. Navy F/A-18 pilot"
+    },
+    {
+      "type": "features_person",
+      "target": "michael-lembeck",
+      "role": "guest",
+      "context": "Featured guest for MERGED Episode #13"
+    },
+    {
+      "type": "discussed_topic",
+      "target": "aviation-safety"
+    },
+    {
+      "type": "discussed_topic",
+      "target": "scientific-investigation"
+    },
+    {
+      "type": "discussed_topic",
+      "target": "uap-research"
+    }
+  ],
+  "mediaLinks": [
+    {
+      "label": "Listen to MERGED Episode #13",
+      "url": "https://www.ivoox.com/en/an-open-minded-scientific-approach-to-uap-ufos-audios-mp3_rf_114279386_1.html",
+      "platform": "iVoox"
+    },
+    {
+      "label": "Watch MERGED Episode #13 on YouTube",
+      "url": "https://www.youtube.com/watch?v=KFSWeJe_7-4",
+      "platform": "YouTube"
+    }
+  ],
+  "eventCategory": "Podcast publication",
+  "officialLinks": [],
+  "referenceSources": [
+    {
+      "label": "MERGED Episode #13 on iVoox",
+      "url": "https://www.ivoox.com/en/an-open-minded-scientific-approach-to-uap-ufos-audios-mp3_rf_114279386_1.html",
+      "sourceType": "podcast_platform_episode",
+      "role": "source"
+    },
+    {
+      "label": "Official MERGED Episode #13 video",
+      "url": "https://www.youtube.com/watch?v=KFSWeJe_7-4",
+      "sourceType": "official_episode_video",
+      "role": "source"
+    }
+  ]
+}
