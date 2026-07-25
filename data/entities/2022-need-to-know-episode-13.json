@@ -20,7 +20,10 @@
     "claim-need-to-know-13-3",
     "claim-need-to-know-13-4"
   ],
-  "researchNotes": [],
+  "researchNotes": [
+    "Official-media audit: the linked Bryce Zabel rant is an official unnumbered special, not a YouTube upload titled Need to Know Episode #13.",
+    "The stable GreyAlien entity identifier and knowledge-graph relationships are preserved in V21.4 because this release is restricted to media validation and makes no knowledge-graph changes."
+  ],
   "relationships": [
     {
       "type": "episode_of",
@@ -53,7 +56,7 @@
   ],
   "mediaLinks": [
     {
-      "label": "Watch Need to Know Episode #13 on YouTube",
+      "label": "Watch the official Bryce Zabel ufology special on YouTube",
       "url": "https://www.youtube.com/watch?v=HRCT_ddq39U",
       "platform": "YouTube"
     },
@@ -67,9 +70,9 @@
   "officialLinks": [],
   "referenceSources": [
     {
-      "label": "Official Need to Know Episode 13 video — Bryce’s Rant",
+      "label": "Official Need to Know special video — A Profane Rant about Modern Ufology",
       "url": "https://www.youtube.com/watch?v=HRCT_ddq39U",
-      "sourceType": "official_episode_video",
+      "sourceType": "official_special_video",
       "role": "source"
     },
     {

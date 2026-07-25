@@ -453,3 +453,12 @@
 - Added direct official YouTube episode links for every new episode while retaining the official collection as the secondary source.
 - Reused canonical graph entities and added only five genuinely missing historical or biographical records.
 - Preserved all architecture, rendering, schema, template, navigation, routing, UI, styling, and knowledge-graph engine behavior.
+
+## V21.4 — Need to Know Official Media Validation
+- Audited all 21 currently ingested Need to Know media records.
+- Verified matching primary media and official reference-source URLs for every record.
+- Retained the official Need to Know collection as the secondary resource on every episode.
+- Corrected the Episode #13 media labeling to identify the linked Bryce Zabel rant as an official unnumbered special.
+- Documented the publisher-side conflict in which the May 17, 2022 Elizondo video is titled NTK/13 on YouTube but listed as Episode #14 in the official Need to Know archive.
+- Confirmed no duplicate direct-video IDs and no generic archive-page primary links.
+- Made no schema, rendering, UI, routing, navigation, architecture, or knowledge-graph changes.

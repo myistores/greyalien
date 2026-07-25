@@ -1,7 +1,7 @@
 {
-  "version": "21.3",
-  "title": "Need to Know Podcast Integration \u2014 Batch 4",
-  "date": "2026-07-24",
-  "summary": "Added Need to Know Episodes #17\u201321 with direct official video links, source-grounded claims, publication timeline events, canonical entity reuse, and carefully limited cross-series knowledge-graph relationships.",
-  "phase": "Cross-series podcast production batch"
+  "version": "21.4",
+  "title": "Need to Know Official Media Validation",
+  "date": "2026-07-25",
+  "summary": "Audited all 21 currently ingested Need to Know media records, verified direct official links and matching reference sources, retained the official collection as the secondary resource, corrected misleading Episode #13 media labeling, and documented the publisher-side NTK/13 versus archive Episode #14 numbering exception.",
+  "phase": "Production media-validation patch"
 }

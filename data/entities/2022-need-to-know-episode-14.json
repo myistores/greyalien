@@ -22,7 +22,10 @@
     "claim-need-to-know-14-3",
     "claim-need-to-know-14-4"
   ],
-  "researchNotes": [],
+  "researchNotes": [
+    "Publisher numbering exception: the official Need to Know archive lists this May 17, 2022 release as Episode #14, while the official Stellar Productions YouTube title identifies the same video as NTK/13.",
+    "No separate official NTK/14 YouTube upload was found. The direct official video is retained and the discrepancy is disclosed rather than assigning an unrelated or duplicate video ID."
+  ],
   "relationships": [
     {
       "type": "episode_of",
@@ -68,7 +71,7 @@
   ],
   "mediaLinks": [
     {
-      "label": "Watch Need to Know Episode #14 on YouTube",
+      "label": "Watch the official Elizondo hearing episode on YouTube (channel title NTK/13)",
       "url": "https://www.youtube.com/watch?v=YOjSBPfmoIM",
       "platform": "YouTube"
     },
@@ -82,7 +85,7 @@
   "officialLinks": [],
   "referenceSources": [
     {
-      "label": "Official Need to Know Episode 14 video — Elizondo on UAP Hearing",
+      "label": "Official Elizondo hearing video — YouTube NTK/13; Need to Know archive Episode #14",
       "url": "https://www.youtube.com/watch?v=YOjSBPfmoIM",
       "sourceType": "official_episode_video",
       "role": "source"
