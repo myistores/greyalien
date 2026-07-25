@@ -1,3 +1,11 @@
+## V22.1.1 — Somewhere in the Skies Archive Gateway
+- Added a native GreyAlien gateway for Somewhere in the Skies.
+- Combined year and topic browsing with keyword search, sorting, compact episode rows, and pagination.
+- Added an ingestion-ready archive index covering 2017–2026 and nine research-topic collections.
+- Reused the existing canonical podcast-series entity and official links.
+- Updated the podcast directory, homepage Latest Additions, sitemap, and validation documentation.
+- No episode entities were created and no knowledge-graph schema or relationship data were changed.
+
 # V22.1 — MERGED Podcast Integration (Complete Series)
 
 - Added MERGED Episodes 2–19 as production-quality podcast entities.

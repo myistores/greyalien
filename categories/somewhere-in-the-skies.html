@@ -1,0 +1,71 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <title>Somewhere in the Skies Podcast Archive | GreyAlien</title>
+  <meta name="description" content="Explore Somewhere in the Skies by year and research topic through the GreyAlien podcast knowledge base.">
+  <link rel="stylesheet" href="../style.css">
+  <meta name="theme-color" content="#07110f">
+  <meta name="robots" content="index,follow,max-image-preview:large">
+  <link rel="canonical" href="https://greyalien.com/categories/somewhere-in-the-skies.html">
+  <link rel="icon" type="image/jpeg" href="../assets/grey-alien-logo.jpg">
+  <script src="../assets/js/site-config.js"></script>
+  <script src="../assets/js/seo.js"></script>
+  <script src="../assets/js/analytics.js" defer></script>
+</head>
+<body>
+<header class="topbar"><div class="wrap nav"><a class="brand" href="../index.html">GreyAlien</a><nav class="nav-links"><a href="../index.html#explore">Explore</a><a href="congressional-hearings.html">Congressional Hearings</a><a href="whistleblower-database.html">Witnesses</a><a href="../entities/index.html">Entity Explorer</a><a href="../about.html">About</a></nav></div></header>
+<main>
+  <section class="page-hero sits-hero"><div class="wrap">
+    <p class="kicker">Podcast Collection Gateway</p>
+    <h1>Somewhere in the Skies</h1>
+    <div class="prose"><p>Explore Ryan Sprague’s long-running UFO and UAP podcast through a scalable archive organized by publication year and research topic. Episode records remain individually connected to the GreyAlien knowledge graph without placing hundreds of full cards on one page.</p></div>
+    <div class="sits-actions">
+      <a class="button" href="../entities/entity.html?id=somewhere-in-the-skies-podcast">Explore Series Entity</a>
+      <a class="button secondary-button" href="https://somewhereintheskies.com/" target="_blank" rel="noopener">Official Website ↗</a>
+      <a class="button secondary-button" href="https://www.youtube.com/channel/UCYH8m4zyehr0rN3feBZ4mCA" target="_blank" rel="noopener">Official YouTube ↗</a>
+    </div>
+  </div></section>
+
+  <section class="section"><div class="wrap">
+    <div id="sits-stats" class="podcast-stats" aria-live="polite"><p>Loading archive summary…</p></div>
+  </div></section>
+
+  <section class="section sits-browser-section"><div class="wrap">
+    <div class="section-head"><div><p class="kicker">Combined Archive</p><h2>Browse by year and topic</h2></div><p>Select any year and topic together, or search across episode titles, guests, cases, and summaries.</p></div>
+    <div class="sits-browser">
+      <aside class="sits-filters" aria-label="Episode archive filters">
+        <div class="sits-filter-block">
+          <label for="sits-search">Search episodes</label>
+          <input id="sits-search" class="sits-search" type="search" placeholder="Guest, case, title, or keyword">
+        </div>
+        <div class="sits-filter-block">
+          <div class="sits-filter-heading"><h3>Year</h3><button class="sits-reset-link" type="button" data-reset="year">All years</button></div>
+          <div id="sits-years" class="sits-option-list"></div>
+        </div>
+        <div class="sits-filter-block">
+          <div class="sits-filter-heading"><h3>Topic</h3><button class="sits-reset-link" type="button" data-reset="topic">All topics</button></div>
+          <div id="sits-topics" class="sits-option-list"></div>
+        </div>
+        <button id="sits-clear" class="button secondary-button sits-clear" type="button">Clear all filters</button>
+      </aside>
+
+      <div class="sits-results-panel">
+        <div class="sits-results-head">
+          <div><p class="kicker">Episode Index</p><h2 id="sits-results-title">All researched episodes</h2></div>
+          <div class="sits-view-controls"><label for="sits-sort">Sort</label><select id="sits-sort"><option value="newest">Newest first</option><option value="oldest">Oldest first</option><option value="episode">Episode number</option></select></div>
+        </div>
+        <div id="sits-active-filters" class="sits-active-filters" aria-live="polite"></div>
+        <div id="sits-results" class="sits-results"><p>Loading episode archive…</p></div>
+        <nav id="sits-pagination" class="sits-pagination" aria-label="Episode archive pages"></nav>
+      </div>
+    </div>
+  </div></section>
+
+  <section class="section"><div class="wrap"><div class="editorial-note"><strong>Archive model:</strong> GreyAlien stores each episode as an individual knowledge-graph entity, while this gateway presents compact, filtered results. Episodes may appear in multiple topic views without creating duplicate episode records.</div></div></section>
+</main>
+<footer><div class="wrap footer-grid"><span>© <span id="year"></span> GreyAlien.com</span><a href="podcasts.html">Return to podcasts</a></div></footer>
+<script src="../assets/js/somewhere-in-the-skies-gateway.js"></script>
+</body>
+</html>

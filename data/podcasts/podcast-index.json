@@ -11,10 +11,11 @@
       "launchYear": "2017",
       "status": "Active",
       "summary": "Ryan Sprague hosts a long-running podcast centered on UFO reports, witness experiences, investigations, researchers, and the cultural history of the phenomenon.",
-      "officialWebsite": "",
+      "officialWebsite": "https://somewhereintheskies.com/",
       "episodeCount": 0,
       "connectedEntityCount": 0,
-      "latestEpisodeDate": ""
+      "latestEpisodeDate": "",
+      "gatewayUrl": "../categories/somewhere-in-the-skies.html"
     },
     {
       "id": "engaging-the-phenomenon-podcast",

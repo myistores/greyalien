@@ -1,0 +1,19 @@
+{
+  "schemaVersion": 1,
+  "seriesId": "somewhere-in-the-skies-podcast",
+  "seriesName": "Somewhere in the Skies",
+  "pageSize": 25,
+  "years": [2026, 2025, 2024, 2023, 2022, 2021, 2020, 2019, 2018, 2017],
+  "topics": [
+    {"id":"witness-accounts","name":"Witness Accounts","description":"Firsthand sightings, encounters, and experiencer testimony."},
+    {"id":"uap-news-disclosure","name":"UAP News & Disclosure","description":"Current reporting, official statements, hearings, legislation, and transparency efforts."},
+    {"id":"historical-cases","name":"Historical UFO Cases","description":"Classic incidents, archival investigations, and historical reassessments."},
+    {"id":"military-aviation","name":"Military & Aviation","description":"Pilot reports, military encounters, radar cases, and flight-safety issues."},
+    {"id":"science-research","name":"Science & Research","description":"Instrumentation, analysis, astronomy, physics, and evidence-focused inquiry."},
+    {"id":"government-programs","name":"Government Programs","description":"Official investigations, intelligence activity, records, and alleged legacy programs."},
+    {"id":"high-strangeness","name":"High Strangeness","description":"Consciousness, anomalous experiences, folklore, and adjacent phenomena."},
+    {"id":"culture-media","name":"Culture, Film & Media","description":"Books, documentaries, journalism, art, and the cultural history of UFOs."},
+    {"id":"roundtables-specials","name":"Roundtables & Specials","description":"Panels, live events, recurring formats, retrospectives, and special broadcasts."}
+  ],
+  "episodes": []
+}

@@ -46,7 +46,7 @@
       <p>${esc(podcast.summary)}</p>
       <div class="podcast-card-actions">
         <a class="button secondary-button" href="${podcast.officialWebsite}" target="_blank" rel="noopener">Official Website ↗</a>
-        <a class="button" href="../entities/entity.html?id=${encodeURIComponent(podcast.id)}">Explore Podcast</a>
+        <a class="button" href="${podcast.gatewayUrl||`../entities/entity.html?id=${encodeURIComponent(podcast.id)}`}">${podcast.gatewayUrl?"Browse Archive":"Explore Podcast"}</a>
       </div>
     </article>`).join("");
 
