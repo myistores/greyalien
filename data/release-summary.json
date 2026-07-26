@@ -1,7 +1,7 @@
 {
-  "version": "22.0",
-  "title": "MERGED Podcast Integration Pilot",
-  "date": "2026-07-25",
-  "summary": "Added MERGED Episode #1 with Dr. Garry Nolan as a complete content-only production entity, including four source-grounded principal claims, canonical entity reuse, direct official episode media, a historically meaningful launch timeline event, and cross-series discovery through shared canonical people and topics without unsupported direct series relationships.",
-  "phase": "Content-only production ingestion"
+  "version": "23.0",
+  "title": "Podcast Classification Engine",
+  "date": "2026-07-26",
+  "summary": "Added an internal, human-reviewed podcast classification and ingestion layer that determines content class, episode type, primary and secondary topics, Research Accelerator depth, and canonical entity extraction targets without changing public rendering or navigation.",
+  "phase": "Internal production and ingestion optimization"
 }

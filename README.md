@@ -85,3 +85,7 @@ MERGED Episode #1 was added as the third integrated podcast-series pilot using t
 
 ### V22.1
 MERGED Episodes 2–19 completed the 19-episode series as a content-only production ingestion with canonical entity reuse, source-grounded claims, direct episode media, and validated cross-series discovery.
+
+## V23 internal podcast classification
+
+New podcast releases are classified during Research Accelerator draft generation. See `V23_PODCAST_CLASSIFICATION_ENGINE.md`. Classification is internal-only and requires human approval before import.

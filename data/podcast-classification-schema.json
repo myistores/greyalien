@@ -1,0 +1,29 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://greyalien.com/schemas/podcast-classification-v1.json",
+  "title": "GreyAlien Podcast Classification",
+  "type": "object",
+  "required": ["engineVersion", "contentClass", "episodeType", "primaryTopics", "secondaryTopics", "researchAccelerator", "entityExtraction", "confidence", "reviewRequired"],
+  "properties": {
+    "engineVersion": {"type": "string"},
+    "contentClass": {"enum": ["research", "standard", "catalog"]},
+    "episodeType": {"type": "string"},
+    "primaryTopics": {"type": "array", "items": {"type": "string"}, "maxItems": 3},
+    "secondaryTopics": {"type": "array", "items": {"type": "string"}},
+    "researchAccelerator": {"enum": ["full", "standard", "catalog"]},
+    "entityExtraction": {
+      "type": "object",
+      "required": ["existingCanonicalIds", "candidateNames", "extractTypes"],
+      "properties": {
+        "existingCanonicalIds": {"type": "array", "items": {"type": "string"}},
+        "candidateNames": {"type": "array", "items": {"type": "string"}},
+        "extractTypes": {"type": "array", "items": {"type": "string"}}
+      }
+    },
+    "confidence": {"type": "integer", "minimum": 0, "maximum": 100},
+    "score": {"type": "integer"},
+    "reasons": {"type": "array", "items": {"type": "string"}},
+    "warnings": {"type": "array", "items": {"type": "string"}},
+    "reviewRequired": {"type": "boolean"}
+  }
+}

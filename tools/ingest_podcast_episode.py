@@ -5,10 +5,13 @@ import json, shutil, subprocess, sys, tempfile
 ROOT=Path(__file__).resolve().parents[1]
 if len(sys.argv)!=2: raise SystemExit('Usage: python tools/ingest_podcast_episode.py path/to/episode.json')
 src=Path(sys.argv[1]).resolve(); data=json.loads(src.read_text(encoding='utf-8'))
-required=('id','type','name','summary','date','seriesId','episodeNumber','relationships','referenceSources')
+required=('id','type','name','summary','date','seriesId','episodeNumber','relationships','referenceSources','classification')
 missing=[k for k in required if data.get(k) in (None,'',[])]
 if missing: raise SystemExit('Missing required podcast fields: '+', '.join(missing))
 if data['type']!='podcast_episode': raise SystemExit('type must be podcast_episode')
+c=data.get('classification',{})
+if c.get('reviewRequired') is not False: raise SystemExit('V23 classification must be human-approved with reviewRequired=false before ingestion')
+if c.get('contentClass') not in ('research','standard','catalog'): raise SystemExit('Invalid V23 contentClass')
 if not any(r.get('type')=='episode_of' and r.get('target')==data['seriesId'] for r in data['relationships']): raise SystemExit('episode_of relationship must match seriesId')
 if not any(r.get('role') in ('host','co_host') for r in data['relationships']): raise SystemExit('At least one host/co_host relationship is required')
 dst=ROOT/'data/entities'/f"{data['id']}.json"

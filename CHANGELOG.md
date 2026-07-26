@@ -491,3 +491,12 @@
 - Reused existing canonical people, series, organizations, and topics without creating duplicates.
 - Added direct official episode-page and YouTube links; cross-series discovery is generated from shared canonical people and topics without forced series edges.
 - Preserved the content-only production boundary with no platform changes.
+
+## V23.0 — Podcast Classification Engine
+
+- Added an internal podcast-release classification engine integrated with the Research Accelerator.
+- Added Content Class, Episode Type, primary/secondary topic, research-depth, and entity-extraction decisions to reviewable drafts.
+- Added explicit human approval before classified podcast records may enter the import pipeline.
+- Added classification configuration, JSON schema, command-line classifier, approval tool, and validator.
+- Updated podcast ingestion and transactional import validation to require approved V23 classification metadata for new episodes.
+- Preserved all existing public rendering, navigation, styles, routes, and entity records.

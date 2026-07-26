@@ -46,6 +46,16 @@ def validate(e, existing_ids, batch_ids):
         if len(ep)!=1: errors.append(f'{eid}: podcast episode requires exactly one episode_of relationship')
         elif ep[0].get('target')!=e.get('seriesId'): errors.append(f'{eid}: episode_of target must match seriesId')
         if not any(r.get('role') in ('host','co_host') for r in e.get('relationships',[])): errors.append(f'{eid}: podcast episode requires host/co_host relationship')
+        c=e.get('classification')
+        if not isinstance(c,dict): errors.append(f'{eid}: V23 podcast import requires classification object')
+        else:
+            for k in ('engineVersion','contentClass','episodeType','primaryTopics','secondaryTopics','researchAccelerator','entityExtraction','confidence','reviewRequired'):
+                if k not in c: errors.append(f'{eid}: classification missing {k}')
+            if c.get('contentClass') not in ('research','standard','catalog'): errors.append(f'{eid}: invalid classification contentClass')
+            if c.get('researchAccelerator') not in ('full','standard','catalog'): errors.append(f'{eid}: invalid classification researchAccelerator')
+            if not isinstance(c.get('primaryTopics',[]),list) or not isinstance(c.get('secondaryTopics',[]),list): errors.append(f'{eid}: classification topics must be arrays')
+            if not isinstance(c.get('reviewRequired'),bool): errors.append(f'{eid}: classification reviewRequired must be boolean')
+            if c.get('reviewRequired') is True: errors.append(f'{eid}: classification must be human-approved before import (reviewRequired=false)')
     return errors,warnings
 
 def main():

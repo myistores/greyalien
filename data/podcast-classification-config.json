@@ -1,0 +1,56 @@
+{
+  "schemaVersion": 1,
+  "engineVersion": "23.0",
+  "contentClasses": {
+    "research": {
+      "label": "Research Episode",
+      "minimumScore": 70,
+      "researchAccelerator": "full",
+      "description": "Substantive UAP research content suitable for executive summary, claims, canonical entities, and graph relationships."
+    },
+    "standard": {
+      "label": "Standard Episode",
+      "minimumScore": 35,
+      "researchAccelerator": "standard",
+      "description": "Relevant episode requiring concise summary, topic assignment, canonical entity reuse, and selective relationships."
+    },
+    "catalog": {
+      "label": "Catalog Record",
+      "minimumScore": 0,
+      "researchAccelerator": "catalog",
+      "description": "Release preserved for archive completeness with verified metadata and official sources, but without deep claim extraction."
+    }
+  },
+  "episodeTypes": [
+    "interview", "news", "roundtable", "witness_account", "case_investigation",
+    "documentary", "research_analysis", "film_or_book_discussion", "bonus",
+    "trailer", "re_release", "announcement", "unknown"
+  ],
+  "topics": {
+    "uap-news-disclosure": ["disclosure", "aaro", "pentagon", "congress", "hearing", "whistleblower", "legislation", "government transparency", "uap news"],
+    "witness-accounts": ["witness", "sighting", "encounter", "experiencer", "abduction", "contact experience", "listener story"],
+    "historical-cases": ["roswell", "rendlesham", "phoenix lights", "belgium wave", "hudson valley", "historical case", "project blue book"],
+    "military-aviation": ["navy", "air force", "pilot", "aviation", "radar", "nimitz", "tic tac", "military encounter", "flight safety"],
+    "science-technology": ["science", "scientific", "technology", "physics", "materials", "sensor", "astronomy", "astrobiology", "research methods"],
+    "consciousness-experiencer": ["consciousness", "telepathy", "psi", "synchronicity", "dream", "altered state", "experiencer"],
+    "high-strangeness": ["high strangeness", "paranormal", "cryptid", "skinwalker", "poltergeist", "occult", "folklore"],
+    "media-culture": ["film", "movie", "television", "book", "author", "culture", "music", "documentary", "review"],
+    "international-uap": ["international", "canada", "mexico", "brazil", "uk", "united kingdom", "france", "japan", "australia", "chile"]
+  },
+  "researchSignals": ["evidence", "investigation", "document", "study", "analysis", "testimony", "case", "research", "hearing", "report", "data"],
+  "catalogSignals": ["trailer", "preview", "teaser", "announcement", "patreon", "rerun", "re-release", "classic replay", "bonus clip"],
+  "typeSignals": {
+    "interview": ["interview", "with ", "conversation with", "guest"],
+    "news": ["news", "update", "headlines", "week in ufos", "uap report"],
+    "roundtable": ["roundtable", "panel", "year in review", "discussion"],
+    "witness_account": ["witness account", "witness accounts", "encounter", "sighting", "experiencer", "listener stories"],
+    "case_investigation": ["case", "investigation", "incident", "mystery of", "roswell", "rendlesham"],
+    "documentary": ["documentary", "audio documentary"],
+    "research_analysis": ["analysis", "research", "study", "evidence"],
+    "film_or_book_discussion": ["film", "movie", "book", "author", "review", "television"],
+    "bonus": ["bonus"],
+    "trailer": ["trailer", "teaser", "preview"],
+    "re_release": ["re-release", "rerun", "classic replay", "from the archive"],
+    "announcement": ["announcement", "coming soon"]
+  }
+}
