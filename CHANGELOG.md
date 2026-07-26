@@ -1,3 +1,18 @@
+# V23.1 — Podcast Classification Engine Release Visibility Patch
+
+- Updated the homepage Latest Additions section with the V23.0 Podcast Classification Engine release.
+- Updated the homepage Development Updates section with the V23.1 documentation-only patch.
+- Verified the V23.0 release summary in `data/release-summary.json`.
+- Verified the Podcast Classification Engine documentation and referenced configuration/schema files.
+- Added no code, entity, episode, relationship, knowledge-graph, rendering, navigation, routing, UI, or styling changes.
+
+# V23.0 — Podcast Classification Engine
+
+- Added an internal, human-reviewed podcast classification layer to Research Accelerator draft generation.
+- Determines Content Class, Episode Type, primary and secondary topics, processing depth, and canonical entity extraction targets.
+- Requires explicit reviewer approval before import and does not publish or create canonical entities automatically.
+- Keeps classification metadata internal and leaves existing public pages unchanged.
+
 ## V22.1.1 — Somewhere in the Skies Archive Gateway
 - Added a native GreyAlien gateway for Somewhere in the Skies.
 - Combined year and topic browsing with keyword search, sorting, compact episode rows, and pagination.

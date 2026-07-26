@@ -1,4 +1,4 @@
-## Current release: V17.5 — Timeline Normalization Engine
+## Current release: V23.1 — Podcast Classification Engine Release Visibility Patch
 
 See `PHASE4\_REFINEMENT2\_TIMELINE\_NORMALIZATION.md` for normalization and connection-count rules.
 
@@ -88,4 +88,9 @@ MERGED Episodes 2–19 completed the 19-episode series as a content-only product
 
 ## V23 internal podcast classification
 
-New podcast releases are classified during Research Accelerator draft generation. See `V23_PODCAST_CLASSIFICATION_ENGINE.md`. Classification is internal-only and requires human approval before import.
+New podcast releases are classified during Research Accelerator draft generation. See [`V23_PODCAST_CLASSIFICATION_ENGINE.md`](V23_PODCAST_CLASSIFICATION_ENGINE.md). Classification is internal-only and requires human approval before import.
+
+The engine uses [`data/podcast-classification-config.json`](data/podcast-classification-config.json) and validates output against [`data/podcast-classification-schema.json`](data/podcast-classification-schema.json). The V23.0 release metadata remains recorded in [`data/release-summary.json`](data/release-summary.json).
+
+### V23.1
+The release-visibility patch updates homepage Latest Additions and Development Updates and verifies the V23 documentation references. It makes no code or knowledge-graph data changes.
