@@ -1,0 +1,69 @@
+{
+  "id": "2017-somewhere-in-the-skies-patreon-bonus-episode-sneak-peek",
+  "type": "podcast_episode",
+  "name": "Somewhere in the Skies Special — PATREON BONUS EPISODE SNEAK PEEK!",
+  "summary": "Ryan Sprague presents a preview or promotional release focused on PATREON BONUS EPISODE SNEAK PEEK!. This 2017 Somewhere in the Skies release is indexed with source-grounded topics and direct archive references.",
+  "date": "2017-09-17",
+  "dateDisplay": "September 17, 2017",
+  "seriesId": "somewhere-in-the-skies-podcast",
+  "episodeNumber": null,
+  "episodeTitle": "PATREON BONUS EPISODE SNEAK PEEK!",
+  "status": "Published",
+  "mediaType": "Podcast episode",
+  "mediaPlatform": "Somewhere in the Skies",
+  "mediaHost": "Ryan Sprague",
+  "mediaGuests": [],
+  "mediaSubjects": [
+    "media-and-popular-culture"
+  ],
+  "contentClass": "Catalog Record",
+  "episodeType": "Preview or Promotional Release",
+  "primaryTopics": [
+    "media-and-popular-culture"
+  ],
+  "secondaryTopics": [],
+  "researchAcceleratorDecision": {
+    "processing": "catalog",
+    "confidence": "high",
+    "approvalStatus": "approved",
+    "internalRationale": "Official title, date, numbering, and description signals support this classification."
+  },
+  "relationships": [
+    {
+      "type": "episode_of",
+      "target": "somewhere-in-the-skies-podcast"
+    },
+    {
+      "type": "features_person",
+      "target": "ryan-sprague",
+      "role": "host",
+      "context": "Creator and host of Somewhere in the Skies"
+    },
+    {
+      "type": "discussed_topic",
+      "target": "media-and-popular-culture"
+    }
+  ],
+  "mediaLinks": [
+    {
+      "label": "Open official episode page",
+      "url": "https://shows.acast.com/somewhere-in-the-skies/episodes/patreon-bonus-episode-sneak-peek",
+      "platform": "Acast"
+    }
+  ],
+  "officialLinks": [],
+  "referenceSources": [
+    {
+      "label": "Official Somewhere in the Skies hosted episode page",
+      "url": "https://shows.acast.com/somewhere-in-the-skies/episodes/patreon-bonus-episode-sneak-peek",
+      "sourceType": "official_episode_page",
+      "role": "source"
+    },
+    {
+      "label": "Apple Podcasts series archive",
+      "url": "https://podcasts.apple.com/us/podcast/somewhere-in-the-skies/id1227858637",
+      "sourceType": "authoritative_directory",
+      "role": "verification"
+    }
+  ]
+}

@@ -1,0 +1,861 @@
+{
+  "release": "V23.2",
+  "approvalStatus": "approved",
+  "records": [
+    {
+      "releaseId": "2017-somewhere-in-the-skies-episode-1",
+      "engineVersion": "23.0",
+      "contentClass": "Standard Episode",
+      "episodeType": "Interview",
+      "primaryTopics": [
+        "uap-research"
+      ],
+      "secondaryTopics": [
+        "investigators-and-researchers"
+      ],
+      "researchAccelerator": "standard",
+      "confidence": 92,
+      "reviewRequired": false,
+      "approval": {
+        "status": "approved",
+        "approvedForImport": true,
+        "reviewedBy": "V23.2 production review",
+        "reviewedAt": "2026-07-27"
+      }
+    },
+    {
+      "releaseId": "2017-somewhere-in-the-skies-episode-2",
+      "engineVersion": "23.0",
+      "contentClass": "Research Episode",
+      "episodeType": "Research Discussion",
+      "primaryTopics": [
+        "uap-research"
+      ],
+      "secondaryTopics": [
+        "investigators-and-researchers",
+        "ufo-history"
+      ],
+      "researchAccelerator": "full",
+      "confidence": 92,
+      "reviewRequired": false,
+      "approval": {
+        "status": "approved",
+        "approvedForImport": true,
+        "reviewedBy": "V23.2 production review",
+        "reviewedAt": "2026-07-27"
+      }
+    },
+    {
+      "releaseId": "2017-somewhere-in-the-skies-episode-3",
+      "engineVersion": "23.0",
+      "contentClass": "Standard Episode",
+      "episodeType": "Research Discussion",
+      "primaryTopics": [
+        "uap-research"
+      ],
+      "secondaryTopics": [
+        "investigators-and-researchers",
+        "ufo-history"
+      ],
+      "researchAccelerator": "standard",
+      "confidence": 92,
+      "reviewRequired": false,
+      "approval": {
+        "status": "approved",
+        "approvedForImport": true,
+        "reviewedBy": "V23.2 production review",
+        "reviewedAt": "2026-07-27"
+      }
+    },
+    {
+      "releaseId": "2017-somewhere-in-the-skies-episode-4",
+      "engineVersion": "23.0",
+      "contentClass": "Research Episode",
+      "episodeType": "Interview",
+      "primaryTopics": [
+        "uap-research"
+      ],
+      "secondaryTopics": [
+        "investigators-and-researchers"
+      ],
+      "researchAccelerator": "full",
+      "confidence": 92,
+      "reviewRequired": false,
+      "approval": {
+        "status": "approved",
+        "approvedForImport": true,
+        "reviewedBy": "V23.2 production review",
+        "reviewedAt": "2026-07-27"
+      }
+    },
+    {
+      "releaseId": "2017-somewhere-in-the-skies-episode-5",
+      "engineVersion": "23.0",
+      "contentClass": "Research Episode",
+      "episodeType": "Case Investigation",
+      "primaryTopics": [
+        "historical-ufo-cases"
+      ],
+      "secondaryTopics": [
+        "witness-accounts",
+        "uap-research"
+      ],
+      "researchAccelerator": "full",
+      "confidence": 92,
+      "reviewRequired": false,
+      "approval": {
+        "status": "approved",
+        "approvedForImport": true,
+        "reviewedBy": "V23.2 production review",
+        "reviewedAt": "2026-07-27"
+      }
+    },
+    {
+      "releaseId": "2017-somewhere-in-the-skies-episode-6",
+      "engineVersion": "23.0",
+      "contentClass": "Research Episode",
+      "episodeType": "Interview",
+      "primaryTopics": [
+        "uap-research"
+      ],
+      "secondaryTopics": [
+        "investigators-and-researchers",
+        "high-strangeness"
+      ],
+      "researchAccelerator": "full",
+      "confidence": 92,
+      "reviewRequired": false,
+      "approval": {
+        "status": "approved",
+        "approvedForImport": true,
+        "reviewedBy": "V23.2 production review",
+        "reviewedAt": "2026-07-27"
+      }
+    },
+    {
+      "releaseId": "2017-somewhere-in-the-skies-episode-7",
+      "engineVersion": "23.0",
+      "contentClass": "Research Episode",
+      "episodeType": "Case Investigation",
+      "primaryTopics": [
+        "historical-ufo-cases"
+      ],
+      "secondaryTopics": [
+        "witness-accounts",
+        "uap-research"
+      ],
+      "researchAccelerator": "full",
+      "confidence": 92,
+      "reviewRequired": false,
+      "approval": {
+        "status": "approved",
+        "approvedForImport": true,
+        "reviewedBy": "V23.2 production review",
+        "reviewedAt": "2026-07-27"
+      }
+    },
+    {
+      "releaseId": "2017-somewhere-in-the-skies-episode-8",
+      "engineVersion": "23.0",
+      "contentClass": "Research Episode",
+      "episodeType": "Case Investigation",
+      "primaryTopics": [
+        "historical-ufo-cases"
+      ],
+      "secondaryTopics": [
+        "witness-accounts",
+        "uap-research"
+      ],
+      "researchAccelerator": "full",
+      "confidence": 92,
+      "reviewRequired": false,
+      "approval": {
+        "status": "approved",
+        "approvedForImport": true,
+        "reviewedBy": "V23.2 production review",
+        "reviewedAt": "2026-07-27"
+      }
+    },
+    {
+      "releaseId": "2017-somewhere-in-the-skies-episode-9",
+      "engineVersion": "23.0",
+      "contentClass": "Standard Episode",
+      "episodeType": "Film, Television, or Book Discussion",
+      "primaryTopics": [
+        "media-and-popular-culture"
+      ],
+      "secondaryTopics": [
+        "books-and-publications"
+      ],
+      "researchAccelerator": "standard",
+      "confidence": 92,
+      "reviewRequired": false,
+      "approval": {
+        "status": "approved",
+        "approvedForImport": true,
+        "reviewedBy": "V23.2 production review",
+        "reviewedAt": "2026-07-27"
+      }
+    },
+    {
+      "releaseId": "2017-somewhere-in-the-skies-episode-10",
+      "engineVersion": "23.0",
+      "contentClass": "Research Episode",
+      "episodeType": "Research Discussion",
+      "primaryTopics": [
+        "uap-research"
+      ],
+      "secondaryTopics": [
+        "investigators-and-researchers",
+        "ufo-history"
+      ],
+      "researchAccelerator": "full",
+      "confidence": 92,
+      "reviewRequired": false,
+      "approval": {
+        "status": "approved",
+        "approvedForImport": true,
+        "reviewedBy": "V23.2 production review",
+        "reviewedAt": "2026-07-27"
+      }
+    },
+    {
+      "releaseId": "2017-somewhere-in-the-skies-episode-11",
+      "engineVersion": "23.0",
+      "contentClass": "Research Episode",
+      "episodeType": "Case Investigation",
+      "primaryTopics": [
+        "historical-ufo-cases"
+      ],
+      "secondaryTopics": [
+        "witness-accounts",
+        "uap-research"
+      ],
+      "researchAccelerator": "full",
+      "confidence": 92,
+      "reviewRequired": false,
+      "approval": {
+        "status": "approved",
+        "approvedForImport": true,
+        "reviewedBy": "V23.2 production review",
+        "reviewedAt": "2026-07-27"
+      }
+    },
+    {
+      "releaseId": "2017-somewhere-in-the-skies-episode-12",
+      "engineVersion": "23.0",
+      "contentClass": "Standard Episode",
+      "episodeType": "Interview",
+      "primaryTopics": [
+        "uap-research"
+      ],
+      "secondaryTopics": [
+        "investigators-and-researchers"
+      ],
+      "researchAccelerator": "standard",
+      "confidence": 92,
+      "reviewRequired": false,
+      "approval": {
+        "status": "approved",
+        "approvedForImport": true,
+        "reviewedBy": "V23.2 production review",
+        "reviewedAt": "2026-07-27"
+      }
+    },
+    {
+      "releaseId": "2017-somewhere-in-the-skies-episode-13",
+      "engineVersion": "23.0",
+      "contentClass": "Standard Episode",
+      "episodeType": "Film, Television, or Book Discussion",
+      "primaryTopics": [
+        "media-and-popular-culture"
+      ],
+      "secondaryTopics": [
+        "books-and-publications"
+      ],
+      "researchAccelerator": "standard",
+      "confidence": 92,
+      "reviewRequired": false,
+      "approval": {
+        "status": "approved",
+        "approvedForImport": true,
+        "reviewedBy": "V23.2 production review",
+        "reviewedAt": "2026-07-27"
+      }
+    },
+    {
+      "releaseId": "2017-somewhere-in-the-skies-episode-14",
+      "engineVersion": "23.0",
+      "contentClass": "Research Episode",
+      "episodeType": "Interview",
+      "primaryTopics": [
+        "uap-research"
+      ],
+      "secondaryTopics": [
+        "investigators-and-researchers"
+      ],
+      "researchAccelerator": "full",
+      "confidence": 92,
+      "reviewRequired": false,
+      "approval": {
+        "status": "approved",
+        "approvedForImport": true,
+        "reviewedBy": "V23.2 production review",
+        "reviewedAt": "2026-07-27"
+      }
+    },
+    {
+      "releaseId": "2017-somewhere-in-the-skies-episode-15",
+      "engineVersion": "23.0",
+      "contentClass": "Standard Episode",
+      "episodeType": "Film, Television, or Book Discussion",
+      "primaryTopics": [
+        "media-and-popular-culture"
+      ],
+      "secondaryTopics": [
+        "books-and-publications"
+      ],
+      "researchAccelerator": "standard",
+      "confidence": 92,
+      "reviewRequired": false,
+      "approval": {
+        "status": "approved",
+        "approvedForImport": true,
+        "reviewedBy": "V23.2 production review",
+        "reviewedAt": "2026-07-27"
+      }
+    },
+    {
+      "releaseId": "2017-somewhere-in-the-skies-episode-16",
+      "engineVersion": "23.0",
+      "contentClass": "Standard Episode",
+      "episodeType": "Film, Television, or Book Discussion",
+      "primaryTopics": [
+        "media-and-popular-culture"
+      ],
+      "secondaryTopics": [
+        "books-and-publications"
+      ],
+      "researchAccelerator": "standard",
+      "confidence": 92,
+      "reviewRequired": false,
+      "approval": {
+        "status": "approved",
+        "approvedForImport": true,
+        "reviewedBy": "V23.2 production review",
+        "reviewedAt": "2026-07-27"
+      }
+    },
+    {
+      "releaseId": "2017-somewhere-in-the-skies-episode-17",
+      "engineVersion": "23.0",
+      "contentClass": "Research Episode",
+      "episodeType": "Research Discussion",
+      "primaryTopics": [
+        "uap-research"
+      ],
+      "secondaryTopics": [
+        "investigators-and-researchers",
+        "ufo-history"
+      ],
+      "researchAccelerator": "full",
+      "confidence": 92,
+      "reviewRequired": false,
+      "approval": {
+        "status": "approved",
+        "approvedForImport": true,
+        "reviewedBy": "V23.2 production review",
+        "reviewedAt": "2026-07-27"
+      }
+    },
+    {
+      "releaseId": "2017-somewhere-in-the-skies-episode-18",
+      "engineVersion": "23.0",
+      "contentClass": "Research Episode",
+      "episodeType": "Research Discussion",
+      "primaryTopics": [
+        "uap-research"
+      ],
+      "secondaryTopics": [
+        "investigators-and-researchers",
+        "ufo-history"
+      ],
+      "researchAccelerator": "full",
+      "confidence": 92,
+      "reviewRequired": false,
+      "approval": {
+        "status": "approved",
+        "approvedForImport": true,
+        "reviewedBy": "V23.2 production review",
+        "reviewedAt": "2026-07-27"
+      }
+    },
+    {
+      "releaseId": "2017-somewhere-in-the-skies-episode-19",
+      "engineVersion": "23.0",
+      "contentClass": "Research Episode",
+      "episodeType": "Case Investigation",
+      "primaryTopics": [
+        "historical-ufo-cases"
+      ],
+      "secondaryTopics": [
+        "witness-accounts",
+        "uap-research"
+      ],
+      "researchAccelerator": "full",
+      "confidence": 92,
+      "reviewRequired": false,
+      "approval": {
+        "status": "approved",
+        "approvedForImport": true,
+        "reviewedBy": "V23.2 production review",
+        "reviewedAt": "2026-07-27"
+      }
+    },
+    {
+      "releaseId": "2017-somewhere-in-the-skies-episode-20",
+      "engineVersion": "23.0",
+      "contentClass": "Standard Episode",
+      "episodeType": "Roundtable",
+      "primaryTopics": [
+        "high-strangeness"
+      ],
+      "secondaryTopics": [
+        "ufo-history"
+      ],
+      "researchAccelerator": "standard",
+      "confidence": 92,
+      "reviewRequired": false,
+      "approval": {
+        "status": "approved",
+        "approvedForImport": true,
+        "reviewedBy": "V23.2 production review",
+        "reviewedAt": "2026-07-27"
+      }
+    },
+    {
+      "releaseId": "2017-somewhere-in-the-skies-episode-21",
+      "engineVersion": "23.0",
+      "contentClass": "Standard Episode",
+      "episodeType": "Roundtable",
+      "primaryTopics": [
+        "uap-research"
+      ],
+      "secondaryTopics": [
+        "ufo-history",
+        "high-strangeness"
+      ],
+      "researchAccelerator": "standard",
+      "confidence": 92,
+      "reviewRequired": false,
+      "approval": {
+        "status": "approved",
+        "approvedForImport": true,
+        "reviewedBy": "V23.2 production review",
+        "reviewedAt": "2026-07-27"
+      }
+    },
+    {
+      "releaseId": "2017-somewhere-in-the-skies-episode-22",
+      "engineVersion": "23.0",
+      "contentClass": "Research Episode",
+      "episodeType": "Research Discussion",
+      "primaryTopics": [
+        "uap-research"
+      ],
+      "secondaryTopics": [
+        "investigators-and-researchers",
+        "ufo-history"
+      ],
+      "researchAccelerator": "full",
+      "confidence": 92,
+      "reviewRequired": false,
+      "approval": {
+        "status": "approved",
+        "approvedForImport": true,
+        "reviewedBy": "V23.2 production review",
+        "reviewedAt": "2026-07-27"
+      }
+    },
+    {
+      "releaseId": "2017-somewhere-in-the-skies-episode-23",
+      "engineVersion": "23.0",
+      "contentClass": "Standard Episode",
+      "episodeType": "Film, Television, or Book Discussion",
+      "primaryTopics": [
+        "media-and-popular-culture"
+      ],
+      "secondaryTopics": [
+        "books-and-publications"
+      ],
+      "researchAccelerator": "standard",
+      "confidence": 92,
+      "reviewRequired": false,
+      "approval": {
+        "status": "approved",
+        "approvedForImport": true,
+        "reviewedBy": "V23.2 production review",
+        "reviewedAt": "2026-07-27"
+      }
+    },
+    {
+      "releaseId": "2017-somewhere-in-the-skies-episode-24",
+      "engineVersion": "23.0",
+      "contentClass": "Research Episode",
+      "episodeType": "Case Investigation",
+      "primaryTopics": [
+        "historical-ufo-cases"
+      ],
+      "secondaryTopics": [
+        "witness-accounts",
+        "uap-research",
+        "high-strangeness"
+      ],
+      "researchAccelerator": "full",
+      "confidence": 92,
+      "reviewRequired": false,
+      "approval": {
+        "status": "approved",
+        "approvedForImport": true,
+        "reviewedBy": "V23.2 production review",
+        "reviewedAt": "2026-07-27"
+      }
+    },
+    {
+      "releaseId": "2017-somewhere-in-the-skies-episode-25",
+      "engineVersion": "23.0",
+      "contentClass": "Research Episode",
+      "episodeType": "Case Investigation",
+      "primaryTopics": [
+        "historical-ufo-cases"
+      ],
+      "secondaryTopics": [
+        "witness-accounts",
+        "uap-research"
+      ],
+      "researchAccelerator": "full",
+      "confidence": 92,
+      "reviewRequired": false,
+      "approval": {
+        "status": "approved",
+        "approvedForImport": true,
+        "reviewedBy": "V23.2 production review",
+        "reviewedAt": "2026-07-27"
+      }
+    },
+    {
+      "releaseId": "2017-somewhere-in-the-skies-episode-26",
+      "engineVersion": "23.0",
+      "contentClass": "Research Episode",
+      "episodeType": "Research Discussion",
+      "primaryTopics": [
+        "uap-research"
+      ],
+      "secondaryTopics": [
+        "investigators-and-researchers",
+        "ufo-history",
+        "high-strangeness"
+      ],
+      "researchAccelerator": "full",
+      "confidence": 92,
+      "reviewRequired": false,
+      "approval": {
+        "status": "approved",
+        "approvedForImport": true,
+        "reviewedBy": "V23.2 production review",
+        "reviewedAt": "2026-07-27"
+      }
+    },
+    {
+      "releaseId": "2017-somewhere-in-the-skies-episode-27",
+      "engineVersion": "23.0",
+      "contentClass": "Standard Episode",
+      "episodeType": "Film, Television, or Book Discussion",
+      "primaryTopics": [
+        "media-and-popular-culture"
+      ],
+      "secondaryTopics": [
+        "books-and-publications",
+        "high-strangeness"
+      ],
+      "researchAccelerator": "standard",
+      "confidence": 92,
+      "reviewRequired": false,
+      "approval": {
+        "status": "approved",
+        "approvedForImport": true,
+        "reviewedBy": "V23.2 production review",
+        "reviewedAt": "2026-07-27"
+      }
+    },
+    {
+      "releaseId": "2017-somewhere-in-the-skies-episode-28",
+      "engineVersion": "23.0",
+      "contentClass": "Standard Episode",
+      "episodeType": "Interview",
+      "primaryTopics": [
+        "uap-research"
+      ],
+      "secondaryTopics": [
+        "investigators-and-researchers"
+      ],
+      "researchAccelerator": "standard",
+      "confidence": 92,
+      "reviewRequired": false,
+      "approval": {
+        "status": "approved",
+        "approvedForImport": true,
+        "reviewedBy": "V23.2 production review",
+        "reviewedAt": "2026-07-27"
+      }
+    },
+    {
+      "releaseId": "2017-somewhere-in-the-skies-episode-29",
+      "engineVersion": "23.0",
+      "contentClass": "Research Episode",
+      "episodeType": "Case Investigation",
+      "primaryTopics": [
+        "historical-ufo-cases"
+      ],
+      "secondaryTopics": [
+        "witness-accounts",
+        "uap-research",
+        "high-strangeness"
+      ],
+      "researchAccelerator": "full",
+      "confidence": 92,
+      "reviewRequired": false,
+      "approval": {
+        "status": "approved",
+        "approvedForImport": true,
+        "reviewedBy": "V23.2 production review",
+        "reviewedAt": "2026-07-27"
+      }
+    },
+    {
+      "releaseId": "2017-somewhere-in-the-skies-episode-30",
+      "engineVersion": "23.0",
+      "contentClass": "Research Episode",
+      "episodeType": "Case Investigation",
+      "primaryTopics": [
+        "historical-ufo-cases"
+      ],
+      "secondaryTopics": [
+        "witness-accounts",
+        "uap-research"
+      ],
+      "researchAccelerator": "full",
+      "confidence": 92,
+      "reviewRequired": false,
+      "approval": {
+        "status": "approved",
+        "approvedForImport": true,
+        "reviewedBy": "V23.2 production review",
+        "reviewedAt": "2026-07-27"
+      }
+    },
+    {
+      "releaseId": "2017-somewhere-in-the-skies-episode-31",
+      "engineVersion": "23.0",
+      "contentClass": "Standard Episode",
+      "episodeType": "Film, Television, or Book Discussion",
+      "primaryTopics": [
+        "media-and-popular-culture"
+      ],
+      "secondaryTopics": [
+        "books-and-publications"
+      ],
+      "researchAccelerator": "standard",
+      "confidence": 92,
+      "reviewRequired": false,
+      "approval": {
+        "status": "approved",
+        "approvedForImport": true,
+        "reviewedBy": "V23.2 production review",
+        "reviewedAt": "2026-07-27"
+      }
+    },
+    {
+      "releaseId": "2017-somewhere-in-the-skies-episode-32",
+      "engineVersion": "23.0",
+      "contentClass": "Standard Episode",
+      "episodeType": "Interview",
+      "primaryTopics": [
+        "uap-research"
+      ],
+      "secondaryTopics": [
+        "investigators-and-researchers"
+      ],
+      "researchAccelerator": "standard",
+      "confidence": 92,
+      "reviewRequired": false,
+      "approval": {
+        "status": "approved",
+        "approvedForImport": true,
+        "reviewedBy": "V23.2 production review",
+        "reviewedAt": "2026-07-27"
+      }
+    },
+    {
+      "releaseId": "2017-somewhere-in-the-skies-episode-33",
+      "engineVersion": "23.0",
+      "contentClass": "Research Episode",
+      "episodeType": "Case Investigation",
+      "primaryTopics": [
+        "historical-ufo-cases"
+      ],
+      "secondaryTopics": [
+        "witness-accounts",
+        "uap-research"
+      ],
+      "researchAccelerator": "full",
+      "confidence": 92,
+      "reviewRequired": false,
+      "approval": {
+        "status": "approved",
+        "approvedForImport": true,
+        "reviewedBy": "V23.2 production review",
+        "reviewedAt": "2026-07-27"
+      }
+    },
+    {
+      "releaseId": "2017-somewhere-in-the-skies-episode-34",
+      "engineVersion": "23.0",
+      "contentClass": "Research Episode",
+      "episodeType": "Witness Account",
+      "primaryTopics": [
+        "witness-accounts"
+      ],
+      "secondaryTopics": [
+        "uap-research"
+      ],
+      "researchAccelerator": "full",
+      "confidence": 92,
+      "reviewRequired": false,
+      "approval": {
+        "status": "approved",
+        "approvedForImport": true,
+        "reviewedBy": "V23.2 production review",
+        "reviewedAt": "2026-07-27"
+      }
+    },
+    {
+      "releaseId": "2017-somewhere-in-the-skies-episode-35",
+      "engineVersion": "23.0",
+      "contentClass": "Standard Episode",
+      "episodeType": "Film, Television, or Book Discussion",
+      "primaryTopics": [
+        "media-and-popular-culture"
+      ],
+      "secondaryTopics": [
+        "books-and-publications"
+      ],
+      "researchAccelerator": "standard",
+      "confidence": 92,
+      "reviewRequired": false,
+      "approval": {
+        "status": "approved",
+        "approvedForImport": true,
+        "reviewedBy": "V23.2 production review",
+        "reviewedAt": "2026-07-27"
+      }
+    },
+    {
+      "releaseId": "2017-somewhere-in-the-skies-episode-36",
+      "engineVersion": "23.0",
+      "contentClass": "Standard Episode",
+      "episodeType": "Roundtable",
+      "primaryTopics": [
+        "uap-research"
+      ],
+      "secondaryTopics": [
+        "ufo-history"
+      ],
+      "researchAccelerator": "standard",
+      "confidence": 92,
+      "reviewRequired": false,
+      "approval": {
+        "status": "approved",
+        "approvedForImport": true,
+        "reviewedBy": "V23.2 production review",
+        "reviewedAt": "2026-07-27"
+      }
+    },
+    {
+      "releaseId": "2017-somewhere-in-the-skies-bonus-episode-reviewing-it-with-andrew-sanford",
+      "engineVersion": "23.0",
+      "contentClass": "Catalog Record",
+      "episodeType": "Bonus",
+      "primaryTopics": [
+        "media-and-popular-culture"
+      ],
+      "secondaryTopics": [],
+      "researchAccelerator": "catalog",
+      "confidence": 96,
+      "reviewRequired": false,
+      "approval": {
+        "status": "approved",
+        "approvedForImport": true,
+        "reviewedBy": "V23.2 production review",
+        "reviewedAt": "2026-07-27"
+      }
+    },
+    {
+      "releaseId": "2017-somewhere-in-the-skies-patreon-bonus-episode-sneak-peek",
+      "engineVersion": "23.0",
+      "contentClass": "Catalog Record",
+      "episodeType": "Preview or Promotional Release",
+      "primaryTopics": [
+        "media-and-popular-culture"
+      ],
+      "secondaryTopics": [],
+      "researchAccelerator": "catalog",
+      "confidence": 96,
+      "reviewRequired": false,
+      "approval": {
+        "status": "approved",
+        "approvedForImport": true,
+        "reviewedBy": "V23.2 production review",
+        "reviewedAt": "2026-07-27"
+      }
+    },
+    {
+      "releaseId": "2017-somewhere-in-the-skies-bonus-episode-movie-review-edition-justice-league",
+      "engineVersion": "23.0",
+      "contentClass": "Catalog Record",
+      "episodeType": "Bonus",
+      "primaryTopics": [
+        "media-and-popular-culture"
+      ],
+      "secondaryTopics": [],
+      "researchAccelerator": "catalog",
+      "confidence": 96,
+      "reviewRequired": false,
+      "approval": {
+        "status": "approved",
+        "approvedForImport": true,
+        "reviewedBy": "V23.2 production review",
+        "reviewedAt": "2026-07-27"
+      }
+    },
+    {
+      "releaseId": "2017-somewhere-in-the-skies-bonus-episode-movie-review-edition-the-last-jedi",
+      "engineVersion": "23.0",
+      "contentClass": "Catalog Record",
+      "episodeType": "Bonus",
+      "primaryTopics": [
+        "media-and-popular-culture"
+      ],
+      "secondaryTopics": [],
+      "researchAccelerator": "catalog",
+      "confidence": 96,
+      "reviewRequired": false,
+      "approval": {
+        "status": "approved",
+        "approvedForImport": true,
+        "reviewedBy": "V23.2 production review",
+        "reviewedAt": "2026-07-27"
+      }
+    }
+  ]
+}

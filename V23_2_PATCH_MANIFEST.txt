@@ -1,0 +1,21 @@
+GreyAlien V23.2 — Somewhere in the Skies 2017 Podcast Integration
+Base: V23.1
+
+Added:
+- 40 podcast episode entities
+- 2017 populated gateway archive
+- approved V23 classification batch
+- archive reconciliation and release documentation
+- narrowly required canonical topic entities
+
+Updated:
+- Latest Additions
+- Development Updates
+- CHANGELOG
+- README
+- PODCAST_AUDIT
+- Somewhere in the Skies gateway documentation
+- V23 workflow documentation
+- release summary, graph, entity index, related content, pages, and sitemap
+
+No unrelated architecture, schema, rendering, routing, navigation, or styling changes.

@@ -1,0 +1,71 @@
+{
+  "id": "2017-somewhere-in-the-skies-bonus-episode-reviewing-it-with-andrew-sanford",
+  "type": "podcast_episode",
+  "name": "Somewhere in the Skies Special — BONUS EPISODE : Reviewing \"IT\" with Andrew Sanford",
+  "summary": "Ryan Sprague presents a bonus focused on Reviewing \"IT\" with Andrew Sanford. This 2017 Somewhere in the Skies release is indexed with source-grounded topics and direct archive references.",
+  "date": "2017-09-10",
+  "dateDisplay": "September 10, 2017",
+  "seriesId": "somewhere-in-the-skies-podcast",
+  "episodeNumber": null,
+  "episodeTitle": "BONUS EPISODE : Reviewing \"IT\" with Andrew Sanford",
+  "status": "Published",
+  "mediaType": "Podcast episode",
+  "mediaPlatform": "Somewhere in the Skies",
+  "mediaHost": "Ryan Sprague",
+  "mediaGuests": [
+    "BONUS EPISODE"
+  ],
+  "mediaSubjects": [
+    "media-and-popular-culture"
+  ],
+  "contentClass": "Catalog Record",
+  "episodeType": "Bonus",
+  "primaryTopics": [
+    "media-and-popular-culture"
+  ],
+  "secondaryTopics": [],
+  "researchAcceleratorDecision": {
+    "processing": "catalog",
+    "confidence": "high",
+    "approvalStatus": "approved",
+    "internalRationale": "Official title, date, numbering, and description signals support this classification."
+  },
+  "relationships": [
+    {
+      "type": "episode_of",
+      "target": "somewhere-in-the-skies-podcast"
+    },
+    {
+      "type": "features_person",
+      "target": "ryan-sprague",
+      "role": "host",
+      "context": "Creator and host of Somewhere in the Skies"
+    },
+    {
+      "type": "discussed_topic",
+      "target": "media-and-popular-culture"
+    }
+  ],
+  "mediaLinks": [
+    {
+      "label": "Open official episode page",
+      "url": "https://shows.acast.com/somewhere-in-the-skies/episodes/bonus-episode-reviewing-it-with-andrew-sanford",
+      "platform": "Acast"
+    }
+  ],
+  "officialLinks": [],
+  "referenceSources": [
+    {
+      "label": "Official Somewhere in the Skies hosted episode page",
+      "url": "https://shows.acast.com/somewhere-in-the-skies/episodes/bonus-episode-reviewing-it-with-andrew-sanford",
+      "sourceType": "official_episode_page",
+      "role": "source"
+    },
+    {
+      "label": "Apple Podcasts series archive",
+      "url": "https://podcasts.apple.com/us/podcast/somewhere-in-the-skies/id1227858637",
+      "sourceType": "authoritative_directory",
+      "role": "verification"
+    }
+  ]
+}

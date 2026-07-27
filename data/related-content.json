@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "generatedBy": "tools/build_related_content.py",
-  "generatedAt": "2026-07-25T19:31:10.059962+00:00",
+  "generatedAt": "2026-07-27T21:59:22.238100+00:00",
   "referencedIn": {
     "1946-scandinavian-ghost-rockets": [
       {
@@ -559,6 +559,46 @@
         "context": "Central incident and video examined in the episode"
       }
     ],
+    "2017-somewhere-in-the-skies-bonus-episode-movie-review-edition-justice-league": [],
+    "2017-somewhere-in-the-skies-bonus-episode-movie-review-edition-the-last-jedi": [],
+    "2017-somewhere-in-the-skies-bonus-episode-reviewing-it-with-andrew-sanford": [],
+    "2017-somewhere-in-the-skies-episode-1": [],
+    "2017-somewhere-in-the-skies-episode-10": [],
+    "2017-somewhere-in-the-skies-episode-11": [],
+    "2017-somewhere-in-the-skies-episode-12": [],
+    "2017-somewhere-in-the-skies-episode-13": [],
+    "2017-somewhere-in-the-skies-episode-14": [],
+    "2017-somewhere-in-the-skies-episode-15": [],
+    "2017-somewhere-in-the-skies-episode-16": [],
+    "2017-somewhere-in-the-skies-episode-17": [],
+    "2017-somewhere-in-the-skies-episode-18": [],
+    "2017-somewhere-in-the-skies-episode-19": [],
+    "2017-somewhere-in-the-skies-episode-2": [],
+    "2017-somewhere-in-the-skies-episode-20": [],
+    "2017-somewhere-in-the-skies-episode-21": [],
+    "2017-somewhere-in-the-skies-episode-22": [],
+    "2017-somewhere-in-the-skies-episode-23": [],
+    "2017-somewhere-in-the-skies-episode-24": [],
+    "2017-somewhere-in-the-skies-episode-25": [],
+    "2017-somewhere-in-the-skies-episode-26": [],
+    "2017-somewhere-in-the-skies-episode-27": [],
+    "2017-somewhere-in-the-skies-episode-28": [],
+    "2017-somewhere-in-the-skies-episode-29": [],
+    "2017-somewhere-in-the-skies-episode-3": [],
+    "2017-somewhere-in-the-skies-episode-30": [],
+    "2017-somewhere-in-the-skies-episode-31": [],
+    "2017-somewhere-in-the-skies-episode-32": [],
+    "2017-somewhere-in-the-skies-episode-33": [],
+    "2017-somewhere-in-the-skies-episode-34": [],
+    "2017-somewhere-in-the-skies-episode-35": [],
+    "2017-somewhere-in-the-skies-episode-36": [],
+    "2017-somewhere-in-the-skies-episode-4": [],
+    "2017-somewhere-in-the-skies-episode-5": [],
+    "2017-somewhere-in-the-skies-episode-6": [],
+    "2017-somewhere-in-the-skies-episode-7": [],
+    "2017-somewhere-in-the-skies-episode-8": [],
+    "2017-somewhere-in-the-skies-episode-9": [],
+    "2017-somewhere-in-the-skies-patreon-bonus-episode-sneak-peek": [],
     "2018-bob-lazar-area-51-flying-saucers": [
       {
         "id": "bob-lazar",
@@ -10789,6 +10829,72 @@
         "context": "Central subject of the episode"
       }
     ],
+    "books-and-publications": [
+      {
+        "id": "2017-somewhere-in-the-skies-episode-13",
+        "type": "podcast_episode",
+        "name": "Somewhere in the Skies Episode #13 — Mike Damante: Punk Rock and UFOs",
+        "relationshipType": "discussed_topic",
+        "role": "",
+        "context": ""
+      },
+      {
+        "id": "2017-somewhere-in-the-skies-episode-15",
+        "type": "podcast_episode",
+        "name": "Somewhere in the Skies Episode #15 — David Jenkins: People of Earth",
+        "relationshipType": "discussed_topic",
+        "role": "",
+        "context": ""
+      },
+      {
+        "id": "2017-somewhere-in-the-skies-episode-16",
+        "type": "podcast_episode",
+        "name": "Somewhere in the Skies Episode #16 — Sammy Waisanen: The Howl Horror Program and Fire in the Sky",
+        "relationshipType": "discussed_topic",
+        "role": "",
+        "context": ""
+      },
+      {
+        "id": "2017-somewhere-in-the-skies-episode-23",
+        "type": "podcast_episode",
+        "name": "Somewhere in the Skies Episode #23 — The Truth Is Out There with the Guilty Pleasure Podcast",
+        "relationshipType": "discussed_topic",
+        "role": "",
+        "context": ""
+      },
+      {
+        "id": "2017-somewhere-in-the-skies-episode-27",
+        "type": "podcast_episode",
+        "name": "Somewhere in the Skies Episode #27 — Aaron Mahnke: The Story Behind LORE",
+        "relationshipType": "discussed_topic",
+        "role": "",
+        "context": ""
+      },
+      {
+        "id": "2017-somewhere-in-the-skies-episode-31",
+        "type": "podcast_episode",
+        "name": "Somewhere in the Skies Episode #31 — Robbie Graham: Silver Screen Saucers",
+        "relationshipType": "discussed_topic",
+        "role": "",
+        "context": ""
+      },
+      {
+        "id": "2017-somewhere-in-the-skies-episode-35",
+        "type": "podcast_episode",
+        "name": "Somewhere in the Skies Episode #35 — Paul Cornell: Saucer Country",
+        "relationshipType": "discussed_topic",
+        "role": "",
+        "context": ""
+      },
+      {
+        "id": "2017-somewhere-in-the-skies-episode-9",
+        "type": "podcast_episode",
+        "name": "Somewhere in the Skies Episode #9 — Andrew Sanford: Flying Saucers v.s. The Half White Son of a Black Man",
+        "relationshipType": "discussed_topic",
+        "role": "",
+        "context": ""
+      }
+    ],
     "boris-sokolov": [
       {
         "id": "2026-weaponized-episode-107",
@@ -13977,6 +14083,7 @@
         "context": ""
       }
     ],
+    "consciousness": [],
     "contact-in-the-desert": [
       {
         "id": "2025-need-to-know-episode-64",
@@ -15390,6 +15497,7 @@
       }
     ],
     "federica-bianco": [],
+    "film-and-television": [],
     "five-eyes": [
       {
         "id": "2023-weaponized-episode-22",
@@ -16608,6 +16716,7 @@
         "context": "Discussed in the episode"
       }
     ],
+    "government-disclosure": [],
     "government-transparency": [
       {
         "id": "claim-secret-uap-programs",
@@ -17979,6 +18088,146 @@
       }
     ],
     "hector-quintanilla": [],
+    "high-strangeness": [
+      {
+        "id": "2017-somewhere-in-the-skies-episode-20",
+        "type": "podcast_episode",
+        "name": "Somewhere in the Skies Episode #20 — Spooked in Nova Scotia: A Paranormal Roundtable",
+        "relationshipType": "discussed_topic",
+        "role": "",
+        "context": ""
+      },
+      {
+        "id": "2017-somewhere-in-the-skies-episode-21",
+        "type": "podcast_episode",
+        "name": "Somewhere in the Skies Episode #21 — Jason McClellan: Beers, Ghosts, and UFOs",
+        "relationshipType": "discussed_topic",
+        "role": "",
+        "context": ""
+      },
+      {
+        "id": "2017-somewhere-in-the-skies-episode-24",
+        "type": "podcast_episode",
+        "name": "Somewhere in the Skies Episode #24 — Chris Garetano: Dark Files and the Montauk Project",
+        "relationshipType": "discussed_topic",
+        "role": "",
+        "context": ""
+      },
+      {
+        "id": "2017-somewhere-in-the-skies-episode-26",
+        "type": "podcast_episode",
+        "name": "Somewhere in the Skies Episode #26 — Karl Pfeiffer: The Science and Philosophy of the Paranormal",
+        "relationshipType": "discussed_topic",
+        "role": "",
+        "context": ""
+      },
+      {
+        "id": "2017-somewhere-in-the-skies-episode-27",
+        "type": "podcast_episode",
+        "name": "Somewhere in the Skies Episode #27 — Aaron Mahnke: The Story Behind LORE",
+        "relationshipType": "discussed_topic",
+        "role": "",
+        "context": ""
+      },
+      {
+        "id": "2017-somewhere-in-the-skies-episode-29",
+        "type": "podcast_episode",
+        "name": "Somewhere in the Skies Episode #29 — Brian Bethel: Black Eyed Kid Phenomenon",
+        "relationshipType": "discussed_topic",
+        "role": "",
+        "context": ""
+      },
+      {
+        "id": "2017-somewhere-in-the-skies-episode-6",
+        "type": "podcast_episode",
+        "name": "Somewhere in the Skies Episode #6 — Susan Demeter-St. Clair : UFOs and the Parapsychological",
+        "relationshipType": "discussed_topic",
+        "role": "",
+        "context": ""
+      }
+    ],
+    "historical-ufo-cases": [
+      {
+        "id": "2017-somewhere-in-the-skies-episode-11",
+        "type": "podcast_episode",
+        "name": "Somewhere in the Skies Episode #11 — Erica Lukes: Dugway, Skinwalker Ranch, and UFOs over Utah",
+        "relationshipType": "discussed_topic",
+        "role": "",
+        "context": ""
+      },
+      {
+        "id": "2017-somewhere-in-the-skies-episode-19",
+        "type": "podcast_episode",
+        "name": "Somewhere in the Skies Episode #19 — Ben Mezrich: The 37th Parallel",
+        "relationshipType": "discussed_topic",
+        "role": "",
+        "context": ""
+      },
+      {
+        "id": "2017-somewhere-in-the-skies-episode-24",
+        "type": "podcast_episode",
+        "name": "Somewhere in the Skies Episode #24 — Chris Garetano: Dark Files and the Montauk Project",
+        "relationshipType": "discussed_topic",
+        "role": "",
+        "context": ""
+      },
+      {
+        "id": "2017-somewhere-in-the-skies-episode-25",
+        "type": "podcast_episode",
+        "name": "Somewhere in the Skies Episode #25 — Seth Breedlove: Invasion on Chestnut Ridge",
+        "relationshipType": "discussed_topic",
+        "role": "",
+        "context": ""
+      },
+      {
+        "id": "2017-somewhere-in-the-skies-episode-29",
+        "type": "podcast_episode",
+        "name": "Somewhere in the Skies Episode #29 — Brian Bethel: Black Eyed Kid Phenomenon",
+        "relationshipType": "discussed_topic",
+        "role": "",
+        "context": ""
+      },
+      {
+        "id": "2017-somewhere-in-the-skies-episode-30",
+        "type": "podcast_episode",
+        "name": "Somewhere in the Skies Episode #30 — The Andreasson Abduction",
+        "relationshipType": "discussed_topic",
+        "role": "",
+        "context": ""
+      },
+      {
+        "id": "2017-somewhere-in-the-skies-episode-33",
+        "type": "podcast_episode",
+        "name": "Somewhere in the Skies Episode #33 — Michael Huntington: Childhood UFO Encounters",
+        "relationshipType": "discussed_topic",
+        "role": "",
+        "context": ""
+      },
+      {
+        "id": "2017-somewhere-in-the-skies-episode-5",
+        "type": "podcast_episode",
+        "name": "Somewhere in the Skies Episode #5 — Ruben Uriarte: UFOs Over Mexico and the Southwest",
+        "relationshipType": "discussed_topic",
+        "role": "",
+        "context": ""
+      },
+      {
+        "id": "2017-somewhere-in-the-skies-episode-7",
+        "type": "podcast_episode",
+        "name": "Somewhere in the Skies Episode #7 — Nick Redfern: The Roswell UFO Conspiracy",
+        "relationshipType": "discussed_topic",
+        "role": "",
+        "context": ""
+      },
+      {
+        "id": "2017-somewhere-in-the-skies-episode-8",
+        "type": "podcast_episode",
+        "name": "Somewhere in the Skies Episode #8 — Jane Kyle: UFOs Over Texas",
+        "relationshipType": "discussed_topic",
+        "role": "",
+        "context": ""
+      }
+    ],
     "historical-ufo-research": [
       {
         "id": "1966-04-05-house-ufo-hearing",
@@ -18499,6 +18748,120 @@
         "context": "Complaint was submitted through intelligence-community oversight channels"
       }
     ],
+    "investigators-and-researchers": [
+      {
+        "id": "2017-somewhere-in-the-skies-episode-1",
+        "type": "podcast_episode",
+        "name": "Somewhere in the Skies Episode #1 — Richard Dolan: Media Bias in UFO Coverage",
+        "relationshipType": "discussed_topic",
+        "role": "",
+        "context": ""
+      },
+      {
+        "id": "2017-somewhere-in-the-skies-episode-10",
+        "type": "podcast_episode",
+        "name": "Somewhere in the Skies Episode #10 — Mark O'Connell: The Close Encounters Man",
+        "relationshipType": "discussed_topic",
+        "role": "",
+        "context": ""
+      },
+      {
+        "id": "2017-somewhere-in-the-skies-episode-12",
+        "type": "podcast_episode",
+        "name": "Somewhere in the Skies Episode #12 — Simon Sharman: Cosmic Whistleblowers",
+        "relationshipType": "discussed_topic",
+        "role": "",
+        "context": ""
+      },
+      {
+        "id": "2017-somewhere-in-the-skies-episode-14",
+        "type": "podcast_episode",
+        "name": "Somewhere in the Skies Episode #14 — Jeremy Corbell: UFOs as a Clockwork Orange",
+        "relationshipType": "discussed_topic",
+        "role": "",
+        "context": ""
+      },
+      {
+        "id": "2017-somewhere-in-the-skies-episode-17",
+        "type": "podcast_episode",
+        "name": "Somewhere in the Skies Episode #17 — Peter Robbins: Imagery, Reality, and UFOs: Sorting Truth From Fiction",
+        "relationshipType": "discussed_topic",
+        "role": "",
+        "context": ""
+      },
+      {
+        "id": "2017-somewhere-in-the-skies-episode-18",
+        "type": "podcast_episode",
+        "name": "Somewhere in the Skies Episode #18 — MJ Banias: Whiskey, UFOs, and Shaking the ET Hypothesis",
+        "relationshipType": "discussed_topic",
+        "role": "",
+        "context": ""
+      },
+      {
+        "id": "2017-somewhere-in-the-skies-episode-2",
+        "type": "podcast_episode",
+        "name": "Somewhere in the Skies Episode #2 — Micah Hanks: Building a Better UFOlogy | Truth, Myths & the Future of UAP Research",
+        "relationshipType": "discussed_topic",
+        "role": "",
+        "context": ""
+      },
+      {
+        "id": "2017-somewhere-in-the-skies-episode-22",
+        "type": "podcast_episode",
+        "name": "Somewhere in the Skies Episode #22 — Mike Clelland: The Messengers",
+        "relationshipType": "discussed_topic",
+        "role": "",
+        "context": ""
+      },
+      {
+        "id": "2017-somewhere-in-the-skies-episode-26",
+        "type": "podcast_episode",
+        "name": "Somewhere in the Skies Episode #26 — Karl Pfeiffer: The Science and Philosophy of the Paranormal",
+        "relationshipType": "discussed_topic",
+        "role": "",
+        "context": ""
+      },
+      {
+        "id": "2017-somewhere-in-the-skies-episode-28",
+        "type": "podcast_episode",
+        "name": "Somewhere in the Skies Episode #28 — Shannon LeGro: Into the Fray",
+        "relationshipType": "discussed_topic",
+        "role": "",
+        "context": ""
+      },
+      {
+        "id": "2017-somewhere-in-the-skies-episode-3",
+        "type": "podcast_episode",
+        "name": "Somewhere in the Skies Episode #3 — Greg Eghigian: History of a Cultural Phenomenon",
+        "relationshipType": "discussed_topic",
+        "role": "",
+        "context": ""
+      },
+      {
+        "id": "2017-somewhere-in-the-skies-episode-32",
+        "type": "podcast_episode",
+        "name": "Somewhere in the Skies Episode #32 — Rob Kristoffersen: Men in Black",
+        "relationshipType": "discussed_topic",
+        "role": "",
+        "context": ""
+      },
+      {
+        "id": "2017-somewhere-in-the-skies-episode-4",
+        "type": "podcast_episode",
+        "name": "Somewhere in the Skies Episode #4 — Annie Jacobsen: Phenomena",
+        "relationshipType": "discussed_topic",
+        "role": "",
+        "context": ""
+      },
+      {
+        "id": "2017-somewhere-in-the-skies-episode-6",
+        "type": "podcast_episode",
+        "name": "Somewhere in the Skies Episode #6 — Susan Demeter-St. Clair : UFOs and the Parapsychological",
+        "relationshipType": "discussed_topic",
+        "role": "",
+        "context": ""
+      }
+    ],
     "iya-whiteley": [
       {
         "id": "2023-merged-episode-12",
@@ -18784,6 +19147,14 @@
         "relationshipType": "features_person",
         "role": "subject",
         "context": "Featured or discussed in the official episode"
+      },
+      {
+        "id": "2017-somewhere-in-the-skies-episode-14",
+        "type": "podcast_episode",
+        "name": "Somewhere in the Skies Episode #14 — Jeremy Corbell: UFOs as a Clockwork Orange",
+        "relationshipType": "features_person",
+        "role": "guest",
+        "context": "Featured guest"
       },
       {
         "id": "2023-weaponized-episode-1",
@@ -20625,6 +20996,104 @@
         "context": ""
       }
     ],
+    "media-and-popular-culture": [
+      {
+        "id": "2017-somewhere-in-the-skies-episode-13",
+        "type": "podcast_episode",
+        "name": "Somewhere in the Skies Episode #13 — Mike Damante: Punk Rock and UFOs",
+        "relationshipType": "discussed_topic",
+        "role": "",
+        "context": ""
+      },
+      {
+        "id": "2017-somewhere-in-the-skies-episode-15",
+        "type": "podcast_episode",
+        "name": "Somewhere in the Skies Episode #15 — David Jenkins: People of Earth",
+        "relationshipType": "discussed_topic",
+        "role": "",
+        "context": ""
+      },
+      {
+        "id": "2017-somewhere-in-the-skies-episode-16",
+        "type": "podcast_episode",
+        "name": "Somewhere in the Skies Episode #16 — Sammy Waisanen: The Howl Horror Program and Fire in the Sky",
+        "relationshipType": "discussed_topic",
+        "role": "",
+        "context": ""
+      },
+      {
+        "id": "2017-somewhere-in-the-skies-episode-23",
+        "type": "podcast_episode",
+        "name": "Somewhere in the Skies Episode #23 — The Truth Is Out There with the Guilty Pleasure Podcast",
+        "relationshipType": "discussed_topic",
+        "role": "",
+        "context": ""
+      },
+      {
+        "id": "2017-somewhere-in-the-skies-episode-27",
+        "type": "podcast_episode",
+        "name": "Somewhere in the Skies Episode #27 — Aaron Mahnke: The Story Behind LORE",
+        "relationshipType": "discussed_topic",
+        "role": "",
+        "context": ""
+      },
+      {
+        "id": "2017-somewhere-in-the-skies-episode-31",
+        "type": "podcast_episode",
+        "name": "Somewhere in the Skies Episode #31 — Robbie Graham: Silver Screen Saucers",
+        "relationshipType": "discussed_topic",
+        "role": "",
+        "context": ""
+      },
+      {
+        "id": "2017-somewhere-in-the-skies-episode-35",
+        "type": "podcast_episode",
+        "name": "Somewhere in the Skies Episode #35 — Paul Cornell: Saucer Country",
+        "relationshipType": "discussed_topic",
+        "role": "",
+        "context": ""
+      },
+      {
+        "id": "2017-somewhere-in-the-skies-episode-9",
+        "type": "podcast_episode",
+        "name": "Somewhere in the Skies Episode #9 — Andrew Sanford: Flying Saucers v.s. The Half White Son of a Black Man",
+        "relationshipType": "discussed_topic",
+        "role": "",
+        "context": ""
+      },
+      {
+        "id": "2017-somewhere-in-the-skies-bonus-episode-movie-review-edition-justice-league",
+        "type": "podcast_episode",
+        "name": "Somewhere in the Skies Special — BONUS EPISODE - Movie Review Edition: Justice League",
+        "relationshipType": "discussed_topic",
+        "role": "",
+        "context": ""
+      },
+      {
+        "id": "2017-somewhere-in-the-skies-bonus-episode-reviewing-it-with-andrew-sanford",
+        "type": "podcast_episode",
+        "name": "Somewhere in the Skies Special — BONUS EPISODE : Reviewing \"IT\" with Andrew Sanford",
+        "relationshipType": "discussed_topic",
+        "role": "",
+        "context": ""
+      },
+      {
+        "id": "2017-somewhere-in-the-skies-bonus-episode-movie-review-edition-the-last-jedi",
+        "type": "podcast_episode",
+        "name": "Somewhere in the Skies Special — BONUS EPISODE: Movie Review Edition: The Last Jedi",
+        "relationshipType": "discussed_topic",
+        "role": "",
+        "context": ""
+      },
+      {
+        "id": "2017-somewhere-in-the-skies-patreon-bonus-episode-sneak-peek",
+        "type": "podcast_episode",
+        "name": "Somewhere in the Skies Special — PATREON BONUS EPISODE SNEAK PEEK!",
+        "relationshipType": "discussed_topic",
+        "role": "",
+        "context": ""
+      }
+    ],
     "media-coverage": [
       {
         "id": "2022-need-to-know-episode-11",
@@ -21395,6 +21864,7 @@
         "context": "Featured episode participant"
       }
     ],
+    "military-aviation-encounters": [],
     "military-pilot-uap-encounters": [
       {
         "id": "2026-weaponized-episode-106",
@@ -22978,6 +23448,14 @@
         "relationshipType": "features_person",
         "role": "host",
         "context": "Need to Know host"
+      },
+      {
+        "id": "2017-somewhere-in-the-skies-episode-1",
+        "type": "podcast_episode",
+        "name": "Somewhere in the Skies Episode #1 — Richard Dolan: Media Bias in UFO Coverage",
+        "relationshipType": "features_person",
+        "role": "guest",
+        "context": "Featured guest"
       },
       {
         "id": "2024-weaponized-episode-46",
@@ -24814,7 +25292,328 @@
         "context": "Organized the second annual symposium"
       }
     ],
-    "somewhere-in-the-skies-podcast": [],
+    "somewhere-in-the-skies-podcast": [
+      {
+        "id": "2017-somewhere-in-the-skies-episode-1",
+        "type": "podcast_episode",
+        "name": "Somewhere in the Skies Episode #1 — Richard Dolan: Media Bias in UFO Coverage",
+        "relationshipType": "episode_of",
+        "role": "",
+        "context": ""
+      },
+      {
+        "id": "2017-somewhere-in-the-skies-episode-10",
+        "type": "podcast_episode",
+        "name": "Somewhere in the Skies Episode #10 — Mark O'Connell: The Close Encounters Man",
+        "relationshipType": "episode_of",
+        "role": "",
+        "context": ""
+      },
+      {
+        "id": "2017-somewhere-in-the-skies-episode-11",
+        "type": "podcast_episode",
+        "name": "Somewhere in the Skies Episode #11 — Erica Lukes: Dugway, Skinwalker Ranch, and UFOs over Utah",
+        "relationshipType": "episode_of",
+        "role": "",
+        "context": ""
+      },
+      {
+        "id": "2017-somewhere-in-the-skies-episode-12",
+        "type": "podcast_episode",
+        "name": "Somewhere in the Skies Episode #12 — Simon Sharman: Cosmic Whistleblowers",
+        "relationshipType": "episode_of",
+        "role": "",
+        "context": ""
+      },
+      {
+        "id": "2017-somewhere-in-the-skies-episode-13",
+        "type": "podcast_episode",
+        "name": "Somewhere in the Skies Episode #13 — Mike Damante: Punk Rock and UFOs",
+        "relationshipType": "episode_of",
+        "role": "",
+        "context": ""
+      },
+      {
+        "id": "2017-somewhere-in-the-skies-episode-14",
+        "type": "podcast_episode",
+        "name": "Somewhere in the Skies Episode #14 — Jeremy Corbell: UFOs as a Clockwork Orange",
+        "relationshipType": "episode_of",
+        "role": "",
+        "context": ""
+      },
+      {
+        "id": "2017-somewhere-in-the-skies-episode-15",
+        "type": "podcast_episode",
+        "name": "Somewhere in the Skies Episode #15 — David Jenkins: People of Earth",
+        "relationshipType": "episode_of",
+        "role": "",
+        "context": ""
+      },
+      {
+        "id": "2017-somewhere-in-the-skies-episode-16",
+        "type": "podcast_episode",
+        "name": "Somewhere in the Skies Episode #16 — Sammy Waisanen: The Howl Horror Program and Fire in the Sky",
+        "relationshipType": "episode_of",
+        "role": "",
+        "context": ""
+      },
+      {
+        "id": "2017-somewhere-in-the-skies-episode-17",
+        "type": "podcast_episode",
+        "name": "Somewhere in the Skies Episode #17 — Peter Robbins: Imagery, Reality, and UFOs: Sorting Truth From Fiction",
+        "relationshipType": "episode_of",
+        "role": "",
+        "context": ""
+      },
+      {
+        "id": "2017-somewhere-in-the-skies-episode-18",
+        "type": "podcast_episode",
+        "name": "Somewhere in the Skies Episode #18 — MJ Banias: Whiskey, UFOs, and Shaking the ET Hypothesis",
+        "relationshipType": "episode_of",
+        "role": "",
+        "context": ""
+      },
+      {
+        "id": "2017-somewhere-in-the-skies-episode-19",
+        "type": "podcast_episode",
+        "name": "Somewhere in the Skies Episode #19 — Ben Mezrich: The 37th Parallel",
+        "relationshipType": "episode_of",
+        "role": "",
+        "context": ""
+      },
+      {
+        "id": "2017-somewhere-in-the-skies-episode-2",
+        "type": "podcast_episode",
+        "name": "Somewhere in the Skies Episode #2 — Micah Hanks: Building a Better UFOlogy | Truth, Myths & the Future of UAP Research",
+        "relationshipType": "episode_of",
+        "role": "",
+        "context": ""
+      },
+      {
+        "id": "2017-somewhere-in-the-skies-episode-20",
+        "type": "podcast_episode",
+        "name": "Somewhere in the Skies Episode #20 — Spooked in Nova Scotia: A Paranormal Roundtable",
+        "relationshipType": "episode_of",
+        "role": "",
+        "context": ""
+      },
+      {
+        "id": "2017-somewhere-in-the-skies-episode-21",
+        "type": "podcast_episode",
+        "name": "Somewhere in the Skies Episode #21 — Jason McClellan: Beers, Ghosts, and UFOs",
+        "relationshipType": "episode_of",
+        "role": "",
+        "context": ""
+      },
+      {
+        "id": "2017-somewhere-in-the-skies-episode-22",
+        "type": "podcast_episode",
+        "name": "Somewhere in the Skies Episode #22 — Mike Clelland: The Messengers",
+        "relationshipType": "episode_of",
+        "role": "",
+        "context": ""
+      },
+      {
+        "id": "2017-somewhere-in-the-skies-episode-23",
+        "type": "podcast_episode",
+        "name": "Somewhere in the Skies Episode #23 — The Truth Is Out There with the Guilty Pleasure Podcast",
+        "relationshipType": "episode_of",
+        "role": "",
+        "context": ""
+      },
+      {
+        "id": "2017-somewhere-in-the-skies-episode-24",
+        "type": "podcast_episode",
+        "name": "Somewhere in the Skies Episode #24 — Chris Garetano: Dark Files and the Montauk Project",
+        "relationshipType": "episode_of",
+        "role": "",
+        "context": ""
+      },
+      {
+        "id": "2017-somewhere-in-the-skies-episode-25",
+        "type": "podcast_episode",
+        "name": "Somewhere in the Skies Episode #25 — Seth Breedlove: Invasion on Chestnut Ridge",
+        "relationshipType": "episode_of",
+        "role": "",
+        "context": ""
+      },
+      {
+        "id": "2017-somewhere-in-the-skies-episode-26",
+        "type": "podcast_episode",
+        "name": "Somewhere in the Skies Episode #26 — Karl Pfeiffer: The Science and Philosophy of the Paranormal",
+        "relationshipType": "episode_of",
+        "role": "",
+        "context": ""
+      },
+      {
+        "id": "2017-somewhere-in-the-skies-episode-27",
+        "type": "podcast_episode",
+        "name": "Somewhere in the Skies Episode #27 — Aaron Mahnke: The Story Behind LORE",
+        "relationshipType": "episode_of",
+        "role": "",
+        "context": ""
+      },
+      {
+        "id": "2017-somewhere-in-the-skies-episode-28",
+        "type": "podcast_episode",
+        "name": "Somewhere in the Skies Episode #28 — Shannon LeGro: Into the Fray",
+        "relationshipType": "episode_of",
+        "role": "",
+        "context": ""
+      },
+      {
+        "id": "2017-somewhere-in-the-skies-episode-29",
+        "type": "podcast_episode",
+        "name": "Somewhere in the Skies Episode #29 — Brian Bethel: Black Eyed Kid Phenomenon",
+        "relationshipType": "episode_of",
+        "role": "",
+        "context": ""
+      },
+      {
+        "id": "2017-somewhere-in-the-skies-episode-3",
+        "type": "podcast_episode",
+        "name": "Somewhere in the Skies Episode #3 — Greg Eghigian: History of a Cultural Phenomenon",
+        "relationshipType": "episode_of",
+        "role": "",
+        "context": ""
+      },
+      {
+        "id": "2017-somewhere-in-the-skies-episode-30",
+        "type": "podcast_episode",
+        "name": "Somewhere in the Skies Episode #30 — The Andreasson Abduction",
+        "relationshipType": "episode_of",
+        "role": "",
+        "context": ""
+      },
+      {
+        "id": "2017-somewhere-in-the-skies-episode-31",
+        "type": "podcast_episode",
+        "name": "Somewhere in the Skies Episode #31 — Robbie Graham: Silver Screen Saucers",
+        "relationshipType": "episode_of",
+        "role": "",
+        "context": ""
+      },
+      {
+        "id": "2017-somewhere-in-the-skies-episode-32",
+        "type": "podcast_episode",
+        "name": "Somewhere in the Skies Episode #32 — Rob Kristoffersen: Men in Black",
+        "relationshipType": "episode_of",
+        "role": "",
+        "context": ""
+      },
+      {
+        "id": "2017-somewhere-in-the-skies-episode-33",
+        "type": "podcast_episode",
+        "name": "Somewhere in the Skies Episode #33 — Michael Huntington: Childhood UFO Encounters",
+        "relationshipType": "episode_of",
+        "role": "",
+        "context": ""
+      },
+      {
+        "id": "2017-somewhere-in-the-skies-episode-34",
+        "type": "podcast_episode",
+        "name": "Somewhere in the Skies Episode #34 — Witness Accounts: Volume One",
+        "relationshipType": "episode_of",
+        "role": "",
+        "context": ""
+      },
+      {
+        "id": "2017-somewhere-in-the-skies-episode-35",
+        "type": "podcast_episode",
+        "name": "Somewhere in the Skies Episode #35 — Paul Cornell: Saucer Country",
+        "relationshipType": "episode_of",
+        "role": "",
+        "context": ""
+      },
+      {
+        "id": "2017-somewhere-in-the-skies-episode-36",
+        "type": "podcast_episode",
+        "name": "Somewhere in the Skies Episode #36 — UFO Roundtable: The Year In Review",
+        "relationshipType": "episode_of",
+        "role": "",
+        "context": ""
+      },
+      {
+        "id": "2017-somewhere-in-the-skies-episode-4",
+        "type": "podcast_episode",
+        "name": "Somewhere in the Skies Episode #4 — Annie Jacobsen: Phenomena",
+        "relationshipType": "episode_of",
+        "role": "",
+        "context": ""
+      },
+      {
+        "id": "2017-somewhere-in-the-skies-episode-5",
+        "type": "podcast_episode",
+        "name": "Somewhere in the Skies Episode #5 — Ruben Uriarte: UFOs Over Mexico and the Southwest",
+        "relationshipType": "episode_of",
+        "role": "",
+        "context": ""
+      },
+      {
+        "id": "2017-somewhere-in-the-skies-episode-6",
+        "type": "podcast_episode",
+        "name": "Somewhere in the Skies Episode #6 — Susan Demeter-St. Clair : UFOs and the Parapsychological",
+        "relationshipType": "episode_of",
+        "role": "",
+        "context": ""
+      },
+      {
+        "id": "2017-somewhere-in-the-skies-episode-7",
+        "type": "podcast_episode",
+        "name": "Somewhere in the Skies Episode #7 — Nick Redfern: The Roswell UFO Conspiracy",
+        "relationshipType": "episode_of",
+        "role": "",
+        "context": ""
+      },
+      {
+        "id": "2017-somewhere-in-the-skies-episode-8",
+        "type": "podcast_episode",
+        "name": "Somewhere in the Skies Episode #8 — Jane Kyle: UFOs Over Texas",
+        "relationshipType": "episode_of",
+        "role": "",
+        "context": ""
+      },
+      {
+        "id": "2017-somewhere-in-the-skies-episode-9",
+        "type": "podcast_episode",
+        "name": "Somewhere in the Skies Episode #9 — Andrew Sanford: Flying Saucers v.s. The Half White Son of a Black Man",
+        "relationshipType": "episode_of",
+        "role": "",
+        "context": ""
+      },
+      {
+        "id": "2017-somewhere-in-the-skies-bonus-episode-movie-review-edition-justice-league",
+        "type": "podcast_episode",
+        "name": "Somewhere in the Skies Special — BONUS EPISODE - Movie Review Edition: Justice League",
+        "relationshipType": "episode_of",
+        "role": "",
+        "context": ""
+      },
+      {
+        "id": "2017-somewhere-in-the-skies-bonus-episode-reviewing-it-with-andrew-sanford",
+        "type": "podcast_episode",
+        "name": "Somewhere in the Skies Special — BONUS EPISODE : Reviewing \"IT\" with Andrew Sanford",
+        "relationshipType": "episode_of",
+        "role": "",
+        "context": ""
+      },
+      {
+        "id": "2017-somewhere-in-the-skies-bonus-episode-movie-review-edition-the-last-jedi",
+        "type": "podcast_episode",
+        "name": "Somewhere in the Skies Special — BONUS EPISODE: Movie Review Edition: The Last Jedi",
+        "relationshipType": "episode_of",
+        "role": "",
+        "context": ""
+      },
+      {
+        "id": "2017-somewhere-in-the-skies-patreon-bonus-episode-sneak-peek",
+        "type": "podcast_episode",
+        "name": "Somewhere in the Skies Special — PATREON BONUS EPISODE SNEAK PEEK!",
+        "relationshipType": "episode_of",
+        "role": "",
+        "context": ""
+      }
+    ],
     "south-pole-technology-claims": [
       {
         "id": "eric-hecker-south-pole-interview",
@@ -26513,6 +27312,222 @@
         "context": ""
       },
       {
+        "id": "2017-somewhere-in-the-skies-episode-1",
+        "type": "podcast_episode",
+        "name": "Somewhere in the Skies Episode #1 — Richard Dolan: Media Bias in UFO Coverage",
+        "relationshipType": "discussed_topic",
+        "role": "",
+        "context": ""
+      },
+      {
+        "id": "2017-somewhere-in-the-skies-episode-10",
+        "type": "podcast_episode",
+        "name": "Somewhere in the Skies Episode #10 — Mark O'Connell: The Close Encounters Man",
+        "relationshipType": "discussed_topic",
+        "role": "",
+        "context": ""
+      },
+      {
+        "id": "2017-somewhere-in-the-skies-episode-11",
+        "type": "podcast_episode",
+        "name": "Somewhere in the Skies Episode #11 — Erica Lukes: Dugway, Skinwalker Ranch, and UFOs over Utah",
+        "relationshipType": "discussed_topic",
+        "role": "",
+        "context": ""
+      },
+      {
+        "id": "2017-somewhere-in-the-skies-episode-12",
+        "type": "podcast_episode",
+        "name": "Somewhere in the Skies Episode #12 — Simon Sharman: Cosmic Whistleblowers",
+        "relationshipType": "discussed_topic",
+        "role": "",
+        "context": ""
+      },
+      {
+        "id": "2017-somewhere-in-the-skies-episode-14",
+        "type": "podcast_episode",
+        "name": "Somewhere in the Skies Episode #14 — Jeremy Corbell: UFOs as a Clockwork Orange",
+        "relationshipType": "discussed_topic",
+        "role": "",
+        "context": ""
+      },
+      {
+        "id": "2017-somewhere-in-the-skies-episode-17",
+        "type": "podcast_episode",
+        "name": "Somewhere in the Skies Episode #17 — Peter Robbins: Imagery, Reality, and UFOs: Sorting Truth From Fiction",
+        "relationshipType": "discussed_topic",
+        "role": "",
+        "context": ""
+      },
+      {
+        "id": "2017-somewhere-in-the-skies-episode-18",
+        "type": "podcast_episode",
+        "name": "Somewhere in the Skies Episode #18 — MJ Banias: Whiskey, UFOs, and Shaking the ET Hypothesis",
+        "relationshipType": "discussed_topic",
+        "role": "",
+        "context": ""
+      },
+      {
+        "id": "2017-somewhere-in-the-skies-episode-19",
+        "type": "podcast_episode",
+        "name": "Somewhere in the Skies Episode #19 — Ben Mezrich: The 37th Parallel",
+        "relationshipType": "discussed_topic",
+        "role": "",
+        "context": ""
+      },
+      {
+        "id": "2017-somewhere-in-the-skies-episode-2",
+        "type": "podcast_episode",
+        "name": "Somewhere in the Skies Episode #2 — Micah Hanks: Building a Better UFOlogy | Truth, Myths & the Future of UAP Research",
+        "relationshipType": "discussed_topic",
+        "role": "",
+        "context": ""
+      },
+      {
+        "id": "2017-somewhere-in-the-skies-episode-21",
+        "type": "podcast_episode",
+        "name": "Somewhere in the Skies Episode #21 — Jason McClellan: Beers, Ghosts, and UFOs",
+        "relationshipType": "discussed_topic",
+        "role": "",
+        "context": ""
+      },
+      {
+        "id": "2017-somewhere-in-the-skies-episode-22",
+        "type": "podcast_episode",
+        "name": "Somewhere in the Skies Episode #22 — Mike Clelland: The Messengers",
+        "relationshipType": "discussed_topic",
+        "role": "",
+        "context": ""
+      },
+      {
+        "id": "2017-somewhere-in-the-skies-episode-24",
+        "type": "podcast_episode",
+        "name": "Somewhere in the Skies Episode #24 — Chris Garetano: Dark Files and the Montauk Project",
+        "relationshipType": "discussed_topic",
+        "role": "",
+        "context": ""
+      },
+      {
+        "id": "2017-somewhere-in-the-skies-episode-25",
+        "type": "podcast_episode",
+        "name": "Somewhere in the Skies Episode #25 — Seth Breedlove: Invasion on Chestnut Ridge",
+        "relationshipType": "discussed_topic",
+        "role": "",
+        "context": ""
+      },
+      {
+        "id": "2017-somewhere-in-the-skies-episode-26",
+        "type": "podcast_episode",
+        "name": "Somewhere in the Skies Episode #26 — Karl Pfeiffer: The Science and Philosophy of the Paranormal",
+        "relationshipType": "discussed_topic",
+        "role": "",
+        "context": ""
+      },
+      {
+        "id": "2017-somewhere-in-the-skies-episode-28",
+        "type": "podcast_episode",
+        "name": "Somewhere in the Skies Episode #28 — Shannon LeGro: Into the Fray",
+        "relationshipType": "discussed_topic",
+        "role": "",
+        "context": ""
+      },
+      {
+        "id": "2017-somewhere-in-the-skies-episode-29",
+        "type": "podcast_episode",
+        "name": "Somewhere in the Skies Episode #29 — Brian Bethel: Black Eyed Kid Phenomenon",
+        "relationshipType": "discussed_topic",
+        "role": "",
+        "context": ""
+      },
+      {
+        "id": "2017-somewhere-in-the-skies-episode-3",
+        "type": "podcast_episode",
+        "name": "Somewhere in the Skies Episode #3 — Greg Eghigian: History of a Cultural Phenomenon",
+        "relationshipType": "discussed_topic",
+        "role": "",
+        "context": ""
+      },
+      {
+        "id": "2017-somewhere-in-the-skies-episode-30",
+        "type": "podcast_episode",
+        "name": "Somewhere in the Skies Episode #30 — The Andreasson Abduction",
+        "relationshipType": "discussed_topic",
+        "role": "",
+        "context": ""
+      },
+      {
+        "id": "2017-somewhere-in-the-skies-episode-32",
+        "type": "podcast_episode",
+        "name": "Somewhere in the Skies Episode #32 — Rob Kristoffersen: Men in Black",
+        "relationshipType": "discussed_topic",
+        "role": "",
+        "context": ""
+      },
+      {
+        "id": "2017-somewhere-in-the-skies-episode-33",
+        "type": "podcast_episode",
+        "name": "Somewhere in the Skies Episode #33 — Michael Huntington: Childhood UFO Encounters",
+        "relationshipType": "discussed_topic",
+        "role": "",
+        "context": ""
+      },
+      {
+        "id": "2017-somewhere-in-the-skies-episode-34",
+        "type": "podcast_episode",
+        "name": "Somewhere in the Skies Episode #34 — Witness Accounts: Volume One",
+        "relationshipType": "discussed_topic",
+        "role": "",
+        "context": ""
+      },
+      {
+        "id": "2017-somewhere-in-the-skies-episode-36",
+        "type": "podcast_episode",
+        "name": "Somewhere in the Skies Episode #36 — UFO Roundtable: The Year In Review",
+        "relationshipType": "discussed_topic",
+        "role": "",
+        "context": ""
+      },
+      {
+        "id": "2017-somewhere-in-the-skies-episode-4",
+        "type": "podcast_episode",
+        "name": "Somewhere in the Skies Episode #4 — Annie Jacobsen: Phenomena",
+        "relationshipType": "discussed_topic",
+        "role": "",
+        "context": ""
+      },
+      {
+        "id": "2017-somewhere-in-the-skies-episode-5",
+        "type": "podcast_episode",
+        "name": "Somewhere in the Skies Episode #5 — Ruben Uriarte: UFOs Over Mexico and the Southwest",
+        "relationshipType": "discussed_topic",
+        "role": "",
+        "context": ""
+      },
+      {
+        "id": "2017-somewhere-in-the-skies-episode-6",
+        "type": "podcast_episode",
+        "name": "Somewhere in the Skies Episode #6 — Susan Demeter-St. Clair : UFOs and the Parapsychological",
+        "relationshipType": "discussed_topic",
+        "role": "",
+        "context": ""
+      },
+      {
+        "id": "2017-somewhere-in-the-skies-episode-7",
+        "type": "podcast_episode",
+        "name": "Somewhere in the Skies Episode #7 — Nick Redfern: The Roswell UFO Conspiracy",
+        "relationshipType": "discussed_topic",
+        "role": "",
+        "context": ""
+      },
+      {
+        "id": "2017-somewhere-in-the-skies-episode-8",
+        "type": "podcast_episode",
+        "name": "Somewhere in the Skies Episode #8 — Jane Kyle: UFOs Over Texas",
+        "relationshipType": "discussed_topic",
+        "role": "",
+        "context": ""
+      },
+      {
         "id": "2024-weaponized-episode-47",
         "type": "podcast_episode",
         "name": "WEAPONIZED Episode #47 — The Jellyfish UAP Investigation",
@@ -26904,6 +27919,88 @@
         "id": "2025-weaponized-episode-100",
         "type": "podcast_episode",
         "name": "WEAPONIZED Episode #100 — Creatures From Another World? The UFO–Cryptid Connection",
+        "relationshipType": "discussed_topic",
+        "role": "",
+        "context": ""
+      }
+    ],
+    "ufo-history": [
+      {
+        "id": "2017-somewhere-in-the-skies-episode-10",
+        "type": "podcast_episode",
+        "name": "Somewhere in the Skies Episode #10 — Mark O'Connell: The Close Encounters Man",
+        "relationshipType": "discussed_topic",
+        "role": "",
+        "context": ""
+      },
+      {
+        "id": "2017-somewhere-in-the-skies-episode-17",
+        "type": "podcast_episode",
+        "name": "Somewhere in the Skies Episode #17 — Peter Robbins: Imagery, Reality, and UFOs: Sorting Truth From Fiction",
+        "relationshipType": "discussed_topic",
+        "role": "",
+        "context": ""
+      },
+      {
+        "id": "2017-somewhere-in-the-skies-episode-18",
+        "type": "podcast_episode",
+        "name": "Somewhere in the Skies Episode #18 — MJ Banias: Whiskey, UFOs, and Shaking the ET Hypothesis",
+        "relationshipType": "discussed_topic",
+        "role": "",
+        "context": ""
+      },
+      {
+        "id": "2017-somewhere-in-the-skies-episode-2",
+        "type": "podcast_episode",
+        "name": "Somewhere in the Skies Episode #2 — Micah Hanks: Building a Better UFOlogy | Truth, Myths & the Future of UAP Research",
+        "relationshipType": "discussed_topic",
+        "role": "",
+        "context": ""
+      },
+      {
+        "id": "2017-somewhere-in-the-skies-episode-20",
+        "type": "podcast_episode",
+        "name": "Somewhere in the Skies Episode #20 — Spooked in Nova Scotia: A Paranormal Roundtable",
+        "relationshipType": "discussed_topic",
+        "role": "",
+        "context": ""
+      },
+      {
+        "id": "2017-somewhere-in-the-skies-episode-21",
+        "type": "podcast_episode",
+        "name": "Somewhere in the Skies Episode #21 — Jason McClellan: Beers, Ghosts, and UFOs",
+        "relationshipType": "discussed_topic",
+        "role": "",
+        "context": ""
+      },
+      {
+        "id": "2017-somewhere-in-the-skies-episode-22",
+        "type": "podcast_episode",
+        "name": "Somewhere in the Skies Episode #22 — Mike Clelland: The Messengers",
+        "relationshipType": "discussed_topic",
+        "role": "",
+        "context": ""
+      },
+      {
+        "id": "2017-somewhere-in-the-skies-episode-26",
+        "type": "podcast_episode",
+        "name": "Somewhere in the Skies Episode #26 — Karl Pfeiffer: The Science and Philosophy of the Paranormal",
+        "relationshipType": "discussed_topic",
+        "role": "",
+        "context": ""
+      },
+      {
+        "id": "2017-somewhere-in-the-skies-episode-3",
+        "type": "podcast_episode",
+        "name": "Somewhere in the Skies Episode #3 — Greg Eghigian: History of a Cultural Phenomenon",
+        "relationshipType": "discussed_topic",
+        "role": "",
+        "context": ""
+      },
+      {
+        "id": "2017-somewhere-in-the-skies-episode-36",
+        "type": "podcast_episode",
+        "name": "Somewhere in the Skies Episode #36 — UFO Roundtable: The Year In Review",
         "relationshipType": "discussed_topic",
         "role": "",
         "context": ""
@@ -29296,6 +30393,96 @@
         "context": "Featured episode participant"
       }
     ],
+    "witness-accounts": [
+      {
+        "id": "2017-somewhere-in-the-skies-episode-11",
+        "type": "podcast_episode",
+        "name": "Somewhere in the Skies Episode #11 — Erica Lukes: Dugway, Skinwalker Ranch, and UFOs over Utah",
+        "relationshipType": "discussed_topic",
+        "role": "",
+        "context": ""
+      },
+      {
+        "id": "2017-somewhere-in-the-skies-episode-19",
+        "type": "podcast_episode",
+        "name": "Somewhere in the Skies Episode #19 — Ben Mezrich: The 37th Parallel",
+        "relationshipType": "discussed_topic",
+        "role": "",
+        "context": ""
+      },
+      {
+        "id": "2017-somewhere-in-the-skies-episode-24",
+        "type": "podcast_episode",
+        "name": "Somewhere in the Skies Episode #24 — Chris Garetano: Dark Files and the Montauk Project",
+        "relationshipType": "discussed_topic",
+        "role": "",
+        "context": ""
+      },
+      {
+        "id": "2017-somewhere-in-the-skies-episode-25",
+        "type": "podcast_episode",
+        "name": "Somewhere in the Skies Episode #25 — Seth Breedlove: Invasion on Chestnut Ridge",
+        "relationshipType": "discussed_topic",
+        "role": "",
+        "context": ""
+      },
+      {
+        "id": "2017-somewhere-in-the-skies-episode-29",
+        "type": "podcast_episode",
+        "name": "Somewhere in the Skies Episode #29 — Brian Bethel: Black Eyed Kid Phenomenon",
+        "relationshipType": "discussed_topic",
+        "role": "",
+        "context": ""
+      },
+      {
+        "id": "2017-somewhere-in-the-skies-episode-30",
+        "type": "podcast_episode",
+        "name": "Somewhere in the Skies Episode #30 — The Andreasson Abduction",
+        "relationshipType": "discussed_topic",
+        "role": "",
+        "context": ""
+      },
+      {
+        "id": "2017-somewhere-in-the-skies-episode-33",
+        "type": "podcast_episode",
+        "name": "Somewhere in the Skies Episode #33 — Michael Huntington: Childhood UFO Encounters",
+        "relationshipType": "discussed_topic",
+        "role": "",
+        "context": ""
+      },
+      {
+        "id": "2017-somewhere-in-the-skies-episode-34",
+        "type": "podcast_episode",
+        "name": "Somewhere in the Skies Episode #34 — Witness Accounts: Volume One",
+        "relationshipType": "discussed_topic",
+        "role": "",
+        "context": ""
+      },
+      {
+        "id": "2017-somewhere-in-the-skies-episode-5",
+        "type": "podcast_episode",
+        "name": "Somewhere in the Skies Episode #5 — Ruben Uriarte: UFOs Over Mexico and the Southwest",
+        "relationshipType": "discussed_topic",
+        "role": "",
+        "context": ""
+      },
+      {
+        "id": "2017-somewhere-in-the-skies-episode-7",
+        "type": "podcast_episode",
+        "name": "Somewhere in the Skies Episode #7 — Nick Redfern: The Roswell UFO Conspiracy",
+        "relationshipType": "discussed_topic",
+        "role": "",
+        "context": ""
+      },
+      {
+        "id": "2017-somewhere-in-the-skies-episode-8",
+        "type": "podcast_episode",
+        "name": "Somewhere in the Skies Episode #8 — Jane Kyle: UFOs Over Texas",
+        "relationshipType": "discussed_topic",
+        "role": "",
+        "context": ""
+      }
+    ],
     "witness-intimidation": [
       {
         "id": "2026-weaponized-episode-105",
@@ -29318,6 +30505,3284 @@
     ]
   },
   "relatedEpisodes": {
+    "2017-somewhere-in-the-skies-bonus-episode-movie-review-edition-justice-league": [
+      {
+        "id": "2017-somewhere-in-the-skies-bonus-episode-movie-review-edition-the-last-jedi",
+        "name": "Somewhere in the Skies Special — BONUS EPISODE: Movie Review Edition: The Last Jedi",
+        "seriesId": "somewhere-in-the-skies-podcast",
+        "date": "2017-12-21",
+        "sharedEntityIds": [
+          "media-and-popular-culture",
+          "ryan-sprague"
+        ],
+        "sharedEntityCount": 2,
+        "score": 25
+      },
+      {
+        "id": "2017-somewhere-in-the-skies-episode-35",
+        "name": "Somewhere in the Skies Episode #35 — Paul Cornell: Saucer Country",
+        "seriesId": "somewhere-in-the-skies-podcast",
+        "date": "2017-12-11",
+        "sharedEntityIds": [
+          "media-and-popular-culture",
+          "ryan-sprague"
+        ],
+        "sharedEntityCount": 2,
+        "score": 25
+      },
+      {
+        "id": "2017-somewhere-in-the-skies-episode-31",
+        "name": "Somewhere in the Skies Episode #31 — Robbie Graham: Silver Screen Saucers",
+        "seriesId": "somewhere-in-the-skies-podcast",
+        "date": "2017-11-12",
+        "sharedEntityIds": [
+          "media-and-popular-culture",
+          "ryan-sprague"
+        ],
+        "sharedEntityCount": 2,
+        "score": 25
+      },
+      {
+        "id": "2017-somewhere-in-the-skies-episode-27",
+        "name": "Somewhere in the Skies Episode #27 — Aaron Mahnke: The Story Behind LORE",
+        "seriesId": "somewhere-in-the-skies-podcast",
+        "date": "2017-10-15",
+        "sharedEntityIds": [
+          "media-and-popular-culture",
+          "ryan-sprague"
+        ],
+        "sharedEntityCount": 2,
+        "score": 25
+      },
+      {
+        "id": "2017-somewhere-in-the-skies-episode-23",
+        "name": "Somewhere in the Skies Episode #23 — The Truth Is Out There with the Guilty Pleasure Podcast",
+        "seriesId": "somewhere-in-the-skies-podcast",
+        "date": "2017-09-18",
+        "sharedEntityIds": [
+          "media-and-popular-culture",
+          "ryan-sprague"
+        ],
+        "sharedEntityCount": 2,
+        "score": 25
+      },
+      {
+        "id": "2017-somewhere-in-the-skies-patreon-bonus-episode-sneak-peek",
+        "name": "Somewhere in the Skies Special — PATREON BONUS EPISODE SNEAK PEEK!",
+        "seriesId": "somewhere-in-the-skies-podcast",
+        "date": "2017-09-17",
+        "sharedEntityIds": [
+          "media-and-popular-culture",
+          "ryan-sprague"
+        ],
+        "sharedEntityCount": 2,
+        "score": 25
+      }
+    ],
+    "2017-somewhere-in-the-skies-bonus-episode-movie-review-edition-the-last-jedi": [
+      {
+        "id": "2017-somewhere-in-the-skies-episode-35",
+        "name": "Somewhere in the Skies Episode #35 — Paul Cornell: Saucer Country",
+        "seriesId": "somewhere-in-the-skies-podcast",
+        "date": "2017-12-11",
+        "sharedEntityIds": [
+          "media-and-popular-culture",
+          "ryan-sprague"
+        ],
+        "sharedEntityCount": 2,
+        "score": 25
+      },
+      {
+        "id": "2017-somewhere-in-the-skies-bonus-episode-movie-review-edition-justice-league",
+        "name": "Somewhere in the Skies Special — BONUS EPISODE - Movie Review Edition: Justice League",
+        "seriesId": "somewhere-in-the-skies-podcast",
+        "date": "2017-12-06",
+        "sharedEntityIds": [
+          "media-and-popular-culture",
+          "ryan-sprague"
+        ],
+        "sharedEntityCount": 2,
+        "score": 25
+      },
+      {
+        "id": "2017-somewhere-in-the-skies-episode-31",
+        "name": "Somewhere in the Skies Episode #31 — Robbie Graham: Silver Screen Saucers",
+        "seriesId": "somewhere-in-the-skies-podcast",
+        "date": "2017-11-12",
+        "sharedEntityIds": [
+          "media-and-popular-culture",
+          "ryan-sprague"
+        ],
+        "sharedEntityCount": 2,
+        "score": 25
+      },
+      {
+        "id": "2017-somewhere-in-the-skies-episode-27",
+        "name": "Somewhere in the Skies Episode #27 — Aaron Mahnke: The Story Behind LORE",
+        "seriesId": "somewhere-in-the-skies-podcast",
+        "date": "2017-10-15",
+        "sharedEntityIds": [
+          "media-and-popular-culture",
+          "ryan-sprague"
+        ],
+        "sharedEntityCount": 2,
+        "score": 25
+      },
+      {
+        "id": "2017-somewhere-in-the-skies-episode-23",
+        "name": "Somewhere in the Skies Episode #23 — The Truth Is Out There with the Guilty Pleasure Podcast",
+        "seriesId": "somewhere-in-the-skies-podcast",
+        "date": "2017-09-18",
+        "sharedEntityIds": [
+          "media-and-popular-culture",
+          "ryan-sprague"
+        ],
+        "sharedEntityCount": 2,
+        "score": 25
+      },
+      {
+        "id": "2017-somewhere-in-the-skies-patreon-bonus-episode-sneak-peek",
+        "name": "Somewhere in the Skies Special — PATREON BONUS EPISODE SNEAK PEEK!",
+        "seriesId": "somewhere-in-the-skies-podcast",
+        "date": "2017-09-17",
+        "sharedEntityIds": [
+          "media-and-popular-culture",
+          "ryan-sprague"
+        ],
+        "sharedEntityCount": 2,
+        "score": 25
+      }
+    ],
+    "2017-somewhere-in-the-skies-bonus-episode-reviewing-it-with-andrew-sanford": [
+      {
+        "id": "2017-somewhere-in-the-skies-bonus-episode-movie-review-edition-the-last-jedi",
+        "name": "Somewhere in the Skies Special — BONUS EPISODE: Movie Review Edition: The Last Jedi",
+        "seriesId": "somewhere-in-the-skies-podcast",
+        "date": "2017-12-21",
+        "sharedEntityIds": [
+          "media-and-popular-culture",
+          "ryan-sprague"
+        ],
+        "sharedEntityCount": 2,
+        "score": 25
+      },
+      {
+        "id": "2017-somewhere-in-the-skies-episode-35",
+        "name": "Somewhere in the Skies Episode #35 — Paul Cornell: Saucer Country",
+        "seriesId": "somewhere-in-the-skies-podcast",
+        "date": "2017-12-11",
+        "sharedEntityIds": [
+          "media-and-popular-culture",
+          "ryan-sprague"
+        ],
+        "sharedEntityCount": 2,
+        "score": 25
+      },
+      {
+        "id": "2017-somewhere-in-the-skies-bonus-episode-movie-review-edition-justice-league",
+        "name": "Somewhere in the Skies Special — BONUS EPISODE - Movie Review Edition: Justice League",
+        "seriesId": "somewhere-in-the-skies-podcast",
+        "date": "2017-12-06",
+        "sharedEntityIds": [
+          "media-and-popular-culture",
+          "ryan-sprague"
+        ],
+        "sharedEntityCount": 2,
+        "score": 25
+      },
+      {
+        "id": "2017-somewhere-in-the-skies-episode-31",
+        "name": "Somewhere in the Skies Episode #31 — Robbie Graham: Silver Screen Saucers",
+        "seriesId": "somewhere-in-the-skies-podcast",
+        "date": "2017-11-12",
+        "sharedEntityIds": [
+          "media-and-popular-culture",
+          "ryan-sprague"
+        ],
+        "sharedEntityCount": 2,
+        "score": 25
+      },
+      {
+        "id": "2017-somewhere-in-the-skies-episode-27",
+        "name": "Somewhere in the Skies Episode #27 — Aaron Mahnke: The Story Behind LORE",
+        "seriesId": "somewhere-in-the-skies-podcast",
+        "date": "2017-10-15",
+        "sharedEntityIds": [
+          "media-and-popular-culture",
+          "ryan-sprague"
+        ],
+        "sharedEntityCount": 2,
+        "score": 25
+      },
+      {
+        "id": "2017-somewhere-in-the-skies-episode-23",
+        "name": "Somewhere in the Skies Episode #23 — The Truth Is Out There with the Guilty Pleasure Podcast",
+        "seriesId": "somewhere-in-the-skies-podcast",
+        "date": "2017-09-18",
+        "sharedEntityIds": [
+          "media-and-popular-culture",
+          "ryan-sprague"
+        ],
+        "sharedEntityCount": 2,
+        "score": 25
+      }
+    ],
+    "2017-somewhere-in-the-skies-episode-1": [
+      {
+        "id": "2017-somewhere-in-the-skies-episode-32",
+        "name": "Somewhere in the Skies Episode #32 — Rob Kristoffersen: Men in Black",
+        "seriesId": "somewhere-in-the-skies-podcast",
+        "date": "2017-11-19",
+        "sharedEntityIds": [
+          "investigators-and-researchers",
+          "ryan-sprague",
+          "uap-research"
+        ],
+        "sharedEntityCount": 3,
+        "score": 35
+      },
+      {
+        "id": "2017-somewhere-in-the-skies-episode-28",
+        "name": "Somewhere in the Skies Episode #28 — Shannon LeGro: Into the Fray",
+        "seriesId": "somewhere-in-the-skies-podcast",
+        "date": "2017-10-22",
+        "sharedEntityIds": [
+          "investigators-and-researchers",
+          "ryan-sprague",
+          "uap-research"
+        ],
+        "sharedEntityCount": 3,
+        "score": 35
+      },
+      {
+        "id": "2017-somewhere-in-the-skies-episode-26",
+        "name": "Somewhere in the Skies Episode #26 — Karl Pfeiffer: The Science and Philosophy of the Paranormal",
+        "seriesId": "somewhere-in-the-skies-podcast",
+        "date": "2017-10-08",
+        "sharedEntityIds": [
+          "investigators-and-researchers",
+          "ryan-sprague",
+          "uap-research"
+        ],
+        "sharedEntityCount": 3,
+        "score": 35
+      },
+      {
+        "id": "2017-somewhere-in-the-skies-episode-22",
+        "name": "Somewhere in the Skies Episode #22 — Mike Clelland: The Messengers",
+        "seriesId": "somewhere-in-the-skies-podcast",
+        "date": "2017-09-11",
+        "sharedEntityIds": [
+          "investigators-and-researchers",
+          "ryan-sprague",
+          "uap-research"
+        ],
+        "sharedEntityCount": 3,
+        "score": 35
+      },
+      {
+        "id": "2017-somewhere-in-the-skies-episode-18",
+        "name": "Somewhere in the Skies Episode #18 — MJ Banias: Whiskey, UFOs, and Shaking the ET Hypothesis",
+        "seriesId": "somewhere-in-the-skies-podcast",
+        "date": "2017-08-14",
+        "sharedEntityIds": [
+          "investigators-and-researchers",
+          "ryan-sprague",
+          "uap-research"
+        ],
+        "sharedEntityCount": 3,
+        "score": 35
+      },
+      {
+        "id": "2017-somewhere-in-the-skies-episode-17",
+        "name": "Somewhere in the Skies Episode #17 — Peter Robbins: Imagery, Reality, and UFOs: Sorting Truth From Fiction",
+        "seriesId": "somewhere-in-the-skies-podcast",
+        "date": "2017-08-07",
+        "sharedEntityIds": [
+          "investigators-and-researchers",
+          "ryan-sprague",
+          "uap-research"
+        ],
+        "sharedEntityCount": 3,
+        "score": 35
+      }
+    ],
+    "2017-somewhere-in-the-skies-episode-10": [
+      {
+        "id": "2017-somewhere-in-the-skies-episode-26",
+        "name": "Somewhere in the Skies Episode #26 — Karl Pfeiffer: The Science and Philosophy of the Paranormal",
+        "seriesId": "somewhere-in-the-skies-podcast",
+        "date": "2017-10-08",
+        "sharedEntityIds": [
+          "investigators-and-researchers",
+          "ryan-sprague",
+          "uap-research",
+          "ufo-history"
+        ],
+        "sharedEntityCount": 4,
+        "score": 45
+      },
+      {
+        "id": "2017-somewhere-in-the-skies-episode-22",
+        "name": "Somewhere in the Skies Episode #22 — Mike Clelland: The Messengers",
+        "seriesId": "somewhere-in-the-skies-podcast",
+        "date": "2017-09-11",
+        "sharedEntityIds": [
+          "investigators-and-researchers",
+          "ryan-sprague",
+          "uap-research",
+          "ufo-history"
+        ],
+        "sharedEntityCount": 4,
+        "score": 45
+      },
+      {
+        "id": "2017-somewhere-in-the-skies-episode-18",
+        "name": "Somewhere in the Skies Episode #18 — MJ Banias: Whiskey, UFOs, and Shaking the ET Hypothesis",
+        "seriesId": "somewhere-in-the-skies-podcast",
+        "date": "2017-08-14",
+        "sharedEntityIds": [
+          "investigators-and-researchers",
+          "ryan-sprague",
+          "uap-research",
+          "ufo-history"
+        ],
+        "sharedEntityCount": 4,
+        "score": 45
+      },
+      {
+        "id": "2017-somewhere-in-the-skies-episode-17",
+        "name": "Somewhere in the Skies Episode #17 — Peter Robbins: Imagery, Reality, and UFOs: Sorting Truth From Fiction",
+        "seriesId": "somewhere-in-the-skies-podcast",
+        "date": "2017-08-07",
+        "sharedEntityIds": [
+          "investigators-and-researchers",
+          "ryan-sprague",
+          "uap-research",
+          "ufo-history"
+        ],
+        "sharedEntityCount": 4,
+        "score": 45
+      },
+      {
+        "id": "2017-somewhere-in-the-skies-episode-3",
+        "name": "Somewhere in the Skies Episode #3 — Greg Eghigian: History of a Cultural Phenomenon",
+        "seriesId": "somewhere-in-the-skies-podcast",
+        "date": "2017-05-01",
+        "sharedEntityIds": [
+          "investigators-and-researchers",
+          "ryan-sprague",
+          "uap-research",
+          "ufo-history"
+        ],
+        "sharedEntityCount": 4,
+        "score": 45
+      },
+      {
+        "id": "2017-somewhere-in-the-skies-episode-2",
+        "name": "Somewhere in the Skies Episode #2 — Micah Hanks: Building a Better UFOlogy | Truth, Myths & the Future of UAP Research",
+        "seriesId": "somewhere-in-the-skies-podcast",
+        "date": "2017-04-24",
+        "sharedEntityIds": [
+          "investigators-and-researchers",
+          "ryan-sprague",
+          "uap-research",
+          "ufo-history"
+        ],
+        "sharedEntityCount": 4,
+        "score": 45
+      }
+    ],
+    "2017-somewhere-in-the-skies-episode-11": [
+      {
+        "id": "2017-somewhere-in-the-skies-episode-33",
+        "name": "Somewhere in the Skies Episode #33 — Michael Huntington: Childhood UFO Encounters",
+        "seriesId": "somewhere-in-the-skies-podcast",
+        "date": "2017-11-27",
+        "sharedEntityIds": [
+          "historical-ufo-cases",
+          "ryan-sprague",
+          "uap-research",
+          "witness-accounts"
+        ],
+        "sharedEntityCount": 4,
+        "score": 45
+      },
+      {
+        "id": "2017-somewhere-in-the-skies-episode-30",
+        "name": "Somewhere in the Skies Episode #30 — The Andreasson Abduction",
+        "seriesId": "somewhere-in-the-skies-podcast",
+        "date": "2017-11-05",
+        "sharedEntityIds": [
+          "historical-ufo-cases",
+          "ryan-sprague",
+          "uap-research",
+          "witness-accounts"
+        ],
+        "sharedEntityCount": 4,
+        "score": 45
+      },
+      {
+        "id": "2017-somewhere-in-the-skies-episode-29",
+        "name": "Somewhere in the Skies Episode #29 — Brian Bethel: Black Eyed Kid Phenomenon",
+        "seriesId": "somewhere-in-the-skies-podcast",
+        "date": "2017-10-29",
+        "sharedEntityIds": [
+          "historical-ufo-cases",
+          "ryan-sprague",
+          "uap-research",
+          "witness-accounts"
+        ],
+        "sharedEntityCount": 4,
+        "score": 45
+      },
+      {
+        "id": "2017-somewhere-in-the-skies-episode-25",
+        "name": "Somewhere in the Skies Episode #25 — Seth Breedlove: Invasion on Chestnut Ridge",
+        "seriesId": "somewhere-in-the-skies-podcast",
+        "date": "2017-10-02",
+        "sharedEntityIds": [
+          "historical-ufo-cases",
+          "ryan-sprague",
+          "uap-research",
+          "witness-accounts"
+        ],
+        "sharedEntityCount": 4,
+        "score": 45
+      },
+      {
+        "id": "2017-somewhere-in-the-skies-episode-24",
+        "name": "Somewhere in the Skies Episode #24 — Chris Garetano: Dark Files and the Montauk Project",
+        "seriesId": "somewhere-in-the-skies-podcast",
+        "date": "2017-09-25",
+        "sharedEntityIds": [
+          "historical-ufo-cases",
+          "ryan-sprague",
+          "uap-research",
+          "witness-accounts"
+        ],
+        "sharedEntityCount": 4,
+        "score": 45
+      },
+      {
+        "id": "2017-somewhere-in-the-skies-episode-19",
+        "name": "Somewhere in the Skies Episode #19 — Ben Mezrich: The 37th Parallel",
+        "seriesId": "somewhere-in-the-skies-podcast",
+        "date": "2017-08-20",
+        "sharedEntityIds": [
+          "historical-ufo-cases",
+          "ryan-sprague",
+          "uap-research",
+          "witness-accounts"
+        ],
+        "sharedEntityCount": 4,
+        "score": 45
+      }
+    ],
+    "2017-somewhere-in-the-skies-episode-12": [
+      {
+        "id": "2017-somewhere-in-the-skies-episode-32",
+        "name": "Somewhere in the Skies Episode #32 — Rob Kristoffersen: Men in Black",
+        "seriesId": "somewhere-in-the-skies-podcast",
+        "date": "2017-11-19",
+        "sharedEntityIds": [
+          "investigators-and-researchers",
+          "ryan-sprague",
+          "uap-research"
+        ],
+        "sharedEntityCount": 3,
+        "score": 35
+      },
+      {
+        "id": "2017-somewhere-in-the-skies-episode-28",
+        "name": "Somewhere in the Skies Episode #28 — Shannon LeGro: Into the Fray",
+        "seriesId": "somewhere-in-the-skies-podcast",
+        "date": "2017-10-22",
+        "sharedEntityIds": [
+          "investigators-and-researchers",
+          "ryan-sprague",
+          "uap-research"
+        ],
+        "sharedEntityCount": 3,
+        "score": 35
+      },
+      {
+        "id": "2017-somewhere-in-the-skies-episode-26",
+        "name": "Somewhere in the Skies Episode #26 — Karl Pfeiffer: The Science and Philosophy of the Paranormal",
+        "seriesId": "somewhere-in-the-skies-podcast",
+        "date": "2017-10-08",
+        "sharedEntityIds": [
+          "investigators-and-researchers",
+          "ryan-sprague",
+          "uap-research"
+        ],
+        "sharedEntityCount": 3,
+        "score": 35
+      },
+      {
+        "id": "2017-somewhere-in-the-skies-episode-22",
+        "name": "Somewhere in the Skies Episode #22 — Mike Clelland: The Messengers",
+        "seriesId": "somewhere-in-the-skies-podcast",
+        "date": "2017-09-11",
+        "sharedEntityIds": [
+          "investigators-and-researchers",
+          "ryan-sprague",
+          "uap-research"
+        ],
+        "sharedEntityCount": 3,
+        "score": 35
+      },
+      {
+        "id": "2017-somewhere-in-the-skies-episode-18",
+        "name": "Somewhere in the Skies Episode #18 — MJ Banias: Whiskey, UFOs, and Shaking the ET Hypothesis",
+        "seriesId": "somewhere-in-the-skies-podcast",
+        "date": "2017-08-14",
+        "sharedEntityIds": [
+          "investigators-and-researchers",
+          "ryan-sprague",
+          "uap-research"
+        ],
+        "sharedEntityCount": 3,
+        "score": 35
+      },
+      {
+        "id": "2017-somewhere-in-the-skies-episode-17",
+        "name": "Somewhere in the Skies Episode #17 — Peter Robbins: Imagery, Reality, and UFOs: Sorting Truth From Fiction",
+        "seriesId": "somewhere-in-the-skies-podcast",
+        "date": "2017-08-07",
+        "sharedEntityIds": [
+          "investigators-and-researchers",
+          "ryan-sprague",
+          "uap-research"
+        ],
+        "sharedEntityCount": 3,
+        "score": 35
+      }
+    ],
+    "2017-somewhere-in-the-skies-episode-13": [
+      {
+        "id": "2017-somewhere-in-the-skies-episode-35",
+        "name": "Somewhere in the Skies Episode #35 — Paul Cornell: Saucer Country",
+        "seriesId": "somewhere-in-the-skies-podcast",
+        "date": "2017-12-11",
+        "sharedEntityIds": [
+          "books-and-publications",
+          "media-and-popular-culture",
+          "ryan-sprague"
+        ],
+        "sharedEntityCount": 3,
+        "score": 35
+      },
+      {
+        "id": "2017-somewhere-in-the-skies-episode-31",
+        "name": "Somewhere in the Skies Episode #31 — Robbie Graham: Silver Screen Saucers",
+        "seriesId": "somewhere-in-the-skies-podcast",
+        "date": "2017-11-12",
+        "sharedEntityIds": [
+          "books-and-publications",
+          "media-and-popular-culture",
+          "ryan-sprague"
+        ],
+        "sharedEntityCount": 3,
+        "score": 35
+      },
+      {
+        "id": "2017-somewhere-in-the-skies-episode-27",
+        "name": "Somewhere in the Skies Episode #27 — Aaron Mahnke: The Story Behind LORE",
+        "seriesId": "somewhere-in-the-skies-podcast",
+        "date": "2017-10-15",
+        "sharedEntityIds": [
+          "books-and-publications",
+          "media-and-popular-culture",
+          "ryan-sprague"
+        ],
+        "sharedEntityCount": 3,
+        "score": 35
+      },
+      {
+        "id": "2017-somewhere-in-the-skies-episode-23",
+        "name": "Somewhere in the Skies Episode #23 — The Truth Is Out There with the Guilty Pleasure Podcast",
+        "seriesId": "somewhere-in-the-skies-podcast",
+        "date": "2017-09-18",
+        "sharedEntityIds": [
+          "books-and-publications",
+          "media-and-popular-culture",
+          "ryan-sprague"
+        ],
+        "sharedEntityCount": 3,
+        "score": 35
+      },
+      {
+        "id": "2017-somewhere-in-the-skies-episode-16",
+        "name": "Somewhere in the Skies Episode #16 — Sammy Waisanen: The Howl Horror Program and Fire in the Sky",
+        "seriesId": "somewhere-in-the-skies-podcast",
+        "date": "2017-07-31",
+        "sharedEntityIds": [
+          "books-and-publications",
+          "media-and-popular-culture",
+          "ryan-sprague"
+        ],
+        "sharedEntityCount": 3,
+        "score": 35
+      },
+      {
+        "id": "2017-somewhere-in-the-skies-episode-15",
+        "name": "Somewhere in the Skies Episode #15 — David Jenkins: People of Earth",
+        "seriesId": "somewhere-in-the-skies-podcast",
+        "date": "2017-07-24",
+        "sharedEntityIds": [
+          "books-and-publications",
+          "media-and-popular-culture",
+          "ryan-sprague"
+        ],
+        "sharedEntityCount": 3,
+        "score": 35
+      }
+    ],
+    "2017-somewhere-in-the-skies-episode-14": [
+      {
+        "id": "2017-somewhere-in-the-skies-episode-32",
+        "name": "Somewhere in the Skies Episode #32 — Rob Kristoffersen: Men in Black",
+        "seriesId": "somewhere-in-the-skies-podcast",
+        "date": "2017-11-19",
+        "sharedEntityIds": [
+          "investigators-and-researchers",
+          "ryan-sprague",
+          "uap-research"
+        ],
+        "sharedEntityCount": 3,
+        "score": 35
+      },
+      {
+        "id": "2017-somewhere-in-the-skies-episode-28",
+        "name": "Somewhere in the Skies Episode #28 — Shannon LeGro: Into the Fray",
+        "seriesId": "somewhere-in-the-skies-podcast",
+        "date": "2017-10-22",
+        "sharedEntityIds": [
+          "investigators-and-researchers",
+          "ryan-sprague",
+          "uap-research"
+        ],
+        "sharedEntityCount": 3,
+        "score": 35
+      },
+      {
+        "id": "2017-somewhere-in-the-skies-episode-26",
+        "name": "Somewhere in the Skies Episode #26 — Karl Pfeiffer: The Science and Philosophy of the Paranormal",
+        "seriesId": "somewhere-in-the-skies-podcast",
+        "date": "2017-10-08",
+        "sharedEntityIds": [
+          "investigators-and-researchers",
+          "ryan-sprague",
+          "uap-research"
+        ],
+        "sharedEntityCount": 3,
+        "score": 35
+      },
+      {
+        "id": "2017-somewhere-in-the-skies-episode-22",
+        "name": "Somewhere in the Skies Episode #22 — Mike Clelland: The Messengers",
+        "seriesId": "somewhere-in-the-skies-podcast",
+        "date": "2017-09-11",
+        "sharedEntityIds": [
+          "investigators-and-researchers",
+          "ryan-sprague",
+          "uap-research"
+        ],
+        "sharedEntityCount": 3,
+        "score": 35
+      },
+      {
+        "id": "2017-somewhere-in-the-skies-episode-18",
+        "name": "Somewhere in the Skies Episode #18 — MJ Banias: Whiskey, UFOs, and Shaking the ET Hypothesis",
+        "seriesId": "somewhere-in-the-skies-podcast",
+        "date": "2017-08-14",
+        "sharedEntityIds": [
+          "investigators-and-researchers",
+          "ryan-sprague",
+          "uap-research"
+        ],
+        "sharedEntityCount": 3,
+        "score": 35
+      },
+      {
+        "id": "2017-somewhere-in-the-skies-episode-17",
+        "name": "Somewhere in the Skies Episode #17 — Peter Robbins: Imagery, Reality, and UFOs: Sorting Truth From Fiction",
+        "seriesId": "somewhere-in-the-skies-podcast",
+        "date": "2017-08-07",
+        "sharedEntityIds": [
+          "investigators-and-researchers",
+          "ryan-sprague",
+          "uap-research"
+        ],
+        "sharedEntityCount": 3,
+        "score": 35
+      }
+    ],
+    "2017-somewhere-in-the-skies-episode-15": [
+      {
+        "id": "2017-somewhere-in-the-skies-episode-35",
+        "name": "Somewhere in the Skies Episode #35 — Paul Cornell: Saucer Country",
+        "seriesId": "somewhere-in-the-skies-podcast",
+        "date": "2017-12-11",
+        "sharedEntityIds": [
+          "books-and-publications",
+          "media-and-popular-culture",
+          "ryan-sprague"
+        ],
+        "sharedEntityCount": 3,
+        "score": 35
+      },
+      {
+        "id": "2017-somewhere-in-the-skies-episode-31",
+        "name": "Somewhere in the Skies Episode #31 — Robbie Graham: Silver Screen Saucers",
+        "seriesId": "somewhere-in-the-skies-podcast",
+        "date": "2017-11-12",
+        "sharedEntityIds": [
+          "books-and-publications",
+          "media-and-popular-culture",
+          "ryan-sprague"
+        ],
+        "sharedEntityCount": 3,
+        "score": 35
+      },
+      {
+        "id": "2017-somewhere-in-the-skies-episode-27",
+        "name": "Somewhere in the Skies Episode #27 — Aaron Mahnke: The Story Behind LORE",
+        "seriesId": "somewhere-in-the-skies-podcast",
+        "date": "2017-10-15",
+        "sharedEntityIds": [
+          "books-and-publications",
+          "media-and-popular-culture",
+          "ryan-sprague"
+        ],
+        "sharedEntityCount": 3,
+        "score": 35
+      },
+      {
+        "id": "2017-somewhere-in-the-skies-episode-23",
+        "name": "Somewhere in the Skies Episode #23 — The Truth Is Out There with the Guilty Pleasure Podcast",
+        "seriesId": "somewhere-in-the-skies-podcast",
+        "date": "2017-09-18",
+        "sharedEntityIds": [
+          "books-and-publications",
+          "media-and-popular-culture",
+          "ryan-sprague"
+        ],
+        "sharedEntityCount": 3,
+        "score": 35
+      },
+      {
+        "id": "2017-somewhere-in-the-skies-episode-16",
+        "name": "Somewhere in the Skies Episode #16 — Sammy Waisanen: The Howl Horror Program and Fire in the Sky",
+        "seriesId": "somewhere-in-the-skies-podcast",
+        "date": "2017-07-31",
+        "sharedEntityIds": [
+          "books-and-publications",
+          "media-and-popular-culture",
+          "ryan-sprague"
+        ],
+        "sharedEntityCount": 3,
+        "score": 35
+      },
+      {
+        "id": "2017-somewhere-in-the-skies-episode-13",
+        "name": "Somewhere in the Skies Episode #13 — Mike Damante: Punk Rock and UFOs",
+        "seriesId": "somewhere-in-the-skies-podcast",
+        "date": "2017-07-10",
+        "sharedEntityIds": [
+          "books-and-publications",
+          "media-and-popular-culture",
+          "ryan-sprague"
+        ],
+        "sharedEntityCount": 3,
+        "score": 35
+      }
+    ],
+    "2017-somewhere-in-the-skies-episode-16": [
+      {
+        "id": "2017-somewhere-in-the-skies-episode-35",
+        "name": "Somewhere in the Skies Episode #35 — Paul Cornell: Saucer Country",
+        "seriesId": "somewhere-in-the-skies-podcast",
+        "date": "2017-12-11",
+        "sharedEntityIds": [
+          "books-and-publications",
+          "media-and-popular-culture",
+          "ryan-sprague"
+        ],
+        "sharedEntityCount": 3,
+        "score": 35
+      },
+      {
+        "id": "2017-somewhere-in-the-skies-episode-31",
+        "name": "Somewhere in the Skies Episode #31 — Robbie Graham: Silver Screen Saucers",
+        "seriesId": "somewhere-in-the-skies-podcast",
+        "date": "2017-11-12",
+        "sharedEntityIds": [
+          "books-and-publications",
+          "media-and-popular-culture",
+          "ryan-sprague"
+        ],
+        "sharedEntityCount": 3,
+        "score": 35
+      },
+      {
+        "id": "2017-somewhere-in-the-skies-episode-27",
+        "name": "Somewhere in the Skies Episode #27 — Aaron Mahnke: The Story Behind LORE",
+        "seriesId": "somewhere-in-the-skies-podcast",
+        "date": "2017-10-15",
+        "sharedEntityIds": [
+          "books-and-publications",
+          "media-and-popular-culture",
+          "ryan-sprague"
+        ],
+        "sharedEntityCount": 3,
+        "score": 35
+      },
+      {
+        "id": "2017-somewhere-in-the-skies-episode-23",
+        "name": "Somewhere in the Skies Episode #23 — The Truth Is Out There with the Guilty Pleasure Podcast",
+        "seriesId": "somewhere-in-the-skies-podcast",
+        "date": "2017-09-18",
+        "sharedEntityIds": [
+          "books-and-publications",
+          "media-and-popular-culture",
+          "ryan-sprague"
+        ],
+        "sharedEntityCount": 3,
+        "score": 35
+      },
+      {
+        "id": "2017-somewhere-in-the-skies-episode-15",
+        "name": "Somewhere in the Skies Episode #15 — David Jenkins: People of Earth",
+        "seriesId": "somewhere-in-the-skies-podcast",
+        "date": "2017-07-24",
+        "sharedEntityIds": [
+          "books-and-publications",
+          "media-and-popular-culture",
+          "ryan-sprague"
+        ],
+        "sharedEntityCount": 3,
+        "score": 35
+      },
+      {
+        "id": "2017-somewhere-in-the-skies-episode-13",
+        "name": "Somewhere in the Skies Episode #13 — Mike Damante: Punk Rock and UFOs",
+        "seriesId": "somewhere-in-the-skies-podcast",
+        "date": "2017-07-10",
+        "sharedEntityIds": [
+          "books-and-publications",
+          "media-and-popular-culture",
+          "ryan-sprague"
+        ],
+        "sharedEntityCount": 3,
+        "score": 35
+      }
+    ],
+    "2017-somewhere-in-the-skies-episode-17": [
+      {
+        "id": "2017-somewhere-in-the-skies-episode-26",
+        "name": "Somewhere in the Skies Episode #26 — Karl Pfeiffer: The Science and Philosophy of the Paranormal",
+        "seriesId": "somewhere-in-the-skies-podcast",
+        "date": "2017-10-08",
+        "sharedEntityIds": [
+          "investigators-and-researchers",
+          "ryan-sprague",
+          "uap-research",
+          "ufo-history"
+        ],
+        "sharedEntityCount": 4,
+        "score": 45
+      },
+      {
+        "id": "2017-somewhere-in-the-skies-episode-22",
+        "name": "Somewhere in the Skies Episode #22 — Mike Clelland: The Messengers",
+        "seriesId": "somewhere-in-the-skies-podcast",
+        "date": "2017-09-11",
+        "sharedEntityIds": [
+          "investigators-and-researchers",
+          "ryan-sprague",
+          "uap-research",
+          "ufo-history"
+        ],
+        "sharedEntityCount": 4,
+        "score": 45
+      },
+      {
+        "id": "2017-somewhere-in-the-skies-episode-18",
+        "name": "Somewhere in the Skies Episode #18 — MJ Banias: Whiskey, UFOs, and Shaking the ET Hypothesis",
+        "seriesId": "somewhere-in-the-skies-podcast",
+        "date": "2017-08-14",
+        "sharedEntityIds": [
+          "investigators-and-researchers",
+          "ryan-sprague",
+          "uap-research",
+          "ufo-history"
+        ],
+        "sharedEntityCount": 4,
+        "score": 45
+      },
+      {
+        "id": "2017-somewhere-in-the-skies-episode-10",
+        "name": "Somewhere in the Skies Episode #10 — Mark O'Connell: The Close Encounters Man",
+        "seriesId": "somewhere-in-the-skies-podcast",
+        "date": "2017-06-19",
+        "sharedEntityIds": [
+          "investigators-and-researchers",
+          "ryan-sprague",
+          "uap-research",
+          "ufo-history"
+        ],
+        "sharedEntityCount": 4,
+        "score": 45
+      },
+      {
+        "id": "2017-somewhere-in-the-skies-episode-3",
+        "name": "Somewhere in the Skies Episode #3 — Greg Eghigian: History of a Cultural Phenomenon",
+        "seriesId": "somewhere-in-the-skies-podcast",
+        "date": "2017-05-01",
+        "sharedEntityIds": [
+          "investigators-and-researchers",
+          "ryan-sprague",
+          "uap-research",
+          "ufo-history"
+        ],
+        "sharedEntityCount": 4,
+        "score": 45
+      },
+      {
+        "id": "2017-somewhere-in-the-skies-episode-2",
+        "name": "Somewhere in the Skies Episode #2 — Micah Hanks: Building a Better UFOlogy | Truth, Myths & the Future of UAP Research",
+        "seriesId": "somewhere-in-the-skies-podcast",
+        "date": "2017-04-24",
+        "sharedEntityIds": [
+          "investigators-and-researchers",
+          "ryan-sprague",
+          "uap-research",
+          "ufo-history"
+        ],
+        "sharedEntityCount": 4,
+        "score": 45
+      }
+    ],
+    "2017-somewhere-in-the-skies-episode-18": [
+      {
+        "id": "2017-somewhere-in-the-skies-episode-26",
+        "name": "Somewhere in the Skies Episode #26 — Karl Pfeiffer: The Science and Philosophy of the Paranormal",
+        "seriesId": "somewhere-in-the-skies-podcast",
+        "date": "2017-10-08",
+        "sharedEntityIds": [
+          "investigators-and-researchers",
+          "ryan-sprague",
+          "uap-research",
+          "ufo-history"
+        ],
+        "sharedEntityCount": 4,
+        "score": 45
+      },
+      {
+        "id": "2017-somewhere-in-the-skies-episode-22",
+        "name": "Somewhere in the Skies Episode #22 — Mike Clelland: The Messengers",
+        "seriesId": "somewhere-in-the-skies-podcast",
+        "date": "2017-09-11",
+        "sharedEntityIds": [
+          "investigators-and-researchers",
+          "ryan-sprague",
+          "uap-research",
+          "ufo-history"
+        ],
+        "sharedEntityCount": 4,
+        "score": 45
+      },
+      {
+        "id": "2017-somewhere-in-the-skies-episode-17",
+        "name": "Somewhere in the Skies Episode #17 — Peter Robbins: Imagery, Reality, and UFOs: Sorting Truth From Fiction",
+        "seriesId": "somewhere-in-the-skies-podcast",
+        "date": "2017-08-07",
+        "sharedEntityIds": [
+          "investigators-and-researchers",
+          "ryan-sprague",
+          "uap-research",
+          "ufo-history"
+        ],
+        "sharedEntityCount": 4,
+        "score": 45
+      },
+      {
+        "id": "2017-somewhere-in-the-skies-episode-10",
+        "name": "Somewhere in the Skies Episode #10 — Mark O'Connell: The Close Encounters Man",
+        "seriesId": "somewhere-in-the-skies-podcast",
+        "date": "2017-06-19",
+        "sharedEntityIds": [
+          "investigators-and-researchers",
+          "ryan-sprague",
+          "uap-research",
+          "ufo-history"
+        ],
+        "sharedEntityCount": 4,
+        "score": 45
+      },
+      {
+        "id": "2017-somewhere-in-the-skies-episode-3",
+        "name": "Somewhere in the Skies Episode #3 — Greg Eghigian: History of a Cultural Phenomenon",
+        "seriesId": "somewhere-in-the-skies-podcast",
+        "date": "2017-05-01",
+        "sharedEntityIds": [
+          "investigators-and-researchers",
+          "ryan-sprague",
+          "uap-research",
+          "ufo-history"
+        ],
+        "sharedEntityCount": 4,
+        "score": 45
+      },
+      {
+        "id": "2017-somewhere-in-the-skies-episode-2",
+        "name": "Somewhere in the Skies Episode #2 — Micah Hanks: Building a Better UFOlogy | Truth, Myths & the Future of UAP Research",
+        "seriesId": "somewhere-in-the-skies-podcast",
+        "date": "2017-04-24",
+        "sharedEntityIds": [
+          "investigators-and-researchers",
+          "ryan-sprague",
+          "uap-research",
+          "ufo-history"
+        ],
+        "sharedEntityCount": 4,
+        "score": 45
+      }
+    ],
+    "2017-somewhere-in-the-skies-episode-19": [
+      {
+        "id": "2017-somewhere-in-the-skies-episode-33",
+        "name": "Somewhere in the Skies Episode #33 — Michael Huntington: Childhood UFO Encounters",
+        "seriesId": "somewhere-in-the-skies-podcast",
+        "date": "2017-11-27",
+        "sharedEntityIds": [
+          "historical-ufo-cases",
+          "ryan-sprague",
+          "uap-research",
+          "witness-accounts"
+        ],
+        "sharedEntityCount": 4,
+        "score": 45
+      },
+      {
+        "id": "2017-somewhere-in-the-skies-episode-30",
+        "name": "Somewhere in the Skies Episode #30 — The Andreasson Abduction",
+        "seriesId": "somewhere-in-the-skies-podcast",
+        "date": "2017-11-05",
+        "sharedEntityIds": [
+          "historical-ufo-cases",
+          "ryan-sprague",
+          "uap-research",
+          "witness-accounts"
+        ],
+        "sharedEntityCount": 4,
+        "score": 45
+      },
+      {
+        "id": "2017-somewhere-in-the-skies-episode-29",
+        "name": "Somewhere in the Skies Episode #29 — Brian Bethel: Black Eyed Kid Phenomenon",
+        "seriesId": "somewhere-in-the-skies-podcast",
+        "date": "2017-10-29",
+        "sharedEntityIds": [
+          "historical-ufo-cases",
+          "ryan-sprague",
+          "uap-research",
+          "witness-accounts"
+        ],
+        "sharedEntityCount": 4,
+        "score": 45
+      },
+      {
+        "id": "2017-somewhere-in-the-skies-episode-25",
+        "name": "Somewhere in the Skies Episode #25 — Seth Breedlove: Invasion on Chestnut Ridge",
+        "seriesId": "somewhere-in-the-skies-podcast",
+        "date": "2017-10-02",
+        "sharedEntityIds": [
+          "historical-ufo-cases",
+          "ryan-sprague",
+          "uap-research",
+          "witness-accounts"
+        ],
+        "sharedEntityCount": 4,
+        "score": 45
+      },
+      {
+        "id": "2017-somewhere-in-the-skies-episode-24",
+        "name": "Somewhere in the Skies Episode #24 — Chris Garetano: Dark Files and the Montauk Project",
+        "seriesId": "somewhere-in-the-skies-podcast",
+        "date": "2017-09-25",
+        "sharedEntityIds": [
+          "historical-ufo-cases",
+          "ryan-sprague",
+          "uap-research",
+          "witness-accounts"
+        ],
+        "sharedEntityCount": 4,
+        "score": 45
+      },
+      {
+        "id": "2017-somewhere-in-the-skies-episode-11",
+        "name": "Somewhere in the Skies Episode #11 — Erica Lukes: Dugway, Skinwalker Ranch, and UFOs over Utah",
+        "seriesId": "somewhere-in-the-skies-podcast",
+        "date": "2017-06-26",
+        "sharedEntityIds": [
+          "historical-ufo-cases",
+          "ryan-sprague",
+          "uap-research",
+          "witness-accounts"
+        ],
+        "sharedEntityCount": 4,
+        "score": 45
+      }
+    ],
+    "2017-somewhere-in-the-skies-episode-2": [
+      {
+        "id": "2017-somewhere-in-the-skies-episode-26",
+        "name": "Somewhere in the Skies Episode #26 — Karl Pfeiffer: The Science and Philosophy of the Paranormal",
+        "seriesId": "somewhere-in-the-skies-podcast",
+        "date": "2017-10-08",
+        "sharedEntityIds": [
+          "investigators-and-researchers",
+          "ryan-sprague",
+          "uap-research",
+          "ufo-history"
+        ],
+        "sharedEntityCount": 4,
+        "score": 45
+      },
+      {
+        "id": "2017-somewhere-in-the-skies-episode-22",
+        "name": "Somewhere in the Skies Episode #22 — Mike Clelland: The Messengers",
+        "seriesId": "somewhere-in-the-skies-podcast",
+        "date": "2017-09-11",
+        "sharedEntityIds": [
+          "investigators-and-researchers",
+          "ryan-sprague",
+          "uap-research",
+          "ufo-history"
+        ],
+        "sharedEntityCount": 4,
+        "score": 45
+      },
+      {
+        "id": "2017-somewhere-in-the-skies-episode-18",
+        "name": "Somewhere in the Skies Episode #18 — MJ Banias: Whiskey, UFOs, and Shaking the ET Hypothesis",
+        "seriesId": "somewhere-in-the-skies-podcast",
+        "date": "2017-08-14",
+        "sharedEntityIds": [
+          "investigators-and-researchers",
+          "ryan-sprague",
+          "uap-research",
+          "ufo-history"
+        ],
+        "sharedEntityCount": 4,
+        "score": 45
+      },
+      {
+        "id": "2017-somewhere-in-the-skies-episode-17",
+        "name": "Somewhere in the Skies Episode #17 — Peter Robbins: Imagery, Reality, and UFOs: Sorting Truth From Fiction",
+        "seriesId": "somewhere-in-the-skies-podcast",
+        "date": "2017-08-07",
+        "sharedEntityIds": [
+          "investigators-and-researchers",
+          "ryan-sprague",
+          "uap-research",
+          "ufo-history"
+        ],
+        "sharedEntityCount": 4,
+        "score": 45
+      },
+      {
+        "id": "2017-somewhere-in-the-skies-episode-10",
+        "name": "Somewhere in the Skies Episode #10 — Mark O'Connell: The Close Encounters Man",
+        "seriesId": "somewhere-in-the-skies-podcast",
+        "date": "2017-06-19",
+        "sharedEntityIds": [
+          "investigators-and-researchers",
+          "ryan-sprague",
+          "uap-research",
+          "ufo-history"
+        ],
+        "sharedEntityCount": 4,
+        "score": 45
+      },
+      {
+        "id": "2017-somewhere-in-the-skies-episode-3",
+        "name": "Somewhere in the Skies Episode #3 — Greg Eghigian: History of a Cultural Phenomenon",
+        "seriesId": "somewhere-in-the-skies-podcast",
+        "date": "2017-05-01",
+        "sharedEntityIds": [
+          "investigators-and-researchers",
+          "ryan-sprague",
+          "uap-research",
+          "ufo-history"
+        ],
+        "sharedEntityCount": 4,
+        "score": 45
+      }
+    ],
+    "2017-somewhere-in-the-skies-episode-20": [
+      {
+        "id": "2017-somewhere-in-the-skies-episode-26",
+        "name": "Somewhere in the Skies Episode #26 — Karl Pfeiffer: The Science and Philosophy of the Paranormal",
+        "seriesId": "somewhere-in-the-skies-podcast",
+        "date": "2017-10-08",
+        "sharedEntityIds": [
+          "high-strangeness",
+          "ryan-sprague",
+          "ufo-history"
+        ],
+        "sharedEntityCount": 3,
+        "score": 35
+      },
+      {
+        "id": "2017-somewhere-in-the-skies-episode-21",
+        "name": "Somewhere in the Skies Episode #21 — Jason McClellan: Beers, Ghosts, and UFOs",
+        "seriesId": "somewhere-in-the-skies-podcast",
+        "date": "2017-09-04",
+        "sharedEntityIds": [
+          "high-strangeness",
+          "ryan-sprague",
+          "ufo-history"
+        ],
+        "sharedEntityCount": 3,
+        "score": 35
+      },
+      {
+        "id": "2017-somewhere-in-the-skies-episode-36",
+        "name": "Somewhere in the Skies Episode #36 — UFO Roundtable: The Year In Review",
+        "seriesId": "somewhere-in-the-skies-podcast",
+        "date": "2017-12-19",
+        "sharedEntityIds": [
+          "ryan-sprague",
+          "ufo-history"
+        ],
+        "sharedEntityCount": 2,
+        "score": 25
+      },
+      {
+        "id": "2017-somewhere-in-the-skies-episode-29",
+        "name": "Somewhere in the Skies Episode #29 — Brian Bethel: Black Eyed Kid Phenomenon",
+        "seriesId": "somewhere-in-the-skies-podcast",
+        "date": "2017-10-29",
+        "sharedEntityIds": [
+          "high-strangeness",
+          "ryan-sprague"
+        ],
+        "sharedEntityCount": 2,
+        "score": 25
+      },
+      {
+        "id": "2017-somewhere-in-the-skies-episode-27",
+        "name": "Somewhere in the Skies Episode #27 — Aaron Mahnke: The Story Behind LORE",
+        "seriesId": "somewhere-in-the-skies-podcast",
+        "date": "2017-10-15",
+        "sharedEntityIds": [
+          "high-strangeness",
+          "ryan-sprague"
+        ],
+        "sharedEntityCount": 2,
+        "score": 25
+      },
+      {
+        "id": "2017-somewhere-in-the-skies-episode-24",
+        "name": "Somewhere in the Skies Episode #24 — Chris Garetano: Dark Files and the Montauk Project",
+        "seriesId": "somewhere-in-the-skies-podcast",
+        "date": "2017-09-25",
+        "sharedEntityIds": [
+          "high-strangeness",
+          "ryan-sprague"
+        ],
+        "sharedEntityCount": 2,
+        "score": 25
+      }
+    ],
+    "2017-somewhere-in-the-skies-episode-21": [
+      {
+        "id": "2017-somewhere-in-the-skies-episode-26",
+        "name": "Somewhere in the Skies Episode #26 — Karl Pfeiffer: The Science and Philosophy of the Paranormal",
+        "seriesId": "somewhere-in-the-skies-podcast",
+        "date": "2017-10-08",
+        "sharedEntityIds": [
+          "high-strangeness",
+          "ryan-sprague",
+          "uap-research",
+          "ufo-history"
+        ],
+        "sharedEntityCount": 4,
+        "score": 45
+      },
+      {
+        "id": "2017-somewhere-in-the-skies-episode-36",
+        "name": "Somewhere in the Skies Episode #36 — UFO Roundtable: The Year In Review",
+        "seriesId": "somewhere-in-the-skies-podcast",
+        "date": "2017-12-19",
+        "sharedEntityIds": [
+          "ryan-sprague",
+          "uap-research",
+          "ufo-history"
+        ],
+        "sharedEntityCount": 3,
+        "score": 35
+      },
+      {
+        "id": "2017-somewhere-in-the-skies-episode-29",
+        "name": "Somewhere in the Skies Episode #29 — Brian Bethel: Black Eyed Kid Phenomenon",
+        "seriesId": "somewhere-in-the-skies-podcast",
+        "date": "2017-10-29",
+        "sharedEntityIds": [
+          "high-strangeness",
+          "ryan-sprague",
+          "uap-research"
+        ],
+        "sharedEntityCount": 3,
+        "score": 35
+      },
+      {
+        "id": "2017-somewhere-in-the-skies-episode-24",
+        "name": "Somewhere in the Skies Episode #24 — Chris Garetano: Dark Files and the Montauk Project",
+        "seriesId": "somewhere-in-the-skies-podcast",
+        "date": "2017-09-25",
+        "sharedEntityIds": [
+          "high-strangeness",
+          "ryan-sprague",
+          "uap-research"
+        ],
+        "sharedEntityCount": 3,
+        "score": 35
+      },
+      {
+        "id": "2017-somewhere-in-the-skies-episode-22",
+        "name": "Somewhere in the Skies Episode #22 — Mike Clelland: The Messengers",
+        "seriesId": "somewhere-in-the-skies-podcast",
+        "date": "2017-09-11",
+        "sharedEntityIds": [
+          "ryan-sprague",
+          "uap-research",
+          "ufo-history"
+        ],
+        "sharedEntityCount": 3,
+        "score": 35
+      },
+      {
+        "id": "2017-somewhere-in-the-skies-episode-20",
+        "name": "Somewhere in the Skies Episode #20 — Spooked in Nova Scotia: A Paranormal Roundtable",
+        "seriesId": "somewhere-in-the-skies-podcast",
+        "date": "2017-08-28",
+        "sharedEntityIds": [
+          "high-strangeness",
+          "ryan-sprague",
+          "ufo-history"
+        ],
+        "sharedEntityCount": 3,
+        "score": 35
+      }
+    ],
+    "2017-somewhere-in-the-skies-episode-22": [
+      {
+        "id": "2017-somewhere-in-the-skies-episode-26",
+        "name": "Somewhere in the Skies Episode #26 — Karl Pfeiffer: The Science and Philosophy of the Paranormal",
+        "seriesId": "somewhere-in-the-skies-podcast",
+        "date": "2017-10-08",
+        "sharedEntityIds": [
+          "investigators-and-researchers",
+          "ryan-sprague",
+          "uap-research",
+          "ufo-history"
+        ],
+        "sharedEntityCount": 4,
+        "score": 45
+      },
+      {
+        "id": "2017-somewhere-in-the-skies-episode-18",
+        "name": "Somewhere in the Skies Episode #18 — MJ Banias: Whiskey, UFOs, and Shaking the ET Hypothesis",
+        "seriesId": "somewhere-in-the-skies-podcast",
+        "date": "2017-08-14",
+        "sharedEntityIds": [
+          "investigators-and-researchers",
+          "ryan-sprague",
+          "uap-research",
+          "ufo-history"
+        ],
+        "sharedEntityCount": 4,
+        "score": 45
+      },
+      {
+        "id": "2017-somewhere-in-the-skies-episode-17",
+        "name": "Somewhere in the Skies Episode #17 — Peter Robbins: Imagery, Reality, and UFOs: Sorting Truth From Fiction",
+        "seriesId": "somewhere-in-the-skies-podcast",
+        "date": "2017-08-07",
+        "sharedEntityIds": [
+          "investigators-and-researchers",
+          "ryan-sprague",
+          "uap-research",
+          "ufo-history"
+        ],
+        "sharedEntityCount": 4,
+        "score": 45
+      },
+      {
+        "id": "2017-somewhere-in-the-skies-episode-10",
+        "name": "Somewhere in the Skies Episode #10 — Mark O'Connell: The Close Encounters Man",
+        "seriesId": "somewhere-in-the-skies-podcast",
+        "date": "2017-06-19",
+        "sharedEntityIds": [
+          "investigators-and-researchers",
+          "ryan-sprague",
+          "uap-research",
+          "ufo-history"
+        ],
+        "sharedEntityCount": 4,
+        "score": 45
+      },
+      {
+        "id": "2017-somewhere-in-the-skies-episode-3",
+        "name": "Somewhere in the Skies Episode #3 — Greg Eghigian: History of a Cultural Phenomenon",
+        "seriesId": "somewhere-in-the-skies-podcast",
+        "date": "2017-05-01",
+        "sharedEntityIds": [
+          "investigators-and-researchers",
+          "ryan-sprague",
+          "uap-research",
+          "ufo-history"
+        ],
+        "sharedEntityCount": 4,
+        "score": 45
+      },
+      {
+        "id": "2017-somewhere-in-the-skies-episode-2",
+        "name": "Somewhere in the Skies Episode #2 — Micah Hanks: Building a Better UFOlogy | Truth, Myths & the Future of UAP Research",
+        "seriesId": "somewhere-in-the-skies-podcast",
+        "date": "2017-04-24",
+        "sharedEntityIds": [
+          "investigators-and-researchers",
+          "ryan-sprague",
+          "uap-research",
+          "ufo-history"
+        ],
+        "sharedEntityCount": 4,
+        "score": 45
+      }
+    ],
+    "2017-somewhere-in-the-skies-episode-23": [
+      {
+        "id": "2017-somewhere-in-the-skies-episode-35",
+        "name": "Somewhere in the Skies Episode #35 — Paul Cornell: Saucer Country",
+        "seriesId": "somewhere-in-the-skies-podcast",
+        "date": "2017-12-11",
+        "sharedEntityIds": [
+          "books-and-publications",
+          "media-and-popular-culture",
+          "ryan-sprague"
+        ],
+        "sharedEntityCount": 3,
+        "score": 35
+      },
+      {
+        "id": "2017-somewhere-in-the-skies-episode-31",
+        "name": "Somewhere in the Skies Episode #31 — Robbie Graham: Silver Screen Saucers",
+        "seriesId": "somewhere-in-the-skies-podcast",
+        "date": "2017-11-12",
+        "sharedEntityIds": [
+          "books-and-publications",
+          "media-and-popular-culture",
+          "ryan-sprague"
+        ],
+        "sharedEntityCount": 3,
+        "score": 35
+      },
+      {
+        "id": "2017-somewhere-in-the-skies-episode-27",
+        "name": "Somewhere in the Skies Episode #27 — Aaron Mahnke: The Story Behind LORE",
+        "seriesId": "somewhere-in-the-skies-podcast",
+        "date": "2017-10-15",
+        "sharedEntityIds": [
+          "books-and-publications",
+          "media-and-popular-culture",
+          "ryan-sprague"
+        ],
+        "sharedEntityCount": 3,
+        "score": 35
+      },
+      {
+        "id": "2017-somewhere-in-the-skies-episode-16",
+        "name": "Somewhere in the Skies Episode #16 — Sammy Waisanen: The Howl Horror Program and Fire in the Sky",
+        "seriesId": "somewhere-in-the-skies-podcast",
+        "date": "2017-07-31",
+        "sharedEntityIds": [
+          "books-and-publications",
+          "media-and-popular-culture",
+          "ryan-sprague"
+        ],
+        "sharedEntityCount": 3,
+        "score": 35
+      },
+      {
+        "id": "2017-somewhere-in-the-skies-episode-15",
+        "name": "Somewhere in the Skies Episode #15 — David Jenkins: People of Earth",
+        "seriesId": "somewhere-in-the-skies-podcast",
+        "date": "2017-07-24",
+        "sharedEntityIds": [
+          "books-and-publications",
+          "media-and-popular-culture",
+          "ryan-sprague"
+        ],
+        "sharedEntityCount": 3,
+        "score": 35
+      },
+      {
+        "id": "2017-somewhere-in-the-skies-episode-13",
+        "name": "Somewhere in the Skies Episode #13 — Mike Damante: Punk Rock and UFOs",
+        "seriesId": "somewhere-in-the-skies-podcast",
+        "date": "2017-07-10",
+        "sharedEntityIds": [
+          "books-and-publications",
+          "media-and-popular-culture",
+          "ryan-sprague"
+        ],
+        "sharedEntityCount": 3,
+        "score": 35
+      }
+    ],
+    "2017-somewhere-in-the-skies-episode-24": [
+      {
+        "id": "2017-somewhere-in-the-skies-episode-29",
+        "name": "Somewhere in the Skies Episode #29 — Brian Bethel: Black Eyed Kid Phenomenon",
+        "seriesId": "somewhere-in-the-skies-podcast",
+        "date": "2017-10-29",
+        "sharedEntityIds": [
+          "high-strangeness",
+          "historical-ufo-cases",
+          "ryan-sprague",
+          "uap-research",
+          "witness-accounts"
+        ],
+        "sharedEntityCount": 5,
+        "score": 55
+      },
+      {
+        "id": "2017-somewhere-in-the-skies-episode-33",
+        "name": "Somewhere in the Skies Episode #33 — Michael Huntington: Childhood UFO Encounters",
+        "seriesId": "somewhere-in-the-skies-podcast",
+        "date": "2017-11-27",
+        "sharedEntityIds": [
+          "historical-ufo-cases",
+          "ryan-sprague",
+          "uap-research",
+          "witness-accounts"
+        ],
+        "sharedEntityCount": 4,
+        "score": 45
+      },
+      {
+        "id": "2017-somewhere-in-the-skies-episode-30",
+        "name": "Somewhere in the Skies Episode #30 — The Andreasson Abduction",
+        "seriesId": "somewhere-in-the-skies-podcast",
+        "date": "2017-11-05",
+        "sharedEntityIds": [
+          "historical-ufo-cases",
+          "ryan-sprague",
+          "uap-research",
+          "witness-accounts"
+        ],
+        "sharedEntityCount": 4,
+        "score": 45
+      },
+      {
+        "id": "2017-somewhere-in-the-skies-episode-25",
+        "name": "Somewhere in the Skies Episode #25 — Seth Breedlove: Invasion on Chestnut Ridge",
+        "seriesId": "somewhere-in-the-skies-podcast",
+        "date": "2017-10-02",
+        "sharedEntityIds": [
+          "historical-ufo-cases",
+          "ryan-sprague",
+          "uap-research",
+          "witness-accounts"
+        ],
+        "sharedEntityCount": 4,
+        "score": 45
+      },
+      {
+        "id": "2017-somewhere-in-the-skies-episode-19",
+        "name": "Somewhere in the Skies Episode #19 — Ben Mezrich: The 37th Parallel",
+        "seriesId": "somewhere-in-the-skies-podcast",
+        "date": "2017-08-20",
+        "sharedEntityIds": [
+          "historical-ufo-cases",
+          "ryan-sprague",
+          "uap-research",
+          "witness-accounts"
+        ],
+        "sharedEntityCount": 4,
+        "score": 45
+      },
+      {
+        "id": "2017-somewhere-in-the-skies-episode-11",
+        "name": "Somewhere in the Skies Episode #11 — Erica Lukes: Dugway, Skinwalker Ranch, and UFOs over Utah",
+        "seriesId": "somewhere-in-the-skies-podcast",
+        "date": "2017-06-26",
+        "sharedEntityIds": [
+          "historical-ufo-cases",
+          "ryan-sprague",
+          "uap-research",
+          "witness-accounts"
+        ],
+        "sharedEntityCount": 4,
+        "score": 45
+      }
+    ],
+    "2017-somewhere-in-the-skies-episode-25": [
+      {
+        "id": "2017-somewhere-in-the-skies-episode-33",
+        "name": "Somewhere in the Skies Episode #33 — Michael Huntington: Childhood UFO Encounters",
+        "seriesId": "somewhere-in-the-skies-podcast",
+        "date": "2017-11-27",
+        "sharedEntityIds": [
+          "historical-ufo-cases",
+          "ryan-sprague",
+          "uap-research",
+          "witness-accounts"
+        ],
+        "sharedEntityCount": 4,
+        "score": 45
+      },
+      {
+        "id": "2017-somewhere-in-the-skies-episode-30",
+        "name": "Somewhere in the Skies Episode #30 — The Andreasson Abduction",
+        "seriesId": "somewhere-in-the-skies-podcast",
+        "date": "2017-11-05",
+        "sharedEntityIds": [
+          "historical-ufo-cases",
+          "ryan-sprague",
+          "uap-research",
+          "witness-accounts"
+        ],
+        "sharedEntityCount": 4,
+        "score": 45
+      },
+      {
+        "id": "2017-somewhere-in-the-skies-episode-29",
+        "name": "Somewhere in the Skies Episode #29 — Brian Bethel: Black Eyed Kid Phenomenon",
+        "seriesId": "somewhere-in-the-skies-podcast",
+        "date": "2017-10-29",
+        "sharedEntityIds": [
+          "historical-ufo-cases",
+          "ryan-sprague",
+          "uap-research",
+          "witness-accounts"
+        ],
+        "sharedEntityCount": 4,
+        "score": 45
+      },
+      {
+        "id": "2017-somewhere-in-the-skies-episode-24",
+        "name": "Somewhere in the Skies Episode #24 — Chris Garetano: Dark Files and the Montauk Project",
+        "seriesId": "somewhere-in-the-skies-podcast",
+        "date": "2017-09-25",
+        "sharedEntityIds": [
+          "historical-ufo-cases",
+          "ryan-sprague",
+          "uap-research",
+          "witness-accounts"
+        ],
+        "sharedEntityCount": 4,
+        "score": 45
+      },
+      {
+        "id": "2017-somewhere-in-the-skies-episode-19",
+        "name": "Somewhere in the Skies Episode #19 — Ben Mezrich: The 37th Parallel",
+        "seriesId": "somewhere-in-the-skies-podcast",
+        "date": "2017-08-20",
+        "sharedEntityIds": [
+          "historical-ufo-cases",
+          "ryan-sprague",
+          "uap-research",
+          "witness-accounts"
+        ],
+        "sharedEntityCount": 4,
+        "score": 45
+      },
+      {
+        "id": "2017-somewhere-in-the-skies-episode-11",
+        "name": "Somewhere in the Skies Episode #11 — Erica Lukes: Dugway, Skinwalker Ranch, and UFOs over Utah",
+        "seriesId": "somewhere-in-the-skies-podcast",
+        "date": "2017-06-26",
+        "sharedEntityIds": [
+          "historical-ufo-cases",
+          "ryan-sprague",
+          "uap-research",
+          "witness-accounts"
+        ],
+        "sharedEntityCount": 4,
+        "score": 45
+      }
+    ],
+    "2017-somewhere-in-the-skies-episode-26": [
+      {
+        "id": "2017-somewhere-in-the-skies-episode-22",
+        "name": "Somewhere in the Skies Episode #22 — Mike Clelland: The Messengers",
+        "seriesId": "somewhere-in-the-skies-podcast",
+        "date": "2017-09-11",
+        "sharedEntityIds": [
+          "investigators-and-researchers",
+          "ryan-sprague",
+          "uap-research",
+          "ufo-history"
+        ],
+        "sharedEntityCount": 4,
+        "score": 45
+      },
+      {
+        "id": "2017-somewhere-in-the-skies-episode-21",
+        "name": "Somewhere in the Skies Episode #21 — Jason McClellan: Beers, Ghosts, and UFOs",
+        "seriesId": "somewhere-in-the-skies-podcast",
+        "date": "2017-09-04",
+        "sharedEntityIds": [
+          "high-strangeness",
+          "ryan-sprague",
+          "uap-research",
+          "ufo-history"
+        ],
+        "sharedEntityCount": 4,
+        "score": 45
+      },
+      {
+        "id": "2017-somewhere-in-the-skies-episode-18",
+        "name": "Somewhere in the Skies Episode #18 — MJ Banias: Whiskey, UFOs, and Shaking the ET Hypothesis",
+        "seriesId": "somewhere-in-the-skies-podcast",
+        "date": "2017-08-14",
+        "sharedEntityIds": [
+          "investigators-and-researchers",
+          "ryan-sprague",
+          "uap-research",
+          "ufo-history"
+        ],
+        "sharedEntityCount": 4,
+        "score": 45
+      },
+      {
+        "id": "2017-somewhere-in-the-skies-episode-17",
+        "name": "Somewhere in the Skies Episode #17 — Peter Robbins: Imagery, Reality, and UFOs: Sorting Truth From Fiction",
+        "seriesId": "somewhere-in-the-skies-podcast",
+        "date": "2017-08-07",
+        "sharedEntityIds": [
+          "investigators-and-researchers",
+          "ryan-sprague",
+          "uap-research",
+          "ufo-history"
+        ],
+        "sharedEntityCount": 4,
+        "score": 45
+      },
+      {
+        "id": "2017-somewhere-in-the-skies-episode-10",
+        "name": "Somewhere in the Skies Episode #10 — Mark O'Connell: The Close Encounters Man",
+        "seriesId": "somewhere-in-the-skies-podcast",
+        "date": "2017-06-19",
+        "sharedEntityIds": [
+          "investigators-and-researchers",
+          "ryan-sprague",
+          "uap-research",
+          "ufo-history"
+        ],
+        "sharedEntityCount": 4,
+        "score": 45
+      },
+      {
+        "id": "2017-somewhere-in-the-skies-episode-6",
+        "name": "Somewhere in the Skies Episode #6 — Susan Demeter-St. Clair : UFOs and the Parapsychological",
+        "seriesId": "somewhere-in-the-skies-podcast",
+        "date": "2017-05-22",
+        "sharedEntityIds": [
+          "high-strangeness",
+          "investigators-and-researchers",
+          "ryan-sprague",
+          "uap-research"
+        ],
+        "sharedEntityCount": 4,
+        "score": 45
+      }
+    ],
+    "2017-somewhere-in-the-skies-episode-27": [
+      {
+        "id": "2017-somewhere-in-the-skies-episode-35",
+        "name": "Somewhere in the Skies Episode #35 — Paul Cornell: Saucer Country",
+        "seriesId": "somewhere-in-the-skies-podcast",
+        "date": "2017-12-11",
+        "sharedEntityIds": [
+          "books-and-publications",
+          "media-and-popular-culture",
+          "ryan-sprague"
+        ],
+        "sharedEntityCount": 3,
+        "score": 35
+      },
+      {
+        "id": "2017-somewhere-in-the-skies-episode-31",
+        "name": "Somewhere in the Skies Episode #31 — Robbie Graham: Silver Screen Saucers",
+        "seriesId": "somewhere-in-the-skies-podcast",
+        "date": "2017-11-12",
+        "sharedEntityIds": [
+          "books-and-publications",
+          "media-and-popular-culture",
+          "ryan-sprague"
+        ],
+        "sharedEntityCount": 3,
+        "score": 35
+      },
+      {
+        "id": "2017-somewhere-in-the-skies-episode-23",
+        "name": "Somewhere in the Skies Episode #23 — The Truth Is Out There with the Guilty Pleasure Podcast",
+        "seriesId": "somewhere-in-the-skies-podcast",
+        "date": "2017-09-18",
+        "sharedEntityIds": [
+          "books-and-publications",
+          "media-and-popular-culture",
+          "ryan-sprague"
+        ],
+        "sharedEntityCount": 3,
+        "score": 35
+      },
+      {
+        "id": "2017-somewhere-in-the-skies-episode-16",
+        "name": "Somewhere in the Skies Episode #16 — Sammy Waisanen: The Howl Horror Program and Fire in the Sky",
+        "seriesId": "somewhere-in-the-skies-podcast",
+        "date": "2017-07-31",
+        "sharedEntityIds": [
+          "books-and-publications",
+          "media-and-popular-culture",
+          "ryan-sprague"
+        ],
+        "sharedEntityCount": 3,
+        "score": 35
+      },
+      {
+        "id": "2017-somewhere-in-the-skies-episode-15",
+        "name": "Somewhere in the Skies Episode #15 — David Jenkins: People of Earth",
+        "seriesId": "somewhere-in-the-skies-podcast",
+        "date": "2017-07-24",
+        "sharedEntityIds": [
+          "books-and-publications",
+          "media-and-popular-culture",
+          "ryan-sprague"
+        ],
+        "sharedEntityCount": 3,
+        "score": 35
+      },
+      {
+        "id": "2017-somewhere-in-the-skies-episode-13",
+        "name": "Somewhere in the Skies Episode #13 — Mike Damante: Punk Rock and UFOs",
+        "seriesId": "somewhere-in-the-skies-podcast",
+        "date": "2017-07-10",
+        "sharedEntityIds": [
+          "books-and-publications",
+          "media-and-popular-culture",
+          "ryan-sprague"
+        ],
+        "sharedEntityCount": 3,
+        "score": 35
+      }
+    ],
+    "2017-somewhere-in-the-skies-episode-28": [
+      {
+        "id": "2017-somewhere-in-the-skies-episode-32",
+        "name": "Somewhere in the Skies Episode #32 — Rob Kristoffersen: Men in Black",
+        "seriesId": "somewhere-in-the-skies-podcast",
+        "date": "2017-11-19",
+        "sharedEntityIds": [
+          "investigators-and-researchers",
+          "ryan-sprague",
+          "uap-research"
+        ],
+        "sharedEntityCount": 3,
+        "score": 35
+      },
+      {
+        "id": "2017-somewhere-in-the-skies-episode-26",
+        "name": "Somewhere in the Skies Episode #26 — Karl Pfeiffer: The Science and Philosophy of the Paranormal",
+        "seriesId": "somewhere-in-the-skies-podcast",
+        "date": "2017-10-08",
+        "sharedEntityIds": [
+          "investigators-and-researchers",
+          "ryan-sprague",
+          "uap-research"
+        ],
+        "sharedEntityCount": 3,
+        "score": 35
+      },
+      {
+        "id": "2017-somewhere-in-the-skies-episode-22",
+        "name": "Somewhere in the Skies Episode #22 — Mike Clelland: The Messengers",
+        "seriesId": "somewhere-in-the-skies-podcast",
+        "date": "2017-09-11",
+        "sharedEntityIds": [
+          "investigators-and-researchers",
+          "ryan-sprague",
+          "uap-research"
+        ],
+        "sharedEntityCount": 3,
+        "score": 35
+      },
+      {
+        "id": "2017-somewhere-in-the-skies-episode-18",
+        "name": "Somewhere in the Skies Episode #18 — MJ Banias: Whiskey, UFOs, and Shaking the ET Hypothesis",
+        "seriesId": "somewhere-in-the-skies-podcast",
+        "date": "2017-08-14",
+        "sharedEntityIds": [
+          "investigators-and-researchers",
+          "ryan-sprague",
+          "uap-research"
+        ],
+        "sharedEntityCount": 3,
+        "score": 35
+      },
+      {
+        "id": "2017-somewhere-in-the-skies-episode-17",
+        "name": "Somewhere in the Skies Episode #17 — Peter Robbins: Imagery, Reality, and UFOs: Sorting Truth From Fiction",
+        "seriesId": "somewhere-in-the-skies-podcast",
+        "date": "2017-08-07",
+        "sharedEntityIds": [
+          "investigators-and-researchers",
+          "ryan-sprague",
+          "uap-research"
+        ],
+        "sharedEntityCount": 3,
+        "score": 35
+      },
+      {
+        "id": "2017-somewhere-in-the-skies-episode-14",
+        "name": "Somewhere in the Skies Episode #14 — Jeremy Corbell: UFOs as a Clockwork Orange",
+        "seriesId": "somewhere-in-the-skies-podcast",
+        "date": "2017-07-17",
+        "sharedEntityIds": [
+          "investigators-and-researchers",
+          "ryan-sprague",
+          "uap-research"
+        ],
+        "sharedEntityCount": 3,
+        "score": 35
+      }
+    ],
+    "2017-somewhere-in-the-skies-episode-29": [
+      {
+        "id": "2017-somewhere-in-the-skies-episode-24",
+        "name": "Somewhere in the Skies Episode #24 — Chris Garetano: Dark Files and the Montauk Project",
+        "seriesId": "somewhere-in-the-skies-podcast",
+        "date": "2017-09-25",
+        "sharedEntityIds": [
+          "high-strangeness",
+          "historical-ufo-cases",
+          "ryan-sprague",
+          "uap-research",
+          "witness-accounts"
+        ],
+        "sharedEntityCount": 5,
+        "score": 55
+      },
+      {
+        "id": "2017-somewhere-in-the-skies-episode-33",
+        "name": "Somewhere in the Skies Episode #33 — Michael Huntington: Childhood UFO Encounters",
+        "seriesId": "somewhere-in-the-skies-podcast",
+        "date": "2017-11-27",
+        "sharedEntityIds": [
+          "historical-ufo-cases",
+          "ryan-sprague",
+          "uap-research",
+          "witness-accounts"
+        ],
+        "sharedEntityCount": 4,
+        "score": 45
+      },
+      {
+        "id": "2017-somewhere-in-the-skies-episode-30",
+        "name": "Somewhere in the Skies Episode #30 — The Andreasson Abduction",
+        "seriesId": "somewhere-in-the-skies-podcast",
+        "date": "2017-11-05",
+        "sharedEntityIds": [
+          "historical-ufo-cases",
+          "ryan-sprague",
+          "uap-research",
+          "witness-accounts"
+        ],
+        "sharedEntityCount": 4,
+        "score": 45
+      },
+      {
+        "id": "2017-somewhere-in-the-skies-episode-25",
+        "name": "Somewhere in the Skies Episode #25 — Seth Breedlove: Invasion on Chestnut Ridge",
+        "seriesId": "somewhere-in-the-skies-podcast",
+        "date": "2017-10-02",
+        "sharedEntityIds": [
+          "historical-ufo-cases",
+          "ryan-sprague",
+          "uap-research",
+          "witness-accounts"
+        ],
+        "sharedEntityCount": 4,
+        "score": 45
+      },
+      {
+        "id": "2017-somewhere-in-the-skies-episode-19",
+        "name": "Somewhere in the Skies Episode #19 — Ben Mezrich: The 37th Parallel",
+        "seriesId": "somewhere-in-the-skies-podcast",
+        "date": "2017-08-20",
+        "sharedEntityIds": [
+          "historical-ufo-cases",
+          "ryan-sprague",
+          "uap-research",
+          "witness-accounts"
+        ],
+        "sharedEntityCount": 4,
+        "score": 45
+      },
+      {
+        "id": "2017-somewhere-in-the-skies-episode-11",
+        "name": "Somewhere in the Skies Episode #11 — Erica Lukes: Dugway, Skinwalker Ranch, and UFOs over Utah",
+        "seriesId": "somewhere-in-the-skies-podcast",
+        "date": "2017-06-26",
+        "sharedEntityIds": [
+          "historical-ufo-cases",
+          "ryan-sprague",
+          "uap-research",
+          "witness-accounts"
+        ],
+        "sharedEntityCount": 4,
+        "score": 45
+      }
+    ],
+    "2017-somewhere-in-the-skies-episode-3": [
+      {
+        "id": "2017-somewhere-in-the-skies-episode-26",
+        "name": "Somewhere in the Skies Episode #26 — Karl Pfeiffer: The Science and Philosophy of the Paranormal",
+        "seriesId": "somewhere-in-the-skies-podcast",
+        "date": "2017-10-08",
+        "sharedEntityIds": [
+          "investigators-and-researchers",
+          "ryan-sprague",
+          "uap-research",
+          "ufo-history"
+        ],
+        "sharedEntityCount": 4,
+        "score": 45
+      },
+      {
+        "id": "2017-somewhere-in-the-skies-episode-22",
+        "name": "Somewhere in the Skies Episode #22 — Mike Clelland: The Messengers",
+        "seriesId": "somewhere-in-the-skies-podcast",
+        "date": "2017-09-11",
+        "sharedEntityIds": [
+          "investigators-and-researchers",
+          "ryan-sprague",
+          "uap-research",
+          "ufo-history"
+        ],
+        "sharedEntityCount": 4,
+        "score": 45
+      },
+      {
+        "id": "2017-somewhere-in-the-skies-episode-18",
+        "name": "Somewhere in the Skies Episode #18 — MJ Banias: Whiskey, UFOs, and Shaking the ET Hypothesis",
+        "seriesId": "somewhere-in-the-skies-podcast",
+        "date": "2017-08-14",
+        "sharedEntityIds": [
+          "investigators-and-researchers",
+          "ryan-sprague",
+          "uap-research",
+          "ufo-history"
+        ],
+        "sharedEntityCount": 4,
+        "score": 45
+      },
+      {
+        "id": "2017-somewhere-in-the-skies-episode-17",
+        "name": "Somewhere in the Skies Episode #17 — Peter Robbins: Imagery, Reality, and UFOs: Sorting Truth From Fiction",
+        "seriesId": "somewhere-in-the-skies-podcast",
+        "date": "2017-08-07",
+        "sharedEntityIds": [
+          "investigators-and-researchers",
+          "ryan-sprague",
+          "uap-research",
+          "ufo-history"
+        ],
+        "sharedEntityCount": 4,
+        "score": 45
+      },
+      {
+        "id": "2017-somewhere-in-the-skies-episode-10",
+        "name": "Somewhere in the Skies Episode #10 — Mark O'Connell: The Close Encounters Man",
+        "seriesId": "somewhere-in-the-skies-podcast",
+        "date": "2017-06-19",
+        "sharedEntityIds": [
+          "investigators-and-researchers",
+          "ryan-sprague",
+          "uap-research",
+          "ufo-history"
+        ],
+        "sharedEntityCount": 4,
+        "score": 45
+      },
+      {
+        "id": "2017-somewhere-in-the-skies-episode-2",
+        "name": "Somewhere in the Skies Episode #2 — Micah Hanks: Building a Better UFOlogy | Truth, Myths & the Future of UAP Research",
+        "seriesId": "somewhere-in-the-skies-podcast",
+        "date": "2017-04-24",
+        "sharedEntityIds": [
+          "investigators-and-researchers",
+          "ryan-sprague",
+          "uap-research",
+          "ufo-history"
+        ],
+        "sharedEntityCount": 4,
+        "score": 45
+      }
+    ],
+    "2017-somewhere-in-the-skies-episode-30": [
+      {
+        "id": "2017-somewhere-in-the-skies-episode-33",
+        "name": "Somewhere in the Skies Episode #33 — Michael Huntington: Childhood UFO Encounters",
+        "seriesId": "somewhere-in-the-skies-podcast",
+        "date": "2017-11-27",
+        "sharedEntityIds": [
+          "historical-ufo-cases",
+          "ryan-sprague",
+          "uap-research",
+          "witness-accounts"
+        ],
+        "sharedEntityCount": 4,
+        "score": 45
+      },
+      {
+        "id": "2017-somewhere-in-the-skies-episode-29",
+        "name": "Somewhere in the Skies Episode #29 — Brian Bethel: Black Eyed Kid Phenomenon",
+        "seriesId": "somewhere-in-the-skies-podcast",
+        "date": "2017-10-29",
+        "sharedEntityIds": [
+          "historical-ufo-cases",
+          "ryan-sprague",
+          "uap-research",
+          "witness-accounts"
+        ],
+        "sharedEntityCount": 4,
+        "score": 45
+      },
+      {
+        "id": "2017-somewhere-in-the-skies-episode-25",
+        "name": "Somewhere in the Skies Episode #25 — Seth Breedlove: Invasion on Chestnut Ridge",
+        "seriesId": "somewhere-in-the-skies-podcast",
+        "date": "2017-10-02",
+        "sharedEntityIds": [
+          "historical-ufo-cases",
+          "ryan-sprague",
+          "uap-research",
+          "witness-accounts"
+        ],
+        "sharedEntityCount": 4,
+        "score": 45
+      },
+      {
+        "id": "2017-somewhere-in-the-skies-episode-24",
+        "name": "Somewhere in the Skies Episode #24 — Chris Garetano: Dark Files and the Montauk Project",
+        "seriesId": "somewhere-in-the-skies-podcast",
+        "date": "2017-09-25",
+        "sharedEntityIds": [
+          "historical-ufo-cases",
+          "ryan-sprague",
+          "uap-research",
+          "witness-accounts"
+        ],
+        "sharedEntityCount": 4,
+        "score": 45
+      },
+      {
+        "id": "2017-somewhere-in-the-skies-episode-19",
+        "name": "Somewhere in the Skies Episode #19 — Ben Mezrich: The 37th Parallel",
+        "seriesId": "somewhere-in-the-skies-podcast",
+        "date": "2017-08-20",
+        "sharedEntityIds": [
+          "historical-ufo-cases",
+          "ryan-sprague",
+          "uap-research",
+          "witness-accounts"
+        ],
+        "sharedEntityCount": 4,
+        "score": 45
+      },
+      {
+        "id": "2017-somewhere-in-the-skies-episode-11",
+        "name": "Somewhere in the Skies Episode #11 — Erica Lukes: Dugway, Skinwalker Ranch, and UFOs over Utah",
+        "seriesId": "somewhere-in-the-skies-podcast",
+        "date": "2017-06-26",
+        "sharedEntityIds": [
+          "historical-ufo-cases",
+          "ryan-sprague",
+          "uap-research",
+          "witness-accounts"
+        ],
+        "sharedEntityCount": 4,
+        "score": 45
+      }
+    ],
+    "2017-somewhere-in-the-skies-episode-31": [
+      {
+        "id": "2017-somewhere-in-the-skies-episode-35",
+        "name": "Somewhere in the Skies Episode #35 — Paul Cornell: Saucer Country",
+        "seriesId": "somewhere-in-the-skies-podcast",
+        "date": "2017-12-11",
+        "sharedEntityIds": [
+          "books-and-publications",
+          "media-and-popular-culture",
+          "ryan-sprague"
+        ],
+        "sharedEntityCount": 3,
+        "score": 35
+      },
+      {
+        "id": "2017-somewhere-in-the-skies-episode-27",
+        "name": "Somewhere in the Skies Episode #27 — Aaron Mahnke: The Story Behind LORE",
+        "seriesId": "somewhere-in-the-skies-podcast",
+        "date": "2017-10-15",
+        "sharedEntityIds": [
+          "books-and-publications",
+          "media-and-popular-culture",
+          "ryan-sprague"
+        ],
+        "sharedEntityCount": 3,
+        "score": 35
+      },
+      {
+        "id": "2017-somewhere-in-the-skies-episode-23",
+        "name": "Somewhere in the Skies Episode #23 — The Truth Is Out There with the Guilty Pleasure Podcast",
+        "seriesId": "somewhere-in-the-skies-podcast",
+        "date": "2017-09-18",
+        "sharedEntityIds": [
+          "books-and-publications",
+          "media-and-popular-culture",
+          "ryan-sprague"
+        ],
+        "sharedEntityCount": 3,
+        "score": 35
+      },
+      {
+        "id": "2017-somewhere-in-the-skies-episode-16",
+        "name": "Somewhere in the Skies Episode #16 — Sammy Waisanen: The Howl Horror Program and Fire in the Sky",
+        "seriesId": "somewhere-in-the-skies-podcast",
+        "date": "2017-07-31",
+        "sharedEntityIds": [
+          "books-and-publications",
+          "media-and-popular-culture",
+          "ryan-sprague"
+        ],
+        "sharedEntityCount": 3,
+        "score": 35
+      },
+      {
+        "id": "2017-somewhere-in-the-skies-episode-15",
+        "name": "Somewhere in the Skies Episode #15 — David Jenkins: People of Earth",
+        "seriesId": "somewhere-in-the-skies-podcast",
+        "date": "2017-07-24",
+        "sharedEntityIds": [
+          "books-and-publications",
+          "media-and-popular-culture",
+          "ryan-sprague"
+        ],
+        "sharedEntityCount": 3,
+        "score": 35
+      },
+      {
+        "id": "2017-somewhere-in-the-skies-episode-13",
+        "name": "Somewhere in the Skies Episode #13 — Mike Damante: Punk Rock and UFOs",
+        "seriesId": "somewhere-in-the-skies-podcast",
+        "date": "2017-07-10",
+        "sharedEntityIds": [
+          "books-and-publications",
+          "media-and-popular-culture",
+          "ryan-sprague"
+        ],
+        "sharedEntityCount": 3,
+        "score": 35
+      }
+    ],
+    "2017-somewhere-in-the-skies-episode-32": [
+      {
+        "id": "2017-somewhere-in-the-skies-episode-28",
+        "name": "Somewhere in the Skies Episode #28 — Shannon LeGro: Into the Fray",
+        "seriesId": "somewhere-in-the-skies-podcast",
+        "date": "2017-10-22",
+        "sharedEntityIds": [
+          "investigators-and-researchers",
+          "ryan-sprague",
+          "uap-research"
+        ],
+        "sharedEntityCount": 3,
+        "score": 35
+      },
+      {
+        "id": "2017-somewhere-in-the-skies-episode-26",
+        "name": "Somewhere in the Skies Episode #26 — Karl Pfeiffer: The Science and Philosophy of the Paranormal",
+        "seriesId": "somewhere-in-the-skies-podcast",
+        "date": "2017-10-08",
+        "sharedEntityIds": [
+          "investigators-and-researchers",
+          "ryan-sprague",
+          "uap-research"
+        ],
+        "sharedEntityCount": 3,
+        "score": 35
+      },
+      {
+        "id": "2017-somewhere-in-the-skies-episode-22",
+        "name": "Somewhere in the Skies Episode #22 — Mike Clelland: The Messengers",
+        "seriesId": "somewhere-in-the-skies-podcast",
+        "date": "2017-09-11",
+        "sharedEntityIds": [
+          "investigators-and-researchers",
+          "ryan-sprague",
+          "uap-research"
+        ],
+        "sharedEntityCount": 3,
+        "score": 35
+      },
+      {
+        "id": "2017-somewhere-in-the-skies-episode-18",
+        "name": "Somewhere in the Skies Episode #18 — MJ Banias: Whiskey, UFOs, and Shaking the ET Hypothesis",
+        "seriesId": "somewhere-in-the-skies-podcast",
+        "date": "2017-08-14",
+        "sharedEntityIds": [
+          "investigators-and-researchers",
+          "ryan-sprague",
+          "uap-research"
+        ],
+        "sharedEntityCount": 3,
+        "score": 35
+      },
+      {
+        "id": "2017-somewhere-in-the-skies-episode-17",
+        "name": "Somewhere in the Skies Episode #17 — Peter Robbins: Imagery, Reality, and UFOs: Sorting Truth From Fiction",
+        "seriesId": "somewhere-in-the-skies-podcast",
+        "date": "2017-08-07",
+        "sharedEntityIds": [
+          "investigators-and-researchers",
+          "ryan-sprague",
+          "uap-research"
+        ],
+        "sharedEntityCount": 3,
+        "score": 35
+      },
+      {
+        "id": "2017-somewhere-in-the-skies-episode-14",
+        "name": "Somewhere in the Skies Episode #14 — Jeremy Corbell: UFOs as a Clockwork Orange",
+        "seriesId": "somewhere-in-the-skies-podcast",
+        "date": "2017-07-17",
+        "sharedEntityIds": [
+          "investigators-and-researchers",
+          "ryan-sprague",
+          "uap-research"
+        ],
+        "sharedEntityCount": 3,
+        "score": 35
+      }
+    ],
+    "2017-somewhere-in-the-skies-episode-33": [
+      {
+        "id": "2017-somewhere-in-the-skies-episode-30",
+        "name": "Somewhere in the Skies Episode #30 — The Andreasson Abduction",
+        "seriesId": "somewhere-in-the-skies-podcast",
+        "date": "2017-11-05",
+        "sharedEntityIds": [
+          "historical-ufo-cases",
+          "ryan-sprague",
+          "uap-research",
+          "witness-accounts"
+        ],
+        "sharedEntityCount": 4,
+        "score": 45
+      },
+      {
+        "id": "2017-somewhere-in-the-skies-episode-29",
+        "name": "Somewhere in the Skies Episode #29 — Brian Bethel: Black Eyed Kid Phenomenon",
+        "seriesId": "somewhere-in-the-skies-podcast",
+        "date": "2017-10-29",
+        "sharedEntityIds": [
+          "historical-ufo-cases",
+          "ryan-sprague",
+          "uap-research",
+          "witness-accounts"
+        ],
+        "sharedEntityCount": 4,
+        "score": 45
+      },
+      {
+        "id": "2017-somewhere-in-the-skies-episode-25",
+        "name": "Somewhere in the Skies Episode #25 — Seth Breedlove: Invasion on Chestnut Ridge",
+        "seriesId": "somewhere-in-the-skies-podcast",
+        "date": "2017-10-02",
+        "sharedEntityIds": [
+          "historical-ufo-cases",
+          "ryan-sprague",
+          "uap-research",
+          "witness-accounts"
+        ],
+        "sharedEntityCount": 4,
+        "score": 45
+      },
+      {
+        "id": "2017-somewhere-in-the-skies-episode-24",
+        "name": "Somewhere in the Skies Episode #24 — Chris Garetano: Dark Files and the Montauk Project",
+        "seriesId": "somewhere-in-the-skies-podcast",
+        "date": "2017-09-25",
+        "sharedEntityIds": [
+          "historical-ufo-cases",
+          "ryan-sprague",
+          "uap-research",
+          "witness-accounts"
+        ],
+        "sharedEntityCount": 4,
+        "score": 45
+      },
+      {
+        "id": "2017-somewhere-in-the-skies-episode-19",
+        "name": "Somewhere in the Skies Episode #19 — Ben Mezrich: The 37th Parallel",
+        "seriesId": "somewhere-in-the-skies-podcast",
+        "date": "2017-08-20",
+        "sharedEntityIds": [
+          "historical-ufo-cases",
+          "ryan-sprague",
+          "uap-research",
+          "witness-accounts"
+        ],
+        "sharedEntityCount": 4,
+        "score": 45
+      },
+      {
+        "id": "2017-somewhere-in-the-skies-episode-11",
+        "name": "Somewhere in the Skies Episode #11 — Erica Lukes: Dugway, Skinwalker Ranch, and UFOs over Utah",
+        "seriesId": "somewhere-in-the-skies-podcast",
+        "date": "2017-06-26",
+        "sharedEntityIds": [
+          "historical-ufo-cases",
+          "ryan-sprague",
+          "uap-research",
+          "witness-accounts"
+        ],
+        "sharedEntityCount": 4,
+        "score": 45
+      }
+    ],
+    "2017-somewhere-in-the-skies-episode-34": [
+      {
+        "id": "2017-somewhere-in-the-skies-episode-33",
+        "name": "Somewhere in the Skies Episode #33 — Michael Huntington: Childhood UFO Encounters",
+        "seriesId": "somewhere-in-the-skies-podcast",
+        "date": "2017-11-27",
+        "sharedEntityIds": [
+          "ryan-sprague",
+          "uap-research",
+          "witness-accounts"
+        ],
+        "sharedEntityCount": 3,
+        "score": 35
+      },
+      {
+        "id": "2017-somewhere-in-the-skies-episode-30",
+        "name": "Somewhere in the Skies Episode #30 — The Andreasson Abduction",
+        "seriesId": "somewhere-in-the-skies-podcast",
+        "date": "2017-11-05",
+        "sharedEntityIds": [
+          "ryan-sprague",
+          "uap-research",
+          "witness-accounts"
+        ],
+        "sharedEntityCount": 3,
+        "score": 35
+      },
+      {
+        "id": "2017-somewhere-in-the-skies-episode-29",
+        "name": "Somewhere in the Skies Episode #29 — Brian Bethel: Black Eyed Kid Phenomenon",
+        "seriesId": "somewhere-in-the-skies-podcast",
+        "date": "2017-10-29",
+        "sharedEntityIds": [
+          "ryan-sprague",
+          "uap-research",
+          "witness-accounts"
+        ],
+        "sharedEntityCount": 3,
+        "score": 35
+      },
+      {
+        "id": "2017-somewhere-in-the-skies-episode-25",
+        "name": "Somewhere in the Skies Episode #25 — Seth Breedlove: Invasion on Chestnut Ridge",
+        "seriesId": "somewhere-in-the-skies-podcast",
+        "date": "2017-10-02",
+        "sharedEntityIds": [
+          "ryan-sprague",
+          "uap-research",
+          "witness-accounts"
+        ],
+        "sharedEntityCount": 3,
+        "score": 35
+      },
+      {
+        "id": "2017-somewhere-in-the-skies-episode-24",
+        "name": "Somewhere in the Skies Episode #24 — Chris Garetano: Dark Files and the Montauk Project",
+        "seriesId": "somewhere-in-the-skies-podcast",
+        "date": "2017-09-25",
+        "sharedEntityIds": [
+          "ryan-sprague",
+          "uap-research",
+          "witness-accounts"
+        ],
+        "sharedEntityCount": 3,
+        "score": 35
+      },
+      {
+        "id": "2017-somewhere-in-the-skies-episode-19",
+        "name": "Somewhere in the Skies Episode #19 — Ben Mezrich: The 37th Parallel",
+        "seriesId": "somewhere-in-the-skies-podcast",
+        "date": "2017-08-20",
+        "sharedEntityIds": [
+          "ryan-sprague",
+          "uap-research",
+          "witness-accounts"
+        ],
+        "sharedEntityCount": 3,
+        "score": 35
+      }
+    ],
+    "2017-somewhere-in-the-skies-episode-35": [
+      {
+        "id": "2017-somewhere-in-the-skies-episode-31",
+        "name": "Somewhere in the Skies Episode #31 — Robbie Graham: Silver Screen Saucers",
+        "seriesId": "somewhere-in-the-skies-podcast",
+        "date": "2017-11-12",
+        "sharedEntityIds": [
+          "books-and-publications",
+          "media-and-popular-culture",
+          "ryan-sprague"
+        ],
+        "sharedEntityCount": 3,
+        "score": 35
+      },
+      {
+        "id": "2017-somewhere-in-the-skies-episode-27",
+        "name": "Somewhere in the Skies Episode #27 — Aaron Mahnke: The Story Behind LORE",
+        "seriesId": "somewhere-in-the-skies-podcast",
+        "date": "2017-10-15",
+        "sharedEntityIds": [
+          "books-and-publications",
+          "media-and-popular-culture",
+          "ryan-sprague"
+        ],
+        "sharedEntityCount": 3,
+        "score": 35
+      },
+      {
+        "id": "2017-somewhere-in-the-skies-episode-23",
+        "name": "Somewhere in the Skies Episode #23 — The Truth Is Out There with the Guilty Pleasure Podcast",
+        "seriesId": "somewhere-in-the-skies-podcast",
+        "date": "2017-09-18",
+        "sharedEntityIds": [
+          "books-and-publications",
+          "media-and-popular-culture",
+          "ryan-sprague"
+        ],
+        "sharedEntityCount": 3,
+        "score": 35
+      },
+      {
+        "id": "2017-somewhere-in-the-skies-episode-16",
+        "name": "Somewhere in the Skies Episode #16 — Sammy Waisanen: The Howl Horror Program and Fire in the Sky",
+        "seriesId": "somewhere-in-the-skies-podcast",
+        "date": "2017-07-31",
+        "sharedEntityIds": [
+          "books-and-publications",
+          "media-and-popular-culture",
+          "ryan-sprague"
+        ],
+        "sharedEntityCount": 3,
+        "score": 35
+      },
+      {
+        "id": "2017-somewhere-in-the-skies-episode-15",
+        "name": "Somewhere in the Skies Episode #15 — David Jenkins: People of Earth",
+        "seriesId": "somewhere-in-the-skies-podcast",
+        "date": "2017-07-24",
+        "sharedEntityIds": [
+          "books-and-publications",
+          "media-and-popular-culture",
+          "ryan-sprague"
+        ],
+        "sharedEntityCount": 3,
+        "score": 35
+      },
+      {
+        "id": "2017-somewhere-in-the-skies-episode-13",
+        "name": "Somewhere in the Skies Episode #13 — Mike Damante: Punk Rock and UFOs",
+        "seriesId": "somewhere-in-the-skies-podcast",
+        "date": "2017-07-10",
+        "sharedEntityIds": [
+          "books-and-publications",
+          "media-and-popular-culture",
+          "ryan-sprague"
+        ],
+        "sharedEntityCount": 3,
+        "score": 35
+      }
+    ],
+    "2017-somewhere-in-the-skies-episode-36": [
+      {
+        "id": "2017-somewhere-in-the-skies-episode-26",
+        "name": "Somewhere in the Skies Episode #26 — Karl Pfeiffer: The Science and Philosophy of the Paranormal",
+        "seriesId": "somewhere-in-the-skies-podcast",
+        "date": "2017-10-08",
+        "sharedEntityIds": [
+          "ryan-sprague",
+          "uap-research",
+          "ufo-history"
+        ],
+        "sharedEntityCount": 3,
+        "score": 35
+      },
+      {
+        "id": "2017-somewhere-in-the-skies-episode-22",
+        "name": "Somewhere in the Skies Episode #22 — Mike Clelland: The Messengers",
+        "seriesId": "somewhere-in-the-skies-podcast",
+        "date": "2017-09-11",
+        "sharedEntityIds": [
+          "ryan-sprague",
+          "uap-research",
+          "ufo-history"
+        ],
+        "sharedEntityCount": 3,
+        "score": 35
+      },
+      {
+        "id": "2017-somewhere-in-the-skies-episode-21",
+        "name": "Somewhere in the Skies Episode #21 — Jason McClellan: Beers, Ghosts, and UFOs",
+        "seriesId": "somewhere-in-the-skies-podcast",
+        "date": "2017-09-04",
+        "sharedEntityIds": [
+          "ryan-sprague",
+          "uap-research",
+          "ufo-history"
+        ],
+        "sharedEntityCount": 3,
+        "score": 35
+      },
+      {
+        "id": "2017-somewhere-in-the-skies-episode-18",
+        "name": "Somewhere in the Skies Episode #18 — MJ Banias: Whiskey, UFOs, and Shaking the ET Hypothesis",
+        "seriesId": "somewhere-in-the-skies-podcast",
+        "date": "2017-08-14",
+        "sharedEntityIds": [
+          "ryan-sprague",
+          "uap-research",
+          "ufo-history"
+        ],
+        "sharedEntityCount": 3,
+        "score": 35
+      },
+      {
+        "id": "2017-somewhere-in-the-skies-episode-17",
+        "name": "Somewhere in the Skies Episode #17 — Peter Robbins: Imagery, Reality, and UFOs: Sorting Truth From Fiction",
+        "seriesId": "somewhere-in-the-skies-podcast",
+        "date": "2017-08-07",
+        "sharedEntityIds": [
+          "ryan-sprague",
+          "uap-research",
+          "ufo-history"
+        ],
+        "sharedEntityCount": 3,
+        "score": 35
+      },
+      {
+        "id": "2017-somewhere-in-the-skies-episode-10",
+        "name": "Somewhere in the Skies Episode #10 — Mark O'Connell: The Close Encounters Man",
+        "seriesId": "somewhere-in-the-skies-podcast",
+        "date": "2017-06-19",
+        "sharedEntityIds": [
+          "ryan-sprague",
+          "uap-research",
+          "ufo-history"
+        ],
+        "sharedEntityCount": 3,
+        "score": 35
+      }
+    ],
+    "2017-somewhere-in-the-skies-episode-4": [
+      {
+        "id": "2017-somewhere-in-the-skies-episode-32",
+        "name": "Somewhere in the Skies Episode #32 — Rob Kristoffersen: Men in Black",
+        "seriesId": "somewhere-in-the-skies-podcast",
+        "date": "2017-11-19",
+        "sharedEntityIds": [
+          "investigators-and-researchers",
+          "ryan-sprague",
+          "uap-research"
+        ],
+        "sharedEntityCount": 3,
+        "score": 35
+      },
+      {
+        "id": "2017-somewhere-in-the-skies-episode-28",
+        "name": "Somewhere in the Skies Episode #28 — Shannon LeGro: Into the Fray",
+        "seriesId": "somewhere-in-the-skies-podcast",
+        "date": "2017-10-22",
+        "sharedEntityIds": [
+          "investigators-and-researchers",
+          "ryan-sprague",
+          "uap-research"
+        ],
+        "sharedEntityCount": 3,
+        "score": 35
+      },
+      {
+        "id": "2017-somewhere-in-the-skies-episode-26",
+        "name": "Somewhere in the Skies Episode #26 — Karl Pfeiffer: The Science and Philosophy of the Paranormal",
+        "seriesId": "somewhere-in-the-skies-podcast",
+        "date": "2017-10-08",
+        "sharedEntityIds": [
+          "investigators-and-researchers",
+          "ryan-sprague",
+          "uap-research"
+        ],
+        "sharedEntityCount": 3,
+        "score": 35
+      },
+      {
+        "id": "2017-somewhere-in-the-skies-episode-22",
+        "name": "Somewhere in the Skies Episode #22 — Mike Clelland: The Messengers",
+        "seriesId": "somewhere-in-the-skies-podcast",
+        "date": "2017-09-11",
+        "sharedEntityIds": [
+          "investigators-and-researchers",
+          "ryan-sprague",
+          "uap-research"
+        ],
+        "sharedEntityCount": 3,
+        "score": 35
+      },
+      {
+        "id": "2017-somewhere-in-the-skies-episode-18",
+        "name": "Somewhere in the Skies Episode #18 — MJ Banias: Whiskey, UFOs, and Shaking the ET Hypothesis",
+        "seriesId": "somewhere-in-the-skies-podcast",
+        "date": "2017-08-14",
+        "sharedEntityIds": [
+          "investigators-and-researchers",
+          "ryan-sprague",
+          "uap-research"
+        ],
+        "sharedEntityCount": 3,
+        "score": 35
+      },
+      {
+        "id": "2017-somewhere-in-the-skies-episode-17",
+        "name": "Somewhere in the Skies Episode #17 — Peter Robbins: Imagery, Reality, and UFOs: Sorting Truth From Fiction",
+        "seriesId": "somewhere-in-the-skies-podcast",
+        "date": "2017-08-07",
+        "sharedEntityIds": [
+          "investigators-and-researchers",
+          "ryan-sprague",
+          "uap-research"
+        ],
+        "sharedEntityCount": 3,
+        "score": 35
+      }
+    ],
+    "2017-somewhere-in-the-skies-episode-5": [
+      {
+        "id": "2017-somewhere-in-the-skies-episode-33",
+        "name": "Somewhere in the Skies Episode #33 — Michael Huntington: Childhood UFO Encounters",
+        "seriesId": "somewhere-in-the-skies-podcast",
+        "date": "2017-11-27",
+        "sharedEntityIds": [
+          "historical-ufo-cases",
+          "ryan-sprague",
+          "uap-research",
+          "witness-accounts"
+        ],
+        "sharedEntityCount": 4,
+        "score": 45
+      },
+      {
+        "id": "2017-somewhere-in-the-skies-episode-30",
+        "name": "Somewhere in the Skies Episode #30 — The Andreasson Abduction",
+        "seriesId": "somewhere-in-the-skies-podcast",
+        "date": "2017-11-05",
+        "sharedEntityIds": [
+          "historical-ufo-cases",
+          "ryan-sprague",
+          "uap-research",
+          "witness-accounts"
+        ],
+        "sharedEntityCount": 4,
+        "score": 45
+      },
+      {
+        "id": "2017-somewhere-in-the-skies-episode-29",
+        "name": "Somewhere in the Skies Episode #29 — Brian Bethel: Black Eyed Kid Phenomenon",
+        "seriesId": "somewhere-in-the-skies-podcast",
+        "date": "2017-10-29",
+        "sharedEntityIds": [
+          "historical-ufo-cases",
+          "ryan-sprague",
+          "uap-research",
+          "witness-accounts"
+        ],
+        "sharedEntityCount": 4,
+        "score": 45
+      },
+      {
+        "id": "2017-somewhere-in-the-skies-episode-25",
+        "name": "Somewhere in the Skies Episode #25 — Seth Breedlove: Invasion on Chestnut Ridge",
+        "seriesId": "somewhere-in-the-skies-podcast",
+        "date": "2017-10-02",
+        "sharedEntityIds": [
+          "historical-ufo-cases",
+          "ryan-sprague",
+          "uap-research",
+          "witness-accounts"
+        ],
+        "sharedEntityCount": 4,
+        "score": 45
+      },
+      {
+        "id": "2017-somewhere-in-the-skies-episode-24",
+        "name": "Somewhere in the Skies Episode #24 — Chris Garetano: Dark Files and the Montauk Project",
+        "seriesId": "somewhere-in-the-skies-podcast",
+        "date": "2017-09-25",
+        "sharedEntityIds": [
+          "historical-ufo-cases",
+          "ryan-sprague",
+          "uap-research",
+          "witness-accounts"
+        ],
+        "sharedEntityCount": 4,
+        "score": 45
+      },
+      {
+        "id": "2017-somewhere-in-the-skies-episode-19",
+        "name": "Somewhere in the Skies Episode #19 — Ben Mezrich: The 37th Parallel",
+        "seriesId": "somewhere-in-the-skies-podcast",
+        "date": "2017-08-20",
+        "sharedEntityIds": [
+          "historical-ufo-cases",
+          "ryan-sprague",
+          "uap-research",
+          "witness-accounts"
+        ],
+        "sharedEntityCount": 4,
+        "score": 45
+      }
+    ],
+    "2017-somewhere-in-the-skies-episode-6": [
+      {
+        "id": "2017-somewhere-in-the-skies-episode-26",
+        "name": "Somewhere in the Skies Episode #26 — Karl Pfeiffer: The Science and Philosophy of the Paranormal",
+        "seriesId": "somewhere-in-the-skies-podcast",
+        "date": "2017-10-08",
+        "sharedEntityIds": [
+          "high-strangeness",
+          "investigators-and-researchers",
+          "ryan-sprague",
+          "uap-research"
+        ],
+        "sharedEntityCount": 4,
+        "score": 45
+      },
+      {
+        "id": "2017-somewhere-in-the-skies-episode-32",
+        "name": "Somewhere in the Skies Episode #32 — Rob Kristoffersen: Men in Black",
+        "seriesId": "somewhere-in-the-skies-podcast",
+        "date": "2017-11-19",
+        "sharedEntityIds": [
+          "investigators-and-researchers",
+          "ryan-sprague",
+          "uap-research"
+        ],
+        "sharedEntityCount": 3,
+        "score": 35
+      },
+      {
+        "id": "2017-somewhere-in-the-skies-episode-29",
+        "name": "Somewhere in the Skies Episode #29 — Brian Bethel: Black Eyed Kid Phenomenon",
+        "seriesId": "somewhere-in-the-skies-podcast",
+        "date": "2017-10-29",
+        "sharedEntityIds": [
+          "high-strangeness",
+          "ryan-sprague",
+          "uap-research"
+        ],
+        "sharedEntityCount": 3,
+        "score": 35
+      },
+      {
+        "id": "2017-somewhere-in-the-skies-episode-28",
+        "name": "Somewhere in the Skies Episode #28 — Shannon LeGro: Into the Fray",
+        "seriesId": "somewhere-in-the-skies-podcast",
+        "date": "2017-10-22",
+        "sharedEntityIds": [
+          "investigators-and-researchers",
+          "ryan-sprague",
+          "uap-research"
+        ],
+        "sharedEntityCount": 3,
+        "score": 35
+      },
+      {
+        "id": "2017-somewhere-in-the-skies-episode-24",
+        "name": "Somewhere in the Skies Episode #24 — Chris Garetano: Dark Files and the Montauk Project",
+        "seriesId": "somewhere-in-the-skies-podcast",
+        "date": "2017-09-25",
+        "sharedEntityIds": [
+          "high-strangeness",
+          "ryan-sprague",
+          "uap-research"
+        ],
+        "sharedEntityCount": 3,
+        "score": 35
+      },
+      {
+        "id": "2017-somewhere-in-the-skies-episode-22",
+        "name": "Somewhere in the Skies Episode #22 — Mike Clelland: The Messengers",
+        "seriesId": "somewhere-in-the-skies-podcast",
+        "date": "2017-09-11",
+        "sharedEntityIds": [
+          "investigators-and-researchers",
+          "ryan-sprague",
+          "uap-research"
+        ],
+        "sharedEntityCount": 3,
+        "score": 35
+      }
+    ],
+    "2017-somewhere-in-the-skies-episode-7": [
+      {
+        "id": "2017-somewhere-in-the-skies-episode-33",
+        "name": "Somewhere in the Skies Episode #33 — Michael Huntington: Childhood UFO Encounters",
+        "seriesId": "somewhere-in-the-skies-podcast",
+        "date": "2017-11-27",
+        "sharedEntityIds": [
+          "historical-ufo-cases",
+          "ryan-sprague",
+          "uap-research",
+          "witness-accounts"
+        ],
+        "sharedEntityCount": 4,
+        "score": 45
+      },
+      {
+        "id": "2017-somewhere-in-the-skies-episode-30",
+        "name": "Somewhere in the Skies Episode #30 — The Andreasson Abduction",
+        "seriesId": "somewhere-in-the-skies-podcast",
+        "date": "2017-11-05",
+        "sharedEntityIds": [
+          "historical-ufo-cases",
+          "ryan-sprague",
+          "uap-research",
+          "witness-accounts"
+        ],
+        "sharedEntityCount": 4,
+        "score": 45
+      },
+      {
+        "id": "2017-somewhere-in-the-skies-episode-29",
+        "name": "Somewhere in the Skies Episode #29 — Brian Bethel: Black Eyed Kid Phenomenon",
+        "seriesId": "somewhere-in-the-skies-podcast",
+        "date": "2017-10-29",
+        "sharedEntityIds": [
+          "historical-ufo-cases",
+          "ryan-sprague",
+          "uap-research",
+          "witness-accounts"
+        ],
+        "sharedEntityCount": 4,
+        "score": 45
+      },
+      {
+        "id": "2017-somewhere-in-the-skies-episode-25",
+        "name": "Somewhere in the Skies Episode #25 — Seth Breedlove: Invasion on Chestnut Ridge",
+        "seriesId": "somewhere-in-the-skies-podcast",
+        "date": "2017-10-02",
+        "sharedEntityIds": [
+          "historical-ufo-cases",
+          "ryan-sprague",
+          "uap-research",
+          "witness-accounts"
+        ],
+        "sharedEntityCount": 4,
+        "score": 45
+      },
+      {
+        "id": "2017-somewhere-in-the-skies-episode-24",
+        "name": "Somewhere in the Skies Episode #24 — Chris Garetano: Dark Files and the Montauk Project",
+        "seriesId": "somewhere-in-the-skies-podcast",
+        "date": "2017-09-25",
+        "sharedEntityIds": [
+          "historical-ufo-cases",
+          "ryan-sprague",
+          "uap-research",
+          "witness-accounts"
+        ],
+        "sharedEntityCount": 4,
+        "score": 45
+      },
+      {
+        "id": "2017-somewhere-in-the-skies-episode-19",
+        "name": "Somewhere in the Skies Episode #19 — Ben Mezrich: The 37th Parallel",
+        "seriesId": "somewhere-in-the-skies-podcast",
+        "date": "2017-08-20",
+        "sharedEntityIds": [
+          "historical-ufo-cases",
+          "ryan-sprague",
+          "uap-research",
+          "witness-accounts"
+        ],
+        "sharedEntityCount": 4,
+        "score": 45
+      }
+    ],
+    "2017-somewhere-in-the-skies-episode-8": [
+      {
+        "id": "2017-somewhere-in-the-skies-episode-33",
+        "name": "Somewhere in the Skies Episode #33 — Michael Huntington: Childhood UFO Encounters",
+        "seriesId": "somewhere-in-the-skies-podcast",
+        "date": "2017-11-27",
+        "sharedEntityIds": [
+          "historical-ufo-cases",
+          "ryan-sprague",
+          "uap-research",
+          "witness-accounts"
+        ],
+        "sharedEntityCount": 4,
+        "score": 45
+      },
+      {
+        "id": "2017-somewhere-in-the-skies-episode-30",
+        "name": "Somewhere in the Skies Episode #30 — The Andreasson Abduction",
+        "seriesId": "somewhere-in-the-skies-podcast",
+        "date": "2017-11-05",
+        "sharedEntityIds": [
+          "historical-ufo-cases",
+          "ryan-sprague",
+          "uap-research",
+          "witness-accounts"
+        ],
+        "sharedEntityCount": 4,
+        "score": 45
+      },
+      {
+        "id": "2017-somewhere-in-the-skies-episode-29",
+        "name": "Somewhere in the Skies Episode #29 — Brian Bethel: Black Eyed Kid Phenomenon",
+        "seriesId": "somewhere-in-the-skies-podcast",
+        "date": "2017-10-29",
+        "sharedEntityIds": [
+          "historical-ufo-cases",
+          "ryan-sprague",
+          "uap-research",
+          "witness-accounts"
+        ],
+        "sharedEntityCount": 4,
+        "score": 45
+      },
+      {
+        "id": "2017-somewhere-in-the-skies-episode-25",
+        "name": "Somewhere in the Skies Episode #25 — Seth Breedlove: Invasion on Chestnut Ridge",
+        "seriesId": "somewhere-in-the-skies-podcast",
+        "date": "2017-10-02",
+        "sharedEntityIds": [
+          "historical-ufo-cases",
+          "ryan-sprague",
+          "uap-research",
+          "witness-accounts"
+        ],
+        "sharedEntityCount": 4,
+        "score": 45
+      },
+      {
+        "id": "2017-somewhere-in-the-skies-episode-24",
+        "name": "Somewhere in the Skies Episode #24 — Chris Garetano: Dark Files and the Montauk Project",
+        "seriesId": "somewhere-in-the-skies-podcast",
+        "date": "2017-09-25",
+        "sharedEntityIds": [
+          "historical-ufo-cases",
+          "ryan-sprague",
+          "uap-research",
+          "witness-accounts"
+        ],
+        "sharedEntityCount": 4,
+        "score": 45
+      },
+      {
+        "id": "2017-somewhere-in-the-skies-episode-19",
+        "name": "Somewhere in the Skies Episode #19 — Ben Mezrich: The 37th Parallel",
+        "seriesId": "somewhere-in-the-skies-podcast",
+        "date": "2017-08-20",
+        "sharedEntityIds": [
+          "historical-ufo-cases",
+          "ryan-sprague",
+          "uap-research",
+          "witness-accounts"
+        ],
+        "sharedEntityCount": 4,
+        "score": 45
+      }
+    ],
+    "2017-somewhere-in-the-skies-episode-9": [
+      {
+        "id": "2017-somewhere-in-the-skies-episode-35",
+        "name": "Somewhere in the Skies Episode #35 — Paul Cornell: Saucer Country",
+        "seriesId": "somewhere-in-the-skies-podcast",
+        "date": "2017-12-11",
+        "sharedEntityIds": [
+          "books-and-publications",
+          "media-and-popular-culture",
+          "ryan-sprague"
+        ],
+        "sharedEntityCount": 3,
+        "score": 35
+      },
+      {
+        "id": "2017-somewhere-in-the-skies-episode-31",
+        "name": "Somewhere in the Skies Episode #31 — Robbie Graham: Silver Screen Saucers",
+        "seriesId": "somewhere-in-the-skies-podcast",
+        "date": "2017-11-12",
+        "sharedEntityIds": [
+          "books-and-publications",
+          "media-and-popular-culture",
+          "ryan-sprague"
+        ],
+        "sharedEntityCount": 3,
+        "score": 35
+      },
+      {
+        "id": "2017-somewhere-in-the-skies-episode-27",
+        "name": "Somewhere in the Skies Episode #27 — Aaron Mahnke: The Story Behind LORE",
+        "seriesId": "somewhere-in-the-skies-podcast",
+        "date": "2017-10-15",
+        "sharedEntityIds": [
+          "books-and-publications",
+          "media-and-popular-culture",
+          "ryan-sprague"
+        ],
+        "sharedEntityCount": 3,
+        "score": 35
+      },
+      {
+        "id": "2017-somewhere-in-the-skies-episode-23",
+        "name": "Somewhere in the Skies Episode #23 — The Truth Is Out There with the Guilty Pleasure Podcast",
+        "seriesId": "somewhere-in-the-skies-podcast",
+        "date": "2017-09-18",
+        "sharedEntityIds": [
+          "books-and-publications",
+          "media-and-popular-culture",
+          "ryan-sprague"
+        ],
+        "sharedEntityCount": 3,
+        "score": 35
+      },
+      {
+        "id": "2017-somewhere-in-the-skies-episode-16",
+        "name": "Somewhere in the Skies Episode #16 — Sammy Waisanen: The Howl Horror Program and Fire in the Sky",
+        "seriesId": "somewhere-in-the-skies-podcast",
+        "date": "2017-07-31",
+        "sharedEntityIds": [
+          "books-and-publications",
+          "media-and-popular-culture",
+          "ryan-sprague"
+        ],
+        "sharedEntityCount": 3,
+        "score": 35
+      },
+      {
+        "id": "2017-somewhere-in-the-skies-episode-15",
+        "name": "Somewhere in the Skies Episode #15 — David Jenkins: People of Earth",
+        "seriesId": "somewhere-in-the-skies-podcast",
+        "date": "2017-07-24",
+        "sharedEntityIds": [
+          "books-and-publications",
+          "media-and-popular-culture",
+          "ryan-sprague"
+        ],
+        "sharedEntityCount": 3,
+        "score": 35
+      }
+    ],
+    "2017-somewhere-in-the-skies-patreon-bonus-episode-sneak-peek": [
+      {
+        "id": "2017-somewhere-in-the-skies-bonus-episode-movie-review-edition-the-last-jedi",
+        "name": "Somewhere in the Skies Special — BONUS EPISODE: Movie Review Edition: The Last Jedi",
+        "seriesId": "somewhere-in-the-skies-podcast",
+        "date": "2017-12-21",
+        "sharedEntityIds": [
+          "media-and-popular-culture",
+          "ryan-sprague"
+        ],
+        "sharedEntityCount": 2,
+        "score": 25
+      },
+      {
+        "id": "2017-somewhere-in-the-skies-episode-35",
+        "name": "Somewhere in the Skies Episode #35 — Paul Cornell: Saucer Country",
+        "seriesId": "somewhere-in-the-skies-podcast",
+        "date": "2017-12-11",
+        "sharedEntityIds": [
+          "media-and-popular-culture",
+          "ryan-sprague"
+        ],
+        "sharedEntityCount": 2,
+        "score": 25
+      },
+      {
+        "id": "2017-somewhere-in-the-skies-bonus-episode-movie-review-edition-justice-league",
+        "name": "Somewhere in the Skies Special — BONUS EPISODE - Movie Review Edition: Justice League",
+        "seriesId": "somewhere-in-the-skies-podcast",
+        "date": "2017-12-06",
+        "sharedEntityIds": [
+          "media-and-popular-culture",
+          "ryan-sprague"
+        ],
+        "sharedEntityCount": 2,
+        "score": 25
+      },
+      {
+        "id": "2017-somewhere-in-the-skies-episode-31",
+        "name": "Somewhere in the Skies Episode #31 — Robbie Graham: Silver Screen Saucers",
+        "seriesId": "somewhere-in-the-skies-podcast",
+        "date": "2017-11-12",
+        "sharedEntityIds": [
+          "media-and-popular-culture",
+          "ryan-sprague"
+        ],
+        "sharedEntityCount": 2,
+        "score": 25
+      },
+      {
+        "id": "2017-somewhere-in-the-skies-episode-27",
+        "name": "Somewhere in the Skies Episode #27 — Aaron Mahnke: The Story Behind LORE",
+        "seriesId": "somewhere-in-the-skies-podcast",
+        "date": "2017-10-15",
+        "sharedEntityIds": [
+          "media-and-popular-culture",
+          "ryan-sprague"
+        ],
+        "sharedEntityCount": 2,
+        "score": 25
+      },
+      {
+        "id": "2017-somewhere-in-the-skies-episode-23",
+        "name": "Somewhere in the Skies Episode #23 — The Truth Is Out There with the Guilty Pleasure Podcast",
+        "seriesId": "somewhere-in-the-skies-podcast",
+        "date": "2017-09-18",
+        "sharedEntityIds": [
+          "media-and-popular-culture",
+          "ryan-sprague"
+        ],
+        "sharedEntityCount": 2,
+        "score": 25
+      }
+    ],
     "2021-need-to-know-episode-1": [
       {
         "id": "2021-need-to-know-episode-2",

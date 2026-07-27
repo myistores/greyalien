@@ -26,3 +26,8 @@ The archive JSON currently contains no episode records because V22.1 has not ing
 ## Production boundary
 
 No existing entities, relationships, templates, routing behavior, or episode content were altered.
+
+
+## V23.2 population status
+
+The gateway is now populated with the complete 2017 archive: 40 unique records. The 2017 filter, topic filters, combined year-and-topic filters, title/summary search, guest metadata, and direct record links are active.

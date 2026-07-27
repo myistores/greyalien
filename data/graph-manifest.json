@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
-  "entityCount": 1558,
-  "relationshipCount": 3391,
-  "unresolvedRelationshipCount": 16,
+  "entityCount": 1609,
+  "relationshipCount": 3532,
+  "unresolvedRelationshipCount": 56,
   "connectionCounts": {
     "1946-scandinavian-ghost-rockets": {
       "incoming": 1,
@@ -93,6 +93,206 @@
       "incoming": 3,
       "outgoing": 3,
       "total": 6
+    },
+    "2017-somewhere-in-the-skies-bonus-episode-movie-review-edition-justice-league": {
+      "incoming": 0,
+      "outgoing": 2,
+      "total": 2
+    },
+    "2017-somewhere-in-the-skies-bonus-episode-movie-review-edition-the-last-jedi": {
+      "incoming": 0,
+      "outgoing": 2,
+      "total": 2
+    },
+    "2017-somewhere-in-the-skies-bonus-episode-reviewing-it-with-andrew-sanford": {
+      "incoming": 0,
+      "outgoing": 2,
+      "total": 2
+    },
+    "2017-somewhere-in-the-skies-episode-1": {
+      "incoming": 0,
+      "outgoing": 4,
+      "total": 4
+    },
+    "2017-somewhere-in-the-skies-episode-10": {
+      "incoming": 0,
+      "outgoing": 4,
+      "total": 4
+    },
+    "2017-somewhere-in-the-skies-episode-11": {
+      "incoming": 0,
+      "outgoing": 4,
+      "total": 4
+    },
+    "2017-somewhere-in-the-skies-episode-12": {
+      "incoming": 0,
+      "outgoing": 3,
+      "total": 3
+    },
+    "2017-somewhere-in-the-skies-episode-13": {
+      "incoming": 0,
+      "outgoing": 3,
+      "total": 3
+    },
+    "2017-somewhere-in-the-skies-episode-14": {
+      "incoming": 0,
+      "outgoing": 4,
+      "total": 4
+    },
+    "2017-somewhere-in-the-skies-episode-15": {
+      "incoming": 0,
+      "outgoing": 3,
+      "total": 3
+    },
+    "2017-somewhere-in-the-skies-episode-16": {
+      "incoming": 0,
+      "outgoing": 3,
+      "total": 3
+    },
+    "2017-somewhere-in-the-skies-episode-17": {
+      "incoming": 0,
+      "outgoing": 4,
+      "total": 4
+    },
+    "2017-somewhere-in-the-skies-episode-18": {
+      "incoming": 0,
+      "outgoing": 4,
+      "total": 4
+    },
+    "2017-somewhere-in-the-skies-episode-19": {
+      "incoming": 0,
+      "outgoing": 4,
+      "total": 4
+    },
+    "2017-somewhere-in-the-skies-episode-2": {
+      "incoming": 0,
+      "outgoing": 4,
+      "total": 4
+    },
+    "2017-somewhere-in-the-skies-episode-20": {
+      "incoming": 0,
+      "outgoing": 3,
+      "total": 3
+    },
+    "2017-somewhere-in-the-skies-episode-21": {
+      "incoming": 0,
+      "outgoing": 4,
+      "total": 4
+    },
+    "2017-somewhere-in-the-skies-episode-22": {
+      "incoming": 0,
+      "outgoing": 4,
+      "total": 4
+    },
+    "2017-somewhere-in-the-skies-episode-23": {
+      "incoming": 0,
+      "outgoing": 3,
+      "total": 3
+    },
+    "2017-somewhere-in-the-skies-episode-24": {
+      "incoming": 0,
+      "outgoing": 5,
+      "total": 5
+    },
+    "2017-somewhere-in-the-skies-episode-25": {
+      "incoming": 0,
+      "outgoing": 4,
+      "total": 4
+    },
+    "2017-somewhere-in-the-skies-episode-26": {
+      "incoming": 0,
+      "outgoing": 5,
+      "total": 5
+    },
+    "2017-somewhere-in-the-skies-episode-27": {
+      "incoming": 0,
+      "outgoing": 4,
+      "total": 4
+    },
+    "2017-somewhere-in-the-skies-episode-28": {
+      "incoming": 0,
+      "outgoing": 3,
+      "total": 3
+    },
+    "2017-somewhere-in-the-skies-episode-29": {
+      "incoming": 0,
+      "outgoing": 5,
+      "total": 5
+    },
+    "2017-somewhere-in-the-skies-episode-3": {
+      "incoming": 0,
+      "outgoing": 4,
+      "total": 4
+    },
+    "2017-somewhere-in-the-skies-episode-30": {
+      "incoming": 0,
+      "outgoing": 4,
+      "total": 4
+    },
+    "2017-somewhere-in-the-skies-episode-31": {
+      "incoming": 0,
+      "outgoing": 3,
+      "total": 3
+    },
+    "2017-somewhere-in-the-skies-episode-32": {
+      "incoming": 0,
+      "outgoing": 3,
+      "total": 3
+    },
+    "2017-somewhere-in-the-skies-episode-33": {
+      "incoming": 0,
+      "outgoing": 4,
+      "total": 4
+    },
+    "2017-somewhere-in-the-skies-episode-34": {
+      "incoming": 0,
+      "outgoing": 3,
+      "total": 3
+    },
+    "2017-somewhere-in-the-skies-episode-35": {
+      "incoming": 0,
+      "outgoing": 3,
+      "total": 3
+    },
+    "2017-somewhere-in-the-skies-episode-36": {
+      "incoming": 0,
+      "outgoing": 3,
+      "total": 3
+    },
+    "2017-somewhere-in-the-skies-episode-4": {
+      "incoming": 0,
+      "outgoing": 3,
+      "total": 3
+    },
+    "2017-somewhere-in-the-skies-episode-5": {
+      "incoming": 0,
+      "outgoing": 4,
+      "total": 4
+    },
+    "2017-somewhere-in-the-skies-episode-6": {
+      "incoming": 0,
+      "outgoing": 4,
+      "total": 4
+    },
+    "2017-somewhere-in-the-skies-episode-7": {
+      "incoming": 0,
+      "outgoing": 4,
+      "total": 4
+    },
+    "2017-somewhere-in-the-skies-episode-8": {
+      "incoming": 0,
+      "outgoing": 4,
+      "total": 4
+    },
+    "2017-somewhere-in-the-skies-episode-9": {
+      "incoming": 0,
+      "outgoing": 3,
+      "total": 3
+    },
+    "2017-somewhere-in-the-skies-patreon-bonus-episode-sneak-peek": {
+      "incoming": 0,
+      "outgoing": 2,
+      "total": 2
     },
     "2018-bob-lazar-area-51-flying-saucers": {
       "incoming": 3,
@@ -1488,6 +1688,11 @@
       "incoming": 15,
       "outgoing": 9,
       "total": 24
+    },
+    "books-and-publications": {
+      "incoming": 8,
+      "outgoing": 0,
+      "total": 8
     },
     "boris-sokolov": {
       "incoming": 1,
@@ -5379,6 +5584,11 @@
       "outgoing": 0,
       "total": 47
     },
+    "consciousness": {
+      "incoming": 0,
+      "outgoing": 0,
+      "total": 0
+    },
     "contact-in-the-desert": {
       "incoming": 2,
       "outgoing": 0,
@@ -5634,6 +5844,11 @@
       "outgoing": 2,
       "total": 2
     },
+    "film-and-television": {
+      "incoming": 0,
+      "outgoing": 0,
+      "total": 0
+    },
     "five-eyes": {
       "incoming": 2,
       "outgoing": 1,
@@ -5684,6 +5899,11 @@
       "outgoing": 0,
       "total": 1
     },
+    "government-disclosure": {
+      "incoming": 0,
+      "outgoing": 0,
+      "total": 0
+    },
     "government-transparency": {
       "incoming": 164,
       "outgoing": 0,
@@ -5718,6 +5938,16 @@
       "incoming": 0,
       "outgoing": 1,
       "total": 1
+    },
+    "high-strangeness": {
+      "incoming": 7,
+      "outgoing": 0,
+      "total": 7
+    },
+    "historical-ufo-cases": {
+      "incoming": 10,
+      "outgoing": 0,
+      "total": 10
     },
     "historical-ufo-research": {
       "incoming": 24,
@@ -5778,6 +6008,11 @@
       "incoming": 4,
       "outgoing": 0,
       "total": 4
+    },
+    "investigators-and-researchers": {
+      "incoming": 14,
+      "outgoing": 0,
+      "total": 14
     },
     "iya-whiteley": {
       "incoming": 1,
@@ -5845,9 +6080,9 @@
       "total": 1
     },
     "jeremy-corbell": {
-      "incoming": 129,
+      "incoming": 130,
       "outgoing": 8,
-      "total": 137
+      "total": 138
     },
     "jim-penniston": {
       "incoming": 0,
@@ -6079,6 +6314,11 @@
       "outgoing": 0,
       "total": 1
     },
+    "media-and-popular-culture": {
+      "incoming": 12,
+      "outgoing": 0,
+      "total": 12
+    },
     "media-coverage": {
       "incoming": 63,
       "outgoing": 0,
@@ -6128,6 +6368,11 @@
       "incoming": 3,
       "outgoing": 1,
       "total": 4
+    },
+    "military-aviation-encounters": {
+      "incoming": 0,
+      "outgoing": 0,
+      "total": 0
     },
     "military-pilot-uap-encounters": {
       "incoming": 1,
@@ -6350,9 +6595,9 @@
       "total": 1
     },
     "richard-dolan": {
-      "incoming": 14,
+      "incoming": 15,
       "outgoing": 5,
-      "total": 19
+      "total": 20
     },
     "robbie-williams": {
       "incoming": 1,
@@ -6520,9 +6765,9 @@
       "total": 8
     },
     "somewhere-in-the-skies-podcast": {
-      "incoming": 0,
+      "incoming": 40,
       "outgoing": 1,
-      "total": 1
+      "total": 41
     },
     "south-pole-technology-claims": {
       "incoming": 3,
@@ -7600,9 +7845,9 @@
       "total": 13
     },
     "uap-research": {
-      "incoming": 80,
+      "incoming": 107,
       "outgoing": 0,
-      "total": 80
+      "total": 107
     },
     "uap-science": {
       "incoming": 5,
@@ -7633,6 +7878,11 @@
       "incoming": 1,
       "outgoing": 0,
       "total": 1
+    },
+    "ufo-history": {
+      "incoming": 10,
+      "outgoing": 0,
+      "total": 10
     },
     "ufo-journalism": {
       "incoming": 1,
@@ -7784,6 +8034,11 @@
       "outgoing": 0,
       "total": 1
     },
+    "witness-accounts": {
+      "incoming": 11,
+      "outgoing": 0,
+      "total": 11
+    },
     "witness-intimidation": {
       "incoming": 1,
       "outgoing": 0,
@@ -7796,6 +8051,206 @@
     }
   },
   "unresolvedRelationships": [
+    {
+      "source": "2017-somewhere-in-the-skies-bonus-episode-movie-review-edition-justice-league",
+      "target": "ryan-sprague",
+      "type": "features_person"
+    },
+    {
+      "source": "2017-somewhere-in-the-skies-bonus-episode-movie-review-edition-the-last-jedi",
+      "target": "ryan-sprague",
+      "type": "features_person"
+    },
+    {
+      "source": "2017-somewhere-in-the-skies-bonus-episode-reviewing-it-with-andrew-sanford",
+      "target": "ryan-sprague",
+      "type": "features_person"
+    },
+    {
+      "source": "2017-somewhere-in-the-skies-episode-1",
+      "target": "ryan-sprague",
+      "type": "features_person"
+    },
+    {
+      "source": "2017-somewhere-in-the-skies-episode-10",
+      "target": "ryan-sprague",
+      "type": "features_person"
+    },
+    {
+      "source": "2017-somewhere-in-the-skies-episode-11",
+      "target": "ryan-sprague",
+      "type": "features_person"
+    },
+    {
+      "source": "2017-somewhere-in-the-skies-episode-12",
+      "target": "ryan-sprague",
+      "type": "features_person"
+    },
+    {
+      "source": "2017-somewhere-in-the-skies-episode-13",
+      "target": "ryan-sprague",
+      "type": "features_person"
+    },
+    {
+      "source": "2017-somewhere-in-the-skies-episode-14",
+      "target": "ryan-sprague",
+      "type": "features_person"
+    },
+    {
+      "source": "2017-somewhere-in-the-skies-episode-15",
+      "target": "ryan-sprague",
+      "type": "features_person"
+    },
+    {
+      "source": "2017-somewhere-in-the-skies-episode-16",
+      "target": "ryan-sprague",
+      "type": "features_person"
+    },
+    {
+      "source": "2017-somewhere-in-the-skies-episode-17",
+      "target": "ryan-sprague",
+      "type": "features_person"
+    },
+    {
+      "source": "2017-somewhere-in-the-skies-episode-18",
+      "target": "ryan-sprague",
+      "type": "features_person"
+    },
+    {
+      "source": "2017-somewhere-in-the-skies-episode-19",
+      "target": "ryan-sprague",
+      "type": "features_person"
+    },
+    {
+      "source": "2017-somewhere-in-the-skies-episode-2",
+      "target": "ryan-sprague",
+      "type": "features_person"
+    },
+    {
+      "source": "2017-somewhere-in-the-skies-episode-20",
+      "target": "ryan-sprague",
+      "type": "features_person"
+    },
+    {
+      "source": "2017-somewhere-in-the-skies-episode-21",
+      "target": "ryan-sprague",
+      "type": "features_person"
+    },
+    {
+      "source": "2017-somewhere-in-the-skies-episode-22",
+      "target": "ryan-sprague",
+      "type": "features_person"
+    },
+    {
+      "source": "2017-somewhere-in-the-skies-episode-23",
+      "target": "ryan-sprague",
+      "type": "features_person"
+    },
+    {
+      "source": "2017-somewhere-in-the-skies-episode-24",
+      "target": "ryan-sprague",
+      "type": "features_person"
+    },
+    {
+      "source": "2017-somewhere-in-the-skies-episode-25",
+      "target": "ryan-sprague",
+      "type": "features_person"
+    },
+    {
+      "source": "2017-somewhere-in-the-skies-episode-26",
+      "target": "ryan-sprague",
+      "type": "features_person"
+    },
+    {
+      "source": "2017-somewhere-in-the-skies-episode-27",
+      "target": "ryan-sprague",
+      "type": "features_person"
+    },
+    {
+      "source": "2017-somewhere-in-the-skies-episode-28",
+      "target": "ryan-sprague",
+      "type": "features_person"
+    },
+    {
+      "source": "2017-somewhere-in-the-skies-episode-29",
+      "target": "ryan-sprague",
+      "type": "features_person"
+    },
+    {
+      "source": "2017-somewhere-in-the-skies-episode-3",
+      "target": "ryan-sprague",
+      "type": "features_person"
+    },
+    {
+      "source": "2017-somewhere-in-the-skies-episode-30",
+      "target": "ryan-sprague",
+      "type": "features_person"
+    },
+    {
+      "source": "2017-somewhere-in-the-skies-episode-31",
+      "target": "ryan-sprague",
+      "type": "features_person"
+    },
+    {
+      "source": "2017-somewhere-in-the-skies-episode-32",
+      "target": "ryan-sprague",
+      "type": "features_person"
+    },
+    {
+      "source": "2017-somewhere-in-the-skies-episode-33",
+      "target": "ryan-sprague",
+      "type": "features_person"
+    },
+    {
+      "source": "2017-somewhere-in-the-skies-episode-34",
+      "target": "ryan-sprague",
+      "type": "features_person"
+    },
+    {
+      "source": "2017-somewhere-in-the-skies-episode-35",
+      "target": "ryan-sprague",
+      "type": "features_person"
+    },
+    {
+      "source": "2017-somewhere-in-the-skies-episode-36",
+      "target": "ryan-sprague",
+      "type": "features_person"
+    },
+    {
+      "source": "2017-somewhere-in-the-skies-episode-4",
+      "target": "ryan-sprague",
+      "type": "features_person"
+    },
+    {
+      "source": "2017-somewhere-in-the-skies-episode-5",
+      "target": "ryan-sprague",
+      "type": "features_person"
+    },
+    {
+      "source": "2017-somewhere-in-the-skies-episode-6",
+      "target": "ryan-sprague",
+      "type": "features_person"
+    },
+    {
+      "source": "2017-somewhere-in-the-skies-episode-7",
+      "target": "ryan-sprague",
+      "type": "features_person"
+    },
+    {
+      "source": "2017-somewhere-in-the-skies-episode-8",
+      "target": "ryan-sprague",
+      "type": "features_person"
+    },
+    {
+      "source": "2017-somewhere-in-the-skies-episode-9",
+      "target": "ryan-sprague",
+      "type": "features_person"
+    },
+    {
+      "source": "2017-somewhere-in-the-skies-patreon-bonus-episode-sneak-peek",
+      "target": "ryan-sprague",
+      "type": "features_person"
+    },
     {
       "source": "2022-05-17-house-intelligence-uap",
       "target": "house-permanent-select-committee-intelligence",

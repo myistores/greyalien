@@ -1,0 +1,96 @@
+{
+  "id": "2017-somewhere-in-the-skies-episode-11",
+  "type": "podcast_episode",
+  "name": "Somewhere in the Skies Episode #11 — Erica Lukes: Dugway, Skinwalker Ranch, and UFOs over Utah",
+  "summary": "Ryan Sprague presents a case investigation focused on Dugway, Skinwalker Ranch, and UFOs over Utah. This 2017 Somewhere in the Skies release is indexed with source-grounded topics and direct archive references.",
+  "date": "2017-06-26",
+  "dateDisplay": "June 26, 2017",
+  "seriesId": "somewhere-in-the-skies-podcast",
+  "episodeNumber": 11,
+  "episodeTitle": "Erica Lukes: Dugway, Skinwalker Ranch, and UFOs over Utah",
+  "status": "Published",
+  "mediaType": "Podcast episode",
+  "mediaPlatform": "Somewhere in the Skies",
+  "mediaHost": "Ryan Sprague",
+  "mediaGuests": [
+    "Erica Lukes"
+  ],
+  "mediaSubjects": [
+    "historical-ufo-cases"
+  ],
+  "contentClass": "Research Episode",
+  "episodeType": "Case Investigation",
+  "primaryTopics": [
+    "historical-ufo-cases"
+  ],
+  "secondaryTopics": [
+    "witness-accounts",
+    "uap-research"
+  ],
+  "researchAcceleratorDecision": {
+    "processing": "full",
+    "confidence": "high",
+    "approvalStatus": "approved",
+    "internalRationale": "Official title, date, numbering, and description signals support this classification."
+  },
+  "relationships": [
+    {
+      "type": "episode_of",
+      "target": "somewhere-in-the-skies-podcast"
+    },
+    {
+      "type": "features_person",
+      "target": "ryan-sprague",
+      "role": "host",
+      "context": "Creator and host of Somewhere in the Skies"
+    },
+    {
+      "type": "discussed_topic",
+      "target": "historical-ufo-cases"
+    },
+    {
+      "type": "discussed_topic",
+      "target": "witness-accounts"
+    },
+    {
+      "type": "discussed_topic",
+      "target": "uap-research"
+    }
+  ],
+  "mediaLinks": [
+    {
+      "label": "Open official episode page",
+      "url": "https://shows.acast.com/somewhere-in-the-skies/episodes/erica-lukes-dugway-skinwalker-ranch-and-ufos-over-utah",
+      "platform": "Acast"
+    }
+  ],
+  "officialLinks": [],
+  "referenceSources": [
+    {
+      "label": "Official Somewhere in the Skies hosted episode page",
+      "url": "https://shows.acast.com/somewhere-in-the-skies/episodes/erica-lukes-dugway-skinwalker-ranch-and-ufos-over-utah",
+      "sourceType": "official_episode_page",
+      "role": "source"
+    },
+    {
+      "label": "Apple Podcasts series archive",
+      "url": "https://podcasts.apple.com/us/podcast/somewhere-in-the-skies/id1227858637",
+      "sourceType": "authoritative_directory",
+      "role": "verification"
+    }
+  ],
+  "keyDiscussionTopics": [
+    "Historical Ufo Cases",
+    "Witness Accounts",
+    "Uap Research"
+  ],
+  "principalClaims": [
+    "2017-somewhere-in-the-skies-episode-11-claim-1",
+    "2017-somewhere-in-the-skies-episode-11-claim-2",
+    "2017-somewhere-in-the-skies-episode-11-claim-3"
+  ],
+  "researchNotes": [
+    "Classification and archive placement were reviewed against the legacy hosted feed record and authoritative podcast directory metadata.",
+    "Relationships are limited to the parent series, host, verified canonical guests when available, and source-supported topics."
+  ]
+}

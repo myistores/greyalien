@@ -1,19 +1,1017 @@
 {
-  "schemaVersion": 1,
   "seriesId": "somewhere-in-the-skies-podcast",
-  "seriesName": "Somewhere in the Skies",
-  "pageSize": 25,
-  "years": [2026, 2025, 2024, 2023, 2022, 2021, 2020, 2019, 2018, 2017],
-  "topics": [
-    {"id":"witness-accounts","name":"Witness Accounts","description":"Firsthand sightings, encounters, and experiencer testimony."},
-    {"id":"uap-news-disclosure","name":"UAP News & Disclosure","description":"Current reporting, official statements, hearings, legislation, and transparency efforts."},
-    {"id":"historical-cases","name":"Historical UFO Cases","description":"Classic incidents, archival investigations, and historical reassessments."},
-    {"id":"military-aviation","name":"Military & Aviation","description":"Pilot reports, military encounters, radar cases, and flight-safety issues."},
-    {"id":"science-research","name":"Science & Research","description":"Instrumentation, analysis, astronomy, physics, and evidence-focused inquiry."},
-    {"id":"government-programs","name":"Government Programs","description":"Official investigations, intelligence activity, records, and alleged legacy programs."},
-    {"id":"high-strangeness","name":"High Strangeness","description":"Consciousness, anomalous experiences, folklore, and adjacent phenomena."},
-    {"id":"culture-media","name":"Culture, Film & Media","description":"Books, documentaries, journalism, art, and the cultural history of UFOs."},
-    {"id":"roundtables-specials","name":"Roundtables & Specials","description":"Panels, live events, recurring formats, retrospectives, and special broadcasts."}
+  "generatedForRelease": "V23.2",
+  "years": [
+    2017
   ],
-  "episodes": []
+  "pageSize": 25,
+  "topics": [
+    {
+      "id": "witness-accounts",
+      "name": "Witness Accounts",
+      "description": "First-person UFO and anomalous-experience testimony."
+    },
+    {
+      "id": "historical-ufo-cases",
+      "name": "Historical UFO Cases",
+      "description": "Historically documented UFO cases and incident research."
+    },
+    {
+      "id": "government-disclosure",
+      "name": "Government Disclosure",
+      "description": "Government transparency, secrecy, and disclosure."
+    },
+    {
+      "id": "military-aviation-encounters",
+      "name": "Military and Aviation Encounters",
+      "description": "Military or aviation-related anomalous encounters."
+    },
+    {
+      "id": "uap-research",
+      "name": "UAP Research",
+      "description": "Methods, evidence, and debates in UFO/UAP research."
+    },
+    {
+      "id": "consciousness",
+      "name": "Consciousness",
+      "description": "Consciousness and anomalous cognition."
+    },
+    {
+      "id": "high-strangeness",
+      "name": "High Strangeness",
+      "description": "Paranormal and cross-phenomenon high-strangeness reports."
+    },
+    {
+      "id": "ufo-history",
+      "name": "UFO History",
+      "description": "History and historiography of UFO research."
+    },
+    {
+      "id": "media-and-popular-culture",
+      "name": "Media and Popular Culture",
+      "description": "UFOs and anomalous topics in popular media."
+    },
+    {
+      "id": "books-and-publications",
+      "name": "Books and Publications",
+      "description": "Books, comics, and published research."
+    },
+    {
+      "id": "film-and-television",
+      "name": "Film and Television",
+      "description": "Film and television works connected to anomalous subjects."
+    },
+    {
+      "id": "investigators-and-researchers",
+      "name": "Investigators and Researchers",
+      "description": "Researchers, investigators, and their work."
+    }
+  ],
+  "episodes": [
+    {
+      "entityId": "2017-somewhere-in-the-skies-episode-1",
+      "episodeNumber": 1,
+      "title": "Richard Dolan: Media Bias in UFO Coverage",
+      "date": "2017-04-17",
+      "year": 2017,
+      "tier": "standard",
+      "contentClass": "Standard Episode",
+      "episodeType": "Interview",
+      "topics": [
+        "uap-research",
+        "investigators-and-researchers"
+      ],
+      "guests": [
+        "Richard Dolan"
+      ],
+      "summary": "Ryan Sprague presents a interview focused on Media Bias in UFO Coverage. This 2017 Somewhere in the Skies release is indexed with source-grounded topics and direct archive references.",
+      "officialUrl": "https://shows.acast.com/somewhere-in-the-skies/episodes/richard-dolan-media-bias-in-ufo-coverage",
+      "tags": [
+        "Interview",
+        "Standard Episode"
+      ]
+    },
+    {
+      "entityId": "2017-somewhere-in-the-skies-episode-2",
+      "episodeNumber": 2,
+      "title": "Micah Hanks: Building a Better UFOlogy | Truth, Myths & the Future of UAP Research",
+      "date": "2017-04-24",
+      "year": 2017,
+      "tier": "full",
+      "contentClass": "Research Episode",
+      "episodeType": "Research Discussion",
+      "topics": [
+        "uap-research",
+        "investigators-and-researchers",
+        "ufo-history"
+      ],
+      "guests": [
+        "Micah Hanks"
+      ],
+      "summary": "Ryan Sprague presents a research discussion focused on Building a Better UFOlogy | Truth, Myths & the Future of UAP Research. This 2017 Somewhere in the Skies release is indexed with source-grounded topics and direct archive references.",
+      "officialUrl": "https://shows.acast.com/somewhere-in-the-skies/episodes/micah-hanks-building-a-better-ufology-truth-myths-the-future-of-uap-research",
+      "tags": [
+        "Research Discussion",
+        "Research Episode"
+      ]
+    },
+    {
+      "entityId": "2017-somewhere-in-the-skies-episode-3",
+      "episodeNumber": 3,
+      "title": "Greg Eghigian: History of a Cultural Phenomenon",
+      "date": "2017-05-01",
+      "year": 2017,
+      "tier": "standard",
+      "contentClass": "Standard Episode",
+      "episodeType": "Research Discussion",
+      "topics": [
+        "uap-research",
+        "investigators-and-researchers",
+        "ufo-history"
+      ],
+      "guests": [
+        "Greg Eghigian"
+      ],
+      "summary": "Ryan Sprague presents a research discussion focused on History of a Cultural Phenomenon. This 2017 Somewhere in the Skies release is indexed with source-grounded topics and direct archive references.",
+      "officialUrl": "https://shows.acast.com/somewhere-in-the-skies/episodes/greg-eghigian-history-of-a-cultural-phenomenon",
+      "tags": [
+        "Research Discussion",
+        "Standard Episode"
+      ]
+    },
+    {
+      "entityId": "2017-somewhere-in-the-skies-episode-4",
+      "episodeNumber": 4,
+      "title": "Annie Jacobsen: Phenomena",
+      "date": "2017-05-08",
+      "year": 2017,
+      "tier": "full",
+      "contentClass": "Research Episode",
+      "episodeType": "Interview",
+      "topics": [
+        "uap-research",
+        "investigators-and-researchers"
+      ],
+      "guests": [
+        "Annie Jacobsen"
+      ],
+      "summary": "Ryan Sprague presents a interview focused on Phenomena. This 2017 Somewhere in the Skies release is indexed with source-grounded topics and direct archive references.",
+      "officialUrl": "https://shows.acast.com/somewhere-in-the-skies/episodes/annie-jacobsen-phenomena",
+      "tags": [
+        "Interview",
+        "Research Episode"
+      ]
+    },
+    {
+      "entityId": "2017-somewhere-in-the-skies-episode-5",
+      "episodeNumber": 5,
+      "title": "Ruben Uriarte: UFOs Over Mexico and the Southwest",
+      "date": "2017-05-15",
+      "year": 2017,
+      "tier": "full",
+      "contentClass": "Research Episode",
+      "episodeType": "Case Investigation",
+      "topics": [
+        "historical-ufo-cases",
+        "witness-accounts",
+        "uap-research"
+      ],
+      "guests": [
+        "Ruben Uriarte"
+      ],
+      "summary": "Ryan Sprague presents a case investigation focused on UFOs Over Mexico and the Southwest. This 2017 Somewhere in the Skies release is indexed with source-grounded topics and direct archive references.",
+      "officialUrl": "https://shows.acast.com/somewhere-in-the-skies/episodes/ruben-uriarte-ufos-over-mexico-and-the-southwest",
+      "tags": [
+        "Case Investigation",
+        "Research Episode"
+      ]
+    },
+    {
+      "entityId": "2017-somewhere-in-the-skies-episode-6",
+      "episodeNumber": 6,
+      "title": "Susan Demeter-St. Clair : UFOs and the Parapsychological",
+      "date": "2017-05-22",
+      "year": 2017,
+      "tier": "full",
+      "contentClass": "Research Episode",
+      "episodeType": "Interview",
+      "topics": [
+        "uap-research",
+        "investigators-and-researchers",
+        "high-strangeness"
+      ],
+      "guests": [
+        "Susan Demeter-St. Clair"
+      ],
+      "summary": "Ryan Sprague presents a interview focused on UFOs and the Parapsychological. This 2017 Somewhere in the Skies release is indexed with source-grounded topics and direct archive references.",
+      "officialUrl": "https://shows.acast.com/somewhere-in-the-skies/episodes/susan-demeter-st-clair-ufos-and-the-parapsychological",
+      "tags": [
+        "Interview",
+        "Research Episode"
+      ]
+    },
+    {
+      "entityId": "2017-somewhere-in-the-skies-episode-7",
+      "episodeNumber": 7,
+      "title": "Nick Redfern: The Roswell UFO Conspiracy",
+      "date": "2017-05-29",
+      "year": 2017,
+      "tier": "full",
+      "contentClass": "Research Episode",
+      "episodeType": "Case Investigation",
+      "topics": [
+        "historical-ufo-cases",
+        "witness-accounts",
+        "uap-research"
+      ],
+      "guests": [
+        "Nick Redfern"
+      ],
+      "summary": "Ryan Sprague presents a case investigation focused on The Roswell UFO Conspiracy. This 2017 Somewhere in the Skies release is indexed with source-grounded topics and direct archive references.",
+      "officialUrl": "https://shows.acast.com/somewhere-in-the-skies/episodes/nick-redfern-the-roswell-ufo-conspiracy",
+      "tags": [
+        "Case Investigation",
+        "Research Episode"
+      ]
+    },
+    {
+      "entityId": "2017-somewhere-in-the-skies-episode-8",
+      "episodeNumber": 8,
+      "title": "Jane Kyle: UFOs Over Texas",
+      "date": "2017-06-05",
+      "year": 2017,
+      "tier": "full",
+      "contentClass": "Research Episode",
+      "episodeType": "Case Investigation",
+      "topics": [
+        "historical-ufo-cases",
+        "witness-accounts",
+        "uap-research"
+      ],
+      "guests": [
+        "Jane Kyle"
+      ],
+      "summary": "Ryan Sprague presents a case investigation focused on UFOs Over Texas. This 2017 Somewhere in the Skies release is indexed with source-grounded topics and direct archive references.",
+      "officialUrl": "https://shows.acast.com/somewhere-in-the-skies/episodes/jane-kyle-ufos-over-texas",
+      "tags": [
+        "Case Investigation",
+        "Research Episode"
+      ]
+    },
+    {
+      "entityId": "2017-somewhere-in-the-skies-episode-9",
+      "episodeNumber": 9,
+      "title": "Andrew Sanford: Flying Saucers v.s. The Half White Son of a Black Man",
+      "date": "2017-06-12",
+      "year": 2017,
+      "tier": "standard",
+      "contentClass": "Standard Episode",
+      "episodeType": "Film, Television, or Book Discussion",
+      "topics": [
+        "media-and-popular-culture",
+        "books-and-publications"
+      ],
+      "guests": [
+        "Andrew Sanford"
+      ],
+      "summary": "Ryan Sprague presents a film, television, or book discussion focused on Flying Saucers v.s. The Half White Son of a Black Man. This 2017 Somewhere in the Skies release is indexed with source-grounded topics and direct archive references.",
+      "officialUrl": "https://shows.acast.com/somewhere-in-the-skies/episodes/andrew-sanford-flying-saucers-v-s-the-half-white-son-of-a-black-man",
+      "tags": [
+        "Film, Television, or Book Discussion",
+        "Standard Episode"
+      ]
+    },
+    {
+      "entityId": "2017-somewhere-in-the-skies-episode-10",
+      "episodeNumber": 10,
+      "title": "Mark O'Connell: The Close Encounters Man",
+      "date": "2017-06-19",
+      "year": 2017,
+      "tier": "full",
+      "contentClass": "Research Episode",
+      "episodeType": "Research Discussion",
+      "topics": [
+        "uap-research",
+        "investigators-and-researchers",
+        "ufo-history"
+      ],
+      "guests": [
+        "Mark O'Connell"
+      ],
+      "summary": "Ryan Sprague presents a research discussion focused on The Close Encounters Man. This 2017 Somewhere in the Skies release is indexed with source-grounded topics and direct archive references.",
+      "officialUrl": "https://shows.acast.com/somewhere-in-the-skies/episodes/mark-o-connell-the-close-encounters-man",
+      "tags": [
+        "Research Discussion",
+        "Research Episode"
+      ]
+    },
+    {
+      "entityId": "2017-somewhere-in-the-skies-episode-11",
+      "episodeNumber": 11,
+      "title": "Erica Lukes: Dugway, Skinwalker Ranch, and UFOs over Utah",
+      "date": "2017-06-26",
+      "year": 2017,
+      "tier": "full",
+      "contentClass": "Research Episode",
+      "episodeType": "Case Investigation",
+      "topics": [
+        "historical-ufo-cases",
+        "witness-accounts",
+        "uap-research"
+      ],
+      "guests": [
+        "Erica Lukes"
+      ],
+      "summary": "Ryan Sprague presents a case investigation focused on Dugway, Skinwalker Ranch, and UFOs over Utah. This 2017 Somewhere in the Skies release is indexed with source-grounded topics and direct archive references.",
+      "officialUrl": "https://shows.acast.com/somewhere-in-the-skies/episodes/erica-lukes-dugway-skinwalker-ranch-and-ufos-over-utah",
+      "tags": [
+        "Case Investigation",
+        "Research Episode"
+      ]
+    },
+    {
+      "entityId": "2017-somewhere-in-the-skies-episode-12",
+      "episodeNumber": 12,
+      "title": "Simon Sharman: Cosmic Whistleblowers",
+      "date": "2017-07-03",
+      "year": 2017,
+      "tier": "standard",
+      "contentClass": "Standard Episode",
+      "episodeType": "Interview",
+      "topics": [
+        "uap-research",
+        "investigators-and-researchers"
+      ],
+      "guests": [
+        "Simon Sharman"
+      ],
+      "summary": "Ryan Sprague presents a interview focused on Cosmic Whistleblowers. This 2017 Somewhere in the Skies release is indexed with source-grounded topics and direct archive references.",
+      "officialUrl": "https://shows.acast.com/somewhere-in-the-skies/episodes/simon-sharman-cosmic-whistleblowers",
+      "tags": [
+        "Interview",
+        "Standard Episode"
+      ]
+    },
+    {
+      "entityId": "2017-somewhere-in-the-skies-episode-13",
+      "episodeNumber": 13,
+      "title": "Mike Damante: Punk Rock and UFOs",
+      "date": "2017-07-10",
+      "year": 2017,
+      "tier": "standard",
+      "contentClass": "Standard Episode",
+      "episodeType": "Film, Television, or Book Discussion",
+      "topics": [
+        "media-and-popular-culture",
+        "books-and-publications"
+      ],
+      "guests": [
+        "Mike Damante"
+      ],
+      "summary": "Ryan Sprague presents a film, television, or book discussion focused on Punk Rock and UFOs. This 2017 Somewhere in the Skies release is indexed with source-grounded topics and direct archive references.",
+      "officialUrl": "https://shows.acast.com/somewhere-in-the-skies/episodes/mike-damante-punk-rock-and-ufos",
+      "tags": [
+        "Film, Television, or Book Discussion",
+        "Standard Episode"
+      ]
+    },
+    {
+      "entityId": "2017-somewhere-in-the-skies-episode-14",
+      "episodeNumber": 14,
+      "title": "Jeremy Corbell: UFOs as a Clockwork Orange",
+      "date": "2017-07-17",
+      "year": 2017,
+      "tier": "full",
+      "contentClass": "Research Episode",
+      "episodeType": "Interview",
+      "topics": [
+        "uap-research",
+        "investigators-and-researchers"
+      ],
+      "guests": [
+        "Jeremy Corbell"
+      ],
+      "summary": "Ryan Sprague presents a interview focused on UFOs as a Clockwork Orange. This 2017 Somewhere in the Skies release is indexed with source-grounded topics and direct archive references.",
+      "officialUrl": "https://shows.acast.com/somewhere-in-the-skies/episodes/jeremy-corbell-ufos-as-a-clockwork-orange",
+      "tags": [
+        "Interview",
+        "Research Episode"
+      ]
+    },
+    {
+      "entityId": "2017-somewhere-in-the-skies-episode-15",
+      "episodeNumber": 15,
+      "title": "David Jenkins: People of Earth",
+      "date": "2017-07-24",
+      "year": 2017,
+      "tier": "standard",
+      "contentClass": "Standard Episode",
+      "episodeType": "Film, Television, or Book Discussion",
+      "topics": [
+        "media-and-popular-culture",
+        "books-and-publications"
+      ],
+      "guests": [
+        "David Jenkins"
+      ],
+      "summary": "Ryan Sprague presents a film, television, or book discussion focused on People of Earth. This 2017 Somewhere in the Skies release is indexed with source-grounded topics and direct archive references.",
+      "officialUrl": "https://shows.acast.com/somewhere-in-the-skies/episodes/david-jenkins-people-of-earth",
+      "tags": [
+        "Film, Television, or Book Discussion",
+        "Standard Episode"
+      ]
+    },
+    {
+      "entityId": "2017-somewhere-in-the-skies-episode-16",
+      "episodeNumber": 16,
+      "title": "Sammy Waisanen: The Howl Horror Program and Fire in the Sky",
+      "date": "2017-07-31",
+      "year": 2017,
+      "tier": "standard",
+      "contentClass": "Standard Episode",
+      "episodeType": "Film, Television, or Book Discussion",
+      "topics": [
+        "media-and-popular-culture",
+        "books-and-publications"
+      ],
+      "guests": [
+        "Sammy Waisanen"
+      ],
+      "summary": "Ryan Sprague presents a film, television, or book discussion focused on The Howl Horror Program and Fire in the Sky. This 2017 Somewhere in the Skies release is indexed with source-grounded topics and direct archive references.",
+      "officialUrl": "https://shows.acast.com/somewhere-in-the-skies/episodes/sammy-waisanen-the-howl-horror-program-and-fire-in-the-sky",
+      "tags": [
+        "Film, Television, or Book Discussion",
+        "Standard Episode"
+      ]
+    },
+    {
+      "entityId": "2017-somewhere-in-the-skies-episode-17",
+      "episodeNumber": 17,
+      "title": "Peter Robbins: Imagery, Reality, and UFOs: Sorting Truth From Fiction",
+      "date": "2017-08-07",
+      "year": 2017,
+      "tier": "full",
+      "contentClass": "Research Episode",
+      "episodeType": "Research Discussion",
+      "topics": [
+        "uap-research",
+        "investigators-and-researchers",
+        "ufo-history"
+      ],
+      "guests": [
+        "Peter Robbins"
+      ],
+      "summary": "Ryan Sprague presents a research discussion focused on Imagery, Reality, and UFOs: Sorting Truth From Fiction. This 2017 Somewhere in the Skies release is indexed with source-grounded topics and direct archive references.",
+      "officialUrl": "https://shows.acast.com/somewhere-in-the-skies/episodes/peter-robbins-imagery-reality-and-ufos-sorting-truth-from-fiction",
+      "tags": [
+        "Research Discussion",
+        "Research Episode"
+      ]
+    },
+    {
+      "entityId": "2017-somewhere-in-the-skies-episode-18",
+      "episodeNumber": 18,
+      "title": "MJ Banias: Whiskey, UFOs, and Shaking the ET Hypothesis",
+      "date": "2017-08-14",
+      "year": 2017,
+      "tier": "full",
+      "contentClass": "Research Episode",
+      "episodeType": "Research Discussion",
+      "topics": [
+        "uap-research",
+        "investigators-and-researchers",
+        "ufo-history"
+      ],
+      "guests": [
+        "MJ Banias"
+      ],
+      "summary": "Ryan Sprague presents a research discussion focused on Whiskey, UFOs, and Shaking the ET Hypothesis. This 2017 Somewhere in the Skies release is indexed with source-grounded topics and direct archive references.",
+      "officialUrl": "https://shows.acast.com/somewhere-in-the-skies/episodes/mj-banias-whiskey-ufos-and-shaking-the-et-hypothesis",
+      "tags": [
+        "Research Discussion",
+        "Research Episode"
+      ]
+    },
+    {
+      "entityId": "2017-somewhere-in-the-skies-episode-19",
+      "episodeNumber": 19,
+      "title": "Ben Mezrich: The 37th Parallel",
+      "date": "2017-08-20",
+      "year": 2017,
+      "tier": "full",
+      "contentClass": "Research Episode",
+      "episodeType": "Case Investigation",
+      "topics": [
+        "historical-ufo-cases",
+        "witness-accounts",
+        "uap-research"
+      ],
+      "guests": [
+        "Ben Mezrich"
+      ],
+      "summary": "Ryan Sprague presents a case investigation focused on The 37th Parallel. This 2017 Somewhere in the Skies release is indexed with source-grounded topics and direct archive references.",
+      "officialUrl": "https://shows.acast.com/somewhere-in-the-skies/episodes/ben-mezrich-the-37th-parallel",
+      "tags": [
+        "Case Investigation",
+        "Research Episode"
+      ]
+    },
+    {
+      "entityId": "2017-somewhere-in-the-skies-episode-20",
+      "episodeNumber": 20,
+      "title": "Spooked in Nova Scotia: A Paranormal Roundtable",
+      "date": "2017-08-28",
+      "year": 2017,
+      "tier": "standard",
+      "contentClass": "Standard Episode",
+      "episodeType": "Roundtable",
+      "topics": [
+        "high-strangeness",
+        "ufo-history"
+      ],
+      "guests": [],
+      "summary": "Ryan Sprague presents a roundtable focused on A Paranormal Roundtable. This 2017 Somewhere in the Skies release is indexed with source-grounded topics and direct archive references.",
+      "officialUrl": "https://shows.acast.com/somewhere-in-the-skies/episodes/spooked-in-nova-scotia-a-paranormal-roundtable",
+      "tags": [
+        "Roundtable",
+        "Standard Episode"
+      ]
+    },
+    {
+      "entityId": "2017-somewhere-in-the-skies-episode-21",
+      "episodeNumber": 21,
+      "title": "Jason McClellan: Beers, Ghosts, and UFOs",
+      "date": "2017-09-04",
+      "year": 2017,
+      "tier": "standard",
+      "contentClass": "Standard Episode",
+      "episodeType": "Roundtable",
+      "topics": [
+        "uap-research",
+        "ufo-history",
+        "high-strangeness"
+      ],
+      "guests": [
+        "Jason McClellan"
+      ],
+      "summary": "Ryan Sprague presents a roundtable focused on Beers, Ghosts, and UFOs. This 2017 Somewhere in the Skies release is indexed with source-grounded topics and direct archive references.",
+      "officialUrl": "https://shows.acast.com/somewhere-in-the-skies/episodes/jason-mcclellan-beers-ghosts-and-ufos",
+      "tags": [
+        "Roundtable",
+        "Standard Episode"
+      ]
+    },
+    {
+      "entityId": "2017-somewhere-in-the-skies-episode-22",
+      "episodeNumber": 22,
+      "title": "Mike Clelland: The Messengers",
+      "date": "2017-09-11",
+      "year": 2017,
+      "tier": "full",
+      "contentClass": "Research Episode",
+      "episodeType": "Research Discussion",
+      "topics": [
+        "uap-research",
+        "investigators-and-researchers",
+        "ufo-history"
+      ],
+      "guests": [
+        "Mike Clelland"
+      ],
+      "summary": "Ryan Sprague presents a research discussion focused on The Messengers. This 2017 Somewhere in the Skies release is indexed with source-grounded topics and direct archive references.",
+      "officialUrl": "https://shows.acast.com/somewhere-in-the-skies/episodes/mike-clelland-the-messengers",
+      "tags": [
+        "Research Discussion",
+        "Research Episode"
+      ]
+    },
+    {
+      "entityId": "2017-somewhere-in-the-skies-episode-23",
+      "episodeNumber": 23,
+      "title": "The Truth Is Out There with the Guilty Pleasure Podcast",
+      "date": "2017-09-18",
+      "year": 2017,
+      "tier": "standard",
+      "contentClass": "Standard Episode",
+      "episodeType": "Film, Television, or Book Discussion",
+      "topics": [
+        "media-and-popular-culture",
+        "books-and-publications"
+      ],
+      "guests": [
+        "the Guilty Pleasure Podcast"
+      ],
+      "summary": "Ryan Sprague presents a film, television, or book discussion focused on The Truth Is Out There with the Guilty Pleasure Podcast. This 2017 Somewhere in the Skies release is indexed with source-grounded topics and direct archive references.",
+      "officialUrl": "https://shows.acast.com/somewhere-in-the-skies/episodes/the-truth-is-out-there-with-the-guilty-pleasure-podcast",
+      "tags": [
+        "Film, Television, or Book Discussion",
+        "Standard Episode"
+      ]
+    },
+    {
+      "entityId": "2017-somewhere-in-the-skies-episode-24",
+      "episodeNumber": 24,
+      "title": "Chris Garetano: Dark Files and the Montauk Project",
+      "date": "2017-09-25",
+      "year": 2017,
+      "tier": "full",
+      "contentClass": "Research Episode",
+      "episodeType": "Case Investigation",
+      "topics": [
+        "historical-ufo-cases",
+        "witness-accounts",
+        "uap-research",
+        "high-strangeness"
+      ],
+      "guests": [
+        "Chris Garetano"
+      ],
+      "summary": "Ryan Sprague presents a case investigation focused on Dark Files and the Montauk Project. This 2017 Somewhere in the Skies release is indexed with source-grounded topics and direct archive references.",
+      "officialUrl": "https://shows.acast.com/somewhere-in-the-skies/episodes/chris-garetano-dark-files-and-the-montauk-project",
+      "tags": [
+        "Case Investigation",
+        "Research Episode"
+      ]
+    },
+    {
+      "entityId": "2017-somewhere-in-the-skies-episode-25",
+      "episodeNumber": 25,
+      "title": "Seth Breedlove: Invasion on Chestnut Ridge",
+      "date": "2017-10-02",
+      "year": 2017,
+      "tier": "full",
+      "contentClass": "Research Episode",
+      "episodeType": "Case Investigation",
+      "topics": [
+        "historical-ufo-cases",
+        "witness-accounts",
+        "uap-research"
+      ],
+      "guests": [
+        "Seth Breedlove"
+      ],
+      "summary": "Ryan Sprague presents a case investigation focused on Invasion on Chestnut Ridge. This 2017 Somewhere in the Skies release is indexed with source-grounded topics and direct archive references.",
+      "officialUrl": "https://shows.acast.com/somewhere-in-the-skies/episodes/seth-breedlove-invasion-on-chestnut-ridge",
+      "tags": [
+        "Case Investigation",
+        "Research Episode"
+      ]
+    },
+    {
+      "entityId": "2017-somewhere-in-the-skies-episode-26",
+      "episodeNumber": 26,
+      "title": "Karl Pfeiffer: The Science and Philosophy of the Paranormal",
+      "date": "2017-10-08",
+      "year": 2017,
+      "tier": "full",
+      "contentClass": "Research Episode",
+      "episodeType": "Research Discussion",
+      "topics": [
+        "uap-research",
+        "investigators-and-researchers",
+        "ufo-history",
+        "high-strangeness"
+      ],
+      "guests": [
+        "Karl Pfeiffer"
+      ],
+      "summary": "Ryan Sprague presents a research discussion focused on The Science and Philosophy of the Paranormal. This 2017 Somewhere in the Skies release is indexed with source-grounded topics and direct archive references.",
+      "officialUrl": "https://shows.acast.com/somewhere-in-the-skies/episodes/karl-pfeiffer-the-science-and-philosophy-of-the-paranormal",
+      "tags": [
+        "Research Discussion",
+        "Research Episode"
+      ]
+    },
+    {
+      "entityId": "2017-somewhere-in-the-skies-episode-27",
+      "episodeNumber": 27,
+      "title": "Aaron Mahnke: The Story Behind LORE",
+      "date": "2017-10-15",
+      "year": 2017,
+      "tier": "standard",
+      "contentClass": "Standard Episode",
+      "episodeType": "Film, Television, or Book Discussion",
+      "topics": [
+        "media-and-popular-culture",
+        "books-and-publications",
+        "high-strangeness"
+      ],
+      "guests": [
+        "Aaron Mahnke"
+      ],
+      "summary": "Ryan Sprague presents a film, television, or book discussion focused on The Story Behind LORE. This 2017 Somewhere in the Skies release is indexed with source-grounded topics and direct archive references.",
+      "officialUrl": "https://shows.acast.com/somewhere-in-the-skies/episodes/aaron-mahnke-the-story-behind-lore",
+      "tags": [
+        "Film, Television, or Book Discussion",
+        "Standard Episode"
+      ]
+    },
+    {
+      "entityId": "2017-somewhere-in-the-skies-episode-28",
+      "episodeNumber": 28,
+      "title": "Shannon LeGro: Into the Fray",
+      "date": "2017-10-22",
+      "year": 2017,
+      "tier": "standard",
+      "contentClass": "Standard Episode",
+      "episodeType": "Interview",
+      "topics": [
+        "uap-research",
+        "investigators-and-researchers"
+      ],
+      "guests": [
+        "Shannon LeGro"
+      ],
+      "summary": "Ryan Sprague presents a interview focused on Into the Fray. This 2017 Somewhere in the Skies release is indexed with source-grounded topics and direct archive references.",
+      "officialUrl": "https://shows.acast.com/somewhere-in-the-skies/episodes/shannon-legro-into-the-fray",
+      "tags": [
+        "Interview",
+        "Standard Episode"
+      ]
+    },
+    {
+      "entityId": "2017-somewhere-in-the-skies-episode-29",
+      "episodeNumber": 29,
+      "title": "Brian Bethel: Black Eyed Kid Phenomenon",
+      "date": "2017-10-29",
+      "year": 2017,
+      "tier": "full",
+      "contentClass": "Research Episode",
+      "episodeType": "Case Investigation",
+      "topics": [
+        "historical-ufo-cases",
+        "witness-accounts",
+        "uap-research",
+        "high-strangeness"
+      ],
+      "guests": [
+        "Brian Bethel"
+      ],
+      "summary": "Ryan Sprague presents a case investigation focused on Black Eyed Kid Phenomenon. This 2017 Somewhere in the Skies release is indexed with source-grounded topics and direct archive references.",
+      "officialUrl": "https://shows.acast.com/somewhere-in-the-skies/episodes/brian-bethel-black-eyed-kid-phenomenon",
+      "tags": [
+        "Case Investigation",
+        "Research Episode"
+      ]
+    },
+    {
+      "entityId": "2017-somewhere-in-the-skies-episode-30",
+      "episodeNumber": 30,
+      "title": "The Andreasson Abduction",
+      "date": "2017-11-05",
+      "year": 2017,
+      "tier": "full",
+      "contentClass": "Research Episode",
+      "episodeType": "Case Investigation",
+      "topics": [
+        "historical-ufo-cases",
+        "witness-accounts",
+        "uap-research"
+      ],
+      "guests": [],
+      "summary": "Ryan Sprague presents a case investigation focused on The Andreasson Abduction. This 2017 Somewhere in the Skies release is indexed with source-grounded topics and direct archive references.",
+      "officialUrl": "https://shows.acast.com/somewhere-in-the-skies/episodes/the-andreasson-abduction",
+      "tags": [
+        "Case Investigation",
+        "Research Episode"
+      ]
+    },
+    {
+      "entityId": "2017-somewhere-in-the-skies-episode-31",
+      "episodeNumber": 31,
+      "title": "Robbie Graham: Silver Screen Saucers",
+      "date": "2017-11-12",
+      "year": 2017,
+      "tier": "standard",
+      "contentClass": "Standard Episode",
+      "episodeType": "Film, Television, or Book Discussion",
+      "topics": [
+        "media-and-popular-culture",
+        "books-and-publications"
+      ],
+      "guests": [
+        "Robbie Graham"
+      ],
+      "summary": "Ryan Sprague presents a film, television, or book discussion focused on Silver Screen Saucers. This 2017 Somewhere in the Skies release is indexed with source-grounded topics and direct archive references.",
+      "officialUrl": "https://shows.acast.com/somewhere-in-the-skies/episodes/robbie-graham-silver-screen-saucers",
+      "tags": [
+        "Film, Television, or Book Discussion",
+        "Standard Episode"
+      ]
+    },
+    {
+      "entityId": "2017-somewhere-in-the-skies-episode-32",
+      "episodeNumber": 32,
+      "title": "Rob Kristoffersen: Men in Black",
+      "date": "2017-11-19",
+      "year": 2017,
+      "tier": "standard",
+      "contentClass": "Standard Episode",
+      "episodeType": "Interview",
+      "topics": [
+        "uap-research",
+        "investigators-and-researchers"
+      ],
+      "guests": [
+        "Rob Kristoffersen"
+      ],
+      "summary": "Ryan Sprague presents a interview focused on Men in Black. This 2017 Somewhere in the Skies release is indexed with source-grounded topics and direct archive references.",
+      "officialUrl": "https://shows.acast.com/somewhere-in-the-skies/episodes/rob-kristoffersen-men-in-black",
+      "tags": [
+        "Interview",
+        "Standard Episode"
+      ]
+    },
+    {
+      "entityId": "2017-somewhere-in-the-skies-episode-33",
+      "episodeNumber": 33,
+      "title": "Michael Huntington: Childhood UFO Encounters",
+      "date": "2017-11-27",
+      "year": 2017,
+      "tier": "full",
+      "contentClass": "Research Episode",
+      "episodeType": "Case Investigation",
+      "topics": [
+        "historical-ufo-cases",
+        "witness-accounts",
+        "uap-research"
+      ],
+      "guests": [
+        "Michael Huntington"
+      ],
+      "summary": "Ryan Sprague presents a case investigation focused on Childhood UFO Encounters. This 2017 Somewhere in the Skies release is indexed with source-grounded topics and direct archive references.",
+      "officialUrl": "https://shows.acast.com/somewhere-in-the-skies/episodes/michael-huntington-childhood-ufo-encounters",
+      "tags": [
+        "Case Investigation",
+        "Research Episode"
+      ]
+    },
+    {
+      "entityId": "2017-somewhere-in-the-skies-episode-34",
+      "episodeNumber": 34,
+      "title": "Witness Accounts: Volume One",
+      "date": "2017-12-04",
+      "year": 2017,
+      "tier": "full",
+      "contentClass": "Research Episode",
+      "episodeType": "Witness Account",
+      "topics": [
+        "witness-accounts",
+        "uap-research"
+      ],
+      "guests": [],
+      "summary": "Ryan Sprague presents a witness account focused on Volume One. This 2017 Somewhere in the Skies release is indexed with source-grounded topics and direct archive references.",
+      "officialUrl": "https://shows.acast.com/somewhere-in-the-skies/episodes/witness-accounts-volume-one",
+      "tags": [
+        "Witness Account",
+        "Research Episode"
+      ]
+    },
+    {
+      "entityId": "2017-somewhere-in-the-skies-episode-35",
+      "episodeNumber": 35,
+      "title": "Paul Cornell: Saucer Country",
+      "date": "2017-12-11",
+      "year": 2017,
+      "tier": "standard",
+      "contentClass": "Standard Episode",
+      "episodeType": "Film, Television, or Book Discussion",
+      "topics": [
+        "media-and-popular-culture",
+        "books-and-publications"
+      ],
+      "guests": [
+        "Paul Cornell"
+      ],
+      "summary": "Ryan Sprague presents a film, television, or book discussion focused on Saucer Country. This 2017 Somewhere in the Skies release is indexed with source-grounded topics and direct archive references.",
+      "officialUrl": "https://shows.acast.com/somewhere-in-the-skies/episodes/paul-cornell-saucer-country",
+      "tags": [
+        "Film, Television, or Book Discussion",
+        "Standard Episode"
+      ]
+    },
+    {
+      "entityId": "2017-somewhere-in-the-skies-episode-36",
+      "episodeNumber": 36,
+      "title": "UFO Roundtable: The Year In Review",
+      "date": "2017-12-19",
+      "year": 2017,
+      "tier": "standard",
+      "contentClass": "Standard Episode",
+      "episodeType": "Roundtable",
+      "topics": [
+        "uap-research",
+        "ufo-history"
+      ],
+      "guests": [],
+      "summary": "Ryan Sprague presents a roundtable focused on The Year In Review. This 2017 Somewhere in the Skies release is indexed with source-grounded topics and direct archive references.",
+      "officialUrl": "https://shows.acast.com/somewhere-in-the-skies/episodes/ufo-roundtable-the-year-in-review",
+      "tags": [
+        "Roundtable",
+        "Standard Episode"
+      ]
+    },
+    {
+      "entityId": "2017-somewhere-in-the-skies-bonus-episode-reviewing-it-with-andrew-sanford",
+      "episodeNumber": null,
+      "title": "BONUS EPISODE : Reviewing \"IT\" with Andrew Sanford",
+      "date": "2017-09-10",
+      "year": 2017,
+      "tier": "catalog",
+      "contentClass": "Catalog Record",
+      "episodeType": "Bonus",
+      "topics": [
+        "media-and-popular-culture"
+      ],
+      "guests": [
+        "BONUS EPISODE"
+      ],
+      "summary": "Ryan Sprague presents a bonus focused on Reviewing \"IT\" with Andrew Sanford. This 2017 Somewhere in the Skies release is indexed with source-grounded topics and direct archive references.",
+      "officialUrl": "https://shows.acast.com/somewhere-in-the-skies/episodes/bonus-episode-reviewing-it-with-andrew-sanford",
+      "tags": [
+        "Bonus",
+        "Catalog Record"
+      ]
+    },
+    {
+      "entityId": "2017-somewhere-in-the-skies-patreon-bonus-episode-sneak-peek",
+      "episodeNumber": null,
+      "title": "PATREON BONUS EPISODE SNEAK PEEK!",
+      "date": "2017-09-17",
+      "year": 2017,
+      "tier": "catalog",
+      "contentClass": "Catalog Record",
+      "episodeType": "Preview or Promotional Release",
+      "topics": [
+        "media-and-popular-culture"
+      ],
+      "guests": [],
+      "summary": "Ryan Sprague presents a preview or promotional release focused on PATREON BONUS EPISODE SNEAK PEEK!. This 2017 Somewhere in the Skies release is indexed with source-grounded topics and direct archive references.",
+      "officialUrl": "https://shows.acast.com/somewhere-in-the-skies/episodes/patreon-bonus-episode-sneak-peek",
+      "tags": [
+        "Preview or Promotional Release",
+        "Catalog Record"
+      ]
+    },
+    {
+      "entityId": "2017-somewhere-in-the-skies-bonus-episode-movie-review-edition-justice-league",
+      "episodeNumber": null,
+      "title": "BONUS EPISODE - Movie Review Edition: Justice League",
+      "date": "2017-12-06",
+      "year": 2017,
+      "tier": "catalog",
+      "contentClass": "Catalog Record",
+      "episodeType": "Bonus",
+      "topics": [
+        "media-and-popular-culture"
+      ],
+      "guests": [
+        "BONUS EPISODE - Movie Review Edition"
+      ],
+      "summary": "Ryan Sprague presents a bonus focused on Justice League. This 2017 Somewhere in the Skies release is indexed with source-grounded topics and direct archive references.",
+      "officialUrl": "https://shows.acast.com/somewhere-in-the-skies/episodes/bonus-episode-movie-review-edition-justice-league",
+      "tags": [
+        "Bonus",
+        "Catalog Record"
+      ]
+    },
+    {
+      "entityId": "2017-somewhere-in-the-skies-bonus-episode-movie-review-edition-the-last-jedi",
+      "episodeNumber": null,
+      "title": "BONUS EPISODE: Movie Review Edition: The Last Jedi",
+      "date": "2017-12-21",
+      "year": 2017,
+      "tier": "catalog",
+      "contentClass": "Catalog Record",
+      "episodeType": "Bonus",
+      "topics": [
+        "media-and-popular-culture"
+      ],
+      "guests": [
+        "BONUS EPISODE"
+      ],
+      "summary": "Ryan Sprague presents a bonus focused on Movie Review Edition: The Last Jedi. This 2017 Somewhere in the Skies release is indexed with source-grounded topics and direct archive references.",
+      "officialUrl": "https://shows.acast.com/somewhere-in-the-skies/episodes/bonus-episode-movie-review-edition-the-last-jedi",
+      "tags": [
+        "Bonus",
+        "Catalog Record"
+      ]
+    }
+  ],
+  "reconciliation": {
+    "totalSourceReleasesFound": 40,
+    "numberedEpisodes": 36,
+    "bonusReleases": 3,
+    "specials": 0,
+    "reviews": 2,
+    "previewsOrPromotionalEntries": 1,
+    "reissues": 0,
+    "duplicateOrRepublishedEntries": 0,
+    "excludedNonEpisodeItems": 0,
+    "finalUnique2017ArchiveCount": 40,
+    "notes": [
+      "Episode #37 was published January 1, 2018 and is excluded from the 2017 archive.",
+      "Four non-numbered feed releases are included: two movie reviews, one Patreon preview, and one additional bonus movie review; review items overlap the bonus category in descriptive reporting but are counted once in the final total."
+    ]
+  }
 }

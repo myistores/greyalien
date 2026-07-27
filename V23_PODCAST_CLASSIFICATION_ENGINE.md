@@ -50,3 +50,8 @@ python tools/import_batch.py approved
 
 ## Compatibility
 No architecture, navigation, routing, template, styling, or public rendering changes were introduced.
+
+
+## V23.2 archive workflow clarification
+
+Calendar-year archive batches classify each feed release before entity generation, store approval records under a release-specific approved import directory, and reconcile numbered and non-numbered entries before the public archive count is generated. Internal rationale and confidence fields remain non-public.

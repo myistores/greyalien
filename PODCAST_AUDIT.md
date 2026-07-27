@@ -10,3 +10,15 @@
 | Engaging the Phenomenon | James Iandoli | 2018 | 1 | Yes | Yes | Yes | No |
 | That UFO Podcast | Andy McGrillen | 2020 | 1 | Yes | Yes | Yes | Yes |
 | Somewhere in the Skies | Ryan Sprague | 2017 | 1 | Yes | Yes | Yes | Yes |
+
+
+## V23.2 Somewhere in the Skies 2017 audit
+
+- Source releases reconciled: 40
+- Final unique records: 40
+- Numbered episodes: 36
+- Non-numbered releases: 4
+- Duplicates suppressed: 0
+- Excluded non-episode items: 0
+- Episode #37 excluded because its publication date is January 1, 2018.
+- Official/hosted episode references and authoritative directory metadata were verified before import.

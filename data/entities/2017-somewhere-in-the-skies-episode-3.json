@@ -1,0 +1,82 @@
+{
+  "id": "2017-somewhere-in-the-skies-episode-3",
+  "type": "podcast_episode",
+  "name": "Somewhere in the Skies Episode #3 — Greg Eghigian: History of a Cultural Phenomenon",
+  "summary": "Ryan Sprague presents a research discussion focused on History of a Cultural Phenomenon. This 2017 Somewhere in the Skies release is indexed with source-grounded topics and direct archive references.",
+  "date": "2017-05-01",
+  "dateDisplay": "May 1, 2017",
+  "seriesId": "somewhere-in-the-skies-podcast",
+  "episodeNumber": 3,
+  "episodeTitle": "Greg Eghigian: History of a Cultural Phenomenon",
+  "status": "Published",
+  "mediaType": "Podcast episode",
+  "mediaPlatform": "Somewhere in the Skies",
+  "mediaHost": "Ryan Sprague",
+  "mediaGuests": [
+    "Greg Eghigian"
+  ],
+  "mediaSubjects": [
+    "uap-research"
+  ],
+  "contentClass": "Standard Episode",
+  "episodeType": "Research Discussion",
+  "primaryTopics": [
+    "uap-research"
+  ],
+  "secondaryTopics": [
+    "investigators-and-researchers",
+    "ufo-history"
+  ],
+  "researchAcceleratorDecision": {
+    "processing": "standard",
+    "confidence": "high",
+    "approvalStatus": "approved",
+    "internalRationale": "Official title, date, numbering, and description signals support this classification."
+  },
+  "relationships": [
+    {
+      "type": "episode_of",
+      "target": "somewhere-in-the-skies-podcast"
+    },
+    {
+      "type": "features_person",
+      "target": "ryan-sprague",
+      "role": "host",
+      "context": "Creator and host of Somewhere in the Skies"
+    },
+    {
+      "type": "discussed_topic",
+      "target": "uap-research"
+    },
+    {
+      "type": "discussed_topic",
+      "target": "investigators-and-researchers"
+    },
+    {
+      "type": "discussed_topic",
+      "target": "ufo-history"
+    }
+  ],
+  "mediaLinks": [
+    {
+      "label": "Open official episode page",
+      "url": "https://shows.acast.com/somewhere-in-the-skies/episodes/greg-eghigian-history-of-a-cultural-phenomenon",
+      "platform": "Acast"
+    }
+  ],
+  "officialLinks": [],
+  "referenceSources": [
+    {
+      "label": "Official Somewhere in the Skies hosted episode page",
+      "url": "https://shows.acast.com/somewhere-in-the-skies/episodes/greg-eghigian-history-of-a-cultural-phenomenon",
+      "sourceType": "official_episode_page",
+      "role": "source"
+    },
+    {
+      "label": "Apple Podcasts series archive",
+      "url": "https://podcasts.apple.com/us/podcast/somewhere-in-the-skies/id1227858637",
+      "sourceType": "authoritative_directory",
+      "role": "verification"
+    }
+  ]
+}

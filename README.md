@@ -1,4 +1,4 @@
-## Current release: V23.1 — Podcast Classification Engine Release Visibility Patch
+## Current release: V23.2 — Somewhere in the Skies 2017 Podcast Integration
 
 See `PHASE4\_REFINEMENT2\_TIMELINE\_NORMALIZATION.md` for normalization and connection-count rules.
 
@@ -94,3 +94,7 @@ The engine uses [`data/podcast-classification-config.json`](data/podcast-classif
 
 ### V23.1
 The release-visibility patch updates homepage Latest Additions and Development Updates and verifies the V23 documentation references. It makes no code or knowledge-graph data changes.
+
+
+### V23.2
+The complete 2017 Somewhere in the Skies release archive was ingested as 40 unique records: 36 numbered episodes and four non-numbered releases. All records were classified through V23, approved before import, and added to the existing year-and-topic gateway. See `V23_2_SOMEWHERE_IN_THE_SKIES_2017_INTEGRATION.md`.

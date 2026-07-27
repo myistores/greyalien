@@ -1,3 +1,13 @@
+# V23.2 — Somewhere in the Skies 2017 Podcast Integration
+
+- Added 40 unique Somewhere in the Skies releases published in 2017: 36 numbered episodes and four non-numbered feed releases.
+- Classified every release through the internal V23 engine and committed approved classification records.
+- Populated the existing Somewhere in the Skies gateway with 2017 year, topic, search, sorting, and combined-filter data.
+- Added Research Episode, Standard Episode, and Catalog Record metadata without exposing internal review data publicly.
+- Reused the canonical podcast-series entity and limited graph links to source-supported relationships.
+- Added a reproducible archive reconciliation and validation report.
+- Preserved architecture, schemas, rendering templates, navigation, routing, styling, and existing podcast content.
+
 # V23.1 — Podcast Classification Engine Release Visibility Patch
 
 - Updated the homepage Latest Additions section with the V23.0 Podcast Classification Engine release.

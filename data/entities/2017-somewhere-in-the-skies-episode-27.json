@@ -1,0 +1,82 @@
+{
+  "id": "2017-somewhere-in-the-skies-episode-27",
+  "type": "podcast_episode",
+  "name": "Somewhere in the Skies Episode #27 — Aaron Mahnke: The Story Behind LORE",
+  "summary": "Ryan Sprague presents a film, television, or book discussion focused on The Story Behind LORE. This 2017 Somewhere in the Skies release is indexed with source-grounded topics and direct archive references.",
+  "date": "2017-10-15",
+  "dateDisplay": "October 15, 2017",
+  "seriesId": "somewhere-in-the-skies-podcast",
+  "episodeNumber": 27,
+  "episodeTitle": "Aaron Mahnke: The Story Behind LORE",
+  "status": "Published",
+  "mediaType": "Podcast episode",
+  "mediaPlatform": "Somewhere in the Skies",
+  "mediaHost": "Ryan Sprague",
+  "mediaGuests": [
+    "Aaron Mahnke"
+  ],
+  "mediaSubjects": [
+    "media-and-popular-culture"
+  ],
+  "contentClass": "Standard Episode",
+  "episodeType": "Film, Television, or Book Discussion",
+  "primaryTopics": [
+    "media-and-popular-culture"
+  ],
+  "secondaryTopics": [
+    "books-and-publications",
+    "high-strangeness"
+  ],
+  "researchAcceleratorDecision": {
+    "processing": "standard",
+    "confidence": "high",
+    "approvalStatus": "approved",
+    "internalRationale": "Official title, date, numbering, and description signals support this classification."
+  },
+  "relationships": [
+    {
+      "type": "episode_of",
+      "target": "somewhere-in-the-skies-podcast"
+    },
+    {
+      "type": "features_person",
+      "target": "ryan-sprague",
+      "role": "host",
+      "context": "Creator and host of Somewhere in the Skies"
+    },
+    {
+      "type": "discussed_topic",
+      "target": "media-and-popular-culture"
+    },
+    {
+      "type": "discussed_topic",
+      "target": "books-and-publications"
+    },
+    {
+      "type": "discussed_topic",
+      "target": "high-strangeness"
+    }
+  ],
+  "mediaLinks": [
+    {
+      "label": "Open official episode page",
+      "url": "https://shows.acast.com/somewhere-in-the-skies/episodes/aaron-mahnke-the-story-behind-lore",
+      "platform": "Acast"
+    }
+  ],
+  "officialLinks": [],
+  "referenceSources": [
+    {
+      "label": "Official Somewhere in the Skies hosted episode page",
+      "url": "https://shows.acast.com/somewhere-in-the-skies/episodes/aaron-mahnke-the-story-behind-lore",
+      "sourceType": "official_episode_page",
+      "role": "source"
+    },
+    {
+      "label": "Apple Podcasts series archive",
+      "url": "https://podcasts.apple.com/us/podcast/somewhere-in-the-skies/id1227858637",
+      "sourceType": "authoritative_directory",
+      "role": "verification"
+    }
+  ]
+}

@@ -1,15 +1,14 @@
-GreyAlien V23.0
+GreyAlien V23.2 — Somewhere in the Skies 2017 Podcast Integration
 
-Base repository: V22.1.1 — Somewhere in the Skies Gateway
+Deploy the complete extracted repository to the GitHub repository root.
 
-Deploy the complete contents of this archive to the GreyAlien GitHub Pages repository, replacing existing files when prompted.
+Release verification:
+1. Confirm the homepage displays the V23.2 Latest Additions and Development Updates entries.
+2. Open categories/somewhere-in-the-skies.html.
+3. Select 2017 and confirm 40 records are returned.
+4. Confirm combined year-and-topic filtering, search, sorting, and pagination work.
+5. Open several numbered and non-numbered records and confirm the entity pages load.
+6. Confirm the final archive reconciliation in V23_2_SOMEWHERE_IN_THE_SKIES_2017_INTEGRATION.md.
 
-V23 adds an internal podcast classification and ingestion engine. It does not change public navigation, templates, styling, routing, or episode rendering.
-
-Key production behavior:
-- Research Accelerator drafts receive Content Class, Episode Type, primary/secondary topics, research depth, and entity-extraction recommendations.
-- The engine never publishes drafts or creates canonical entities automatically.
-- New classified podcast records require explicit human approval before import.
-- Existing V22.1.1 entities and public pages remain unchanged.
-
-See V23_PODCAST_CLASSIFICATION_ENGINE.md for workflow and commands.
+Suggested commit:
+V23.2 Somewhere in the Skies 2017 integration

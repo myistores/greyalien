@@ -1,7 +1,7 @@
 {
-  "version": "23.0",
-  "title": "Podcast Classification Engine",
-  "date": "2026-07-26",
-  "summary": "Added an internal, human-reviewed podcast classification and ingestion layer that determines content class, episode type, primary and secondary topics, Research Accelerator depth, and canonical entity extraction targets without changing public rendering or navigation.",
-  "phase": "Internal production and ingestion optimization"
+  "version": "23.2",
+  "title": "Somewhere in the Skies 2017 Podcast Integration",
+  "date": "2026-07-27",
+  "summary": "Ingested the complete verified 2017 Somewhere in the Skies archive: 36 numbered episodes and four non-numbered releases, classified through the internal V23 engine and approved before import. Populated the year-and-topic gateway with 40 unique records while preserving architecture and public behavior.",
+  "phase": "Content-only podcast ingestion"
 }
