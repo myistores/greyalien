@@ -1,0 +1,66 @@
+{
+  "schemaVersion": 1,
+  "collectionField": "officialMedia",
+  "destinationTypes": [
+    "episode",
+    "series",
+    "playlist",
+    "channel",
+    "feed"
+  ],
+  "mediaTypes": [
+    "audio",
+    "video",
+    "web_page",
+    "feed"
+  ],
+  "verificationStatuses": [
+    "verified",
+    "pending_review",
+    "unavailable",
+    "retired",
+    "rejected"
+  ],
+  "inactiveStatuses": [
+    "unavailable",
+    "retired",
+    "rejected"
+  ],
+  "defaultHierarchy": [
+    {
+      "kind": "official_hosted_episode",
+      "rank": 1
+    },
+    {
+      "kind": "youtube_episode",
+      "rank": 2
+    },
+    {
+      "kind": "apple_podcasts_episode",
+      "rank": 3
+    },
+    {
+      "kind": "spotify_episode",
+      "rank": 4
+    },
+    {
+      "kind": "other_official_episode",
+      "rank": 5
+    },
+    {
+      "kind": "official_series_archive",
+      "rank": 6
+    },
+    {
+      "kind": "official_rss_feed",
+      "rank": 7
+    }
+  ],
+  "seriesOverrides": {},
+  "publicEligibility": {
+    "requiresOfficial": true,
+    "requiresVerified": true,
+    "requiresApprovalWhenPresent": true,
+    "requiresPublicationWhenPresent": true
+  }
+}

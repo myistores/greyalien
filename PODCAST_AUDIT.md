@@ -33,3 +33,6 @@
 
 ## V23.4 Somewhere in the Skies media audit
 All 40 2017 records were audited. Retired Acast links were removed. Six independently matched exact episode destinations are retained; the remaining 34 records use a clearly labeled official Apple Podcasts archive fallback. Episode data and graph relationships were not changed.
+
+## V23.5A universal official-media audit layer
+Podcast audits may now validate either explicit `officialMedia` collections or derived legacy collections. Live checks must be explicitly invoked and cannot report success without a network response.

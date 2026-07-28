@@ -530,3 +530,7 @@
 - Removed all 40 retired Acast URLs from the 2017 archive.
 - Added verified exact episode links where independently matched and explicit Apple Podcasts archive fallbacks elsewhere.
 - Regenerated podcast and entity pages and added live-capable media validation.
+
+## V23.5A — Universal Podcast Official Media Architecture
+- Added opt-in official-media schema, compatibility adapter, resolver, renderer, validators, live-check mode, approval gates, and fixtures.
+- Preserved all existing podcast media records and public legacy behavior.

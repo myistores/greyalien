@@ -109,3 +109,6 @@ The complete 2017 Somewhere in the Skies release archive was ingested as 40 uniq
 
 ### V23.4 media restoration
 The Somewhere in the Skies 2017 archive no longer uses retired Acast hosted-page URLs. Media destinations are now explicitly identified as exact episode links or official series-archive fallbacks. See `V23_4_SOMEWHERE_IN_THE_SKIES_OFFICIAL_MEDIA_LINK_RESTORATION.md`.
+
+## V23.5A official-media architecture
+See `V23_5A_UNIVERSAL_PODCAST_OFFICIAL_MEDIA_ARCHITECTURE.md`. Current podcast records remain on the legacy-compatible path until V23.5B migration.

@@ -1,0 +1,80 @@
+=== tools/validate_podcasts.py ===
+Checked 8 series and 257 episodes.
+Warnings: 4
+- 2017-somewhere-in-the-skies-bonus-episode-movie-review-edition-the-last-jedi: missing recommended field episodeNumber
+- 2017-somewhere-in-the-skies-patreon-bonus-episode-sneak-peek: missing recommended field episodeNumber
+- 2017-somewhere-in-the-skies-bonus-episode-movie-review-edition-justice-league: missing recommended field episodeNumber
+- 2017-somewhere-in-the-skies-bonus-episode-reviewing-it-with-andrew-sanford: missing recommended field episodeNumber
+PODCAST VALIDATION PASSED
+EXIT 0
+=== tools/validate_graph.py ===
+Checked 1609 entities and 3588 declared relationships.
+Warnings: 56 unresolved legacy relationship targets remain.
+VALIDATION PASSED
+EXIT 0
+=== tools/validate_sources.py ===
+Link architecture validation: 98 official links, 2068 reference sources, 0 errors, 32 warnings.
+WARNING: 60-minutes: no verified official links recorded
+WARNING: aatip: no verified official links recorded
+WARNING: aawsap: no verified official links recorded
+WARNING: advanced-theoretical-physics-program: no verified official links recorded
+WARNING: all-domain-anomaly-resolution-office: no verified official links recorded
+WARNING: animal-wellness-action: no verified official links recorded
+WARNING: ask-a-pol: no verified official links recorded
+WARNING: australian-broadcasting-corporation: no verified official links recorded
+WARNING: bigelow-aerospace: no verified official links recorded
+WARNING: brazilian-commission-of-ufologists: no verified official links recorded
+WARNING: buddha-jones: no verified official links recorded
+WARNING: defence-research-and-development-canada: no verified official links recorded
+WARNING: eglin-air-force-base: no verified official links recorded
+WARNING: five-eyes: no verified official links recorded
+WARNING: fox-news: no verified official links recorded
+WARNING: harvard-university: no verified official links recorded
+WARNING: lord-huron: no verified official links recorded
+WARNING: national-press-club: no verified official links recorded
+WARNING: office-of-the-director-of-national-intelligence: no verified official links recorded
+WARNING: project-sign: no verified official links recorded
+WARNING: soviet-armed-forces: no verified official links recorded
+WARNING: the-new-york-times: no verified official links recorded
+WARNING: uap-caucus: no verified official links recorded
+WARNING: uap-register: no verified official links recorded
+WARNING: uap-science-advisory-council: no verified official links recorded
+WARNING: unhidden-foundation: no verified official links recorded
+WARNING: united-states-air-force-thunderbirds: no verified official links recorded
+WARNING: united-states-congress: no verified official links recorded
+WARNING: united-states-department-of-defense: no verified official links recorded
+WARNING: uss-jackson: no verified official links recorded
+WARNING: wall-street-journal: no verified official links recorded
+WARNING: white-house: no verified official links recorded
+EXIT 0
+=== tools/validate_rendering_rules.py ===
+Rendering rule validation: PASSED (11 categories, 12 entity types)
+Unified Media category: interview + podcast_episode
+EXIT 0
+=== tools/validate_timeline_normalization.py ===
+Timeline normalization validation: PASSED (3 aliases).
+EXIT 0
+=== tools/validate_research_accelerator.py ===
+Research Accelerator validation: 0 error(s).
+EXIT 0
+=== tools/validate_podcast_classification.py ===
+Podcast classification validation: 0 error(s), 0 warning(s), 0 classified live record(s).
+EXIT 0
+=== tools/validate_need_to_know_media.py ===
+Audited 75 Need to Know records and 75 direct primary video IDs.
+Unique primary video IDs: 75.
+NEED TO KNOW MEDIA VALIDATION PASSED
+EXIT 0
+=== tools/validate_somewhere_in_the_skies_media.py ===
+PASS: 40 records; 6 exact episode links; 34 verified series-archive fallbacks; no retired Acast URLs.
+EXIT 0
+=== tools/validate_podcast_official_media.py ===
+Universal official-media validation: checked 0 explicit/fixture records
+UNIVERSAL OFFICIAL-MEDIA VALIDATION PASSED
+EXIT 0
+=== JSON ===
+JSON VALIDATION PASSED (2362 files)
+EXIT 0
+Expected: 1220b3eede19fcbce5a9e6c40e7e5486ae308e18c49e725df150aa5a39fe7629
+Actual:   1220b3eede19fcbce5a9e6c40e7e5486ae308e18c49e725df150aa5a39fe7629
+ENTITY DATA PRESERVATION PASSED

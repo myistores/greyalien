@@ -10,3 +10,6 @@
 | Michael Herrera Public Interview | YouTube | Not listed | Yes | 1 |
 | Eric Hecker South Pole Interview | PBD Podcast | Patrick Bet-David | Yes | 1 |
 | David Adair: My Story — Child Prodigy to Rocket Scientist | Gaia | Not listed | Yes | 2 |
+
+## V23.5A official-media validation
+Canonical URL comparison now covers tracking parameters, trailing slashes, HTTP/HTTPS normalization, YouTube mobile/short URLs, and preserves episode-identifying parameters.

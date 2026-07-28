@@ -1,7 +1,12 @@
 {
-  "version": "23.3",
-  "title": "Somewhere in the Skies Gateway Restoration Patch",
+  "version": "23.5A",
+  "title": "Universal Podcast Official Media Architecture",
   "date": "2026-07-27",
-  "summary": "Restored the V22.1.1 Somewhere in the Skies gateway as the primary public destination, connected all 40 existing 2017 archive records and reviewed topic classifications, corrected directory and related-series routing, preserved the canonical series entity as a secondary knowledge-graph view, and left episode content and graph data untouched.",
-  "phase": "Gateway restoration patch"
+  "summary": "Added a backward-compatible official-media collection model, legacy adapters, preferred-destination resolution, compact rendering, approval safeguards, canonical URL deduplication, and live-capable validation without migrating or changing existing podcast media data.",
+  "phase": "Architecture, compatibility, rendering, and validation release",
+  "latestRelease": {
+    "version": "V23.5A",
+    "title": "Universal Podcast Official Media Architecture",
+    "summary": "Added backward-compatible official-media collections, preferred resolution, compact rendering, approval safeguards, canonical deduplication, and live-capable validation without migrating existing links."
+  }
 }

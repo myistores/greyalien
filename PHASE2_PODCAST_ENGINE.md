@@ -26,3 +26,6 @@ Phase 2 converts podcast additions from manual page construction into structured
 `python tools/ingest_podcast_episode.py research/episode.json`
 
 The command copies the entity, rebuilds the universal graph and podcast assets, rebuilds the sitemap, and runs graph and podcast validation.
+
+## V23.5A media collection extension
+The podcast engine supports an optional `officialMedia` collection plus runtime adapters for `mediaLinks`, `officialLinks`, and `referenceSources`. Existing records require no migration.

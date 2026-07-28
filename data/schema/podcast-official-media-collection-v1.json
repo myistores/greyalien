@@ -1,0 +1,89 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://greyalien.com/schema/podcast-official-media-collection-v1.json",
+  "title": "GreyAlien Podcast Official Media Collection",
+  "type": "array",
+  "items": {
+    "$ref": "#/$defs/mediaRecord"
+  },
+  "$defs": {
+    "mediaRecord": {
+      "type": "object",
+      "additionalProperties": true,
+      "required": [
+        "platform",
+        "url",
+        "destinationType",
+        "mediaType",
+        "official",
+        "verified",
+        "verificationStatus",
+        "preferredRank",
+        "label"
+      ],
+      "properties": {
+        "platform": {
+          "type": "string",
+          "minLength": 1
+        },
+        "url": {
+          "type": "string",
+          "format": "uri",
+          "pattern": "^https?://"
+        },
+        "destinationType": {
+          "enum": [
+            "episode",
+            "series",
+            "playlist",
+            "channel",
+            "feed"
+          ]
+        },
+        "mediaType": {
+          "enum": [
+            "audio",
+            "video",
+            "web_page",
+            "feed"
+          ]
+        },
+        "official": {
+          "type": "boolean"
+        },
+        "verified": {
+          "type": "boolean"
+        },
+        "verificationStatus": {
+          "enum": [
+            "verified",
+            "pending_review",
+            "unavailable",
+            "retired",
+            "rejected"
+          ]
+        },
+        "preferredRank": {
+          "type": "integer",
+          "minimum": 1
+        },
+        "label": {
+          "type": "string",
+          "minLength": 1
+        },
+        "approved": {
+          "type": "boolean"
+        },
+        "published": {
+          "type": "boolean"
+        },
+        "reviewNotes": {
+          "type": "string"
+        },
+        "verification": {
+          "type": "object"
+        }
+      }
+    }
+  }
+}

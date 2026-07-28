@@ -59,3 +59,6 @@ The refinement does not merge sections that serve different research purposes. T
 - Referenced In
 - Continue Research
 - Related Timeline
+
+## Official Media rendering
+Explicit official-media collections render as compact source rows ordered by direct episode destination before archive/feed fallback. Legacy panels remain unchanged when the collection is absent.
