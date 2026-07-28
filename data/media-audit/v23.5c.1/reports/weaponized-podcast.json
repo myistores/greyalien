@@ -1,0 +1,30 @@
+{
+  "podcastSeries": "WEAPONIZED",
+  "seriesEntities": 1,
+  "episodeEntities": 123,
+  "mediaOccurrences": 748,
+  "uniqueCanonicalUrls": 251,
+  "validationJobs": 251,
+  "destinationTypes": {
+    "episode": 381,
+    "series": 365,
+    "channel": 2
+  },
+  "platforms": {
+    "Official website": 126,
+    "RSS": 119,
+    "WEAPONIZED": 122,
+    "Official audio feed": 119,
+    "WEAPONIZED website": 125,
+    "link.chtbl.com": 119,
+    "YouTube": 10,
+    "WEAPONIZED / YouTube": 4,
+    "Apple Podcasts": 2,
+    "Spotify": 2
+  },
+  "duplicateOccurrences": 497,
+  "retiredDomainIndicators": 0,
+  "networkValidation": "not_run",
+  "offlinePreparation": "complete",
+  "v23_5c_2Readiness": "ready"
+}

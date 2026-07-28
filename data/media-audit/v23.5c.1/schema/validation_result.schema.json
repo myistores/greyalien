@@ -1,0 +1,67 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Podcast media live-validation result",
+  "type": "object",
+  "required": [
+    "jobId",
+    "validationTimestamp",
+    "validatorVersion",
+    "initialUrl",
+    "finalValidationStatus"
+  ],
+  "properties": {
+    "jobId": {
+      "type": "string"
+    },
+    "validationTimestamp": {
+      "type": "string"
+    },
+    "validatorVersion": {
+      "type": "string"
+    },
+    "networkEnvironment": {
+      "type": "string"
+    },
+    "initialUrl": {
+      "type": "string"
+    },
+    "httpStatus": {
+      "type": [
+        "integer",
+        "null"
+      ]
+    },
+    "redirectChain": {
+      "type": "array"
+    },
+    "finalUrl": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "soft404Result": {
+      "enum": [
+        "passed",
+        "failed",
+        "not_run",
+        "human_review_required"
+      ]
+    },
+    "finalValidationStatus": {
+      "enum": [
+        "passed",
+        "failed",
+        "network_unavailable",
+        "not_run",
+        "human_review_required"
+      ]
+    },
+    "failureReason": {
+      "type": [
+        "string",
+        "null"
+      ]
+    }
+  }
+}

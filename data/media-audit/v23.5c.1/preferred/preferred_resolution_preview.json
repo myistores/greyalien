@@ -1,0 +1,2951 @@
+{
+  "status": "preview_only",
+  "records": [
+    {
+      "entityId": "2017-somewhere-in-the-skies-bonus-episode-movie-review-edition-justice-league",
+      "currentUrl": "https://podcasts.apple.com/us/podcast/somewhere-in-the-skies/id1227858637",
+      "ifPass": "https://podcasts.apple.com/us/podcast/somewhere-in-the-skies/id1227858637",
+      "ifFail": "resolver_fallback_pending_live_results"
+    },
+    {
+      "entityId": "2017-somewhere-in-the-skies-bonus-episode-movie-review-edition-the-last-jedi",
+      "currentUrl": "https://podcasts.apple.com/us/podcast/bonus-episode-movie-review-edition-the-last-jedi/id1227858637?i=1000398008703",
+      "ifPass": "https://podcasts.apple.com/us/podcast/bonus-episode-movie-review-edition-the-last-jedi/id1227858637?i=1000398008703",
+      "ifFail": "resolver_fallback_pending_live_results"
+    },
+    {
+      "entityId": "2017-somewhere-in-the-skies-bonus-episode-reviewing-it-with-andrew-sanford",
+      "currentUrl": "https://podcasts.apple.com/us/podcast/somewhere-in-the-skies/id1227858637",
+      "ifPass": "https://podcasts.apple.com/us/podcast/somewhere-in-the-skies/id1227858637",
+      "ifFail": "resolver_fallback_pending_live_results"
+    },
+    {
+      "entityId": "2017-somewhere-in-the-skies-episode-1",
+      "currentUrl": "https://podcasts.apple.com/us/podcast/somewhere-in-the-skies/id1227858637",
+      "ifPass": "https://podcasts.apple.com/us/podcast/somewhere-in-the-skies/id1227858637",
+      "ifFail": "resolver_fallback_pending_live_results"
+    },
+    {
+      "entityId": "2017-somewhere-in-the-skies-episode-10",
+      "currentUrl": "https://podcasts.apple.com/us/podcast/somewhere-in-the-skies/id1227858637",
+      "ifPass": "https://podcasts.apple.com/us/podcast/somewhere-in-the-skies/id1227858637",
+      "ifFail": "resolver_fallback_pending_live_results"
+    },
+    {
+      "entityId": "2017-somewhere-in-the-skies-episode-11",
+      "currentUrl": "https://podcasts.apple.com/us/podcast/somewhere-in-the-skies/id1227858637",
+      "ifPass": "https://podcasts.apple.com/us/podcast/somewhere-in-the-skies/id1227858637",
+      "ifFail": "resolver_fallback_pending_live_results"
+    },
+    {
+      "entityId": "2017-somewhere-in-the-skies-episode-12",
+      "currentUrl": "https://podcasts.apple.com/us/podcast/somewhere-in-the-skies/id1227858637",
+      "ifPass": "https://podcasts.apple.com/us/podcast/somewhere-in-the-skies/id1227858637",
+      "ifFail": "resolver_fallback_pending_live_results"
+    },
+    {
+      "entityId": "2017-somewhere-in-the-skies-episode-13",
+      "currentUrl": "https://podcasts.apple.com/us/podcast/somewhere-in-the-skies/id1227858637",
+      "ifPass": "https://podcasts.apple.com/us/podcast/somewhere-in-the-skies/id1227858637",
+      "ifFail": "resolver_fallback_pending_live_results"
+    },
+    {
+      "entityId": "2017-somewhere-in-the-skies-episode-14",
+      "currentUrl": "https://podcasts.apple.com/us/podcast/somewhere-in-the-skies/id1227858637",
+      "ifPass": "https://podcasts.apple.com/us/podcast/somewhere-in-the-skies/id1227858637",
+      "ifFail": "resolver_fallback_pending_live_results"
+    },
+    {
+      "entityId": "2017-somewhere-in-the-skies-episode-15",
+      "currentUrl": "https://podcasts.apple.com/us/podcast/david-jenkins-people-of-earth/id1227858637?i=1000390228455",
+      "ifPass": "https://podcasts.apple.com/us/podcast/david-jenkins-people-of-earth/id1227858637?i=1000390228455",
+      "ifFail": "resolver_fallback_pending_live_results"
+    },
+    {
+      "entityId": "2017-somewhere-in-the-skies-episode-16",
+      "currentUrl": "https://podcasts.apple.com/us/podcast/somewhere-in-the-skies/id1227858637",
+      "ifPass": "https://podcasts.apple.com/us/podcast/somewhere-in-the-skies/id1227858637",
+      "ifFail": "resolver_fallback_pending_live_results"
+    },
+    {
+      "entityId": "2017-somewhere-in-the-skies-episode-17",
+      "currentUrl": "https://podcasts.apple.com/us/podcast/somewhere-in-the-skies/id1227858637",
+      "ifPass": "https://podcasts.apple.com/us/podcast/somewhere-in-the-skies/id1227858637",
+      "ifFail": "resolver_fallback_pending_live_results"
+    },
+    {
+      "entityId": "2017-somewhere-in-the-skies-episode-18",
+      "currentUrl": "https://podcasts.apple.com/us/podcast/somewhere-in-the-skies/id1227858637",
+      "ifPass": "https://podcasts.apple.com/us/podcast/somewhere-in-the-skies/id1227858637",
+      "ifFail": "resolver_fallback_pending_live_results"
+    },
+    {
+      "entityId": "2017-somewhere-in-the-skies-episode-19",
+      "currentUrl": "https://podcasts.apple.com/us/podcast/somewhere-in-the-skies/id1227858637",
+      "ifPass": "https://podcasts.apple.com/us/podcast/somewhere-in-the-skies/id1227858637",
+      "ifFail": "resolver_fallback_pending_live_results"
+    },
+    {
+      "entityId": "2017-somewhere-in-the-skies-episode-2",
+      "currentUrl": "https://podcasts.apple.com/us/podcast/micah-hanks-toward-a-better-ufology/id1227858637?i=1000384707651",
+      "ifPass": "https://podcasts.apple.com/us/podcast/micah-hanks-toward-a-better-ufology/id1227858637?i=1000384707651",
+      "ifFail": "resolver_fallback_pending_live_results"
+    },
+    {
+      "entityId": "2017-somewhere-in-the-skies-episode-20",
+      "currentUrl": "https://podcasts.apple.com/us/podcast/somewhere-in-the-skies/id1227858637",
+      "ifPass": "https://podcasts.apple.com/us/podcast/somewhere-in-the-skies/id1227858637",
+      "ifFail": "resolver_fallback_pending_live_results"
+    },
+    {
+      "entityId": "2017-somewhere-in-the-skies-episode-21",
+      "currentUrl": "https://podcasts.apple.com/us/podcast/somewhere-in-the-skies/id1227858637",
+      "ifPass": "https://podcasts.apple.com/us/podcast/somewhere-in-the-skies/id1227858637",
+      "ifFail": "resolver_fallback_pending_live_results"
+    },
+    {
+      "entityId": "2017-somewhere-in-the-skies-episode-22",
+      "currentUrl": "https://podcasts.apple.com/us/podcast/somewhere-in-the-skies/id1227858637",
+      "ifPass": "https://podcasts.apple.com/us/podcast/somewhere-in-the-skies/id1227858637",
+      "ifFail": "resolver_fallback_pending_live_results"
+    },
+    {
+      "entityId": "2017-somewhere-in-the-skies-episode-23",
+      "currentUrl": "https://podcasts.apple.com/us/podcast/somewhere-in-the-skies/id1227858637",
+      "ifPass": "https://podcasts.apple.com/us/podcast/somewhere-in-the-skies/id1227858637",
+      "ifFail": "resolver_fallback_pending_live_results"
+    },
+    {
+      "entityId": "2017-somewhere-in-the-skies-episode-24",
+      "currentUrl": "https://podcasts.apple.com/us/podcast/somewhere-in-the-skies/id1227858637",
+      "ifPass": "https://podcasts.apple.com/us/podcast/somewhere-in-the-skies/id1227858637",
+      "ifFail": "resolver_fallback_pending_live_results"
+    },
+    {
+      "entityId": "2017-somewhere-in-the-skies-episode-25",
+      "currentUrl": "https://podcasts.apple.com/us/podcast/somewhere-in-the-skies/id1227858637",
+      "ifPass": "https://podcasts.apple.com/us/podcast/somewhere-in-the-skies/id1227858637",
+      "ifFail": "resolver_fallback_pending_live_results"
+    },
+    {
+      "entityId": "2017-somewhere-in-the-skies-episode-26",
+      "currentUrl": "https://podcasts.apple.com/us/podcast/somewhere-in-the-skies/id1227858637",
+      "ifPass": "https://podcasts.apple.com/us/podcast/somewhere-in-the-skies/id1227858637",
+      "ifFail": "resolver_fallback_pending_live_results"
+    },
+    {
+      "entityId": "2017-somewhere-in-the-skies-episode-27",
+      "currentUrl": "https://podcasts.apple.com/us/podcast/somewhere-in-the-skies/id1227858637",
+      "ifPass": "https://podcasts.apple.com/us/podcast/somewhere-in-the-skies/id1227858637",
+      "ifFail": "resolver_fallback_pending_live_results"
+    },
+    {
+      "entityId": "2017-somewhere-in-the-skies-episode-28",
+      "currentUrl": "https://podcasts.apple.com/us/podcast/somewhere-in-the-skies/id1227858637",
+      "ifPass": "https://podcasts.apple.com/us/podcast/somewhere-in-the-skies/id1227858637",
+      "ifFail": "resolver_fallback_pending_live_results"
+    },
+    {
+      "entityId": "2017-somewhere-in-the-skies-episode-29",
+      "currentUrl": "https://podcasts.apple.com/us/podcast/somewhere-in-the-skies/id1227858637",
+      "ifPass": "https://podcasts.apple.com/us/podcast/somewhere-in-the-skies/id1227858637",
+      "ifFail": "resolver_fallback_pending_live_results"
+    },
+    {
+      "entityId": "2017-somewhere-in-the-skies-episode-3",
+      "currentUrl": "https://podcasts.apple.com/us/podcast/somewhere-in-the-skies/id1227858637",
+      "ifPass": "https://podcasts.apple.com/us/podcast/somewhere-in-the-skies/id1227858637",
+      "ifFail": "resolver_fallback_pending_live_results"
+    },
+    {
+      "entityId": "2017-somewhere-in-the-skies-episode-30",
+      "currentUrl": "https://podcasts.apple.com/us/podcast/somewhere-in-the-skies/id1227858637",
+      "ifPass": "https://podcasts.apple.com/us/podcast/somewhere-in-the-skies/id1227858637",
+      "ifFail": "resolver_fallback_pending_live_results"
+    },
+    {
+      "entityId": "2017-somewhere-in-the-skies-episode-31",
+      "currentUrl": "https://podcasts.apple.com/us/podcast/somewhere-in-the-skies/id1227858637",
+      "ifPass": "https://podcasts.apple.com/us/podcast/somewhere-in-the-skies/id1227858637",
+      "ifFail": "resolver_fallback_pending_live_results"
+    },
+    {
+      "entityId": "2017-somewhere-in-the-skies-episode-32",
+      "currentUrl": "https://podcasts.apple.com/us/podcast/somewhere-in-the-skies/id1227858637",
+      "ifPass": "https://podcasts.apple.com/us/podcast/somewhere-in-the-skies/id1227858637",
+      "ifFail": "resolver_fallback_pending_live_results"
+    },
+    {
+      "entityId": "2017-somewhere-in-the-skies-episode-33",
+      "currentUrl": "https://podcasts.apple.com/us/podcast/somewhere-in-the-skies/id1227858637",
+      "ifPass": "https://podcasts.apple.com/us/podcast/somewhere-in-the-skies/id1227858637",
+      "ifFail": "resolver_fallback_pending_live_results"
+    },
+    {
+      "entityId": "2017-somewhere-in-the-skies-episode-34",
+      "currentUrl": "https://podcasts.apple.com/us/podcast/somewhere-in-the-skies/id1227858637",
+      "ifPass": "https://podcasts.apple.com/us/podcast/somewhere-in-the-skies/id1227858637",
+      "ifFail": "resolver_fallback_pending_live_results"
+    },
+    {
+      "entityId": "2017-somewhere-in-the-skies-episode-35",
+      "currentUrl": "https://open.spotify.com/episode/6BRMdWQlTLzIBqFhof6Wuy",
+      "ifPass": "https://open.spotify.com/episode/6BRMdWQlTLzIBqFhof6Wuy",
+      "ifFail": "resolver_fallback_pending_live_results"
+    },
+    {
+      "entityId": "2017-somewhere-in-the-skies-episode-36",
+      "currentUrl": "https://podcasts.apple.com/us/podcast/somewhere-in-the-skies/id1227858637",
+      "ifPass": "https://podcasts.apple.com/us/podcast/somewhere-in-the-skies/id1227858637",
+      "ifFail": "resolver_fallback_pending_live_results"
+    },
+    {
+      "entityId": "2017-somewhere-in-the-skies-episode-4",
+      "currentUrl": "https://open.spotify.com/episode/5nnM6FRzSDFrGjkBD4bBDF",
+      "ifPass": "https://open.spotify.com/episode/5nnM6FRzSDFrGjkBD4bBDF",
+      "ifFail": "resolver_fallback_pending_live_results"
+    },
+    {
+      "entityId": "2017-somewhere-in-the-skies-episode-5",
+      "currentUrl": "https://podcasts.apple.com/us/podcast/somewhere-in-the-skies/id1227858637",
+      "ifPass": "https://podcasts.apple.com/us/podcast/somewhere-in-the-skies/id1227858637",
+      "ifFail": "resolver_fallback_pending_live_results"
+    },
+    {
+      "entityId": "2017-somewhere-in-the-skies-episode-6",
+      "currentUrl": "https://podcasts.apple.com/us/podcast/somewhere-in-the-skies/id1227858637",
+      "ifPass": "https://podcasts.apple.com/us/podcast/somewhere-in-the-skies/id1227858637",
+      "ifFail": "resolver_fallback_pending_live_results"
+    },
+    {
+      "entityId": "2017-somewhere-in-the-skies-episode-7",
+      "currentUrl": "https://open.spotify.com/episode/4DKHn3la46ZaWVpnZpqdBJ",
+      "ifPass": "https://open.spotify.com/episode/4DKHn3la46ZaWVpnZpqdBJ",
+      "ifFail": "resolver_fallback_pending_live_results"
+    },
+    {
+      "entityId": "2017-somewhere-in-the-skies-episode-8",
+      "currentUrl": "https://podcasts.apple.com/us/podcast/somewhere-in-the-skies/id1227858637",
+      "ifPass": "https://podcasts.apple.com/us/podcast/somewhere-in-the-skies/id1227858637",
+      "ifFail": "resolver_fallback_pending_live_results"
+    },
+    {
+      "entityId": "2017-somewhere-in-the-skies-episode-9",
+      "currentUrl": "https://podcasts.apple.com/us/podcast/somewhere-in-the-skies/id1227858637",
+      "ifPass": "https://podcasts.apple.com/us/podcast/somewhere-in-the-skies/id1227858637",
+      "ifFail": "resolver_fallback_pending_live_results"
+    },
+    {
+      "entityId": "2017-somewhere-in-the-skies-patreon-bonus-episode-sneak-peek",
+      "currentUrl": "https://podcasts.apple.com/us/podcast/somewhere-in-the-skies/id1227858637",
+      "ifPass": "https://podcasts.apple.com/us/podcast/somewhere-in-the-skies/id1227858637",
+      "ifFail": "resolver_fallback_pending_live_results"
+    },
+    {
+      "entityId": "2021-need-to-know-episode-1",
+      "currentUrl": "https://www.youtube.com/playlist?list=PLXdU8QbJkboeMcvUNyGpb9h6FUS9cVBti",
+      "ifPass": "https://youtube.com/playlist?list=PLXdU8QbJkboeMcvUNyGpb9h6FUS9cVBti",
+      "ifFail": "resolver_fallback_pending_live_results"
+    },
+    {
+      "entityId": "2021-need-to-know-episode-1",
+      "currentUrl": "https://www.youtube.com/watch?v=rHwjvFf_VOo",
+      "ifPass": "https://youtube.com/watch?v=rHwjvFf_VOo",
+      "ifFail": "resolver_fallback_pending_live_results"
+    },
+    {
+      "entityId": "2021-need-to-know-episode-2",
+      "currentUrl": "https://www.youtube.com/playlist?list=PLXdU8QbJkboeMcvUNyGpb9h6FUS9cVBti",
+      "ifPass": "https://youtube.com/playlist?list=PLXdU8QbJkboeMcvUNyGpb9h6FUS9cVBti",
+      "ifFail": "resolver_fallback_pending_live_results"
+    },
+    {
+      "entityId": "2021-need-to-know-episode-2",
+      "currentUrl": "https://www.youtube.com/watch?v=bVIZO5zTNEY",
+      "ifPass": "https://youtube.com/watch?v=bVIZO5zTNEY",
+      "ifFail": "resolver_fallback_pending_live_results"
+    },
+    {
+      "entityId": "2021-need-to-know-episode-3",
+      "currentUrl": "https://www.youtube.com/playlist?list=PLXdU8QbJkboeMcvUNyGpb9h6FUS9cVBti",
+      "ifPass": "https://youtube.com/playlist?list=PLXdU8QbJkboeMcvUNyGpb9h6FUS9cVBti",
+      "ifFail": "resolver_fallback_pending_live_results"
+    },
+    {
+      "entityId": "2021-need-to-know-episode-3",
+      "currentUrl": "https://www.youtube.com/watch?v=wF_8gBlUZhY",
+      "ifPass": "https://youtube.com/watch?v=wF_8gBlUZhY",
+      "ifFail": "resolver_fallback_pending_live_results"
+    },
+    {
+      "entityId": "2022-need-to-know-episode-10",
+      "currentUrl": "https://www.youtube.com/playlist?list=PLXdU8QbJkboeMcvUNyGpb9h6FUS9cVBti",
+      "ifPass": "https://youtube.com/playlist?list=PLXdU8QbJkboeMcvUNyGpb9h6FUS9cVBti",
+      "ifFail": "resolver_fallback_pending_live_results"
+    },
+    {
+      "entityId": "2022-need-to-know-episode-10",
+      "currentUrl": "https://www.youtube.com/watch?v=AIbv1KzDNdQ",
+      "ifPass": "https://youtube.com/watch?v=AIbv1KzDNdQ",
+      "ifFail": "resolver_fallback_pending_live_results"
+    },
+    {
+      "entityId": "2022-need-to-know-episode-11",
+      "currentUrl": "https://www.youtube.com/playlist?list=PLXdU8QbJkboeMcvUNyGpb9h6FUS9cVBti",
+      "ifPass": "https://youtube.com/playlist?list=PLXdU8QbJkboeMcvUNyGpb9h6FUS9cVBti",
+      "ifFail": "resolver_fallback_pending_live_results"
+    },
+    {
+      "entityId": "2022-need-to-know-episode-11",
+      "currentUrl": "https://www.youtube.com/watch?v=nE-GQq3Rbi8",
+      "ifPass": "https://youtube.com/watch?v=nE-GQq3Rbi8",
+      "ifFail": "resolver_fallback_pending_live_results"
+    },
+    {
+      "entityId": "2022-need-to-know-episode-12",
+      "currentUrl": "https://www.youtube.com/playlist?list=PLXdU8QbJkboeMcvUNyGpb9h6FUS9cVBti",
+      "ifPass": "https://youtube.com/playlist?list=PLXdU8QbJkboeMcvUNyGpb9h6FUS9cVBti",
+      "ifFail": "resolver_fallback_pending_live_results"
+    },
+    {
+      "entityId": "2022-need-to-know-episode-12",
+      "currentUrl": "https://www.youtube.com/watch?v=Ajwe2U6qhn4",
+      "ifPass": "https://youtube.com/watch?v=Ajwe2U6qhn4",
+      "ifFail": "resolver_fallback_pending_live_results"
+    },
+    {
+      "entityId": "2022-need-to-know-episode-13",
+      "currentUrl": "https://www.youtube.com/playlist?list=PLXdU8QbJkboeMcvUNyGpb9h6FUS9cVBti",
+      "ifPass": "https://youtube.com/playlist?list=PLXdU8QbJkboeMcvUNyGpb9h6FUS9cVBti",
+      "ifFail": "resolver_fallback_pending_live_results"
+    },
+    {
+      "entityId": "2022-need-to-know-episode-13",
+      "currentUrl": "https://www.youtube.com/watch?v=HRCT_ddq39U",
+      "ifPass": "https://youtube.com/watch?v=HRCT_ddq39U",
+      "ifFail": "resolver_fallback_pending_live_results"
+    },
+    {
+      "entityId": "2022-need-to-know-episode-14",
+      "currentUrl": "https://www.youtube.com/playlist?list=PLXdU8QbJkboeMcvUNyGpb9h6FUS9cVBti",
+      "ifPass": "https://youtube.com/playlist?list=PLXdU8QbJkboeMcvUNyGpb9h6FUS9cVBti",
+      "ifFail": "resolver_fallback_pending_live_results"
+    },
+    {
+      "entityId": "2022-need-to-know-episode-14",
+      "currentUrl": "https://www.youtube.com/watch?v=YOjSBPfmoIM",
+      "ifPass": "https://youtube.com/watch?v=YOjSBPfmoIM",
+      "ifFail": "resolver_fallback_pending_live_results"
+    },
+    {
+      "entityId": "2022-need-to-know-episode-15",
+      "currentUrl": "https://www.youtube.com/playlist?list=PLXdU8QbJkboeMcvUNyGpb9h6FUS9cVBti",
+      "ifPass": "https://youtube.com/playlist?list=PLXdU8QbJkboeMcvUNyGpb9h6FUS9cVBti",
+      "ifFail": "resolver_fallback_pending_live_results"
+    },
+    {
+      "entityId": "2022-need-to-know-episode-15",
+      "currentUrl": "https://www.youtube.com/watch?v=W8k8yl5yLGk",
+      "ifPass": "https://youtube.com/watch?v=W8k8yl5yLGk",
+      "ifFail": "resolver_fallback_pending_live_results"
+    },
+    {
+      "entityId": "2022-need-to-know-episode-16",
+      "currentUrl": "https://www.youtube.com/playlist?list=PLXdU8QbJkboeMcvUNyGpb9h6FUS9cVBti",
+      "ifPass": "https://youtube.com/playlist?list=PLXdU8QbJkboeMcvUNyGpb9h6FUS9cVBti",
+      "ifFail": "resolver_fallback_pending_live_results"
+    },
+    {
+      "entityId": "2022-need-to-know-episode-16",
+      "currentUrl": "https://www.youtube.com/watch?v=0dwsvzsn3ko",
+      "ifPass": "https://youtube.com/watch?v=0dwsvzsn3ko",
+      "ifFail": "resolver_fallback_pending_live_results"
+    },
+    {
+      "entityId": "2022-need-to-know-episode-17",
+      "currentUrl": "https://www.youtube.com/playlist?list=PLXdU8QbJkboeMcvUNyGpb9h6FUS9cVBti",
+      "ifPass": "https://youtube.com/playlist?list=PLXdU8QbJkboeMcvUNyGpb9h6FUS9cVBti",
+      "ifFail": "resolver_fallback_pending_live_results"
+    },
+    {
+      "entityId": "2022-need-to-know-episode-17",
+      "currentUrl": "https://www.youtube.com/watch?v=7UzU_l6hDLk",
+      "ifPass": "https://youtube.com/watch?v=7UzU_l6hDLk",
+      "ifFail": "resolver_fallback_pending_live_results"
+    },
+    {
+      "entityId": "2022-need-to-know-episode-18",
+      "currentUrl": "https://www.youtube.com/playlist?list=PLXdU8QbJkboeMcvUNyGpb9h6FUS9cVBti",
+      "ifPass": "https://youtube.com/playlist?list=PLXdU8QbJkboeMcvUNyGpb9h6FUS9cVBti",
+      "ifFail": "resolver_fallback_pending_live_results"
+    },
+    {
+      "entityId": "2022-need-to-know-episode-18",
+      "currentUrl": "https://www.youtube.com/watch?v=zCbUiXAJbn0",
+      "ifPass": "https://youtube.com/watch?v=zCbUiXAJbn0",
+      "ifFail": "resolver_fallback_pending_live_results"
+    },
+    {
+      "entityId": "2022-need-to-know-episode-19",
+      "currentUrl": "https://www.youtube.com/playlist?list=PLXdU8QbJkboeMcvUNyGpb9h6FUS9cVBti",
+      "ifPass": "https://youtube.com/playlist?list=PLXdU8QbJkboeMcvUNyGpb9h6FUS9cVBti",
+      "ifFail": "resolver_fallback_pending_live_results"
+    },
+    {
+      "entityId": "2022-need-to-know-episode-19",
+      "currentUrl": "https://www.youtube.com/watch?v=A0SdTFO4GDY",
+      "ifPass": "https://youtube.com/watch?v=A0SdTFO4GDY",
+      "ifFail": "resolver_fallback_pending_live_results"
+    },
+    {
+      "entityId": "2022-need-to-know-episode-20",
+      "currentUrl": "https://www.youtube.com/playlist?list=PLXdU8QbJkboeMcvUNyGpb9h6FUS9cVBti",
+      "ifPass": "https://youtube.com/playlist?list=PLXdU8QbJkboeMcvUNyGpb9h6FUS9cVBti",
+      "ifFail": "resolver_fallback_pending_live_results"
+    },
+    {
+      "entityId": "2022-need-to-know-episode-20",
+      "currentUrl": "https://www.youtube.com/watch?v=pSZUBulON6I",
+      "ifPass": "https://youtube.com/watch?v=pSZUBulON6I",
+      "ifFail": "resolver_fallback_pending_live_results"
+    },
+    {
+      "entityId": "2022-need-to-know-episode-21",
+      "currentUrl": "https://www.youtube.com/playlist?list=PLXdU8QbJkboeMcvUNyGpb9h6FUS9cVBti",
+      "ifPass": "https://youtube.com/playlist?list=PLXdU8QbJkboeMcvUNyGpb9h6FUS9cVBti",
+      "ifFail": "resolver_fallback_pending_live_results"
+    },
+    {
+      "entityId": "2022-need-to-know-episode-21",
+      "currentUrl": "https://www.youtube.com/watch?v=b-_QillPBM4",
+      "ifPass": "https://youtube.com/watch?v=b-_QillPBM4",
+      "ifFail": "resolver_fallback_pending_live_results"
+    },
+    {
+      "entityId": "2022-need-to-know-episode-22",
+      "currentUrl": "https://www.youtube.com/playlist?list=PLXdU8QbJkboeMcvUNyGpb9h6FUS9cVBti",
+      "ifPass": "https://youtube.com/playlist?list=PLXdU8QbJkboeMcvUNyGpb9h6FUS9cVBti",
+      "ifFail": "resolver_fallback_pending_live_results"
+    },
+    {
+      "entityId": "2022-need-to-know-episode-22",
+      "currentUrl": "https://www.youtube.com/watch?v=AMZdrtKI_mo",
+      "ifPass": "https://youtube.com/watch?v=AMZdrtKI_mo",
+      "ifFail": "resolver_fallback_pending_live_results"
+    },
+    {
+      "entityId": "2022-need-to-know-episode-23",
+      "currentUrl": "https://www.youtube.com/playlist?list=PLXdU8QbJkboeMcvUNyGpb9h6FUS9cVBti",
+      "ifPass": "https://youtube.com/playlist?list=PLXdU8QbJkboeMcvUNyGpb9h6FUS9cVBti",
+      "ifFail": "resolver_fallback_pending_live_results"
+    },
+    {
+      "entityId": "2022-need-to-know-episode-23",
+      "currentUrl": "https://www.youtube.com/watch?v=e6XE7wef6k0",
+      "ifPass": "https://youtube.com/watch?v=e6XE7wef6k0",
+      "ifFail": "resolver_fallback_pending_live_results"
+    },
+    {
+      "entityId": "2022-need-to-know-episode-24",
+      "currentUrl": "https://www.youtube.com/playlist?list=PLXdU8QbJkboeMcvUNyGpb9h6FUS9cVBti",
+      "ifPass": "https://youtube.com/playlist?list=PLXdU8QbJkboeMcvUNyGpb9h6FUS9cVBti",
+      "ifFail": "resolver_fallback_pending_live_results"
+    },
+    {
+      "entityId": "2022-need-to-know-episode-24",
+      "currentUrl": "https://www.youtube.com/watch?v=3o04UkYg_ks",
+      "ifPass": "https://youtube.com/watch?v=3o04UkYg_ks",
+      "ifFail": "resolver_fallback_pending_live_results"
+    },
+    {
+      "entityId": "2022-need-to-know-episode-25",
+      "currentUrl": "https://www.youtube.com/playlist?list=PLXdU8QbJkboeMcvUNyGpb9h6FUS9cVBti",
+      "ifPass": "https://youtube.com/playlist?list=PLXdU8QbJkboeMcvUNyGpb9h6FUS9cVBti",
+      "ifFail": "resolver_fallback_pending_live_results"
+    },
+    {
+      "entityId": "2022-need-to-know-episode-25",
+      "currentUrl": "https://www.youtube.com/watch?v=D62Jj7Ju03A",
+      "ifPass": "https://youtube.com/watch?v=D62Jj7Ju03A",
+      "ifFail": "resolver_fallback_pending_live_results"
+    },
+    {
+      "entityId": "2022-need-to-know-episode-4",
+      "currentUrl": "https://www.youtube.com/playlist?list=PLXdU8QbJkboeMcvUNyGpb9h6FUS9cVBti",
+      "ifPass": "https://youtube.com/playlist?list=PLXdU8QbJkboeMcvUNyGpb9h6FUS9cVBti",
+      "ifFail": "resolver_fallback_pending_live_results"
+    },
+    {
+      "entityId": "2022-need-to-know-episode-4",
+      "currentUrl": "https://www.youtube.com/watch?v=e962GK3qK9w",
+      "ifPass": "https://youtube.com/watch?v=e962GK3qK9w",
+      "ifFail": "resolver_fallback_pending_live_results"
+    },
+    {
+      "entityId": "2022-need-to-know-episode-5",
+      "currentUrl": "https://www.youtube.com/playlist?list=PLXdU8QbJkboeMcvUNyGpb9h6FUS9cVBti",
+      "ifPass": "https://youtube.com/playlist?list=PLXdU8QbJkboeMcvUNyGpb9h6FUS9cVBti",
+      "ifFail": "resolver_fallback_pending_live_results"
+    },
+    {
+      "entityId": "2022-need-to-know-episode-5",
+      "currentUrl": "https://www.youtube.com/watch?v=bsOiS6rsoEM",
+      "ifPass": "https://youtube.com/watch?v=bsOiS6rsoEM",
+      "ifFail": "resolver_fallback_pending_live_results"
+    },
+    {
+      "entityId": "2022-need-to-know-episode-6",
+      "currentUrl": "https://www.youtube.com/playlist?list=PLXdU8QbJkboeMcvUNyGpb9h6FUS9cVBti",
+      "ifPass": "https://youtube.com/playlist?list=PLXdU8QbJkboeMcvUNyGpb9h6FUS9cVBti",
+      "ifFail": "resolver_fallback_pending_live_results"
+    },
+    {
+      "entityId": "2022-need-to-know-episode-6",
+      "currentUrl": "https://www.youtube.com/watch?v=Pu0OstWkqo0",
+      "ifPass": "https://youtube.com/watch?v=Pu0OstWkqo0",
+      "ifFail": "resolver_fallback_pending_live_results"
+    },
+    {
+      "entityId": "2022-need-to-know-episode-7",
+      "currentUrl": "https://www.youtube.com/playlist?list=PLXdU8QbJkboeMcvUNyGpb9h6FUS9cVBti",
+      "ifPass": "https://youtube.com/playlist?list=PLXdU8QbJkboeMcvUNyGpb9h6FUS9cVBti",
+      "ifFail": "resolver_fallback_pending_live_results"
+    },
+    {
+      "entityId": "2022-need-to-know-episode-7",
+      "currentUrl": "https://www.youtube.com/watch?v=jIN54qqF9S0",
+      "ifPass": "https://youtube.com/watch?v=jIN54qqF9S0",
+      "ifFail": "resolver_fallback_pending_live_results"
+    },
+    {
+      "entityId": "2022-need-to-know-episode-8",
+      "currentUrl": "https://www.youtube.com/playlist?list=PLXdU8QbJkboeMcvUNyGpb9h6FUS9cVBti",
+      "ifPass": "https://youtube.com/playlist?list=PLXdU8QbJkboeMcvUNyGpb9h6FUS9cVBti",
+      "ifFail": "resolver_fallback_pending_live_results"
+    },
+    {
+      "entityId": "2022-need-to-know-episode-8",
+      "currentUrl": "https://www.youtube.com/watch?v=HnY4W9DoKbM",
+      "ifPass": "https://youtube.com/watch?v=HnY4W9DoKbM",
+      "ifFail": "resolver_fallback_pending_live_results"
+    },
+    {
+      "entityId": "2022-need-to-know-episode-9",
+      "currentUrl": "https://www.youtube.com/playlist?list=PLXdU8QbJkboeMcvUNyGpb9h6FUS9cVBti",
+      "ifPass": "https://youtube.com/playlist?list=PLXdU8QbJkboeMcvUNyGpb9h6FUS9cVBti",
+      "ifFail": "resolver_fallback_pending_live_results"
+    },
+    {
+      "entityId": "2022-need-to-know-episode-9",
+      "currentUrl": "https://www.youtube.com/watch?v=j30le32EG_c",
+      "ifPass": "https://youtube.com/watch?v=j30le32EG_c",
+      "ifFail": "resolver_fallback_pending_live_results"
+    },
+    {
+      "entityId": "2023-merged-episode-1",
+      "currentUrl": "https://www.mergedpodcast.com/episodes/interview-garry-nolan",
+      "ifPass": "https://mergedpodcast.com/episodes/interview-garry-nolan",
+      "ifFail": "resolver_fallback_pending_live_results"
+    },
+    {
+      "entityId": "2023-merged-episode-1",
+      "currentUrl": "https://www.youtube.com/watch?v=rx2x_w5wimk",
+      "ifPass": "https://youtube.com/watch?v=rx2x_w5wimk",
+      "ifFail": "resolver_fallback_pending_live_results"
+    },
+    {
+      "entityId": "2023-merged-episode-10",
+      "currentUrl": "https://www.ivoox.com/en/looking-to-the-sky-for-extraordinary-evidence-of-audios-mp3_rf_110874897_1.html",
+      "ifPass": "https://ivoox.com/en/looking-to-the-sky-for-extraordinary-evidence-of-audios-mp3_rf_110874897_1.html",
+      "ifFail": "resolver_fallback_pending_live_results"
+    },
+    {
+      "entityId": "2023-merged-episode-10",
+      "currentUrl": "https://www.youtube.com/watch?v=fw9l0mK466I",
+      "ifPass": "https://youtube.com/watch?v=fw9l0mK466I",
+      "ifFail": "resolver_fallback_pending_live_results"
+    },
+    {
+      "entityId": "2023-merged-episode-11",
+      "currentUrl": "https://www.ivoox.com/en/beyond-the-stigma-a-uap-ufo-call-to-audios-mp3_rf_111932780_1.html",
+      "ifPass": "https://ivoox.com/en/beyond-the-stigma-a-uap-ufo-call-to-audios-mp3_rf_111932780_1.html",
+      "ifFail": "resolver_fallback_pending_live_results"
+    },
+    {
+      "entityId": "2023-merged-episode-11",
+      "currentUrl": "https://www.youtube.com/watch?v=KuX4GLHLRz8",
+      "ifPass": "https://youtube.com/watch?v=KuX4GLHLRz8",
+      "ifFail": "resolver_fallback_pending_live_results"
+    },
+    {
+      "entityId": "2023-merged-episode-12",
+      "currentUrl": "https://www.ivoox.com/en/a-new-era-of-aviation-safety-with-audios-mp3_rf_112776246_1.html",
+      "ifPass": "https://ivoox.com/en/a-new-era-of-aviation-safety-with-audios-mp3_rf_112776246_1.html",
+      "ifFail": "resolver_fallback_pending_live_results"
+    },
+    {
+      "entityId": "2023-merged-episode-12",
+      "currentUrl": "https://www.youtube.com/watch?v=kJxUPEStiPM",
+      "ifPass": "https://youtube.com/watch?v=kJxUPEStiPM",
+      "ifFail": "resolver_fallback_pending_live_results"
+    },
+    {
+      "entityId": "2023-merged-episode-13",
+      "currentUrl": "https://www.ivoox.com/en/an-open-minded-scientific-approach-to-uap-ufos-audios-mp3_rf_114279386_1.html",
+      "ifPass": "https://ivoox.com/en/an-open-minded-scientific-approach-to-uap-ufos-audios-mp3_rf_114279386_1.html",
+      "ifFail": "resolver_fallback_pending_live_results"
+    },
+    {
+      "entityId": "2023-merged-episode-13",
+      "currentUrl": "https://www.youtube.com/watch?v=KFSWeJe_7-4",
+      "ifPass": "https://youtube.com/watch?v=KFSWeJe_7-4",
+      "ifFail": "resolver_fallback_pending_live_results"
+    },
+    {
+      "entityId": "2023-merged-episode-14",
+      "currentUrl": "https://www.ivoox.com/en/pilots-witnesses-systematic-uap-reporting-for-pilots-audios-mp3_rf_115247469_1.html",
+      "ifPass": "https://ivoox.com/en/pilots-witnesses-systematic-uap-reporting-for-pilots-audios-mp3_rf_115247469_1.html",
+      "ifFail": "resolver_fallback_pending_live_results"
+    },
+    {
+      "entityId": "2023-merged-episode-14",
+      "currentUrl": "https://www.youtube.com/watch?v=Nc9_ZP36-AI",
+      "ifPass": "https://youtube.com/watch?v=Nc9_ZP36-AI",
+      "ifFail": "resolver_fallback_pending_live_results"
+    },
+    {
+      "entityId": "2023-merged-episode-15",
+      "currentUrl": "https://www.ivoox.com/en/the-sounds-of-the-sky-the-galileo-audios-mp3_rf_116041882_1.html",
+      "ifPass": "https://ivoox.com/en/the-sounds-of-the-sky-the-galileo-audios-mp3_rf_116041882_1.html",
+      "ifFail": "resolver_fallback_pending_live_results"
+    },
+    {
+      "entityId": "2023-merged-episode-15",
+      "currentUrl": "https://www.youtube.com/watch?v=87POecVP-s4",
+      "ifPass": "https://youtube.com/watch?v=87POecVP-s4",
+      "ifFail": "resolver_fallback_pending_live_results"
+    },
+    {
+      "entityId": "2023-merged-episode-16",
+      "currentUrl": "https://www.ivoox.com/en/navigating-the-deep-searching-for-undersea-uap-audios-mp3_rf_116831042_1.html",
+      "ifPass": "https://ivoox.com/en/navigating-the-deep-searching-for-undersea-uap-audios-mp3_rf_116831042_1.html",
+      "ifFail": "resolver_fallback_pending_live_results"
+    },
+    {
+      "entityId": "2023-merged-episode-16",
+      "currentUrl": "https://www.youtube.com/@merged_podcast/search?query=Merged+Podcast+EP+16+Tim+Gallaudet",
+      "ifPass": "https://youtube.com/@merged_podcast/search?query=Merged+Podcast+EP+16+Tim+Gallaudet",
+      "ifFail": "resolver_fallback_pending_live_results"
+    },
+    {
+      "entityId": "2023-merged-episode-17",
+      "currentUrl": "https://www.ivoox.com/en/asking-difficult-questions-congressional-accountability-on-uap-audios-mp3_rf_117633407_1.html",
+      "ifPass": "https://ivoox.com/en/asking-difficult-questions-congressional-accountability-on-uap-audios-mp3_rf_117633407_1.html",
+      "ifFail": "resolver_fallback_pending_live_results"
+    },
+    {
+      "entityId": "2023-merged-episode-17",
+      "currentUrl": "https://www.youtube.com/@merged_podcast/search?query=Merged+Podcast+EP+17+Matt+Laslo",
+      "ifPass": "https://youtube.com/@merged_podcast/search?query=Merged+Podcast+EP+17+Matt+Laslo",
+      "ifFail": "resolver_fallback_pending_live_results"
+    },
+    {
+      "entityId": "2023-merged-episode-18",
+      "currentUrl": "https://www.ivoox.com/en/uap-research-or-seti-who-finds-nhi-audios-mp3_rf_118459031_1.html",
+      "ifPass": "https://ivoox.com/en/uap-research-or-seti-who-finds-nhi-audios-mp3_rf_118459031_1.html",
+      "ifFail": "resolver_fallback_pending_live_results"
+    },
+    {
+      "entityId": "2023-merged-episode-18",
+      "currentUrl": "https://www.youtube.com/@merged_podcast/search?query=Merged+Podcast+EP+18+Adam+Frank",
+      "ifPass": "https://youtube.com/@merged_podcast/search?query=Merged+Podcast+EP+18+Adam+Frank",
+      "ifFail": "resolver_fallback_pending_live_results"
+    },
+    {
+      "entityId": "2023-merged-episode-19",
+      "currentUrl": "https://www.ivoox.com/en/vandenberg-8220red-square-witness-speaks-for-first-time-audios-mp3_rf_119179267_1.html",
+      "ifPass": "https://ivoox.com/en/vandenberg-8220red-square-witness-speaks-for-first-time-audios-mp3_rf_119179267_1.html",
+      "ifFail": "resolver_fallback_pending_live_results"
+    },
+    {
+      "entityId": "2023-merged-episode-19",
+      "currentUrl": "https://www.youtube.com/@merged_podcast/search?query=Merged+Podcast+EP+19+Jeff+Nuccetelli",
+      "ifPass": "https://youtube.com/@merged_podcast/search?query=Merged+Podcast+EP+19+Jeff+Nuccetelli",
+      "ifFail": "resolver_fallback_pending_live_results"
+    },
+    {
+      "entityId": "2023-merged-episode-2",
+      "currentUrl": "https://www.ivoox.com/en/pilot8217s-shocking-uap-sightings-what-this-means-audios-mp3_rf_102351793_1.html",
+      "ifPass": "https://ivoox.com/en/pilot8217s-shocking-uap-sightings-what-this-means-audios-mp3_rf_102351793_1.html",
+      "ifFail": "resolver_fallback_pending_live_results"
+    },
+    {
+      "entityId": "2023-merged-episode-2",
+      "currentUrl": "https://www.youtube.com/watch?v=UjildVLwSHw",
+      "ifPass": "https://youtube.com/watch?v=UjildVLwSHw",
+      "ifFail": "resolver_fallback_pending_live_results"
+    },
+    {
+      "entityId": "2023-merged-episode-3",
+      "currentUrl": "https://www.ivoox.com/en/unbreakable-resilience-how-i-survived-a-supersonic-jet-audios-mp3_rf_102717308_1.html",
+      "ifPass": "https://ivoox.com/en/unbreakable-resilience-how-i-survived-a-supersonic-jet-audios-mp3_rf_102717308_1.html",
+      "ifFail": "resolver_fallback_pending_live_results"
+    },
+    {
+      "entityId": "2023-merged-episode-3",
+      "currentUrl": "https://www.youtube.com/@merged_podcast/search?query=Merged+Podcast+EP+3+Kegan+Gill",
+      "ifPass": "https://youtube.com/@merged_podcast/search?query=Merged+Podcast+EP+3+Kegan+Gill",
+      "ifFail": "resolver_fallback_pending_live_results"
+    },
+    {
+      "entityId": "2023-merged-episode-4",
+      "currentUrl": "https://www.ivoox.com/en/pilot-breaks-the-silence-on-uap-encounters-audios-mp3_rf_103091479_1.html",
+      "ifPass": "https://ivoox.com/en/pilot-breaks-the-silence-on-uap-encounters-audios-mp3_rf_103091479_1.html",
+      "ifFail": "resolver_fallback_pending_live_results"
+    },
+    {
+      "entityId": "2023-merged-episode-4",
+      "currentUrl": "https://www.youtube.com/watch?v=Wj334dvxZU4",
+      "ifPass": "https://youtube.com/watch?v=Wj334dvxZU4",
+      "ifFail": "resolver_fallback_pending_live_results"
+    },
+    {
+      "entityId": "2023-merged-episode-5",
+      "currentUrl": "https://www.ivoox.com/en/decoding-uap-ufo-sightings-insights-from-a-747-audios-mp3_rf_103592094_1.html",
+      "ifPass": "https://ivoox.com/en/decoding-uap-ufo-sightings-insights-from-a-747-audios-mp3_rf_103592094_1.html",
+      "ifFail": "resolver_fallback_pending_live_results"
+    },
+    {
+      "entityId": "2023-merged-episode-5",
+      "currentUrl": "https://www.youtube.com/watch?v=yVrn9-nRcno",
+      "ifPass": "https://youtube.com/watch?v=yVrn9-nRcno",
+      "ifFail": "resolver_fallback_pending_live_results"
+    },
+    {
+      "entityId": "2023-merged-episode-6",
+      "currentUrl": "https://www.ivoox.com/en/researching-uap-ufos-in-the-galileo-project-audios-mp3_rf_104396960_1.html",
+      "ifPass": "https://ivoox.com/en/researching-uap-ufos-in-the-galileo-project-audios-mp3_rf_104396960_1.html",
+      "ifFail": "resolver_fallback_pending_live_results"
+    },
+    {
+      "entityId": "2023-merged-episode-6",
+      "currentUrl": "https://www.youtube.com/watch?v=56So2gXKFcg",
+      "ifPass": "https://youtube.com/watch?v=56So2gXKFcg",
+      "ifFail": "resolver_fallback_pending_live_results"
+    },
+    {
+      "entityId": "2023-merged-episode-7",
+      "currentUrl": "https://www.ivoox.com/en/exploring-theories-of-uap-ufos-consciousness-and-physics-audios-mp3_rf_105853901_1.html",
+      "ifPass": "https://ivoox.com/en/exploring-theories-of-uap-ufos-consciousness-and-physics-audios-mp3_rf_105853901_1.html",
+      "ifFail": "resolver_fallback_pending_live_results"
+    },
+    {
+      "entityId": "2023-merged-episode-7",
+      "currentUrl": "https://www.youtube.com/@merged_podcast/search?query=Merged+Podcast+EP+7+Curt+Jaimungal",
+      "ifPass": "https://youtube.com/@merged_podcast/search?query=Merged+Podcast+EP+7+Curt+Jaimungal",
+      "ifFail": "resolver_fallback_pending_live_results"
+    },
+    {
+      "entityId": "2023-merged-episode-8",
+      "currentUrl": "https://www.ivoox.com/en/where-the-search-for-dark-matter-and-uap-audios-mp3_rf_109610969_1.html",
+      "ifPass": "https://ivoox.com/en/where-the-search-for-dark-matter-and-uap-audios-mp3_rf_109610969_1.html",
+      "ifFail": "resolver_fallback_pending_live_results"
+    },
+    {
+      "entityId": "2023-merged-episode-8",
+      "currentUrl": "https://www.youtube.com/watch?v=4knd6hQbHZI",
+      "ifPass": "https://youtube.com/watch?v=4knd6hQbHZI",
+      "ifFail": "resolver_fallback_pending_live_results"
+    },
+    {
+      "entityId": "2023-merged-episode-9",
+      "currentUrl": "https://www.ivoox.com/en/through-the-great-filter-a-spacetime-search-for-audios-mp3_rf_110006855_1.html",
+      "ifPass": "https://ivoox.com/en/through-the-great-filter-a-spacetime-search-for-audios-mp3_rf_110006855_1.html",
+      "ifFail": "resolver_fallback_pending_live_results"
+    },
+    {
+      "entityId": "2023-merged-episode-9",
+      "currentUrl": "https://www.youtube.com/@merged_podcast/search?query=Merged+Podcast+EP+9+Robin+Hanson",
+      "ifPass": "https://youtube.com/@merged_podcast/search?query=Merged+Podcast+EP+9+Robin+Hanson",
+      "ifFail": "resolver_fallback_pending_live_results"
+    },
+    {
+      "entityId": "2023-need-to-know-episode-26",
+      "currentUrl": "https://www.youtube.com/playlist?list=PLXdU8QbJkboeMcvUNyGpb9h6FUS9cVBti",
+      "ifPass": "https://youtube.com/playlist?list=PLXdU8QbJkboeMcvUNyGpb9h6FUS9cVBti",
+      "ifFail": "resolver_fallback_pending_live_results"
+    },
+    {
+      "entityId": "2023-need-to-know-episode-26",
+      "currentUrl": "https://www.youtube.com/watch?v=Bi8ENmUagxw",
+      "ifPass": "https://youtube.com/watch?v=Bi8ENmUagxw",
+      "ifFail": "resolver_fallback_pending_live_results"
+    },
+    {
+      "entityId": "2023-need-to-know-episode-27",
+      "currentUrl": "https://www.youtube.com/playlist?list=PLXdU8QbJkboeMcvUNyGpb9h6FUS9cVBti",
+      "ifPass": "https://youtube.com/playlist?list=PLXdU8QbJkboeMcvUNyGpb9h6FUS9cVBti",
+      "ifFail": "resolver_fallback_pending_live_results"
+    },
+    {
+      "entityId": "2023-need-to-know-episode-27",
+      "currentUrl": "https://www.youtube.com/watch?v=ZGiQrsyF1U8",
+      "ifPass": "https://youtube.com/watch?v=ZGiQrsyF1U8",
+      "ifFail": "resolver_fallback_pending_live_results"
+    },
+    {
+      "entityId": "2023-need-to-know-episode-28",
+      "currentUrl": "https://www.youtube.com/playlist?list=PLXdU8QbJkboeMcvUNyGpb9h6FUS9cVBti",
+      "ifPass": "https://youtube.com/playlist?list=PLXdU8QbJkboeMcvUNyGpb9h6FUS9cVBti",
+      "ifFail": "resolver_fallback_pending_live_results"
+    },
+    {
+      "entityId": "2023-need-to-know-episode-28",
+      "currentUrl": "https://www.youtube.com/watch?v=Ys47XIOD8h8",
+      "ifPass": "https://youtube.com/watch?v=Ys47XIOD8h8",
+      "ifFail": "resolver_fallback_pending_live_results"
+    },
+    {
+      "entityId": "2023-need-to-know-episode-29",
+      "currentUrl": "https://www.youtube.com/playlist?list=PLXdU8QbJkboeMcvUNyGpb9h6FUS9cVBti",
+      "ifPass": "https://youtube.com/playlist?list=PLXdU8QbJkboeMcvUNyGpb9h6FUS9cVBti",
+      "ifFail": "resolver_fallback_pending_live_results"
+    },
+    {
+      "entityId": "2023-need-to-know-episode-29",
+      "currentUrl": "https://www.youtube.com/watch?v=g2TI1D1h3AQ",
+      "ifPass": "https://youtube.com/watch?v=g2TI1D1h3AQ",
+      "ifFail": "resolver_fallback_pending_live_results"
+    },
+    {
+      "entityId": "2023-need-to-know-episode-30",
+      "currentUrl": "https://www.youtube.com/playlist?list=PLXdU8QbJkboeMcvUNyGpb9h6FUS9cVBti",
+      "ifPass": "https://youtube.com/playlist?list=PLXdU8QbJkboeMcvUNyGpb9h6FUS9cVBti",
+      "ifFail": "resolver_fallback_pending_live_results"
+    },
+    {
+      "entityId": "2023-need-to-know-episode-30",
+      "currentUrl": "https://www.youtube.com/watch?v=1fmJ9lR28ks",
+      "ifPass": "https://youtube.com/watch?v=1fmJ9lR28ks",
+      "ifFail": "resolver_fallback_pending_live_results"
+    },
+    {
+      "entityId": "2023-need-to-know-episode-31",
+      "currentUrl": "https://www.youtube.com/playlist?list=PLXdU8QbJkboeMcvUNyGpb9h6FUS9cVBti",
+      "ifPass": "https://youtube.com/playlist?list=PLXdU8QbJkboeMcvUNyGpb9h6FUS9cVBti",
+      "ifFail": "resolver_fallback_pending_live_results"
+    },
+    {
+      "entityId": "2023-need-to-know-episode-31",
+      "currentUrl": "https://www.youtube.com/watch?v=5VwDo_m5Yok",
+      "ifPass": "https://youtube.com/watch?v=5VwDo_m5Yok",
+      "ifFail": "resolver_fallback_pending_live_results"
+    },
+    {
+      "entityId": "2023-need-to-know-episode-32",
+      "currentUrl": "https://www.youtube.com/playlist?list=PLXdU8QbJkboeMcvUNyGpb9h6FUS9cVBti",
+      "ifPass": "https://youtube.com/playlist?list=PLXdU8QbJkboeMcvUNyGpb9h6FUS9cVBti",
+      "ifFail": "resolver_fallback_pending_live_results"
+    },
+    {
+      "entityId": "2023-need-to-know-episode-32",
+      "currentUrl": "https://www.youtube.com/watch?v=_KAV-nKB-L4",
+      "ifPass": "https://youtube.com/watch?v=_KAV-nKB-L4",
+      "ifFail": "resolver_fallback_pending_live_results"
+    },
+    {
+      "entityId": "2023-need-to-know-episode-33",
+      "currentUrl": "https://www.youtube.com/playlist?list=PLXdU8QbJkboeMcvUNyGpb9h6FUS9cVBti",
+      "ifPass": "https://youtube.com/playlist?list=PLXdU8QbJkboeMcvUNyGpb9h6FUS9cVBti",
+      "ifFail": "resolver_fallback_pending_live_results"
+    },
+    {
+      "entityId": "2023-need-to-know-episode-33",
+      "currentUrl": "https://www.youtube.com/watch?v=0ZOSixfpq1Y",
+      "ifPass": "https://youtube.com/watch?v=0ZOSixfpq1Y",
+      "ifFail": "resolver_fallback_pending_live_results"
+    },
+    {
+      "entityId": "2023-need-to-know-episode-34",
+      "currentUrl": "https://www.youtube.com/playlist?list=PLXdU8QbJkboeMcvUNyGpb9h6FUS9cVBti",
+      "ifPass": "https://youtube.com/playlist?list=PLXdU8QbJkboeMcvUNyGpb9h6FUS9cVBti",
+      "ifFail": "resolver_fallback_pending_live_results"
+    },
+    {
+      "entityId": "2023-need-to-know-episode-34",
+      "currentUrl": "https://www.youtube.com/watch?v=pFHHxzoIuy8",
+      "ifPass": "https://youtube.com/watch?v=pFHHxzoIuy8",
+      "ifFail": "resolver_fallback_pending_live_results"
+    },
+    {
+      "entityId": "2023-need-to-know-episode-35",
+      "currentUrl": "https://www.youtube.com/playlist?list=PLXdU8QbJkboeMcvUNyGpb9h6FUS9cVBti",
+      "ifPass": "https://youtube.com/playlist?list=PLXdU8QbJkboeMcvUNyGpb9h6FUS9cVBti",
+      "ifFail": "resolver_fallback_pending_live_results"
+    },
+    {
+      "entityId": "2023-need-to-know-episode-35",
+      "currentUrl": "https://www.youtube.com/watch?v=rQjbFZT9_EM",
+      "ifPass": "https://youtube.com/watch?v=rQjbFZT9_EM",
+      "ifFail": "resolver_fallback_pending_live_results"
+    },
+    {
+      "entityId": "2023-need-to-know-episode-36",
+      "currentUrl": "https://www.youtube.com/playlist?list=PLXdU8QbJkboeMcvUNyGpb9h6FUS9cVBti",
+      "ifPass": "https://youtube.com/playlist?list=PLXdU8QbJkboeMcvUNyGpb9h6FUS9cVBti",
+      "ifFail": "resolver_fallback_pending_live_results"
+    },
+    {
+      "entityId": "2023-need-to-know-episode-36",
+      "currentUrl": "https://www.youtube.com/watch?v=-PwZsQidbqE",
+      "ifPass": "https://youtube.com/watch?v=-PwZsQidbqE",
+      "ifFail": "resolver_fallback_pending_live_results"
+    },
+    {
+      "entityId": "2023-need-to-know-episode-37",
+      "currentUrl": "https://www.youtube.com/playlist?list=PLXdU8QbJkboeMcvUNyGpb9h6FUS9cVBti",
+      "ifPass": "https://youtube.com/playlist?list=PLXdU8QbJkboeMcvUNyGpb9h6FUS9cVBti",
+      "ifFail": "resolver_fallback_pending_live_results"
+    },
+    {
+      "entityId": "2023-need-to-know-episode-37",
+      "currentUrl": "https://www.youtube.com/watch?v=5-As3SXPeJg",
+      "ifPass": "https://youtube.com/watch?v=5-As3SXPeJg",
+      "ifFail": "resolver_fallback_pending_live_results"
+    },
+    {
+      "entityId": "2023-need-to-know-episode-38",
+      "currentUrl": "https://www.youtube.com/playlist?list=PLXdU8QbJkboeMcvUNyGpb9h6FUS9cVBti",
+      "ifPass": "https://youtube.com/playlist?list=PLXdU8QbJkboeMcvUNyGpb9h6FUS9cVBti",
+      "ifFail": "resolver_fallback_pending_live_results"
+    },
+    {
+      "entityId": "2023-need-to-know-episode-38",
+      "currentUrl": "https://www.youtube.com/watch?v=AVjzYwQDzeg",
+      "ifPass": "https://youtube.com/watch?v=AVjzYwQDzeg",
+      "ifFail": "resolver_fallback_pending_live_results"
+    },
+    {
+      "entityId": "2023-need-to-know-episode-39",
+      "currentUrl": "https://www.youtube.com/playlist?list=PLXdU8QbJkboeMcvUNyGpb9h6FUS9cVBti",
+      "ifPass": "https://youtube.com/playlist?list=PLXdU8QbJkboeMcvUNyGpb9h6FUS9cVBti",
+      "ifFail": "resolver_fallback_pending_live_results"
+    },
+    {
+      "entityId": "2023-need-to-know-episode-39",
+      "currentUrl": "https://www.youtube.com/watch?v=YEOB3ASfFuQ",
+      "ifPass": "https://youtube.com/watch?v=YEOB3ASfFuQ",
+      "ifFail": "resolver_fallback_pending_live_results"
+    },
+    {
+      "entityId": "2023-need-to-know-episode-40",
+      "currentUrl": "https://www.youtube.com/playlist?list=PLXdU8QbJkboeMcvUNyGpb9h6FUS9cVBti",
+      "ifPass": "https://youtube.com/playlist?list=PLXdU8QbJkboeMcvUNyGpb9h6FUS9cVBti",
+      "ifFail": "resolver_fallback_pending_live_results"
+    },
+    {
+      "entityId": "2023-need-to-know-episode-40",
+      "currentUrl": "https://www.youtube.com/watch?v=F_0bi1bLHKo",
+      "ifPass": "https://youtube.com/watch?v=F_0bi1bLHKo",
+      "ifFail": "resolver_fallback_pending_live_results"
+    },
+    {
+      "entityId": "2023-need-to-know-episode-41",
+      "currentUrl": "https://www.youtube.com/playlist?list=PLXdU8QbJkboeMcvUNyGpb9h6FUS9cVBti",
+      "ifPass": "https://youtube.com/playlist?list=PLXdU8QbJkboeMcvUNyGpb9h6FUS9cVBti",
+      "ifFail": "resolver_fallback_pending_live_results"
+    },
+    {
+      "entityId": "2023-need-to-know-episode-41",
+      "currentUrl": "https://www.youtube.com/watch?v=Zrd44LASEKI",
+      "ifPass": "https://youtube.com/watch?v=Zrd44LASEKI",
+      "ifFail": "resolver_fallback_pending_live_results"
+    },
+    {
+      "entityId": "2023-need-to-know-episode-42",
+      "currentUrl": "https://www.youtube.com/playlist?list=PLXdU8QbJkboeMcvUNyGpb9h6FUS9cVBti",
+      "ifPass": "https://youtube.com/playlist?list=PLXdU8QbJkboeMcvUNyGpb9h6FUS9cVBti",
+      "ifFail": "resolver_fallback_pending_live_results"
+    },
+    {
+      "entityId": "2023-need-to-know-episode-42",
+      "currentUrl": "https://www.youtube.com/watch?v=0oVa3xU34Dk",
+      "ifPass": "https://youtube.com/watch?v=0oVa3xU34Dk",
+      "ifFail": "resolver_fallback_pending_live_results"
+    },
+    {
+      "entityId": "2023-need-to-know-episode-43",
+      "currentUrl": "https://www.youtube.com/playlist?list=PLXdU8QbJkboeMcvUNyGpb9h6FUS9cVBti",
+      "ifPass": "https://youtube.com/playlist?list=PLXdU8QbJkboeMcvUNyGpb9h6FUS9cVBti",
+      "ifFail": "resolver_fallback_pending_live_results"
+    },
+    {
+      "entityId": "2023-need-to-know-episode-43",
+      "currentUrl": "https://www.youtube.com/watch?v=RsF-dGi-cFc",
+      "ifPass": "https://youtube.com/watch?v=RsF-dGi-cFc",
+      "ifFail": "resolver_fallback_pending_live_results"
+    },
+    {
+      "entityId": "2023-need-to-know-episode-44",
+      "currentUrl": "https://www.youtube.com/playlist?list=PLXdU8QbJkboeMcvUNyGpb9h6FUS9cVBti",
+      "ifPass": "https://youtube.com/playlist?list=PLXdU8QbJkboeMcvUNyGpb9h6FUS9cVBti",
+      "ifFail": "resolver_fallback_pending_live_results"
+    },
+    {
+      "entityId": "2023-need-to-know-episode-44",
+      "currentUrl": "https://www.youtube.com/watch?v=QZWhxUAwiN4",
+      "ifPass": "https://youtube.com/watch?v=QZWhxUAwiN4",
+      "ifFail": "resolver_fallback_pending_live_results"
+    },
+    {
+      "entityId": "2023-need-to-know-episode-45",
+      "currentUrl": "https://www.youtube.com/playlist?list=PLXdU8QbJkboeMcvUNyGpb9h6FUS9cVBti",
+      "ifPass": "https://youtube.com/playlist?list=PLXdU8QbJkboeMcvUNyGpb9h6FUS9cVBti",
+      "ifFail": "resolver_fallback_pending_live_results"
+    },
+    {
+      "entityId": "2023-need-to-know-episode-45",
+      "currentUrl": "https://www.youtube.com/watch?v=n6CjzI5aaww",
+      "ifPass": "https://youtube.com/watch?v=n6CjzI5aaww",
+      "ifFail": "resolver_fallback_pending_live_results"
+    },
+    {
+      "entityId": "2023-need-to-know-episode-46",
+      "currentUrl": "https://www.youtube.com/playlist?list=PLXdU8QbJkboeMcvUNyGpb9h6FUS9cVBti",
+      "ifPass": "https://youtube.com/playlist?list=PLXdU8QbJkboeMcvUNyGpb9h6FUS9cVBti",
+      "ifFail": "resolver_fallback_pending_live_results"
+    },
+    {
+      "entityId": "2023-need-to-know-episode-46",
+      "currentUrl": "https://www.youtube.com/watch?v=cwR8pOz9Gvg",
+      "ifPass": "https://youtube.com/watch?v=cwR8pOz9Gvg",
+      "ifFail": "resolver_fallback_pending_live_results"
+    },
+    {
+      "entityId": "2023-need-to-know-episode-47",
+      "currentUrl": "https://www.youtube.com/playlist?list=PLXdU8QbJkboeMcvUNyGpb9h6FUS9cVBti",
+      "ifPass": "https://youtube.com/playlist?list=PLXdU8QbJkboeMcvUNyGpb9h6FUS9cVBti",
+      "ifFail": "resolver_fallback_pending_live_results"
+    },
+    {
+      "entityId": "2023-need-to-know-episode-47",
+      "currentUrl": "https://www.youtube.com/watch?v=vSpHaNbd5A8",
+      "ifPass": "https://youtube.com/watch?v=vSpHaNbd5A8",
+      "ifFail": "resolver_fallback_pending_live_results"
+    },
+    {
+      "entityId": "2023-weaponized-episode-1",
+      "currentUrl": "https://link.chtbl.com/Weaponized",
+      "ifPass": "https://link.chtbl.com/Weaponized",
+      "ifFail": "resolver_fallback_pending_live_results"
+    },
+    {
+      "entityId": "2023-weaponized-episode-1",
+      "currentUrl": "https://www.weaponizedpodcast.com/episodes-1/episode-number-1",
+      "ifPass": "https://weaponizedpodcast.com/episodes-1/episode-number-1",
+      "ifFail": "resolver_fallback_pending_live_results"
+    },
+    {
+      "entityId": "2023-weaponized-episode-10",
+      "currentUrl": "https://link.chtbl.com/Weaponized",
+      "ifPass": "https://link.chtbl.com/Weaponized",
+      "ifFail": "resolver_fallback_pending_live_results"
+    },
+    {
+      "entityId": "2023-weaponized-episode-10",
+      "currentUrl": "https://www.weaponizedpodcast.com/episodes-1/episode-number-10",
+      "ifPass": "https://weaponizedpodcast.com/episodes-1/episode-number-10",
+      "ifFail": "resolver_fallback_pending_live_results"
+    },
+    {
+      "entityId": "2023-weaponized-episode-11",
+      "currentUrl": "https://link.chtbl.com/Weaponized",
+      "ifPass": "https://link.chtbl.com/Weaponized",
+      "ifFail": "resolver_fallback_pending_live_results"
+    },
+    {
+      "entityId": "2023-weaponized-episode-11",
+      "currentUrl": "https://www.weaponizedpodcast.com/episodes-1/episode-number-11",
+      "ifPass": "https://weaponizedpodcast.com/episodes-1/episode-number-11",
+      "ifFail": "resolver_fallback_pending_live_results"
+    },
+    {
+      "entityId": "2023-weaponized-episode-12",
+      "currentUrl": "https://link.chtbl.com/Weaponized",
+      "ifPass": "https://link.chtbl.com/Weaponized",
+      "ifFail": "resolver_fallback_pending_live_results"
+    },
+    {
+      "entityId": "2023-weaponized-episode-12",
+      "currentUrl": "https://www.weaponizedpodcast.com/episodes-1/episode-number-12",
+      "ifPass": "https://weaponizedpodcast.com/episodes-1/episode-number-12",
+      "ifFail": "resolver_fallback_pending_live_results"
+    },
+    {
+      "entityId": "2023-weaponized-episode-13",
+      "currentUrl": "https://link.chtbl.com/Weaponized",
+      "ifPass": "https://link.chtbl.com/Weaponized",
+      "ifFail": "resolver_fallback_pending_live_results"
+    },
+    {
+      "entityId": "2023-weaponized-episode-13",
+      "currentUrl": "https://www.weaponizedpodcast.com/episodes-1/episode-number-13",
+      "ifPass": "https://weaponizedpodcast.com/episodes-1/episode-number-13",
+      "ifFail": "resolver_fallback_pending_live_results"
+    },
+    {
+      "entityId": "2023-weaponized-episode-14",
+      "currentUrl": "https://link.chtbl.com/Weaponized",
+      "ifPass": "https://link.chtbl.com/Weaponized",
+      "ifFail": "resolver_fallback_pending_live_results"
+    },
+    {
+      "entityId": "2023-weaponized-episode-14",
+      "currentUrl": "https://www.weaponizedpodcast.com/episodes-1/episode-number-14",
+      "ifPass": "https://weaponizedpodcast.com/episodes-1/episode-number-14",
+      "ifFail": "resolver_fallback_pending_live_results"
+    },
+    {
+      "entityId": "2023-weaponized-episode-15",
+      "currentUrl": "https://link.chtbl.com/Weaponized",
+      "ifPass": "https://link.chtbl.com/Weaponized",
+      "ifFail": "resolver_fallback_pending_live_results"
+    },
+    {
+      "entityId": "2023-weaponized-episode-15",
+      "currentUrl": "https://www.weaponizedpodcast.com/episodes-1/episode-number-15",
+      "ifPass": "https://weaponizedpodcast.com/episodes-1/episode-number-15",
+      "ifFail": "resolver_fallback_pending_live_results"
+    },
+    {
+      "entityId": "2023-weaponized-episode-16",
+      "currentUrl": "https://link.chtbl.com/Weaponized",
+      "ifPass": "https://link.chtbl.com/Weaponized",
+      "ifFail": "resolver_fallback_pending_live_results"
+    },
+    {
+      "entityId": "2023-weaponized-episode-16",
+      "currentUrl": "https://www.weaponizedpodcast.com/episodes-1/episode-number-16",
+      "ifPass": "https://weaponizedpodcast.com/episodes-1/episode-number-16",
+      "ifFail": "resolver_fallback_pending_live_results"
+    },
+    {
+      "entityId": "2023-weaponized-episode-17",
+      "currentUrl": "https://link.chtbl.com/Weaponized",
+      "ifPass": "https://link.chtbl.com/Weaponized",
+      "ifFail": "resolver_fallback_pending_live_results"
+    },
+    {
+      "entityId": "2023-weaponized-episode-17",
+      "currentUrl": "https://www.weaponizedpodcast.com/episodes-1/episode-number-17",
+      "ifPass": "https://weaponizedpodcast.com/episodes-1/episode-number-17",
+      "ifFail": "resolver_fallback_pending_live_results"
+    },
+    {
+      "entityId": "2023-weaponized-episode-18",
+      "currentUrl": "https://link.chtbl.com/Weaponized",
+      "ifPass": "https://link.chtbl.com/Weaponized",
+      "ifFail": "resolver_fallback_pending_live_results"
+    },
+    {
+      "entityId": "2023-weaponized-episode-18",
+      "currentUrl": "https://www.weaponizedpodcast.com/episodes-1/episode-number-18",
+      "ifPass": "https://weaponizedpodcast.com/episodes-1/episode-number-18",
+      "ifFail": "resolver_fallback_pending_live_results"
+    },
+    {
+      "entityId": "2023-weaponized-episode-19",
+      "currentUrl": "https://link.chtbl.com/Weaponized",
+      "ifPass": "https://link.chtbl.com/Weaponized",
+      "ifFail": "resolver_fallback_pending_live_results"
+    },
+    {
+      "entityId": "2023-weaponized-episode-19",
+      "currentUrl": "https://www.weaponizedpodcast.com/episodes-1/episode-number-19",
+      "ifPass": "https://weaponizedpodcast.com/episodes-1/episode-number-19",
+      "ifFail": "resolver_fallback_pending_live_results"
+    },
+    {
+      "entityId": "2023-weaponized-episode-2",
+      "currentUrl": "https://link.chtbl.com/Weaponized",
+      "ifPass": "https://link.chtbl.com/Weaponized",
+      "ifFail": "resolver_fallback_pending_live_results"
+    },
+    {
+      "entityId": "2023-weaponized-episode-2",
+      "currentUrl": "https://www.weaponizedpodcast.com/episodes-1/episode-number-2",
+      "ifPass": "https://weaponizedpodcast.com/episodes-1/episode-number-2",
+      "ifFail": "resolver_fallback_pending_live_results"
+    },
+    {
+      "entityId": "2023-weaponized-episode-20",
+      "currentUrl": "https://link.chtbl.com/Weaponized",
+      "ifPass": "https://link.chtbl.com/Weaponized",
+      "ifFail": "resolver_fallback_pending_live_results"
+    },
+    {
+      "entityId": "2023-weaponized-episode-20",
+      "currentUrl": "https://www.weaponizedpodcast.com/episodes-1/episode-number-20",
+      "ifPass": "https://weaponizedpodcast.com/episodes-1/episode-number-20",
+      "ifFail": "resolver_fallback_pending_live_results"
+    },
+    {
+      "entityId": "2023-weaponized-episode-21",
+      "currentUrl": "https://link.chtbl.com/Weaponized",
+      "ifPass": "https://link.chtbl.com/Weaponized",
+      "ifFail": "resolver_fallback_pending_live_results"
+    },
+    {
+      "entityId": "2023-weaponized-episode-21",
+      "currentUrl": "https://www.weaponizedpodcast.com/episodes-1/episode-number-21",
+      "ifPass": "https://weaponizedpodcast.com/episodes-1/episode-number-21",
+      "ifFail": "resolver_fallback_pending_live_results"
+    },
+    {
+      "entityId": "2023-weaponized-episode-22",
+      "currentUrl": "https://link.chtbl.com/Weaponized",
+      "ifPass": "https://link.chtbl.com/Weaponized",
+      "ifFail": "resolver_fallback_pending_live_results"
+    },
+    {
+      "entityId": "2023-weaponized-episode-22",
+      "currentUrl": "https://www.weaponizedpodcast.com/episodes-1/episode-number-22",
+      "ifPass": "https://weaponizedpodcast.com/episodes-1/episode-number-22",
+      "ifFail": "resolver_fallback_pending_live_results"
+    },
+    {
+      "entityId": "2023-weaponized-episode-23",
+      "currentUrl": "https://link.chtbl.com/Weaponized",
+      "ifPass": "https://link.chtbl.com/Weaponized",
+      "ifFail": "resolver_fallback_pending_live_results"
+    },
+    {
+      "entityId": "2023-weaponized-episode-23",
+      "currentUrl": "https://www.weaponizedpodcast.com/episodes-1/episode-number-23",
+      "ifPass": "https://weaponizedpodcast.com/episodes-1/episode-number-23",
+      "ifFail": "resolver_fallback_pending_live_results"
+    },
+    {
+      "entityId": "2023-weaponized-episode-24",
+      "currentUrl": "https://link.chtbl.com/Weaponized",
+      "ifPass": "https://link.chtbl.com/Weaponized",
+      "ifFail": "resolver_fallback_pending_live_results"
+    },
+    {
+      "entityId": "2023-weaponized-episode-24",
+      "currentUrl": "https://www.weaponizedpodcast.com/episodes-1/episode-number-24",
+      "ifPass": "https://weaponizedpodcast.com/episodes-1/episode-number-24",
+      "ifFail": "resolver_fallback_pending_live_results"
+    },
+    {
+      "entityId": "2023-weaponized-episode-25",
+      "currentUrl": "https://link.chtbl.com/Weaponized",
+      "ifPass": "https://link.chtbl.com/Weaponized",
+      "ifFail": "resolver_fallback_pending_live_results"
+    },
+    {
+      "entityId": "2023-weaponized-episode-25",
+      "currentUrl": "https://www.weaponizedpodcast.com/episodes-1/episode-number-25",
+      "ifPass": "https://weaponizedpodcast.com/episodes-1/episode-number-25",
+      "ifFail": "resolver_fallback_pending_live_results"
+    },
+    {
+      "entityId": "2023-weaponized-episode-26",
+      "currentUrl": "https://link.chtbl.com/Weaponized",
+      "ifPass": "https://link.chtbl.com/Weaponized",
+      "ifFail": "resolver_fallback_pending_live_results"
+    },
+    {
+      "entityId": "2023-weaponized-episode-26",
+      "currentUrl": "https://www.weaponizedpodcast.com/episodes-1/episode-number-26",
+      "ifPass": "https://weaponizedpodcast.com/episodes-1/episode-number-26",
+      "ifFail": "resolver_fallback_pending_live_results"
+    },
+    {
+      "entityId": "2023-weaponized-episode-27",
+      "currentUrl": "https://link.chtbl.com/Weaponized",
+      "ifPass": "https://link.chtbl.com/Weaponized",
+      "ifFail": "resolver_fallback_pending_live_results"
+    },
+    {
+      "entityId": "2023-weaponized-episode-27",
+      "currentUrl": "https://www.weaponizedpodcast.com/episodes-1/episode-number-27",
+      "ifPass": "https://weaponizedpodcast.com/episodes-1/episode-number-27",
+      "ifFail": "resolver_fallback_pending_live_results"
+    },
+    {
+      "entityId": "2023-weaponized-episode-28",
+      "currentUrl": "https://link.chtbl.com/Weaponized",
+      "ifPass": "https://link.chtbl.com/Weaponized",
+      "ifFail": "resolver_fallback_pending_live_results"
+    },
+    {
+      "entityId": "2023-weaponized-episode-28",
+      "currentUrl": "https://www.weaponizedpodcast.com/episodes-1/episode-number-28",
+      "ifPass": "https://weaponizedpodcast.com/episodes-1/episode-number-28",
+      "ifFail": "resolver_fallback_pending_live_results"
+    },
+    {
+      "entityId": "2023-weaponized-episode-29",
+      "currentUrl": "https://link.chtbl.com/Weaponized",
+      "ifPass": "https://link.chtbl.com/Weaponized",
+      "ifFail": "resolver_fallback_pending_live_results"
+    },
+    {
+      "entityId": "2023-weaponized-episode-29",
+      "currentUrl": "https://www.weaponizedpodcast.com/episodes-1/episode-number-29",
+      "ifPass": "https://weaponizedpodcast.com/episodes-1/episode-number-29",
+      "ifFail": "resolver_fallback_pending_live_results"
+    },
+    {
+      "entityId": "2023-weaponized-episode-3",
+      "currentUrl": "https://link.chtbl.com/Weaponized",
+      "ifPass": "https://link.chtbl.com/Weaponized",
+      "ifFail": "resolver_fallback_pending_live_results"
+    },
+    {
+      "entityId": "2023-weaponized-episode-3",
+      "currentUrl": "https://www.weaponizedpodcast.com/episodes-1/episode-number-3",
+      "ifPass": "https://weaponizedpodcast.com/episodes-1/episode-number-3",
+      "ifFail": "resolver_fallback_pending_live_results"
+    },
+    {
+      "entityId": "2023-weaponized-episode-30",
+      "currentUrl": "https://link.chtbl.com/Weaponized",
+      "ifPass": "https://link.chtbl.com/Weaponized",
+      "ifFail": "resolver_fallback_pending_live_results"
+    },
+    {
+      "entityId": "2023-weaponized-episode-30",
+      "currentUrl": "https://www.weaponizedpodcast.com/episodes-1/episode-number-30",
+      "ifPass": "https://weaponizedpodcast.com/episodes-1/episode-number-30",
+      "ifFail": "resolver_fallback_pending_live_results"
+    },
+    {
+      "entityId": "2023-weaponized-episode-31",
+      "currentUrl": "https://link.chtbl.com/Weaponized",
+      "ifPass": "https://link.chtbl.com/Weaponized",
+      "ifFail": "resolver_fallback_pending_live_results"
+    },
+    {
+      "entityId": "2023-weaponized-episode-31",
+      "currentUrl": "https://www.weaponizedpodcast.com/episodes-2/episode-31",
+      "ifPass": "https://weaponizedpodcast.com/episodes-2/episode-31",
+      "ifFail": "resolver_fallback_pending_live_results"
+    },
+    {
+      "entityId": "2023-weaponized-episode-32",
+      "currentUrl": "https://link.chtbl.com/Weaponized",
+      "ifPass": "https://link.chtbl.com/Weaponized",
+      "ifFail": "resolver_fallback_pending_live_results"
+    },
+    {
+      "entityId": "2023-weaponized-episode-32",
+      "currentUrl": "https://www.weaponizedpodcast.com/episodes-2/episode-32",
+      "ifPass": "https://weaponizedpodcast.com/episodes-2/episode-32",
+      "ifFail": "resolver_fallback_pending_live_results"
+    },
+    {
+      "entityId": "2023-weaponized-episode-33",
+      "currentUrl": "https://link.chtbl.com/Weaponized",
+      "ifPass": "https://link.chtbl.com/Weaponized",
+      "ifFail": "resolver_fallback_pending_live_results"
+    },
+    {
+      "entityId": "2023-weaponized-episode-33",
+      "currentUrl": "https://www.weaponizedpodcast.com/episodes-2/episode-33",
+      "ifPass": "https://weaponizedpodcast.com/episodes-2/episode-33",
+      "ifFail": "resolver_fallback_pending_live_results"
+    },
+    {
+      "entityId": "2023-weaponized-episode-34",
+      "currentUrl": "https://link.chtbl.com/Weaponized",
+      "ifPass": "https://link.chtbl.com/Weaponized",
+      "ifFail": "resolver_fallback_pending_live_results"
+    },
+    {
+      "entityId": "2023-weaponized-episode-34",
+      "currentUrl": "https://www.weaponizedpodcast.com/episodes-2/episode-34",
+      "ifPass": "https://weaponizedpodcast.com/episodes-2/episode-34",
+      "ifFail": "resolver_fallback_pending_live_results"
+    },
+    {
+      "entityId": "2023-weaponized-episode-35",
+      "currentUrl": "https://link.chtbl.com/Weaponized",
+      "ifPass": "https://link.chtbl.com/Weaponized",
+      "ifFail": "resolver_fallback_pending_live_results"
+    },
+    {
+      "entityId": "2023-weaponized-episode-35",
+      "currentUrl": "https://www.weaponizedpodcast.com/episodes-2/episode-35",
+      "ifPass": "https://weaponizedpodcast.com/episodes-2/episode-35",
+      "ifFail": "resolver_fallback_pending_live_results"
+    },
+    {
+      "entityId": "2023-weaponized-episode-36",
+      "currentUrl": "https://link.chtbl.com/Weaponized",
+      "ifPass": "https://link.chtbl.com/Weaponized",
+      "ifFail": "resolver_fallback_pending_live_results"
+    },
+    {
+      "entityId": "2023-weaponized-episode-36",
+      "currentUrl": "https://www.weaponizedpodcast.com/episodes-2/episode-36",
+      "ifPass": "https://weaponizedpodcast.com/episodes-2/episode-36",
+      "ifFail": "resolver_fallback_pending_live_results"
+    },
+    {
+      "entityId": "2023-weaponized-episode-37",
+      "currentUrl": "https://link.chtbl.com/Weaponized",
+      "ifPass": "https://link.chtbl.com/Weaponized",
+      "ifFail": "resolver_fallback_pending_live_results"
+    },
+    {
+      "entityId": "2023-weaponized-episode-37",
+      "currentUrl": "https://www.weaponizedpodcast.com/episodes-2/episode-37",
+      "ifPass": "https://weaponizedpodcast.com/episodes-2/episode-37",
+      "ifFail": "resolver_fallback_pending_live_results"
+    },
+    {
+      "entityId": "2023-weaponized-episode-38",
+      "currentUrl": "https://link.chtbl.com/Weaponized",
+      "ifPass": "https://link.chtbl.com/Weaponized",
+      "ifFail": "resolver_fallback_pending_live_results"
+    },
+    {
+      "entityId": "2023-weaponized-episode-38",
+      "currentUrl": "https://www.weaponizedpodcast.com/episodes-2/episode-38",
+      "ifPass": "https://weaponizedpodcast.com/episodes-2/episode-38",
+      "ifFail": "resolver_fallback_pending_live_results"
+    },
+    {
+      "entityId": "2023-weaponized-episode-39",
+      "currentUrl": "https://link.chtbl.com/Weaponized",
+      "ifPass": "https://link.chtbl.com/Weaponized",
+      "ifFail": "resolver_fallback_pending_live_results"
+    },
+    {
+      "entityId": "2023-weaponized-episode-39",
+      "currentUrl": "https://www.weaponizedpodcast.com/episodes-2/episode-39",
+      "ifPass": "https://weaponizedpodcast.com/episodes-2/episode-39",
+      "ifFail": "resolver_fallback_pending_live_results"
+    },
+    {
+      "entityId": "2023-weaponized-episode-4",
+      "currentUrl": "https://link.chtbl.com/Weaponized",
+      "ifPass": "https://link.chtbl.com/Weaponized",
+      "ifFail": "resolver_fallback_pending_live_results"
+    },
+    {
+      "entityId": "2023-weaponized-episode-4",
+      "currentUrl": "https://www.weaponizedpodcast.com/episodes-1/episode-number-4",
+      "ifPass": "https://weaponizedpodcast.com/episodes-1/episode-number-4",
+      "ifFail": "resolver_fallback_pending_live_results"
+    },
+    {
+      "entityId": "2023-weaponized-episode-40",
+      "currentUrl": "https://link.chtbl.com/Weaponized",
+      "ifPass": "https://link.chtbl.com/Weaponized",
+      "ifFail": "resolver_fallback_pending_live_results"
+    },
+    {
+      "entityId": "2023-weaponized-episode-40",
+      "currentUrl": "https://www.weaponizedpodcast.com/episodes-2/episode-40",
+      "ifPass": "https://weaponizedpodcast.com/episodes-2/episode-40",
+      "ifFail": "resolver_fallback_pending_live_results"
+    },
+    {
+      "entityId": "2023-weaponized-episode-41",
+      "currentUrl": "https://link.chtbl.com/Weaponized",
+      "ifPass": "https://link.chtbl.com/Weaponized",
+      "ifFail": "resolver_fallback_pending_live_results"
+    },
+    {
+      "entityId": "2023-weaponized-episode-41",
+      "currentUrl": "https://www.weaponizedpodcast.com/episodes-2/episode-41",
+      "ifPass": "https://weaponizedpodcast.com/episodes-2/episode-41",
+      "ifFail": "resolver_fallback_pending_live_results"
+    },
+    {
+      "entityId": "2023-weaponized-episode-42",
+      "currentUrl": "https://link.chtbl.com/Weaponized",
+      "ifPass": "https://link.chtbl.com/Weaponized",
+      "ifFail": "resolver_fallback_pending_live_results"
+    },
+    {
+      "entityId": "2023-weaponized-episode-42",
+      "currentUrl": "https://www.weaponizedpodcast.com/episodes-2/episode-42",
+      "ifPass": "https://weaponizedpodcast.com/episodes-2/episode-42",
+      "ifFail": "resolver_fallback_pending_live_results"
+    },
+    {
+      "entityId": "2023-weaponized-episode-43",
+      "currentUrl": "https://link.chtbl.com/Weaponized",
+      "ifPass": "https://link.chtbl.com/Weaponized",
+      "ifFail": "resolver_fallback_pending_live_results"
+    },
+    {
+      "entityId": "2023-weaponized-episode-43",
+      "currentUrl": "https://www.weaponizedpodcast.com/episodes-2/episode-43",
+      "ifPass": "https://weaponizedpodcast.com/episodes-2/episode-43",
+      "ifFail": "resolver_fallback_pending_live_results"
+    },
+    {
+      "entityId": "2023-weaponized-episode-44",
+      "currentUrl": "https://link.chtbl.com/Weaponized",
+      "ifPass": "https://link.chtbl.com/Weaponized",
+      "ifFail": "resolver_fallback_pending_live_results"
+    },
+    {
+      "entityId": "2023-weaponized-episode-44",
+      "currentUrl": "https://www.weaponizedpodcast.com/episodes-2/episode-44",
+      "ifPass": "https://weaponizedpodcast.com/episodes-2/episode-44",
+      "ifFail": "resolver_fallback_pending_live_results"
+    },
+    {
+      "entityId": "2023-weaponized-episode-45",
+      "currentUrl": "https://link.chtbl.com/Weaponized",
+      "ifPass": "https://link.chtbl.com/Weaponized",
+      "ifFail": "resolver_fallback_pending_live_results"
+    },
+    {
+      "entityId": "2023-weaponized-episode-45",
+      "currentUrl": "https://www.weaponizedpodcast.com/episodes-2/episode-45",
+      "ifPass": "https://weaponizedpodcast.com/episodes-2/episode-45",
+      "ifFail": "resolver_fallback_pending_live_results"
+    },
+    {
+      "entityId": "2023-weaponized-episode-5",
+      "currentUrl": "https://link.chtbl.com/Weaponized",
+      "ifPass": "https://link.chtbl.com/Weaponized",
+      "ifFail": "resolver_fallback_pending_live_results"
+    },
+    {
+      "entityId": "2023-weaponized-episode-5",
+      "currentUrl": "https://www.weaponizedpodcast.com/episodes-1/episode-number-5",
+      "ifPass": "https://weaponizedpodcast.com/episodes-1/episode-number-5",
+      "ifFail": "resolver_fallback_pending_live_results"
+    },
+    {
+      "entityId": "2023-weaponized-episode-6",
+      "currentUrl": "https://link.chtbl.com/Weaponized",
+      "ifPass": "https://link.chtbl.com/Weaponized",
+      "ifFail": "resolver_fallback_pending_live_results"
+    },
+    {
+      "entityId": "2023-weaponized-episode-6",
+      "currentUrl": "https://www.weaponizedpodcast.com/episodes-1/episode-number-6",
+      "ifPass": "https://weaponizedpodcast.com/episodes-1/episode-number-6",
+      "ifFail": "resolver_fallback_pending_live_results"
+    },
+    {
+      "entityId": "2023-weaponized-episode-7",
+      "currentUrl": "https://link.chtbl.com/Weaponized",
+      "ifPass": "https://link.chtbl.com/Weaponized",
+      "ifFail": "resolver_fallback_pending_live_results"
+    },
+    {
+      "entityId": "2023-weaponized-episode-7",
+      "currentUrl": "https://www.weaponizedpodcast.com/episodes-1/episode-number-7",
+      "ifPass": "https://weaponizedpodcast.com/episodes-1/episode-number-7",
+      "ifFail": "resolver_fallback_pending_live_results"
+    },
+    {
+      "entityId": "2023-weaponized-episode-8",
+      "currentUrl": "https://link.chtbl.com/Weaponized",
+      "ifPass": "https://link.chtbl.com/Weaponized",
+      "ifFail": "resolver_fallback_pending_live_results"
+    },
+    {
+      "entityId": "2023-weaponized-episode-8",
+      "currentUrl": "https://www.weaponizedpodcast.com/episodes-1/episode-number-8",
+      "ifPass": "https://weaponizedpodcast.com/episodes-1/episode-number-8",
+      "ifFail": "resolver_fallback_pending_live_results"
+    },
+    {
+      "entityId": "2023-weaponized-episode-9",
+      "currentUrl": "https://link.chtbl.com/Weaponized",
+      "ifPass": "https://link.chtbl.com/Weaponized",
+      "ifFail": "resolver_fallback_pending_live_results"
+    },
+    {
+      "entityId": "2023-weaponized-episode-9",
+      "currentUrl": "https://www.weaponizedpodcast.com/episodes-1/episode-number-9",
+      "ifPass": "https://weaponizedpodcast.com/episodes-1/episode-number-9",
+      "ifFail": "resolver_fallback_pending_live_results"
+    },
+    {
+      "entityId": "2024-need-to-know-episode-48",
+      "currentUrl": "https://www.youtube.com/playlist?list=PLXdU8QbJkboeMcvUNyGpb9h6FUS9cVBti",
+      "ifPass": "https://youtube.com/playlist?list=PLXdU8QbJkboeMcvUNyGpb9h6FUS9cVBti",
+      "ifFail": "resolver_fallback_pending_live_results"
+    },
+    {
+      "entityId": "2024-need-to-know-episode-48",
+      "currentUrl": "https://www.youtube.com/watch?v=DWShhjGr-uc",
+      "ifPass": "https://youtube.com/watch?v=DWShhjGr-uc",
+      "ifFail": "resolver_fallback_pending_live_results"
+    },
+    {
+      "entityId": "2024-need-to-know-episode-49",
+      "currentUrl": "https://www.youtube.com/playlist?list=PLXdU8QbJkboeMcvUNyGpb9h6FUS9cVBti",
+      "ifPass": "https://youtube.com/playlist?list=PLXdU8QbJkboeMcvUNyGpb9h6FUS9cVBti",
+      "ifFail": "resolver_fallback_pending_live_results"
+    },
+    {
+      "entityId": "2024-need-to-know-episode-49",
+      "currentUrl": "https://www.youtube.com/watch?v=NFvXyOiUiZ0",
+      "ifPass": "https://youtube.com/watch?v=NFvXyOiUiZ0",
+      "ifFail": "resolver_fallback_pending_live_results"
+    },
+    {
+      "entityId": "2024-need-to-know-episode-50",
+      "currentUrl": "https://www.youtube.com/playlist?list=PLXdU8QbJkboeMcvUNyGpb9h6FUS9cVBti",
+      "ifPass": "https://youtube.com/playlist?list=PLXdU8QbJkboeMcvUNyGpb9h6FUS9cVBti",
+      "ifFail": "resolver_fallback_pending_live_results"
+    },
+    {
+      "entityId": "2024-need-to-know-episode-50",
+      "currentUrl": "https://www.youtube.com/watch?v=XiMrk9vX3og",
+      "ifPass": "https://youtube.com/watch?v=XiMrk9vX3og",
+      "ifFail": "resolver_fallback_pending_live_results"
+    },
+    {
+      "entityId": "2024-need-to-know-episode-51",
+      "currentUrl": "https://www.youtube.com/playlist?list=PLXdU8QbJkboeMcvUNyGpb9h6FUS9cVBti",
+      "ifPass": "https://youtube.com/playlist?list=PLXdU8QbJkboeMcvUNyGpb9h6FUS9cVBti",
+      "ifFail": "resolver_fallback_pending_live_results"
+    },
+    {
+      "entityId": "2024-need-to-know-episode-51",
+      "currentUrl": "https://www.youtube.com/watch?v=zC60JOR8nPw",
+      "ifPass": "https://youtube.com/watch?v=zC60JOR8nPw",
+      "ifFail": "resolver_fallback_pending_live_results"
+    },
+    {
+      "entityId": "2024-need-to-know-episode-52",
+      "currentUrl": "https://www.youtube.com/playlist?list=PLXdU8QbJkboeMcvUNyGpb9h6FUS9cVBti",
+      "ifPass": "https://youtube.com/playlist?list=PLXdU8QbJkboeMcvUNyGpb9h6FUS9cVBti",
+      "ifFail": "resolver_fallback_pending_live_results"
+    },
+    {
+      "entityId": "2024-need-to-know-episode-52",
+      "currentUrl": "https://www.youtube.com/watch?v=M8Xb3q0NILY",
+      "ifPass": "https://youtube.com/watch?v=M8Xb3q0NILY",
+      "ifFail": "resolver_fallback_pending_live_results"
+    },
+    {
+      "entityId": "2024-need-to-know-episode-53",
+      "currentUrl": "https://www.youtube.com/playlist?list=PLXdU8QbJkboeMcvUNyGpb9h6FUS9cVBti",
+      "ifPass": "https://youtube.com/playlist?list=PLXdU8QbJkboeMcvUNyGpb9h6FUS9cVBti",
+      "ifFail": "resolver_fallback_pending_live_results"
+    },
+    {
+      "entityId": "2024-need-to-know-episode-53",
+      "currentUrl": "https://www.youtube.com/watch?v=9dmoqsa5WvU",
+      "ifPass": "https://youtube.com/watch?v=9dmoqsa5WvU",
+      "ifFail": "resolver_fallback_pending_live_results"
+    },
+    {
+      "entityId": "2024-need-to-know-episode-54",
+      "currentUrl": "https://www.youtube.com/playlist?list=PLXdU8QbJkboeMcvUNyGpb9h6FUS9cVBti",
+      "ifPass": "https://youtube.com/playlist?list=PLXdU8QbJkboeMcvUNyGpb9h6FUS9cVBti",
+      "ifFail": "resolver_fallback_pending_live_results"
+    },
+    {
+      "entityId": "2024-need-to-know-episode-54",
+      "currentUrl": "https://www.youtube.com/watch?v=br8sAWRl8EA",
+      "ifPass": "https://youtube.com/watch?v=br8sAWRl8EA",
+      "ifFail": "resolver_fallback_pending_live_results"
+    },
+    {
+      "entityId": "2024-need-to-know-episode-55",
+      "currentUrl": "https://www.youtube.com/playlist?list=PLXdU8QbJkboeMcvUNyGpb9h6FUS9cVBti",
+      "ifPass": "https://youtube.com/playlist?list=PLXdU8QbJkboeMcvUNyGpb9h6FUS9cVBti",
+      "ifFail": "resolver_fallback_pending_live_results"
+    },
+    {
+      "entityId": "2024-need-to-know-episode-55",
+      "currentUrl": "https://www.youtube.com/watch?v=5ZxQJg15FNM",
+      "ifPass": "https://youtube.com/watch?v=5ZxQJg15FNM",
+      "ifFail": "resolver_fallback_pending_live_results"
+    },
+    {
+      "entityId": "2024-need-to-know-episode-56",
+      "currentUrl": "https://www.youtube.com/playlist?list=PLXdU8QbJkboeMcvUNyGpb9h6FUS9cVBti",
+      "ifPass": "https://youtube.com/playlist?list=PLXdU8QbJkboeMcvUNyGpb9h6FUS9cVBti",
+      "ifFail": "resolver_fallback_pending_live_results"
+    },
+    {
+      "entityId": "2024-need-to-know-episode-56",
+      "currentUrl": "https://www.youtube.com/watch?v=l1OQuK5bHt4",
+      "ifPass": "https://youtube.com/watch?v=l1OQuK5bHt4",
+      "ifFail": "resolver_fallback_pending_live_results"
+    },
+    {
+      "entityId": "2024-need-to-know-episode-57",
+      "currentUrl": "https://www.youtube.com/playlist?list=PLXdU8QbJkboeMcvUNyGpb9h6FUS9cVBti",
+      "ifPass": "https://youtube.com/playlist?list=PLXdU8QbJkboeMcvUNyGpb9h6FUS9cVBti",
+      "ifFail": "resolver_fallback_pending_live_results"
+    },
+    {
+      "entityId": "2024-need-to-know-episode-57",
+      "currentUrl": "https://www.youtube.com/watch?v=kAhQmbCy1VE",
+      "ifPass": "https://youtube.com/watch?v=kAhQmbCy1VE",
+      "ifFail": "resolver_fallback_pending_live_results"
+    },
+    {
+      "entityId": "2024-need-to-know-episode-58",
+      "currentUrl": "https://www.youtube.com/playlist?list=PLXdU8QbJkboeMcvUNyGpb9h6FUS9cVBti",
+      "ifPass": "https://youtube.com/playlist?list=PLXdU8QbJkboeMcvUNyGpb9h6FUS9cVBti",
+      "ifFail": "resolver_fallback_pending_live_results"
+    },
+    {
+      "entityId": "2024-need-to-know-episode-58",
+      "currentUrl": "https://www.youtube.com/watch?v=DtpBExdn2rc",
+      "ifPass": "https://youtube.com/watch?v=DtpBExdn2rc",
+      "ifFail": "resolver_fallback_pending_live_results"
+    },
+    {
+      "entityId": "2024-need-to-know-episode-59",
+      "currentUrl": "https://www.youtube.com/playlist?list=PLXdU8QbJkboeMcvUNyGpb9h6FUS9cVBti",
+      "ifPass": "https://youtube.com/playlist?list=PLXdU8QbJkboeMcvUNyGpb9h6FUS9cVBti",
+      "ifFail": "resolver_fallback_pending_live_results"
+    },
+    {
+      "entityId": "2024-need-to-know-episode-59",
+      "currentUrl": "https://www.youtube.com/watch?v=KLXqSz4xAzE",
+      "ifPass": "https://youtube.com/watch?v=KLXqSz4xAzE",
+      "ifFail": "resolver_fallback_pending_live_results"
+    },
+    {
+      "entityId": "2024-weaponized-episode-46",
+      "currentUrl": "https://link.chtbl.com/Weaponized",
+      "ifPass": "https://link.chtbl.com/Weaponized",
+      "ifFail": "resolver_fallback_pending_live_results"
+    },
+    {
+      "entityId": "2024-weaponized-episode-46",
+      "currentUrl": "https://www.weaponizedpodcast.com/episodes-2/episode-46",
+      "ifPass": "https://weaponizedpodcast.com/episodes-2/episode-46",
+      "ifFail": "resolver_fallback_pending_live_results"
+    },
+    {
+      "entityId": "2024-weaponized-episode-47",
+      "currentUrl": "https://link.chtbl.com/Weaponized",
+      "ifPass": "https://link.chtbl.com/Weaponized",
+      "ifFail": "resolver_fallback_pending_live_results"
+    },
+    {
+      "entityId": "2024-weaponized-episode-47",
+      "currentUrl": "https://www.weaponizedpodcast.com/episodes-2/episode-47",
+      "ifPass": "https://weaponizedpodcast.com/episodes-2/episode-47",
+      "ifFail": "resolver_fallback_pending_live_results"
+    },
+    {
+      "entityId": "2024-weaponized-episode-48",
+      "currentUrl": "https://link.chtbl.com/Weaponized",
+      "ifPass": "https://link.chtbl.com/Weaponized",
+      "ifFail": "resolver_fallback_pending_live_results"
+    },
+    {
+      "entityId": "2024-weaponized-episode-48",
+      "currentUrl": "https://www.weaponizedpodcast.com/episodes-2/episode-48",
+      "ifPass": "https://weaponizedpodcast.com/episodes-2/episode-48",
+      "ifFail": "resolver_fallback_pending_live_results"
+    },
+    {
+      "entityId": "2024-weaponized-episode-49",
+      "currentUrl": "https://link.chtbl.com/Weaponized",
+      "ifPass": "https://link.chtbl.com/Weaponized",
+      "ifFail": "resolver_fallback_pending_live_results"
+    },
+    {
+      "entityId": "2024-weaponized-episode-49",
+      "currentUrl": "https://www.weaponizedpodcast.com/episodes-2/episode-49",
+      "ifPass": "https://weaponizedpodcast.com/episodes-2/episode-49",
+      "ifFail": "resolver_fallback_pending_live_results"
+    },
+    {
+      "entityId": "2024-weaponized-episode-50",
+      "currentUrl": "https://link.chtbl.com/Weaponized",
+      "ifPass": "https://link.chtbl.com/Weaponized",
+      "ifFail": "resolver_fallback_pending_live_results"
+    },
+    {
+      "entityId": "2024-weaponized-episode-50",
+      "currentUrl": "https://www.weaponizedpodcast.com/episodes-2/episode-50",
+      "ifPass": "https://weaponizedpodcast.com/episodes-2/episode-50",
+      "ifFail": "resolver_fallback_pending_live_results"
+    },
+    {
+      "entityId": "2024-weaponized-episode-51",
+      "currentUrl": "https://link.chtbl.com/Weaponized",
+      "ifPass": "https://link.chtbl.com/Weaponized",
+      "ifFail": "resolver_fallback_pending_live_results"
+    },
+    {
+      "entityId": "2024-weaponized-episode-51",
+      "currentUrl": "https://www.weaponizedpodcast.com/episodes-2/episode-51",
+      "ifPass": "https://weaponizedpodcast.com/episodes-2/episode-51",
+      "ifFail": "resolver_fallback_pending_live_results"
+    },
+    {
+      "entityId": "2024-weaponized-episode-52",
+      "currentUrl": "https://link.chtbl.com/Weaponized",
+      "ifPass": "https://link.chtbl.com/Weaponized",
+      "ifFail": "resolver_fallback_pending_live_results"
+    },
+    {
+      "entityId": "2024-weaponized-episode-52",
+      "currentUrl": "https://www.weaponizedpodcast.com/episodes-2/episode-52",
+      "ifPass": "https://weaponizedpodcast.com/episodes-2/episode-52",
+      "ifFail": "resolver_fallback_pending_live_results"
+    },
+    {
+      "entityId": "2024-weaponized-episode-53",
+      "currentUrl": "https://link.chtbl.com/Weaponized",
+      "ifPass": "https://link.chtbl.com/Weaponized",
+      "ifFail": "resolver_fallback_pending_live_results"
+    },
+    {
+      "entityId": "2024-weaponized-episode-53",
+      "currentUrl": "https://www.weaponizedpodcast.com/episodes-2/episode-53",
+      "ifPass": "https://weaponizedpodcast.com/episodes-2/episode-53",
+      "ifFail": "resolver_fallback_pending_live_results"
+    },
+    {
+      "entityId": "2024-weaponized-episode-54",
+      "currentUrl": "https://link.chtbl.com/Weaponized",
+      "ifPass": "https://link.chtbl.com/Weaponized",
+      "ifFail": "resolver_fallback_pending_live_results"
+    },
+    {
+      "entityId": "2024-weaponized-episode-54",
+      "currentUrl": "https://www.weaponizedpodcast.com/episodes-2/episode-54",
+      "ifPass": "https://weaponizedpodcast.com/episodes-2/episode-54",
+      "ifFail": "resolver_fallback_pending_live_results"
+    },
+    {
+      "entityId": "2024-weaponized-episode-55",
+      "currentUrl": "https://link.chtbl.com/Weaponized",
+      "ifPass": "https://link.chtbl.com/Weaponized",
+      "ifFail": "resolver_fallback_pending_live_results"
+    },
+    {
+      "entityId": "2024-weaponized-episode-55",
+      "currentUrl": "https://www.weaponizedpodcast.com/episodes-2/episode-55",
+      "ifPass": "https://weaponizedpodcast.com/episodes-2/episode-55",
+      "ifFail": "resolver_fallback_pending_live_results"
+    },
+    {
+      "entityId": "2024-weaponized-episode-56",
+      "currentUrl": "https://link.chtbl.com/Weaponized",
+      "ifPass": "https://link.chtbl.com/Weaponized",
+      "ifFail": "resolver_fallback_pending_live_results"
+    },
+    {
+      "entityId": "2024-weaponized-episode-56",
+      "currentUrl": "https://www.weaponizedpodcast.com/episodes-2/episode-56",
+      "ifPass": "https://weaponizedpodcast.com/episodes-2/episode-56",
+      "ifFail": "resolver_fallback_pending_live_results"
+    },
+    {
+      "entityId": "2024-weaponized-episode-57",
+      "currentUrl": "https://link.chtbl.com/Weaponized",
+      "ifPass": "https://link.chtbl.com/Weaponized",
+      "ifFail": "resolver_fallback_pending_live_results"
+    },
+    {
+      "entityId": "2024-weaponized-episode-57",
+      "currentUrl": "https://www.weaponizedpodcast.com/episodes-2/episode-57",
+      "ifPass": "https://weaponizedpodcast.com/episodes-2/episode-57",
+      "ifFail": "resolver_fallback_pending_live_results"
+    },
+    {
+      "entityId": "2024-weaponized-episode-58",
+      "currentUrl": "https://link.chtbl.com/Weaponized",
+      "ifPass": "https://link.chtbl.com/Weaponized",
+      "ifFail": "resolver_fallback_pending_live_results"
+    },
+    {
+      "entityId": "2024-weaponized-episode-58",
+      "currentUrl": "https://www.weaponizedpodcast.com/episodes-2/episode-58",
+      "ifPass": "https://weaponizedpodcast.com/episodes-2/episode-58",
+      "ifFail": "resolver_fallback_pending_live_results"
+    },
+    {
+      "entityId": "2024-weaponized-episode-59",
+      "currentUrl": "https://link.chtbl.com/Weaponized",
+      "ifPass": "https://link.chtbl.com/Weaponized",
+      "ifFail": "resolver_fallback_pending_live_results"
+    },
+    {
+      "entityId": "2024-weaponized-episode-59",
+      "currentUrl": "https://www.weaponizedpodcast.com/episodes-2/episode-59",
+      "ifPass": "https://weaponizedpodcast.com/episodes-2/episode-59",
+      "ifFail": "resolver_fallback_pending_live_results"
+    },
+    {
+      "entityId": "2024-weaponized-episode-60",
+      "currentUrl": "https://link.chtbl.com/Weaponized",
+      "ifPass": "https://link.chtbl.com/Weaponized",
+      "ifFail": "resolver_fallback_pending_live_results"
+    },
+    {
+      "entityId": "2024-weaponized-episode-60",
+      "currentUrl": "https://www.weaponizedpodcast.com/episodes-2/episode-60",
+      "ifPass": "https://weaponizedpodcast.com/episodes-2/episode-60",
+      "ifFail": "resolver_fallback_pending_live_results"
+    },
+    {
+      "entityId": "2024-weaponized-episode-61",
+      "currentUrl": "https://link.chtbl.com/Weaponized",
+      "ifPass": "https://link.chtbl.com/Weaponized",
+      "ifFail": "resolver_fallback_pending_live_results"
+    },
+    {
+      "entityId": "2024-weaponized-episode-61",
+      "currentUrl": "https://www.weaponizedpodcast.com/episodes-3/episode-61",
+      "ifPass": "https://weaponizedpodcast.com/episodes-3/episode-61",
+      "ifFail": "resolver_fallback_pending_live_results"
+    },
+    {
+      "entityId": "2024-weaponized-episode-62",
+      "currentUrl": "https://link.chtbl.com/Weaponized",
+      "ifPass": "https://link.chtbl.com/Weaponized",
+      "ifFail": "resolver_fallback_pending_live_results"
+    },
+    {
+      "entityId": "2024-weaponized-episode-62",
+      "currentUrl": "https://www.weaponizedpodcast.com/episodes-3/episode-62",
+      "ifPass": "https://weaponizedpodcast.com/episodes-3/episode-62",
+      "ifFail": "resolver_fallback_pending_live_results"
+    },
+    {
+      "entityId": "2024-weaponized-episode-63",
+      "currentUrl": "https://link.chtbl.com/Weaponized",
+      "ifPass": "https://link.chtbl.com/Weaponized",
+      "ifFail": "resolver_fallback_pending_live_results"
+    },
+    {
+      "entityId": "2024-weaponized-episode-63",
+      "currentUrl": "https://www.weaponizedpodcast.com/episodes-3/episode-63",
+      "ifPass": "https://weaponizedpodcast.com/episodes-3/episode-63",
+      "ifFail": "resolver_fallback_pending_live_results"
+    },
+    {
+      "entityId": "2024-weaponized-episode-64",
+      "currentUrl": "https://link.chtbl.com/Weaponized",
+      "ifPass": "https://link.chtbl.com/Weaponized",
+      "ifFail": "resolver_fallback_pending_live_results"
+    },
+    {
+      "entityId": "2024-weaponized-episode-64",
+      "currentUrl": "https://www.weaponizedpodcast.com/episodes-3/episode-64",
+      "ifPass": "https://weaponizedpodcast.com/episodes-3/episode-64",
+      "ifFail": "resolver_fallback_pending_live_results"
+    },
+    {
+      "entityId": "2025-need-to-know-episode-60",
+      "currentUrl": "https://www.youtube.com/playlist?list=PLXdU8QbJkboeMcvUNyGpb9h6FUS9cVBti",
+      "ifPass": "https://youtube.com/playlist?list=PLXdU8QbJkboeMcvUNyGpb9h6FUS9cVBti",
+      "ifFail": "resolver_fallback_pending_live_results"
+    },
+    {
+      "entityId": "2025-need-to-know-episode-60",
+      "currentUrl": "https://www.youtube.com/watch?v=PLVpruAjP1c",
+      "ifPass": "https://youtube.com/watch?v=PLVpruAjP1c",
+      "ifFail": "resolver_fallback_pending_live_results"
+    },
+    {
+      "entityId": "2025-need-to-know-episode-61",
+      "currentUrl": "https://www.youtube.com/playlist?list=PLXdU8QbJkboeMcvUNyGpb9h6FUS9cVBti",
+      "ifPass": "https://youtube.com/playlist?list=PLXdU8QbJkboeMcvUNyGpb9h6FUS9cVBti",
+      "ifFail": "resolver_fallback_pending_live_results"
+    },
+    {
+      "entityId": "2025-need-to-know-episode-61",
+      "currentUrl": "https://www.youtube.com/watch?v=1viZCDLJfqg",
+      "ifPass": "https://youtube.com/watch?v=1viZCDLJfqg",
+      "ifFail": "resolver_fallback_pending_live_results"
+    },
+    {
+      "entityId": "2025-need-to-know-episode-62",
+      "currentUrl": "https://www.youtube.com/playlist?list=PLXdU8QbJkboeMcvUNyGpb9h6FUS9cVBti",
+      "ifPass": "https://youtube.com/playlist?list=PLXdU8QbJkboeMcvUNyGpb9h6FUS9cVBti",
+      "ifFail": "resolver_fallback_pending_live_results"
+    },
+    {
+      "entityId": "2025-need-to-know-episode-62",
+      "currentUrl": "https://www.youtube.com/watch?v=83EQaXJvYRI",
+      "ifPass": "https://youtube.com/watch?v=83EQaXJvYRI",
+      "ifFail": "resolver_fallback_pending_live_results"
+    },
+    {
+      "entityId": "2025-need-to-know-episode-63",
+      "currentUrl": "https://www.youtube.com/playlist?list=PLXdU8QbJkboeMcvUNyGpb9h6FUS9cVBti",
+      "ifPass": "https://youtube.com/playlist?list=PLXdU8QbJkboeMcvUNyGpb9h6FUS9cVBti",
+      "ifFail": "resolver_fallback_pending_live_results"
+    },
+    {
+      "entityId": "2025-need-to-know-episode-63",
+      "currentUrl": "https://www.youtube.com/watch?v=up3_XVMvetg",
+      "ifPass": "https://youtube.com/watch?v=up3_XVMvetg",
+      "ifFail": "resolver_fallback_pending_live_results"
+    },
+    {
+      "entityId": "2025-need-to-know-episode-64",
+      "currentUrl": "https://www.youtube.com/playlist?list=PLXdU8QbJkboeMcvUNyGpb9h6FUS9cVBti",
+      "ifPass": "https://youtube.com/playlist?list=PLXdU8QbJkboeMcvUNyGpb9h6FUS9cVBti",
+      "ifFail": "resolver_fallback_pending_live_results"
+    },
+    {
+      "entityId": "2025-need-to-know-episode-64",
+      "currentUrl": "https://www.youtube.com/watch?v=r8o4RN_xj2I",
+      "ifPass": "https://youtube.com/watch?v=r8o4RN_xj2I",
+      "ifFail": "resolver_fallback_pending_live_results"
+    },
+    {
+      "entityId": "2025-need-to-know-episode-65",
+      "currentUrl": "https://www.youtube.com/playlist?list=PLXdU8QbJkboeMcvUNyGpb9h6FUS9cVBti",
+      "ifPass": "https://youtube.com/playlist?list=PLXdU8QbJkboeMcvUNyGpb9h6FUS9cVBti",
+      "ifFail": "resolver_fallback_pending_live_results"
+    },
+    {
+      "entityId": "2025-need-to-know-episode-65",
+      "currentUrl": "https://www.youtube.com/watch?v=cmxyApOGPCA",
+      "ifPass": "https://youtube.com/watch?v=cmxyApOGPCA",
+      "ifFail": "resolver_fallback_pending_live_results"
+    },
+    {
+      "entityId": "2025-need-to-know-episode-66",
+      "currentUrl": "https://www.youtube.com/playlist?list=PLXdU8QbJkboePTgyvfpJ6X8MXWPkfxOgv",
+      "ifPass": "https://youtube.com/playlist?list=PLXdU8QbJkboePTgyvfpJ6X8MXWPkfxOgv",
+      "ifFail": "resolver_fallback_pending_live_results"
+    },
+    {
+      "entityId": "2025-need-to-know-episode-66",
+      "currentUrl": "https://www.youtube.com/watch?v=lwsSMUgC7JM",
+      "ifPass": "https://youtube.com/watch?v=lwsSMUgC7JM",
+      "ifFail": "resolver_fallback_pending_live_results"
+    },
+    {
+      "entityId": "2025-need-to-know-episode-67",
+      "currentUrl": "https://www.youtube.com/playlist?list=PLXdU8QbJkboePTgyvfpJ6X8MXWPkfxOgv",
+      "ifPass": "https://youtube.com/playlist?list=PLXdU8QbJkboePTgyvfpJ6X8MXWPkfxOgv",
+      "ifFail": "resolver_fallback_pending_live_results"
+    },
+    {
+      "entityId": "2025-need-to-know-episode-67",
+      "currentUrl": "https://www.youtube.com/watch?v=ZlRkF8Q-yMc",
+      "ifPass": "https://youtube.com/watch?v=ZlRkF8Q-yMc",
+      "ifFail": "resolver_fallback_pending_live_results"
+    },
+    {
+      "entityId": "2025-need-to-know-episode-68",
+      "currentUrl": "https://www.youtube.com/playlist?list=PLXdU8QbJkboePTgyvfpJ6X8MXWPkfxOgv",
+      "ifPass": "https://youtube.com/playlist?list=PLXdU8QbJkboePTgyvfpJ6X8MXWPkfxOgv",
+      "ifFail": "resolver_fallback_pending_live_results"
+    },
+    {
+      "entityId": "2025-need-to-know-episode-68",
+      "currentUrl": "https://www.youtube.com/watch?v=g28EbphgcG0",
+      "ifPass": "https://youtube.com/watch?v=g28EbphgcG0",
+      "ifFail": "resolver_fallback_pending_live_results"
+    },
+    {
+      "entityId": "2025-need-to-know-episode-69",
+      "currentUrl": "https://www.youtube.com/playlist?list=PLXdU8QbJkboePTgyvfpJ6X8MXWPkfxOgv",
+      "ifPass": "https://youtube.com/playlist?list=PLXdU8QbJkboePTgyvfpJ6X8MXWPkfxOgv",
+      "ifFail": "resolver_fallback_pending_live_results"
+    },
+    {
+      "entityId": "2025-need-to-know-episode-69",
+      "currentUrl": "https://www.youtube.com/watch?v=aQgOPR_z1Iw",
+      "ifPass": "https://youtube.com/watch?v=aQgOPR_z1Iw",
+      "ifFail": "resolver_fallback_pending_live_results"
+    },
+    {
+      "entityId": "2025-weaponized-episode-100",
+      "currentUrl": "https://link.chtbl.com/Weaponized",
+      "ifPass": "https://link.chtbl.com/Weaponized",
+      "ifFail": "resolver_fallback_pending_live_results"
+    },
+    {
+      "entityId": "2025-weaponized-episode-100",
+      "currentUrl": "https://www.weaponizedpodcast.com/episodes-4/episode-100",
+      "ifPass": "https://weaponizedpodcast.com/episodes-4/episode-100",
+      "ifFail": "resolver_fallback_pending_live_results"
+    },
+    {
+      "entityId": "2025-weaponized-episode-101",
+      "currentUrl": "https://link.chtbl.com/Weaponized",
+      "ifPass": "https://link.chtbl.com/Weaponized",
+      "ifFail": "resolver_fallback_pending_live_results"
+    },
+    {
+      "entityId": "2025-weaponized-episode-101",
+      "currentUrl": "https://www.weaponizedpodcast.com/episodes-4/episode-101",
+      "ifPass": "https://weaponizedpodcast.com/episodes-4/episode-101",
+      "ifFail": "resolver_fallback_pending_live_results"
+    },
+    {
+      "entityId": "2025-weaponized-episode-102",
+      "currentUrl": "https://link.chtbl.com/Weaponized",
+      "ifPass": "https://link.chtbl.com/Weaponized",
+      "ifFail": "resolver_fallback_pending_live_results"
+    },
+    {
+      "entityId": "2025-weaponized-episode-102",
+      "currentUrl": "https://www.weaponizedpodcast.com/episodes-4/episode-102",
+      "ifPass": "https://weaponizedpodcast.com/episodes-4/episode-102",
+      "ifFail": "resolver_fallback_pending_live_results"
+    },
+    {
+      "entityId": "2025-weaponized-episode-65",
+      "currentUrl": "https://link.chtbl.com/Weaponized",
+      "ifPass": "https://link.chtbl.com/Weaponized",
+      "ifFail": "resolver_fallback_pending_live_results"
+    },
+    {
+      "entityId": "2025-weaponized-episode-65",
+      "currentUrl": "https://www.weaponizedpodcast.com/episodes-3/episode-65",
+      "ifPass": "https://weaponizedpodcast.com/episodes-3/episode-65",
+      "ifFail": "resolver_fallback_pending_live_results"
+    },
+    {
+      "entityId": "2025-weaponized-episode-66",
+      "currentUrl": "https://link.chtbl.com/Weaponized",
+      "ifPass": "https://link.chtbl.com/Weaponized",
+      "ifFail": "resolver_fallback_pending_live_results"
+    },
+    {
+      "entityId": "2025-weaponized-episode-66",
+      "currentUrl": "https://www.weaponizedpodcast.com/episodes-3/episode-66",
+      "ifPass": "https://weaponizedpodcast.com/episodes-3/episode-66",
+      "ifFail": "resolver_fallback_pending_live_results"
+    },
+    {
+      "entityId": "2025-weaponized-episode-67",
+      "currentUrl": "https://link.chtbl.com/Weaponized",
+      "ifPass": "https://link.chtbl.com/Weaponized",
+      "ifFail": "resolver_fallback_pending_live_results"
+    },
+    {
+      "entityId": "2025-weaponized-episode-67",
+      "currentUrl": "https://www.weaponizedpodcast.com/episodes-3/episode-67",
+      "ifPass": "https://weaponizedpodcast.com/episodes-3/episode-67",
+      "ifFail": "resolver_fallback_pending_live_results"
+    },
+    {
+      "entityId": "2025-weaponized-episode-68",
+      "currentUrl": "https://link.chtbl.com/Weaponized",
+      "ifPass": "https://link.chtbl.com/Weaponized",
+      "ifFail": "resolver_fallback_pending_live_results"
+    },
+    {
+      "entityId": "2025-weaponized-episode-68",
+      "currentUrl": "https://www.weaponizedpodcast.com/episodes-3/episode-68",
+      "ifPass": "https://weaponizedpodcast.com/episodes-3/episode-68",
+      "ifFail": "resolver_fallback_pending_live_results"
+    },
+    {
+      "entityId": "2025-weaponized-episode-69",
+      "currentUrl": "https://link.chtbl.com/Weaponized",
+      "ifPass": "https://link.chtbl.com/Weaponized",
+      "ifFail": "resolver_fallback_pending_live_results"
+    },
+    {
+      "entityId": "2025-weaponized-episode-69",
+      "currentUrl": "https://www.weaponizedpodcast.com/episodes-3/episode-69",
+      "ifPass": "https://weaponizedpodcast.com/episodes-3/episode-69",
+      "ifFail": "resolver_fallback_pending_live_results"
+    },
+    {
+      "entityId": "2025-weaponized-episode-70",
+      "currentUrl": "https://link.chtbl.com/Weaponized",
+      "ifPass": "https://link.chtbl.com/Weaponized",
+      "ifFail": "resolver_fallback_pending_live_results"
+    },
+    {
+      "entityId": "2025-weaponized-episode-70",
+      "currentUrl": "https://www.weaponizedpodcast.com/episodes-3/episode-70",
+      "ifPass": "https://weaponizedpodcast.com/episodes-3/episode-70",
+      "ifFail": "resolver_fallback_pending_live_results"
+    },
+    {
+      "entityId": "2025-weaponized-episode-71",
+      "currentUrl": "https://link.chtbl.com/Weaponized",
+      "ifPass": "https://link.chtbl.com/Weaponized",
+      "ifFail": "resolver_fallback_pending_live_results"
+    },
+    {
+      "entityId": "2025-weaponized-episode-71",
+      "currentUrl": "https://www.weaponizedpodcast.com/episodes-3/episode-71",
+      "ifPass": "https://weaponizedpodcast.com/episodes-3/episode-71",
+      "ifFail": "resolver_fallback_pending_live_results"
+    },
+    {
+      "entityId": "2025-weaponized-episode-72",
+      "currentUrl": "https://link.chtbl.com/Weaponized",
+      "ifPass": "https://link.chtbl.com/Weaponized",
+      "ifFail": "resolver_fallback_pending_live_results"
+    },
+    {
+      "entityId": "2025-weaponized-episode-72",
+      "currentUrl": "https://www.weaponizedpodcast.com/episodes-3/episode-72",
+      "ifPass": "https://weaponizedpodcast.com/episodes-3/episode-72",
+      "ifFail": "resolver_fallback_pending_live_results"
+    },
+    {
+      "entityId": "2025-weaponized-episode-73",
+      "currentUrl": "https://link.chtbl.com/Weaponized",
+      "ifPass": "https://link.chtbl.com/Weaponized",
+      "ifFail": "resolver_fallback_pending_live_results"
+    },
+    {
+      "entityId": "2025-weaponized-episode-73",
+      "currentUrl": "https://www.weaponizedpodcast.com/episodes-3/episode-73",
+      "ifPass": "https://weaponizedpodcast.com/episodes-3/episode-73",
+      "ifFail": "resolver_fallback_pending_live_results"
+    },
+    {
+      "entityId": "2025-weaponized-episode-74",
+      "currentUrl": "https://link.chtbl.com/Weaponized",
+      "ifPass": "https://link.chtbl.com/Weaponized",
+      "ifFail": "resolver_fallback_pending_live_results"
+    },
+    {
+      "entityId": "2025-weaponized-episode-74",
+      "currentUrl": "https://www.weaponizedpodcast.com/episodes-3/episode-74",
+      "ifPass": "https://weaponizedpodcast.com/episodes-3/episode-74",
+      "ifFail": "resolver_fallback_pending_live_results"
+    },
+    {
+      "entityId": "2025-weaponized-episode-75",
+      "currentUrl": "https://link.chtbl.com/Weaponized",
+      "ifPass": "https://link.chtbl.com/Weaponized",
+      "ifFail": "resolver_fallback_pending_live_results"
+    },
+    {
+      "entityId": "2025-weaponized-episode-75",
+      "currentUrl": "https://www.weaponizedpodcast.com/episodes-3/episode-75",
+      "ifPass": "https://weaponizedpodcast.com/episodes-3/episode-75",
+      "ifFail": "resolver_fallback_pending_live_results"
+    },
+    {
+      "entityId": "2025-weaponized-episode-76",
+      "currentUrl": "https://link.chtbl.com/Weaponized",
+      "ifPass": "https://link.chtbl.com/Weaponized",
+      "ifFail": "resolver_fallback_pending_live_results"
+    },
+    {
+      "entityId": "2025-weaponized-episode-76",
+      "currentUrl": "https://www.weaponizedpodcast.com/episodes-3/episode-76",
+      "ifPass": "https://weaponizedpodcast.com/episodes-3/episode-76",
+      "ifFail": "resolver_fallback_pending_live_results"
+    },
+    {
+      "entityId": "2025-weaponized-episode-77",
+      "currentUrl": "https://link.chtbl.com/Weaponized",
+      "ifPass": "https://link.chtbl.com/Weaponized",
+      "ifFail": "resolver_fallback_pending_live_results"
+    },
+    {
+      "entityId": "2025-weaponized-episode-77",
+      "currentUrl": "https://www.weaponizedpodcast.com/episodes-3/episode-77",
+      "ifPass": "https://weaponizedpodcast.com/episodes-3/episode-77",
+      "ifFail": "resolver_fallback_pending_live_results"
+    },
+    {
+      "entityId": "2025-weaponized-episode-78",
+      "currentUrl": "https://link.chtbl.com/Weaponized",
+      "ifPass": "https://link.chtbl.com/Weaponized",
+      "ifFail": "resolver_fallback_pending_live_results"
+    },
+    {
+      "entityId": "2025-weaponized-episode-78",
+      "currentUrl": "https://www.weaponizedpodcast.com/episodes-3/episode-78",
+      "ifPass": "https://weaponizedpodcast.com/episodes-3/episode-78",
+      "ifFail": "resolver_fallback_pending_live_results"
+    },
+    {
+      "entityId": "2025-weaponized-episode-79",
+      "currentUrl": "https://link.chtbl.com/Weaponized",
+      "ifPass": "https://link.chtbl.com/Weaponized",
+      "ifFail": "resolver_fallback_pending_live_results"
+    },
+    {
+      "entityId": "2025-weaponized-episode-79",
+      "currentUrl": "https://www.weaponizedpodcast.com/episodes-3/episode-79",
+      "ifPass": "https://weaponizedpodcast.com/episodes-3/episode-79",
+      "ifFail": "resolver_fallback_pending_live_results"
+    },
+    {
+      "entityId": "2025-weaponized-episode-80",
+      "currentUrl": "https://link.chtbl.com/Weaponized",
+      "ifPass": "https://link.chtbl.com/Weaponized",
+      "ifFail": "resolver_fallback_pending_live_results"
+    },
+    {
+      "entityId": "2025-weaponized-episode-80",
+      "currentUrl": "https://www.weaponizedpodcast.com/episodes-3/episode-80",
+      "ifPass": "https://weaponizedpodcast.com/episodes-3/episode-80",
+      "ifFail": "resolver_fallback_pending_live_results"
+    },
+    {
+      "entityId": "2025-weaponized-episode-81",
+      "currentUrl": "https://link.chtbl.com/Weaponized",
+      "ifPass": "https://link.chtbl.com/Weaponized",
+      "ifFail": "resolver_fallback_pending_live_results"
+    },
+    {
+      "entityId": "2025-weaponized-episode-81",
+      "currentUrl": "https://www.weaponizedpodcast.com/episodes-3/episode-81",
+      "ifPass": "https://weaponizedpodcast.com/episodes-3/episode-81",
+      "ifFail": "resolver_fallback_pending_live_results"
+    },
+    {
+      "entityId": "2025-weaponized-episode-82",
+      "currentUrl": "https://link.chtbl.com/Weaponized",
+      "ifPass": "https://link.chtbl.com/Weaponized",
+      "ifFail": "resolver_fallback_pending_live_results"
+    },
+    {
+      "entityId": "2025-weaponized-episode-82",
+      "currentUrl": "https://www.weaponizedpodcast.com/episodes-3/episode-82",
+      "ifPass": "https://weaponizedpodcast.com/episodes-3/episode-82",
+      "ifFail": "resolver_fallback_pending_live_results"
+    },
+    {
+      "entityId": "2025-weaponized-episode-83",
+      "currentUrl": "https://link.chtbl.com/Weaponized",
+      "ifPass": "https://link.chtbl.com/Weaponized",
+      "ifFail": "resolver_fallback_pending_live_results"
+    },
+    {
+      "entityId": "2025-weaponized-episode-83",
+      "currentUrl": "https://www.weaponizedpodcast.com/episodes-3/episode-83",
+      "ifPass": "https://weaponizedpodcast.com/episodes-3/episode-83",
+      "ifFail": "resolver_fallback_pending_live_results"
+    },
+    {
+      "entityId": "2025-weaponized-episode-84",
+      "currentUrl": "https://link.chtbl.com/Weaponized",
+      "ifPass": "https://link.chtbl.com/Weaponized",
+      "ifFail": "resolver_fallback_pending_live_results"
+    },
+    {
+      "entityId": "2025-weaponized-episode-84",
+      "currentUrl": "https://www.weaponizedpodcast.com/episodes-3/episode-84",
+      "ifPass": "https://weaponizedpodcast.com/episodes-3/episode-84",
+      "ifFail": "resolver_fallback_pending_live_results"
+    },
+    {
+      "entityId": "2025-weaponized-episode-85",
+      "currentUrl": "https://link.chtbl.com/Weaponized",
+      "ifPass": "https://link.chtbl.com/Weaponized",
+      "ifFail": "resolver_fallback_pending_live_results"
+    },
+    {
+      "entityId": "2025-weaponized-episode-85",
+      "currentUrl": "https://www.weaponizedpodcast.com/episodes-3/episode-85",
+      "ifPass": "https://weaponizedpodcast.com/episodes-3/episode-85",
+      "ifFail": "resolver_fallback_pending_live_results"
+    },
+    {
+      "entityId": "2025-weaponized-episode-86",
+      "currentUrl": "https://link.chtbl.com/Weaponized",
+      "ifPass": "https://link.chtbl.com/Weaponized",
+      "ifFail": "resolver_fallback_pending_live_results"
+    },
+    {
+      "entityId": "2025-weaponized-episode-86",
+      "currentUrl": "https://www.weaponizedpodcast.com/episodes-3/episode-86",
+      "ifPass": "https://weaponizedpodcast.com/episodes-3/episode-86",
+      "ifFail": "resolver_fallback_pending_live_results"
+    },
+    {
+      "entityId": "2025-weaponized-episode-87",
+      "currentUrl": "https://link.chtbl.com/Weaponized",
+      "ifPass": "https://link.chtbl.com/Weaponized",
+      "ifFail": "resolver_fallback_pending_live_results"
+    },
+    {
+      "entityId": "2025-weaponized-episode-87",
+      "currentUrl": "https://www.weaponizedpodcast.com/episodes-3/episode-87",
+      "ifPass": "https://weaponizedpodcast.com/episodes-3/episode-87",
+      "ifFail": "resolver_fallback_pending_live_results"
+    },
+    {
+      "entityId": "2025-weaponized-episode-88",
+      "currentUrl": "https://link.chtbl.com/Weaponized",
+      "ifPass": "https://link.chtbl.com/Weaponized",
+      "ifFail": "resolver_fallback_pending_live_results"
+    },
+    {
+      "entityId": "2025-weaponized-episode-88",
+      "currentUrl": "https://www.weaponizedpodcast.com/episodes-3/episode-88",
+      "ifPass": "https://weaponizedpodcast.com/episodes-3/episode-88",
+      "ifFail": "resolver_fallback_pending_live_results"
+    },
+    {
+      "entityId": "2025-weaponized-episode-89",
+      "currentUrl": "https://link.chtbl.com/Weaponized",
+      "ifPass": "https://link.chtbl.com/Weaponized",
+      "ifFail": "resolver_fallback_pending_live_results"
+    },
+    {
+      "entityId": "2025-weaponized-episode-89",
+      "currentUrl": "https://www.weaponizedpodcast.com/episodes-3/episode-89",
+      "ifPass": "https://weaponizedpodcast.com/episodes-3/episode-89",
+      "ifFail": "resolver_fallback_pending_live_results"
+    },
+    {
+      "entityId": "2025-weaponized-episode-90",
+      "currentUrl": "https://link.chtbl.com/Weaponized",
+      "ifPass": "https://link.chtbl.com/Weaponized",
+      "ifFail": "resolver_fallback_pending_live_results"
+    },
+    {
+      "entityId": "2025-weaponized-episode-90",
+      "currentUrl": "https://www.weaponizedpodcast.com/episodes-3/episode-90",
+      "ifPass": "https://weaponizedpodcast.com/episodes-3/episode-90",
+      "ifFail": "resolver_fallback_pending_live_results"
+    },
+    {
+      "entityId": "2025-weaponized-episode-91",
+      "currentUrl": "https://link.chtbl.com/Weaponized",
+      "ifPass": "https://link.chtbl.com/Weaponized",
+      "ifFail": "resolver_fallback_pending_live_results"
+    },
+    {
+      "entityId": "2025-weaponized-episode-91",
+      "currentUrl": "https://www.weaponizedpodcast.com/episodes-3/episode-91",
+      "ifPass": "https://weaponizedpodcast.com/episodes-3/episode-91",
+      "ifFail": "resolver_fallback_pending_live_results"
+    },
+    {
+      "entityId": "2025-weaponized-episode-92",
+      "currentUrl": "https://link.chtbl.com/Weaponized",
+      "ifPass": "https://link.chtbl.com/Weaponized",
+      "ifFail": "resolver_fallback_pending_live_results"
+    },
+    {
+      "entityId": "2025-weaponized-episode-92",
+      "currentUrl": "https://www.weaponizedpodcast.com/episodes-3/episode-92",
+      "ifPass": "https://weaponizedpodcast.com/episodes-3/episode-92",
+      "ifFail": "resolver_fallback_pending_live_results"
+    },
+    {
+      "entityId": "2025-weaponized-episode-93",
+      "currentUrl": "https://link.chtbl.com/Weaponized",
+      "ifPass": "https://link.chtbl.com/Weaponized",
+      "ifFail": "resolver_fallback_pending_live_results"
+    },
+    {
+      "entityId": "2025-weaponized-episode-93",
+      "currentUrl": "https://www.weaponizedpodcast.com/episodes-4/episode-93",
+      "ifPass": "https://weaponizedpodcast.com/episodes-4/episode-93",
+      "ifFail": "resolver_fallback_pending_live_results"
+    },
+    {
+      "entityId": "2025-weaponized-episode-94",
+      "currentUrl": "https://link.chtbl.com/Weaponized",
+      "ifPass": "https://link.chtbl.com/Weaponized",
+      "ifFail": "resolver_fallback_pending_live_results"
+    },
+    {
+      "entityId": "2025-weaponized-episode-94",
+      "currentUrl": "https://www.weaponizedpodcast.com/episodes-4/episode-94",
+      "ifPass": "https://weaponizedpodcast.com/episodes-4/episode-94",
+      "ifFail": "resolver_fallback_pending_live_results"
+    },
+    {
+      "entityId": "2025-weaponized-episode-95",
+      "currentUrl": "https://link.chtbl.com/Weaponized",
+      "ifPass": "https://link.chtbl.com/Weaponized",
+      "ifFail": "resolver_fallback_pending_live_results"
+    },
+    {
+      "entityId": "2025-weaponized-episode-95",
+      "currentUrl": "https://www.weaponizedpodcast.com/episodes-4/episode-95",
+      "ifPass": "https://weaponizedpodcast.com/episodes-4/episode-95",
+      "ifFail": "resolver_fallback_pending_live_results"
+    },
+    {
+      "entityId": "2025-weaponized-episode-96",
+      "currentUrl": "https://link.chtbl.com/Weaponized",
+      "ifPass": "https://link.chtbl.com/Weaponized",
+      "ifFail": "resolver_fallback_pending_live_results"
+    },
+    {
+      "entityId": "2025-weaponized-episode-96",
+      "currentUrl": "https://www.weaponizedpodcast.com/episodes-4/episode-96",
+      "ifPass": "https://weaponizedpodcast.com/episodes-4/episode-96",
+      "ifFail": "resolver_fallback_pending_live_results"
+    },
+    {
+      "entityId": "2025-weaponized-episode-97",
+      "currentUrl": "https://link.chtbl.com/Weaponized",
+      "ifPass": "https://link.chtbl.com/Weaponized",
+      "ifFail": "resolver_fallback_pending_live_results"
+    },
+    {
+      "entityId": "2025-weaponized-episode-97",
+      "currentUrl": "https://www.weaponizedpodcast.com/episodes-4/episode-97",
+      "ifPass": "https://weaponizedpodcast.com/episodes-4/episode-97",
+      "ifFail": "resolver_fallback_pending_live_results"
+    },
+    {
+      "entityId": "2025-weaponized-episode-98",
+      "currentUrl": "https://link.chtbl.com/Weaponized",
+      "ifPass": "https://link.chtbl.com/Weaponized",
+      "ifFail": "resolver_fallback_pending_live_results"
+    },
+    {
+      "entityId": "2025-weaponized-episode-98",
+      "currentUrl": "https://www.weaponizedpodcast.com/episodes-4/episode-98",
+      "ifPass": "https://weaponizedpodcast.com/episodes-4/episode-98",
+      "ifFail": "resolver_fallback_pending_live_results"
+    },
+    {
+      "entityId": "2025-weaponized-episode-99",
+      "currentUrl": "https://link.chtbl.com/Weaponized",
+      "ifPass": "https://link.chtbl.com/Weaponized",
+      "ifFail": "resolver_fallback_pending_live_results"
+    },
+    {
+      "entityId": "2025-weaponized-episode-99",
+      "currentUrl": "https://www.weaponizedpodcast.com/episodes-4/episode-99",
+      "ifPass": "https://weaponizedpodcast.com/episodes-4/episode-99",
+      "ifFail": "resolver_fallback_pending_live_results"
+    },
+    {
+      "entityId": "2026-need-to-know-episode-70",
+      "currentUrl": "https://www.youtube.com/playlist?list=PLXdU8QbJkboePTgyvfpJ6X8MXWPkfxOgv",
+      "ifPass": "https://youtube.com/playlist?list=PLXdU8QbJkboePTgyvfpJ6X8MXWPkfxOgv",
+      "ifFail": "resolver_fallback_pending_live_results"
+    },
+    {
+      "entityId": "2026-need-to-know-episode-70",
+      "currentUrl": "https://www.youtube.com/watch?v=EHDcnPDUlXU",
+      "ifPass": "https://youtube.com/watch?v=EHDcnPDUlXU",
+      "ifFail": "resolver_fallback_pending_live_results"
+    },
+    {
+      "entityId": "2026-need-to-know-episode-71",
+      "currentUrl": "https://www.youtube.com/playlist?list=PLXdU8QbJkboePTgyvfpJ6X8MXWPkfxOgv",
+      "ifPass": "https://youtube.com/playlist?list=PLXdU8QbJkboePTgyvfpJ6X8MXWPkfxOgv",
+      "ifFail": "resolver_fallback_pending_live_results"
+    },
+    {
+      "entityId": "2026-need-to-know-episode-71",
+      "currentUrl": "https://www.youtube.com/watch?v=pzAOCST4mB4",
+      "ifPass": "https://youtube.com/watch?v=pzAOCST4mB4",
+      "ifFail": "resolver_fallback_pending_live_results"
+    },
+    {
+      "entityId": "2026-need-to-know-episode-72",
+      "currentUrl": "https://www.youtube.com/playlist?list=PLXdU8QbJkboePTgyvfpJ6X8MXWPkfxOgv",
+      "ifPass": "https://youtube.com/playlist?list=PLXdU8QbJkboePTgyvfpJ6X8MXWPkfxOgv",
+      "ifFail": "resolver_fallback_pending_live_results"
+    },
+    {
+      "entityId": "2026-need-to-know-episode-72",
+      "currentUrl": "https://www.youtube.com/watch?v=JiiXNgQ4qL8",
+      "ifPass": "https://youtube.com/watch?v=JiiXNgQ4qL8",
+      "ifFail": "resolver_fallback_pending_live_results"
+    },
+    {
+      "entityId": "2026-need-to-know-episode-73",
+      "currentUrl": "https://www.youtube.com/playlist?list=PLXdU8QbJkboePTgyvfpJ6X8MXWPkfxOgv",
+      "ifPass": "https://youtube.com/playlist?list=PLXdU8QbJkboePTgyvfpJ6X8MXWPkfxOgv",
+      "ifFail": "resolver_fallback_pending_live_results"
+    },
+    {
+      "entityId": "2026-need-to-know-episode-73",
+      "currentUrl": "https://www.youtube.com/watch?v=8C1pgdKUuoQ",
+      "ifPass": "https://youtube.com/watch?v=8C1pgdKUuoQ",
+      "ifFail": "resolver_fallback_pending_live_results"
+    },
+    {
+      "entityId": "2026-need-to-know-episode-74",
+      "currentUrl": "https://www.youtube.com/playlist?list=PLXdU8QbJkboePTgyvfpJ6X8MXWPkfxOgv",
+      "ifPass": "https://youtube.com/playlist?list=PLXdU8QbJkboePTgyvfpJ6X8MXWPkfxOgv",
+      "ifFail": "resolver_fallback_pending_live_results"
+    },
+    {
+      "entityId": "2026-need-to-know-episode-74",
+      "currentUrl": "https://www.youtube.com/watch?v=P6oX5E5zXa4",
+      "ifPass": "https://youtube.com/watch?v=P6oX5E5zXa4",
+      "ifFail": "resolver_fallback_pending_live_results"
+    },
+    {
+      "entityId": "2026-need-to-know-episode-75",
+      "currentUrl": "https://www.youtube.com/playlist?list=PLXdU8QbJkboePTgyvfpJ6X8MXWPkfxOgv",
+      "ifPass": "https://youtube.com/playlist?list=PLXdU8QbJkboePTgyvfpJ6X8MXWPkfxOgv",
+      "ifFail": "resolver_fallback_pending_live_results"
+    },
+    {
+      "entityId": "2026-need-to-know-episode-75",
+      "currentUrl": "https://www.youtube.com/watch?v=A7t5jd2FDJ4",
+      "ifPass": "https://youtube.com/watch?v=A7t5jd2FDJ4",
+      "ifFail": "resolver_fallback_pending_live_results"
+    },
+    {
+      "entityId": "2026-weaponized-episode-103",
+      "currentUrl": "https://link.chtbl.com/Weaponized",
+      "ifPass": "https://link.chtbl.com/Weaponized",
+      "ifFail": "resolver_fallback_pending_live_results"
+    },
+    {
+      "entityId": "2026-weaponized-episode-103",
+      "currentUrl": "https://www.weaponizedpodcast.com/episodes-4/episode-103",
+      "ifPass": "https://weaponizedpodcast.com/episodes-4/episode-103",
+      "ifFail": "resolver_fallback_pending_live_results"
+    },
+    {
+      "entityId": "2026-weaponized-episode-104",
+      "currentUrl": "https://link.chtbl.com/Weaponized",
+      "ifPass": "https://link.chtbl.com/Weaponized",
+      "ifFail": "resolver_fallback_pending_live_results"
+    },
+    {
+      "entityId": "2026-weaponized-episode-104",
+      "currentUrl": "https://www.weaponizedpodcast.com/episodes-4/episode-104",
+      "ifPass": "https://weaponizedpodcast.com/episodes-4/episode-104",
+      "ifFail": "resolver_fallback_pending_live_results"
+    },
+    {
+      "entityId": "2026-weaponized-episode-105",
+      "currentUrl": "https://link.chtbl.com/Weaponized",
+      "ifPass": "https://link.chtbl.com/Weaponized",
+      "ifFail": "resolver_fallback_pending_live_results"
+    },
+    {
+      "entityId": "2026-weaponized-episode-105",
+      "currentUrl": "https://www.weaponizedpodcast.com/episodes-4/episode-105",
+      "ifPass": "https://weaponizedpodcast.com/episodes-4/episode-105",
+      "ifFail": "resolver_fallback_pending_live_results"
+    },
+    {
+      "entityId": "2026-weaponized-episode-106",
+      "currentUrl": "https://link.chtbl.com/Weaponized",
+      "ifPass": "https://link.chtbl.com/Weaponized",
+      "ifFail": "resolver_fallback_pending_live_results"
+    },
+    {
+      "entityId": "2026-weaponized-episode-106",
+      "currentUrl": "https://www.weaponizedpodcast.com/episodes-4/episode-106",
+      "ifPass": "https://weaponizedpodcast.com/episodes-4/episode-106",
+      "ifFail": "resolver_fallback_pending_live_results"
+    },
+    {
+      "entityId": "2026-weaponized-episode-107",
+      "currentUrl": "https://link.chtbl.com/Weaponized",
+      "ifPass": "https://link.chtbl.com/Weaponized",
+      "ifFail": "resolver_fallback_pending_live_results"
+    },
+    {
+      "entityId": "2026-weaponized-episode-107",
+      "currentUrl": "https://www.weaponizedpodcast.com/episodes-4/episode-107",
+      "ifPass": "https://weaponizedpodcast.com/episodes-4/episode-107",
+      "ifFail": "resolver_fallback_pending_live_results"
+    },
+    {
+      "entityId": "2026-weaponized-episode-108",
+      "currentUrl": "https://link.chtbl.com/Weaponized",
+      "ifPass": "https://link.chtbl.com/Weaponized",
+      "ifFail": "resolver_fallback_pending_live_results"
+    },
+    {
+      "entityId": "2026-weaponized-episode-108",
+      "currentUrl": "https://www.weaponizedpodcast.com/episodes-4/episode-108",
+      "ifPass": "https://weaponizedpodcast.com/episodes-4/episode-108",
+      "ifFail": "resolver_fallback_pending_live_results"
+    },
+    {
+      "entityId": "2026-weaponized-episode-109",
+      "currentUrl": "https://link.chtbl.com/Weaponized",
+      "ifPass": "https://link.chtbl.com/Weaponized",
+      "ifFail": "resolver_fallback_pending_live_results"
+    },
+    {
+      "entityId": "2026-weaponized-episode-109",
+      "currentUrl": "https://www.weaponizedpodcast.com/episodes-4/episode-109",
+      "ifPass": "https://weaponizedpodcast.com/episodes-4/episode-109",
+      "ifFail": "resolver_fallback_pending_live_results"
+    },
+    {
+      "entityId": "2026-weaponized-episode-110",
+      "currentUrl": "https://link.chtbl.com/Weaponized",
+      "ifPass": "https://link.chtbl.com/Weaponized",
+      "ifFail": "resolver_fallback_pending_live_results"
+    },
+    {
+      "entityId": "2026-weaponized-episode-110",
+      "currentUrl": "https://www.weaponizedpodcast.com/episodes-4/episode-110",
+      "ifPass": "https://weaponizedpodcast.com/episodes-4/episode-110",
+      "ifFail": "resolver_fallback_pending_live_results"
+    },
+    {
+      "entityId": "2026-weaponized-episode-111",
+      "currentUrl": "https://link.chtbl.com/Weaponized",
+      "ifPass": "https://link.chtbl.com/Weaponized",
+      "ifFail": "resolver_fallback_pending_live_results"
+    },
+    {
+      "entityId": "2026-weaponized-episode-111",
+      "currentUrl": "https://www.weaponizedpodcast.com/episodes-4/episode-111",
+      "ifPass": "https://weaponizedpodcast.com/episodes-4/episode-111",
+      "ifFail": "resolver_fallback_pending_live_results"
+    },
+    {
+      "entityId": "2026-weaponized-episode-112",
+      "currentUrl": "https://link.chtbl.com/Weaponized",
+      "ifPass": "https://link.chtbl.com/Weaponized",
+      "ifFail": "resolver_fallback_pending_live_results"
+    },
+    {
+      "entityId": "2026-weaponized-episode-112",
+      "currentUrl": "https://www.weaponizedpodcast.com/episodes-4/episode-112",
+      "ifPass": "https://weaponizedpodcast.com/episodes-4/episode-112",
+      "ifFail": "resolver_fallback_pending_live_results"
+    },
+    {
+      "entityId": "2026-weaponized-episode-113",
+      "currentUrl": "https://link.chtbl.com/Weaponized",
+      "ifPass": "https://link.chtbl.com/Weaponized",
+      "ifFail": "resolver_fallback_pending_live_results"
+    },
+    {
+      "entityId": "2026-weaponized-episode-113",
+      "currentUrl": "https://www.weaponizedpodcast.com/episodes-4/episode-113",
+      "ifPass": "https://weaponizedpodcast.com/episodes-4/episode-113",
+      "ifFail": "resolver_fallback_pending_live_results"
+    },
+    {
+      "entityId": "2026-weaponized-episode-114",
+      "currentUrl": "https://link.chtbl.com/Weaponized",
+      "ifPass": "https://link.chtbl.com/Weaponized",
+      "ifFail": "resolver_fallback_pending_live_results"
+    },
+    {
+      "entityId": "2026-weaponized-episode-114",
+      "currentUrl": "https://www.weaponizedpodcast.com/episodes-4/episode-114",
+      "ifPass": "https://weaponizedpodcast.com/episodes-4/episode-114",
+      "ifFail": "resolver_fallback_pending_live_results"
+    },
+    {
+      "entityId": "2026-weaponized-episode-115",
+      "currentUrl": "https://www.weaponizedpodcast.com/episodes-4/episode-115",
+      "ifPass": "https://weaponizedpodcast.com/episodes-4/episode-115",
+      "ifFail": "resolver_fallback_pending_live_results"
+    },
+    {
+      "entityId": "2026-weaponized-episode-115",
+      "currentUrl": "https://www.youtube.com/watch?v=HcQnbRasYxI",
+      "ifPass": "https://youtube.com/watch?v=HcQnbRasYxI",
+      "ifFail": "resolver_fallback_pending_live_results"
+    },
+    {
+      "entityId": "2026-weaponized-episode-116",
+      "currentUrl": "https://link.chtbl.com/Weaponized",
+      "ifPass": "https://link.chtbl.com/Weaponized",
+      "ifFail": "resolver_fallback_pending_live_results"
+    },
+    {
+      "entityId": "2026-weaponized-episode-116",
+      "currentUrl": "https://www.weaponizedpodcast.com/episodes-4/episode-116",
+      "ifPass": "https://weaponizedpodcast.com/episodes-4/episode-116",
+      "ifFail": "resolver_fallback_pending_live_results"
+    },
+    {
+      "entityId": "2026-weaponized-episode-117",
+      "currentUrl": "https://link.chtbl.com/Weaponized",
+      "ifPass": "https://link.chtbl.com/Weaponized",
+      "ifFail": "resolver_fallback_pending_live_results"
+    },
+    {
+      "entityId": "2026-weaponized-episode-117",
+      "currentUrl": "https://www.weaponizedpodcast.com/episodes-4/episode-117",
+      "ifPass": "https://weaponizedpodcast.com/episodes-4/episode-117",
+      "ifFail": "resolver_fallback_pending_live_results"
+    },
+    {
+      "entityId": "2026-weaponized-episode-118",
+      "currentUrl": "https://link.chtbl.com/Weaponized",
+      "ifPass": "https://link.chtbl.com/Weaponized",
+      "ifFail": "resolver_fallback_pending_live_results"
+    },
+    {
+      "entityId": "2026-weaponized-episode-118",
+      "currentUrl": "https://www.weaponizedpodcast.com/episodes-4/episode-118",
+      "ifPass": "https://weaponizedpodcast.com/episodes-4/episode-118",
+      "ifFail": "resolver_fallback_pending_live_results"
+    },
+    {
+      "entityId": "2026-weaponized-episode-119",
+      "currentUrl": "https://link.chtbl.com/Weaponized",
+      "ifPass": "https://link.chtbl.com/Weaponized",
+      "ifFail": "resolver_fallback_pending_live_results"
+    },
+    {
+      "entityId": "2026-weaponized-episode-119",
+      "currentUrl": "https://www.weaponizedpodcast.com/episodes-4/episode-119",
+      "ifPass": "https://weaponizedpodcast.com/episodes-4/episode-119",
+      "ifFail": "resolver_fallback_pending_live_results"
+    },
+    {
+      "entityId": "2026-weaponized-episode-120",
+      "currentUrl": "https://link.chtbl.com/Weaponized",
+      "ifPass": "https://link.chtbl.com/Weaponized",
+      "ifFail": "resolver_fallback_pending_live_results"
+    },
+    {
+      "entityId": "2026-weaponized-episode-120",
+      "currentUrl": "https://www.weaponizedpodcast.com/episodes-4/episode-120",
+      "ifPass": "https://weaponizedpodcast.com/episodes-4/episode-120",
+      "ifFail": "resolver_fallback_pending_live_results"
+    },
+    {
+      "entityId": "merged-podcast",
+      "currentUrl": "https://www.mergedpodcast.com/",
+      "ifPass": "https://mergedpodcast.com",
+      "ifFail": "resolver_fallback_pending_live_results"
+    },
+    {
+      "entityId": "merged-podcast",
+      "currentUrl": "https://open.spotify.com/show/4HjG2YLiHjEJ5rLs39sGfQ",
+      "ifPass": "https://open.spotify.com/show/4HjG2YLiHjEJ5rLs39sGfQ",
+      "ifFail": "resolver_fallback_pending_live_results"
+    },
+    {
+      "entityId": "merged-podcast",
+      "currentUrl": "https://podcasts.apple.com/us/podcast/merged/id1655450953",
+      "ifPass": "https://podcasts.apple.com/us/podcast/merged/id1655450953",
+      "ifFail": "resolver_fallback_pending_live_results"
+    },
+    {
+      "entityId": "merged-podcast",
+      "currentUrl": "https://www.youtube.com/@merged_podcast",
+      "ifPass": "https://youtube.com/@merged_podcast",
+      "ifFail": "resolver_fallback_pending_live_results"
+    },
+    {
+      "entityId": "need-to-know-podcast",
+      "currentUrl": "https://open.spotify.com/show/24xucCwPjcXENqwUgtKZaY",
+      "ifPass": "https://open.spotify.com/show/24xucCwPjcXENqwUgtKZaY",
+      "ifFail": "resolver_fallback_pending_live_results"
+    },
+    {
+      "entityId": "need-to-know-podcast",
+      "currentUrl": "https://podcasts.apple.com/us/podcast/need-to-know/id1600409359",
+      "ifPass": "https://podcasts.apple.com/us/podcast/need-to-know/id1600409359",
+      "ifFail": "resolver_fallback_pending_live_results"
+    },
+    {
+      "entityId": "need-to-know-podcast",
+      "currentUrl": "https://www.youtube.com/channel/UCgslF1kPo4Kmv4Xrg8EyYmQ",
+      "ifPass": "https://youtube.com/channel/UCgslF1kPo4Kmv4Xrg8EyYmQ",
+      "ifFail": "resolver_fallback_pending_live_results"
+    },
+    {
+      "entityId": "need-to-know-podcast",
+      "currentUrl": "https://www.youtube.com/playlist?list=PLXdU8QbJkboeMcvUNyGpb9h6FUS9cVBti",
+      "ifPass": "https://youtube.com/playlist?list=PLXdU8QbJkboeMcvUNyGpb9h6FUS9cVBti",
+      "ifFail": "resolver_fallback_pending_live_results"
+    },
+    {
+      "entityId": "somewhere-in-the-skies-podcast",
+      "currentUrl": "https://open.spotify.com/show/1g0MSTxiHo4KvtrUxhr6II",
+      "ifPass": "https://open.spotify.com/show/1g0MSTxiHo4KvtrUxhr6II",
+      "ifFail": "resolver_fallback_pending_live_results"
+    },
+    {
+      "entityId": "somewhere-in-the-skies-podcast",
+      "currentUrl": "https://podcasts.apple.com/us/podcast/somewhere-in-the-skies/id1227858637",
+      "ifPass": "https://podcasts.apple.com/us/podcast/somewhere-in-the-skies/id1227858637",
+      "ifFail": "resolver_fallback_pending_live_results"
+    },
+    {
+      "entityId": "somewhere-in-the-skies-podcast",
+      "currentUrl": "https://somewhereintheskies.com/",
+      "ifPass": "https://somewhereintheskies.com",
+      "ifFail": "resolver_fallback_pending_live_results"
+    },
+    {
+      "entityId": "somewhere-in-the-skies-podcast",
+      "currentUrl": "https://www.youtube.com/channel/UCYH8m4zyehr0rN3feBZ4mCA",
+      "ifPass": "https://youtube.com/channel/UCYH8m4zyehr0rN3feBZ4mCA",
+      "ifFail": "resolver_fallback_pending_live_results"
+    },
+    {
+      "entityId": "weaponized-matthew-brown-part-1",
+      "currentUrl": "https://www.weaponizedpodcast.com/",
+      "ifPass": "https://weaponizedpodcast.com",
+      "ifFail": "resolver_fallback_pending_live_results"
+    },
+    {
+      "entityId": "weaponized-matthew-brown-part-1",
+      "currentUrl": "https://www.weaponizedpodcast.com/episodes-3/episode-74",
+      "ifPass": "https://weaponizedpodcast.com/episodes-3/episode-74",
+      "ifFail": "resolver_fallback_pending_live_results"
+    },
+    {
+      "entityId": "weaponized-matthew-brown-part-1",
+      "currentUrl": "https://www.youtube.com/watch?v=ZAxI-LDrDqA",
+      "ifPass": "https://youtube.com/watch?v=ZAxI-LDrDqA",
+      "ifFail": "resolver_fallback_pending_live_results"
+    },
+    {
+      "entityId": "weaponized-matthew-brown-part-2",
+      "currentUrl": "https://www.weaponizedpodcast.com/episodes-3/episode-75",
+      "ifPass": "https://weaponizedpodcast.com/episodes-3/episode-75",
+      "ifFail": "resolver_fallback_pending_live_results"
+    },
+    {
+      "entityId": "weaponized-matthew-brown-part-2",
+      "currentUrl": "https://www.youtube.com/watch?v=4n_bRtnIP14",
+      "ifPass": "https://youtube.com/watch?v=4n_bRtnIP14",
+      "ifFail": "resolver_fallback_pending_live_results"
+    },
+    {
+      "entityId": "weaponized-matthew-brown-part-3",
+      "currentUrl": "https://www.weaponizedpodcast.com/episodes-3/episode-76",
+      "ifPass": "https://weaponizedpodcast.com/episodes-3/episode-76",
+      "ifFail": "resolver_fallback_pending_live_results"
+    },
+    {
+      "entityId": "weaponized-matthew-brown-part-3",
+      "currentUrl": "https://www.youtube.com/watch?v=PtBVAxoHeaY",
+      "ifPass": "https://youtube.com/watch?v=PtBVAxoHeaY",
+      "ifFail": "resolver_fallback_pending_live_results"
+    },
+    {
+      "entityId": "weaponized-podcast",
+      "currentUrl": "https://open.spotify.com/show/1FRpoWQkWtwHdOgwho3iZG",
+      "ifPass": "https://open.spotify.com/show/1FRpoWQkWtwHdOgwho3iZG",
+      "ifFail": "resolver_fallback_pending_live_results"
+    },
+    {
+      "entityId": "weaponized-podcast",
+      "currentUrl": "https://podcasts.apple.com/us/podcast/weaponized-with-jeremy-corbell-george-knapp/id1664299388",
+      "ifPass": "https://podcasts.apple.com/us/podcast/weaponized-with-jeremy-corbell-george-knapp/id1664299388",
+      "ifFail": "resolver_fallback_pending_live_results"
+    },
+    {
+      "entityId": "weaponized-podcast",
+      "currentUrl": "https://www.weaponizedpodcast.com/",
+      "ifPass": "https://weaponizedpodcast.com",
+      "ifFail": "resolver_fallback_pending_live_results"
+    },
+    {
+      "entityId": "weaponized-podcast",
+      "currentUrl": "https://www.youtube.com/@JeremyCorbell",
+      "ifPass": "https://youtube.com/@JeremyCorbell",
+      "ifFail": "resolver_fallback_pending_live_results"
+    }
+  ]
+}

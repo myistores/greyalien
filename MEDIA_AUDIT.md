@@ -17,3 +17,7 @@ The controlled migration inventoried 958 legacy URL occurrences and created 491 
 
 ## V23.5A official-media validation
 Canonical URL comparison now covers tracking parameters, trailing slashes, HTTP/HTTPS normalization, YouTube mobile/short URLs, and preserves episode-identifying parameters.
+
+## V23.5C.1 offline audit-engine preparation
+
+The universal podcast media audit is prepared under `data/media-audit/v23.5c.1/`. It covers WEAPONIZED, Need to Know, MERGED, and Somewhere in the Skies. The generated dataset contains 1,449 media occurrences and 491 unique validation jobs. Live HTTP status, redirects, soft-404 detection, and episode-identity confirmation remain explicitly `not_run` pending V23.5C.2.

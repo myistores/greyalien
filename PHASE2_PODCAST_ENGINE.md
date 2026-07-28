@@ -33,3 +33,7 @@ The command copies the entity, rebuilds the universal graph and podcast assets, 
 
 ## V23.5A media collection extension
 The podcast engine supports an optional `officialMedia` collection plus runtime adapters for `mediaLinks`, `officialLinks`, and `referenceSources`. Existing records require no migration.
+
+## Universal media-audit engine
+
+V23.5C.1 adds deterministic inventory, URL normalization, validation-job generation, identity expectations, external result import, repair proposals, and rollback reporting. Offline preparation never promotes a destination to live-verified status.

@@ -1,0 +1,215 @@
+{
+  "version": "1.0",
+  "fixtures": [
+    {
+      "fixtureId": "fixture-01",
+      "name": "valid_direct_youtube",
+      "mode": "offline",
+      "expectedLiveStatus": "not_run",
+      "expectedOutcome": "supported"
+    },
+    {
+      "fixtureId": "fixture-02",
+      "name": "equivalent_youtube_formats",
+      "mode": "offline",
+      "expectedLiveStatus": "not_run",
+      "expectedOutcome": "supported"
+    },
+    {
+      "fixtureId": "fixture-03",
+      "name": "youtube_playlist_misclassified",
+      "mode": "offline",
+      "expectedLiveStatus": "not_run",
+      "expectedOutcome": "supported"
+    },
+    {
+      "fixtureId": "fixture-04",
+      "name": "youtube_channel_misclassified",
+      "mode": "offline",
+      "expectedLiveStatus": "not_run",
+      "expectedOutcome": "supported"
+    },
+    {
+      "fixtureId": "fixture-05",
+      "name": "apple_episode",
+      "mode": "offline",
+      "expectedLiveStatus": "not_run",
+      "expectedOutcome": "supported"
+    },
+    {
+      "fixtureId": "fixture-06",
+      "name": "apple_series",
+      "mode": "offline",
+      "expectedLiveStatus": "not_run",
+      "expectedOutcome": "supported"
+    },
+    {
+      "fixtureId": "fixture-07",
+      "name": "spotify_episode",
+      "mode": "offline",
+      "expectedLiveStatus": "not_run",
+      "expectedOutcome": "supported"
+    },
+    {
+      "fixtureId": "fixture-08",
+      "name": "spotify_show",
+      "mode": "offline",
+      "expectedLiveStatus": "not_run",
+      "expectedOutcome": "supported"
+    },
+    {
+      "fixtureId": "fixture-09",
+      "name": "hosted_episode",
+      "mode": "offline",
+      "expectedLiveStatus": "not_run",
+      "expectedOutcome": "supported"
+    },
+    {
+      "fixtureId": "fixture-10",
+      "name": "hosted_redirect_series",
+      "mode": "offline",
+      "expectedLiveStatus": "not_run",
+      "expectedOutcome": "supported"
+    },
+    {
+      "fixtureId": "fixture-11",
+      "name": "rss_feed",
+      "mode": "offline",
+      "expectedLiveStatus": "not_run",
+      "expectedOutcome": "supported"
+    },
+    {
+      "fixtureId": "fixture-12",
+      "name": "duplicate_legacy_migrated",
+      "mode": "offline",
+      "expectedLiveStatus": "not_run",
+      "expectedOutcome": "supported"
+    },
+    {
+      "fixtureId": "fixture-13",
+      "name": "tracking_normalization",
+      "mode": "offline",
+      "expectedLiveStatus": "not_run",
+      "expectedOutcome": "supported"
+    },
+    {
+      "fixtureId": "fixture-14",
+      "name": "episode_parameter_preservation",
+      "mode": "offline",
+      "expectedLiveStatus": "not_run",
+      "expectedOutcome": "supported"
+    },
+    {
+      "fixtureId": "fixture-15",
+      "name": "need_to_know_13_regression",
+      "mode": "offline",
+      "expectedLiveStatus": "not_run",
+      "expectedOutcome": "supported"
+    },
+    {
+      "fixtureId": "fixture-16",
+      "name": "need_to_know_14_regression",
+      "mode": "offline",
+      "expectedLiveStatus": "not_run",
+      "expectedOutcome": "supported"
+    },
+    {
+      "fixtureId": "fixture-17",
+      "name": "off_by_one_result",
+      "mode": "offline",
+      "expectedLiveStatus": null,
+      "expectedOutcome": "supported"
+    },
+    {
+      "fixtureId": "fixture-18",
+      "name": "private_youtube_result",
+      "mode": "offline",
+      "expectedLiveStatus": null,
+      "expectedOutcome": "supported"
+    },
+    {
+      "fixtureId": "fixture-19",
+      "name": "soft_404_200",
+      "mode": "offline",
+      "expectedLiveStatus": null,
+      "expectedOutcome": "supported"
+    },
+    {
+      "fixtureId": "fixture-20",
+      "name": "redirect_loop",
+      "mode": "offline",
+      "expectedLiveStatus": null,
+      "expectedOutcome": "supported"
+    },
+    {
+      "fixtureId": "fixture-21",
+      "name": "dns_failure",
+      "mode": "offline",
+      "expectedLiveStatus": null,
+      "expectedOutcome": "supported"
+    },
+    {
+      "fixtureId": "fixture-22",
+      "name": "network_unavailable",
+      "mode": "offline",
+      "expectedLiveStatus": null,
+      "expectedOutcome": "supported"
+    },
+    {
+      "fixtureId": "fixture-23",
+      "name": "human_review",
+      "mode": "offline",
+      "expectedLiveStatus": null,
+      "expectedOutcome": "supported"
+    },
+    {
+      "fixtureId": "fixture-24",
+      "name": "retired_domain",
+      "mode": "offline",
+      "expectedLiveStatus": null,
+      "expectedOutcome": "supported"
+    },
+    {
+      "fixtureId": "fixture-25",
+      "name": "verified_fallback",
+      "mode": "offline",
+      "expectedLiveStatus": null,
+      "expectedOutcome": "supported"
+    },
+    {
+      "fixtureId": "fixture-26",
+      "name": "no_usable_destination",
+      "mode": "offline",
+      "expectedLiveStatus": null,
+      "expectedOutcome": "supported"
+    },
+    {
+      "fixtureId": "fixture-27",
+      "name": "stale_result_import",
+      "mode": "offline",
+      "expectedLiveStatus": null,
+      "expectedOutcome": "supported"
+    },
+    {
+      "fixtureId": "fixture-28",
+      "name": "unknown_job_import",
+      "mode": "offline",
+      "expectedLiveStatus": null,
+      "expectedOutcome": "supported"
+    },
+    {
+      "fixtureId": "fixture-29",
+      "name": "transactional_rollback",
+      "mode": "offline",
+      "expectedLiveStatus": null,
+      "expectedOutcome": "supported"
+    },
+    {
+      "fixtureId": "fixture-30",
+      "name": "false_live_success_prevention",
+      "mode": "offline",
+      "expectedLiveStatus": "not_run",
+      "expectedOutcome": "reject_false_success"
+    }
+  ]
+}

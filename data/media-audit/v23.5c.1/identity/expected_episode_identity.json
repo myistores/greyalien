@@ -1,0 +1,4423 @@
+{
+  "records": [
+    {
+      "jobId": "media-audit-21a820461110a43c",
+      "seriesId": "somewhere-in-the-skies-podcast",
+      "entityId": "2017-somewhere-in-the-skies-bonus-episode-movie-review-edition-the-last-jedi",
+      "episodeNumber": null,
+      "episodeTitle": "Somewhere in the Skies Special — BONUS EPISODE: Movie Review Edition: The Last Jedi",
+      "publicationDate": "2017-12-21",
+      "expectedGuests": [],
+      "neighbors": {
+        "previous": {
+          "number": null,
+          "title": "Somewhere in the Skies Special — BONUS EPISODE - Movie Review Edition: Justice League"
+        },
+        "next": null
+      },
+      "expectedPodcast": "Somewhere in the Skies"
+    },
+    {
+      "jobId": "media-audit-8f66302789ade064",
+      "seriesId": "somewhere-in-the-skies-podcast",
+      "entityId": "2017-somewhere-in-the-skies-episode-15",
+      "episodeNumber": 15,
+      "episodeTitle": "Somewhere in the Skies Episode #15 — David Jenkins: People of Earth",
+      "publicationDate": "2017-07-24",
+      "expectedGuests": [],
+      "neighbors": {
+        "previous": {
+          "number": 14,
+          "title": "Somewhere in the Skies Episode #14 — Jeremy Corbell: UFOs as a Clockwork Orange"
+        },
+        "next": {
+          "number": 16,
+          "title": "Somewhere in the Skies Episode #16 — Sammy Waisanen: The Howl Horror Program and Fire in the Sky"
+        }
+      },
+      "expectedPodcast": "Somewhere in the Skies"
+    },
+    {
+      "jobId": "media-audit-54c0cd7c1598f4fd",
+      "seriesId": "somewhere-in-the-skies-podcast",
+      "entityId": "2017-somewhere-in-the-skies-episode-2",
+      "episodeNumber": 2,
+      "episodeTitle": "Somewhere in the Skies Episode #2 — Micah Hanks: Building a Better UFOlogy | Truth, Myths & the Future of UAP Research",
+      "publicationDate": "2017-04-24",
+      "expectedGuests": [],
+      "neighbors": {
+        "previous": {
+          "number": 1,
+          "title": "Somewhere in the Skies Episode #1 — Richard Dolan: Media Bias in UFO Coverage"
+        },
+        "next": {
+          "number": 3,
+          "title": "Somewhere in the Skies Episode #3 — Greg Eghigian: History of a Cultural Phenomenon"
+        }
+      },
+      "expectedPodcast": "Somewhere in the Skies"
+    },
+    {
+      "jobId": "media-audit-71bb2031e303817d",
+      "seriesId": "somewhere-in-the-skies-podcast",
+      "entityId": "2017-somewhere-in-the-skies-episode-35",
+      "episodeNumber": 35,
+      "episodeTitle": "Somewhere in the Skies Episode #35 — Paul Cornell: Saucer Country",
+      "publicationDate": "2017-12-11",
+      "expectedGuests": [],
+      "neighbors": {
+        "previous": {
+          "number": 34,
+          "title": "Somewhere in the Skies Episode #34 — Witness Accounts: Volume One"
+        },
+        "next": {
+          "number": 36,
+          "title": "Somewhere in the Skies Episode #36 — UFO Roundtable: The Year In Review"
+        }
+      },
+      "expectedPodcast": "Somewhere in the Skies"
+    },
+    {
+      "jobId": "media-audit-466156975452b0c7",
+      "seriesId": "somewhere-in-the-skies-podcast",
+      "entityId": "2017-somewhere-in-the-skies-episode-4",
+      "episodeNumber": 4,
+      "episodeTitle": "Somewhere in the Skies Episode #4 — Annie Jacobsen: Phenomena",
+      "publicationDate": "2017-05-08",
+      "expectedGuests": [],
+      "neighbors": {
+        "previous": {
+          "number": 3,
+          "title": "Somewhere in the Skies Episode #3 — Greg Eghigian: History of a Cultural Phenomenon"
+        },
+        "next": {
+          "number": 5,
+          "title": "Somewhere in the Skies Episode #5 — Ruben Uriarte: UFOs Over Mexico and the Southwest"
+        }
+      },
+      "expectedPodcast": "Somewhere in the Skies"
+    },
+    {
+      "jobId": "media-audit-6115188471153bbe",
+      "seriesId": "somewhere-in-the-skies-podcast",
+      "entityId": "2017-somewhere-in-the-skies-episode-7",
+      "episodeNumber": 7,
+      "episodeTitle": "Somewhere in the Skies Episode #7 — Nick Redfern: The Roswell UFO Conspiracy",
+      "publicationDate": "2017-05-29",
+      "expectedGuests": [],
+      "neighbors": {
+        "previous": {
+          "number": 6,
+          "title": "Somewhere in the Skies Episode #6 — Susan Demeter-St. Clair : UFOs and the Parapsychological"
+        },
+        "next": {
+          "number": 8,
+          "title": "Somewhere in the Skies Episode #8 — Jane Kyle: UFOs Over Texas"
+        }
+      },
+      "expectedPodcast": "Somewhere in the Skies"
+    },
+    {
+      "jobId": "media-audit-ed8ef91edd3209de",
+      "seriesId": "need-to-know-podcast",
+      "entityId": "2021-need-to-know-episode-1",
+      "episodeNumber": 1,
+      "episodeTitle": "Need to Know Episode #1 — 2021 Top Ten",
+      "publicationDate": "2021-12-16",
+      "expectedGuests": [],
+      "neighbors": {
+        "previous": null,
+        "next": {
+          "number": 2,
+          "title": "Need to Know Episode #2 — The Year Ahead"
+        }
+      },
+      "expectedPodcast": "Need to Know"
+    },
+    {
+      "jobId": "media-audit-6d54cae81e86ff87",
+      "seriesId": "need-to-know-podcast",
+      "entityId": "2021-need-to-know-episode-2",
+      "episodeNumber": 2,
+      "episodeTitle": "Need to Know Episode #2 — The Year Ahead",
+      "publicationDate": "2021-12-16",
+      "expectedGuests": [],
+      "neighbors": {
+        "previous": {
+          "number": 1,
+          "title": "Need to Know Episode #1 — 2021 Top Ten"
+        },
+        "next": {
+          "number": 3,
+          "title": "Need to Know Episode #3 — Bipartisan Support for UAP Research"
+        }
+      },
+      "expectedPodcast": "Need to Know"
+    },
+    {
+      "jobId": "media-audit-d2abb5d36783f6c1",
+      "seriesId": "need-to-know-podcast",
+      "entityId": "2021-need-to-know-episode-3",
+      "episodeNumber": 3,
+      "episodeTitle": "Need to Know Episode #3 — Bipartisan Support for UAP Research",
+      "publicationDate": "2021-12-27",
+      "expectedGuests": [],
+      "neighbors": {
+        "previous": {
+          "number": 2,
+          "title": "Need to Know Episode #2 — The Year Ahead"
+        },
+        "next": {
+          "number": 4,
+          "title": "Need to Know Episode #4 — Media Coverage of Harry Reid’s Death"
+        }
+      },
+      "expectedPodcast": "Need to Know"
+    },
+    {
+      "jobId": "media-audit-cd17cbcc30569849",
+      "seriesId": "need-to-know-podcast",
+      "entityId": "2022-need-to-know-episode-10",
+      "episodeNumber": 10,
+      "episodeTitle": "Need to Know Episode #10 — Do No Harm",
+      "publicationDate": "2022-04-01",
+      "expectedGuests": [],
+      "neighbors": {
+        "previous": {
+          "number": 9,
+          "title": "Need to Know Episode #9 — Classic UFO Investigators"
+        },
+        "next": {
+          "number": 11,
+          "title": "Need to Know Episode #11 — UFOs and Rock Stars"
+        }
+      },
+      "expectedPodcast": "Need to Know"
+    },
+    {
+      "jobId": "media-audit-8e7a8173e2a9c49a",
+      "seriesId": "need-to-know-podcast",
+      "entityId": "2022-need-to-know-episode-11",
+      "episodeNumber": 11,
+      "episodeTitle": "Need to Know Episode #11 — UFOs and Rock Stars",
+      "publicationDate": "2022-04-14",
+      "expectedGuests": [],
+      "neighbors": {
+        "previous": {
+          "number": 10,
+          "title": "Need to Know Episode #10 — Do No Harm"
+        },
+        "next": {
+          "number": 12,
+          "title": "Need to Know Episode #12 — Congressional UFO Hearings"
+        }
+      },
+      "expectedPodcast": "Need to Know"
+    },
+    {
+      "jobId": "media-audit-3a111d0961a8d53e",
+      "seriesId": "need-to-know-podcast",
+      "entityId": "2022-need-to-know-episode-12",
+      "episodeNumber": 12,
+      "episodeTitle": "Need to Know Episode #12 — Congressional UFO Hearings",
+      "publicationDate": "2022-04-29",
+      "expectedGuests": [],
+      "neighbors": {
+        "previous": {
+          "number": 11,
+          "title": "Need to Know Episode #11 — UFOs and Rock Stars"
+        },
+        "next": {
+          "number": 13,
+          "title": "Need to Know Episode #13 — Bryce’s Rant"
+        }
+      },
+      "expectedPodcast": "Need to Know"
+    },
+    {
+      "jobId": "media-audit-4286fbc3c6ce2282",
+      "seriesId": "need-to-know-podcast",
+      "entityId": "2022-need-to-know-episode-13",
+      "episodeNumber": 13,
+      "episodeTitle": "Need to Know Episode #13 — Bryce’s Rant",
+      "publicationDate": "2022-04-28",
+      "expectedGuests": [],
+      "neighbors": {
+        "previous": {
+          "number": 12,
+          "title": "Need to Know Episode #12 — Congressional UFO Hearings"
+        },
+        "next": {
+          "number": 14,
+          "title": "Need to Know Episode #14 — Elizondo on UAP Hearing"
+        }
+      },
+      "expectedPodcast": "Need to Know"
+    },
+    {
+      "jobId": "media-audit-1bc96c676c8b7b31",
+      "seriesId": "need-to-know-podcast",
+      "entityId": "2022-need-to-know-episode-14",
+      "episodeNumber": 14,
+      "episodeTitle": "Need to Know Episode #14 — Elizondo on UAP Hearing",
+      "publicationDate": "2022-05-17",
+      "expectedGuests": [],
+      "neighbors": {
+        "previous": {
+          "number": 13,
+          "title": "Need to Know Episode #13 — Bryce’s Rant"
+        },
+        "next": {
+          "number": 15,
+          "title": "Need to Know Episode #15 — Estimate of the Situation"
+        }
+      },
+      "expectedPodcast": "Need to Know"
+    },
+    {
+      "jobId": "media-audit-5630b764fa50a188",
+      "seriesId": "need-to-know-podcast",
+      "entityId": "2022-need-to-know-episode-15",
+      "episodeNumber": 15,
+      "episodeTitle": "Need to Know Episode #15 — Estimate of the Situation",
+      "publicationDate": "2022-06-05",
+      "expectedGuests": [],
+      "neighbors": {
+        "previous": {
+          "number": 14,
+          "title": "Need to Know Episode #14 — Elizondo on UAP Hearing"
+        },
+        "next": {
+          "number": 16,
+          "title": "Need to Know Episode #16 — Summer of the Saucers"
+        }
+      },
+      "expectedPodcast": "Need to Know"
+    },
+    {
+      "jobId": "media-audit-ce21ab0c335fb201",
+      "seriesId": "need-to-know-podcast",
+      "entityId": "2022-need-to-know-episode-16",
+      "episodeNumber": 16,
+      "episodeTitle": "Need to Know Episode #16 — Summer of the Saucers",
+      "publicationDate": "2022-06-21",
+      "expectedGuests": [],
+      "neighbors": {
+        "previous": {
+          "number": 15,
+          "title": "Need to Know Episode #15 — Estimate of the Situation"
+        },
+        "next": {
+          "number": 17,
+          "title": "Need to Know Episode #17 — Beyond Nimitz"
+        }
+      },
+      "expectedPodcast": "Need to Know"
+    },
+    {
+      "jobId": "media-audit-18a183c75aa3bb86",
+      "seriesId": "need-to-know-podcast",
+      "entityId": "2022-need-to-know-episode-17",
+      "episodeNumber": 17,
+      "episodeTitle": "Need to Know Episode #17 — Beyond Nimitz",
+      "publicationDate": "2022-07-14",
+      "expectedGuests": [],
+      "neighbors": {
+        "previous": {
+          "number": 16,
+          "title": "Need to Know Episode #16 — Summer of the Saucers"
+        },
+        "next": {
+          "number": 18,
+          "title": "Need to Know Episode #18 — Real Change Ahead?"
+        }
+      },
+      "expectedPodcast": "Need to Know"
+    },
+    {
+      "jobId": "media-audit-c6901d77315f5463",
+      "seriesId": "need-to-know-podcast",
+      "entityId": "2022-need-to-know-episode-18",
+      "episodeNumber": 18,
+      "episodeTitle": "Need to Know Episode #18 — Real Change Ahead?",
+      "publicationDate": "2022-08-05",
+      "expectedGuests": [],
+      "neighbors": {
+        "previous": {
+          "number": 17,
+          "title": "Need to Know Episode #17 — Beyond Nimitz"
+        },
+        "next": {
+          "number": 19,
+          "title": "Need to Know Episode #19 — Virtual Beers"
+        }
+      },
+      "expectedPodcast": "Need to Know"
+    },
+    {
+      "jobId": "media-audit-347091fbca871a02",
+      "seriesId": "need-to-know-podcast",
+      "entityId": "2022-need-to-know-episode-19",
+      "episodeNumber": 19,
+      "episodeTitle": "Need to Know Episode #19 — Virtual Beers",
+      "publicationDate": "2022-08-15",
+      "expectedGuests": [],
+      "neighbors": {
+        "previous": {
+          "number": 18,
+          "title": "Need to Know Episode #18 — Real Change Ahead?"
+        },
+        "next": {
+          "number": 20,
+          "title": "Need to Know Episode #20 — 7NEWS Spotlight Special Edition"
+        }
+      },
+      "expectedPodcast": "Need to Know"
+    },
+    {
+      "jobId": "media-audit-d92eed7fe6a67553",
+      "seriesId": "need-to-know-podcast",
+      "entityId": "2022-need-to-know-episode-20",
+      "episodeNumber": 20,
+      "episodeTitle": "Need to Know Episode #20 — 7NEWS Spotlight Special Edition",
+      "publicationDate": "2022-08-25",
+      "expectedGuests": [],
+      "neighbors": {
+        "previous": {
+          "number": 19,
+          "title": "Need to Know Episode #19 — Virtual Beers"
+        },
+        "next": {
+          "number": 21,
+          "title": "Need to Know Episode #21 — UFOlogy Must Die?"
+        }
+      },
+      "expectedPodcast": "Need to Know"
+    },
+    {
+      "jobId": "media-audit-a4d478d507eb5e94",
+      "seriesId": "need-to-know-podcast",
+      "entityId": "2022-need-to-know-episode-21",
+      "episodeNumber": 21,
+      "episodeTitle": "Need to Know Episode #21 — UFOlogy Must Die?",
+      "publicationDate": "2022-09-14",
+      "expectedGuests": [],
+      "neighbors": {
+        "previous": {
+          "number": 20,
+          "title": "Need to Know Episode #20 — 7NEWS Spotlight Special Edition"
+        },
+        "next": {
+          "number": 22,
+          "title": "Need to Know Episode #22 — Witness to a UFO — In the Middle of Battle in Ukraine"
+        }
+      },
+      "expectedPodcast": "Need to Know"
+    },
+    {
+      "jobId": "media-audit-1d21ce2afe44022a",
+      "seriesId": "need-to-know-podcast",
+      "entityId": "2022-need-to-know-episode-22",
+      "episodeNumber": 22,
+      "episodeTitle": "Need to Know Episode #22 — Witness to a UFO — In the Middle of Battle in Ukraine",
+      "publicationDate": "2022-10-06",
+      "expectedGuests": [],
+      "neighbors": {
+        "previous": {
+          "number": 21,
+          "title": "Need to Know Episode #21 — UFOlogy Must Die?"
+        },
+        "next": {
+          "number": 23,
+          "title": "Need to Know Episode #23 — Core Secret"
+        }
+      },
+      "expectedPodcast": "Need to Know"
+    },
+    {
+      "jobId": "media-audit-dca602e6050962bb",
+      "seriesId": "need-to-know-podcast",
+      "entityId": "2022-need-to-know-episode-23",
+      "episodeNumber": 23,
+      "episodeTitle": "Need to Know Episode #23 — Core Secret",
+      "publicationDate": "2022-10-21",
+      "expectedGuests": [],
+      "neighbors": {
+        "previous": {
+          "number": 22,
+          "title": "Need to Know Episode #22 — Witness to a UFO — In the Middle of Battle in Ukraine"
+        },
+        "next": {
+          "number": 24,
+          "title": "Need to Know Episode #24 — Late UAP Report!"
+        }
+      },
+      "expectedPodcast": "Need to Know"
+    },
+    {
+      "jobId": "media-audit-baa9f2fbd609e893",
+      "seriesId": "need-to-know-podcast",
+      "entityId": "2022-need-to-know-episode-24",
+      "episodeNumber": 24,
+      "episodeTitle": "Need to Know Episode #24 — Late UAP Report!",
+      "publicationDate": "2022-11-01",
+      "expectedGuests": [],
+      "neighbors": {
+        "previous": {
+          "number": 23,
+          "title": "Need to Know Episode #23 — Core Secret"
+        },
+        "next": {
+          "number": 25,
+          "title": "Need to Know Episode #25 — The NY Times' Five Year UFO Anniversary"
+        }
+      },
+      "expectedPodcast": "Need to Know"
+    },
+    {
+      "jobId": "media-audit-6de3f1fee96b1a33",
+      "seriesId": "need-to-know-podcast",
+      "entityId": "2022-need-to-know-episode-25",
+      "episodeNumber": 25,
+      "episodeTitle": "Need to Know Episode #25 — The NY Times' Five Year UFO Anniversary",
+      "publicationDate": "2022-11-29",
+      "expectedGuests": [],
+      "neighbors": {
+        "previous": {
+          "number": 24,
+          "title": "Need to Know Episode #24 — Late UAP Report!"
+        },
+        "next": {
+          "number": 26,
+          "title": "Need to Know Episode #26 — The NDAA Is Law!"
+        }
+      },
+      "expectedPodcast": "Need to Know"
+    },
+    {
+      "jobId": "media-audit-7533c71659e23602",
+      "seriesId": "need-to-know-podcast",
+      "entityId": "2022-need-to-know-episode-4",
+      "episodeNumber": 4,
+      "episodeTitle": "Need to Know Episode #4 — Media Coverage of Harry Reid’s Death",
+      "publicationDate": "2022-01-04",
+      "expectedGuests": [],
+      "neighbors": {
+        "previous": {
+          "number": 3,
+          "title": "Need to Know Episode #3 — Bipartisan Support for UAP Research"
+        },
+        "next": {
+          "number": 5,
+          "title": "Need to Know Episode #5 — Roswell and Beyond"
+        }
+      },
+      "expectedPodcast": "Need to Know"
+    },
+    {
+      "jobId": "media-audit-be5bccf4645d0467",
+      "seriesId": "need-to-know-podcast",
+      "entityId": "2022-need-to-know-episode-5",
+      "episodeNumber": 5,
+      "episodeTitle": "Need to Know Episode #5 — Roswell and Beyond",
+      "publicationDate": "2022-01-20",
+      "expectedGuests": [],
+      "neighbors": {
+        "previous": {
+          "number": 4,
+          "title": "Need to Know Episode #4 — Media Coverage of Harry Reid’s Death"
+        },
+        "next": {
+          "number": 6,
+          "title": "Need to Know Episode #6 — Take Me to Your Leader"
+        }
+      },
+      "expectedPodcast": "Need to Know"
+    },
+    {
+      "jobId": "media-audit-58ddaa6e52d386c1",
+      "seriesId": "need-to-know-podcast",
+      "entityId": "2022-need-to-know-episode-6",
+      "episodeNumber": 6,
+      "episodeTitle": "Need to Know Episode #6 — Take Me to Your Leader",
+      "publicationDate": "2022-02-03",
+      "expectedGuests": [],
+      "neighbors": {
+        "previous": {
+          "number": 5,
+          "title": "Need to Know Episode #5 — Roswell and Beyond"
+        },
+        "next": {
+          "number": 7,
+          "title": "Need to Know Episode #7 — Air Force Versus Navy"
+        }
+      },
+      "expectedPodcast": "Need to Know"
+    },
+    {
+      "jobId": "media-audit-25835822390e4b12",
+      "seriesId": "need-to-know-podcast",
+      "entityId": "2022-need-to-know-episode-7",
+      "episodeNumber": 7,
+      "episodeTitle": "Need to Know Episode #7 — Air Force Versus Navy",
+      "publicationDate": "2022-02-17",
+      "expectedGuests": [],
+      "neighbors": {
+        "previous": {
+          "number": 6,
+          "title": "Need to Know Episode #6 — Take Me to Your Leader"
+        },
+        "next": {
+          "number": 8,
+          "title": "Need to Know Episode #8 — In Plain Sight"
+        }
+      },
+      "expectedPodcast": "Need to Know"
+    },
+    {
+      "jobId": "media-audit-d846e7cc459e9231",
+      "seriesId": "need-to-know-podcast",
+      "entityId": "2022-need-to-know-episode-8",
+      "episodeNumber": 8,
+      "episodeTitle": "Need to Know Episode #8 — In Plain Sight",
+      "publicationDate": "2022-03-03",
+      "expectedGuests": [],
+      "neighbors": {
+        "previous": {
+          "number": 7,
+          "title": "Need to Know Episode #7 — Air Force Versus Navy"
+        },
+        "next": {
+          "number": 9,
+          "title": "Need to Know Episode #9 — Classic UFO Investigators"
+        }
+      },
+      "expectedPodcast": "Need to Know"
+    },
+    {
+      "jobId": "media-audit-a794852f05260b02",
+      "seriesId": "need-to-know-podcast",
+      "entityId": "2022-need-to-know-episode-9",
+      "episodeNumber": 9,
+      "episodeTitle": "Need to Know Episode #9 — Classic UFO Investigators",
+      "publicationDate": "2022-03-18",
+      "expectedGuests": [],
+      "neighbors": {
+        "previous": {
+          "number": 8,
+          "title": "Need to Know Episode #8 — In Plain Sight"
+        },
+        "next": {
+          "number": 10,
+          "title": "Need to Know Episode #10 — Do No Harm"
+        }
+      },
+      "expectedPodcast": "Need to Know"
+    },
+    {
+      "jobId": "media-audit-1a0109eb9e119b48",
+      "seriesId": "merged-podcast",
+      "entityId": "2023-merged-episode-1",
+      "episodeNumber": 1,
+      "episodeTitle": "MERGED Episode #1 — Interview with Dr. Garry Nolan",
+      "publicationDate": "2023-01-10",
+      "expectedGuests": [],
+      "neighbors": {
+        "previous": null,
+        "next": {
+          "number": 2,
+          "title": "MERGED Episode #2 — Pilot’s Shocking UAP Sightings & What This Means For Aviation"
+        }
+      },
+      "expectedPodcast": "MERGED"
+    },
+    {
+      "jobId": "media-audit-852b4107a82a28cd",
+      "seriesId": "merged-podcast",
+      "entityId": "2023-merged-episode-1",
+      "episodeNumber": 1,
+      "episodeTitle": "MERGED Episode #1 — Interview with Dr. Garry Nolan",
+      "publicationDate": "2023-01-10",
+      "expectedGuests": [],
+      "neighbors": {
+        "previous": null,
+        "next": {
+          "number": 2,
+          "title": "MERGED Episode #2 — Pilot’s Shocking UAP Sightings & What This Means For Aviation"
+        }
+      },
+      "expectedPodcast": "MERGED"
+    },
+    {
+      "jobId": "media-audit-1772035a6788b367",
+      "seriesId": "merged-podcast",
+      "entityId": "2023-merged-episode-10",
+      "episodeNumber": 10,
+      "episodeTitle": "MERGED Episode #10 — Looking to the Sky for Extraordinary Evidence of UAP",
+      "publicationDate": "2023-06-21",
+      "expectedGuests": [],
+      "neighbors": {
+        "previous": {
+          "number": 9,
+          "title": "MERGED Episode #9 — Through the Great Filter: A Spacetime Search for UAP"
+        },
+        "next": {
+          "number": 11,
+          "title": "MERGED Episode #11 — Beyond the Stigma: A UAP Call to Action"
+        }
+      },
+      "expectedPodcast": "MERGED"
+    },
+    {
+      "jobId": "media-audit-f4e301f1425b6341",
+      "seriesId": "merged-podcast",
+      "entityId": "2023-merged-episode-11",
+      "episodeNumber": 11,
+      "episodeTitle": "MERGED Episode #11 — Beyond the Stigma: A UAP Call to Action",
+      "publicationDate": "2023-07-07",
+      "expectedGuests": [],
+      "neighbors": {
+        "previous": {
+          "number": 10,
+          "title": "MERGED Episode #10 — Looking to the Sky for Extraordinary Evidence of UAP"
+        },
+        "next": {
+          "number": 12,
+          "title": "MERGED Episode #12 — A New Era of Aviation Safety"
+        }
+      },
+      "expectedPodcast": "MERGED"
+    },
+    {
+      "jobId": "media-audit-db7e0c5ac0e4fae8",
+      "seriesId": "merged-podcast",
+      "entityId": "2023-merged-episode-12",
+      "episodeNumber": 12,
+      "episodeTitle": "MERGED Episode #12 — A New Era of Aviation Safety",
+      "publicationDate": "2023-07-19",
+      "expectedGuests": [],
+      "neighbors": {
+        "previous": {
+          "number": 11,
+          "title": "MERGED Episode #11 — Beyond the Stigma: A UAP Call to Action"
+        },
+        "next": {
+          "number": 13,
+          "title": "MERGED Episode #13 — An Open-Minded Scientific Approach to UAP"
+        }
+      },
+      "expectedPodcast": "MERGED"
+    },
+    {
+      "jobId": "media-audit-555d4fe210436bc3",
+      "seriesId": "merged-podcast",
+      "entityId": "2023-merged-episode-13",
+      "episodeNumber": 13,
+      "episodeTitle": "MERGED Episode #13 — An Open-Minded Scientific Approach to UAP",
+      "publicationDate": "2023-08-15",
+      "expectedGuests": [],
+      "neighbors": {
+        "previous": {
+          "number": 12,
+          "title": "MERGED Episode #12 — A New Era of Aviation Safety"
+        },
+        "next": {
+          "number": 14,
+          "title": "MERGED Episode #14 — Pilots & Witnesses: Systematic UAP Reporting for Pilots"
+        }
+      },
+      "expectedPodcast": "MERGED"
+    },
+    {
+      "jobId": "media-audit-7d5cdcef264b54e7",
+      "seriesId": "merged-podcast",
+      "entityId": "2023-merged-episode-14",
+      "episodeNumber": 14,
+      "episodeTitle": "MERGED Episode #14 — Pilots & Witnesses: Systematic UAP Reporting for Pilots",
+      "publicationDate": "2023-08-31",
+      "expectedGuests": [],
+      "neighbors": {
+        "previous": {
+          "number": 13,
+          "title": "MERGED Episode #13 — An Open-Minded Scientific Approach to UAP"
+        },
+        "next": {
+          "number": 15,
+          "title": "MERGED Episode #15 — The Sounds of the Sky: The Galileo Project’s Search for UAP"
+        }
+      },
+      "expectedPodcast": "MERGED"
+    },
+    {
+      "jobId": "media-audit-6755ad51232759f0",
+      "seriesId": "merged-podcast",
+      "entityId": "2023-merged-episode-15",
+      "episodeNumber": 15,
+      "episodeTitle": "MERGED Episode #15 — The Sounds of the Sky: The Galileo Project’s Search for UAP",
+      "publicationDate": "2023-09-14",
+      "expectedGuests": [],
+      "neighbors": {
+        "previous": {
+          "number": 14,
+          "title": "MERGED Episode #14 — Pilots & Witnesses: Systematic UAP Reporting for Pilots"
+        },
+        "next": {
+          "number": 16,
+          "title": "MERGED Episode #16 — Navigating the Deep: Searching for Undersea UAP"
+        }
+      },
+      "expectedPodcast": "MERGED"
+    },
+    {
+      "jobId": "media-audit-2d2cf44dc543c488",
+      "seriesId": "merged-podcast",
+      "entityId": "2023-merged-episode-2",
+      "episodeNumber": 2,
+      "episodeTitle": "MERGED Episode #2 — Pilot’s Shocking UAP Sightings & What This Means For Aviation",
+      "publicationDate": "2023-01-31",
+      "expectedGuests": [],
+      "neighbors": {
+        "previous": {
+          "number": 1,
+          "title": "MERGED Episode #1 — Interview with Dr. Garry Nolan"
+        },
+        "next": {
+          "number": 3,
+          "title": "MERGED Episode #3 — Unbreakable Resilience: How I Survived a Supersonic Jet Crash"
+        }
+      },
+      "expectedPodcast": "MERGED"
+    },
+    {
+      "jobId": "media-audit-96e279007c39cfa1",
+      "seriesId": "merged-podcast",
+      "entityId": "2023-merged-episode-4",
+      "episodeNumber": 4,
+      "episodeTitle": "MERGED Episode #4 — Pilot Breaks the Silence on UAP Encounters",
+      "publicationDate": "2023-02-14",
+      "expectedGuests": [],
+      "neighbors": {
+        "previous": {
+          "number": 3,
+          "title": "MERGED Episode #3 — Unbreakable Resilience: How I Survived a Supersonic Jet Crash"
+        },
+        "next": {
+          "number": 5,
+          "title": "MERGED Episode #5 — Decoding UAP Sightings: Insights from a 747 Pilot"
+        }
+      },
+      "expectedPodcast": "MERGED"
+    },
+    {
+      "jobId": "media-audit-0eb062a3d847f954",
+      "seriesId": "merged-podcast",
+      "entityId": "2023-merged-episode-5",
+      "episodeNumber": 5,
+      "episodeTitle": "MERGED Episode #5 — Decoding UAP Sightings: Insights from a 747 Pilot",
+      "publicationDate": "2023-02-28",
+      "expectedGuests": [],
+      "neighbors": {
+        "previous": {
+          "number": 4,
+          "title": "MERGED Episode #4 — Pilot Breaks the Silence on UAP Encounters"
+        },
+        "next": {
+          "number": 6,
+          "title": "MERGED Episode #6 — Researching UAP in the Galileo Project"
+        }
+      },
+      "expectedPodcast": "MERGED"
+    },
+    {
+      "jobId": "media-audit-bd72d5eaa4f3a028",
+      "seriesId": "merged-podcast",
+      "entityId": "2023-merged-episode-6",
+      "episodeNumber": 6,
+      "episodeTitle": "MERGED Episode #6 — Researching UAP in the Galileo Project",
+      "publicationDate": "2023-03-10",
+      "expectedGuests": [],
+      "neighbors": {
+        "previous": {
+          "number": 5,
+          "title": "MERGED Episode #5 — Decoding UAP Sightings: Insights from a 747 Pilot"
+        },
+        "next": {
+          "number": 7,
+          "title": "MERGED Episode #7 — Exploring Theories of UAP, Consciousness, and Physics"
+        }
+      },
+      "expectedPodcast": "MERGED"
+    },
+    {
+      "jobId": "media-audit-1c8378a2556d87fb",
+      "seriesId": "merged-podcast",
+      "entityId": "2023-merged-episode-8",
+      "episodeNumber": 8,
+      "episodeTitle": "MERGED Episode #8 — Where the Search for Dark Matter and UAP Meet",
+      "publicationDate": "2023-06-03",
+      "expectedGuests": [],
+      "neighbors": {
+        "previous": {
+          "number": 7,
+          "title": "MERGED Episode #7 — Exploring Theories of UAP, Consciousness, and Physics"
+        },
+        "next": {
+          "number": 9,
+          "title": "MERGED Episode #9 — Through the Great Filter: A Spacetime Search for UAP"
+        }
+      },
+      "expectedPodcast": "MERGED"
+    },
+    {
+      "jobId": "media-audit-ce1d4124bf537cce",
+      "seriesId": "need-to-know-podcast",
+      "entityId": "2023-need-to-know-episode-26",
+      "episodeNumber": 26,
+      "episodeTitle": "Need to Know Episode #26 — The NDAA Is Law!",
+      "publicationDate": "2023-01-06",
+      "expectedGuests": [],
+      "neighbors": {
+        "previous": {
+          "number": 25,
+          "title": "Need to Know Episode #25 — The NY Times' Five Year UFO Anniversary"
+        },
+        "next": {
+          "number": 27,
+          "title": "Need to Know Episode #27 — The Report Is Out!"
+        }
+      },
+      "expectedPodcast": "Need to Know"
+    },
+    {
+      "jobId": "media-audit-acd340976d6847fa",
+      "seriesId": "need-to-know-podcast",
+      "entityId": "2023-need-to-know-episode-27",
+      "episodeNumber": 27,
+      "episodeTitle": "Need to Know Episode #27 — The Report Is Out!",
+      "publicationDate": "2023-01-13",
+      "expectedGuests": [],
+      "neighbors": {
+        "previous": {
+          "number": 26,
+          "title": "Need to Know Episode #26 — The NDAA Is Law!"
+        },
+        "next": {
+          "number": 28,
+          "title": "Need to Know Episode #28 — Chinese Balloon Misdirect"
+        }
+      },
+      "expectedPodcast": "Need to Know"
+    },
+    {
+      "jobId": "media-audit-ced2557311c35671",
+      "seriesId": "need-to-know-podcast",
+      "entityId": "2023-need-to-know-episode-28",
+      "episodeNumber": 28,
+      "episodeTitle": "Need to Know Episode #28 — Chinese Balloon Misdirect",
+      "publicationDate": "2023-02-10",
+      "expectedGuests": [],
+      "neighbors": {
+        "previous": {
+          "number": 27,
+          "title": "Need to Know Episode #27 — The Report Is Out!"
+        },
+        "next": {
+          "number": 29,
+          "title": "Need to Know Episode #29 — 99 Chinese Balloons?"
+        }
+      },
+      "expectedPodcast": "Need to Know"
+    },
+    {
+      "jobId": "media-audit-08e00f2ffada8655",
+      "seriesId": "need-to-know-podcast",
+      "entityId": "2023-need-to-know-episode-29",
+      "episodeNumber": 29,
+      "episodeTitle": "Need to Know Episode #29 — 99 Chinese Balloons?",
+      "publicationDate": "2023-02-16",
+      "expectedGuests": [],
+      "neighbors": {
+        "previous": {
+          "number": 28,
+          "title": "Need to Know Episode #28 — Chinese Balloon Misdirect"
+        },
+        "next": {
+          "number": 30,
+          "title": "Need to Know Episode #30 — UAP: The Ides of March"
+        }
+      },
+      "expectedPodcast": "Need to Know"
+    },
+    {
+      "jobId": "media-audit-fbb79038de8b92f8",
+      "seriesId": "need-to-know-podcast",
+      "entityId": "2023-need-to-know-episode-30",
+      "episodeNumber": 30,
+      "episodeTitle": "Need to Know Episode #30 — UAP: The Ides of March",
+      "publicationDate": "2023-03-16",
+      "expectedGuests": [],
+      "neighbors": {
+        "previous": {
+          "number": 29,
+          "title": "Need to Know Episode #29 — 99 Chinese Balloons?"
+        },
+        "next": {
+          "number": 31,
+          "title": "Need to Know Episode #31 — Would You Like Some Danish with Your UFO?"
+        }
+      },
+      "expectedPodcast": "Need to Know"
+    },
+    {
+      "jobId": "media-audit-f9e142bfdfd47b0e",
+      "seriesId": "need-to-know-podcast",
+      "entityId": "2023-need-to-know-episode-31",
+      "episodeNumber": 31,
+      "episodeTitle": "Need to Know Episode #31 — Would You Like Some Danish with Your UFO?",
+      "publicationDate": "2023-04-02",
+      "expectedGuests": [],
+      "neighbors": {
+        "previous": {
+          "number": 30,
+          "title": "Need to Know Episode #30 — UAP: The Ides of March"
+        },
+        "next": {
+          "number": 32,
+          "title": "Need to Know Episode #32 — UFO Hearing Preview"
+        }
+      },
+      "expectedPodcast": "Need to Know"
+    },
+    {
+      "jobId": "media-audit-ed36cee251aba335",
+      "seriesId": "need-to-know-podcast",
+      "entityId": "2023-need-to-know-episode-32",
+      "episodeNumber": 32,
+      "episodeTitle": "Need to Know Episode #32 — UFO Hearing Preview",
+      "publicationDate": "2023-04-15",
+      "expectedGuests": [],
+      "neighbors": {
+        "previous": {
+          "number": 31,
+          "title": "Need to Know Episode #31 — Would You Like Some Danish with Your UFO?"
+        },
+        "next": {
+          "number": 33,
+          "title": "Need to Know Episode #33 — UFO/UAP Hearings, Leaks & Briefings"
+        }
+      },
+      "expectedPodcast": "Need to Know"
+    },
+    {
+      "jobId": "media-audit-e20136bcf7ecdae6",
+      "seriesId": "need-to-know-podcast",
+      "entityId": "2023-need-to-know-episode-33",
+      "episodeNumber": 33,
+      "episodeTitle": "Need to Know Episode #33 — UFO/UAP Hearings, Leaks & Briefings",
+      "publicationDate": "2023-04-26",
+      "expectedGuests": [],
+      "neighbors": {
+        "previous": {
+          "number": 32,
+          "title": "Need to Know Episode #32 — UFO Hearing Preview"
+        },
+        "next": {
+          "number": 34,
+          "title": "Need to Know Episode #34 — (20) 23 & Me"
+        }
+      },
+      "expectedPodcast": "Need to Know"
+    },
+    {
+      "jobId": "media-audit-407417ecdaf3d405",
+      "seriesId": "need-to-know-podcast",
+      "entityId": "2023-need-to-know-episode-34",
+      "episodeNumber": 34,
+      "episodeTitle": "Need to Know Episode #34 — (20) 23 & Me",
+      "publicationDate": "2023-05-25",
+      "expectedGuests": [],
+      "neighbors": {
+        "previous": {
+          "number": 33,
+          "title": "Need to Know Episode #33 — UFO/UAP Hearings, Leaks & Briefings"
+        },
+        "next": {
+          "number": 35,
+          "title": "Need to Know Episode #35 — The Tipping Point Is Here"
+        }
+      },
+      "expectedPodcast": "Need to Know"
+    },
+    {
+      "jobId": "media-audit-78dbd2ecd5c6cf11",
+      "seriesId": "need-to-know-podcast",
+      "entityId": "2023-need-to-know-episode-35",
+      "episodeNumber": 35,
+      "episodeTitle": "Need to Know Episode #35 — The Tipping Point Is Here",
+      "publicationDate": "2023-06-05",
+      "expectedGuests": [],
+      "neighbors": {
+        "previous": {
+          "number": 34,
+          "title": "Need to Know Episode #34 — (20) 23 & Me"
+        },
+        "next": {
+          "number": 36,
+          "title": "Need to Know Episode #36 — Whistleblower Dave Grusch (with NewsNation Promo Clips)"
+        }
+      },
+      "expectedPodcast": "Need to Know"
+    },
+    {
+      "jobId": "media-audit-b9381d08e9296590",
+      "seriesId": "need-to-know-podcast",
+      "entityId": "2023-need-to-know-episode-36",
+      "episodeNumber": 36,
+      "episodeTitle": "Need to Know Episode #36 — Whistleblower Dave Grusch (with NewsNation Promo Clips)",
+      "publicationDate": "2023-06-07",
+      "expectedGuests": [],
+      "neighbors": {
+        "previous": {
+          "number": 35,
+          "title": "Need to Know Episode #35 — The Tipping Point Is Here"
+        },
+        "next": {
+          "number": 37,
+          "title": "Need to Know Episode #37 — NewsNation's Whistleblower Special"
+        }
+      },
+      "expectedPodcast": "Need to Know"
+    },
+    {
+      "jobId": "media-audit-9351546928d8a0f8",
+      "seriesId": "need-to-know-podcast",
+      "entityId": "2023-need-to-know-episode-37",
+      "episodeNumber": 37,
+      "episodeTitle": "Need to Know Episode #37 — NewsNation's Whistleblower Special",
+      "publicationDate": "2023-06-12",
+      "expectedGuests": [],
+      "neighbors": {
+        "previous": {
+          "number": 36,
+          "title": "Need to Know Episode #36 — Whistleblower Dave Grusch (with NewsNation Promo Clips)"
+        },
+        "next": {
+          "number": 38,
+          "title": "Need to Know Episode #38 — David Grusch: He's Still Here"
+        }
+      },
+      "expectedPodcast": "Need to Know"
+    },
+    {
+      "jobId": "media-audit-f5d737d12f8f50e0",
+      "seriesId": "need-to-know-podcast",
+      "entityId": "2023-need-to-know-episode-38",
+      "episodeNumber": 38,
+      "episodeTitle": "Need to Know Episode #38 — David Grusch: He's Still Here",
+      "publicationDate": "2023-06-24",
+      "expectedGuests": [],
+      "neighbors": {
+        "previous": {
+          "number": 37,
+          "title": "Need to Know Episode #37 — NewsNation's Whistleblower Special"
+        },
+        "next": {
+          "number": 39,
+          "title": "Need to Know Episode #39 — Is This Actually Happening Now?"
+        }
+      },
+      "expectedPodcast": "Need to Know"
+    },
+    {
+      "jobId": "media-audit-1582d8c2b9d1a9de",
+      "seriesId": "need-to-know-podcast",
+      "entityId": "2023-need-to-know-episode-39",
+      "episodeNumber": 39,
+      "episodeTitle": "Need to Know Episode #39 — Is This Actually Happening Now?",
+      "publicationDate": "2023-07-08",
+      "expectedGuests": [],
+      "neighbors": {
+        "previous": {
+          "number": 38,
+          "title": "Need to Know Episode #38 — David Grusch: He's Still Here"
+        },
+        "next": {
+          "number": 40,
+          "title": "Need to Know Episode #40 — Schumer Knows Something"
+        }
+      },
+      "expectedPodcast": "Need to Know"
+    },
+    {
+      "jobId": "media-audit-f8c9c4f01a56e72a",
+      "seriesId": "need-to-know-podcast",
+      "entityId": "2023-need-to-know-episode-40",
+      "episodeNumber": 40,
+      "episodeTitle": "Need to Know Episode #40 — Schumer Knows Something",
+      "publicationDate": "2023-07-17",
+      "expectedGuests": [],
+      "neighbors": {
+        "previous": {
+          "number": 39,
+          "title": "Need to Know Episode #39 — Is This Actually Happening Now?"
+        },
+        "next": {
+          "number": 41,
+          "title": "Need to Know Episode #41 — A Huge Step Forward"
+        }
+      },
+      "expectedPodcast": "Need to Know"
+    },
+    {
+      "jobId": "media-audit-39c92dec7a22b545",
+      "seriesId": "need-to-know-podcast",
+      "entityId": "2023-need-to-know-episode-41",
+      "episodeNumber": 41,
+      "episodeTitle": "Need to Know Episode #41 — A Huge Step Forward",
+      "publicationDate": "2023-07-27",
+      "expectedGuests": [],
+      "neighbors": {
+        "previous": {
+          "number": 40,
+          "title": "Need to Know Episode #40 — Schumer Knows Something"
+        },
+        "next": {
+          "number": 42,
+          "title": "Need to Know Episode #42 — UAP: What's Next?"
+        }
+      },
+      "expectedPodcast": "Need to Know"
+    },
+    {
+      "jobId": "media-audit-5f08ccb6af040a71",
+      "seriesId": "need-to-know-podcast",
+      "entityId": "2023-need-to-know-episode-42",
+      "episodeNumber": 42,
+      "episodeTitle": "Need to Know Episode #42 — UAP: What's Next?",
+      "publicationDate": "2023-08-05",
+      "expectedGuests": [],
+      "neighbors": {
+        "previous": {
+          "number": 41,
+          "title": "Need to Know Episode #41 — A Huge Step Forward"
+        },
+        "next": {
+          "number": 43,
+          "title": "Need to Know Episode #43 — UFO Pushback"
+        }
+      },
+      "expectedPodcast": "Need to Know"
+    },
+    {
+      "jobId": "media-audit-27aa22ce7c4ed2af",
+      "seriesId": "need-to-know-podcast",
+      "entityId": "2023-need-to-know-episode-43",
+      "episodeNumber": 43,
+      "episodeTitle": "Need to Know Episode #43 — UFO Pushback",
+      "publicationDate": "2023-08-26",
+      "expectedGuests": [],
+      "neighbors": {
+        "previous": {
+          "number": 42,
+          "title": "Need to Know Episode #42 — UAP: What's Next?"
+        },
+        "next": {
+          "number": 44,
+          "title": "Need to Know Episode #44 — UFO Word Games"
+        }
+      },
+      "expectedPodcast": "Need to Know"
+    },
+    {
+      "jobId": "media-audit-2d1f63e96d1cd713",
+      "seriesId": "need-to-know-podcast",
+      "entityId": "2023-need-to-know-episode-44",
+      "episodeNumber": 44,
+      "episodeTitle": "Need to Know Episode #44 — UFO Word Games",
+      "publicationDate": "2023-09-27",
+      "expectedGuests": [],
+      "neighbors": {
+        "previous": {
+          "number": 43,
+          "title": "Need to Know Episode #43 — UFO Pushback"
+        },
+        "next": {
+          "number": 45,
+          "title": "Need to Know Episode #45 — Same Old UFO Song"
+        }
+      },
+      "expectedPodcast": "Need to Know"
+    },
+    {
+      "jobId": "media-audit-c3ab7722829dd8cb",
+      "seriesId": "need-to-know-podcast",
+      "entityId": "2023-need-to-know-episode-45",
+      "episodeNumber": 45,
+      "episodeTitle": "Need to Know Episode #45 — Same Old UFO Song",
+      "publicationDate": "2023-10-24",
+      "expectedGuests": [],
+      "neighbors": {
+        "previous": {
+          "number": 44,
+          "title": "Need to Know Episode #44 — UFO Word Games"
+        },
+        "next": {
+          "number": 46,
+          "title": "Need to Know Episode #46 — JFK and UFOs?"
+        }
+      },
+      "expectedPodcast": "Need to Know"
+    },
+    {
+      "jobId": "media-audit-48a23d6416fb4d0a",
+      "seriesId": "need-to-know-podcast",
+      "entityId": "2023-need-to-know-episode-46",
+      "episodeNumber": 46,
+      "episodeTitle": "Need to Know Episode #46 — JFK and UFOs?",
+      "publicationDate": "2023-11-17",
+      "expectedGuests": [],
+      "neighbors": {
+        "previous": {
+          "number": 45,
+          "title": "Need to Know Episode #45 — Same Old UFO Song"
+        },
+        "next": {
+          "number": 47,
+          "title": "Need to Know Episode #47 — UFO Gatekeepers Strike Back"
+        }
+      },
+      "expectedPodcast": "Need to Know"
+    },
+    {
+      "jobId": "media-audit-695df5c3e489e943",
+      "seriesId": "need-to-know-podcast",
+      "entityId": "2023-need-to-know-episode-47",
+      "episodeNumber": 47,
+      "episodeTitle": "Need to Know Episode #47 — UFO Gatekeepers Strike Back",
+      "publicationDate": "2023-12-08",
+      "expectedGuests": [],
+      "neighbors": {
+        "previous": {
+          "number": 46,
+          "title": "Need to Know Episode #46 — JFK and UFOs?"
+        },
+        "next": {
+          "number": 48,
+          "title": "Need to Know Episode #48 — Is This the Year?"
+        }
+      },
+      "expectedPodcast": "Need to Know"
+    },
+    {
+      "jobId": "media-audit-0d3f9ddc3bb8aa2c",
+      "seriesId": "weaponized-podcast",
+      "entityId": "2023-weaponized-episode-1",
+      "episodeNumber": 1,
+      "episodeTitle": "WEAPONIZED Episode #1 — Launching WEAPONIZED — A New Consensus Reality",
+      "publicationDate": "2023-01-23",
+      "expectedGuests": [],
+      "neighbors": {
+        "previous": null,
+        "next": {
+          "number": 2,
+          "title": "WEAPONIZED Episode #2 — John “Guts” Gutierrez and the 2019 Navy UAP Swarms"
+        }
+      },
+      "expectedPodcast": "WEAPONIZED"
+    },
+    {
+      "jobId": "media-audit-0a65f05224ac30ab",
+      "seriesId": "weaponized-podcast",
+      "entityId": "2023-weaponized-episode-10",
+      "episodeNumber": 10,
+      "episodeTitle": "WEAPONIZED Episode #10 — Duncan Trussell — UFOs, AI, Spirituality, and Reality",
+      "publicationDate": "2023-03-27",
+      "expectedGuests": [],
+      "neighbors": {
+        "previous": {
+          "number": 9,
+          "title": "WEAPONIZED Episode #9 — Harry Reid’s AAWSAP Briefing and the Hidden History of AATIP"
+        },
+        "next": {
+          "number": 11,
+          "title": "WEAPONIZED Episode #11 — John Long — Hollywood, UFO Projects, and the Art of the Movie Trailer"
+        }
+      },
+      "expectedPodcast": "WEAPONIZED"
+    },
+    {
+      "jobId": "media-audit-f1efa88fc5f4b2fe",
+      "seriesId": "weaponized-podcast",
+      "entityId": "2023-weaponized-episode-11",
+      "episodeNumber": 11,
+      "episodeTitle": "WEAPONIZED Episode #11 — John Long — Hollywood, UFO Projects, and the Art of the Movie Trailer",
+      "publicationDate": "2023-04-03",
+      "expectedGuests": [],
+      "neighbors": {
+        "previous": {
+          "number": 10,
+          "title": "WEAPONIZED Episode #10 — Duncan Trussell — UFOs, AI, Spirituality, and Reality"
+        },
+        "next": {
+          "number": 12,
+          "title": "WEAPONIZED Episode #12 — Colm Kelleher Part Two — AAWSAP, the Hitchhiker Effect, and Crash Retrievals"
+        }
+      },
+      "expectedPodcast": "WEAPONIZED"
+    },
+    {
+      "jobId": "media-audit-774af7250f2f9c2b",
+      "seriesId": "weaponized-podcast",
+      "entityId": "2023-weaponized-episode-12",
+      "episodeNumber": 12,
+      "episodeTitle": "WEAPONIZED Episode #12 — Colm Kelleher Part Two — AAWSAP, the Hitchhiker Effect, and Crash Retrievals",
+      "publicationDate": "2023-04-10",
+      "expectedGuests": [],
+      "neighbors": {
+        "previous": {
+          "number": 11,
+          "title": "WEAPONIZED Episode #11 — John Long — Hollywood, UFO Projects, and the Art of the Movie Trailer"
+        },
+        "next": {
+          "number": 13,
+          "title": "WEAPONIZED Episode #13 — The Russian UFO Files — Military and Scientific Investigations"
+        }
+      },
+      "expectedPodcast": "WEAPONIZED"
+    },
+    {
+      "jobId": "media-audit-3110160d433217c8",
+      "seriesId": "weaponized-podcast",
+      "entityId": "2023-weaponized-episode-13",
+      "episodeNumber": 13,
+      "episodeTitle": "WEAPONIZED Episode #13 — The Russian UFO Files — Military and Scientific Investigations",
+      "publicationDate": "2023-04-17",
+      "expectedGuests": [],
+      "neighbors": {
+        "previous": {
+          "number": 12,
+          "title": "WEAPONIZED Episode #12 — Colm Kelleher Part Two — AAWSAP, the Hitchhiker Effect, and Crash Retrievals"
+        },
+        "next": {
+          "number": 14,
+          "title": "WEAPONIZED Episode #14 — AARO Testifies to the Senate — Sean Kirkpatrick and the Middle East UAP"
+        }
+      },
+      "expectedPodcast": "WEAPONIZED"
+    },
+    {
+      "jobId": "media-audit-51fdb7b448968bf2",
+      "seriesId": "weaponized-podcast",
+      "entityId": "2023-weaponized-episode-14",
+      "episodeNumber": 14,
+      "episodeTitle": "WEAPONIZED Episode #14 — AARO Testifies to the Senate — Sean Kirkpatrick and the Middle East UAP",
+      "publicationDate": "2023-04-24",
+      "expectedGuests": [],
+      "neighbors": {
+        "previous": {
+          "number": 13,
+          "title": "WEAPONIZED Episode #13 — The Russian UFO Files — Military and Scientific Investigations"
+        },
+        "next": {
+          "number": 15,
+          "title": "WEAPONIZED Episode #15 — Dave Foley — Comedy, UFO Curiosity, and a Southern California Encounter"
+        }
+      },
+      "expectedPodcast": "WEAPONIZED"
+    },
+    {
+      "jobId": "media-audit-ccb79ae8af8dc287",
+      "seriesId": "weaponized-podcast",
+      "entityId": "2023-weaponized-episode-15",
+      "episodeNumber": 15,
+      "episodeTitle": "WEAPONIZED Episode #15 — Dave Foley — Comedy, UFO Curiosity, and a Southern California Encounter",
+      "publicationDate": "2023-05-01",
+      "expectedGuests": [],
+      "neighbors": {
+        "previous": {
+          "number": 14,
+          "title": "WEAPONIZED Episode #14 — AARO Testifies to the Senate — Sean Kirkpatrick and the Middle East UAP"
+        },
+        "next": {
+          "number": 16,
+          "title": "WEAPONIZED Episode #16 — Secret Soviet UFO Science — Researchers Behind the Iron Curtain"
+        }
+      },
+      "expectedPodcast": "WEAPONIZED"
+    },
+    {
+      "jobId": "media-audit-8dc754430e1e7c69",
+      "seriesId": "weaponized-podcast",
+      "entityId": "2023-weaponized-episode-16",
+      "episodeNumber": 16,
+      "episodeTitle": "WEAPONIZED Episode #16 — Secret Soviet UFO Science — Researchers Behind the Iron Curtain",
+      "publicationDate": "2023-05-08",
+      "expectedGuests": [],
+      "neighbors": {
+        "previous": {
+          "number": 15,
+          "title": "WEAPONIZED Episode #15 — Dave Foley — Comedy, UFO Curiosity, and a Southern California Encounter"
+        },
+        "next": {
+          "number": 17,
+          "title": "WEAPONIZED Episode #17 — Robbie Williams — Music, Unusual Experiences, and Skinwalker Ranch"
+        }
+      },
+      "expectedPodcast": "WEAPONIZED"
+    },
+    {
+      "jobId": "media-audit-2af35875670f3c6d",
+      "seriesId": "weaponized-podcast",
+      "entityId": "2023-weaponized-episode-17",
+      "episodeNumber": 17,
+      "episodeTitle": "WEAPONIZED Episode #17 — Robbie Williams — Music, Unusual Experiences, and Skinwalker Ranch",
+      "publicationDate": "2023-05-15",
+      "expectedGuests": [],
+      "neighbors": {
+        "previous": {
+          "number": 16,
+          "title": "WEAPONIZED Episode #16 — Secret Soviet UFO Science — Researchers Behind the Iron Curtain"
+        },
+        "next": {
+          "number": 18,
+          "title": "WEAPONIZED Episode #18 — The Mojave Triangle UAP — Marine Witnesses at Twentynine Palms"
+        }
+      },
+      "expectedPodcast": "WEAPONIZED"
+    },
+    {
+      "jobId": "media-audit-a237f6ee5cc6753d",
+      "seriesId": "weaponized-podcast",
+      "entityId": "2023-weaponized-episode-18",
+      "episodeNumber": 18,
+      "episodeTitle": "WEAPONIZED Episode #18 — The Mojave Triangle UAP — Marine Witnesses at Twentynine Palms",
+      "publicationDate": "2023-05-22",
+      "expectedGuests": [],
+      "neighbors": {
+        "previous": {
+          "number": 17,
+          "title": "WEAPONIZED Episode #17 — Robbie Williams — Music, Unusual Experiences, and Skinwalker Ranch"
+        },
+        "next": {
+          "number": 19,
+          "title": "WEAPONIZED Episode #19 — The Mojave Triangle Investigation Continues — New Marine Testimony"
+        }
+      },
+      "expectedPodcast": "WEAPONIZED"
+    },
+    {
+      "jobId": "media-audit-711bee7f4b1a4a4b",
+      "seriesId": "weaponized-podcast",
+      "entityId": "2023-weaponized-episode-19",
+      "episodeNumber": 19,
+      "episodeTitle": "WEAPONIZED Episode #19 — The Mojave Triangle Investigation Continues — New Marine Testimony",
+      "publicationDate": "2023-05-29",
+      "expectedGuests": [],
+      "neighbors": {
+        "previous": {
+          "number": 18,
+          "title": "WEAPONIZED Episode #18 — The Mojave Triangle UAP — Marine Witnesses at Twentynine Palms"
+        },
+        "next": {
+          "number": 20,
+          "title": "WEAPONIZED Episode #20 — Ben Schneider and Lord Huron — Music, Myth, Ghosts, and Cosmic Questions"
+        }
+      },
+      "expectedPodcast": "WEAPONIZED"
+    },
+    {
+      "jobId": "media-audit-bdf754a28ba4e108",
+      "seriesId": "weaponized-podcast",
+      "entityId": "2023-weaponized-episode-2",
+      "episodeNumber": 2,
+      "episodeTitle": "WEAPONIZED Episode #2 — John “Guts” Gutierrez and the 2019 Navy UAP Swarms",
+      "publicationDate": "2023-01-30",
+      "expectedGuests": [],
+      "neighbors": {
+        "previous": {
+          "number": 1,
+          "title": "WEAPONIZED Episode #1 — Launching WEAPONIZED — A New Consensus Reality"
+        },
+        "next": {
+          "number": 3,
+          "title": "WEAPONIZED Episode #3 — Jay Stratton — AAWSAP, AATIP, and the UAP Task Force"
+        }
+      },
+      "expectedPodcast": "WEAPONIZED"
+    },
+    {
+      "jobId": "media-audit-af024c8fad378167",
+      "seriesId": "weaponized-podcast",
+      "entityId": "2023-weaponized-episode-20",
+      "episodeNumber": 20,
+      "episodeTitle": "WEAPONIZED Episode #20 — Ben Schneider and Lord Huron — Music, Myth, Ghosts, and Cosmic Questions",
+      "publicationDate": "2023-06-05",
+      "expectedGuests": [],
+      "neighbors": {
+        "previous": {
+          "number": 19,
+          "title": "WEAPONIZED Episode #19 — The Mojave Triangle Investigation Continues — New Marine Testimony"
+        },
+        "next": {
+          "number": 21,
+          "title": "WEAPONIZED Episode #21 — The David Grusch Revelations"
+        }
+      },
+      "expectedPodcast": "WEAPONIZED"
+    },
+    {
+      "jobId": "media-audit-0a466f97f25599dc",
+      "seriesId": "weaponized-podcast",
+      "entityId": "2023-weaponized-episode-21",
+      "episodeNumber": 21,
+      "episodeTitle": "WEAPONIZED Episode #21 — The David Grusch Revelations",
+      "publicationDate": "2023-06-12",
+      "expectedGuests": [],
+      "neighbors": {
+        "previous": {
+          "number": 20,
+          "title": "WEAPONIZED Episode #20 — Ben Schneider and Lord Huron — Music, Myth, Ghosts, and Cosmic Questions"
+        },
+        "next": {
+          "number": 22,
+          "title": "WEAPONIZED Episode #22 — Allied UAP Reverse-Engineering Programs and the Larry Maguire Letter"
+        }
+      },
+      "expectedPodcast": "WEAPONIZED"
+    },
+    {
+      "jobId": "media-audit-2d948d9fe466f169",
+      "seriesId": "weaponized-podcast",
+      "entityId": "2023-weaponized-episode-22",
+      "episodeNumber": 22,
+      "episodeTitle": "WEAPONIZED Episode #22 — Allied UAP Reverse-Engineering Programs and the Larry Maguire Letter",
+      "publicationDate": "2023-06-19",
+      "expectedGuests": [],
+      "neighbors": {
+        "previous": {
+          "number": 21,
+          "title": "WEAPONIZED Episode #21 — The David Grusch Revelations"
+        },
+        "next": {
+          "number": 23,
+          "title": "WEAPONIZED Episode #23 — Whitley Strieber — Communion, The Visitors, and Readiness for Disclosure"
+        }
+      },
+      "expectedPodcast": "WEAPONIZED"
+    },
+    {
+      "jobId": "media-audit-5ad841696009627e",
+      "seriesId": "weaponized-podcast",
+      "entityId": "2023-weaponized-episode-23",
+      "episodeNumber": 23,
+      "episodeTitle": "WEAPONIZED Episode #23 — Whitley Strieber — Communion, The Visitors, and Readiness for Disclosure",
+      "publicationDate": "2023-06-26",
+      "expectedGuests": [],
+      "neighbors": {
+        "previous": {
+          "number": 22,
+          "title": "WEAPONIZED Episode #22 — Allied UAP Reverse-Engineering Programs and the Larry Maguire Letter"
+        },
+        "next": {
+          "number": 24,
+          "title": "WEAPONIZED Episode #24 — Congressional Momentum, Canadian Transparency, and Barriers to UAP Disclosure"
+        }
+      },
+      "expectedPodcast": "WEAPONIZED"
+    },
+    {
+      "jobId": "media-audit-d78aee37f87ec21d",
+      "seriesId": "weaponized-podcast",
+      "entityId": "2023-weaponized-episode-24",
+      "episodeNumber": 24,
+      "episodeTitle": "WEAPONIZED Episode #24 — Congressional Momentum, Canadian Transparency, and Barriers to UAP Disclosure",
+      "publicationDate": "2023-07-03",
+      "expectedGuests": [],
+      "neighbors": {
+        "previous": {
+          "number": 23,
+          "title": "WEAPONIZED Episode #23 — Whitley Strieber — Communion, The Visitors, and Readiness for Disclosure"
+        },
+        "next": {
+          "number": 25,
+          "title": "WEAPONIZED Episode #25 — Tim Burchett, Congressional UFO Hearings, and the Coming House Testimony"
+        }
+      },
+      "expectedPodcast": "WEAPONIZED"
+    },
+    {
+      "jobId": "media-audit-3ddc066a3997194c",
+      "seriesId": "weaponized-podcast",
+      "entityId": "2023-weaponized-episode-25",
+      "episodeNumber": 25,
+      "episodeTitle": "WEAPONIZED Episode #25 — Tim Burchett, Congressional UFO Hearings, and the Coming House Testimony",
+      "publicationDate": "2023-07-10",
+      "expectedGuests": [],
+      "neighbors": {
+        "previous": {
+          "number": 24,
+          "title": "WEAPONIZED Episode #24 — Congressional Momentum, Canadian Transparency, and Barriers to UAP Disclosure"
+        },
+        "next": {
+          "number": 26,
+          "title": "WEAPONIZED Episode #26 — The UAP Disclosure Act, Chuck Schumer, and the Upcoming House Hearing"
+        }
+      },
+      "expectedPodcast": "WEAPONIZED"
+    },
+    {
+      "jobId": "media-audit-45daa3bac13f0dae",
+      "seriesId": "weaponized-podcast",
+      "entityId": "2023-weaponized-episode-26",
+      "episodeNumber": 26,
+      "episodeTitle": "WEAPONIZED Episode #26 — The UAP Disclosure Act, Chuck Schumer, and the Upcoming House Hearing",
+      "publicationDate": "2023-07-17",
+      "expectedGuests": [],
+      "neighbors": {
+        "previous": {
+          "number": 25,
+          "title": "WEAPONIZED Episode #25 — Tim Burchett, Congressional UFO Hearings, and the Coming House Testimony"
+        },
+        "next": {
+          "number": 27,
+          "title": "WEAPONIZED Episode #27 — The Historic House UAP Hearing and a Fresh Look at the Nimitz Tic Tac Case"
+        }
+      },
+      "expectedPodcast": "WEAPONIZED"
+    },
+    {
+      "jobId": "media-audit-bdb88c482b7478eb",
+      "seriesId": "weaponized-podcast",
+      "entityId": "2023-weaponized-episode-27",
+      "episodeNumber": 27,
+      "episodeTitle": "WEAPONIZED Episode #27 — The Historic House UAP Hearing and a Fresh Look at the Nimitz Tic Tac Case",
+      "publicationDate": "2023-07-24",
+      "expectedGuests": [],
+      "neighbors": {
+        "previous": {
+          "number": 26,
+          "title": "WEAPONIZED Episode #26 — The UAP Disclosure Act, Chuck Schumer, and the Upcoming House Hearing"
+        },
+        "next": {
+          "number": 28,
+          "title": "WEAPONIZED Episode #28 — Congressional Hearing Roundtable"
+        }
+      },
+      "expectedPodcast": "WEAPONIZED"
+    },
+    {
+      "jobId": "media-audit-41851bba3e2ff526",
+      "seriesId": "weaponized-podcast",
+      "entityId": "2023-weaponized-episode-28",
+      "episodeNumber": 28,
+      "episodeTitle": "WEAPONIZED Episode #28 — Congressional Hearing Roundtable",
+      "publicationDate": "2023-07-31",
+      "expectedGuests": [],
+      "neighbors": {
+        "previous": {
+          "number": 27,
+          "title": "WEAPONIZED Episode #27 — The Historic House UAP Hearing and a Fresh Look at the Nimitz Tic Tac Case"
+        },
+        "next": {
+          "number": 29,
+          "title": "WEAPONIZED Episode #29 — David Fravor and the Nimitz Tic Tac Encounter"
+        }
+      },
+      "expectedPodcast": "WEAPONIZED"
+    },
+    {
+      "jobId": "media-audit-e721857e28c84d6c",
+      "seriesId": "weaponized-podcast",
+      "entityId": "2023-weaponized-episode-29",
+      "episodeNumber": 29,
+      "episodeTitle": "WEAPONIZED Episode #29 — David Fravor and the Nimitz Tic Tac Encounter",
+      "publicationDate": "2023-08-07",
+      "expectedGuests": [],
+      "neighbors": {
+        "previous": {
+          "number": 28,
+          "title": "WEAPONIZED Episode #28 — Congressional Hearing Roundtable"
+        },
+        "next": {
+          "number": 30,
+          "title": "WEAPONIZED Episode #30 — David Grusch, Whistleblower Retaliation, and the Attempt to Discredit His Testimony"
+        }
+      },
+      "expectedPodcast": "WEAPONIZED"
+    },
+    {
+      "jobId": "media-audit-bc50d8fe11bff461",
+      "seriesId": "weaponized-podcast",
+      "entityId": "2023-weaponized-episode-3",
+      "episodeNumber": 3,
+      "episodeTitle": "WEAPONIZED Episode #3 — Jay Stratton — AAWSAP, AATIP, and the UAP Task Force",
+      "publicationDate": "2023-02-06",
+      "expectedGuests": [],
+      "neighbors": {
+        "previous": {
+          "number": 2,
+          "title": "WEAPONIZED Episode #2 — John “Guts” Gutierrez and the 2019 Navy UAP Swarms"
+        },
+        "next": {
+          "number": 4,
+          "title": "WEAPONIZED Episode #4 — Spy Balloons, Unknown Objects, and UAP Transparency"
+        }
+      },
+      "expectedPodcast": "WEAPONIZED"
+    },
+    {
+      "jobId": "media-audit-0a55811474541663",
+      "seriesId": "weaponized-podcast",
+      "entityId": "2023-weaponized-episode-30",
+      "episodeNumber": 30,
+      "episodeTitle": "WEAPONIZED Episode #30 — David Grusch, Whistleblower Retaliation, and the Attempt to Discredit His Testimony",
+      "publicationDate": "2023-08-14",
+      "expectedGuests": [],
+      "neighbors": {
+        "previous": {
+          "number": 29,
+          "title": "WEAPONIZED Episode #29 — David Fravor and the Nimitz Tic Tac Encounter"
+        },
+        "next": {
+          "number": 31,
+          "title": "WEAPONIZED Episode #31 — Wayne Pacelle — Factory Farming, Animal Welfare, and Corporate Power"
+        }
+      },
+      "expectedPodcast": "WEAPONIZED"
+    },
+    {
+      "jobId": "media-audit-1465db79fd0c9a6d",
+      "seriesId": "weaponized-podcast",
+      "entityId": "2023-weaponized-episode-31",
+      "episodeNumber": 31,
+      "episodeTitle": "WEAPONIZED Episode #31 — Wayne Pacelle — Factory Farming, Animal Welfare, and Corporate Power",
+      "publicationDate": "2023-08-21",
+      "expectedGuests": [],
+      "neighbors": {
+        "previous": {
+          "number": 30,
+          "title": "WEAPONIZED Episode #30 — David Grusch, Whistleblower Retaliation, and the Attempt to Discredit His Testimony"
+        },
+        "next": {
+          "number": 32,
+          "title": "WEAPONIZED Episode #32 — John Lear — Aviation, Secrecy, and a Controversial UFO Legacy"
+        }
+      },
+      "expectedPodcast": "WEAPONIZED"
+    },
+    {
+      "jobId": "media-audit-b94e6a2beb2b9085",
+      "seriesId": "weaponized-podcast",
+      "entityId": "2023-weaponized-episode-32",
+      "episodeNumber": 32,
+      "episodeTitle": "WEAPONIZED Episode #32 — John Lear — Aviation, Secrecy, and a Controversial UFO Legacy",
+      "publicationDate": "2023-08-28",
+      "expectedGuests": [],
+      "neighbors": {
+        "previous": {
+          "number": 31,
+          "title": "WEAPONIZED Episode #31 — Wayne Pacelle — Factory Farming, Animal Welfare, and Corporate Power"
+        },
+        "next": {
+          "number": 33,
+          "title": "WEAPONIZED Episode #33 — AARO, Crash Retrievals, and the Dark Side of the UFO Mystery"
+        }
+      },
+      "expectedPodcast": "WEAPONIZED"
+    },
+    {
+      "jobId": "media-audit-56712018c3e24f58",
+      "seriesId": "weaponized-podcast",
+      "entityId": "2023-weaponized-episode-33",
+      "episodeNumber": 33,
+      "episodeTitle": "WEAPONIZED Episode #33 — AARO, Crash Retrievals, and the Dark Side of the UFO Mystery",
+      "publicationDate": "2023-09-04",
+      "expectedGuests": [],
+      "neighbors": {
+        "previous": {
+          "number": 32,
+          "title": "WEAPONIZED Episode #32 — John Lear — Aviation, Secrecy, and a Controversial UFO Legacy"
+        },
+        "next": {
+          "number": 34,
+          "title": "WEAPONIZED Episode #34 — The Pushback Against UFO Transparency"
+        }
+      },
+      "expectedPodcast": "WEAPONIZED"
+    },
+    {
+      "jobId": "media-audit-672e5ff0293341b6",
+      "seriesId": "weaponized-podcast",
+      "entityId": "2023-weaponized-episode-34",
+      "episodeNumber": 34,
+      "episodeTitle": "WEAPONIZED Episode #34 — The Pushback Against UFO Transparency",
+      "publicationDate": "2023-09-18",
+      "expectedGuests": [],
+      "neighbors": {
+        "previous": {
+          "number": 33,
+          "title": "WEAPONIZED Episode #33 — AARO, Crash Retrievals, and the Dark Side of the UFO Mystery"
+        },
+        "next": {
+          "number": 35,
+          "title": "WEAPONIZED Episode #35 — UFO History, Gulf of Mexico Objects, and Congressional Stakes"
+        }
+      },
+      "expectedPodcast": "WEAPONIZED"
+    },
+    {
+      "jobId": "media-audit-3b4cd39ef7490349",
+      "seriesId": "weaponized-podcast",
+      "entityId": "2023-weaponized-episode-35",
+      "episodeNumber": 35,
+      "episodeTitle": "WEAPONIZED Episode #35 — UFO History, Gulf of Mexico Objects, and Congressional Stakes",
+      "publicationDate": "2023-09-25",
+      "expectedGuests": [],
+      "neighbors": {
+        "previous": {
+          "number": 34,
+          "title": "WEAPONIZED Episode #34 — The Pushback Against UFO Transparency"
+        },
+        "next": {
+          "number": 36,
+          "title": "WEAPONIZED Episode #36 — Jules Urbach — Virtual Reality, AI, and Post-Biological Intelligence"
+        }
+      },
+      "expectedPodcast": "WEAPONIZED"
+    },
+    {
+      "jobId": "media-audit-aa5f5efdb11fbcb5",
+      "seriesId": "weaponized-podcast",
+      "entityId": "2023-weaponized-episode-36",
+      "episodeNumber": 36,
+      "episodeTitle": "WEAPONIZED Episode #36 — Jules Urbach — Virtual Reality, AI, and Post-Biological Intelligence",
+      "publicationDate": "2023-10-02",
+      "expectedGuests": [],
+      "neighbors": {
+        "previous": {
+          "number": 35,
+          "title": "WEAPONIZED Episode #35 — UFO History, Gulf of Mexico Objects, and Congressional Stakes"
+        },
+        "next": {
+          "number": 37,
+          "title": "WEAPONIZED Episode #37 — Chris Ramsay — Remote Viewing and Psychic Espionage"
+        }
+      },
+      "expectedPodcast": "WEAPONIZED"
+    },
+    {
+      "jobId": "media-audit-807f086e8152ed23",
+      "seriesId": "weaponized-podcast",
+      "entityId": "2023-weaponized-episode-37",
+      "episodeNumber": 37,
+      "episodeTitle": "WEAPONIZED Episode #37 — Chris Ramsay — Remote Viewing and Psychic Espionage",
+      "publicationDate": "2023-10-09",
+      "expectedGuests": [],
+      "neighbors": {
+        "previous": {
+          "number": 36,
+          "title": "WEAPONIZED Episode #36 — Jules Urbach — Virtual Reality, AI, and Post-Biological Intelligence"
+        },
+        "next": {
+          "number": 38,
+          "title": "WEAPONIZED Episode #38 — James Lacatski and Colm Kelleher — Inside AAWSAP"
+        }
+      },
+      "expectedPodcast": "WEAPONIZED"
+    },
+    {
+      "jobId": "media-audit-bdc5754d7e27f8f6",
+      "seriesId": "weaponized-podcast",
+      "entityId": "2023-weaponized-episode-38",
+      "episodeNumber": 38,
+      "episodeTitle": "WEAPONIZED Episode #38 — James Lacatski and Colm Kelleher — Inside AAWSAP",
+      "publicationDate": "2023-10-16",
+      "expectedGuests": [],
+      "neighbors": {
+        "previous": {
+          "number": 37,
+          "title": "WEAPONIZED Episode #37 — Chris Ramsay — Remote Viewing and Psychic Espionage"
+        },
+        "next": {
+          "number": 39,
+          "title": "WEAPONIZED Episode #39 — AARO’s Report and the Lacatski Revelations"
+        }
+      },
+      "expectedPodcast": "WEAPONIZED"
+    },
+    {
+      "jobId": "media-audit-bc80b53c65058972",
+      "seriesId": "weaponized-podcast",
+      "entityId": "2023-weaponized-episode-39",
+      "episodeNumber": 39,
+      "episodeTitle": "WEAPONIZED Episode #39 — AARO’s Report and the Lacatski Revelations",
+      "publicationDate": "2023-10-23",
+      "expectedGuests": [],
+      "neighbors": {
+        "previous": {
+          "number": 38,
+          "title": "WEAPONIZED Episode #38 — James Lacatski and Colm Kelleher — Inside AAWSAP"
+        },
+        "next": {
+          "number": 40,
+          "title": "WEAPONIZED Episode #40 — Tim Burchett — The SCIF Briefing and Congressional UFO Oversight"
+        }
+      },
+      "expectedPodcast": "WEAPONIZED"
+    },
+    {
+      "jobId": "media-audit-9845e5c17dd781f8",
+      "seriesId": "weaponized-podcast",
+      "entityId": "2023-weaponized-episode-4",
+      "episodeNumber": 4,
+      "episodeTitle": "WEAPONIZED Episode #4 — Spy Balloons, Unknown Objects, and UAP Transparency",
+      "publicationDate": "2023-02-13",
+      "expectedGuests": [],
+      "neighbors": {
+        "previous": {
+          "number": 3,
+          "title": "WEAPONIZED Episode #3 — Jay Stratton — AAWSAP, AATIP, and the UAP Task Force"
+        },
+        "next": {
+          "number": 5,
+          "title": "WEAPONIZED Episode #5 — Colm Kelleher — AAWSAP and Scientific Anomaly Research"
+        }
+      },
+      "expectedPodcast": "WEAPONIZED"
+    },
+    {
+      "jobId": "media-audit-87347d6d80c5c668",
+      "seriesId": "weaponized-podcast",
+      "entityId": "2023-weaponized-episode-40",
+      "episodeNumber": 40,
+      "episodeTitle": "WEAPONIZED Episode #40 — Tim Burchett — The SCIF Briefing and Congressional UFO Oversight",
+      "publicationDate": "2023-11-06",
+      "expectedGuests": [],
+      "neighbors": {
+        "previous": {
+          "number": 39,
+          "title": "WEAPONIZED Episode #39 — AARO’s Report and the Lacatski Revelations"
+        },
+        "next": {
+          "number": 41,
+          "title": "WEAPONIZED Episode #41 — Military Engagements with Unidentified Aerial Intruders"
+        }
+      },
+      "expectedPodcast": "WEAPONIZED"
+    },
+    {
+      "jobId": "media-audit-e11b599d5d9d2266",
+      "seriesId": "weaponized-podcast",
+      "entityId": "2023-weaponized-episode-41",
+      "episodeNumber": 41,
+      "episodeTitle": "WEAPONIZED Episode #41 — Military Engagements with Unidentified Aerial Intruders",
+      "publicationDate": "2023-11-13",
+      "expectedGuests": [],
+      "neighbors": {
+        "previous": {
+          "number": 40,
+          "title": "WEAPONIZED Episode #40 — Tim Burchett — The SCIF Briefing and Congressional UFO Oversight"
+        },
+        "next": {
+          "number": 42,
+          "title": "WEAPONIZED Episode #42 — The Sol Foundation Conference and Grusch Revelations"
+        }
+      },
+      "expectedPodcast": "WEAPONIZED"
+    },
+    {
+      "jobId": "media-audit-7bc2f54569cea7a5",
+      "seriesId": "weaponized-podcast",
+      "entityId": "2023-weaponized-episode-42",
+      "episodeNumber": 42,
+      "episodeTitle": "WEAPONIZED Episode #42 — The Sol Foundation Conference and Grusch Revelations",
+      "publicationDate": "2023-11-27",
+      "expectedGuests": [],
+      "neighbors": {
+        "previous": {
+          "number": 41,
+          "title": "WEAPONIZED Episode #41 — Military Engagements with Unidentified Aerial Intruders"
+        },
+        "next": {
+          "number": 43,
+          "title": "WEAPONIZED Episode #43 — The Unreleased Philip Corso Tapes"
+        }
+      },
+      "expectedPodcast": "WEAPONIZED"
+    },
+    {
+      "jobId": "media-audit-01e399cfbf4cd281",
+      "seriesId": "weaponized-podcast",
+      "entityId": "2023-weaponized-episode-43",
+      "episodeNumber": 43,
+      "episodeTitle": "WEAPONIZED Episode #43 — The Unreleased Philip Corso Tapes",
+      "publicationDate": "2023-12-04",
+      "expectedGuests": [],
+      "neighbors": {
+        "previous": {
+          "number": 42,
+          "title": "WEAPONIZED Episode #42 — The Sol Foundation Conference and Grusch Revelations"
+        },
+        "next": {
+          "number": 44,
+          "title": "WEAPONIZED Episode #44 — The Fight Over the UAP Disclosure Act"
+        }
+      },
+      "expectedPodcast": "WEAPONIZED"
+    },
+    {
+      "jobId": "media-audit-6e2be83ee3adffe2",
+      "seriesId": "weaponized-podcast",
+      "entityId": "2023-weaponized-episode-44",
+      "episodeNumber": 44,
+      "episodeTitle": "WEAPONIZED Episode #44 — The Fight Over the UAP Disclosure Act",
+      "publicationDate": "2023-12-11",
+      "expectedGuests": [],
+      "neighbors": {
+        "previous": {
+          "number": 43,
+          "title": "WEAPONIZED Episode #43 — The Unreleased Philip Corso Tapes"
+        },
+        "next": {
+          "number": 45,
+          "title": "WEAPONIZED Episode #45 — John Alexander on Crash Retrievals, NIDS, and the Sol Conference"
+        }
+      },
+      "expectedPodcast": "WEAPONIZED"
+    },
+    {
+      "jobId": "media-audit-9412cf38528c9957",
+      "seriesId": "weaponized-podcast",
+      "entityId": "2023-weaponized-episode-45",
+      "episodeNumber": 45,
+      "episodeTitle": "WEAPONIZED Episode #45 — John Alexander on Crash Retrievals, NIDS, and the Sol Conference",
+      "publicationDate": "2023-12-18",
+      "expectedGuests": [],
+      "neighbors": {
+        "previous": {
+          "number": 44,
+          "title": "WEAPONIZED Episode #44 — The Fight Over the UAP Disclosure Act"
+        },
+        "next": {
+          "number": 46,
+          "title": "WEAPONIZED Episode #46 — Richard Dolan on Disclosure, History, and USO Cases"
+        }
+      },
+      "expectedPodcast": "WEAPONIZED"
+    },
+    {
+      "jobId": "media-audit-417f419dbbb93c7d",
+      "seriesId": "weaponized-podcast",
+      "entityId": "2023-weaponized-episode-5",
+      "episodeNumber": 5,
+      "episodeTitle": "WEAPONIZED Episode #5 — Colm Kelleher — AAWSAP and Scientific Anomaly Research",
+      "publicationDate": "2023-02-20",
+      "expectedGuests": [],
+      "neighbors": {
+        "previous": {
+          "number": 4,
+          "title": "WEAPONIZED Episode #4 — Spy Balloons, Unknown Objects, and UAP Transparency"
+        },
+        "next": {
+          "number": 6,
+          "title": "WEAPONIZED Episode #6 — The Defense Executive, a Recovered Craft, and a Living Occupant"
+        }
+      },
+      "expectedPodcast": "WEAPONIZED"
+    },
+    {
+      "jobId": "media-audit-9d32dc488bfc50f0",
+      "seriesId": "weaponized-podcast",
+      "entityId": "2023-weaponized-episode-6",
+      "episodeNumber": 6,
+      "episodeTitle": "WEAPONIZED Episode #6 — The Defense Executive, a Recovered Craft, and a Living Occupant",
+      "publicationDate": "2023-02-27",
+      "expectedGuests": [],
+      "neighbors": {
+        "previous": {
+          "number": 5,
+          "title": "WEAPONIZED Episode #5 — Colm Kelleher — AAWSAP and Scientific Anomaly Research"
+        },
+        "next": {
+          "number": 7,
+          "title": "WEAPONIZED Episode #7 — Storm Area 51 and the Baghdad Phantom"
+        }
+      },
+      "expectedPodcast": "WEAPONIZED"
+    },
+    {
+      "jobId": "media-audit-5cc20f8b225ec631",
+      "seriesId": "weaponized-podcast",
+      "entityId": "2023-weaponized-episode-7",
+      "episodeNumber": 7,
+      "episodeTitle": "WEAPONIZED Episode #7 — Storm Area 51 and the Baghdad Phantom",
+      "publicationDate": "2023-03-06",
+      "expectedGuests": [],
+      "neighbors": {
+        "previous": {
+          "number": 6,
+          "title": "WEAPONIZED Episode #6 — The Defense Executive, a Recovered Craft, and a Living Occupant"
+        },
+        "next": {
+          "number": 8,
+          "title": "WEAPONIZED Episode #8 — Baghdad Phantom Analysis and the UFO “Silver Bullet”"
+        }
+      },
+      "expectedPodcast": "WEAPONIZED"
+    },
+    {
+      "jobId": "media-audit-a0b1bd73195ae7dd",
+      "seriesId": "weaponized-podcast",
+      "entityId": "2023-weaponized-episode-8",
+      "episodeNumber": 8,
+      "episodeTitle": "WEAPONIZED Episode #8 — Baghdad Phantom Analysis and the UFO “Silver Bullet”",
+      "publicationDate": "2023-03-13",
+      "expectedGuests": [],
+      "neighbors": {
+        "previous": {
+          "number": 7,
+          "title": "WEAPONIZED Episode #7 — Storm Area 51 and the Baghdad Phantom"
+        },
+        "next": {
+          "number": 9,
+          "title": "WEAPONIZED Episode #9 — Harry Reid’s AAWSAP Briefing and the Hidden History of AATIP"
+        }
+      },
+      "expectedPodcast": "WEAPONIZED"
+    },
+    {
+      "jobId": "media-audit-9f5c93a16a86a686",
+      "seriesId": "weaponized-podcast",
+      "entityId": "2023-weaponized-episode-9",
+      "episodeNumber": 9,
+      "episodeTitle": "WEAPONIZED Episode #9 — Harry Reid’s AAWSAP Briefing and the Hidden History of AATIP",
+      "publicationDate": "2023-03-20",
+      "expectedGuests": [],
+      "neighbors": {
+        "previous": {
+          "number": 8,
+          "title": "WEAPONIZED Episode #8 — Baghdad Phantom Analysis and the UFO “Silver Bullet”"
+        },
+        "next": {
+          "number": 10,
+          "title": "WEAPONIZED Episode #10 — Duncan Trussell — UFOs, AI, Spirituality, and Reality"
+        }
+      },
+      "expectedPodcast": "WEAPONIZED"
+    },
+    {
+      "jobId": "media-audit-1af4709eacd1cccd",
+      "seriesId": "need-to-know-podcast",
+      "entityId": "2024-need-to-know-episode-48",
+      "episodeNumber": 48,
+      "episodeTitle": "Need to Know Episode #48 — Is This the Year?",
+      "publicationDate": "2024-01-05",
+      "expectedGuests": [],
+      "neighbors": {
+        "previous": {
+          "number": 47,
+          "title": "Need to Know Episode #47 — UFO Gatekeepers Strike Back"
+        },
+        "next": {
+          "number": 49,
+          "title": "Need to Know Episode #49 — Adios, Voldemort"
+        }
+      },
+      "expectedPodcast": "Need to Know"
+    },
+    {
+      "jobId": "media-audit-490517a692f467b9",
+      "seriesId": "need-to-know-podcast",
+      "entityId": "2024-need-to-know-episode-49",
+      "episodeNumber": 49,
+      "episodeTitle": "Need to Know Episode #49 — Adios, Voldemort",
+      "publicationDate": "2024-02-08",
+      "expectedGuests": [],
+      "neighbors": {
+        "previous": {
+          "number": 48,
+          "title": "Need to Know Episode #48 — Is This the Year?"
+        },
+        "next": {
+          "number": 50,
+          "title": "Need to Know Episode #50 — More UFO Lies & Coverup"
+        }
+      },
+      "expectedPodcast": "Need to Know"
+    },
+    {
+      "jobId": "media-audit-9731b763e1b7f7c5",
+      "seriesId": "need-to-know-podcast",
+      "entityId": "2024-need-to-know-episode-50",
+      "episodeNumber": 50,
+      "episodeTitle": "Need to Know Episode #50 — More UFO Lies & Coverup",
+      "publicationDate": "2024-03-13",
+      "expectedGuests": [],
+      "neighbors": {
+        "previous": {
+          "number": 49,
+          "title": "Need to Know Episode #49 — Adios, Voldemort"
+        },
+        "next": {
+          "number": 51,
+          "title": "Need to Know Episode #51 — UAP Burnout"
+        }
+      },
+      "expectedPodcast": "Need to Know"
+    },
+    {
+      "jobId": "media-audit-8849d1ee643868ed",
+      "seriesId": "need-to-know-podcast",
+      "entityId": "2024-need-to-know-episode-51",
+      "episodeNumber": 51,
+      "episodeTitle": "Need to Know Episode #51 — UAP Burnout",
+      "publicationDate": "2024-04-15",
+      "expectedGuests": [],
+      "neighbors": {
+        "previous": {
+          "number": 50,
+          "title": "Need to Know Episode #50 — More UFO Lies & Coverup"
+        },
+        "next": {
+          "number": 52,
+          "title": "Need to Know Episode #52 — Swagger and Secrets"
+        }
+      },
+      "expectedPodcast": "Need to Know"
+    },
+    {
+      "jobId": "media-audit-ab996306eb9d86f8",
+      "seriesId": "need-to-know-podcast",
+      "entityId": "2024-need-to-know-episode-52",
+      "episodeNumber": 52,
+      "episodeTitle": "Need to Know Episode #52 — Swagger and Secrets",
+      "publicationDate": "2024-05-11",
+      "expectedGuests": [],
+      "neighbors": {
+        "previous": {
+          "number": 51,
+          "title": "Need to Know Episode #51 — UAP Burnout"
+        },
+        "next": {
+          "number": 53,
+          "title": "Need to Know Episode #53 — Zero Doubt"
+        }
+      },
+      "expectedPodcast": "Need to Know"
+    },
+    {
+      "jobId": "media-audit-6a1fd84cf368a734",
+      "seriesId": "need-to-know-podcast",
+      "entityId": "2024-need-to-know-episode-53",
+      "episodeNumber": 53,
+      "episodeTitle": "Need to Know Episode #53 — Zero Doubt",
+      "publicationDate": "2024-06-08",
+      "expectedGuests": [],
+      "neighbors": {
+        "previous": {
+          "number": 52,
+          "title": "Need to Know Episode #52 — Swagger and Secrets"
+        },
+        "next": {
+          "number": 54,
+          "title": "Need to Know Episode #54 — History Repeats"
+        }
+      },
+      "expectedPodcast": "Need to Know"
+    },
+    {
+      "jobId": "media-audit-76470a401f910f1c",
+      "seriesId": "need-to-know-podcast",
+      "entityId": "2024-need-to-know-episode-54",
+      "episodeNumber": 54,
+      "episodeTitle": "Need to Know Episode #54 — History Repeats",
+      "publicationDate": "2024-07-12",
+      "expectedGuests": [],
+      "neighbors": {
+        "previous": {
+          "number": 53,
+          "title": "Need to Know Episode #53 — Zero Doubt"
+        },
+        "next": {
+          "number": 55,
+          "title": "Need to Know Episode #55 — Imminent"
+        }
+      },
+      "expectedPodcast": "Need to Know"
+    },
+    {
+      "jobId": "media-audit-9b5fe4f061e9a453",
+      "seriesId": "need-to-know-podcast",
+      "entityId": "2024-need-to-know-episode-55",
+      "episodeNumber": 55,
+      "episodeTitle": "Need to Know Episode #55 — Imminent",
+      "publicationDate": "2024-08-17",
+      "expectedGuests": [],
+      "neighbors": {
+        "previous": {
+          "number": 54,
+          "title": "Need to Know Episode #54 — History Repeats"
+        },
+        "next": {
+          "number": 56,
+          "title": "Need to Know Episode #56 — Elizondo Unplugged"
+        }
+      },
+      "expectedPodcast": "Need to Know"
+    },
+    {
+      "jobId": "media-audit-df241b71d0c93bac",
+      "seriesId": "need-to-know-podcast",
+      "entityId": "2024-need-to-know-episode-56",
+      "episodeNumber": 56,
+      "episodeTitle": "Need to Know Episode #56 — Elizondo Unplugged",
+      "publicationDate": "2024-09-13",
+      "expectedGuests": [],
+      "neighbors": {
+        "previous": {
+          "number": 55,
+          "title": "Need to Know Episode #55 — Imminent"
+        },
+        "next": {
+          "number": 57,
+          "title": "Need to Know Episode #57 — Dolan's New USO Shockers"
+        }
+      },
+      "expectedPodcast": "Need to Know"
+    },
+    {
+      "jobId": "media-audit-731ba24ecf4d836f",
+      "seriesId": "need-to-know-podcast",
+      "entityId": "2024-need-to-know-episode-57",
+      "episodeNumber": 57,
+      "episodeTitle": "Need to Know Episode #57 — Dolan's New USO Shockers",
+      "publicationDate": "2024-10-17",
+      "expectedGuests": [],
+      "neighbors": {
+        "previous": {
+          "number": 56,
+          "title": "Need to Know Episode #56 — Elizondo Unplugged"
+        },
+        "next": {
+          "number": 58,
+          "title": "Need to Know Episode #58 — The Disclosure President?"
+        }
+      },
+      "expectedPodcast": "Need to Know"
+    },
+    {
+      "jobId": "media-audit-66e89a1279bea255",
+      "seriesId": "need-to-know-podcast",
+      "entityId": "2024-need-to-know-episode-58",
+      "episodeNumber": 58,
+      "episodeTitle": "Need to Know Episode #58 — The Disclosure President?",
+      "publicationDate": "2024-11-10",
+      "expectedGuests": [],
+      "neighbors": {
+        "previous": {
+          "number": 57,
+          "title": "Need to Know Episode #57 — Dolan's New USO Shockers"
+        },
+        "next": {
+          "number": 59,
+          "title": "Need to Know Episode #59 — Jingle Drones"
+        }
+      },
+      "expectedPodcast": "Need to Know"
+    },
+    {
+      "jobId": "media-audit-17a75ae0a3ef5f04",
+      "seriesId": "need-to-know-podcast",
+      "entityId": "2024-need-to-know-episode-59",
+      "episodeNumber": 59,
+      "episodeTitle": "Need to Know Episode #59 — Jingle Drones",
+      "publicationDate": "2024-12-09",
+      "expectedGuests": [],
+      "neighbors": {
+        "previous": {
+          "number": 58,
+          "title": "Need to Know Episode #58 — The Disclosure President?"
+        },
+        "next": {
+          "number": 60,
+          "title": "Need to Know Episode #60 — Age of Disclosure?"
+        }
+      },
+      "expectedPodcast": "Need to Know"
+    },
+    {
+      "jobId": "media-audit-f98d6076131eee66",
+      "seriesId": "weaponized-podcast",
+      "entityId": "2024-weaponized-episode-46",
+      "episodeNumber": 46,
+      "episodeTitle": "WEAPONIZED Episode #46 — Richard Dolan on Disclosure, History, and USO Cases",
+      "publicationDate": "2024-01-08",
+      "expectedGuests": [],
+      "neighbors": {
+        "previous": {
+          "number": 45,
+          "title": "WEAPONIZED Episode #45 — John Alexander on Crash Retrievals, NIDS, and the Sol Conference"
+        },
+        "next": {
+          "number": 47,
+          "title": "WEAPONIZED Episode #47 — The Jellyfish UAP Investigation"
+        }
+      },
+      "expectedPodcast": "WEAPONIZED"
+    },
+    {
+      "jobId": "media-audit-cc5fb0948b7127bb",
+      "seriesId": "weaponized-podcast",
+      "entityId": "2024-weaponized-episode-47",
+      "episodeNumber": 47,
+      "episodeTitle": "WEAPONIZED Episode #47 — The Jellyfish UAP Investigation",
+      "publicationDate": "2024-01-15",
+      "expectedGuests": [],
+      "neighbors": {
+        "previous": {
+          "number": 46,
+          "title": "WEAPONIZED Episode #46 — Richard Dolan on Disclosure, History, and USO Cases"
+        },
+        "next": {
+          "number": 48,
+          "title": "WEAPONIZED Episode #48 — Ernest Cline, UFO History, and Science-Fiction Culture"
+        }
+      },
+      "expectedPodcast": "WEAPONIZED"
+    },
+    {
+      "jobId": "media-audit-da5d5743e11e7465",
+      "seriesId": "weaponized-podcast",
+      "entityId": "2024-weaponized-episode-48",
+      "episodeNumber": 48,
+      "episodeTitle": "WEAPONIZED Episode #48 — Ernest Cline, UFO History, and Science-Fiction Culture",
+      "publicationDate": "2024-01-22",
+      "expectedGuests": [],
+      "neighbors": {
+        "previous": {
+          "number": 47,
+          "title": "WEAPONIZED Episode #47 — The Jellyfish UAP Investigation"
+        },
+        "next": {
+          "number": 49,
+          "title": "WEAPONIZED Episode #49 — Pushback, AARO, and the UFO Information War"
+        }
+      },
+      "expectedPodcast": "WEAPONIZED"
+    },
+    {
+      "jobId": "media-audit-99d5dfead52c5ccd",
+      "seriesId": "weaponized-podcast",
+      "entityId": "2024-weaponized-episode-49",
+      "episodeNumber": 49,
+      "episodeTitle": "WEAPONIZED Episode #49 — Pushback, AARO, and the UFO Information War",
+      "publicationDate": "2024-02-05",
+      "expectedGuests": [],
+      "neighbors": {
+        "previous": {
+          "number": 48,
+          "title": "WEAPONIZED Episode #48 — Ernest Cline, UFO History, and Science-Fiction Culture"
+        },
+        "next": {
+          "number": 50,
+          "title": "WEAPONIZED Episode #50 — Washington Update on UAP Transparency and Congressional Oversight"
+        }
+      },
+      "expectedPodcast": "WEAPONIZED"
+    },
+    {
+      "jobId": "media-audit-460e61b9ed662d87",
+      "seriesId": "weaponized-podcast",
+      "entityId": "2024-weaponized-episode-50",
+      "episodeNumber": 50,
+      "episodeTitle": "WEAPONIZED Episode #50 — Washington Update on UAP Transparency and Congressional Oversight",
+      "publicationDate": "2024-03-04",
+      "expectedGuests": [],
+      "neighbors": {
+        "previous": {
+          "number": 49,
+          "title": "WEAPONIZED Episode #49 — Pushback, AARO, and the UFO Information War"
+        },
+        "next": {
+          "number": 51,
+          "title": "WEAPONIZED Episode #51 — Unreleased Episode Placeholder"
+        }
+      },
+      "expectedPodcast": "WEAPONIZED"
+    },
+    {
+      "jobId": "media-audit-7a761e3ed98a3e89",
+      "seriesId": "weaponized-podcast",
+      "entityId": "2024-weaponized-episode-51",
+      "episodeNumber": 51,
+      "episodeTitle": "WEAPONIZED Episode #51 — Unreleased Episode Placeholder",
+      "publicationDate": "2024-03-11",
+      "expectedGuests": [],
+      "neighbors": {
+        "previous": {
+          "number": 50,
+          "title": "WEAPONIZED Episode #50 — Washington Update on UAP Transparency and Congressional Oversight"
+        },
+        "next": {
+          "number": 52,
+          "title": "WEAPONIZED Episode #52 — Season Finale and AARO Historical Report Review"
+        }
+      },
+      "expectedPodcast": "WEAPONIZED"
+    },
+    {
+      "jobId": "media-audit-a152ed9c9b892cd1",
+      "seriesId": "weaponized-podcast",
+      "entityId": "2024-weaponized-episode-52",
+      "episodeNumber": 52,
+      "episodeTitle": "WEAPONIZED Episode #52 — Season Finale and AARO Historical Report Review",
+      "publicationDate": "2024-03-13",
+      "expectedGuests": [],
+      "neighbors": {
+        "previous": {
+          "number": 51,
+          "title": "WEAPONIZED Episode #51 — Unreleased Episode Placeholder"
+        },
+        "next": {
+          "number": 53,
+          "title": "WEAPONIZED Episode #53 — Kona Blue, AARO, and Continuing UAP Incursions"
+        }
+      },
+      "expectedPodcast": "WEAPONIZED"
+    },
+    {
+      "jobId": "media-audit-c492fac71c539ddb",
+      "seriesId": "weaponized-podcast",
+      "entityId": "2024-weaponized-episode-53",
+      "episodeNumber": 53,
+      "episodeTitle": "WEAPONIZED Episode #53 — Kona Blue, AARO, and Continuing UAP Incursions",
+      "publicationDate": "2024-04-29",
+      "expectedGuests": [],
+      "neighbors": {
+        "previous": {
+          "number": 52,
+          "title": "WEAPONIZED Episode #52 — Season Finale and AARO Historical Report Review"
+        },
+        "next": {
+          "number": 54,
+          "title": "WEAPONIZED Episode #54 — Pantex, Nuclear-Site UAP Incursions, and FOIA Records"
+        }
+      },
+      "expectedPodcast": "WEAPONIZED"
+    },
+    {
+      "jobId": "media-audit-d160fe83ead84e0e",
+      "seriesId": "weaponized-podcast",
+      "entityId": "2024-weaponized-episode-54",
+      "episodeNumber": 54,
+      "episodeTitle": "WEAPONIZED Episode #54 — Pantex, Nuclear-Site UAP Incursions, and FOIA Records",
+      "publicationDate": "2024-06-18",
+      "expectedGuests": [],
+      "neighbors": {
+        "previous": {
+          "number": 53,
+          "title": "WEAPONIZED Episode #53 — Kona Blue, AARO, and Continuing UAP Incursions"
+        },
+        "next": {
+          "number": 55,
+          "title": "WEAPONIZED Episode #55 — AARO, Congressional Oversight, and the Kirkpatrick Interview"
+        }
+      },
+      "expectedPodcast": "WEAPONIZED"
+    },
+    {
+      "jobId": "media-audit-df23cdfd4b4016c0",
+      "seriesId": "weaponized-podcast",
+      "entityId": "2024-weaponized-episode-55",
+      "episodeNumber": 55,
+      "episodeTitle": "WEAPONIZED Episode #55 — AARO, Congressional Oversight, and the Kirkpatrick Interview",
+      "publicationDate": "2024-07-23",
+      "expectedGuests": [],
+      "neighbors": {
+        "previous": {
+          "number": 54,
+          "title": "WEAPONIZED Episode #54 — Pantex, Nuclear-Site UAP Incursions, and FOIA Records"
+        },
+        "next": {
+          "number": 56,
+          "title": "WEAPONIZED Episode #56 — Las Vegas Update, Dave Navarro, and Crop Circle History"
+        }
+      },
+      "expectedPodcast": "WEAPONIZED"
+    },
+    {
+      "jobId": "media-audit-b2928b58bb7d6543",
+      "seriesId": "weaponized-podcast",
+      "entityId": "2024-weaponized-episode-56",
+      "episodeNumber": 56,
+      "episodeTitle": "WEAPONIZED Episode #56 — Las Vegas Update, Dave Navarro, and Crop Circle History",
+      "publicationDate": "2024-08-13",
+      "expectedGuests": [],
+      "neighbors": {
+        "previous": {
+          "number": 55,
+          "title": "WEAPONIZED Episode #55 — AARO, Congressional Oversight, and the Kirkpatrick Interview"
+        },
+        "next": {
+          "number": 57,
+          "title": "WEAPONIZED Episode #57 — The Colares UFO Attacks and Brazilian Military Files"
+        }
+      },
+      "expectedPodcast": "WEAPONIZED"
+    },
+    {
+      "jobId": "media-audit-f8c2d1d5752e3000",
+      "seriesId": "weaponized-podcast",
+      "entityId": "2024-weaponized-episode-57",
+      "episodeNumber": 57,
+      "episodeTitle": "WEAPONIZED Episode #57 — The Colares UFO Attacks and Brazilian Military Files",
+      "publicationDate": "2024-09-04",
+      "expectedGuests": [],
+      "neighbors": {
+        "previous": {
+          "number": 56,
+          "title": "WEAPONIZED Episode #56 — Las Vegas Update, Dave Navarro, and Crop Circle History"
+        },
+        "next": {
+          "number": 58,
+          "title": "WEAPONIZED Episode #58 — UFO Transparency in the Corridors of Power"
+        }
+      },
+      "expectedPodcast": "WEAPONIZED"
+    },
+    {
+      "jobId": "media-audit-7faf3e4d440860d1",
+      "seriesId": "weaponized-podcast",
+      "entityId": "2024-weaponized-episode-58",
+      "episodeNumber": 58,
+      "episodeTitle": "WEAPONIZED Episode #58 — UFO Transparency in the Corridors of Power",
+      "publicationDate": "2024-09-24",
+      "expectedGuests": [],
+      "neighbors": {
+        "previous": {
+          "number": 57,
+          "title": "WEAPONIZED Episode #57 — The Colares UFO Attacks and Brazilian Military Files"
+        },
+        "next": {
+          "number": 59,
+          "title": "WEAPONIZED Episode #59 — Journalists vs. Secrecy"
+        }
+      },
+      "expectedPodcast": "WEAPONIZED"
+    },
+    {
+      "jobId": "media-audit-66c626c2470dc03e",
+      "seriesId": "weaponized-podcast",
+      "entityId": "2024-weaponized-episode-59",
+      "episodeNumber": 59,
+      "episodeTitle": "WEAPONIZED Episode #59 — Journalists vs. Secrecy",
+      "publicationDate": "2024-10-01",
+      "expectedGuests": [],
+      "neighbors": {
+        "previous": {
+          "number": 58,
+          "title": "WEAPONIZED Episode #58 — UFO Transparency in the Corridors of Power"
+        },
+        "next": {
+          "number": 60,
+          "title": "WEAPONIZED Episode #60 — WEAPONIZED Series Overview"
+        }
+      },
+      "expectedPodcast": "WEAPONIZED"
+    },
+    {
+      "jobId": "media-audit-3d72ffa35f3b3a81",
+      "seriesId": "weaponized-podcast",
+      "entityId": "2024-weaponized-episode-60",
+      "episodeNumber": 60,
+      "episodeTitle": "WEAPONIZED Episode #60 — WEAPONIZED Series Overview",
+      "publicationDate": "2024-10-15",
+      "expectedGuests": [],
+      "neighbors": {
+        "previous": {
+          "number": 59,
+          "title": "WEAPONIZED Episode #59 — Journalists vs. Secrecy"
+        },
+        "next": {
+          "number": 61,
+          "title": "WEAPONIZED Episode #61 — The Tic Tac at Twenty"
+        }
+      },
+      "expectedPodcast": "WEAPONIZED"
+    },
+    {
+      "jobId": "media-audit-bdb0825ff077f92d",
+      "seriesId": "weaponized-podcast",
+      "entityId": "2024-weaponized-episode-61",
+      "episodeNumber": 61,
+      "episodeTitle": "WEAPONIZED Episode #61 — The Tic Tac at Twenty",
+      "publicationDate": "2024-11-08",
+      "expectedGuests": [],
+      "neighbors": {
+        "previous": {
+          "number": 60,
+          "title": "WEAPONIZED Episode #60 — WEAPONIZED Series Overview"
+        },
+        "next": {
+          "number": 62,
+          "title": "WEAPONIZED Episode #62 — Sky Intruders, Drones, and a Transmedium UFO Video"
+        }
+      },
+      "expectedPodcast": "WEAPONIZED"
+    },
+    {
+      "jobId": "media-audit-834e426e2aca4013",
+      "seriesId": "weaponized-podcast",
+      "entityId": "2024-weaponized-episode-62",
+      "episodeNumber": 62,
+      "episodeTitle": "WEAPONIZED Episode #62 — Sky Intruders, Drones, and a Transmedium UFO Video",
+      "publicationDate": "2024-12-03",
+      "expectedGuests": [],
+      "neighbors": {
+        "previous": {
+          "number": 61,
+          "title": "WEAPONIZED Episode #61 — The Tic Tac at Twenty"
+        },
+        "next": {
+          "number": 63,
+          "title": "WEAPONIZED Episode #63 — Mystery Drones and Australia’s Saucer Nests"
+        }
+      },
+      "expectedPodcast": "WEAPONIZED"
+    },
+    {
+      "jobId": "media-audit-2c587810098e7554",
+      "seriesId": "weaponized-podcast",
+      "entityId": "2024-weaponized-episode-63",
+      "episodeNumber": 63,
+      "episodeTitle": "WEAPONIZED Episode #63 — Mystery Drones and Australia’s Saucer Nests",
+      "publicationDate": "2024-12-10",
+      "expectedGuests": [],
+      "neighbors": {
+        "previous": {
+          "number": 62,
+          "title": "WEAPONIZED Episode #62 — Sky Intruders, Drones, and a Transmedium UFO Video"
+        },
+        "next": {
+          "number": 64,
+          "title": "WEAPONIZED Episode #64 — The 2024 UAP Year in Review"
+        }
+      },
+      "expectedPodcast": "WEAPONIZED"
+    },
+    {
+      "jobId": "media-audit-23d98a5b29dfa62e",
+      "seriesId": "weaponized-podcast",
+      "entityId": "2024-weaponized-episode-64",
+      "episodeNumber": 64,
+      "episodeTitle": "WEAPONIZED Episode #64 — The 2024 UAP Year in Review",
+      "publicationDate": "2024-12-31",
+      "expectedGuests": [],
+      "neighbors": {
+        "previous": {
+          "number": 63,
+          "title": "WEAPONIZED Episode #63 — Mystery Drones and Australia’s Saucer Nests"
+        },
+        "next": {
+          "number": 65,
+          "title": "WEAPONIZED Episode #65 — UFO Revolution Premiere Q&A"
+        }
+      },
+      "expectedPodcast": "WEAPONIZED"
+    },
+    {
+      "jobId": "media-audit-4aabfe63851d9460",
+      "seriesId": "need-to-know-podcast",
+      "entityId": "2025-need-to-know-episode-60",
+      "episodeNumber": 60,
+      "episodeTitle": "Need to Know Episode #60 — Age of Disclosure?",
+      "publicationDate": "2025-02-12",
+      "expectedGuests": [],
+      "neighbors": {
+        "previous": {
+          "number": 59,
+          "title": "Need to Know Episode #59 — Jingle Drones"
+        },
+        "next": {
+          "number": 61,
+          "title": "Need to Know Episode #61 — Gimme Some Truth"
+        }
+      },
+      "expectedPodcast": "Need to Know"
+    },
+    {
+      "jobId": "media-audit-57b3596c10ec2b41",
+      "seriesId": "need-to-know-podcast",
+      "entityId": "2025-need-to-know-episode-61",
+      "episodeNumber": 61,
+      "episodeTitle": "Need to Know Episode #61 — Gimme Some Truth",
+      "publicationDate": "2025-03-10",
+      "expectedGuests": [],
+      "neighbors": {
+        "previous": {
+          "number": 60,
+          "title": "Need to Know Episode #60 — Age of Disclosure?"
+        },
+        "next": {
+          "number": 62,
+          "title": "Need to Know Episode #62 — Watch the Skies"
+        }
+      },
+      "expectedPodcast": "Need to Know"
+    },
+    {
+      "jobId": "media-audit-8b298184554d9c1a",
+      "seriesId": "need-to-know-podcast",
+      "entityId": "2025-need-to-know-episode-62",
+      "episodeNumber": 62,
+      "episodeTitle": "Need to Know Episode #62 — Watch the Skies",
+      "publicationDate": "2025-04-07",
+      "expectedGuests": [],
+      "neighbors": {
+        "previous": {
+          "number": 61,
+          "title": "Need to Know Episode #61 — Gimme Some Truth"
+        },
+        "next": {
+          "number": 63,
+          "title": "Need to Know Episode #63 — Immaculate Revelations"
+        }
+      },
+      "expectedPodcast": "Need to Know"
+    },
+    {
+      "jobId": "media-audit-81861d8720e34a88",
+      "seriesId": "need-to-know-podcast",
+      "entityId": "2025-need-to-know-episode-63",
+      "episodeNumber": 63,
+      "episodeTitle": "Need to Know Episode #63 — Immaculate Revelations",
+      "publicationDate": "2025-05-10",
+      "expectedGuests": [],
+      "neighbors": {
+        "previous": {
+          "number": 62,
+          "title": "Need to Know Episode #62 — Watch the Skies"
+        },
+        "next": {
+          "number": 64,
+          "title": "Need to Know Episode #64 — Live From CITD"
+        }
+      },
+      "expectedPodcast": "Need to Know"
+    },
+    {
+      "jobId": "media-audit-2ec1d0b1f1d81d20",
+      "seriesId": "need-to-know-podcast",
+      "entityId": "2025-need-to-know-episode-64",
+      "episodeNumber": 64,
+      "episodeTitle": "Need to Know Episode #64 — Live From CITD",
+      "publicationDate": "2025-06-08",
+      "expectedGuests": [],
+      "neighbors": {
+        "previous": {
+          "number": 63,
+          "title": "Need to Know Episode #63 — Immaculate Revelations"
+        },
+        "next": {
+          "number": 65,
+          "title": "Need to Know Episode #65 — Ross Coulthart's Final Show — Whose Tech Is It?"
+        }
+      },
+      "expectedPodcast": "Need to Know"
+    },
+    {
+      "jobId": "media-audit-e4a1c7b7931b4d78",
+      "seriesId": "need-to-know-podcast",
+      "entityId": "2025-need-to-know-episode-65",
+      "episodeNumber": 65,
+      "episodeTitle": "Need to Know Episode #65 — Ross Coulthart's Final Show — Whose Tech Is It?",
+      "publicationDate": "2025-07-07",
+      "expectedGuests": [],
+      "neighbors": {
+        "previous": {
+          "number": 64,
+          "title": "Need to Know Episode #64 — Live From CITD"
+        },
+        "next": {
+          "number": 66,
+          "title": "Need to Know Episode #66 — Richard Dolan Joins the Show — Changes"
+        }
+      },
+      "expectedPodcast": "Need to Know"
+    },
+    {
+      "jobId": "media-audit-efc2357cf452d633",
+      "seriesId": "need-to-know-podcast",
+      "entityId": "2025-need-to-know-episode-66",
+      "episodeNumber": 66,
+      "episodeTitle": "Need to Know Episode #66 — Richard Dolan Joins the Show — Changes",
+      "publicationDate": "2025-08-11",
+      "expectedGuests": [],
+      "neighbors": {
+        "previous": {
+          "number": 65,
+          "title": "Need to Know Episode #65 — Ross Coulthart's Final Show — Whose Tech Is It?"
+        },
+        "next": {
+          "number": 67,
+          "title": "Need to Know Episode #67 — What You Need to Know Now"
+        }
+      },
+      "expectedPodcast": "Need to Know"
+    },
+    {
+      "jobId": "media-audit-56c8525d33ff3862",
+      "seriesId": "need-to-know-podcast",
+      "entityId": "2025-need-to-know-episode-67",
+      "episodeNumber": 67,
+      "episodeTitle": "Need to Know Episode #67 — What You Need to Know Now",
+      "publicationDate": "2025-09-04",
+      "expectedGuests": [],
+      "neighbors": {
+        "previous": {
+          "number": 66,
+          "title": "Need to Know Episode #66 — Richard Dolan Joins the Show — Changes"
+        },
+        "next": {
+          "number": 68,
+          "title": "Need to Know Episode #68 — Beyond The Sea"
+        }
+      },
+      "expectedPodcast": "Need to Know"
+    },
+    {
+      "jobId": "media-audit-cc910f18795fc461",
+      "seriesId": "need-to-know-podcast",
+      "entityId": "2025-need-to-know-episode-68",
+      "episodeNumber": 68,
+      "episodeTitle": "Need to Know Episode #68 — Beyond The Sea",
+      "publicationDate": "2025-10-20",
+      "expectedGuests": [],
+      "neighbors": {
+        "previous": {
+          "number": 67,
+          "title": "Need to Know Episode #67 — What You Need to Know Now"
+        },
+        "next": {
+          "number": 69,
+          "title": "Need to Know Episode #69 — Age of Disclosure?"
+        }
+      },
+      "expectedPodcast": "Need to Know"
+    },
+    {
+      "jobId": "media-audit-7e733085dcce8376",
+      "seriesId": "need-to-know-podcast",
+      "entityId": "2025-need-to-know-episode-69",
+      "episodeNumber": 69,
+      "episodeTitle": "Need to Know Episode #69 — Age of Disclosure?",
+      "publicationDate": "2025-11-23",
+      "expectedGuests": [],
+      "neighbors": {
+        "previous": {
+          "number": 68,
+          "title": "Need to Know Episode #68 — Beyond The Sea"
+        },
+        "next": {
+          "number": 70,
+          "title": "Need to Know Episode #70 — Turn the Page"
+        }
+      },
+      "expectedPodcast": "Need to Know"
+    },
+    {
+      "jobId": "media-audit-a90936763d6af6cf",
+      "seriesId": "weaponized-podcast",
+      "entityId": "2025-weaponized-episode-100",
+      "episodeNumber": 100,
+      "episodeTitle": "WEAPONIZED Episode #100 — Creatures From Another World? The UFO–Cryptid Connection",
+      "publicationDate": "2025-12-02",
+      "expectedGuests": [],
+      "neighbors": {
+        "previous": {
+          "number": 99,
+          "title": "WEAPONIZED Episode #99 — Is This a Pivotal Moment for UFO Disclosure?"
+        },
+        "next": {
+          "number": 101,
+          "title": "WEAPONIZED Episode #101 — Congressional UAP Champions on What Comes Next"
+        }
+      },
+      "expectedPodcast": "WEAPONIZED"
+    },
+    {
+      "jobId": "media-audit-2e393f8e8c0436f4",
+      "seriesId": "weaponized-podcast",
+      "entityId": "2025-weaponized-episode-101",
+      "episodeNumber": 101,
+      "episodeTitle": "WEAPONIZED Episode #101 — Congressional UAP Champions on What Comes Next",
+      "publicationDate": "2025-12-16",
+      "expectedGuests": [],
+      "neighbors": {
+        "previous": {
+          "number": 100,
+          "title": "WEAPONIZED Episode #100 — Creatures From Another World? The UFO–Cryptid Connection"
+        },
+        "next": {
+          "number": 102,
+          "title": "WEAPONIZED Episode #102 — Jacques Vallée — The Bizarre Nature of UFOs"
+        }
+      },
+      "expectedPodcast": "WEAPONIZED"
+    },
+    {
+      "jobId": "media-audit-b769fe27b368c545",
+      "seriesId": "weaponized-podcast",
+      "entityId": "2025-weaponized-episode-102",
+      "episodeNumber": 102,
+      "episodeTitle": "WEAPONIZED Episode #102 — Jacques Vallée — The Bizarre Nature of UFOs",
+      "publicationDate": "2025-12-23",
+      "expectedGuests": [],
+      "neighbors": {
+        "previous": {
+          "number": 101,
+          "title": "WEAPONIZED Episode #101 — Congressional UAP Champions on What Comes Next"
+        },
+        "next": {
+          "number": 103,
+          "title": "WEAPONIZED Episode #103 — 2025 Year in Review — Progress, Evidence, and Pushback"
+        }
+      },
+      "expectedPodcast": "WEAPONIZED"
+    },
+    {
+      "jobId": "media-audit-cd3355d50a5eae40",
+      "seriesId": "weaponized-podcast",
+      "entityId": "2025-weaponized-episode-65",
+      "episodeNumber": 65,
+      "episodeTitle": "WEAPONIZED Episode #65 — UFO Revolution Premiere Q&A",
+      "publicationDate": "2025-01-26",
+      "expectedGuests": [],
+      "neighbors": {
+        "previous": {
+          "number": 64,
+          "title": "WEAPONIZED Episode #64 — The 2024 UAP Year in Review"
+        },
+        "next": {
+          "number": 66,
+          "title": "WEAPONIZED Episode #66 — Mike Gold on NASA, UAP, and Space Research"
+        }
+      },
+      "expectedPodcast": "WEAPONIZED"
+    },
+    {
+      "jobId": "media-audit-3582e80cfe065067",
+      "seriesId": "weaponized-podcast",
+      "entityId": "2025-weaponized-episode-66",
+      "episodeNumber": 66,
+      "episodeTitle": "WEAPONIZED Episode #66 — Mike Gold on NASA, UAP, and Space Research",
+      "publicationDate": "2025-02-11",
+      "expectedGuests": [],
+      "neighbors": {
+        "previous": {
+          "number": 65,
+          "title": "WEAPONIZED Episode #65 — UFO Revolution Premiere Q&A"
+        },
+        "next": {
+          "number": 67,
+          "title": "WEAPONIZED Episode #67 — Richard Dolan’s History of USOs"
+        }
+      },
+      "expectedPodcast": "WEAPONIZED"
+    },
+    {
+      "jobId": "media-audit-ae6b723cb914e5ae",
+      "seriesId": "weaponized-podcast",
+      "entityId": "2025-weaponized-episode-67",
+      "episodeNumber": 67,
+      "episodeTitle": "WEAPONIZED Episode #67 — Richard Dolan’s History of USOs",
+      "publicationDate": "2025-02-25",
+      "expectedGuests": [],
+      "neighbors": {
+        "previous": {
+          "number": 66,
+          "title": "WEAPONIZED Episode #66 — Mike Gold on NASA, UAP, and Space Research"
+        },
+        "next": {
+          "number": 68,
+          "title": "WEAPONIZED Episode #68 — Ralph Blumenthal and the 2017 New York Times UFO Story"
+        }
+      },
+      "expectedPodcast": "WEAPONIZED"
+    },
+    {
+      "jobId": "media-audit-1cd1a222d8f5f1ff",
+      "seriesId": "weaponized-podcast",
+      "entityId": "2025-weaponized-episode-68",
+      "episodeNumber": 68,
+      "episodeTitle": "WEAPONIZED Episode #68 — Ralph Blumenthal and the 2017 New York Times UFO Story",
+      "publicationDate": "2025-03-11",
+      "expectedGuests": [],
+      "neighbors": {
+        "previous": {
+          "number": 67,
+          "title": "WEAPONIZED Episode #67 — Richard Dolan’s History of USOs"
+        },
+        "next": {
+          "number": 69,
+          "title": "WEAPONIZED Episode #69 — John Mack, Ariel School, and Reporting the Unreportable"
+        }
+      },
+      "expectedPodcast": "WEAPONIZED"
+    },
+    {
+      "jobId": "media-audit-dae5c0edf9dc031a",
+      "seriesId": "weaponized-podcast",
+      "entityId": "2025-weaponized-episode-69",
+      "episodeNumber": 69,
+      "episodeTitle": "WEAPONIZED Episode #69 — John Mack, Ariel School, and Reporting the Unreportable",
+      "publicationDate": "2025-03-18",
+      "expectedGuests": [],
+      "neighbors": {
+        "previous": {
+          "number": 68,
+          "title": "WEAPONIZED Episode #68 — Ralph Blumenthal and the 2017 New York Times UFO Story"
+        },
+        "next": {
+          "number": 70,
+          "title": "WEAPONIZED Episode #70 — The Age of Disclosure and Media Coverage of UAP"
+        }
+      },
+      "expectedPodcast": "WEAPONIZED"
+    },
+    {
+      "jobId": "media-audit-f367385150877c06",
+      "seriesId": "weaponized-podcast",
+      "entityId": "2025-weaponized-episode-70",
+      "episodeNumber": 70,
+      "episodeTitle": "WEAPONIZED Episode #70 — The Age of Disclosure and Media Coverage of UAP",
+      "publicationDate": "2025-03-25",
+      "expectedGuests": [],
+      "neighbors": {
+        "previous": {
+          "number": 69,
+          "title": "WEAPONIZED Episode #69 — John Mack, Ariel School, and Reporting the Unreportable"
+        },
+        "next": {
+          "number": 71,
+          "title": "WEAPONIZED Episode #71 — The Vandenberg Red Square UAP"
+        }
+      },
+      "expectedPodcast": "WEAPONIZED"
+    },
+    {
+      "jobId": "media-audit-3167820fb70e64a3",
+      "seriesId": "weaponized-podcast",
+      "entityId": "2025-weaponized-episode-71",
+      "episodeNumber": 71,
+      "episodeTitle": "WEAPONIZED Episode #71 — The Vandenberg Red Square UAP",
+      "publicationDate": "2025-04-01",
+      "expectedGuests": [],
+      "neighbors": {
+        "previous": {
+          "number": 70,
+          "title": "WEAPONIZED Episode #70 — The Age of Disclosure and Media Coverage of UAP"
+        },
+        "next": {
+          "number": 72,
+          "title": "WEAPONIZED Episode #72 — The USS Jackson Tic Tac Video"
+        }
+      },
+      "expectedPodcast": "WEAPONIZED"
+    },
+    {
+      "jobId": "media-audit-e805355c305c31cd",
+      "seriesId": "weaponized-podcast",
+      "entityId": "2025-weaponized-episode-72",
+      "episodeNumber": 72,
+      "episodeTitle": "WEAPONIZED Episode #72 — The USS Jackson Tic Tac Video",
+      "publicationDate": "2025-04-08",
+      "expectedGuests": [],
+      "neighbors": {
+        "previous": {
+          "number": 71,
+          "title": "WEAPONIZED Episode #71 — The Vandenberg Red Square UAP"
+        },
+        "next": {
+          "number": 73,
+          "title": "WEAPONIZED Episode #73 — USS Jackson Eyewitness Alex Wiggins"
+        }
+      },
+      "expectedPodcast": "WEAPONIZED"
+    },
+    {
+      "jobId": "media-audit-7f9831067615d10c",
+      "seriesId": "weaponized-podcast",
+      "entityId": "2025-weaponized-episode-73",
+      "episodeNumber": 73,
+      "episodeTitle": "WEAPONIZED Episode #73 — USS Jackson Eyewitness Alex Wiggins",
+      "publicationDate": "2025-04-15",
+      "expectedGuests": [],
+      "neighbors": {
+        "previous": {
+          "number": 72,
+          "title": "WEAPONIZED Episode #72 — The USS Jackson Tic Tac Video"
+        },
+        "next": {
+          "number": 74,
+          "title": "WEAPONIZED Episode #74 — Matthew Brown and Immaculate Constellation — Part 1"
+        }
+      },
+      "expectedPodcast": "WEAPONIZED"
+    },
+    {
+      "jobId": "media-audit-65acdce5a8697cb8",
+      "seriesId": "weaponized-podcast",
+      "entityId": "2025-weaponized-episode-74",
+      "episodeNumber": 74,
+      "episodeTitle": "WEAPONIZED Episode #74 — Matthew Brown and Immaculate Constellation — Part 1",
+      "publicationDate": "2025-04-29",
+      "expectedGuests": [],
+      "neighbors": {
+        "previous": {
+          "number": 73,
+          "title": "WEAPONIZED Episode #73 — USS Jackson Eyewitness Alex Wiggins"
+        },
+        "next": {
+          "number": 74,
+          "title": "WEAPONIZED Episode #74 — Matthew Brown Part 1: Immaculate Constellation"
+        }
+      },
+      "expectedPodcast": "WEAPONIZED"
+    },
+    {
+      "jobId": "media-audit-52b9375184f32a46",
+      "seriesId": "weaponized-podcast",
+      "entityId": "2025-weaponized-episode-75",
+      "episodeNumber": 75,
+      "episodeTitle": "WEAPONIZED Episode #75 — Matthew Brown and Immaculate Constellation — Part 2",
+      "publicationDate": "2025-05-06",
+      "expectedGuests": [],
+      "neighbors": {
+        "previous": {
+          "number": 74,
+          "title": "WEAPONIZED Episode #74 — Matthew Brown Part 1: Immaculate Constellation"
+        },
+        "next": {
+          "number": 75,
+          "title": "WEAPONIZED Episode #75 — Matthew Brown Part 2: Immaculate Constellation"
+        }
+      },
+      "expectedPodcast": "WEAPONIZED"
+    },
+    {
+      "jobId": "media-audit-b50a6d9f7350b89c",
+      "seriesId": "weaponized-podcast",
+      "entityId": "2025-weaponized-episode-76",
+      "episodeNumber": 76,
+      "episodeTitle": "WEAPONIZED Episode #76 — Matthew Brown and Immaculate Constellation — Part 3",
+      "publicationDate": "2025-05-13",
+      "expectedGuests": [],
+      "neighbors": {
+        "previous": {
+          "number": 75,
+          "title": "WEAPONIZED Episode #75 — Matthew Brown Part 2: Immaculate Constellation"
+        },
+        "next": {
+          "number": 76,
+          "title": "WEAPONIZED Episode #76 — Matthew Brown Part 3: Immaculate Constellation"
+        }
+      },
+      "expectedPodcast": "WEAPONIZED"
+    },
+    {
+      "jobId": "media-audit-348e32cc481589d5",
+      "seriesId": "weaponized-podcast",
+      "entityId": "2025-weaponized-episode-77",
+      "episodeNumber": 77,
+      "episodeTitle": "WEAPONIZED Episode #77 — UAP Briefings, Immaculate Constellation, and the Jellyfish Debate",
+      "publicationDate": "2025-05-20",
+      "expectedGuests": [],
+      "neighbors": {
+        "previous": {
+          "number": 76,
+          "title": "WEAPONIZED Episode #76 — Matthew Brown Part 3: Immaculate Constellation"
+        },
+        "next": {
+          "number": 78,
+          "title": "WEAPONIZED Episode #78 — Sean Kirkpatrick, AARO, and UFO Politics"
+        }
+      },
+      "expectedPodcast": "WEAPONIZED"
+    },
+    {
+      "jobId": "media-audit-7ac90c9f2898955d",
+      "seriesId": "weaponized-podcast",
+      "entityId": "2025-weaponized-episode-78",
+      "episodeNumber": 78,
+      "episodeTitle": "WEAPONIZED Episode #78 — Sean Kirkpatrick, AARO, and UFO Politics",
+      "publicationDate": "2025-06-09",
+      "expectedGuests": [],
+      "neighbors": {
+        "previous": {
+          "number": 77,
+          "title": "WEAPONIZED Episode #77 — UAP Briefings, Immaculate Constellation, and the Jellyfish Debate"
+        },
+        "next": {
+          "number": 79,
+          "title": "WEAPONIZED Episode #79 — The Large Disc UAP Video"
+        }
+      },
+      "expectedPodcast": "WEAPONIZED"
+    },
+    {
+      "jobId": "media-audit-0ffa6803ce8ee115",
+      "seriesId": "weaponized-podcast",
+      "entityId": "2025-weaponized-episode-79",
+      "episodeNumber": 79,
+      "episodeTitle": "WEAPONIZED Episode #79 — The Large Disc UAP Video",
+      "publicationDate": "2025-06-17",
+      "expectedGuests": [],
+      "neighbors": {
+        "previous": {
+          "number": 78,
+          "title": "WEAPONIZED Episode #78 — Sean Kirkpatrick, AARO, and UFO Politics"
+        },
+        "next": {
+          "number": 80,
+          "title": "WEAPONIZED Episode #80 — UFOs, Nuclear Weapons, and the Wall Street Journal"
+        }
+      },
+      "expectedPodcast": "WEAPONIZED"
+    },
+    {
+      "jobId": "media-audit-fdee589b614ed10b",
+      "seriesId": "weaponized-podcast",
+      "entityId": "2025-weaponized-episode-80",
+      "episodeNumber": 80,
+      "episodeTitle": "WEAPONIZED Episode #80 — UFOs, Nuclear Weapons, and the Wall Street Journal",
+      "publicationDate": "2025-06-24",
+      "expectedGuests": [],
+      "neighbors": {
+        "previous": {
+          "number": 79,
+          "title": "WEAPONIZED Episode #79 — The Large Disc UAP Video"
+        },
+        "next": {
+          "number": 81,
+          "title": "WEAPONIZED Episode #81 — The Full Mosul Orb Video"
+        }
+      },
+      "expectedPodcast": "WEAPONIZED"
+    },
+    {
+      "jobId": "media-audit-2c036dcbaa20107c",
+      "seriesId": "weaponized-podcast",
+      "entityId": "2025-weaponized-episode-81",
+      "episodeNumber": 81,
+      "episodeTitle": "WEAPONIZED Episode #81 — The Full Mosul Orb Video",
+      "publicationDate": "2025-07-01",
+      "expectedGuests": [],
+      "neighbors": {
+        "previous": {
+          "number": 80,
+          "title": "WEAPONIZED Episode #80 — UFOs, Nuclear Weapons, and the Wall Street Journal"
+        },
+        "next": {
+          "number": 82,
+          "title": "WEAPONIZED Episode #82 — Disclosure, Drones, and Competition for Crash Materials"
+        }
+      },
+      "expectedPodcast": "WEAPONIZED"
+    },
+    {
+      "jobId": "media-audit-f55b04a103f13123",
+      "seriesId": "weaponized-podcast",
+      "entityId": "2025-weaponized-episode-82",
+      "episodeNumber": 82,
+      "episodeTitle": "WEAPONIZED Episode #82 — Disclosure, Drones, and Competition for Crash Materials",
+      "publicationDate": "2025-07-11",
+      "expectedGuests": [],
+      "neighbors": {
+        "previous": {
+          "number": 81,
+          "title": "WEAPONIZED Episode #81 — The Full Mosul Orb Video"
+        },
+        "next": {
+          "number": 83,
+          "title": "WEAPONIZED Episode #83 — Storming the Silence — Dave Foley and the Fight for UAP Transparency"
+        }
+      },
+      "expectedPodcast": "WEAPONIZED"
+    },
+    {
+      "jobId": "media-audit-9234ccd1a95c1990",
+      "seriesId": "weaponized-podcast",
+      "entityId": "2025-weaponized-episode-83",
+      "episodeNumber": 83,
+      "episodeTitle": "WEAPONIZED Episode #83 — Storming the Silence — Dave Foley and the Fight for UAP Transparency",
+      "publicationDate": "2025-07-22",
+      "expectedGuests": [],
+      "neighbors": {
+        "previous": {
+          "number": 82,
+          "title": "WEAPONIZED Episode #82 — Disclosure, Drones, and Competition for Crash Materials"
+        },
+        "next": {
+          "number": 84,
+          "title": "WEAPONIZED Episode #84 — False Prophets and Flying Objects — The Whistleblower Wave"
+        }
+      },
+      "expectedPodcast": "WEAPONIZED"
+    },
+    {
+      "jobId": "media-audit-e7340a9bae56cfbe",
+      "seriesId": "weaponized-podcast",
+      "entityId": "2025-weaponized-episode-84",
+      "episodeNumber": 84,
+      "episodeTitle": "WEAPONIZED Episode #84 — False Prophets and Flying Objects — The Whistleblower Wave",
+      "publicationDate": "2025-08-05",
+      "expectedGuests": [],
+      "neighbors": {
+        "previous": {
+          "number": 83,
+          "title": "WEAPONIZED Episode #83 — Storming the Silence — Dave Foley and the Fight for UAP Transparency"
+        },
+        "next": {
+          "number": 85,
+          "title": "WEAPONIZED Episode #85 — Weaponized Silence — The UFO Disclosure Dilemma"
+        }
+      },
+      "expectedPodcast": "WEAPONIZED"
+    },
+    {
+      "jobId": "media-audit-dd44d5f35140be06",
+      "seriesId": "weaponized-podcast",
+      "entityId": "2025-weaponized-episode-85",
+      "episodeNumber": 85,
+      "episodeTitle": "WEAPONIZED Episode #85 — Weaponized Silence — The UFO Disclosure Dilemma",
+      "publicationDate": "2025-08-12",
+      "expectedGuests": [],
+      "neighbors": {
+        "previous": {
+          "number": 84,
+          "title": "WEAPONIZED Episode #84 — False Prophets and Flying Objects — The Whistleblower Wave"
+        },
+        "next": {
+          "number": 86,
+          "title": "WEAPONIZED Episode #86 — Threats, Intimidation, Prosecution — The Daunting Risks for UFO Whistleblowers"
+        }
+      },
+      "expectedPodcast": "WEAPONIZED"
+    },
+    {
+      "jobId": "media-audit-577a5cba23e6a7f7",
+      "seriesId": "weaponized-podcast",
+      "entityId": "2025-weaponized-episode-86",
+      "episodeNumber": 86,
+      "episodeTitle": "WEAPONIZED Episode #86 — Threats, Intimidation, Prosecution — The Daunting Risks for UFO Whistleblowers",
+      "publicationDate": "2025-08-19",
+      "expectedGuests": [],
+      "neighbors": {
+        "previous": {
+          "number": 85,
+          "title": "WEAPONIZED Episode #85 — Weaponized Silence — The UFO Disclosure Dilemma"
+        },
+        "next": {
+          "number": 87,
+          "title": "WEAPONIZED Episode #87 — Alien Bodies and Technology — The Lost Tapes of UFO Whistleblower Col. Corso"
+        }
+      },
+      "expectedPodcast": "WEAPONIZED"
+    },
+    {
+      "jobId": "media-audit-9101995632ad3bfd",
+      "seriesId": "weaponized-podcast",
+      "entityId": "2025-weaponized-episode-87",
+      "episodeNumber": 87,
+      "episodeTitle": "WEAPONIZED Episode #87 — Alien Bodies and Technology — The Lost Tapes of UFO Whistleblower Col. Corso",
+      "publicationDate": "2025-08-26",
+      "expectedGuests": [],
+      "neighbors": {
+        "previous": {
+          "number": 86,
+          "title": "WEAPONIZED Episode #86 — Threats, Intimidation, Prosecution — The Daunting Risks for UFO Whistleblowers"
+        },
+        "next": {
+          "number": 88,
+          "title": "WEAPONIZED Episode #88 — Injured by UFOs — The Case-by-Case Medical Evidence"
+        }
+      },
+      "expectedPodcast": "WEAPONIZED"
+    },
+    {
+      "jobId": "media-audit-e6a89e92ec4c24e9",
+      "seriesId": "weaponized-podcast",
+      "entityId": "2025-weaponized-episode-88",
+      "episodeNumber": 88,
+      "episodeTitle": "WEAPONIZED Episode #88 — Injured by UFOs — The Case-by-Case Medical Evidence",
+      "publicationDate": "2025-09-02",
+      "expectedGuests": [],
+      "neighbors": {
+        "previous": {
+          "number": 87,
+          "title": "WEAPONIZED Episode #87 — Alien Bodies and Technology — The Lost Tapes of UFO Whistleblower Col. Corso"
+        },
+        "next": {
+          "number": 89,
+          "title": "WEAPONIZED Episode #89 — The 2025 UAP Hearing — Did It Move the Needle?"
+        }
+      },
+      "expectedPodcast": "WEAPONIZED"
+    },
+    {
+      "jobId": "media-audit-7b5110b23a103d36",
+      "seriesId": "weaponized-podcast",
+      "entityId": "2025-weaponized-episode-89",
+      "episodeNumber": 89,
+      "episodeTitle": "WEAPONIZED Episode #89 — The 2025 UAP Hearing — Did It Move the Needle?",
+      "publicationDate": "2025-09-16",
+      "expectedGuests": [],
+      "neighbors": {
+        "previous": {
+          "number": 88,
+          "title": "WEAPONIZED Episode #88 — Injured by UFOs — The Case-by-Case Medical Evidence"
+        },
+        "next": {
+          "number": 90,
+          "title": "WEAPONIZED Episode #90 — The Reluctant UFO Whistleblower — Dylan Borland Tells All: Part 1"
+        }
+      },
+      "expectedPodcast": "WEAPONIZED"
+    },
+    {
+      "jobId": "media-audit-8be5999fba023aa1",
+      "seriesId": "weaponized-podcast",
+      "entityId": "2025-weaponized-episode-90",
+      "episodeNumber": 90,
+      "episodeTitle": "WEAPONIZED Episode #90 — The Reluctant UFO Whistleblower — Dylan Borland Tells All: Part 1",
+      "publicationDate": "2025-09-23",
+      "expectedGuests": [],
+      "neighbors": {
+        "previous": {
+          "number": 89,
+          "title": "WEAPONIZED Episode #89 — The 2025 UAP Hearing — Did It Move the Needle?"
+        },
+        "next": {
+          "number": 91,
+          "title": "WEAPONIZED Episode #91 — Dylan Borland Unloads — The Truth About Legacy UFO Programs: Part 2"
+        }
+      },
+      "expectedPodcast": "WEAPONIZED"
+    },
+    {
+      "jobId": "media-audit-3130e9382e521670",
+      "seriesId": "weaponized-podcast",
+      "entityId": "2025-weaponized-episode-91",
+      "episodeNumber": 91,
+      "episodeTitle": "WEAPONIZED Episode #91 — Dylan Borland Unloads — The Truth About Legacy UFO Programs: Part 2",
+      "publicationDate": "2025-10-02",
+      "expectedGuests": [],
+      "neighbors": {
+        "previous": {
+          "number": 90,
+          "title": "WEAPONIZED Episode #90 — The Reluctant UFO Whistleblower — Dylan Borland Tells All: Part 1"
+        },
+        "next": {
+          "number": 92,
+          "title": "WEAPONIZED Episode #92 — The UAP Witness That Didn’t Testify — Congress Wanted You to Hear This"
+        }
+      },
+      "expectedPodcast": "WEAPONIZED"
+    },
+    {
+      "jobId": "media-audit-02c19d0b979e7fc0",
+      "seriesId": "weaponized-podcast",
+      "entityId": "2025-weaponized-episode-92",
+      "episodeNumber": 92,
+      "episodeTitle": "WEAPONIZED Episode #92 — The UAP Witness That Didn’t Testify — Congress Wanted You to Hear This",
+      "publicationDate": "2025-10-09",
+      "expectedGuests": [],
+      "neighbors": {
+        "previous": {
+          "number": 91,
+          "title": "WEAPONIZED Episode #91 — Dylan Borland Unloads — The Truth About Legacy UFO Programs: Part 2"
+        },
+        "next": {
+          "number": 93,
+          "title": "WEAPONIZED Episode #93 — Mystery Drones, Eglin’s Black Triangle, and Chris Sharp"
+        }
+      },
+      "expectedPodcast": "WEAPONIZED"
+    },
+    {
+      "jobId": "media-audit-08cabe69158158e3",
+      "seriesId": "weaponized-podcast",
+      "entityId": "2025-weaponized-episode-93",
+      "episodeNumber": 93,
+      "episodeTitle": "WEAPONIZED Episode #93 — Mystery Drones, Eglin’s Black Triangle, and Chris Sharp",
+      "publicationDate": "2025-10-15",
+      "expectedGuests": [],
+      "neighbors": {
+        "previous": {
+          "number": 92,
+          "title": "WEAPONIZED Episode #92 — The UAP Witness That Didn’t Testify — Congress Wanted You to Hear This"
+        },
+        "next": {
+          "number": 94,
+          "title": "WEAPONIZED Episode #94 — Is UFO Disclosure Dead?"
+        }
+      },
+      "expectedPodcast": "WEAPONIZED"
+    },
+    {
+      "jobId": "media-audit-3fd5863e103e6de5",
+      "seriesId": "weaponized-podcast",
+      "entityId": "2025-weaponized-episode-94",
+      "episodeNumber": 94,
+      "episodeTitle": "WEAPONIZED Episode #94 — Is UFO Disclosure Dead?",
+      "publicationDate": "2025-10-22",
+      "expectedGuests": [],
+      "neighbors": {
+        "previous": {
+          "number": 93,
+          "title": "WEAPONIZED Episode #93 — Mystery Drones, Eglin’s Black Triangle, and Chris Sharp"
+        },
+        "next": {
+          "number": 95,
+          "title": "WEAPONIZED Episode #95 — The Area 51 Crash Retrieval and Its Cover Story"
+        }
+      },
+      "expectedPodcast": "WEAPONIZED"
+    },
+    {
+      "jobId": "media-audit-8837590a4b921aa6",
+      "seriesId": "weaponized-podcast",
+      "entityId": "2025-weaponized-episode-95",
+      "episodeNumber": 95,
+      "episodeTitle": "WEAPONIZED Episode #95 — The Area 51 Crash Retrieval and Its Cover Story",
+      "publicationDate": "2025-10-31",
+      "expectedGuests": [],
+      "neighbors": {
+        "previous": {
+          "number": 94,
+          "title": "WEAPONIZED Episode #94 — Is UFO Disclosure Dead?"
+        },
+        "next": {
+          "number": 96,
+          "title": "WEAPONIZED Episode #96 — James Lacatski on AAWSAP, Kona Blue, and a Recovered Craft — Part 1"
+        }
+      },
+      "expectedPodcast": "WEAPONIZED"
+    },
+    {
+      "jobId": "media-audit-ebaa9cc7bd13acbc",
+      "seriesId": "weaponized-podcast",
+      "entityId": "2025-weaponized-episode-96",
+      "episodeNumber": 96,
+      "episodeTitle": "WEAPONIZED Episode #96 — James Lacatski on AAWSAP, Kona Blue, and a Recovered Craft — Part 1",
+      "publicationDate": "2025-11-05",
+      "expectedGuests": [],
+      "neighbors": {
+        "previous": {
+          "number": 95,
+          "title": "WEAPONIZED Episode #95 — The Area 51 Crash Retrieval and Its Cover Story"
+        },
+        "next": {
+          "number": 97,
+          "title": "WEAPONIZED Episode #97 — James Lacatski on Disclosure, Hitchhikers, and the Tic Tac — Part 2"
+        }
+      },
+      "expectedPodcast": "WEAPONIZED"
+    },
+    {
+      "jobId": "media-audit-f6423626cba3233b",
+      "seriesId": "weaponized-podcast",
+      "entityId": "2025-weaponized-episode-97",
+      "episodeNumber": 97,
+      "episodeTitle": "WEAPONIZED Episode #97 — James Lacatski on Disclosure, Hitchhikers, and the Tic Tac — Part 2",
+      "publicationDate": "2025-11-11",
+      "expectedGuests": [],
+      "neighbors": {
+        "previous": {
+          "number": 96,
+          "title": "WEAPONIZED Episode #96 — James Lacatski on AAWSAP, Kona Blue, and a Recovered Craft — Part 1"
+        },
+        "next": {
+          "number": 98,
+          "title": "WEAPONIZED Episode #98 — Reassessing the James Lacatski Revelations"
+        }
+      },
+      "expectedPodcast": "WEAPONIZED"
+    },
+    {
+      "jobId": "media-audit-d2eb35fe190857f8",
+      "seriesId": "weaponized-podcast",
+      "entityId": "2025-weaponized-episode-98",
+      "episodeNumber": 98,
+      "episodeTitle": "WEAPONIZED Episode #98 — Reassessing the James Lacatski Revelations",
+      "publicationDate": "2025-11-18",
+      "expectedGuests": [],
+      "neighbors": {
+        "previous": {
+          "number": 97,
+          "title": "WEAPONIZED Episode #97 — James Lacatski on Disclosure, Hitchhikers, and the Tic Tac — Part 2"
+        },
+        "next": {
+          "number": 99,
+          "title": "WEAPONIZED Episode #99 — Is This a Pivotal Moment for UFO Disclosure?"
+        }
+      },
+      "expectedPodcast": "WEAPONIZED"
+    },
+    {
+      "jobId": "media-audit-589270d3367cf2d5",
+      "seriesId": "weaponized-podcast",
+      "entityId": "2025-weaponized-episode-99",
+      "episodeNumber": 99,
+      "episodeTitle": "WEAPONIZED Episode #99 — Is This a Pivotal Moment for UFO Disclosure?",
+      "publicationDate": "2025-11-26",
+      "expectedGuests": [],
+      "neighbors": {
+        "previous": {
+          "number": 98,
+          "title": "WEAPONIZED Episode #98 — Reassessing the James Lacatski Revelations"
+        },
+        "next": {
+          "number": 100,
+          "title": "WEAPONIZED Episode #100 — Creatures From Another World? The UFO–Cryptid Connection"
+        }
+      },
+      "expectedPodcast": "WEAPONIZED"
+    },
+    {
+      "jobId": "media-audit-8c5b5d0a83afea11",
+      "seriesId": "need-to-know-podcast",
+      "entityId": "2026-need-to-know-episode-70",
+      "episodeNumber": 70,
+      "episodeTitle": "Need to Know Episode #70 — Turn the Page",
+      "publicationDate": "2026-01-02",
+      "expectedGuests": [],
+      "neighbors": {
+        "previous": {
+          "number": 69,
+          "title": "Need to Know Episode #69 — Age of Disclosure?"
+        },
+        "next": {
+          "number": 71,
+          "title": "Need to Know Episode #71 — Crash"
+        }
+      },
+      "expectedPodcast": "Need to Know"
+    },
+    {
+      "jobId": "media-audit-7e03c69169f1fa32",
+      "seriesId": "need-to-know-podcast",
+      "entityId": "2026-need-to-know-episode-71",
+      "episodeNumber": 71,
+      "episodeTitle": "Need to Know Episode #71 — Crash",
+      "publicationDate": "2026-02-16",
+      "expectedGuests": [],
+      "neighbors": {
+        "previous": {
+          "number": 70,
+          "title": "Need to Know Episode #70 — Turn the Page"
+        },
+        "next": {
+          "number": 72,
+          "title": "Need to Know Episode #72 — UFO Hail Mary"
+        }
+      },
+      "expectedPodcast": "Need to Know"
+    },
+    {
+      "jobId": "media-audit-ba83cc022b2a7b54",
+      "seriesId": "need-to-know-podcast",
+      "entityId": "2026-need-to-know-episode-72",
+      "episodeNumber": 72,
+      "episodeTitle": "Need to Know Episode #72 — UFO Hail Mary",
+      "publicationDate": "2026-03-30",
+      "expectedGuests": [],
+      "neighbors": {
+        "previous": {
+          "number": 71,
+          "title": "Need to Know Episode #71 — Crash"
+        },
+        "next": {
+          "number": 73,
+          "title": "Need to Know Episode #73 — UFO Disclosure Plot Twist"
+        }
+      },
+      "expectedPodcast": "Need to Know"
+    },
+    {
+      "jobId": "media-audit-892edd33ab7f6a5f",
+      "seriesId": "need-to-know-podcast",
+      "entityId": "2026-need-to-know-episode-73",
+      "episodeNumber": 73,
+      "episodeTitle": "Need to Know Episode #73 — UFO Disclosure Plot Twist",
+      "publicationDate": "2026-05-10",
+      "expectedGuests": [],
+      "neighbors": {
+        "previous": {
+          "number": 72,
+          "title": "Need to Know Episode #72 — UFO Hail Mary"
+        },
+        "next": {
+          "number": 74,
+          "title": "Need to Know Episode #74 — The Day After Disclosure Day"
+        }
+      },
+      "expectedPodcast": "Need to Know"
+    },
+    {
+      "jobId": "media-audit-5a63811dfe8983c1",
+      "seriesId": "need-to-know-podcast",
+      "entityId": "2026-need-to-know-episode-74",
+      "episodeNumber": 74,
+      "episodeTitle": "Need to Know Episode #74 — The Day After Disclosure Day",
+      "publicationDate": "2026-06-04",
+      "expectedGuests": [],
+      "neighbors": {
+        "previous": {
+          "number": 73,
+          "title": "Need to Know Episode #73 — UFO Disclosure Plot Twist"
+        },
+        "next": {
+          "number": 75,
+          "title": "Need to Know Episode #75 — Is the Tic Tac Really Lockheed Martin Technology?"
+        }
+      },
+      "expectedPodcast": "Need to Know"
+    },
+    {
+      "jobId": "media-audit-f85c99bbdf4a3345",
+      "seriesId": "need-to-know-podcast",
+      "entityId": "2026-need-to-know-episode-75",
+      "episodeNumber": 75,
+      "episodeTitle": "Need to Know Episode #75 — Is the Tic Tac Really Lockheed Martin Technology?",
+      "publicationDate": "2026-07-05",
+      "expectedGuests": [],
+      "neighbors": {
+        "previous": {
+          "number": 74,
+          "title": "Need to Know Episode #74 — The Day After Disclosure Day"
+        },
+        "next": null
+      },
+      "expectedPodcast": "Need to Know"
+    },
+    {
+      "jobId": "media-audit-6913c74d3b367bf4",
+      "seriesId": "weaponized-podcast",
+      "entityId": "2026-weaponized-episode-103",
+      "episodeNumber": 103,
+      "episodeTitle": "WEAPONIZED Episode #103 — 2025 Year in Review — Progress, Evidence, and Pushback",
+      "publicationDate": "2026-01-01",
+      "expectedGuests": [],
+      "neighbors": {
+        "previous": {
+          "number": 102,
+          "title": "WEAPONIZED Episode #102 — Jacques Vallée — The Bizarre Nature of UFOs"
+        },
+        "next": {
+          "number": 104,
+          "title": "WEAPONIZED Episode #104 — Nazca Mummies — Scientific Criticism and Evidence Tampering"
+        }
+      },
+      "expectedPodcast": "WEAPONIZED"
+    },
+    {
+      "jobId": "media-audit-589dd23aa954cc68",
+      "seriesId": "weaponized-podcast",
+      "entityId": "2026-weaponized-episode-104",
+      "episodeNumber": 104,
+      "episodeTitle": "WEAPONIZED Episode #104 — Nazca Mummies — Scientific Criticism and Evidence Tampering",
+      "publicationDate": "2026-01-08",
+      "expectedGuests": [],
+      "neighbors": {
+        "previous": {
+          "number": 103,
+          "title": "WEAPONIZED Episode #103 — 2025 Year in Review — Progress, Evidence, and Pushback"
+        },
+        "next": {
+          "number": 105,
+          "title": "WEAPONIZED Episode #105 — James Fox — New Varginha Witnesses and the Continuing Cover-Up"
+        }
+      },
+      "expectedPodcast": "WEAPONIZED"
+    },
+    {
+      "jobId": "media-audit-17e019e78528d415",
+      "seriesId": "weaponized-podcast",
+      "entityId": "2026-weaponized-episode-105",
+      "episodeNumber": 105,
+      "episodeTitle": "WEAPONIZED Episode #105 — James Fox — New Varginha Witnesses and the Continuing Cover-Up",
+      "publicationDate": "2026-01-13",
+      "expectedGuests": [],
+      "neighbors": {
+        "previous": {
+          "number": 104,
+          "title": "WEAPONIZED Episode #104 — Nazca Mummies — Scientific Criticism and Evidence Tampering"
+        },
+        "next": {
+          "number": 106,
+          "title": "WEAPONIZED Episode #106 — Ryan “Neo” Bodenheimer — Four Pilot UAP Encounters"
+        }
+      },
+      "expectedPodcast": "WEAPONIZED"
+    },
+    {
+      "jobId": "media-audit-d5114722c799881c",
+      "seriesId": "weaponized-podcast",
+      "entityId": "2026-weaponized-episode-106",
+      "episodeNumber": 106,
+      "episodeTitle": "WEAPONIZED Episode #106 — Ryan “Neo” Bodenheimer — Four Pilot UAP Encounters",
+      "publicationDate": "2026-01-20",
+      "expectedGuests": [],
+      "neighbors": {
+        "previous": {
+          "number": 105,
+          "title": "WEAPONIZED Episode #105 — James Fox — New Varginha Witnesses and the Continuing Cover-Up"
+        },
+        "next": {
+          "number": 107,
+          "title": "WEAPONIZED Episode #107 — Soviet UFO Programs — SETKA, Thread 3, and Nuclear Incursions"
+        }
+      },
+      "expectedPodcast": "WEAPONIZED"
+    },
+    {
+      "jobId": "media-audit-a722f377ae7d8b97",
+      "seriesId": "weaponized-podcast",
+      "entityId": "2026-weaponized-episode-107",
+      "episodeNumber": 107,
+      "episodeTitle": "WEAPONIZED Episode #107 — Soviet UFO Programs — SETKA, Thread 3, and Nuclear Incursions",
+      "publicationDate": "2026-01-30",
+      "expectedGuests": [],
+      "neighbors": {
+        "previous": {
+          "number": 106,
+          "title": "WEAPONIZED Episode #106 — Ryan “Neo” Bodenheimer — Four Pilot UAP Encounters"
+        },
+        "next": {
+          "number": 108,
+          "title": "WEAPONIZED Episode #108 — Syria UAP Video — Apparent Instantaneous Acceleration"
+        }
+      },
+      "expectedPodcast": "WEAPONIZED"
+    },
+    {
+      "jobId": "media-audit-d0385ce257a555b8",
+      "seriesId": "weaponized-podcast",
+      "entityId": "2026-weaponized-episode-108",
+      "episodeNumber": 108,
+      "episodeTitle": "WEAPONIZED Episode #108 — Syria UAP Video — Apparent Instantaneous Acceleration",
+      "publicationDate": "2026-02-03",
+      "expectedGuests": [],
+      "neighbors": {
+        "previous": {
+          "number": 107,
+          "title": "WEAPONIZED Episode #107 — Soviet UFO Programs — SETKA, Thread 3, and Nuclear Incursions"
+        },
+        "next": {
+          "number": 109,
+          "title": "WEAPONIZED Episode #109 — Bob Lazar in Austin, Syria UAP Debate, and Area 51 Access"
+        }
+      },
+      "expectedPodcast": "WEAPONIZED"
+    },
+    {
+      "jobId": "media-audit-991ee2eae68b520d",
+      "seriesId": "weaponized-podcast",
+      "entityId": "2026-weaponized-episode-109",
+      "episodeNumber": 109,
+      "episodeTitle": "WEAPONIZED Episode #109 — Bob Lazar in Austin, Syria UAP Debate, and Area 51 Access",
+      "publicationDate": "2026-02-11",
+      "expectedGuests": [],
+      "neighbors": {
+        "previous": {
+          "number": 108,
+          "title": "WEAPONIZED Episode #108 — Syria UAP Video — Apparent Instantaneous Acceleration"
+        },
+        "next": {
+          "number": 110,
+          "title": "WEAPONIZED Episode #110 — Chris Sharp — Former AARO Deputy Director Describes Unexplained Cases"
+        }
+      },
+      "expectedPodcast": "WEAPONIZED"
+    },
+    {
+      "jobId": "media-audit-d7a51dd0ceb13252",
+      "seriesId": "weaponized-podcast",
+      "entityId": "2026-weaponized-episode-110",
+      "episodeNumber": 110,
+      "episodeTitle": "WEAPONIZED Episode #110 — Chris Sharp — Former AARO Deputy Director Describes Unexplained Cases",
+      "publicationDate": "2026-02-24",
+      "expectedGuests": [],
+      "neighbors": {
+        "previous": {
+          "number": 109,
+          "title": "WEAPONIZED Episode #109 — Bob Lazar in Austin, Syria UAP Debate, and Area 51 Access"
+        },
+        "next": {
+          "number": 111,
+          "title": "WEAPONIZED Episode #111 — Lenval Logan — UAP Task Force Analysis and Better Classified Evidence"
+        }
+      },
+      "expectedPodcast": "WEAPONIZED"
+    },
+    {
+      "jobId": "media-audit-405ee7cd9bd1b374",
+      "seriesId": "weaponized-podcast",
+      "entityId": "2026-weaponized-episode-111",
+      "episodeNumber": 111,
+      "episodeTitle": "WEAPONIZED Episode #111 — Lenval Logan — UAP Task Force Analysis and Better Classified Evidence",
+      "publicationDate": "2026-03-03",
+      "expectedGuests": [],
+      "neighbors": {
+        "previous": {
+          "number": 110,
+          "title": "WEAPONIZED Episode #110 — Chris Sharp — Former AARO Deputy Director Describes Unexplained Cases"
+        },
+        "next": {
+          "number": 112,
+          "title": "WEAPONIZED Episode #112 — Eric Burlison — Classified Site Visit and Congressional UAP Oversight"
+        }
+      },
+      "expectedPodcast": "WEAPONIZED"
+    },
+    {
+      "jobId": "media-audit-b4ca10edec717f4b",
+      "seriesId": "weaponized-podcast",
+      "entityId": "2026-weaponized-episode-112",
+      "episodeNumber": 112,
+      "episodeTitle": "WEAPONIZED Episode #112 — Eric Burlison — Classified Site Visit and Congressional UAP Oversight",
+      "publicationDate": "2026-03-13",
+      "expectedGuests": [],
+      "neighbors": {
+        "previous": {
+          "number": 111,
+          "title": "WEAPONIZED Episode #111 — Lenval Logan — UAP Task Force Analysis and Better Classified Evidence"
+        },
+        "next": {
+          "number": 113,
+          "title": "WEAPONIZED Episode #113 — Matthew Brown Exposes How Whistleblowers Are Being Set Up"
+        }
+      },
+      "expectedPodcast": "WEAPONIZED"
+    },
+    {
+      "jobId": "media-audit-2a993b3bad63ceea",
+      "seriesId": "weaponized-podcast",
+      "entityId": "2026-weaponized-episode-113",
+      "episodeNumber": 113,
+      "episodeTitle": "WEAPONIZED Episode #113 — Matthew Brown Exposes How Whistleblowers Are Being Set Up",
+      "publicationDate": "2026-03-18",
+      "expectedGuests": [],
+      "neighbors": {
+        "previous": {
+          "number": 112,
+          "title": "WEAPONIZED Episode #112 — Eric Burlison — Classified Site Visit and Congressional UAP Oversight"
+        },
+        "next": {
+          "number": 114,
+          "title": "WEAPONIZED Episode #114 — Dr. James Lacatski — This Is UFO Disclosure, As Far As It Can Go"
+        }
+      },
+      "expectedPodcast": "WEAPONIZED"
+    },
+    {
+      "jobId": "media-audit-54f33f7821134ed7",
+      "seriesId": "weaponized-podcast",
+      "entityId": "2026-weaponized-episode-114",
+      "episodeNumber": 114,
+      "episodeTitle": "WEAPONIZED Episode #114 — Dr. James Lacatski — This Is UFO Disclosure, As Far As It Can Go",
+      "publicationDate": "2026-04-08",
+      "expectedGuests": [],
+      "neighbors": {
+        "previous": {
+          "number": 113,
+          "title": "WEAPONIZED Episode #113 — Matthew Brown Exposes How Whistleblowers Are Being Set Up"
+        },
+        "next": {
+          "number": 115,
+          "title": "WEAPONIZED Episode #115 — A New Chapter in the Bob Lazar Saga"
+        }
+      },
+      "expectedPodcast": "WEAPONIZED"
+    },
+    {
+      "jobId": "media-audit-8a6069ba45bfc1df",
+      "seriesId": "weaponized-podcast",
+      "entityId": "2026-weaponized-episode-115",
+      "episodeNumber": 115,
+      "episodeTitle": "WEAPONIZED Episode #115 — A New Chapter in the Bob Lazar Saga",
+      "publicationDate": "2026-04-14",
+      "expectedGuests": [],
+      "neighbors": {
+        "previous": {
+          "number": 114,
+          "title": "WEAPONIZED Episode #114 — Dr. James Lacatski — This Is UFO Disclosure, As Far As It Can Go"
+        },
+        "next": {
+          "number": 116,
+          "title": "WEAPONIZED Episode #116 — UAP Transparency at the National Space Symposium"
+        }
+      },
+      "expectedPodcast": "WEAPONIZED"
+    },
+    {
+      "jobId": "media-audit-12f3f4968df60f7b",
+      "seriesId": "weaponized-podcast",
+      "entityId": "2026-weaponized-episode-115",
+      "episodeNumber": 115,
+      "episodeTitle": "WEAPONIZED Episode #115 — A New Chapter in the Bob Lazar Saga",
+      "publicationDate": "2026-04-14",
+      "expectedGuests": [],
+      "neighbors": {
+        "previous": {
+          "number": 114,
+          "title": "WEAPONIZED Episode #114 — Dr. James Lacatski — This Is UFO Disclosure, As Far As It Can Go"
+        },
+        "next": {
+          "number": 116,
+          "title": "WEAPONIZED Episode #116 — UAP Transparency at the National Space Symposium"
+        }
+      },
+      "expectedPodcast": "WEAPONIZED"
+    },
+    {
+      "jobId": "media-audit-f5b44333d7690392",
+      "seriesId": "weaponized-podcast",
+      "entityId": "2026-weaponized-episode-116",
+      "episodeNumber": 116,
+      "episodeTitle": "WEAPONIZED Episode #116 — UAP Transparency at the National Space Symposium",
+      "publicationDate": "2026-04-25",
+      "expectedGuests": [],
+      "neighbors": {
+        "previous": {
+          "number": 115,
+          "title": "WEAPONIZED Episode #115 — A New Chapter in the Bob Lazar Saga"
+        },
+        "next": {
+          "number": 117,
+          "title": "WEAPONIZED Episode #117 — Federal UFO Files, Public Expectations, and Sleeping Dog"
+        }
+      },
+      "expectedPodcast": "WEAPONIZED"
+    },
+    {
+      "jobId": "media-audit-4a55aa20a6ca503c",
+      "seriesId": "weaponized-podcast",
+      "entityId": "2026-weaponized-episode-117",
+      "episodeNumber": 117,
+      "episodeTitle": "WEAPONIZED Episode #117 — Federal UFO Files, Public Expectations, and Sleeping Dog",
+      "publicationDate": "2026-05-08",
+      "expectedGuests": [],
+      "neighbors": {
+        "previous": {
+          "number": 116,
+          "title": "WEAPONIZED Episode #116 — UAP Transparency at the National Space Symposium"
+        },
+        "next": {
+          "number": 118,
+          "title": "WEAPONIZED Episode #118 — Dylan Borland on the Costs of Coming Forward"
+        }
+      },
+      "expectedPodcast": "WEAPONIZED"
+    },
+    {
+      "jobId": "media-audit-059163d14cd3cc63",
+      "seriesId": "weaponized-podcast",
+      "entityId": "2026-weaponized-episode-118",
+      "episodeNumber": 118,
+      "episodeTitle": "WEAPONIZED Episode #118 — Dylan Borland on the Costs of Coming Forward",
+      "publicationDate": "2026-05-22",
+      "expectedGuests": [],
+      "neighbors": {
+        "previous": {
+          "number": 117,
+          "title": "WEAPONIZED Episode #117 — Federal UFO Files, Public Expectations, and Sleeping Dog"
+        },
+        "next": {
+          "number": 119,
+          "title": "WEAPONIZED Episode #119 — The Price Paid by UAP Whistleblowers"
+        }
+      },
+      "expectedPodcast": "WEAPONIZED"
+    },
+    {
+      "jobId": "media-audit-dc8dfb7bbf114506",
+      "seriesId": "weaponized-podcast",
+      "entityId": "2026-weaponized-episode-119",
+      "episodeNumber": 119,
+      "episodeTitle": "WEAPONIZED Episode #119 — The Price Paid by UAP Whistleblowers",
+      "publicationDate": "2026-06-04",
+      "expectedGuests": [],
+      "neighbors": {
+        "previous": {
+          "number": 118,
+          "title": "WEAPONIZED Episode #118 — Dylan Borland on the Costs of Coming Forward"
+        },
+        "next": {
+          "number": 120,
+          "title": "WEAPONIZED Episode #120 — Whitley Strieber — Transformation 2026 and the Meaning of Close Encounters"
+        }
+      },
+      "expectedPodcast": "WEAPONIZED"
+    },
+    {
+      "jobId": "media-audit-877d69aa27743f28",
+      "seriesId": "weaponized-podcast",
+      "entityId": "2026-weaponized-episode-120",
+      "episodeNumber": 120,
+      "episodeTitle": "WEAPONIZED Episode #120 — Whitley Strieber — Transformation 2026 and the Meaning of Close Encounters",
+      "publicationDate": "2026-06-18",
+      "expectedGuests": [],
+      "neighbors": {
+        "previous": {
+          "number": 119,
+          "title": "WEAPONIZED Episode #119 — The Price Paid by UAP Whistleblowers"
+        },
+        "next": null
+      },
+      "expectedPodcast": "WEAPONIZED"
+    },
+    {
+      "jobId": "media-audit-63c269074605aff9",
+      "seriesId": "weaponized-podcast",
+      "entityId": "weaponized-matthew-brown-part-1",
+      "episodeNumber": 74,
+      "episodeTitle": "WEAPONIZED Episode #74 — Matthew Brown Part 1: Immaculate Constellation",
+      "publicationDate": "2025-04-29",
+      "expectedGuests": [],
+      "neighbors": {
+        "previous": {
+          "number": 74,
+          "title": "WEAPONIZED Episode #74 — Matthew Brown and Immaculate Constellation — Part 1"
+        },
+        "next": {
+          "number": 75,
+          "title": "WEAPONIZED Episode #75 — Matthew Brown and Immaculate Constellation — Part 2"
+        }
+      },
+      "expectedPodcast": "WEAPONIZED"
+    },
+    {
+      "jobId": "media-audit-4ca331a5843dcc13",
+      "seriesId": "weaponized-podcast",
+      "entityId": "weaponized-matthew-brown-part-1",
+      "episodeNumber": 74,
+      "episodeTitle": "WEAPONIZED Episode #74 — Matthew Brown Part 1: Immaculate Constellation",
+      "publicationDate": "2025-04-29",
+      "expectedGuests": [],
+      "neighbors": {
+        "previous": {
+          "number": 74,
+          "title": "WEAPONIZED Episode #74 — Matthew Brown and Immaculate Constellation — Part 1"
+        },
+        "next": {
+          "number": 75,
+          "title": "WEAPONIZED Episode #75 — Matthew Brown and Immaculate Constellation — Part 2"
+        }
+      },
+      "expectedPodcast": "WEAPONIZED"
+    },
+    {
+      "jobId": "media-audit-d058332e58d3f1fd",
+      "seriesId": "weaponized-podcast",
+      "entityId": "weaponized-matthew-brown-part-1",
+      "episodeNumber": 74,
+      "episodeTitle": "WEAPONIZED Episode #74 — Matthew Brown Part 1: Immaculate Constellation",
+      "publicationDate": "2025-04-29",
+      "expectedGuests": [],
+      "neighbors": {
+        "previous": {
+          "number": 74,
+          "title": "WEAPONIZED Episode #74 — Matthew Brown and Immaculate Constellation — Part 1"
+        },
+        "next": {
+          "number": 75,
+          "title": "WEAPONIZED Episode #75 — Matthew Brown and Immaculate Constellation — Part 2"
+        }
+      },
+      "expectedPodcast": "WEAPONIZED"
+    },
+    {
+      "jobId": "media-audit-5d1b632c654b6c73",
+      "seriesId": "weaponized-podcast",
+      "entityId": "weaponized-matthew-brown-part-2",
+      "episodeNumber": 75,
+      "episodeTitle": "WEAPONIZED Episode #75 — Matthew Brown Part 2: Immaculate Constellation",
+      "publicationDate": "2025-05-06",
+      "expectedGuests": [],
+      "neighbors": {
+        "previous": {
+          "number": 75,
+          "title": "WEAPONIZED Episode #75 — Matthew Brown and Immaculate Constellation — Part 2"
+        },
+        "next": {
+          "number": 76,
+          "title": "WEAPONIZED Episode #76 — Matthew Brown and Immaculate Constellation — Part 3"
+        }
+      },
+      "expectedPodcast": "WEAPONIZED"
+    },
+    {
+      "jobId": "media-audit-8d423124a0d78362",
+      "seriesId": "weaponized-podcast",
+      "entityId": "weaponized-matthew-brown-part-2",
+      "episodeNumber": 75,
+      "episodeTitle": "WEAPONIZED Episode #75 — Matthew Brown Part 2: Immaculate Constellation",
+      "publicationDate": "2025-05-06",
+      "expectedGuests": [],
+      "neighbors": {
+        "previous": {
+          "number": 75,
+          "title": "WEAPONIZED Episode #75 — Matthew Brown and Immaculate Constellation — Part 2"
+        },
+        "next": {
+          "number": 76,
+          "title": "WEAPONIZED Episode #76 — Matthew Brown and Immaculate Constellation — Part 3"
+        }
+      },
+      "expectedPodcast": "WEAPONIZED"
+    },
+    {
+      "jobId": "media-audit-9510a88d8550e641",
+      "seriesId": "weaponized-podcast",
+      "entityId": "weaponized-matthew-brown-part-3",
+      "episodeNumber": 76,
+      "episodeTitle": "WEAPONIZED Episode #76 — Matthew Brown Part 3: Immaculate Constellation",
+      "publicationDate": "2025-05-13",
+      "expectedGuests": [],
+      "neighbors": {
+        "previous": {
+          "number": 76,
+          "title": "WEAPONIZED Episode #76 — Matthew Brown and Immaculate Constellation — Part 3"
+        },
+        "next": {
+          "number": 77,
+          "title": "WEAPONIZED Episode #77 — UAP Briefings, Immaculate Constellation, and the Jellyfish Debate"
+        }
+      },
+      "expectedPodcast": "WEAPONIZED"
+    },
+    {
+      "jobId": "media-audit-8b7974a8652e5d23",
+      "seriesId": "weaponized-podcast",
+      "entityId": "weaponized-matthew-brown-part-3",
+      "episodeNumber": 76,
+      "episodeTitle": "WEAPONIZED Episode #76 — Matthew Brown Part 3: Immaculate Constellation",
+      "publicationDate": "2025-05-13",
+      "expectedGuests": [],
+      "neighbors": {
+        "previous": {
+          "number": 76,
+          "title": "WEAPONIZED Episode #76 — Matthew Brown and Immaculate Constellation — Part 3"
+        },
+        "next": {
+          "number": 77,
+          "title": "WEAPONIZED Episode #77 — UAP Briefings, Immaculate Constellation, and the Jellyfish Debate"
+        }
+      },
+      "expectedPodcast": "WEAPONIZED"
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "type": "object",
+  "required": [
+    "jobId",
+    "action",
+    "approvalStatus"
+  ],
+  "properties": {
+    "jobId": {
+      "type": "string"
+    },
+    "action": {
+      "enum": [
+        "keep_verified",
+        "update_canonical_url",
+        "reclassify",
+        "deactivate",
+        "retire",
+        "reject",
+        "select_existing_fallback",
+        "research_required",
+        "human_review"
+      ]
+    },
+    "approvalStatus": {
+      "enum": [
+        "pending",
+        "approved",
+        "rejected"
+      ]
+    }
+  }
+}

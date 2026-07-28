@@ -1,0 +1,24 @@
+{
+  "podcastSeries": "Need to Know",
+  "seriesEntities": 1,
+  "episodeEntities": 75,
+  "mediaOccurrences": 458,
+  "uniqueCanonicalUrls": 154,
+  "validationJobs": 154,
+  "destinationTypes": {
+    "episode": 225,
+    "playlist": 227,
+    "series": 4,
+    "channel": 2
+  },
+  "platforms": {
+    "YouTube": 454,
+    "Apple Podcasts": 2,
+    "Spotify": 2
+  },
+  "duplicateOccurrences": 304,
+  "retiredDomainIndicators": 0,
+  "networkValidation": "not_run",
+  "offlinePreparation": "complete",
+  "v23_5c_2Readiness": "ready"
+}

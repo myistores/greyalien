@@ -116,3 +116,7 @@ The Somewhere in the Skies 2017 archive no longer uses retired Acast hosted-page
 
 ## V23.5A official-media architecture
 See `V23_5A_UNIVERSAL_PODCAST_OFFICIAL_MEDIA_ARCHITECTURE.md`. V23.5B has now migrated the four production podcast collections while retaining legacy fields for compatibility and rollback.
+
+## V23.5C.1 podcast media audit preparation
+
+The repository includes an offline-first universal podcast media-audit engine at `tools/audit_podcast_media.py`. Generated artifacts are stored under `data/media-audit/v23.5c.1/`. The package inventories and normalizes current media data, creates deterministic live-validation jobs, prepares episode-identity evidence, and accepts externally produced results transactionally. V23.5C.1 performs no production network checks and makes no podcast media-data changes.

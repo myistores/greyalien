@@ -1,0 +1,12 @@
+V23.5C.1 VALIDATION SUMMARY
+Status: PASS
+Network validation: NOT RUN (by release design)
+Audit entities: 261
+Media occurrences inventoried: 1,449
+Unique deterministic validation jobs: 491
+Duplicate source occurrences consolidated: 958
+Required fixtures: 30
+Unauthorized entity JSON changes: 0 of 1,609 compared
+Existing repository validators: PASS
+V23.5C.1 validator: PASS
+ZIP integrity: pending packaging

@@ -1,0 +1,143 @@
+{
+  "version": "23.5C.1-1.0.0",
+  "generatedAt": "2026-07-28T00:00:00Z",
+  "networkValidation": "not_run",
+  "totals": {
+    "entities": 261,
+    "inventoryRecords": 1449,
+    "validationJobs": 491,
+    "duplicateOccurrences": 958
+  },
+  "series": {
+    "weaponized-podcast": {
+      "podcastSeries": "WEAPONIZED",
+      "seriesEntities": 1,
+      "episodeEntities": 123,
+      "mediaOccurrences": 748,
+      "uniqueCanonicalUrls": 251,
+      "validationJobs": 251,
+      "destinationTypes": {
+        "episode": 381,
+        "series": 365,
+        "channel": 2
+      },
+      "platforms": {
+        "Official website": 126,
+        "RSS": 119,
+        "WEAPONIZED": 122,
+        "Official audio feed": 119,
+        "WEAPONIZED website": 125,
+        "link.chtbl.com": 119,
+        "YouTube": 10,
+        "WEAPONIZED / YouTube": 4,
+        "Apple Podcasts": 2,
+        "Spotify": 2
+      },
+      "duplicateOccurrences": 497,
+      "retiredDomainIndicators": 0,
+      "networkValidation": "not_run",
+      "offlinePreparation": "complete",
+      "v23_5c_2Readiness": "ready"
+    },
+    "need-to-know-podcast": {
+      "podcastSeries": "Need to Know",
+      "seriesEntities": 1,
+      "episodeEntities": 75,
+      "mediaOccurrences": 458,
+      "uniqueCanonicalUrls": 154,
+      "validationJobs": 154,
+      "destinationTypes": {
+        "episode": 225,
+        "playlist": 227,
+        "series": 4,
+        "channel": 2
+      },
+      "platforms": {
+        "YouTube": 454,
+        "Apple Podcasts": 2,
+        "Spotify": 2
+      },
+      "duplicateOccurrences": 304,
+      "retiredDomainIndicators": 0,
+      "networkValidation": "not_run",
+      "offlinePreparation": "complete",
+      "v23_5c_2Readiness": "ready"
+    },
+    "merged-podcast": {
+      "podcastSeries": "MERGED",
+      "seriesEntities": 1,
+      "episodeEntities": 19,
+      "mediaOccurrences": 115,
+      "uniqueCanonicalUrls": 42,
+      "validationJobs": 42,
+      "destinationTypes": {
+        "episode": 82,
+        "series": 31,
+        "channel": 2
+      },
+      "platforms": {
+        "Official website": 2,
+        "YouTube": 52,
+        "MERGED": 1,
+        "mergedpodcast.com": 2,
+        "iVoox": 36,
+        "ivoox.com": 18,
+        "Apple Podcasts": 2,
+        "Spotify": 2
+      },
+      "duplicateOccurrences": 73,
+      "retiredDomainIndicators": 0,
+      "networkValidation": "not_run",
+      "offlinePreparation": "complete",
+      "v23_5c_2Readiness": "ready"
+    },
+    "somewhere-in-the-skies-podcast": {
+      "podcastSeries": "Somewhere in the Skies",
+      "seriesEntities": 1,
+      "episodeEntities": 40,
+      "mediaOccurrences": 128,
+      "uniqueCanonicalUrls": 44,
+      "validationJobs": 44,
+      "destinationTypes": {
+        "series": 74,
+        "episode": 52,
+        "channel": 2
+      },
+      "platforms": {
+        "Apple Podcasts": 113,
+        "Spotify": 11,
+        "Official website": 1,
+        "YouTube": 2,
+        "somewhereintheskies.com": 1
+      },
+      "duplicateOccurrences": 84,
+      "retiredDomainIndicators": 0,
+      "networkValidation": "not_run",
+      "offlinePreparation": "complete",
+      "v23_5c_2Readiness": "ready"
+    }
+  },
+  "byPlatform": {
+    "Apple Podcasts": 119,
+    "Spotify": 17,
+    "YouTube": 518,
+    "Official website": 129,
+    "MERGED": 1,
+    "mergedpodcast.com": 2,
+    "iVoox": 36,
+    "ivoox.com": 18,
+    "RSS": 119,
+    "WEAPONIZED": 122,
+    "Official audio feed": 119,
+    "WEAPONIZED website": 125,
+    "link.chtbl.com": 119,
+    "WEAPONIZED / YouTube": 4,
+    "somewhereintheskies.com": 1
+  },
+  "byDestinationType": {
+    "series": 474,
+    "episode": 740,
+    "playlist": 227,
+    "channel": 8
+  }
+}

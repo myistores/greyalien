@@ -40,3 +40,7 @@ All 40 2017 records were audited. Retired Acast links were removed. Six independ
 
 ## V23.5A universal official-media audit layer
 Podcast audits may now validate either explicit `officialMedia` collections or derived legacy collections. Live checks must be explicitly invoked and cannot report success without a network response.
+
+## V23.5C.1 readiness
+
+All 257 migrated podcast episodes and four canonical podcast-series entities are represented in the offline audit inventory. Need to Know Episodes 13 and 14 retain dedicated regression checks, and all 40 Somewhere in the Skies 2017 records remain included. No podcast content or media records were changed.

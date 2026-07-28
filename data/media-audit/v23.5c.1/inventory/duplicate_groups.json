@@ -1,0 +1,4890 @@
+{
+  "groups": [
+    {
+      "duplicateGroup": "dup-00001",
+      "entityId": "2017-somewhere-in-the-skies-bonus-episode-movie-review-edition-justice-league",
+      "normalizedUrl": "https://podcasts.apple.com/us/podcast/somewhere-in-the-skies/id1227858637",
+      "inventoryIds": [
+        "inv-00001",
+        "inv-00002",
+        "inv-00003"
+      ]
+    },
+    {
+      "duplicateGroup": "dup-00002",
+      "entityId": "2017-somewhere-in-the-skies-bonus-episode-movie-review-edition-the-last-jedi",
+      "normalizedUrl": "https://podcasts.apple.com/us/podcast/bonus-episode-movie-review-edition-the-last-jedi/id1227858637?i=1000398008703",
+      "inventoryIds": [
+        "inv-00004",
+        "inv-00005",
+        "inv-00006"
+      ]
+    },
+    {
+      "duplicateGroup": "dup-00003",
+      "entityId": "2017-somewhere-in-the-skies-bonus-episode-reviewing-it-with-andrew-sanford",
+      "normalizedUrl": "https://podcasts.apple.com/us/podcast/somewhere-in-the-skies/id1227858637",
+      "inventoryIds": [
+        "inv-00007",
+        "inv-00008",
+        "inv-00009"
+      ]
+    },
+    {
+      "duplicateGroup": "dup-00004",
+      "entityId": "2017-somewhere-in-the-skies-episode-1",
+      "normalizedUrl": "https://podcasts.apple.com/us/podcast/somewhere-in-the-skies/id1227858637",
+      "inventoryIds": [
+        "inv-00010",
+        "inv-00011",
+        "inv-00012"
+      ]
+    },
+    {
+      "duplicateGroup": "dup-00005",
+      "entityId": "2017-somewhere-in-the-skies-episode-10",
+      "normalizedUrl": "https://podcasts.apple.com/us/podcast/somewhere-in-the-skies/id1227858637",
+      "inventoryIds": [
+        "inv-00013",
+        "inv-00014",
+        "inv-00015"
+      ]
+    },
+    {
+      "duplicateGroup": "dup-00006",
+      "entityId": "2017-somewhere-in-the-skies-episode-11",
+      "normalizedUrl": "https://podcasts.apple.com/us/podcast/somewhere-in-the-skies/id1227858637",
+      "inventoryIds": [
+        "inv-00016",
+        "inv-00017",
+        "inv-00018"
+      ]
+    },
+    {
+      "duplicateGroup": "dup-00007",
+      "entityId": "2017-somewhere-in-the-skies-episode-12",
+      "normalizedUrl": "https://podcasts.apple.com/us/podcast/somewhere-in-the-skies/id1227858637",
+      "inventoryIds": [
+        "inv-00019",
+        "inv-00020",
+        "inv-00021"
+      ]
+    },
+    {
+      "duplicateGroup": "dup-00008",
+      "entityId": "2017-somewhere-in-the-skies-episode-13",
+      "normalizedUrl": "https://podcasts.apple.com/us/podcast/somewhere-in-the-skies/id1227858637",
+      "inventoryIds": [
+        "inv-00022",
+        "inv-00023",
+        "inv-00024"
+      ]
+    },
+    {
+      "duplicateGroup": "dup-00009",
+      "entityId": "2017-somewhere-in-the-skies-episode-14",
+      "normalizedUrl": "https://podcasts.apple.com/us/podcast/somewhere-in-the-skies/id1227858637",
+      "inventoryIds": [
+        "inv-00025",
+        "inv-00026",
+        "inv-00027"
+      ]
+    },
+    {
+      "duplicateGroup": "dup-00010",
+      "entityId": "2017-somewhere-in-the-skies-episode-15",
+      "normalizedUrl": "https://podcasts.apple.com/us/podcast/david-jenkins-people-of-earth/id1227858637?i=1000390228455",
+      "inventoryIds": [
+        "inv-00028",
+        "inv-00029",
+        "inv-00030"
+      ]
+    },
+    {
+      "duplicateGroup": "dup-00011",
+      "entityId": "2017-somewhere-in-the-skies-episode-16",
+      "normalizedUrl": "https://podcasts.apple.com/us/podcast/somewhere-in-the-skies/id1227858637",
+      "inventoryIds": [
+        "inv-00031",
+        "inv-00032",
+        "inv-00033"
+      ]
+    },
+    {
+      "duplicateGroup": "dup-00012",
+      "entityId": "2017-somewhere-in-the-skies-episode-17",
+      "normalizedUrl": "https://podcasts.apple.com/us/podcast/somewhere-in-the-skies/id1227858637",
+      "inventoryIds": [
+        "inv-00034",
+        "inv-00035",
+        "inv-00036"
+      ]
+    },
+    {
+      "duplicateGroup": "dup-00013",
+      "entityId": "2017-somewhere-in-the-skies-episode-18",
+      "normalizedUrl": "https://podcasts.apple.com/us/podcast/somewhere-in-the-skies/id1227858637",
+      "inventoryIds": [
+        "inv-00037",
+        "inv-00038",
+        "inv-00039"
+      ]
+    },
+    {
+      "duplicateGroup": "dup-00014",
+      "entityId": "2017-somewhere-in-the-skies-episode-19",
+      "normalizedUrl": "https://podcasts.apple.com/us/podcast/somewhere-in-the-skies/id1227858637",
+      "inventoryIds": [
+        "inv-00040",
+        "inv-00041",
+        "inv-00042"
+      ]
+    },
+    {
+      "duplicateGroup": "dup-00015",
+      "entityId": "2017-somewhere-in-the-skies-episode-2",
+      "normalizedUrl": "https://podcasts.apple.com/us/podcast/micah-hanks-toward-a-better-ufology/id1227858637?i=1000384707651",
+      "inventoryIds": [
+        "inv-00043",
+        "inv-00044",
+        "inv-00045"
+      ]
+    },
+    {
+      "duplicateGroup": "dup-00016",
+      "entityId": "2017-somewhere-in-the-skies-episode-20",
+      "normalizedUrl": "https://podcasts.apple.com/us/podcast/somewhere-in-the-skies/id1227858637",
+      "inventoryIds": [
+        "inv-00046",
+        "inv-00047",
+        "inv-00048"
+      ]
+    },
+    {
+      "duplicateGroup": "dup-00017",
+      "entityId": "2017-somewhere-in-the-skies-episode-21",
+      "normalizedUrl": "https://podcasts.apple.com/us/podcast/somewhere-in-the-skies/id1227858637",
+      "inventoryIds": [
+        "inv-00049",
+        "inv-00050",
+        "inv-00051"
+      ]
+    },
+    {
+      "duplicateGroup": "dup-00018",
+      "entityId": "2017-somewhere-in-the-skies-episode-22",
+      "normalizedUrl": "https://podcasts.apple.com/us/podcast/somewhere-in-the-skies/id1227858637",
+      "inventoryIds": [
+        "inv-00052",
+        "inv-00053",
+        "inv-00054"
+      ]
+    },
+    {
+      "duplicateGroup": "dup-00019",
+      "entityId": "2017-somewhere-in-the-skies-episode-23",
+      "normalizedUrl": "https://podcasts.apple.com/us/podcast/somewhere-in-the-skies/id1227858637",
+      "inventoryIds": [
+        "inv-00055",
+        "inv-00056",
+        "inv-00057"
+      ]
+    },
+    {
+      "duplicateGroup": "dup-00020",
+      "entityId": "2017-somewhere-in-the-skies-episode-24",
+      "normalizedUrl": "https://podcasts.apple.com/us/podcast/somewhere-in-the-skies/id1227858637",
+      "inventoryIds": [
+        "inv-00058",
+        "inv-00059",
+        "inv-00060"
+      ]
+    },
+    {
+      "duplicateGroup": "dup-00021",
+      "entityId": "2017-somewhere-in-the-skies-episode-25",
+      "normalizedUrl": "https://podcasts.apple.com/us/podcast/somewhere-in-the-skies/id1227858637",
+      "inventoryIds": [
+        "inv-00061",
+        "inv-00062",
+        "inv-00063"
+      ]
+    },
+    {
+      "duplicateGroup": "dup-00022",
+      "entityId": "2017-somewhere-in-the-skies-episode-26",
+      "normalizedUrl": "https://podcasts.apple.com/us/podcast/somewhere-in-the-skies/id1227858637",
+      "inventoryIds": [
+        "inv-00064",
+        "inv-00065",
+        "inv-00066"
+      ]
+    },
+    {
+      "duplicateGroup": "dup-00023",
+      "entityId": "2017-somewhere-in-the-skies-episode-27",
+      "normalizedUrl": "https://podcasts.apple.com/us/podcast/somewhere-in-the-skies/id1227858637",
+      "inventoryIds": [
+        "inv-00067",
+        "inv-00068",
+        "inv-00069"
+      ]
+    },
+    {
+      "duplicateGroup": "dup-00024",
+      "entityId": "2017-somewhere-in-the-skies-episode-28",
+      "normalizedUrl": "https://podcasts.apple.com/us/podcast/somewhere-in-the-skies/id1227858637",
+      "inventoryIds": [
+        "inv-00070",
+        "inv-00071",
+        "inv-00072"
+      ]
+    },
+    {
+      "duplicateGroup": "dup-00025",
+      "entityId": "2017-somewhere-in-the-skies-episode-29",
+      "normalizedUrl": "https://podcasts.apple.com/us/podcast/somewhere-in-the-skies/id1227858637",
+      "inventoryIds": [
+        "inv-00073",
+        "inv-00074",
+        "inv-00075"
+      ]
+    },
+    {
+      "duplicateGroup": "dup-00026",
+      "entityId": "2017-somewhere-in-the-skies-episode-3",
+      "normalizedUrl": "https://podcasts.apple.com/us/podcast/somewhere-in-the-skies/id1227858637",
+      "inventoryIds": [
+        "inv-00076",
+        "inv-00077",
+        "inv-00078"
+      ]
+    },
+    {
+      "duplicateGroup": "dup-00027",
+      "entityId": "2017-somewhere-in-the-skies-episode-30",
+      "normalizedUrl": "https://podcasts.apple.com/us/podcast/somewhere-in-the-skies/id1227858637",
+      "inventoryIds": [
+        "inv-00079",
+        "inv-00080",
+        "inv-00081"
+      ]
+    },
+    {
+      "duplicateGroup": "dup-00028",
+      "entityId": "2017-somewhere-in-the-skies-episode-31",
+      "normalizedUrl": "https://podcasts.apple.com/us/podcast/somewhere-in-the-skies/id1227858637",
+      "inventoryIds": [
+        "inv-00082",
+        "inv-00083",
+        "inv-00084"
+      ]
+    },
+    {
+      "duplicateGroup": "dup-00029",
+      "entityId": "2017-somewhere-in-the-skies-episode-32",
+      "normalizedUrl": "https://podcasts.apple.com/us/podcast/somewhere-in-the-skies/id1227858637",
+      "inventoryIds": [
+        "inv-00085",
+        "inv-00086",
+        "inv-00087"
+      ]
+    },
+    {
+      "duplicateGroup": "dup-00030",
+      "entityId": "2017-somewhere-in-the-skies-episode-33",
+      "normalizedUrl": "https://podcasts.apple.com/us/podcast/somewhere-in-the-skies/id1227858637",
+      "inventoryIds": [
+        "inv-00088",
+        "inv-00089",
+        "inv-00090"
+      ]
+    },
+    {
+      "duplicateGroup": "dup-00031",
+      "entityId": "2017-somewhere-in-the-skies-episode-34",
+      "normalizedUrl": "https://podcasts.apple.com/us/podcast/somewhere-in-the-skies/id1227858637",
+      "inventoryIds": [
+        "inv-00091",
+        "inv-00092",
+        "inv-00093"
+      ]
+    },
+    {
+      "duplicateGroup": "dup-00032",
+      "entityId": "2017-somewhere-in-the-skies-episode-35",
+      "normalizedUrl": "https://open.spotify.com/episode/6BRMdWQlTLzIBqFhof6Wuy",
+      "inventoryIds": [
+        "inv-00094",
+        "inv-00095",
+        "inv-00096"
+      ]
+    },
+    {
+      "duplicateGroup": "dup-00033",
+      "entityId": "2017-somewhere-in-the-skies-episode-36",
+      "normalizedUrl": "https://podcasts.apple.com/us/podcast/somewhere-in-the-skies/id1227858637",
+      "inventoryIds": [
+        "inv-00097",
+        "inv-00098",
+        "inv-00099"
+      ]
+    },
+    {
+      "duplicateGroup": "dup-00034",
+      "entityId": "2017-somewhere-in-the-skies-episode-4",
+      "normalizedUrl": "https://open.spotify.com/episode/5nnM6FRzSDFrGjkBD4bBDF",
+      "inventoryIds": [
+        "inv-00100",
+        "inv-00101",
+        "inv-00102"
+      ]
+    },
+    {
+      "duplicateGroup": "dup-00035",
+      "entityId": "2017-somewhere-in-the-skies-episode-5",
+      "normalizedUrl": "https://podcasts.apple.com/us/podcast/somewhere-in-the-skies/id1227858637",
+      "inventoryIds": [
+        "inv-00103",
+        "inv-00104",
+        "inv-00105"
+      ]
+    },
+    {
+      "duplicateGroup": "dup-00036",
+      "entityId": "2017-somewhere-in-the-skies-episode-6",
+      "normalizedUrl": "https://podcasts.apple.com/us/podcast/somewhere-in-the-skies/id1227858637",
+      "inventoryIds": [
+        "inv-00106",
+        "inv-00107",
+        "inv-00108"
+      ]
+    },
+    {
+      "duplicateGroup": "dup-00037",
+      "entityId": "2017-somewhere-in-the-skies-episode-7",
+      "normalizedUrl": "https://open.spotify.com/episode/4DKHn3la46ZaWVpnZpqdBJ",
+      "inventoryIds": [
+        "inv-00109",
+        "inv-00110",
+        "inv-00111"
+      ]
+    },
+    {
+      "duplicateGroup": "dup-00038",
+      "entityId": "2017-somewhere-in-the-skies-episode-8",
+      "normalizedUrl": "https://podcasts.apple.com/us/podcast/somewhere-in-the-skies/id1227858637",
+      "inventoryIds": [
+        "inv-00112",
+        "inv-00113",
+        "inv-00114"
+      ]
+    },
+    {
+      "duplicateGroup": "dup-00039",
+      "entityId": "2017-somewhere-in-the-skies-episode-9",
+      "normalizedUrl": "https://podcasts.apple.com/us/podcast/somewhere-in-the-skies/id1227858637",
+      "inventoryIds": [
+        "inv-00115",
+        "inv-00116",
+        "inv-00117"
+      ]
+    },
+    {
+      "duplicateGroup": "dup-00040",
+      "entityId": "2017-somewhere-in-the-skies-patreon-bonus-episode-sneak-peek",
+      "normalizedUrl": "https://podcasts.apple.com/us/podcast/somewhere-in-the-skies/id1227858637",
+      "inventoryIds": [
+        "inv-00118",
+        "inv-00119",
+        "inv-00120"
+      ]
+    },
+    {
+      "duplicateGroup": "dup-00042",
+      "entityId": "2021-need-to-know-episode-1",
+      "normalizedUrl": "https://youtube.com/watch?v=rHwjvFf_VOo",
+      "inventoryIds": [
+        "inv-00121",
+        "inv-00123",
+        "inv-00125"
+      ]
+    },
+    {
+      "duplicateGroup": "dup-00041",
+      "entityId": "2021-need-to-know-episode-1",
+      "normalizedUrl": "https://youtube.com/playlist?list=PLXdU8QbJkboeMcvUNyGpb9h6FUS9cVBti",
+      "inventoryIds": [
+        "inv-00122",
+        "inv-00124",
+        "inv-00126"
+      ]
+    },
+    {
+      "duplicateGroup": "dup-00044",
+      "entityId": "2021-need-to-know-episode-2",
+      "normalizedUrl": "https://youtube.com/watch?v=bVIZO5zTNEY",
+      "inventoryIds": [
+        "inv-00127",
+        "inv-00129",
+        "inv-00131"
+      ]
+    },
+    {
+      "duplicateGroup": "dup-00043",
+      "entityId": "2021-need-to-know-episode-2",
+      "normalizedUrl": "https://youtube.com/playlist?list=PLXdU8QbJkboeMcvUNyGpb9h6FUS9cVBti",
+      "inventoryIds": [
+        "inv-00128",
+        "inv-00130",
+        "inv-00132"
+      ]
+    },
+    {
+      "duplicateGroup": "dup-00046",
+      "entityId": "2021-need-to-know-episode-3",
+      "normalizedUrl": "https://youtube.com/watch?v=wF_8gBlUZhY",
+      "inventoryIds": [
+        "inv-00133",
+        "inv-00135",
+        "inv-00137"
+      ]
+    },
+    {
+      "duplicateGroup": "dup-00045",
+      "entityId": "2021-need-to-know-episode-3",
+      "normalizedUrl": "https://youtube.com/playlist?list=PLXdU8QbJkboeMcvUNyGpb9h6FUS9cVBti",
+      "inventoryIds": [
+        "inv-00134",
+        "inv-00136",
+        "inv-00138"
+      ]
+    },
+    {
+      "duplicateGroup": "dup-00048",
+      "entityId": "2022-need-to-know-episode-10",
+      "normalizedUrl": "https://youtube.com/watch?v=AIbv1KzDNdQ",
+      "inventoryIds": [
+        "inv-00139",
+        "inv-00141",
+        "inv-00143"
+      ]
+    },
+    {
+      "duplicateGroup": "dup-00047",
+      "entityId": "2022-need-to-know-episode-10",
+      "normalizedUrl": "https://youtube.com/playlist?list=PLXdU8QbJkboeMcvUNyGpb9h6FUS9cVBti",
+      "inventoryIds": [
+        "inv-00140",
+        "inv-00142",
+        "inv-00144"
+      ]
+    },
+    {
+      "duplicateGroup": "dup-00050",
+      "entityId": "2022-need-to-know-episode-11",
+      "normalizedUrl": "https://youtube.com/watch?v=nE-GQq3Rbi8",
+      "inventoryIds": [
+        "inv-00145",
+        "inv-00147",
+        "inv-00149"
+      ]
+    },
+    {
+      "duplicateGroup": "dup-00049",
+      "entityId": "2022-need-to-know-episode-11",
+      "normalizedUrl": "https://youtube.com/playlist?list=PLXdU8QbJkboeMcvUNyGpb9h6FUS9cVBti",
+      "inventoryIds": [
+        "inv-00146",
+        "inv-00148",
+        "inv-00150"
+      ]
+    },
+    {
+      "duplicateGroup": "dup-00052",
+      "entityId": "2022-need-to-know-episode-12",
+      "normalizedUrl": "https://youtube.com/watch?v=Ajwe2U6qhn4",
+      "inventoryIds": [
+        "inv-00151",
+        "inv-00153",
+        "inv-00155"
+      ]
+    },
+    {
+      "duplicateGroup": "dup-00051",
+      "entityId": "2022-need-to-know-episode-12",
+      "normalizedUrl": "https://youtube.com/playlist?list=PLXdU8QbJkboeMcvUNyGpb9h6FUS9cVBti",
+      "inventoryIds": [
+        "inv-00152",
+        "inv-00154",
+        "inv-00156"
+      ]
+    },
+    {
+      "duplicateGroup": "dup-00054",
+      "entityId": "2022-need-to-know-episode-13",
+      "normalizedUrl": "https://youtube.com/watch?v=HRCT_ddq39U",
+      "inventoryIds": [
+        "inv-00157",
+        "inv-00159",
+        "inv-00161"
+      ]
+    },
+    {
+      "duplicateGroup": "dup-00053",
+      "entityId": "2022-need-to-know-episode-13",
+      "normalizedUrl": "https://youtube.com/playlist?list=PLXdU8QbJkboeMcvUNyGpb9h6FUS9cVBti",
+      "inventoryIds": [
+        "inv-00158",
+        "inv-00160",
+        "inv-00162"
+      ]
+    },
+    {
+      "duplicateGroup": "dup-00056",
+      "entityId": "2022-need-to-know-episode-14",
+      "normalizedUrl": "https://youtube.com/watch?v=YOjSBPfmoIM",
+      "inventoryIds": [
+        "inv-00163",
+        "inv-00165",
+        "inv-00167"
+      ]
+    },
+    {
+      "duplicateGroup": "dup-00055",
+      "entityId": "2022-need-to-know-episode-14",
+      "normalizedUrl": "https://youtube.com/playlist?list=PLXdU8QbJkboeMcvUNyGpb9h6FUS9cVBti",
+      "inventoryIds": [
+        "inv-00164",
+        "inv-00166",
+        "inv-00168"
+      ]
+    },
+    {
+      "duplicateGroup": "dup-00058",
+      "entityId": "2022-need-to-know-episode-15",
+      "normalizedUrl": "https://youtube.com/watch?v=W8k8yl5yLGk",
+      "inventoryIds": [
+        "inv-00169",
+        "inv-00171",
+        "inv-00173"
+      ]
+    },
+    {
+      "duplicateGroup": "dup-00057",
+      "entityId": "2022-need-to-know-episode-15",
+      "normalizedUrl": "https://youtube.com/playlist?list=PLXdU8QbJkboeMcvUNyGpb9h6FUS9cVBti",
+      "inventoryIds": [
+        "inv-00170",
+        "inv-00172",
+        "inv-00174"
+      ]
+    },
+    {
+      "duplicateGroup": "dup-00060",
+      "entityId": "2022-need-to-know-episode-16",
+      "normalizedUrl": "https://youtube.com/watch?v=0dwsvzsn3ko",
+      "inventoryIds": [
+        "inv-00175",
+        "inv-00177",
+        "inv-00179"
+      ]
+    },
+    {
+      "duplicateGroup": "dup-00059",
+      "entityId": "2022-need-to-know-episode-16",
+      "normalizedUrl": "https://youtube.com/playlist?list=PLXdU8QbJkboeMcvUNyGpb9h6FUS9cVBti",
+      "inventoryIds": [
+        "inv-00176",
+        "inv-00178",
+        "inv-00180"
+      ]
+    },
+    {
+      "duplicateGroup": "dup-00062",
+      "entityId": "2022-need-to-know-episode-17",
+      "normalizedUrl": "https://youtube.com/watch?v=7UzU_l6hDLk",
+      "inventoryIds": [
+        "inv-00181",
+        "inv-00183",
+        "inv-00185"
+      ]
+    },
+    {
+      "duplicateGroup": "dup-00061",
+      "entityId": "2022-need-to-know-episode-17",
+      "normalizedUrl": "https://youtube.com/playlist?list=PLXdU8QbJkboeMcvUNyGpb9h6FUS9cVBti",
+      "inventoryIds": [
+        "inv-00182",
+        "inv-00184",
+        "inv-00186"
+      ]
+    },
+    {
+      "duplicateGroup": "dup-00064",
+      "entityId": "2022-need-to-know-episode-18",
+      "normalizedUrl": "https://youtube.com/watch?v=zCbUiXAJbn0",
+      "inventoryIds": [
+        "inv-00187",
+        "inv-00189",
+        "inv-00191"
+      ]
+    },
+    {
+      "duplicateGroup": "dup-00063",
+      "entityId": "2022-need-to-know-episode-18",
+      "normalizedUrl": "https://youtube.com/playlist?list=PLXdU8QbJkboeMcvUNyGpb9h6FUS9cVBti",
+      "inventoryIds": [
+        "inv-00188",
+        "inv-00190",
+        "inv-00192"
+      ]
+    },
+    {
+      "duplicateGroup": "dup-00066",
+      "entityId": "2022-need-to-know-episode-19",
+      "normalizedUrl": "https://youtube.com/watch?v=A0SdTFO4GDY",
+      "inventoryIds": [
+        "inv-00193",
+        "inv-00195",
+        "inv-00197"
+      ]
+    },
+    {
+      "duplicateGroup": "dup-00065",
+      "entityId": "2022-need-to-know-episode-19",
+      "normalizedUrl": "https://youtube.com/playlist?list=PLXdU8QbJkboeMcvUNyGpb9h6FUS9cVBti",
+      "inventoryIds": [
+        "inv-00194",
+        "inv-00196",
+        "inv-00198"
+      ]
+    },
+    {
+      "duplicateGroup": "dup-00068",
+      "entityId": "2022-need-to-know-episode-20",
+      "normalizedUrl": "https://youtube.com/watch?v=pSZUBulON6I",
+      "inventoryIds": [
+        "inv-00199",
+        "inv-00201",
+        "inv-00203"
+      ]
+    },
+    {
+      "duplicateGroup": "dup-00067",
+      "entityId": "2022-need-to-know-episode-20",
+      "normalizedUrl": "https://youtube.com/playlist?list=PLXdU8QbJkboeMcvUNyGpb9h6FUS9cVBti",
+      "inventoryIds": [
+        "inv-00200",
+        "inv-00202",
+        "inv-00204"
+      ]
+    },
+    {
+      "duplicateGroup": "dup-00070",
+      "entityId": "2022-need-to-know-episode-21",
+      "normalizedUrl": "https://youtube.com/watch?v=b-_QillPBM4",
+      "inventoryIds": [
+        "inv-00205",
+        "inv-00207",
+        "inv-00209"
+      ]
+    },
+    {
+      "duplicateGroup": "dup-00069",
+      "entityId": "2022-need-to-know-episode-21",
+      "normalizedUrl": "https://youtube.com/playlist?list=PLXdU8QbJkboeMcvUNyGpb9h6FUS9cVBti",
+      "inventoryIds": [
+        "inv-00206",
+        "inv-00208",
+        "inv-00210"
+      ]
+    },
+    {
+      "duplicateGroup": "dup-00072",
+      "entityId": "2022-need-to-know-episode-22",
+      "normalizedUrl": "https://youtube.com/watch?v=AMZdrtKI_mo",
+      "inventoryIds": [
+        "inv-00211",
+        "inv-00213",
+        "inv-00215"
+      ]
+    },
+    {
+      "duplicateGroup": "dup-00071",
+      "entityId": "2022-need-to-know-episode-22",
+      "normalizedUrl": "https://youtube.com/playlist?list=PLXdU8QbJkboeMcvUNyGpb9h6FUS9cVBti",
+      "inventoryIds": [
+        "inv-00212",
+        "inv-00214",
+        "inv-00216"
+      ]
+    },
+    {
+      "duplicateGroup": "dup-00074",
+      "entityId": "2022-need-to-know-episode-23",
+      "normalizedUrl": "https://youtube.com/watch?v=e6XE7wef6k0",
+      "inventoryIds": [
+        "inv-00217",
+        "inv-00219",
+        "inv-00221"
+      ]
+    },
+    {
+      "duplicateGroup": "dup-00073",
+      "entityId": "2022-need-to-know-episode-23",
+      "normalizedUrl": "https://youtube.com/playlist?list=PLXdU8QbJkboeMcvUNyGpb9h6FUS9cVBti",
+      "inventoryIds": [
+        "inv-00218",
+        "inv-00220",
+        "inv-00222"
+      ]
+    },
+    {
+      "duplicateGroup": "dup-00076",
+      "entityId": "2022-need-to-know-episode-24",
+      "normalizedUrl": "https://youtube.com/watch?v=3o04UkYg_ks",
+      "inventoryIds": [
+        "inv-00223",
+        "inv-00225",
+        "inv-00227"
+      ]
+    },
+    {
+      "duplicateGroup": "dup-00075",
+      "entityId": "2022-need-to-know-episode-24",
+      "normalizedUrl": "https://youtube.com/playlist?list=PLXdU8QbJkboeMcvUNyGpb9h6FUS9cVBti",
+      "inventoryIds": [
+        "inv-00224",
+        "inv-00226",
+        "inv-00228"
+      ]
+    },
+    {
+      "duplicateGroup": "dup-00078",
+      "entityId": "2022-need-to-know-episode-25",
+      "normalizedUrl": "https://youtube.com/watch?v=D62Jj7Ju03A",
+      "inventoryIds": [
+        "inv-00229",
+        "inv-00231",
+        "inv-00233"
+      ]
+    },
+    {
+      "duplicateGroup": "dup-00077",
+      "entityId": "2022-need-to-know-episode-25",
+      "normalizedUrl": "https://youtube.com/playlist?list=PLXdU8QbJkboeMcvUNyGpb9h6FUS9cVBti",
+      "inventoryIds": [
+        "inv-00230",
+        "inv-00232",
+        "inv-00234"
+      ]
+    },
+    {
+      "duplicateGroup": "dup-00080",
+      "entityId": "2022-need-to-know-episode-4",
+      "normalizedUrl": "https://youtube.com/watch?v=e962GK3qK9w",
+      "inventoryIds": [
+        "inv-00235",
+        "inv-00237",
+        "inv-00239"
+      ]
+    },
+    {
+      "duplicateGroup": "dup-00079",
+      "entityId": "2022-need-to-know-episode-4",
+      "normalizedUrl": "https://youtube.com/playlist?list=PLXdU8QbJkboeMcvUNyGpb9h6FUS9cVBti",
+      "inventoryIds": [
+        "inv-00236",
+        "inv-00238",
+        "inv-00240"
+      ]
+    },
+    {
+      "duplicateGroup": "dup-00082",
+      "entityId": "2022-need-to-know-episode-5",
+      "normalizedUrl": "https://youtube.com/watch?v=bsOiS6rsoEM",
+      "inventoryIds": [
+        "inv-00241",
+        "inv-00243",
+        "inv-00245"
+      ]
+    },
+    {
+      "duplicateGroup": "dup-00081",
+      "entityId": "2022-need-to-know-episode-5",
+      "normalizedUrl": "https://youtube.com/playlist?list=PLXdU8QbJkboeMcvUNyGpb9h6FUS9cVBti",
+      "inventoryIds": [
+        "inv-00242",
+        "inv-00244",
+        "inv-00246"
+      ]
+    },
+    {
+      "duplicateGroup": "dup-00084",
+      "entityId": "2022-need-to-know-episode-6",
+      "normalizedUrl": "https://youtube.com/watch?v=Pu0OstWkqo0",
+      "inventoryIds": [
+        "inv-00247",
+        "inv-00249",
+        "inv-00251"
+      ]
+    },
+    {
+      "duplicateGroup": "dup-00083",
+      "entityId": "2022-need-to-know-episode-6",
+      "normalizedUrl": "https://youtube.com/playlist?list=PLXdU8QbJkboeMcvUNyGpb9h6FUS9cVBti",
+      "inventoryIds": [
+        "inv-00248",
+        "inv-00250",
+        "inv-00252"
+      ]
+    },
+    {
+      "duplicateGroup": "dup-00086",
+      "entityId": "2022-need-to-know-episode-7",
+      "normalizedUrl": "https://youtube.com/watch?v=jIN54qqF9S0",
+      "inventoryIds": [
+        "inv-00253",
+        "inv-00255",
+        "inv-00257"
+      ]
+    },
+    {
+      "duplicateGroup": "dup-00085",
+      "entityId": "2022-need-to-know-episode-7",
+      "normalizedUrl": "https://youtube.com/playlist?list=PLXdU8QbJkboeMcvUNyGpb9h6FUS9cVBti",
+      "inventoryIds": [
+        "inv-00254",
+        "inv-00256",
+        "inv-00258"
+      ]
+    },
+    {
+      "duplicateGroup": "dup-00088",
+      "entityId": "2022-need-to-know-episode-8",
+      "normalizedUrl": "https://youtube.com/watch?v=HnY4W9DoKbM",
+      "inventoryIds": [
+        "inv-00259",
+        "inv-00261",
+        "inv-00263"
+      ]
+    },
+    {
+      "duplicateGroup": "dup-00087",
+      "entityId": "2022-need-to-know-episode-8",
+      "normalizedUrl": "https://youtube.com/playlist?list=PLXdU8QbJkboeMcvUNyGpb9h6FUS9cVBti",
+      "inventoryIds": [
+        "inv-00260",
+        "inv-00262",
+        "inv-00264"
+      ]
+    },
+    {
+      "duplicateGroup": "dup-00090",
+      "entityId": "2022-need-to-know-episode-9",
+      "normalizedUrl": "https://youtube.com/watch?v=j30le32EG_c",
+      "inventoryIds": [
+        "inv-00265",
+        "inv-00267",
+        "inv-00269"
+      ]
+    },
+    {
+      "duplicateGroup": "dup-00089",
+      "entityId": "2022-need-to-know-episode-9",
+      "normalizedUrl": "https://youtube.com/playlist?list=PLXdU8QbJkboeMcvUNyGpb9h6FUS9cVBti",
+      "inventoryIds": [
+        "inv-00266",
+        "inv-00268",
+        "inv-00270"
+      ]
+    },
+    {
+      "duplicateGroup": "dup-00091",
+      "entityId": "2023-merged-episode-1",
+      "normalizedUrl": "https://mergedpodcast.com/episodes/interview-garry-nolan",
+      "inventoryIds": [
+        "inv-00271",
+        "inv-00273",
+        "inv-00275"
+      ]
+    },
+    {
+      "duplicateGroup": "dup-00092",
+      "entityId": "2023-merged-episode-1",
+      "normalizedUrl": "https://youtube.com/watch?v=rx2x_w5wimk",
+      "inventoryIds": [
+        "inv-00272",
+        "inv-00274",
+        "inv-00276"
+      ]
+    },
+    {
+      "duplicateGroup": "dup-00094",
+      "entityId": "2023-merged-episode-10",
+      "normalizedUrl": "https://youtube.com/watch?v=fw9l0mK466I",
+      "inventoryIds": [
+        "inv-00277",
+        "inv-00280",
+        "inv-00282"
+      ]
+    },
+    {
+      "duplicateGroup": "dup-00093",
+      "entityId": "2023-merged-episode-10",
+      "normalizedUrl": "https://ivoox.com/en/looking-to-the-sky-for-extraordinary-evidence-of-audios-mp3_rf_110874897_1.html",
+      "inventoryIds": [
+        "inv-00278",
+        "inv-00279",
+        "inv-00281"
+      ]
+    },
+    {
+      "duplicateGroup": "dup-00096",
+      "entityId": "2023-merged-episode-11",
+      "normalizedUrl": "https://youtube.com/watch?v=KuX4GLHLRz8",
+      "inventoryIds": [
+        "inv-00283",
+        "inv-00286",
+        "inv-00288"
+      ]
+    },
+    {
+      "duplicateGroup": "dup-00095",
+      "entityId": "2023-merged-episode-11",
+      "normalizedUrl": "https://ivoox.com/en/beyond-the-stigma-a-uap-ufo-call-to-audios-mp3_rf_111932780_1.html",
+      "inventoryIds": [
+        "inv-00284",
+        "inv-00285",
+        "inv-00287"
+      ]
+    },
+    {
+      "duplicateGroup": "dup-00098",
+      "entityId": "2023-merged-episode-12",
+      "normalizedUrl": "https://youtube.com/watch?v=kJxUPEStiPM",
+      "inventoryIds": [
+        "inv-00289",
+        "inv-00292",
+        "inv-00294"
+      ]
+    },
+    {
+      "duplicateGroup": "dup-00097",
+      "entityId": "2023-merged-episode-12",
+      "normalizedUrl": "https://ivoox.com/en/a-new-era-of-aviation-safety-with-audios-mp3_rf_112776246_1.html",
+      "inventoryIds": [
+        "inv-00290",
+        "inv-00291",
+        "inv-00293"
+      ]
+    },
+    {
+      "duplicateGroup": "dup-00100",
+      "entityId": "2023-merged-episode-13",
+      "normalizedUrl": "https://youtube.com/watch?v=KFSWeJe_7-4",
+      "inventoryIds": [
+        "inv-00295",
+        "inv-00298",
+        "inv-00300"
+      ]
+    },
+    {
+      "duplicateGroup": "dup-00099",
+      "entityId": "2023-merged-episode-13",
+      "normalizedUrl": "https://ivoox.com/en/an-open-minded-scientific-approach-to-uap-ufos-audios-mp3_rf_114279386_1.html",
+      "inventoryIds": [
+        "inv-00296",
+        "inv-00297",
+        "inv-00299"
+      ]
+    },
+    {
+      "duplicateGroup": "dup-00102",
+      "entityId": "2023-merged-episode-14",
+      "normalizedUrl": "https://youtube.com/watch?v=Nc9_ZP36-AI",
+      "inventoryIds": [
+        "inv-00301",
+        "inv-00304",
+        "inv-00306"
+      ]
+    },
+    {
+      "duplicateGroup": "dup-00101",
+      "entityId": "2023-merged-episode-14",
+      "normalizedUrl": "https://ivoox.com/en/pilots-witnesses-systematic-uap-reporting-for-pilots-audios-mp3_rf_115247469_1.html",
+      "inventoryIds": [
+        "inv-00302",
+        "inv-00303",
+        "inv-00305"
+      ]
+    },
+    {
+      "duplicateGroup": "dup-00104",
+      "entityId": "2023-merged-episode-15",
+      "normalizedUrl": "https://youtube.com/watch?v=87POecVP-s4",
+      "inventoryIds": [
+        "inv-00307",
+        "inv-00310",
+        "inv-00312"
+      ]
+    },
+    {
+      "duplicateGroup": "dup-00103",
+      "entityId": "2023-merged-episode-15",
+      "normalizedUrl": "https://ivoox.com/en/the-sounds-of-the-sky-the-galileo-audios-mp3_rf_116041882_1.html",
+      "inventoryIds": [
+        "inv-00308",
+        "inv-00309",
+        "inv-00311"
+      ]
+    },
+    {
+      "duplicateGroup": "dup-00106",
+      "entityId": "2023-merged-episode-16",
+      "normalizedUrl": "https://youtube.com/@merged_podcast/search?query=Merged+Podcast+EP+16+Tim+Gallaudet",
+      "inventoryIds": [
+        "inv-00313",
+        "inv-00316"
+      ]
+    },
+    {
+      "duplicateGroup": "dup-00105",
+      "entityId": "2023-merged-episode-16",
+      "normalizedUrl": "https://ivoox.com/en/navigating-the-deep-searching-for-undersea-uap-audios-mp3_rf_116831042_1.html",
+      "inventoryIds": [
+        "inv-00314",
+        "inv-00315",
+        "inv-00317"
+      ]
+    },
+    {
+      "duplicateGroup": "dup-00108",
+      "entityId": "2023-merged-episode-17",
+      "normalizedUrl": "https://youtube.com/@merged_podcast/search?query=Merged+Podcast+EP+17+Matt+Laslo",
+      "inventoryIds": [
+        "inv-00318",
+        "inv-00321"
+      ]
+    },
+    {
+      "duplicateGroup": "dup-00107",
+      "entityId": "2023-merged-episode-17",
+      "normalizedUrl": "https://ivoox.com/en/asking-difficult-questions-congressional-accountability-on-uap-audios-mp3_rf_117633407_1.html",
+      "inventoryIds": [
+        "inv-00319",
+        "inv-00320",
+        "inv-00322"
+      ]
+    },
+    {
+      "duplicateGroup": "dup-00110",
+      "entityId": "2023-merged-episode-18",
+      "normalizedUrl": "https://youtube.com/@merged_podcast/search?query=Merged+Podcast+EP+18+Adam+Frank",
+      "inventoryIds": [
+        "inv-00323",
+        "inv-00326"
+      ]
+    },
+    {
+      "duplicateGroup": "dup-00109",
+      "entityId": "2023-merged-episode-18",
+      "normalizedUrl": "https://ivoox.com/en/uap-research-or-seti-who-finds-nhi-audios-mp3_rf_118459031_1.html",
+      "inventoryIds": [
+        "inv-00324",
+        "inv-00325",
+        "inv-00327"
+      ]
+    },
+    {
+      "duplicateGroup": "dup-00112",
+      "entityId": "2023-merged-episode-19",
+      "normalizedUrl": "https://youtube.com/@merged_podcast/search?query=Merged+Podcast+EP+19+Jeff+Nuccetelli",
+      "inventoryIds": [
+        "inv-00328",
+        "inv-00331"
+      ]
+    },
+    {
+      "duplicateGroup": "dup-00111",
+      "entityId": "2023-merged-episode-19",
+      "normalizedUrl": "https://ivoox.com/en/vandenberg-8220red-square-witness-speaks-for-first-time-audios-mp3_rf_119179267_1.html",
+      "inventoryIds": [
+        "inv-00329",
+        "inv-00330",
+        "inv-00332"
+      ]
+    },
+    {
+      "duplicateGroup": "dup-00114",
+      "entityId": "2023-merged-episode-2",
+      "normalizedUrl": "https://youtube.com/watch?v=UjildVLwSHw",
+      "inventoryIds": [
+        "inv-00333",
+        "inv-00336",
+        "inv-00338"
+      ]
+    },
+    {
+      "duplicateGroup": "dup-00113",
+      "entityId": "2023-merged-episode-2",
+      "normalizedUrl": "https://ivoox.com/en/pilot8217s-shocking-uap-sightings-what-this-means-audios-mp3_rf_102351793_1.html",
+      "inventoryIds": [
+        "inv-00334",
+        "inv-00335",
+        "inv-00337"
+      ]
+    },
+    {
+      "duplicateGroup": "dup-00116",
+      "entityId": "2023-merged-episode-3",
+      "normalizedUrl": "https://youtube.com/@merged_podcast/search?query=Merged+Podcast+EP+3+Kegan+Gill",
+      "inventoryIds": [
+        "inv-00339",
+        "inv-00342"
+      ]
+    },
+    {
+      "duplicateGroup": "dup-00115",
+      "entityId": "2023-merged-episode-3",
+      "normalizedUrl": "https://ivoox.com/en/unbreakable-resilience-how-i-survived-a-supersonic-jet-audios-mp3_rf_102717308_1.html",
+      "inventoryIds": [
+        "inv-00340",
+        "inv-00341",
+        "inv-00343"
+      ]
+    },
+    {
+      "duplicateGroup": "dup-00118",
+      "entityId": "2023-merged-episode-4",
+      "normalizedUrl": "https://youtube.com/watch?v=Wj334dvxZU4",
+      "inventoryIds": [
+        "inv-00344",
+        "inv-00347",
+        "inv-00349"
+      ]
+    },
+    {
+      "duplicateGroup": "dup-00117",
+      "entityId": "2023-merged-episode-4",
+      "normalizedUrl": "https://ivoox.com/en/pilot-breaks-the-silence-on-uap-encounters-audios-mp3_rf_103091479_1.html",
+      "inventoryIds": [
+        "inv-00345",
+        "inv-00346",
+        "inv-00348"
+      ]
+    },
+    {
+      "duplicateGroup": "dup-00120",
+      "entityId": "2023-merged-episode-5",
+      "normalizedUrl": "https://youtube.com/watch?v=yVrn9-nRcno",
+      "inventoryIds": [
+        "inv-00350",
+        "inv-00353",
+        "inv-00355"
+      ]
+    },
+    {
+      "duplicateGroup": "dup-00119",
+      "entityId": "2023-merged-episode-5",
+      "normalizedUrl": "https://ivoox.com/en/decoding-uap-ufo-sightings-insights-from-a-747-audios-mp3_rf_103592094_1.html",
+      "inventoryIds": [
+        "inv-00351",
+        "inv-00352",
+        "inv-00354"
+      ]
+    },
+    {
+      "duplicateGroup": "dup-00122",
+      "entityId": "2023-merged-episode-6",
+      "normalizedUrl": "https://youtube.com/watch?v=56So2gXKFcg",
+      "inventoryIds": [
+        "inv-00356",
+        "inv-00359",
+        "inv-00361"
+      ]
+    },
+    {
+      "duplicateGroup": "dup-00121",
+      "entityId": "2023-merged-episode-6",
+      "normalizedUrl": "https://ivoox.com/en/researching-uap-ufos-in-the-galileo-project-audios-mp3_rf_104396960_1.html",
+      "inventoryIds": [
+        "inv-00357",
+        "inv-00358",
+        "inv-00360"
+      ]
+    },
+    {
+      "duplicateGroup": "dup-00124",
+      "entityId": "2023-merged-episode-7",
+      "normalizedUrl": "https://youtube.com/@merged_podcast/search?query=Merged+Podcast+EP+7+Curt+Jaimungal",
+      "inventoryIds": [
+        "inv-00362",
+        "inv-00365"
+      ]
+    },
+    {
+      "duplicateGroup": "dup-00123",
+      "entityId": "2023-merged-episode-7",
+      "normalizedUrl": "https://ivoox.com/en/exploring-theories-of-uap-ufos-consciousness-and-physics-audios-mp3_rf_105853901_1.html",
+      "inventoryIds": [
+        "inv-00363",
+        "inv-00364",
+        "inv-00366"
+      ]
+    },
+    {
+      "duplicateGroup": "dup-00126",
+      "entityId": "2023-merged-episode-8",
+      "normalizedUrl": "https://youtube.com/watch?v=4knd6hQbHZI",
+      "inventoryIds": [
+        "inv-00367",
+        "inv-00370",
+        "inv-00372"
+      ]
+    },
+    {
+      "duplicateGroup": "dup-00125",
+      "entityId": "2023-merged-episode-8",
+      "normalizedUrl": "https://ivoox.com/en/where-the-search-for-dark-matter-and-uap-audios-mp3_rf_109610969_1.html",
+      "inventoryIds": [
+        "inv-00368",
+        "inv-00369",
+        "inv-00371"
+      ]
+    },
+    {
+      "duplicateGroup": "dup-00128",
+      "entityId": "2023-merged-episode-9",
+      "normalizedUrl": "https://youtube.com/@merged_podcast/search?query=Merged+Podcast+EP+9+Robin+Hanson",
+      "inventoryIds": [
+        "inv-00373",
+        "inv-00376"
+      ]
+    },
+    {
+      "duplicateGroup": "dup-00127",
+      "entityId": "2023-merged-episode-9",
+      "normalizedUrl": "https://ivoox.com/en/through-the-great-filter-a-spacetime-search-for-audios-mp3_rf_110006855_1.html",
+      "inventoryIds": [
+        "inv-00374",
+        "inv-00375",
+        "inv-00377"
+      ]
+    },
+    {
+      "duplicateGroup": "dup-00130",
+      "entityId": "2023-need-to-know-episode-26",
+      "normalizedUrl": "https://youtube.com/watch?v=Bi8ENmUagxw",
+      "inventoryIds": [
+        "inv-00378",
+        "inv-00380",
+        "inv-00382"
+      ]
+    },
+    {
+      "duplicateGroup": "dup-00129",
+      "entityId": "2023-need-to-know-episode-26",
+      "normalizedUrl": "https://youtube.com/playlist?list=PLXdU8QbJkboeMcvUNyGpb9h6FUS9cVBti",
+      "inventoryIds": [
+        "inv-00379",
+        "inv-00381",
+        "inv-00383"
+      ]
+    },
+    {
+      "duplicateGroup": "dup-00132",
+      "entityId": "2023-need-to-know-episode-27",
+      "normalizedUrl": "https://youtube.com/watch?v=ZGiQrsyF1U8",
+      "inventoryIds": [
+        "inv-00384",
+        "inv-00386",
+        "inv-00388"
+      ]
+    },
+    {
+      "duplicateGroup": "dup-00131",
+      "entityId": "2023-need-to-know-episode-27",
+      "normalizedUrl": "https://youtube.com/playlist?list=PLXdU8QbJkboeMcvUNyGpb9h6FUS9cVBti",
+      "inventoryIds": [
+        "inv-00385",
+        "inv-00387",
+        "inv-00389"
+      ]
+    },
+    {
+      "duplicateGroup": "dup-00134",
+      "entityId": "2023-need-to-know-episode-28",
+      "normalizedUrl": "https://youtube.com/watch?v=Ys47XIOD8h8",
+      "inventoryIds": [
+        "inv-00390",
+        "inv-00392",
+        "inv-00394"
+      ]
+    },
+    {
+      "duplicateGroup": "dup-00133",
+      "entityId": "2023-need-to-know-episode-28",
+      "normalizedUrl": "https://youtube.com/playlist?list=PLXdU8QbJkboeMcvUNyGpb9h6FUS9cVBti",
+      "inventoryIds": [
+        "inv-00391",
+        "inv-00393",
+        "inv-00395"
+      ]
+    },
+    {
+      "duplicateGroup": "dup-00136",
+      "entityId": "2023-need-to-know-episode-29",
+      "normalizedUrl": "https://youtube.com/watch?v=g2TI1D1h3AQ",
+      "inventoryIds": [
+        "inv-00396",
+        "inv-00398",
+        "inv-00400"
+      ]
+    },
+    {
+      "duplicateGroup": "dup-00135",
+      "entityId": "2023-need-to-know-episode-29",
+      "normalizedUrl": "https://youtube.com/playlist?list=PLXdU8QbJkboeMcvUNyGpb9h6FUS9cVBti",
+      "inventoryIds": [
+        "inv-00397",
+        "inv-00399",
+        "inv-00401"
+      ]
+    },
+    {
+      "duplicateGroup": "dup-00138",
+      "entityId": "2023-need-to-know-episode-30",
+      "normalizedUrl": "https://youtube.com/watch?v=1fmJ9lR28ks",
+      "inventoryIds": [
+        "inv-00402",
+        "inv-00404",
+        "inv-00406"
+      ]
+    },
+    {
+      "duplicateGroup": "dup-00137",
+      "entityId": "2023-need-to-know-episode-30",
+      "normalizedUrl": "https://youtube.com/playlist?list=PLXdU8QbJkboeMcvUNyGpb9h6FUS9cVBti",
+      "inventoryIds": [
+        "inv-00403",
+        "inv-00405",
+        "inv-00407"
+      ]
+    },
+    {
+      "duplicateGroup": "dup-00140",
+      "entityId": "2023-need-to-know-episode-31",
+      "normalizedUrl": "https://youtube.com/watch?v=5VwDo_m5Yok",
+      "inventoryIds": [
+        "inv-00408",
+        "inv-00410",
+        "inv-00412"
+      ]
+    },
+    {
+      "duplicateGroup": "dup-00139",
+      "entityId": "2023-need-to-know-episode-31",
+      "normalizedUrl": "https://youtube.com/playlist?list=PLXdU8QbJkboeMcvUNyGpb9h6FUS9cVBti",
+      "inventoryIds": [
+        "inv-00409",
+        "inv-00411",
+        "inv-00413"
+      ]
+    },
+    {
+      "duplicateGroup": "dup-00142",
+      "entityId": "2023-need-to-know-episode-32",
+      "normalizedUrl": "https://youtube.com/watch?v=_KAV-nKB-L4",
+      "inventoryIds": [
+        "inv-00414",
+        "inv-00416",
+        "inv-00418"
+      ]
+    },
+    {
+      "duplicateGroup": "dup-00141",
+      "entityId": "2023-need-to-know-episode-32",
+      "normalizedUrl": "https://youtube.com/playlist?list=PLXdU8QbJkboeMcvUNyGpb9h6FUS9cVBti",
+      "inventoryIds": [
+        "inv-00415",
+        "inv-00417",
+        "inv-00419"
+      ]
+    },
+    {
+      "duplicateGroup": "dup-00144",
+      "entityId": "2023-need-to-know-episode-33",
+      "normalizedUrl": "https://youtube.com/watch?v=0ZOSixfpq1Y",
+      "inventoryIds": [
+        "inv-00420",
+        "inv-00422",
+        "inv-00424"
+      ]
+    },
+    {
+      "duplicateGroup": "dup-00143",
+      "entityId": "2023-need-to-know-episode-33",
+      "normalizedUrl": "https://youtube.com/playlist?list=PLXdU8QbJkboeMcvUNyGpb9h6FUS9cVBti",
+      "inventoryIds": [
+        "inv-00421",
+        "inv-00423",
+        "inv-00425"
+      ]
+    },
+    {
+      "duplicateGroup": "dup-00146",
+      "entityId": "2023-need-to-know-episode-34",
+      "normalizedUrl": "https://youtube.com/watch?v=pFHHxzoIuy8",
+      "inventoryIds": [
+        "inv-00426",
+        "inv-00428",
+        "inv-00430"
+      ]
+    },
+    {
+      "duplicateGroup": "dup-00145",
+      "entityId": "2023-need-to-know-episode-34",
+      "normalizedUrl": "https://youtube.com/playlist?list=PLXdU8QbJkboeMcvUNyGpb9h6FUS9cVBti",
+      "inventoryIds": [
+        "inv-00427",
+        "inv-00429",
+        "inv-00431"
+      ]
+    },
+    {
+      "duplicateGroup": "dup-00148",
+      "entityId": "2023-need-to-know-episode-35",
+      "normalizedUrl": "https://youtube.com/watch?v=rQjbFZT9_EM",
+      "inventoryIds": [
+        "inv-00432",
+        "inv-00434",
+        "inv-00436"
+      ]
+    },
+    {
+      "duplicateGroup": "dup-00147",
+      "entityId": "2023-need-to-know-episode-35",
+      "normalizedUrl": "https://youtube.com/playlist?list=PLXdU8QbJkboeMcvUNyGpb9h6FUS9cVBti",
+      "inventoryIds": [
+        "inv-00433",
+        "inv-00435",
+        "inv-00437"
+      ]
+    },
+    {
+      "duplicateGroup": "dup-00150",
+      "entityId": "2023-need-to-know-episode-36",
+      "normalizedUrl": "https://youtube.com/watch?v=-PwZsQidbqE",
+      "inventoryIds": [
+        "inv-00438",
+        "inv-00440",
+        "inv-00442"
+      ]
+    },
+    {
+      "duplicateGroup": "dup-00149",
+      "entityId": "2023-need-to-know-episode-36",
+      "normalizedUrl": "https://youtube.com/playlist?list=PLXdU8QbJkboeMcvUNyGpb9h6FUS9cVBti",
+      "inventoryIds": [
+        "inv-00439",
+        "inv-00441",
+        "inv-00443"
+      ]
+    },
+    {
+      "duplicateGroup": "dup-00152",
+      "entityId": "2023-need-to-know-episode-37",
+      "normalizedUrl": "https://youtube.com/watch?v=5-As3SXPeJg",
+      "inventoryIds": [
+        "inv-00444",
+        "inv-00446",
+        "inv-00448"
+      ]
+    },
+    {
+      "duplicateGroup": "dup-00151",
+      "entityId": "2023-need-to-know-episode-37",
+      "normalizedUrl": "https://youtube.com/playlist?list=PLXdU8QbJkboeMcvUNyGpb9h6FUS9cVBti",
+      "inventoryIds": [
+        "inv-00445",
+        "inv-00447",
+        "inv-00449"
+      ]
+    },
+    {
+      "duplicateGroup": "dup-00154",
+      "entityId": "2023-need-to-know-episode-38",
+      "normalizedUrl": "https://youtube.com/watch?v=AVjzYwQDzeg",
+      "inventoryIds": [
+        "inv-00450",
+        "inv-00452",
+        "inv-00454"
+      ]
+    },
+    {
+      "duplicateGroup": "dup-00153",
+      "entityId": "2023-need-to-know-episode-38",
+      "normalizedUrl": "https://youtube.com/playlist?list=PLXdU8QbJkboeMcvUNyGpb9h6FUS9cVBti",
+      "inventoryIds": [
+        "inv-00451",
+        "inv-00453",
+        "inv-00455"
+      ]
+    },
+    {
+      "duplicateGroup": "dup-00156",
+      "entityId": "2023-need-to-know-episode-39",
+      "normalizedUrl": "https://youtube.com/watch?v=YEOB3ASfFuQ",
+      "inventoryIds": [
+        "inv-00456",
+        "inv-00458",
+        "inv-00460"
+      ]
+    },
+    {
+      "duplicateGroup": "dup-00155",
+      "entityId": "2023-need-to-know-episode-39",
+      "normalizedUrl": "https://youtube.com/playlist?list=PLXdU8QbJkboeMcvUNyGpb9h6FUS9cVBti",
+      "inventoryIds": [
+        "inv-00457",
+        "inv-00459",
+        "inv-00461"
+      ]
+    },
+    {
+      "duplicateGroup": "dup-00158",
+      "entityId": "2023-need-to-know-episode-40",
+      "normalizedUrl": "https://youtube.com/watch?v=F_0bi1bLHKo",
+      "inventoryIds": [
+        "inv-00462",
+        "inv-00464",
+        "inv-00466"
+      ]
+    },
+    {
+      "duplicateGroup": "dup-00157",
+      "entityId": "2023-need-to-know-episode-40",
+      "normalizedUrl": "https://youtube.com/playlist?list=PLXdU8QbJkboeMcvUNyGpb9h6FUS9cVBti",
+      "inventoryIds": [
+        "inv-00463",
+        "inv-00465",
+        "inv-00467"
+      ]
+    },
+    {
+      "duplicateGroup": "dup-00160",
+      "entityId": "2023-need-to-know-episode-41",
+      "normalizedUrl": "https://youtube.com/watch?v=Zrd44LASEKI",
+      "inventoryIds": [
+        "inv-00468",
+        "inv-00470",
+        "inv-00472"
+      ]
+    },
+    {
+      "duplicateGroup": "dup-00159",
+      "entityId": "2023-need-to-know-episode-41",
+      "normalizedUrl": "https://youtube.com/playlist?list=PLXdU8QbJkboeMcvUNyGpb9h6FUS9cVBti",
+      "inventoryIds": [
+        "inv-00469",
+        "inv-00471",
+        "inv-00473"
+      ]
+    },
+    {
+      "duplicateGroup": "dup-00162",
+      "entityId": "2023-need-to-know-episode-42",
+      "normalizedUrl": "https://youtube.com/watch?v=0oVa3xU34Dk",
+      "inventoryIds": [
+        "inv-00474",
+        "inv-00476",
+        "inv-00478"
+      ]
+    },
+    {
+      "duplicateGroup": "dup-00161",
+      "entityId": "2023-need-to-know-episode-42",
+      "normalizedUrl": "https://youtube.com/playlist?list=PLXdU8QbJkboeMcvUNyGpb9h6FUS9cVBti",
+      "inventoryIds": [
+        "inv-00475",
+        "inv-00477",
+        "inv-00479"
+      ]
+    },
+    {
+      "duplicateGroup": "dup-00164",
+      "entityId": "2023-need-to-know-episode-43",
+      "normalizedUrl": "https://youtube.com/watch?v=RsF-dGi-cFc",
+      "inventoryIds": [
+        "inv-00480",
+        "inv-00482",
+        "inv-00484"
+      ]
+    },
+    {
+      "duplicateGroup": "dup-00163",
+      "entityId": "2023-need-to-know-episode-43",
+      "normalizedUrl": "https://youtube.com/playlist?list=PLXdU8QbJkboeMcvUNyGpb9h6FUS9cVBti",
+      "inventoryIds": [
+        "inv-00481",
+        "inv-00483",
+        "inv-00485"
+      ]
+    },
+    {
+      "duplicateGroup": "dup-00166",
+      "entityId": "2023-need-to-know-episode-44",
+      "normalizedUrl": "https://youtube.com/watch?v=QZWhxUAwiN4",
+      "inventoryIds": [
+        "inv-00486",
+        "inv-00488",
+        "inv-00490"
+      ]
+    },
+    {
+      "duplicateGroup": "dup-00165",
+      "entityId": "2023-need-to-know-episode-44",
+      "normalizedUrl": "https://youtube.com/playlist?list=PLXdU8QbJkboeMcvUNyGpb9h6FUS9cVBti",
+      "inventoryIds": [
+        "inv-00487",
+        "inv-00489",
+        "inv-00491"
+      ]
+    },
+    {
+      "duplicateGroup": "dup-00168",
+      "entityId": "2023-need-to-know-episode-45",
+      "normalizedUrl": "https://youtube.com/watch?v=n6CjzI5aaww",
+      "inventoryIds": [
+        "inv-00492",
+        "inv-00494",
+        "inv-00496"
+      ]
+    },
+    {
+      "duplicateGroup": "dup-00167",
+      "entityId": "2023-need-to-know-episode-45",
+      "normalizedUrl": "https://youtube.com/playlist?list=PLXdU8QbJkboeMcvUNyGpb9h6FUS9cVBti",
+      "inventoryIds": [
+        "inv-00493",
+        "inv-00495",
+        "inv-00497"
+      ]
+    },
+    {
+      "duplicateGroup": "dup-00170",
+      "entityId": "2023-need-to-know-episode-46",
+      "normalizedUrl": "https://youtube.com/watch?v=cwR8pOz9Gvg",
+      "inventoryIds": [
+        "inv-00498",
+        "inv-00500",
+        "inv-00502"
+      ]
+    },
+    {
+      "duplicateGroup": "dup-00169",
+      "entityId": "2023-need-to-know-episode-46",
+      "normalizedUrl": "https://youtube.com/playlist?list=PLXdU8QbJkboeMcvUNyGpb9h6FUS9cVBti",
+      "inventoryIds": [
+        "inv-00499",
+        "inv-00501",
+        "inv-00503"
+      ]
+    },
+    {
+      "duplicateGroup": "dup-00172",
+      "entityId": "2023-need-to-know-episode-47",
+      "normalizedUrl": "https://youtube.com/watch?v=vSpHaNbd5A8",
+      "inventoryIds": [
+        "inv-00504",
+        "inv-00506",
+        "inv-00508"
+      ]
+    },
+    {
+      "duplicateGroup": "dup-00171",
+      "entityId": "2023-need-to-know-episode-47",
+      "normalizedUrl": "https://youtube.com/playlist?list=PLXdU8QbJkboeMcvUNyGpb9h6FUS9cVBti",
+      "inventoryIds": [
+        "inv-00505",
+        "inv-00507",
+        "inv-00509"
+      ]
+    },
+    {
+      "duplicateGroup": "dup-00174",
+      "entityId": "2023-weaponized-episode-1",
+      "normalizedUrl": "https://weaponizedpodcast.com/episodes-1/episode-number-1",
+      "inventoryIds": [
+        "inv-00510",
+        "inv-00512",
+        "inv-00514"
+      ]
+    },
+    {
+      "duplicateGroup": "dup-00173",
+      "entityId": "2023-weaponized-episode-1",
+      "normalizedUrl": "https://link.chtbl.com/Weaponized",
+      "inventoryIds": [
+        "inv-00511",
+        "inv-00513",
+        "inv-00515"
+      ]
+    },
+    {
+      "duplicateGroup": "dup-00176",
+      "entityId": "2023-weaponized-episode-10",
+      "normalizedUrl": "https://weaponizedpodcast.com/episodes-1/episode-number-10",
+      "inventoryIds": [
+        "inv-00516",
+        "inv-00518",
+        "inv-00520"
+      ]
+    },
+    {
+      "duplicateGroup": "dup-00175",
+      "entityId": "2023-weaponized-episode-10",
+      "normalizedUrl": "https://link.chtbl.com/Weaponized",
+      "inventoryIds": [
+        "inv-00517",
+        "inv-00519",
+        "inv-00521"
+      ]
+    },
+    {
+      "duplicateGroup": "dup-00178",
+      "entityId": "2023-weaponized-episode-11",
+      "normalizedUrl": "https://weaponizedpodcast.com/episodes-1/episode-number-11",
+      "inventoryIds": [
+        "inv-00522",
+        "inv-00524",
+        "inv-00526"
+      ]
+    },
+    {
+      "duplicateGroup": "dup-00177",
+      "entityId": "2023-weaponized-episode-11",
+      "normalizedUrl": "https://link.chtbl.com/Weaponized",
+      "inventoryIds": [
+        "inv-00523",
+        "inv-00525",
+        "inv-00527"
+      ]
+    },
+    {
+      "duplicateGroup": "dup-00180",
+      "entityId": "2023-weaponized-episode-12",
+      "normalizedUrl": "https://weaponizedpodcast.com/episodes-1/episode-number-12",
+      "inventoryIds": [
+        "inv-00528",
+        "inv-00530",
+        "inv-00532"
+      ]
+    },
+    {
+      "duplicateGroup": "dup-00179",
+      "entityId": "2023-weaponized-episode-12",
+      "normalizedUrl": "https://link.chtbl.com/Weaponized",
+      "inventoryIds": [
+        "inv-00529",
+        "inv-00531",
+        "inv-00533"
+      ]
+    },
+    {
+      "duplicateGroup": "dup-00182",
+      "entityId": "2023-weaponized-episode-13",
+      "normalizedUrl": "https://weaponizedpodcast.com/episodes-1/episode-number-13",
+      "inventoryIds": [
+        "inv-00534",
+        "inv-00536",
+        "inv-00538"
+      ]
+    },
+    {
+      "duplicateGroup": "dup-00181",
+      "entityId": "2023-weaponized-episode-13",
+      "normalizedUrl": "https://link.chtbl.com/Weaponized",
+      "inventoryIds": [
+        "inv-00535",
+        "inv-00537",
+        "inv-00539"
+      ]
+    },
+    {
+      "duplicateGroup": "dup-00184",
+      "entityId": "2023-weaponized-episode-14",
+      "normalizedUrl": "https://weaponizedpodcast.com/episodes-1/episode-number-14",
+      "inventoryIds": [
+        "inv-00540",
+        "inv-00542",
+        "inv-00544"
+      ]
+    },
+    {
+      "duplicateGroup": "dup-00183",
+      "entityId": "2023-weaponized-episode-14",
+      "normalizedUrl": "https://link.chtbl.com/Weaponized",
+      "inventoryIds": [
+        "inv-00541",
+        "inv-00543",
+        "inv-00545"
+      ]
+    },
+    {
+      "duplicateGroup": "dup-00186",
+      "entityId": "2023-weaponized-episode-15",
+      "normalizedUrl": "https://weaponizedpodcast.com/episodes-1/episode-number-15",
+      "inventoryIds": [
+        "inv-00546",
+        "inv-00548",
+        "inv-00550"
+      ]
+    },
+    {
+      "duplicateGroup": "dup-00185",
+      "entityId": "2023-weaponized-episode-15",
+      "normalizedUrl": "https://link.chtbl.com/Weaponized",
+      "inventoryIds": [
+        "inv-00547",
+        "inv-00549",
+        "inv-00551"
+      ]
+    },
+    {
+      "duplicateGroup": "dup-00188",
+      "entityId": "2023-weaponized-episode-16",
+      "normalizedUrl": "https://weaponizedpodcast.com/episodes-1/episode-number-16",
+      "inventoryIds": [
+        "inv-00552",
+        "inv-00554",
+        "inv-00556"
+      ]
+    },
+    {
+      "duplicateGroup": "dup-00187",
+      "entityId": "2023-weaponized-episode-16",
+      "normalizedUrl": "https://link.chtbl.com/Weaponized",
+      "inventoryIds": [
+        "inv-00553",
+        "inv-00555",
+        "inv-00557"
+      ]
+    },
+    {
+      "duplicateGroup": "dup-00190",
+      "entityId": "2023-weaponized-episode-17",
+      "normalizedUrl": "https://weaponizedpodcast.com/episodes-1/episode-number-17",
+      "inventoryIds": [
+        "inv-00558",
+        "inv-00560",
+        "inv-00562"
+      ]
+    },
+    {
+      "duplicateGroup": "dup-00189",
+      "entityId": "2023-weaponized-episode-17",
+      "normalizedUrl": "https://link.chtbl.com/Weaponized",
+      "inventoryIds": [
+        "inv-00559",
+        "inv-00561",
+        "inv-00563"
+      ]
+    },
+    {
+      "duplicateGroup": "dup-00192",
+      "entityId": "2023-weaponized-episode-18",
+      "normalizedUrl": "https://weaponizedpodcast.com/episodes-1/episode-number-18",
+      "inventoryIds": [
+        "inv-00564",
+        "inv-00566",
+        "inv-00568"
+      ]
+    },
+    {
+      "duplicateGroup": "dup-00191",
+      "entityId": "2023-weaponized-episode-18",
+      "normalizedUrl": "https://link.chtbl.com/Weaponized",
+      "inventoryIds": [
+        "inv-00565",
+        "inv-00567",
+        "inv-00569"
+      ]
+    },
+    {
+      "duplicateGroup": "dup-00194",
+      "entityId": "2023-weaponized-episode-19",
+      "normalizedUrl": "https://weaponizedpodcast.com/episodes-1/episode-number-19",
+      "inventoryIds": [
+        "inv-00570",
+        "inv-00572",
+        "inv-00574"
+      ]
+    },
+    {
+      "duplicateGroup": "dup-00193",
+      "entityId": "2023-weaponized-episode-19",
+      "normalizedUrl": "https://link.chtbl.com/Weaponized",
+      "inventoryIds": [
+        "inv-00571",
+        "inv-00573",
+        "inv-00575"
+      ]
+    },
+    {
+      "duplicateGroup": "dup-00196",
+      "entityId": "2023-weaponized-episode-2",
+      "normalizedUrl": "https://weaponizedpodcast.com/episodes-1/episode-number-2",
+      "inventoryIds": [
+        "inv-00576",
+        "inv-00578",
+        "inv-00580"
+      ]
+    },
+    {
+      "duplicateGroup": "dup-00195",
+      "entityId": "2023-weaponized-episode-2",
+      "normalizedUrl": "https://link.chtbl.com/Weaponized",
+      "inventoryIds": [
+        "inv-00577",
+        "inv-00579",
+        "inv-00581"
+      ]
+    },
+    {
+      "duplicateGroup": "dup-00198",
+      "entityId": "2023-weaponized-episode-20",
+      "normalizedUrl": "https://weaponizedpodcast.com/episodes-1/episode-number-20",
+      "inventoryIds": [
+        "inv-00582",
+        "inv-00584",
+        "inv-00586"
+      ]
+    },
+    {
+      "duplicateGroup": "dup-00197",
+      "entityId": "2023-weaponized-episode-20",
+      "normalizedUrl": "https://link.chtbl.com/Weaponized",
+      "inventoryIds": [
+        "inv-00583",
+        "inv-00585",
+        "inv-00587"
+      ]
+    },
+    {
+      "duplicateGroup": "dup-00200",
+      "entityId": "2023-weaponized-episode-21",
+      "normalizedUrl": "https://weaponizedpodcast.com/episodes-1/episode-number-21",
+      "inventoryIds": [
+        "inv-00588",
+        "inv-00590",
+        "inv-00592"
+      ]
+    },
+    {
+      "duplicateGroup": "dup-00199",
+      "entityId": "2023-weaponized-episode-21",
+      "normalizedUrl": "https://link.chtbl.com/Weaponized",
+      "inventoryIds": [
+        "inv-00589",
+        "inv-00591",
+        "inv-00593"
+      ]
+    },
+    {
+      "duplicateGroup": "dup-00202",
+      "entityId": "2023-weaponized-episode-22",
+      "normalizedUrl": "https://weaponizedpodcast.com/episodes-1/episode-number-22",
+      "inventoryIds": [
+        "inv-00594",
+        "inv-00596",
+        "inv-00598"
+      ]
+    },
+    {
+      "duplicateGroup": "dup-00201",
+      "entityId": "2023-weaponized-episode-22",
+      "normalizedUrl": "https://link.chtbl.com/Weaponized",
+      "inventoryIds": [
+        "inv-00595",
+        "inv-00597",
+        "inv-00599"
+      ]
+    },
+    {
+      "duplicateGroup": "dup-00204",
+      "entityId": "2023-weaponized-episode-23",
+      "normalizedUrl": "https://weaponizedpodcast.com/episodes-1/episode-number-23",
+      "inventoryIds": [
+        "inv-00600",
+        "inv-00602",
+        "inv-00604"
+      ]
+    },
+    {
+      "duplicateGroup": "dup-00203",
+      "entityId": "2023-weaponized-episode-23",
+      "normalizedUrl": "https://link.chtbl.com/Weaponized",
+      "inventoryIds": [
+        "inv-00601",
+        "inv-00603",
+        "inv-00605"
+      ]
+    },
+    {
+      "duplicateGroup": "dup-00206",
+      "entityId": "2023-weaponized-episode-24",
+      "normalizedUrl": "https://weaponizedpodcast.com/episodes-1/episode-number-24",
+      "inventoryIds": [
+        "inv-00606",
+        "inv-00608",
+        "inv-00610"
+      ]
+    },
+    {
+      "duplicateGroup": "dup-00205",
+      "entityId": "2023-weaponized-episode-24",
+      "normalizedUrl": "https://link.chtbl.com/Weaponized",
+      "inventoryIds": [
+        "inv-00607",
+        "inv-00609",
+        "inv-00611"
+      ]
+    },
+    {
+      "duplicateGroup": "dup-00208",
+      "entityId": "2023-weaponized-episode-25",
+      "normalizedUrl": "https://weaponizedpodcast.com/episodes-1/episode-number-25",
+      "inventoryIds": [
+        "inv-00612",
+        "inv-00614",
+        "inv-00616"
+      ]
+    },
+    {
+      "duplicateGroup": "dup-00207",
+      "entityId": "2023-weaponized-episode-25",
+      "normalizedUrl": "https://link.chtbl.com/Weaponized",
+      "inventoryIds": [
+        "inv-00613",
+        "inv-00615",
+        "inv-00617"
+      ]
+    },
+    {
+      "duplicateGroup": "dup-00210",
+      "entityId": "2023-weaponized-episode-26",
+      "normalizedUrl": "https://weaponizedpodcast.com/episodes-1/episode-number-26",
+      "inventoryIds": [
+        "inv-00618",
+        "inv-00620",
+        "inv-00622"
+      ]
+    },
+    {
+      "duplicateGroup": "dup-00209",
+      "entityId": "2023-weaponized-episode-26",
+      "normalizedUrl": "https://link.chtbl.com/Weaponized",
+      "inventoryIds": [
+        "inv-00619",
+        "inv-00621",
+        "inv-00623"
+      ]
+    },
+    {
+      "duplicateGroup": "dup-00212",
+      "entityId": "2023-weaponized-episode-27",
+      "normalizedUrl": "https://weaponizedpodcast.com/episodes-1/episode-number-27",
+      "inventoryIds": [
+        "inv-00624",
+        "inv-00626",
+        "inv-00628"
+      ]
+    },
+    {
+      "duplicateGroup": "dup-00211",
+      "entityId": "2023-weaponized-episode-27",
+      "normalizedUrl": "https://link.chtbl.com/Weaponized",
+      "inventoryIds": [
+        "inv-00625",
+        "inv-00627",
+        "inv-00629"
+      ]
+    },
+    {
+      "duplicateGroup": "dup-00214",
+      "entityId": "2023-weaponized-episode-28",
+      "normalizedUrl": "https://weaponizedpodcast.com/episodes-1/episode-number-28",
+      "inventoryIds": [
+        "inv-00630",
+        "inv-00632",
+        "inv-00634"
+      ]
+    },
+    {
+      "duplicateGroup": "dup-00213",
+      "entityId": "2023-weaponized-episode-28",
+      "normalizedUrl": "https://link.chtbl.com/Weaponized",
+      "inventoryIds": [
+        "inv-00631",
+        "inv-00633",
+        "inv-00635"
+      ]
+    },
+    {
+      "duplicateGroup": "dup-00216",
+      "entityId": "2023-weaponized-episode-29",
+      "normalizedUrl": "https://weaponizedpodcast.com/episodes-1/episode-number-29",
+      "inventoryIds": [
+        "inv-00636",
+        "inv-00638",
+        "inv-00640"
+      ]
+    },
+    {
+      "duplicateGroup": "dup-00215",
+      "entityId": "2023-weaponized-episode-29",
+      "normalizedUrl": "https://link.chtbl.com/Weaponized",
+      "inventoryIds": [
+        "inv-00637",
+        "inv-00639",
+        "inv-00641"
+      ]
+    },
+    {
+      "duplicateGroup": "dup-00218",
+      "entityId": "2023-weaponized-episode-3",
+      "normalizedUrl": "https://weaponizedpodcast.com/episodes-1/episode-number-3",
+      "inventoryIds": [
+        "inv-00642",
+        "inv-00644",
+        "inv-00646"
+      ]
+    },
+    {
+      "duplicateGroup": "dup-00217",
+      "entityId": "2023-weaponized-episode-3",
+      "normalizedUrl": "https://link.chtbl.com/Weaponized",
+      "inventoryIds": [
+        "inv-00643",
+        "inv-00645",
+        "inv-00647"
+      ]
+    },
+    {
+      "duplicateGroup": "dup-00220",
+      "entityId": "2023-weaponized-episode-30",
+      "normalizedUrl": "https://weaponizedpodcast.com/episodes-1/episode-number-30",
+      "inventoryIds": [
+        "inv-00648",
+        "inv-00650",
+        "inv-00652"
+      ]
+    },
+    {
+      "duplicateGroup": "dup-00219",
+      "entityId": "2023-weaponized-episode-30",
+      "normalizedUrl": "https://link.chtbl.com/Weaponized",
+      "inventoryIds": [
+        "inv-00649",
+        "inv-00651",
+        "inv-00653"
+      ]
+    },
+    {
+      "duplicateGroup": "dup-00222",
+      "entityId": "2023-weaponized-episode-31",
+      "normalizedUrl": "https://weaponizedpodcast.com/episodes-2/episode-31",
+      "inventoryIds": [
+        "inv-00654",
+        "inv-00656",
+        "inv-00658"
+      ]
+    },
+    {
+      "duplicateGroup": "dup-00221",
+      "entityId": "2023-weaponized-episode-31",
+      "normalizedUrl": "https://link.chtbl.com/Weaponized",
+      "inventoryIds": [
+        "inv-00655",
+        "inv-00657",
+        "inv-00659"
+      ]
+    },
+    {
+      "duplicateGroup": "dup-00224",
+      "entityId": "2023-weaponized-episode-32",
+      "normalizedUrl": "https://weaponizedpodcast.com/episodes-2/episode-32",
+      "inventoryIds": [
+        "inv-00660",
+        "inv-00662",
+        "inv-00664"
+      ]
+    },
+    {
+      "duplicateGroup": "dup-00223",
+      "entityId": "2023-weaponized-episode-32",
+      "normalizedUrl": "https://link.chtbl.com/Weaponized",
+      "inventoryIds": [
+        "inv-00661",
+        "inv-00663",
+        "inv-00665"
+      ]
+    },
+    {
+      "duplicateGroup": "dup-00226",
+      "entityId": "2023-weaponized-episode-33",
+      "normalizedUrl": "https://weaponizedpodcast.com/episodes-2/episode-33",
+      "inventoryIds": [
+        "inv-00666",
+        "inv-00668",
+        "inv-00670"
+      ]
+    },
+    {
+      "duplicateGroup": "dup-00225",
+      "entityId": "2023-weaponized-episode-33",
+      "normalizedUrl": "https://link.chtbl.com/Weaponized",
+      "inventoryIds": [
+        "inv-00667",
+        "inv-00669",
+        "inv-00671"
+      ]
+    },
+    {
+      "duplicateGroup": "dup-00228",
+      "entityId": "2023-weaponized-episode-34",
+      "normalizedUrl": "https://weaponizedpodcast.com/episodes-2/episode-34",
+      "inventoryIds": [
+        "inv-00672",
+        "inv-00674",
+        "inv-00676"
+      ]
+    },
+    {
+      "duplicateGroup": "dup-00227",
+      "entityId": "2023-weaponized-episode-34",
+      "normalizedUrl": "https://link.chtbl.com/Weaponized",
+      "inventoryIds": [
+        "inv-00673",
+        "inv-00675",
+        "inv-00677"
+      ]
+    },
+    {
+      "duplicateGroup": "dup-00230",
+      "entityId": "2023-weaponized-episode-35",
+      "normalizedUrl": "https://weaponizedpodcast.com/episodes-2/episode-35",
+      "inventoryIds": [
+        "inv-00678",
+        "inv-00680",
+        "inv-00682"
+      ]
+    },
+    {
+      "duplicateGroup": "dup-00229",
+      "entityId": "2023-weaponized-episode-35",
+      "normalizedUrl": "https://link.chtbl.com/Weaponized",
+      "inventoryIds": [
+        "inv-00679",
+        "inv-00681",
+        "inv-00683"
+      ]
+    },
+    {
+      "duplicateGroup": "dup-00232",
+      "entityId": "2023-weaponized-episode-36",
+      "normalizedUrl": "https://weaponizedpodcast.com/episodes-2/episode-36",
+      "inventoryIds": [
+        "inv-00684",
+        "inv-00686",
+        "inv-00688"
+      ]
+    },
+    {
+      "duplicateGroup": "dup-00231",
+      "entityId": "2023-weaponized-episode-36",
+      "normalizedUrl": "https://link.chtbl.com/Weaponized",
+      "inventoryIds": [
+        "inv-00685",
+        "inv-00687",
+        "inv-00689"
+      ]
+    },
+    {
+      "duplicateGroup": "dup-00234",
+      "entityId": "2023-weaponized-episode-37",
+      "normalizedUrl": "https://weaponizedpodcast.com/episodes-2/episode-37",
+      "inventoryIds": [
+        "inv-00690",
+        "inv-00692",
+        "inv-00694"
+      ]
+    },
+    {
+      "duplicateGroup": "dup-00233",
+      "entityId": "2023-weaponized-episode-37",
+      "normalizedUrl": "https://link.chtbl.com/Weaponized",
+      "inventoryIds": [
+        "inv-00691",
+        "inv-00693",
+        "inv-00695"
+      ]
+    },
+    {
+      "duplicateGroup": "dup-00236",
+      "entityId": "2023-weaponized-episode-38",
+      "normalizedUrl": "https://weaponizedpodcast.com/episodes-2/episode-38",
+      "inventoryIds": [
+        "inv-00696",
+        "inv-00698",
+        "inv-00700"
+      ]
+    },
+    {
+      "duplicateGroup": "dup-00235",
+      "entityId": "2023-weaponized-episode-38",
+      "normalizedUrl": "https://link.chtbl.com/Weaponized",
+      "inventoryIds": [
+        "inv-00697",
+        "inv-00699",
+        "inv-00701"
+      ]
+    },
+    {
+      "duplicateGroup": "dup-00238",
+      "entityId": "2023-weaponized-episode-39",
+      "normalizedUrl": "https://weaponizedpodcast.com/episodes-2/episode-39",
+      "inventoryIds": [
+        "inv-00702",
+        "inv-00704",
+        "inv-00706"
+      ]
+    },
+    {
+      "duplicateGroup": "dup-00237",
+      "entityId": "2023-weaponized-episode-39",
+      "normalizedUrl": "https://link.chtbl.com/Weaponized",
+      "inventoryIds": [
+        "inv-00703",
+        "inv-00705",
+        "inv-00707"
+      ]
+    },
+    {
+      "duplicateGroup": "dup-00240",
+      "entityId": "2023-weaponized-episode-4",
+      "normalizedUrl": "https://weaponizedpodcast.com/episodes-1/episode-number-4",
+      "inventoryIds": [
+        "inv-00708",
+        "inv-00710",
+        "inv-00712"
+      ]
+    },
+    {
+      "duplicateGroup": "dup-00239",
+      "entityId": "2023-weaponized-episode-4",
+      "normalizedUrl": "https://link.chtbl.com/Weaponized",
+      "inventoryIds": [
+        "inv-00709",
+        "inv-00711",
+        "inv-00713"
+      ]
+    },
+    {
+      "duplicateGroup": "dup-00242",
+      "entityId": "2023-weaponized-episode-40",
+      "normalizedUrl": "https://weaponizedpodcast.com/episodes-2/episode-40",
+      "inventoryIds": [
+        "inv-00714",
+        "inv-00716",
+        "inv-00718"
+      ]
+    },
+    {
+      "duplicateGroup": "dup-00241",
+      "entityId": "2023-weaponized-episode-40",
+      "normalizedUrl": "https://link.chtbl.com/Weaponized",
+      "inventoryIds": [
+        "inv-00715",
+        "inv-00717",
+        "inv-00719"
+      ]
+    },
+    {
+      "duplicateGroup": "dup-00244",
+      "entityId": "2023-weaponized-episode-41",
+      "normalizedUrl": "https://weaponizedpodcast.com/episodes-2/episode-41",
+      "inventoryIds": [
+        "inv-00720",
+        "inv-00722",
+        "inv-00724"
+      ]
+    },
+    {
+      "duplicateGroup": "dup-00243",
+      "entityId": "2023-weaponized-episode-41",
+      "normalizedUrl": "https://link.chtbl.com/Weaponized",
+      "inventoryIds": [
+        "inv-00721",
+        "inv-00723",
+        "inv-00725"
+      ]
+    },
+    {
+      "duplicateGroup": "dup-00246",
+      "entityId": "2023-weaponized-episode-42",
+      "normalizedUrl": "https://weaponizedpodcast.com/episodes-2/episode-42",
+      "inventoryIds": [
+        "inv-00726",
+        "inv-00728",
+        "inv-00730"
+      ]
+    },
+    {
+      "duplicateGroup": "dup-00245",
+      "entityId": "2023-weaponized-episode-42",
+      "normalizedUrl": "https://link.chtbl.com/Weaponized",
+      "inventoryIds": [
+        "inv-00727",
+        "inv-00729",
+        "inv-00731"
+      ]
+    },
+    {
+      "duplicateGroup": "dup-00248",
+      "entityId": "2023-weaponized-episode-43",
+      "normalizedUrl": "https://weaponizedpodcast.com/episodes-2/episode-43",
+      "inventoryIds": [
+        "inv-00732",
+        "inv-00734",
+        "inv-00736"
+      ]
+    },
+    {
+      "duplicateGroup": "dup-00247",
+      "entityId": "2023-weaponized-episode-43",
+      "normalizedUrl": "https://link.chtbl.com/Weaponized",
+      "inventoryIds": [
+        "inv-00733",
+        "inv-00735",
+        "inv-00737"
+      ]
+    },
+    {
+      "duplicateGroup": "dup-00250",
+      "entityId": "2023-weaponized-episode-44",
+      "normalizedUrl": "https://weaponizedpodcast.com/episodes-2/episode-44",
+      "inventoryIds": [
+        "inv-00738",
+        "inv-00740",
+        "inv-00742"
+      ]
+    },
+    {
+      "duplicateGroup": "dup-00249",
+      "entityId": "2023-weaponized-episode-44",
+      "normalizedUrl": "https://link.chtbl.com/Weaponized",
+      "inventoryIds": [
+        "inv-00739",
+        "inv-00741",
+        "inv-00743"
+      ]
+    },
+    {
+      "duplicateGroup": "dup-00252",
+      "entityId": "2023-weaponized-episode-45",
+      "normalizedUrl": "https://weaponizedpodcast.com/episodes-2/episode-45",
+      "inventoryIds": [
+        "inv-00744",
+        "inv-00746",
+        "inv-00748"
+      ]
+    },
+    {
+      "duplicateGroup": "dup-00251",
+      "entityId": "2023-weaponized-episode-45",
+      "normalizedUrl": "https://link.chtbl.com/Weaponized",
+      "inventoryIds": [
+        "inv-00745",
+        "inv-00747",
+        "inv-00749"
+      ]
+    },
+    {
+      "duplicateGroup": "dup-00254",
+      "entityId": "2023-weaponized-episode-5",
+      "normalizedUrl": "https://weaponizedpodcast.com/episodes-1/episode-number-5",
+      "inventoryIds": [
+        "inv-00750",
+        "inv-00752",
+        "inv-00754"
+      ]
+    },
+    {
+      "duplicateGroup": "dup-00253",
+      "entityId": "2023-weaponized-episode-5",
+      "normalizedUrl": "https://link.chtbl.com/Weaponized",
+      "inventoryIds": [
+        "inv-00751",
+        "inv-00753",
+        "inv-00755"
+      ]
+    },
+    {
+      "duplicateGroup": "dup-00256",
+      "entityId": "2023-weaponized-episode-6",
+      "normalizedUrl": "https://weaponizedpodcast.com/episodes-1/episode-number-6",
+      "inventoryIds": [
+        "inv-00756",
+        "inv-00758",
+        "inv-00760"
+      ]
+    },
+    {
+      "duplicateGroup": "dup-00255",
+      "entityId": "2023-weaponized-episode-6",
+      "normalizedUrl": "https://link.chtbl.com/Weaponized",
+      "inventoryIds": [
+        "inv-00757",
+        "inv-00759",
+        "inv-00761"
+      ]
+    },
+    {
+      "duplicateGroup": "dup-00258",
+      "entityId": "2023-weaponized-episode-7",
+      "normalizedUrl": "https://weaponizedpodcast.com/episodes-1/episode-number-7",
+      "inventoryIds": [
+        "inv-00762",
+        "inv-00764",
+        "inv-00766"
+      ]
+    },
+    {
+      "duplicateGroup": "dup-00257",
+      "entityId": "2023-weaponized-episode-7",
+      "normalizedUrl": "https://link.chtbl.com/Weaponized",
+      "inventoryIds": [
+        "inv-00763",
+        "inv-00765",
+        "inv-00767"
+      ]
+    },
+    {
+      "duplicateGroup": "dup-00260",
+      "entityId": "2023-weaponized-episode-8",
+      "normalizedUrl": "https://weaponizedpodcast.com/episodes-1/episode-number-8",
+      "inventoryIds": [
+        "inv-00768",
+        "inv-00770",
+        "inv-00772"
+      ]
+    },
+    {
+      "duplicateGroup": "dup-00259",
+      "entityId": "2023-weaponized-episode-8",
+      "normalizedUrl": "https://link.chtbl.com/Weaponized",
+      "inventoryIds": [
+        "inv-00769",
+        "inv-00771",
+        "inv-00773"
+      ]
+    },
+    {
+      "duplicateGroup": "dup-00262",
+      "entityId": "2023-weaponized-episode-9",
+      "normalizedUrl": "https://weaponizedpodcast.com/episodes-1/episode-number-9",
+      "inventoryIds": [
+        "inv-00774",
+        "inv-00776",
+        "inv-00778"
+      ]
+    },
+    {
+      "duplicateGroup": "dup-00261",
+      "entityId": "2023-weaponized-episode-9",
+      "normalizedUrl": "https://link.chtbl.com/Weaponized",
+      "inventoryIds": [
+        "inv-00775",
+        "inv-00777",
+        "inv-00779"
+      ]
+    },
+    {
+      "duplicateGroup": "dup-00264",
+      "entityId": "2024-need-to-know-episode-48",
+      "normalizedUrl": "https://youtube.com/watch?v=DWShhjGr-uc",
+      "inventoryIds": [
+        "inv-00780",
+        "inv-00782",
+        "inv-00784"
+      ]
+    },
+    {
+      "duplicateGroup": "dup-00263",
+      "entityId": "2024-need-to-know-episode-48",
+      "normalizedUrl": "https://youtube.com/playlist?list=PLXdU8QbJkboeMcvUNyGpb9h6FUS9cVBti",
+      "inventoryIds": [
+        "inv-00781",
+        "inv-00783",
+        "inv-00785"
+      ]
+    },
+    {
+      "duplicateGroup": "dup-00266",
+      "entityId": "2024-need-to-know-episode-49",
+      "normalizedUrl": "https://youtube.com/watch?v=NFvXyOiUiZ0",
+      "inventoryIds": [
+        "inv-00786",
+        "inv-00788",
+        "inv-00790"
+      ]
+    },
+    {
+      "duplicateGroup": "dup-00265",
+      "entityId": "2024-need-to-know-episode-49",
+      "normalizedUrl": "https://youtube.com/playlist?list=PLXdU8QbJkboeMcvUNyGpb9h6FUS9cVBti",
+      "inventoryIds": [
+        "inv-00787",
+        "inv-00789",
+        "inv-00791"
+      ]
+    },
+    {
+      "duplicateGroup": "dup-00268",
+      "entityId": "2024-need-to-know-episode-50",
+      "normalizedUrl": "https://youtube.com/watch?v=XiMrk9vX3og",
+      "inventoryIds": [
+        "inv-00792",
+        "inv-00794",
+        "inv-00796"
+      ]
+    },
+    {
+      "duplicateGroup": "dup-00267",
+      "entityId": "2024-need-to-know-episode-50",
+      "normalizedUrl": "https://youtube.com/playlist?list=PLXdU8QbJkboeMcvUNyGpb9h6FUS9cVBti",
+      "inventoryIds": [
+        "inv-00793",
+        "inv-00795",
+        "inv-00797"
+      ]
+    },
+    {
+      "duplicateGroup": "dup-00270",
+      "entityId": "2024-need-to-know-episode-51",
+      "normalizedUrl": "https://youtube.com/watch?v=zC60JOR8nPw",
+      "inventoryIds": [
+        "inv-00798",
+        "inv-00800",
+        "inv-00802"
+      ]
+    },
+    {
+      "duplicateGroup": "dup-00269",
+      "entityId": "2024-need-to-know-episode-51",
+      "normalizedUrl": "https://youtube.com/playlist?list=PLXdU8QbJkboeMcvUNyGpb9h6FUS9cVBti",
+      "inventoryIds": [
+        "inv-00799",
+        "inv-00801",
+        "inv-00803"
+      ]
+    },
+    {
+      "duplicateGroup": "dup-00272",
+      "entityId": "2024-need-to-know-episode-52",
+      "normalizedUrl": "https://youtube.com/watch?v=M8Xb3q0NILY",
+      "inventoryIds": [
+        "inv-00804",
+        "inv-00806",
+        "inv-00808"
+      ]
+    },
+    {
+      "duplicateGroup": "dup-00271",
+      "entityId": "2024-need-to-know-episode-52",
+      "normalizedUrl": "https://youtube.com/playlist?list=PLXdU8QbJkboeMcvUNyGpb9h6FUS9cVBti",
+      "inventoryIds": [
+        "inv-00805",
+        "inv-00807",
+        "inv-00809"
+      ]
+    },
+    {
+      "duplicateGroup": "dup-00274",
+      "entityId": "2024-need-to-know-episode-53",
+      "normalizedUrl": "https://youtube.com/watch?v=9dmoqsa5WvU",
+      "inventoryIds": [
+        "inv-00810",
+        "inv-00812",
+        "inv-00814"
+      ]
+    },
+    {
+      "duplicateGroup": "dup-00273",
+      "entityId": "2024-need-to-know-episode-53",
+      "normalizedUrl": "https://youtube.com/playlist?list=PLXdU8QbJkboeMcvUNyGpb9h6FUS9cVBti",
+      "inventoryIds": [
+        "inv-00811",
+        "inv-00813",
+        "inv-00815"
+      ]
+    },
+    {
+      "duplicateGroup": "dup-00276",
+      "entityId": "2024-need-to-know-episode-54",
+      "normalizedUrl": "https://youtube.com/watch?v=br8sAWRl8EA",
+      "inventoryIds": [
+        "inv-00816",
+        "inv-00818",
+        "inv-00820"
+      ]
+    },
+    {
+      "duplicateGroup": "dup-00275",
+      "entityId": "2024-need-to-know-episode-54",
+      "normalizedUrl": "https://youtube.com/playlist?list=PLXdU8QbJkboeMcvUNyGpb9h6FUS9cVBti",
+      "inventoryIds": [
+        "inv-00817",
+        "inv-00819",
+        "inv-00821"
+      ]
+    },
+    {
+      "duplicateGroup": "dup-00278",
+      "entityId": "2024-need-to-know-episode-55",
+      "normalizedUrl": "https://youtube.com/watch?v=5ZxQJg15FNM",
+      "inventoryIds": [
+        "inv-00822",
+        "inv-00824",
+        "inv-00826"
+      ]
+    },
+    {
+      "duplicateGroup": "dup-00277",
+      "entityId": "2024-need-to-know-episode-55",
+      "normalizedUrl": "https://youtube.com/playlist?list=PLXdU8QbJkboeMcvUNyGpb9h6FUS9cVBti",
+      "inventoryIds": [
+        "inv-00823",
+        "inv-00825",
+        "inv-00827"
+      ]
+    },
+    {
+      "duplicateGroup": "dup-00280",
+      "entityId": "2024-need-to-know-episode-56",
+      "normalizedUrl": "https://youtube.com/watch?v=l1OQuK5bHt4",
+      "inventoryIds": [
+        "inv-00828",
+        "inv-00830",
+        "inv-00832"
+      ]
+    },
+    {
+      "duplicateGroup": "dup-00279",
+      "entityId": "2024-need-to-know-episode-56",
+      "normalizedUrl": "https://youtube.com/playlist?list=PLXdU8QbJkboeMcvUNyGpb9h6FUS9cVBti",
+      "inventoryIds": [
+        "inv-00829",
+        "inv-00831",
+        "inv-00833"
+      ]
+    },
+    {
+      "duplicateGroup": "dup-00282",
+      "entityId": "2024-need-to-know-episode-57",
+      "normalizedUrl": "https://youtube.com/watch?v=kAhQmbCy1VE",
+      "inventoryIds": [
+        "inv-00834",
+        "inv-00836",
+        "inv-00838"
+      ]
+    },
+    {
+      "duplicateGroup": "dup-00281",
+      "entityId": "2024-need-to-know-episode-57",
+      "normalizedUrl": "https://youtube.com/playlist?list=PLXdU8QbJkboeMcvUNyGpb9h6FUS9cVBti",
+      "inventoryIds": [
+        "inv-00835",
+        "inv-00837",
+        "inv-00839"
+      ]
+    },
+    {
+      "duplicateGroup": "dup-00284",
+      "entityId": "2024-need-to-know-episode-58",
+      "normalizedUrl": "https://youtube.com/watch?v=DtpBExdn2rc",
+      "inventoryIds": [
+        "inv-00840",
+        "inv-00842",
+        "inv-00844"
+      ]
+    },
+    {
+      "duplicateGroup": "dup-00283",
+      "entityId": "2024-need-to-know-episode-58",
+      "normalizedUrl": "https://youtube.com/playlist?list=PLXdU8QbJkboeMcvUNyGpb9h6FUS9cVBti",
+      "inventoryIds": [
+        "inv-00841",
+        "inv-00843",
+        "inv-00845"
+      ]
+    },
+    {
+      "duplicateGroup": "dup-00286",
+      "entityId": "2024-need-to-know-episode-59",
+      "normalizedUrl": "https://youtube.com/watch?v=KLXqSz4xAzE",
+      "inventoryIds": [
+        "inv-00846",
+        "inv-00848",
+        "inv-00850"
+      ]
+    },
+    {
+      "duplicateGroup": "dup-00285",
+      "entityId": "2024-need-to-know-episode-59",
+      "normalizedUrl": "https://youtube.com/playlist?list=PLXdU8QbJkboeMcvUNyGpb9h6FUS9cVBti",
+      "inventoryIds": [
+        "inv-00847",
+        "inv-00849",
+        "inv-00851"
+      ]
+    },
+    {
+      "duplicateGroup": "dup-00288",
+      "entityId": "2024-weaponized-episode-46",
+      "normalizedUrl": "https://weaponizedpodcast.com/episodes-2/episode-46",
+      "inventoryIds": [
+        "inv-00852",
+        "inv-00854",
+        "inv-00856"
+      ]
+    },
+    {
+      "duplicateGroup": "dup-00287",
+      "entityId": "2024-weaponized-episode-46",
+      "normalizedUrl": "https://link.chtbl.com/Weaponized",
+      "inventoryIds": [
+        "inv-00853",
+        "inv-00855",
+        "inv-00857"
+      ]
+    },
+    {
+      "duplicateGroup": "dup-00290",
+      "entityId": "2024-weaponized-episode-47",
+      "normalizedUrl": "https://weaponizedpodcast.com/episodes-2/episode-47",
+      "inventoryIds": [
+        "inv-00858",
+        "inv-00860",
+        "inv-00862"
+      ]
+    },
+    {
+      "duplicateGroup": "dup-00289",
+      "entityId": "2024-weaponized-episode-47",
+      "normalizedUrl": "https://link.chtbl.com/Weaponized",
+      "inventoryIds": [
+        "inv-00859",
+        "inv-00861",
+        "inv-00863"
+      ]
+    },
+    {
+      "duplicateGroup": "dup-00292",
+      "entityId": "2024-weaponized-episode-48",
+      "normalizedUrl": "https://weaponizedpodcast.com/episodes-2/episode-48",
+      "inventoryIds": [
+        "inv-00864",
+        "inv-00866",
+        "inv-00868"
+      ]
+    },
+    {
+      "duplicateGroup": "dup-00291",
+      "entityId": "2024-weaponized-episode-48",
+      "normalizedUrl": "https://link.chtbl.com/Weaponized",
+      "inventoryIds": [
+        "inv-00865",
+        "inv-00867",
+        "inv-00869"
+      ]
+    },
+    {
+      "duplicateGroup": "dup-00294",
+      "entityId": "2024-weaponized-episode-49",
+      "normalizedUrl": "https://weaponizedpodcast.com/episodes-2/episode-49",
+      "inventoryIds": [
+        "inv-00870",
+        "inv-00872",
+        "inv-00874"
+      ]
+    },
+    {
+      "duplicateGroup": "dup-00293",
+      "entityId": "2024-weaponized-episode-49",
+      "normalizedUrl": "https://link.chtbl.com/Weaponized",
+      "inventoryIds": [
+        "inv-00871",
+        "inv-00873",
+        "inv-00875"
+      ]
+    },
+    {
+      "duplicateGroup": "dup-00296",
+      "entityId": "2024-weaponized-episode-50",
+      "normalizedUrl": "https://weaponizedpodcast.com/episodes-2/episode-50",
+      "inventoryIds": [
+        "inv-00876",
+        "inv-00878",
+        "inv-00880"
+      ]
+    },
+    {
+      "duplicateGroup": "dup-00295",
+      "entityId": "2024-weaponized-episode-50",
+      "normalizedUrl": "https://link.chtbl.com/Weaponized",
+      "inventoryIds": [
+        "inv-00877",
+        "inv-00879",
+        "inv-00881"
+      ]
+    },
+    {
+      "duplicateGroup": "dup-00298",
+      "entityId": "2024-weaponized-episode-51",
+      "normalizedUrl": "https://weaponizedpodcast.com/episodes-2/episode-51",
+      "inventoryIds": [
+        "inv-00882",
+        "inv-00884",
+        "inv-00886"
+      ]
+    },
+    {
+      "duplicateGroup": "dup-00297",
+      "entityId": "2024-weaponized-episode-51",
+      "normalizedUrl": "https://link.chtbl.com/Weaponized",
+      "inventoryIds": [
+        "inv-00883",
+        "inv-00885",
+        "inv-00887"
+      ]
+    },
+    {
+      "duplicateGroup": "dup-00300",
+      "entityId": "2024-weaponized-episode-52",
+      "normalizedUrl": "https://weaponizedpodcast.com/episodes-2/episode-52",
+      "inventoryIds": [
+        "inv-00888",
+        "inv-00890",
+        "inv-00892"
+      ]
+    },
+    {
+      "duplicateGroup": "dup-00299",
+      "entityId": "2024-weaponized-episode-52",
+      "normalizedUrl": "https://link.chtbl.com/Weaponized",
+      "inventoryIds": [
+        "inv-00889",
+        "inv-00891",
+        "inv-00893"
+      ]
+    },
+    {
+      "duplicateGroup": "dup-00302",
+      "entityId": "2024-weaponized-episode-53",
+      "normalizedUrl": "https://weaponizedpodcast.com/episodes-2/episode-53",
+      "inventoryIds": [
+        "inv-00894",
+        "inv-00896",
+        "inv-00898"
+      ]
+    },
+    {
+      "duplicateGroup": "dup-00301",
+      "entityId": "2024-weaponized-episode-53",
+      "normalizedUrl": "https://link.chtbl.com/Weaponized",
+      "inventoryIds": [
+        "inv-00895",
+        "inv-00897",
+        "inv-00899"
+      ]
+    },
+    {
+      "duplicateGroup": "dup-00304",
+      "entityId": "2024-weaponized-episode-54",
+      "normalizedUrl": "https://weaponizedpodcast.com/episodes-2/episode-54",
+      "inventoryIds": [
+        "inv-00900",
+        "inv-00902",
+        "inv-00904"
+      ]
+    },
+    {
+      "duplicateGroup": "dup-00303",
+      "entityId": "2024-weaponized-episode-54",
+      "normalizedUrl": "https://link.chtbl.com/Weaponized",
+      "inventoryIds": [
+        "inv-00901",
+        "inv-00903",
+        "inv-00905"
+      ]
+    },
+    {
+      "duplicateGroup": "dup-00306",
+      "entityId": "2024-weaponized-episode-55",
+      "normalizedUrl": "https://weaponizedpodcast.com/episodes-2/episode-55",
+      "inventoryIds": [
+        "inv-00906",
+        "inv-00908",
+        "inv-00910"
+      ]
+    },
+    {
+      "duplicateGroup": "dup-00305",
+      "entityId": "2024-weaponized-episode-55",
+      "normalizedUrl": "https://link.chtbl.com/Weaponized",
+      "inventoryIds": [
+        "inv-00907",
+        "inv-00909",
+        "inv-00911"
+      ]
+    },
+    {
+      "duplicateGroup": "dup-00308",
+      "entityId": "2024-weaponized-episode-56",
+      "normalizedUrl": "https://weaponizedpodcast.com/episodes-2/episode-56",
+      "inventoryIds": [
+        "inv-00912",
+        "inv-00914",
+        "inv-00916"
+      ]
+    },
+    {
+      "duplicateGroup": "dup-00307",
+      "entityId": "2024-weaponized-episode-56",
+      "normalizedUrl": "https://link.chtbl.com/Weaponized",
+      "inventoryIds": [
+        "inv-00913",
+        "inv-00915",
+        "inv-00917"
+      ]
+    },
+    {
+      "duplicateGroup": "dup-00310",
+      "entityId": "2024-weaponized-episode-57",
+      "normalizedUrl": "https://weaponizedpodcast.com/episodes-2/episode-57",
+      "inventoryIds": [
+        "inv-00918",
+        "inv-00920",
+        "inv-00922"
+      ]
+    },
+    {
+      "duplicateGroup": "dup-00309",
+      "entityId": "2024-weaponized-episode-57",
+      "normalizedUrl": "https://link.chtbl.com/Weaponized",
+      "inventoryIds": [
+        "inv-00919",
+        "inv-00921",
+        "inv-00923"
+      ]
+    },
+    {
+      "duplicateGroup": "dup-00312",
+      "entityId": "2024-weaponized-episode-58",
+      "normalizedUrl": "https://weaponizedpodcast.com/episodes-2/episode-58",
+      "inventoryIds": [
+        "inv-00924",
+        "inv-00926",
+        "inv-00928"
+      ]
+    },
+    {
+      "duplicateGroup": "dup-00311",
+      "entityId": "2024-weaponized-episode-58",
+      "normalizedUrl": "https://link.chtbl.com/Weaponized",
+      "inventoryIds": [
+        "inv-00925",
+        "inv-00927",
+        "inv-00929"
+      ]
+    },
+    {
+      "duplicateGroup": "dup-00314",
+      "entityId": "2024-weaponized-episode-59",
+      "normalizedUrl": "https://weaponizedpodcast.com/episodes-2/episode-59",
+      "inventoryIds": [
+        "inv-00930",
+        "inv-00932",
+        "inv-00934"
+      ]
+    },
+    {
+      "duplicateGroup": "dup-00313",
+      "entityId": "2024-weaponized-episode-59",
+      "normalizedUrl": "https://link.chtbl.com/Weaponized",
+      "inventoryIds": [
+        "inv-00931",
+        "inv-00933",
+        "inv-00935"
+      ]
+    },
+    {
+      "duplicateGroup": "dup-00316",
+      "entityId": "2024-weaponized-episode-60",
+      "normalizedUrl": "https://weaponizedpodcast.com/episodes-2/episode-60",
+      "inventoryIds": [
+        "inv-00936",
+        "inv-00938",
+        "inv-00940"
+      ]
+    },
+    {
+      "duplicateGroup": "dup-00315",
+      "entityId": "2024-weaponized-episode-60",
+      "normalizedUrl": "https://link.chtbl.com/Weaponized",
+      "inventoryIds": [
+        "inv-00937",
+        "inv-00939",
+        "inv-00941"
+      ]
+    },
+    {
+      "duplicateGroup": "dup-00318",
+      "entityId": "2024-weaponized-episode-61",
+      "normalizedUrl": "https://weaponizedpodcast.com/episodes-3/episode-61",
+      "inventoryIds": [
+        "inv-00942",
+        "inv-00944",
+        "inv-00946"
+      ]
+    },
+    {
+      "duplicateGroup": "dup-00317",
+      "entityId": "2024-weaponized-episode-61",
+      "normalizedUrl": "https://link.chtbl.com/Weaponized",
+      "inventoryIds": [
+        "inv-00943",
+        "inv-00945",
+        "inv-00947"
+      ]
+    },
+    {
+      "duplicateGroup": "dup-00320",
+      "entityId": "2024-weaponized-episode-62",
+      "normalizedUrl": "https://weaponizedpodcast.com/episodes-3/episode-62",
+      "inventoryIds": [
+        "inv-00948",
+        "inv-00950",
+        "inv-00952"
+      ]
+    },
+    {
+      "duplicateGroup": "dup-00319",
+      "entityId": "2024-weaponized-episode-62",
+      "normalizedUrl": "https://link.chtbl.com/Weaponized",
+      "inventoryIds": [
+        "inv-00949",
+        "inv-00951",
+        "inv-00953"
+      ]
+    },
+    {
+      "duplicateGroup": "dup-00322",
+      "entityId": "2024-weaponized-episode-63",
+      "normalizedUrl": "https://weaponizedpodcast.com/episodes-3/episode-63",
+      "inventoryIds": [
+        "inv-00954",
+        "inv-00956",
+        "inv-00958"
+      ]
+    },
+    {
+      "duplicateGroup": "dup-00321",
+      "entityId": "2024-weaponized-episode-63",
+      "normalizedUrl": "https://link.chtbl.com/Weaponized",
+      "inventoryIds": [
+        "inv-00955",
+        "inv-00957",
+        "inv-00959"
+      ]
+    },
+    {
+      "duplicateGroup": "dup-00324",
+      "entityId": "2024-weaponized-episode-64",
+      "normalizedUrl": "https://weaponizedpodcast.com/episodes-3/episode-64",
+      "inventoryIds": [
+        "inv-00960",
+        "inv-00962",
+        "inv-00964"
+      ]
+    },
+    {
+      "duplicateGroup": "dup-00323",
+      "entityId": "2024-weaponized-episode-64",
+      "normalizedUrl": "https://link.chtbl.com/Weaponized",
+      "inventoryIds": [
+        "inv-00961",
+        "inv-00963",
+        "inv-00965"
+      ]
+    },
+    {
+      "duplicateGroup": "dup-00326",
+      "entityId": "2025-need-to-know-episode-60",
+      "normalizedUrl": "https://youtube.com/watch?v=PLVpruAjP1c",
+      "inventoryIds": [
+        "inv-00966",
+        "inv-00968",
+        "inv-00970"
+      ]
+    },
+    {
+      "duplicateGroup": "dup-00325",
+      "entityId": "2025-need-to-know-episode-60",
+      "normalizedUrl": "https://youtube.com/playlist?list=PLXdU8QbJkboeMcvUNyGpb9h6FUS9cVBti",
+      "inventoryIds": [
+        "inv-00967",
+        "inv-00969",
+        "inv-00971"
+      ]
+    },
+    {
+      "duplicateGroup": "dup-00328",
+      "entityId": "2025-need-to-know-episode-61",
+      "normalizedUrl": "https://youtube.com/watch?v=1viZCDLJfqg",
+      "inventoryIds": [
+        "inv-00972",
+        "inv-00974",
+        "inv-00976"
+      ]
+    },
+    {
+      "duplicateGroup": "dup-00327",
+      "entityId": "2025-need-to-know-episode-61",
+      "normalizedUrl": "https://youtube.com/playlist?list=PLXdU8QbJkboeMcvUNyGpb9h6FUS9cVBti",
+      "inventoryIds": [
+        "inv-00973",
+        "inv-00975",
+        "inv-00977"
+      ]
+    },
+    {
+      "duplicateGroup": "dup-00330",
+      "entityId": "2025-need-to-know-episode-62",
+      "normalizedUrl": "https://youtube.com/watch?v=83EQaXJvYRI",
+      "inventoryIds": [
+        "inv-00978",
+        "inv-00980",
+        "inv-00982"
+      ]
+    },
+    {
+      "duplicateGroup": "dup-00329",
+      "entityId": "2025-need-to-know-episode-62",
+      "normalizedUrl": "https://youtube.com/playlist?list=PLXdU8QbJkboeMcvUNyGpb9h6FUS9cVBti",
+      "inventoryIds": [
+        "inv-00979",
+        "inv-00981",
+        "inv-00983"
+      ]
+    },
+    {
+      "duplicateGroup": "dup-00332",
+      "entityId": "2025-need-to-know-episode-63",
+      "normalizedUrl": "https://youtube.com/watch?v=up3_XVMvetg",
+      "inventoryIds": [
+        "inv-00984",
+        "inv-00986",
+        "inv-00988"
+      ]
+    },
+    {
+      "duplicateGroup": "dup-00331",
+      "entityId": "2025-need-to-know-episode-63",
+      "normalizedUrl": "https://youtube.com/playlist?list=PLXdU8QbJkboeMcvUNyGpb9h6FUS9cVBti",
+      "inventoryIds": [
+        "inv-00985",
+        "inv-00987",
+        "inv-00989"
+      ]
+    },
+    {
+      "duplicateGroup": "dup-00334",
+      "entityId": "2025-need-to-know-episode-64",
+      "normalizedUrl": "https://youtube.com/watch?v=r8o4RN_xj2I",
+      "inventoryIds": [
+        "inv-00990",
+        "inv-00992",
+        "inv-00994"
+      ]
+    },
+    {
+      "duplicateGroup": "dup-00333",
+      "entityId": "2025-need-to-know-episode-64",
+      "normalizedUrl": "https://youtube.com/playlist?list=PLXdU8QbJkboeMcvUNyGpb9h6FUS9cVBti",
+      "inventoryIds": [
+        "inv-00991",
+        "inv-00993",
+        "inv-00995"
+      ]
+    },
+    {
+      "duplicateGroup": "dup-00336",
+      "entityId": "2025-need-to-know-episode-65",
+      "normalizedUrl": "https://youtube.com/watch?v=cmxyApOGPCA",
+      "inventoryIds": [
+        "inv-00996",
+        "inv-00998",
+        "inv-01000"
+      ]
+    },
+    {
+      "duplicateGroup": "dup-00335",
+      "entityId": "2025-need-to-know-episode-65",
+      "normalizedUrl": "https://youtube.com/playlist?list=PLXdU8QbJkboeMcvUNyGpb9h6FUS9cVBti",
+      "inventoryIds": [
+        "inv-00997",
+        "inv-00999",
+        "inv-01001"
+      ]
+    },
+    {
+      "duplicateGroup": "dup-00338",
+      "entityId": "2025-need-to-know-episode-66",
+      "normalizedUrl": "https://youtube.com/watch?v=lwsSMUgC7JM",
+      "inventoryIds": [
+        "inv-01002",
+        "inv-01004",
+        "inv-01006"
+      ]
+    },
+    {
+      "duplicateGroup": "dup-00337",
+      "entityId": "2025-need-to-know-episode-66",
+      "normalizedUrl": "https://youtube.com/playlist?list=PLXdU8QbJkboePTgyvfpJ6X8MXWPkfxOgv",
+      "inventoryIds": [
+        "inv-01003",
+        "inv-01005",
+        "inv-01007"
+      ]
+    },
+    {
+      "duplicateGroup": "dup-00340",
+      "entityId": "2025-need-to-know-episode-67",
+      "normalizedUrl": "https://youtube.com/watch?v=ZlRkF8Q-yMc",
+      "inventoryIds": [
+        "inv-01008",
+        "inv-01010",
+        "inv-01012"
+      ]
+    },
+    {
+      "duplicateGroup": "dup-00339",
+      "entityId": "2025-need-to-know-episode-67",
+      "normalizedUrl": "https://youtube.com/playlist?list=PLXdU8QbJkboePTgyvfpJ6X8MXWPkfxOgv",
+      "inventoryIds": [
+        "inv-01009",
+        "inv-01011",
+        "inv-01013"
+      ]
+    },
+    {
+      "duplicateGroup": "dup-00342",
+      "entityId": "2025-need-to-know-episode-68",
+      "normalizedUrl": "https://youtube.com/watch?v=g28EbphgcG0",
+      "inventoryIds": [
+        "inv-01014",
+        "inv-01016",
+        "inv-01018"
+      ]
+    },
+    {
+      "duplicateGroup": "dup-00341",
+      "entityId": "2025-need-to-know-episode-68",
+      "normalizedUrl": "https://youtube.com/playlist?list=PLXdU8QbJkboePTgyvfpJ6X8MXWPkfxOgv",
+      "inventoryIds": [
+        "inv-01015",
+        "inv-01017",
+        "inv-01019"
+      ]
+    },
+    {
+      "duplicateGroup": "dup-00344",
+      "entityId": "2025-need-to-know-episode-69",
+      "normalizedUrl": "https://youtube.com/watch?v=aQgOPR_z1Iw",
+      "inventoryIds": [
+        "inv-01020",
+        "inv-01022",
+        "inv-01024"
+      ]
+    },
+    {
+      "duplicateGroup": "dup-00343",
+      "entityId": "2025-need-to-know-episode-69",
+      "normalizedUrl": "https://youtube.com/playlist?list=PLXdU8QbJkboePTgyvfpJ6X8MXWPkfxOgv",
+      "inventoryIds": [
+        "inv-01021",
+        "inv-01023",
+        "inv-01025"
+      ]
+    },
+    {
+      "duplicateGroup": "dup-00346",
+      "entityId": "2025-weaponized-episode-100",
+      "normalizedUrl": "https://weaponizedpodcast.com/episodes-4/episode-100",
+      "inventoryIds": [
+        "inv-01026",
+        "inv-01028",
+        "inv-01030"
+      ]
+    },
+    {
+      "duplicateGroup": "dup-00345",
+      "entityId": "2025-weaponized-episode-100",
+      "normalizedUrl": "https://link.chtbl.com/Weaponized",
+      "inventoryIds": [
+        "inv-01027",
+        "inv-01029",
+        "inv-01031"
+      ]
+    },
+    {
+      "duplicateGroup": "dup-00348",
+      "entityId": "2025-weaponized-episode-101",
+      "normalizedUrl": "https://weaponizedpodcast.com/episodes-4/episode-101",
+      "inventoryIds": [
+        "inv-01032",
+        "inv-01034",
+        "inv-01036"
+      ]
+    },
+    {
+      "duplicateGroup": "dup-00347",
+      "entityId": "2025-weaponized-episode-101",
+      "normalizedUrl": "https://link.chtbl.com/Weaponized",
+      "inventoryIds": [
+        "inv-01033",
+        "inv-01035",
+        "inv-01037"
+      ]
+    },
+    {
+      "duplicateGroup": "dup-00350",
+      "entityId": "2025-weaponized-episode-102",
+      "normalizedUrl": "https://weaponizedpodcast.com/episodes-4/episode-102",
+      "inventoryIds": [
+        "inv-01038",
+        "inv-01040",
+        "inv-01042"
+      ]
+    },
+    {
+      "duplicateGroup": "dup-00349",
+      "entityId": "2025-weaponized-episode-102",
+      "normalizedUrl": "https://link.chtbl.com/Weaponized",
+      "inventoryIds": [
+        "inv-01039",
+        "inv-01041",
+        "inv-01043"
+      ]
+    },
+    {
+      "duplicateGroup": "dup-00352",
+      "entityId": "2025-weaponized-episode-65",
+      "normalizedUrl": "https://weaponizedpodcast.com/episodes-3/episode-65",
+      "inventoryIds": [
+        "inv-01044",
+        "inv-01046",
+        "inv-01048"
+      ]
+    },
+    {
+      "duplicateGroup": "dup-00351",
+      "entityId": "2025-weaponized-episode-65",
+      "normalizedUrl": "https://link.chtbl.com/Weaponized",
+      "inventoryIds": [
+        "inv-01045",
+        "inv-01047",
+        "inv-01049"
+      ]
+    },
+    {
+      "duplicateGroup": "dup-00354",
+      "entityId": "2025-weaponized-episode-66",
+      "normalizedUrl": "https://weaponizedpodcast.com/episodes-3/episode-66",
+      "inventoryIds": [
+        "inv-01050",
+        "inv-01052",
+        "inv-01054"
+      ]
+    },
+    {
+      "duplicateGroup": "dup-00353",
+      "entityId": "2025-weaponized-episode-66",
+      "normalizedUrl": "https://link.chtbl.com/Weaponized",
+      "inventoryIds": [
+        "inv-01051",
+        "inv-01053",
+        "inv-01055"
+      ]
+    },
+    {
+      "duplicateGroup": "dup-00356",
+      "entityId": "2025-weaponized-episode-67",
+      "normalizedUrl": "https://weaponizedpodcast.com/episodes-3/episode-67",
+      "inventoryIds": [
+        "inv-01056",
+        "inv-01058",
+        "inv-01060"
+      ]
+    },
+    {
+      "duplicateGroup": "dup-00355",
+      "entityId": "2025-weaponized-episode-67",
+      "normalizedUrl": "https://link.chtbl.com/Weaponized",
+      "inventoryIds": [
+        "inv-01057",
+        "inv-01059",
+        "inv-01061"
+      ]
+    },
+    {
+      "duplicateGroup": "dup-00358",
+      "entityId": "2025-weaponized-episode-68",
+      "normalizedUrl": "https://weaponizedpodcast.com/episodes-3/episode-68",
+      "inventoryIds": [
+        "inv-01062",
+        "inv-01064",
+        "inv-01066"
+      ]
+    },
+    {
+      "duplicateGroup": "dup-00357",
+      "entityId": "2025-weaponized-episode-68",
+      "normalizedUrl": "https://link.chtbl.com/Weaponized",
+      "inventoryIds": [
+        "inv-01063",
+        "inv-01065",
+        "inv-01067"
+      ]
+    },
+    {
+      "duplicateGroup": "dup-00360",
+      "entityId": "2025-weaponized-episode-69",
+      "normalizedUrl": "https://weaponizedpodcast.com/episodes-3/episode-69",
+      "inventoryIds": [
+        "inv-01068",
+        "inv-01070",
+        "inv-01072"
+      ]
+    },
+    {
+      "duplicateGroup": "dup-00359",
+      "entityId": "2025-weaponized-episode-69",
+      "normalizedUrl": "https://link.chtbl.com/Weaponized",
+      "inventoryIds": [
+        "inv-01069",
+        "inv-01071",
+        "inv-01073"
+      ]
+    },
+    {
+      "duplicateGroup": "dup-00362",
+      "entityId": "2025-weaponized-episode-70",
+      "normalizedUrl": "https://weaponizedpodcast.com/episodes-3/episode-70",
+      "inventoryIds": [
+        "inv-01074",
+        "inv-01076",
+        "inv-01078"
+      ]
+    },
+    {
+      "duplicateGroup": "dup-00361",
+      "entityId": "2025-weaponized-episode-70",
+      "normalizedUrl": "https://link.chtbl.com/Weaponized",
+      "inventoryIds": [
+        "inv-01075",
+        "inv-01077",
+        "inv-01079"
+      ]
+    },
+    {
+      "duplicateGroup": "dup-00364",
+      "entityId": "2025-weaponized-episode-71",
+      "normalizedUrl": "https://weaponizedpodcast.com/episodes-3/episode-71",
+      "inventoryIds": [
+        "inv-01080",
+        "inv-01082",
+        "inv-01084"
+      ]
+    },
+    {
+      "duplicateGroup": "dup-00363",
+      "entityId": "2025-weaponized-episode-71",
+      "normalizedUrl": "https://link.chtbl.com/Weaponized",
+      "inventoryIds": [
+        "inv-01081",
+        "inv-01083",
+        "inv-01085"
+      ]
+    },
+    {
+      "duplicateGroup": "dup-00366",
+      "entityId": "2025-weaponized-episode-72",
+      "normalizedUrl": "https://weaponizedpodcast.com/episodes-3/episode-72",
+      "inventoryIds": [
+        "inv-01086",
+        "inv-01088",
+        "inv-01090"
+      ]
+    },
+    {
+      "duplicateGroup": "dup-00365",
+      "entityId": "2025-weaponized-episode-72",
+      "normalizedUrl": "https://link.chtbl.com/Weaponized",
+      "inventoryIds": [
+        "inv-01087",
+        "inv-01089",
+        "inv-01091"
+      ]
+    },
+    {
+      "duplicateGroup": "dup-00368",
+      "entityId": "2025-weaponized-episode-73",
+      "normalizedUrl": "https://weaponizedpodcast.com/episodes-3/episode-73",
+      "inventoryIds": [
+        "inv-01092",
+        "inv-01094",
+        "inv-01096"
+      ]
+    },
+    {
+      "duplicateGroup": "dup-00367",
+      "entityId": "2025-weaponized-episode-73",
+      "normalizedUrl": "https://link.chtbl.com/Weaponized",
+      "inventoryIds": [
+        "inv-01093",
+        "inv-01095",
+        "inv-01097"
+      ]
+    },
+    {
+      "duplicateGroup": "dup-00370",
+      "entityId": "2025-weaponized-episode-74",
+      "normalizedUrl": "https://weaponizedpodcast.com/episodes-3/episode-74",
+      "inventoryIds": [
+        "inv-01098",
+        "inv-01100",
+        "inv-01102"
+      ]
+    },
+    {
+      "duplicateGroup": "dup-00369",
+      "entityId": "2025-weaponized-episode-74",
+      "normalizedUrl": "https://link.chtbl.com/Weaponized",
+      "inventoryIds": [
+        "inv-01099",
+        "inv-01101",
+        "inv-01103"
+      ]
+    },
+    {
+      "duplicateGroup": "dup-00372",
+      "entityId": "2025-weaponized-episode-75",
+      "normalizedUrl": "https://weaponizedpodcast.com/episodes-3/episode-75",
+      "inventoryIds": [
+        "inv-01104",
+        "inv-01106",
+        "inv-01108"
+      ]
+    },
+    {
+      "duplicateGroup": "dup-00371",
+      "entityId": "2025-weaponized-episode-75",
+      "normalizedUrl": "https://link.chtbl.com/Weaponized",
+      "inventoryIds": [
+        "inv-01105",
+        "inv-01107",
+        "inv-01109"
+      ]
+    },
+    {
+      "duplicateGroup": "dup-00374",
+      "entityId": "2025-weaponized-episode-76",
+      "normalizedUrl": "https://weaponizedpodcast.com/episodes-3/episode-76",
+      "inventoryIds": [
+        "inv-01110",
+        "inv-01112",
+        "inv-01114"
+      ]
+    },
+    {
+      "duplicateGroup": "dup-00373",
+      "entityId": "2025-weaponized-episode-76",
+      "normalizedUrl": "https://link.chtbl.com/Weaponized",
+      "inventoryIds": [
+        "inv-01111",
+        "inv-01113",
+        "inv-01115"
+      ]
+    },
+    {
+      "duplicateGroup": "dup-00376",
+      "entityId": "2025-weaponized-episode-77",
+      "normalizedUrl": "https://weaponizedpodcast.com/episodes-3/episode-77",
+      "inventoryIds": [
+        "inv-01116",
+        "inv-01118",
+        "inv-01120"
+      ]
+    },
+    {
+      "duplicateGroup": "dup-00375",
+      "entityId": "2025-weaponized-episode-77",
+      "normalizedUrl": "https://link.chtbl.com/Weaponized",
+      "inventoryIds": [
+        "inv-01117",
+        "inv-01119",
+        "inv-01121"
+      ]
+    },
+    {
+      "duplicateGroup": "dup-00378",
+      "entityId": "2025-weaponized-episode-78",
+      "normalizedUrl": "https://weaponizedpodcast.com/episodes-3/episode-78",
+      "inventoryIds": [
+        "inv-01122",
+        "inv-01124",
+        "inv-01126"
+      ]
+    },
+    {
+      "duplicateGroup": "dup-00377",
+      "entityId": "2025-weaponized-episode-78",
+      "normalizedUrl": "https://link.chtbl.com/Weaponized",
+      "inventoryIds": [
+        "inv-01123",
+        "inv-01125",
+        "inv-01127"
+      ]
+    },
+    {
+      "duplicateGroup": "dup-00380",
+      "entityId": "2025-weaponized-episode-79",
+      "normalizedUrl": "https://weaponizedpodcast.com/episodes-3/episode-79",
+      "inventoryIds": [
+        "inv-01128",
+        "inv-01130",
+        "inv-01132"
+      ]
+    },
+    {
+      "duplicateGroup": "dup-00379",
+      "entityId": "2025-weaponized-episode-79",
+      "normalizedUrl": "https://link.chtbl.com/Weaponized",
+      "inventoryIds": [
+        "inv-01129",
+        "inv-01131",
+        "inv-01133"
+      ]
+    },
+    {
+      "duplicateGroup": "dup-00382",
+      "entityId": "2025-weaponized-episode-80",
+      "normalizedUrl": "https://weaponizedpodcast.com/episodes-3/episode-80",
+      "inventoryIds": [
+        "inv-01134",
+        "inv-01136",
+        "inv-01138"
+      ]
+    },
+    {
+      "duplicateGroup": "dup-00381",
+      "entityId": "2025-weaponized-episode-80",
+      "normalizedUrl": "https://link.chtbl.com/Weaponized",
+      "inventoryIds": [
+        "inv-01135",
+        "inv-01137",
+        "inv-01139"
+      ]
+    },
+    {
+      "duplicateGroup": "dup-00384",
+      "entityId": "2025-weaponized-episode-81",
+      "normalizedUrl": "https://weaponizedpodcast.com/episodes-3/episode-81",
+      "inventoryIds": [
+        "inv-01140",
+        "inv-01142",
+        "inv-01144"
+      ]
+    },
+    {
+      "duplicateGroup": "dup-00383",
+      "entityId": "2025-weaponized-episode-81",
+      "normalizedUrl": "https://link.chtbl.com/Weaponized",
+      "inventoryIds": [
+        "inv-01141",
+        "inv-01143",
+        "inv-01145"
+      ]
+    },
+    {
+      "duplicateGroup": "dup-00386",
+      "entityId": "2025-weaponized-episode-82",
+      "normalizedUrl": "https://weaponizedpodcast.com/episodes-3/episode-82",
+      "inventoryIds": [
+        "inv-01146",
+        "inv-01148",
+        "inv-01150"
+      ]
+    },
+    {
+      "duplicateGroup": "dup-00385",
+      "entityId": "2025-weaponized-episode-82",
+      "normalizedUrl": "https://link.chtbl.com/Weaponized",
+      "inventoryIds": [
+        "inv-01147",
+        "inv-01149",
+        "inv-01151"
+      ]
+    },
+    {
+      "duplicateGroup": "dup-00388",
+      "entityId": "2025-weaponized-episode-83",
+      "normalizedUrl": "https://weaponizedpodcast.com/episodes-3/episode-83",
+      "inventoryIds": [
+        "inv-01152",
+        "inv-01154",
+        "inv-01156"
+      ]
+    },
+    {
+      "duplicateGroup": "dup-00387",
+      "entityId": "2025-weaponized-episode-83",
+      "normalizedUrl": "https://link.chtbl.com/Weaponized",
+      "inventoryIds": [
+        "inv-01153",
+        "inv-01155",
+        "inv-01157"
+      ]
+    },
+    {
+      "duplicateGroup": "dup-00390",
+      "entityId": "2025-weaponized-episode-84",
+      "normalizedUrl": "https://weaponizedpodcast.com/episodes-3/episode-84",
+      "inventoryIds": [
+        "inv-01158",
+        "inv-01160",
+        "inv-01162"
+      ]
+    },
+    {
+      "duplicateGroup": "dup-00389",
+      "entityId": "2025-weaponized-episode-84",
+      "normalizedUrl": "https://link.chtbl.com/Weaponized",
+      "inventoryIds": [
+        "inv-01159",
+        "inv-01161",
+        "inv-01163"
+      ]
+    },
+    {
+      "duplicateGroup": "dup-00392",
+      "entityId": "2025-weaponized-episode-85",
+      "normalizedUrl": "https://weaponizedpodcast.com/episodes-3/episode-85",
+      "inventoryIds": [
+        "inv-01164",
+        "inv-01166",
+        "inv-01168"
+      ]
+    },
+    {
+      "duplicateGroup": "dup-00391",
+      "entityId": "2025-weaponized-episode-85",
+      "normalizedUrl": "https://link.chtbl.com/Weaponized",
+      "inventoryIds": [
+        "inv-01165",
+        "inv-01167",
+        "inv-01169"
+      ]
+    },
+    {
+      "duplicateGroup": "dup-00394",
+      "entityId": "2025-weaponized-episode-86",
+      "normalizedUrl": "https://weaponizedpodcast.com/episodes-3/episode-86",
+      "inventoryIds": [
+        "inv-01170",
+        "inv-01172",
+        "inv-01174"
+      ]
+    },
+    {
+      "duplicateGroup": "dup-00393",
+      "entityId": "2025-weaponized-episode-86",
+      "normalizedUrl": "https://link.chtbl.com/Weaponized",
+      "inventoryIds": [
+        "inv-01171",
+        "inv-01173",
+        "inv-01175"
+      ]
+    },
+    {
+      "duplicateGroup": "dup-00396",
+      "entityId": "2025-weaponized-episode-87",
+      "normalizedUrl": "https://weaponizedpodcast.com/episodes-3/episode-87",
+      "inventoryIds": [
+        "inv-01176",
+        "inv-01178",
+        "inv-01180"
+      ]
+    },
+    {
+      "duplicateGroup": "dup-00395",
+      "entityId": "2025-weaponized-episode-87",
+      "normalizedUrl": "https://link.chtbl.com/Weaponized",
+      "inventoryIds": [
+        "inv-01177",
+        "inv-01179",
+        "inv-01181"
+      ]
+    },
+    {
+      "duplicateGroup": "dup-00398",
+      "entityId": "2025-weaponized-episode-88",
+      "normalizedUrl": "https://weaponizedpodcast.com/episodes-3/episode-88",
+      "inventoryIds": [
+        "inv-01182",
+        "inv-01184",
+        "inv-01186"
+      ]
+    },
+    {
+      "duplicateGroup": "dup-00397",
+      "entityId": "2025-weaponized-episode-88",
+      "normalizedUrl": "https://link.chtbl.com/Weaponized",
+      "inventoryIds": [
+        "inv-01183",
+        "inv-01185",
+        "inv-01187"
+      ]
+    },
+    {
+      "duplicateGroup": "dup-00400",
+      "entityId": "2025-weaponized-episode-89",
+      "normalizedUrl": "https://weaponizedpodcast.com/episodes-3/episode-89",
+      "inventoryIds": [
+        "inv-01188",
+        "inv-01190",
+        "inv-01192"
+      ]
+    },
+    {
+      "duplicateGroup": "dup-00399",
+      "entityId": "2025-weaponized-episode-89",
+      "normalizedUrl": "https://link.chtbl.com/Weaponized",
+      "inventoryIds": [
+        "inv-01189",
+        "inv-01191",
+        "inv-01193"
+      ]
+    },
+    {
+      "duplicateGroup": "dup-00402",
+      "entityId": "2025-weaponized-episode-90",
+      "normalizedUrl": "https://weaponizedpodcast.com/episodes-3/episode-90",
+      "inventoryIds": [
+        "inv-01194",
+        "inv-01196",
+        "inv-01198"
+      ]
+    },
+    {
+      "duplicateGroup": "dup-00401",
+      "entityId": "2025-weaponized-episode-90",
+      "normalizedUrl": "https://link.chtbl.com/Weaponized",
+      "inventoryIds": [
+        "inv-01195",
+        "inv-01197",
+        "inv-01199"
+      ]
+    },
+    {
+      "duplicateGroup": "dup-00404",
+      "entityId": "2025-weaponized-episode-91",
+      "normalizedUrl": "https://weaponizedpodcast.com/episodes-3/episode-91",
+      "inventoryIds": [
+        "inv-01200",
+        "inv-01202",
+        "inv-01204"
+      ]
+    },
+    {
+      "duplicateGroup": "dup-00403",
+      "entityId": "2025-weaponized-episode-91",
+      "normalizedUrl": "https://link.chtbl.com/Weaponized",
+      "inventoryIds": [
+        "inv-01201",
+        "inv-01203",
+        "inv-01205"
+      ]
+    },
+    {
+      "duplicateGroup": "dup-00406",
+      "entityId": "2025-weaponized-episode-92",
+      "normalizedUrl": "https://weaponizedpodcast.com/episodes-3/episode-92",
+      "inventoryIds": [
+        "inv-01206",
+        "inv-01208",
+        "inv-01210"
+      ]
+    },
+    {
+      "duplicateGroup": "dup-00405",
+      "entityId": "2025-weaponized-episode-92",
+      "normalizedUrl": "https://link.chtbl.com/Weaponized",
+      "inventoryIds": [
+        "inv-01207",
+        "inv-01209",
+        "inv-01211"
+      ]
+    },
+    {
+      "duplicateGroup": "dup-00408",
+      "entityId": "2025-weaponized-episode-93",
+      "normalizedUrl": "https://weaponizedpodcast.com/episodes-4/episode-93",
+      "inventoryIds": [
+        "inv-01212",
+        "inv-01214",
+        "inv-01216"
+      ]
+    },
+    {
+      "duplicateGroup": "dup-00407",
+      "entityId": "2025-weaponized-episode-93",
+      "normalizedUrl": "https://link.chtbl.com/Weaponized",
+      "inventoryIds": [
+        "inv-01213",
+        "inv-01215",
+        "inv-01217"
+      ]
+    },
+    {
+      "duplicateGroup": "dup-00410",
+      "entityId": "2025-weaponized-episode-94",
+      "normalizedUrl": "https://weaponizedpodcast.com/episodes-4/episode-94",
+      "inventoryIds": [
+        "inv-01218",
+        "inv-01220",
+        "inv-01222"
+      ]
+    },
+    {
+      "duplicateGroup": "dup-00409",
+      "entityId": "2025-weaponized-episode-94",
+      "normalizedUrl": "https://link.chtbl.com/Weaponized",
+      "inventoryIds": [
+        "inv-01219",
+        "inv-01221",
+        "inv-01223"
+      ]
+    },
+    {
+      "duplicateGroup": "dup-00412",
+      "entityId": "2025-weaponized-episode-95",
+      "normalizedUrl": "https://weaponizedpodcast.com/episodes-4/episode-95",
+      "inventoryIds": [
+        "inv-01224",
+        "inv-01226",
+        "inv-01228"
+      ]
+    },
+    {
+      "duplicateGroup": "dup-00411",
+      "entityId": "2025-weaponized-episode-95",
+      "normalizedUrl": "https://link.chtbl.com/Weaponized",
+      "inventoryIds": [
+        "inv-01225",
+        "inv-01227",
+        "inv-01229"
+      ]
+    },
+    {
+      "duplicateGroup": "dup-00414",
+      "entityId": "2025-weaponized-episode-96",
+      "normalizedUrl": "https://weaponizedpodcast.com/episodes-4/episode-96",
+      "inventoryIds": [
+        "inv-01230",
+        "inv-01232",
+        "inv-01234"
+      ]
+    },
+    {
+      "duplicateGroup": "dup-00413",
+      "entityId": "2025-weaponized-episode-96",
+      "normalizedUrl": "https://link.chtbl.com/Weaponized",
+      "inventoryIds": [
+        "inv-01231",
+        "inv-01233",
+        "inv-01235"
+      ]
+    },
+    {
+      "duplicateGroup": "dup-00416",
+      "entityId": "2025-weaponized-episode-97",
+      "normalizedUrl": "https://weaponizedpodcast.com/episodes-4/episode-97",
+      "inventoryIds": [
+        "inv-01236",
+        "inv-01238",
+        "inv-01240"
+      ]
+    },
+    {
+      "duplicateGroup": "dup-00415",
+      "entityId": "2025-weaponized-episode-97",
+      "normalizedUrl": "https://link.chtbl.com/Weaponized",
+      "inventoryIds": [
+        "inv-01237",
+        "inv-01239",
+        "inv-01241"
+      ]
+    },
+    {
+      "duplicateGroup": "dup-00418",
+      "entityId": "2025-weaponized-episode-98",
+      "normalizedUrl": "https://weaponizedpodcast.com/episodes-4/episode-98",
+      "inventoryIds": [
+        "inv-01242",
+        "inv-01244",
+        "inv-01246"
+      ]
+    },
+    {
+      "duplicateGroup": "dup-00417",
+      "entityId": "2025-weaponized-episode-98",
+      "normalizedUrl": "https://link.chtbl.com/Weaponized",
+      "inventoryIds": [
+        "inv-01243",
+        "inv-01245",
+        "inv-01247"
+      ]
+    },
+    {
+      "duplicateGroup": "dup-00420",
+      "entityId": "2025-weaponized-episode-99",
+      "normalizedUrl": "https://weaponizedpodcast.com/episodes-4/episode-99",
+      "inventoryIds": [
+        "inv-01248",
+        "inv-01250",
+        "inv-01252"
+      ]
+    },
+    {
+      "duplicateGroup": "dup-00419",
+      "entityId": "2025-weaponized-episode-99",
+      "normalizedUrl": "https://link.chtbl.com/Weaponized",
+      "inventoryIds": [
+        "inv-01249",
+        "inv-01251",
+        "inv-01253"
+      ]
+    },
+    {
+      "duplicateGroup": "dup-00422",
+      "entityId": "2026-need-to-know-episode-70",
+      "normalizedUrl": "https://youtube.com/watch?v=EHDcnPDUlXU",
+      "inventoryIds": [
+        "inv-01254",
+        "inv-01256",
+        "inv-01258"
+      ]
+    },
+    {
+      "duplicateGroup": "dup-00421",
+      "entityId": "2026-need-to-know-episode-70",
+      "normalizedUrl": "https://youtube.com/playlist?list=PLXdU8QbJkboePTgyvfpJ6X8MXWPkfxOgv",
+      "inventoryIds": [
+        "inv-01255",
+        "inv-01257",
+        "inv-01259"
+      ]
+    },
+    {
+      "duplicateGroup": "dup-00424",
+      "entityId": "2026-need-to-know-episode-71",
+      "normalizedUrl": "https://youtube.com/watch?v=pzAOCST4mB4",
+      "inventoryIds": [
+        "inv-01260",
+        "inv-01262",
+        "inv-01264"
+      ]
+    },
+    {
+      "duplicateGroup": "dup-00423",
+      "entityId": "2026-need-to-know-episode-71",
+      "normalizedUrl": "https://youtube.com/playlist?list=PLXdU8QbJkboePTgyvfpJ6X8MXWPkfxOgv",
+      "inventoryIds": [
+        "inv-01261",
+        "inv-01263",
+        "inv-01265"
+      ]
+    },
+    {
+      "duplicateGroup": "dup-00426",
+      "entityId": "2026-need-to-know-episode-72",
+      "normalizedUrl": "https://youtube.com/watch?v=JiiXNgQ4qL8",
+      "inventoryIds": [
+        "inv-01266",
+        "inv-01268",
+        "inv-01270"
+      ]
+    },
+    {
+      "duplicateGroup": "dup-00425",
+      "entityId": "2026-need-to-know-episode-72",
+      "normalizedUrl": "https://youtube.com/playlist?list=PLXdU8QbJkboePTgyvfpJ6X8MXWPkfxOgv",
+      "inventoryIds": [
+        "inv-01267",
+        "inv-01269",
+        "inv-01271"
+      ]
+    },
+    {
+      "duplicateGroup": "dup-00428",
+      "entityId": "2026-need-to-know-episode-73",
+      "normalizedUrl": "https://youtube.com/watch?v=8C1pgdKUuoQ",
+      "inventoryIds": [
+        "inv-01272",
+        "inv-01274",
+        "inv-01276"
+      ]
+    },
+    {
+      "duplicateGroup": "dup-00427",
+      "entityId": "2026-need-to-know-episode-73",
+      "normalizedUrl": "https://youtube.com/playlist?list=PLXdU8QbJkboePTgyvfpJ6X8MXWPkfxOgv",
+      "inventoryIds": [
+        "inv-01273",
+        "inv-01275",
+        "inv-01277"
+      ]
+    },
+    {
+      "duplicateGroup": "dup-00430",
+      "entityId": "2026-need-to-know-episode-74",
+      "normalizedUrl": "https://youtube.com/watch?v=P6oX5E5zXa4",
+      "inventoryIds": [
+        "inv-01278",
+        "inv-01280",
+        "inv-01282"
+      ]
+    },
+    {
+      "duplicateGroup": "dup-00429",
+      "entityId": "2026-need-to-know-episode-74",
+      "normalizedUrl": "https://youtube.com/playlist?list=PLXdU8QbJkboePTgyvfpJ6X8MXWPkfxOgv",
+      "inventoryIds": [
+        "inv-01279",
+        "inv-01281",
+        "inv-01283"
+      ]
+    },
+    {
+      "duplicateGroup": "dup-00432",
+      "entityId": "2026-need-to-know-episode-75",
+      "normalizedUrl": "https://youtube.com/watch?v=A7t5jd2FDJ4",
+      "inventoryIds": [
+        "inv-01284",
+        "inv-01286",
+        "inv-01288"
+      ]
+    },
+    {
+      "duplicateGroup": "dup-00431",
+      "entityId": "2026-need-to-know-episode-75",
+      "normalizedUrl": "https://youtube.com/playlist?list=PLXdU8QbJkboePTgyvfpJ6X8MXWPkfxOgv",
+      "inventoryIds": [
+        "inv-01285",
+        "inv-01287",
+        "inv-01289"
+      ]
+    },
+    {
+      "duplicateGroup": "dup-00434",
+      "entityId": "2026-weaponized-episode-103",
+      "normalizedUrl": "https://weaponizedpodcast.com/episodes-4/episode-103",
+      "inventoryIds": [
+        "inv-01290",
+        "inv-01292",
+        "inv-01294"
+      ]
+    },
+    {
+      "duplicateGroup": "dup-00433",
+      "entityId": "2026-weaponized-episode-103",
+      "normalizedUrl": "https://link.chtbl.com/Weaponized",
+      "inventoryIds": [
+        "inv-01291",
+        "inv-01293",
+        "inv-01295"
+      ]
+    },
+    {
+      "duplicateGroup": "dup-00436",
+      "entityId": "2026-weaponized-episode-104",
+      "normalizedUrl": "https://weaponizedpodcast.com/episodes-4/episode-104",
+      "inventoryIds": [
+        "inv-01296",
+        "inv-01298",
+        "inv-01300"
+      ]
+    },
+    {
+      "duplicateGroup": "dup-00435",
+      "entityId": "2026-weaponized-episode-104",
+      "normalizedUrl": "https://link.chtbl.com/Weaponized",
+      "inventoryIds": [
+        "inv-01297",
+        "inv-01299",
+        "inv-01301"
+      ]
+    },
+    {
+      "duplicateGroup": "dup-00438",
+      "entityId": "2026-weaponized-episode-105",
+      "normalizedUrl": "https://weaponizedpodcast.com/episodes-4/episode-105",
+      "inventoryIds": [
+        "inv-01302",
+        "inv-01304",
+        "inv-01306"
+      ]
+    },
+    {
+      "duplicateGroup": "dup-00437",
+      "entityId": "2026-weaponized-episode-105",
+      "normalizedUrl": "https://link.chtbl.com/Weaponized",
+      "inventoryIds": [
+        "inv-01303",
+        "inv-01305",
+        "inv-01307"
+      ]
+    },
+    {
+      "duplicateGroup": "dup-00440",
+      "entityId": "2026-weaponized-episode-106",
+      "normalizedUrl": "https://weaponizedpodcast.com/episodes-4/episode-106",
+      "inventoryIds": [
+        "inv-01308",
+        "inv-01310",
+        "inv-01312"
+      ]
+    },
+    {
+      "duplicateGroup": "dup-00439",
+      "entityId": "2026-weaponized-episode-106",
+      "normalizedUrl": "https://link.chtbl.com/Weaponized",
+      "inventoryIds": [
+        "inv-01309",
+        "inv-01311",
+        "inv-01313"
+      ]
+    },
+    {
+      "duplicateGroup": "dup-00442",
+      "entityId": "2026-weaponized-episode-107",
+      "normalizedUrl": "https://weaponizedpodcast.com/episodes-4/episode-107",
+      "inventoryIds": [
+        "inv-01314",
+        "inv-01316",
+        "inv-01318"
+      ]
+    },
+    {
+      "duplicateGroup": "dup-00441",
+      "entityId": "2026-weaponized-episode-107",
+      "normalizedUrl": "https://link.chtbl.com/Weaponized",
+      "inventoryIds": [
+        "inv-01315",
+        "inv-01317",
+        "inv-01319"
+      ]
+    },
+    {
+      "duplicateGroup": "dup-00444",
+      "entityId": "2026-weaponized-episode-108",
+      "normalizedUrl": "https://weaponizedpodcast.com/episodes-4/episode-108",
+      "inventoryIds": [
+        "inv-01320",
+        "inv-01322",
+        "inv-01324"
+      ]
+    },
+    {
+      "duplicateGroup": "dup-00443",
+      "entityId": "2026-weaponized-episode-108",
+      "normalizedUrl": "https://link.chtbl.com/Weaponized",
+      "inventoryIds": [
+        "inv-01321",
+        "inv-01323",
+        "inv-01325"
+      ]
+    },
+    {
+      "duplicateGroup": "dup-00446",
+      "entityId": "2026-weaponized-episode-109",
+      "normalizedUrl": "https://weaponizedpodcast.com/episodes-4/episode-109",
+      "inventoryIds": [
+        "inv-01326",
+        "inv-01328",
+        "inv-01330"
+      ]
+    },
+    {
+      "duplicateGroup": "dup-00445",
+      "entityId": "2026-weaponized-episode-109",
+      "normalizedUrl": "https://link.chtbl.com/Weaponized",
+      "inventoryIds": [
+        "inv-01327",
+        "inv-01329",
+        "inv-01331"
+      ]
+    },
+    {
+      "duplicateGroup": "dup-00448",
+      "entityId": "2026-weaponized-episode-110",
+      "normalizedUrl": "https://weaponizedpodcast.com/episodes-4/episode-110",
+      "inventoryIds": [
+        "inv-01332",
+        "inv-01334",
+        "inv-01336"
+      ]
+    },
+    {
+      "duplicateGroup": "dup-00447",
+      "entityId": "2026-weaponized-episode-110",
+      "normalizedUrl": "https://link.chtbl.com/Weaponized",
+      "inventoryIds": [
+        "inv-01333",
+        "inv-01335",
+        "inv-01337"
+      ]
+    },
+    {
+      "duplicateGroup": "dup-00450",
+      "entityId": "2026-weaponized-episode-111",
+      "normalizedUrl": "https://weaponizedpodcast.com/episodes-4/episode-111",
+      "inventoryIds": [
+        "inv-01338",
+        "inv-01340",
+        "inv-01342"
+      ]
+    },
+    {
+      "duplicateGroup": "dup-00449",
+      "entityId": "2026-weaponized-episode-111",
+      "normalizedUrl": "https://link.chtbl.com/Weaponized",
+      "inventoryIds": [
+        "inv-01339",
+        "inv-01341",
+        "inv-01343"
+      ]
+    },
+    {
+      "duplicateGroup": "dup-00452",
+      "entityId": "2026-weaponized-episode-112",
+      "normalizedUrl": "https://weaponizedpodcast.com/episodes-4/episode-112",
+      "inventoryIds": [
+        "inv-01344",
+        "inv-01346",
+        "inv-01348"
+      ]
+    },
+    {
+      "duplicateGroup": "dup-00451",
+      "entityId": "2026-weaponized-episode-112",
+      "normalizedUrl": "https://link.chtbl.com/Weaponized",
+      "inventoryIds": [
+        "inv-01345",
+        "inv-01347",
+        "inv-01349"
+      ]
+    },
+    {
+      "duplicateGroup": "dup-00454",
+      "entityId": "2026-weaponized-episode-113",
+      "normalizedUrl": "https://weaponizedpodcast.com/episodes-4/episode-113",
+      "inventoryIds": [
+        "inv-01350",
+        "inv-01352",
+        "inv-01354"
+      ]
+    },
+    {
+      "duplicateGroup": "dup-00453",
+      "entityId": "2026-weaponized-episode-113",
+      "normalizedUrl": "https://link.chtbl.com/Weaponized",
+      "inventoryIds": [
+        "inv-01351",
+        "inv-01353",
+        "inv-01355"
+      ]
+    },
+    {
+      "duplicateGroup": "dup-00456",
+      "entityId": "2026-weaponized-episode-114",
+      "normalizedUrl": "https://weaponizedpodcast.com/episodes-4/episode-114",
+      "inventoryIds": [
+        "inv-01356",
+        "inv-01358",
+        "inv-01360"
+      ]
+    },
+    {
+      "duplicateGroup": "dup-00455",
+      "entityId": "2026-weaponized-episode-114",
+      "normalizedUrl": "https://link.chtbl.com/Weaponized",
+      "inventoryIds": [
+        "inv-01357",
+        "inv-01359",
+        "inv-01361"
+      ]
+    },
+    {
+      "duplicateGroup": "dup-00457",
+      "entityId": "2026-weaponized-episode-115",
+      "normalizedUrl": "https://weaponizedpodcast.com/episodes-4/episode-115",
+      "inventoryIds": [
+        "inv-01362",
+        "inv-01365",
+        "inv-01367"
+      ]
+    },
+    {
+      "duplicateGroup": "dup-00458",
+      "entityId": "2026-weaponized-episode-115",
+      "normalizedUrl": "https://youtube.com/watch?v=HcQnbRasYxI",
+      "inventoryIds": [
+        "inv-01363",
+        "inv-01364",
+        "inv-01366"
+      ]
+    },
+    {
+      "duplicateGroup": "dup-00460",
+      "entityId": "2026-weaponized-episode-116",
+      "normalizedUrl": "https://weaponizedpodcast.com/episodes-4/episode-116",
+      "inventoryIds": [
+        "inv-01368",
+        "inv-01370",
+        "inv-01372"
+      ]
+    },
+    {
+      "duplicateGroup": "dup-00459",
+      "entityId": "2026-weaponized-episode-116",
+      "normalizedUrl": "https://link.chtbl.com/Weaponized",
+      "inventoryIds": [
+        "inv-01369",
+        "inv-01371",
+        "inv-01373"
+      ]
+    },
+    {
+      "duplicateGroup": "dup-00462",
+      "entityId": "2026-weaponized-episode-117",
+      "normalizedUrl": "https://weaponizedpodcast.com/episodes-4/episode-117",
+      "inventoryIds": [
+        "inv-01374",
+        "inv-01376",
+        "inv-01378"
+      ]
+    },
+    {
+      "duplicateGroup": "dup-00461",
+      "entityId": "2026-weaponized-episode-117",
+      "normalizedUrl": "https://link.chtbl.com/Weaponized",
+      "inventoryIds": [
+        "inv-01375",
+        "inv-01377",
+        "inv-01379"
+      ]
+    },
+    {
+      "duplicateGroup": "dup-00464",
+      "entityId": "2026-weaponized-episode-118",
+      "normalizedUrl": "https://weaponizedpodcast.com/episodes-4/episode-118",
+      "inventoryIds": [
+        "inv-01380",
+        "inv-01382",
+        "inv-01384"
+      ]
+    },
+    {
+      "duplicateGroup": "dup-00463",
+      "entityId": "2026-weaponized-episode-118",
+      "normalizedUrl": "https://link.chtbl.com/Weaponized",
+      "inventoryIds": [
+        "inv-01381",
+        "inv-01383",
+        "inv-01385"
+      ]
+    },
+    {
+      "duplicateGroup": "dup-00466",
+      "entityId": "2026-weaponized-episode-119",
+      "normalizedUrl": "https://weaponizedpodcast.com/episodes-4/episode-119",
+      "inventoryIds": [
+        "inv-01386",
+        "inv-01388",
+        "inv-01390"
+      ]
+    },
+    {
+      "duplicateGroup": "dup-00465",
+      "entityId": "2026-weaponized-episode-119",
+      "normalizedUrl": "https://link.chtbl.com/Weaponized",
+      "inventoryIds": [
+        "inv-01387",
+        "inv-01389",
+        "inv-01391"
+      ]
+    },
+    {
+      "duplicateGroup": "dup-00468",
+      "entityId": "2026-weaponized-episode-120",
+      "normalizedUrl": "https://weaponizedpodcast.com/episodes-4/episode-120",
+      "inventoryIds": [
+        "inv-01392",
+        "inv-01394",
+        "inv-01396"
+      ]
+    },
+    {
+      "duplicateGroup": "dup-00467",
+      "entityId": "2026-weaponized-episode-120",
+      "normalizedUrl": "https://link.chtbl.com/Weaponized",
+      "inventoryIds": [
+        "inv-01393",
+        "inv-01395",
+        "inv-01397"
+      ]
+    },
+    {
+      "duplicateGroup": "dup-00471",
+      "entityId": "merged-podcast",
+      "normalizedUrl": "https://podcasts.apple.com/us/podcast/merged/id1655450953",
+      "inventoryIds": [
+        "inv-01398",
+        "inv-01405"
+      ]
+    },
+    {
+      "duplicateGroup": "dup-00469",
+      "entityId": "merged-podcast",
+      "normalizedUrl": "https://mergedpodcast.com",
+      "inventoryIds": [
+        "inv-01399",
+        "inv-01402"
+      ]
+    },
+    {
+      "duplicateGroup": "dup-00470",
+      "entityId": "merged-podcast",
+      "normalizedUrl": "https://open.spotify.com/show/4HjG2YLiHjEJ5rLs39sGfQ",
+      "inventoryIds": [
+        "inv-01400",
+        "inv-01404"
+      ]
+    },
+    {
+      "duplicateGroup": "dup-00472",
+      "entityId": "merged-podcast",
+      "normalizedUrl": "https://youtube.com/@merged_podcast",
+      "inventoryIds": [
+        "inv-01401",
+        "inv-01403"
+      ]
+    },
+    {
+      "duplicateGroup": "dup-00474",
+      "entityId": "need-to-know-podcast",
+      "normalizedUrl": "https://podcasts.apple.com/us/podcast/need-to-know/id1600409359",
+      "inventoryIds": [
+        "inv-01406",
+        "inv-01413"
+      ]
+    },
+    {
+      "duplicateGroup": "dup-00473",
+      "entityId": "need-to-know-podcast",
+      "normalizedUrl": "https://open.spotify.com/show/24xucCwPjcXENqwUgtKZaY",
+      "inventoryIds": [
+        "inv-01407",
+        "inv-01412"
+      ]
+    },
+    {
+      "duplicateGroup": "dup-00475",
+      "entityId": "need-to-know-podcast",
+      "normalizedUrl": "https://youtube.com/channel/UCgslF1kPo4Kmv4Xrg8EyYmQ",
+      "inventoryIds": [
+        "inv-01408",
+        "inv-01410"
+      ]
+    },
+    {
+      "duplicateGroup": "dup-00476",
+      "entityId": "need-to-know-podcast",
+      "normalizedUrl": "https://youtube.com/playlist?list=PLXdU8QbJkboeMcvUNyGpb9h6FUS9cVBti",
+      "inventoryIds": [
+        "inv-01409",
+        "inv-01411"
+      ]
+    },
+    {
+      "duplicateGroup": "dup-00478",
+      "entityId": "somewhere-in-the-skies-podcast",
+      "normalizedUrl": "https://podcasts.apple.com/us/podcast/somewhere-in-the-skies/id1227858637",
+      "inventoryIds": [
+        "inv-01414",
+        "inv-01421"
+      ]
+    },
+    {
+      "duplicateGroup": "dup-00479",
+      "entityId": "somewhere-in-the-skies-podcast",
+      "normalizedUrl": "https://somewhereintheskies.com",
+      "inventoryIds": [
+        "inv-01415",
+        "inv-01418"
+      ]
+    },
+    {
+      "duplicateGroup": "dup-00477",
+      "entityId": "somewhere-in-the-skies-podcast",
+      "normalizedUrl": "https://open.spotify.com/show/1g0MSTxiHo4KvtrUxhr6II",
+      "inventoryIds": [
+        "inv-01416",
+        "inv-01420"
+      ]
+    },
+    {
+      "duplicateGroup": "dup-00480",
+      "entityId": "somewhere-in-the-skies-podcast",
+      "normalizedUrl": "https://youtube.com/channel/UCYH8m4zyehr0rN3feBZ4mCA",
+      "inventoryIds": [
+        "inv-01417",
+        "inv-01419"
+      ]
+    },
+    {
+      "duplicateGroup": "dup-00481",
+      "entityId": "weaponized-matthew-brown-part-1",
+      "normalizedUrl": "https://weaponizedpodcast.com",
+      "inventoryIds": [
+        "inv-01422",
+        "inv-01426",
+        "inv-01428"
+      ]
+    },
+    {
+      "duplicateGroup": "dup-00482",
+      "entityId": "weaponized-matthew-brown-part-1",
+      "normalizedUrl": "https://weaponizedpodcast.com/episodes-3/episode-74",
+      "inventoryIds": [
+        "inv-01423",
+        "inv-01429"
+      ]
+    },
+    {
+      "duplicateGroup": "dup-00483",
+      "entityId": "weaponized-matthew-brown-part-1",
+      "normalizedUrl": "https://youtube.com/watch?v=ZAxI-LDrDqA",
+      "inventoryIds": [
+        "inv-01424",
+        "inv-01425",
+        "inv-01427"
+      ]
+    },
+    {
+      "duplicateGroup": "dup-00484",
+      "entityId": "weaponized-matthew-brown-part-2",
+      "normalizedUrl": "https://weaponizedpodcast.com/episodes-3/episode-75",
+      "inventoryIds": [
+        "inv-01430",
+        "inv-01433",
+        "inv-01435"
+      ]
+    },
+    {
+      "duplicateGroup": "dup-00485",
+      "entityId": "weaponized-matthew-brown-part-2",
+      "normalizedUrl": "https://youtube.com/watch?v=4n_bRtnIP14",
+      "inventoryIds": [
+        "inv-01431",
+        "inv-01432",
+        "inv-01434"
+      ]
+    },
+    {
+      "duplicateGroup": "dup-00486",
+      "entityId": "weaponized-matthew-brown-part-3",
+      "normalizedUrl": "https://weaponizedpodcast.com/episodes-3/episode-76",
+      "inventoryIds": [
+        "inv-01436",
+        "inv-01439",
+        "inv-01441"
+      ]
+    },
+    {
+      "duplicateGroup": "dup-00487",
+      "entityId": "weaponized-matthew-brown-part-3",
+      "normalizedUrl": "https://youtube.com/watch?v=PtBVAxoHeaY",
+      "inventoryIds": [
+        "inv-01437",
+        "inv-01438",
+        "inv-01440"
+      ]
+    },
+    {
+      "duplicateGroup": "dup-00489",
+      "entityId": "weaponized-podcast",
+      "normalizedUrl": "https://podcasts.apple.com/us/podcast/weaponized-with-jeremy-corbell-george-knapp/id1664299388",
+      "inventoryIds": [
+        "inv-01442",
+        "inv-01449"
+      ]
+    },
+    {
+      "duplicateGroup": "dup-00490",
+      "entityId": "weaponized-podcast",
+      "normalizedUrl": "https://weaponizedpodcast.com",
+      "inventoryIds": [
+        "inv-01443",
+        "inv-01446"
+      ]
+    },
+    {
+      "duplicateGroup": "dup-00488",
+      "entityId": "weaponized-podcast",
+      "normalizedUrl": "https://open.spotify.com/show/1FRpoWQkWtwHdOgwho3iZG",
+      "inventoryIds": [
+        "inv-01444",
+        "inv-01448"
+      ]
+    },
+    {
+      "duplicateGroup": "dup-00491",
+      "entityId": "weaponized-podcast",
+      "normalizedUrl": "https://youtube.com/@JeremyCorbell",
+      "inventoryIds": [
+        "inv-01445",
+        "inv-01447"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "podcastSeries": "Somewhere in the Skies",
+  "seriesEntities": 1,
+  "episodeEntities": 40,
+  "mediaOccurrences": 128,
+  "uniqueCanonicalUrls": 44,
+  "validationJobs": 44,
+  "destinationTypes": {
+    "series": 74,
+    "episode": 52,
+    "channel": 2
+  },
+  "platforms": {
+    "Apple Podcasts": 113,
+    "Spotify": 11,
+    "Official website": 1,
+    "YouTube": 2,
+    "somewhereintheskies.com": 1
+  },
+  "duplicateOccurrences": 84,
+  "retiredDomainIndicators": 0,
+  "networkValidation": "not_run",
+  "offlinePreparation": "complete",
+  "v23_5c_2Readiness": "ready"
+}

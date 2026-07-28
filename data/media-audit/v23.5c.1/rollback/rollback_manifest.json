@@ -1,0 +1,11 @@
+{
+  "release": "V23.5C.1",
+  "base": "V23.5B",
+  "removePaths": [
+    "data/media-audit/v23.5c.1",
+    "tools/audit_podcast_media.py",
+    "tools/validate_v23_5c1.py"
+  ],
+  "mediaRecordsChanged": false,
+  "publicPreferredDestinationsChanged": false
+}

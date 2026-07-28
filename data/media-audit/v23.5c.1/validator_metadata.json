@@ -1,0 +1,11 @@
+{
+  "auditEngineVersion": "23.5C.1-1.0.0",
+  "release": "V23.5C.1",
+  "base": "V23.5B",
+  "generatedAt": "2026-07-28T00:00:00Z",
+  "networkValidation": "not_run",
+  "inventoryRecords": 1449,
+  "uniqueJobs": 491,
+  "duplicateOccurrences": 958,
+  "entityCount": 261
+}

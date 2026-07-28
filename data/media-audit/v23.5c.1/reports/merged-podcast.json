@@ -1,0 +1,28 @@
+{
+  "podcastSeries": "MERGED",
+  "seriesEntities": 1,
+  "episodeEntities": 19,
+  "mediaOccurrences": 115,
+  "uniqueCanonicalUrls": 42,
+  "validationJobs": 42,
+  "destinationTypes": {
+    "episode": 82,
+    "series": 31,
+    "channel": 2
+  },
+  "platforms": {
+    "Official website": 2,
+    "YouTube": 52,
+    "MERGED": 1,
+    "mergedpodcast.com": 2,
+    "iVoox": 36,
+    "ivoox.com": 18,
+    "Apple Podcasts": 2,
+    "Spotify": 2
+  },
+  "duplicateOccurrences": 73,
+  "retiredDomainIndicators": 0,
+  "networkValidation": "not_run",
+  "offlinePreparation": "complete",
+  "v23_5c_2Readiness": "ready"
+}
