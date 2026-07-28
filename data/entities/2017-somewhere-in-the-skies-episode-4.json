@@ -54,24 +54,22 @@
   ],
   "mediaLinks": [
     {
-      "label": "Open official episode page",
-      "url": "https://shows.acast.com/somewhere-in-the-skies/episodes/annie-jacobsen-phenomena",
-      "platform": "Acast"
+      "label": "Open exact episode on Spotify",
+      "url": "https://open.spotify.com/episode/5nnM6FRzSDFrGjkBD4bBDF",
+      "platform": "Spotify",
+      "linkScope": "episode",
+      "validationStatus": "live_verified"
     }
   ],
   "officialLinks": [],
   "referenceSources": [
     {
-      "label": "Official Somewhere in the Skies hosted episode page",
-      "url": "https://shows.acast.com/somewhere-in-the-skies/episodes/annie-jacobsen-phenomena",
+      "label": "Exact Spotify episode page",
+      "url": "https://open.spotify.com/episode/5nnM6FRzSDFrGjkBD4bBDF",
       "sourceType": "official_episode_page",
-      "role": "source"
-    },
-    {
-      "label": "Apple Podcasts series archive",
-      "url": "https://podcasts.apple.com/us/podcast/somewhere-in-the-skies/id1227858637",
-      "sourceType": "authoritative_directory",
-      "role": "verification"
+      "role": "source",
+      "linkScope": "episode",
+      "validationStatus": "live_verified"
     }
   ],
   "keyDiscussionTopics": [
@@ -84,7 +82,7 @@
     "2017-somewhere-in-the-skies-episode-4-claim-3"
   ],
   "researchNotes": [
-    "Classification and archive placement were reviewed against the legacy hosted feed record and authoritative podcast directory metadata.",
-    "Relationships are limited to the parent series, host, verified canonical guests when available, and source-supported topics."
+    "Relationships are limited to the parent series, host, verified canonical guests when available, and source-supported topics.",
+    "V23.4 media restoration: retired Acast URL removed; destination is explicitly classified as an exact episode page or a verified official series-archive fallback."
   ]
 }

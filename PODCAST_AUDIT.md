@@ -30,3 +30,6 @@
 - 2017 archive records: 40 unique releases
 - Verified combined filters: Historical UFO Cases (10), Witness Accounts (11), High Strangeness (7), Media and Popular Culture (12)
 - Episode entities, approved classifications, canonical records, and relationships unchanged.
+
+## V23.4 Somewhere in the Skies media audit
+All 40 2017 records were audited. Retired Acast links were removed. Six independently matched exact episode destinations are retained; the remaining 34 records use a clearly labeled official Apple Podcasts archive fallback. Episode data and graph relationships were not changed.

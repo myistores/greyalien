@@ -59,24 +59,22 @@
   ],
   "mediaLinks": [
     {
-      "label": "Open official episode page",
-      "url": "https://shows.acast.com/somewhere-in-the-skies/episodes/nick-redfern-the-roswell-ufo-conspiracy",
-      "platform": "Acast"
+      "label": "Open exact episode on Spotify",
+      "url": "https://open.spotify.com/episode/4DKHn3la46ZaWVpnZpqdBJ",
+      "platform": "Spotify",
+      "linkScope": "episode",
+      "validationStatus": "live_verified"
     }
   ],
   "officialLinks": [],
   "referenceSources": [
     {
-      "label": "Official Somewhere in the Skies hosted episode page",
-      "url": "https://shows.acast.com/somewhere-in-the-skies/episodes/nick-redfern-the-roswell-ufo-conspiracy",
+      "label": "Exact Spotify episode page",
+      "url": "https://open.spotify.com/episode/4DKHn3la46ZaWVpnZpqdBJ",
       "sourceType": "official_episode_page",
-      "role": "source"
-    },
-    {
-      "label": "Apple Podcasts series archive",
-      "url": "https://podcasts.apple.com/us/podcast/somewhere-in-the-skies/id1227858637",
-      "sourceType": "authoritative_directory",
-      "role": "verification"
+      "role": "source",
+      "linkScope": "episode",
+      "validationStatus": "live_verified"
     }
   ],
   "keyDiscussionTopics": [
@@ -90,7 +88,7 @@
     "2017-somewhere-in-the-skies-episode-7-claim-3"
   ],
   "researchNotes": [
-    "Classification and archive placement were reviewed against the legacy hosted feed record and authoritative podcast directory metadata.",
-    "Relationships are limited to the parent series, host, verified canonical guests when available, and source-supported topics."
+    "Relationships are limited to the parent series, host, verified canonical guests when available, and source-supported topics.",
+    "V23.4 media restoration: retired Acast URL removed; destination is explicitly classified as an exact episode page or a verified official series-archive fallback."
   ]
 }

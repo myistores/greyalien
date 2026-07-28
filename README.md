@@ -106,3 +106,6 @@ The release-visibility patch updates homepage Latest Additions and Development U
 
 ### V23.2
 The complete 2017 Somewhere in the Skies release archive was ingested as 40 unique records: 36 numbered episodes and four non-numbered releases. All records were classified through V23, approved before import, and added to the existing year-and-topic gateway. See `V23_2_SOMEWHERE_IN_THE_SKIES_2017_INTEGRATION.md`.
+
+### V23.4 media restoration
+The Somewhere in the Skies 2017 archive no longer uses retired Acast hosted-page URLs. Media destinations are now explicitly identified as exact episode links or official series-archive fallbacks. See `V23_4_SOMEWHERE_IN_THE_SKIES_OFFICIAL_MEDIA_LINK_RESTORATION.md`.

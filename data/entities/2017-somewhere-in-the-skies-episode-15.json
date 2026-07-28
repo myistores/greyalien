@@ -54,24 +54,25 @@
   ],
   "mediaLinks": [
     {
-      "label": "Open official episode page",
-      "url": "https://shows.acast.com/somewhere-in-the-skies/episodes/david-jenkins-people-of-earth",
-      "platform": "Acast"
+      "label": "Open exact episode on Apple Podcasts",
+      "url": "https://podcasts.apple.com/us/podcast/david-jenkins-people-of-earth/id1227858637?i=1000390228455",
+      "platform": "Apple Podcasts",
+      "linkScope": "episode",
+      "validationStatus": "live_verified"
     }
   ],
   "officialLinks": [],
   "referenceSources": [
     {
-      "label": "Official Somewhere in the Skies hosted episode page",
-      "url": "https://shows.acast.com/somewhere-in-the-skies/episodes/david-jenkins-people-of-earth",
+      "label": "Exact Apple Podcasts episode page",
+      "url": "https://podcasts.apple.com/us/podcast/david-jenkins-people-of-earth/id1227858637?i=1000390228455",
       "sourceType": "official_episode_page",
-      "role": "source"
-    },
-    {
-      "label": "Apple Podcasts series archive",
-      "url": "https://podcasts.apple.com/us/podcast/somewhere-in-the-skies/id1227858637",
-      "sourceType": "authoritative_directory",
-      "role": "verification"
+      "role": "source",
+      "linkScope": "episode",
+      "validationStatus": "live_verified"
     }
+  ],
+  "researchNotes": [
+    "V23.4 media restoration: retired Acast URL removed; destination is explicitly classified as an exact episode page or a verified official series-archive fallback."
   ]
 }

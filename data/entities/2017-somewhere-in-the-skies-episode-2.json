@@ -59,24 +59,22 @@
   ],
   "mediaLinks": [
     {
-      "label": "Open official episode page",
-      "url": "https://shows.acast.com/somewhere-in-the-skies/episodes/micah-hanks-building-a-better-ufology-truth-myths-the-future-of-uap-research",
-      "platform": "Acast"
+      "label": "Open exact episode on Apple Podcasts",
+      "url": "https://podcasts.apple.com/us/podcast/micah-hanks-toward-a-better-ufology/id1227858637?i=1000384707651",
+      "platform": "Apple Podcasts",
+      "linkScope": "episode",
+      "validationStatus": "live_verified"
     }
   ],
   "officialLinks": [],
   "referenceSources": [
     {
-      "label": "Official Somewhere in the Skies hosted episode page",
-      "url": "https://shows.acast.com/somewhere-in-the-skies/episodes/micah-hanks-building-a-better-ufology-truth-myths-the-future-of-uap-research",
+      "label": "Exact Apple Podcasts episode page",
+      "url": "https://podcasts.apple.com/us/podcast/micah-hanks-toward-a-better-ufology/id1227858637?i=1000384707651",
       "sourceType": "official_episode_page",
-      "role": "source"
-    },
-    {
-      "label": "Apple Podcasts series archive",
-      "url": "https://podcasts.apple.com/us/podcast/somewhere-in-the-skies/id1227858637",
-      "sourceType": "authoritative_directory",
-      "role": "verification"
+      "role": "source",
+      "linkScope": "episode",
+      "validationStatus": "live_verified"
     }
   ],
   "keyDiscussionTopics": [
@@ -90,7 +88,7 @@
     "2017-somewhere-in-the-skies-episode-2-claim-3"
   ],
   "researchNotes": [
-    "Classification and archive placement were reviewed against the legacy hosted feed record and authoritative podcast directory metadata.",
-    "Relationships are limited to the parent series, host, verified canonical guests when available, and source-supported topics."
+    "Relationships are limited to the parent series, host, verified canonical guests when available, and source-supported topics.",
+    "V23.4 media restoration: retired Acast URL removed; destination is explicitly classified as an exact episode page or a verified official series-archive fallback."
   ]
 }

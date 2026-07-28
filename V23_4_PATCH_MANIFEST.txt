@@ -1,0 +1,24 @@
+V23.4 Somewhere in the Skies Official Media Link Restoration Patch
+Base repository: V23.3
+
+Modified scope:
+- 40 Somewhere in the Skies 2017 entity JSON records: mediaLinks, referenceSources, and media-restoration note only
+- Somewhere in the Skies archive media URL fields
+- regenerated podcast and entity public pages
+- added live-capable media validator
+- release documentation and homepage release visibility
+
+Media results:
+- 40 retired Acast URLs removed
+- 6 independently matched exact episode destinations
+- 34 clearly labeled official Apple Podcasts series-archive fallbacks
+
+Validation:
+- V23.4 media static validation: PASS
+- graph validation: PASS (unchanged legacy warnings)
+- podcast validation: PASS (four unchanged bonus-number warnings)
+- source validation: PASS (unchanged legacy warnings)
+- rendering validation: PASS
+- timeline validation: PASS
+- Research Accelerator validation: PASS
+- classification validation: PASS

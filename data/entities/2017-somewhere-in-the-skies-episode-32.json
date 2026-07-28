@@ -54,24 +54,25 @@
   ],
   "mediaLinks": [
     {
-      "label": "Open official episode page",
-      "url": "https://shows.acast.com/somewhere-in-the-skies/episodes/rob-kristoffersen-men-in-black",
-      "platform": "Acast"
+      "label": "Browse the official Apple Podcasts archive",
+      "url": "https://podcasts.apple.com/us/podcast/somewhere-in-the-skies/id1227858637",
+      "platform": "Apple Podcasts",
+      "linkScope": "series_archive",
+      "validationStatus": "live_verified_fallback"
     }
   ],
   "officialLinks": [],
   "referenceSources": [
     {
-      "label": "Official Somewhere in the Skies hosted episode page",
-      "url": "https://shows.acast.com/somewhere-in-the-skies/episodes/rob-kristoffersen-men-in-black",
-      "sourceType": "official_episode_page",
-      "role": "source"
-    },
-    {
-      "label": "Apple Podcasts series archive",
+      "label": "Official Apple Podcasts series archive (episode-specific page unavailable)",
       "url": "https://podcasts.apple.com/us/podcast/somewhere-in-the-skies/id1227858637",
-      "sourceType": "authoritative_directory",
-      "role": "verification"
+      "sourceType": "authoritative_series_archive",
+      "role": "source",
+      "linkScope": "series_archive",
+      "validationStatus": "live_verified_fallback"
     }
+  ],
+  "researchNotes": [
+    "V23.4 media restoration: retired Acast URL removed; destination is explicitly classified as an exact episode page or a verified official series-archive fallback."
   ]
 }
