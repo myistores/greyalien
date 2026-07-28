@@ -2,11 +2,19 @@
 
 See `PHASE4\_REFINEMENT2\_TIMELINE\_NORMALIZATION.md` for normalization and connection-count rules.
 
-# GreyAlien V17.2 — Import System
+# GreyAlien
+
+## Current release: V23.3
+The Somewhere in the Skies gateway is restored as the primary public series destination. Its archive exposes all 40 unique 2017 releases through compact year, topic, search, sort, and combined-filter views. The canonical podcast-series entity remains available as the secondary knowledge-graph record.
+ V17.2 — Import System
 
 Deploy the complete package to the repository root. Phase 3 documentation is in `PHASE3\_IMPORT\_SYSTEM.md` and `data/imports/README.md`.
 
-# GreyAlien Version 5 — Analytics, Search and Sharing Foundation
+# GreyAlien
+
+## Current release: V23.3
+The Somewhere in the Skies gateway is restored as the primary public series destination. Its archive exposes all 40 unique 2017 releases through compact year, topic, search, sort, and combined-filter views. The canonical podcast-series entity remains available as the secondary knowledge-graph record.
+ Version 5 — Analytics, Search and Sharing Foundation
 
 ## Included
 

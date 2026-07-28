@@ -11,7 +11,8 @@
       "launchYear": "2017",
       "status": "Active",
       "summary": "Ryan Sprague hosts a long-running podcast centered on UFO reports, witness experiences, investigations, researchers, and the cultural history of the phenomenon.",
-      "officialWebsite": "",
+      "officialWebsite": "https://somewhereintheskies.com/",
+      "gatewayUrl": "../categories/somewhere-in-the-skies.html",
       "episodeCount": 40,
       "connectedEntityCount": 11,
       "latestEpisodeDate": "2017-12-21"
@@ -25,7 +26,8 @@
       "launchYear": "2018",
       "status": "Active",
       "summary": "James Iandoli explores UAP, consciousness, contact experiences, field research, and the human implications of anomalous phenomena.",
-      "officialWebsite": "",
+      "officialWebsite": "https://www.youtube.com/@EngagingThePhenomenon",
+      "gatewayUrl": "",
       "episodeCount": 0,
       "connectedEntityCount": 0,
       "latestEpisodeDate": ""
@@ -39,7 +41,8 @@
       "launchYear": "2018",
       "status": "Active archive",
       "summary": "John Greenewald Jr. uses declassified records and Freedom of Information Act research as the basis for interviews about government, military, intelligence, and UAP history.",
-      "officialWebsite": "",
+      "officialWebsite": "https://www.theblackvault.com/documentarchive/category/podcasts/",
+      "gatewayUrl": "",
       "episodeCount": 0,
       "connectedEntityCount": 0,
       "latestEpisodeDate": ""
@@ -53,7 +56,8 @@
       "launchYear": "2020",
       "status": "Active",
       "summary": "Andy McGrillen presents UAP news, interviews, listener discussions, and deep dives into UFOs and connected phenomena.",
-      "officialWebsite": "",
+      "officialWebsite": "https://www.youtube.com/@ThatUFOPodcast",
+      "gatewayUrl": "",
       "episodeCount": 0,
       "connectedEntityCount": 0,
       "latestEpisodeDate": ""
@@ -67,7 +71,8 @@
       "launchYear": "2020",
       "status": "Active",
       "summary": "Curt Jaimungal hosts technically detailed long-form conversations spanning theoretical physics, consciousness, artificial intelligence, philosophy, and UAP research.",
-      "officialWebsite": "",
+      "officialWebsite": "https://curtjaimungal.substack.com/",
+      "gatewayUrl": "",
       "episodeCount": 0,
       "connectedEntityCount": 0,
       "latestEpisodeDate": ""
@@ -82,7 +87,8 @@
       "launchYear": "2021",
       "status": "Active",
       "summary": "Journalistic UAP podcast combining current reporting, analysis, historical context, and disclosure discussion.",
-      "officialWebsite": "",
+      "officialWebsite": "https://www.youtube.com/channel/UCgslF1kPo4Kmv4Xrg8EyYmQ",
+      "gatewayUrl": "",
       "episodeCount": 75,
       "connectedEntityCount": 57,
       "latestEpisodeDate": "2026-07-05"
@@ -96,7 +102,8 @@
       "launchYear": "2022",
       "status": "Active",
       "summary": "Ryan Graves hosts pilots, scientists, researchers, and innovators for evidence-focused discussion of UAP, aviation safety, and scientific inquiry.",
-      "officialWebsite": "",
+      "officialWebsite": "https://www.mergedpodcast.com/",
+      "gatewayUrl": "",
       "episodeCount": 19,
       "connectedEntityCount": 30,
       "latestEpisodeDate": "2023-11-08"
@@ -111,7 +118,8 @@
       "launchYear": "2023",
       "status": "Active",
       "summary": "Investigative series in which Jeremy Corbell and George Knapp explore UAP, government secrecy, unusual events, documents, and firsthand testimony.",
-      "officialWebsite": "",
+      "officialWebsite": "https://www.weaponizedpodcast.com/",
+      "gatewayUrl": "",
       "episodeCount": 123,
       "connectedEntityCount": 286,
       "latestEpisodeDate": "2026-06-18"

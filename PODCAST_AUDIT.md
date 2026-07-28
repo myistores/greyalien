@@ -22,3 +22,11 @@
 - Excluded non-episode items: 0
 - Episode #37 excluded because its publication date is January 1, 2018.
 - Official/hosted episode references and authoritative directory metadata were verified before import.
+
+
+## V23.3 Somewhere in the Skies gateway restoration
+- Primary public route: `categories/somewhere-in-the-skies.html`
+- Canonical secondary route: `entities/entity.html?id=somewhere-in-the-skies-podcast`
+- 2017 archive records: 40 unique releases
+- Verified combined filters: Historical UFO Cases (10), Witness Accounts (11), High Strangeness (7), Media and Popular Culture (12)
+- Episode entities, approved classifications, canonical records, and relationships unchanged.

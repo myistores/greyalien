@@ -1,7 +1,7 @@
 {
-  "version": "23.2",
-  "title": "Somewhere in the Skies 2017 Podcast Integration",
+  "version": "23.3",
+  "title": "Somewhere in the Skies Gateway Restoration Patch",
   "date": "2026-07-27",
-  "summary": "Ingested the complete verified 2017 Somewhere in the Skies archive: 36 numbered episodes and four non-numbered releases, classified through the internal V23 engine and approved before import. Populated the year-and-topic gateway with 40 unique records while preserving architecture and public behavior.",
-  "phase": "Content-only podcast ingestion"
+  "summary": "Restored the V22.1.1 Somewhere in the Skies gateway as the primary public destination, connected all 40 existing 2017 archive records and reviewed topic classifications, corrected directory and related-series routing, preserved the canonical series entity as a secondary knowledge-graph view, and left episode content and graph data untouched.",
+  "phase": "Gateway restoration patch"
 }

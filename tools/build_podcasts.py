@@ -30,7 +30,9 @@ for p in series:
     for e in pe:
         src=by_id[e['id']]
         connected.update(r.get('target') for r in src.get('relationships',[]) if r.get('target') and r.get('target')!=p['id'])
-    rows.append({'id':p['id'],'name':p['name'],'hosts':p.get('podcastHosts',[]),'launchYear':p.get('launchYear',''),'status':p.get('status',''),'summary':p['summary'],'officialWebsite':p.get('externalUrl',''),'episodeCount':len(pe),'connectedEntityCount':len(connected),'latestEpisodeDate':max((e.get('date','') for e in pe),default='')})
+    official_website=next((link.get('url','') for link in p.get('officialLinks',[]) if link.get('linkType')=='official_website'),p.get('externalUrl',''))
+    gateway_url='../categories/somewhere-in-the-skies.html' if p['id']=='somewhere-in-the-skies-podcast' else ''
+    rows.append({'id':p['id'],'name':p['name'],'hosts':p.get('podcastHosts',[]),'launchYear':p.get('launchYear',''),'status':p.get('status',''),'summary':p['summary'],'officialWebsite':official_website,'gatewayUrl':gateway_url,'episodeCount':len(pe),'connectedEntityCount':len(connected),'latestEpisodeDate':max((e.get('date','') for e in pe),default='')})
 (OUT/'podcast-index.json').write_text(json.dumps({'schemaVersion':2,'generatedBy':'tools/build_podcasts.py','podcasts':rows},indent=2,ensure_ascii=False)+'\n',encoding='utf-8')
 (OUT/'episode-index.json').write_text(json.dumps({'schemaVersion':1,'generatedBy':'tools/build_podcasts.py','episodes':episodes},indent=2,ensure_ascii=False)+'\n',encoding='utf-8')
 manifest={'schemaVersion':1,'seriesCount':len(rows),'episodeCount':len(episodes),'episodesBySeries':{p['id']:sum(1 for e in episodes if e.get('seriesId')==p['id']) for p in rows},'generatedAt':datetime.now(timezone.utc).isoformat()}

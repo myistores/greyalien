@@ -64,7 +64,7 @@
       if(state.year)labels.push(state.year);
       if(state.topic)labels.push(topicMap[state.topic]?.name||state.topic);
       if(state.query)labels.push(`“${state.query}”`);
-      els.title.textContent=labels.length?labels.join(" + "):"All researched episodes";
+      els.title.textContent=labels.length?labels.join(" + "):"All 2017 releases";
       els.active.innerHTML=labels.length?`<span>Showing ${list.length} matching record${list.length===1?"":"s"}</span>`:`<span>${episodes.length} episode record${episodes.length===1?"":"s"} available</span>`;
 
       if(!episodes.length){

@@ -1,18 +1,18 @@
-# GreyAlien V22.0 Deployment Report
+# GreyAlien V23.3 Deployment Report
 
 **Status:** Ready for deployment  
-**Generated:** 2026-07-25T19:31:17.092223+00:00
+**Generated:** 2026-07-28T01:38:43.564469+00:00
 
-- Entities: 1558
-- Resolved relationships: 3391
-- Unresolved legacy warnings: 16
+- Entities: 1609
+- Resolved relationships: 3532
+- Unresolved legacy warnings: 56
 - Podcast series: 8
-- Researched podcast episodes: 217
-- Episode records with related-episode recommendations: 217
-- Generated entity entry pages: 1558
-- Sitemap URLs: 1569
+- Researched podcast episodes: 257
+- Episode records with related-episode recommendations: 257
+- Generated entity entry pages: 1609
+- Sitemap URLs: 1620
 - Validation: Passed
 
 ## Release summary
 
-Added MERGED Episode #1 with Dr. Garry Nolan as a complete content-only production entity, including four source-grounded principal claims, canonical entity reuse, direct official episode media, a historically meaningful launch timeline event, and cross-series discovery through shared canonical people and topics without unsupported direct series relationships.
+Restored the V22.1.1 Somewhere in the Skies gateway as the primary public destination, connected all 40 existing 2017 archive records and reviewed topic classifications, corrected directory and related-series routing, preserved the canonical series entity as a secondary knowledge-graph view, and left episode content and graph data untouched.

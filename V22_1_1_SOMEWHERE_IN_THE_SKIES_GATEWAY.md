@@ -31,3 +31,7 @@ No existing entities, relationships, templates, routing behavior, or episode con
 ## V23.2 population status
 
 The gateway is now populated with the complete 2017 archive: 40 unique records. The 2017 filter, topic filters, combined year-and-topic filters, title/summary search, guest metadata, and direct record links are active.
+
+
+## V23.3 restoration status
+The V22.1.1 gateway is again the primary public destination. Podcast-directory and related-series links route here, while the canonical podcast-series entity remains a secondary knowledge-graph view with a return link to the gateway. All 40 V23.2 archive records are exposed as compact paginated rows and retain their reviewed V23 topic assignments.
