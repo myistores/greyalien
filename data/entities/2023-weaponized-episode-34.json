@@ -1,7 +1,7 @@
 {
   "id": "2023-weaponized-episode-34",
   "type": "podcast_episode",
-  "name": "WEAPONIZED Episode #34 \u2014 The Pushback Against UFO Transparency",
+  "name": "WEAPONIZED Episode #34 — The Pushback Against UFO Transparency",
   "summary": "The hosts examine institutional resistance to congressional scrutiny, scientific study, and media coverage of UAP, while urging public advocacy before the current transparency window closes.",
   "date": "2023-09-18",
   "dateDisplay": "September 18, 2023",
@@ -78,5 +78,75 @@
       "sourceType": "official_audio_feed",
       "role": "source"
     }
-  ]
+  ],
+  "officialMedia": [
+    {
+      "_field": "mediaLinks",
+      "_index": 0,
+      "platform": "Official website",
+      "url": "https://www.weaponizedpodcast.com/episodes-2/episode-34",
+      "destinationType": "episode",
+      "mediaType": "web_page",
+      "official": true,
+      "verified": true,
+      "verificationStatus": "verified",
+      "preferredRank": 1,
+      "label": "Open Official Episode Page",
+      "approved": true,
+      "published": true,
+      "migrationProvenance": {
+        "release": "V23.5B",
+        "legacyField": "mediaLinks",
+        "legacyIndex": 0,
+        "legacyLabel": "Open the official Episode #34 page"
+      },
+      "migrationProvenanceMerged": [
+        {
+          "release": "V23.5B",
+          "legacyField": "referenceSources",
+          "legacyIndex": 0,
+          "legacyLabel": "Official WEAPONIZED Episode #34 page"
+        }
+      ]
+    },
+    {
+      "_field": "mediaLinks",
+      "_index": 1,
+      "platform": "RSS",
+      "url": "https://link.chtbl.com/Weaponized",
+      "destinationType": "series",
+      "mediaType": "audio",
+      "official": true,
+      "verified": true,
+      "verificationStatus": "verified",
+      "preferredRank": 6,
+      "label": "Browse Official Podcast Archive",
+      "approved": true,
+      "published": true,
+      "migrationProvenance": {
+        "release": "V23.5B",
+        "legacyField": "mediaLinks",
+        "legacyIndex": 1,
+        "legacyLabel": "Listen to WEAPONIZED"
+      },
+      "migrationProvenanceMerged": [
+        {
+          "release": "V23.5B",
+          "legacyField": "referenceSources",
+          "legacyIndex": 1,
+          "legacyLabel": "Listen to WEAPONIZED"
+        }
+      ]
+    }
+  ],
+  "mediaMigration": {
+    "release": "V23.5B",
+    "status": "approved",
+    "legacyFieldsPreserved": true,
+    "legacyUrlCount": 4,
+    "mediaRecordCount": 2,
+    "duplicateCanonicalUrlsSuppressed": 2,
+    "preferredCanonicalUrl": "https://weaponizedpodcast.com/episodes-2/episode-34",
+    "preferredLabel": "Open Official Episode Page"
+  }
 }

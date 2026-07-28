@@ -1,7 +1,7 @@
 {
   "id": "2025-weaponized-episode-78",
   "type": "podcast_episode",
-  "name": "WEAPONIZED Episode #78 \u2014 Sean Kirkpatrick, AARO, and UFO Politics",
+  "name": "WEAPONIZED Episode #78 — Sean Kirkpatrick, AARO, and UFO Politics",
   "summary": "The hosts challenge claims attributed to former AARO director Sean Kirkpatrick and discuss UFO politics and Contact in the Desert with Ernie Cline and Dan Cleary.",
   "date": "2025-06-09",
   "dateDisplay": "June 9, 2025",
@@ -107,5 +107,75 @@
       "sourceType": "official_audio_feed",
       "role": "source"
     }
-  ]
+  ],
+  "officialMedia": [
+    {
+      "_field": "mediaLinks",
+      "_index": 0,
+      "platform": "Official website",
+      "url": "https://www.weaponizedpodcast.com/episodes-3/episode-78",
+      "destinationType": "episode",
+      "mediaType": "web_page",
+      "official": true,
+      "verified": true,
+      "verificationStatus": "verified",
+      "preferredRank": 1,
+      "label": "Open Official Episode Page",
+      "approved": true,
+      "published": true,
+      "migrationProvenance": {
+        "release": "V23.5B",
+        "legacyField": "mediaLinks",
+        "legacyIndex": 0,
+        "legacyLabel": "Open the official Episode #78 page"
+      },
+      "migrationProvenanceMerged": [
+        {
+          "release": "V23.5B",
+          "legacyField": "referenceSources",
+          "legacyIndex": 0,
+          "legacyLabel": "Official WEAPONIZED Episode #78 page"
+        }
+      ]
+    },
+    {
+      "_field": "mediaLinks",
+      "_index": 1,
+      "platform": "RSS",
+      "url": "https://link.chtbl.com/Weaponized",
+      "destinationType": "series",
+      "mediaType": "audio",
+      "official": true,
+      "verified": true,
+      "verificationStatus": "verified",
+      "preferredRank": 6,
+      "label": "Browse Official Podcast Archive",
+      "approved": true,
+      "published": true,
+      "migrationProvenance": {
+        "release": "V23.5B",
+        "legacyField": "mediaLinks",
+        "legacyIndex": 1,
+        "legacyLabel": "Listen to WEAPONIZED"
+      },
+      "migrationProvenanceMerged": [
+        {
+          "release": "V23.5B",
+          "legacyField": "referenceSources",
+          "legacyIndex": 1,
+          "legacyLabel": "Listen to WEAPONIZED"
+        }
+      ]
+    }
+  ],
+  "mediaMigration": {
+    "release": "V23.5B",
+    "status": "approved",
+    "legacyFieldsPreserved": true,
+    "legacyUrlCount": 4,
+    "mediaRecordCount": 2,
+    "duplicateCanonicalUrlsSuppressed": 2,
+    "preferredCanonicalUrl": "https://weaponizedpodcast.com/episodes-3/episode-78",
+    "preferredLabel": "Open Official Episode Page"
+  }
 }

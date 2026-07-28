@@ -119,5 +119,102 @@
       "sourceType": "Official WEAPONIZED episode page",
       "role": "primary_reference"
     }
-  ]
+  ],
+  "officialMedia": [
+    {
+      "_field": "referenceSources",
+      "_index": 1,
+      "platform": "Official website",
+      "url": "https://www.weaponizedpodcast.com/",
+      "destinationType": "episode",
+      "mediaType": "web_page",
+      "official": true,
+      "verified": true,
+      "verificationStatus": "verified",
+      "preferredRank": 1,
+      "label": "Open Official Episode Page",
+      "approved": true,
+      "published": true,
+      "migrationProvenance": {
+        "release": "V23.5B",
+        "legacyField": "referenceSources",
+        "legacyIndex": 1,
+        "legacyLabel": "Visit WEAPONIZED"
+      },
+      "migrationProvenanceMerged": [
+        {
+          "release": "V23.5B",
+          "legacyField": "referenceSources",
+          "legacyIndex": 1,
+          "legacyLabel": "Visit WEAPONIZED"
+        },
+        {
+          "release": "V23.5B",
+          "legacyField": "mediaLinks",
+          "legacyIndex": 1,
+          "legacyLabel": "Visit WEAPONIZED"
+        }
+      ]
+    },
+    {
+      "_field": "referenceSources",
+      "_index": 2,
+      "platform": "Official website",
+      "url": "https://www.weaponizedpodcast.com/episodes-3/episode-74",
+      "destinationType": "episode",
+      "mediaType": "web_page",
+      "official": false,
+      "verified": true,
+      "verificationStatus": "verified",
+      "preferredRank": 1,
+      "label": "Open Official Episode Page",
+      "approved": true,
+      "published": true,
+      "migrationProvenance": {
+        "release": "V23.5B",
+        "legacyField": "referenceSources",
+        "legacyIndex": 2,
+        "legacyLabel": "WEAPONIZED Episode #74 — Matthew Brown Part 1: Immaculate Constellation"
+      }
+    },
+    {
+      "_field": "mediaLinks",
+      "_index": 0,
+      "platform": "YouTube",
+      "url": "https://www.youtube.com/watch?v=ZAxI-LDrDqA",
+      "destinationType": "episode",
+      "mediaType": "video",
+      "official": true,
+      "verified": true,
+      "verificationStatus": "verified",
+      "preferredRank": 2,
+      "label": "Watch on YouTube",
+      "approved": true,
+      "published": true,
+      "migrationProvenance": {
+        "release": "V23.5B",
+        "legacyField": "mediaLinks",
+        "legacyIndex": 0,
+        "legacyLabel": "Watch Matthew Brown Part 1"
+      },
+      "migrationProvenanceMerged": [
+        {
+          "release": "V23.5B",
+          "legacyField": "referenceSources",
+          "legacyIndex": 0,
+          "legacyLabel": "Watch Matthew Brown Part 1"
+        }
+      ]
+    }
+  ],
+  "mediaMigration": {
+    "release": "V23.5B",
+    "status": "approved",
+    "legacyFieldsPreserved": true,
+    "legacyUrlCount": 5,
+    "mediaRecordCount": 3,
+    "duplicateCanonicalUrlsSuppressed": 2,
+    "preferredCanonicalUrl": "https://weaponizedpodcast.com",
+    "preferredLabel": "Open Official Episode Page"
+  }
 }

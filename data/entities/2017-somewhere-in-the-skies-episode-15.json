@@ -74,5 +74,46 @@
   ],
   "researchNotes": [
     "V23.4 media restoration: retired Acast URL removed; destination is explicitly classified as an exact episode page or a verified official series-archive fallback."
-  ]
+  ],
+  "officialMedia": [
+    {
+      "_field": "mediaLinks",
+      "_index": 0,
+      "platform": "Apple Podcasts",
+      "url": "https://podcasts.apple.com/us/podcast/david-jenkins-people-of-earth/id1227858637?i=1000390228455",
+      "destinationType": "episode",
+      "mediaType": "audio",
+      "official": true,
+      "verified": true,
+      "verificationStatus": "verified",
+      "preferredRank": 3,
+      "label": "Listen on Apple Podcasts",
+      "approved": true,
+      "published": true,
+      "migrationProvenance": {
+        "release": "V23.5B",
+        "legacyField": "mediaLinks",
+        "legacyIndex": 0,
+        "legacyLabel": "Open exact episode on Apple Podcasts"
+      },
+      "migrationProvenanceMerged": [
+        {
+          "release": "V23.5B",
+          "legacyField": "referenceSources",
+          "legacyIndex": 0,
+          "legacyLabel": "Exact Apple Podcasts episode page"
+        }
+      ]
+    }
+  ],
+  "mediaMigration": {
+    "release": "V23.5B",
+    "status": "approved",
+    "legacyFieldsPreserved": true,
+    "legacyUrlCount": 2,
+    "mediaRecordCount": 1,
+    "duplicateCanonicalUrlsSuppressed": 1,
+    "preferredCanonicalUrl": "https://podcasts.apple.com/us/podcast/david-jenkins-people-of-earth/id1227858637?i=1000390228455",
+    "preferredLabel": "Listen on Apple Podcasts"
+  }
 }

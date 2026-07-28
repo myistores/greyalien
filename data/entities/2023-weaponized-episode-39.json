@@ -1,13 +1,13 @@
 {
   "id": "2023-weaponized-episode-39",
   "type": "podcast_episode",
-  "name": "WEAPONIZED Episode #39 \u2014 AARO\u2019s Report and the Lacatski Revelations",
-  "summary": "The hosts assess public reaction to James Lacatski and Colm Kelleher\u2019s statements, critique a new AARO report, and revisit an older intelligence interview about crash retrievals and reverse engineering.",
+  "name": "WEAPONIZED Episode #39 — AARO’s Report and the Lacatski Revelations",
+  "summary": "The hosts assess public reaction to James Lacatski and Colm Kelleher’s statements, critique a new AARO report, and revisit an older intelligence interview about crash retrievals and reverse engineering.",
   "date": "2023-10-23",
   "dateDisplay": "October 23, 2023",
   "seriesId": "weaponized-podcast",
   "episodeNumber": 39,
-  "episodeTitle": "AARO\u2019s Report and the Lacatski Revelations",
+  "episodeTitle": "AARO’s Report and the Lacatski Revelations",
   "status": "Published",
   "mediaType": "Podcast episode",
   "mediaPlatform": "WEAPONIZED",
@@ -93,5 +93,75 @@
       "sourceType": "official_audio_feed",
       "role": "source"
     }
-  ]
+  ],
+  "officialMedia": [
+    {
+      "_field": "mediaLinks",
+      "_index": 0,
+      "platform": "Official website",
+      "url": "https://www.weaponizedpodcast.com/episodes-2/episode-39",
+      "destinationType": "episode",
+      "mediaType": "web_page",
+      "official": true,
+      "verified": true,
+      "verificationStatus": "verified",
+      "preferredRank": 1,
+      "label": "Open Official Episode Page",
+      "approved": true,
+      "published": true,
+      "migrationProvenance": {
+        "release": "V23.5B",
+        "legacyField": "mediaLinks",
+        "legacyIndex": 0,
+        "legacyLabel": "Open the official Episode #39 page"
+      },
+      "migrationProvenanceMerged": [
+        {
+          "release": "V23.5B",
+          "legacyField": "referenceSources",
+          "legacyIndex": 0,
+          "legacyLabel": "Official WEAPONIZED Episode #39 page"
+        }
+      ]
+    },
+    {
+      "_field": "mediaLinks",
+      "_index": 1,
+      "platform": "RSS",
+      "url": "https://link.chtbl.com/Weaponized",
+      "destinationType": "series",
+      "mediaType": "audio",
+      "official": true,
+      "verified": true,
+      "verificationStatus": "verified",
+      "preferredRank": 6,
+      "label": "Browse Official Podcast Archive",
+      "approved": true,
+      "published": true,
+      "migrationProvenance": {
+        "release": "V23.5B",
+        "legacyField": "mediaLinks",
+        "legacyIndex": 1,
+        "legacyLabel": "Listen to WEAPONIZED"
+      },
+      "migrationProvenanceMerged": [
+        {
+          "release": "V23.5B",
+          "legacyField": "referenceSources",
+          "legacyIndex": 1,
+          "legacyLabel": "Listen to WEAPONIZED"
+        }
+      ]
+    }
+  ],
+  "mediaMigration": {
+    "release": "V23.5B",
+    "status": "approved",
+    "legacyFieldsPreserved": true,
+    "legacyUrlCount": 4,
+    "mediaRecordCount": 2,
+    "duplicateCanonicalUrlsSuppressed": 2,
+    "preferredCanonicalUrl": "https://weaponizedpodcast.com/episodes-2/episode-39",
+    "preferredLabel": "Open Official Episode Page"
+  }
 }

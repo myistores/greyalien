@@ -1,3 +1,7 @@
+## V23.5B migration audit
+
+The four production podcast collections were reconciled across legacy media fields and migrated into approved `officialMedia` collections. The migration covers 257 episodes and four series entities, preserves Need to Know Episode 13/14 corrections and all 40 Somewhere in the Skies 2017 records, and reports zero non-media changes. Detailed reports are in `data/migration/v23.5b/`.
+
 # GreyAlien Podcast Audit — Version 15.0
 
 | Podcast | Hosts | Launch | Connections | Website | YouTube | Spotify | Apple |

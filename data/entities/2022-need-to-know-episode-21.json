@@ -88,5 +88,75 @@
       "sourceType": "official_video_collection",
       "role": "source"
     }
-  ]
+  ],
+  "officialMedia": [
+    {
+      "_field": "mediaLinks",
+      "_index": 0,
+      "platform": "YouTube",
+      "url": "https://www.youtube.com/watch?v=b-_QillPBM4",
+      "destinationType": "episode",
+      "mediaType": "video",
+      "official": true,
+      "verified": true,
+      "verificationStatus": "verified",
+      "preferredRank": 2,
+      "label": "Watch on YouTube",
+      "approved": true,
+      "published": true,
+      "migrationProvenance": {
+        "release": "V23.5B",
+        "legacyField": "mediaLinks",
+        "legacyIndex": 0,
+        "legacyLabel": "Watch Need to Know Episode #21 on YouTube"
+      },
+      "migrationProvenanceMerged": [
+        {
+          "release": "V23.5B",
+          "legacyField": "referenceSources",
+          "legacyIndex": 0,
+          "legacyLabel": "Official Need to Know Episode 21 video — UFOlogy Must Die?"
+        }
+      ]
+    },
+    {
+      "_field": "mediaLinks",
+      "_index": 1,
+      "platform": "YouTube",
+      "url": "https://www.youtube.com/playlist?list=PLXdU8QbJkboeMcvUNyGpb9h6FUS9cVBti",
+      "destinationType": "playlist",
+      "mediaType": "video",
+      "official": true,
+      "verified": true,
+      "verificationStatus": "verified",
+      "preferredRank": 6,
+      "label": "Browse Official YouTube Playlist",
+      "approved": true,
+      "published": true,
+      "migrationProvenance": {
+        "release": "V23.5B",
+        "legacyField": "mediaLinks",
+        "legacyIndex": 1,
+        "legacyLabel": "Watch the official Need to Know collection"
+      },
+      "migrationProvenanceMerged": [
+        {
+          "release": "V23.5B",
+          "legacyField": "referenceSources",
+          "legacyIndex": 1,
+          "legacyLabel": "Need to Know official YouTube collection"
+        }
+      ]
+    }
+  ],
+  "mediaMigration": {
+    "release": "V23.5B",
+    "status": "approved",
+    "legacyFieldsPreserved": true,
+    "legacyUrlCount": 4,
+    "mediaRecordCount": 2,
+    "duplicateCanonicalUrlsSuppressed": 2,
+    "preferredCanonicalUrl": "https://youtube.com/watch?v=b-_QillPBM4",
+    "preferredLabel": "Watch on YouTube"
+  }
 }

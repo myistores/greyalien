@@ -36,5 +36,101 @@
       "linkType": "apple_podcasts"
     }
   ],
-  "referenceSources": []
+  "referenceSources": [],
+  "officialMedia": [
+    {
+      "_field": "officialLinks",
+      "_index": 3,
+      "platform": "Apple Podcasts",
+      "url": "https://podcasts.apple.com/us/podcast/somewhere-in-the-skies/id1227858637",
+      "destinationType": "series",
+      "mediaType": "audio",
+      "official": true,
+      "verified": true,
+      "verificationStatus": "verified",
+      "preferredRank": 6,
+      "label": "Browse Apple Podcasts Series Archive",
+      "approved": true,
+      "published": true,
+      "migrationProvenance": {
+        "release": "V23.5B",
+        "legacyField": "officialLinks",
+        "legacyIndex": 3,
+        "legacyLabel": "Apple Podcasts"
+      }
+    },
+    {
+      "_field": "officialLinks",
+      "_index": 0,
+      "platform": "Official website",
+      "url": "https://somewhereintheskies.com/",
+      "destinationType": "series",
+      "mediaType": "web_page",
+      "official": true,
+      "verified": true,
+      "verificationStatus": "verified",
+      "preferredRank": 6,
+      "label": "Open Official Podcast Website",
+      "approved": true,
+      "published": true,
+      "migrationProvenance": {
+        "release": "V23.5B",
+        "legacyField": "officialLinks",
+        "legacyIndex": 0,
+        "legacyLabel": "official website"
+      }
+    },
+    {
+      "_field": "officialLinks",
+      "_index": 2,
+      "platform": "Spotify",
+      "url": "https://open.spotify.com/show/1g0MSTxiHo4KvtrUxhr6II",
+      "destinationType": "series",
+      "mediaType": "audio",
+      "official": true,
+      "verified": true,
+      "verificationStatus": "verified",
+      "preferredRank": 6,
+      "label": "Browse Spotify Series Archive",
+      "approved": true,
+      "published": true,
+      "migrationProvenance": {
+        "release": "V23.5B",
+        "legacyField": "officialLinks",
+        "legacyIndex": 2,
+        "legacyLabel": "Spotify"
+      }
+    },
+    {
+      "_field": "officialLinks",
+      "_index": 1,
+      "platform": "YouTube",
+      "url": "https://www.youtube.com/channel/UCYH8m4zyehr0rN3feBZ4mCA",
+      "destinationType": "channel",
+      "mediaType": "video",
+      "official": true,
+      "verified": true,
+      "verificationStatus": "verified",
+      "preferredRank": 6,
+      "label": "Open Official YouTube Channel",
+      "approved": true,
+      "published": true,
+      "migrationProvenance": {
+        "release": "V23.5B",
+        "legacyField": "officialLinks",
+        "legacyIndex": 1,
+        "legacyLabel": "YouTube"
+      }
+    }
+  ],
+  "mediaMigration": {
+    "release": "V23.5B",
+    "status": "approved",
+    "legacyFieldsPreserved": true,
+    "legacyUrlCount": 4,
+    "mediaRecordCount": 4,
+    "duplicateCanonicalUrlsSuppressed": 0,
+    "preferredCanonicalUrl": "https://podcasts.apple.com/us/podcast/somewhere-in-the-skies/id1227858637",
+    "preferredLabel": "Browse Apple Podcasts Series Archive"
+  }
 }

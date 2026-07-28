@@ -74,5 +74,46 @@
   ],
   "researchNotes": [
     "V23.4 media restoration: retired Acast URL removed; destination is explicitly classified as an exact episode page or a verified official series-archive fallback."
-  ]
+  ],
+  "officialMedia": [
+    {
+      "_field": "mediaLinks",
+      "_index": 0,
+      "platform": "Spotify",
+      "url": "https://open.spotify.com/episode/6BRMdWQlTLzIBqFhof6Wuy",
+      "destinationType": "episode",
+      "mediaType": "audio",
+      "official": true,
+      "verified": true,
+      "verificationStatus": "verified",
+      "preferredRank": 4,
+      "label": "Listen on Spotify",
+      "approved": true,
+      "published": true,
+      "migrationProvenance": {
+        "release": "V23.5B",
+        "legacyField": "mediaLinks",
+        "legacyIndex": 0,
+        "legacyLabel": "Open exact episode on Spotify"
+      },
+      "migrationProvenanceMerged": [
+        {
+          "release": "V23.5B",
+          "legacyField": "referenceSources",
+          "legacyIndex": 0,
+          "legacyLabel": "Exact Spotify episode page"
+        }
+      ]
+    }
+  ],
+  "mediaMigration": {
+    "release": "V23.5B",
+    "status": "approved",
+    "legacyFieldsPreserved": true,
+    "legacyUrlCount": 2,
+    "mediaRecordCount": 1,
+    "duplicateCanonicalUrlsSuppressed": 1,
+    "preferredCanonicalUrl": "https://open.spotify.com/episode/6BRMdWQlTLzIBqFhof6Wuy",
+    "preferredLabel": "Listen on Spotify"
+  }
 }

@@ -84,5 +84,75 @@
       "sourceType": "official_episode_video",
       "role": "source"
     }
-  ]
+  ],
+  "officialMedia": [
+    {
+      "_field": "mediaLinks",
+      "_index": 1,
+      "platform": "YouTube",
+      "url": "https://www.youtube.com/watch?v=4knd6hQbHZI",
+      "destinationType": "episode",
+      "mediaType": "video",
+      "official": true,
+      "verified": true,
+      "verificationStatus": "verified",
+      "preferredRank": 2,
+      "label": "Watch on YouTube",
+      "approved": true,
+      "published": true,
+      "migrationProvenance": {
+        "release": "V23.5B",
+        "legacyField": "mediaLinks",
+        "legacyIndex": 1,
+        "legacyLabel": "Watch MERGED Episode #8 on YouTube"
+      },
+      "migrationProvenanceMerged": [
+        {
+          "release": "V23.5B",
+          "legacyField": "referenceSources",
+          "legacyIndex": 1,
+          "legacyLabel": "Official MERGED Episode #8 video"
+        }
+      ]
+    },
+    {
+      "_field": "mediaLinks",
+      "_index": 0,
+      "platform": "iVoox",
+      "url": "https://www.ivoox.com/en/where-the-search-for-dark-matter-and-uap-audios-mp3_rf_109610969_1.html",
+      "destinationType": "series",
+      "mediaType": "web_page",
+      "official": true,
+      "verified": true,
+      "verificationStatus": "verified",
+      "preferredRank": 6,
+      "label": "Browse Official Series Archive",
+      "approved": true,
+      "published": true,
+      "migrationProvenance": {
+        "release": "V23.5B",
+        "legacyField": "mediaLinks",
+        "legacyIndex": 0,
+        "legacyLabel": "Listen to MERGED Episode #8"
+      },
+      "migrationProvenanceMerged": [
+        {
+          "release": "V23.5B",
+          "legacyField": "referenceSources",
+          "legacyIndex": 0,
+          "legacyLabel": "MERGED Episode #8 on iVoox"
+        }
+      ]
+    }
+  ],
+  "mediaMigration": {
+    "release": "V23.5B",
+    "status": "approved",
+    "legacyFieldsPreserved": true,
+    "legacyUrlCount": 4,
+    "mediaRecordCount": 2,
+    "duplicateCanonicalUrlsSuppressed": 2,
+    "preferredCanonicalUrl": "https://youtube.com/watch?v=4knd6hQbHZI",
+    "preferredLabel": "Watch on YouTube"
+  }
 }

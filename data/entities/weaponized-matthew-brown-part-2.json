@@ -113,5 +113,75 @@
       "sourceType": "official_episode_page",
       "role": "source"
     }
-  ]
+  ],
+  "officialMedia": [
+    {
+      "_field": "mediaLinks",
+      "_index": 1,
+      "platform": "Official website",
+      "url": "https://www.weaponizedpodcast.com/episodes-3/episode-75",
+      "destinationType": "episode",
+      "mediaType": "web_page",
+      "official": true,
+      "verified": true,
+      "verificationStatus": "verified",
+      "preferredRank": 1,
+      "label": "Open Official Episode Page",
+      "approved": true,
+      "published": true,
+      "migrationProvenance": {
+        "release": "V23.5B",
+        "legacyField": "mediaLinks",
+        "legacyIndex": 1,
+        "legacyLabel": "Read the official Episode #75 description"
+      },
+      "migrationProvenanceMerged": [
+        {
+          "release": "V23.5B",
+          "legacyField": "referenceSources",
+          "legacyIndex": 1,
+          "legacyLabel": "Read the official Episode #75 description"
+        }
+      ]
+    },
+    {
+      "_field": "mediaLinks",
+      "_index": 0,
+      "platform": "YouTube",
+      "url": "https://www.youtube.com/watch?v=4n_bRtnIP14",
+      "destinationType": "episode",
+      "mediaType": "video",
+      "official": true,
+      "verified": true,
+      "verificationStatus": "verified",
+      "preferredRank": 2,
+      "label": "Watch on YouTube",
+      "approved": true,
+      "published": true,
+      "migrationProvenance": {
+        "release": "V23.5B",
+        "legacyField": "mediaLinks",
+        "legacyIndex": 0,
+        "legacyLabel": "Watch Matthew Brown Part 2"
+      },
+      "migrationProvenanceMerged": [
+        {
+          "release": "V23.5B",
+          "legacyField": "referenceSources",
+          "legacyIndex": 0,
+          "legacyLabel": "Watch Matthew Brown Part 2"
+        }
+      ]
+    }
+  ],
+  "mediaMigration": {
+    "release": "V23.5B",
+    "status": "approved",
+    "legacyFieldsPreserved": true,
+    "legacyUrlCount": 4,
+    "mediaRecordCount": 2,
+    "duplicateCanonicalUrlsSuppressed": 2,
+    "preferredCanonicalUrl": "https://weaponizedpodcast.com/episodes-3/episode-75",
+    "preferredLabel": "Open Official Episode Page"
+  }
 }

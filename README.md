@@ -1,3 +1,7 @@
+## Current release — V23.5B
+
+All existing WEAPONIZED, Need to Know, MERGED, and Somewhere in the Skies podcast records now use the V23.5A universal Official Media collection while retaining legacy media fields for compatibility and rollback. See `V23_5B_EXISTING_PODCAST_OFFICIAL_MEDIA_MIGRATION.md`.
+
 ## Current release: V23.2 — Somewhere in the Skies 2017 Podcast Integration
 
 See `PHASE4\_REFINEMENT2\_TIMELINE\_NORMALIZATION.md` for normalization and connection-count rules.
@@ -111,4 +115,4 @@ The complete 2017 Somewhere in the Skies release archive was ingested as 40 uniq
 The Somewhere in the Skies 2017 archive no longer uses retired Acast hosted-page URLs. Media destinations are now explicitly identified as exact episode links or official series-archive fallbacks. See `V23_4_SOMEWHERE_IN_THE_SKIES_OFFICIAL_MEDIA_LINK_RESTORATION.md`.
 
 ## V23.5A official-media architecture
-See `V23_5A_UNIVERSAL_PODCAST_OFFICIAL_MEDIA_ARCHITECTURE.md`. Current podcast records remain on the legacy-compatible path until V23.5B migration.
+See `V23_5A_UNIVERSAL_PODCAST_OFFICIAL_MEDIA_ARCHITECTURE.md`. V23.5B has now migrated the four production podcast collections while retaining legacy fields for compatibility and rollback.

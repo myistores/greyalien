@@ -1,7 +1,7 @@
 {
   "id": "2025-weaponized-episode-79",
   "type": "podcast_episode",
-  "name": "WEAPONIZED Episode #79 \u2014 The Large Disc UAP Video",
+  "name": "WEAPONIZED Episode #79 — The Large Disc UAP Video",
   "summary": "The hosts discuss renewed claims that UFO reports stem from government deception and release military-sensor video described as showing a large disc-shaped UAP moving through cloud cover over a conflict zone.",
   "date": "2025-06-17",
   "dateDisplay": "June 17, 2025",
@@ -86,5 +86,75 @@
       "sourceType": "official_audio_feed",
       "role": "source"
     }
-  ]
+  ],
+  "officialMedia": [
+    {
+      "_field": "mediaLinks",
+      "_index": 0,
+      "platform": "Official website",
+      "url": "https://www.weaponizedpodcast.com/episodes-3/episode-79",
+      "destinationType": "episode",
+      "mediaType": "web_page",
+      "official": true,
+      "verified": true,
+      "verificationStatus": "verified",
+      "preferredRank": 1,
+      "label": "Open Official Episode Page",
+      "approved": true,
+      "published": true,
+      "migrationProvenance": {
+        "release": "V23.5B",
+        "legacyField": "mediaLinks",
+        "legacyIndex": 0,
+        "legacyLabel": "Open the official Episode #79 page"
+      },
+      "migrationProvenanceMerged": [
+        {
+          "release": "V23.5B",
+          "legacyField": "referenceSources",
+          "legacyIndex": 0,
+          "legacyLabel": "Official WEAPONIZED Episode #79 page"
+        }
+      ]
+    },
+    {
+      "_field": "mediaLinks",
+      "_index": 1,
+      "platform": "RSS",
+      "url": "https://link.chtbl.com/Weaponized",
+      "destinationType": "series",
+      "mediaType": "audio",
+      "official": true,
+      "verified": true,
+      "verificationStatus": "verified",
+      "preferredRank": 6,
+      "label": "Browse Official Podcast Archive",
+      "approved": true,
+      "published": true,
+      "migrationProvenance": {
+        "release": "V23.5B",
+        "legacyField": "mediaLinks",
+        "legacyIndex": 1,
+        "legacyLabel": "Listen to WEAPONIZED"
+      },
+      "migrationProvenanceMerged": [
+        {
+          "release": "V23.5B",
+          "legacyField": "referenceSources",
+          "legacyIndex": 1,
+          "legacyLabel": "Listen to WEAPONIZED"
+        }
+      ]
+    }
+  ],
+  "mediaMigration": {
+    "release": "V23.5B",
+    "status": "approved",
+    "legacyFieldsPreserved": true,
+    "legacyUrlCount": 4,
+    "mediaRecordCount": 2,
+    "duplicateCanonicalUrlsSuppressed": 2,
+    "preferredCanonicalUrl": "https://weaponizedpodcast.com/episodes-3/episode-79",
+    "preferredLabel": "Open Official Episode Page"
+  }
 }

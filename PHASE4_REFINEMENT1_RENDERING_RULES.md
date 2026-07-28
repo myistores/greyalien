@@ -1,3 +1,7 @@
+## V23.5B Official Media activation
+
+Migrated podcast entities render compact destination-aware Official Media controls. Direct episode links precede series, playlist, channel, and feed fallbacks; canonical duplicate URLs are suppressed; inactive or unapproved records remain hidden.
+
 # V17.4 — Phase 4 Refinement 1: Rendering Rules
 
 V17.4 formalizes the first rendering rule uncovered during live testing of the automation engine.

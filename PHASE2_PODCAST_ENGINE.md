@@ -1,3 +1,7 @@
+## V23.5B production migration
+
+The universal official-media model is active for all currently ingested production podcast records. Legacy fields remain compatibility-only inputs and rollback sources; migrated `officialMedia` collections are authoritative for rendering and preferred-link resolution.
+
 # V17.1 — Phase 2: Podcast Engine
 
 ## Purpose

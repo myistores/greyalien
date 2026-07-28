@@ -1,3 +1,7 @@
+## V23.5B — Existing Podcast Official Media Migration
+
+Migrated 257 podcast episodes and four series entities to the universal official-media collection. Preserved all legacy fields, corrected destination labels, activated preferred-link resolution, suppressed 467 duplicate legacy URL occurrences, and verified zero unauthorized non-media changes.
+
 # V23.2 — Somewhere in the Skies 2017 Podcast Integration
 
 - Added 40 unique Somewhere in the Skies releases published in 2017: 36 numbered episodes and four non-numbered feed releases.

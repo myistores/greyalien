@@ -1,3 +1,7 @@
+## V23.5B podcast media reconciliation
+
+The controlled migration inventoried 958 legacy URL occurrences and created 491 canonical official-media records across 261 entities. Broad live-link research was intentionally deferred to V23.5C.
+
 # GreyAlien Media Audit — Version 14.2
 
 | Interview | Platform | Host | Direct link | Alternatives |

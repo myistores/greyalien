@@ -78,5 +78,67 @@
       "sourceType": "podcast_platform_episode",
       "role": "source"
     }
-  ]
+  ],
+  "officialMedia": [
+    {
+      "_field": "mediaLinks",
+      "_index": 1,
+      "platform": "YouTube",
+      "url": "https://www.youtube.com/@merged_podcast/search?query=Merged+Podcast+EP+7+Curt+Jaimungal",
+      "destinationType": "series",
+      "mediaType": "web_page",
+      "official": true,
+      "verified": true,
+      "verificationStatus": "verified",
+      "preferredRank": 6,
+      "label": "Browse Official Series Archive",
+      "approved": true,
+      "published": true,
+      "migrationProvenance": {
+        "release": "V23.5B",
+        "legacyField": "mediaLinks",
+        "legacyIndex": 1,
+        "legacyLabel": "Find MERGED Episode #7 on the official YouTube channel"
+      }
+    },
+    {
+      "_field": "mediaLinks",
+      "_index": 0,
+      "platform": "iVoox",
+      "url": "https://www.ivoox.com/en/exploring-theories-of-uap-ufos-consciousness-and-physics-audios-mp3_rf_105853901_1.html",
+      "destinationType": "series",
+      "mediaType": "web_page",
+      "official": true,
+      "verified": true,
+      "verificationStatus": "verified",
+      "preferredRank": 6,
+      "label": "Browse Official Series Archive",
+      "approved": true,
+      "published": true,
+      "migrationProvenance": {
+        "release": "V23.5B",
+        "legacyField": "mediaLinks",
+        "legacyIndex": 0,
+        "legacyLabel": "Listen to MERGED Episode #7"
+      },
+      "migrationProvenanceMerged": [
+        {
+          "release": "V23.5B",
+          "legacyField": "referenceSources",
+          "legacyIndex": 0,
+          "legacyLabel": "MERGED Episode #7 on iVoox"
+        }
+      ]
+    }
+  ],
+  "mediaMigration": {
+    "release": "V23.5B",
+    "status": "approved",
+    "legacyFieldsPreserved": true,
+    "legacyUrlCount": 3,
+    "mediaRecordCount": 2,
+    "duplicateCanonicalUrlsSuppressed": 1,
+    "preferredCanonicalUrl": "https://youtube.com/@merged_podcast/search?query=Merged+Podcast+EP+7+Curt+Jaimungal",
+    "preferredLabel": "Browse Official Series Archive"
+  }
 }

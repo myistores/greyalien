@@ -1,7 +1,7 @@
 {
   "id": "2025-weaponized-episode-80",
   "type": "podcast_episode",
-  "name": "WEAPONIZED Episode #80 \u2014 UFOs, Nuclear Weapons, and the Wall Street Journal",
+  "name": "WEAPONIZED Episode #80 — UFOs, Nuclear Weapons, and the Wall Street Journal",
   "summary": "Jeremy Corbell and George Knapp, joined by Robert Hastings and Marik von Rennenkampff, rebut Wall Street Journal reporting about UFO history and examine longstanding reports of UAP activity near nuclear weapons sites.",
   "date": "2025-06-24",
   "dateDisplay": "June 24, 2025",
@@ -105,5 +105,75 @@
       "sourceType": "official_audio_feed",
       "role": "source"
     }
-  ]
+  ],
+  "officialMedia": [
+    {
+      "_field": "mediaLinks",
+      "_index": 0,
+      "platform": "Official website",
+      "url": "https://www.weaponizedpodcast.com/episodes-3/episode-80",
+      "destinationType": "episode",
+      "mediaType": "web_page",
+      "official": true,
+      "verified": true,
+      "verificationStatus": "verified",
+      "preferredRank": 1,
+      "label": "Open Official Episode Page",
+      "approved": true,
+      "published": true,
+      "migrationProvenance": {
+        "release": "V23.5B",
+        "legacyField": "mediaLinks",
+        "legacyIndex": 0,
+        "legacyLabel": "Open the official Episode #80 page"
+      },
+      "migrationProvenanceMerged": [
+        {
+          "release": "V23.5B",
+          "legacyField": "referenceSources",
+          "legacyIndex": 0,
+          "legacyLabel": "Official WEAPONIZED Episode #80 page"
+        }
+      ]
+    },
+    {
+      "_field": "mediaLinks",
+      "_index": 1,
+      "platform": "RSS",
+      "url": "https://link.chtbl.com/Weaponized",
+      "destinationType": "series",
+      "mediaType": "audio",
+      "official": true,
+      "verified": true,
+      "verificationStatus": "verified",
+      "preferredRank": 6,
+      "label": "Browse Official Podcast Archive",
+      "approved": true,
+      "published": true,
+      "migrationProvenance": {
+        "release": "V23.5B",
+        "legacyField": "mediaLinks",
+        "legacyIndex": 1,
+        "legacyLabel": "Listen to WEAPONIZED"
+      },
+      "migrationProvenanceMerged": [
+        {
+          "release": "V23.5B",
+          "legacyField": "referenceSources",
+          "legacyIndex": 1,
+          "legacyLabel": "Listen to WEAPONIZED"
+        }
+      ]
+    }
+  ],
+  "mediaMigration": {
+    "release": "V23.5B",
+    "status": "approved",
+    "legacyFieldsPreserved": true,
+    "legacyUrlCount": 4,
+    "mediaRecordCount": 2,
+    "duplicateCanonicalUrlsSuppressed": 2,
+    "preferredCanonicalUrl": "https://weaponizedpodcast.com/episodes-3/episode-80",
+    "preferredLabel": "Open Official Episode Page"
+  }
 }

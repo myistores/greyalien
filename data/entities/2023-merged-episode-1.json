@@ -1,7 +1,7 @@
 {
   "id": "2023-merged-episode-1",
   "type": "podcast_episode",
-  "name": "MERGED Episode #1 \u2014 Interview with Dr. Garry Nolan",
+  "name": "MERGED Episode #1 — Interview with Dr. Garry Nolan",
   "summary": "Ryan Graves launches the MERGED interview series with Stanford professor Garry Nolan for a science-first discussion of UAP evidence, research methods, possible biological and technological implications, and the need for rigorous multidisciplinary investigation.",
   "date": "2023-01-10",
   "dateDisplay": "January 10, 2023",
@@ -87,16 +87,86 @@
   "officialLinks": [],
   "referenceSources": [
     {
-      "label": "Official MERGED Episode #1 page \u2014 Interview with Dr. Garry Nolan",
+      "label": "Official MERGED Episode #1 page — Interview with Dr. Garry Nolan",
       "url": "https://www.mergedpodcast.com/episodes/interview-garry-nolan",
       "sourceType": "official_episode_page",
       "role": "source"
     },
     {
-      "label": "Official MERGED Episode #1 video \u2014 How UAP Could Change Science Forever",
+      "label": "Official MERGED Episode #1 video — How UAP Could Change Science Forever",
       "url": "https://www.youtube.com/watch?v=rx2x_w5wimk",
       "sourceType": "official_episode_video",
       "role": "source"
     }
-  ]
+  ],
+  "officialMedia": [
+    {
+      "_field": "mediaLinks",
+      "_index": 0,
+      "platform": "Official website",
+      "url": "https://www.mergedpodcast.com/episodes/interview-garry-nolan",
+      "destinationType": "episode",
+      "mediaType": "web_page",
+      "official": true,
+      "verified": true,
+      "verificationStatus": "verified",
+      "preferredRank": 1,
+      "label": "Open Official Episode Page",
+      "approved": true,
+      "published": true,
+      "migrationProvenance": {
+        "release": "V23.5B",
+        "legacyField": "mediaLinks",
+        "legacyIndex": 0,
+        "legacyLabel": "Open the official MERGED Episode #1 page"
+      },
+      "migrationProvenanceMerged": [
+        {
+          "release": "V23.5B",
+          "legacyField": "referenceSources",
+          "legacyIndex": 0,
+          "legacyLabel": "Official MERGED Episode #1 page — Interview with Dr. Garry Nolan"
+        }
+      ]
+    },
+    {
+      "_field": "mediaLinks",
+      "_index": 1,
+      "platform": "YouTube",
+      "url": "https://www.youtube.com/watch?v=rx2x_w5wimk",
+      "destinationType": "episode",
+      "mediaType": "video",
+      "official": true,
+      "verified": true,
+      "verificationStatus": "verified",
+      "preferredRank": 2,
+      "label": "Watch on YouTube",
+      "approved": true,
+      "published": true,
+      "migrationProvenance": {
+        "release": "V23.5B",
+        "legacyField": "mediaLinks",
+        "legacyIndex": 1,
+        "legacyLabel": "Watch MERGED Episode #1 on YouTube"
+      },
+      "migrationProvenanceMerged": [
+        {
+          "release": "V23.5B",
+          "legacyField": "referenceSources",
+          "legacyIndex": 1,
+          "legacyLabel": "Official MERGED Episode #1 video — How UAP Could Change Science Forever"
+        }
+      ]
+    }
+  ],
+  "mediaMigration": {
+    "release": "V23.5B",
+    "status": "approved",
+    "legacyFieldsPreserved": true,
+    "legacyUrlCount": 4,
+    "mediaRecordCount": 2,
+    "duplicateCanonicalUrlsSuppressed": 2,
+    "preferredCanonicalUrl": "https://mergedpodcast.com/episodes/interview-garry-nolan",
+    "preferredLabel": "Open Official Episode Page"
+  }
 }

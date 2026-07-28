@@ -84,5 +84,75 @@
       "sourceType": "official_episode_video",
       "role": "source"
     }
-  ]
+  ],
+  "officialMedia": [
+    {
+      "_field": "mediaLinks",
+      "_index": 1,
+      "platform": "YouTube",
+      "url": "https://www.youtube.com/watch?v=Wj334dvxZU4",
+      "destinationType": "episode",
+      "mediaType": "video",
+      "official": true,
+      "verified": true,
+      "verificationStatus": "verified",
+      "preferredRank": 2,
+      "label": "Watch on YouTube",
+      "approved": true,
+      "published": true,
+      "migrationProvenance": {
+        "release": "V23.5B",
+        "legacyField": "mediaLinks",
+        "legacyIndex": 1,
+        "legacyLabel": "Watch MERGED Episode #4 on YouTube"
+      },
+      "migrationProvenanceMerged": [
+        {
+          "release": "V23.5B",
+          "legacyField": "referenceSources",
+          "legacyIndex": 1,
+          "legacyLabel": "Official MERGED Episode #4 video"
+        }
+      ]
+    },
+    {
+      "_field": "mediaLinks",
+      "_index": 0,
+      "platform": "iVoox",
+      "url": "https://www.ivoox.com/en/pilot-breaks-the-silence-on-uap-encounters-audios-mp3_rf_103091479_1.html",
+      "destinationType": "series",
+      "mediaType": "web_page",
+      "official": true,
+      "verified": true,
+      "verificationStatus": "verified",
+      "preferredRank": 6,
+      "label": "Browse Official Series Archive",
+      "approved": true,
+      "published": true,
+      "migrationProvenance": {
+        "release": "V23.5B",
+        "legacyField": "mediaLinks",
+        "legacyIndex": 0,
+        "legacyLabel": "Listen to MERGED Episode #4"
+      },
+      "migrationProvenanceMerged": [
+        {
+          "release": "V23.5B",
+          "legacyField": "referenceSources",
+          "legacyIndex": 0,
+          "legacyLabel": "MERGED Episode #4 on iVoox"
+        }
+      ]
+    }
+  ],
+  "mediaMigration": {
+    "release": "V23.5B",
+    "status": "approved",
+    "legacyFieldsPreserved": true,
+    "legacyUrlCount": 4,
+    "mediaRecordCount": 2,
+    "duplicateCanonicalUrlsSuppressed": 2,
+    "preferredCanonicalUrl": "https://youtube.com/watch?v=Wj334dvxZU4",
+    "preferredLabel": "Watch on YouTube"
+  }
 }

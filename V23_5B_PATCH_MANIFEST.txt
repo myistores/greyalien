@@ -1,0 +1,10 @@
+V23.5B Existing Podcast Official Media Migration
+Base: V23.5A
+Migrated entities: 261 (257 episodes, 4 series)
+Canonical official-media records: 491
+Duplicate legacy URL occurrences suppressed: 467
+Legacy fields removed: 0
+Unauthorized non-media changes: 0
+Primary release document: V23_5B_EXISTING_PODCAST_OFFICIAL_MEDIA_MIGRATION.md
+Reconciliation: data/migration/v23.5b/reconciliation.json
+Rollback manifest: data/migration/v23.5b/rollback-manifest.json

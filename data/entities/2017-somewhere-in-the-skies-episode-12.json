@@ -74,5 +74,46 @@
   ],
   "researchNotes": [
     "V23.4 media restoration: retired Acast URL removed; destination is explicitly classified as an exact episode page or a verified official series-archive fallback."
-  ]
+  ],
+  "officialMedia": [
+    {
+      "_field": "mediaLinks",
+      "_index": 0,
+      "platform": "Apple Podcasts",
+      "url": "https://podcasts.apple.com/us/podcast/somewhere-in-the-skies/id1227858637",
+      "destinationType": "series",
+      "mediaType": "audio",
+      "official": true,
+      "verified": true,
+      "verificationStatus": "verified",
+      "preferredRank": 6,
+      "label": "Browse Apple Podcasts Series Archive",
+      "approved": true,
+      "published": true,
+      "migrationProvenance": {
+        "release": "V23.5B",
+        "legacyField": "mediaLinks",
+        "legacyIndex": 0,
+        "legacyLabel": "Browse the official Apple Podcasts archive"
+      },
+      "migrationProvenanceMerged": [
+        {
+          "release": "V23.5B",
+          "legacyField": "referenceSources",
+          "legacyIndex": 0,
+          "legacyLabel": "Official Apple Podcasts series archive (episode-specific page unavailable)"
+        }
+      ]
+    }
+  ],
+  "mediaMigration": {
+    "release": "V23.5B",
+    "status": "approved",
+    "legacyFieldsPreserved": true,
+    "legacyUrlCount": 2,
+    "mediaRecordCount": 1,
+    "duplicateCanonicalUrlsSuppressed": 1,
+    "preferredCanonicalUrl": "https://podcasts.apple.com/us/podcast/somewhere-in-the-skies/id1227858637",
+    "preferredLabel": "Browse Apple Podcasts Series Archive"
+  }
 }

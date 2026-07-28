@@ -1,0 +1,75 @@
+{
+  "release": "V23.5B",
+  "seriesReports": {
+    "WEAPONIZED": {
+      "series_entities": 1,
+      "episode_entities": 123,
+      "legacy_urls": 497,
+      "media_records": 251,
+      "duplicates": 246,
+      "preferred_Official website": 123,
+      "episode": 128,
+      "series": 122,
+      "preferred_Apple Podcasts": 1,
+      "channel": 1
+    },
+    "Need to Know": {
+      "series_entities": 1,
+      "episode_entities": 75,
+      "legacy_urls": 304,
+      "media_records": 154,
+      "duplicates": 150,
+      "preferred_YouTube": 75,
+      "episode": 75,
+      "playlist": 76,
+      "preferred_Apple Podcasts": 1,
+      "series": 2,
+      "channel": 1
+    },
+    "MERGED": {
+      "series_entities": 1,
+      "episode_entities": 19,
+      "legacy_urls": 73,
+      "media_records": 42,
+      "duplicates": 31,
+      "preferred_YouTube": 18,
+      "series": 28,
+      "series_fallbacks": 7,
+      "episode": 13,
+      "preferred_Official website": 1,
+      "preferred_Apple Podcasts": 1,
+      "channel": 1
+    },
+    "Somewhere in the Skies": {
+      "series_entities": 1,
+      "episode_entities": 40,
+      "legacy_urls": 84,
+      "media_records": 44,
+      "duplicates": 40,
+      "preferred_Apple Podcasts": 38,
+      "series": 37,
+      "series_fallbacks": 34,
+      "episode": 6,
+      "preferred_Spotify": 3,
+      "channel": 1
+    }
+  },
+  "combined": {
+    "series_entities": 4,
+    "episode_entities": 257,
+    "legacy_urls": 958,
+    "media_records": 491,
+    "duplicates": 467,
+    "preferred_Official website": 124,
+    "episode": 222,
+    "series": 189,
+    "preferred_Apple Podcasts": 41,
+    "channel": 4,
+    "preferred_YouTube": 93,
+    "playlist": 76,
+    "series_fallbacks": 41,
+    "preferred_Spotify": 3
+  },
+  "nonMediaFieldChangeCount": 0,
+  "entityCount": 261
+}

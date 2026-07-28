@@ -1,12 +1,19 @@
 {
-  "version": "23.5A",
-  "title": "Universal Podcast Official Media Architecture",
+  "version": "V23.5B",
+  "title": "Existing Podcast Official Media Migration",
   "date": "2026-07-27",
-  "summary": "Added a backward-compatible official-media collection model, legacy adapters, preferred-destination resolution, compact rendering, approval safeguards, canonical URL deduplication, and live-capable validation without migrating or changing existing podcast media data.",
+  "summary": "Migrated 257 podcast episodes and 4 series entities to the universal Official Media collection, creating 491 canonical media records while preserving legacy fields and all non-media data.",
   "phase": "Architecture, compatibility, rendering, and validation release",
   "latestRelease": {
     "version": "V23.5A",
     "title": "Universal Podcast Official Media Architecture",
     "summary": "Added backward-compatible official-media collections, preferred resolution, compact rendering, approval safeguards, canonical deduplication, and live-capable validation without migrating existing links."
-  }
+  },
+  "highlights": [
+    "WEAPONIZED, Need to Know, MERGED, and Somewhere in the Skies migrated",
+    "Direct episode and series-level destinations accurately distinguished",
+    "467 duplicate legacy URL occurrences suppressed",
+    "Preferred-link resolver activated for migrated records",
+    "Zero unauthorized non-media changes detected"
+  ]
 }
