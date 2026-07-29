@@ -23,6 +23,7 @@ jobs:
   validate:
     runs-on: ubuntu-latest
     timeout-minutes: 180
+
     steps:
       - name: Check out repository
         uses: actions/checkout@v4
@@ -43,32 +44,89 @@ jobs:
         run: |
           test -f "$JOBS_PATH"
           python -m json.tool "$JOBS_PATH" >/dev/null
+
           python - <<'PY'
-          import json, os
-          path = os.environ['JOBS_PATH']
-          doc = json.load(open(path, encoding='utf-8'))
-          jobs = doc.get('jobs', [])
+          import json
+          import os
+
+          path = os.environ["JOBS_PATH"]
+
+          with open(path, encoding="utf-8") as handle:
+              document = json.load(handle)
+
+          jobs = document.get("jobs", [])
+
           if not jobs:
-              raise SystemExit('Validation inventory contains no jobs')
-          print(f'Prepared validation jobs: {len(jobs)}')
+              raise SystemExit("Validation inventory contains no jobs")
+
+          print(f"Prepared validation jobs: {len(jobs)}")
           PY
 
-      - name: Run live validation
+      - name: Prepare effective validation inventory
         env:
           JOBS_PATH: ${{ inputs.jobs_path }}
           JOB_LIMIT: ${{ inputs.job_limit }}
-          PYTHONUNBUFFERED: '1'
         run: |
           mkdir -p audit-artifact
-          if [ -n "$JOB_LIMIT" ]; then
-            LIMIT_ARGS="--limit $JOB_LIMIT"
-          else
-            LIMIT_ARGS=""
-          fi
+
+          python - <<'PY'
+          import json
+          import os
+          from pathlib import Path
+
+          source_path = Path(os.environ["JOBS_PATH"])
+          output_path = Path(
+              "audit-artifact/effective_validation_jobs.json"
+          )
+
+          with source_path.open(encoding="utf-8") as handle:
+              document = json.load(handle)
+
+          jobs = document.get("jobs", [])
+          raw_limit = os.environ.get("JOB_LIMIT", "").strip()
+
+          if raw_limit:
+              try:
+                  limit = int(raw_limit)
+              except ValueError as exc:
+                  raise SystemExit(
+                      "job_limit must be a whole number"
+                  ) from exc
+
+              if limit <= 0:
+                  raise SystemExit(
+                      "job_limit must be greater than zero"
+                  )
+
+              jobs = jobs[:limit]
+
+          if not jobs:
+              raise SystemExit(
+                  "Effective validation inventory contains no jobs"
+              )
+
+          effective_document = dict(document)
+          effective_document["jobs"] = jobs
+
+          output_path.write_text(
+              json.dumps(effective_document, indent=2) + "\n",
+              encoding="utf-8",
+          )
+
+          print(f"Effective validation jobs: {len(jobs)}")
+          print(f"Effective inventory: {output_path}")
+          PY
+
+          echo "EFFECTIVE_JOBS_PATH=audit-artifact/effective_validation_jobs.json" >> "$GITHUB_ENV"
+
+      - name: Run live validation
+        env:
+          PYTHONUNBUFFERED: '1'
+        run: |
           python tools/podcast_media_audit/run_enhanced_audit.py run \
-            --jobs "$JOBS_PATH" \
+            --jobs "$EFFECTIVE_JOBS_PATH" \
             --out audit-artifact \
-            $LIMIT_ARGS 2>&1 | tee audit-artifact/live_validation_run.log
+            2>&1 | tee audit-artifact/live_validation_run.log
 
       - name: Generate repair and series reports
         run: |
@@ -79,65 +137,133 @@ jobs:
 
       - name: Generate approval-gated transaction preview
         run: |
-          cp tools/podcast_media_audit/approvals.example.json audit-artifact/no_repairs_approved.json
-          python tools/podcast_media_audit/run_enhanced_audit.py transaction-preview \
+          cp \
+            tools/podcast_media_audit/approvals.example.json \
+            audit-artifact/no_repairs_approved.json
+
+          python tools/podcast_media_audit/run_enhanced_audit.py \
+            transaction-preview \
             --repo-root . \
             --proposals audit-artifact/repair_proposals.json \
             --approvals audit-artifact/no_repairs_approved.json \
             --out audit-artifact
 
       - name: Validate evidence structure and pipeline tests
-        env:
-          JOBS_PATH: ${{ inputs.jobs_path }}
         run: |
           python tools/podcast_media_audit/run_enhanced_audit.py validate \
-            --jobs "$JOBS_PATH" \
+            --jobs "$EFFECTIVE_JOBS_PATH" \
             --results audit-artifact/live_validation_results.json \
             --proposals audit-artifact/repair_proposals.json \
             --out audit-artifact \
             --result-schema tools/podcast_media_audit/schema/enhanced_validation_result.schema.json \
             --proposal-schema tools/podcast_media_audit/schema/repair_proposal.schema.json
-          PYTHONPATH=tools/podcast_media_audit python -m unittest discover \
-            -s tools/podcast_media_audit/tests -v | tee audit-artifact/unit_tests.log
+
+          PYTHONPATH=tools/podcast_media_audit \
+            python -m unittest discover \
+              -s tools/podcast_media_audit/tests \
+              -v \
+            2>&1 | tee audit-artifact/unit_tests.log
 
       - name: Record repository revision
+        if: always()
         run: |
+          mkdir -p audit-artifact
+
           python - <<'PY'
-          import json, os
+          import json
+          import os
           from datetime import datetime, timezone
-          out = {
-              'repository': os.environ.get('GITHUB_REPOSITORY'),
-              'sha': os.environ.get('GITHUB_SHA'),
-              'workflowRunId': os.environ.get('GITHUB_RUN_ID'),
-              'generatedAt': datetime.now(timezone.utc).isoformat().replace('+00:00', 'Z')
+          from pathlib import Path
+
+          output = {
+              "repository": os.environ.get("GITHUB_REPOSITORY"),
+              "sha": os.environ.get("GITHUB_SHA"),
+              "workflowRunId": os.environ.get("GITHUB_RUN_ID"),
+              "workflowRunAttempt": os.environ.get(
+                  "GITHUB_RUN_ATTEMPT"
+              ),
+              "generatedAt": datetime.now(
+                  timezone.utc
+              ).isoformat().replace("+00:00", "Z"),
           }
-          json.dump(out, open('audit-artifact/repository_revision.json', 'w'), indent=2)
+
+          Path(
+              "audit-artifact/repository_revision.json"
+          ).write_text(
+              json.dumps(output, indent=2) + "\n",
+              encoding="utf-8",
+          )
           PY
 
       - name: Build operator summary
+        if: always()
         run: |
+          mkdir -p audit-artifact
+
           python - <<'PY'
           import json
-          s = json.load(open('audit-artifact/live_validation_summary.json'))
+          from pathlib import Path
+
+          summary_path = Path(
+              "audit-artifact/live_validation_summary.json"
+          )
+          output_path = Path(
+              "audit-artifact/V23_5C_2B_RUN_SUMMARY.md"
+          )
+
+          if not summary_path.exists():
+              output_path.write_text(
+                  "# V23.5C.2B Live Validation Run\n\n"
+                  "- The workflow did not produce "
+                  "`live_validation_summary.json`.\n"
+                  "- Review `live_validation_run.log` and the GitHub "
+                  "Actions step logs for the failure point.\n",
+                  encoding="utf-8",
+              )
+              raise SystemExit(0)
+
+          with summary_path.open(encoding="utf-8") as handle:
+              summary = json.load(handle)
+
           lines = [
-              '# V23.5C.2B Live Validation Run',
-              '',
-              f"- Total jobs: {s.get('totalJobs', 0)}",
-              f"- Repair proposals: {s.get('repairProposals', 0)}",
-              f"- Automatically approvable: {s.get('automaticApprovals', 0)}",
-              f"- Human review: {s.get('humanReviewItems', 0)}",
-              '',
-              '## Status totals',
+              "# V23.5C.2B Live Validation Run",
+              "",
+              f"- Total jobs: {summary.get('totalJobs', 0)}",
+              (
+                  "- Repair proposals: "
+                  f"{summary.get('repairProposals', 0)}"
+              ),
+              (
+                  "- Automatically approvable: "
+                  f"{summary.get('automaticApprovals', 0)}"
+              ),
+              (
+                  "- Human review: "
+                  f"{summary.get('humanReviewItems', 0)}"
+              ),
+              "",
+              "## Status totals",
           ]
-          for key, value in sorted(s.get('statuses', {}).items()):
-              lines.append(f'- {key}: {value}')
-          open('audit-artifact/V23_5C_2B_RUN_SUMMARY.md', 'w').write('\n'.join(lines) + '\n')
+
+          statuses = summary.get("statuses", {})
+
+          if statuses:
+              for key, value in sorted(statuses.items()):
+                  lines.append(f"- {key}: {value}")
+          else:
+              lines.append("- No status totals were recorded.")
+
+          output_path.write_text(
+              "\n".join(lines) + "\n",
+              encoding="utf-8",
+          )
           PY
 
       - name: Upload live-validation evidence
+        if: always()
         uses: actions/upload-artifact@v4
         with:
           name: V23.5C.2B-live-podcast-media-validation-evidence
           path: audit-artifact/
-          if-no-files-found: error
+          if-no-files-found: warn
           retention-days: 30
