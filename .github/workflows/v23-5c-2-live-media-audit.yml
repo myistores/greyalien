@@ -1,0 +1,456 @@
+name: V23.5C.2 Live Podcast Media Audit
+
+on:
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+concurrency:
+  group: v23-5c-2-live-podcast-media-audit
+  cancel-in-progress: false
+
+jobs:
+  live-media-audit:
+    name: Execute V23.5C.1 Prepared Validation Jobs
+    runs-on: ubuntu-latest
+    timeout-minutes: 180
+
+    env:
+      PYTHONUNBUFFERED: "1"
+      JOB_FILE: data/media-audit/v23.5c.1/jobs/validation_jobs.json
+      RESULT_FILE: data/media-audit/v23.5c.1/results/live_validation_results.json
+      LOG_FILE: data/media-audit/v23.5c.1/results/live_validation_run.log
+      SUMMARY_FILE: data/media-audit/v23.5c.1/results/live_validation_summary.json
+
+    steps:
+      - name: Check out GreyAlien repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Display execution environment
+        shell: bash
+        run: |
+          set -euo pipefail
+
+          echo "Repository: $GITHUB_REPOSITORY"
+          echo "Branch or ref: $GITHUB_REF"
+          echo "Commit: $GITHUB_SHA"
+          echo "Runner operating system: $RUNNER_OS"
+
+          python --version
+          pwd
+
+      - name: Verify V23.5C.1 audit files
+        shell: bash
+        run: |
+          set -euo pipefail
+
+          echo "Verifying the audit engine..."
+          test -f tools/audit_podcast_media.py
+
+          echo "Verifying the prepared validation-job inventory..."
+          test -f "$JOB_FILE"
+
+          echo "Verifying that the job inventory is valid JSON..."
+          python - <<'PY'
+          import json
+          import os
+          from pathlib import Path
+
+          job_file = Path(os.environ["JOB_FILE"])
+          data = json.loads(job_file.read_text(encoding="utf-8"))
+
+          jobs = data.get("jobs")
+
+          if not isinstance(jobs, list):
+              raise SystemExit(
+                  "validation_jobs.json does not contain a valid jobs array."
+              )
+
+          if not jobs:
+              raise SystemExit(
+                  "validation_jobs.json contains no validation jobs."
+              )
+
+          required_fields = {
+              "jobId",
+              "initialUrl",
+              "normalizedUrl",
+              "seriesId",
+              "entityId",
+          }
+
+          invalid_jobs = []
+
+          for index, job in enumerate(jobs):
+              missing = sorted(
+                  field
+                  for field in required_fields
+                  if not job.get(field)
+              )
+
+              if missing:
+                  invalid_jobs.append(
+                      {
+                          "index": index,
+                          "jobId": job.get("jobId"),
+                          "missing": missing,
+                      }
+                  )
+
+          if invalid_jobs:
+              print(json.dumps(invalid_jobs[:20], indent=2))
+              raise SystemExit(
+                  f"{len(invalid_jobs)} validation job(s) are invalid."
+              )
+
+          unique_job_ids = {
+              job["jobId"]
+              for job in jobs
+          }
+
+          if len(unique_job_ids) != len(jobs):
+              raise SystemExit(
+                  "The validation-job inventory contains duplicate job IDs."
+              )
+
+          print(f"Prepared validation jobs: {len(jobs)}")
+          print(f"Unique job IDs: {len(unique_job_ids)}")
+          print(f"Inventory version: {data.get('version')}")
+          PY
+
+      - name: Test outbound network access
+        shell: bash
+        run: |
+          set -euo pipefail
+
+          python - <<'PY'
+          import socket
+          import ssl
+          import urllib.request
+
+          hosts = [
+              "www.youtube.com",
+              "podcasts.apple.com",
+              "open.spotify.com",
+          ]
+
+          for host in hosts:
+              addresses = socket.getaddrinfo(
+                  host,
+                  443,
+                  type=socket.SOCK_STREAM,
+              )
+
+              resolved = sorted(
+                  {
+                      address[4][0]
+                      for address in addresses
+                  }
+              )
+
+              print(
+                  f"{host}: DNS resolved to "
+                  f"{', '.join(resolved[:5])}"
+              )
+
+          context = ssl.create_default_context()
+
+          request = urllib.request.Request(
+              "https://www.youtube.com/",
+              headers={
+                  "User-Agent": (
+                      "Mozilla/5.0 "
+                      "(compatible; GreyAlienMediaAuditor/1.0)"
+                  )
+              },
+          )
+
+          with urllib.request.urlopen(
+              request,
+              timeout=30,
+              context=context,
+          ) as response:
+              print(
+                  "HTTPS test completed: "
+                  f"{response.status} {response.geturl()}"
+              )
+          PY
+
+      - name: Prepare result directory
+        shell: bash
+        run: |
+          set -euo pipefail
+
+          mkdir -p "$(dirname "$RESULT_FILE")"
+
+          rm -f "$RESULT_FILE"
+          rm -f "$LOG_FILE"
+          rm -f "$SUMMARY_FILE"
+
+      - name: Execute all live validation jobs
+        id: live_audit
+        shell: bash
+        run: |
+          set -o pipefail
+
+          echo "Starting the V23.5C.2 live media-audit run..."
+          echo "Job inventory: $JOB_FILE"
+          echo "Result destination: $RESULT_FILE"
+          echo
+
+          python tools/audit_podcast_media.py \
+            --live \
+            --job-file "$JOB_FILE" \
+            2>&1 | tee "$LOG_FILE"
+
+          AUDIT_EXIT_CODE=${PIPESTATUS[0]}
+
+          echo
+          echo "Audit process exit code: $AUDIT_EXIT_CODE"
+
+          exit "$AUDIT_EXIT_CODE"
+
+      - name: Validate generated results
+        if: always()
+        shell: bash
+        run: |
+          set -euo pipefail
+
+          python - <<'PY'
+          import json
+          import os
+          from collections import Counter
+          from pathlib import Path
+
+          job_file = Path(os.environ["JOB_FILE"])
+          result_file = Path(os.environ["RESULT_FILE"])
+          summary_file = Path(os.environ["SUMMARY_FILE"])
+
+          if not result_file.exists():
+              raise SystemExit(
+                  f"The audit did not create {result_file}."
+              )
+
+          jobs_data = json.loads(
+              job_file.read_text(encoding="utf-8")
+          )
+
+          result_data = json.loads(
+              result_file.read_text(encoding="utf-8")
+          )
+
+          jobs = jobs_data.get("jobs", [])
+          results = result_data.get("results", [])
+
+          if not isinstance(results, list):
+              raise SystemExit(
+                  "The result file does not contain a valid results array."
+              )
+
+          expected_job_ids = {
+              job["jobId"]
+              for job in jobs
+          }
+
+          returned_job_ids = [
+              result.get("jobId")
+              for result in results
+          ]
+
+          returned_job_id_set = {
+              job_id
+              for job_id in returned_job_ids
+              if job_id
+          }
+
+          duplicate_result_ids = sorted(
+              job_id
+              for job_id, count in Counter(
+                  returned_job_ids
+              ).items()
+              if job_id and count > 1
+          )
+
+          unknown_job_ids = sorted(
+              returned_job_id_set - expected_job_ids
+          )
+
+          missing_job_ids = sorted(
+              expected_job_ids - returned_job_id_set
+          )
+
+          statuses = Counter(
+              result.get(
+                  "finalValidationStatus",
+                  "missing_status",
+              )
+              for result in results
+          )
+
+          http_statuses = Counter(
+              str(result.get("httpStatus"))
+              for result in results
+          )
+
+          summary = {
+              "schemaVersion": result_data.get(
+                  "schemaVersion"
+              ),
+              "expectedJobs": len(jobs),
+              "returnedResults": len(results),
+              "uniqueReturnedJobIds": len(
+                  returned_job_id_set
+              ),
+              "validationStatuses": dict(
+                  sorted(statuses.items())
+              ),
+              "httpStatuses": dict(
+                  sorted(http_statuses.items())
+              ),
+              "missingJobCount": len(missing_job_ids),
+              "unknownJobCount": len(unknown_job_ids),
+              "duplicateResultJobIdCount": len(
+                  duplicate_result_ids
+              ),
+              "missingJobIds": missing_job_ids,
+              "unknownJobIds": unknown_job_ids,
+              "duplicateResultJobIds": (
+                  duplicate_result_ids
+              ),
+          }
+
+          summary_file.write_text(
+              json.dumps(
+                  summary,
+                  indent=2,
+                  ensure_ascii=False,
+              )
+              + "\n",
+              encoding="utf-8",
+          )
+
+          print(json.dumps(summary, indent=2))
+
+          errors = []
+
+          if not results:
+              errors.append(
+                  "No live validation results were produced."
+              )
+
+          if len(results) != len(jobs):
+              errors.append(
+                  "The number of results does not match "
+                  "the number of prepared jobs."
+              )
+
+          if missing_job_ids:
+              errors.append(
+                  f"{len(missing_job_ids)} prepared job(s) "
+                  "have no result."
+              )
+
+          if unknown_job_ids:
+              errors.append(
+                  f"{len(unknown_job_ids)} result(s) reference "
+                  "unknown job IDs."
+              )
+
+          if duplicate_result_ids:
+              errors.append(
+                  f"{len(duplicate_result_ids)} job ID(s) "
+                  "appear more than once in the results."
+              )
+
+          if errors:
+              for error in errors:
+                  print(f"ERROR: {error}")
+
+              raise SystemExit(
+                  "The generated result package failed "
+                  "completeness validation."
+              )
+
+          print(
+              "The live result package passed structural "
+              "and completeness validation."
+          )
+          PY
+
+      - name: Add audit summary to workflow page
+        if: always()
+        shell: bash
+        run: |
+          {
+            echo "## V23.5C.2 Live Podcast Media Audit"
+            echo
+
+            if [ -f "$SUMMARY_FILE" ]; then
+              python - <<'PY'
+          import json
+          import os
+          from pathlib import Path
+
+          summary = json.loads(
+              Path(
+                  os.environ["SUMMARY_FILE"]
+              ).read_text(encoding="utf-8")
+          )
+
+          print(
+              f"- Prepared jobs: "
+              f"{summary.get('expectedJobs', 0)}"
+          )
+          print(
+              f"- Results returned: "
+              f"{summary.get('returnedResults', 0)}"
+          )
+          print(
+              f"- Missing jobs: "
+              f"{summary.get('missingJobCount', 0)}"
+          )
+          print(
+              f"- Unknown jobs: "
+              f"{summary.get('unknownJobCount', 0)}"
+          )
+          print(
+              f"- Duplicate result IDs: "
+              f"{summary.get('duplicateResultJobIdCount', 0)}"
+          )
+          print()
+          print("### Result statuses")
+
+          for status, count in (
+              summary.get(
+                  "validationStatuses",
+                  {}
+              ).items()
+          ):
+              print(f"- `{status}`: {count}")
+          PY
+            else
+              echo "- No validation summary was generated."
+            fi
+          } >> "$GITHUB_STEP_SUMMARY"
+
+      - name: Upload live audit evidence
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: v23-5c-2-live-podcast-media-audit-${{ github.run_number }}
+          path: |
+            data/media-audit/v23.5c.1/results/live_validation_results.json
+            data/media-audit/v23.5c.1/results/live_validation_summary.json
+            data/media-audit/v23.5c.1/results/live_validation_run.log
+            data/media-audit/v23.5c.1/jobs/validation_jobs.json
+            data/media-audit/v23.5c.1/validator_metadata.json
+            data/media-audit/v23.5c.1/schema/validation_result.schema.json
+          if-no-files-found: warn
+          retention-days: 30
+          compression-level: 6
