@@ -37,3 +37,7 @@ No existing media URL, episode, classification, relationship, chronology, gatewa
 
 ## Data-preservation fingerprint
 Pre-build podcast entity corpus SHA-256: `1220b3eede19fcbce5a9e6c40e7e5486ae308e18c49e725df150aa5a39fe7629`. The same fingerprint is verified during release validation.
+
+
+## V23.5C.2A.1 compatibility repair
+The public layer now consumes the universal collection through `assets/js/podcast-official-media.js` before suppressing legacy rendering. Mixed migration states combine universal and legacy records, deduplicate canonical destinations, and expose one preferred action plus eligible alternates.

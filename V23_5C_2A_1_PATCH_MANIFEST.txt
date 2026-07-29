@@ -1,0 +1,26 @@
+V23.5C.2A.1 — Podcast Official Media Link Rendering Restoration
+
+Modified rendering/compatibility files:
+- assets/js/podcast-official-media.js
+- assets/js/entity-engine.js
+- assets/js/somewhere-in-the-skies-gateway.js
+- assets/js/podcast-directory.js
+- entities/entity.html
+- categories/somewhere-in-the-skies.html
+- categories/podcasts.html
+- style.css
+
+Added validation/reporting/documentation:
+- tools/validate_v23_5c2a1.py
+- reports/v23.5c.2a.1/*
+- V23_5C_2A_1_PODCAST_OFFICIAL_MEDIA_LINK_RENDERING_RESTORATION.md
+- V23_5C_2A_1_PATCH_MANIFEST.txt
+
+Release visibility/documentation updates:
+- README.md
+- CHANGELOG.md
+- MEDIA_AUDIT.md
+- V23_5A_UNIVERSAL_PODCAST_OFFICIAL_MEDIA_ARCHITECTURE.md
+- index.html
+
+Data changes: NONE

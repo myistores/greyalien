@@ -1,3 +1,7 @@
+## V23.5C.2A.1 — Podcast Official Media Link Rendering Restoration
+
+Restores public podcast media actions by reconnecting the V23.5A compatibility helper to entity, series-directory, and gateway renderers. Adds mixed-state legacy compatibility and permanent rendering regression detection without changing podcast or knowledge-graph data. See `V23_5C_2A_1_PODCAST_OFFICIAL_MEDIA_LINK_RENDERING_RESTORATION.md`.
+
 ## Current release — V23.5B
 
 All existing WEAPONIZED, Need to Know, MERGED, and Somewhere in the Skies podcast records now use the V23.5A universal Official Media collection while retaining legacy media fields for compatibility and rollback. See `V23_5B_EXISTING_PODCAST_OFFICIAL_MEDIA_MIGRATION.md`.

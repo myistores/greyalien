@@ -1,3 +1,11 @@
+# V23.5C.2A.1 — 2026-07-29
+
+- Restored visible official podcast media actions across episode pages, series pages, the podcast directory, and the Somewhere in the Skies gateway.
+- Loaded the V23.5A universal media compatibility helper before the entity renderer.
+- Added simultaneous support for `officialMedia`, `official_media`, and preserved legacy fields with canonical duplicate suppression.
+- Added preferred-media rendering and a permanent failure test for eligible media with no public action.
+- Preserved all official media URLs and all knowledge-graph data.
+
 ## V23.5B — Existing Podcast Official Media Migration
 
 Migrated 257 podcast episodes and four series entities to the universal official-media collection. Preserved all legacy fields, corrected destination labels, activated preferred-link resolution, suppressed 467 duplicate legacy URL occurrences, and verified zero unauthorized non-media changes.

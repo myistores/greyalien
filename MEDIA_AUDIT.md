@@ -21,3 +21,7 @@ Canonical URL comparison now covers tracking parameters, trailing slashes, HTTP/
 ## V23.5C.1 offline audit-engine preparation
 
 The universal podcast media audit is prepared under `data/media-audit/v23.5c.1/`. It covers WEAPONIZED, Need to Know, MERGED, and Somewhere in the Skies. The generated dataset contains 1,449 media occurrences and 491 unique validation jobs. Live HTTP status, redirects, soft-404 detection, and episode-identity confirmation remain explicitly `not_run` pending V23.5C.2.
+
+
+## V23.5C.2A.1 rendering restoration
+The audit data remains unchanged. Rendering diagnostics now verify that every eligible official-media record produces a visible public action. See `reports/v23.5c.2a.1/rendering_diagnostics.json`.

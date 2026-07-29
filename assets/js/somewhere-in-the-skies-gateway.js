@@ -13,7 +13,10 @@
     const response=await fetch("../data/podcasts/somewhere-in-the-skies-archive.json");
     if(!response.ok)throw new Error(`Archive returned ${response.status}`);
     const data=await response.json();
-    const episodes=Array.isArray(data.episodes)?data.episodes:[];
+    const episodesRaw=Array.isArray(data.episodes)?data.episodes:[];
+    const entityPairs=await Promise.all(episodesRaw.filter(ep=>ep.entityId).map(async ep=>{try{const r=await fetch(`../data/entities/${encodeURIComponent(ep.entityId)}.json`);return [ep.entityId,r.ok?await r.json():null]}catch{return [ep.entityId,null]}}));
+    const entityMap=Object.fromEntries(entityPairs);
+    const episodes=episodesRaw;
     const topicMap=Object.fromEntries((data.topics||[]).map(t=>[t.id,t]));
     const pageSize=data.pageSize||25;
 
@@ -82,7 +85,9 @@
         const guests=(ep.guests||[]).join(", ")||ep.guest||"Guest not listed";
         const href=ep.entityId?`../entities/entity.html?id=${encodeURIComponent(ep.entityId)}`:(ep.officialUrl||"#");
         const external=!ep.entityId&&ep.officialUrl?' target="_blank" rel="noopener"':"";
-        return `<article class="sits-episode-row"><div class="sits-episode-number">${ep.episodeNumber?`#${esc(ep.episodeNumber)}`:"Special"}</div><div class="sits-episode-copy"><div class="sits-row-meta"><time>${esc(formatDate(ep.date))}</time><span>${esc(ep.tier||"catalog")}</span></div><h3><a href="${esc(href)}"${external}>${esc(ep.title||"Untitled episode")}</a></h3><p>${esc(ep.summary||"")}</p><div class="mini-meta"><span>${esc(guests)}</span>${topics}</div></div><a class="sits-open" href="${esc(href)}"${external} aria-label="Open ${esc(ep.title||"episode")}">Open →</a></article>`;
+        const media=entityMap[ep.entityId]?window.GreyAlienOfficialMedia?.preferred(entityMap[ep.entityId]):null;
+        const mediaAction=media?window.GreyAlienOfficialMedia.renderAction(media,"sits-open preferred-media-action"):"";
+        return `<article class="sits-episode-row"><div class="sits-episode-number">${ep.episodeNumber?`#${esc(ep.episodeNumber)}`:"Special"}</div><div class="sits-episode-copy"><div class="sits-row-meta"><time>${esc(formatDate(ep.date))}</time><span>${esc(ep.tier||"catalog")}</span></div><h3><a href="${esc(href)}"${external}>${esc(ep.title||"Untitled episode")}</a></h3><p>${esc(ep.summary||"")}</p><div class="mini-meta"><span>${esc(guests)}</span>${topics}</div></div><div class="sits-row-actions">${mediaAction}<a class="sits-open" href="${esc(href)}"${external} aria-label="Open ${esc(ep.title||"episode")}">Details →</a></div></article>`;
       }).join("");
       els.pagination.innerHTML=pages>1?`${state.page>1?'<button type="button" data-page="prev">← Previous</button>':""}<span>Page ${state.page} of ${pages}</span>${state.page<pages?'<button type="button" data-page="next">Next →</button>':""}`:"";
     }
