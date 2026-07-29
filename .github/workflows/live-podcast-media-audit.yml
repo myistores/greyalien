@@ -1,0 +1,70 @@
+name: Enhanced Live Podcast Media Audit
+on:
+  workflow_dispatch:
+    inputs:
+      jobs_path:
+        description: Validation job inventory
+        required: false
+        default: data/media-audit/v23.5c.1/jobs/validation_jobs.json
+concurrency:
+  group: podcast-media-live-audit
+  cancel-in-progress: false
+permissions:
+  contents: read
+jobs:
+  enhanced-live-audit:
+    runs-on: ubuntu-latest
+    timeout-minutes: 180
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+          cache: pip
+          cache-dependency-path: tools/podcast_media_audit/requirements.txt
+      - name: Install dependencies
+        run: pip install -r tools/podcast_media_audit/requirements.txt
+      - name: Validate inventory input
+        env:
+          JOBS_PATH: ${{ inputs.jobs_path }}
+        run: |
+          test -f "$JOBS_PATH"
+          python -m json.tool "$JOBS_PATH" >/dev/null
+      - name: Run enhanced live validation
+        env:
+          JOBS_PATH: ${{ inputs.jobs_path }}
+          PYTHONUNBUFFERED: '1'
+        run: |
+          mkdir -p audit-artifact
+          python tools/podcast_media_audit/run_enhanced_audit.py run --jobs "$JOBS_PATH" --out audit-artifact 2>&1 | tee audit-artifact/live_validation_run.log
+      - name: Generate reports
+        run: |
+          python tools/podcast_media_audit/run_enhanced_audit.py reports --results audit-artifact/live_validation_results.json --proposals audit-artifact/repair_proposals.json --out audit-artifact
+      - name: Generate transaction preview and rollback snapshot
+        run: |
+          cp tools/podcast_media_audit/approvals.example.json audit-artifact/no_repairs_approved.json
+          python tools/podcast_media_audit/run_enhanced_audit.py transaction-preview --repo-root . --proposals audit-artifact/repair_proposals.json --approvals audit-artifact/no_repairs_approved.json --out audit-artifact
+      - name: Confirm required evidence files
+        run: |
+          test -f audit-artifact/human_review_report.md
+          test -f audit-artifact/human_review_queue.json
+          test -f audit-artifact/automatic_approval_queue.json
+          test -f audit-artifact/repair_proposals.json
+          test -f audit-artifact/transaction_preview.json
+          test -f audit-artifact/rollback_snapshot.json
+      - name: Validate artifact structure
+        env:
+          JOBS_PATH: ${{ inputs.jobs_path }}
+        run: |
+          python tools/podcast_media_audit/run_enhanced_audit.py validate --jobs "$JOBS_PATH" --results audit-artifact/live_validation_results.json --proposals audit-artifact/repair_proposals.json --out audit-artifact --result-schema tools/podcast_media_audit/schema/enhanced_validation_result.schema.json --proposal-schema tools/podcast_media_audit/schema/repair_proposal.schema.json
+          PYTHONPATH=tools/podcast_media_audit python -m unittest discover -s tools/podcast_media_audit/tests -v
+      - name: Preserve repository revision
+        run: |
+          printf '{"repository":"%s","sha":"%s","workflowRunId":"%s","generatedAt":"%s"}\n' "$GITHUB_REPOSITORY" "$GITHUB_SHA" "$GITHUB_RUN_ID" "$(date -u +%Y-%m-%dT%H:%M:%SZ)" > audit-artifact/repository_revision.json
+      - name: Upload complete evidence artifact
+        uses: actions/upload-artifact@v4
+        with:
+          name: v23-5c-2a-enhanced-live-podcast-media-audit
+          path: audit-artifact/
+          if-no-files-found: error
+          retention-days: 30

@@ -120,3 +120,8 @@ See `V23_5A_UNIVERSAL_PODCAST_OFFICIAL_MEDIA_ARCHITECTURE.md`. V23.5B has now mi
 ## V23.5C.1 podcast media audit preparation
 
 The repository includes an offline-first universal podcast media-audit engine at `tools/audit_podcast_media.py`. Generated artifacts are stored under `data/media-audit/v23.5c.1/`. The package inventories and normalizes current media data, creates deterministic live-validation jobs, prepares episode-identity evidence, and accepts externally produced results transactionally. V23.5C.1 performs no production network checks and makes no podcast media-data changes.
+
+
+## V23.5C.2A — Enhanced Live Podcast Audit Runner and Repair Pipeline
+
+V23.5C.2A upgrades the prepared V23.5C.1 inventory into a production-capable GitHub Actions validation and repair-preparation pipeline. It captures destination evidence, distinguishes HTTP failures from transport failures, validates platform/content type/episode identity, generates approval-gated repairs, creates transactional previews and rollback snapshots, and regenerates reports without changing public media records during evidence generation. See `docs/releases/V23_5C_2A_ENHANCED_LIVE_PODCAST_AUDIT_RUNNER_AND_REPAIR_PIPELINE.md`.

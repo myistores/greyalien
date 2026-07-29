@@ -546,3 +546,14 @@ Migrated 257 podcast episodes and four series entities to the universal official
 - Generated 491 deterministic platform-aware validation jobs and consolidated 958 duplicate occurrences.
 - Added URL normalization, identity expectations, off-by-one preparation, external-result import, repair proposals, rollback manifests, fixtures, and reconciliation reports.
 - Explicitly records that production network validation was not run and does not alter live verification states or public preferred destinations.
+
+
+## V23.5C.2A — Enhanced Live Podcast Audit Runner and Repair Pipeline
+
+- Added production live-audit workflow and bounded platform concurrency.
+- Added HTTP 404 failure classification and transport-only `network_unavailable`.
+- Added YouTube 429 retry/backoff/jitter and `temporarily_unverifiable`.
+- Added dedicated retired `link.chtbl.com` wrapper handling.
+- Added metadata, platform, destination-type, RSS, soft-404, and episode identity validation.
+- Added repair proposals, automatic and human-review queues, transactional previews, rollback snapshots, and series/cross-series reports.
+- Preserved all public podcast media data pending explicit approval.
