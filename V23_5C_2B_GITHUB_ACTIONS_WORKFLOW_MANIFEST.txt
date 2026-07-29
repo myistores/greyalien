@@ -1,0 +1,7 @@
+Release: V23.5C.2B GitHub Actions Live Podcast Media Validation Runner
+Base: V23.5C.2A.1
+Prepared validation jobs: 491
+Primary workflow: .github/workflows/v23-5c-2b-live-podcast-media-validation.yml
+Documentation: docs/releases/V23_5C_2B_LIVE_PODCAST_MEDIA_VALIDATION_AND_REPAIR.md
+Status: Production workflow prepared; live validation must execute on GitHub Actions before repairs can be approved or imported.
+Knowledge graph changes: None

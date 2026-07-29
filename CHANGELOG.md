@@ -565,3 +565,11 @@ Migrated 257 podcast episodes and four series entities to the universal official
 - Added metadata, platform, destination-type, RSS, soft-404, and episode identity validation.
 - Added repair proposals, automatic and human-review queues, transactional previews, rollback snapshots, and series/cross-series reports.
 - Preserved all public podcast media data pending explicit approval.
+
+## V23.5C.2B — GitHub Actions Live Podcast Media Validation Runner
+
+- Added a dedicated manually triggered production workflow for all 491 prepared live-validation jobs.
+- Added optional bounded test execution through the `job_limit` workflow input.
+- Added live evidence, repair queues, proposal reports, transaction preview, rollback snapshot, revision recording, and operator summary artifacts.
+- Preserved the approval boundary: the workflow does not import unreviewed repairs or change knowledge-graph data.
+- Added production run documentation and artifact retrieval instructions.
