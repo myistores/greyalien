@@ -1,0 +1,26 @@
+V23.5C.2B.2 Apple Metadata Extraction Correction
+Base: V23.5C.2B.1
+Production type: Corrective parser patch
+
+Modified:
+- tools/podcast_media_audit/audit_pipeline/apple.py
+- tools/podcast_media_audit/audit_pipeline/runner.py
+- tools/podcast_media_audit/tests/test_apple_metadata.py
+
+Added fixtures:
+- tools/podcast_media_audit/tests/fixtures/apple/branding_candidate.html
+- tools/podcast_media_audit/tests/fixtures/apple/jsonld_fallback.html
+- tools/podcast_media_audit/tests/fixtures/apple/og_fallback.html
+- tools/podcast_media_audit/tests/fixtures/apple/title_fallback.html
+
+Added documentation:
+- V23_5C_2B_2_APPLE_METADATA_EXTRACTION_CORRECTION.md
+- V23_5C_2B_2_PATCH_MANIFEST.txt
+- validation/v23_5c_2b_2/unit-tests.log
+- validation/v23_5c_2b_2/non-content-change-audit.txt
+
+Unchanged by design:
+- data/ podcast content and official-media collections
+- entities/ knowledge graph and generated entity pages
+- categories/ and rendered HTML
+- GitHub Actions workflow

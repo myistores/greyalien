@@ -1,0 +1,3 @@
+V23.5C.2B.2 repository construction changed only parser code, parser tests/fixtures, release documentation, and validation logs.
+No files under data/, entities/, categories/, podcasts/, or rendered site HTML were intentionally edited.
+The existing GitHub Actions workflow was retained without modification.

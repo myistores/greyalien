@@ -1,0 +1,23 @@
+test_match (test_apple_identity.AppleIdentityTests.test_match) ... ok
+test_off_by_one (test_apple_identity.AppleIdentityTests.test_off_by_one) ... ok
+test_wrong_series (test_apple_identity.AppleIdentityTests.test_wrong_series) ... ok
+test_branding_rejected (test_apple_metadata.AppleMetadataTests.test_branding_rejected) ... ok
+test_direct_episode (test_apple_metadata.AppleMetadataTests.test_direct_episode) ... ok
+test_html_title_and_canonical_fallback (test_apple_metadata.AppleMetadataTests.test_html_title_and_canonical_fallback) ... ok
+test_ids_and_normalization (test_apple_metadata.AppleMetadataTests.test_ids_and_normalization) ... ok
+test_jsonld_precedence (test_apple_metadata.AppleMetadataTests.test_jsonld_precedence) ... ok
+test_open_graph_fallback (test_apple_metadata.AppleMetadataTests.test_open_graph_fallback) ... ok
+test_show_page (test_apple_metadata.AppleMetadataTests.test_show_page) ... ok
+test_id (test_pipeline.Tests.test_id) ... ok
+test_identity_off_by_one (test_pipeline.Tests.test_identity_off_by_one) ... ok
+test_normalize (test_pipeline.Tests.test_normalize) ... ok
+test_platforms (test_pipeline.Tests.test_platforms) ... ok
+test_transport (test_pipeline.Tests.test_transport) ... ok
+test_youtube_type (test_pipeline.Tests.test_youtube_type) ... ok
+test_duplicate_keys_collapse (test_proposal_deduplication.ProposalTests.test_duplicate_keys_collapse) ... ok
+test_related_findings_one_proposal (test_proposal_deduplication.ProposalTests.test_related_findings_one_proposal) ... ok
+
+----------------------------------------------------------------------
+Ran 18 tests in 0.005s
+
+OK
