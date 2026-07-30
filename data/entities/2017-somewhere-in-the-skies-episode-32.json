@@ -86,7 +86,7 @@
       "official": true,
       "verified": true,
       "verificationStatus": "verified",
-      "preferredRank": 6,
+      "preferredRank": 90,
       "label": "Browse Apple Podcasts Series Archive",
       "approved": true,
       "published": true,
@@ -103,7 +103,18 @@
           "legacyIndex": 0,
           "legacyLabel": "Official Apple Podcasts series archive (episode-specific page unavailable)"
         }
-      ]
+      ],
+      "validationClassification": "podcast show page",
+      "secondaryOnly": true,
+      "validationProvenance": {
+        "release": "V23.5C.3",
+        "validatedAt": "2026-07-30T20:00:00+00:00",
+        "recoverySource": "retained_repository_record",
+        "confidence": "medium",
+        "identitySignals": [
+          "repository_url_classification"
+        ]
+      }
     }
   ],
   "mediaMigration": {
@@ -113,7 +124,22 @@
     "legacyUrlCount": 2,
     "mediaRecordCount": 1,
     "duplicateCanonicalUrlsSuppressed": 1,
-    "preferredCanonicalUrl": "https://podcasts.apple.com/us/podcast/somewhere-in-the-skies/id1227858637",
-    "preferredLabel": "Browse Apple Podcasts Series Archive"
+    "preferredCanonicalUrl": null,
+    "preferredLabel": null,
+    "completionRelease": "V23.5C.3",
+    "completionCheckedAt": "2026-07-30T20:00:00+00:00",
+    "preferredDestinationClassification": null,
+    "completionStatus": "human_review_required",
+    "manualReviewRequired": true,
+    "crossPlatformConfirmation": {
+      "status": "not_applicable",
+      "confirmedIdentity": null
+    },
+    "validationIssue": {
+      "code": "preferred_destination_missing",
+      "classification": "unavailable"
+    },
+    "existingDestinationsPreserved": true,
+    "fabricatedDestinations": 0
   }
 }

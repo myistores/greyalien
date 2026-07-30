@@ -1,0 +1,95 @@
+# V23.5C.3 Somewhere in the Skies Official Media Completion Report
+
+- Episodes audited: 40
+- Episodes with verified direct preferred destinations: 6
+- Episodes requiring manual review: 34
+- Fabricated destinations: 0
+
+## Episode Results
+
+- **2017-12-06 — BONUS EPISODE - Movie Review Edition: Justice League**: REVIEW REQUIRED
+  - Retained Apple Podcasts: podcast show page — https://podcasts.apple.com/us/podcast/somewhere-in-the-skies/id1227858637
+- **2017-12-21 — BONUS EPISODE: Movie Review Edition: The Last Jedi**: DIRECT VERIFIED
+  - Preferred: https://podcasts.apple.com/us/podcast/bonus-episode-movie-review-edition-the-last-jedi/id1227858637?i=1000398008703
+  - Retained Apple Podcasts: direct episode — https://podcasts.apple.com/us/podcast/bonus-episode-movie-review-edition-the-last-jedi/id1227858637?i=1000398008703
+- **2017-09-10 — BONUS EPISODE : Reviewing "IT" with Andrew Sanford**: REVIEW REQUIRED
+  - Retained Apple Podcasts: podcast show page — https://podcasts.apple.com/us/podcast/somewhere-in-the-skies/id1227858637
+- **2017-04-17 — Richard Dolan: Media Bias in UFO Coverage**: REVIEW REQUIRED
+  - Retained Apple Podcasts: podcast show page — https://podcasts.apple.com/us/podcast/somewhere-in-the-skies/id1227858637
+- **2017-06-19 — Mark O'Connell: The Close Encounters Man**: REVIEW REQUIRED
+  - Retained Apple Podcasts: podcast show page — https://podcasts.apple.com/us/podcast/somewhere-in-the-skies/id1227858637
+- **2017-06-26 — Erica Lukes: Dugway, Skinwalker Ranch, and UFOs over Utah**: REVIEW REQUIRED
+  - Retained Apple Podcasts: podcast show page — https://podcasts.apple.com/us/podcast/somewhere-in-the-skies/id1227858637
+- **2017-07-03 — Simon Sharman: Cosmic Whistleblowers**: REVIEW REQUIRED
+  - Retained Apple Podcasts: podcast show page — https://podcasts.apple.com/us/podcast/somewhere-in-the-skies/id1227858637
+- **2017-07-10 — Mike Damante: Punk Rock and UFOs**: REVIEW REQUIRED
+  - Retained Apple Podcasts: podcast show page — https://podcasts.apple.com/us/podcast/somewhere-in-the-skies/id1227858637
+- **2017-07-17 — Jeremy Corbell: UFOs as a Clockwork Orange**: REVIEW REQUIRED
+  - Retained Apple Podcasts: podcast show page — https://podcasts.apple.com/us/podcast/somewhere-in-the-skies/id1227858637
+- **2017-07-24 — David Jenkins: People of Earth**: DIRECT VERIFIED
+  - Preferred: https://podcasts.apple.com/us/podcast/david-jenkins-people-of-earth/id1227858637?i=1000390228455
+  - Retained Apple Podcasts: direct episode — https://podcasts.apple.com/us/podcast/david-jenkins-people-of-earth/id1227858637?i=1000390228455
+- **2017-07-31 — Sammy Waisanen: The Howl Horror Program and Fire in the Sky**: REVIEW REQUIRED
+  - Retained Apple Podcasts: podcast show page — https://podcasts.apple.com/us/podcast/somewhere-in-the-skies/id1227858637
+- **2017-08-07 — Peter Robbins: Imagery, Reality, and UFOs: Sorting Truth From Fiction**: REVIEW REQUIRED
+  - Retained Apple Podcasts: podcast show page — https://podcasts.apple.com/us/podcast/somewhere-in-the-skies/id1227858637
+- **2017-08-14 — MJ Banias: Whiskey, UFOs, and Shaking the ET Hypothesis**: REVIEW REQUIRED
+  - Retained Apple Podcasts: podcast show page — https://podcasts.apple.com/us/podcast/somewhere-in-the-skies/id1227858637
+- **2017-08-20 — Ben Mezrich: The 37th Parallel**: REVIEW REQUIRED
+  - Retained Apple Podcasts: podcast show page — https://podcasts.apple.com/us/podcast/somewhere-in-the-skies/id1227858637
+- **2017-04-24 — Micah Hanks: Building a Better UFOlogy | Truth, Myths & the Future of UAP Research**: DIRECT VERIFIED
+  - Preferred: https://podcasts.apple.com/us/podcast/micah-hanks-toward-a-better-ufology/id1227858637?i=1000384707651
+  - Retained Apple Podcasts: direct episode — https://podcasts.apple.com/us/podcast/micah-hanks-toward-a-better-ufology/id1227858637?i=1000384707651
+- **2017-08-28 — Spooked in Nova Scotia: A Paranormal Roundtable**: REVIEW REQUIRED
+  - Retained Apple Podcasts: podcast show page — https://podcasts.apple.com/us/podcast/somewhere-in-the-skies/id1227858637
+- **2017-09-04 — Jason McClellan: Beers, Ghosts, and UFOs**: REVIEW REQUIRED
+  - Retained Apple Podcasts: podcast show page — https://podcasts.apple.com/us/podcast/somewhere-in-the-skies/id1227858637
+- **2017-09-11 — Mike Clelland: The Messengers**: REVIEW REQUIRED
+  - Retained Apple Podcasts: podcast show page — https://podcasts.apple.com/us/podcast/somewhere-in-the-skies/id1227858637
+- **2017-09-18 — The Truth Is Out There with the Guilty Pleasure Podcast**: REVIEW REQUIRED
+  - Retained Apple Podcasts: podcast show page — https://podcasts.apple.com/us/podcast/somewhere-in-the-skies/id1227858637
+- **2017-09-25 — Chris Garetano: Dark Files and the Montauk Project**: REVIEW REQUIRED
+  - Retained Apple Podcasts: podcast show page — https://podcasts.apple.com/us/podcast/somewhere-in-the-skies/id1227858637
+- **2017-10-02 — Seth Breedlove: Invasion on Chestnut Ridge**: REVIEW REQUIRED
+  - Retained Apple Podcasts: podcast show page — https://podcasts.apple.com/us/podcast/somewhere-in-the-skies/id1227858637
+- **2017-10-08 — Karl Pfeiffer: The Science and Philosophy of the Paranormal**: REVIEW REQUIRED
+  - Retained Apple Podcasts: podcast show page — https://podcasts.apple.com/us/podcast/somewhere-in-the-skies/id1227858637
+- **2017-10-15 — Aaron Mahnke: The Story Behind LORE**: REVIEW REQUIRED
+  - Retained Apple Podcasts: podcast show page — https://podcasts.apple.com/us/podcast/somewhere-in-the-skies/id1227858637
+- **2017-10-22 — Shannon LeGro: Into the Fray**: REVIEW REQUIRED
+  - Retained Apple Podcasts: podcast show page — https://podcasts.apple.com/us/podcast/somewhere-in-the-skies/id1227858637
+- **2017-10-29 — Brian Bethel: Black Eyed Kid Phenomenon**: REVIEW REQUIRED
+  - Retained Apple Podcasts: podcast show page — https://podcasts.apple.com/us/podcast/somewhere-in-the-skies/id1227858637
+- **2017-05-01 — Greg Eghigian: History of a Cultural Phenomenon**: REVIEW REQUIRED
+  - Retained Apple Podcasts: podcast show page — https://podcasts.apple.com/us/podcast/somewhere-in-the-skies/id1227858637
+- **2017-11-05 — The Andreasson Abduction**: REVIEW REQUIRED
+  - Retained Apple Podcasts: podcast show page — https://podcasts.apple.com/us/podcast/somewhere-in-the-skies/id1227858637
+- **2017-11-12 — Robbie Graham: Silver Screen Saucers**: REVIEW REQUIRED
+  - Retained Apple Podcasts: podcast show page — https://podcasts.apple.com/us/podcast/somewhere-in-the-skies/id1227858637
+- **2017-11-19 — Rob Kristoffersen: Men in Black**: REVIEW REQUIRED
+  - Retained Apple Podcasts: podcast show page — https://podcasts.apple.com/us/podcast/somewhere-in-the-skies/id1227858637
+- **2017-11-27 — Michael Huntington: Childhood UFO Encounters**: REVIEW REQUIRED
+  - Retained Apple Podcasts: podcast show page — https://podcasts.apple.com/us/podcast/somewhere-in-the-skies/id1227858637
+- **2017-12-04 — Witness Accounts: Volume One**: REVIEW REQUIRED
+  - Retained Apple Podcasts: podcast show page — https://podcasts.apple.com/us/podcast/somewhere-in-the-skies/id1227858637
+- **2017-12-11 — Paul Cornell: Saucer Country**: DIRECT VERIFIED
+  - Preferred: https://open.spotify.com/episode/6BRMdWQlTLzIBqFhof6Wuy
+  - Retained Spotify: direct episode — https://open.spotify.com/episode/6BRMdWQlTLzIBqFhof6Wuy
+- **2017-12-19 — UFO Roundtable: The Year In Review**: REVIEW REQUIRED
+  - Retained Apple Podcasts: podcast show page — https://podcasts.apple.com/us/podcast/somewhere-in-the-skies/id1227858637
+- **2017-05-08 — Annie Jacobsen: Phenomena**: DIRECT VERIFIED
+  - Preferred: https://open.spotify.com/episode/5nnM6FRzSDFrGjkBD4bBDF
+  - Retained Spotify: direct episode — https://open.spotify.com/episode/5nnM6FRzSDFrGjkBD4bBDF
+- **2017-05-15 — Ruben Uriarte: UFOs Over Mexico and the Southwest**: REVIEW REQUIRED
+  - Retained Apple Podcasts: podcast show page — https://podcasts.apple.com/us/podcast/somewhere-in-the-skies/id1227858637
+- **2017-05-22 — Susan Demeter-St. Clair : UFOs and the Parapsychological**: REVIEW REQUIRED
+  - Retained Apple Podcasts: podcast show page — https://podcasts.apple.com/us/podcast/somewhere-in-the-skies/id1227858637
+- **2017-05-29 — Nick Redfern: The Roswell UFO Conspiracy**: DIRECT VERIFIED
+  - Preferred: https://open.spotify.com/episode/4DKHn3la46ZaWVpnZpqdBJ
+  - Retained Spotify: direct episode — https://open.spotify.com/episode/4DKHn3la46ZaWVpnZpqdBJ
+- **2017-06-05 — Jane Kyle: UFOs Over Texas**: REVIEW REQUIRED
+  - Retained Apple Podcasts: podcast show page — https://podcasts.apple.com/us/podcast/somewhere-in-the-skies/id1227858637
+- **2017-06-12 — Andrew Sanford: Flying Saucers v.s. The Half White Son of a Black Man**: REVIEW REQUIRED
+  - Retained Apple Podcasts: podcast show page — https://podcasts.apple.com/us/podcast/somewhere-in-the-skies/id1227858637
+- **2017-09-17 — PATREON BONUS EPISODE SNEAK PEEK!**: REVIEW REQUIRED
+  - Retained Apple Podcasts: podcast show page — https://podcasts.apple.com/us/podcast/somewhere-in-the-skies/id1227858637

@@ -4,6 +4,7 @@ from collections import Counter
 from pathlib import Path
 from jsonschema import Draft202012Validator
 from .common import read_json,normalize_url
+from .completion import preferred_destination_issue
 
 def validate_schema(doc_path,schema_path):
  doc=read_json(doc_path); schema=read_json(schema_path); errors=sorted(Draft202012Validator(schema).iter_errors(doc),key=lambda e:list(e.path))
@@ -29,3 +30,15 @@ def validate_outputs(root):
  missing=[x for x in required if not (root/x).exists()]
  if missing: raise FileNotFoundError(f'missing outputs: {missing}')
  for p in root.rglob('*.json'): json.loads(p.read_text(encoding='utf-8'))
+
+
+def validate_preferred_episode_destination(entity):
+ records=entity.get('officialMedia') or []
+ preferred_url=(entity.get('mediaMigration') or {}).get('preferredCanonicalUrl')
+ preferred=next((r for r in records if r.get('url')==preferred_url),None) if preferred_url else None
+ issue=preferred_destination_issue(preferred)
+ if issue and issue.get('code')=='preferred_destination_not_episode_level':
+  return issue
+ if not preferred_url and records:
+  return {'code':'preferred_destination_missing','classification':'unavailable'}
+ return None

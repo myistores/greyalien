@@ -1,0 +1,1223 @@
+{
+  "release": "V23.5C.3",
+  "baseRepository": "V23.5C.2B.4",
+  "seriesId": "somewhere-in-the-skies-podcast",
+  "generatedAt": "2026-07-30T20:00:00+00:00",
+  "episodeCount": 40,
+  "directEpisodePreferredCount": 6,
+  "manualReviewCount": 34,
+  "fabricatedDestinationCount": 0,
+  "scopeBoundary": "Somewhere in the Skies official media records only",
+  "episodes": [
+    {
+      "entityId": "2017-somewhere-in-the-skies-bonus-episode-movie-review-edition-justice-league",
+      "episodeNumber": null,
+      "episodeTitle": "BONUS EPISODE - Movie Review Edition: Justice League",
+      "publicationDate": "2017-12-06",
+      "recoveredDestinations": [],
+      "retainedDestinations": [
+        {
+          "platform": "Apple Podcasts",
+          "url": "https://podcasts.apple.com/us/podcast/somewhere-in-the-skies/id1227858637",
+          "classification": "podcast show page",
+          "secondaryOnly": true,
+          "confidence": "medium"
+        }
+      ],
+      "unavailableDestinations": [],
+      "platformsLackingDirectEpisodePages": [
+        "Apple Podcasts"
+      ],
+      "manualReviewRequired": true,
+      "completionStatus": "human_review_required",
+      "preferredDestination": null,
+      "validationIssue": {
+        "code": "preferred_destination_missing",
+        "classification": "unavailable"
+      },
+      "crossPlatformConfirmation": {
+        "status": "not_applicable",
+        "confirmedIdentity": null
+      }
+    },
+    {
+      "entityId": "2017-somewhere-in-the-skies-bonus-episode-movie-review-edition-the-last-jedi",
+      "episodeNumber": null,
+      "episodeTitle": "BONUS EPISODE: Movie Review Edition: The Last Jedi",
+      "publicationDate": "2017-12-21",
+      "recoveredDestinations": [],
+      "retainedDestinations": [
+        {
+          "platform": "Apple Podcasts",
+          "url": "https://podcasts.apple.com/us/podcast/bonus-episode-movie-review-edition-the-last-jedi/id1227858637?i=1000398008703",
+          "classification": "direct episode",
+          "secondaryOnly": false,
+          "confidence": "high"
+        }
+      ],
+      "unavailableDestinations": [],
+      "platformsLackingDirectEpisodePages": [],
+      "manualReviewRequired": false,
+      "completionStatus": "complete",
+      "preferredDestination": "https://podcasts.apple.com/us/podcast/bonus-episode-movie-review-edition-the-last-jedi/id1227858637?i=1000398008703",
+      "validationIssue": null,
+      "crossPlatformConfirmation": {
+        "status": "consistent",
+        "confirmedIdentity": null
+      }
+    },
+    {
+      "entityId": "2017-somewhere-in-the-skies-bonus-episode-reviewing-it-with-andrew-sanford",
+      "episodeNumber": null,
+      "episodeTitle": "BONUS EPISODE : Reviewing \"IT\" with Andrew Sanford",
+      "publicationDate": "2017-09-10",
+      "recoveredDestinations": [],
+      "retainedDestinations": [
+        {
+          "platform": "Apple Podcasts",
+          "url": "https://podcasts.apple.com/us/podcast/somewhere-in-the-skies/id1227858637",
+          "classification": "podcast show page",
+          "secondaryOnly": true,
+          "confidence": "medium"
+        }
+      ],
+      "unavailableDestinations": [],
+      "platformsLackingDirectEpisodePages": [
+        "Apple Podcasts"
+      ],
+      "manualReviewRequired": true,
+      "completionStatus": "human_review_required",
+      "preferredDestination": null,
+      "validationIssue": {
+        "code": "preferred_destination_missing",
+        "classification": "unavailable"
+      },
+      "crossPlatformConfirmation": {
+        "status": "not_applicable",
+        "confirmedIdentity": null
+      }
+    },
+    {
+      "entityId": "2017-somewhere-in-the-skies-episode-1",
+      "episodeNumber": 1,
+      "episodeTitle": "Richard Dolan: Media Bias in UFO Coverage",
+      "publicationDate": "2017-04-17",
+      "recoveredDestinations": [],
+      "retainedDestinations": [
+        {
+          "platform": "Apple Podcasts",
+          "url": "https://podcasts.apple.com/us/podcast/somewhere-in-the-skies/id1227858637",
+          "classification": "podcast show page",
+          "secondaryOnly": true,
+          "confidence": "medium"
+        }
+      ],
+      "unavailableDestinations": [],
+      "platformsLackingDirectEpisodePages": [
+        "Apple Podcasts"
+      ],
+      "manualReviewRequired": true,
+      "completionStatus": "human_review_required",
+      "preferredDestination": null,
+      "validationIssue": {
+        "code": "preferred_destination_missing",
+        "classification": "unavailable"
+      },
+      "crossPlatformConfirmation": {
+        "status": "not_applicable",
+        "confirmedIdentity": null
+      }
+    },
+    {
+      "entityId": "2017-somewhere-in-the-skies-episode-10",
+      "episodeNumber": 10,
+      "episodeTitle": "Mark O'Connell: The Close Encounters Man",
+      "publicationDate": "2017-06-19",
+      "recoveredDestinations": [],
+      "retainedDestinations": [
+        {
+          "platform": "Apple Podcasts",
+          "url": "https://podcasts.apple.com/us/podcast/somewhere-in-the-skies/id1227858637",
+          "classification": "podcast show page",
+          "secondaryOnly": true,
+          "confidence": "medium"
+        }
+      ],
+      "unavailableDestinations": [],
+      "platformsLackingDirectEpisodePages": [
+        "Apple Podcasts"
+      ],
+      "manualReviewRequired": true,
+      "completionStatus": "human_review_required",
+      "preferredDestination": null,
+      "validationIssue": {
+        "code": "preferred_destination_missing",
+        "classification": "unavailable"
+      },
+      "crossPlatformConfirmation": {
+        "status": "not_applicable",
+        "confirmedIdentity": null
+      }
+    },
+    {
+      "entityId": "2017-somewhere-in-the-skies-episode-11",
+      "episodeNumber": 11,
+      "episodeTitle": "Erica Lukes: Dugway, Skinwalker Ranch, and UFOs over Utah",
+      "publicationDate": "2017-06-26",
+      "recoveredDestinations": [],
+      "retainedDestinations": [
+        {
+          "platform": "Apple Podcasts",
+          "url": "https://podcasts.apple.com/us/podcast/somewhere-in-the-skies/id1227858637",
+          "classification": "podcast show page",
+          "secondaryOnly": true,
+          "confidence": "medium"
+        }
+      ],
+      "unavailableDestinations": [],
+      "platformsLackingDirectEpisodePages": [
+        "Apple Podcasts"
+      ],
+      "manualReviewRequired": true,
+      "completionStatus": "human_review_required",
+      "preferredDestination": null,
+      "validationIssue": {
+        "code": "preferred_destination_missing",
+        "classification": "unavailable"
+      },
+      "crossPlatformConfirmation": {
+        "status": "not_applicable",
+        "confirmedIdentity": null
+      }
+    },
+    {
+      "entityId": "2017-somewhere-in-the-skies-episode-12",
+      "episodeNumber": 12,
+      "episodeTitle": "Simon Sharman: Cosmic Whistleblowers",
+      "publicationDate": "2017-07-03",
+      "recoveredDestinations": [],
+      "retainedDestinations": [
+        {
+          "platform": "Apple Podcasts",
+          "url": "https://podcasts.apple.com/us/podcast/somewhere-in-the-skies/id1227858637",
+          "classification": "podcast show page",
+          "secondaryOnly": true,
+          "confidence": "medium"
+        }
+      ],
+      "unavailableDestinations": [],
+      "platformsLackingDirectEpisodePages": [
+        "Apple Podcasts"
+      ],
+      "manualReviewRequired": true,
+      "completionStatus": "human_review_required",
+      "preferredDestination": null,
+      "validationIssue": {
+        "code": "preferred_destination_missing",
+        "classification": "unavailable"
+      },
+      "crossPlatformConfirmation": {
+        "status": "not_applicable",
+        "confirmedIdentity": null
+      }
+    },
+    {
+      "entityId": "2017-somewhere-in-the-skies-episode-13",
+      "episodeNumber": 13,
+      "episodeTitle": "Mike Damante: Punk Rock and UFOs",
+      "publicationDate": "2017-07-10",
+      "recoveredDestinations": [],
+      "retainedDestinations": [
+        {
+          "platform": "Apple Podcasts",
+          "url": "https://podcasts.apple.com/us/podcast/somewhere-in-the-skies/id1227858637",
+          "classification": "podcast show page",
+          "secondaryOnly": true,
+          "confidence": "medium"
+        }
+      ],
+      "unavailableDestinations": [],
+      "platformsLackingDirectEpisodePages": [
+        "Apple Podcasts"
+      ],
+      "manualReviewRequired": true,
+      "completionStatus": "human_review_required",
+      "preferredDestination": null,
+      "validationIssue": {
+        "code": "preferred_destination_missing",
+        "classification": "unavailable"
+      },
+      "crossPlatformConfirmation": {
+        "status": "not_applicable",
+        "confirmedIdentity": null
+      }
+    },
+    {
+      "entityId": "2017-somewhere-in-the-skies-episode-14",
+      "episodeNumber": 14,
+      "episodeTitle": "Jeremy Corbell: UFOs as a Clockwork Orange",
+      "publicationDate": "2017-07-17",
+      "recoveredDestinations": [],
+      "retainedDestinations": [
+        {
+          "platform": "Apple Podcasts",
+          "url": "https://podcasts.apple.com/us/podcast/somewhere-in-the-skies/id1227858637",
+          "classification": "podcast show page",
+          "secondaryOnly": true,
+          "confidence": "medium"
+        }
+      ],
+      "unavailableDestinations": [],
+      "platformsLackingDirectEpisodePages": [
+        "Apple Podcasts"
+      ],
+      "manualReviewRequired": true,
+      "completionStatus": "human_review_required",
+      "preferredDestination": null,
+      "validationIssue": {
+        "code": "preferred_destination_missing",
+        "classification": "unavailable"
+      },
+      "crossPlatformConfirmation": {
+        "status": "not_applicable",
+        "confirmedIdentity": null
+      }
+    },
+    {
+      "entityId": "2017-somewhere-in-the-skies-episode-15",
+      "episodeNumber": 15,
+      "episodeTitle": "David Jenkins: People of Earth",
+      "publicationDate": "2017-07-24",
+      "recoveredDestinations": [],
+      "retainedDestinations": [
+        {
+          "platform": "Apple Podcasts",
+          "url": "https://podcasts.apple.com/us/podcast/david-jenkins-people-of-earth/id1227858637?i=1000390228455",
+          "classification": "direct episode",
+          "secondaryOnly": false,
+          "confidence": "high"
+        }
+      ],
+      "unavailableDestinations": [],
+      "platformsLackingDirectEpisodePages": [],
+      "manualReviewRequired": false,
+      "completionStatus": "complete",
+      "preferredDestination": "https://podcasts.apple.com/us/podcast/david-jenkins-people-of-earth/id1227858637?i=1000390228455",
+      "validationIssue": null,
+      "crossPlatformConfirmation": {
+        "status": "consistent",
+        "confirmedIdentity": null
+      }
+    },
+    {
+      "entityId": "2017-somewhere-in-the-skies-episode-16",
+      "episodeNumber": 16,
+      "episodeTitle": "Sammy Waisanen: The Howl Horror Program and Fire in the Sky",
+      "publicationDate": "2017-07-31",
+      "recoveredDestinations": [],
+      "retainedDestinations": [
+        {
+          "platform": "Apple Podcasts",
+          "url": "https://podcasts.apple.com/us/podcast/somewhere-in-the-skies/id1227858637",
+          "classification": "podcast show page",
+          "secondaryOnly": true,
+          "confidence": "medium"
+        }
+      ],
+      "unavailableDestinations": [],
+      "platformsLackingDirectEpisodePages": [
+        "Apple Podcasts"
+      ],
+      "manualReviewRequired": true,
+      "completionStatus": "human_review_required",
+      "preferredDestination": null,
+      "validationIssue": {
+        "code": "preferred_destination_missing",
+        "classification": "unavailable"
+      },
+      "crossPlatformConfirmation": {
+        "status": "not_applicable",
+        "confirmedIdentity": null
+      }
+    },
+    {
+      "entityId": "2017-somewhere-in-the-skies-episode-17",
+      "episodeNumber": 17,
+      "episodeTitle": "Peter Robbins: Imagery, Reality, and UFOs: Sorting Truth From Fiction",
+      "publicationDate": "2017-08-07",
+      "recoveredDestinations": [],
+      "retainedDestinations": [
+        {
+          "platform": "Apple Podcasts",
+          "url": "https://podcasts.apple.com/us/podcast/somewhere-in-the-skies/id1227858637",
+          "classification": "podcast show page",
+          "secondaryOnly": true,
+          "confidence": "medium"
+        }
+      ],
+      "unavailableDestinations": [],
+      "platformsLackingDirectEpisodePages": [
+        "Apple Podcasts"
+      ],
+      "manualReviewRequired": true,
+      "completionStatus": "human_review_required",
+      "preferredDestination": null,
+      "validationIssue": {
+        "code": "preferred_destination_missing",
+        "classification": "unavailable"
+      },
+      "crossPlatformConfirmation": {
+        "status": "not_applicable",
+        "confirmedIdentity": null
+      }
+    },
+    {
+      "entityId": "2017-somewhere-in-the-skies-episode-18",
+      "episodeNumber": 18,
+      "episodeTitle": "MJ Banias: Whiskey, UFOs, and Shaking the ET Hypothesis",
+      "publicationDate": "2017-08-14",
+      "recoveredDestinations": [],
+      "retainedDestinations": [
+        {
+          "platform": "Apple Podcasts",
+          "url": "https://podcasts.apple.com/us/podcast/somewhere-in-the-skies/id1227858637",
+          "classification": "podcast show page",
+          "secondaryOnly": true,
+          "confidence": "medium"
+        }
+      ],
+      "unavailableDestinations": [],
+      "platformsLackingDirectEpisodePages": [
+        "Apple Podcasts"
+      ],
+      "manualReviewRequired": true,
+      "completionStatus": "human_review_required",
+      "preferredDestination": null,
+      "validationIssue": {
+        "code": "preferred_destination_missing",
+        "classification": "unavailable"
+      },
+      "crossPlatformConfirmation": {
+        "status": "not_applicable",
+        "confirmedIdentity": null
+      }
+    },
+    {
+      "entityId": "2017-somewhere-in-the-skies-episode-19",
+      "episodeNumber": 19,
+      "episodeTitle": "Ben Mezrich: The 37th Parallel",
+      "publicationDate": "2017-08-20",
+      "recoveredDestinations": [],
+      "retainedDestinations": [
+        {
+          "platform": "Apple Podcasts",
+          "url": "https://podcasts.apple.com/us/podcast/somewhere-in-the-skies/id1227858637",
+          "classification": "podcast show page",
+          "secondaryOnly": true,
+          "confidence": "medium"
+        }
+      ],
+      "unavailableDestinations": [],
+      "platformsLackingDirectEpisodePages": [
+        "Apple Podcasts"
+      ],
+      "manualReviewRequired": true,
+      "completionStatus": "human_review_required",
+      "preferredDestination": null,
+      "validationIssue": {
+        "code": "preferred_destination_missing",
+        "classification": "unavailable"
+      },
+      "crossPlatformConfirmation": {
+        "status": "not_applicable",
+        "confirmedIdentity": null
+      }
+    },
+    {
+      "entityId": "2017-somewhere-in-the-skies-episode-2",
+      "episodeNumber": 2,
+      "episodeTitle": "Micah Hanks: Building a Better UFOlogy | Truth, Myths & the Future of UAP Research",
+      "publicationDate": "2017-04-24",
+      "recoveredDestinations": [],
+      "retainedDestinations": [
+        {
+          "platform": "Apple Podcasts",
+          "url": "https://podcasts.apple.com/us/podcast/micah-hanks-toward-a-better-ufology/id1227858637?i=1000384707651",
+          "classification": "direct episode",
+          "secondaryOnly": false,
+          "confidence": "high"
+        }
+      ],
+      "unavailableDestinations": [],
+      "platformsLackingDirectEpisodePages": [],
+      "manualReviewRequired": false,
+      "completionStatus": "complete",
+      "preferredDestination": "https://podcasts.apple.com/us/podcast/micah-hanks-toward-a-better-ufology/id1227858637?i=1000384707651",
+      "validationIssue": null,
+      "crossPlatformConfirmation": {
+        "status": "consistent",
+        "confirmedIdentity": null
+      }
+    },
+    {
+      "entityId": "2017-somewhere-in-the-skies-episode-20",
+      "episodeNumber": 20,
+      "episodeTitle": "Spooked in Nova Scotia: A Paranormal Roundtable",
+      "publicationDate": "2017-08-28",
+      "recoveredDestinations": [],
+      "retainedDestinations": [
+        {
+          "platform": "Apple Podcasts",
+          "url": "https://podcasts.apple.com/us/podcast/somewhere-in-the-skies/id1227858637",
+          "classification": "podcast show page",
+          "secondaryOnly": true,
+          "confidence": "medium"
+        }
+      ],
+      "unavailableDestinations": [],
+      "platformsLackingDirectEpisodePages": [
+        "Apple Podcasts"
+      ],
+      "manualReviewRequired": true,
+      "completionStatus": "human_review_required",
+      "preferredDestination": null,
+      "validationIssue": {
+        "code": "preferred_destination_missing",
+        "classification": "unavailable"
+      },
+      "crossPlatformConfirmation": {
+        "status": "not_applicable",
+        "confirmedIdentity": null
+      }
+    },
+    {
+      "entityId": "2017-somewhere-in-the-skies-episode-21",
+      "episodeNumber": 21,
+      "episodeTitle": "Jason McClellan: Beers, Ghosts, and UFOs",
+      "publicationDate": "2017-09-04",
+      "recoveredDestinations": [],
+      "retainedDestinations": [
+        {
+          "platform": "Apple Podcasts",
+          "url": "https://podcasts.apple.com/us/podcast/somewhere-in-the-skies/id1227858637",
+          "classification": "podcast show page",
+          "secondaryOnly": true,
+          "confidence": "medium"
+        }
+      ],
+      "unavailableDestinations": [],
+      "platformsLackingDirectEpisodePages": [
+        "Apple Podcasts"
+      ],
+      "manualReviewRequired": true,
+      "completionStatus": "human_review_required",
+      "preferredDestination": null,
+      "validationIssue": {
+        "code": "preferred_destination_missing",
+        "classification": "unavailable"
+      },
+      "crossPlatformConfirmation": {
+        "status": "not_applicable",
+        "confirmedIdentity": null
+      }
+    },
+    {
+      "entityId": "2017-somewhere-in-the-skies-episode-22",
+      "episodeNumber": 22,
+      "episodeTitle": "Mike Clelland: The Messengers",
+      "publicationDate": "2017-09-11",
+      "recoveredDestinations": [],
+      "retainedDestinations": [
+        {
+          "platform": "Apple Podcasts",
+          "url": "https://podcasts.apple.com/us/podcast/somewhere-in-the-skies/id1227858637",
+          "classification": "podcast show page",
+          "secondaryOnly": true,
+          "confidence": "medium"
+        }
+      ],
+      "unavailableDestinations": [],
+      "platformsLackingDirectEpisodePages": [
+        "Apple Podcasts"
+      ],
+      "manualReviewRequired": true,
+      "completionStatus": "human_review_required",
+      "preferredDestination": null,
+      "validationIssue": {
+        "code": "preferred_destination_missing",
+        "classification": "unavailable"
+      },
+      "crossPlatformConfirmation": {
+        "status": "not_applicable",
+        "confirmedIdentity": null
+      }
+    },
+    {
+      "entityId": "2017-somewhere-in-the-skies-episode-23",
+      "episodeNumber": 23,
+      "episodeTitle": "The Truth Is Out There with the Guilty Pleasure Podcast",
+      "publicationDate": "2017-09-18",
+      "recoveredDestinations": [],
+      "retainedDestinations": [
+        {
+          "platform": "Apple Podcasts",
+          "url": "https://podcasts.apple.com/us/podcast/somewhere-in-the-skies/id1227858637",
+          "classification": "podcast show page",
+          "secondaryOnly": true,
+          "confidence": "medium"
+        }
+      ],
+      "unavailableDestinations": [],
+      "platformsLackingDirectEpisodePages": [
+        "Apple Podcasts"
+      ],
+      "manualReviewRequired": true,
+      "completionStatus": "human_review_required",
+      "preferredDestination": null,
+      "validationIssue": {
+        "code": "preferred_destination_missing",
+        "classification": "unavailable"
+      },
+      "crossPlatformConfirmation": {
+        "status": "not_applicable",
+        "confirmedIdentity": null
+      }
+    },
+    {
+      "entityId": "2017-somewhere-in-the-skies-episode-24",
+      "episodeNumber": 24,
+      "episodeTitle": "Chris Garetano: Dark Files and the Montauk Project",
+      "publicationDate": "2017-09-25",
+      "recoveredDestinations": [],
+      "retainedDestinations": [
+        {
+          "platform": "Apple Podcasts",
+          "url": "https://podcasts.apple.com/us/podcast/somewhere-in-the-skies/id1227858637",
+          "classification": "podcast show page",
+          "secondaryOnly": true,
+          "confidence": "medium"
+        }
+      ],
+      "unavailableDestinations": [],
+      "platformsLackingDirectEpisodePages": [
+        "Apple Podcasts"
+      ],
+      "manualReviewRequired": true,
+      "completionStatus": "human_review_required",
+      "preferredDestination": null,
+      "validationIssue": {
+        "code": "preferred_destination_missing",
+        "classification": "unavailable"
+      },
+      "crossPlatformConfirmation": {
+        "status": "not_applicable",
+        "confirmedIdentity": null
+      }
+    },
+    {
+      "entityId": "2017-somewhere-in-the-skies-episode-25",
+      "episodeNumber": 25,
+      "episodeTitle": "Seth Breedlove: Invasion on Chestnut Ridge",
+      "publicationDate": "2017-10-02",
+      "recoveredDestinations": [],
+      "retainedDestinations": [
+        {
+          "platform": "Apple Podcasts",
+          "url": "https://podcasts.apple.com/us/podcast/somewhere-in-the-skies/id1227858637",
+          "classification": "podcast show page",
+          "secondaryOnly": true,
+          "confidence": "medium"
+        }
+      ],
+      "unavailableDestinations": [],
+      "platformsLackingDirectEpisodePages": [
+        "Apple Podcasts"
+      ],
+      "manualReviewRequired": true,
+      "completionStatus": "human_review_required",
+      "preferredDestination": null,
+      "validationIssue": {
+        "code": "preferred_destination_missing",
+        "classification": "unavailable"
+      },
+      "crossPlatformConfirmation": {
+        "status": "not_applicable",
+        "confirmedIdentity": null
+      }
+    },
+    {
+      "entityId": "2017-somewhere-in-the-skies-episode-26",
+      "episodeNumber": 26,
+      "episodeTitle": "Karl Pfeiffer: The Science and Philosophy of the Paranormal",
+      "publicationDate": "2017-10-08",
+      "recoveredDestinations": [],
+      "retainedDestinations": [
+        {
+          "platform": "Apple Podcasts",
+          "url": "https://podcasts.apple.com/us/podcast/somewhere-in-the-skies/id1227858637",
+          "classification": "podcast show page",
+          "secondaryOnly": true,
+          "confidence": "medium"
+        }
+      ],
+      "unavailableDestinations": [],
+      "platformsLackingDirectEpisodePages": [
+        "Apple Podcasts"
+      ],
+      "manualReviewRequired": true,
+      "completionStatus": "human_review_required",
+      "preferredDestination": null,
+      "validationIssue": {
+        "code": "preferred_destination_missing",
+        "classification": "unavailable"
+      },
+      "crossPlatformConfirmation": {
+        "status": "not_applicable",
+        "confirmedIdentity": null
+      }
+    },
+    {
+      "entityId": "2017-somewhere-in-the-skies-episode-27",
+      "episodeNumber": 27,
+      "episodeTitle": "Aaron Mahnke: The Story Behind LORE",
+      "publicationDate": "2017-10-15",
+      "recoveredDestinations": [],
+      "retainedDestinations": [
+        {
+          "platform": "Apple Podcasts",
+          "url": "https://podcasts.apple.com/us/podcast/somewhere-in-the-skies/id1227858637",
+          "classification": "podcast show page",
+          "secondaryOnly": true,
+          "confidence": "medium"
+        }
+      ],
+      "unavailableDestinations": [],
+      "platformsLackingDirectEpisodePages": [
+        "Apple Podcasts"
+      ],
+      "manualReviewRequired": true,
+      "completionStatus": "human_review_required",
+      "preferredDestination": null,
+      "validationIssue": {
+        "code": "preferred_destination_missing",
+        "classification": "unavailable"
+      },
+      "crossPlatformConfirmation": {
+        "status": "not_applicable",
+        "confirmedIdentity": null
+      }
+    },
+    {
+      "entityId": "2017-somewhere-in-the-skies-episode-28",
+      "episodeNumber": 28,
+      "episodeTitle": "Shannon LeGro: Into the Fray",
+      "publicationDate": "2017-10-22",
+      "recoveredDestinations": [],
+      "retainedDestinations": [
+        {
+          "platform": "Apple Podcasts",
+          "url": "https://podcasts.apple.com/us/podcast/somewhere-in-the-skies/id1227858637",
+          "classification": "podcast show page",
+          "secondaryOnly": true,
+          "confidence": "medium"
+        }
+      ],
+      "unavailableDestinations": [],
+      "platformsLackingDirectEpisodePages": [
+        "Apple Podcasts"
+      ],
+      "manualReviewRequired": true,
+      "completionStatus": "human_review_required",
+      "preferredDestination": null,
+      "validationIssue": {
+        "code": "preferred_destination_missing",
+        "classification": "unavailable"
+      },
+      "crossPlatformConfirmation": {
+        "status": "not_applicable",
+        "confirmedIdentity": null
+      }
+    },
+    {
+      "entityId": "2017-somewhere-in-the-skies-episode-29",
+      "episodeNumber": 29,
+      "episodeTitle": "Brian Bethel: Black Eyed Kid Phenomenon",
+      "publicationDate": "2017-10-29",
+      "recoveredDestinations": [],
+      "retainedDestinations": [
+        {
+          "platform": "Apple Podcasts",
+          "url": "https://podcasts.apple.com/us/podcast/somewhere-in-the-skies/id1227858637",
+          "classification": "podcast show page",
+          "secondaryOnly": true,
+          "confidence": "medium"
+        }
+      ],
+      "unavailableDestinations": [],
+      "platformsLackingDirectEpisodePages": [
+        "Apple Podcasts"
+      ],
+      "manualReviewRequired": true,
+      "completionStatus": "human_review_required",
+      "preferredDestination": null,
+      "validationIssue": {
+        "code": "preferred_destination_missing",
+        "classification": "unavailable"
+      },
+      "crossPlatformConfirmation": {
+        "status": "not_applicable",
+        "confirmedIdentity": null
+      }
+    },
+    {
+      "entityId": "2017-somewhere-in-the-skies-episode-3",
+      "episodeNumber": 3,
+      "episodeTitle": "Greg Eghigian: History of a Cultural Phenomenon",
+      "publicationDate": "2017-05-01",
+      "recoveredDestinations": [],
+      "retainedDestinations": [
+        {
+          "platform": "Apple Podcasts",
+          "url": "https://podcasts.apple.com/us/podcast/somewhere-in-the-skies/id1227858637",
+          "classification": "podcast show page",
+          "secondaryOnly": true,
+          "confidence": "medium"
+        }
+      ],
+      "unavailableDestinations": [],
+      "platformsLackingDirectEpisodePages": [
+        "Apple Podcasts"
+      ],
+      "manualReviewRequired": true,
+      "completionStatus": "human_review_required",
+      "preferredDestination": null,
+      "validationIssue": {
+        "code": "preferred_destination_missing",
+        "classification": "unavailable"
+      },
+      "crossPlatformConfirmation": {
+        "status": "not_applicable",
+        "confirmedIdentity": null
+      }
+    },
+    {
+      "entityId": "2017-somewhere-in-the-skies-episode-30",
+      "episodeNumber": 30,
+      "episodeTitle": "The Andreasson Abduction",
+      "publicationDate": "2017-11-05",
+      "recoveredDestinations": [],
+      "retainedDestinations": [
+        {
+          "platform": "Apple Podcasts",
+          "url": "https://podcasts.apple.com/us/podcast/somewhere-in-the-skies/id1227858637",
+          "classification": "podcast show page",
+          "secondaryOnly": true,
+          "confidence": "medium"
+        }
+      ],
+      "unavailableDestinations": [],
+      "platformsLackingDirectEpisodePages": [
+        "Apple Podcasts"
+      ],
+      "manualReviewRequired": true,
+      "completionStatus": "human_review_required",
+      "preferredDestination": null,
+      "validationIssue": {
+        "code": "preferred_destination_missing",
+        "classification": "unavailable"
+      },
+      "crossPlatformConfirmation": {
+        "status": "not_applicable",
+        "confirmedIdentity": null
+      }
+    },
+    {
+      "entityId": "2017-somewhere-in-the-skies-episode-31",
+      "episodeNumber": 31,
+      "episodeTitle": "Robbie Graham: Silver Screen Saucers",
+      "publicationDate": "2017-11-12",
+      "recoveredDestinations": [],
+      "retainedDestinations": [
+        {
+          "platform": "Apple Podcasts",
+          "url": "https://podcasts.apple.com/us/podcast/somewhere-in-the-skies/id1227858637",
+          "classification": "podcast show page",
+          "secondaryOnly": true,
+          "confidence": "medium"
+        }
+      ],
+      "unavailableDestinations": [],
+      "platformsLackingDirectEpisodePages": [
+        "Apple Podcasts"
+      ],
+      "manualReviewRequired": true,
+      "completionStatus": "human_review_required",
+      "preferredDestination": null,
+      "validationIssue": {
+        "code": "preferred_destination_missing",
+        "classification": "unavailable"
+      },
+      "crossPlatformConfirmation": {
+        "status": "not_applicable",
+        "confirmedIdentity": null
+      }
+    },
+    {
+      "entityId": "2017-somewhere-in-the-skies-episode-32",
+      "episodeNumber": 32,
+      "episodeTitle": "Rob Kristoffersen: Men in Black",
+      "publicationDate": "2017-11-19",
+      "recoveredDestinations": [],
+      "retainedDestinations": [
+        {
+          "platform": "Apple Podcasts",
+          "url": "https://podcasts.apple.com/us/podcast/somewhere-in-the-skies/id1227858637",
+          "classification": "podcast show page",
+          "secondaryOnly": true,
+          "confidence": "medium"
+        }
+      ],
+      "unavailableDestinations": [],
+      "platformsLackingDirectEpisodePages": [
+        "Apple Podcasts"
+      ],
+      "manualReviewRequired": true,
+      "completionStatus": "human_review_required",
+      "preferredDestination": null,
+      "validationIssue": {
+        "code": "preferred_destination_missing",
+        "classification": "unavailable"
+      },
+      "crossPlatformConfirmation": {
+        "status": "not_applicable",
+        "confirmedIdentity": null
+      }
+    },
+    {
+      "entityId": "2017-somewhere-in-the-skies-episode-33",
+      "episodeNumber": 33,
+      "episodeTitle": "Michael Huntington: Childhood UFO Encounters",
+      "publicationDate": "2017-11-27",
+      "recoveredDestinations": [],
+      "retainedDestinations": [
+        {
+          "platform": "Apple Podcasts",
+          "url": "https://podcasts.apple.com/us/podcast/somewhere-in-the-skies/id1227858637",
+          "classification": "podcast show page",
+          "secondaryOnly": true,
+          "confidence": "medium"
+        }
+      ],
+      "unavailableDestinations": [],
+      "platformsLackingDirectEpisodePages": [
+        "Apple Podcasts"
+      ],
+      "manualReviewRequired": true,
+      "completionStatus": "human_review_required",
+      "preferredDestination": null,
+      "validationIssue": {
+        "code": "preferred_destination_missing",
+        "classification": "unavailable"
+      },
+      "crossPlatformConfirmation": {
+        "status": "not_applicable",
+        "confirmedIdentity": null
+      }
+    },
+    {
+      "entityId": "2017-somewhere-in-the-skies-episode-34",
+      "episodeNumber": 34,
+      "episodeTitle": "Witness Accounts: Volume One",
+      "publicationDate": "2017-12-04",
+      "recoveredDestinations": [],
+      "retainedDestinations": [
+        {
+          "platform": "Apple Podcasts",
+          "url": "https://podcasts.apple.com/us/podcast/somewhere-in-the-skies/id1227858637",
+          "classification": "podcast show page",
+          "secondaryOnly": true,
+          "confidence": "medium"
+        }
+      ],
+      "unavailableDestinations": [],
+      "platformsLackingDirectEpisodePages": [
+        "Apple Podcasts"
+      ],
+      "manualReviewRequired": true,
+      "completionStatus": "human_review_required",
+      "preferredDestination": null,
+      "validationIssue": {
+        "code": "preferred_destination_missing",
+        "classification": "unavailable"
+      },
+      "crossPlatformConfirmation": {
+        "status": "not_applicable",
+        "confirmedIdentity": null
+      }
+    },
+    {
+      "entityId": "2017-somewhere-in-the-skies-episode-35",
+      "episodeNumber": 35,
+      "episodeTitle": "Paul Cornell: Saucer Country",
+      "publicationDate": "2017-12-11",
+      "recoveredDestinations": [],
+      "retainedDestinations": [
+        {
+          "platform": "Spotify",
+          "url": "https://open.spotify.com/episode/6BRMdWQlTLzIBqFhof6Wuy",
+          "classification": "direct episode",
+          "secondaryOnly": false,
+          "confidence": "high"
+        }
+      ],
+      "unavailableDestinations": [],
+      "platformsLackingDirectEpisodePages": [],
+      "manualReviewRequired": false,
+      "completionStatus": "complete",
+      "preferredDestination": "https://open.spotify.com/episode/6BRMdWQlTLzIBqFhof6Wuy",
+      "validationIssue": null,
+      "crossPlatformConfirmation": {
+        "status": "consistent",
+        "confirmedIdentity": null
+      }
+    },
+    {
+      "entityId": "2017-somewhere-in-the-skies-episode-36",
+      "episodeNumber": 36,
+      "episodeTitle": "UFO Roundtable: The Year In Review",
+      "publicationDate": "2017-12-19",
+      "recoveredDestinations": [],
+      "retainedDestinations": [
+        {
+          "platform": "Apple Podcasts",
+          "url": "https://podcasts.apple.com/us/podcast/somewhere-in-the-skies/id1227858637",
+          "classification": "podcast show page",
+          "secondaryOnly": true,
+          "confidence": "medium"
+        }
+      ],
+      "unavailableDestinations": [],
+      "platformsLackingDirectEpisodePages": [
+        "Apple Podcasts"
+      ],
+      "manualReviewRequired": true,
+      "completionStatus": "human_review_required",
+      "preferredDestination": null,
+      "validationIssue": {
+        "code": "preferred_destination_missing",
+        "classification": "unavailable"
+      },
+      "crossPlatformConfirmation": {
+        "status": "not_applicable",
+        "confirmedIdentity": null
+      }
+    },
+    {
+      "entityId": "2017-somewhere-in-the-skies-episode-4",
+      "episodeNumber": 4,
+      "episodeTitle": "Annie Jacobsen: Phenomena",
+      "publicationDate": "2017-05-08",
+      "recoveredDestinations": [],
+      "retainedDestinations": [
+        {
+          "platform": "Spotify",
+          "url": "https://open.spotify.com/episode/5nnM6FRzSDFrGjkBD4bBDF",
+          "classification": "direct episode",
+          "secondaryOnly": false,
+          "confidence": "high"
+        }
+      ],
+      "unavailableDestinations": [],
+      "platformsLackingDirectEpisodePages": [],
+      "manualReviewRequired": false,
+      "completionStatus": "complete",
+      "preferredDestination": "https://open.spotify.com/episode/5nnM6FRzSDFrGjkBD4bBDF",
+      "validationIssue": null,
+      "crossPlatformConfirmation": {
+        "status": "consistent",
+        "confirmedIdentity": null
+      }
+    },
+    {
+      "entityId": "2017-somewhere-in-the-skies-episode-5",
+      "episodeNumber": 5,
+      "episodeTitle": "Ruben Uriarte: UFOs Over Mexico and the Southwest",
+      "publicationDate": "2017-05-15",
+      "recoveredDestinations": [],
+      "retainedDestinations": [
+        {
+          "platform": "Apple Podcasts",
+          "url": "https://podcasts.apple.com/us/podcast/somewhere-in-the-skies/id1227858637",
+          "classification": "podcast show page",
+          "secondaryOnly": true,
+          "confidence": "medium"
+        }
+      ],
+      "unavailableDestinations": [],
+      "platformsLackingDirectEpisodePages": [
+        "Apple Podcasts"
+      ],
+      "manualReviewRequired": true,
+      "completionStatus": "human_review_required",
+      "preferredDestination": null,
+      "validationIssue": {
+        "code": "preferred_destination_missing",
+        "classification": "unavailable"
+      },
+      "crossPlatformConfirmation": {
+        "status": "not_applicable",
+        "confirmedIdentity": null
+      }
+    },
+    {
+      "entityId": "2017-somewhere-in-the-skies-episode-6",
+      "episodeNumber": 6,
+      "episodeTitle": "Susan Demeter-St. Clair : UFOs and the Parapsychological",
+      "publicationDate": "2017-05-22",
+      "recoveredDestinations": [],
+      "retainedDestinations": [
+        {
+          "platform": "Apple Podcasts",
+          "url": "https://podcasts.apple.com/us/podcast/somewhere-in-the-skies/id1227858637",
+          "classification": "podcast show page",
+          "secondaryOnly": true,
+          "confidence": "medium"
+        }
+      ],
+      "unavailableDestinations": [],
+      "platformsLackingDirectEpisodePages": [
+        "Apple Podcasts"
+      ],
+      "manualReviewRequired": true,
+      "completionStatus": "human_review_required",
+      "preferredDestination": null,
+      "validationIssue": {
+        "code": "preferred_destination_missing",
+        "classification": "unavailable"
+      },
+      "crossPlatformConfirmation": {
+        "status": "not_applicable",
+        "confirmedIdentity": null
+      }
+    },
+    {
+      "entityId": "2017-somewhere-in-the-skies-episode-7",
+      "episodeNumber": 7,
+      "episodeTitle": "Nick Redfern: The Roswell UFO Conspiracy",
+      "publicationDate": "2017-05-29",
+      "recoveredDestinations": [],
+      "retainedDestinations": [
+        {
+          "platform": "Spotify",
+          "url": "https://open.spotify.com/episode/4DKHn3la46ZaWVpnZpqdBJ",
+          "classification": "direct episode",
+          "secondaryOnly": false,
+          "confidence": "high"
+        }
+      ],
+      "unavailableDestinations": [],
+      "platformsLackingDirectEpisodePages": [],
+      "manualReviewRequired": false,
+      "completionStatus": "complete",
+      "preferredDestination": "https://open.spotify.com/episode/4DKHn3la46ZaWVpnZpqdBJ",
+      "validationIssue": null,
+      "crossPlatformConfirmation": {
+        "status": "consistent",
+        "confirmedIdentity": null
+      }
+    },
+    {
+      "entityId": "2017-somewhere-in-the-skies-episode-8",
+      "episodeNumber": 8,
+      "episodeTitle": "Jane Kyle: UFOs Over Texas",
+      "publicationDate": "2017-06-05",
+      "recoveredDestinations": [],
+      "retainedDestinations": [
+        {
+          "platform": "Apple Podcasts",
+          "url": "https://podcasts.apple.com/us/podcast/somewhere-in-the-skies/id1227858637",
+          "classification": "podcast show page",
+          "secondaryOnly": true,
+          "confidence": "medium"
+        }
+      ],
+      "unavailableDestinations": [],
+      "platformsLackingDirectEpisodePages": [
+        "Apple Podcasts"
+      ],
+      "manualReviewRequired": true,
+      "completionStatus": "human_review_required",
+      "preferredDestination": null,
+      "validationIssue": {
+        "code": "preferred_destination_missing",
+        "classification": "unavailable"
+      },
+      "crossPlatformConfirmation": {
+        "status": "not_applicable",
+        "confirmedIdentity": null
+      }
+    },
+    {
+      "entityId": "2017-somewhere-in-the-skies-episode-9",
+      "episodeNumber": 9,
+      "episodeTitle": "Andrew Sanford: Flying Saucers v.s. The Half White Son of a Black Man",
+      "publicationDate": "2017-06-12",
+      "recoveredDestinations": [],
+      "retainedDestinations": [
+        {
+          "platform": "Apple Podcasts",
+          "url": "https://podcasts.apple.com/us/podcast/somewhere-in-the-skies/id1227858637",
+          "classification": "podcast show page",
+          "secondaryOnly": true,
+          "confidence": "medium"
+        }
+      ],
+      "unavailableDestinations": [],
+      "platformsLackingDirectEpisodePages": [
+        "Apple Podcasts"
+      ],
+      "manualReviewRequired": true,
+      "completionStatus": "human_review_required",
+      "preferredDestination": null,
+      "validationIssue": {
+        "code": "preferred_destination_missing",
+        "classification": "unavailable"
+      },
+      "crossPlatformConfirmation": {
+        "status": "not_applicable",
+        "confirmedIdentity": null
+      }
+    },
+    {
+      "entityId": "2017-somewhere-in-the-skies-patreon-bonus-episode-sneak-peek",
+      "episodeNumber": null,
+      "episodeTitle": "PATREON BONUS EPISODE SNEAK PEEK!",
+      "publicationDate": "2017-09-17",
+      "recoveredDestinations": [],
+      "retainedDestinations": [
+        {
+          "platform": "Apple Podcasts",
+          "url": "https://podcasts.apple.com/us/podcast/somewhere-in-the-skies/id1227858637",
+          "classification": "podcast show page",
+          "secondaryOnly": true,
+          "confidence": "medium"
+        }
+      ],
+      "unavailableDestinations": [],
+      "platformsLackingDirectEpisodePages": [
+        "Apple Podcasts"
+      ],
+      "manualReviewRequired": true,
+      "completionStatus": "human_review_required",
+      "preferredDestination": null,
+      "validationIssue": {
+        "code": "preferred_destination_missing",
+        "classification": "unavailable"
+      },
+      "crossPlatformConfirmation": {
+        "status": "not_applicable",
+        "confirmedIdentity": null
+      }
+    }
+  ]
+}

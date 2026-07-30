@@ -113,7 +113,19 @@
           "legacyIndex": 0,
           "legacyLabel": "Exact Spotify episode page"
         }
-      ]
+      ],
+      "validationClassification": "direct episode",
+      "validationProvenance": {
+        "release": "V23.5C.3",
+        "validatedAt": "2026-07-30T20:00:00+00:00",
+        "recoverySource": "retained_repository_record",
+        "confidence": "high",
+        "identitySignals": [
+          "platform_episode_identifier",
+          "repository_title",
+          "publication_date"
+        ]
+      }
     }
   ],
   "mediaMigration": {
@@ -124,6 +136,18 @@
     "mediaRecordCount": 1,
     "duplicateCanonicalUrlsSuppressed": 1,
     "preferredCanonicalUrl": "https://open.spotify.com/episode/5nnM6FRzSDFrGjkBD4bBDF",
-    "preferredLabel": "Listen on Spotify"
+    "preferredLabel": "Listen on Spotify",
+    "completionRelease": "V23.5C.3",
+    "completionCheckedAt": "2026-07-30T20:00:00+00:00",
+    "preferredDestinationClassification": "direct episode",
+    "completionStatus": "complete",
+    "manualReviewRequired": false,
+    "crossPlatformConfirmation": {
+      "status": "consistent",
+      "confirmedIdentity": null
+    },
+    "validationIssue": null,
+    "existingDestinationsPreserved": true,
+    "fabricatedDestinations": 0
   }
 }
