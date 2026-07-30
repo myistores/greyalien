@@ -25,7 +25,7 @@ def validate_proposals(path):
   assert p['approvalCategory'] in {'automatic','human_review_required'}
   if p['approvalCategory']=='automatic': assert p['proposedAction'] in {'upgrade_http_to_https','adopt_equivalent_canonical','retire_duplicate_tracking_wrapper','correct_platform','correct_label','suppress_duplicate','reclassify_archive','normalize_canonical_url'}
 def validate_outputs(root):
- root=Path(root); required=['live_validation_results.json','live_validation_summary.json','repair_proposals.json','automatic_approval_queue.json','human_review_queue.json','human_review_report.md','cross_series_live_audit_report.json','transaction_preview.json','rollback_snapshot.json']
+ root=Path(root); required=['live_validation_results.json','live_validation_summary.json','repair_proposals.json','automatic_approval_queue.json','human_review_queue.json','human_review_report.md','cross_series_live_audit_report.json','transaction_preview.json','rollback_snapshot.json','apple_metadata_extraction_report.json','apple_identity_comparison_report.json','repair_proposal_deduplication_report.json']
  missing=[x for x in required if not (root/x).exists()]
  if missing: raise FileNotFoundError(f'missing outputs: {missing}')
  for p in root.rglob('*.json'): json.loads(p.read_text(encoding='utf-8'))

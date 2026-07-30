@@ -133,3 +133,7 @@ V23.5C.2A upgrades the prepared V23.5C.1 inventory into a production-capable Git
 ## V23.5C.2B GitHub Actions live-validation runner
 
 The repository now includes `.github/workflows/v23-5c-2b-live-podcast-media-validation.yml`. Run it manually from GitHub Actions with `job_limit` blank to validate all 491 prepared media jobs. The workflow uploads complete validation evidence and approval-gated repair proposals without silently changing production media. See `docs/releases/V23_5C_2B_LIVE_PODCAST_MEDIA_VALIDATION_AND_REPAIR.md`.
+
+### V23.5C.2B.1 audit-engine correction
+
+The live podcast media validator now includes Apple Podcasts episode/show identity extraction and repair-proposal deduplication. This release affects audit evidence only; it does not alter public podcast content or preferred destinations. See `docs/V23_5C_2B_1_APPLE_PODCASTS_IDENTITY_AND_PROPOSAL_DEDUPLICATION.md`.

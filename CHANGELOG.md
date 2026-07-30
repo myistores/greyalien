@@ -573,3 +573,13 @@ Migrated 257 podcast episodes and four series entities to the universal official
 - Added live evidence, repair queues, proposal reports, transaction preview, rollback snapshot, revision recording, and operator summary artifacts.
 - Preserved the approval boundary: the workflow does not import unreviewed repairs or change knowledge-graph data.
 - Added production run documentation and artifact retrieval instructions.
+
+## V23.5C.2B.1 — Apple Podcasts Identity & Repair Proposal Deduplication
+
+- Added dedicated Apple Podcasts metadata extraction with provenance and confidence.
+- Preserved Apple episode identifiers through redirects and canonical normalization.
+- Distinguished direct Apple episode URLs from show pages.
+- Added deterministic episode identity scoring and conflict safeguards.
+- Consolidated redundant repair findings into unique proposals with nested candidates.
+- Added Apple diagnostics and regression tests.
+- Preserved approval-gated transactions and made no production media or graph changes.

@@ -12,13 +12,15 @@ def detect_platform(url, content_type=''):
  if 'rss' in h or any(x in content_type.lower() for x in ('rss','atom','xml')): return 'RSS'
  return 'official hosted podcast page' if h else 'unknown destination'
 
+def apple_show_identifier(url):
+ m=re.search(r'/id(\d+)(?:$|[/?])',urlsplit(url or '').path); return m.group(1) if m else None
+
 def media_identifier(url,platform):
  s=urlsplit(url or ''); q=parse_qs(s.query)
  if platform=='YouTube':
   if host(url)=='youtu.be': return s.path.strip('/').split('/')[0] or None
   return (q.get('v') or [None])[0]
- if platform=='Apple Podcasts':
-  m=re.search(r'(?:\?|&)i=(\d+)',url or ''); return m.group(1) if m else None
+ if platform=='Apple Podcasts': return (q.get('i') or [None])[0]
  if platform=='Spotify':
   m=re.search(r'/(episode|show)/([A-Za-z0-9]+)',s.path); return m.group(2) if m else None
  return None
@@ -30,7 +32,10 @@ def detect_destination_type(url,platform,metadata=None):
   if '/watch' in p and q.get('v'): return 'direct episode'
   if '/playlist' in p or q.get('list'): return 'playlist'
   if any(x in p for x in ('/@','/channel/','/c/','/user/')): return 'channel'
- if platform=='Apple Podcasts': return 'direct episode' if ('i' in q or metadata.get('episodeNumber')) else 'podcast series or show'
+ if platform=='Apple Podcasts':
+  if media_identifier(url,platform) or metadata.get('episodeId'):return 'direct episode'
+  if apple_show_identifier(url) or metadata.get('showId'):return 'podcast series or show'
+  return 'unknown'
  if platform=='Spotify':
   if '/episode/' in p: return 'direct episode'
   if '/show/' in p: return 'podcast series or show'

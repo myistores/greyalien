@@ -2,8 +2,9 @@ from __future__ import annotations
 import json,re
 from bs4 import BeautifulSoup
 import feedparser
-from .common import now_iso
+from .common import now_iso,norm_text
 from .detection import detect_platform,detect_destination_type,media_identifier
+from .apple import extract_apple_metadata,classify_apple_destination
 SOFT404=('page not found','404 not found','content unavailable','episode not found','this page doesn’t exist','this page does not exist')
 def _meta(soup,*keys):
  for key in keys:
@@ -13,7 +14,7 @@ def _meta(soup,*keys):
 def extract(response):
  ct=response.headers.get('Content-Type',''); raw=response.content[:1500000]; final=response.url
  if 'xml' in ct.lower() or raw.lstrip().startswith(b'<?xml') or raw.lstrip().startswith(b'<rss'):
-  feed=feedparser.parse(raw); title=feed.feed.get('title'); return {'pageTitle':title,'htmlTitle':title,'canonicalUrl':final,'ogTitle':None,'ogUrl':None,'ogType':'rss','description':feed.feed.get('subtitle'),'platform':'RSS','mediaIdentifier':None,'publisherName':feed.feed.get('author'),'podcastName':title,'episodeTitle':None,'episodeNumber':None,'publicationDate':None,'duration':None,'availability':'available' if not feed.bozo else 'parse_warning','contentType':ct,'retrievedAt':now_iso(),'rssEntryCount':len(feed.entries),'rssBozo':bool(feed.bozo),'soft404':False}
+  feed=feedparser.parse(raw); title=feed.feed.get('title'); return {'pageTitle':title,'htmlTitle':title,'canonicalUrl':final,'ogTitle':None,'ogUrl':None,'ogType':'rss','description':feed.feed.get('subtitle'),'platform':'RSS','mediaIdentifier':None,'publisherName':feed.feed.get('author'),'podcastName':title,'showTitle':title,'episodeTitle':None,'episodeNumber':None,'publicationDate':None,'duration':None,'availability':'available' if not feed.bozo else 'parse_warning','contentType':ct,'retrievedAt':now_iso(),'rssEntryCount':len(feed.entries),'rssBozo':bool(feed.bozo),'soft404':False,'metadataSources':{}}
  text=raw.decode(response.encoding or 'utf-8',errors='replace'); soup=BeautifulSoup(text,'html.parser'); title=soup.title.get_text(' ',strip=True) if soup.title else None
  canonical=(soup.find('link',rel=lambda x:x and 'canonical' in x) or {}).get('href') if soup else None
  ld=[]
@@ -23,5 +24,12 @@ def extract(response):
  flat=json.dumps(ld,ensure_ascii=False); epno=None
  m=re.search(r'"episodeNumber"\s*:\s*"?(\d+)',flat); epno=int(m.group(1)) if m else None
  desc=_meta(soup,'description','og:description'); ogt=_meta(soup,'og:title'); platform=detect_platform(final,ct)
- evidence={'pageTitle':title,'htmlTitle':title,'canonicalUrl':canonical,'ogTitle':ogt,'ogUrl':_meta(soup,'og:url'),'ogType':_meta(soup,'og:type'),'description':desc,'platform':platform,'mediaIdentifier':media_identifier(final,platform),'publisherName':_meta(soup,'author','article:author'),'podcastName':_meta(soup,'music:musician') or _meta(soup,'og:site_name'),'episodeTitle':ogt or title,'episodeNumber':epno,'publicationDate':_meta(soup,'article:published_time','date','datePublished'),'duration':_meta(soup,'video:duration','music:duration'),'availability':'available','contentType':ct,'retrievedAt':now_iso(),'soft404':response.status_code==200 and any(x in ((title or '')+' '+(desc or '')).lower() for x in SOFT404)}
- evidence['destinationType']=detect_destination_type(final,platform,evidence); return evidence
+ site=_meta(soup,'music:musician') or _meta(soup,'og:site_name')
+ if platform=='Apple Podcasts' and norm_text(site) in {'apple',''}:site=None
+ evidence={'pageTitle':title,'htmlTitle':title,'canonicalUrl':canonical,'ogTitle':ogt,'ogUrl':_meta(soup,'og:url'),'ogType':_meta(soup,'og:type'),'description':desc,'platform':platform,'mediaIdentifier':media_identifier(final,platform),'publisherName':_meta(soup,'author','article:author'),'podcastName':site,'showTitle':site,'episodeTitle':ogt or title,'episodeNumber':epno,'publicationDate':_meta(soup,'article:published_time','date','datePublished'),'duration':_meta(soup,'video:duration','music:duration'),'availability':'available','contentType':ct,'retrievedAt':now_iso(),'soft404':response.status_code==200 and any(x in ((title or '')+' '+(desc or '')).lower() for x in SOFT404),'metadataSources':{}}
+ if platform=='Apple Podcasts':
+  apple=extract_apple_metadata(soup,getattr(response,'requested_url',None) or final,final,canonical)
+  evidence.update(apple); evidence['podcastName']=apple.get('showTitle'); evidence['mediaIdentifier']=apple.get('episodeId')
+  evidence['destinationType']=classify_apple_destination(getattr(response,'requested_url',None) or final,final,apple.get('canonicalUrl'),apple)
+ else:evidence['destinationType']=detect_destination_type(final,platform,evidence)
+ return evidence

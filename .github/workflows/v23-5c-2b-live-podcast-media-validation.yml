@@ -213,7 +213,7 @@ jobs:
 
           if not summary_path.exists():
               output_path.write_text(
-                  "# V23.5C.2B Live Validation Run\n\n"
+                  "# V23.5C.2B.1 Live Validation Run\n\n"
                   "- The workflow did not produce "
                   "`live_validation_summary.json`.\n"
                   "- Review `live_validation_run.log` and the GitHub "
@@ -226,12 +226,12 @@ jobs:
               summary = json.load(handle)
 
           lines = [
-              "# V23.5C.2B Live Validation Run",
+              "# V23.5C.2B.1 Live Validation Run",
               "",
               f"- Total jobs: {summary.get('totalJobs', 0)}",
               (
-                  "- Repair proposals: "
-                  f"{summary.get('repairProposals', 0)}"
+                  "- Unique repair proposals: "
+                  f"{summary.get('uniqueRepairProposals', summary.get('repairProposals', 0))}"
               ),
               (
                   "- Automatically approvable: "
