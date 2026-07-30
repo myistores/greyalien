@@ -583,3 +583,12 @@ Migrated 257 podcast episodes and four series entities to the universal official
 - Consolidated redundant repair findings into unique proposals with nested candidates.
 - Added Apple diagnostics and regression tests.
 - Preserved approval-gated transactions and made no production media or graph changes.
+
+## V23.5C.2B.3 — Apple Metadata Source Prioritization and Episode Title Extraction
+
+- Rejects `@ApplePodcasts` and normalized Apple platform-branding variants from podcast and episode identity fields.
+- Rejects exact generic Apple playback/interface labels such as `Play`, `Listen Now`, and `Preview` as episode titles.
+- Preserves legitimate podcast and episode titles containing words such as Apple, Play, or Preview.
+- Selects the highest-priority valid Apple metadata candidate using deterministic confidence and source precedence.
+- Adds accepted/rejected diagnostics, insufficient-metadata reporting, nine regression fixtures, and focused parser tests.
+- Preserves workflows, schemas, proposal deduplication, approval gating, transactions, production media data, rendering, and knowledge-graph files.

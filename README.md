@@ -137,3 +137,7 @@ The repository now includes `.github/workflows/v23-5c-2b-live-podcast-media-vali
 ### V23.5C.2B.1 audit-engine correction
 
 The live podcast media validator now includes Apple Podcasts episode/show identity extraction and repair-proposal deduplication. This release affects audit evidence only; it does not alter public podcast content or preferred destinations. See `docs/V23_5C_2B_1_APPLE_PODCASTS_IDENTITY_AND_PROPOSAL_DEDUPLICATION.md`.
+
+## V23.5C.2B.3 — Apple metadata correction
+
+The Apple Podcasts audit parser now rejects Apple platform branding and generic playback controls from podcast identity fields, while deterministically preferring valid structured show and episode metadata. See `docs/V23_5C_2B_3_APPLE_METADATA_SOURCE_PRIORITIZATION_AND_EPISODE_TITLE_EXTRACTION.md`.

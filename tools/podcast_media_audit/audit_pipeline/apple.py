@@ -1,15 +1,27 @@
 from __future__ import annotations
 import json,re
 from urllib.parse import parse_qs,urlsplit,urlunsplit,urlencode
-from .common import norm_text
 
-APPLE_BRAND_NAMES={
- 'apple','apple podcast','apple podcasts','apple podcasts preview','apple podcasts preview app',
- 'listen on apple podcasts','podcasts on apple podcasts','apple podcasts app','itunes','itunes store'
+APPLE_BRAND_PATTERNS=(
+ r'@?apple\s*podcasts?',
+ r'@?applepodcasts',
+ r'apple\s*podcasts?\s*preview',
+ r'listen\s+(?:on|with)\s+apple\s*podcasts?',
+ r'available\s+on\s+apple\s*podcasts?',
+ r'podcasts?\s+on\s+apple',
+)
+GENERIC_EPISODE_UI_LABELS={
+ 'play','pause','preview','listen','listen now','resume','open','share','more',
+ 'download','subscribe','follow','episode','podcast'
 }
 SOURCE_CONFIDENCE={
  'apple_structured_metadata':100,'embedded_json':98,'json_ld':96,'apple_storefront_metadata':94,
- 'canonical_metadata':86,'open_graph':76,'twitter_card':70,'document_title':52
+ 'canonical_metadata':86,'open_graph':76,'twitter_card':70,'document_title':52,'dom_text':30
+}
+SOURCE_PRIORITY={
+ 'apple_structured_metadata':1,'embedded_json':2,'json_ld':3,'apple_storefront_metadata':4,
+ 'canonical_metadata':5,'open_graph':6,'twitter_card':7,'document_title':8,'dom_text':9,
+ 'original_url':1,'final_url':2,'canonical_url':3
 }
 
 def extract_apple_ids(url):
@@ -25,17 +37,39 @@ def normalize_apple_url(url,preserve_episode_id=True,episode_id=None):
  path=re.sub(r'/+','/',s.path or '/').rstrip('/') or '/'
  return urlunsplit(((s.scheme or 'https').lower(),(s.hostname or '').lower(),path,query,''))
 
-def _clean_title(v):
- if not v:return None
- v=str(v).strip()
- v=re.sub(r'^Listen to\s+','',v,flags=re.I)
- v=re.sub(r'\s*[-|–—:]\s*(?:Apple Podcasts(?: Preview)?|Listen on Apple Podcasts)\s*$','',v,flags=re.I).strip()
- return v or None
+def _clean_title(value):
+ if not value:return None
+ value=re.sub(r'\s+',' ',str(value).strip())
+ value=re.sub(r'^Listen to\s+','',value,flags=re.I)
+ value=re.sub(r'\s*[-|–—:]\s*(?:Apple Podcasts(?: Preview)?|Listen on Apple Podcasts)\s*$','',value,flags=re.I).strip()
+ return value or None
+
+def _normalized_phrase(value):
+ value=str(value or '').strip().lower().replace('–','-').replace('—','-').replace('−','-')
+ value=re.sub(r'^@+','@',value)
+ value=re.sub(r'[^a-z0-9@]+',' ',value)
+ return re.sub(r'\s+',' ',value).strip()
+
+def is_apple_platform_branding(value):
+ normalized=_normalized_phrase(value)
+ if not normalized:return True
+ compact=normalized.replace(' ','')
+ for pattern in APPLE_BRAND_PATTERNS:
+  if re.fullmatch(pattern,normalized,re.I) or re.fullmatch(pattern,compact,re.I):return True
+ # Reject longer strings that are still only an Apple call-to-action/platform label.
+ tokens=set(normalized.replace('@','').split())
+ allowed={'apple','podcast','podcasts','preview','listen','on','with','available','app','itunes','store'}
+ return 'apple' in tokens and bool(tokens & {'podcast','podcasts'}) and tokens <= allowed
 
 def is_apple_branding(value):
- raw=re.sub(r'[^a-z0-9]+',' ',str(value or '').lower()).strip()
- cleaned=re.sub(r'[^a-z0-9]+',' ',str(_clean_title(value) or '').lower()).strip()
- return not cleaned or raw in APPLE_BRAND_NAMES or cleaned in APPLE_BRAND_NAMES or bool(re.fullmatch(r'(?:listen on )?apple podcasts?(?: preview)?',raw))
+ return is_apple_platform_branding(value)
+
+def is_generic_episode_ui_label(value):
+ normalized=_normalized_phrase(value).replace('@','')
+ return normalized in GENERIC_EPISODE_UI_LABELS
+
+def _is_social_handle(value):
+ return bool(re.fullmatch(r'@[a-z0-9_.-]+',str(value or '').strip(),re.I))
 
 def _walk(obj):
  if isinstance(obj,dict):
@@ -59,7 +93,12 @@ def _candidate(candidates,field,value,source,confidence=None,context=None):
  if field in {'showTitle','episodeTitle'}:value=_clean_title(value)
  if not value:return
  rejected=False; reason=None
- if field=='showTitle' and is_apple_branding(value):rejected=True;reason='platform_branding'
+ if field in {'showTitle','episodeTitle'} and is_apple_platform_branding(value):
+  rejected=True;reason='platform_branding'
+ elif field=='episodeTitle' and is_generic_episode_ui_label(value):
+  rejected=True;reason='generic_ui_label'
+ elif field=='showTitle' and _is_social_handle(value):
+  rejected=True;reason='social_media_handle'
  candidates.append({'field':field,'value':str(value) if field in {'showId','episodeId'} else value,'source':source,'confidence':confidence if confidence is not None else SOURCE_CONFIDENCE.get(source,50),'rejected':rejected,'rejectionReason':reason,'context':context})
 
 def _meta(soup,*keys):
@@ -74,6 +113,16 @@ def _canonical_slug_title(url):
  if not m:return None
  slug=m.group(1).replace('-',' ').strip()
  return ' '.join(w.capitalize() if w.lower() not in {'in','the','of','and','to'} else w.lower() for w in slug.split())
+
+def _select_candidates(candidates):
+ selected={}
+ for candidate in candidates:
+  if candidate['rejected']:continue
+  field=candidate['field']; current=selected.get(field)
+  score=(candidate['confidence'],-SOURCE_PRIORITY.get(candidate['source'],99))
+  current_score=(current['confidence'],-SOURCE_PRIORITY.get(current['source'],99)) if current else None
+  if current is None or score>current_score:selected[field]=candidate
+ return selected
 
 def extract_apple_metadata(soup,original_url,final_url,canonical_url=None):
  candidates=[]; diagnostics=[]
@@ -100,11 +149,9 @@ def extract_apple_metadata(soup,original_url,final_url,canonical_url=None):
    _candidate(candidates,'publicationDate',node.get('datePublished') or node.get('releaseDate') or node.get('releaseDateTime'),source,90)
    _candidate(candidates,'duration',node.get('duration'),source,85)
    _candidate(candidates,'episodeNumber',node.get('episodeNumber') or node.get('trackNumber'),source,88)
-   author=node.get('author') or node.get('creator') or node.get('artistName')
-   _candidate(candidates,'author',author,source,80)
+   _candidate(candidates,'author',node.get('author') or node.get('creator') or node.get('artistName'),source,80)
    _candidate(candidates,'description',node.get('description') or node.get('shortDescription'),source,80)
-   image=node.get('image') or node.get('artworkUrl') or node.get('artwork')
-   _candidate(candidates,'artworkUrl',image,source,80)
+   _candidate(candidates,'artworkUrl',node.get('image') or node.get('artworkUrl') or node.get('artwork'),source,80)
  site=_meta(soup,'og:site_name'); og_title=_meta(soup,'og:title')
  _candidate(candidates,'showTitle',site,'open_graph',76,'og:site_name')
  _candidate(candidates,'episodeTitle',og_title,'open_graph',74,'og:title')
@@ -118,11 +165,13 @@ def extract_apple_metadata(soup,original_url,final_url,canonical_url=None):
  title=soup.title.get_text(' ',strip=True) if soup.title else None
  destination_has_episode=any(extract_apple_ids(u).get('episodeId') for _,u in urls if u)
  _candidate(candidates,'episodeTitle' if destination_has_episode else 'showTitle',title,'document_title',52,'html_title')
- selected={}
- for c in candidates:
-  if c['rejected']:continue
-  cur=selected.get(c['field'])
-  if cur is None or c['confidence']>cur['confidence']:selected[c['field']]=c
+ # Apple control text is diagnostic-only and can never outrank metadata.
+ for node in soup.select('button, [role="button"], a[aria-label], button[aria-label]'):
+  value=node.get('aria-label') or node.get_text(' ',strip=True)
+  _candidate(candidates,'episodeTitle',value,'dom_text',30,node.name)
+ selected=_select_candidates(candidates)
+ if not selected.get('showTitle'):diagnostics.append('insufficient_metadata:showTitle')
+ if destination_has_episode and not selected.get('episodeTitle'):diagnostics.append('insufficient_metadata:episodeTitle')
  episode_id=(selected.get('episodeId') or {}).get('value')
  can=canonical
  if episode_id and can and not extract_apple_ids(can).get('episodeId'):
