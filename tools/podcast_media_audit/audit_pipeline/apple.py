@@ -126,6 +126,12 @@ def _select_candidates(candidates):
 
 def extract_apple_metadata(soup,original_url,final_url,canonical_url=None):
  candidates=[]; diagnostics=[]
+ requested_ids=extract_apple_ids(original_url)
+ resolved_ids=extract_apple_ids(final_url)
+ canonical_ids=extract_apple_ids(canonical_url)
+ requested_episode_id=requested_ids.get('episodeId')
+ resolved_episode_id=resolved_ids.get('episodeId')
+ canonical_episode_id=canonical_ids.get('episodeId')
  urls=[('original_url',original_url),('final_url',final_url),('canonical_url',canonical_url)]
  for source,url in urls:
   item=extract_apple_ids(url)
@@ -172,13 +178,28 @@ def extract_apple_metadata(soup,original_url,final_url,canonical_url=None):
  selected=_select_candidates(candidates)
  if not selected.get('showTitle'):diagnostics.append('insufficient_metadata:showTitle')
  if destination_has_episode and not selected.get('episodeTitle'):diagnostics.append('insufficient_metadata:episodeTitle')
- episode_id=(selected.get('episodeId') or {}).get('value')
- can=canonical
- if episode_id and can and not extract_apple_ids(can).get('episodeId'):
-  diagnostics.append('canonical_url_dropped_episode_identifier');can=normalize_apple_url(can,True,episode_id)
- else:can=normalize_apple_url(can,True,episode_id) if can else None
+ # Metadata episode identity must come from page data, never from requested/final/canonical URLs.
+ metadata_episode_candidates=[c for c in candidates if c['field']=='episodeId' and c['source'] not in {'original_url','final_url','canonical_url'} and not c['rejected']]
+ metadata_episode_candidate=max(metadata_episode_candidates,key=lambda c:(c['confidence'],-SOURCE_PRIORITY.get(c['source'],99)),default=None)
+ metadata_episode_id=metadata_episode_candidate.get('value') if metadata_episode_candidate else None
+ canonical_dropped=bool(requested_episode_id and canonical_url and not canonical_episode_id)
+ if canonical_dropped:diagnostics.append('canonical_url_dropped_episode_identifier')
+ if requested_episode_id and resolved_episode_id and resolved_episode_id!=requested_episode_id:diagnostics.append('resolved_to_different_episode')
+ if requested_episode_id and metadata_episode_id and metadata_episode_id!=requested_episode_id:diagnostics.append('metadata_episode_id_conflict')
+ authoritative=[x for x in (resolved_episode_id,metadata_episode_id) if x]
+ destination_matches=bool(requested_episode_id and authoritative and all(x==requested_episode_id for x in authoritative))
+ if requested_episode_id and not destination_matches and not any(x!=requested_episode_id for x in authoritative):diagnostics.append('requested_episode_not_confirmed')
+ episode_identifier_preserved=bool(requested_episode_id and extract_apple_ids(normalize_apple_url(original_url,True,requested_episode_id)).get('episodeId')==requested_episode_id)
  flat={k:v['value'] for k,v in selected.items()}
- flat['canonicalUrl']=can
+ flat['episodeId']=metadata_episode_id or resolved_episode_id or requested_episode_id
+ flat['requestedEpisodeId']=requested_episode_id
+ flat['resolvedEpisodeId']=resolved_episode_id
+ flat['canonicalEpisodeId']=canonical_episode_id
+ flat['metadataEpisodeId']=metadata_episode_id
+ flat['episodeIdentifierPreserved']=episode_identifier_preserved
+ flat['destinationMatchesRequestedEpisode']=destination_matches if requested_episode_id else False
+ flat['canonicalUrlDroppedEpisodeIdentifier']=canonical_dropped
+ flat['canonicalUrl']=normalize_apple_url(canonical_url,False) if canonical_url else None
  flat['countryOrStorefront']=(urlsplit(final_url or original_url or '').path.strip('/').split('/') or [None])[0] or None
  flat['metadataSources']={k:{'source':v['source'],'confidence':v['confidence']} for k,v in selected.items()}
  flat['metadataSourceSelected']=flat.get('metadataSources',{}).get('showTitle')
@@ -187,8 +208,19 @@ def extract_apple_metadata(soup,original_url,final_url,canonical_url=None):
  flat['confidenceScore']=(selected.get('showTitle') or {}).get('confidence')
  flat['finalSelectedSeries']=flat.get('showTitle')
  flat['finalSelectedEpisode']=flat.get('episodeTitle')
- flat['parserDecisionPath']=[f"reject:{c['source']}:{c['value']}:{c['rejectionReason']}" for c in candidates if c['rejected']]+[f"select:{k}:{v['source']}:{v['confidence']}" for k,v in selected.items()]
- flat['reviewReasons']=diagnostics
+ path=[f"reject:{c['source']}:{c['value']}:{c['rejectionReason']}" for c in candidates if c['rejected']]+[f"select:{k}:{v['source']}:{v['confidence']}" for k,v in selected.items()]
+ if requested_episode_id:path.append(f'preserve:requested_episode_id:{requested_episode_id}')
+ if requested_episode_id and resolved_episode_id==requested_episode_id:path.append('redirect:episode_id_preserved')
+ elif requested_episode_id and resolved_episode_id:path.append(f'redirect:episode_id_changed:{resolved_episode_id}')
+ if canonical_dropped:path.append('canonical:episode_id_missing')
+ elif canonical_episode_id:path.append(f'canonical:episode_id:{canonical_episode_id}')
+ if metadata_episode_id:path.append(f'metadata:episode_id:{metadata_episode_id}')
+ if 'resolved_to_different_episode' in diagnostics:path.extend(['classify:resolved_to_different_episode','skip:repository_identity_comparison'])
+ elif 'metadata_episode_id_conflict' in diagnostics:path.extend(['classify:metadata_episode_id_conflict','skip:repository_identity_comparison'])
+ elif requested_episode_id and not destination_matches:path.extend(['classify:requested_episode_not_confirmed','skip:repository_identity_comparison'])
+ elif destination_matches:path.append('confirm:destination_matches_requested_episode')
+ flat['parserDecisionPath']=path
+ flat['reviewReasons']=list(dict.fromkeys(diagnostics))
  return flat
 
 def classify_apple_destination(original_url,final_url,canonical_url,metadata):

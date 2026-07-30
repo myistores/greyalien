@@ -1,0 +1,38 @@
+test_genuine_conflict_still_detected_after_episode_confirmation (test_apple_identity.AppleIdentityGateTests.test_genuine_conflict_still_detected_after_episode_confirmation) ... ok
+test_match (test_apple_identity.AppleIdentityTests.test_match) ... ok
+test_off_by_one (test_apple_identity.AppleIdentityTests.test_off_by_one) ... ok
+test_wrong_series (test_apple_identity.AppleIdentityTests.test_wrong_series) ... ok
+test_metadata_different_episode_is_resolution_mismatch (test_apple_metadata.AppleEpisodeIdentifierPreservationTests.test_metadata_different_episode_is_resolution_mismatch) ... ok
+test_regional_redirect_preserves_episode (test_apple_metadata.AppleEpisodeIdentifierPreservationTests.test_regional_redirect_preserves_episode) ... ok
+test_requested_identifier_preserved_when_canonical_drops_it (test_apple_metadata.AppleEpisodeIdentifierPreservationTests.test_requested_identifier_preserved_when_canonical_drops_it) ... ok
+test_show_level_url_does_not_invent_episode (test_apple_metadata.AppleEpisodeIdentifierPreservationTests.test_show_level_url_does_not_invent_episode) ... ok
+test_branding_only_returns_null (test_apple_metadata.AppleMetadataTests.test_branding_only_returns_null) ... ok
+test_branding_rejected (test_apple_metadata.AppleMetadataTests.test_branding_rejected) ... ok
+test_branding_variants (test_apple_metadata.AppleMetadataTests.test_branding_variants) ... ok
+test_direct_episode (test_apple_metadata.AppleMetadataTests.test_direct_episode) ... ok
+test_embedded_metadata_outranks_og_and_dom (test_apple_metadata.AppleMetadataTests.test_embedded_metadata_outranks_og_and_dom) ... ok
+test_generic_play_label_rejected (test_apple_metadata.AppleMetadataTests.test_generic_play_label_rejected) ... ok
+test_generic_ui_labels (test_apple_metadata.AppleMetadataTests.test_generic_ui_labels) ... ok
+test_html_title_and_canonical_fallback (test_apple_metadata.AppleMetadataTests.test_html_title_and_canonical_fallback) ... ok
+test_ids_and_normalization (test_apple_metadata.AppleMetadataTests.test_ids_and_normalization) ... ok
+test_jsonld_episode_fallback (test_apple_metadata.AppleMetadataTests.test_jsonld_episode_fallback) ... ok
+test_jsonld_precedence (test_apple_metadata.AppleMetadataTests.test_jsonld_precedence) ... ok
+test_open_graph_fallback (test_apple_metadata.AppleMetadataTests.test_open_graph_fallback) ... ok
+test_play_heading_and_button_do_not_override_structured (test_apple_metadata.AppleMetadataTests.test_play_heading_and_button_do_not_override_structured) ... ok
+test_show_page (test_apple_metadata.AppleMetadataTests.test_show_page) ... ok
+test_twitter_branding_og_fallback (test_apple_metadata.AppleMetadataTests.test_twitter_branding_og_fallback) ... ok
+test_twitter_branding_structured_title_wins (test_apple_metadata.AppleMetadataTests.test_twitter_branding_structured_title_wins) ... ok
+test_valid_titles_containing_play_and_apple (test_apple_metadata.AppleMetadataTests.test_valid_titles_containing_play_and_apple) ... ok
+test_id (test_pipeline.Tests.test_id) ... ok
+test_identity_off_by_one (test_pipeline.Tests.test_identity_off_by_one) ... ok
+test_normalize (test_pipeline.Tests.test_normalize) ... ok
+test_platforms (test_pipeline.Tests.test_platforms) ... ok
+test_transport (test_pipeline.Tests.test_transport) ... ok
+test_youtube_type (test_pipeline.Tests.test_youtube_type) ... ok
+test_duplicate_keys_collapse (test_proposal_deduplication.ProposalTests.test_duplicate_keys_collapse) ... ok
+test_related_findings_one_proposal (test_proposal_deduplication.ProposalTests.test_related_findings_one_proposal) ... ok
+
+----------------------------------------------------------------------
+Ran 33 tests in 0.023s
+
+OK

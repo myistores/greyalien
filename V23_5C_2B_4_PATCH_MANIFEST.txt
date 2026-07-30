@@ -1,0 +1,24 @@
+V23.5C.2B.4 — Apple Episode Identifier Preservation and Canonicalization Validation
+Base repository: V23.5C.2B.3
+Production type: Focused corrective validation patch
+
+IMPLEMENTED FILES
+- tools/podcast_media_audit/audit_pipeline/apple.py
+- tools/podcast_media_audit/audit_pipeline/runner.py
+- tools/podcast_media_audit/tests/test_apple_metadata.py
+- tools/podcast_media_audit/tests/test_apple_identity.py
+
+VALIDATION ARTIFACTS
+- validation/v23_5c_2b_4/
+
+IMPLEMENTATION SUMMARY
+- Preserves the requested Apple episode identifier independently from resolved, canonical, and metadata identifiers.
+- Retains requestedUrl, normalizedUrl, redirectChain, resolvedUrl/finalUrl, and canonicalUrl diagnostics.
+- Does not rewrite a show-level Apple canonical URL to conceal a dropped episode query parameter.
+- Confirms the requested Apple episode before repository title/date/number comparison.
+- Classifies resolution-path failures separately using canonical_url_dropped_episode_identifier, resolved_to_different_episode, metadata_episode_id_conflict, or requested_episode_not_confirmed.
+- Skips repository identity comparison when the requested Apple episode cannot be confirmed.
+- Preserves genuine identity mismatch detection after episode confirmation.
+
+UNCHANGED SYSTEMS
+GitHub Actions workflow, validation inventory, schemas, proposal generation and deduplication, approval controls, transaction/import/rollback logic, page regeneration, preferred destinations, production podcast data, rendered HTML, official media collections, entities, knowledge graph, Apple branding filters, Apple title extraction, and non-Apple validation.

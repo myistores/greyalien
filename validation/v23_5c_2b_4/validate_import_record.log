@@ -1,0 +1,2 @@
+usage: validate_import_record.py [-h] [--json-report JSON_REPORT] path
+validate_import_record.py: error: the following arguments are required: path

@@ -1,0 +1,22 @@
+V23.5C.2B.4 VALIDATION SUMMARY
+
+Audit-engine unit tests: PASS — 33 tests
+Focused Apple identifier regression tests: PASS
+Graph validation: PASS — 1609 entities, 3588 relationships (existing legacy warnings only)
+Need to Know media validation: PASS — 75 records
+Podcast classification validation: PASS
+Universal official-media validation: PASS — 491 records
+Podcast validation: PASS (existing recommended-field warnings only)
+Rendering rules validation: PASS
+Research Accelerator validation: PASS
+Somewhere in the Skies media validation: PASS — 40 records
+Source validation: PASS (existing source warnings only)
+Timeline normalization validation: PASS
+V23.5B migration validation: PASS — 261 records
+V23.5C.1 validation: PASS
+V23.5C.2A validation: PASS
+V23.5C.2A.1 validation: PASS — 261 records
+
+Live ten-job GitHub Actions validation was not run locally. It remains the required post-deployment validation using:
+jobs_path: data/media-audit/v23.5c.1/jobs/validation_jobs.json
+job_limit: 10

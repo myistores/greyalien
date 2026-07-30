@@ -65,3 +65,38 @@ class AppleMetadataTests(unittest.TestCase):
  def test_ids_and_normalization(self):
   u='https://podcasts.apple.com/us/podcast/x/id123?utm_source=x&i=100456';self.assertEqual(extract_apple_ids(u),{'showId':'123','episodeId':'100456'});self.assertEqual(normalize_apple_url(u),'https://podcasts.apple.com/us/podcast/x/id123?i=100456')
 if __name__=='__main__':unittest.main()
+
+class AppleEpisodeIdentifierPreservationTests(unittest.TestCase):
+ def soup(self,episode_id='1000712345678',title='Requested Episode'):
+  return BeautifulSoup(f'''<html><head><script type="application/ld+json">{{"@type":"PodcastEpisode","name":"{title}","episodeId":"{episode_id}","partOfSeries":{{"name":"Test Show"}}}}</script></head></html>''','html.parser')
+ def test_requested_identifier_preserved_when_canonical_drops_it(self):
+  requested='https://podcasts.apple.com/us/podcast/test/id123?i=1000697323826'
+  canonical='https://podcasts.apple.com/us/podcast/test/id123'
+  m=extract_apple_metadata(self.soup('1000697323826'),requested,requested,canonical)
+  self.assertEqual(m['requestedEpisodeId'],'1000697323826')
+  self.assertIsNone(m['canonicalEpisodeId'])
+  self.assertTrue(m['canonicalUrlDroppedEpisodeIdentifier'])
+  self.assertTrue(m['destinationMatchesRequestedEpisode'])
+  self.assertIn('canonical_url_dropped_episode_identifier',m['reviewReasons'])
+  self.assertNotIn('i=',m['canonicalUrl'])
+ def test_regional_redirect_preserves_episode(self):
+  requested='https://podcasts.apple.com/us/podcast/test/id123?i=1000697323826'
+  resolved='https://podcasts.apple.com/gb/podcast/test/id123?i=1000697323826'
+  m=extract_apple_metadata(self.soup('1000697323826'),requested,resolved,resolved)
+  self.assertEqual(m['resolvedEpisodeId'],'1000697323826')
+  self.assertTrue(m['destinationMatchesRequestedEpisode'])
+  self.assertIn('redirect:episode_id_preserved',m['parserDecisionPath'])
+ def test_metadata_different_episode_is_resolution_mismatch(self):
+  requested='https://podcasts.apple.com/us/podcast/test/id123?i=1000697323826'
+  m=extract_apple_metadata(self.soup('1000712345678','Different Episode'),requested,requested,requested)
+  self.assertEqual(m['metadataEpisodeId'],'1000712345678')
+  self.assertFalse(m['destinationMatchesRequestedEpisode'])
+  self.assertIn('metadata_episode_id_conflict',m['reviewReasons'])
+  self.assertIn('skip:repository_identity_comparison',m['parserDecisionPath'])
+ def test_show_level_url_does_not_invent_episode(self):
+  url='https://podcasts.apple.com/us/podcast/test/id123'
+  soup=BeautifulSoup('<html><head><script type="application/ld+json">{"@type":"PodcastSeries","name":"Test Show"}</script></head></html>','html.parser')
+  m=extract_apple_metadata(soup,url,url,url)
+  self.assertIsNone(m['requestedEpisodeId'])
+  self.assertIsNone(m['metadataEpisodeId'])
+  self.assertFalse(m['destinationMatchesRequestedEpisode'])
