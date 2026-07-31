@@ -1,0 +1,25 @@
+V23.5D — Cross-Series Topic Relationship Audit (Pilot)
+Base: V23.5C.4
+Type: Analysis only
+
+ADDED
+- V23_5D_CROSS_SERIES_TOPIC_RELATIONSHIP_AUDIT_PILOT.md
+- V23_5D_PATCH_MANIFEST.txt
+- data/audits/v23-5d/audit_config.json
+- tools/audit_cross_series_topics.py
+- tools/validate_v23_5d.py
+- reports/v23-5d/V23_5D_CROSS_SERIES_TOPIC_RELATIONSHIP_AUDIT.md
+- reports/v23-5d/audit-results.json
+- reports/v23-5d/candidate-decisions.csv
+- validation/v23_5d_tests.log
+
+MODIFIED ENTITY/GRAPH/RENDERING FILES
+- None
+
+VALIDATION
+- 257 podcast episodes audited across four series.
+- UFO History: 12 proposed relationships.
+- Historical UFO Cases: 12 proposed relationships.
+- Witness Accounts: 18 proposed relationships.
+- Entity JSON mutation guard: passed.
+- Human review required before implementation.

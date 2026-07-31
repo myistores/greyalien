@@ -1,0 +1,49 @@
+{
+  "release": "V23.5D",
+  "baseRepository": "V23.5C.4",
+  "status": "analysis_only_human_review_required",
+  "topics": {
+    "ufo-history": {
+      "definition": "Episodes whose substantive focus is the chronology, institutions, investigators, public interpretation, or development of UFO/UAP history.",
+      "include": ["historical development", "early investigations", "institutional history", "historiography", "major eras or programs"],
+      "exclude": ["a current-event episode that only mentions historical context", "a single old case without broader historical analysis"]
+    },
+    "historical-ufo-cases": {
+      "definition": "Episodes substantially examining a named or clearly bounded UFO/UAP incident, encounter, investigation, or case from the past.",
+      "include": ["named historical incident", "case reconstruction", "archival evidence", "case-specific witness or investigative record"],
+      "exclude": ["general UFO history", "fiction or entertainment coverage", "current events without a bounded historical case"]
+    },
+    "witness-accounts": {
+      "definition": "Episodes substantially presenting, preserving, comparing, or analyzing first-person accounts of UFO/UAP or closely related anomalous experiences.",
+      "include": ["first-person testimony", "eyewitness narrative", "pilot or military encounter account", "witness-focused case reconstruction"],
+      "exclude": ["secondhand mention of witnesses", "policy discussion about testimony without presenting an account", "host commentary unsupported by a witness narrative"]
+    }
+  },
+  "approvedCandidateIds": {
+    "ufo-history": [
+      "2021-need-to-know-episode-5", "2021-need-to-know-episode-8", "2021-need-to-know-episode-9",
+      "2022-need-to-know-episode-12", "2022-need-to-know-episode-15", "2022-need-to-know-episode-16",
+      "2022-need-to-know-episode-21", "2025-weaponized-episode-87", "2025-weaponized-episode-102",
+      "2026-weaponized-episode-107", "2017-somewhere-in-the-skies-episode-1",
+      "2017-somewhere-in-the-skies-episode-3", "2017-somewhere-in-the-skies-episode-7",
+      "2017-somewhere-in-the-skies-episode-10", "2017-somewhere-in-the-skies-episode-31"
+    ],
+    "historical-ufo-cases": [
+      "2021-need-to-know-episode-5", "2021-need-to-know-episode-8", "2022-need-to-know-episode-17",
+      "2025-weaponized-episode-87", "2025-weaponized-episode-102", "2026-weaponized-episode-105",
+      "2026-weaponized-episode-107", "2017-somewhere-in-the-skies-episode-7",
+      "2017-somewhere-in-the-skies-episode-8", "2017-somewhere-in-the-skies-episode-11",
+      "2017-somewhere-in-the-skies-episode-19", "2017-somewhere-in-the-skies-episode-24",
+      "2017-somewhere-in-the-skies-episode-25", "2017-somewhere-in-the-skies-episode-30"
+    ],
+    "witness-accounts": [
+      "2023-merged-episode-2", "2023-merged-episode-4", "2023-merged-episode-5",
+      "2023-merged-episode-11", "2023-merged-episode-14", "2023-merged-episode-19",
+      "2021-need-to-know-episode-10", "2022-need-to-know-episode-17", "2022-need-to-know-episode-20",
+      "2022-need-to-know-episode-22", "2025-weaponized-episode-83", "2025-weaponized-episode-90",
+      "2025-weaponized-episode-91", "2025-weaponized-episode-92", "2026-weaponized-episode-105",
+      "2026-weaponized-episode-106", "2026-weaponized-episode-120",
+      "2017-somewhere-in-the-skies-episode-33", "2017-somewhere-in-the-skies-episode-34"
+    ]
+  }
+}

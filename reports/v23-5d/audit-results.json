@@ -1,0 +1,858 @@
+{
+  "release": "V23.5D",
+  "baseRepository": "V23.5C.4",
+  "productionType": "knowledge_graph_audit_analysis_only",
+  "humanReviewRequired": true,
+  "repositoryMutationDetected": false,
+  "changedEntityFiles": [],
+  "inventory": {
+    "podcastEpisodes": 257,
+    "episodesBySeries": {
+      "Somewhere in the Skies": 40,
+      "Need to Know": 75,
+      "MERGED": 19,
+      "WEAPONIZED": 123
+    },
+    "episodeRelationshipCountsByType": {
+      "episode_of": 257,
+      "features_person": 671,
+      "discussed_topic": 637,
+      "references_publication": 8,
+      "references_organization": 139,
+      "references_hearing": 7,
+      "documented_by": 6,
+      "references_case": 42,
+      "timeline_connection": 6,
+      "presented_claim": 56,
+      "references_person": 5,
+      "followed_hearing": 1,
+      "discussed_case": 5,
+      "references_claim": 1
+    }
+  },
+  "topics": {
+    "ufo-history": {
+      "topic": "UFO History",
+      "definition": "Episodes whose substantive focus is the chronology, institutions, investigators, public interpretation, or development of UFO/UAP history.",
+      "current": {
+        "outgoingRelationships": 0,
+        "incomingRelationships": 10,
+        "incomingByEntityType": {
+          "podcast_episode": 10
+        },
+        "renderedPodcastCoverage": 10,
+        "participatingPodcastSeries": [
+          "Somewhere in the Skies"
+        ]
+      },
+      "proposed": [
+        {
+          "episodeId": "2017-somewhere-in-the-skies-episode-1",
+          "series": "Somewhere in the Skies",
+          "episodeNumber": 1,
+          "episodeTitle": "Richard Dolan: Media Bias in UFO Coverage",
+          "proposedTopic": "UFO History",
+          "supportingEvidence": "Ryan Sprague presents a interview focused on Media Bias in UFO Coverage. This 2017 Somewhere in the Skies release is indexed with source-grounded topics and direct archive references.",
+          "confidence": "low",
+          "existingRelationship": false,
+          "matchedSignals": ""
+        },
+        {
+          "episodeId": "2017-somewhere-in-the-skies-episode-10",
+          "series": "Somewhere in the Skies",
+          "episodeNumber": 10,
+          "episodeTitle": "Mark O'Connell: The Close Encounters Man",
+          "proposedTopic": "UFO History",
+          "supportingEvidence": "Ryan Sprague presents a research discussion focused on The Close Encounters Man. This 2017 Somewhere in the Skies release is indexed with source-grounded topics and direct archive references.",
+          "confidence": "medium",
+          "existingRelationship": true,
+          "matchedSignals": "histor(?:y|ical|iography)"
+        },
+        {
+          "episodeId": "2017-somewhere-in-the-skies-episode-3",
+          "series": "Somewhere in the Skies",
+          "episodeNumber": 3,
+          "episodeTitle": "Greg Eghigian: History of a Cultural Phenomenon",
+          "proposedTopic": "UFO History",
+          "supportingEvidence": "Ryan Sprague presents a research discussion focused on History of a Cultural Phenomenon. This 2017 Somewhere in the Skies release is indexed with source-grounded topics and direct archive references.",
+          "confidence": "medium",
+          "existingRelationship": true,
+          "matchedSignals": "histor(?:y|ical|iography)"
+        },
+        {
+          "episodeId": "2017-somewhere-in-the-skies-episode-31",
+          "series": "Somewhere in the Skies",
+          "episodeNumber": 31,
+          "episodeTitle": "Robbie Graham: Silver Screen Saucers",
+          "proposedTopic": "UFO History",
+          "supportingEvidence": "Ryan Sprague presents a film, television, or book discussion focused on Silver Screen Saucers. This 2017 Somewhere in the Skies release is indexed with source-grounded topics and direct archive references.",
+          "confidence": "low",
+          "existingRelationship": false,
+          "matchedSignals": ""
+        },
+        {
+          "episodeId": "2017-somewhere-in-the-skies-episode-7",
+          "series": "Somewhere in the Skies",
+          "episodeNumber": 7,
+          "episodeTitle": "Nick Redfern: The Roswell UFO Conspiracy",
+          "proposedTopic": "UFO History",
+          "supportingEvidence": "Ryan Sprague presents a case investigation focused on The Roswell UFO Conspiracy. This 2017 Somewhere in the Skies release is indexed with source-grounded topics and direct archive references.",
+          "confidence": "medium",
+          "existingRelationship": false,
+          "matchedSignals": "histor(?:y|ical|iography); roswell"
+        },
+        {
+          "episodeId": "2022-need-to-know-episode-12",
+          "series": "Need to Know",
+          "episodeNumber": 12,
+          "episodeTitle": "Congressional UFO Hearings",
+          "proposedTopic": "UFO History",
+          "supportingEvidence": "Ross Coulthart and Bryce Zabel review the history of congressional UFO hearings and assess what meaningful future oversight would require ahead of renewed public attention in 2022.",
+          "confidence": "high",
+          "existingRelationship": false,
+          "matchedSignals": "histor(?:y|ical|iography)"
+        },
+        {
+          "episodeId": "2022-need-to-know-episode-15",
+          "series": "Need to Know",
+          "episodeNumber": 15,
+          "episodeTitle": "Estimate of the Situation",
+          "proposedTopic": "UFO History",
+          "supportingEvidence": "Ross Coulthart and Bryce Zabel examine the reported 1948 Project Sign Estimate of the Situation and what the document’s disputed history reveals about early Air Force UFO analysis and institutional resistance.",
+          "confidence": "high",
+          "existingRelationship": false,
+          "matchedSignals": "histor(?:y|ical|iography); early (?:air force|ufo|investigation)"
+        },
+        {
+          "episodeId": "2022-need-to-know-episode-16",
+          "series": "Need to Know",
+          "episodeNumber": 16,
+          "episodeTitle": "Summer of the Saucers",
+          "proposedTopic": "UFO History",
+          "supportingEvidence": "Ross Coulthart and Bryce Zabel examine the renewed public and congressional focus on UFOs in the summer of 2022, placing the May hearing and continuing media attention within a longer cycle of official interest.",
+          "confidence": "high",
+          "existingRelationship": false,
+          "matchedSignals": "histor(?:y|ical|iography)"
+        },
+        {
+          "episodeId": "2022-need-to-know-episode-21",
+          "series": "Need to Know",
+          "episodeNumber": 21,
+          "episodeTitle": "UFOlogy Must Die?",
+          "proposedTopic": "UFO History",
+          "supportingEvidence": "Ross Coulthart and Bryce Zabel return after their documentary special to examine Luis Elizondo’s argument that traditional ufology should give way to a more disciplined, scientific, and evidence-centered approach.",
+          "confidence": "high",
+          "existingRelationship": false,
+          "matchedSignals": "histor(?:y|ical|iography); ufology"
+        },
+        {
+          "episodeId": "2025-weaponized-episode-102",
+          "series": "WEAPONIZED",
+          "episodeNumber": 102,
+          "episodeTitle": "Jacques Vallée — The Bizarre Nature of UFOs",
+          "proposedTopic": "UFO History",
+          "supportingEvidence": "Jacques Vallée joins Jeremy Corbell and George Knapp for a wide-ranging discussion of UFO history, Project Blue Book, remote viewing, NIDS, AAWSAP, crash retrievals, the Trinity case, congressional secrecy, science, and paths forward.",
+          "confidence": "high",
+          "existingRelationship": false,
+          "matchedSignals": "histor(?:y|ical|iography); project blue book"
+        },
+        {
+          "episodeId": "2025-weaponized-episode-87",
+          "series": "WEAPONIZED",
+          "episodeNumber": 87,
+          "episodeTitle": "Alien Bodies and Technology — The Lost Tapes of UFO Whistleblower Col. Corso",
+          "proposedTopic": "UFO History",
+          "supportingEvidence": "Jeremy Corbell and George Knapp revisit Philip J. Corso’s claims about Roswell materials, Pentagon technology transfer, and reverse engineering through interviews recorded before publication of The Day After Roswell.",
+          "confidence": "high",
+          "existingRelationship": false,
+          "matchedSignals": "histor(?:y|ical|iography); roswell"
+        },
+        {
+          "episodeId": "2026-weaponized-episode-107",
+          "series": "WEAPONIZED",
+          "episodeNumber": 107,
+          "episodeTitle": "Soviet UFO Programs — SETKA, Thread 3, and Nuclear Incursions",
+          "proposedTopic": "UFO History",
+          "supportingEvidence": "George Knapp revisits his 1990s reporting from Russia and releases documents describing Soviet UFO investigations, including the SETKA collection program, Thread 3 technology analysis, pilot and satellite cases, and an alleged 1982 intrusion at a Ukrainian nuclear missile base.",
+          "confidence": "high",
+          "existingRelationship": false,
+          "matchedSignals": "soviet ufo"
+        }
+      ],
+      "rejected": [
+        {
+          "episodeId": "2022-need-to-know-episode-11",
+          "series": "Need to Know",
+          "episodeNumber": 11,
+          "episodeTitle": "UFOs and Rock Stars",
+          "rationale": "Historical context is incidental or the episode is centered on a single contemporary issue rather than UFO history as a subject.",
+          "triggeringEvidence": "Ross Coulthart and Bryce Zabel explore intersections between popular music and UFO culture, focusing on Tom DeLonge’s UAP advocacy and John Lennon’s reported 1974 sighting."
+        },
+        {
+          "episodeId": "2022-need-to-know-episode-13",
+          "series": "Need to Know",
+          "episodeNumber": 13,
+          "episodeTitle": "Bryce’s Rant",
+          "rationale": "Historical context is incidental or the episode is centered on a single contemporary issue rather than UFO history as a subject.",
+          "triggeringEvidence": "In a short standalone commentary, Bryce Zabel critiques recurring dysfunction within modern ufology and calls for more disciplined, constructive, and evidence-focused public discussion."
+        },
+        {
+          "episodeId": "2022-need-to-know-episode-17",
+          "series": "Need to Know",
+          "episodeNumber": 17,
+          "episodeTitle": "Beyond Nimitz",
+          "rationale": "Historical context is incidental or the episode is centered on a single contemporary issue rather than UFO history as a subject.",
+          "triggeringEvidence": "Ross Coulthart and Bryce Zabel revisit the 2004 Nimitz encounter through the documentary work that helped preserve witness testimony and broaden public understanding of the case beyond the best-known cockpit accounts."
+        },
+        {
+          "episodeId": "2022-need-to-know-episode-22",
+          "series": "Need to Know",
+          "episodeNumber": 22,
+          "episodeTitle": "Witness to a UFO — In the Middle of Battle in Ukraine",
+          "rationale": "Historical context is incidental or the episode is centered on a single contemporary issue rather than UFO history as a subject.",
+          "triggeringEvidence": "Ross Coulthart and Bryce Zabel examine Witness to a UFO — In the Middle of Battle in Ukraine, connecting the episode’s central subject to current UAP reporting, institutional transparency, and the longer history of the phenomenon while distinguishing established information from unresolved claims."
+        },
+        {
+          "episodeId": "2022-need-to-know-episode-23",
+          "series": "Need to Know",
+          "episodeNumber": 23,
+          "episodeTitle": "Core Secret",
+          "rationale": "Historical context is incidental or the episode is centered on a single contemporary issue rather than UFO history as a subject.",
+          "triggeringEvidence": "Ross Coulthart and Bryce Zabel examine Core Secret, connecting the episode’s central subject to current UAP reporting, institutional transparency, and the longer history of the phenomenon while distinguishing established information from unresolved claims."
+        },
+        {
+          "episodeId": "2022-need-to-know-episode-24",
+          "series": "Need to Know",
+          "episodeNumber": 24,
+          "episodeTitle": "Late UAP Report!",
+          "rationale": "Historical context is incidental or the episode is centered on a single contemporary issue rather than UFO history as a subject.",
+          "triggeringEvidence": "Ross Coulthart and Bryce Zabel examine Late UAP Report!, connecting the episode’s central subject to current UAP reporting, institutional transparency, and the longer history of the phenomenon while distinguishing established information from unresolved claims."
+        },
+        {
+          "episodeId": "2022-need-to-know-episode-25",
+          "series": "Need to Know",
+          "episodeNumber": 25,
+          "episodeTitle": "The NY Times' Five Year UFO Anniversary",
+          "rationale": "Historical context is incidental or the episode is centered on a single contemporary issue rather than UFO history as a subject.",
+          "triggeringEvidence": "Ross Coulthart and Bryce Zabel examine The NY Times' Five Year UFO Anniversary, connecting the episode’s central subject to current UAP reporting, institutional transparency, and the longer history of the phenomenon while distinguishing established information from unresolved claims."
+        },
+        {
+          "episodeId": "2023-need-to-know-episode-26",
+          "series": "Need to Know",
+          "episodeNumber": 26,
+          "episodeTitle": "The NDAA Is Law!",
+          "rationale": "Historical context is incidental or the episode is centered on a single contemporary issue rather than UFO history as a subject.",
+          "triggeringEvidence": "Ross Coulthart and Bryce Zabel examine The NDAA Is Law!, connecting the episode’s central subject to current UAP reporting, institutional transparency, and the longer history of the phenomenon while distinguishing established information from unresolved claims."
+        },
+        {
+          "episodeId": "2023-need-to-know-episode-27",
+          "series": "Need to Know",
+          "episodeNumber": 27,
+          "episodeTitle": "The Report Is Out!",
+          "rationale": "Historical context is incidental or the episode is centered on a single contemporary issue rather than UFO history as a subject.",
+          "triggeringEvidence": "Ross Coulthart and Bryce Zabel examine The Report Is Out!, connecting the episode’s central subject to current UAP reporting, institutional transparency, and the longer history of the phenomenon while distinguishing established information from unresolved claims."
+        },
+        {
+          "episodeId": "2023-need-to-know-episode-28",
+          "series": "Need to Know",
+          "episodeNumber": 28,
+          "episodeTitle": "Chinese Balloon Misdirect",
+          "rationale": "Historical context is incidental or the episode is centered on a single contemporary issue rather than UFO history as a subject.",
+          "triggeringEvidence": "Ross Coulthart and Bryce Zabel examine Chinese Balloon Misdirect, connecting the episode’s central subject to current UAP reporting, institutional transparency, and the longer history of the phenomenon while distinguishing established information from unresolved claims."
+        },
+        {
+          "episodeId": "2023-need-to-know-episode-29",
+          "series": "Need to Know",
+          "episodeNumber": 29,
+          "episodeTitle": "99 Chinese Balloons?",
+          "rationale": "Historical context is incidental or the episode is centered on a single contemporary issue rather than UFO history as a subject.",
+          "triggeringEvidence": "Ross Coulthart and Bryce Zabel examine 99 Chinese Balloons?, connecting the episode’s central subject to current UAP reporting, institutional transparency, and the longer history of the phenomenon while distinguishing established information from unresolved claims."
+        },
+        {
+          "episodeId": "2023-need-to-know-episode-30",
+          "series": "Need to Know",
+          "episodeNumber": 30,
+          "episodeTitle": "UAP: The Ides of March",
+          "rationale": "Historical context is incidental or the episode is centered on a single contemporary issue rather than UFO history as a subject.",
+          "triggeringEvidence": "Ross Coulthart and Bryce Zabel examine UAP: The Ides of March, connecting the episode’s central subject to current UAP reporting, institutional transparency, and the longer history of the phenomenon while distinguishing established information from unresolved claims."
+        }
+      ],
+      "proposedBySeries": {
+        "Somewhere in the Skies": 5,
+        "Need to Know": 4,
+        "WEAPONIZED": 3
+      }
+    },
+    "historical-ufo-cases": {
+      "topic": "Historical UFO Cases",
+      "definition": "Episodes substantially examining a named or clearly bounded UFO/UAP incident, encounter, investigation, or case from the past.",
+      "current": {
+        "outgoingRelationships": 0,
+        "incomingRelationships": 10,
+        "incomingByEntityType": {
+          "podcast_episode": 10
+        },
+        "renderedPodcastCoverage": 10,
+        "participatingPodcastSeries": [
+          "Somewhere in the Skies"
+        ]
+      },
+      "proposed": [
+        {
+          "episodeId": "2017-somewhere-in-the-skies-episode-11",
+          "series": "Somewhere in the Skies",
+          "episodeNumber": 11,
+          "episodeTitle": "Erica Lukes: Dugway, Skinwalker Ranch, and UFOs over Utah",
+          "proposedTopic": "Historical UFO Cases",
+          "supportingEvidence": "Ryan Sprague presents a case investigation focused on Dugway, Skinwalker Ranch, and UFOs over Utah. This 2017 Somewhere in the Skies release is indexed with source-grounded topics and direct archive references.",
+          "confidence": "medium",
+          "existingRelationship": true,
+          "matchedSignals": "skinwalker; dugway"
+        },
+        {
+          "episodeId": "2017-somewhere-in-the-skies-episode-19",
+          "series": "Somewhere in the Skies",
+          "episodeNumber": 19,
+          "episodeTitle": "Ben Mezrich: The 37th Parallel",
+          "proposedTopic": "Historical UFO Cases",
+          "supportingEvidence": "Ryan Sprague presents a case investigation focused on The 37th Parallel. This 2017 Somewhere in the Skies release is indexed with source-grounded topics and direct archive references.",
+          "confidence": "medium",
+          "existingRelationship": true,
+          "matchedSignals": "37th parallel"
+        },
+        {
+          "episodeId": "2017-somewhere-in-the-skies-episode-24",
+          "series": "Somewhere in the Skies",
+          "episodeNumber": 24,
+          "episodeTitle": "Chris Garetano: Dark Files and the Montauk Project",
+          "proposedTopic": "Historical UFO Cases",
+          "supportingEvidence": "Ryan Sprague presents a case investigation focused on Dark Files and the Montauk Project. This 2017 Somewhere in the Skies release is indexed with source-grounded topics and direct archive references.",
+          "confidence": "medium",
+          "existingRelationship": true,
+          "matchedSignals": "montauk"
+        },
+        {
+          "episodeId": "2017-somewhere-in-the-skies-episode-25",
+          "series": "Somewhere in the Skies",
+          "episodeNumber": 25,
+          "episodeTitle": "Seth Breedlove: Invasion on Chestnut Ridge",
+          "proposedTopic": "Historical UFO Cases",
+          "supportingEvidence": "Ryan Sprague presents a case investigation focused on Invasion on Chestnut Ridge. This 2017 Somewhere in the Skies release is indexed with source-grounded topics and direct archive references.",
+          "confidence": "medium",
+          "existingRelationship": true,
+          "matchedSignals": "chestnut ridge"
+        },
+        {
+          "episodeId": "2017-somewhere-in-the-skies-episode-30",
+          "series": "Somewhere in the Skies",
+          "episodeNumber": 30,
+          "episodeTitle": "The Andreasson Abduction",
+          "proposedTopic": "Historical UFO Cases",
+          "supportingEvidence": "Ryan Sprague presents a case investigation focused on The Andreasson Abduction. This 2017 Somewhere in the Skies release is indexed with source-grounded topics and direct archive references.",
+          "confidence": "medium",
+          "existingRelationship": true,
+          "matchedSignals": "andreasson"
+        },
+        {
+          "episodeId": "2017-somewhere-in-the-skies-episode-7",
+          "series": "Somewhere in the Skies",
+          "episodeNumber": 7,
+          "episodeTitle": "Nick Redfern: The Roswell UFO Conspiracy",
+          "proposedTopic": "Historical UFO Cases",
+          "supportingEvidence": "Ryan Sprague presents a case investigation focused on The Roswell UFO Conspiracy. This 2017 Somewhere in the Skies release is indexed with source-grounded topics and direct archive references.",
+          "confidence": "medium",
+          "existingRelationship": true,
+          "matchedSignals": "roswell"
+        },
+        {
+          "episodeId": "2017-somewhere-in-the-skies-episode-8",
+          "series": "Somewhere in the Skies",
+          "episodeNumber": 8,
+          "episodeTitle": "Jane Kyle: UFOs Over Texas",
+          "proposedTopic": "Historical UFO Cases",
+          "supportingEvidence": "Ryan Sprague presents a case investigation focused on UFOs Over Texas. This 2017 Somewhere in the Skies release is indexed with source-grounded topics and direct archive references.",
+          "confidence": "low",
+          "existingRelationship": true,
+          "matchedSignals": ""
+        },
+        {
+          "episodeId": "2022-need-to-know-episode-17",
+          "series": "Need to Know",
+          "episodeNumber": 17,
+          "episodeTitle": "Beyond Nimitz",
+          "proposedTopic": "Historical UFO Cases",
+          "supportingEvidence": "Ross Coulthart and Bryce Zabel revisit the 2004 Nimitz encounter through the documentary work that helped preserve witness testimony and broaden public understanding of the case beyond the best-known cockpit accounts.",
+          "confidence": "high",
+          "existingRelationship": false,
+          "matchedSignals": "nimitz"
+        },
+        {
+          "episodeId": "2025-weaponized-episode-102",
+          "series": "WEAPONIZED",
+          "episodeNumber": 102,
+          "episodeTitle": "Jacques Vallée — The Bizarre Nature of UFOs",
+          "proposedTopic": "Historical UFO Cases",
+          "supportingEvidence": "Jacques Vallée joins Jeremy Corbell and George Knapp for a wide-ranging discussion of UFO history, Project Blue Book, remote viewing, NIDS, AAWSAP, crash retrievals, the Trinity case, congressional secrecy, science, and paths forward.",
+          "confidence": "high",
+          "existingRelationship": false,
+          "matchedSignals": "trinity"
+        },
+        {
+          "episodeId": "2025-weaponized-episode-87",
+          "series": "WEAPONIZED",
+          "episodeNumber": 87,
+          "episodeTitle": "Alien Bodies and Technology — The Lost Tapes of UFO Whistleblower Col. Corso",
+          "proposedTopic": "Historical UFO Cases",
+          "supportingEvidence": "Jeremy Corbell and George Knapp revisit Philip J. Corso’s claims about Roswell materials, Pentagon technology transfer, and reverse engineering through interviews recorded before publication of The Day After Roswell.",
+          "confidence": "high",
+          "existingRelationship": false,
+          "matchedSignals": "roswell; incident"
+        },
+        {
+          "episodeId": "2026-weaponized-episode-105",
+          "series": "WEAPONIZED",
+          "episodeNumber": 105,
+          "episodeTitle": "James Fox — New Varginha Witnesses and the Continuing Cover-Up",
+          "proposedTopic": "Historical UFO Cases",
+          "supportingEvidence": "Filmmaker James Fox discusses new witnesses connected to the 1996 Varginha incident, alleged intimidation, efforts to locate medical personnel and video evidence, and a Washington press event intended to bring firsthand testimony before the public and Congress.",
+          "confidence": "high",
+          "existingRelationship": false,
+          "matchedSignals": "varginha; incident"
+        },
+        {
+          "episodeId": "2026-weaponized-episode-107",
+          "series": "WEAPONIZED",
+          "episodeNumber": 107,
+          "episodeTitle": "Soviet UFO Programs — SETKA, Thread 3, and Nuclear Incursions",
+          "proposedTopic": "Historical UFO Cases",
+          "supportingEvidence": "George Knapp revisits his 1990s reporting from Russia and releases documents describing Soviet UFO investigations, including the SETKA collection program, Thread 3 technology analysis, pilot and satellite cases, and an alleged 1982 intrusion at a Ukrainian nuclear missile base.",
+          "confidence": "high",
+          "existingRelationship": false,
+          "matchedSignals": "incident"
+        }
+      ],
+      "rejected": [
+        {
+          "episodeId": "2023-merged-episode-11",
+          "series": "MERGED",
+          "episodeNumber": 11,
+          "episodeTitle": "Beyond the Stigma: A UAP Call to Action",
+          "rationale": "The record does not establish a sufficiently bounded historical UFO case as the episode's substantive focus.",
+          "triggeringEvidence": "The 2004 Nimitz encounter, pilot credibility, public stigma, and the need for systematic reporting and investigation."
+        },
+        {
+          "episodeId": "2023-merged-episode-14",
+          "series": "MERGED",
+          "episodeNumber": 14,
+          "episodeTitle": "Pilots & Witnesses: Systematic UAP Reporting for Pilots",
+          "rationale": "The record does not establish a sufficiently bounded historical UFO case as the episode's substantive focus.",
+          "triggeringEvidence": "A pilot-to-pilot discussion of the Nimitz encounter, public testimony, and building a safer reporting process."
+        },
+        {
+          "episodeId": "2023-merged-episode-19",
+          "series": "MERGED",
+          "episodeNumber": 19,
+          "episodeTitle": "Vandenberg “Red Square” Witness Speaks for First Time",
+          "rationale": "The record does not establish a sufficiently bounded historical UFO case as the episode's substantive focus.",
+          "triggeringEvidence": "A former Air Force security officer recounts a 2004 Vandenberg incident, preserved records, and later AARO interactions."
+        },
+        {
+          "episodeId": "2022-need-to-know-episode-20",
+          "series": "Need to Know",
+          "episodeNumber": 20,
+          "episodeTitle": "7NEWS Spotlight Special Edition",
+          "rationale": "The record does not establish a sufficiently bounded historical UFO case as the episode's substantive focus.",
+          "triggeringEvidence": "This special edition follows Ross Coulthart and Bryce Zabel as they examine the UAP issue through interviews with military witnesses, researchers, and media figures, including Ryan Graves, Jeremy Corbell, and Garry Nolan."
+        },
+        {
+          "episodeId": "2022-need-to-know-episode-5",
+          "series": "Need to Know",
+          "episodeNumber": 5,
+          "episodeTitle": "Roswell and Beyond",
+          "rationale": "The record does not establish a sufficiently bounded historical UFO case as the episode's substantive focus.",
+          "triggeringEvidence": "Bryce Zabel and Ross Coulthart trace the emergence of modern UFO history from World War II foo fighter reports and the 1946 Scandinavian ghost rockets through the flying-saucer wave of 1947 and the Roswell incident."
+        },
+        {
+          "episodeId": "2026-need-to-know-episode-72",
+          "series": "Need to Know",
+          "episodeNumber": 72,
+          "episodeTitle": "UFO Hail Mary",
+          "rationale": "The record does not establish a sufficiently bounded historical UFO case as the episode's substantive focus.",
+          "triggeringEvidence": "Bryce Zabel and Richard Dolan examine UFO Hail Mary, connecting the episode’s central subject to current UAP reporting, institutional transparency, and the longer history of the phenomenon while distinguishing established information from unresolved claims."
+        },
+        {
+          "episodeId": "2025-weaponized-episode-100",
+          "series": "WEAPONIZED",
+          "episodeNumber": 100,
+          "episodeTitle": "Creatures From Another World? The UFO–Cryptid Connection",
+          "rationale": "The record does not establish a sufficiently bounded historical UFO case as the episode's substantive focus.",
+          "triggeringEvidence": "Author and filmmaker David Paulides discusses reported links among UFOs, Sasquatch, disappearances, portals, Skinwalker Ranch, and evidence presented in American Sasquatch: Man, Myth, or Monster."
+        },
+        {
+          "episodeId": "2026-weaponized-episode-114",
+          "series": "WEAPONIZED",
+          "episodeNumber": 114,
+          "episodeTitle": "Dr. James Lacatski — This Is UFO Disclosure, As Far As It Can Go",
+          "rationale": "The record does not establish a sufficiently bounded historical UFO case as the episode's substantive focus.",
+          "triggeringEvidence": "James Lacatski discusses AAWSAP’s creation, data archive, investigations of UAP and paranormal phenomena, the limits of government knowledge, and his view that published books may be the closest the public comes to the unreleased program files."
+        },
+        {
+          "episodeId": "2023-weaponized-episode-12",
+          "series": "WEAPONIZED",
+          "episodeNumber": 12,
+          "episodeTitle": "Colm Kelleher Part Two — AAWSAP, the Hitchhiker Effect, and Crash Retrievals",
+          "rationale": "The record does not establish a sufficiently bounded historical UFO case as the episode's substantive focus.",
+          "triggeringEvidence": "In the second half of the Colm Kelleher interview, the former AAWSAP project manager discusses anomalous effects associated with Skinwalker Ranch, the program’s technology objectives, and his stated knowledge of UFO crash-retrieval efforts."
+        },
+        {
+          "episodeId": "2023-weaponized-episode-17",
+          "series": "WEAPONIZED",
+          "episodeNumber": 17,
+          "episodeTitle": "Robbie Williams — Music, Unusual Experiences, and Skinwalker Ranch",
+          "rationale": "The record does not establish a sufficiently bounded historical UFO case as the episode's substantive focus.",
+          "triggeringEvidence": "Robbie Williams discusses his career, personal challenges, media scrutiny, unusual experiences, a visit to Skinwalker Ranch, and future creative projects."
+        },
+        {
+          "episodeId": "2023-weaponized-episode-18",
+          "series": "WEAPONIZED",
+          "episodeNumber": 18,
+          "episodeTitle": "The Mojave Triangle UAP — Marine Witnesses at Twentynine Palms",
+          "rationale": "The record does not establish a sufficiently bounded historical UFO case as the episode's substantive focus.",
+          "triggeringEvidence": "Corbell and Knapp present videos, photographs, and witness accounts from Marines who reported a large triangular object over the Twentynine Palms training base in April 2021."
+        },
+        {
+          "episodeId": "2023-weaponized-episode-19",
+          "series": "WEAPONIZED",
+          "episodeNumber": 19,
+          "episodeTitle": "The Mojave Triangle Investigation Continues — New Marine Testimony",
+          "rationale": "The record does not establish a sufficiently bounded historical UFO case as the episode's substantive focus.",
+          "triggeringEvidence": "Following the initial Twentynine Palms release, Corbell and Knapp provide additional Marine interviews, respond to flare explanations, and explain why they consider the Mojave Triangle incident an open investigation."
+        }
+      ],
+      "proposedBySeries": {
+        "Somewhere in the Skies": 7,
+        "Need to Know": 1,
+        "WEAPONIZED": 4
+      }
+    },
+    "witness-accounts": {
+      "topic": "Witness Accounts",
+      "definition": "Episodes substantially presenting, preserving, comparing, or analyzing first-person accounts of UFO/UAP or closely related anomalous experiences.",
+      "current": {
+        "outgoingRelationships": 0,
+        "incomingRelationships": 11,
+        "incomingByEntityType": {
+          "podcast_episode": 11
+        },
+        "renderedPodcastCoverage": 11,
+        "participatingPodcastSeries": [
+          "Somewhere in the Skies"
+        ]
+      },
+      "proposed": [
+        {
+          "episodeId": "2017-somewhere-in-the-skies-episode-33",
+          "series": "Somewhere in the Skies",
+          "episodeNumber": 33,
+          "episodeTitle": "Michael Huntington: Childhood UFO Encounters",
+          "proposedTopic": "Witness Accounts",
+          "supportingEvidence": "Ryan Sprague presents a case investigation focused on Childhood UFO Encounters. This 2017 Somewhere in the Skies release is indexed with source-grounded topics and direct archive references.",
+          "confidence": "medium",
+          "existingRelationship": true,
+          "matchedSignals": "witness(?:es)?; account"
+        },
+        {
+          "episodeId": "2017-somewhere-in-the-skies-episode-34",
+          "series": "Somewhere in the Skies",
+          "episodeNumber": 34,
+          "episodeTitle": "Witness Accounts: Volume One",
+          "proposedTopic": "Witness Accounts",
+          "supportingEvidence": "Ryan Sprague presents a witness account focused on Volume One. This 2017 Somewhere in the Skies release is indexed with source-grounded topics and direct archive references.",
+          "confidence": "medium",
+          "existingRelationship": true,
+          "matchedSignals": "witness(?:es)?; account"
+        },
+        {
+          "episodeId": "2022-need-to-know-episode-17",
+          "series": "Need to Know",
+          "episodeNumber": 17,
+          "episodeTitle": "Beyond Nimitz",
+          "proposedTopic": "Witness Accounts",
+          "supportingEvidence": "Ross Coulthart and Bryce Zabel revisit the 2004 Nimitz encounter through the documentary work that helped preserve witness testimony and broaden public understanding of the case beyond the best-known cockpit accounts.",
+          "confidence": "high",
+          "existingRelationship": false,
+          "matchedSignals": "witness(?:es)?; account"
+        },
+        {
+          "episodeId": "2022-need-to-know-episode-20",
+          "series": "Need to Know",
+          "episodeNumber": 20,
+          "episodeTitle": "7NEWS Spotlight Special Edition",
+          "proposedTopic": "Witness Accounts",
+          "supportingEvidence": "This special edition follows Ross Coulthart and Bryce Zabel as they examine the UAP issue through interviews with military witnesses, researchers, and media figures, including Ryan Graves, Jeremy Corbell, and Garry Nolan.",
+          "confidence": "high",
+          "existingRelationship": false,
+          "matchedSignals": "witness(?:es)?"
+        },
+        {
+          "episodeId": "2022-need-to-know-episode-22",
+          "series": "Need to Know",
+          "episodeNumber": 22,
+          "episodeTitle": "Witness to a UFO — In the Middle of Battle in Ukraine",
+          "proposedTopic": "Witness Accounts",
+          "supportingEvidence": "Ross Coulthart and Bryce Zabel examine Witness to a UFO — In the Middle of Battle in Ukraine, connecting the episode’s central subject to current UAP reporting, institutional transparency, and the longer history of the phenomenon while distinguishing established information from unresolved claims.",
+          "confidence": "high",
+          "existingRelationship": false,
+          "matchedSignals": "witness(?:es)?"
+        },
+        {
+          "episodeId": "2023-merged-episode-11",
+          "series": "MERGED",
+          "episodeNumber": 11,
+          "episodeTitle": "Beyond the Stigma: A UAP Call to Action",
+          "proposedTopic": "Witness Accounts",
+          "supportingEvidence": "The 2004 Nimitz encounter, pilot credibility, public stigma, and the need for systematic reporting and investigation.",
+          "confidence": "medium",
+          "existingRelationship": false,
+          "matchedSignals": ""
+        },
+        {
+          "episodeId": "2023-merged-episode-14",
+          "series": "MERGED",
+          "episodeNumber": 14,
+          "episodeTitle": "Pilots & Witnesses: Systematic UAP Reporting for Pilots",
+          "proposedTopic": "Witness Accounts",
+          "supportingEvidence": "A pilot-to-pilot discussion of the Nimitz encounter, public testimony, and building a safer reporting process.",
+          "confidence": "medium",
+          "existingRelationship": false,
+          "matchedSignals": "witness(?:es)?"
+        },
+        {
+          "episodeId": "2023-merged-episode-19",
+          "series": "MERGED",
+          "episodeNumber": 19,
+          "episodeTitle": "Vandenberg “Red Square” Witness Speaks for First Time",
+          "proposedTopic": "Witness Accounts",
+          "supportingEvidence": "A former Air Force security officer recounts a 2004 Vandenberg incident, preserved records, and later AARO interactions.",
+          "confidence": "high",
+          "existingRelationship": false,
+          "matchedSignals": "witness(?:es)?; recounts?; speaks for first time"
+        },
+        {
+          "episodeId": "2023-merged-episode-2",
+          "series": "MERGED",
+          "episodeNumber": 2,
+          "episodeTitle": "Pilot’s Shocking UAP Sightings & What This Means For Aviation",
+          "proposedTopic": "Witness Accounts",
+          "supportingEvidence": "Pilot testimony, radar audio, reporting barriers, and aviation safety.",
+          "confidence": "medium",
+          "existingRelationship": false,
+          "matchedSignals": "pilot testimony"
+        },
+        {
+          "episodeId": "2023-merged-episode-4",
+          "series": "MERGED",
+          "episodeNumber": 4,
+          "episodeTitle": "Pilot Breaks the Silence on UAP Encounters",
+          "proposedTopic": "Witness Accounts",
+          "supportingEvidence": "A veteran commercial pilot describes repeated UAP encounters, reporting stigma, and flight-safety implications.",
+          "confidence": "medium",
+          "existingRelationship": false,
+          "matchedSignals": "describes? .*encounter"
+        },
+        {
+          "episodeId": "2023-merged-episode-5",
+          "series": "MERGED",
+          "episodeNumber": 5,
+          "episodeTitle": "Decoding UAP Sightings: Insights from a 747 Pilot",
+          "proposedTopic": "Witness Accounts",
+          "supportingEvidence": "A 747 captain and aviation photographer reviews unexplained observations, imagery, and pilot reporting.",
+          "confidence": "medium",
+          "existingRelationship": false,
+          "matchedSignals": ""
+        },
+        {
+          "episodeId": "2025-weaponized-episode-83",
+          "series": "WEAPONIZED",
+          "episodeNumber": 83,
+          "episodeTitle": "Storming the Silence — Dave Foley and the Fight for UAP Transparency",
+          "proposedTopic": "Witness Accounts",
+          "supportingEvidence": "Jeremy Corbell and George Knapp interview comedian and actor Dave Foley about his personal UFO sighting, his changing views, and the broader struggle over disinformation, whistleblower suppression, and media treatment of UAP.",
+          "confidence": "high",
+          "existingRelationship": false,
+          "matchedSignals": "personal .*sighting; account"
+        },
+        {
+          "episodeId": "2025-weaponized-episode-90",
+          "series": "WEAPONIZED",
+          "episodeNumber": 90,
+          "episodeTitle": "The Reluctant UFO Whistleblower — Dylan Borland Tells All: Part 1",
+          "proposedTopic": "Witness Accounts",
+          "supportingEvidence": "Dylan Borland recounts his path from the U.S. Air Force into classified contractor work, an alleged firsthand encounter with UAP technology, and claimed threats, clearance manipulation, intimidation, and economic pressure.",
+          "confidence": "high",
+          "existingRelationship": false,
+          "matchedSignals": "firsthand; recounts?"
+        },
+        {
+          "episodeId": "2025-weaponized-episode-91",
+          "series": "WEAPONIZED",
+          "episodeNumber": 91,
+          "episodeTitle": "Dylan Borland Unloads — The Truth About Legacy UFO Programs: Part 2",
+          "proposedTopic": "Witness Accounts",
+          "supportingEvidence": "In the second part of the Dylan Borland interview, Borland expands on his allegations concerning legacy UAP programs, compartmented access, intimidation, and the nature of the technology and activity he says he encountered.",
+          "confidence": "high",
+          "existingRelationship": false,
+          "matchedSignals": ""
+        },
+        {
+          "episodeId": "2025-weaponized-episode-92",
+          "series": "WEAPONIZED",
+          "episodeNumber": 92,
+          "episodeTitle": "The UAP Witness That Didn’t Testify — Congress Wanted You to Hear This",
+          "proposedTopic": "Witness Accounts",
+          "supportingEvidence": "Jeremy Corbell and George Knapp interview a military veteran who had been expected to testify before Congress and who reports seeing a large craft hovering above a runway at Eglin Air Force Base before departing at extraordinary speed.",
+          "confidence": "high",
+          "existingRelationship": false,
+          "matchedSignals": "witness(?:es)?"
+        },
+        {
+          "episodeId": "2026-weaponized-episode-105",
+          "series": "WEAPONIZED",
+          "episodeNumber": 105,
+          "episodeTitle": "James Fox — New Varginha Witnesses and the Continuing Cover-Up",
+          "proposedTopic": "Witness Accounts",
+          "supportingEvidence": "Filmmaker James Fox discusses new witnesses connected to the 1996 Varginha incident, alleged intimidation, efforts to locate medical personnel and video evidence, and a Washington press event intended to bring firsthand testimony before the public and Congress.",
+          "confidence": "high",
+          "existingRelationship": false,
+          "matchedSignals": "witness(?:es)?; firsthand"
+        },
+        {
+          "episodeId": "2026-weaponized-episode-106",
+          "series": "WEAPONIZED",
+          "episodeNumber": 106,
+          "episodeTitle": "Ryan “Neo” Bodenheimer — Four Pilot UAP Encounters",
+          "proposedTopic": "Witness Accounts",
+          "supportingEvidence": "Retired Air Force lieutenant colonel and former Thunderbird Ryan Bodenheimer describes four aerial UAP encounters, including a close call, and explains why the observed objects did not resemble conventional aerodynamic craft.",
+          "confidence": "high",
+          "existingRelationship": false,
+          "matchedSignals": "describes? .*encounter"
+        },
+        {
+          "episodeId": "2026-weaponized-episode-120",
+          "series": "WEAPONIZED",
+          "episodeNumber": 120,
+          "episodeTitle": "Whitley Strieber — Transformation 2026 and the Meaning of Close Encounters",
+          "proposedTopic": "Witness Accounts",
+          "supportingEvidence": "Whitley Strieber discusses Communion, his continuing interpretation of encounters with non-human beings, the impact his writing had on others with similar experiences, and how Transformation 2026 revisits childhood memories and possible implications for humanity.",
+          "confidence": "high",
+          "existingRelationship": false,
+          "matchedSignals": "witness(?:es)?; account"
+        }
+      ],
+      "rejected": [
+        {
+          "episodeId": "2023-merged-episode-17",
+          "series": "MERGED",
+          "episodeNumber": 17,
+          "episodeTitle": "Asking Difficult Questions: Congressional Accountability on UAP",
+          "rationale": "The record mentions testimony or witnesses but does not clearly establish that a first-person account is substantively presented or analyzed.",
+          "triggeringEvidence": "A Capitol Hill reporter describes interviewing lawmakers after the 2023 hearing and assessing congressional accountability."
+        },
+        {
+          "episodeId": "2017-somewhere-in-the-skies-episode-11",
+          "series": "Somewhere in the Skies",
+          "episodeNumber": 11,
+          "episodeTitle": "Erica Lukes: Dugway, Skinwalker Ranch, and UFOs over Utah",
+          "rationale": "The record mentions testimony or witnesses but does not clearly establish that a first-person account is substantively presented or analyzed.",
+          "triggeringEvidence": "Ryan Sprague presents a case investigation focused on Dugway, Skinwalker Ranch, and UFOs over Utah. This 2017 Somewhere in the Skies release is indexed with source-grounded topics and direct archive references."
+        },
+        {
+          "episodeId": "2017-somewhere-in-the-skies-episode-19",
+          "series": "Somewhere in the Skies",
+          "episodeNumber": 19,
+          "episodeTitle": "Ben Mezrich: The 37th Parallel",
+          "rationale": "The record mentions testimony or witnesses but does not clearly establish that a first-person account is substantively presented or analyzed.",
+          "triggeringEvidence": "Ryan Sprague presents a case investigation focused on The 37th Parallel. This 2017 Somewhere in the Skies release is indexed with source-grounded topics and direct archive references."
+        },
+        {
+          "episodeId": "2017-somewhere-in-the-skies-episode-24",
+          "series": "Somewhere in the Skies",
+          "episodeNumber": 24,
+          "episodeTitle": "Chris Garetano: Dark Files and the Montauk Project",
+          "rationale": "The record mentions testimony or witnesses but does not clearly establish that a first-person account is substantively presented or analyzed.",
+          "triggeringEvidence": "Ryan Sprague presents a case investigation focused on Dark Files and the Montauk Project. This 2017 Somewhere in the Skies release is indexed with source-grounded topics and direct archive references."
+        },
+        {
+          "episodeId": "2017-somewhere-in-the-skies-episode-25",
+          "series": "Somewhere in the Skies",
+          "episodeNumber": 25,
+          "episodeTitle": "Seth Breedlove: Invasion on Chestnut Ridge",
+          "rationale": "The record mentions testimony or witnesses but does not clearly establish that a first-person account is substantively presented or analyzed.",
+          "triggeringEvidence": "Ryan Sprague presents a case investigation focused on Invasion on Chestnut Ridge. This 2017 Somewhere in the Skies release is indexed with source-grounded topics and direct archive references."
+        },
+        {
+          "episodeId": "2017-somewhere-in-the-skies-episode-29",
+          "series": "Somewhere in the Skies",
+          "episodeNumber": 29,
+          "episodeTitle": "Brian Bethel: Black Eyed Kid Phenomenon",
+          "rationale": "The record mentions testimony or witnesses but does not clearly establish that a first-person account is substantively presented or analyzed.",
+          "triggeringEvidence": "Ryan Sprague presents a case investigation focused on Black Eyed Kid Phenomenon. This 2017 Somewhere in the Skies release is indexed with source-grounded topics and direct archive references."
+        },
+        {
+          "episodeId": "2017-somewhere-in-the-skies-episode-30",
+          "series": "Somewhere in the Skies",
+          "episodeNumber": 30,
+          "episodeTitle": "The Andreasson Abduction",
+          "rationale": "The record mentions testimony or witnesses but does not clearly establish that a first-person account is substantively presented or analyzed.",
+          "triggeringEvidence": "Ryan Sprague presents a case investigation focused on The Andreasson Abduction. This 2017 Somewhere in the Skies release is indexed with source-grounded topics and direct archive references."
+        },
+        {
+          "episodeId": "2017-somewhere-in-the-skies-episode-5",
+          "series": "Somewhere in the Skies",
+          "episodeNumber": 5,
+          "episodeTitle": "Ruben Uriarte: UFOs Over Mexico and the Southwest",
+          "rationale": "The record mentions testimony or witnesses but does not clearly establish that a first-person account is substantively presented or analyzed.",
+          "triggeringEvidence": "Ryan Sprague presents a case investigation focused on UFOs Over Mexico and the Southwest. This 2017 Somewhere in the Skies release is indexed with source-grounded topics and direct archive references."
+        },
+        {
+          "episodeId": "2017-somewhere-in-the-skies-episode-7",
+          "series": "Somewhere in the Skies",
+          "episodeNumber": 7,
+          "episodeTitle": "Nick Redfern: The Roswell UFO Conspiracy",
+          "rationale": "The record mentions testimony or witnesses but does not clearly establish that a first-person account is substantively presented or analyzed.",
+          "triggeringEvidence": "Ryan Sprague presents a case investigation focused on The Roswell UFO Conspiracy. This 2017 Somewhere in the Skies release is indexed with source-grounded topics and direct archive references."
+        },
+        {
+          "episodeId": "2017-somewhere-in-the-skies-episode-8",
+          "series": "Somewhere in the Skies",
+          "episodeNumber": 8,
+          "episodeTitle": "Jane Kyle: UFOs Over Texas",
+          "rationale": "The record mentions testimony or witnesses but does not clearly establish that a first-person account is substantively presented or analyzed.",
+          "triggeringEvidence": "Ryan Sprague presents a case investigation focused on UFOs Over Texas. This 2017 Somewhere in the Skies release is indexed with source-grounded topics and direct archive references."
+        },
+        {
+          "episodeId": "2025-weaponized-episode-101",
+          "series": "WEAPONIZED",
+          "episodeNumber": 101,
+          "episodeTitle": "Congressional UAP Champions on What Comes Next",
+          "rationale": "The record mentions testimony or witnesses but does not clearly establish that a first-person account is substantively presented or analyzed.",
+          "triggeringEvidence": "Representatives Anna Paulina Luna, Tim Burchett, and Eric Burlison discuss resistance to congressional oversight, blocked witness access, intimidation, the limits of public hearings, possible presidential action, and alternative strategies."
+        },
+        {
+          "episodeId": "2026-weaponized-episode-103",
+          "series": "WEAPONIZED",
+          "episodeNumber": 103,
+          "episodeTitle": "2025 Year in Review — Progress, Evidence, and Pushback",
+          "rationale": "The record mentions testimony or witnesses but does not clearly establish that a first-person account is substantively presented or analyzed.",
+          "triggeringEvidence": "Jeremy Corbell and George Knapp review WEAPONIZED’s 2025 reporting, including new witnesses, released UAP imagery, congressional engagement, major books and films, mystery-drone incursions, and the organized pushback against UFO transparency."
+        }
+      ],
+      "proposedBySeries": {
+        "Somewhere in the Skies": 2,
+        "Need to Know": 3,
+        "MERGED": 6,
+        "WEAPONIZED": 7
+      }
+    }
+  }
+}
