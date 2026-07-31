@@ -1,0 +1,12 @@
+{
+  "release": "V23.5D.1",
+  "episodes": 257,
+  "casePathEpisodes": 154,
+  "candidates": {
+    "ufo-history": 105,
+    "historical-ufo-cases": 161,
+    "witness-accounts": 62
+  },
+  "mutation": false
+}
+V23.5D.1 validation passed: graph traversal, three-stage tests, reports, human gate, and repository protection verified.

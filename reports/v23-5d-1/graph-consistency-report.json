@@ -1,0 +1,1297 @@
+[
+  {
+    "caseId": "1946-scandinavian-ghost-rockets",
+    "caseName": "1946 Scandinavian Ghost Rocket Reports",
+    "seriesCoverage": {
+      "Need to Know": [
+        "2022-need-to-know-episode-5"
+      ]
+    },
+    "umbrellaLinked": [],
+    "umbrellaMissing": [
+      {
+        "series": "Need to Know",
+        "episodeIds": [
+          "2022-need-to-know-episode-5"
+        ]
+      }
+    ],
+    "inconsistent": false
+  },
+  {
+    "caseId": "1994-ariel-school-encounter",
+    "caseName": "1994 Ariel School Encounter",
+    "seriesCoverage": {
+      "WEAPONIZED": [
+        "2025-weaponized-episode-69"
+      ]
+    },
+    "umbrellaLinked": [],
+    "umbrellaMissing": [
+      {
+        "series": "WEAPONIZED",
+        "episodeIds": [
+          "2025-weaponized-episode-69"
+        ]
+      }
+    ],
+    "inconsistent": false
+  },
+  {
+    "caseId": "2004-nimitz-encounter",
+    "caseName": "2004 Nimitz Encounter",
+    "seriesCoverage": {
+      "Need to Know": [
+        "2022-need-to-know-episode-17",
+        "2022-need-to-know-episode-20",
+        "2022-need-to-know-episode-7"
+      ],
+      "MERGED": [
+        "2023-merged-episode-11",
+        "2023-merged-episode-14"
+      ],
+      "WEAPONIZED": [
+        "2023-weaponized-episode-27",
+        "2023-weaponized-episode-28",
+        "2023-weaponized-episode-29",
+        "2024-weaponized-episode-55",
+        "2024-weaponized-episode-61",
+        "2024-weaponized-episode-62",
+        "2025-weaponized-episode-70",
+        "2025-weaponized-episode-72",
+        "2025-weaponized-episode-73"
+      ]
+    },
+    "umbrellaLinked": [],
+    "umbrellaMissing": [
+      {
+        "series": "MERGED",
+        "episodeIds": [
+          "2023-merged-episode-11",
+          "2023-merged-episode-14"
+        ]
+      },
+      {
+        "series": "Need to Know",
+        "episodeIds": [
+          "2022-need-to-know-episode-17",
+          "2022-need-to-know-episode-20",
+          "2022-need-to-know-episode-7"
+        ]
+      },
+      {
+        "series": "WEAPONIZED",
+        "episodeIds": [
+          "2023-weaponized-episode-27",
+          "2023-weaponized-episode-28",
+          "2023-weaponized-episode-29",
+          "2024-weaponized-episode-55",
+          "2024-weaponized-episode-61",
+          "2024-weaponized-episode-62",
+          "2025-weaponized-episode-70",
+          "2025-weaponized-episode-72",
+          "2025-weaponized-episode-73"
+        ]
+      }
+    ],
+    "inconsistent": false
+  },
+  {
+    "caseId": "2014-2015-east-coast-navy-encounters",
+    "caseName": "2014–2015 East Coast Navy Encounters",
+    "seriesCoverage": {
+      "Need to Know": [
+        "2022-need-to-know-episode-20",
+        "2022-need-to-know-episode-7"
+      ],
+      "MERGED": [
+        "2023-merged-episode-1",
+        "2023-merged-episode-10",
+        "2023-merged-episode-11",
+        "2023-merged-episode-12",
+        "2023-merged-episode-13",
+        "2023-merged-episode-14",
+        "2023-merged-episode-15",
+        "2023-merged-episode-16",
+        "2023-merged-episode-17",
+        "2023-merged-episode-18",
+        "2023-merged-episode-19",
+        "2023-merged-episode-2",
+        "2023-merged-episode-3",
+        "2023-merged-episode-4",
+        "2023-merged-episode-5",
+        "2023-merged-episode-6",
+        "2023-merged-episode-7",
+        "2023-merged-episode-8",
+        "2023-merged-episode-9"
+      ],
+      "WEAPONIZED": [
+        "2023-weaponized-episode-27",
+        "2023-weaponized-episode-28",
+        "2024-weaponized-episode-55",
+        "2025-weaponized-episode-70",
+        "2025-weaponized-episode-72",
+        "2025-weaponized-episode-73"
+      ]
+    },
+    "umbrellaLinked": [],
+    "umbrellaMissing": [
+      {
+        "series": "MERGED",
+        "episodeIds": [
+          "2023-merged-episode-1",
+          "2023-merged-episode-10",
+          "2023-merged-episode-11",
+          "2023-merged-episode-12",
+          "2023-merged-episode-13",
+          "2023-merged-episode-14",
+          "2023-merged-episode-15",
+          "2023-merged-episode-16",
+          "2023-merged-episode-17",
+          "2023-merged-episode-18",
+          "2023-merged-episode-19",
+          "2023-merged-episode-2",
+          "2023-merged-episode-3",
+          "2023-merged-episode-4",
+          "2023-merged-episode-5",
+          "2023-merged-episode-6",
+          "2023-merged-episode-7",
+          "2023-merged-episode-8",
+          "2023-merged-episode-9"
+        ]
+      },
+      {
+        "series": "Need to Know",
+        "episodeIds": [
+          "2022-need-to-know-episode-20",
+          "2022-need-to-know-episode-7"
+        ]
+      },
+      {
+        "series": "WEAPONIZED",
+        "episodeIds": [
+          "2023-weaponized-episode-27",
+          "2023-weaponized-episode-28",
+          "2024-weaponized-episode-55",
+          "2025-weaponized-episode-70",
+          "2025-weaponized-episode-72",
+          "2025-weaponized-episode-73"
+        ]
+      }
+    ],
+    "inconsistent": false
+  },
+  {
+    "caseId": "2015-pantex-diamond-uap-incident",
+    "caseName": "2015 Pantex Diamond-Shaped UAP Incident",
+    "seriesCoverage": {
+      "WEAPONIZED": [
+        "2024-weaponized-episode-54"
+      ]
+    },
+    "umbrellaLinked": [],
+    "umbrellaMissing": [
+      {
+        "series": "WEAPONIZED",
+        "episodeIds": [
+          "2024-weaponized-episode-54"
+        ]
+      }
+    ],
+    "inconsistent": false
+  },
+  {
+    "caseId": "2016-mosul-orb-incident",
+    "caseName": "2016 Mosul Orb Incident",
+    "seriesCoverage": {
+      "WEAPONIZED": [
+        "2025-weaponized-episode-81"
+      ]
+    },
+    "umbrellaLinked": [],
+    "umbrellaMissing": [
+      {
+        "series": "WEAPONIZED",
+        "episodeIds": [
+          "2025-weaponized-episode-81"
+        ]
+      }
+    ],
+    "inconsistent": false
+  },
+  {
+    "caseId": "2017-iraq-jellyfish-uap",
+    "caseName": "2017 Iraq Jellyfish UAP Incident",
+    "seriesCoverage": {
+      "Somewhere in the Skies": [
+        "2017-somewhere-in-the-skies-episode-14"
+      ],
+      "Need to Know": [
+        "2022-need-to-know-episode-20"
+      ],
+      "WEAPONIZED": [
+        "2023-weaponized-episode-1",
+        "2023-weaponized-episode-10",
+        "2023-weaponized-episode-11",
+        "2023-weaponized-episode-12",
+        "2023-weaponized-episode-13",
+        "2023-weaponized-episode-14",
+        "2023-weaponized-episode-15",
+        "2023-weaponized-episode-16",
+        "2023-weaponized-episode-17",
+        "2023-weaponized-episode-18",
+        "2023-weaponized-episode-19",
+        "2023-weaponized-episode-2",
+        "2023-weaponized-episode-20",
+        "2023-weaponized-episode-21",
+        "2023-weaponized-episode-22",
+        "2023-weaponized-episode-23",
+        "2023-weaponized-episode-24",
+        "2023-weaponized-episode-25",
+        "2023-weaponized-episode-26",
+        "2023-weaponized-episode-27",
+        "2023-weaponized-episode-28",
+        "2023-weaponized-episode-29",
+        "2023-weaponized-episode-3",
+        "2023-weaponized-episode-30",
+        "2023-weaponized-episode-31",
+        "2023-weaponized-episode-32",
+        "2023-weaponized-episode-33",
+        "2023-weaponized-episode-34",
+        "2023-weaponized-episode-35",
+        "2023-weaponized-episode-36",
+        "2023-weaponized-episode-37",
+        "2023-weaponized-episode-38",
+        "2023-weaponized-episode-39",
+        "2023-weaponized-episode-4",
+        "2023-weaponized-episode-40",
+        "2023-weaponized-episode-41",
+        "2023-weaponized-episode-42",
+        "2023-weaponized-episode-43",
+        "2023-weaponized-episode-44",
+        "2023-weaponized-episode-45",
+        "2023-weaponized-episode-5",
+        "2023-weaponized-episode-6",
+        "2023-weaponized-episode-7",
+        "2023-weaponized-episode-8",
+        "2023-weaponized-episode-9",
+        "2024-weaponized-episode-46",
+        "2024-weaponized-episode-47",
+        "2024-weaponized-episode-48",
+        "2024-weaponized-episode-49",
+        "2024-weaponized-episode-50",
+        "2024-weaponized-episode-51",
+        "2024-weaponized-episode-52",
+        "2024-weaponized-episode-53",
+        "2024-weaponized-episode-54",
+        "2024-weaponized-episode-55",
+        "2024-weaponized-episode-56",
+        "2024-weaponized-episode-57",
+        "2024-weaponized-episode-58",
+        "2024-weaponized-episode-59",
+        "2024-weaponized-episode-60",
+        "2024-weaponized-episode-61",
+        "2024-weaponized-episode-62",
+        "2024-weaponized-episode-63",
+        "2024-weaponized-episode-64",
+        "2025-weaponized-episode-100",
+        "2025-weaponized-episode-101",
+        "2025-weaponized-episode-102",
+        "2025-weaponized-episode-65",
+        "2025-weaponized-episode-66",
+        "2025-weaponized-episode-67",
+        "2025-weaponized-episode-68",
+        "2025-weaponized-episode-69",
+        "2025-weaponized-episode-70",
+        "2025-weaponized-episode-71",
+        "2025-weaponized-episode-72",
+        "2025-weaponized-episode-73",
+        "2025-weaponized-episode-74",
+        "2025-weaponized-episode-75",
+        "2025-weaponized-episode-76",
+        "2025-weaponized-episode-77",
+        "2025-weaponized-episode-78",
+        "2025-weaponized-episode-79",
+        "2025-weaponized-episode-80",
+        "2025-weaponized-episode-81",
+        "2025-weaponized-episode-82",
+        "2025-weaponized-episode-83",
+        "2025-weaponized-episode-84",
+        "2025-weaponized-episode-85",
+        "2025-weaponized-episode-86",
+        "2025-weaponized-episode-87",
+        "2025-weaponized-episode-88",
+        "2025-weaponized-episode-89",
+        "2025-weaponized-episode-90",
+        "2025-weaponized-episode-91",
+        "2025-weaponized-episode-92",
+        "2025-weaponized-episode-93",
+        "2025-weaponized-episode-94",
+        "2025-weaponized-episode-95",
+        "2025-weaponized-episode-96",
+        "2025-weaponized-episode-97",
+        "2025-weaponized-episode-98",
+        "2025-weaponized-episode-99",
+        "2026-weaponized-episode-103",
+        "2026-weaponized-episode-104",
+        "2026-weaponized-episode-105",
+        "2026-weaponized-episode-106",
+        "2026-weaponized-episode-107",
+        "2026-weaponized-episode-108",
+        "2026-weaponized-episode-109",
+        "2026-weaponized-episode-110",
+        "2026-weaponized-episode-111",
+        "2026-weaponized-episode-112",
+        "2026-weaponized-episode-113",
+        "2026-weaponized-episode-114",
+        "2026-weaponized-episode-115",
+        "2026-weaponized-episode-116",
+        "2026-weaponized-episode-117",
+        "2026-weaponized-episode-118",
+        "2026-weaponized-episode-119",
+        "2026-weaponized-episode-120",
+        "weaponized-matthew-brown-part-1",
+        "weaponized-matthew-brown-part-2",
+        "weaponized-matthew-brown-part-3"
+      ]
+    },
+    "umbrellaLinked": [],
+    "umbrellaMissing": [
+      {
+        "series": "Need to Know",
+        "episodeIds": [
+          "2022-need-to-know-episode-20"
+        ]
+      },
+      {
+        "series": "Somewhere in the Skies",
+        "episodeIds": [
+          "2017-somewhere-in-the-skies-episode-14"
+        ]
+      },
+      {
+        "series": "WEAPONIZED",
+        "episodeIds": [
+          "2023-weaponized-episode-1",
+          "2023-weaponized-episode-10",
+          "2023-weaponized-episode-11",
+          "2023-weaponized-episode-12",
+          "2023-weaponized-episode-13",
+          "2023-weaponized-episode-14",
+          "2023-weaponized-episode-15",
+          "2023-weaponized-episode-16",
+          "2023-weaponized-episode-17",
+          "2023-weaponized-episode-18",
+          "2023-weaponized-episode-19",
+          "2023-weaponized-episode-2",
+          "2023-weaponized-episode-20",
+          "2023-weaponized-episode-21",
+          "2023-weaponized-episode-22",
+          "2023-weaponized-episode-23",
+          "2023-weaponized-episode-24",
+          "2023-weaponized-episode-25",
+          "2023-weaponized-episode-26",
+          "2023-weaponized-episode-27",
+          "2023-weaponized-episode-28",
+          "2023-weaponized-episode-29",
+          "2023-weaponized-episode-3",
+          "2023-weaponized-episode-30",
+          "2023-weaponized-episode-31",
+          "2023-weaponized-episode-32",
+          "2023-weaponized-episode-33",
+          "2023-weaponized-episode-34",
+          "2023-weaponized-episode-35",
+          "2023-weaponized-episode-36",
+          "2023-weaponized-episode-37",
+          "2023-weaponized-episode-38",
+          "2023-weaponized-episode-39",
+          "2023-weaponized-episode-4",
+          "2023-weaponized-episode-40",
+          "2023-weaponized-episode-41",
+          "2023-weaponized-episode-42",
+          "2023-weaponized-episode-43",
+          "2023-weaponized-episode-44",
+          "2023-weaponized-episode-45",
+          "2023-weaponized-episode-5",
+          "2023-weaponized-episode-6",
+          "2023-weaponized-episode-7",
+          "2023-weaponized-episode-8",
+          "2023-weaponized-episode-9",
+          "2024-weaponized-episode-46",
+          "2024-weaponized-episode-47",
+          "2024-weaponized-episode-48",
+          "2024-weaponized-episode-49",
+          "2024-weaponized-episode-50",
+          "2024-weaponized-episode-51",
+          "2024-weaponized-episode-52",
+          "2024-weaponized-episode-53",
+          "2024-weaponized-episode-54",
+          "2024-weaponized-episode-55",
+          "2024-weaponized-episode-56",
+          "2024-weaponized-episode-57",
+          "2024-weaponized-episode-58",
+          "2024-weaponized-episode-59",
+          "2024-weaponized-episode-60",
+          "2024-weaponized-episode-61",
+          "2024-weaponized-episode-62",
+          "2024-weaponized-episode-63",
+          "2024-weaponized-episode-64",
+          "2025-weaponized-episode-100",
+          "2025-weaponized-episode-101",
+          "2025-weaponized-episode-102",
+          "2025-weaponized-episode-65",
+          "2025-weaponized-episode-66",
+          "2025-weaponized-episode-67",
+          "2025-weaponized-episode-68",
+          "2025-weaponized-episode-69",
+          "2025-weaponized-episode-70",
+          "2025-weaponized-episode-71",
+          "2025-weaponized-episode-72",
+          "2025-weaponized-episode-73",
+          "2025-weaponized-episode-74",
+          "2025-weaponized-episode-75",
+          "2025-weaponized-episode-76",
+          "2025-weaponized-episode-77",
+          "2025-weaponized-episode-78",
+          "2025-weaponized-episode-79",
+          "2025-weaponized-episode-80",
+          "2025-weaponized-episode-81",
+          "2025-weaponized-episode-82",
+          "2025-weaponized-episode-83",
+          "2025-weaponized-episode-84",
+          "2025-weaponized-episode-85",
+          "2025-weaponized-episode-86",
+          "2025-weaponized-episode-87",
+          "2025-weaponized-episode-88",
+          "2025-weaponized-episode-89",
+          "2025-weaponized-episode-90",
+          "2025-weaponized-episode-91",
+          "2025-weaponized-episode-92",
+          "2025-weaponized-episode-93",
+          "2025-weaponized-episode-94",
+          "2025-weaponized-episode-95",
+          "2025-weaponized-episode-96",
+          "2025-weaponized-episode-97",
+          "2025-weaponized-episode-98",
+          "2025-weaponized-episode-99",
+          "2026-weaponized-episode-103",
+          "2026-weaponized-episode-104",
+          "2026-weaponized-episode-105",
+          "2026-weaponized-episode-106",
+          "2026-weaponized-episode-107",
+          "2026-weaponized-episode-108",
+          "2026-weaponized-episode-109",
+          "2026-weaponized-episode-110",
+          "2026-weaponized-episode-111",
+          "2026-weaponized-episode-112",
+          "2026-weaponized-episode-113",
+          "2026-weaponized-episode-114",
+          "2026-weaponized-episode-115",
+          "2026-weaponized-episode-116",
+          "2026-weaponized-episode-117",
+          "2026-weaponized-episode-118",
+          "2026-weaponized-episode-119",
+          "2026-weaponized-episode-120",
+          "weaponized-matthew-brown-part-1",
+          "weaponized-matthew-brown-part-2",
+          "weaponized-matthew-brown-part-3"
+        ]
+      }
+    ],
+    "inconsistent": false
+  },
+  {
+    "caseId": "2019-us-navy-ship-swarm-incidents",
+    "caseName": "2019 U.S. Navy Ship Swarm Incidents",
+    "seriesCoverage": {
+      "WEAPONIZED": [
+        "2025-weaponized-episode-70"
+      ]
+    },
+    "umbrellaLinked": [],
+    "umbrellaMissing": [
+      {
+        "series": "WEAPONIZED",
+        "episodeIds": [
+          "2025-weaponized-episode-70"
+        ]
+      }
+    ],
+    "inconsistent": false
+  },
+  {
+    "caseId": "2023-uss-jackson-tic-tac-incident",
+    "caseName": "2023 USS Jackson Tic Tac Incident",
+    "seriesCoverage": {
+      "WEAPONIZED": [
+        "2025-weaponized-episode-72",
+        "2025-weaponized-episode-73"
+      ]
+    },
+    "umbrellaLinked": [],
+    "umbrellaMissing": [
+      {
+        "series": "WEAPONIZED",
+        "episodeIds": [
+          "2025-weaponized-episode-72",
+          "2025-weaponized-episode-73"
+        ]
+      }
+    ],
+    "inconsistent": false
+  },
+  {
+    "caseId": "2025-house-uap-hearing",
+    "caseName": "September 2025 House UAP Hearing",
+    "seriesCoverage": {
+      "WEAPONIZED": [
+        "2025-weaponized-episode-89"
+      ]
+    },
+    "umbrellaLinked": [],
+    "umbrellaMissing": [
+      {
+        "series": "WEAPONIZED",
+        "episodeIds": [
+          "2025-weaponized-episode-89"
+        ]
+      }
+    ],
+    "inconsistent": false
+  },
+  {
+    "caseId": "2025-large-disc-uap-video",
+    "caseName": "Large Disc UAP Video",
+    "seriesCoverage": {
+      "WEAPONIZED": [
+        "2025-weaponized-episode-79"
+      ]
+    },
+    "umbrellaLinked": [],
+    "umbrellaMissing": [
+      {
+        "series": "WEAPONIZED",
+        "episodeIds": [
+          "2025-weaponized-episode-79"
+        ]
+      }
+    ],
+    "inconsistent": false
+  },
+  {
+    "caseId": "2025-yemen-hellfire-uap-video",
+    "caseName": "2025 Yemen Hellfire UAP Video",
+    "seriesCoverage": {
+      "WEAPONIZED": [
+        "2025-weaponized-episode-89"
+      ]
+    },
+    "umbrellaLinked": [],
+    "umbrellaMissing": [
+      {
+        "series": "WEAPONIZED",
+        "episodeIds": [
+          "2025-weaponized-episode-89"
+        ]
+      }
+    ],
+    "inconsistent": false
+  },
+  {
+    "caseId": "area-51",
+    "caseName": "Area 51",
+    "seriesCoverage": {
+      "WEAPONIZED": [
+        "2023-weaponized-episode-6",
+        "2023-weaponized-episode-7",
+        "2024-weaponized-episode-49",
+        "2025-weaponized-episode-95",
+        "2026-weaponized-episode-109",
+        "2026-weaponized-episode-115"
+      ]
+    },
+    "umbrellaLinked": [],
+    "umbrellaMissing": [
+      {
+        "series": "WEAPONIZED",
+        "episodeIds": [
+          "2023-weaponized-episode-6",
+          "2023-weaponized-episode-7",
+          "2024-weaponized-episode-49",
+          "2025-weaponized-episode-95",
+          "2026-weaponized-episode-109",
+          "2026-weaponized-episode-115"
+        ]
+      }
+    ],
+    "inconsistent": false
+  },
+  {
+    "caseId": "calvine-ufo",
+    "caseName": "Calvine Ufo",
+    "seriesCoverage": {
+      "WEAPONIZED": [
+        "2026-weaponized-episode-111"
+      ]
+    },
+    "umbrellaLinked": [],
+    "umbrellaMissing": [
+      {
+        "series": "WEAPONIZED",
+        "episodeIds": [
+          "2026-weaponized-episode-111"
+        ]
+      }
+    ],
+    "inconsistent": false
+  },
+  {
+    "caseId": "colares-ufo-incidents",
+    "caseName": "Colares UFO Incidents",
+    "seriesCoverage": {
+      "WEAPONIZED": [
+        "2024-weaponized-episode-57"
+      ]
+    },
+    "umbrellaLinked": [],
+    "umbrellaMissing": [
+      {
+        "series": "WEAPONIZED",
+        "episodeIds": [
+          "2024-weaponized-episode-57"
+        ]
+      }
+    ],
+    "inconsistent": false
+  },
+  {
+    "caseId": "eglin-runway-uap-incident",
+    "caseName": "Eglin Runway UAP Incident",
+    "seriesCoverage": {
+      "WEAPONIZED": [
+        "2025-weaponized-episode-92"
+      ]
+    },
+    "umbrellaLinked": [],
+    "umbrellaMissing": [
+      {
+        "series": "WEAPONIZED",
+        "episodeIds": [
+          "2025-weaponized-episode-92"
+        ]
+      }
+    ],
+    "inconsistent": false
+  },
+  {
+    "caseId": "kona-blue-program",
+    "caseName": "Kona Blue Proposed UAP Program",
+    "seriesCoverage": {
+      "Need to Know": [
+        "2022-need-to-know-episode-18",
+        "2022-need-to-know-episode-24",
+        "2023-need-to-know-episode-27",
+        "2024-need-to-know-episode-49",
+        "2024-need-to-know-episode-50",
+        "2024-need-to-know-episode-52"
+      ],
+      "MERGED": [
+        "2023-merged-episode-19"
+      ],
+      "WEAPONIZED": [
+        "2024-weaponized-episode-49",
+        "2024-weaponized-episode-52",
+        "2024-weaponized-episode-53",
+        "2024-weaponized-episode-55",
+        "2024-weaponized-episode-64",
+        "2025-weaponized-episode-72",
+        "2025-weaponized-episode-75",
+        "2025-weaponized-episode-77",
+        "2025-weaponized-episode-78",
+        "2025-weaponized-episode-80",
+        "2025-weaponized-episode-96",
+        "2025-weaponized-episode-98",
+        "2026-weaponized-episode-110",
+        "2026-weaponized-episode-111"
+      ]
+    },
+    "umbrellaLinked": [],
+    "umbrellaMissing": [
+      {
+        "series": "MERGED",
+        "episodeIds": [
+          "2023-merged-episode-19"
+        ]
+      },
+      {
+        "series": "Need to Know",
+        "episodeIds": [
+          "2022-need-to-know-episode-18",
+          "2022-need-to-know-episode-24",
+          "2023-need-to-know-episode-27",
+          "2024-need-to-know-episode-49",
+          "2024-need-to-know-episode-50",
+          "2024-need-to-know-episode-52"
+        ]
+      },
+      {
+        "series": "WEAPONIZED",
+        "episodeIds": [
+          "2024-weaponized-episode-49",
+          "2024-weaponized-episode-52",
+          "2024-weaponized-episode-53",
+          "2024-weaponized-episode-55",
+          "2024-weaponized-episode-64",
+          "2025-weaponized-episode-72",
+          "2025-weaponized-episode-75",
+          "2025-weaponized-episode-77",
+          "2025-weaponized-episode-78",
+          "2025-weaponized-episode-80",
+          "2025-weaponized-episode-96",
+          "2025-weaponized-episode-98",
+          "2026-weaponized-episode-110",
+          "2026-weaponized-episode-111"
+        ]
+      }
+    ],
+    "inconsistent": false
+  },
+  {
+    "caseId": "nazca-mummies",
+    "caseName": "Nazca Mummies",
+    "seriesCoverage": {
+      "WEAPONIZED": [
+        "2026-weaponized-episode-104"
+      ]
+    },
+    "umbrellaLinked": [],
+    "umbrellaMissing": [
+      {
+        "series": "WEAPONIZED",
+        "episodeIds": [
+          "2026-weaponized-episode-104"
+        ]
+      }
+    ],
+    "inconsistent": false
+  },
+  {
+    "caseId": "nuclear-facility-uap-incidents",
+    "caseName": "Nuclear Facility Uap Incidents",
+    "seriesCoverage": {
+      "WEAPONIZED": [
+        "2026-weaponized-episode-107"
+      ]
+    },
+    "umbrellaLinked": [],
+    "umbrellaMissing": [
+      {
+        "series": "WEAPONIZED",
+        "episodeIds": [
+          "2026-weaponized-episode-107"
+        ]
+      }
+    ],
+    "inconsistent": false
+  },
+  {
+    "caseId": "queensland-saucer-nests",
+    "caseName": "Queensland Saucer Nests",
+    "seriesCoverage": {
+      "WEAPONIZED": [
+        "2024-weaponized-episode-63"
+      ]
+    },
+    "umbrellaLinked": [],
+    "umbrellaMissing": [
+      {
+        "series": "WEAPONIZED",
+        "episodeIds": [
+          "2024-weaponized-episode-63"
+        ]
+      }
+    ],
+    "inconsistent": false
+  },
+  {
+    "caseId": "roswell-incident",
+    "caseName": "Roswell Incident",
+    "seriesCoverage": {
+      "Need to Know": [
+        "2022-need-to-know-episode-5",
+        "2026-need-to-know-episode-72"
+      ],
+      "WEAPONIZED": [
+        "2023-weaponized-episode-43",
+        "2023-weaponized-episode-45",
+        "2025-weaponized-episode-87",
+        "2026-weaponized-episode-103"
+      ]
+    },
+    "umbrellaLinked": [],
+    "umbrellaMissing": [
+      {
+        "series": "Need to Know",
+        "episodeIds": [
+          "2022-need-to-know-episode-5",
+          "2026-need-to-know-episode-72"
+        ]
+      },
+      {
+        "series": "WEAPONIZED",
+        "episodeIds": [
+          "2023-weaponized-episode-43",
+          "2023-weaponized-episode-45",
+          "2025-weaponized-episode-87",
+          "2026-weaponized-episode-103"
+        ]
+      }
+    ],
+    "inconsistent": false
+  },
+  {
+    "caseId": "russian-military-ufo-investigation",
+    "caseName": "Soviet and Russian Military UFO Investigations",
+    "seriesCoverage": {
+      "WEAPONIZED": [
+        "2023-weaponized-episode-13",
+        "2023-weaponized-episode-16"
+      ]
+    },
+    "umbrellaLinked": [],
+    "umbrellaMissing": [
+      {
+        "series": "WEAPONIZED",
+        "episodeIds": [
+          "2023-weaponized-episode-13",
+          "2023-weaponized-episode-16"
+        ]
+      }
+    ],
+    "inconsistent": false
+  },
+  {
+    "caseId": "s4-facility-claim",
+    "caseName": "Alleged S-4 Facility",
+    "seriesCoverage": {
+      "WEAPONIZED": [
+        "2024-weaponized-episode-49",
+        "2026-weaponized-episode-109",
+        "2026-weaponized-episode-115"
+      ]
+    },
+    "umbrellaLinked": [],
+    "umbrellaMissing": [
+      {
+        "series": "WEAPONIZED",
+        "episodeIds": [
+          "2024-weaponized-episode-49",
+          "2026-weaponized-episode-109",
+          "2026-weaponized-episode-115"
+        ]
+      }
+    ],
+    "inconsistent": false
+  },
+  {
+    "caseId": "skinwalker-ranch",
+    "caseName": "Skinwalker Ranch",
+    "seriesCoverage": {
+      "Somewhere in the Skies": [
+        "2017-somewhere-in-the-skies-episode-14"
+      ],
+      "Need to Know": [
+        "2022-need-to-know-episode-20"
+      ],
+      "WEAPONIZED": [
+        "2023-weaponized-episode-1",
+        "2023-weaponized-episode-10",
+        "2023-weaponized-episode-11",
+        "2023-weaponized-episode-12",
+        "2023-weaponized-episode-13",
+        "2023-weaponized-episode-14",
+        "2023-weaponized-episode-15",
+        "2023-weaponized-episode-16",
+        "2023-weaponized-episode-17",
+        "2023-weaponized-episode-18",
+        "2023-weaponized-episode-19",
+        "2023-weaponized-episode-2",
+        "2023-weaponized-episode-20",
+        "2023-weaponized-episode-21",
+        "2023-weaponized-episode-22",
+        "2023-weaponized-episode-23",
+        "2023-weaponized-episode-24",
+        "2023-weaponized-episode-25",
+        "2023-weaponized-episode-26",
+        "2023-weaponized-episode-27",
+        "2023-weaponized-episode-28",
+        "2023-weaponized-episode-29",
+        "2023-weaponized-episode-3",
+        "2023-weaponized-episode-30",
+        "2023-weaponized-episode-31",
+        "2023-weaponized-episode-32",
+        "2023-weaponized-episode-33",
+        "2023-weaponized-episode-34",
+        "2023-weaponized-episode-35",
+        "2023-weaponized-episode-36",
+        "2023-weaponized-episode-37",
+        "2023-weaponized-episode-38",
+        "2023-weaponized-episode-39",
+        "2023-weaponized-episode-4",
+        "2023-weaponized-episode-40",
+        "2023-weaponized-episode-41",
+        "2023-weaponized-episode-42",
+        "2023-weaponized-episode-43",
+        "2023-weaponized-episode-44",
+        "2023-weaponized-episode-45",
+        "2023-weaponized-episode-5",
+        "2023-weaponized-episode-6",
+        "2023-weaponized-episode-7",
+        "2023-weaponized-episode-8",
+        "2023-weaponized-episode-9",
+        "2024-weaponized-episode-46",
+        "2024-weaponized-episode-47",
+        "2024-weaponized-episode-48",
+        "2024-weaponized-episode-49",
+        "2024-weaponized-episode-50",
+        "2024-weaponized-episode-51",
+        "2024-weaponized-episode-52",
+        "2024-weaponized-episode-53",
+        "2024-weaponized-episode-54",
+        "2024-weaponized-episode-55",
+        "2024-weaponized-episode-56",
+        "2024-weaponized-episode-57",
+        "2024-weaponized-episode-58",
+        "2024-weaponized-episode-59",
+        "2024-weaponized-episode-60",
+        "2024-weaponized-episode-61",
+        "2024-weaponized-episode-62",
+        "2024-weaponized-episode-63",
+        "2024-weaponized-episode-64",
+        "2025-weaponized-episode-100",
+        "2025-weaponized-episode-101",
+        "2025-weaponized-episode-102",
+        "2025-weaponized-episode-65",
+        "2025-weaponized-episode-66",
+        "2025-weaponized-episode-67",
+        "2025-weaponized-episode-68",
+        "2025-weaponized-episode-69",
+        "2025-weaponized-episode-70",
+        "2025-weaponized-episode-71",
+        "2025-weaponized-episode-72",
+        "2025-weaponized-episode-73",
+        "2025-weaponized-episode-74",
+        "2025-weaponized-episode-75",
+        "2025-weaponized-episode-76",
+        "2025-weaponized-episode-77",
+        "2025-weaponized-episode-78",
+        "2025-weaponized-episode-79",
+        "2025-weaponized-episode-80",
+        "2025-weaponized-episode-81",
+        "2025-weaponized-episode-82",
+        "2025-weaponized-episode-83",
+        "2025-weaponized-episode-84",
+        "2025-weaponized-episode-85",
+        "2025-weaponized-episode-86",
+        "2025-weaponized-episode-87",
+        "2025-weaponized-episode-88",
+        "2025-weaponized-episode-89",
+        "2025-weaponized-episode-90",
+        "2025-weaponized-episode-91",
+        "2025-weaponized-episode-92",
+        "2025-weaponized-episode-93",
+        "2025-weaponized-episode-94",
+        "2025-weaponized-episode-95",
+        "2025-weaponized-episode-96",
+        "2025-weaponized-episode-97",
+        "2025-weaponized-episode-98",
+        "2025-weaponized-episode-99",
+        "2026-weaponized-episode-103",
+        "2026-weaponized-episode-104",
+        "2026-weaponized-episode-105",
+        "2026-weaponized-episode-106",
+        "2026-weaponized-episode-107",
+        "2026-weaponized-episode-108",
+        "2026-weaponized-episode-109",
+        "2026-weaponized-episode-110",
+        "2026-weaponized-episode-111",
+        "2026-weaponized-episode-112",
+        "2026-weaponized-episode-113",
+        "2026-weaponized-episode-114",
+        "2026-weaponized-episode-115",
+        "2026-weaponized-episode-116",
+        "2026-weaponized-episode-117",
+        "2026-weaponized-episode-118",
+        "2026-weaponized-episode-119",
+        "2026-weaponized-episode-120",
+        "weaponized-matthew-brown-part-1",
+        "weaponized-matthew-brown-part-2",
+        "weaponized-matthew-brown-part-3"
+      ]
+    },
+    "umbrellaLinked": [],
+    "umbrellaMissing": [
+      {
+        "series": "Need to Know",
+        "episodeIds": [
+          "2022-need-to-know-episode-20"
+        ]
+      },
+      {
+        "series": "Somewhere in the Skies",
+        "episodeIds": [
+          "2017-somewhere-in-the-skies-episode-14"
+        ]
+      },
+      {
+        "series": "WEAPONIZED",
+        "episodeIds": [
+          "2023-weaponized-episode-1",
+          "2023-weaponized-episode-10",
+          "2023-weaponized-episode-11",
+          "2023-weaponized-episode-12",
+          "2023-weaponized-episode-13",
+          "2023-weaponized-episode-14",
+          "2023-weaponized-episode-15",
+          "2023-weaponized-episode-16",
+          "2023-weaponized-episode-17",
+          "2023-weaponized-episode-18",
+          "2023-weaponized-episode-19",
+          "2023-weaponized-episode-2",
+          "2023-weaponized-episode-20",
+          "2023-weaponized-episode-21",
+          "2023-weaponized-episode-22",
+          "2023-weaponized-episode-23",
+          "2023-weaponized-episode-24",
+          "2023-weaponized-episode-25",
+          "2023-weaponized-episode-26",
+          "2023-weaponized-episode-27",
+          "2023-weaponized-episode-28",
+          "2023-weaponized-episode-29",
+          "2023-weaponized-episode-3",
+          "2023-weaponized-episode-30",
+          "2023-weaponized-episode-31",
+          "2023-weaponized-episode-32",
+          "2023-weaponized-episode-33",
+          "2023-weaponized-episode-34",
+          "2023-weaponized-episode-35",
+          "2023-weaponized-episode-36",
+          "2023-weaponized-episode-37",
+          "2023-weaponized-episode-38",
+          "2023-weaponized-episode-39",
+          "2023-weaponized-episode-4",
+          "2023-weaponized-episode-40",
+          "2023-weaponized-episode-41",
+          "2023-weaponized-episode-42",
+          "2023-weaponized-episode-43",
+          "2023-weaponized-episode-44",
+          "2023-weaponized-episode-45",
+          "2023-weaponized-episode-5",
+          "2023-weaponized-episode-6",
+          "2023-weaponized-episode-7",
+          "2023-weaponized-episode-8",
+          "2023-weaponized-episode-9",
+          "2024-weaponized-episode-46",
+          "2024-weaponized-episode-47",
+          "2024-weaponized-episode-48",
+          "2024-weaponized-episode-49",
+          "2024-weaponized-episode-50",
+          "2024-weaponized-episode-51",
+          "2024-weaponized-episode-52",
+          "2024-weaponized-episode-53",
+          "2024-weaponized-episode-54",
+          "2024-weaponized-episode-55",
+          "2024-weaponized-episode-56",
+          "2024-weaponized-episode-57",
+          "2024-weaponized-episode-58",
+          "2024-weaponized-episode-59",
+          "2024-weaponized-episode-60",
+          "2024-weaponized-episode-61",
+          "2024-weaponized-episode-62",
+          "2024-weaponized-episode-63",
+          "2024-weaponized-episode-64",
+          "2025-weaponized-episode-100",
+          "2025-weaponized-episode-101",
+          "2025-weaponized-episode-102",
+          "2025-weaponized-episode-65",
+          "2025-weaponized-episode-66",
+          "2025-weaponized-episode-67",
+          "2025-weaponized-episode-68",
+          "2025-weaponized-episode-69",
+          "2025-weaponized-episode-70",
+          "2025-weaponized-episode-71",
+          "2025-weaponized-episode-72",
+          "2025-weaponized-episode-73",
+          "2025-weaponized-episode-74",
+          "2025-weaponized-episode-75",
+          "2025-weaponized-episode-76",
+          "2025-weaponized-episode-77",
+          "2025-weaponized-episode-78",
+          "2025-weaponized-episode-79",
+          "2025-weaponized-episode-80",
+          "2025-weaponized-episode-81",
+          "2025-weaponized-episode-82",
+          "2025-weaponized-episode-83",
+          "2025-weaponized-episode-84",
+          "2025-weaponized-episode-85",
+          "2025-weaponized-episode-86",
+          "2025-weaponized-episode-87",
+          "2025-weaponized-episode-88",
+          "2025-weaponized-episode-89",
+          "2025-weaponized-episode-90",
+          "2025-weaponized-episode-91",
+          "2025-weaponized-episode-92",
+          "2025-weaponized-episode-93",
+          "2025-weaponized-episode-94",
+          "2025-weaponized-episode-95",
+          "2025-weaponized-episode-96",
+          "2025-weaponized-episode-97",
+          "2025-weaponized-episode-98",
+          "2025-weaponized-episode-99",
+          "2026-weaponized-episode-103",
+          "2026-weaponized-episode-104",
+          "2026-weaponized-episode-105",
+          "2026-weaponized-episode-106",
+          "2026-weaponized-episode-107",
+          "2026-weaponized-episode-108",
+          "2026-weaponized-episode-109",
+          "2026-weaponized-episode-110",
+          "2026-weaponized-episode-111",
+          "2026-weaponized-episode-112",
+          "2026-weaponized-episode-113",
+          "2026-weaponized-episode-114",
+          "2026-weaponized-episode-115",
+          "2026-weaponized-episode-116",
+          "2026-weaponized-episode-117",
+          "2026-weaponized-episode-118",
+          "2026-weaponized-episode-119",
+          "2026-weaponized-episode-120",
+          "weaponized-matthew-brown-part-1",
+          "weaponized-matthew-brown-part-2",
+          "weaponized-matthew-brown-part-3"
+        ]
+      }
+    ],
+    "inconsistent": false
+  },
+  {
+    "caseId": "syria-uap-2021",
+    "caseName": "Syria Uap 2021",
+    "seriesCoverage": {
+      "WEAPONIZED": [
+        "2026-weaponized-episode-108",
+        "2026-weaponized-episode-109",
+        "2026-weaponized-episode-111"
+      ]
+    },
+    "umbrellaLinked": [],
+    "umbrellaMissing": [
+      {
+        "series": "WEAPONIZED",
+        "episodeIds": [
+          "2026-weaponized-episode-108",
+          "2026-weaponized-episode-109",
+          "2026-weaponized-episode-111"
+        ]
+      }
+    ],
+    "inconsistent": false
+  },
+  {
+    "caseId": "twentynine-palms-triangle-incident",
+    "caseName": "Twentynine Palms Triangle Incident",
+    "seriesCoverage": {
+      "WEAPONIZED": [
+        "2023-weaponized-episode-18",
+        "2023-weaponized-episode-19"
+      ]
+    },
+    "umbrellaLinked": [],
+    "umbrellaMissing": [
+      {
+        "series": "WEAPONIZED",
+        "episodeIds": [
+          "2023-weaponized-episode-18",
+          "2023-weaponized-episode-19"
+        ]
+      }
+    ],
+    "inconsistent": false
+  },
+  {
+    "caseId": "uk-military-airspace-incursions-2024",
+    "caseName": "2024 UK Military Airspace Incursions",
+    "seriesCoverage": {
+      "WEAPONIZED": [
+        "2024-weaponized-episode-62"
+      ]
+    },
+    "umbrellaLinked": [],
+    "umbrellaMissing": [
+      {
+        "series": "WEAPONIZED",
+        "episodeIds": [
+          "2024-weaponized-episode-62"
+        ]
+      }
+    ],
+    "inconsistent": false
+  },
+  {
+    "caseId": "vandenberg-red-square-uap",
+    "caseName": "Vandenberg Red Square UAP Incident",
+    "seriesCoverage": {
+      "WEAPONIZED": [
+        "2025-weaponized-episode-71"
+      ]
+    },
+    "umbrellaLinked": [],
+    "umbrellaMissing": [
+      {
+        "series": "WEAPONIZED",
+        "episodeIds": [
+          "2025-weaponized-episode-71"
+        ]
+      }
+    ],
+    "inconsistent": false
+  },
+  {
+    "caseId": "varginha-ufo-incident",
+    "caseName": "Varginha Ufo Incident",
+    "seriesCoverage": {
+      "WEAPONIZED": [
+        "2026-weaponized-episode-105"
+      ]
+    },
+    "umbrellaLinked": [],
+    "umbrellaMissing": [
+      {
+        "series": "WEAPONIZED",
+        "episodeIds": [
+          "2026-weaponized-episode-105"
+        ]
+      }
+    ],
+    "inconsistent": false
+  },
+  {
+    "caseId": "world-war-ii-foo-fighters",
+    "caseName": "World War II Foo Fighter Reports",
+    "seriesCoverage": {
+      "Need to Know": [
+        "2022-need-to-know-episode-5"
+      ]
+    },
+    "umbrellaLinked": [],
+    "umbrellaMissing": [
+      {
+        "series": "Need to Know",
+        "episodeIds": [
+          "2022-need-to-know-episode-5"
+        ]
+      }
+    ],
+    "inconsistent": false
+  }
+]

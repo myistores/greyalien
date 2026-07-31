@@ -1,0 +1,27 @@
+V23.5D.1 — Cross-Series Topic Relationship Audit Enhancement
+Base: V23.5D
+Type: Analysis only
+
+ADDED
+- V23_5D_1_CROSS_SERIES_TOPIC_RELATIONSHIP_AUDIT_ENHANCEMENT.md
+- V23_5D_1_PATCH_MANIFEST.txt
+- tools/validate_v23_5d_1.py
+- .github/workflows/v23-5d-1-cross-series-topic-audit.yml
+- reports/v23-5d-1/V23_5D_1_CROSS_SERIES_TOPIC_RELATIONSHIP_AUDIT.md
+- reports/v23-5d-1/audit-results.json
+- reports/v23-5d-1/candidate-relationship-report.json
+- reports/v23-5d-1/graph-consistency-report.json
+- reports/v23-5d-1/case-inheritance-analysis.json
+- reports/v23-5d-1/human-approval-worksheet.csv
+- validation/v23_5d_1_tests.log
+
+MODIFIED
+- tools/audit_cross_series_topics.py
+
+MODIFIED ENTITY/GRAPH/RENDERING FILES
+- None
+
+PROTECTION
+- Entity JSON hashed before and after audit.
+- Generated entity pages hashed before and after audit.
+- Human review required; all worksheet decisions remain pending.
