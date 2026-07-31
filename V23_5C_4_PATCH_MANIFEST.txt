@@ -1,0 +1,11 @@
+V23.5C.4 PATCH MANIFEST
+
+Modified:
+- data/entities/2017-somewhere-in-the-skies-episode-1.json through episode-10.json
+- assets/js/podcast-official-media.js
+- style.css
+
+Added:
+- V23_5C_4_SOMEWHERE_IN_THE_SKIES_FIRST_10_DIRECT_MEDIA_LINKS.md
+- V23_5C_4_PATCH_MANIFEST.txt
+- tools/validate_v23_5c4.py

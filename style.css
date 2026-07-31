@@ -521,3 +521,6 @@ html{scroll-behavior:smooth}
 
 /* V23.5C.2A.1 media action restoration */
 .official-media-primary{margin:1rem 0}.official-media-action{display:inline-flex;align-items:center;justify-content:center}.sits-row-actions{display:flex;flex-direction:column;gap:.5rem;align-items:stretch}.sits-row-actions .sits-open{white-space:nowrap}@media(max-width:760px){.sits-row-actions{width:100%;margin-top:.75rem}.sits-row-actions .sits-open{justify-content:center}}
+
+/* V23.5C.4 first-10 direct-media pilot */
+.official-media-actions{display:flex;flex-wrap:wrap;gap:.75rem;margin:1rem 0}.official-media-secondary{margin-top:.25rem}@media(max-width:680px){.official-media-actions{align-items:stretch}.official-media-actions .official-media-action{width:100%}}

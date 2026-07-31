@@ -54,7 +54,14 @@
   ],
   "mediaLinks": [
     {
-      "label": "Open exact episode on Spotify",
+      "label": "Watch on YouTube",
+      "url": "https://www.youtube.com/watch?v=HSfpUVr3Ais",
+      "platform": "YouTube",
+      "linkScope": "episode",
+      "validationStatus": "live_verified"
+    },
+    {
+      "label": "Listen on Spotify",
       "url": "https://open.spotify.com/episode/5nnM6FRzSDFrGjkBD4bBDF",
       "platform": "Spotify",
       "linkScope": "episode",
@@ -87,8 +94,31 @@
   ],
   "officialMedia": [
     {
-      "_field": "mediaLinks",
-      "_index": 0,
+      "platform": "YouTube",
+      "url": "https://www.youtube.com/watch?v=HSfpUVr3Ais",
+      "destinationType": "episode",
+      "mediaType": "video",
+      "official": true,
+      "verified": true,
+      "verificationStatus": "verified",
+      "preferredRank": 2,
+      "label": "Watch on YouTube",
+      "approved": true,
+      "published": true,
+      "validationClassification": "direct episode",
+      "validationProvenance": {
+        "release": "V23.5C.4",
+        "validatedAt": "2026-07-31T01:30:00+00:00",
+        "recoverySource": "user_supplied_direct_episode_inventory",
+        "confidence": "high",
+        "identitySignals": [
+          "platform_episode_identifier",
+          "repository_title",
+          "official_distribution_platform"
+        ]
+      }
+    },
+    {
       "platform": "Spotify",
       "url": "https://open.spotify.com/episode/5nnM6FRzSDFrGjkBD4bBDF",
       "destinationType": "episode",
@@ -100,30 +130,16 @@
       "label": "Listen on Spotify",
       "approved": true,
       "published": true,
-      "migrationProvenance": {
-        "release": "V23.5B",
-        "legacyField": "mediaLinks",
-        "legacyIndex": 0,
-        "legacyLabel": "Open exact episode on Spotify"
-      },
-      "migrationProvenanceMerged": [
-        {
-          "release": "V23.5B",
-          "legacyField": "referenceSources",
-          "legacyIndex": 0,
-          "legacyLabel": "Exact Spotify episode page"
-        }
-      ],
       "validationClassification": "direct episode",
       "validationProvenance": {
-        "release": "V23.5C.3",
-        "validatedAt": "2026-07-30T20:00:00+00:00",
-        "recoverySource": "retained_repository_record",
+        "release": "V23.5C.4",
+        "validatedAt": "2026-07-31T01:30:00+00:00",
+        "recoverySource": "user_supplied_direct_episode_inventory",
         "confidence": "high",
         "identitySignals": [
           "platform_episode_identifier",
           "repository_title",
-          "publication_date"
+          "official_distribution_platform"
         ]
       }
     }
@@ -135,8 +151,8 @@
     "legacyUrlCount": 2,
     "mediaRecordCount": 1,
     "duplicateCanonicalUrlsSuppressed": 1,
-    "preferredCanonicalUrl": "https://open.spotify.com/episode/5nnM6FRzSDFrGjkBD4bBDF",
-    "preferredLabel": "Listen on Spotify",
+    "preferredCanonicalUrl": "https://www.youtube.com/watch?v=HSfpUVr3Ais",
+    "preferredLabel": "Watch on YouTube",
     "completionRelease": "V23.5C.3",
     "completionCheckedAt": "2026-07-30T20:00:00+00:00",
     "preferredDestinationClassification": "direct episode",
@@ -148,6 +164,8 @@
     },
     "validationIssue": null,
     "existingDestinationsPreserved": true,
-    "fabricatedDestinations": 0
+    "fabricatedDestinations": 0,
+    "pilotRelease": "V23.5C.4",
+    "pilotStatus": "approved"
   }
 }
