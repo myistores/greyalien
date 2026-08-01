@@ -1,0 +1,21 @@
+V23.5D.2 — Destination Topic Research Value Enhancement
+Base: V23.5D.1
+Type: Analysis-only audit enhancement
+
+ADDED
+.github/workflows/v23-5d-2-destination-topic-research-value-audit.yml
+tools/validate_v23_5d_2.py
+V23_5D_2_DESTINATION_TOPIC_RESEARCH_VALUE_ENHANCEMENT.md
+V23_5D_2_PATCH_MANIFEST.txt
+reports/v23-5d-2/* (generated analysis artifacts)
+validation/v23_5d_2_tests.log
+
+UPDATED
+tools/audit_cross_series_topics.py
+
+PROTECTED / UNCHANGED
+data/entities/**
+entities/generated/**
+data/knowledge-graph-schema.json
+data/related-content.json
+all relationship data, rendered pages, schemas, classifications, and recommendation engine content

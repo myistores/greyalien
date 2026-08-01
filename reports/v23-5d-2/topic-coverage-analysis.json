@@ -1,0 +1,127 @@
+{
+  "ufo-history": {
+    "topicId": "ufo-history",
+    "topic": "UFO History",
+    "memberCount": 10,
+    "entityTypeCounts": {
+      "episodes": 10
+    },
+    "episodeSeries": [
+      "Somewhere in the Skies"
+    ],
+    "caseIds": [],
+    "personIds": [],
+    "documentIds": [],
+    "organizationIds": [],
+    "years": [
+      "2017"
+    ],
+    "normalizedTitles": [
+      "somewhere in the skies episode 10 mark o connell the close encounters man",
+      "somewhere in the skies episode 17 peter robbins imagery reality and ufos sorting truth from fiction",
+      "somewhere in the skies episode 18 mj banias whiskey ufos and shaking the et hypothesis",
+      "somewhere in the skies episode 2 micah hanks building a better ufology truth myths the future of uap research",
+      "somewhere in the skies episode 20 spooked in nova scotia a paranormal roundtable",
+      "somewhere in the skies episode 21 jason mcclellan beers ghosts and ufos",
+      "somewhere in the skies episode 22 mike clelland the messengers",
+      "somewhere in the skies episode 26 karl pfeiffer the science and philosophy of the paranormal",
+      "somewhere in the skies episode 3 greg eghigian history of a cultural phenomenon",
+      "somewhere in the skies episode 36 ufo roundtable the year in review"
+    ],
+    "strengths": [
+      "established content base"
+    ],
+    "gaps": [
+      "missing podcast series: MERGED, Need to Know, WEAPONIZED",
+      "limited witness/investigator diversity",
+      "limited document coverage",
+      "limited organization/investigation coverage",
+      "limited explicit chronology"
+    ],
+    "coverageSummary": "10 existing related entities; 10 episodes across 1 podcast series; 0 recognized cases; 0 linked people; 0 documents; 0 organizations; 1 explicit years."
+  },
+  "historical-ufo-cases": {
+    "topicId": "historical-ufo-cases",
+    "topic": "Historical UFO Cases",
+    "memberCount": 10,
+    "entityTypeCounts": {
+      "episodes": 10
+    },
+    "episodeSeries": [
+      "Somewhere in the Skies"
+    ],
+    "caseIds": [],
+    "personIds": [],
+    "documentIds": [],
+    "organizationIds": [],
+    "years": [
+      "2017"
+    ],
+    "normalizedTitles": [
+      "somewhere in the skies episode 11 erica lukes dugway skinwalker ranch and ufos over utah",
+      "somewhere in the skies episode 19 ben mezrich the 37th parallel",
+      "somewhere in the skies episode 24 chris garetano dark files and the montauk project",
+      "somewhere in the skies episode 25 seth breedlove invasion on chestnut ridge",
+      "somewhere in the skies episode 29 brian bethel black eyed kid phenomenon",
+      "somewhere in the skies episode 30 the andreasson abduction",
+      "somewhere in the skies episode 33 michael huntington childhood ufo encounters",
+      "somewhere in the skies episode 5 ruben uriarte ufos over mexico and the southwest",
+      "somewhere in the skies episode 7 nick redfern the roswell ufo conspiracy",
+      "somewhere in the skies episode 8 jane kyle ufos over texas"
+    ],
+    "strengths": [
+      "established content base"
+    ],
+    "gaps": [
+      "missing podcast series: MERGED, Need to Know, WEAPONIZED",
+      "limited witness/investigator diversity",
+      "limited document coverage",
+      "limited organization/investigation coverage",
+      "limited explicit chronology",
+      "limited recognized Case entity coverage"
+    ],
+    "coverageSummary": "10 existing related entities; 10 episodes across 1 podcast series; 0 recognized cases; 0 linked people; 0 documents; 0 organizations; 1 explicit years."
+  },
+  "witness-accounts": {
+    "topicId": "witness-accounts",
+    "topic": "Witness Accounts",
+    "memberCount": 11,
+    "entityTypeCounts": {
+      "episodes": 11
+    },
+    "episodeSeries": [
+      "Somewhere in the Skies"
+    ],
+    "caseIds": [],
+    "personIds": [],
+    "documentIds": [],
+    "organizationIds": [],
+    "years": [
+      "2017"
+    ],
+    "normalizedTitles": [
+      "somewhere in the skies episode 11 erica lukes dugway skinwalker ranch and ufos over utah",
+      "somewhere in the skies episode 19 ben mezrich the 37th parallel",
+      "somewhere in the skies episode 24 chris garetano dark files and the montauk project",
+      "somewhere in the skies episode 25 seth breedlove invasion on chestnut ridge",
+      "somewhere in the skies episode 29 brian bethel black eyed kid phenomenon",
+      "somewhere in the skies episode 30 the andreasson abduction",
+      "somewhere in the skies episode 33 michael huntington childhood ufo encounters",
+      "somewhere in the skies episode 34 witness accounts volume one",
+      "somewhere in the skies episode 5 ruben uriarte ufos over mexico and the southwest",
+      "somewhere in the skies episode 7 nick redfern the roswell ufo conspiracy",
+      "somewhere in the skies episode 8 jane kyle ufos over texas"
+    ],
+    "strengths": [
+      "established content base"
+    ],
+    "gaps": [
+      "missing podcast series: MERGED, Need to Know, WEAPONIZED",
+      "limited witness/investigator diversity",
+      "limited document coverage",
+      "limited organization/investigation coverage",
+      "limited explicit chronology"
+    ],
+    "coverageSummary": "11 existing related entities; 11 episodes across 1 podcast series; 0 recognized cases; 0 linked people; 0 documents; 0 organizations; 1 explicit years."
+  }
+}
