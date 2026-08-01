@@ -1,0 +1,202 @@
+{
+  "case": {
+    "entityCount": 41,
+    "averageWorthinessScore": 60.8,
+    "destinationWorthy": 7,
+    "borderline": 29,
+    "metadataCandidates": 0,
+    "recommendedRoles": {
+      "Destination Entity": 28,
+      "Supporting Entity": 13
+    },
+    "recommendations": {
+      "Human review required": 29,
+      "Recommend destination status": 7,
+      "Recommend reduced destination prominence": 5
+    }
+  },
+  "claim": {
+    "entityCount": 752,
+    "averageWorthinessScore": 14.3,
+    "destinationWorthy": 0,
+    "borderline": 3,
+    "metadataCandidates": 750,
+    "recommendedRoles": {
+      "Contextual Metadata": 750,
+      "Supporting Entity": 2
+    },
+    "recommendations": {
+      "Recommend reduced destination prominence": 750,
+      "Human review required": 2
+    }
+  },
+  "document": {
+    "entityCount": 17,
+    "averageWorthinessScore": 55.4,
+    "destinationWorthy": 2,
+    "borderline": 12,
+    "metadataCandidates": 0,
+    "recommendedRoles": {
+      "Destination Entity": 10,
+      "Supporting Entity": 7
+    },
+    "recommendations": {
+      "Human review required": 10,
+      "Recommend reduced destination prominence": 5,
+      "Recommend destination status": 2
+    }
+  },
+  "hearing": {
+    "entityCount": 15,
+    "averageWorthinessScore": 75.7,
+    "destinationWorthy": 8,
+    "borderline": 7,
+    "metadataCandidates": 0,
+    "recommendedRoles": {
+      "Destination Entity": 15
+    },
+    "recommendations": {
+      "Human review required": 7,
+      "Recommend destination status": 8
+    }
+  },
+  "interview": {
+    "entityCount": 11,
+    "averageWorthinessScore": 49.5,
+    "destinationWorthy": 0,
+    "borderline": 9,
+    "metadataCandidates": 0,
+    "recommendedRoles": {
+      "Supporting Entity": 11
+    },
+    "recommendations": {
+      "Human review required": 7,
+      "Recommend reduced destination prominence": 4
+    }
+  },
+  "legislation": {
+    "entityCount": 1,
+    "averageWorthinessScore": 65.0,
+    "destinationWorthy": 0,
+    "borderline": 1,
+    "metadataCandidates": 0,
+    "recommendedRoles": {
+      "Destination Entity": 1
+    },
+    "recommendations": {
+      "Human review required": 1
+    }
+  },
+  "organization": {
+    "entityCount": 75,
+    "averageWorthinessScore": 45.3,
+    "destinationWorthy": 3,
+    "borderline": 33,
+    "metadataCandidates": 6,
+    "recommendedRoles": {
+      "Supporting Entity": 50,
+      "Destination Entity": 19,
+      "Contextual Metadata": 6
+    },
+    "recommendations": {
+      "Recommend reduced destination prominence": 54,
+      "Human review required": 18,
+      "Recommend destination status": 3
+    }
+  },
+  "person": {
+    "entityCount": 154,
+    "averageWorthinessScore": 53.3,
+    "destinationWorthy": 20,
+    "borderline": 95,
+    "metadataCandidates": 2,
+    "recommendedRoles": {
+      "Supporting Entity": 56,
+      "Destination Entity": 96,
+      "Contextual Metadata": 2
+    },
+    "recommendations": {
+      "Recommend reduced destination prominence": 57,
+      "Human review required": 77,
+      "Recommend destination status": 20
+    }
+  },
+  "podcast_episode": {
+    "entityCount": 257,
+    "averageWorthinessScore": 58.7,
+    "destinationWorthy": 15,
+    "borderline": 208,
+    "metadataCandidates": 2,
+    "recommendedRoles": {
+      "Supporting Entity": 240,
+      "Destination Entity": 15,
+      "Contextual Metadata": 2
+    },
+    "recommendations": {
+      "Human review required": 191,
+      "Recommend reduced destination prominence": 51,
+      "Recommend destination status": 15
+    }
+  },
+  "podcast_series": {
+    "entityCount": 8,
+    "averageWorthinessScore": 62.5,
+    "destinationWorthy": 4,
+    "borderline": 3,
+    "metadataCandidates": 0,
+    "recommendedRoles": {
+      "Supporting Entity": 4,
+      "Destination Entity": 4
+    },
+    "recommendations": {
+      "Recommend reduced destination prominence": 3,
+      "Recommend destination status": 4,
+      "Human review required": 1
+    }
+  },
+  "publication": {
+    "entityCount": 12,
+    "averageWorthinessScore": 42.8,
+    "destinationWorthy": 0,
+    "borderline": 5,
+    "metadataCandidates": 2,
+    "recommendedRoles": {
+      "Supporting Entity": 10,
+      "Contextual Metadata": 2
+    },
+    "recommendations": {
+      "Recommend reduced destination prominence": 7,
+      "Human review required": 5
+    }
+  },
+  "timeline_event": {
+    "entityCount": 185,
+    "averageWorthinessScore": 26.8,
+    "destinationWorthy": 0,
+    "borderline": 2,
+    "metadataCandidates": 185,
+    "recommendedRoles": {
+      "Contextual Metadata": 185
+    },
+    "recommendations": {
+      "Recommend reduced destination prominence": 185
+    }
+  },
+  "topic": {
+    "entityCount": 81,
+    "averageWorthinessScore": 43.1,
+    "destinationWorthy": 1,
+    "borderline": 36,
+    "metadataCandidates": 1,
+    "recommendedRoles": {
+      "Destination Entity": 27,
+      "Supporting Entity": 53,
+      "Contextual Metadata": 1
+    },
+    "recommendations": {
+      "Human review required": 29,
+      "Recommend reduced destination prominence": 51,
+      "Recommend destination status": 1
+    }
+  }
+}
