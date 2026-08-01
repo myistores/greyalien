@@ -1,0 +1,54 @@
+{
+  "case": {
+    "curatorApproved": true,
+    "evaluationMode": "quality-and-placement"
+  },
+  "claim": {
+    "curatorApproved": false,
+    "evaluationMode": "full-destination-worthiness"
+  },
+  "document": {
+    "curatorApproved": false,
+    "evaluationMode": "full-destination-worthiness"
+  },
+  "hearing": {
+    "curatorApproved": true,
+    "evaluationMode": "quality-and-placement"
+  },
+  "interview": {
+    "curatorApproved": false,
+    "evaluationMode": "full-destination-worthiness"
+  },
+  "legislation": {
+    "curatorApproved": true,
+    "evaluationMode": "quality-and-placement"
+  },
+  "organization": {
+    "curatorApproved": false,
+    "evaluationMode": "full-destination-worthiness"
+  },
+  "person": {
+    "curatorApproved": false,
+    "evaluationMode": "full-destination-worthiness"
+  },
+  "podcast_episode": {
+    "curatorApproved": true,
+    "evaluationMode": "quality-and-placement"
+  },
+  "podcast_series": {
+    "curatorApproved": true,
+    "evaluationMode": "quality-and-placement"
+  },
+  "publication": {
+    "curatorApproved": false,
+    "evaluationMode": "full-destination-worthiness"
+  },
+  "timeline_event": {
+    "curatorApproved": false,
+    "evaluationMode": "full-destination-worthiness"
+  },
+  "topic": {
+    "curatorApproved": false,
+    "evaluationMode": "full-destination-worthiness"
+  }
+}

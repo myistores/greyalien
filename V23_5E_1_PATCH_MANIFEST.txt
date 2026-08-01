@@ -1,0 +1,32 @@
+V23.5E.1 — Entity Worthiness Philosophy Refinement
+Base: V23.5E
+
+ADDED
+- tools/validate_v23_5e_1.py
+- .github/workflows/v23-5e-1-entity-worthiness-philosophy-refinement.yml
+- V23_5E_1_ENTITY_WORTHINESS_PHILOSOPHY_REFINEMENT.md
+- V23_5E_1_PATCH_MANIFEST.txt
+
+MODIFIED
+- tools/audit_entity_worthiness.py
+
+RUNTIME OUTPUT (GitHub Actions artifact only)
+- reports/v23-5e-1/
+
+GOVERNANCE
+- Destination eligibility separated from navigation prominence
+- Four-tier destination hierarchy
+- Curator-approved destination types
+- Editorial full-worthiness evaluation
+- Entity-type scoring profiles and within-type percentiles
+- Category-level governance analysis
+
+PROTECTION
+- Read-only analysis
+- No entity JSON changes
+- No relationship changes
+- No rendered-page changes
+- No schema changes
+- No classification changes
+- No recommendation-engine changes
+- Every human decision remains pending

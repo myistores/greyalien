@@ -1,0 +1,10 @@
+{
+  "release": "V23.5E.1",
+  "entitiesEvaluated": 1609,
+  "tier1": 58,
+  "tier2": 365,
+  "tier3": 450,
+  "tier4": 736,
+  "repositoryMutationDetected": false
+}
+V23.5E.1 validation passed: 1609 entities evaluated with four-tier hierarchy, entity-type governance, within-type percentiles, navigation prominence, workbook outputs, and read-only protection.

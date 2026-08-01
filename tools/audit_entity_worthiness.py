@@ -7,10 +7,27 @@ from datetime import datetime,timezone
 from pathlib import Path
 from xml.sax.saxutils import escape
 
-RELEASE='V23.5E'; BASE='V23.5D.2'
-DESTINATION_TYPES={'person','case','organization','hearing','legislation','document','topic'}
-SUPPORTING_TYPES={'podcast_episode','interview','publication','timeline_event','claim','podcast_series'}
-TYPE_PRIOR={'case':20,'person':17,'hearing':18,'legislation':20,'document':15,'topic':13,'organization':10,'publication':9,'podcast_series':8,'interview':7,'podcast_episode':5,'timeline_event':3,'claim':1}
+RELEASE='V23.5E.1'; BASE='V23.5E'
+CURATOR_APPROVED_TYPES={
+ 'podcast_series','podcast_episode','hearing','case','witness_profile','whistleblower_profile',
+ 'research_document','government_report','research_paper','book','documentary_film','legislation'
+}
+TYPE_ALIASES={
+ 'historical_ufo_case':'case','congressional_hearing':'hearing','witness':'witness_profile',
+ 'whistleblower':'whistleblower_profile','report':'government_report','paper':'research_paper',
+ 'documentary':'documentary_film','film':'documentary_film'
+}
+TYPE_PRIOR={'case':20,'person':17,'witness_profile':18,'whistleblower_profile':18,'hearing':18,'legislation':20,'research_document':16,'government_report':19,'research_paper':17,'book':14,'documentary_film':13,'document':15,'topic':13,'organization':10,'publication':9,'podcast_series':10,'interview':8,'podcast_episode':7,'timeline_event':5,'claim':2}
+SCORING_PROFILES={
+ 'person':{'independent':.12,'convergence':.24,'significance':.24,'educational':.08,'uniqueness':.12,'demand':.20},
+ 'witness_profile':{'independent':.13,'convergence':.22,'significance':.23,'educational':.10,'uniqueness':.14,'demand':.18},
+ 'whistleblower_profile':{'independent':.13,'convergence':.22,'significance':.23,'educational':.10,'uniqueness':.14,'demand':.18},
+ 'podcast_episode':{'independent':.22,'convergence':.18,'significance':.13,'educational':.18,'uniqueness':.17,'demand':.12},
+ 'research_paper':{'independent':.22,'convergence':.12,'significance':.23,'educational':.13,'uniqueness':.20,'demand':.10},
+ 'government_report':{'independent':.18,'convergence':.15,'significance':.25,'educational':.12,'uniqueness':.15,'demand':.15},
+ 'organization':{'independent':.12,'convergence':.23,'significance':.25,'educational':.08,'uniqueness':.12,'demand':.20},
+ 'default':{'independent':.18,'convergence':.19,'significance':.21,'educational':.12,'uniqueness':.16,'demand':.14}
+}
 GENERIC_TERMS=re.compile(r'\b(platform|hosting|hosted|distribution|publisher|network|news outlet|website|service|administrative|category)\b',re.I)
 SIGNIFICANCE=re.compile(r'\b(historic|landmark|official|congress|government|military|scientific|investigation|report|act|hearing|incident|case|witness|whistleblower|research|evidence|disclosure|uap|ufo)\b',re.I)
 WEAK_SUMMARY=re.compile(r'knowledge.graph entity referenced|claim or editorial framing presented|was published\.?$',re.I)
@@ -22,7 +39,10 @@ def digest(p):
  h=hashlib.sha256(); h.update(p.read_bytes()); return h.hexdigest()
 def rels(e): return [r for r in e.get('relationships',[]) if isinstance(r,dict) and r.get('target')]
 def evidence_count(e): return len(e.get('referenceSources') or [])+len(e.get('officialLinks') or [])
-def norm_type(e): return clean(e.get('type')).lower() or 'unknown'
+def norm_type(e):
+ t=clean(e.get('type')).lower() or 'unknown'
+ return TYPE_ALIASES.get(t,t)
+
 def clamp(n): return max(0,min(100,int(round(n))))
 
 def snapshot(root):
@@ -43,59 +63,73 @@ def evaluate(e,byid,outgoing,incoming):
  inbound=len(inc); outbound=len(out); refs=evidence_count(e)
  text=' '.join([name,summary,clean(e.get('status')),clean(e.get('eventCategory')),clean(e.get('profileStatus'))])
  weak=bool(WEAK_SUMMARY.search(summary)); generic=bool(GENERIC_TERMS.search(text))
- independent=min(100,20+min(len(summary),300)/5+refs*7+min(outbound,8)*3-(25 if weak else 0))
- convergence=min(100,10+min(len(unique_neighbors),20)*3+min(len(edge_types),8)*5+min(inbound,20)*2)
- significance=min(100,TYPE_PRIOR.get(typ,5)*2+(20 if SIGNIFICANCE.search(text) else 0)+min(inbound,10)*2+(10 if refs>=2 else 0)-(18 if generic else 0))
- educational=min(100,15+min(len(summary),350)/5+(15 if refs else 0)+(10 if outbound>=2 else 0)-(20 if weak else 0))
- uniqueness=min(100,25+TYPE_PRIOR.get(typ,5)*2+(10 if inbound>=2 else 0)+(10 if outbound>=2 else 0)-(25 if generic else 0))
- demand=min(100,20+min(inbound,15)*4+TYPE_PRIOR.get(typ,5)*2)
- destination=min(100,(independent*.22+convergence*.18+significance*.20+educational*.12+uniqueness*.16+demand*.12))
- if typ in {'claim','timeline_event'}: destination-=12
- if typ=='podcast_episode': destination-=7
- if typ in {'case','hearing','legislation'}: destination+=8
- if weak: destination-=8
- if generic: destination-=10
- destination=clamp(destination)
- # Better-parent inference is explainable and recommendation-only.
- parent=[]
- parent_types={'episode_of','featured_in_media','event_for','published_by','part_of','interview_of','references_document','discussed_case'}
- for edge in out:
-  if edge['type'] in parent_types and edge['other'] in byid: parent.append({'id':edge['other'],'name':title(byid[edge['other']]),'relationship':edge['type']})
- better_parent_score=20 if not parent else min(95,45+len(parent)*15+(15 if typ in {'claim','timeline_event','podcast_episode'} else 0))
- if destination>=70: role='Destination Entity'; recommendation='Recommend destination status'
- elif destination>=50:
-  role='Supporting Entity' if typ in SUPPORTING_TYPES or parent else 'Destination Entity'
-  recommendation='Human review required'
- else:
-  role='Contextual Metadata' if generic or typ in {'claim','timeline_event'} else 'Supporting Entity'
-  recommendation='Recommend reduced destination prominence'
- borderline=45<=destination<70
- reasons=[]
- if convergence>=65: reasons.append(f'{len(unique_neighbors)} meaningful neighboring entities and {len(edge_types)} relationship types converge here')
- else: reasons.append(f'only {len(unique_neighbors)} neighboring entities and {len(edge_types)} relationship types currently converge here')
- if independent>=65: reasons.append('the entity has enough descriptive and sourced material to support standalone research')
- else: reasons.append('the current record has limited independent research depth')
- if significance>=65: reasons.append('its subject appears durable and significant within UAP research')
- else: reasons.append('its long-term significance is not yet strongly demonstrated')
- if parent: reasons.append('its information may be naturally encountered beneath '+', '.join(p['name'] for p in parent[:3]))
- justification=f"{name} scores {destination}/100. " + '; '.join(reasons)+'.'
+ independent=clamp(20+min(len(summary),300)/5+refs*7+min(outbound,8)*3-(25 if weak else 0))
+ convergence=clamp(10+min(len(unique_neighbors),20)*3+min(len(edge_types),8)*5+min(inbound,20)*2)
+ significance=clamp(TYPE_PRIOR.get(typ,5)*2+(20 if SIGNIFICANCE.search(text) else 0)+min(inbound,10)*2+(10 if refs>=2 else 0)-(18 if generic else 0))
+ educational=clamp(15+min(len(summary),350)/5+(15 if refs else 0)+(10 if outbound>=2 else 0)-(20 if weak else 0))
+ uniqueness=clamp(25+TYPE_PRIOR.get(typ,5)*2+(10 if inbound>=2 else 0)+(10 if outbound>=2 else 0)-(25 if generic else 0))
+ demand=clamp(20+min(inbound,15)*4+TYPE_PRIOR.get(typ,5)*2)
+ profile=SCORING_PROFILES.get(typ,SCORING_PROFILES['default'])
+ score=clamp(independent*profile['independent']+convergence*profile['convergence']+significance*profile['significance']+educational*profile['educational']+uniqueness*profile['uniqueness']+demand*profile['demand'])
+ if weak: score=clamp(score-5)
+ if generic: score=clamp(score-8)
+ approved=typ in CURATOR_APPROVED_TYPES
+ destination_eligibility='Qualifies as a destination' if approved or score>=55 else 'Better represented as supporting knowledge or metadata'
  evidence={
   'summaryLength':len(summary),'outgoingRelationships':outbound,'incomingRelationships':inbound,
   'uniqueRelatedEntities':len(unique_neighbors),'relationshipTypes':sorted(edge_types),'referenceSourceCount':refs,
   'officialLinkCount':len(e.get('officialLinks') or []),'weakSummaryPattern':weak,'genericInfrastructureSignal':generic,
   'sampleRelatedEntities':[{'id':x,'name':title(byid[x]),'type':norm_type(byid[x])} for x in sorted(unique_neighbors)[:8] if x in byid]
  }
+ narrative=(f"{name} is evaluated against the {typ} baseline. It has {len(unique_neighbors)} related entities, "
+            f"{len(edge_types)} relationship types, {refs} source or official-link references, and a type-weighted score of {score}/100.")
+ if approved: narrative += ' Its entity type is curator-approved, so destination eligibility is retained and the audit evaluates quality, tier, and prominence only.'
+ elif destination_eligibility.startswith('Better'): narrative += ' Current evidence does not yet establish sufficient independent destination value.'
  return {
-  'entityId':eid,'entityName':name,'entityType':typ,
-  'researchDestinationTest':test('Research Destination',destination,'A serious researcher could intentionally browse to this subject.','Direct researcher demand is uncertain or weak.'),
-  'independentKnowledgeTest':test('Independent Knowledge',independent,'The record can support meaningful standalone research.','The record is primarily supporting information or lacks depth.'),
-  'relationshipConvergenceTest':test('Relationship Convergence',convergence,'Meaningful relationships naturally converge around this entity.','Relationship quantity or diversity is limited.'),
-  'longTermSignificanceTest':test('Long-Term Significance',significance,'The subject is likely to remain important over time.','Current relevance may be isolated, temporary, or insufficiently established.'),
-  'betterParentTest':{'score':clamp(better_parent_score),'result':'yes' if better_parent_score>=65 else ('possible' if better_parent_score>=45 else 'no'),'assessment':'A stronger parent destination may organize this information more naturally.' if parent else 'No clear better parent was identified from current relationships.','candidateParents':parent[:5]},
-  'scoreFactors':{'researchDestinationValue':destination,'independentResearchDepth':clamp(independent),'relationshipConvergence':clamp(convergence),'longTermSignificance':clamp(significance),'educationalValue':clamp(educational),'historicalSignificance':clamp(significance),'crossDomainImportance':clamp((len(edge_types)*9)+TYPE_PRIOR.get(typ,5)*2),'citationFrequency':clamp(refs*15+inbound*3),'knowledgeUniqueness':clamp(uniqueness),'researchDemand':clamp(demand)},
-  'entityWorthinessScore':destination,'recommendedKnowledgeRole':role,'supportingEvidence':evidence,'justification':justification,
-  'borderline':borderline,'finalRecommendation':recommendation,'humanDecision':'pending'
+  'entityId':eid,'entityName':name,'entityType':typ,'curatorApprovedEntityType':approved,
+  'destinationEligibility':destination_eligibility,'entityTypeBaseline':typ,
+  'scoreComponents':{'independentResearchDepth':independent,'relationshipConvergence':convergence,'longTermSignificance':significance,'educationalValue':educational,'knowledgeUniqueness':uniqueness,'researchDemand':demand},
+  'scoringProfile':profile,'entityWorthinessScore':score,'entityTypePercentile':None,
+  'destinationTier':None,'navigationProminence':None,'researchValueNarrative':narrative,
+  'supportingEvidence':evidence,'justification':narrative,'humanRecommendation':'pending','humanDecision':'pending'
  }
+
+def assign_percentiles_and_governance(rows):
+ groups=defaultdict(list)
+ for r in rows: groups[r['entityType']].append(r)
+ for typ,rs in groups.items():
+  ordered=sorted(rs,key=lambda x:(x['entityWorthinessScore'],x['entityName'].lower()))
+  n=len(ordered)
+  for i,r in enumerate(ordered):
+   r['entityTypePercentile']=100.0 if n==1 else round(i/(n-1)*100,1)
+  for r in rs:
+   p=r['entityTypePercentile']; score=r['entityWorthinessScore']; approved=r['curatorApprovedEntityType']; eligible=r['destinationEligibility'].startswith('Qualifies')
+   if eligible and ((p>=92 and score>=72) or (typ in {'case','hearing','person','government_report','legislation'} and p>=85 and score>=68)):
+    tier='Tier 1 — Core Research Destination'
+   elif eligible:
+    tier='Tier 2 — Research Destination'
+   elif score>=35 and not r['supportingEvidence']['genericInfrastructureSignal']:
+    tier='Tier 3 — Supporting Knowledge Object'
+   else:
+    tier='Tier 4 — Contextual Metadata'
+   r['destinationTier']=tier
+   if tier.startswith('Tier 1'):
+    nav='Core Navigation' if p>=97 and score>=80 else 'Featured Research Gateway'
+   elif tier.startswith('Tier 2'):
+    nav='Frequently Recommended' if p>=70 else 'Search-Driven Discovery'
+   elif tier.startswith('Tier 3'):
+    nav='Contextual Discovery'
+   else:
+    nav='Contextual Discovery'
+   r['navigationProminence']=nav
+   if approved:
+    r['humanRecommendation']='Retain destination; review tier, prominence, completeness, and relationship quality'
+   elif tier.startswith(('Tier 1','Tier 2')):
+    r['humanRecommendation']='Recommend destination status'
+   elif tier.startswith('Tier 3'):
+    r['humanRecommendation']='Review as supporting knowledge object'
+   else:
+    r['humanRecommendation']='Review as contextual metadata'
 
 def xcol(n):
  s=''
@@ -129,12 +163,12 @@ def make_xlsx(path,sheets):
    end=f'{xcol(maxc)}{len(rows)}'; xml.append(f'</sheetData><autoFilter ref="A1:{end}"/></worksheet>'); z.writestr(f'xl/worksheets/sheet{si}.xml',''.join(xml))
 
 def write_md(path,title_text,rows):
- lines=[f'# {title_text}','', '> **Analysis only. Every recommendation is pending human review.**','',f'Entities: **{len(rows)}**','', '| Entity | Type | Score | Role | Recommendation |','|---|---|---:|---|---|']
- for r in rows: lines.append(f"| {r['entityName'].replace('|','\\|')} | {r['entityType']} | {r['entityWorthinessScore']} | {r['recommendedKnowledgeRole']} | {r['finalRecommendation']} |")
+ lines=[f'# {title_text}','', '> **Analysis only. Every recommendation is pending human review.**','',f'Entities: **{len(rows)}**','', '| Entity | Type | Approved | Score | Percentile | Tier | Navigation |','|---|---|---|---:|---:|---|---|']
+ for r in rows: lines.append(f"| {r['entityName'].replace('|','\\|')} | {r['entityType']} | {'Yes' if r['curatorApprovedEntityType'] else 'No'} | {r['entityWorthinessScore']} | {r['entityTypePercentile']} | {r['destinationTier']} | {r['navigationProminence']} |")
  path.write_text('\n'.join(lines)+'\n',encoding='utf-8')
 
 def main():
- ap=argparse.ArgumentParser(); ap.add_argument('--root',default='.'); ap.add_argument('--output-dir',default='reports/v23-5e'); args=ap.parse_args(); root=Path(args.root).resolve(); outdir=root/args.output_dir; outdir.mkdir(parents=True,exist_ok=True)
+ ap=argparse.ArgumentParser(); ap.add_argument('--root',default='.'); ap.add_argument('--output-dir',default='reports/v23-5e-1'); args=ap.parse_args(); root=Path(args.root).resolve(); outdir=root/args.output_dir; outdir.mkdir(parents=True,exist_ok=True)
  before=snapshot(root)
  entities=[]
  for p in sorted((root/'data/entities').glob('*.json')):
@@ -144,27 +178,36 @@ def main():
  for e in entities:
   for r in rels(e):
    edge={'other':r['target'],'type':clean(r.get('type') or 'related_to')}; outgoing[e['id']].append(edge); incoming[r['target']].append({'other':e['id'],'type':edge['type']})
- rows=[evaluate(e,byid,outgoing,incoming) for e in entities]; rows.sort(key=lambda r:(r['entityType'],r['entityName'].lower()))
- destination=[r for r in rows if r['entityWorthinessScore']>=70]; borderline=[r for r in rows if r['borderline']]; metadata=[r for r in rows if r['recommendedKnowledgeRole']=='Contextual Metadata']
+ rows=[evaluate(e,byid,outgoing,incoming) for e in entities]; assign_percentiles_and_governance(rows); rows.sort(key=lambda r:(r['entityType'],r['entityName'].lower()))
+ hierarchy={f'tier{i}':[] for i in range(1,5)}
+ for r in rows: hierarchy['tier'+r['destinationTier'][5]].append(r)
+ governance={t:{'curatorApproved':t in CURATOR_APPROVED_TYPES,'evaluationMode':'quality-and-placement' if t in CURATOR_APPROVED_TYPES else 'full-destination-worthiness'} for t in sorted({r['entityType'] for r in rows})}
+ nav=defaultdict(list)
+ for r in rows: nav[r['navigationProminence']].append(r)
  category={}
  for typ in sorted({r['entityType'] for r in rows}):
-  rs=[r for r in rows if r['entityType']==typ]; roles=Counter(r['recommendedKnowledgeRole'] for r in rs); recs=Counter(r['finalRecommendation'] for r in rs)
-  category[typ]={'entityCount':len(rs),'averageWorthinessScore':round(sum(r['entityWorthinessScore'] for r in rs)/len(rs),1),'destinationWorthy':sum(r['entityWorthinessScore']>=70 for r in rs),'borderline':sum(r['borderline'] for r in rs),'metadataCandidates':roles['Contextual Metadata'],'recommendedRoles':dict(roles),'recommendations':dict(recs)}
+  rs=[r for r in rows if r['entityType']==typ]; tiers=Counter(r['destinationTier'].split(' — ')[0] for r in rs); navs=Counter(r['navigationProminence'] for r in rs)
+  category[typ]={'entityCount':len(rs),'automaticallyAcceptedDestinationEntities':sum(r['curatorApprovedEntityType'] for r in rs),'fullyAuditedEntities':sum(not r['curatorApprovedEntityType'] for r in rs),'tier1':tiers['Tier 1'],'tier2':tiers['Tier 2'],'tier3':tiers['Tier 3'],'tier4':tiers['Tier 4'],'averageScore':round(sum(r['entityWorthinessScore'] for r in rs)/len(rs),1),'averagePercentile':round(sum(r['entityTypePercentile'] for r in rs)/len(rs),1),'navigationRecommendations':dict(navs)}
  after=snapshot(root); changed=before!=after
- result={'release':RELEASE,'baseRepository':BASE,'productionType':'Knowledge-graph architecture audit (analysis only)','centralQuestion':'Does this subject deserve to be a destination within GreyAlien?','generatedAt':datetime.now(timezone.utc).isoformat(),'humanReviewRequired':True,'repositoryMutationDetected':changed,'inventory':{'entitiesEvaluated':len(rows),'entityTypes':dict(Counter(r['entityType'] for r in rows))},'thresholds':{'destination':70,'borderlineMinimum':45,'borderlineMaximumExclusive':70},'results':rows,'categoryAnalysis':category}
- (outdir/'entity-worthiness-results.json').write_text(json.dumps(result,indent=2)+'\n',encoding='utf-8')
- (outdir/'destination-entity-report.json').write_text(json.dumps(destination,indent=2)+'\n',encoding='utf-8'); (outdir/'borderline-entity-report.json').write_text(json.dumps(borderline,indent=2)+'\n',encoding='utf-8'); (outdir/'contextual-metadata-candidates-report.json').write_text(json.dumps(metadata,indent=2)+'\n',encoding='utf-8'); (outdir/'category-quality-analysis.json').write_text(json.dumps(category,indent=2)+'\n',encoding='utf-8')
- write_md(outdir/'ENTITY_WORTHINESS_REPORT.md','V23.5E — Entity Worthiness Report',rows); write_md(outdir/'DESTINATION_ENTITY_REPORT.md','Destination Entity Report',destination); write_md(outdir/'BORDERLINE_ENTITY_REPORT.md','Borderline Entity Report',borderline); write_md(outdir/'CONTEXTUAL_METADATA_CANDIDATES_REPORT.md','Contextual Metadata Candidates Report',metadata)
- headers=['Entity Name','Entity ID','Entity Type','Research Destination Test','Independent Knowledge Test','Relationship Convergence','Long-Term Significance','Better Parent Assessment','Entity Worthiness Score','Recommended Knowledge Role','Supporting Evidence','Justification','Final Recommendation','Human Decision']
+ result={'release':RELEASE,'baseRepository':BASE,'productionType':'Knowledge Graph Governance Refinement (analysis only)','generatedAt':datetime.now(timezone.utc).isoformat(),'humanReviewRequired':True,'repositoryMutationDetected':changed,'philosophy':{'destinationEligibilitySeparateFromNavigationProminence':True,'fourTierDestinationHierarchy':True,'entityTypeGovernance':True,'entityTypeBaselines':True},'inventory':{'entitiesEvaluated':len(rows),'entityTypes':dict(Counter(r['entityType'] for r in rows))},'results':rows,'categoryAnalysis':category}
+ (outdir/'entity-worthiness-philosophy-results.json').write_text(json.dumps(result,indent=2)+'\n',encoding='utf-8')
+ (outdir/'destination-hierarchy-report.json').write_text(json.dumps(hierarchy,indent=2)+'\n',encoding='utf-8')
+ (outdir/'entity-type-governance-report.json').write_text(json.dumps(governance,indent=2)+'\n',encoding='utf-8')
+ (outdir/'navigation-prominence-report.json').write_text(json.dumps(dict(nav),indent=2)+'\n',encoding='utf-8')
+ (outdir/'entity-type-baseline-analysis.json').write_text(json.dumps(category,indent=2)+'\n',encoding='utf-8')
+ write_md(outdir/'DESTINATION_HIERARCHY_REPORT.md','V23.5E.1 — Destination Hierarchy Report',rows)
+ write_md(outdir/'NAVIGATION_PROMINENCE_REPORT.md','V23.5E.1 — Navigation Prominence Report',rows)
+ headers=['Entity Name','Entity ID','Entity Type','Curator-Approved Entity Type','Destination Eligibility','Destination Tier','Navigation Prominence','Entity-Type Baseline','Entity Worthiness Score','Entity-Type Percentile','Research Value Narrative','Supporting Evidence','Justification','Human Recommendation','Human Decision']
  table=[]
  for r in rows:
-  ev=r['supportingEvidence']; table.append([r['entityName'],r['entityId'],r['entityType'],r['researchDestinationTest']['result'],r['independentKnowledgeTest']['result'],r['relationshipConvergenceTest']['result'],r['longTermSignificanceTest']['result'],r['betterParentTest']['result'],r['entityWorthinessScore'],r['recommendedKnowledgeRole'],f"{ev['incomingRelationships']} inbound; {ev['outgoingRelationships']} outbound; {ev['uniqueRelatedEntities']} related entities; {ev['referenceSourceCount']} references",r['justification'],r['finalRecommendation'],'pending'])
+  ev=r['supportingEvidence']; table.append([r['entityName'],r['entityId'],r['entityType'],'Yes' if r['curatorApprovedEntityType'] else 'No',r['destinationEligibility'],r['destinationTier'],r['navigationProminence'],r['entityTypeBaseline'],r['entityWorthinessScore'],r['entityTypePercentile'],r['researchValueNarrative'],f"{ev['incomingRelationships']} inbound; {ev['outgoingRelationships']} outbound; {ev['uniqueRelatedEntities']} related entities; {ev['referenceSourceCount']} references",r['justification'],r['humanRecommendation'],'pending'])
  with (outdir/'enhanced-human-review-workbook.csv').open('w',newline='',encoding='utf-8-sig') as f: csv.writer(f).writerows([headers]+table)
- summary_rows=[['Entity Type','Count','Average Score','Destination-worthy','Borderline','Metadata candidates']]+[[t,v['entityCount'],v['averageWorthinessScore'],v['destinationWorthy'],v['borderline'],v['metadataCandidates']] for t,v in category.items()]
- guide=[['Field','Meaning'],['Entity Worthiness Score','0–100 recommendation metric; 70+ destination-worthy; 45–69 borderline.'],['Recommended Knowledge Role','Destination Entity, Supporting Entity, or Contextual Metadata.'],['Human Decision','Always pending; the audit performs no graph changes.'],['Delete/Merge','Not recommended by this release; V23.5E is qualification analysis only.']]
+ summary_rows=[['Entity Type','Count','Auto Accepted','Fully Audited','Tier 1','Tier 2','Tier 3','Tier 4','Average Score','Average Percentile','Navigation Recommendations']]+[[t,v['entityCount'],v['automaticallyAcceptedDestinationEntities'],v['fullyAuditedEntities'],v['tier1'],v['tier2'],v['tier3'],v['tier4'],v['averageScore'],v['averagePercentile'],json.dumps(v['navigationRecommendations'],sort_keys=True)] for t,v in category.items()]
+ guide=[['Field','Meaning'],['Destination Eligibility','Binary destination decision; curator-approved types automatically qualify.'],['Destination Tier','Four-tier research role, independent of page existence.'],['Navigation Prominence','Discoverability recommendation only.'],['Entity-Type Percentile','Relative standing only among entities of the same type.'],['Human Decision','Always pending; the audit performs no graph changes.']]
  make_xlsx(outdir/'enhanced-human-review-workbook.xlsx',[('Entity Review',[headers]+table),('Category Analysis',summary_rows),('Review Guide',guide)])
- validation={'release':RELEASE,'baseRepository':BASE,'repositoryUnchanged':not changed,'entityJsonUnchanged':not changed,'relationshipsUnchanged':not changed,'renderedPagesUnchanged':not changed,'schemasUnchanged':not changed,'recommendationEngineUnchanged':not changed,'classificationsUnchanged':not changed,'auditReadOnly':not changed,'allHumanDecisionsPending':all(r['humanDecision']=='pending' for r in rows),'entitiesEvaluated':len(rows)}
+ validation={'release':RELEASE,'baseRepository':BASE,'repositoryUnchanged':not changed,'entityJsonUnchanged':not changed,'relationshipsUnchanged':not changed,'renderedPagesUnchanged':not changed,'schemasUnchanged':not changed,'classificationsUnchanged':not changed,'recommendationEngineUnchanged':not changed,'destinationHierarchyAdvisoryOnly':not changed,'entityTypeGovernanceAdvisoryOnly':not changed,'auditReadOnly':not changed,'allHumanDecisionsPending':all(r['humanDecision']=='pending' for r in rows),'entitiesEvaluated':len(rows)}
  (outdir/'validation-summary.json').write_text(json.dumps(validation,indent=2)+'\n',encoding='utf-8')
- print(json.dumps({'release':RELEASE,'entitiesEvaluated':len(rows),'destinationWorthy':len(destination),'borderline':len(borderline),'metadataCandidates':len(metadata),'repositoryMutationDetected':changed},indent=2))
+ print(json.dumps({'release':RELEASE,'entitiesEvaluated':len(rows),'tier1':len(hierarchy['tier1']),'tier2':len(hierarchy['tier2']),'tier3':len(hierarchy['tier3']),'tier4':len(hierarchy['tier4']),'repositoryMutationDetected':changed},indent=2))
  if changed: raise SystemExit('Protected repository content changed during audit')
+
 if __name__=='__main__': main()

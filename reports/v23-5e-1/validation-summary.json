@@ -1,0 +1,16 @@
+{
+  "release": "V23.5E.1",
+  "baseRepository": "V23.5E",
+  "repositoryUnchanged": true,
+  "entityJsonUnchanged": true,
+  "relationshipsUnchanged": true,
+  "renderedPagesUnchanged": true,
+  "schemasUnchanged": true,
+  "classificationsUnchanged": true,
+  "recommendationEngineUnchanged": true,
+  "destinationHierarchyAdvisoryOnly": true,
+  "entityTypeGovernanceAdvisoryOnly": true,
+  "auditReadOnly": true,
+  "allHumanDecisionsPending": true,
+  "entitiesEvaluated": 1609
+}

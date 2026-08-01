@@ -1,0 +1,208 @@
+{
+  "case": {
+    "entityCount": 41,
+    "automaticallyAcceptedDestinationEntities": 41,
+    "fullyAuditedEntities": 0,
+    "tier1": 4,
+    "tier2": 37,
+    "tier3": 0,
+    "tier4": 0,
+    "averageScore": 53.6,
+    "averagePercentile": 50.0,
+    "navigationRecommendations": {
+      "Search-Driven Discovery": 28,
+      "Featured Research Gateway": 4,
+      "Frequently Recommended": 9
+    }
+  },
+  "claim": {
+    "entityCount": 752,
+    "automaticallyAcceptedDestinationEntities": 0,
+    "fullyAuditedEntities": 752,
+    "tier1": 0,
+    "tier2": 3,
+    "tier3": 97,
+    "tier4": 652,
+    "averageScore": 27.7,
+    "averagePercentile": 50.0,
+    "navigationRecommendations": {
+      "Contextual Discovery": 749,
+      "Frequently Recommended": 3
+    }
+  },
+  "document": {
+    "entityCount": 17,
+    "automaticallyAcceptedDestinationEntities": 0,
+    "fullyAuditedEntities": 17,
+    "tier1": 1,
+    "tier2": 9,
+    "tier3": 7,
+    "tier4": 0,
+    "averageScore": 55.4,
+    "averagePercentile": 50.0,
+    "navigationRecommendations": {
+      "Search-Driven Discovery": 5,
+      "Frequently Recommended": 4,
+      "Contextual Discovery": 7,
+      "Featured Research Gateway": 1
+    }
+  },
+  "hearing": {
+    "entityCount": 15,
+    "automaticallyAcceptedDestinationEntities": 15,
+    "fullyAuditedEntities": 0,
+    "tier1": 3,
+    "tier2": 12,
+    "tier3": 0,
+    "tier4": 0,
+    "averageScore": 67.5,
+    "averagePercentile": 50.0,
+    "navigationRecommendations": {
+      "Search-Driven Discovery": 10,
+      "Core Navigation": 1,
+      "Frequently Recommended": 2,
+      "Featured Research Gateway": 2
+    }
+  },
+  "interview": {
+    "entityCount": 11,
+    "automaticallyAcceptedDestinationEntities": 0,
+    "fullyAuditedEntities": 11,
+    "tier1": 0,
+    "tier2": 1,
+    "tier3": 10,
+    "tier4": 0,
+    "averageScore": 49.7,
+    "averagePercentile": 50.0,
+    "navigationRecommendations": {
+      "Contextual Discovery": 10,
+      "Frequently Recommended": 1
+    }
+  },
+  "legislation": {
+    "entityCount": 1,
+    "automaticallyAcceptedDestinationEntities": 1,
+    "fullyAuditedEntities": 0,
+    "tier1": 0,
+    "tier2": 1,
+    "tier3": 0,
+    "tier4": 0,
+    "averageScore": 58.0,
+    "averagePercentile": 100.0,
+    "navigationRecommendations": {
+      "Frequently Recommended": 1
+    }
+  },
+  "organization": {
+    "entityCount": 75,
+    "automaticallyAcceptedDestinationEntities": 0,
+    "fullyAuditedEntities": 75,
+    "tier1": 4,
+    "tier2": 8,
+    "tier3": 49,
+    "tier4": 14,
+    "averageScore": 45.1,
+    "averagePercentile": 50.0,
+    "navigationRecommendations": {
+      "Contextual Discovery": 63,
+      "Featured Research Gateway": 4,
+      "Frequently Recommended": 8
+    }
+  },
+  "person": {
+    "entityCount": 154,
+    "automaticallyAcceptedDestinationEntities": 0,
+    "fullyAuditedEntities": 154,
+    "tier1": 23,
+    "tier2": 22,
+    "tier3": 107,
+    "tier4": 2,
+    "averageScore": 52.7,
+    "averagePercentile": 50.0,
+    "navigationRecommendations": {
+      "Contextual Discovery": 109,
+      "Featured Research Gateway": 18,
+      "Core Navigation": 5,
+      "Frequently Recommended": 22
+    }
+  },
+  "podcast_episode": {
+    "entityCount": 257,
+    "automaticallyAcceptedDestinationEntities": 257,
+    "fullyAuditedEntities": 0,
+    "tier1": 21,
+    "tier2": 236,
+    "tier3": 0,
+    "tier4": 0,
+    "averageScore": 69.9,
+    "averagePercentile": 50.0,
+    "navigationRecommendations": {
+      "Frequently Recommended": 56,
+      "Search-Driven Discovery": 180,
+      "Featured Research Gateway": 13,
+      "Core Navigation": 8
+    }
+  },
+  "podcast_series": {
+    "entityCount": 8,
+    "automaticallyAcceptedDestinationEntities": 8,
+    "fullyAuditedEntities": 0,
+    "tier1": 1,
+    "tier2": 7,
+    "tier3": 0,
+    "tier4": 0,
+    "averageScore": 63.8,
+    "averagePercentile": 50.0,
+    "navigationRecommendations": {
+      "Search-Driven Discovery": 5,
+      "Frequently Recommended": 2,
+      "Core Navigation": 1
+    }
+  },
+  "publication": {
+    "entityCount": 12,
+    "automaticallyAcceptedDestinationEntities": 0,
+    "fullyAuditedEntities": 12,
+    "tier1": 0,
+    "tier2": 2,
+    "tier3": 7,
+    "tier4": 3,
+    "averageScore": 42.5,
+    "averagePercentile": 50.0,
+    "navigationRecommendations": {
+      "Contextual Discovery": 10,
+      "Frequently Recommended": 2
+    }
+  },
+  "timeline_event": {
+    "entityCount": 185,
+    "automaticallyAcceptedDestinationEntities": 0,
+    "fullyAuditedEntities": 185,
+    "tier1": 0,
+    "tier2": 4,
+    "tier3": 135,
+    "tier4": 46,
+    "averageScore": 39.4,
+    "averagePercentile": 50.0,
+    "navigationRecommendations": {
+      "Contextual Discovery": 181,
+      "Frequently Recommended": 4
+    }
+  },
+  "topic": {
+    "entityCount": 81,
+    "automaticallyAcceptedDestinationEntities": 0,
+    "fullyAuditedEntities": 81,
+    "tier1": 1,
+    "tier2": 23,
+    "tier3": 38,
+    "tier4": 19,
+    "averageScore": 44.6,
+    "averagePercentile": 50.0,
+    "navigationRecommendations": {
+      "Frequently Recommended": 23,
+      "Contextual Discovery": 57,
+      "Featured Research Gateway": 1
+    }
+  }
+}
