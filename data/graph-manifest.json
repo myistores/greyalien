@@ -1555,9 +1555,9 @@
       "total": 2
     },
     "aaro": {
-      "incoming": 36,
+      "incoming": 40,
       "outgoing": 4,
-      "total": 40
+      "total": 44
     },
     "aatip": {
       "incoming": 3,
@@ -1605,9 +1605,9 @@
       "total": 2
     },
     "all-domain-anomaly-resolution-office": {
-      "incoming": 4,
+      "incoming": 0,
       "outgoing": 0,
-      "total": 4
+      "total": 0
     },
     "americans-for-safe-aerospace": {
       "incoming": 3,
@@ -5700,9 +5700,9 @@
       "total": 11
     },
     "department-of-defense": {
-      "incoming": 48,
+      "incoming": 50,
       "outgoing": 3,
-      "total": 51
+      "total": 53
     },
     "department-of-energy": {
       "incoming": 2,
@@ -7930,9 +7930,9 @@
       "total": 18
     },
     "united-states-department-of-defense": {
-      "incoming": 2,
+      "incoming": 0,
       "outgoing": 0,
-      "total": 2
+      "total": 0
     },
     "united-states-marine-corps": {
       "incoming": 4,

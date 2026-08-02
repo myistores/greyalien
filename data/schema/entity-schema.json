@@ -13,7 +13,13 @@
     "publication",
     "claim",
     "podcast_series",
-    "podcast_episode"
+    "podcast_episode",
+    "program",
+    "research_project",
+    "advisory_panel",
+    "facility",
+    "military_vessel",
+    "military_unit"
   ],
   "required": [
     "id",

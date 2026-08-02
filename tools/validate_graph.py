@@ -30,7 +30,7 @@ for stem,d in records.items():
 for eid in ids:
     if eid not in files: errors.append(f'Missing entity file: {eid}.json')
 for stem in files:
-    if stem not in ids: errors.append(f'Entity omitted from index: {stem}')
+    if stem not in ids and records[stem].get('taxonomyStatus') != 'alias': errors.append(f'Entity omitted from index: {stem}')
 print(f'Checked {len(records)} entities and {sum(len(d.get("relationships",[])) for d in records.values())} declared relationships.')
 if warnings: print(f'Warnings: {len(warnings)} unresolved legacy relationship targets remain.')
 if errors:

@@ -1,0 +1,24 @@
+V23.5G — Organization Taxonomy Rationalization
+Base repository: V23.5F
+Production release: Yes
+
+Primary production changes:
+- data/entities/*.json (approved records and migrated inbound references only)
+- data/entity-index.json
+- data/graph-manifest.json
+- data/schema/entity-schema-v2.json
+- data/schema/entity-schema.json
+- data/schema/rendering-groups.json
+- assets/js/entity-directory.js
+- assets/js/entity-engine.js
+- assets/js/graph-core.js
+- assets/js/automation-enhancements.js
+- entities/generated/*.html (affected generation output and redirects)
+- sitemap.xml
+
+Release tooling and reports:
+- tools/refactor_organization_taxonomy_v23_5g.py
+- tools/validate_v23_5g.py
+- tools/validate_graph.py (alias-aware validation correction)
+- reports/v23-5g/*
+- V23_5G_ORGANIZATION_TAXONOMY_RATIONALIZATION.md

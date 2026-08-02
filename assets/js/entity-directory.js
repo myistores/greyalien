@@ -7,7 +7,7 @@
 
   const order = [
     "person","hearing","organization","document","topic","case",
-    "interview","legislation","timeline_event","publication","claim","podcast_series"
+    "interview","legislation","timeline_event","publication","program","research_project","advisory_panel","facility","military_vessel","military_unit","claim","podcast_series"
   ];
 
   const labels = {
@@ -20,7 +20,13 @@
     interview: { singular:"Interview", plural:"Interviews", icon:"🎙️" },
     legislation: { singular:"Legislation", plural:"Legislation", icon:"📜" },
     timeline_event: { singular:"Timeline Event", plural:"Timeline Events", icon:"🕒" },
-    publication: { singular:"Publication", plural:"Publications", icon:"📰" },
+    publication: { singular:"Publication / Media Outlet", plural:"Publications / Media Outlets", icon:"📰" },
+    program: { singular:"Program", plural:"Programs", icon:"📋" },
+    research_project: { singular:"Research Project", plural:"Research Projects / Initiatives", icon:"🔬" },
+    advisory_panel: { singular:"Advisory Panel", plural:"Scientific Advisory Panels", icon:"🧪" },
+    facility: { singular:"Facility", plural:"Locations / Facilities", icon:"📍" },
+    military_vessel: { singular:"Military Vessel", plural:"Military Vessels", icon:"⚓" },
+    military_unit: { singular:"Military Unit", plural:"Military Units", icon:"🎖️" },
     claim: { singular:"Claim", plural:"Claims", icon:"⚖️" },
     podcast_series: { singular:"Podcast Series", plural:"Podcast Series", icon:"🎙️" }
   };

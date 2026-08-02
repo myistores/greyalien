@@ -1,6 +1,6 @@
 {
   "id": "eglin-air-force-base",
-  "type": "organization",
+  "type": "facility",
   "name": "Eglin Air Force Base",
   "summary": "U.S. Air Force installation in Florida associated with the Episode #92 witness account.",
   "relationships": [],
@@ -18,5 +18,10 @@
       "sourceType": "official_audio_feed",
       "role": "source"
     }
-  ]
+  ],
+  "entitySubtype": "Military Installation / Facility",
+  "taxonomyStatus": "canonical",
+  "destinationPage": true,
+  "visibleInDirectory": true,
+  "searchable": true
 }

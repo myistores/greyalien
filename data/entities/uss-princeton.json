@@ -1,6 +1,6 @@
 {
   "id": "uss-princeton",
-  "type": "organization",
+  "type": "military_vessel",
   "name": "USS Princeton",
   "summary": "Ticonderoga-class guided-missile cruiser involved in the 2004 Nimitz carrier-strike-group events.",
   "relationships": [],
@@ -11,5 +11,10 @@
       "linkType": "official_website"
     }
   ],
-  "referenceSources": []
+  "referenceSources": [],
+  "entitySubtype": "Military Vessel",
+  "taxonomyStatus": "canonical",
+  "destinationPage": true,
+  "visibleInDirectory": true,
+  "searchable": true
 }

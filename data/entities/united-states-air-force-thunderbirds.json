@@ -1,9 +1,14 @@
 {
   "id": "united-states-air-force-thunderbirds",
-  "type": "organization",
+  "type": "military_unit",
   "name": "U.S. Air Force Thunderbirds",
   "summary": "U.S. Air Force Thunderbirds is referenced in WEAPONIZED Episodes #103–#112.",
   "relationships": [],
   "officialLinks": [],
-  "referenceSources": []
+  "referenceSources": [],
+  "entitySubtype": "Military Unit",
+  "taxonomyStatus": "canonical",
+  "destinationPage": true,
+  "visibleInDirectory": true,
+  "searchable": true
 }

@@ -10,7 +10,7 @@
     ]);
     const map=Object.fromEntries(index.entities.map(e=>[e.id,e]));
     const current=map[id]; if(!current) return;
-    const icon={person:'👤',hearing:'🏛️',organization:'🏢',document:'📄',topic:'🧭',case:'🛸',interview:'🎙️',podcast_episode:'🎙️',legislation:'📜',timeline_event:'🕒',publication:'📰',claim:'⚖️',podcast_series:'🎙️'};
+    const icon={person:'👤',hearing:'🏛️',organization:'🏢',document:'📄',topic:'🧭',case:'🛸',interview:'🎙️',podcast_episode:'🎙️',legislation:'📜',timeline_event:'🕒',publication:'📰',program:'📋',research_project:'🔬',advisory_panel:'🧪',facility:'📍',military_vessel:'⚓',military_unit:'🎖️',claim:'⚖️',podcast_series:'🎙️'};
     const makeCard=(row,extra='')=>`<a class="connection-card" href="entity.html?id=${row.id}"><span class="connection-type">${row.type==='podcast_episode'?'Podcast episode':'Referenced in'}</span><strong>${icon[row.type]||'🔗'} ${row.name}</strong>${row.summary?`<p>${row.summary}</p>`:''}${extra}<span class="connection-action">Explore →</span></a>`;
     const refs=(related.referencedIn[id]||[]).filter(r=>r.type==='podcast_episode'||r.type==='interview').slice(0,12).map(r=>({...r,summary:(map[r.id]||{}).summary||''}));
     const eps=(related.relatedEpisodes[id]||[]).map(r=>({...r,type:'podcast_episode',summary:(map[r.id]||{}).summary||''}));

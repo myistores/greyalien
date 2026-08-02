@@ -1,0 +1,325 @@
+{
+  "release": "V23.5G",
+  "baseRepository": "V23.5F",
+  "generatedAt": "2026-08-02T18:43:15.720470+00:00",
+  "metadataConversions": [
+    {
+      "id": "60-minutes",
+      "name": "60 Minutes",
+      "relationshipsPreserved": 1
+    },
+    {
+      "id": "animal-wellness-action",
+      "name": "Animal Wellness Action",
+      "relationshipsPreserved": 1
+    },
+    {
+      "id": "buddha-jones",
+      "name": "Buddha Jones",
+      "relationshipsPreserved": 0
+    },
+    {
+      "id": "fox-news",
+      "name": "Fox News",
+      "relationshipsPreserved": 0
+    },
+    {
+      "id": "lord-huron",
+      "name": "Lord Huron",
+      "relationshipsPreserved": 0
+    },
+    {
+      "id": "wall-street-journal",
+      "name": "The Wall Street Journal",
+      "relationshipsPreserved": 1
+    }
+  ],
+  "reclassifications": [
+    {
+      "id": "aatip",
+      "name": "Advanced Aerospace Threat Identification Program",
+      "oldType": "organization",
+      "newType": "program",
+      "subtype": "Government Program",
+      "identifierPreserved": true,
+      "relationshipsPreserved": 3
+    },
+    {
+      "id": "aawsap",
+      "name": "Advanced Aerospace Weapon System Applications Program",
+      "oldType": "organization",
+      "newType": "program",
+      "subtype": "Government Program",
+      "identifierPreserved": true,
+      "relationshipsPreserved": 3
+    },
+    {
+      "id": "advanced-theoretical-physics-program",
+      "name": "Advanced Theoretical Physics Program",
+      "oldType": "organization",
+      "newType": "program",
+      "subtype": "Government Program",
+      "identifierPreserved": true,
+      "relationshipsPreserved": 2
+    },
+    {
+      "id": "project-blue-book",
+      "name": "Project Blue Book",
+      "oldType": "organization",
+      "newType": "program",
+      "subtype": "Government Program",
+      "identifierPreserved": true,
+      "relationshipsPreserved": 2
+    },
+    {
+      "id": "project-sign",
+      "name": "Project Sign",
+      "oldType": "organization",
+      "newType": "program",
+      "subtype": "Government Program",
+      "identifierPreserved": true,
+      "relationshipsPreserved": 1
+    },
+    {
+      "id": "uap-task-force",
+      "name": "Unidentified Aerial Phenomena Task Force",
+      "oldType": "organization",
+      "newType": "program",
+      "subtype": "Government Program",
+      "identifierPreserved": true,
+      "relationshipsPreserved": 0
+    },
+    {
+      "id": "galileo-project",
+      "name": "The Galileo Project",
+      "oldType": "organization",
+      "newType": "research_project",
+      "subtype": "Research Project / Initiative",
+      "identifierPreserved": true,
+      "relationshipsPreserved": 2
+    },
+    {
+      "id": "disclosure-project",
+      "name": "The Disclosure Project",
+      "oldType": "organization",
+      "newType": "research_project",
+      "subtype": "Research Project / Initiative",
+      "identifierPreserved": true,
+      "relationshipsPreserved": 2
+    },
+    {
+      "id": "nasa-uap-independent-study-team",
+      "name": "NASA UAP Independent Study Team",
+      "oldType": "organization",
+      "newType": "advisory_panel",
+      "subtype": "Scientific Advisory Panel",
+      "identifierPreserved": true,
+      "relationshipsPreserved": 5
+    },
+    {
+      "id": "eglin-air-force-base",
+      "name": "Eglin Air Force Base",
+      "oldType": "organization",
+      "newType": "facility",
+      "subtype": "Military Installation / Facility",
+      "identifierPreserved": true,
+      "relationshipsPreserved": 0
+    },
+    {
+      "id": "malmstrom-air-force-base",
+      "name": "Malmstrom Air Force Base",
+      "oldType": "organization",
+      "newType": "facility",
+      "subtype": "Military Installation / Facility",
+      "identifierPreserved": true,
+      "relationshipsPreserved": 0
+    },
+    {
+      "id": "minot-air-force-base",
+      "name": "Minot Air Force Base",
+      "oldType": "organization",
+      "newType": "facility",
+      "subtype": "Military Installation / Facility",
+      "identifierPreserved": true,
+      "relationshipsPreserved": 0
+    },
+    {
+      "id": "raf-bentwaters",
+      "name": "RAF Bentwaters / RAF Woodbridge",
+      "oldType": "organization",
+      "newType": "facility",
+      "subtype": "Military Installation / Facility",
+      "identifierPreserved": true,
+      "relationshipsPreserved": 0
+    },
+    {
+      "id": "vandenberg-space-force-base",
+      "name": "Vandenberg Space Force Base",
+      "oldType": "organization",
+      "newType": "facility",
+      "subtype": "Military Installation / Facility",
+      "identifierPreserved": true,
+      "relationshipsPreserved": 0
+    },
+    {
+      "id": "icecube-neutrino-observatory",
+      "name": "IceCube Neutrino Observatory",
+      "oldType": "organization",
+      "newType": "facility",
+      "subtype": "Observatory / Research Facility",
+      "identifierPreserved": true,
+      "relationshipsPreserved": 0
+    },
+    {
+      "id": "uss-jackson",
+      "name": "USS Jackson",
+      "oldType": "organization",
+      "newType": "military_vessel",
+      "subtype": "Military Vessel",
+      "identifierPreserved": true,
+      "relationshipsPreserved": 1
+    },
+    {
+      "id": "uss-princeton",
+      "name": "USS Princeton",
+      "oldType": "organization",
+      "newType": "military_vessel",
+      "subtype": "Military Vessel",
+      "identifierPreserved": true,
+      "relationshipsPreserved": 0
+    },
+    {
+      "id": "ask-a-pol",
+      "name": "Ask a Pol",
+      "oldType": "organization",
+      "newType": "publication",
+      "subtype": "Publication / Media Outlet",
+      "identifierPreserved": true,
+      "relationshipsPreserved": 2
+    },
+    {
+      "id": "australian-broadcasting-corporation",
+      "name": "Australian Broadcasting Corporation",
+      "oldType": "organization",
+      "newType": "publication",
+      "subtype": "Publication / Media Outlet",
+      "identifierPreserved": true,
+      "relationshipsPreserved": 1
+    },
+    {
+      "id": "klas-tv",
+      "name": "KLAS-TV / 8 News Now",
+      "oldType": "organization",
+      "newType": "publication",
+      "subtype": "Publication / Media Outlet",
+      "identifierPreserved": true,
+      "relationshipsPreserved": 0
+    },
+    {
+      "id": "liberation-times",
+      "name": "Liberation Times",
+      "oldType": "organization",
+      "newType": "publication",
+      "subtype": "Publication / Media Outlet",
+      "identifierPreserved": true,
+      "relationshipsPreserved": 2
+    },
+    {
+      "id": "the-new-york-times",
+      "name": "The New York Times",
+      "oldType": "organization",
+      "newType": "publication",
+      "subtype": "Publication / Media Outlet",
+      "identifierPreserved": true,
+      "relationshipsPreserved": 1
+    },
+    {
+      "id": "uap-register",
+      "name": "UAP Register",
+      "oldType": "organization",
+      "newType": "publication",
+      "subtype": "Publication / Media Outlet",
+      "identifierPreserved": true,
+      "relationshipsPreserved": 0
+    },
+    {
+      "id": "united-states-air-force-thunderbirds",
+      "name": "U.S. Air Force Thunderbirds",
+      "oldType": "organization",
+      "newType": "military_unit",
+      "subtype": "Military Unit",
+      "identifierPreserved": true,
+      "relationshipsPreserved": 0
+    }
+  ],
+  "consolidations": [
+    {
+      "canonicalId": "aaro",
+      "canonicalName": "All-domain Anomaly Resolution Office",
+      "aliases": [
+        "all-domain-anomaly-resolution-office"
+      ]
+    },
+    {
+      "canonicalId": "department-of-defense",
+      "canonicalName": "U.S. Department of Defense",
+      "aliases": [
+        "united-states-department-of-defense"
+      ]
+    }
+  ],
+  "relationshipMigrations": [
+    {
+      "sourceEntity": "2026-weaponized-episode-111",
+      "oldTarget": "all-domain-anomaly-resolution-office",
+      "newTarget": "aaro",
+      "relationshipType": "references_organization"
+    },
+    {
+      "sourceEntity": "2023-weaponized-episode-39",
+      "oldTarget": "all-domain-anomaly-resolution-office",
+      "newTarget": "aaro",
+      "relationshipType": "references_organization"
+    },
+    {
+      "sourceEntity": "2026-weaponized-episode-110",
+      "oldTarget": "all-domain-anomaly-resolution-office",
+      "newTarget": "aaro",
+      "relationshipType": "references_organization"
+    },
+    {
+      "sourceEntity": "2023-weaponized-episode-33",
+      "oldTarget": "all-domain-anomaly-resolution-office",
+      "newTarget": "aaro",
+      "relationshipType": "references_organization"
+    },
+    {
+      "sourceEntity": "2026-weaponized-episode-109",
+      "oldTarget": "united-states-department-of-defense",
+      "newTarget": "department-of-defense",
+      "relationshipType": "references_organization"
+    },
+    {
+      "sourceEntity": "2026-weaponized-episode-108",
+      "oldTarget": "united-states-department-of-defense",
+      "newTarget": "department-of-defense",
+      "relationshipType": "references_organization"
+    }
+  ],
+  "aliases": [
+    {
+      "aliasId": "all-domain-anomaly-resolution-office",
+      "canonicalId": "aaro",
+      "incomingRelationshipsMigrated": 4
+    },
+    {
+      "aliasId": "united-states-department-of-defense",
+      "canonicalId": "department-of-defense",
+      "incomingRelationshipsMigrated": 2
+    }
+  ],
+  "beforeEntityCount": 1609,
+  "afterEntityCount": 1609,
+  "beforeRelationshipCount": 3582,
+  "afterRelationshipCount": 3582
+}

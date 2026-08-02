@@ -1,6 +1,6 @@
 {
   "id": "advanced-theoretical-physics-program",
-  "type": "organization",
+  "type": "program",
   "name": "Advanced Theoretical Physics Program",
   "summary": "An earlier Defense Department inquiry described by John B. Alexander as an effort to investigate reports of hidden UFO crash-retrieval and reverse-engineering programs.",
   "relationships": [
@@ -22,5 +22,10 @@
       "sourceType": "official_episode_page",
       "role": "source"
     }
-  ]
+  ],
+  "entitySubtype": "Government Program",
+  "taxonomyStatus": "canonical",
+  "destinationPage": true,
+  "visibleInDirectory": true,
+  "searchable": true
 }

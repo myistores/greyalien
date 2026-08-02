@@ -1,6 +1,6 @@
 {
   "id": "project-blue-book",
-  "type": "organization",
+  "type": "program",
   "name": "Project Blue Book",
   "summary": "Historical U.S. Air Force program for investigating UFO reports.",
   "relationships": [
@@ -20,5 +20,10 @@
       "linkType": "official_website"
     }
   ],
-  "referenceSources": []
+  "referenceSources": [],
+  "entitySubtype": "Government Program",
+  "taxonomyStatus": "canonical",
+  "destinationPage": true,
+  "visibleInDirectory": true,
+  "searchable": true
 }

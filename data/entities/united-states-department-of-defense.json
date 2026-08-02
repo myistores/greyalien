@@ -4,6 +4,10 @@
   "name": "United States Department Of Defense",
   "summary": "A knowledge-graph entity referenced in the V19.4 WEAPONIZED production batch.",
   "relationships": [],
-  "officialLinks": [],
-  "referenceSources": []
+  "taxonomyStatus": "alias",
+  "destinationPage": false,
+  "visibleInDirectory": false,
+  "searchable": true,
+  "redirectTo": "department-of-defense",
+  "canonicalEntityId": "department-of-defense"
 }

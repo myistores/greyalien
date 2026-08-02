@@ -10,13 +10,30 @@
     "document",
     "timeline_event",
     "organization",
+    "program",
     "person",
     "topic",
     "podcast_series",
     "claim",
-    "legislation"
+    "research_project",
+    "facility",
+    "advisory_panel",
+    "legislation",
+    "military_unit",
+    "military_vessel"
   ],
   "entities": [
+    {
+      "id": "nasa-uap-independent-study-team",
+      "type": "advisory_panel",
+      "name": "NASA UAP Independent Study Team",
+      "summary": "Independent multidisciplinary panel commissioned by NASA to recommend how civilian government data and scientific methods could improve the study of UAP.",
+      "destinationPage": true,
+      "visibleInDirectory": true,
+      "searchable": true,
+      "taxonomyStatus": "canonical",
+      "entitySubtype": "Scientific Advisory Panel"
+    },
     {
       "id": "1946-scandinavian-ghost-rockets",
       "type": "case",
@@ -4959,6 +4976,72 @@
       "dateDisplay": "October 16, 2002"
     },
     {
+      "id": "eglin-air-force-base",
+      "type": "facility",
+      "name": "Eglin Air Force Base",
+      "summary": "U.S. Air Force installation in Florida associated with the Episode #92 witness account.",
+      "destinationPage": true,
+      "visibleInDirectory": true,
+      "searchable": true,
+      "taxonomyStatus": "canonical",
+      "entitySubtype": "Military Installation / Facility"
+    },
+    {
+      "id": "icecube-neutrino-observatory",
+      "type": "facility",
+      "name": "IceCube Neutrino Observatory",
+      "summary": "Scientific neutrino observatory located at the geographic South Pole.",
+      "destinationPage": true,
+      "visibleInDirectory": true,
+      "searchable": true,
+      "taxonomyStatus": "canonical",
+      "entitySubtype": "Observatory / Research Facility"
+    },
+    {
+      "id": "malmstrom-air-force-base",
+      "type": "facility",
+      "name": "Malmstrom Air Force Base",
+      "summary": "U.S. Air Force installation in Montana associated with the 1967 missile shutdown incident.",
+      "destinationPage": true,
+      "visibleInDirectory": true,
+      "searchable": true,
+      "taxonomyStatus": "canonical",
+      "entitySubtype": "Military Installation / Facility"
+    },
+    {
+      "id": "minot-air-force-base",
+      "type": "facility",
+      "name": "Minot Air Force Base",
+      "summary": "U.S. Air Force installation in North Dakota associated with historical missile-field UFO reports.",
+      "destinationPage": true,
+      "visibleInDirectory": true,
+      "searchable": true,
+      "taxonomyStatus": "canonical",
+      "entitySubtype": "Military Installation / Facility"
+    },
+    {
+      "id": "raf-bentwaters",
+      "type": "facility",
+      "name": "RAF Bentwaters / RAF Woodbridge",
+      "summary": "Former military installations associated with the Rendlesham Forest incident.",
+      "destinationPage": true,
+      "visibleInDirectory": true,
+      "searchable": true,
+      "taxonomyStatus": "canonical",
+      "entitySubtype": "Military Installation / Facility"
+    },
+    {
+      "id": "vandenberg-space-force-base",
+      "type": "facility",
+      "name": "Vandenberg Space Force Base",
+      "summary": "U.S. military launch and test installation in California, formerly Vandenberg Air Force Base.",
+      "destinationPage": true,
+      "visibleInDirectory": true,
+      "searchable": true,
+      "taxonomyStatus": "canonical",
+      "entitySubtype": "Military Installation / Facility"
+    },
+    {
       "id": "2023-congressional-classified-aaro-briefings",
       "type": "hearing",
       "name": "2023 Classified AARO Briefings",
@@ -5154,40 +5237,54 @@
       "date": "2023-07-13"
     },
     {
+      "id": "united-states-air-force-thunderbirds",
+      "type": "military_unit",
+      "name": "U.S. Air Force Thunderbirds",
+      "summary": "U.S. Air Force Thunderbirds is referenced in WEAPONIZED Episodes #103–#112.",
+      "destinationPage": true,
+      "visibleInDirectory": true,
+      "searchable": true,
+      "taxonomyStatus": "canonical",
+      "entitySubtype": "Military Unit"
+    },
+    {
+      "id": "uss-jackson",
+      "type": "military_vessel",
+      "name": "USS Jackson",
+      "summary": "U.S. Navy littoral combat ship whose crew reportedly recorded Tic Tac-shaped objects in February 2023.",
+      "destinationPage": true,
+      "visibleInDirectory": true,
+      "searchable": true,
+      "taxonomyStatus": "canonical",
+      "entitySubtype": "Military Vessel"
+    },
+    {
+      "id": "uss-princeton",
+      "type": "military_vessel",
+      "name": "USS Princeton",
+      "summary": "Ticonderoga-class guided-missile cruiser involved in the 2004 Nimitz carrier-strike-group events.",
+      "destinationPage": true,
+      "visibleInDirectory": true,
+      "searchable": true,
+      "taxonomyStatus": "canonical",
+      "entitySubtype": "Military Vessel"
+    },
+    {
       "id": "60-minutes",
       "type": "organization",
       "name": "60 Minutes",
-      "summary": "CBS newsmagazine discussed in Episode #70 for its report on mystery-drone incursions."
-    },
-    {
-      "id": "aatip",
-      "type": "organization",
-      "name": "Advanced Aerospace Threat Identification Program",
-      "summary": "Designation publicly associated with a Pentagon effort examining military UAP reports and potential advanced aerospace threats."
-    },
-    {
-      "id": "aawsap",
-      "type": "organization",
-      "name": "Advanced Aerospace Weapon System Applications Program",
-      "summary": "Defense Intelligence Agency program initiated to study advanced aerospace threats and anomalous phenomena through contracted research."
-    },
-    {
-      "id": "advanced-theoretical-physics-program",
-      "type": "organization",
-      "name": "Advanced Theoretical Physics Program",
-      "summary": "An earlier Defense Department inquiry described by John B. Alexander as an effort to investigate reports of hidden UFO crash-retrieval and reverse-engineering programs."
-    },
-    {
-      "id": "all-domain-anomaly-resolution-office",
-      "type": "organization",
-      "name": "All Domain Anomaly Resolution Office",
-      "summary": "A knowledge-graph entity referenced in the V19.4 WEAPONIZED production batch."
+      "summary": "CBS newsmagazine discussed in Episode #70 for its report on mystery-drone incursions.",
+      "destinationPage": false,
+      "visibleInDirectory": false,
+      "searchable": true,
+      "taxonomyStatus": "supporting_metadata"
     },
     {
       "id": "aaro",
       "type": "organization",
       "name": "All-domain Anomaly Resolution Office",
-      "summary": "Department of Defense office responsible for receiving, analyzing, and resolving reports of unidentified anomalous phenomena across operational domains."
+      "summary": "Department of Defense office responsible for receiving, analyzing, and resolving reports of unidentified anomalous phenomena across operational domains.",
+      "taxonomyStatus": "canonical"
     },
     {
       "id": "americans-for-safe-aerospace",
@@ -5199,19 +5296,11 @@
       "id": "animal-wellness-action",
       "type": "organization",
       "name": "Animal Wellness Action",
-      "summary": "Animal-welfare advocacy organization working on public policy and enforcement initiatives."
-    },
-    {
-      "id": "ask-a-pol",
-      "type": "organization",
-      "name": "Ask a Pol",
-      "summary": "Capitol Hill reporting outlet founded by Matt Laslo, focused on direct interviews with elected officials."
-    },
-    {
-      "id": "australian-broadcasting-corporation",
-      "type": "organization",
-      "name": "Australian Broadcasting Corporation",
-      "summary": "Australia’s national public broadcaster and producer of the Expanse: Uncropped reporting series."
+      "summary": "Animal-welfare advocacy organization working on public policy and enforcement initiatives.",
+      "destinationPage": false,
+      "visibleInDirectory": false,
+      "searchable": true,
+      "taxonomyStatus": "supporting_metadata"
     },
     {
       "id": "bigelow-aerospace",
@@ -5235,7 +5324,11 @@
       "id": "buddha-jones",
       "type": "organization",
       "name": "Buddha Jones",
-      "summary": "Entertainment marketing company known for movie trailers and campaigns for film, television, and streaming projects."
+      "summary": "Entertainment marketing company known for movie trailers and campaigns for film, television, and streaming projects.",
+      "destinationPage": false,
+      "visibleInDirectory": false,
+      "searchable": true,
+      "taxonomyStatus": "supporting_metadata"
     },
     {
       "id": "central-intelligence-agency",
@@ -5262,12 +5355,6 @@
       "summary": "Research organization associated with advanced propulsion, spacetime physics, and frontier-science studies."
     },
     {
-      "id": "eglin-air-force-base",
-      "type": "organization",
-      "name": "Eglin Air Force Base",
-      "summary": "U.S. Air Force installation in Florida associated with the Episode #92 witness account."
-    },
-    {
       "id": "federal-aviation-administration",
       "type": "organization",
       "name": "Federal Aviation Administration",
@@ -5289,7 +5376,11 @@
       "id": "fox-news",
       "type": "organization",
       "name": "Fox News",
-      "summary": "Organization referenced in WEAPONIZED Episodes #93–102."
+      "summary": "Organization referenced in WEAPONIZED Episodes #93–102.",
+      "destinationPage": false,
+      "visibleInDirectory": false,
+      "searchable": true,
+      "taxonomyStatus": "supporting_metadata"
     },
     {
       "id": "harvard-university",
@@ -5322,12 +5413,6 @@
       "summary": "U.S. House intelligence oversight committee"
     },
     {
-      "id": "icecube-neutrino-observatory",
-      "type": "organization",
-      "name": "IceCube Neutrino Observatory",
-      "summary": "Scientific neutrino observatory located at the geographic South Pole."
-    },
-    {
       "id": "immaculate-constellation",
       "type": "organization",
       "name": "Immaculate Constellation",
@@ -5344,46 +5429,20 @@
       "summary": "Independent oversight office within the U.S. Intelligence Community."
     },
     {
-      "id": "klas-tv",
-      "type": "organization",
-      "name": "KLAS-TV / 8 News Now",
-      "summary": "Las Vegas television station whose investigative reporting by George Knapp introduced Bob Lazar’s allegations to a broad public audience in 1989."
-    },
-    {
-      "id": "liberation-times",
-      "type": "organization",
-      "name": "Liberation Times",
-      "summary": "Publication covering UAP policy, legislation, government transparency, and related reporting."
-    },
-    {
       "id": "lord-huron",
       "type": "organization",
       "name": "Lord Huron",
-      "summary": "Los Angeles-based band whose music frequently explores folklore, mortality, ghosts, cosmology, memory, and lost love."
-    },
-    {
-      "id": "malmstrom-air-force-base",
-      "type": "organization",
-      "name": "Malmstrom Air Force Base",
-      "summary": "U.S. Air Force installation in Montana associated with the 1967 missile shutdown incident."
-    },
-    {
-      "id": "minot-air-force-base",
-      "type": "organization",
-      "name": "Minot Air Force Base",
-      "summary": "U.S. Air Force installation in North Dakota associated with historical missile-field UFO reports."
+      "summary": "Los Angeles-based band whose music frequently explores folklore, mortality, ghosts, cosmology, memory, and lost love.",
+      "destinationPage": false,
+      "visibleInDirectory": false,
+      "searchable": true,
+      "taxonomyStatus": "supporting_metadata"
     },
     {
       "id": "nasa",
       "type": "organization",
       "name": "NASA",
       "summary": "The United States civil space agency."
-    },
-    {
-      "id": "nasa-uap-independent-study-team",
-      "type": "organization",
-      "name": "NASA UAP Independent Study Team",
-      "summary": "Independent multidisciplinary panel commissioned by NASA to recommend how civilian government data and scientific methods could improve the study of UAP."
     },
     {
       "id": "national-archives",
@@ -5416,28 +5475,10 @@
       "summary": "United States intelligence-community office responsible for coordinating national intelligence activities."
     },
     {
-      "id": "project-blue-book",
-      "type": "organization",
-      "name": "Project Blue Book",
-      "summary": "Historical U.S. Air Force program for investigating UFO reports."
-    },
-    {
       "id": "project-on-government-oversight",
       "type": "organization",
       "name": "Project On Government Oversight",
       "summary": "Nonpartisan government-accountability organization."
-    },
-    {
-      "id": "project-sign",
-      "type": "organization",
-      "name": "Project Sign",
-      "summary": "Early U.S. Air Force UFO investigation program established in 1948 and associated with the disputed Estimate of the Situation."
-    },
-    {
-      "id": "raf-bentwaters",
-      "type": "organization",
-      "name": "RAF Bentwaters / RAF Woodbridge",
-      "summary": "Former military installations associated with the Rendlesham Forest incident."
     },
     {
       "id": "raytheon",
@@ -5474,24 +5515,6 @@
       "summary": "Soviet Armed Forces is referenced in WEAPONIZED Episodes #103–#112."
     },
     {
-      "id": "disclosure-project",
-      "type": "organization",
-      "name": "The Disclosure Project",
-      "summary": "Advocacy initiative founded by Steven Greer to collect and present testimony from military, government, and corporate witnesses concerning UFOs and alleged secrecy."
-    },
-    {
-      "id": "galileo-project",
-      "type": "organization",
-      "name": "The Galileo Project",
-      "summary": "Harvard-based research project using transparent, instrument-driven methods to study anomalous aerial phenomena and possible extraterrestrial technological artifacts."
-    },
-    {
-      "id": "the-new-york-times",
-      "type": "organization",
-      "name": "The New York Times",
-      "summary": "U.S. newspaper that published the December 2017 report revealing the Pentagon’s Advanced Aerospace Threat Identification Program."
-    },
-    {
       "id": "sol-foundation",
       "type": "organization",
       "name": "The Sol Foundation",
@@ -5507,7 +5530,11 @@
       "id": "wall-street-journal",
       "type": "organization",
       "name": "The Wall Street Journal",
-      "summary": "U.S. newspaper discussed in Episode #70 in connection with commentary about The Age of Disclosure."
+      "summary": "U.S. newspaper discussed in Episode #70 in connection with commentary about The Age of Disclosure.",
+      "destinationPage": false,
+      "visibleInDirectory": false,
+      "searchable": true,
+      "taxonomyStatus": "supporting_metadata"
     },
     {
       "id": "thread-3-program",
@@ -5526,16 +5553,11 @@
       "summary": "Public-benefit corporation that brought together former government officials, researchers, and media projects focused on UAP and advanced aerospace topics."
     },
     {
-      "id": "united-states-air-force-thunderbirds",
-      "type": "organization",
-      "name": "U.S. Air Force Thunderbirds",
-      "summary": "U.S. Air Force Thunderbirds is referenced in WEAPONIZED Episodes #103–#112."
-    },
-    {
       "id": "department-of-defense",
       "type": "organization",
       "name": "U.S. Department of Defense",
-      "summary": "Federal executive department responsible for U.S. national security"
+      "summary": "Federal executive department responsible for U.S. national security",
+      "taxonomyStatus": "canonical"
     },
     {
       "id": "department-of-energy",
@@ -5556,22 +5578,10 @@
       "summary": "Advocacy initiative focused on congressional engagement and UAP transparency."
     },
     {
-      "id": "uap-register",
-      "type": "organization",
-      "name": "UAP Register",
-      "summary": "Online publication edited by Dustin Slaughter that reports on UAP records and FOIA releases."
-    },
-    {
       "id": "uap-science-advisory-council",
       "type": "organization",
       "name": "UAP Science Advisory Council",
       "summary": "Independent scientific advisory group formed to provide evidence-based guidance on UAP data, research standards, and federal scientific priorities."
-    },
-    {
-      "id": "uap-task-force",
-      "type": "organization",
-      "name": "Unidentified Aerial Phenomena Task Force",
-      "summary": "Department of Defense task force that preceded AARO."
     },
     {
       "id": "united-states-air-force",
@@ -5592,12 +5602,6 @@
       "summary": "The legislative branch of the U.S. federal government."
     },
     {
-      "id": "united-states-department-of-defense",
-      "type": "organization",
-      "name": "United States Department Of Defense",
-      "summary": "A knowledge-graph entity referenced in the V19.4 WEAPONIZED production batch."
-    },
-    {
       "id": "united-states-marine-corps",
       "type": "organization",
       "name": "United States Marine Corps",
@@ -5608,24 +5612,6 @@
       "type": "organization",
       "name": "United States Navy",
       "summary": "Maritime service branch of the U.S. Armed Forces"
-    },
-    {
-      "id": "uss-jackson",
-      "type": "organization",
-      "name": "USS Jackson",
-      "summary": "U.S. Navy littoral combat ship whose crew reportedly recorded Tic Tac-shaped objects in February 2023."
-    },
-    {
-      "id": "uss-princeton",
-      "type": "organization",
-      "name": "USS Princeton",
-      "summary": "Ticonderoga-class guided-missile cruiser involved in the 2004 Nimitz carrier-strike-group events."
-    },
-    {
-      "id": "vandenberg-space-force-base",
-      "type": "organization",
-      "name": "Vandenberg Space Force Base",
-      "summary": "U.S. military launch and test installation in California, formerly Vandenberg Air Force Base."
     },
     {
       "id": "white-house",
@@ -8926,12 +8912,100 @@
       "status": "Active"
     },
     {
+      "id": "aatip",
+      "type": "program",
+      "name": "Advanced Aerospace Threat Identification Program",
+      "summary": "Designation publicly associated with a Pentagon effort examining military UAP reports and potential advanced aerospace threats.",
+      "destinationPage": true,
+      "visibleInDirectory": true,
+      "searchable": true,
+      "taxonomyStatus": "canonical",
+      "entitySubtype": "Government Program"
+    },
+    {
+      "id": "aawsap",
+      "type": "program",
+      "name": "Advanced Aerospace Weapon System Applications Program",
+      "summary": "Defense Intelligence Agency program initiated to study advanced aerospace threats and anomalous phenomena through contracted research.",
+      "destinationPage": true,
+      "visibleInDirectory": true,
+      "searchable": true,
+      "taxonomyStatus": "canonical",
+      "entitySubtype": "Government Program"
+    },
+    {
+      "id": "advanced-theoretical-physics-program",
+      "type": "program",
+      "name": "Advanced Theoretical Physics Program",
+      "summary": "An earlier Defense Department inquiry described by John B. Alexander as an effort to investigate reports of hidden UFO crash-retrieval and reverse-engineering programs.",
+      "destinationPage": true,
+      "visibleInDirectory": true,
+      "searchable": true,
+      "taxonomyStatus": "canonical",
+      "entitySubtype": "Government Program"
+    },
+    {
+      "id": "project-blue-book",
+      "type": "program",
+      "name": "Project Blue Book",
+      "summary": "Historical U.S. Air Force program for investigating UFO reports.",
+      "destinationPage": true,
+      "visibleInDirectory": true,
+      "searchable": true,
+      "taxonomyStatus": "canonical",
+      "entitySubtype": "Government Program"
+    },
+    {
+      "id": "project-sign",
+      "type": "program",
+      "name": "Project Sign",
+      "summary": "Early U.S. Air Force UFO investigation program established in 1948 and associated with the disputed Estimate of the Situation.",
+      "destinationPage": true,
+      "visibleInDirectory": true,
+      "searchable": true,
+      "taxonomyStatus": "canonical",
+      "entitySubtype": "Government Program"
+    },
+    {
+      "id": "uap-task-force",
+      "type": "program",
+      "name": "Unidentified Aerial Phenomena Task Force",
+      "summary": "Department of Defense task force that preceded AARO.",
+      "destinationPage": true,
+      "visibleInDirectory": true,
+      "searchable": true,
+      "taxonomyStatus": "canonical",
+      "entitySubtype": "Government Program"
+    },
+    {
       "id": "publication-1965-anatomy-of-a-phenomenon",
       "type": "publication",
       "name": "Anatomy of a Phenomenon",
       "summary": "Jacques Vallée published an early scientific appraisal of UFO reports, helping establish his long-running role in evidence-oriented UAP research.",
       "date": "1965-01-01",
       "dateDisplay": "1965"
+    },
+    {
+      "id": "ask-a-pol",
+      "type": "publication",
+      "name": "Ask a Pol",
+      "summary": "Capitol Hill reporting outlet founded by Matt Laslo, focused on direct interviews with elected officials.",
+      "destinationPage": true,
+      "visibleInDirectory": true,
+      "searchable": true,
+      "taxonomyStatus": "canonical",
+      "entitySubtype": "Publication / Media Outlet"
+    },
+    {
+      "id": "australian-broadcasting-corporation",
+      "type": "publication",
+      "name": "Australian Broadcasting Corporation",
+      "summary": "Australia’s national public broadcaster and producer of the Expanse: Uncropped reporting series.",
+      "destinationPage": true,
+      "visibleInDirectory": true,
+      "searchable": true,
+      "taxonomyStatus": "canonical",
+      "entitySubtype": "Publication / Media Outlet"
     },
     {
       "id": "gaia",
@@ -8947,10 +9021,32 @@
       "date": "2021"
     },
     {
+      "id": "klas-tv",
+      "type": "publication",
+      "name": "KLAS-TV / 8 News Now",
+      "summary": "Las Vegas television station whose investigative reporting by George Knapp introduced Bob Lazar’s allegations to a broad public audience in 1989.",
+      "destinationPage": true,
+      "visibleInDirectory": true,
+      "searchable": true,
+      "taxonomyStatus": "canonical",
+      "entitySubtype": "Publication / Media Outlet"
+    },
+    {
       "id": "lex-fridman-podcast",
       "type": "publication",
       "name": "Lex Fridman Podcast",
       "summary": "Long-form interview podcast"
+    },
+    {
+      "id": "liberation-times",
+      "type": "publication",
+      "name": "Liberation Times",
+      "summary": "Publication covering UAP policy, legislation, government transparency, and related reporting.",
+      "destinationPage": true,
+      "visibleInDirectory": true,
+      "searchable": true,
+      "taxonomyStatus": "canonical",
+      "entitySubtype": "Publication / Media Outlet"
     },
     {
       "id": "los-alamos-monitor",
@@ -8995,6 +9091,17 @@
       "dateDisplay": "1975"
     },
     {
+      "id": "the-new-york-times",
+      "type": "publication",
+      "name": "The New York Times",
+      "summary": "U.S. newspaper that published the December 2017 report revealing the Pentagon’s Advanced Aerospace Threat Identification Program.",
+      "destinationPage": true,
+      "visibleInDirectory": true,
+      "searchable": true,
+      "taxonomyStatus": "canonical",
+      "entitySubtype": "Publication / Media Outlet"
+    },
+    {
       "id": "2017-12-16-nyt-pentagon-ufo-program",
       "type": "publication",
       "name": "The New York Times Publishes “Glowing Auras and ‘Black Money’”",
@@ -9009,6 +9116,39 @@
       "summary": "The May 2019 New York Times report presented Ryan Graves’s account of recurring East Coast UAP encounters and framed them as an aviation-safety and national-security concern.",
       "date": "2019-05-26",
       "dateDisplay": "May 26, 2019"
+    },
+    {
+      "id": "uap-register",
+      "type": "publication",
+      "name": "UAP Register",
+      "summary": "Online publication edited by Dustin Slaughter that reports on UAP records and FOIA releases.",
+      "destinationPage": true,
+      "visibleInDirectory": true,
+      "searchable": true,
+      "taxonomyStatus": "canonical",
+      "entitySubtype": "Publication / Media Outlet"
+    },
+    {
+      "id": "disclosure-project",
+      "type": "research_project",
+      "name": "The Disclosure Project",
+      "summary": "Advocacy initiative founded by Steven Greer to collect and present testimony from military, government, and corporate witnesses concerning UFOs and alleged secrecy.",
+      "destinationPage": true,
+      "visibleInDirectory": true,
+      "searchable": true,
+      "taxonomyStatus": "canonical",
+      "entitySubtype": "Research Project / Initiative"
+    },
+    {
+      "id": "galileo-project",
+      "type": "research_project",
+      "name": "The Galileo Project",
+      "summary": "Harvard-based research project using transparent, instrument-driven methods to study anomalous aerial phenomena and possible extraterrestrial technological artifacts.",
+      "destinationPage": true,
+      "visibleInDirectory": true,
+      "searchable": true,
+      "taxonomyStatus": "canonical",
+      "entitySubtype": "Research Project / Initiative"
     },
     {
       "id": "timeline-2023-10-31-aaro-secure-reporting-mechanism",

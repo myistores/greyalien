@@ -1,6 +1,6 @@
 {
   "id": "australian-broadcasting-corporation",
-  "type": "organization",
+  "type": "publication",
   "name": "Australian Broadcasting Corporation",
   "summary": "Australia’s national public broadcaster and producer of the Expanse: Uncropped reporting series.",
   "relationships": [
@@ -17,5 +17,10 @@
       "sourceType": "official_episode_page",
       "role": "source"
     }
-  ]
+  ],
+  "entitySubtype": "Publication / Media Outlet",
+  "taxonomyStatus": "canonical",
+  "destinationPage": true,
+  "visibleInDirectory": true,
+  "searchable": true
 }

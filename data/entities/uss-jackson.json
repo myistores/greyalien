@@ -1,6 +1,6 @@
 {
   "id": "uss-jackson",
-  "type": "organization",
+  "type": "military_vessel",
   "name": "USS Jackson",
   "summary": "U.S. Navy littoral combat ship whose crew reportedly recorded Tic Tac-shaped objects in February 2023.",
   "relationships": [
@@ -17,5 +17,10 @@
       "sourceType": "official_episode_page",
       "role": "source"
     }
-  ]
+  ],
+  "entitySubtype": "Military Vessel",
+  "taxonomyStatus": "canonical",
+  "destinationPage": true,
+  "visibleInDirectory": true,
+  "searchable": true
 }

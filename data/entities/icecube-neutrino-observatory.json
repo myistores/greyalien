@@ -1,6 +1,6 @@
 {
   "id": "icecube-neutrino-observatory",
-  "type": "organization",
+  "type": "facility",
   "name": "IceCube Neutrino Observatory",
   "summary": "Scientific neutrino observatory located at the geographic South Pole.",
   "relationships": [],
@@ -11,5 +11,10 @@
       "linkType": "official_website"
     }
   ],
-  "referenceSources": []
+  "referenceSources": [],
+  "entitySubtype": "Observatory / Research Facility",
+  "taxonomyStatus": "canonical",
+  "destinationPage": true,
+  "visibleInDirectory": true,
+  "searchable": true
 }

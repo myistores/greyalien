@@ -1,6 +1,6 @@
 {
   "id": "ask-a-pol",
-  "type": "organization",
+  "type": "publication",
   "name": "Ask a Pol",
   "summary": "Capitol Hill reporting outlet founded by Matt Laslo, focused on direct interviews with elected officials.",
   "relationships": [
@@ -21,5 +21,10 @@
       "sourceType": "official_episode_page",
       "role": "source"
     }
-  ]
+  ],
+  "entitySubtype": "Publication / Media Outlet",
+  "taxonomyStatus": "canonical",
+  "destinationPage": true,
+  "visibleInDirectory": true,
+  "searchable": true
 }

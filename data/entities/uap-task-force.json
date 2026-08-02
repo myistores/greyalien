@@ -1,6 +1,6 @@
 {
   "id": "uap-task-force",
-  "type": "organization",
+  "type": "program",
   "name": "Unidentified Aerial Phenomena Task Force",
   "summary": "Department of Defense task force that preceded AARO.",
   "relationships": [],
@@ -11,5 +11,10 @@
       "linkType": "official_website"
     }
   ],
-  "referenceSources": []
+  "referenceSources": [],
+  "entitySubtype": "Government Program",
+  "taxonomyStatus": "canonical",
+  "destinationPage": true,
+  "visibleInDirectory": true,
+  "searchable": true
 }

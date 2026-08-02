@@ -1,6 +1,6 @@
 {
   "id": "uap-register",
-  "type": "organization",
+  "type": "publication",
   "name": "UAP Register",
   "summary": "Online publication edited by Dustin Slaughter that reports on UAP records and FOIA releases.",
   "relationships": [],
@@ -14,5 +14,10 @@
       "sourceType": "official_episode_page",
       "role": "source"
     }
-  ]
+  ],
+  "entitySubtype": "Publication / Media Outlet",
+  "taxonomyStatus": "canonical",
+  "destinationPage": true,
+  "visibleInDirectory": true,
+  "searchable": true
 }

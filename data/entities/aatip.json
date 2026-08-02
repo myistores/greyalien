@@ -1,6 +1,6 @@
 {
   "id": "aatip",
-  "type": "organization",
+  "type": "program",
   "name": "Advanced Aerospace Threat Identification Program",
   "summary": "Designation publicly associated with a Pentagon effort examining military UAP reports and potential advanced aerospace threats.",
   "relationships": [
@@ -20,5 +20,10 @@
   "organizationPurpose": "Assess anomalous aerospace incidents and their possible implications for defense, intelligence, and aviation safety.",
   "formed": "2009",
   "officialLinks": [],
-  "referenceSources": []
+  "referenceSources": [],
+  "entitySubtype": "Government Program",
+  "taxonomyStatus": "canonical",
+  "destinationPage": true,
+  "visibleInDirectory": true,
+  "searchable": true
 }

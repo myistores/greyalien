@@ -61,7 +61,7 @@
     },
     {
       "type": "references_organization",
-      "target": "all-domain-anomaly-resolution-office",
+      "target": "aaro",
       "role": "context",
       "context": "Discussed in Episode #39"
     }

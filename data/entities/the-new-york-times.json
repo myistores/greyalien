@@ -1,6 +1,6 @@
 {
   "id": "the-new-york-times",
-  "type": "organization",
+  "type": "publication",
   "name": "The New York Times",
   "summary": "U.S. newspaper that published the December 2017 report revealing the Pentagon’s Advanced Aerospace Threat Identification Program.",
   "relationships": [
@@ -17,5 +17,10 @@
       "sourceType": "official_episode_page",
       "role": "source"
     }
-  ]
+  ],
+  "entitySubtype": "Publication / Media Outlet",
+  "taxonomyStatus": "canonical",
+  "destinationPage": true,
+  "visibleInDirectory": true,
+  "searchable": true
 }
