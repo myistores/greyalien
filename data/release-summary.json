@@ -1,19 +1,19 @@
 {
-  "version": "V23.5B",
-  "title": "Existing Podcast Official Media Migration",
-  "date": "2026-07-27",
-  "summary": "Migrated 257 podcast episodes and 4 series entities to the universal Official Media collection, creating 491 canonical media records while preserving legacy fields and all non-media data.",
-  "phase": "Architecture, compatibility, rendering, and validation release",
+  "version": "V23.5H",
+  "title": "Homepage Refresh & Development Updates",
+  "date": "2026-08-02",
+  "summary": "Refreshed the homepage with visitor-facing update cards, graph-generated metrics, consolidated research-growth messaging, and a dedicated development history page.",
+  "phase": "Homepage Enhancement (Production)",
   "latestRelease": {
-    "version": "V23.5A",
-    "title": "Universal Podcast Official Media Architecture",
-    "summary": "Added backward-compatible official-media collections, preferred resolution, compact rendering, approval safeguards, canonical deduplication, and live-capable validation without migrating existing links."
+    "version": "V23.5G",
+    "title": "Organization Taxonomy Rationalization",
+    "summary": "Refined visible Organization entities through bounded reclassification, metadata conversion, and canonical consolidation while preserving logical relationships."
   },
   "highlights": [
-    "WEAPONIZED, Need to Know, MERGED, and Somewhere in the Skies migrated",
-    "Direct episode and series-level destinations accurately distinguished",
-    "467 duplicate legacy URL occurrences suppressed",
-    "Preferred-link resolver activated for migrated records",
-    "Zero unauthorized non-media changes detected"
+    "Three visitor-facing homepage update cards",
+    "Dedicated Development Updates page",
+    "Six automatically generated homepage metrics",
+    "Consolidated research-growth messaging",
+    "Current V23.5H footer notice"
   ]
 }

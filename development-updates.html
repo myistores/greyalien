@@ -1,0 +1,682 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Development Updates | GreyAlien</title>
+  <meta name="description" content="GreyAlien development updates, release notes, implementation summaries and production history.">
+  <link rel="stylesheet" href="style.css">
+  <meta name="theme-color" content="#07110f">
+  <meta name="robots" content="index,follow,max-image-preview:large">
+  <link rel="canonical" href="https://greyalien.com/development-updates.html">
+  <link rel="icon" type="image/jpeg" href="assets/grey-alien-logo.jpg">
+  <meta property="og:site_name" content="GreyAlien">
+  <meta property="og:image" content="https://greyalien.com/assets/grey-alien-logo.jpg">
+  <meta name="twitter:card" content="summary_large_image">
+  <script src="assets/js/site-config.js"></script>
+  <script src="assets/js/seo.js"></script>
+  <script src="assets/js/analytics.js" defer></script>
+</head>
+<body>
+  <header class="topbar">
+    <div class="wrap nav">
+      <a class="brand" href="index.html">GreyAlien</a>
+      <nav class="nav-links" aria-label="Primary navigation">
+        <a href="index.html#explore">Explore</a>
+        <a href="index.html#knowledge-graph">Knowledge Graph</a>
+        <a href="entities/index.html">Entity Explorer</a>
+        <a href="about.html">About</a>
+        <a href="https://www.facebook.com/greyaliennews/" target="_blank" rel="noopener">Facebook</a>
+      </nav>
+    </div>
+  </header>
+  <main>
+    <section class="page-hero development-hero">
+      <div class="wrap">
+        <p class="kicker">Development Updates</p>
+        <h1>How GreyAlien is being built.</h1>
+        <div class="prose"><p>This page preserves the technical release history separately from the visitor-facing homepage. It documents production changes, validation work and the continued development of the connected knowledge base.</p></div>
+      </div>
+    </section>
+    <section class="section">
+      <div class="wrap development-layout">
+        <aside class="panel development-current">
+          <p class="kicker">Current release</p>
+          <h2>V23.5H — Homepage Refresh &amp; Development Updates</h2>
+          <p>Refreshed the homepage with three visitor-facing update cards, graph-generated metrics, consolidated research-growth messaging and a dedicated development-history destination.</p>
+          <div class="development-facts">
+            <span>Production type<strong>Homepage Enhancement</strong></span>
+            <span>Knowledge graph changes<strong>None</strong></span>
+            <span>Routing changes<strong>One new static page</strong></span>
+          </div>
+          <a class="button" href="index.html">Return to homepage</a>
+        </aside>
+        <article class="panel development-history prose">
+          <p class="kicker">Complete release history</p>
+          <h2>V23.5H — Homepage Refresh &amp; Development Updates</h2>
+<ul>
+<li>Replaced the homepage release log with three visitor-facing update cards.</li>
+<li>Added a dedicated Development Updates page for technical release history.</li>
+<li>Generated homepage entity, entity-type, people, hearing, podcast-episode, and podcast-series totals from current data.</li>
+<li>Consolidated repeated placeholder entries into one research-growth statement.</li>
+<li>Updated the obsolete homepage development notice and footer to V23.5H.</li>
+<li>Made no knowledge graph, entity, relationship, taxonomy, content, search, or existing routing changes.</li>
+</ul>
+<h2>V23.5G — Organization Taxonomy Rationalization</h2>
+<ul>
+<li>Converted six incidental organizations to supporting metadata.</li>
+<li>Reclassified twenty-four Organization records into semantically accurate entity types.</li>
+<li>Consolidated two duplicate aliases while preserving identifiers, redirects, and logical relationships.</li>
+<li>Added no logical relationships and lost none.</li>
+</ul>
+<h2>V23.5F — Topic Taxonomy Rationalization</h2>
+<ul>
+<li>Converted 14 approved Topics to supporting classifications.</li>
+<li>Reclassified 10 approved Topic records using existing schema types and subtype metadata.</li>
+<li>Consolidated four duplicate Topic clusters with canonical redirects and relationship migration.</li>
+<li>Preserved all logical relationships and introduced no new relationships or schema changes.</li>
+</ul>
+<h2>V23.5C.2A.1 — 2026-07-29</h2>
+<ul>
+<li>Restored visible official podcast media actions across episode pages, series pages, the podcast directory, and the Somewhere in the Skies gateway.</li>
+<li>Loaded the V23.5A universal media compatibility helper before the entity renderer.</li>
+<li>Added simultaneous support for `officialMedia`, `official_media`, and preserved legacy fields with canonical duplicate suppression.</li>
+<li>Added preferred-media rendering and a permanent failure test for eligible media with no public action.</li>
+<li>Preserved all official media URLs and all knowledge-graph data.</li>
+</ul>
+<h3>V23.5B — Existing Podcast Official Media Migration</h3>
+<p>Migrated 257 podcast episodes and four series entities to the universal official-media collection. Preserved all legacy fields, corrected destination labels, activated preferred-link resolution, suppressed 467 duplicate legacy URL occurrences, and verified zero unauthorized non-media changes.</p>
+<h2>V23.2 — Somewhere in the Skies 2017 Podcast Integration</h2>
+<ul>
+<li>Added 40 unique Somewhere in the Skies releases published in 2017: 36 numbered episodes and four non-numbered feed releases.</li>
+<li>Classified every release through the internal V23 engine and committed approved classification records.</li>
+<li>Populated the existing Somewhere in the Skies gateway with 2017 year, topic, search, sorting, and combined-filter data.</li>
+<li>Added Research Episode, Standard Episode, and Catalog Record metadata without exposing internal review data publicly.</li>
+<li>Reused the canonical podcast-series entity and limited graph links to source-supported relationships.</li>
+<li>Added a reproducible archive reconciliation and validation report.</li>
+<li>Preserved architecture, schemas, rendering templates, navigation, routing, styling, and existing podcast content.</li>
+</ul>
+<h2>V23.1 — Podcast Classification Engine Release Visibility Patch</h2>
+<ul>
+<li>Updated the homepage Latest Additions section with the V23.0 Podcast Classification Engine release.</li>
+<li>Updated the homepage Development Updates section with the V23.1 documentation-only patch.</li>
+<li>Verified the V23.0 release summary in `data/release-summary.json`.</li>
+<li>Verified the Podcast Classification Engine documentation and referenced configuration/schema files.</li>
+<li>Added no code, entity, episode, relationship, knowledge-graph, rendering, navigation, routing, UI, or styling changes.</li>
+</ul>
+<h2>V23.0 — Podcast Classification Engine</h2>
+<ul>
+<li>Added an internal, human-reviewed podcast classification layer to Research Accelerator draft generation.</li>
+<li>Determines Content Class, Episode Type, primary and secondary topics, processing depth, and canonical entity extraction targets.</li>
+<li>Requires explicit reviewer approval before import and does not publish or create canonical entities automatically.</li>
+<li>Keeps classification metadata internal and leaves existing public pages unchanged.</li>
+</ul>
+<h3>V22.1.1 — Somewhere in the Skies Archive Gateway</h3>
+<ul>
+<li>Added a native GreyAlien gateway for Somewhere in the Skies.</li>
+<li>Combined year and topic browsing with keyword search, sorting, compact episode rows, and pagination.</li>
+<li>Added an ingestion-ready archive index covering 2017–2026 and nine research-topic collections.</li>
+<li>Reused the existing canonical podcast-series entity and official links.</li>
+<li>Updated the podcast directory, homepage Latest Additions, sitemap, and validation documentation.</li>
+<li>No episode entities were created and no knowledge-graph schema or relationship data were changed.</li>
+</ul>
+<h2>V22.1 — MERGED Podcast Integration (Complete Series)</h2>
+<ul>
+<li>Added MERGED Episodes 2–19 as production-quality podcast entities.</li>
+<li>Completed the 19-episode MERGED collection with canonical reuse, source-grounded claims, direct episode media references, and cross-series graph integration.</li>
+<li>Added only missing guest entities; no architecture or engine changes.</li>
+</ul>
+<h2>V21.3 — Need to Know Podcast Integration Batch 4 (2026-07-24)</h2>
+<ul>
+<li>Added Need to Know Episodes #17–21 as complete podcast episode entities.</li>
+<li>Added 20 source-grounded principal claims and five podcast-publication timeline events.</li>
+<li>Reused canonical Nimitz encounter, Ryan Graves, Jeremy Corbell, Garry Nolan, Luis Elizondo, AARO, UAP Task Force, FY2022 NDAA, and established topic entities.</li>
+<li>Used direct official video links for all five releases, including the official 7NEWS Spotlight video for Episode #20.</li>
+<li>Retained the official Need to Know YouTube collection as the secondary reference source.</li>
+<li>Preserved all platform architecture and existing WEAPONIZED relationships.</li>
+</ul>
+<h2>V21.1 — Need to Know Podcast Integration Batch 2 (2026-07-22)</h2>
+<ul>
+<li>Added Need to Know Episodes #2–6 as complete podcast episode entities.</li>
+<li>Added 20 source-grounded principal claims and five podcast-publication timeline events.</li>
+<li>Reused canonical Ross Coulthart, Bryce Zabel, Harry Reid, Roswell Incident, White House, United States Congress, and established topic entities.</li>
+<li>Added narrowly required canonical records for the FY2022 NDAA, World War II foo fighter reports, and 1946 Scandinavian ghost rocket reports.</li>
+<li>Replaced the generic archive reference on Need to Know Episodes #1–6 with each episode’s direct official YouTube URL.</li>
+<li>Retained the official Need to Know YouTube collection as the secondary reference source.</li>
+<li>Preserved all platform architecture and existing WEAPONIZED relationships.</li>
+</ul>
+<h2>V21 — Need to Know Podcast Integration Pilot</h2>
+<ul>
+<li>Added Need to Know Episode #1, “2021 Top Ten,” as a complete podcast episode entity.</li>
+<li>Reused canonical Need to Know, Ross Coulthart, Bryce Zabel, and topic entities.</li>
+<li>Added four source-grounded principal claims and one publication timeline event.</li>
+<li>Rebuilt cross-series related content, reciprocal graph discovery, unique counts, entity pages, podcast indexes, homepage, and sitemap.</li>
+<li>Made no architecture, schema, rendering, template, navigation, routing, UI, styling, or platform changes.</li>
+</ul>
+<h2>V20.6 — Knowledge Graph Enrichment, Batch C</h2>
+<ul>
+<li>Enriched Jeremy Corbell and George Knapp with six narrowly selected, source-supported relationships.</li>
+<li>Added direct Jellyfish UAP reporting, Skinwalker Ranch investigation, and November 2024 House hearing evidence-contribution connections.</li>
+<li>Preserved all existing valid graph content and reciprocal episode discovery.</li>
+<li>Added no entities and made no architecture, schema, rendering, template, navigation, routing, UI, or styling changes.</li>
+<li>Rebuilt and validated reciprocal discovery, unique connection counts, and duplicate-card suppression.</li>
+</ul>
+<h2>V20.3 — Knowledge Graph Enrichment Pilot: Whitley Strieber</h2>
+<ul>
+<li>Confirmed `transformation-2026` as the canonical Transformation 2026 document entity.</li>
+<li>Added the source-supported author relationship between Whitley Strieber and Transformation 2026.</li>
+<li>Added Whitley Strieber’s missing direct appearance relationship to WEAPONIZED Episode #120.</li>
+<li>Preserved the existing Episode #120-to-document relationship.</li>
+<li>Documented unsupported enrichment opportunities rather than adding speculative relationships.</li>
+<li>Rebuilt and validated reciprocal rendering and relationship counts.</li>
+</ul>
+<h2>V20 — WEAPONIZED Podcast Optimization — Phase 1</h2>
+<ul>
+<li>Corrected WEAPONIZED episode connection ordering to use true numeric episode sequence rather than filename or lexical order.</li>
+<li>Removed the Related Timeline section from podcast episode pages.</li>
+<li>No other architecture, rendering, template, schema, navigation, UI, styling, routing, or content changes.</li>
+</ul>
+<h2>V19.9 — WEAPONIZED Episodes #113–#120</h2>
+<ul>
+<li>Added Episodes #113, #114, and #116–#120 as content-only production records.</li>
+<li>Preserved the existing Episode #115 record without duplication or replacement.</li>
+<li>Added 35 source-grounded principal claims and seven publication timeline events.</li>
+<li>Updated Latest Additions, Development Updates, relationship counts, podcast indexes, related content, entity pages, and sitemap outputs.</li>
+<li>No architecture, rendering, template, schema, navigation, UI, styling, or routing changes.</li>
+</ul>
+<h2>V19.8 — WEAPONIZED Episodes #32–#41</h2>
+<ul>
+<li>Added ten WEAPONIZED episode records (#32–#41).</li>
+<li>Added 40 source-grounded principal claims and ten publication timeline events.</li>
+<li>Updated Latest Additions, Development Updates, podcast indexes, graph outputs, related content, entity pages, and sitemap.</li>
+<li>Content-only production ingestion; no platform changes.</li>
+</ul>
+<h2>V19.7 — WEAPONIZED Episodes 22–31 Backfill</h2>
+<ul>
+<li>Added the nine previously missing records: Episodes #22–#27 and #29–#31.</li>
+<li>Preserved the existing Episode #21 and Episode #28 entities and relationships.</li>
+<li>Added 36 source-grounded principal claims and nine podcast-publication timeline events.</li>
+<li>Added or reused canonical people, organizations, hearings, cases, and topics.</li>
+<li>Updated Latest Additions, Development Updates, release metadata, graph outputs, podcast indexes, related content, entity pages, and sitemap.</li>
+<li>No architecture, rendering, template, schema, navigation, UI, styling, or routing changes.</li>
+</ul>
+<h2>V19.6 — WEAPONIZED Episodes 11–20</h2>
+<ul>
+<li>Added WEAPONIZED Episodes #11–#20 as content-only production records.</li>
+<li>Added 40 source-grounded principal claims and 10 podcast-publication timeline events.</li>
+<li>Added or reused canonical people, organizations, and case entities.</li>
+<li>Updated Latest Additions, Development Updates, release metadata, graph outputs, podcast indexes, related content, entity pages, and sitemap.</li>
+<li>No architecture, rendering, template, schema, navigation, UI, styling, or routing changes.</li>
+</ul>
+<h3>V19.1.1 — WEAPONIZED Episodes #73–#82 Production Batch</h3>
+<ul>
+<li>Added production episode records and source-grounded claims for Episodes #73–#82.</li>
+<li>Reused canonical entities and introduced only genuinely new people, organizations, and cases.</li>
+<li>Rebuilt graph, podcast indexes, related content, entity pages, homepage, sitemap, and validation reports.</li>
+<li>No architectural changes.</li>
+</ul>
+<h2>V19.0 — WEAPONIZED Episodes #63–#72 Production Batch</h2>
+<ul>
+<li>Added production episode records for WEAPONIZED Episodes #63 through #72.</li>
+<li>Added source-grounded principal claims for all ten episodes.</li>
+<li>Reused canonical entities whenever available and added new person, organization, topic, and case records only where the batch introduced genuinely new knowledge.</li>
+<li>Added official WEAPONIZED episode-page and audio-feed references.</li>
+<li>Rebuilt and validated the graph, podcast indexes, related content, generated entity pages, homepage, and sitemap.</li>
+<li>Introduced no platform architecture, rendering-engine, template, navigation, schema, relationship-engine, UI/UX, or automation-framework changes.</li>
+</ul>
+<h2>V18.5 — WEAPONIZED Episodes #58–#62 Production Batch</h2>
+<ul>
+<li>Added production episode records for WEAPONIZED Episodes #58, #59, #60, #61, and #62.</li>
+<li>Added sourced principal-claim records for Episodes #58, #59, #61, and #62.</li>
+<li>Added Lester Nare, Matt Laslo, and Rory Kremer as connected person entities.</li>
+<li>Added UAP Caucus, Ask a Pol, Transmedium UAP, and the 2024 UK Military Airspace Incursions as supporting graph records.</li>
+<li>Preserved the correct official `/episodes-3/` URLs for Episodes #61 and #62.</li>
+<li>Kept Episode #60 limited to verified series-level metadata because the official page provides no episode-specific synopsis, guests, cases, or claims.</li>
+<li>Rebuilt and validated the graph, podcast indexes, related content, entity pages, homepage, and sitemap.</li>
+</ul>
+<h2>V18.4 — Research Accelerator</h2>
+<ul>
+<li>Added a review-first podcast research accelerator using official episode pages, saved HTML, and optional transcripts.</li>
+<li>Added automatic metadata extraction, existing-entity matching, draft relationship generation, confidence scoring, and human-review checklists.</li>
+<li>Preserved editorial safety: the accelerator does not modify the live graph or auto-publish claims.</li>
+<li>Added a five-episode WEAPONIZED manifest template for Episodes #58–#62.</li>
+<li>Added automated fixture validation to the standard build pipeline.</li>
+<li>Updated homepage Latest Additions.</li>
+</ul>
+<h2>V18.2.1 — WEAPONIZED Visual Identity Test (Corrected)</h2>
+<ul>
+<li>Added the actual live WEAPONIZED series banner and responsive styles.</li>
+<li>Used a factual, non-portrait editorial identity to avoid synthetic likenesses.</li>
+<li>Added structured visual identity metadata and accessibility text.</li>
+<li>Added visual identity validation to the automation pipeline.</li>
+<li>Updated homepage Latest Additions.</li>
+</ul>
+<h2>V18.1 — First Five-Episode Production Batch</h2>
+<ul>
+<li>Ingested WEAPONIZED Episodes #43–#47 in one transactional batch.</li>
+<li>Added seven supporting person, organization, topic, and case records.</li>
+<li>Rebuilt the graph, podcast indexes, related content, generated pages, homepage, and sitemap.</li>
+<li>Established the baseline timing benchmark for comparison with the Research Accelerator.</li>
+</ul>
+<h3>V18.0 — First Automated Knowledge Ingestion</h3>
+<ul>
+<li>Ingested WEAPONIZED Episode #42 through the transactional import system.</li>
+<li>Added Joe Murgia as a connected person entity and correctly distinguished him as guest.</li>
+<li>Connected the episode to Garry Nolan and David Grusch as discussed subjects.</li>
+<li>Connected the episode to the Sol Foundation, UAP Disclosure Act, and inaugural Sol Foundation symposium.</li>
+<li>Updated the importer to include V17.4 rendering-rule and V17.5 timeline-normalization automation steps.</li>
+<li>Updated homepage Latest Additions through structured release metadata.</li>
+</ul>
+<h2>V17.5 — Timeline Normalization Engine</h2>
+<ul>
+<li>Added canonical timeline-event alias generation.</li>
+<li>Deduplicated timeline cards by canonical historical event.</li>
+<li>Preserved distinct media and timeline entities in the graph.</li>
+<li>Changed the hero statistic label from Connections to Unique connections.</li>
+<li>Added timeline normalization validation to the one-command automation pipeline.</li>
+</ul>
+<h2>GreyAlien Changelog</h2>
+<h3>V17.4 — Automation Engine Refinement</h3>
+<ul>
+<li>Grouped relationship cards by target entity category rather than relationship type.</li>
+<li>Unified interviews and podcast episodes under one Related Media section.</li>
+<li>Preserved relationship-specific badges on every card.</li>
+<li>Added `data/schema/rendering-groups.json` as the centralized rendering configuration.</li>
+<li>Added automated rendering-rule validation to the one-command build.</li>
+<li>Updated Latest Additions for the V17.4 deployment.</li>
+</ul>
+<h2>V17.2 — Import System</h2>
+<ul>
+<li>Added transactional single-record and folder-based batch imports.</li>
+<li>Added preflight metadata, URL, date, relationship, and podcast-semantic validation.</li>
+<li>Added dry-run mode, conflict protection, explicit replacement mode, and machine-readable reports.</li>
+<li>Added stable generated HTML entry points for every knowledge-base entity.</li>
+<li>Updated sitemap generation to use stable crawlable entity URLs.</li>
+<li>Added staged full-build verification so failed imports cannot partially modify the live package.</li>
+<li>Updated homepage Latest Additions.</li>
+</ul>
+<h2>V17.1 — Podcast Engine</h2>
+<ul>
+<li>Added canonical podcast series and episode schemas.</li>
+<li>Added ingestion package and one-command episode workflow.</li>
+<li>Added generated podcast-series, episode, and manifest indexes.</li>
+<li>Added podcast semantic validation and deterministic sitemap building.</li>
+<li>Migrated six researched WEAPONIZED records to `podcast_episode`.</li>
+<li>Updated podcast cards with generated episode and connected-entity totals.</li>
+<li>Updated homepage Latest Additions.</li>
+</ul>
+<h2>GreyAlien Version 16.0 — Science &amp; Technology Gateway Foundation</h2>
+<ul>
+<li>Replaced the legacy Science &amp; Technology placeholder with a complete visual gateway.</li>
+<li>Added seven collection cards with a distinct icon and accent system.</li>
+<li>Added seven responsive collection landing pages with purposeful Coming Soon content.</li>
+<li>Established future routing for disciplines, sensors, programs, methods, explanations, research publications, and emerging technologies.</li>
+<li>Added breadcrumb navigation, SEO metadata, CollectionPage structured data, and sitemap entries.</li>
+<li>Preserved all existing podcast, entity, hearing, homepage, and knowledge-graph content.</li>
+</ul>
+<h2>GreyAlien Version 15.19 — Wave 2D Timeline Expansion</h2>
+<ul>
+<li>Added focused UAP-related timelines for Michael Herrera, Eric Hecker, and Jonathan Weygandt.</li>
+<li>Reused the existing Indonesia, South Pole, and Peru case entities as dated canonical milestones.</li>
+<li>Added one shared June 12, 2023 National Press Club disclosure event for Herrera and Hecker.</li>
+<li>Added Eric Hecker&#x27;s 2010–2011 South Pole assignment as necessary context for his later public claims.</li>
+<li>Corrected Jonathan Weygandt&#x27;s archived Disclosure Project interview chronology to 2001 and added his September 6, 2023 Podcast UFO interview.</li>
+<li>Applied the Canonical Event Watch List and the editorial directive that each milestone must directly affect the UAP narrative.</li>
+</ul>
+<h2>GreyAlien Version 15.18 — Wave 2C Timeline Expansion</h2>
+<ul>
+<li>Added focused UAP timelines for Hal Puthoff, Eric Davis, and Matthew Brown.</li>
+<li>Reused the existing NIDS, AAWSAP, To The Stars Academy, and WEAPONIZED entities wherever authoritative records already existed.</li>
+<li>Added one shared NIDS milestone, one shared AAWSAP technical-research milestone, and a carefully attributed Wilson–Davis Notes document entity.</li>
+<li>Completed Matthew Brown&#x27;s chronology by dating and reusing WEAPONIZED Episodes #74, #75, and #76.</li>
+<li>Applied the editorial rule that each milestone must directly affect the UAP narrative.</li>
+<li>Applied the Canonical Event Watch List to prevent parallel records for the same occurrence.</li>
+</ul>
+<h2>GreyAlien Version 15.17 — Wave 2B Timeline Expansion</h2>
+<ul>
+<li>Added focused UAP timelines for Garry Nolan, Sean M. Kirkpatrick, and Jacques Vallée.</li>
+<li>Reused the existing April 19, 2023 AARO hearing, NASA public meeting, and Sol Foundation symposium records.</li>
+<li>Added canonical publication entities for three foundational Jacques Vallée works.</li>
+<li>Applied the editorial rule that each milestone must directly affect the UAP narrative.</li>
+</ul>
+<h2>GreyAlien V15.16.1</h2>
+<ul>
+<li>Added Wave 2A Related Timeline coverage for Karl Nell, Luis Elizondo, and Avi Loeb.</li>
+<li>Applied the relevance rule that a milestone must directly affect the UAP research, disclosure, policy, or scientific narrative.</li>
+<li>Added Karl Nell milestones for UAP Task Force support, the inaugural Sol Foundation symposium, and his May 2024 SALT disclosure presentation.</li>
+<li>Added Luis Elizondo milestones for his 2017 transition to public UAP advocacy, his Galileo Project affiliate appointment, the publication of *Imminent*, and reused the existing November 2024 House hearing.</li>
+<li>Added Avi Loeb milestones for founding the Galileo Project, the IM1 expedition, the shared Galileo affiliate announcement, and the inaugural Sol Foundation symposium.</li>
+<li>Reused existing organization and hearing entities instead of creating parallel Timeline records.</li>
+<li>Preserved Timeline filtering, chronological sorting, canonical-entity reuse, and the V15.16 Entity Explorer UX.</li>
+</ul>
+<h2>GreyAlien V15.16</h2>
+<ul>
+<li>Added dynamic Entity Explorer category navigation with live counts from the entity index.</li>
+<li>Made the category navigator sticky so visitors can move between sections without returning to the top.</li>
+<li>Added active-section highlighting, smooth scrolling, and a floating back-to-top control.</li>
+<li>Refined Entity Explorer hero copy, section counts, section-header consistency, and empty-state handling.</li>
+<li>Improved large-directory rendering and responsive navigation behavior without changing any entity data or relationships.</li>
+<li>Deferred Entity Search to a future release.</li>
+</ul>
+<h2>GreyAlien V15.15.1</h2>
+<ul>
+<li>Removed the redundant Timeline Event for the December 4, 2018 release of *Bob Lazar: Area 51 &amp; Flying Saucers*.</li>
+<li>Removed the redundant Timeline Event for WEAPONIZED Episode #115 published April 14, 2026.</li>
+<li>Preserved the existing documentary and podcast episode entities as the authoritative dated Timeline records.</li>
+<li>Standardized Episode #115 on the canonical title: **WEAPONIZED Episode #115 — A New Chapter in the Bob Lazar Saga**.</li>
+<li>Removed “Entity System 1.0” from the Entity Explorer hero.</li>
+<li>Preserved all remaining Timeline relationships, chronological sorting, and reverse connections.</li>
+</ul>
+<h2>GreyAlien V15.15</h2>
+<ul>
+<li>Completed Timeline Wave 1 for Christopher Mellon, George Knapp, and Jeremy Corbell.</li>
+<li>Reused the existing December 2017 New York Times publication, 2018 Bob Lazar documentary, and WEAPONIZED Episode #115 as authoritative dated timeline records.</li>
+<li>Added shared timeline events for the October 2017 To The Stars Academy launch period, January 2023 WEAPONIZED launch, and January 2024 Jellyfish UAP reporting.</li>
+<li>Added a June 25, 2021 congressional-oversight milestone reflecting Mellon’s documented advocacy for the preliminary UAP assessment.</li>
+<li>Preserved the existing timeline renderer, date filtering, deduplication, and chronological navigation model.</li>
+</ul>
+<h2>GreyAlien V15.14</h2>
+<ul>
+<li>Added Related Timeline navigation for David Fravor and Ryan Graves.</li>
+<li>Reused the existing July 26, 2023 House UAP hearing as one authoritative shared entity.</li>
+<li>Reused the existing 2004 Nimitz Encounter and Lex Fridman interview entities for David Fravor.</li>
+<li>Added authoritative dated records for the December 2017 New York Times disclosure, the 2014–2015 East Coast Navy encounters, the May 2019 New York Times disclosure, and the June 1, 2023 launch of Americans for Safe Aerospace.</li>
+<li>Added the Americans for Safe Aerospace organization entity to resolve existing graph references.</li>
+<li>No timelines were added for Christopher Mellon, George Knapp, or Jeremy Corbell in this phase.</li>
+</ul>
+<h2>GreyAlien V15.13.1</h2>
+<ul>
+<li>Refined Related Timeline so only dated entities can appear as timeline cards.</li>
+<li>Excluded Person, Organization, Topic, and Claim entities from Related Timeline.</li>
+<li>Removed the “Date not specified” fallback; undated records remain available in their correct related-entity sections.</li>
+<li>Preserved all existing Timeline entities, relationships, and chronological ordering.</li>
+</ul>
+<h2>GreyAlien V15.13</h2>
+<ul>
+<li>Added the David Grusch Timeline pilot using a hybrid chronological view.</li>
+<li>Created three new Timeline Event records covering his 2019–2022 UAP assignments, July 2021 protected disclosure, and May 25, 2022 PPD-19 complaint.</li>
+<li>Reused the existing NewsNation interview, WEAPONIZED Episode #21, and July 26, 2023 House UAP Hearing as authoritative dated milestones.</li>
+<li>Updated the entity renderer so Related Timeline can mix Timeline Events with existing dated entity types without duplicating the underlying event.</li>
+<li>Added reverse connections, event dates, event categories, and direct hearing navigation.</li>
+</ul>
+<h2>GreyAlien V15.12.1</h2>
+<ul>
+<li>Refined Related Timeline cards to display each event date prominently at the top.</li>
+<li>Added the Timeline Event category beneath the date.</li>
+<li>Moved relationship roles into supporting context within each card.</li>
+<li>Added a subtle visual treatment that distinguishes Timeline cards from other entity cards.</li>
+<li>Preserved all Timeline entities, relationships, counts, and chronological ordering.</li>
+</ul>
+<h2>GreyAlien V15.12</h2>
+<ul>
+<li>Activated the Timeline Event pilot using Bob Lazar as the first person-level chronology.</li>
+<li>Added seven dated timeline events spanning 1982 through April 2026.</li>
+<li>Added role-specific timeline connections and reverse navigation to materially related people, media, organizations, locations, topics, and claims.</li>
+<li>Added foundational entities for KLAS-TV, the Los Alamos Monitor, and two Bob Lazar documentaries.</li>
+<li>Added chronological sorting and Timeline Event details to the generic entity renderer.</li>
+<li>Updated the homepage Latest Additions panel to Version 15.12.</li>
+</ul>
+<h2>GreyAlien V15.11.1</h2>
+<p>* Removed redundant direct Matthew Brown media relationships that duplicated reverse episode-to-guest connections.</p>
+<p>* Added entity-page connection deduplication by connected entity ID.</p>
+<p>* When duplicate paths exist, the renderer keeps the relationship with the strongest role/context metadata.</p>
+<p>* Matthew Brown now displays each WEAPONIZED Part 1–3 episode once under Related Media.</p>
+<p>* No homepage, episode-content, or navigation changes.</p>
+<h2>GreyAlien V15.11</h2>
+<p>* Added WEAPONIZED Episode #76 — Matthew Brown Part 3: Immaculate Constellation.</p>
+<p>* Connected Jeremy Corbell and George Knapp as hosts and Matthew Brown as guest.</p>
+<p>* Added four attributed principal claims focused on alleged visual evidence, perception management, excessive secrecy, and Brown’s call for additional insiders to come forward.</p>
+<p>* Updated Matthew Brown&#x27;s entity record with the official Part 3 source.</p>
+<p>* Updated the homepage Latest Additions panel to Version 15.11 and six researched WEAPONIZED episodes.</p>
+<p>* Completed the three-part Matthew Brown Immaculate Constellation interview sequence.</p>
+<p>* No changes outside the Podcast Knowledge Base and directly connected entity records.</p>
+<h2>GreyAlien V15.10</h2>
+<p>* Added WEAPONIZED Episode #75 — Matthew Brown Part 2: Immaculate Constellation.</p>
+<p>* Connected Jeremy Corbell and George Knapp as hosts and Matthew Brown as guest.</p>
+<p>* Added three attributed principal claims focused on documents, compartmentalization, and blocked reporting channels.</p>
+<p>* Updated Matthew Brown&#x27;s entity record with the official Part 2 source.</p>
+<p>* Updated the homepage Latest Additions panel to Version 15.10 and five researched WEAPONIZED episodes.</p>
+<p>* No changes outside the Podcast Knowledge Base and directly connected entity records.</p>
+<h2>GreyAlien V15.9</h2>
+<p>* Added WEAPONIZED — Matthew Brown Part 1: Immaculate Constellation.</p>
+<p>* Connected Jeremy Corbell and George Knapp as hosts, Matthew Brown as guest, and Immaculate Constellation as the primary topic.</p>
+<p>* Added three focused attributed principal claims using existing claim entities.</p>
+<p>* Added a foundational Immaculate Constellation topic entity.</p>
+<p>* Updated Matthew Brown&#x27;s entity record with the official Part 1 interview source.</p>
+<p>* Updated the homepage Latest Additions panel to Version 15.9 and four researched WEAPONIZED episodes.</p>
+<p>* No changes outside the Podcast Knowledge Base and directly connected entity records.</p>
+<h2>GreyAlien V15.8</h2>
+<p>* Reordered podcast-series entity pages so Related Media appears before Related People.</p>
+<p>* Adopted a 3–7 Principal Claims standard for researched podcast episodes.</p>
+<p>* Expanded WEAPONIZED Episodes #21, #28, and #115 with attributed, high-value principal claims.</p>
+<p>* Rephrased existing relevant claim titles as neutral attributed propositions.</p>
+<p>* Added five focused claim entities required to describe the three researched episodes accurately.</p>
+<p>* Updated the homepage Latest Additions panel for Version 15.8.</p>
+<p>* No changes to the Movies \&amp; Documentaries section or unrelated site areas.</p>
+<h2>GreyAlien V15.7</h2>
+<p>* Added WEAPONIZED Episode #28 as the third researched podcast-episode entity.</p>
+<p>* Connected Jeremy Corbell and George Knapp as hosts.</p>
+<p>* Connected Ross Coulthart and Bryce Zabel as roundtable guests.</p>
+<p>* Connected David Grusch, Ryan Graves, and David Fravor as primary subjects of the post-hearing discussion.</p>
+<p>* Connected the episode directly to the July 26, 2023 House UAP hearing and existing congressional-oversight and government-transparency topics.</p>
+<p>* Added a foundational Bryce Zabel person entity linked to Need to Know.</p>
+<p>* Updated the homepage Latest Additions panel for Version 15.7.</p>
+<p>* Added reusable podcast-episode tooling and graph validation to streamline future multi-episode releases.</p>
+<p>* No visual redesign or unrelated content additions.</p>
+<h2>GreyAlien V15.6</h2>
+<p>* Added WEAPONIZED Episode #21 as the second researched podcast-episode entity.</p>
+<p>* Connected David Grusch to Episode #21 using the `primary\_subject` relationship role.</p>
+<p>* Connected Jeremy Corbell and George Knapp as hosts.</p>
+<p>* Added focused links to the existing whistleblower-retaliation claim, whistleblower-protection topic, and government-transparency topic.</p>
+<p>* Replaced manually stored podcast-card connection totals with counts calculated directly from the knowledge graph.</p>
+<p>* Updated the congressional-hearing directory to display witness totals calculated from each structured witness list and warn in the browser console if a stored count disagrees.</p>
+<p>* Updated the homepage Latest Additions panel for Version 15.6.</p>
+<p>* No visual redesign or unrelated content additions.</p>
+<h2>GreyAlien Changelog</h2>
+<h3>Version 15.5.1</h3>
+<p>* Corrected the V15.5 homepage Latest Additions panel.</p>
+<p>* Added a direct Bob Lazar relationship to WEAPONIZED Episode #115 using the `primary\_subject` role.</p>
+<p>* Confirmed Episode #115 remains connected to the WEAPONIZED series and is reachable through the entity graph.</p>
+<h3>Version 15.5</h3>
+<p>* Added contextual relationship roles to the knowledge graph schema.</p>
+<p>* Added WEAPONIZED Episode #115 as the first podcast-episode relationship test.</p>
+<p>* Added Jeremy Corbell and Luigi Venditelli entity records required by the episode.</p>
+<p>* Applied Host, Guest, and Primary Subject roles to Episode #115.</p>
+<p>* Renamed the person-page interview connection group to Related Media while leaving Movies \&amp; Documentaries unchanged.</p>
+<h3>Version 15.4</h3>
+<p>* Corrected homepage Knowledge Base Growth totals.</p>
+<p>* Added Coming Soon status for every primary section not yet developed.</p>
+<p>* Removed remaining numbered version wording from the witness database data title.</p>
+<p>*</p>
+<h3>V17.3 — Phase 4 Automation</h3>
+<ul>
+<li>Added `tools/automate_site.py` as the authoritative one-command build pipeline.</li>
+<li>Added automated Referenced In and related-podcast-episode generation.</li>
+<li>Added automated homepage Latest Additions updates from structured release data.</li>
+<li>Added machine-readable and Markdown deployment reports.</li>
+<li>Updated transactional imports to use the same build sequence.</li>
+<li>Added progressive entity-page rendering for Related Episodes and Referenced In sections.</li>
+</ul>
+<h3>V18.2 — Production Batch #2 + Universal Source System</h3>
+<ul>
+<li>Ingested WEAPONIZED Episodes #48–#52.</li>
+<li>Preserved Episode #51 as an unreleased catalog placeholder without invented content.</li>
+<li>Added Ernest Cline and Colm Kelleher entity records.</li>
+<li>Added universal rendering for structured `sources[]`.</li>
+<li>Added official website buttons and additional source panels.</li>
+<li>Added source architecture validation to the one-command automation pipeline.</li>
+</ul>
+<h3>V18.2.2 — WEAPONIZED Responsive Banner Refinement</h3>
+<ul>
+<li>Replaced WEAPONIZED banner artwork with responsive desert-night identity design.</li>
+<li>Suppressed duplicate text overlays when banner artwork already contains title and host text.</li>
+<li>Updated Latest Additions and retained visual identity validation.</li>
+</ul>
+<h3>V18.3 — WEAPONIZED Production Batch #3</h3>
+<ul>
+<li>Added Episodes #53–#57 and supporting graph entities.</li>
+<li>Updated homepage Latest Additions and regenerated all automated assets.</li>
+</ul>
+<h3>V18.3.1 — Official Links and Reference Sources</h3>
+<ul>
+<li>Separated entity-owned links from GreyAlien research provenance.</li>
+<li>Migrated legacy source fields to `officialLinks[]` and `referenceSources[]`.</li>
+<li>Added renderer and validator support for both sections.</li>
+</ul>
+<h3>V19.3 — WEAPONIZED Episodes #93–#102</h3>
+<ul>
+<li>Added ten content-only production episode records, claims, relationships, timeline events, and official sources.</li>
+<li>Rebuilt generated graph, podcast, related-content, entity-page, homepage, and sitemap outputs.</li>
+<li>No architecture, rendering, template, schema, navigation, UI, styling, or routing changes.</li>
+</ul>
+<h3>V19.5</h3>
+<ul>
+<li>Added WEAPONIZED Episodes #1–#10 as a content-only production ingestion.</li>
+</ul>
+<h3>V20.1 — Related Podcast Series Optimization</h3>
+<ul>
+<li>Suppressed a podcast episode’s own parent series from Related Podcast Series.</li>
+<li>Other podcast series remain eligible only through direct cross-series relationships.</li>
+<li>The section is omitted when no qualifying series remains.</li>
+<li>The rule is generic for all current and future podcast series.</li>
+</ul>
+<h3>V20.2 — Duplicate Entity Rendering Suppression</h3>
+<ul>
+<li>Added canonical-aware duplicate suppression before relationship-card grouping.</li>
+<li>Applied one-card-per-real-world-entity behavior across all relationship sections and Continue Research.</li>
+<li>Added stable podcast episode identity using parent series and episode number.</li>
+<li>Preserved all entity records and knowledge-graph relationships unchanged.</li>
+</ul>
+<h3>V20.4 — Knowledge Graph Enrichment, Batch A</h3>
+<ul>
+<li>Enriched Bob Lazar with two central documentary and two canonical claim relationships.</li>
+<li>Enriched David Grusch with a direct Episode #116 guest link and two canonical claim relationships.</li>
+<li>Repaired the canonical secret-UAP-program claim attribution and evidence chain to David Grusch and the July 2023 hearing record.</li>
+<li>Enriched Jacques Vallée with three authorship relationships, Episode #102 guest status, and NIDS scientific-advisor affiliation.</li>
+<li>Rebuilt reciprocal discovery and unique graph counts without creating entities or changing presentation architecture.</li>
+</ul>
+<h3>V20.5 — Knowledge Graph Enrichment, Batch B</h3>
+<ul>
+<li>Added Ryan Graves’s direct claimant relationship to the canonical aviation-safety claim.</li>
+<li>Removed inaccurate Christopher Mellon and Karl Nell claimant edges to David Grusch-specific canonical claims.</li>
+<li>Added Karl Nell’s direct Sol Foundation, UAP Task Force support, SALT presentation, and inaugural Sol symposium relationships.</li>
+<li>Rebuilt reciprocal discovery and unique graph counts without creating entities or changing presentation architecture.</li>
+</ul>
+<h2>V21.2 — Need to Know Podcast Integration (Batch 3)</h2>
+<ul>
+<li>Added Need to Know Episodes #7–16 as ten content-only production records.</li>
+<li>Added forty source-grounded principal claims and ten podcast-publication timeline events.</li>
+<li>Added direct official YouTube episode links for every new episode while retaining the official collection as the secondary source.</li>
+<li>Reused canonical graph entities and added only five genuinely missing historical or biographical records.</li>
+<li>Preserved all architecture, rendering, schema, template, navigation, routing, UI, styling, and knowledge-graph engine behavior.</li>
+</ul>
+<h3>V21.4 — Need to Know Official Media Validation</h3>
+<ul>
+<li>Audited all 21 currently ingested Need to Know media records.</li>
+<li>Verified matching primary media and official reference-source URLs for every record.</li>
+<li>Retained the official Need to Know collection as the secondary resource on every episode.</li>
+<li>Corrected the Episode #13 media labeling to identify the linked Bryce Zabel rant as an official unnumbered special.</li>
+<li>Documented the publisher-side conflict in which the May 17, 2022 Elizondo video is titled NTK/13 on YouTube but listed as Episode #14 in the official Need to Know archive.</li>
+<li>Confirmed no duplicate direct-video IDs and no generic archive-page primary links.</li>
+<li>Made no schema, rendering, UI, routing, navigation, architecture, or knowledge-graph changes.</li>
+</ul>
+<h3>V21.5 — Need to Know Episodes 22–75</h3>
+<ul>
+<li>Added 54 numbered Need to Know episodes, 162 principal claims, and 54 publication timeline events.</li>
+<li>Added direct official YouTube episode links and retained the official collection as the secondary source.</li>
+<li>Reused canonical entities and preserved the content-only production boundary.</li>
+<li>Restored the official NTK/36 David Grusch release, preventing an off-by-one media shift through Episode #74; excluded the unnumbered Spielberg special from the numbered sequence.</li>
+<li>Validated 75 sequential Need to Know records with 75 unique direct official video IDs.</li>
+</ul>
+<h3>V22.0 — MERGED Podcast Integration Pilot</h3>
+<ul>
+<li>Added MERGED Episode #1 featuring Dr. Garry Nolan and hosted by Ryan Graves.</li>
+<li>Added four source-grounded claims and one historically meaningful launch timeline event.</li>
+<li>Reused existing canonical people, series, organizations, and topics without creating duplicates.</li>
+<li>Added direct official episode-page and YouTube links; cross-series discovery is generated from shared canonical people and topics without forced series edges.</li>
+<li>Preserved the content-only production boundary with no platform changes.</li>
+</ul>
+<h3>V23.0 — Podcast Classification Engine</h3>
+<ul>
+<li>Added an internal podcast-release classification engine integrated with the Research Accelerator.</li>
+<li>Added Content Class, Episode Type, primary/secondary topic, research-depth, and entity-extraction decisions to reviewable drafts.</li>
+<li>Added explicit human approval before classified podcast records may enter the import pipeline.</li>
+<li>Added classification configuration, JSON schema, command-line classifier, approval tool, and validator.</li>
+<li>Updated podcast ingestion and transactional import validation to require approved V23 classification metadata for new episodes.</li>
+<li>Preserved all existing public rendering, navigation, styles, routes, and entity records.</li>
+</ul>
+<h3>V23.4 — Somewhere in the Skies Official Media Link Restoration</h3>
+<ul>
+<li>Removed all 40 retired Acast URLs from the 2017 archive.</li>
+<li>Added verified exact episode links where independently matched and explicit Apple Podcasts archive fallbacks elsewhere.</li>
+<li>Regenerated podcast and entity pages and added live-capable media validation.</li>
+</ul>
+<h3>V23.5A — Universal Podcast Official Media Architecture</h3>
+<ul>
+<li>Added opt-in official-media schema, compatibility adapter, resolver, renderer, validators, live-check mode, approval gates, and fixtures.</li>
+<li>Preserved all existing podcast media records and public legacy behavior.</li>
+</ul>
+<h3>V23.5C.1 — Universal Podcast Media Audit Engine and Validation Job Preparation</h3>
+<ul>
+<li>Added the permanent offline-first podcast media-audit engine.</li>
+<li>Inventoried 1,449 migrated and legacy media occurrences across 261 podcast entities.</li>
+<li>Generated 491 deterministic platform-aware validation jobs and consolidated 958 duplicate occurrences.</li>
+<li>Added URL normalization, identity expectations, off-by-one preparation, external-result import, repair proposals, rollback manifests, fixtures, and reconciliation reports.</li>
+<li>Explicitly records that production network validation was not run and does not alter live verification states or public preferred destinations.</li>
+</ul>
+<h3>V23.5C.2A — Enhanced Live Podcast Audit Runner and Repair Pipeline</h3>
+<ul>
+<li>Added production live-audit workflow and bounded platform concurrency.</li>
+<li>Added HTTP 404 failure classification and transport-only `network_unavailable`.</li>
+<li>Added YouTube 429 retry/backoff/jitter and `temporarily_unverifiable`.</li>
+<li>Added dedicated retired `link.chtbl.com` wrapper handling.</li>
+<li>Added metadata, platform, destination-type, RSS, soft-404, and episode identity validation.</li>
+<li>Added repair proposals, automatic and human-review queues, transactional previews, rollback snapshots, and series/cross-series reports.</li>
+<li>Preserved all public podcast media data pending explicit approval.</li>
+</ul>
+<h3>V23.5C.2B — GitHub Actions Live Podcast Media Validation Runner</h3>
+<ul>
+<li>Added a dedicated manually triggered production workflow for all 491 prepared live-validation jobs.</li>
+<li>Added optional bounded test execution through the `job_limit` workflow input.</li>
+<li>Added live evidence, repair queues, proposal reports, transaction preview, rollback snapshot, revision recording, and operator summary artifacts.</li>
+<li>Preserved the approval boundary: the workflow does not import unreviewed repairs or change knowledge-graph data.</li>
+<li>Added production run documentation and artifact retrieval instructions.</li>
+</ul>
+<h3>V23.5C.2B.1 — Apple Podcasts Identity &amp; Repair Proposal Deduplication</h3>
+<ul>
+<li>Added dedicated Apple Podcasts metadata extraction with provenance and confidence.</li>
+<li>Preserved Apple episode identifiers through redirects and canonical normalization.</li>
+<li>Distinguished direct Apple episode URLs from show pages.</li>
+<li>Added deterministic episode identity scoring and conflict safeguards.</li>
+<li>Consolidated redundant repair findings into unique proposals with nested candidates.</li>
+<li>Added Apple diagnostics and regression tests.</li>
+<li>Preserved approval-gated transactions and made no production media or graph changes.</li>
+</ul>
+<h3>V23.5C.2B.3 — Apple Metadata Source Prioritization and Episode Title Extraction</h3>
+<ul>
+<li>Rejects `@ApplePodcasts` and normalized Apple platform-branding variants from podcast and episode identity fields.</li>
+<li>Rejects exact generic Apple playback/interface labels such as `Play`, `Listen Now`, and `Preview` as episode titles.</li>
+<li>Preserves legitimate podcast and episode titles containing words such as Apple, Play, or Preview.</li>
+<li>Selects the highest-priority valid Apple metadata candidate using deterministic confidence and source precedence.</li>
+<li>Adds accepted/rejected diagnostics, insufficient-metadata reporting, nine regression fixtures, and focused parser tests.</li>
+<li>Preserves workflows, schemas, proposal deduplication, approval gating, transactions, production media data, rendering, and knowledge-graph files.</li>
+</ul>
+        </article>
+      </div>
+    </section>
+  </main>
+  <footer>
+    <div class="wrap footer-grid"><span>© <span id="year"></span> GreyAlien.com</span><a href="index.html">Return home</a></div>
+  </footer>
+  <script>document.getElementById('year').textContent = new Date().getFullYear();</script>
+  <script>
+    GreyAlienSEO.apply({
+      title: "Development Updates | GreyAlien",
+      description: "GreyAlien development updates, release notes, implementation summaries and production history.",
+      canonical: "https://greyalien.com/development-updates.html",
+      image: "https://greyalien.com/assets/grey-alien-logo.jpg",
+      jsonLd: {"@context":"https://schema.org","@type":"CollectionPage","name":"GreyAlien Development Updates","url":"https://greyalien.com/development-updates.html","isPartOf":{"@type":"WebSite","name":"GreyAlien","url":"https://greyalien.com/"}}
+    });
+  </script>
+</body>
+</html>

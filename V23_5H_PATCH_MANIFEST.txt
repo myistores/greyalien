@@ -1,0 +1,19 @@
+V23.5H — Homepage Refresh & Development Updates
+
+ADDED
+- development-updates.html (generated)
+- tools/build_development_updates.py
+- tools/validate_v23_5h.py
+- V23_5H_HOMEPAGE_REFRESH_AND_DEVELOPMENT_UPDATES.md
+- V23_5H_PATCH_MANIFEST.txt
+- validation/v23_5h_tests.log
+
+UPDATED
+- index.html
+- style.css
+- sitemap.xml
+- tools/build_homepage.py
+- tools/build_sitemap.py
+- tools/automate_site.py
+- data/release-summary.json
+- CHANGELOG.md

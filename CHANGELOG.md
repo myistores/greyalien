@@ -1,3 +1,19 @@
+# V23.5H — Homepage Refresh & Development Updates
+
+- Replaced the homepage release log with three visitor-facing update cards.
+- Added a dedicated Development Updates page for technical release history.
+- Generated homepage entity, entity-type, people, hearing, podcast-episode, and podcast-series totals from current data.
+- Consolidated repeated placeholder entries into one research-growth statement.
+- Updated the obsolete homepage development notice and footer to V23.5H.
+- Made no knowledge graph, entity, relationship, taxonomy, content, search, or existing routing changes.
+
+# V23.5G — Organization Taxonomy Rationalization
+
+- Converted six incidental organizations to supporting metadata.
+- Reclassified twenty-four Organization records into semantically accurate entity types.
+- Consolidated two duplicate aliases while preserving identifiers, redirects, and logical relationships.
+- Added no logical relationships and lost none.
+
 # V23.5F — Topic Taxonomy Rationalization
 
 - Converted 14 approved Topics to supporting classifications.
