@@ -1,0 +1,27 @@
+{
+  "release": "V23.5F",
+  "supportingClassifications": [
+    "awacs", "books-and-publications", "classification", "film-and-television",
+    "instantaneous-acceleration", "investigators-and-researchers", "media-coverage",
+    "military-pilot-uap-encounters", "military-sensor-data", "research-integrity",
+    "scientific-evidence", "signature-management", "space-based-uap", "witness-intimidation"
+  ],
+  "reclassifications": {
+    "kona-blue": {"target": "kona-blue-program", "targetType": "case", "subtype": "program"},
+    "setka-program": {"targetType": "organization", "subtype": "program"},
+    "thread-3-program": {"targetType": "organization", "subtype": "program"},
+    "contact-in-the-desert": {"targetType": "timeline_event", "subtype": "event"},
+    "national-space-symposium": {"targetType": "timeline_event", "subtype": "event"},
+    "mcminnville-ufo-festival": {"targetType": "timeline_event", "subtype": "event"},
+    "trinity-ufo-case": {"targetType": "case", "subtype": "historical_case"},
+    "eglin-air-force-base-uap": {"target": "eglin-runway-uap-incident", "targetType": "case", "subtype": "historical_case"},
+    "s4-papoose-lake": {"targetType": "case", "subtype": "location"},
+    "immaculate-constellation": {"targetType": "organization", "subtype": "alleged_program"}
+  },
+  "duplicateClusters": {
+    "uap-disclosure": ["government-disclosure", "public-disclosure", "uap-transparency"],
+    "uap-journalism": ["ufo-journalism"],
+    "mystery-drone-incursions": ["mystery-drones"],
+    "uap-disinformation": ["disinformation"]
+  }
+}

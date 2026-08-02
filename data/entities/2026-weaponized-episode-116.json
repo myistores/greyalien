@@ -78,7 +78,7 @@
     },
     {
       "type": "discussed_topic",
-      "target": "uap-transparency"
+      "target": "uap-disclosure"
     },
     {
       "type": "discussed_topic",
@@ -87,10 +87,6 @@
     {
       "type": "discussed_topic",
       "target": "congressional-oversight"
-    },
-    {
-      "type": "discussed_topic",
-      "target": "public-disclosure"
     },
     {
       "type": "presented_claim",

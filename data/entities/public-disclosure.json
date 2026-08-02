@@ -5,5 +5,10 @@
   "summary": "A knowledge-graph topic used to connect source-grounded WEAPONIZED reporting about public disclosure.",
   "relationships": [],
   "officialLinks": [],
-  "referenceSources": []
+  "referenceSources": [],
+  "taxonomyStatus": "alias",
+  "destinationPage": false,
+  "visibleInDirectory": false,
+  "redirectTo": "uap-disclosure",
+  "canonicalEntityId": "uap-disclosure"
 }

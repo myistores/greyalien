@@ -1,3 +1,10 @@
+# V23.5F — Topic Taxonomy Rationalization
+
+- Converted 14 approved Topics to supporting classifications.
+- Reclassified 10 approved Topic records using existing schema types and subtype metadata.
+- Consolidated four duplicate Topic clusters with canonical redirects and relationship migration.
+- Preserved all logical relationships and introduced no new relationships or schema changes.
+
 # V23.5C.2A.1 — 2026-07-29
 
 - Restored visible official podcast media actions across episode pages, series pages, the podcast directory, and the Somewhere in the Skies gateway.

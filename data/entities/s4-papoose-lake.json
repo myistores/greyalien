@@ -1,9 +1,14 @@
 {
   "id": "s4-papoose-lake",
-  "type": "topic",
+  "type": "case",
   "name": "S4 Papoose Lake",
   "summary": "A knowledge-graph entity referenced in the V19.4 WEAPONIZED production batch.",
   "relationships": [],
   "officialLinks": [],
-  "referenceSources": []
+  "referenceSources": [],
+  "entitySubtype": "location",
+  "taxonomyStatus": "canonical",
+  "destinationPage": true,
+  "visibleInDirectory": true,
+  "caseStatus": "Research destination"
 }

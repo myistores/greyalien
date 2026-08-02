@@ -1,6 +1,6 @@
 {
   "id": "trinity-ufo-case",
-  "type": "topic",
+  "type": "case",
   "name": "Trinity UFO Case",
   "summary": "Topic connected to WEAPONIZED Episodes #93–102: Trinity UFO Case.",
   "relationships": [],
@@ -12,5 +12,10 @@
       "sourceType": "official_episode_page",
       "role": "source"
     }
-  ]
+  ],
+  "entitySubtype": "historical_case",
+  "taxonomyStatus": "canonical",
+  "destinationPage": true,
+  "visibleInDirectory": true,
+  "caseStatus": "Research destination"
 }

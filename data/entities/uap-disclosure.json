@@ -18,5 +18,15 @@
       "sourceType": "official_audio_feed",
       "role": "source"
     }
+  ],
+  "taxonomyStatus": "canonical",
+  "isCanonical": true,
+  "aliases": [
+    "Government Disclosure",
+    "government-disclosure",
+    "Public Disclosure",
+    "public-disclosure",
+    "Uap Transparency",
+    "uap-transparency"
   ]
 }

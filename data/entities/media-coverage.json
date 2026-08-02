@@ -12,5 +12,9 @@
       "sourceType": "official_episode_page",
       "role": "source"
     }
-  ]
+  ],
+  "taxonomyStatus": "supporting_classification",
+  "destinationPage": false,
+  "visibleInDirectory": false,
+  "searchable": true
 }

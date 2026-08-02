@@ -6,12 +6,15 @@ ROOT=Path(__file__).resolve().parents[1]
 ENT=ROOT/'data/entities'; DATA=ROOT/'data'
 files=sorted(ENT.glob('*.json'))
 entities=[json.loads(p.read_text(encoding='utf-8')) for p in files]
+index_entities=[e for e in entities if e.get('taxonomyStatus') != 'alias']
 types=[]
-for e in entities:
+for e in index_entities:
     if e['type'] not in types: types.append(e['type'])
 index={'schemaVersion':2,'generatedBy':'tools/build_graph.py','entityTypes':types,'entities':[]}
-for e in sorted(entities,key=lambda x:(x['type'],x['name'].lower(),x['id'])):
+for e in sorted(index_entities,key=lambda x:(x['type'],x['name'].lower(),x['id'])):
     row={k:e[k] for k in ('id','type','name','summary')}
+    for k in ('destinationPage','visibleInDirectory','searchable','taxonomyStatus','entitySubtype'):
+        if k in e: row[k]=e[k]
     for k in ('date','dateDisplay','status'):
         if e.get(k): row[k]=e[k]
     index['entities'].append(row)
@@ -24,4 +27,4 @@ for e in entities:
 manifest={'schemaVersion':1,'entityCount':len(entities),'relationshipCount':sum(outgoing.values()),'unresolvedRelationshipCount':len(unresolved),'connectionCounts':{i:{'incoming':incoming[i],'outgoing':outgoing[i],'total':incoming[i]+outgoing[i]} for i in sorted(ids)},'unresolvedRelationships':unresolved}
 (DATA/'entity-index.json').write_text(json.dumps(index,indent=2,ensure_ascii=False)+'\n',encoding='utf-8')
 (DATA/'graph-manifest.json').write_text(json.dumps(manifest,indent=2,ensure_ascii=False)+'\n',encoding='utf-8')
-print(f"Built index for {len(entities)} entities and {sum(outgoing.values())} resolved relationships.")
+print(f"Built index for {len(index_entities)} searchable entities and {sum(outgoing.values())} resolved relationships.")

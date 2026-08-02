@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "entityCount": 1609,
-  "relationshipCount": 3532,
+  "relationshipCount": 3526,
   "unresolvedRelationshipCount": 56,
   "connectionCounts": {
     "1946-scandinavian-ghost-rockets": {
@@ -321,8 +321,8 @@
     },
     "2021-need-to-know-episode-2": {
       "incoming": 5,
-      "outgoing": 7,
-      "total": 12
+      "outgoing": 6,
+      "total": 11
     },
     "2021-need-to-know-episode-3": {
       "incoming": 5,
@@ -436,8 +436,8 @@
     },
     "2022-need-to-know-episode-6": {
       "incoming": 5,
-      "outgoing": 7,
-      "total": 12
+      "outgoing": 6,
+      "total": 11
     },
     "2022-need-to-know-episode-7": {
       "incoming": 5,
@@ -1526,13 +1526,13 @@
     },
     "2026-weaponized-episode-116": {
       "incoming": 7,
-      "outgoing": 18,
-      "total": 25
+      "outgoing": 17,
+      "total": 24
     },
     "2026-weaponized-episode-117": {
       "incoming": 6,
-      "outgoing": 15,
-      "total": 21
+      "outgoing": 14,
+      "total": 20
     },
     "2026-weaponized-episode-118": {
       "incoming": 6,
@@ -1541,13 +1541,13 @@
     },
     "2026-weaponized-episode-119": {
       "incoming": 6,
-      "outgoing": 17,
-      "total": 23
+      "outgoing": 16,
+      "total": 22
     },
     "2026-weaponized-episode-120": {
       "incoming": 7,
-      "outgoing": 14,
-      "total": 21
+      "outgoing": 13,
+      "total": 20
     },
     "60-minutes": {
       "incoming": 1,
@@ -5720,9 +5720,9 @@
       "total": 3
     },
     "disinformation": {
-      "incoming": 1,
+      "incoming": 0,
       "outgoing": 0,
-      "total": 1
+      "total": 0
     },
     "document-2002-10-16-wilson-davis-notes": {
       "incoming": 1,
@@ -5760,14 +5760,14 @@
       "total": 2
     },
     "eglin-air-force-base-uap": {
-      "incoming": 2,
+      "incoming": 0,
       "outgoing": 0,
-      "total": 2
+      "total": 0
     },
     "eglin-runway-uap-incident": {
-      "incoming": 1,
+      "incoming": 3,
       "outgoing": 0,
-      "total": 1
+      "total": 3
     },
     "emery-smith": {
       "incoming": 1,
@@ -6205,14 +6205,14 @@
       "total": 2
     },
     "kona-blue": {
-      "incoming": 1,
+      "incoming": 0,
       "outgoing": 0,
-      "total": 1
+      "total": 0
     },
     "kona-blue-program": {
-      "incoming": 1,
+      "incoming": 2,
       "outgoing": 2,
-      "total": 3
+      "total": 4
     },
     "larry-maguire": {
       "incoming": 1,
@@ -6405,14 +6405,14 @@
       "total": 1
     },
     "mystery-drone-incursions": {
-      "incoming": 3,
+      "incoming": 5,
       "outgoing": 1,
-      "total": 4
+      "total": 6
     },
     "mystery-drones": {
-      "incoming": 2,
+      "incoming": 0,
       "outgoing": 0,
-      "total": 2
+      "total": 0
     },
     "nasa": {
       "incoming": 8,
@@ -6535,9 +6535,9 @@
       "total": 3
     },
     "public-disclosure": {
-      "incoming": 8,
+      "incoming": 0,
       "outgoing": 0,
-      "total": 8
+      "total": 0
     },
     "publication-1965-anatomy-of-a-phenomenon": {
       "incoming": 1,
@@ -7805,9 +7805,9 @@
       "total": 1
     },
     "uap-disclosure": {
-      "incoming": 7,
+      "incoming": 29,
       "outgoing": 0,
-      "total": 7
+      "total": 29
     },
     "uap-disclosure-act-2023": {
       "incoming": 2,
@@ -7820,9 +7820,9 @@
       "total": 10
     },
     "uap-disinformation": {
-      "incoming": 3,
+      "incoming": 4,
       "outgoing": 0,
-      "total": 3
+      "total": 4
     },
     "uap-health-effects": {
       "incoming": 2,
@@ -7830,9 +7830,9 @@
       "total": 2
     },
     "uap-journalism": {
-      "incoming": 7,
+      "incoming": 8,
       "outgoing": 1,
-      "total": 8
+      "total": 9
     },
     "uap-register": {
       "incoming": 3,
@@ -7870,9 +7870,9 @@
       "total": 10
     },
     "uap-transparency": {
-      "incoming": 20,
+      "incoming": 0,
       "outgoing": 0,
-      "total": 20
+      "total": 0
     },
     "ufo-cryptid-connection": {
       "incoming": 1,
@@ -7885,9 +7885,9 @@
       "total": 10
     },
     "ufo-journalism": {
-      "incoming": 1,
+      "incoming": 0,
       "outgoing": 0,
-      "total": 1
+      "total": 0
     },
     "uk-military-airspace-incursions-2024": {
       "incoming": 1,

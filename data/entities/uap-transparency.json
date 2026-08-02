@@ -5,5 +5,10 @@
   "summary": "A knowledge-graph entity referenced in the V19.4 WEAPONIZED production batch.",
   "relationships": [],
   "officialLinks": [],
-  "referenceSources": []
+  "referenceSources": [],
+  "taxonomyStatus": "alias",
+  "destinationPage": false,
+  "visibleInDirectory": false,
+  "redirectTo": "uap-disclosure",
+  "canonicalEntityId": "uap-disclosure"
 }

@@ -18,5 +18,11 @@
       "sourceType": "official_audio_feed",
       "role": "source"
     }
-  ]
+  ],
+  "aliases": [
+    "Eglin Air Force Base UAP",
+    "eglin-air-force-base-uap"
+  ],
+  "entitySubtype": "historical_case",
+  "taxonomyStatus": "canonical"
 }

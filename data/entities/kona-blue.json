@@ -5,12 +5,10 @@
   "summary": "Topic connected to WEAPONIZED Episodes #93–102: Kona Blue.",
   "relationships": [],
   "officialLinks": [],
-  "referenceSources": [
-    {
-      "label": "Official WEAPONIZED source",
-      "url": "https://www.weaponizedpodcast.com/",
-      "sourceType": "official_episode_page",
-      "role": "source"
-    }
-  ]
+  "referenceSources": [],
+  "taxonomyStatus": "alias",
+  "destinationPage": false,
+  "visibleInDirectory": false,
+  "redirectTo": "kona-blue-program",
+  "canonicalEntityId": "kona-blue-program"
 }

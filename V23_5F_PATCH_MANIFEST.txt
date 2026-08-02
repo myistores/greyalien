@@ -1,0 +1,24 @@
+V23.5F PATCH MANIFEST
+
+Base: V23.5E.1
+Release: Topic Taxonomy Rationalization
+
+Primary implementation:
+- data/topic-taxonomy-v23-5f.json
+- tools/refactor_topic_taxonomy_v23_5f.py
+- tools/validate_v23_5f.py
+- tools/build_graph.py
+- tools/build_entity_pages.py
+- assets/js/entity-directory.js
+
+Reports:
+- reports/v23-5f/relationship-migration-summary.json
+- reports/v23-5f/validation-report.json
+- reports/v23-5f/V23_5F_VALIDATION_REPORT.md
+
+Generated outputs:
+- data/entity-index.json
+- data/graph-manifest.json
+- affected entity JSON records
+- affected generated entity pages and legacy redirects
+- sitemap.xml

@@ -22,6 +22,18 @@
       "url": "https://www.weaponizedpodcast.com/episodes-2/episode-53",
       "sourceType": "official_episode_page",
       "role": "source"
+    },
+    {
+      "label": "Official WEAPONIZED source",
+      "url": "https://www.weaponizedpodcast.com/",
+      "sourceType": "official_episode_page",
+      "role": "source"
     }
-  ]
+  ],
+  "aliases": [
+    "Kona Blue",
+    "kona-blue"
+  ],
+  "entitySubtype": "program",
+  "taxonomyStatus": "canonical"
 }

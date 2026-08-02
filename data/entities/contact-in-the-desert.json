@@ -1,9 +1,14 @@
 {
   "id": "contact-in-the-desert",
-  "type": "topic",
+  "type": "timeline_event",
   "name": "Contact in the Desert",
   "summary": "Large public conference focused on UFOs, anomalous phenomena, and related research.",
   "relationships": [],
   "officialLinks": [],
-  "referenceSources": []
+  "referenceSources": [],
+  "entitySubtype": "event",
+  "taxonomyStatus": "canonical",
+  "destinationPage": true,
+  "visibleInDirectory": true,
+  "eventCategory": "Public research event"
 }

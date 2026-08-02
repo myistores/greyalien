@@ -1,0 +1,455 @@
+{
+  "release": "V23.5F",
+  "baseRepository": "V23.5E.1",
+  "generatedAt": "2026-08-02T16:18:58.519876+00:00",
+  "supportingClassifications": [
+    {
+      "id": "awacs",
+      "name": "Awacs",
+      "relationshipsPreserved": 0
+    },
+    {
+      "id": "books-and-publications",
+      "name": "Books and Publications",
+      "relationshipsPreserved": 0
+    },
+    {
+      "id": "classification",
+      "name": "Classification",
+      "relationshipsPreserved": 0
+    },
+    {
+      "id": "film-and-television",
+      "name": "Film and Television",
+      "relationshipsPreserved": 0
+    },
+    {
+      "id": "instantaneous-acceleration",
+      "name": "Instantaneous Acceleration",
+      "relationshipsPreserved": 0
+    },
+    {
+      "id": "investigators-and-researchers",
+      "name": "Investigators and Researchers",
+      "relationshipsPreserved": 0
+    },
+    {
+      "id": "media-coverage",
+      "name": "Media Coverage",
+      "relationshipsPreserved": 0
+    },
+    {
+      "id": "military-pilot-uap-encounters",
+      "name": "Military Pilot Uap Encounters",
+      "relationshipsPreserved": 0
+    },
+    {
+      "id": "military-sensor-data",
+      "name": "Military Sensor Data",
+      "relationshipsPreserved": 0
+    },
+    {
+      "id": "research-integrity",
+      "name": "Research Integrity",
+      "relationshipsPreserved": 0
+    },
+    {
+      "id": "scientific-evidence",
+      "name": "Scientific Evidence",
+      "relationshipsPreserved": 0
+    },
+    {
+      "id": "signature-management",
+      "name": "Signature Management",
+      "relationshipsPreserved": 0
+    },
+    {
+      "id": "space-based-uap",
+      "name": "Space Based Uap",
+      "relationshipsPreserved": 0
+    },
+    {
+      "id": "witness-intimidation",
+      "name": "Witness Intimidation",
+      "relationshipsPreserved": 0
+    }
+  ],
+  "reclassifications": [
+    {
+      "sourceId": "kona-blue",
+      "targetId": "kona-blue-program",
+      "newType": "case",
+      "subtype": "program",
+      "reusedExistingDestination": true
+    },
+    {
+      "sourceId": "setka-program",
+      "targetId": "setka-program",
+      "oldType": "topic",
+      "newType": "organization",
+      "subtype": "program",
+      "identifierPreserved": true
+    },
+    {
+      "sourceId": "thread-3-program",
+      "targetId": "thread-3-program",
+      "oldType": "topic",
+      "newType": "organization",
+      "subtype": "program",
+      "identifierPreserved": true
+    },
+    {
+      "sourceId": "contact-in-the-desert",
+      "targetId": "contact-in-the-desert",
+      "oldType": "topic",
+      "newType": "timeline_event",
+      "subtype": "event",
+      "identifierPreserved": true
+    },
+    {
+      "sourceId": "national-space-symposium",
+      "targetId": "national-space-symposium",
+      "oldType": "topic",
+      "newType": "timeline_event",
+      "subtype": "event",
+      "identifierPreserved": true
+    },
+    {
+      "sourceId": "mcminnville-ufo-festival",
+      "targetId": "mcminnville-ufo-festival",
+      "oldType": "topic",
+      "newType": "timeline_event",
+      "subtype": "event",
+      "identifierPreserved": true
+    },
+    {
+      "sourceId": "trinity-ufo-case",
+      "targetId": "trinity-ufo-case",
+      "oldType": "topic",
+      "newType": "case",
+      "subtype": "historical_case",
+      "identifierPreserved": true
+    },
+    {
+      "sourceId": "eglin-air-force-base-uap",
+      "targetId": "eglin-runway-uap-incident",
+      "newType": "case",
+      "subtype": "historical_case",
+      "reusedExistingDestination": true
+    },
+    {
+      "sourceId": "s4-papoose-lake",
+      "targetId": "s4-papoose-lake",
+      "oldType": "topic",
+      "newType": "case",
+      "subtype": "location",
+      "identifierPreserved": true
+    },
+    {
+      "sourceId": "immaculate-constellation",
+      "targetId": "immaculate-constellation",
+      "oldType": "topic",
+      "newType": "organization",
+      "subtype": "alleged_program",
+      "identifierPreserved": true
+    }
+  ],
+  "consolidations": [
+    {
+      "canonicalId": "uap-disclosure",
+      "canonicalName": "UAP Disclosure",
+      "aliases": [
+        "government-disclosure",
+        "public-disclosure",
+        "uap-transparency"
+      ]
+    },
+    {
+      "canonicalId": "uap-journalism",
+      "canonicalName": "UAP Journalism",
+      "aliases": [
+        "ufo-journalism"
+      ]
+    },
+    {
+      "canonicalId": "mystery-drone-incursions",
+      "canonicalName": "Mystery Drone Incursions",
+      "aliases": [
+        "mystery-drones"
+      ]
+    },
+    {
+      "canonicalId": "uap-disinformation",
+      "canonicalName": "UAP Disinformation",
+      "aliases": [
+        "disinformation"
+      ]
+    }
+  ],
+  "relationshipMigrations": [
+    {
+      "sourceEntity": "2025-weaponized-episode-96",
+      "oldTarget": "kona-blue",
+      "newTarget": "kona-blue-program",
+      "relationshipType": "discussed_topic"
+    },
+    {
+      "sourceEntity": "2025-weaponized-episode-93",
+      "oldTarget": "eglin-air-force-base-uap",
+      "newTarget": "eglin-runway-uap-incident",
+      "relationshipType": "discussed_topic"
+    },
+    {
+      "sourceEntity": "2025-weaponized-episode-92",
+      "oldTarget": "eglin-air-force-base-uap",
+      "newTarget": "eglin-runway-uap-incident",
+      "relationshipType": "discussed_topic"
+    },
+    {
+      "sourceEntity": "2026-weaponized-episode-117",
+      "oldTarget": "public-disclosure",
+      "newTarget": "uap-disclosure",
+      "relationshipType": "discussed_topic"
+    },
+    {
+      "sourceEntity": "2026-weaponized-episode-120",
+      "oldTarget": "public-disclosure",
+      "newTarget": "uap-disclosure",
+      "relationshipType": "discussed_topic"
+    },
+    {
+      "sourceEntity": "2021-need-to-know-episode-2",
+      "oldTarget": "public-disclosure",
+      "newTarget": "uap-disclosure",
+      "relationshipType": "discussed_topic"
+    },
+    {
+      "sourceEntity": "2026-weaponized-episode-114",
+      "oldTarget": "public-disclosure",
+      "newTarget": "uap-disclosure",
+      "relationshipType": "discussed_topic"
+    },
+    {
+      "sourceEntity": "2026-weaponized-episode-119",
+      "oldTarget": "public-disclosure",
+      "newTarget": "uap-disclosure",
+      "relationshipType": "discussed_topic"
+    },
+    {
+      "sourceEntity": "2022-need-to-know-episode-12",
+      "oldTarget": "public-disclosure",
+      "newTarget": "uap-disclosure",
+      "relationshipType": "discussed_topic"
+    },
+    {
+      "sourceEntity": "2022-need-to-know-episode-6",
+      "oldTarget": "public-disclosure",
+      "newTarget": "uap-disclosure",
+      "relationshipType": "discussed_topic"
+    },
+    {
+      "sourceEntity": "2026-weaponized-episode-116",
+      "oldTarget": "public-disclosure",
+      "newTarget": "uap-disclosure",
+      "relationshipType": "discussed_topic"
+    },
+    {
+      "sourceEntity": "2026-weaponized-episode-117",
+      "oldTarget": "uap-transparency",
+      "newTarget": "uap-disclosure",
+      "relationshipType": "discussed_topic"
+    },
+    {
+      "sourceEntity": "2026-weaponized-episode-105",
+      "oldTarget": "uap-transparency",
+      "newTarget": "uap-disclosure",
+      "relationshipType": "discussed_topic"
+    },
+    {
+      "sourceEntity": "2023-weaponized-episode-4",
+      "oldTarget": "uap-transparency",
+      "newTarget": "uap-disclosure",
+      "relationshipType": "discussed_topic"
+    },
+    {
+      "sourceEntity": "2026-weaponized-episode-118",
+      "oldTarget": "uap-transparency",
+      "newTarget": "uap-disclosure",
+      "relationshipType": "discussed_topic"
+    },
+    {
+      "sourceEntity": "2026-weaponized-episode-103",
+      "oldTarget": "uap-transparency",
+      "newTarget": "uap-disclosure",
+      "relationshipType": "discussed_topic"
+    },
+    {
+      "sourceEntity": "2022-need-to-know-episode-16",
+      "oldTarget": "uap-transparency",
+      "newTarget": "uap-disclosure",
+      "relationshipType": "discussed_topic"
+    },
+    {
+      "sourceEntity": "2023-merged-episode-17",
+      "oldTarget": "uap-transparency",
+      "newTarget": "uap-disclosure",
+      "relationshipType": "discussed_topic"
+    },
+    {
+      "sourceEntity": "2026-weaponized-episode-120",
+      "oldTarget": "uap-transparency",
+      "newTarget": "uap-disclosure",
+      "relationshipType": "discussed_topic"
+    },
+    {
+      "sourceEntity": "2022-need-to-know-episode-7",
+      "oldTarget": "uap-transparency",
+      "newTarget": "uap-disclosure",
+      "relationshipType": "discussed_topic"
+    },
+    {
+      "sourceEntity": "2026-weaponized-episode-112",
+      "oldTarget": "uap-transparency",
+      "newTarget": "uap-disclosure",
+      "relationshipType": "discussed_topic"
+    },
+    {
+      "sourceEntity": "2021-need-to-know-episode-2",
+      "oldTarget": "uap-transparency",
+      "newTarget": "uap-disclosure",
+      "relationshipType": "discussed_topic"
+    },
+    {
+      "sourceEntity": "2023-weaponized-episode-1",
+      "oldTarget": "uap-transparency",
+      "newTarget": "uap-disclosure",
+      "relationshipType": "discussed_topic"
+    },
+    {
+      "sourceEntity": "2022-need-to-know-episode-18",
+      "oldTarget": "uap-transparency",
+      "newTarget": "uap-disclosure",
+      "relationshipType": "discussed_topic"
+    },
+    {
+      "sourceEntity": "2026-weaponized-episode-119",
+      "oldTarget": "uap-transparency",
+      "newTarget": "uap-disclosure",
+      "relationshipType": "discussed_topic"
+    },
+    {
+      "sourceEntity": "2026-weaponized-episode-109",
+      "oldTarget": "uap-transparency",
+      "newTarget": "uap-disclosure",
+      "relationshipType": "discussed_topic"
+    },
+    {
+      "sourceEntity": "2022-need-to-know-episode-6",
+      "oldTarget": "uap-transparency",
+      "newTarget": "uap-disclosure",
+      "relationshipType": "discussed_topic"
+    },
+    {
+      "sourceEntity": "2026-weaponized-episode-113",
+      "oldTarget": "uap-transparency",
+      "newTarget": "uap-disclosure",
+      "relationshipType": "discussed_topic"
+    },
+    {
+      "sourceEntity": "2026-weaponized-episode-110",
+      "oldTarget": "uap-transparency",
+      "newTarget": "uap-disclosure",
+      "relationshipType": "discussed_topic"
+    },
+    {
+      "sourceEntity": "2021-need-to-know-episode-1",
+      "oldTarget": "uap-transparency",
+      "newTarget": "uap-disclosure",
+      "relationshipType": "discussed_topic"
+    },
+    {
+      "sourceEntity": "2026-weaponized-episode-116",
+      "oldTarget": "uap-transparency",
+      "newTarget": "uap-disclosure",
+      "relationshipType": "discussed_topic"
+    },
+    {
+      "sourceEntity": "2026-weaponized-episode-117",
+      "oldTarget": "ufo-journalism",
+      "newTarget": "uap-journalism",
+      "relationshipType": "discussed_topic"
+    },
+    {
+      "sourceEntity": "2026-weaponized-episode-103",
+      "oldTarget": "mystery-drones",
+      "newTarget": "mystery-drone-incursions",
+      "relationshipType": "discussed_topic"
+    },
+    {
+      "sourceEntity": "2025-weaponized-episode-93",
+      "oldTarget": "mystery-drones",
+      "newTarget": "mystery-drone-incursions",
+      "relationshipType": "discussed_topic"
+    },
+    {
+      "sourceEntity": "2025-weaponized-episode-95",
+      "oldTarget": "disinformation",
+      "newTarget": "uap-disinformation",
+      "relationshipType": "discussed_topic"
+    }
+  ],
+  "aliases": [
+    {
+      "aliasId": "kona-blue",
+      "canonicalId": "kona-blue-program",
+      "reason": "approved reclassification into existing destination",
+      "incomingRelationshipsMigrated": 1
+    },
+    {
+      "aliasId": "eglin-air-force-base-uap",
+      "canonicalId": "eglin-runway-uap-incident",
+      "reason": "approved reclassification into existing destination",
+      "incomingRelationshipsMigrated": 2
+    },
+    {
+      "aliasId": "government-disclosure",
+      "canonicalId": "uap-disclosure",
+      "reason": "approved duplicate-topic consolidation",
+      "incomingRelationshipsMigrated": 0
+    },
+    {
+      "aliasId": "public-disclosure",
+      "canonicalId": "uap-disclosure",
+      "reason": "approved duplicate-topic consolidation",
+      "incomingRelationshipsMigrated": 8
+    },
+    {
+      "aliasId": "uap-transparency",
+      "canonicalId": "uap-disclosure",
+      "reason": "approved duplicate-topic consolidation",
+      "incomingRelationshipsMigrated": 20
+    },
+    {
+      "aliasId": "ufo-journalism",
+      "canonicalId": "uap-journalism",
+      "reason": "approved duplicate-topic consolidation",
+      "incomingRelationshipsMigrated": 1
+    },
+    {
+      "aliasId": "mystery-drones",
+      "canonicalId": "mystery-drone-incursions",
+      "reason": "approved duplicate-topic consolidation",
+      "incomingRelationshipsMigrated": 2
+    },
+    {
+      "aliasId": "disinformation",
+      "canonicalId": "uap-disinformation",
+      "reason": "approved duplicate-topic consolidation",
+      "incomingRelationshipsMigrated": 1
+    }
+  ],
+  "beforeEntityCount": 1609,
+  "afterEntityCount": 1609,
+  "beforeRelationshipCount": 3588,
+  "afterRelationshipCount": 3582
+}

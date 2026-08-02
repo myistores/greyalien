@@ -1,9 +1,14 @@
 {
   "id": "mcminnville-ufo-festival",
-  "type": "topic",
+  "type": "timeline_event",
   "name": "McMinnville UFO Festival",
   "summary": "Annual Oregon gathering focused on UFO history, witnesses, researchers, and public discussion.",
   "relationships": [],
   "officialLinks": [],
-  "referenceSources": []
+  "referenceSources": [],
+  "entitySubtype": "event",
+  "taxonomyStatus": "canonical",
+  "destinationPage": true,
+  "visibleInDirectory": true,
+  "eventCategory": "Public research event"
 }

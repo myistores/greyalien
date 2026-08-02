@@ -79,11 +79,7 @@
     },
     {
       "type": "discussed_topic",
-      "target": "uap-transparency"
-    },
-    {
-      "type": "discussed_topic",
-      "target": "public-disclosure"
+      "target": "uap-disclosure"
     },
     {
       "type": "presented_claim",

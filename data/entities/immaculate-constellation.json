@@ -1,6 +1,6 @@
 {
   "id": "immaculate-constellation",
-  "type": "topic",
+  "type": "organization",
   "name": "Immaculate Constellation",
   "summary": "Name associated with allegations of a highly compartmentalized U.S. government UAP collection and intelligence program. The program's alleged scope and existence remain subjects of public claims and congressional interest.",
   "relationships": [
@@ -14,5 +14,10 @@
     }
   ],
   "officialLinks": [],
-  "referenceSources": []
+  "referenceSources": [],
+  "entitySubtype": "alleged_program",
+  "taxonomyStatus": "canonical",
+  "destinationPage": true,
+  "visibleInDirectory": true,
+  "organizationPurpose": "Name associated with allegations of a highly compartmentalized U.S. government UAP collection and intelligence program. The program's alleged scope and existence remain subjects of public claims and congressional interest."
 }

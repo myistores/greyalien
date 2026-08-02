@@ -5,18 +5,10 @@
   "summary": "Reported UAP incidents associated with Eglin Air Force Base.",
   "relationships": [],
   "officialLinks": [],
-  "referenceSources": [
-    {
-      "label": "Official WEAPONIZED Episode #92 page",
-      "url": "https://www.weaponizedpodcast.com/episodes-3/episode-92",
-      "sourceType": "official_episode_page",
-      "role": "source"
-    },
-    {
-      "label": "Listen to WEAPONIZED",
-      "url": "https://link.chtbl.com/Weaponized",
-      "sourceType": "official_audio_feed",
-      "role": "source"
-    }
-  ]
+  "referenceSources": [],
+  "taxonomyStatus": "alias",
+  "destinationPage": false,
+  "visibleInDirectory": false,
+  "redirectTo": "eglin-runway-uap-incident",
+  "canonicalEntityId": "eglin-runway-uap-incident"
 }

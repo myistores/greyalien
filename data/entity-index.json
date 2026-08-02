@@ -176,13 +176,17 @@
       "id": "eglin-runway-uap-incident",
       "type": "case",
       "name": "Eglin Runway UAP Incident",
-      "summary": "A military veteran’s account of a large craft hovering above a runway at Eglin Air Force Base."
+      "summary": "A military veteran’s account of a large craft hovering above a runway at Eglin Air Force Base.",
+      "taxonomyStatus": "canonical",
+      "entitySubtype": "historical_case"
     },
     {
       "id": "kona-blue-program",
       "type": "case",
       "name": "Kona Blue Proposed UAP Program",
-      "summary": "A proposed Department of Homeland Security program related to UAP investigation whose history and public characterization are reviewed in Episode #53."
+      "summary": "A proposed Department of Homeland Security program related to UAP investigation whose history and public characterization are reviewed in Episode #53.",
+      "taxonomyStatus": "canonical",
+      "entitySubtype": "program"
     },
     {
       "id": "2025-large-disc-uap-video",
@@ -229,6 +233,16 @@
       "summary": "The 1947 recovery of debris near Roswell, New Mexico, and the later claims and disputes surrounding its origin."
     },
     {
+      "id": "s4-papoose-lake",
+      "type": "case",
+      "name": "S4 Papoose Lake",
+      "summary": "A knowledge-graph entity referenced in the V19.4 WEAPONIZED production batch.",
+      "destinationPage": true,
+      "visibleInDirectory": true,
+      "taxonomyStatus": "canonical",
+      "entitySubtype": "location"
+    },
+    {
       "id": "2025-house-uap-hearing",
       "type": "case",
       "name": "September 2025 House UAP Hearing",
@@ -259,6 +273,16 @@
       "type": "case",
       "name": "Syria Uap 2021",
       "summary": "A knowledge-graph entity referenced in the V19.4 WEAPONIZED production batch."
+    },
+    {
+      "id": "trinity-ufo-case",
+      "type": "case",
+      "name": "Trinity UFO Case",
+      "summary": "Topic connected to WEAPONIZED Episodes #93–102: Trinity UFO Case.",
+      "destinationPage": true,
+      "visibleInDirectory": true,
+      "taxonomyStatus": "canonical",
+      "entitySubtype": "historical_case"
     },
     {
       "id": "twentynine-palms-triangle-incident",
@@ -5304,6 +5328,16 @@
       "summary": "Scientific neutrino observatory located at the geographic South Pole."
     },
     {
+      "id": "immaculate-constellation",
+      "type": "organization",
+      "name": "Immaculate Constellation",
+      "summary": "Name associated with allegations of a highly compartmentalized U.S. government UAP collection and intelligence program. The program's alleged scope and existence remain subjects of public claims and congressional interest.",
+      "destinationPage": true,
+      "visibleInDirectory": true,
+      "taxonomyStatus": "canonical",
+      "entitySubtype": "alleged_program"
+    },
+    {
       "id": "intelligence-community-inspector-general",
       "type": "organization",
       "name": "Intelligence Community Inspector General",
@@ -5424,6 +5458,16 @@
       "summary": "U.S. Senate committee responsible for intelligence-community oversight."
     },
     {
+      "id": "setka-program",
+      "type": "organization",
+      "name": "Setka Program",
+      "summary": "A knowledge-graph entity referenced in the V19.4 WEAPONIZED production batch.",
+      "destinationPage": true,
+      "visibleInDirectory": true,
+      "taxonomyStatus": "canonical",
+      "entitySubtype": "program"
+    },
+    {
       "id": "soviet-armed-forces",
       "type": "organization",
       "name": "Soviet Armed Forces",
@@ -5464,6 +5508,16 @@
       "type": "organization",
       "name": "The Wall Street Journal",
       "summary": "U.S. newspaper discussed in Episode #70 in connection with commentary about The Age of Disclosure."
+    },
+    {
+      "id": "thread-3-program",
+      "type": "organization",
+      "name": "Thread 3 Program",
+      "summary": "A knowledge-graph entity referenced in the V19.4 WEAPONIZED production batch.",
+      "destinationPage": true,
+      "visibleInDirectory": true,
+      "taxonomyStatus": "canonical",
+      "entitySubtype": "program"
     },
     {
       "id": "to-the-stars-academy",
@@ -9030,6 +9084,16 @@
       "dateDisplay": "June 25, 2021"
     },
     {
+      "id": "contact-in-the-desert",
+      "type": "timeline_event",
+      "name": "Contact in the Desert",
+      "summary": "Large public conference focused on UFOs, anomalous phenomena, and related research.",
+      "destinationPage": true,
+      "visibleInDirectory": true,
+      "taxonomyStatus": "canonical",
+      "entitySubtype": "event"
+    },
+    {
       "id": "timeline-2024-01-08-jellyfish-uap-reporting",
       "type": "timeline_event",
       "name": "Corbell and Knapp Publish the Jellyfish UAP Footage",
@@ -9132,6 +9196,16 @@
       "dateDisplay": "October 2017"
     },
     {
+      "id": "mcminnville-ufo-festival",
+      "type": "timeline_event",
+      "name": "McMinnville UFO Festival",
+      "summary": "Annual Oregon gathering focused on UFO history, witnesses, researchers, and public discussion.",
+      "destinationPage": true,
+      "visibleInDirectory": true,
+      "taxonomyStatus": "canonical",
+      "entitySubtype": "event"
+    },
+    {
       "id": "timeline-2023-01-10-merged-episode-1",
       "type": "timeline_event",
       "name": "MERGED publishes Episode #1 with Dr. Garry Nolan",
@@ -9146,6 +9220,16 @@
       "summary": "NASA held a public meeting of its UAP Independent Study Team on May 31, 2023.",
       "date": "2023-05-31",
       "dateDisplay": "May 31, 2023"
+    },
+    {
+      "id": "national-space-symposium",
+      "type": "timeline_event",
+      "name": "National Space Symposium",
+      "summary": "Annual gathering of space-sector, defense, military, intelligence, technology, and scientific leaders.",
+      "destinationPage": true,
+      "visibleInDirectory": true,
+      "taxonomyStatus": "canonical",
+      "entitySubtype": "event"
     },
     {
       "id": "timeline-2021-12-16-need-to-know-episode-1",
@@ -10445,19 +10529,31 @@
       "id": "awacs",
       "type": "topic",
       "name": "Awacs",
-      "summary": "A knowledge-graph entity referenced in the V19.4 WEAPONIZED production batch."
+      "summary": "A knowledge-graph entity referenced in the V19.4 WEAPONIZED production batch.",
+      "destinationPage": false,
+      "visibleInDirectory": false,
+      "searchable": true,
+      "taxonomyStatus": "supporting_classification"
     },
     {
       "id": "books-and-publications",
       "type": "topic",
       "name": "Books and Publications",
-      "summary": "Books, comics, and published research."
+      "summary": "Books, comics, and published research.",
+      "destinationPage": false,
+      "visibleInDirectory": false,
+      "searchable": true,
+      "taxonomyStatus": "supporting_classification"
     },
     {
       "id": "classification",
       "type": "topic",
       "name": "Classification",
-      "summary": "Rules and practices governing access to sensitive government information"
+      "summary": "Rules and practices governing access to sensitive government information",
+      "destinationPage": false,
+      "visibleInDirectory": false,
+      "searchable": true,
+      "taxonomyStatus": "supporting_classification"
     },
     {
       "id": "classified-programs",
@@ -10484,12 +10580,6 @@
       "summary": "Consciousness and anomalous cognition."
     },
     {
-      "id": "contact-in-the-desert",
-      "type": "topic",
-      "name": "Contact in the Desert",
-      "summary": "Large public conference focused on UFOs, anomalous phenomena, and related research."
-    },
-    {
       "id": "counterintelligence",
       "type": "topic",
       "name": "Counterintelligence",
@@ -10508,18 +10598,6 @@
       "summary": "Research and reporting concerning crop formations, their origins, and government or media investigations."
     },
     {
-      "id": "disinformation",
-      "type": "topic",
-      "name": "Disinformation",
-      "summary": "Topic connected to WEAPONIZED Episodes #93–102: Disinformation."
-    },
-    {
-      "id": "eglin-air-force-base-uap",
-      "type": "topic",
-      "name": "Eglin Air Force Base UAP",
-      "summary": "Reported UAP incidents associated with Eglin Air Force Base."
-    },
-    {
       "id": "extraterrestrial-hypothesis",
       "type": "topic",
       "name": "Extraterrestrial Hypothesis",
@@ -10529,19 +10607,17 @@
       "id": "film-and-television",
       "type": "topic",
       "name": "Film and Television",
-      "summary": "Film and television works connected to anomalous subjects."
+      "summary": "Film and television works connected to anomalous subjects.",
+      "destinationPage": false,
+      "visibleInDirectory": false,
+      "searchable": true,
+      "taxonomyStatus": "supporting_classification"
     },
     {
       "id": "five-observables",
       "type": "topic",
       "name": "Five Observables",
       "summary": "A knowledge-graph entity referenced in the V19.4 WEAPONIZED production batch."
-    },
-    {
-      "id": "government-disclosure",
-      "type": "topic",
-      "name": "Government Disclosure",
-      "summary": "Government transparency, secrecy, and disclosure."
     },
     {
       "id": "government-transparency",
@@ -10580,40 +10656,30 @@
       "summary": "Research into reported direct human encounters with anomalous or non-human phenomena."
     },
     {
-      "id": "immaculate-constellation",
-      "type": "topic",
-      "name": "Immaculate Constellation",
-      "summary": "Name associated with allegations of a highly compartmentalized U.S. government UAP collection and intelligence program. The program's alleged scope and existence remain subjects of public claims and congressional interest."
-    },
-    {
       "id": "instantaneous-acceleration",
       "type": "topic",
       "name": "Instantaneous Acceleration",
-      "summary": "A knowledge-graph entity referenced in the V19.4 WEAPONIZED production batch."
+      "summary": "A knowledge-graph entity referenced in the V19.4 WEAPONIZED production batch.",
+      "destinationPage": false,
+      "visibleInDirectory": false,
+      "searchable": true,
+      "taxonomyStatus": "supporting_classification"
     },
     {
       "id": "investigators-and-researchers",
       "type": "topic",
       "name": "Investigators and Researchers",
-      "summary": "Researchers, investigators, and their work."
-    },
-    {
-      "id": "kona-blue",
-      "type": "topic",
-      "name": "Kona Blue",
-      "summary": "Topic connected to WEAPONIZED Episodes #93–102: Kona Blue."
+      "summary": "Researchers, investigators, and their work.",
+      "destinationPage": false,
+      "visibleInDirectory": false,
+      "searchable": true,
+      "taxonomyStatus": "supporting_classification"
     },
     {
       "id": "legacy-uap-programs",
       "type": "topic",
       "name": "Legacy UAP Programs",
       "summary": "Alleged long-running classified programs involving UAP collection, exploitation, or reverse engineering."
-    },
-    {
-      "id": "mcminnville-ufo-festival",
-      "type": "topic",
-      "name": "McMinnville UFO Festival",
-      "summary": "Annual Oregon gathering focused on UFO history, witnesses, researchers, and public discussion."
     },
     {
       "id": "media-and-popular-culture",
@@ -10625,7 +10691,11 @@
       "id": "media-coverage",
       "type": "topic",
       "name": "Media Coverage",
-      "summary": "Topic connected to WEAPONIZED Episodes #93–102: Media Coverage."
+      "summary": "Topic connected to WEAPONIZED Episodes #93–102: Media Coverage.",
+      "destinationPage": false,
+      "visibleInDirectory": false,
+      "searchable": true,
+      "taxonomyStatus": "supporting_classification"
     },
     {
       "id": "military-aviation-encounters",
@@ -10637,7 +10707,11 @@
       "id": "military-pilot-uap-encounters",
       "type": "topic",
       "name": "Military Pilot Uap Encounters",
-      "summary": "A knowledge-graph entity referenced in the V19.4 WEAPONIZED production batch."
+      "summary": "A knowledge-graph entity referenced in the V19.4 WEAPONIZED production batch.",
+      "destinationPage": false,
+      "visibleInDirectory": false,
+      "searchable": true,
+      "taxonomyStatus": "supporting_classification"
     },
     {
       "id": "military-secrecy",
@@ -10649,7 +10723,11 @@
       "id": "military-sensor-data",
       "type": "topic",
       "name": "Military Sensor Data",
-      "summary": "A knowledge-graph entity referenced in the V19.4 WEAPONIZED production batch."
+      "summary": "A knowledge-graph entity referenced in the V19.4 WEAPONIZED production batch.",
+      "destinationPage": false,
+      "visibleInDirectory": false,
+      "searchable": true,
+      "taxonomyStatus": "supporting_classification"
     },
     {
       "id": "military-uap-witnesses",
@@ -10667,25 +10745,14 @@
       "id": "mystery-drone-incursions",
       "type": "topic",
       "name": "Mystery Drone Incursions",
-      "summary": "Unresolved reports of recurring unidentified drone-like objects near communities and restricted military airspace."
-    },
-    {
-      "id": "mystery-drones",
-      "type": "topic",
-      "name": "Mystery Drones",
-      "summary": "Topic connected to WEAPONIZED Episodes #93–102: Mystery Drones."
+      "summary": "Unresolved reports of recurring unidentified drone-like objects near communities and restricted military airspace.",
+      "taxonomyStatus": "canonical"
     },
     {
       "id": "national-security-secrecy",
       "type": "topic",
       "name": "National Security Secrecy",
       "summary": "Legal and institutional controls governing classified national-security information."
-    },
-    {
-      "id": "national-space-symposium",
-      "type": "topic",
-      "name": "National Space Symposium",
-      "summary": "Annual gathering of space-sector, defense, military, intelligence, technology, and scientific leaders."
     },
     {
       "id": "non-human-intelligence",
@@ -10700,28 +10767,20 @@
       "summary": "A knowledge-graph topic used to connect source-grounded WEAPONIZED reporting about paranormal phenomena."
     },
     {
-      "id": "public-disclosure",
-      "type": "topic",
-      "name": "Public Disclosure",
-      "summary": "A knowledge-graph topic used to connect source-grounded WEAPONIZED reporting about public disclosure."
-    },
-    {
       "id": "research-integrity",
       "type": "topic",
       "name": "Research Integrity",
-      "summary": "A knowledge-graph entity referenced in the V19.4 WEAPONIZED production batch."
+      "summary": "A knowledge-graph entity referenced in the V19.4 WEAPONIZED production batch.",
+      "destinationPage": false,
+      "visibleInDirectory": false,
+      "searchable": true,
+      "taxonomyStatus": "supporting_classification"
     },
     {
       "id": "reverse-engineering",
       "type": "topic",
       "name": "Reverse Engineering",
       "summary": "Efforts to understand and reproduce technologies by studying recovered systems or materials."
-    },
-    {
-      "id": "s4-papoose-lake",
-      "type": "topic",
-      "name": "S4 Papoose Lake",
-      "summary": "A knowledge-graph entity referenced in the V19.4 WEAPONIZED production batch."
     },
     {
       "id": "sasquatch",
@@ -10733,7 +10792,11 @@
       "id": "scientific-evidence",
       "type": "topic",
       "name": "Scientific Evidence",
-      "summary": "A knowledge-graph entity referenced in the V19.4 WEAPONIZED production batch."
+      "summary": "A knowledge-graph entity referenced in the V19.4 WEAPONIZED production batch.",
+      "destinationPage": false,
+      "visibleInDirectory": false,
+      "searchable": true,
+      "taxonomyStatus": "supporting_classification"
     },
     {
       "id": "scientific-investigation",
@@ -10748,16 +10811,14 @@
       "summary": "Alleged use of security-clearance processes to pressure, silence, or punish personnel."
     },
     {
-      "id": "setka-program",
-      "type": "topic",
-      "name": "Setka Program",
-      "summary": "A knowledge-graph entity referenced in the V19.4 WEAPONIZED production batch."
-    },
-    {
       "id": "signature-management",
       "type": "topic",
       "name": "Signature Management",
-      "summary": "A knowledge-graph entity referenced in the V19.4 WEAPONIZED production batch."
+      "summary": "A knowledge-graph entity referenced in the V19.4 WEAPONIZED production batch.",
+      "destinationPage": false,
+      "visibleInDirectory": false,
+      "searchable": true,
+      "taxonomyStatus": "supporting_classification"
     },
     {
       "id": "soviet-ufo-programs",
@@ -10769,19 +10830,17 @@
       "id": "space-based-uap",
       "type": "topic",
       "name": "Space Based Uap",
-      "summary": "A knowledge-graph entity referenced in the V19.4 WEAPONIZED production batch."
+      "summary": "A knowledge-graph entity referenced in the V19.4 WEAPONIZED production batch.",
+      "destinationPage": false,
+      "visibleInDirectory": false,
+      "searchable": true,
+      "taxonomyStatus": "supporting_classification"
     },
     {
       "id": "space-exploration",
       "type": "topic",
       "name": "Space Exploration",
       "summary": "A knowledge-graph topic used to connect source-grounded WEAPONIZED reporting about space exploration."
-    },
-    {
-      "id": "thread-3-program",
-      "type": "topic",
-      "name": "Thread 3 Program",
-      "summary": "A knowledge-graph entity referenced in the V19.4 WEAPONIZED production batch."
     },
     {
       "id": "tic-tac-uap",
@@ -10796,12 +10855,6 @@
       "summary": "Reports of unidentified objects appearing to move between air and water without an obvious transition or loss of performance."
     },
     {
-      "id": "trinity-ufo-case",
-      "type": "topic",
-      "name": "Trinity UFO Case",
-      "summary": "Topic connected to WEAPONIZED Episodes #93–102: Trinity UFO Case."
-    },
-    {
       "id": "uap-data-release",
       "type": "topic",
       "name": "UAP Data Release",
@@ -10811,7 +10864,8 @@
       "id": "uap-disclosure",
       "type": "topic",
       "name": "UAP Disclosure",
-      "summary": "Public release and official acknowledgment of information concerning unidentified anomalous phenomena."
+      "summary": "Public release and official acknowledgment of information concerning unidentified anomalous phenomena.",
+      "taxonomyStatus": "canonical"
     },
     {
       "id": "uap-disclosure-legislation",
@@ -10823,7 +10877,8 @@
       "id": "uap-disinformation",
       "type": "topic",
       "name": "UAP Disinformation",
-      "summary": "Claims, messaging, and information campaigns that may distort public understanding of UAP."
+      "summary": "Claims, messaging, and information campaigns that may distort public understanding of UAP.",
+      "taxonomyStatus": "canonical"
     },
     {
       "id": "uap-health-effects",
@@ -10841,7 +10896,8 @@
       "id": "uap-journalism",
       "type": "topic",
       "name": "UAP Journalism",
-      "summary": "Journalistic investigation, sourcing, editorial review, and public communication concerning UAP."
+      "summary": "Journalistic investigation, sourcing, editorial review, and public communication concerning UAP.",
+      "taxonomyStatus": "canonical"
     },
     {
       "id": "uap-reporting-systems",
@@ -10868,22 +10924,10 @@
       "summary": "A knowledge-graph entity referenced in the V19.4 WEAPONIZED production batch."
     },
     {
-      "id": "uap-transparency",
-      "type": "topic",
-      "name": "Uap Transparency",
-      "summary": "A knowledge-graph entity referenced in the V19.4 WEAPONIZED production batch."
-    },
-    {
       "id": "ufo-history",
       "type": "topic",
       "name": "UFO History",
       "summary": "History and historiography of UFO research."
-    },
-    {
-      "id": "ufo-journalism",
-      "type": "topic",
-      "name": "UFO Journalism",
-      "summary": "A knowledge-graph topic used to connect source-grounded WEAPONIZED reporting about ufo journalism."
     },
     {
       "id": "ufo-cryptid-connection",
@@ -10919,7 +10963,11 @@
       "id": "witness-intimidation",
       "type": "topic",
       "name": "Witness Intimidation",
-      "summary": "A knowledge-graph entity referenced in the V19.4 WEAPONIZED production batch."
+      "summary": "A knowledge-graph entity referenced in the V19.4 WEAPONIZED production batch.",
+      "destinationPage": false,
+      "visibleInDirectory": false,
+      "searchable": true,
+      "taxonomyStatus": "supporting_classification"
     }
   ]
 }

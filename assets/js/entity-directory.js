@@ -109,7 +109,7 @@
       const response = await fetch("../data/entity-index.json");
       if(!response.ok) throw new Error(`Entity index request failed (${response.status})`);
       const index = await response.json();
-      const entities = Array.isArray(index.entities) ? index.entities : [];
+      const entities = Array.isArray(index.entities) ? index.entities.filter(entity => entity.visibleInDirectory !== false && entity.destinationPage !== false) : [];
       const grouped = Object.fromEntries(order.map(type => [type, []]));
 
       for(const entity of entities){

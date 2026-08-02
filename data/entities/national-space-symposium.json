@@ -1,9 +1,14 @@
 {
   "id": "national-space-symposium",
-  "type": "topic",
+  "type": "timeline_event",
   "name": "National Space Symposium",
   "summary": "Annual gathering of space-sector, defense, military, intelligence, technology, and scientific leaders.",
   "relationships": [],
   "officialLinks": [],
-  "referenceSources": []
+  "referenceSources": [],
+  "entitySubtype": "event",
+  "taxonomyStatus": "canonical",
+  "destinationPage": true,
+  "visibleInDirectory": true,
+  "eventCategory": "Public research event"
 }
