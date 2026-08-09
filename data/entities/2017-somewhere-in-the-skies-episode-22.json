@@ -59,6 +59,20 @@
   ],
   "mediaLinks": [
     {
+      "label": "Watch on YouTube",
+      "url": "https://www.youtube.com/watch?v=ZBikbTuq6N0",
+      "platform": "YouTube",
+      "linkScope": "episode",
+      "validationStatus": "live_verified"
+    },
+    {
+      "label": "Listen on Spotify",
+      "url": "https://open.spotify.com/episode/1rp6ChMNbvdbjsLGgeoh9c",
+      "platform": "Spotify",
+      "linkScope": "episode",
+      "validationStatus": "live_verified"
+    },
+    {
       "label": "Browse the official Apple Podcasts archive",
       "url": "https://podcasts.apple.com/us/podcast/somewhere-in-the-skies/id1227858637",
       "platform": "Apple Podcasts",
@@ -92,6 +106,56 @@
     "V23.4 media restoration: retired Acast URL removed; destination is explicitly classified as an exact episode page or a verified official series-archive fallback."
   ],
   "officialMedia": [
+    {
+      "platform": "YouTube",
+      "url": "https://www.youtube.com/watch?v=ZBikbTuq6N0",
+      "destinationType": "episode",
+      "mediaType": "video",
+      "official": true,
+      "verified": true,
+      "verificationStatus": "verified",
+      "preferredRank": 2,
+      "label": "Watch on YouTube",
+      "approved": true,
+      "published": true,
+      "validationClassification": "direct episode",
+      "validationProvenance": {
+        "release": "V23.5H.1",
+        "validatedAt": "2026-08-08T22:09:00-04:00",
+        "recoverySource": "user_supplied_direct_episode_inventory",
+        "confidence": "high",
+        "identitySignals": [
+          "platform_episode_identifier",
+          "repository_title",
+          "official_distribution_platform"
+        ]
+      }
+    },
+    {
+      "platform": "Spotify",
+      "url": "https://open.spotify.com/episode/1rp6ChMNbvdbjsLGgeoh9c",
+      "destinationType": "episode",
+      "mediaType": "audio",
+      "official": true,
+      "verified": true,
+      "verificationStatus": "verified",
+      "preferredRank": 4,
+      "label": "Listen on Spotify",
+      "approved": true,
+      "published": true,
+      "validationClassification": "direct episode",
+      "validationProvenance": {
+        "release": "V23.5H.1",
+        "validatedAt": "2026-08-08T22:09:00-04:00",
+        "recoverySource": "user_supplied_direct_episode_inventory",
+        "confidence": "high",
+        "identitySignals": [
+          "platform_episode_identifier",
+          "repository_title",
+          "official_distribution_platform"
+        ]
+      }
+    },
     {
       "_field": "mediaLinks",
       "_index": 0,

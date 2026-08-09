@@ -1,0 +1,18 @@
+V23.5H.1 PATCH MANIFEST
+
+Modified:
+- data/entities/2017-somewhere-in-the-skies-episode-11.json through episode-36.json only where supplied direct URLs were applicable
+- assets/js/podcast-official-media.js
+
+Added:
+- V23_5H_1_SOMEWHERE_IN_THE_SKIES_DIRECT_MEDIA_EPISODES_11_40.md
+- V23_5H_1_PATCH_MANIFEST.txt
+- tools/validate_v23_5h1.py
+
+Explicitly unchanged:
+- first 10 SITS episode entity files
+- taxonomy and relationships
+- homepage and development-updates content
+- SITS gateway
+- all non-SITS podcast records
+- schemas and validation architecture
