@@ -559,3 +559,11 @@ html{scroll-behavior:smooth}
 
 /* V23.6 Latest UAP News */
 .news-entry{margin-top:36px;padding-top:6px;border-bottom:1px solid var(--line);padding-bottom:34px}.news-entry h2{margin-top:0;line-height:1.25}.news-entry h2 a{color:var(--text)}.news-entry h2 a:hover{color:var(--accent)}.news-meta{margin-top:-6px;color:var(--accent-2);font-size:.9rem}.news-related{margin-top:22px}.news-related>strong{display:block;margin-bottom:10px;color:var(--text);font-size:.85rem;letter-spacing:.06em;text-transform:uppercase}.news-source-link{margin:22px 0 0}.news-source-link a{color:var(--accent);font-weight:800}@media(max-width:680px){.news-entry{margin-top:28px;padding-bottom:28px}.news-related .topic-chip{width:100%}}
+
+/* V23.6A Latest UAP News second article + image refinement */
+.news-image{margin:18px 0 20px;max-width:760px}
+.news-image img{display:block;width:100%;max-height:420px;object-fit:cover;border:1px solid var(--line);border-radius:16px;box-shadow:var(--shadow)}
+.news-image figcaption{margin-top:7px;color:var(--muted);font-size:.72rem}
+.news-source-link{margin:14px 0 0}
+.news-related{margin-top:20px}
+@media(max-width:680px){.news-image{margin:14px 0 17px}.news-image img{max-height:none;border-radius:13px}}

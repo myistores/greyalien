@@ -1,5 +1,14 @@
 # V23.6 — Latest UAP News: First Article Ingestion
 
+## V23.6A — Latest UAP News: Second Article Ingestion
+
+- Added the second Latest UAP News record from Liberation Times / Christopher Sharp (August 19, 2026).
+- Added original locally hosted editorial images to both visible news stories.
+- Moved original-source links directly below article summaries.
+- Reused existing graph entities only; no new permanent entities created.
+- Preserved News Records outside the public entity directory.
+
+
 - Populated the Latest UAP News gateway with its first production article from SciTechDaily.
 - Added a lightweight internal News Record layer that connects current reporting to existing GreyAlien research without adding News as a public entity type.
 - Reused NASA, Scientific Investigation, and MERGED Episode #18 as meaningful research connections.

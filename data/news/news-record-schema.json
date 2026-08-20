@@ -16,22 +16,58 @@
     "relatedEntityIds"
   ],
   "properties": {
-    "id": {"type": "string"},
-    "recordType": {"const": "news_record"},
-    "title": {"type": "string"},
-    "source": {"type": "string"},
-    "publicationDate": {"type": "string", "format": "date"},
-    "originalUrl": {"type": "string", "format": "uri"},
-    "summary": {"type": "string"},
-    "dateAdded": {"type": "string", "format": "date"},
+    "id": {
+      "type": "string"
+    },
+    "recordType": {
+      "const": "news_record"
+    },
+    "title": {
+      "type": "string"
+    },
+    "source": {
+      "type": "string"
+    },
+    "publicationDate": {
+      "type": "string",
+      "format": "date"
+    },
+    "originalUrl": {
+      "type": "string",
+      "format": "uri"
+    },
+    "summary": {
+      "type": "string"
+    },
+    "dateAdded": {
+      "type": "string",
+      "format": "date"
+    },
     "relatedEntityIds": {
       "type": "array",
-      "items": {"type": "string"},
+      "items": {
+        "type": "string"
+      },
       "uniqueItems": true
     },
-    "relationships": {"type": "array"},
-    "visibility": {"type": "object"},
-    "lifecycle": {"type": "object"}
+    "relationships": {
+      "type": "array"
+    },
+    "visibility": {
+      "type": "object"
+    },
+    "lifecycle": {
+      "type": "object"
+    },
+    "author": {
+      "type": "string"
+    },
+    "image": {
+      "type": "object"
+    },
+    "editorialNotes": {
+      "type": "object"
+    }
   },
   "additionalProperties": true
 }

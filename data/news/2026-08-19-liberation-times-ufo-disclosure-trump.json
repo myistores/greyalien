@@ -1,0 +1,67 @@
+{
+  "schemaVersion": "1.0",
+  "id": "2026-08-19-liberation-times-ufo-disclosure-trump",
+  "recordType": "news_record",
+  "title": "The Push for UFO Disclosure Intensifies as Pressure Mounts on Donald Trump",
+  "source": "Liberation Times",
+  "author": "Christopher Sharp",
+  "publicationDate": "2026-08-19",
+  "originalUrl": "https://www.liberationtimes.com/home/the-push-for-ufo-disclosure-intensifies-as-pressure-mounts-on-donald-trump",
+  "summary": "Liberation Times reports that UAP disclosure advocates are intensifying efforts to secure action from the Trump administration, including legal assurances for current and former officials who say they possess relevant information. The article also attributes claims about extraordinary UAP performance data and alleged legacy programs to unnamed or advocacy-linked sources; those assertions remain unverified and are presented here as reported claims rather than established facts.",
+  "image": {
+    "path": "../../assets/news/liberation-times-disclosure-2026-08-19.jpg",
+    "sitePath": "assets/news/liberation-times-disclosure-2026-08-19.jpg",
+    "alt": "Editorial illustration of the U.S. Capitol and American flag representing government oversight and UAP disclosure efforts.",
+    "source": "GreyAlien original editorial illustration",
+    "credit": "AI-generated for GreyAlien using OpenAI image generation; locally hosted.",
+    "rights": "GreyAlien-created editorial asset; no third-party image reproduced."
+  },
+  "dateAdded": "2026-08-20",
+  "relatedEntityIds": [
+    "luis-elizondo",
+    "aaro",
+    "uap-disclosure",
+    "government-transparency",
+    "non-human-intelligence"
+  ],
+  "relationships": [
+    {
+      "type": "references_person",
+      "target": "luis-elizondo",
+      "context": "The article discusses Luis Elizondo in connection with advocacy for disclosure and legal protections for potential witnesses."
+    },
+    {
+      "type": "references_organization",
+      "target": "aaro",
+      "context": "The article reports claims concerning information allegedly known to the All-domain Anomaly Resolution Office."
+    },
+    {
+      "type": "related_topic",
+      "target": "uap-disclosure",
+      "context": "The article centers on current efforts seeking further public release and acknowledgment of UAP-related information."
+    },
+    {
+      "type": "related_topic",
+      "target": "government-transparency",
+      "context": "The reporting concerns transparency, declassification, legal assurances, and government disclosure policy."
+    },
+    {
+      "type": "related_topic",
+      "target": "non-human-intelligence",
+      "context": "The article discusses allegations involving technology or information attributed by sources to non-human intelligence; GreyAlien does not treat those allegations as verified facts."
+    }
+  ],
+  "editorialNotes": {
+    "claimHandling": "Claims involving NHI, alleged legacy programs, extreme-performance incidents, and undisclosed government knowledge are explicitly attributed and not represented as established facts.",
+    "donaldTrumpHandling": "Donald Trump is central to the article but is not promoted to a new GreyAlien entity in this release because the existing graph does not contain a Donald Trump entity and the article can be meaningfully connected without creating one solely for this news ingestion."
+  },
+  "visibility": {
+    "latestGateway": true,
+    "entityDirectory": false,
+    "publicEntityType": false
+  },
+  "lifecycle": {
+    "archiveCompatible": true,
+    "automaticAgingEnabled": false
+  }
+}

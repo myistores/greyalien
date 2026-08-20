@@ -38,5 +38,13 @@
   "lifecycle": {
     "archiveCompatible": true,
     "automaticAgingEnabled": false
+  },
+  "image": {
+    "path": "../../assets/news/scitechdaily-alien-life-2026-08-19.jpg",
+    "sitePath": "assets/news/scitechdaily-alien-life-2026-08-19.jpg",
+    "alt": "Editorial illustration of an exoplanet with molecular and spectral-analysis imagery representing the scientific search for biosignatures.",
+    "source": "GreyAlien original editorial illustration",
+    "credit": "AI-generated for GreyAlien using OpenAI image generation; locally hosted.",
+    "rights": "GreyAlien-created editorial asset; no third-party image reproduced."
   }
 }

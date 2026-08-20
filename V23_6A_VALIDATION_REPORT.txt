@@ -1,0 +1,22 @@
+V23.6A VALIDATION REPORT
+========================
+
+Base: V23.6 deployed repository supplied by user
+Scope: Latest UAP News second article ingestion + image/link presentation refinement
+
+PASS - Two news records present in deterministic index order.
+PASS - Liberation Times / Christopher Sharp record added for August 19, 2026.
+PASS - Existing SciTechDaily summary and approved relationships preserved.
+PASS - Both visible articles have locally hosted GreyAlien-created editorial images.
+PASS - Read Original Article appears before Connected Research on both records.
+PASS - Every displayed Connected Research target resolves to an existing entity JSON record.
+PASS - News Records remain outside the public entity inventory.
+PASS - Permanent entity collection remains byte-for-byte unchanged from V23.6 (1,609 files).
+PASS - General graph validation passed: 1,609 entities / 3,582 declared relationships.
+NOTE - 56 unresolved legacy relationship targets reported by the inherited graph validator; these pre-existing warnings are outside V23.6A scope.
+
+NEW ENTITY REVIEW
+-----------------
+No new permanent entities created in V23.6A.
+
+Image provenance: Both images are original editorial assets generated for GreyAlien with OpenAI image generation and stored locally under assets/news/; no publisher image is hotlinked or reproduced.
