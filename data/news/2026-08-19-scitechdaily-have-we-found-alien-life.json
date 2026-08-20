@@ -1,0 +1,42 @@
+{
+  "schemaVersion": "1.0",
+  "id": "2026-08-19-scitechdaily-have-we-found-alien-life",
+  "recordType": "news_record",
+  "title": "Have We Found Alien Life? Here’s What Scientists Really Think",
+  "source": "SciTechDaily",
+  "publicationDate": "2026-08-19",
+  "originalUrl": "https://scitechdaily.com/have-we-found-alien-life-heres-what-scientists-really-think/",
+  "summary": "A survey of hundreds of astrobiologists found that recent possible signs of extraterrestrial life on K2-18b and Mars have not produced scientific consensus that life has been discovered. The results highlight how researchers weigh uncertain biosignatures, alternative non-biological explanations, and the strength of evidence required before making an extraordinary conclusion.",
+  "dateAdded": "2026-08-19",
+  "relatedEntityIds": [
+    "nasa",
+    "scientific-investigation",
+    "2023-merged-episode-18"
+  ],
+  "relationships": [
+    {
+      "type": "references_organization",
+      "target": "nasa",
+      "context": "The article discusses NASA's 2025 announcement concerning a potential biosignature in the Cheyava Falls Mars sample."
+    },
+    {
+      "type": "related_topic",
+      "target": "scientific-investigation",
+      "context": "The article centers on scientific evidence standards, uncertainty, expert judgment, and interpretation of possible biosignatures."
+    },
+    {
+      "type": "related_research",
+      "target": "2023-merged-episode-18",
+      "context": "This existing GreyAlien research record covers astrobiology, exoplanet habitability, SETI, and the scientific search for extraterrestrial life."
+    }
+  ],
+  "visibility": {
+    "latestGateway": true,
+    "entityDirectory": false,
+    "publicEntityType": false
+  },
+  "lifecycle": {
+    "archiveCompatible": true,
+    "automaticAgingEnabled": false
+  }
+}

@@ -1,3 +1,11 @@
+# V23.6 — Latest UAP News: First Article Ingestion
+
+- Populated the Latest UAP News gateway with its first production article from SciTechDaily.
+- Added a lightweight internal News Record layer that connects current reporting to existing GreyAlien research without adding News as a public entity type.
+- Reused NASA, Scientific Investigation, and MERGED Episode #18 as meaningful research connections.
+- Created no new permanent entities and included a formal New Entity Review checkpoint.
+- Added no news categories, filters, imagery, automation, archive UI, automatic aging, or unrelated graph changes.
+
 # V23.5H — Homepage Refresh & Development Updates
 
 - Replaced the homepage release log with three visitor-facing update cards.

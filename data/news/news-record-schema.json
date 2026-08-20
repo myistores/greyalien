@@ -1,0 +1,37 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://greyalien.com/data/news/news-record-schema.json",
+  "title": "GreyAlien News Record",
+  "description": "Lightweight internal record for time-sensitive reporting that connects into, but does not become, the public entity directory.",
+  "type": "object",
+  "required": [
+    "id",
+    "recordType",
+    "title",
+    "source",
+    "publicationDate",
+    "originalUrl",
+    "summary",
+    "dateAdded",
+    "relatedEntityIds"
+  ],
+  "properties": {
+    "id": {"type": "string"},
+    "recordType": {"const": "news_record"},
+    "title": {"type": "string"},
+    "source": {"type": "string"},
+    "publicationDate": {"type": "string", "format": "date"},
+    "originalUrl": {"type": "string", "format": "uri"},
+    "summary": {"type": "string"},
+    "dateAdded": {"type": "string", "format": "date"},
+    "relatedEntityIds": {
+      "type": "array",
+      "items": {"type": "string"},
+      "uniqueItems": true
+    },
+    "relationships": {"type": "array"},
+    "visibility": {"type": "object"},
+    "lifecycle": {"type": "object"}
+  },
+  "additionalProperties": true
+}

@@ -1,0 +1,26 @@
+V23.6 PATCH MANIFEST
+
+Modified:
+- categories/latest-uap-news.html
+- style.css
+- CHANGELOG.md
+
+Added:
+- data/news/2026-08-19-scitechdaily-have-we-found-alien-life.json
+- data/news/index.json
+- data/news/news-record-schema.json
+- V23_6_LATEST_UAP_NEWS_FIRST_ARTICLE.md
+- V23_6_NEW_ENTITY_REVIEW.md
+- V23_6_PATCH_MANIFEST.txt
+- tools/validate_v23_6.py
+
+Explicitly unchanged:
+- data/entities/* (no new permanent entities and no existing entity edits)
+- data/entity-index.json
+- public entity-type inventory
+- homepage architecture and homepage content
+- all unrelated gateways
+- podcast content and podcast media records
+- hearing content
+- existing knowledge-graph relationships on permanent entities
+- automated news aging / archive behavior
