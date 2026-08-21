@@ -1,3 +1,10 @@
+# V23.6B — Latest UAP News Third Article Ingestion (2026-08-21)
+
+- Added The Debrief / Micah Hanks August 20, 2026 PURSUE video-analysis article to Latest UAP News.
+- Added original locally hosted GreyAlien sensor-analysis illustration.
+- Reused four existing graph entities; created no new permanent entities.
+- Preserved V23.6A layout, existing article content, and unrelated site functionality.
+
 # V23.6 — Latest UAP News: First Article Ingestion
 
 ## V23.6A — Latest UAP News: Second Article Ingestion

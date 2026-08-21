@@ -1,0 +1,18 @@
+V23.6B PATCH MANIFEST
+Base: V23.6A-deployable
+Release: Latest UAP News — Third Article Ingestion
+
+ADDED
+- data/news/2026-08-20-debrief-pursue-video-analysis.json
+- assets/news/debrief-pursue-analysis-2026-08-20.jpg
+- V23_6B_LATEST_UAP_NEWS_THIRD_ARTICLE_INGESTION.md
+- V23_6B_NEW_ENTITY_REVIEW.md
+- validation/v23_6b_tests.log
+
+MODIFIED
+- categories/latest-uap-news.html
+- data/news/index.json
+- CHANGELOG.md
+
+PERMANENT ENTITY CHANGES
+- None

@@ -1,0 +1,21 @@
+Entity files base=1609 work=1609
+Permanent entity bytes unchanged=True
+Existing news record unchanged 2026-08-19-liberation-times-ufo-disclosure-trump.json: True
+Existing news record unchanged 2026-08-19-scitechdaily-have-we-found-alien-life.json: True
+Chronological index order correct=True
+New record type=news_record
+New record publicationDate=2026-08-20
+New record related entities=4
+Connected entity resolves department-of-defense: True
+Connected entity resolves scientific-investigation: True
+Connected entity resolves uap-science-advisory-council: True
+Connected entity resolves galileo-project: True
+Image exists=True size=90195
+Article count=3
+Original link count=3
+New article first=True
+New image referenced=True
+Original URL present=True
+News record stored only under data/news; no data/entities/news record created=True
+Unexpected changed/missing common files=0
+OVERALL=PASS

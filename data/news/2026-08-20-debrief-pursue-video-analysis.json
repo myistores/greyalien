@@ -1,0 +1,63 @@
+{
+  "schemaVersion": "1.0",
+  "id": "2026-08-20-debrief-pursue-video-analysis",
+  "recordType": "news_record",
+  "title": "Scientists Just Analyzed More Than 100 UAP Videos Released by the Pentagon’s ‘PURSUE’ Program—This is What They Learned",
+  "source": "The Debrief",
+  "author": "Micah Hanks",
+  "publicationDate": "2026-08-20",
+  "originalUrl": "https://thedebrief.org/scientists-just-analyzed-more-than-100-uap-videos-released-by-the-pentagons-pursue-program-this-is-what-they-learned/",
+  "summary": "Researchers Jacob Haqq-Misra and Ravi Kopparapu analyzed all 112 UAP videos released through the PURSUE program and found that many lack the range, viewing geometry, platform-motion and other sensor data needed to determine an object's true velocity reliably. Their arXiv preprint argues that unexplained imagery should not be treated as evidence of extraordinary performance when key measurements are unavailable, and points to multi-sensor approaches as a stronger path for future UAP research.",
+  "image": {
+    "path": "../../assets/news/debrief-pursue-analysis-2026-08-20.jpg",
+    "sitePath": "assets/news/debrief-pursue-analysis-2026-08-20.jpg",
+    "alt": "GreyAlien editorial illustration of a sensor-analysis display emphasizing incomplete range and viewing-geometry data in the PURSUE video study.",
+    "source": "GreyAlien original editorial illustration",
+    "credit": "Original GreyAlien editorial graphic created for V23.6B; locally hosted.",
+    "rights": "GreyAlien-created editorial asset; no third-party image reproduced."
+  },
+  "dateAdded": "2026-08-21",
+  "relatedEntityIds": [
+    "department-of-defense",
+    "scientific-investigation",
+    "uap-science-advisory-council",
+    "galileo-project"
+  ],
+  "relationships": [
+    {
+      "type": "references_organization",
+      "target": "department-of-defense",
+      "context": "The article analyzes UAP sensor videos released by the Pentagon through the PURSUE program."
+    },
+    {
+      "type": "related_topic",
+      "target": "scientific-investigation",
+      "context": "The study focuses on measurement limits, sensor context, viewing geometry and the evidentiary requirements for reliable kinematic conclusions."
+    },
+    {
+      "type": "references_organization",
+      "target": "uap-science-advisory-council",
+      "context": "Both researchers serve on the UAP Science Advisory Council, which is described as developing recommendations for better UAP data collection and release."
+    },
+    {
+      "type": "references_research_project",
+      "target": "galileo-project",
+      "context": "The Galileo Project is cited as an example of a multi-modal, multi-site observational approach using several sensor types."
+    }
+  ],
+  "editorialNotes": {
+    "scientificStatus": "The underlying paper, Limits on Velocity Recovery from the PURSUE Sensor Videos, is an arXiv preprint and had not undergone peer review at publication time.",
+    "evidenceHandling": "The record distinguishes unexplained imagery from evidence of anomalous velocity and does not infer extraordinary performance where range, geometry or platform-motion data are missing.",
+    "gofastHandling": "GOFAST is discussed in the source as a comparison showing how additional telemetry can constrain apparent motion; no new GOFAST entity was created in V23.6B.",
+    "nasaHandling": "Ravi Kopparapu is affiliated with NASA Goddard, but the article explicitly states that his views are based on independent analysis and do not reflect NASA; NASA is therefore not used as a Connected Research relationship for this record."
+  },
+  "visibility": {
+    "latestGateway": true,
+    "entityDirectory": false,
+    "publicEntityType": false
+  },
+  "lifecycle": {
+    "archiveCompatible": true,
+    "automaticAgingEnabled": false
+  }
+}
