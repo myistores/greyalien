@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "generatedBy": "tools/build_graph.py",
+  "generatedBy": "V23.6C bounded entity-index update",
   "entityTypes": [
     "case",
     "hearing",
@@ -11108,6 +11108,12 @@
       "visibleInDirectory": false,
       "searchable": true,
       "taxonomyStatus": "supporting_classification"
+    },
+    {
+      "id": "marco-rubio",
+      "type": "person",
+      "name": "Marco Rubio",
+      "summary": "U.S. Secretary of State and former U.S. senator with a documented public record of calling for serious investigation of UAP reported near military installations and discussing the issue during his Senate tenure."
     }
   ]
 }

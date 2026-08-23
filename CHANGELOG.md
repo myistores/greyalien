@@ -1,3 +1,11 @@
+# V23.6C — Latest UAP News: Fourth Article Ingestion
+
+- Added The UFO Chronicles / André Skondras article on Marco Rubio dated August 21, 2026.
+- Verified material Rubio statements against the official U.S. Department of State August 11, 2026 interview transcript.
+- Added a locally hosted public-domain U.S. Department of State portrait crop.
+- Added one proposed permanent Person entity: Marco Rubio, documented in `V23_6C_NEW_ENTITY_REVIEW.md` for immediate human approval.
+- Preserved all three existing V23.6B News Records and their assets unchanged.
+
 # V23.6B — Latest UAP News Third Article Ingestion (2026-08-21)
 
 - Added The Debrief / Micah Hanks August 20, 2026 PURSUE video-analysis article to Latest UAP News.

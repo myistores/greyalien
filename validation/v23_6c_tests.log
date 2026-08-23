@@ -1,0 +1,40 @@
+Entity files base=1609 work=1610
+Permanent entity count increased by exactly one: True
+Marco Rubio entity exists: True
+All pre-existing permanent entity files byte-identical: True
+Existing news record unchanged: 2026-08-20-debrief-pursue-video-analysis.json: True
+Existing news record unchanged: 2026-08-19-liberation-times-ufo-disclosure-trump.json: True
+Existing news record unchanged: 2026-08-19-scitechdaily-have-we-found-alien-life.json: True
+Existing news image unchanged: debrief-pursue-analysis-2026-08-20.jpg: True
+Existing news image unchanged: liberation-times-disclosure-2026-08-19.jpg: True
+Existing news image unchanged: scitechdaily-alien-life-2026-08-19.jpg: True
+New News Record exists: True
+News record type: True
+Publication date August 21: True
+Posted date August 22: True
+Author André Skondras: True
+Primary State Department source recorded: True
+News hidden from entity directory: True
+Automatic aging disabled: True
+Connected entity resolves: marco-rubio: True
+Connected entity resolves: uap-disclosure: True
+Connected entity resolves: national-security-secrecy: True
+Chronological news ordering: True
+Marco Rubio appears once in entity index: True
+News not public entity type: True
+Four news articles rendered: True
+Rubio article first: True
+Original source link present: True
+Read Original Article count four: True
+Marco Rubio Connected Research link: True
+New local image exists and nonempty: True
+Public-domain attribution displayed: True
+New Entity Review included: True
+Stephen Miller disposition documented: True
+Katie Miller disposition documented: True
+Only bounded existing files changed: True
+Changed common files: CHANGELOG.md, categories/latest-uap-news.html, data/entity-index.json, data/news/index.json
+OVERALL=PASS
+Checked 1610 entities and 3584 declared relationships.
+Warnings: 56 unresolved legacy relationship targets remain.
+VALIDATION PASSED

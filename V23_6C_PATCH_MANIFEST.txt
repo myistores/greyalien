@@ -1,0 +1,22 @@
+V23.6C PATCH MANIFEST
+Base: V23.6B-deployable
+Release: Latest UAP News — Fourth Article Ingestion
+
+ADDED
+- data/news/2026-08-21-ufo-chronicles-marco-rubio-uap.json
+- assets/news/marco-rubio-uap-2026-08-21.jpg
+- data/entities/marco-rubio.json
+- V23_6C_LATEST_UAP_NEWS_FOURTH_ARTICLE_INGESTION.md
+- V23_6C_NEW_ENTITY_REVIEW.md
+- V23_6C_PATCH_MANIFEST.txt
+- validation/v23_6c_tests.log
+
+MODIFIED
+- categories/latest-uap-news.html
+- data/news/index.json
+- data/entity-index.json
+- CHANGELOG.md
+
+PERMANENT ENTITY CHANGES
+- Added one proposed Person entity: Marco Rubio (subject to immediate human review before deployment).
+- No Stephen Miller or Katie Miller entity created.

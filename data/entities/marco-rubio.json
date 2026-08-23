@@ -1,0 +1,40 @@
+{
+  "id": "marco-rubio",
+  "type": "person",
+  "name": "Marco Rubio",
+  "summary": "U.S. Secretary of State and former U.S. senator with a documented public record of calling for serious investigation of UAP reported near military installations and discussing the issue during his Senate tenure.",
+  "relationships": [
+    {
+      "type": "discussed_topic",
+      "target": "uap-disclosure",
+      "role": "referenced",
+      "context": "Rubio has made public statements supporting serious investigation of UAP and discussing transparency and alleged concealment."
+    },
+    {
+      "type": "discussed_topic",
+      "target": "national-security-secrecy",
+      "role": "referenced",
+      "context": "Rubio has discussed UAP in the context of military installations, airspace, classified information and national-security oversight."
+    }
+  ],
+  "officialLinks": [
+    {
+      "label": "U.S. Department of State biography",
+      "url": "https://history.state.gov/departmenthistory/people/rubio-marco"
+    }
+  ],
+  "referenceSources": [
+    {
+      "label": "Secretary of State Marco Rubio With Katie Miller of The Katie Miller Podcast",
+      "url": "https://www.state.gov/releases/office-of-the-spokesperson/2026/08/secretary-of-state-marco-rubiowith-katie-miller-of-the-katie-miller-podcast",
+      "sourceType": "U.S. Department of State",
+      "role": "primary_reference"
+    },
+    {
+      "label": "Marco Rubio on UAPs - From Senate Inquiry to It’s Classified",
+      "url": "https://www.theufochronicles.com/2026/08/marco-rubio-on-uaps-from-senate-inquiry.html",
+      "sourceType": "The UFO Chronicles",
+      "role": "secondary_reference"
+    }
+  ]
+}
