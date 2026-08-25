@@ -567,3 +567,16 @@ html{scroll-behavior:smooth}
 .news-source-link{margin:14px 0 0}
 .news-related{margin-top:20px}
 @media(max-width:680px){.news-image{margin:14px 0 17px}.news-image img{max-height:none;border-radius:13px}}
+
+/* V23.6D Research Library first content */
+.research-entry{margin-top:34px;padding-top:4px;border-bottom:1px solid var(--line);padding-bottom:34px}
+.research-entry h2{margin:7px 0 10px;line-height:1.25}
+.research-entry h2 a{color:var(--text)}
+.research-entry h2 a:hover{color:var(--accent)}
+.research-type{margin:0;color:var(--accent);font-size:.78rem;font-weight:800;letter-spacing:.08em;text-transform:uppercase}
+.research-meta{margin-top:-2px;color:var(--accent-2);font-size:.9rem}
+.research-source-link{margin:20px 0 0}
+.research-source-link a{color:var(--accent);font-weight:800}
+.research-related{margin-top:20px}
+.research-related>strong{display:block;margin-bottom:10px;color:var(--text);font-size:.85rem;letter-spacing:.06em;text-transform:uppercase}
+@media(max-width:680px){.research-entry{margin-top:28px;padding-bottom:28px}.research-related .topic-chip{width:100%}}

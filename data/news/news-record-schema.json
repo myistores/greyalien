@@ -67,6 +67,19 @@
     },
     "editorialNotes": {
       "type": "object"
+    },
+    "contentType": {
+      "type": "string"
+    },
+    "publicationDateDisplay": {
+      "type": "string"
+    },
+    "primarySourceUrl": {
+      "type": "string",
+      "format": "uri"
+    },
+    "discoverySource": {
+      "type": "string"
     }
   },
   "additionalProperties": true

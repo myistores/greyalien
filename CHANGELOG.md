@@ -1,3 +1,12 @@
+# V23.6D — Latest UAP News + Research Library: First Cross-Gateway Research Ingestion
+
+- Added The Sol Foundation / Marik von Rennenkampff policy paper as the fifth Latest UAP News record.
+- Populated Research Library with its first permanent research item and removed its Version 2 placeholder content.
+- Created one permanent Publication entity and reused the existing Sol Foundation and Marik von Rennenkampff entities.
+- Established a News Record → permanent Publication → Research Library cross-gateway pattern without duplicating the underlying research object.
+- Added one locally hosted GreyAlien editorial image for the News presentation; Research Library remains bibliographic/text-first.
+- Preserved all four existing V23.6C News Records and images byte-for-byte unchanged.
+
 # V23.6C — Latest UAP News: Fourth Article Ingestion
 
 - Added The UFO Chronicles / André Skondras article on Marco Rubio dated August 21, 2026.

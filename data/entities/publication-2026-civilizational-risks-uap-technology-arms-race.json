@@ -1,0 +1,75 @@
+{
+  "id": "publication-2026-civilizational-risks-uap-technology-arms-race",
+  "type": "publication",
+  "entitySubtype": "policy_paper",
+  "name": "The Civilizational Risks of a UAP Technology Arms Race: Nonhuman Technology and Global Security",
+  "summary": "Policy paper by Marik von Rennenkampff examining the global-security risks that could arise if states were competing to exploit advanced technology of alleged nonhuman origin. The paper treats such an arms race as a consequential policy scenario and argues for international cooperation and control mechanisms; it does not itself establish that any government possesses nonhuman technology.",
+  "date": "2026-08-20",
+  "dateDisplay": "August 2026",
+  "eventCategory": "UAP policy and global security publication",
+  "relationships": [
+    {
+      "type": "references_person",
+      "target": "marik-von-rennenkampff",
+      "role": "author",
+      "context": "Marik von Rennenkampff authored this Sol Foundation policy paper."
+    },
+    {
+      "type": "published_by",
+      "target": "sol-foundation",
+      "role": "publisher",
+      "context": "Published by The Sol Foundation as Policy Papers, Vol. 2, No. 3."
+    },
+    {
+      "type": "references_topic",
+      "target": "national-security-secrecy",
+      "context": "Analyzes strategic instability, secrecy and global-security risks under a hypothetical UAP technology arms-race scenario.",
+      "role": "subject"
+    },
+    {
+      "type": "references_topic",
+      "target": "non-human-intelligence",
+      "context": "Examines policy consequences arising from claims or scenarios involving technology of alleged nonhuman origin without treating those claims as established fact.",
+      "role": "subject"
+    },
+    {
+      "type": "references_topic",
+      "target": "reverse-engineering",
+      "context": "Discusses allegations and strategic implications of efforts to exploit or reverse engineer advanced UAP-associated technology.",
+      "role": "subject"
+    },
+    {
+      "type": "references_topic",
+      "target": "uap-disclosure",
+      "context": "Considers how public acknowledgment or disclosure could alter geopolitical competition and international security.",
+      "role": "subject"
+    }
+  ],
+  "officialLinks": [
+    {
+      "label": "Download the original policy paper (PDF)",
+      "url": "https://thesolfoundation.org/wp-content/uploads/2026/08/Policy-Paper-UAP-Arms-Race-Volume2-8.20.26-1.pdf",
+      "linkType": "official_pdf"
+    }
+  ],
+  "referenceSources": [
+    {
+      "label": "The Civilizational Risks of a UAP Technology Arms Race - The Sol Foundation",
+      "url": "https://thesolfoundation.org/publications/the-civilizational-risks-of-a-uap-technology-arms-race-nonhuman-technology-and-global-security/",
+      "sourceType": "Publisher publication page",
+      "role": "primary_reference"
+    }
+  ],
+  "publicationMetadata": {
+    "author": "Marik von Rennenkampff",
+    "publisher": "The Sol Foundation",
+    "series": "The Policy Papers of the Sol Foundation",
+    "volume": "2",
+    "number": "3",
+    "publicationDisplay": "August 2026",
+    "contentType": "Policy Paper"
+  },
+  "editorialNotes": {
+    "evidentiaryStatus": "Policy/risk analysis. Discussion of alleged nonhuman technology is not represented by GreyAlien as proof that such technology exists or is possessed by any state."
+  }
+}

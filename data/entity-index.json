@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "generatedBy": "V23.6C bounded entity-index update",
+  "generatedBy": "tools/build_graph.py",
   "entityTypes": [
     "case",
     "hearing",
@@ -6250,6 +6250,12 @@
       "summary": "U.S. Air Force officer"
     },
     {
+      "id": "marco-rubio",
+      "type": "person",
+      "name": "Marco Rubio",
+      "summary": "U.S. Secretary of State and former U.S. senator with a documented public record of calling for serious investigation of UAP reported near military installations and discussing the issue during his Senate tenure."
+    },
+    {
       "id": "marik-von-rennenkampff",
       "type": "person",
       "name": "Marik von Rennenkampff",
@@ -9083,6 +9089,15 @@
       "summary": "Documentary film examining the role of journalism in UFO investigation and public transparency."
     },
     {
+      "id": "publication-2026-civilizational-risks-uap-technology-arms-race",
+      "type": "publication",
+      "name": "The Civilizational Risks of a UAP Technology Arms Race: Nonhuman Technology and Global Security",
+      "summary": "Policy paper by Marik von Rennenkampff examining the global-security risks that could arise if states were competing to exploit advanced technology of alleged nonhuman origin. The paper treats such an arms race as a consequential policy scenario and argues for international cooperation and control mechanisms; it does not itself establish that any government possesses nonhuman technology.",
+      "entitySubtype": "policy_paper",
+      "date": "2026-08-20",
+      "dateDisplay": "August 2026"
+    },
+    {
       "id": "publication-1975-edge-of-reality",
       "type": "publication",
       "name": "The Edge of Reality",
@@ -11108,12 +11123,6 @@
       "visibleInDirectory": false,
       "searchable": true,
       "taxonomyStatus": "supporting_classification"
-    },
-    {
-      "id": "marco-rubio",
-      "type": "person",
-      "name": "Marco Rubio",
-      "summary": "U.S. Secretary of State and former U.S. senator with a documented public record of calling for serious investigation of UAP reported near military installations and discussing the issue during his Senate tenure."
     }
   ]
 }

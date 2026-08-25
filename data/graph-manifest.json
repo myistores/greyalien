@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "entityCount": 1609,
-  "relationshipCount": 3526,
+  "entityCount": 1611,
+  "relationshipCount": 3534,
   "unresolvedRelationshipCount": 56,
   "connectionCounts": {
     "1946-scandinavian-ghost-rockets": {
@@ -6279,10 +6279,15 @@
       "outgoing": 0,
       "total": 1
     },
+    "marco-rubio": {
+      "incoming": 0,
+      "outgoing": 2,
+      "total": 2
+    },
     "marik-von-rennenkampff": {
-      "incoming": 4,
+      "incoming": 5,
       "outgoing": 1,
-      "total": 5
+      "total": 6
     },
     "mario-woods": {
       "incoming": 0,
@@ -6445,9 +6450,9 @@
       "total": 1
     },
     "national-security-secrecy": {
-      "incoming": 1,
+      "incoming": 3,
       "outgoing": 0,
-      "total": 1
+      "total": 3
     },
     "national-space-symposium": {
       "incoming": 1,
@@ -6480,9 +6485,9 @@
       "total": 4
     },
     "non-human-intelligence": {
-      "incoming": 1,
+      "incoming": 2,
       "outgoing": 0,
-      "total": 1
+      "total": 2
     },
     "nuclear-facility-uap-incidents": {
       "incoming": 1,
@@ -6554,6 +6559,11 @@
       "outgoing": 2,
       "total": 3
     },
+    "publication-2026-civilizational-risks-uap-technology-arms-race": {
+      "incoming": 0,
+      "outgoing": 6,
+      "total": 6
+    },
     "queensland-saucer-nests": {
       "incoming": 1,
       "outgoing": 1,
@@ -6585,9 +6595,9 @@
       "total": 1
     },
     "reverse-engineering": {
-      "incoming": 2,
+      "incoming": 3,
       "outgoing": 0,
-      "total": 2
+      "total": 3
     },
     "richard-beckwith": {
       "incoming": 1,
@@ -6760,9 +6770,9 @@
       "total": 1
     },
     "sol-foundation": {
-      "incoming": 6,
+      "incoming": 7,
       "outgoing": 2,
-      "total": 8
+      "total": 9
     },
     "somewhere-in-the-skies-podcast": {
       "incoming": 40,
@@ -7805,9 +7815,9 @@
       "total": 1
     },
     "uap-disclosure": {
-      "incoming": 29,
+      "incoming": 31,
       "outgoing": 0,
-      "total": 29
+      "total": 31
     },
     "uap-disclosure-act-2023": {
       "incoming": 2,

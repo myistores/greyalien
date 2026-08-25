@@ -1,0 +1,63 @@
+{
+  "id": "2026-08-20-sol-foundation-uap-technology-arms-race",
+  "recordType": "news_record",
+  "contentType": "research_policy_paper",
+  "title": "The Civilizational Risks of a UAP Technology Arms Race: Nonhuman Technology and Global Security",
+  "source": "The Sol Foundation",
+  "author": "Marik von Rennenkampff",
+  "publicationDate": "2026-08-20",
+  "publicationDateDisplay": "August 2026",
+  "originalUrl": "https://thesolfoundation.org/publications/the-civilizational-risks-of-a-uap-technology-arms-race-nonhuman-technology-and-global-security/",
+  "primarySourceUrl": "https://thesolfoundation.org/wp-content/uploads/2026/08/Policy-Paper-UAP-Arms-Race-Volume2-8.20.26-1.pdf",
+  "discoverySource": "UAP News Center",
+  "summary": "The Sol Foundation policy paper examines the civilizational and geopolitical risks that could follow if states were competing to exploit advanced technology of alleged nonhuman origin. It focuses on secrecy, deterrence, strategic instability and international control, treating a UAP technology arms race as a consequential policy scenario rather than evidence that any government actually possesses nonhuman technology.",
+  "dateAdded": "2026-08-25",
+  "relatedEntityIds": [
+    "publication-2026-civilizational-risks-uap-technology-arms-race",
+    "sol-foundation",
+    "marik-von-rennenkampff",
+    "national-security-secrecy",
+    "non-human-intelligence"
+  ],
+  "relationships": [
+    {
+      "type": "surfaces_publication",
+      "target": "publication-2026-civilizational-risks-uap-technology-arms-race",
+      "context": "Latest UAP News surfaces the newly published paper while the permanent publication record is retained for long-term research discovery."
+    },
+    {
+      "type": "references_entity",
+      "target": "sol-foundation"
+    },
+    {
+      "type": "references_entity",
+      "target": "marik-von-rennenkampff"
+    },
+    {
+      "type": "references_entity",
+      "target": "national-security-secrecy"
+    },
+    {
+      "type": "references_entity",
+      "target": "non-human-intelligence"
+    }
+  ],
+  "image": {
+    "path": "assets/news/sol-uap-arms-race-2026-08.jpg",
+    "alt": "GreyAlien editorial illustration of a connected globe, strategic network and policy document representing global-security analysis of a hypothetical UAP technology arms race.",
+    "credit": "GreyAlien original editorial illustration."
+  },
+  "visibility": {
+    "latestGateway": true,
+    "publicEntityDirectory": false
+  },
+  "lifecycle": {
+    "status": "current",
+    "archiveEligible": true,
+    "automaticAgingEnabled": false
+  },
+  "editorialNotes": {
+    "sourceHandling": "Primary summary based on The Sol Foundation publication and original PDF; UAP News Center is discovery source only.",
+    "evidentiaryDiscipline": "The record distinguishes the paper's policy scenario from independently established evidence of nonhuman technology."
+  }
+}
