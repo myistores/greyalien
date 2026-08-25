@@ -1,3 +1,12 @@
+# V23.6D.1 — Entity Page Loading Reliability & Graph Fetch Optimization
+
+- Replaced browser-side full-graph entity fetching with a precomputed incoming relationship index.
+- Reduced normal entity-page entity JSON requests from approximately 1,602 to 1 while preserving direct and reverse relationship semantics.
+- Added compact identity/canonical rendering metadata to the entity index so prior duplicate-suppression behavior remains available without loading full connected records.
+- Added explicit entity-load failure handling with a Retry action and browser-console diagnostics instead of indefinite “Loading connected record…” states.
+- Added release cache-busting for the entity runtime and deterministic relationship-index generation to the standard graph build.
+- Preserved all 1,611 permanent entity files byte-for-byte unchanged and made no taxonomy, content, gateway, podcast, or relationship-meaning changes.
+
 # V23.6D — Latest UAP News + Research Library: First Cross-Gateway Research Ingestion
 
 - Added The Sol Foundation / Marik von Rennenkampff policy paper as the fifth Latest UAP News record.

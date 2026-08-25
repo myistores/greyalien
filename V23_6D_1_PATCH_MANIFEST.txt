@@ -1,0 +1,19 @@
+V23.6D.1 PATCH MANIFEST
+
+MODIFIED
+- assets/js/entity-engine.js
+- entities/entity.html
+- tools/build_graph.py
+- data/entity-index.json
+- CHANGELOG.md
+
+ADDED
+- data/relationship-index.json
+- tools/validate_v23_6d_1.py
+- V23_6D_1_ENTITY_PAGE_LOADING_RELIABILITY_GRAPH_FETCH_OPTIMIZATION.md
+- V23_6D_1_VALIDATION_REPORT.md
+- V23_6D_1_PATCH_MANIFEST.txt
+
+KNOWLEDGE CONTENT CHANGES
+- None.
+- 1,611 permanent entity JSON files remain byte-for-byte unchanged.
