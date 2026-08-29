@@ -1,0 +1,29 @@
+{
+  "id": "beatriz-villarroel",
+  "type": "person",
+  "name": "Beatriz Villarroel",
+  "summary": "Astronomer and VASCO researcher whose work examines disappearing and transient astronomical sources in historical sky-survey imagery, including proposed technosignature candidates.",
+  "relationships": [
+    {
+      "type": "affiliated_with",
+      "target": "vasco-project",
+      "role": "researcher / project lead"
+    },
+    {
+      "type": "addresses_topic",
+      "target": "technosignatures"
+    }
+  ],
+  "officialLinks": [],
+  "referenceSources": [
+    {
+      "label": "VASCO project website",
+      "url": "https://vasconsite.wordpress.com/",
+      "sourceType": "research_project",
+      "role": "primary_reference"
+    }
+  ],
+  "profileStatus": "Astronomer and VASCO researcher",
+  "profileBadge": "Scientist",
+  "profileBadgeClass": "badge-scientist"
+}

@@ -1,0 +1,26 @@
+{
+  "id": "technosignatures",
+  "type": "topic",
+  "name": "Technosignatures",
+  "summary": "Observable evidence that could indicate technology or technological activity beyond Earth, evaluated through astronomy, SETI and related scientific methods.",
+  "relationships": [
+    {
+      "type": "associated_topic",
+      "target": "scientific-investigation"
+    }
+  ],
+  "officialLinks": [],
+  "referenceSources": [
+    {
+      "label": "PASA — Critical Evaluation of Studies Alleging Evidence for Technosignatures in the POSS1-E Photographic Plates",
+      "url": "https://www.cambridge.org/core/journals/publications-of-the-astronomical-society-of-australia/article/critical-evaluation-of-studies-alleging-evidence-for-technosignatures-in-the-poss1e-photographic-plates/A19B440ADE54BB11973C46D2BA13FB01",
+      "sourceType": "peer_reviewed_article",
+      "role": "research_context"
+    }
+  ],
+  "entitySubtype": "Scientific Research Topic",
+  "taxonomyStatus": "canonical",
+  "destinationPage": true,
+  "visibleInDirectory": true,
+  "searchable": true
+}

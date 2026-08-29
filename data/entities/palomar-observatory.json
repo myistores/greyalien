@@ -1,0 +1,25 @@
+{
+  "id": "palomar-observatory",
+  "type": "facility",
+  "name": "Palomar Observatory",
+  "summary": "Caltech-owned astronomical observatory on Palomar Mountain in California whose historic first-epoch sky-survey photographic plates are central to the VASCO technosignature dispute represented in GreyAlien.",
+  "relationships": [
+    {
+      "type": "associated_topic",
+      "target": "technosignatures"
+    }
+  ],
+  "officialLinks": [
+    {
+      "label": "Palomar Observatory — Caltech",
+      "url": "https://astro.caltech.edu/palomar/homepage.html",
+      "linkType": "official_website"
+    }
+  ],
+  "referenceSources": [],
+  "entitySubtype": "Astronomical Observatory",
+  "taxonomyStatus": "canonical",
+  "destinationPage": true,
+  "visibleInDirectory": true,
+  "searchable": true
+}

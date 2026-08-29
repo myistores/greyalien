@@ -1,0 +1,40 @@
+{
+  "id": "claim-vasco-transients-nuclear-test-correlation",
+  "type": "claim",
+  "name": "VASCO plate-derived features show a positive timing correlation with nuclear tests",
+  "summary": "Published VASCO-related analyses reported a positive statistical association between the timing of selected POSS1 plate-derived features and nuclear tests. GreyAlien records this as a disputed research claim rather than an established connection between UAP or technosignatures and nuclear testing.",
+  "relationships": [
+    {
+      "type": "concerns",
+      "target": "vasco-project"
+    },
+    {
+      "type": "references_topic",
+      "target": "technosignatures"
+    },
+    {
+      "type": "references_topic",
+      "target": "nuclear-facility-uap-incursions"
+    }
+  ],
+  "officialLinks": [],
+  "referenceSources": [
+    {
+      "label": "PASA critique summarizing the published claim it evaluates",
+      "url": "https://www.cambridge.org/core/journals/publications-of-the-astronomical-society-of-australia/article/critical-evaluation-of-studies-alleging-evidence-for-technosignatures-in-the-poss1e-photographic-plates/A19B440ADE54BB11973C46D2BA13FB01",
+      "sourceType": "peer_reviewed_article",
+      "role": "secondary_to_original_claim"
+    },
+    {
+      "label": "VASCO — Replications, validations and exciting developments",
+      "url": "https://vasconsite.wordpress.com/2026/07/11/replications-validations-and-exciting-developments/",
+      "sourceType": "research_project_statement",
+      "role": "supporting_or_competing_interpretation"
+    }
+  ],
+  "claimStatus": "disputed",
+  "evidenceClass": "Disputed",
+  "editorialNotes": {
+    "caution": "This claim does not establish that the plate-derived features are artificial objects, UAP, or nonhuman technology."
+  }
+}

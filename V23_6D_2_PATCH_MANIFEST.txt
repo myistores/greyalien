@@ -1,0 +1,28 @@
+V23.6D.2 PATCH MANIFEST
+Base: V23.6E
+Feature lineage: V23.6D
+
+ADDED
+- 1 Latest UAP News record (IBTimes UK, 2026-08-28)
+- 1 permanent peer-reviewed Research Library publication
+- 2 structured claim entities
+- 6 supporting permanent graph entities (VASCO, Villarroel, Watters, Knuth, Technosignatures, Palomar Observatory)
+- 9 generated crawlable entity entry pages
+- V23.6D.2 release scope/manifest
+- V23.6D.2 validator
+
+UPDATED
+- Latest UAP News gateway
+- Research Library gateway
+- News index and Research Library index
+- News Record schema with independent newsStatus / knowledgePermanence fields
+- Entity/relationship indexes and graph manifest rebuilt from source entities
+- Entity shell cache-bust updated to v23.6d2
+
+PROTECTED
+- V23.6E Science & Technology live topic architecture
+- V23.6D.1 entity-loading / graph-fetch runtime JavaScript
+- Existing five news records
+
+ARCHITECTURAL RULE
+News can age; knowledge does not.

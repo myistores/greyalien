@@ -1,0 +1,75 @@
+{
+  "id": "2026-08-28-ibtimes-vasco-nuclear-test-challenge",
+  "recordType": "news_record",
+  "contentType": "research_methodology_news",
+  "title": "UFO Nuclear Test Link Reportedly Debunked by Experts Warning Believers Not To Act Like 'Religion'",
+  "source": "International Business Times UK",
+  "author": "Briane Nebria",
+  "publicationDate": "2026-08-28",
+  "publicationDateDisplay": "August 28, 2026",
+  "originalUrl": "https://www.ibtimes.co.uk/ufo-nuclear-test-link-reportedly-debunked-experts-warning-believers-not-act-like-religion-1816934",
+  "primarySourceUrl": "https://www.cambridge.org/core/journals/publications-of-the-astronomical-society-of-australia/article/critical-evaluation-of-studies-alleging-evidence-for-technosignatures-in-the-poss1e-photographic-plates/A19B440ADE54BB11973C46D2BA13FB01",
+  "discoverySource": "UAP News Center",
+  "summary": "International Business Times reports on a peer-reviewed methodological critique of VASCO-related analyses of pre-Sputnik POSS1 photographic-plate features. The underlying PASA paper reports that the claimed nuclear-test timing correlation becomes statistically insignificant after normalization by relevant observation days and raises additional dataset-validation and artifact concerns; GreyAlien treats those results as a scientific challenge, not as a final resolution of the broader VASCO research dispute.",
+  "dateAdded": "2026-08-29",
+  "newsStatus": "current",
+  "knowledgePermanence": "permanent",
+  "relatedEntityIds": [
+    "publication-2026-critical-evaluation-poss1e-technosignatures",
+    "vasco-project",
+    "wesley-watters",
+    "kevin-knuth",
+    "beatriz-villarroel",
+    "technosignatures",
+    "claim-vasco-transients-nuclear-test-correlation",
+    "claim-watters-vasco-methodological-challenge",
+    "palomar-observatory"
+  ],
+  "relationships": [
+    {
+      "type": "surfaces_publication",
+      "target": "publication-2026-critical-evaluation-poss1e-technosignatures",
+      "context": "Latest UAP News surfaces the August 28 reporting while the peer-reviewed PASA paper remains the permanent Research Library object."
+    },
+    {
+      "type": "references_entity",
+      "target": "vasco-project"
+    },
+    {
+      "type": "references_entity",
+      "target": "wesley-watters"
+    },
+    {
+      "type": "references_entity",
+      "target": "kevin-knuth"
+    },
+    {
+      "type": "references_entity",
+      "target": "beatriz-villarroel"
+    },
+    {
+      "type": "references_entity",
+      "target": "technosignatures"
+    },
+    {
+      "type": "references_entity",
+      "target": "palomar-observatory"
+    }
+  ],
+  "visibility": {
+    "latestGateway": true,
+    "publicEntityDirectory": false,
+    "landmark": false
+  },
+  "lifecycle": {
+    "status": "current",
+    "archiveEligible": true,
+    "automaticAgingEnabled": false,
+    "landmark": false
+  },
+  "editorialNotes": {
+    "sourceHandling": "IBTimes is the timely secondary news surface. The Cambridge/PASA peer-reviewed accepted manuscript is the primary source for the scientific findings.",
+    "evidentiaryDiscipline": "The secondary headline uses categorical debunking language; GreyAlien instead describes the paper as a methodological challenge and preserves VASCO rebuttal/replication context.",
+    "lifecyclePrinciple": "News can age; knowledge does not. Archiving this news record must not remove its publication, claims, entities or graph relationships."
+  }
+}

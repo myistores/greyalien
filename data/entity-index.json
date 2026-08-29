@@ -2402,6 +2402,14 @@
       "_canonicalScore": 83
     },
     {
+      "id": "claim-watters-vasco-methodological-challenge",
+      "type": "claim",
+      "name": "Methodological and statistical issues weaken the reported VASCO nuclear-test correlation",
+      "summary": "Watters and colleagues report that the nuclear-test timing correlation becomes statistically insignificant after normalization by the relevant observation days and identify additional dataset-validation, artifact and spatial-distribution problems. VASCO researchers dispute aspects of that assessment and cite separate replication efforts.",
+      "_identityKey": "claim:name:methodological and statistical issues weaken the reported vasco nuclear test correlation",
+      "_canonicalScore": 6
+    },
+    {
       "id": "claim-indonesia-human-trafficking-craft",
       "type": "claim",
       "name": "Michael Herrera Indonesia Craft Claim",
@@ -6367,6 +6375,14 @@
       "_canonicalScore": 83
     },
     {
+      "id": "claim-vasco-transients-nuclear-test-correlation",
+      "type": "claim",
+      "name": "VASCO plate-derived features show a positive timing correlation with nuclear tests",
+      "summary": "Published VASCO-related analyses reported a positive statistical association between the timing of selected POSS1 plate-derived features and nuclear tests. GreyAlien records this as a disputed research claim rather than an established connection between UAP or technosignatures and nuclear testing.",
+      "_identityKey": "claim:name:vasco plate derived features show a positive timing correlation with nuclear tests",
+      "_canonicalScore": 6
+    },
+    {
       "id": "claim-weaponized-36-1",
       "type": "claim",
       "name": "Virtual and augmented reality technologies may eventually become difficult to distinguish from ordinary experience.",
@@ -6659,6 +6675,19 @@
       "taxonomyStatus": "canonical",
       "entitySubtype": "Military Installation / Facility",
       "_identityKey": "facility:name:minot air force base",
+      "_canonicalScore": 2
+    },
+    {
+      "id": "palomar-observatory",
+      "type": "facility",
+      "name": "Palomar Observatory",
+      "summary": "Caltech-owned astronomical observatory on Palomar Mountain in California whose historic first-epoch sky-survey photographic plates are central to the VASCO technosignature dispute represented in GreyAlien.",
+      "destinationPage": true,
+      "visibleInDirectory": true,
+      "searchable": true,
+      "taxonomyStatus": "canonical",
+      "entitySubtype": "Astronomical Observatory",
+      "_identityKey": "facility:name:palomar observatory",
       "_canonicalScore": 2
     },
     {
@@ -7507,6 +7536,14 @@
       "_canonicalScore": 12
     },
     {
+      "id": "beatriz-villarroel",
+      "type": "person",
+      "name": "Beatriz Villarroel",
+      "summary": "Astronomer and VASCO researcher whose work examines disappearing and transient astronomical sources in historical sky-survey imagery, including proposed technosignature candidates.",
+      "_identityKey": "person:name:beatriz villarroel",
+      "_canonicalScore": 3
+    },
+    {
       "id": "ben-schneider",
       "type": "person",
       "name": "Ben Schneider",
@@ -8211,6 +8248,14 @@
       "_canonicalScore": 3
     },
     {
+      "id": "kevin-knuth",
+      "type": "person",
+      "name": "Kevin H. Knuth",
+      "summary": "Physicist at the University at Albany whose research includes scientific analysis of UAP and who co-authored the 2026 peer-reviewed critique of claimed technosignatures in POSS1-E photographic plates.",
+      "_identityKey": "person:name:kevin h knuth",
+      "_canonicalScore": 6
+    },
+    {
       "id": "kirsten-gillibrand",
       "type": "person",
       "name": "Kirsten Gillibrand",
@@ -8657,6 +8702,14 @@
       "summary": "Animal-welfare advocate and co-founder of organizations working on animal-protection policy and enforcement.",
       "_identityKey": "person:url:weaponizedpodcast.com/episodes-2/episode-31",
       "_canonicalScore": 83
+    },
+    {
+      "id": "wesley-watters",
+      "type": "person",
+      "name": "Wesley Andrés Watters",
+      "summary": "Physicist and astronomer at Wellesley College and lead-listed author of the 2026 peer-reviewed methodological critique of claimed technosignatures in POSS1-E photographic plates.",
+      "_identityKey": "person:name:wesley andres watters",
+      "_canonicalScore": 6
     },
     {
       "id": "whitley-strieber",
@@ -11904,6 +11957,18 @@
       "_canonicalScore": 83
     },
     {
+      "id": "publication-2026-critical-evaluation-poss1e-technosignatures",
+      "type": "publication",
+      "name": "Critical Evaluation of Studies Alleging Evidence for Technosignatures in the POSS1-E Photographic Plates",
+      "summary": "Peer-reviewed accepted manuscript by Wesley Andrés Watters and colleagues evaluating published claims based on POSS1 photographic-plate features. The authors report that the claimed Earth-shadow deficit is not statistically significant in the datasets they examined and that the reported nuclear-test timing correlation becomes insignificant after normalization by relevant observation days, while also identifying dataset-definition, artifact and validation concerns.",
+      "entitySubtype": "peer_reviewed_research_article",
+      "date": "2026-07-23",
+      "dateDisplay": "July 23, 2026",
+      "eventCategory": "Scientific methodological critique",
+      "_identityKey": "publication:name:critical evaluation of studies alleging evidence for technosignatures in the poss1 e photographic plates",
+      "_canonicalScore": 5
+    },
+    {
       "id": "gaia",
       "type": "publication",
       "name": "Gaia",
@@ -12096,6 +12161,19 @@
       "entitySubtype": "Research Project / Initiative",
       "_identityKey": "research_project:name:the galileo project",
       "_canonicalScore": 2
+    },
+    {
+      "id": "vasco-project",
+      "type": "research_project",
+      "name": "VASCO Project",
+      "summary": "Vanishing and Appearing Sources during a Century of Observations (VASCO), an astronomy research effort using historical and modern sky-survey data to investigate disappearing, appearing and transient sources, including possible technosignature candidates.",
+      "destinationPage": true,
+      "visibleInDirectory": true,
+      "searchable": true,
+      "taxonomyStatus": "canonical",
+      "entitySubtype": "Astronomy Research Project",
+      "_identityKey": "research_project:name:vasco project",
+      "_canonicalScore": 5
     },
     {
       "id": "timeline-2023-10-31-aaro-secure-reporting-mechanism",
@@ -14593,6 +14671,19 @@
       "summary": "A knowledge-graph topic used to connect source-grounded WEAPONIZED reporting about space exploration.",
       "_identityKey": "topic:name:space exploration",
       "_canonicalScore": 0
+    },
+    {
+      "id": "technosignatures",
+      "type": "topic",
+      "name": "Technosignatures",
+      "summary": "Observable evidence that could indicate technology or technological activity beyond Earth, evaluated through astronomy, SETI and related scientific methods.",
+      "destinationPage": true,
+      "visibleInDirectory": true,
+      "searchable": true,
+      "taxonomyStatus": "canonical",
+      "entitySubtype": "Scientific Research Topic",
+      "_identityKey": "topic:name:technosignatures",
+      "_canonicalScore": 3
     },
     {
       "id": "tic-tac-uap",

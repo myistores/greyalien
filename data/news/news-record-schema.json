@@ -80,6 +80,23 @@
     },
     "discoverySource": {
       "type": "string"
+    },
+    "newsStatus": {
+      "type": "string",
+      "enum": [
+        "current",
+        "archived",
+        "landmark"
+      ],
+      "description": "Editorial lifecycle of the news surface. Independent from the permanence of extracted knowledge."
+    },
+    "knowledgePermanence": {
+      "type": "string",
+      "enum": [
+        "permanent",
+        "transient"
+      ],
+      "description": "Whether knowledge extracted from the news record remains in the GreyAlien research graph after the news surface ages."
     }
   },
   "additionalProperties": true

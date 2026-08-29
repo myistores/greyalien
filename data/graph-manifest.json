@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "entityCount": 1612,
-  "relationshipCount": 3552,
+  "entityCount": 1621,
+  "relationshipCount": 3579,
   "unresolvedRelationshipCount": 56,
   "connectionCounts": {
     "1946-scandinavian-ghost-rockets": {
@@ -1663,6 +1663,11 @@
       "incoming": 1,
       "outgoing": 0,
       "total": 1
+    },
+    "beatriz-villarroel": {
+      "incoming": 2,
+      "outgoing": 2,
+      "total": 4
     },
     "ben-schneider": {
       "incoming": 1,
@@ -4704,6 +4709,16 @@
       "outgoing": 1,
       "total": 1
     },
+    "claim-vasco-transients-nuclear-test-correlation": {
+      "incoming": 2,
+      "outgoing": 3,
+      "total": 5
+    },
+    "claim-watters-vasco-methodological-challenge": {
+      "incoming": 1,
+      "outgoing": 3,
+      "total": 4
+    },
     "claim-weaponized-1-1": {
       "incoming": 0,
       "outgoing": 1,
@@ -5875,9 +5890,9 @@
       "total": 3
     },
     "galileo-project": {
-      "incoming": 8,
+      "incoming": 10,
       "outgoing": 2,
-      "total": 10
+      "total": 12
     },
     "garry-nolan": {
       "incoming": 6,
@@ -6199,6 +6214,11 @@
       "outgoing": 3,
       "total": 3
     },
+    "kevin-knuth": {
+      "incoming": 1,
+      "outgoing": 2,
+      "total": 3
+    },
     "kirsten-gillibrand": {
       "incoming": 2,
       "outgoing": 0,
@@ -6500,14 +6520,19 @@
       "total": 1
     },
     "nuclear-facility-uap-incursions": {
-      "incoming": 2,
+      "incoming": 4,
       "outgoing": 0,
-      "total": 2
+      "total": 4
     },
     "office-of-the-director-of-national-intelligence": {
       "incoming": 2,
       "outgoing": 0,
       "total": 2
+    },
+    "palomar-observatory": {
+      "incoming": 2,
+      "outgoing": 1,
+      "total": 3
     },
     "paranormal-phenomena": {
       "incoming": 1,
@@ -6568,6 +6593,11 @@
       "incoming": 0,
       "outgoing": 6,
       "total": 6
+    },
+    "publication-2026-critical-evaluation-poss1e-technosignatures": {
+      "incoming": 3,
+      "outgoing": 9,
+      "total": 12
     },
     "queensland-saucer-nests": {
       "incoming": 1,
@@ -6715,9 +6745,9 @@
       "total": 1
     },
     "scientific-investigation": {
-      "incoming": 50,
+      "incoming": 51,
       "outgoing": 0,
-      "total": 50
+      "total": 51
     },
     "scott-bray": {
       "incoming": 0,
@@ -6818,6 +6848,11 @@
       "incoming": 3,
       "outgoing": 1,
       "total": 4
+    },
+    "technosignatures": {
+      "incoming": 6,
+      "outgoing": 1,
+      "total": 7
     },
     "that-ufo-podcast": {
       "incoming": 0,
@@ -7989,6 +8024,11 @@
       "outgoing": 0,
       "total": 1
     },
+    "vasco-project": {
+      "incoming": 4,
+      "outgoing": 3,
+      "total": 7
+    },
     "wall-street-journal": {
       "incoming": 4,
       "outgoing": 1,
@@ -8023,6 +8063,11 @@
       "incoming": 129,
       "outgoing": 2,
       "total": 131
+    },
+    "wesley-watters": {
+      "incoming": 1,
+      "outgoing": 3,
+      "total": 4
     },
     "whistleblower-protection": {
       "incoming": 23,

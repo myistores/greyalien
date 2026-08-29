@@ -1,0 +1,43 @@
+{
+  "id": "vasco-project",
+  "type": "research_project",
+  "name": "VASCO Project",
+  "summary": "Vanishing and Appearing Sources during a Century of Observations (VASCO), an astronomy research effort using historical and modern sky-survey data to investigate disappearing, appearing and transient sources, including possible technosignature candidates.",
+  "relationships": [
+    {
+      "type": "addresses_topic",
+      "target": "technosignatures"
+    },
+    {
+      "type": "affiliated_with",
+      "target": "beatriz-villarroel",
+      "role": "principal investigator / researcher"
+    },
+    {
+      "type": "applies_to",
+      "target": "palomar-observatory",
+      "role": "source-data facility",
+      "context": "The disputed analyses use digitized scans of historical Palomar Observatory Sky Survey photographic plates."
+    }
+  ],
+  "officialLinks": [
+    {
+      "label": "VASCO project website",
+      "url": "https://vasconsite.wordpress.com/",
+      "linkType": "official_website"
+    }
+  ],
+  "referenceSources": [
+    {
+      "label": "VASCO — Replications, validations and exciting developments",
+      "url": "https://vasconsite.wordpress.com/2026/07/11/replications-validations-and-exciting-developments/",
+      "sourceType": "research_project_statement",
+      "role": "competing_interpretation"
+    }
+  ],
+  "entitySubtype": "Astronomy Research Project",
+  "taxonomyStatus": "canonical",
+  "destinationPage": true,
+  "visibleInDirectory": true,
+  "searchable": true
+}

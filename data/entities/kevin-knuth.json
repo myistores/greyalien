@@ -1,0 +1,36 @@
+{
+  "id": "kevin-knuth",
+  "type": "person",
+  "name": "Kevin H. Knuth",
+  "summary": "Physicist at the University at Albany whose research includes scientific analysis of UAP and who co-authored the 2026 peer-reviewed critique of claimed technosignatures in POSS1-E photographic plates.",
+  "relationships": [
+    {
+      "type": "authored",
+      "target": "publication-2026-critical-evaluation-poss1e-technosignatures",
+      "role": "co-author"
+    },
+    {
+      "type": "affiliated_with",
+      "target": "galileo-project",
+      "role": "research affiliate / collaborator"
+    }
+  ],
+  "officialLinks": [],
+  "referenceSources": [
+    {
+      "label": "PASA accepted manuscript author record",
+      "url": "https://www.cambridge.org/core/journals/publications-of-the-astronomical-society-of-australia/article/critical-evaluation-of-studies-alleging-evidence-for-technosignatures-in-the-poss1e-photographic-plates/A19B440ADE54BB11973C46D2BA13FB01",
+      "sourceType": "peer_reviewed_article",
+      "role": "primary_reference"
+    },
+    {
+      "label": "The Galileo Project — Affiliates",
+      "url": "https://galileo.hsites.harvard.edu/organization/affiliates",
+      "sourceType": "official_research_project_page",
+      "role": "affiliation_reference"
+    }
+  ],
+  "profileStatus": "Physicist and UAP researcher",
+  "profileBadge": "Scientist",
+  "profileBadgeClass": "badge-scientist"
+}

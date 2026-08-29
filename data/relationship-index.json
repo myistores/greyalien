@@ -10967,6 +10967,27 @@
         }
       }
     ],
+    "beatriz-villarroel": [
+      {
+        "source": "publication-2026-critical-evaluation-poss1e-technosignatures",
+        "type": "references_person",
+        "meta": {
+          "type": "references_person",
+          "target": "beatriz-villarroel",
+          "role": "researcher whose studies are evaluated",
+          "context": "The paper evaluates studies by Beatriz Villarroel and collaborators using POSS1 plate-derived feature datasets."
+        }
+      },
+      {
+        "source": "vasco-project",
+        "type": "affiliated_with",
+        "meta": {
+          "type": "affiliated_with",
+          "target": "beatriz-villarroel",
+          "role": "principal investigator / researcher"
+        }
+      }
+    ],
     "ben-schneider": [
       {
         "source": "2023-weaponized-episode-20",
@@ -13836,6 +13857,39 @@
     "claim-vandenberg-red-square-blotter-released": [],
     "claim-vandenberg-security-personnel-investigated-multiple-incursions": [],
     "claim-vandenberg-witness-reported-large-red-object": [],
+    "claim-vasco-transients-nuclear-test-correlation": [
+      {
+        "source": "claim-watters-vasco-methodological-challenge",
+        "type": "references_claim",
+        "meta": {
+          "type": "references_claim",
+          "target": "claim-vasco-transients-nuclear-test-correlation",
+          "role": "challenges"
+        }
+      },
+      {
+        "source": "publication-2026-critical-evaluation-poss1e-technosignatures",
+        "type": "references_claim",
+        "meta": {
+          "type": "references_claim",
+          "target": "claim-vasco-transients-nuclear-test-correlation",
+          "role": "challenges",
+          "context": "The paper reports that the nuclear-test timing correlation becomes statistically insignificant after normalization by the relevant number of observation days."
+        }
+      }
+    ],
+    "claim-watters-vasco-methodological-challenge": [
+      {
+        "source": "publication-2026-critical-evaluation-poss1e-technosignatures",
+        "type": "references_claim",
+        "meta": {
+          "type": "references_claim",
+          "target": "claim-watters-vasco-methodological-challenge",
+          "role": "supports",
+          "context": "This publication is the primary source for the methodological challenge represented by this claim record."
+        }
+      }
+    ],
     "claim-weaponized-1-1": [],
     "claim-weaponized-1-2": [],
     "claim-weaponized-1-3": [],
@@ -16396,6 +16450,15 @@
         }
       },
       {
+        "source": "kevin-knuth",
+        "type": "affiliated_with",
+        "meta": {
+          "type": "affiliated_with",
+          "target": "galileo-project",
+          "role": "research affiliate / collaborator"
+        }
+      },
+      {
         "source": "timeline-2021-07-galileo-project-founded",
         "type": "timeline_connection",
         "meta": {
@@ -16423,6 +16486,15 @@
           "target": "galileo-project",
           "role": "related_organization",
           "context": "Research framework for the expedition and analysis"
+        }
+      },
+      {
+        "source": "wesley-watters",
+        "type": "affiliated_with",
+        "meta": {
+          "type": "affiliated_with",
+          "target": "galileo-project",
+          "role": "research collaborator / author"
         }
       }
     ],
@@ -22062,6 +22134,18 @@
       }
     ],
     "kevin-day": [],
+    "kevin-knuth": [
+      {
+        "source": "publication-2026-critical-evaluation-poss1e-technosignatures",
+        "type": "references_person",
+        "meta": {
+          "type": "references_person",
+          "target": "kevin-knuth",
+          "role": "co-author",
+          "context": "Kevin H. Knuth is a co-author of the methodological critique."
+        }
+      }
+    ],
     "kirsten-gillibrand": [
       {
         "source": "2022-need-to-know-episode-18",
@@ -24828,6 +24912,24 @@
           "type": "discussed_topic",
           "target": "nuclear-facility-uap-incursions"
         }
+      },
+      {
+        "source": "claim-vasco-transients-nuclear-test-correlation",
+        "type": "references_topic",
+        "meta": {
+          "type": "references_topic",
+          "target": "nuclear-facility-uap-incursions"
+        }
+      },
+      {
+        "source": "publication-2026-critical-evaluation-poss1e-technosignatures",
+        "type": "references_topic",
+        "meta": {
+          "type": "references_topic",
+          "target": "nuclear-facility-uap-incursions",
+          "role": "related nuclear/UAP research context",
+          "context": "The disputed statistical claim concerns the timing of photographic-plate features relative to nuclear tests, a distinct but related nuclear/UAP research thread."
+        }
       }
     ],
     "office-of-the-director-of-national-intelligence": [
@@ -24845,6 +24947,28 @@
         "meta": {
           "type": "references_organization",
           "target": "office-of-the-director-of-national-intelligence"
+        }
+      }
+    ],
+    "palomar-observatory": [
+      {
+        "source": "publication-2026-critical-evaluation-poss1e-technosignatures",
+        "type": "applies_to",
+        "meta": {
+          "type": "applies_to",
+          "target": "palomar-observatory",
+          "role": "source-data facility",
+          "context": "The disputed analyses use digitized scans of historical Palomar Observatory Sky Survey photographic plates."
+        }
+      },
+      {
+        "source": "vasco-project",
+        "type": "applies_to",
+        "meta": {
+          "type": "applies_to",
+          "target": "palomar-observatory",
+          "role": "source-data facility",
+          "context": "The disputed analyses use digitized scans of historical Palomar Observatory Sky Survey photographic plates."
         }
       }
     ],
@@ -25028,6 +25152,35 @@
       }
     ],
     "publication-2026-civilizational-risks-uap-technology-arms-race": [],
+    "publication-2026-critical-evaluation-poss1e-technosignatures": [
+      {
+        "source": "claim-watters-vasco-methodological-challenge",
+        "type": "references_publication",
+        "meta": {
+          "type": "references_publication",
+          "target": "publication-2026-critical-evaluation-poss1e-technosignatures",
+          "role": "primary evidence"
+        }
+      },
+      {
+        "source": "kevin-knuth",
+        "type": "authored",
+        "meta": {
+          "type": "authored",
+          "target": "publication-2026-critical-evaluation-poss1e-technosignatures",
+          "role": "co-author"
+        }
+      },
+      {
+        "source": "wesley-watters",
+        "type": "authored",
+        "meta": {
+          "type": "authored",
+          "target": "publication-2026-critical-evaluation-poss1e-technosignatures",
+          "role": "lead/corresponding author"
+        }
+      }
+    ],
     "queensland-saucer-nests": [
       {
         "source": "2024-weaponized-episode-63",
@@ -26945,6 +27098,14 @@
         }
       },
       {
+        "source": "technosignatures",
+        "type": "associated_topic",
+        "meta": {
+          "type": "associated_topic",
+          "target": "scientific-investigation"
+        }
+      },
+      {
         "source": "theories-of-everything-podcast",
         "type": "discussed_topic",
         "meta": {
@@ -27855,6 +28016,58 @@
         "meta": {
           "type": "discussed_topic",
           "target": "syria-uap-2021"
+        }
+      }
+    ],
+    "technosignatures": [
+      {
+        "source": "beatriz-villarroel",
+        "type": "addresses_topic",
+        "meta": {
+          "type": "addresses_topic",
+          "target": "technosignatures"
+        }
+      },
+      {
+        "source": "claim-vasco-transients-nuclear-test-correlation",
+        "type": "references_topic",
+        "meta": {
+          "type": "references_topic",
+          "target": "technosignatures"
+        }
+      },
+      {
+        "source": "palomar-observatory",
+        "type": "associated_topic",
+        "meta": {
+          "type": "associated_topic",
+          "target": "technosignatures"
+        }
+      },
+      {
+        "source": "publication-2026-critical-evaluation-poss1e-technosignatures",
+        "type": "references_topic",
+        "meta": {
+          "type": "references_topic",
+          "target": "technosignatures",
+          "role": "subject",
+          "context": "The paper evaluates whether the plate-derived features support claimed technosignature interpretations."
+        }
+      },
+      {
+        "source": "vasco-project",
+        "type": "addresses_topic",
+        "meta": {
+          "type": "addresses_topic",
+          "target": "technosignatures"
+        }
+      },
+      {
+        "source": "wesley-watters",
+        "type": "addresses_topic",
+        "meta": {
+          "type": "addresses_topic",
+          "target": "technosignatures"
         }
       }
     ],
@@ -31147,6 +31360,43 @@
         }
       }
     ],
+    "vasco-project": [
+      {
+        "source": "beatriz-villarroel",
+        "type": "affiliated_with",
+        "meta": {
+          "type": "affiliated_with",
+          "target": "vasco-project",
+          "role": "researcher / project lead"
+        }
+      },
+      {
+        "source": "claim-vasco-transients-nuclear-test-correlation",
+        "type": "concerns",
+        "meta": {
+          "type": "concerns",
+          "target": "vasco-project"
+        }
+      },
+      {
+        "source": "claim-watters-vasco-methodological-challenge",
+        "type": "concerns",
+        "meta": {
+          "type": "concerns",
+          "target": "vasco-project"
+        }
+      },
+      {
+        "source": "publication-2026-critical-evaluation-poss1e-technosignatures",
+        "type": "references_organization",
+        "meta": {
+          "type": "references_organization",
+          "target": "vasco-project",
+          "role": "research project evaluated",
+          "context": "The critique evaluates claims arising from VASCO-related analyses of pre-Sputnik POSS1 photographic plates."
+        }
+      }
+    ],
     "wall-street-journal": [
       {
         "source": "2025-weaponized-episode-70",
@@ -32390,6 +32640,18 @@
         "meta": {
           "type": "episode_of",
           "target": "weaponized-podcast"
+        }
+      }
+    ],
+    "wesley-watters": [
+      {
+        "source": "publication-2026-critical-evaluation-poss1e-technosignatures",
+        "type": "references_person",
+        "meta": {
+          "type": "references_person",
+          "target": "wesley-watters",
+          "role": "lead author",
+          "context": "Wesley Andrés Watters is the corresponding and lead-listed author of the PASA accepted manuscript."
         }
       }
     ],

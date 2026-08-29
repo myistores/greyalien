@@ -1,0 +1,42 @@
+{
+  "id": "claim-watters-vasco-methodological-challenge",
+  "type": "claim",
+  "name": "Methodological and statistical issues weaken the reported VASCO nuclear-test correlation",
+  "summary": "Watters and colleagues report that the nuclear-test timing correlation becomes statistically insignificant after normalization by the relevant observation days and identify additional dataset-validation, artifact and spatial-distribution problems. VASCO researchers dispute aspects of that assessment and cite separate replication efforts.",
+  "relationships": [
+    {
+      "type": "concerns",
+      "target": "vasco-project"
+    },
+    {
+      "type": "references_claim",
+      "target": "claim-vasco-transients-nuclear-test-correlation",
+      "role": "challenges"
+    },
+    {
+      "type": "references_publication",
+      "target": "publication-2026-critical-evaluation-poss1e-technosignatures",
+      "role": "primary evidence"
+    }
+  ],
+  "officialLinks": [],
+  "referenceSources": [
+    {
+      "label": "PASA peer-reviewed accepted manuscript",
+      "url": "https://www.cambridge.org/core/journals/publications-of-the-astronomical-society-of-australia/article/critical-evaluation-of-studies-alleging-evidence-for-technosignatures-in-the-poss1e-photographic-plates/A19B440ADE54BB11973C46D2BA13FB01",
+      "sourceType": "peer_reviewed_article",
+      "role": "primary_reference"
+    },
+    {
+      "label": "VASCO response and replication summary",
+      "url": "https://vasconsite.wordpress.com/2026/07/11/replications-validations-and-exciting-developments/",
+      "sourceType": "research_project_statement",
+      "role": "competing_interpretation"
+    }
+  ],
+  "claimStatus": "research_finding_under_dispute",
+  "evidenceClass": "Analytical Interpretation",
+  "editorialNotes": {
+    "caution": "GreyAlien does not characterize the dispute as conclusively settled; the claim records the findings of the peer-reviewed critique and preserves the VASCO response as competing context."
+  }
+}

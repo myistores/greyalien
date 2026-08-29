@@ -1,0 +1,40 @@
+{
+  "id": "wesley-watters",
+  "type": "person",
+  "name": "Wesley Andrés Watters",
+  "summary": "Physicist and astronomer at Wellesley College and lead-listed author of the 2026 peer-reviewed methodological critique of claimed technosignatures in POSS1-E photographic plates.",
+  "relationships": [
+    {
+      "type": "authored",
+      "target": "publication-2026-critical-evaluation-poss1e-technosignatures",
+      "role": "lead/corresponding author"
+    },
+    {
+      "type": "addresses_topic",
+      "target": "technosignatures"
+    },
+    {
+      "type": "affiliated_with",
+      "target": "galileo-project",
+      "role": "research collaborator / author"
+    }
+  ],
+  "officialLinks": [],
+  "referenceSources": [
+    {
+      "label": "PASA accepted manuscript author record",
+      "url": "https://www.cambridge.org/core/journals/publications-of-the-astronomical-society-of-australia/article/critical-evaluation-of-studies-alleging-evidence-for-technosignatures-in-the-poss1e-photographic-plates/A19B440ADE54BB11973C46D2BA13FB01",
+      "sourceType": "peer_reviewed_article",
+      "role": "primary_reference"
+    },
+    {
+      "label": "The Galileo Project — Scientific Investigation of UAP Using Multimodal Ground-Based Observatories",
+      "url": "https://galileo.hsites.harvard.edu/publications/scientific-investigation-unidentified-aerial-phenomena-uap-using-multimodal",
+      "sourceType": "official_research_project_publication",
+      "role": "affiliation_reference"
+    }
+  ],
+  "profileStatus": "Physicist and astronomer",
+  "profileBadge": "Scientist",
+  "profileBadgeClass": "badge-scientist"
+}
