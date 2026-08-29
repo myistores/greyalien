@@ -19,6 +19,14 @@
     {
       "type": "discussed_in_interview",
       "target": "2020-lex-fridman-fravor-interview"
+    },
+    {
+      "type": "associated_topic",
+      "target": "image-video-analysis",
+      "context": "Recorded Navy imagery is an established component of the encounter and part of the evidence record.",
+      "researchPacket": "S&T-001A",
+      "confidenceGrade": "A",
+      "confidenceScore": 96
     }
   ],
   "date": "2004-11-14",

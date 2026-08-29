@@ -1,9 +1,25 @@
 {
   "id": "syria-uap-2021",
   "type": "case",
-  "name": "Syria Uap 2021",
-  "summary": "A knowledge-graph entity referenced in the V19.4 WEAPONIZED production batch.",
-  "relationships": [],
+  "name": "Syria UAP 2021",
+  "summary": "2021 U.S. military infrared-sensor footage from the U.S. Central Command area of responsibility later uploaded to a classified network and publicly released by AARO in 2026. AARO states that the media had been digitally altered before upload and describes the apparent rapid exit from frame as occurring when the sensor stopped tracking the area of contrast.",
+  "relationships": [
+    {
+      "type": "associated_topic",
+      "target": "image-video-analysis",
+      "context": "Provenance, processing, sensor tracking and interpretation are central to this video case.",
+      "researchPacket": "S&T-001A",
+      "confidenceGrade": "A",
+      "confidenceScore": 99
+    }
+  ],
   "officialLinks": [],
-  "referenceSources": []
+  "referenceSources": [
+    {
+      "label": "AARO DOW-UAP-PR051 — Syrian UAP instant acceleration",
+      "url": "https://www.aaro.mil/Next-AARO-Home-redesign/Next-Parent/Presidential-UAP-Transparency-Initiative/videoid/1007707/dvpcc/false/",
+      "sourceType": "government_source",
+      "role": "primary_reference"
+    }
+  ]
 }

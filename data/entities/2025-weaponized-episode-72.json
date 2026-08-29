@@ -74,6 +74,14 @@
     {
       "type": "references_case",
       "target": "2004-nimitz-encounter"
+    },
+    {
+      "type": "discussed_topic",
+      "target": "image-video-analysis",
+      "context": "Video is central to the episode and merits image-analysis context.",
+      "researchPacket": "S&T-001A",
+      "confidenceGrade": "B",
+      "confidenceScore": 88
     }
   ],
   "mediaLinks": [

@@ -7,6 +7,14 @@
     {
       "type": "featured_in_media",
       "target": "2026-weaponized-episode-104"
+    },
+    {
+      "type": "concerns",
+      "target": "image-video-analysis",
+      "context": "Claim explicitly concerns provenance, imaging access and reproducible analysis.",
+      "researchPacket": "S&T-001A",
+      "confidenceGrade": "A",
+      "confidenceScore": 91
     }
   ],
   "officialLinks": [],

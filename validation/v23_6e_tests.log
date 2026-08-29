@@ -1,0 +1,56 @@
+V23.6E VALIDATION RUN — 2026-08-29
+--- JavaScript syntax ---
+PASS node --check
+--- Graph ---
+Checked 1612 entities and 3608 declared relationships.
+Warnings: 56 unresolved legacy relationship targets remain.
+VALIDATION PASSED
+--- Podcasts ---
+Checked 8 series and 257 episodes.
+Warnings: 4
+- 2017-somewhere-in-the-skies-bonus-episode-movie-review-edition-justice-league: missing recommended field episodeNumber
+- 2017-somewhere-in-the-skies-bonus-episode-reviewing-it-with-andrew-sanford: missing recommended field episodeNumber
+- 2017-somewhere-in-the-skies-bonus-episode-movie-review-edition-the-last-jedi: missing recommended field episodeNumber
+- 2017-somewhere-in-the-skies-patreon-bonus-episode-sneak-peek: missing recommended field episodeNumber
+PODCAST VALIDATION PASSED
+--- Rendering ---
+Rendering rule validation: PASSED (17 categories, 18 entity types)
+Unified Media category: interview + podcast_episode
+--- Timeline ---
+Timeline normalization validation: PASSED (3 aliases).
+--- Sources ---
+Link architecture validation: 100 official links, 2083 reference sources, 0 errors, 24 warnings.
+WARNING: 60-minutes: no verified official links recorded
+WARNING: all-domain-anomaly-resolution-office: no verified official links recorded
+WARNING: animal-wellness-action: no verified official links recorded
+WARNING: bigelow-aerospace: no verified official links recorded
+WARNING: brazilian-commission-of-ufologists: no verified official links recorded
+WARNING: buddha-jones: no verified official links recorded
+WARNING: defence-research-and-development-canada: no verified official links recorded
+WARNING: five-eyes: no verified official links recorded
+WARNING: fox-news: no verified official links recorded
+WARNING: harvard-university: no verified official links recorded
+WARNING: immaculate-constellation: no verified official links recorded
+WARNING: lord-huron: no verified official links recorded
+WARNING: national-press-club: no verified official links recorded
+WARNING: office-of-the-director-of-national-intelligence: no verified official links recorded
+WARNING: setka-program: no verified official links recorded
+WARNING: soviet-armed-forces: no verified official links recorded
+WARNING: thread-3-program: no verified official links recorded
+WARNING: uap-caucus: no verified official links recorded
+WARNING: uap-science-advisory-council: no verified official links recorded
+WARNING: unhidden-foundation: no verified official links recorded
+WARNING: united-states-congress: no verified official links recorded
+WARNING: united-states-department-of-defense: no verified official links recorded
+WARNING: wall-street-journal: no verified official links recorded
+WARNING: white-house: no verified official links recorded
+--- Visual identity ---
+Visual identity validation: 0 error(s), 0 warning(s).
+--- Research accelerator ---
+Research Accelerator validation: 0 error(s).
+--- V23.6E release validator ---
+V23.6E VALIDATION PASSED
+Entity: Image & Video Analysis (1 canonical topic)
+Approved relationships: 18
+Science sources: 13 (Tier S/A)
+Held relationships preserved: Chad Underwood; East Coast Navy encounters

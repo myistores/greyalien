@@ -7,6 +7,14 @@
     {
       "type": "featured_in_media",
       "target": "2026-weaponized-episode-108"
+    },
+    {
+      "type": "concerns",
+      "target": "image-video-analysis",
+      "context": "Source-attributed analytical claim; retained as a claim and connected to the method used to evaluate it.",
+      "researchPacket": "S&T-001A",
+      "confidenceGrade": "A",
+      "confidenceScore": 95
     }
   ],
   "officialLinks": [],

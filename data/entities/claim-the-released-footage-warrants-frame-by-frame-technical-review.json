@@ -7,6 +7,14 @@
     {
       "type": "featured_in_media",
       "target": "2026-weaponized-episode-108"
+    },
+    {
+      "type": "concerns",
+      "target": "image-video-analysis",
+      "context": "Direct claim about technical review of released imagery.",
+      "researchPacket": "S&T-001A",
+      "confidenceGrade": "A",
+      "confidenceScore": 99
     }
   ],
   "officialLinks": [],

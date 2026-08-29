@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "entityCount": 1611,
-  "relationshipCount": 3534,
+  "entityCount": 1612,
+  "relationshipCount": 3552,
   "unresolvedRelationshipCount": 56,
   "connectionCounts": {
     "1946-scandinavian-ghost-rockets": {
@@ -61,8 +61,8 @@
     },
     "2004-nimitz-encounter": {
       "incoming": 22,
-      "outgoing": 4,
-      "total": 26
+      "outgoing": 5,
+      "total": 27
     },
     "2009-indonesia-craft-claim": {
       "incoming": 4,
@@ -81,8 +81,8 @@
     },
     "2016-mosul-orb-incident": {
       "incoming": 1,
-      "outgoing": 1,
-      "total": 2
+      "outgoing": 2,
+      "total": 3
     },
     "2017-12-16-nyt-pentagon-ufo-program": {
       "incoming": 3,
@@ -91,8 +91,8 @@
     },
     "2017-iraq-jellyfish-uap": {
       "incoming": 3,
-      "outgoing": 3,
-      "total": 6
+      "outgoing": 4,
+      "total": 7
     },
     "2017-somewhere-in-the-skies-bonus-episode-movie-review-edition-justice-league": {
       "incoming": 0,
@@ -936,8 +936,8 @@
     },
     "2023-weaponized-episode-8": {
       "incoming": 5,
-      "outgoing": 6,
-      "total": 11
+      "outgoing": 7,
+      "total": 12
     },
     "2023-weaponized-episode-9": {
       "incoming": 5,
@@ -1051,8 +1051,8 @@
     },
     "2024-weaponized-episode-47": {
       "incoming": 1,
-      "outgoing": 8,
-      "total": 9
+      "outgoing": 9,
+      "total": 10
     },
     "2024-weaponized-episode-48": {
       "incoming": 1,
@@ -1161,8 +1161,8 @@
     },
     "2025-large-disc-uap-video": {
       "incoming": 1,
-      "outgoing": 1,
-      "total": 2
+      "outgoing": 2,
+      "total": 3
     },
     "2025-need-to-know-episode-60": {
       "incoming": 4,
@@ -1266,8 +1266,8 @@
     },
     "2025-weaponized-episode-72": {
       "incoming": 6,
-      "outgoing": 11,
-      "total": 17
+      "outgoing": 12,
+      "total": 18
     },
     "2025-weaponized-episode-73": {
       "incoming": 5,
@@ -1301,8 +1301,8 @@
     },
     "2025-weaponized-episode-79": {
       "incoming": 5,
-      "outgoing": 7,
-      "total": 12
+      "outgoing": 8,
+      "total": 13
     },
     "2025-weaponized-episode-80": {
       "incoming": 5,
@@ -1311,8 +1311,8 @@
     },
     "2025-weaponized-episode-81": {
       "incoming": 6,
-      "outgoing": 9,
-      "total": 15
+      "outgoing": 10,
+      "total": 16
     },
     "2025-weaponized-episode-82": {
       "incoming": 4,
@@ -1351,8 +1351,8 @@
     },
     "2025-weaponized-episode-89": {
       "incoming": 6,
-      "outgoing": 14,
-      "total": 20
+      "outgoing": 15,
+      "total": 21
     },
     "2025-weaponized-episode-90": {
       "incoming": 5,
@@ -1416,13 +1416,13 @@
     },
     "2025-yemen-hellfire-uap-video": {
       "incoming": 1,
-      "outgoing": 0,
-      "total": 1
+      "outgoing": 1,
+      "total": 2
     },
     "2026-03-31-house-uap-video-request-letter": {
       "incoming": 1,
-      "outgoing": 5,
-      "total": 6
+      "outgoing": 6,
+      "total": 7
     },
     "2026-need-to-know-episode-70": {
       "incoming": 4,
@@ -1486,8 +1486,8 @@
     },
     "2026-weaponized-episode-108": {
       "incoming": 6,
-      "outgoing": 9,
-      "total": 15
+      "outgoing": 10,
+      "total": 16
     },
     "2026-weaponized-episode-109": {
       "incoming": 6,
@@ -2171,8 +2171,8 @@
     },
     "claim-context-is-required-to-interpret-released-uap-videos": {
       "incoming": 1,
-      "outgoing": 1,
-      "total": 2
+      "outgoing": 2,
+      "total": 3
     },
     "claim-corso-alleged-technology-transfer": {
       "incoming": 0,
@@ -2401,8 +2401,8 @@
     },
     "claim-independent-experts-require-direct-and-transparent-access": {
       "incoming": 0,
-      "outgoing": 1,
-      "total": 1
+      "outgoing": 2,
+      "total": 2
     },
     "claim-indonesia-human-trafficking-craft": {
       "incoming": 3,
@@ -4546,8 +4546,8 @@
     },
     "claim-the-object-appears-to-accelerate-abruptly-after-sensor-lock": {
       "incoming": 0,
-      "outgoing": 1,
-      "total": 1
+      "outgoing": 2,
+      "total": 2
     },
     "claim-the-observed-objects-lacked-conventional-aerodynamic-design": {
       "incoming": 0,
@@ -4556,8 +4556,8 @@
     },
     "claim-the-released-footage-warrants-frame-by-frame-technical-review": {
       "incoming": 0,
-      "outgoing": 1,
-      "total": 1
+      "outgoing": 2,
+      "total": 2
     },
     "claim-the-soviet-union-operated-a-nationwide-ufo-reporting-system": {
       "incoming": 0,
@@ -5989,6 +5989,11 @@
       "outgoing": 0,
       "total": 3
     },
+    "image-video-analysis": {
+      "incoming": 18,
+      "outgoing": 0,
+      "total": 18
+    },
     "immaculate-constellation": {
       "incoming": 13,
       "outgoing": 2,
@@ -6811,8 +6816,8 @@
     },
     "syria-uap-2021": {
       "incoming": 3,
-      "outgoing": 0,
-      "total": 3
+      "outgoing": 1,
+      "total": 4
     },
     "that-ufo-podcast": {
       "incoming": 0,

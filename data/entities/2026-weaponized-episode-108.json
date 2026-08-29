@@ -66,6 +66,14 @@
     {
       "type": "discussed_topic",
       "target": "military-sensor-data"
+    },
+    {
+      "type": "discussed_topic",
+      "target": "image-video-analysis",
+      "context": "Episode explicitly analyzes footage behavior and competing interpretations.",
+      "researchPacket": "S&T-001A",
+      "confidenceGrade": "A",
+      "confidenceScore": 99
     }
   ],
   "mediaLinks": [

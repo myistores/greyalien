@@ -7,6 +7,14 @@
     {
       "type": "featured_in_media",
       "target": "2025-weaponized-episode-81"
+    },
+    {
+      "type": "associated_topic",
+      "target": "image-video-analysis",
+      "context": "Surveillance recording is central to the case and its research value.",
+      "researchPacket": "S&T-001A",
+      "confidenceGrade": "A",
+      "confidenceScore": 94
     }
   ],
   "officialLinks": [],

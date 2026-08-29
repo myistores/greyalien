@@ -61,6 +61,14 @@
     {
       "type": "discussed_topic",
       "target": "government-transparency"
+    },
+    {
+      "type": "discussed_topic",
+      "target": "image-video-analysis",
+      "context": "Episode explicitly evaluates thermal video and proposed explanations.",
+      "researchPacket": "S&T-001A",
+      "confidenceGrade": "A",
+      "confidenceScore": 98
     }
   ],
   "mediaLinks": [

@@ -1,3 +1,12 @@
+# V23.6E — Science & Technology First Live Research Topic
+
+- Created S&T-001A — Image & Video Analysis as the first live Science & Technology research topic.
+- Added reusable Science entity presentation for scientific foundation, key research principle, source tiers, evidence language and related Science roadmap.
+- Added exactly 18 approved high-confidence relationships from the S&T-001A ingestion manifest.
+- Enriched Syria UAP 2021 with AARO DOW-UAP-PR051 while preserving source-attributed acceleration claims as claims.
+- Converted Scientific Methods from a placeholder collection into a live-research collection while preserving Planned starting areas.
+- Preserved V23.6D.1 bounded entity-page fetch architecture.
+
 # V23.6D.1 — Entity Page Loading Reliability & Graph Fetch Optimization
 
 - Replaced browser-side full-graph entity fetching with a precomputed incoming relationship index.

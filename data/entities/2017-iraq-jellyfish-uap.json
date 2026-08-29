@@ -17,6 +17,14 @@
     {
       "type": "involved_organization",
       "target": "department-of-defense"
+    },
+    {
+      "type": "associated_topic",
+      "target": "image-video-analysis",
+      "context": "Thermal-imaging footage is central to the incident and subsequent analysis.",
+      "researchPacket": "S&T-001A",
+      "confidenceGrade": "A",
+      "confidenceScore": 97
     }
   ],
   "officialLinks": [],

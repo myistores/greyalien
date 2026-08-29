@@ -7,6 +7,14 @@
     {
       "type": "featured_in_media",
       "target": "2025-weaponized-episode-79"
+    },
+    {
+      "type": "associated_topic",
+      "target": "image-video-analysis",
+      "context": "The entity is explicitly a military sensor video requiring image-analysis context.",
+      "researchPacket": "S&T-001A",
+      "confidenceGrade": "A",
+      "confidenceScore": 93
     }
   ],
   "officialLinks": [],

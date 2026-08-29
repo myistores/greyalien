@@ -23,6 +23,14 @@
     {
       "type": "published_by",
       "target": "house-oversight-committee"
+    },
+    {
+      "type": "references_topic",
+      "target": "image-video-analysis",
+      "context": "The congressional request defines a corpus of military UAP video records relevant to scientific image analysis.",
+      "researchPacket": "S&T-001A",
+      "confidenceGrade": "B",
+      "confidenceScore": 88
     }
   ],
   "status": "Official congressional correspondence",

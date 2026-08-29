@@ -1,0 +1,35 @@
+V23.6E PATCH MANIFEST
+Base: V23.6D.1
+
+NEW
+- data/entities/image-video-analysis.json
+- entities/generated/image-video-analysis.html (generated)
+- V23_6E_SCIENCE_TECHNOLOGY_FIRST_LIVE_RESEARCH_TOPIC.md
+- V23_6E_VALIDATION_REPORT.md
+- docs/science-research/ST-001A_RESEARCH_PACKET.md
+- docs/science-research/ST-001A_INGESTION_MANIFEST.json
+- V23_6E_PATCH_MANIFEST.txt
+- tools/validate_v23_6e.py
+- validation/v23_6e_tests.log
+
+MODIFIED
+- science/scientific-methods/index.html
+- categories/science-technology.html (Scientific Methods status text only)
+- assets/js/entity-engine.js
+- entities/entity.html (cache-bust only)
+- style.css
+- data/entities/syria-uap-2021.json
+- 18 approved source entity files receiving one S&T-001A relationship each
+- data/entity-index.json (generated)
+- data/relationship-index.json (generated)
+- data/graph-manifest.json (generated)
+- sitemap.xml (generated)
+- CHANGELOG.md
+
+HELD / NOT CREATED
+- Chad Underwood → Image & Video Analysis
+- 2014–2015 East Coast Navy Encounters → Image & Video Analysis
+- Radar & Radar Systems entity
+- Infrared Imaging entity
+- Parallax & Apparent Motion entity
+- Photogrammetry entity

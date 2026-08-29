@@ -19684,6 +19684,224 @@
         }
       }
     ],
+    "image-video-analysis": [
+      {
+        "source": "2004-nimitz-encounter",
+        "type": "associated_topic",
+        "meta": {
+          "type": "associated_topic",
+          "target": "image-video-analysis",
+          "context": "Recorded Navy imagery is an established component of the encounter and part of the evidence record.",
+          "researchPacket": "S&T-001A",
+          "confidenceGrade": "A",
+          "confidenceScore": 96
+        }
+      },
+      {
+        "source": "2016-mosul-orb-incident",
+        "type": "associated_topic",
+        "meta": {
+          "type": "associated_topic",
+          "target": "image-video-analysis",
+          "context": "Surveillance recording is central to the case and its research value.",
+          "researchPacket": "S&T-001A",
+          "confidenceGrade": "A",
+          "confidenceScore": 94
+        }
+      },
+      {
+        "source": "2017-iraq-jellyfish-uap",
+        "type": "associated_topic",
+        "meta": {
+          "type": "associated_topic",
+          "target": "image-video-analysis",
+          "context": "Thermal-imaging footage is central to the incident and subsequent analysis.",
+          "researchPacket": "S&T-001A",
+          "confidenceGrade": "A",
+          "confidenceScore": 97
+        }
+      },
+      {
+        "source": "2023-weaponized-episode-8",
+        "type": "discussed_topic",
+        "meta": {
+          "type": "discussed_topic",
+          "target": "image-video-analysis",
+          "context": "Episode explicitly concerns analysis of imagery and competing interpretations.",
+          "researchPacket": "S&T-001A",
+          "confidenceGrade": "A",
+          "confidenceScore": 91
+        }
+      },
+      {
+        "source": "2024-weaponized-episode-47",
+        "type": "discussed_topic",
+        "meta": {
+          "type": "discussed_topic",
+          "target": "image-video-analysis",
+          "context": "Episode explicitly evaluates thermal video and proposed explanations.",
+          "researchPacket": "S&T-001A",
+          "confidenceGrade": "A",
+          "confidenceScore": 98
+        }
+      },
+      {
+        "source": "2025-large-disc-uap-video",
+        "type": "associated_topic",
+        "meta": {
+          "type": "associated_topic",
+          "target": "image-video-analysis",
+          "context": "The entity is explicitly a military sensor video requiring image-analysis context.",
+          "researchPacket": "S&T-001A",
+          "confidenceGrade": "A",
+          "confidenceScore": 93
+        }
+      },
+      {
+        "source": "2025-weaponized-episode-72",
+        "type": "discussed_topic",
+        "meta": {
+          "type": "discussed_topic",
+          "target": "image-video-analysis",
+          "context": "Video is central to the episode and merits image-analysis context.",
+          "researchPacket": "S&T-001A",
+          "confidenceGrade": "B",
+          "confidenceScore": 88
+        }
+      },
+      {
+        "source": "2025-weaponized-episode-79",
+        "type": "discussed_topic",
+        "meta": {
+          "type": "discussed_topic",
+          "target": "image-video-analysis",
+          "context": "Episode presents and discusses military sensor video.",
+          "researchPacket": "S&T-001A",
+          "confidenceGrade": "A",
+          "confidenceScore": 96
+        }
+      },
+      {
+        "source": "2025-weaponized-episode-81",
+        "type": "discussed_topic",
+        "meta": {
+          "type": "discussed_topic",
+          "target": "image-video-analysis",
+          "context": "Episode centers on release and provenance of the Mosul Orb video.",
+          "researchPacket": "S&T-001A",
+          "confidenceGrade": "A",
+          "confidenceScore": 97
+        }
+      },
+      {
+        "source": "2025-weaponized-episode-89",
+        "type": "discussed_topic",
+        "meta": {
+          "type": "discussed_topic",
+          "target": "image-video-analysis",
+          "context": "Episode discusses military video presented during the 2025 hearing.",
+          "researchPacket": "S&T-001A",
+          "confidenceGrade": "A",
+          "confidenceScore": 92
+        }
+      },
+      {
+        "source": "2025-yemen-hellfire-uap-video",
+        "type": "associated_topic",
+        "meta": {
+          "type": "associated_topic",
+          "target": "image-video-analysis",
+          "context": "Military imagery presented during congressional proceedings is central to the record.",
+          "researchPacket": "S&T-001A",
+          "confidenceGrade": "A",
+          "confidenceScore": 92
+        }
+      },
+      {
+        "source": "2026-03-31-house-uap-video-request-letter",
+        "type": "references_topic",
+        "meta": {
+          "type": "references_topic",
+          "target": "image-video-analysis",
+          "context": "The congressional request defines a corpus of military UAP video records relevant to scientific image analysis.",
+          "researchPacket": "S&T-001A",
+          "confidenceGrade": "B",
+          "confidenceScore": 88
+        }
+      },
+      {
+        "source": "2026-weaponized-episode-108",
+        "type": "discussed_topic",
+        "meta": {
+          "type": "discussed_topic",
+          "target": "image-video-analysis",
+          "context": "Episode explicitly analyzes footage behavior and competing interpretations.",
+          "researchPacket": "S&T-001A",
+          "confidenceGrade": "A",
+          "confidenceScore": 99
+        }
+      },
+      {
+        "source": "claim-context-is-required-to-interpret-released-uap-videos",
+        "type": "concerns",
+        "meta": {
+          "type": "concerns",
+          "target": "image-video-analysis",
+          "context": "Direct methodological claim about interpretation of video evidence.",
+          "researchPacket": "S&T-001A",
+          "confidenceGrade": "A",
+          "confidenceScore": 98
+        }
+      },
+      {
+        "source": "claim-independent-experts-require-direct-and-transparent-access",
+        "type": "concerns",
+        "meta": {
+          "type": "concerns",
+          "target": "image-video-analysis",
+          "context": "Claim explicitly concerns provenance, imaging access and reproducible analysis.",
+          "researchPacket": "S&T-001A",
+          "confidenceGrade": "A",
+          "confidenceScore": 91
+        }
+      },
+      {
+        "source": "claim-the-object-appears-to-accelerate-abruptly-after-sensor-lock",
+        "type": "concerns",
+        "meta": {
+          "type": "concerns",
+          "target": "image-video-analysis",
+          "context": "Source-attributed analytical claim; retained as a claim and connected to the method used to evaluate it.",
+          "researchPacket": "S&T-001A",
+          "confidenceGrade": "A",
+          "confidenceScore": 95
+        }
+      },
+      {
+        "source": "claim-the-released-footage-warrants-frame-by-frame-technical-review",
+        "type": "concerns",
+        "meta": {
+          "type": "concerns",
+          "target": "image-video-analysis",
+          "context": "Direct claim about technical review of released imagery.",
+          "researchPacket": "S&T-001A",
+          "confidenceGrade": "A",
+          "confidenceScore": 99
+        }
+      },
+      {
+        "source": "syria-uap-2021",
+        "type": "associated_topic",
+        "meta": {
+          "type": "associated_topic",
+          "target": "image-video-analysis",
+          "context": "Provenance, processing, sensor tracking and interpretation are central to this video case.",
+          "researchPacket": "S&T-001A",
+          "confidenceGrade": "A",
+          "confidenceScore": 99
+        }
+      }
+    ],
     "immaculate-constellation": [
       {
         "source": "2025-need-to-know-episode-63",

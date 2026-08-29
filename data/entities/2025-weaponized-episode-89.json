@@ -102,6 +102,14 @@
     {
       "type": "references_case",
       "target": "2025-yemen-hellfire-uap-video"
+    },
+    {
+      "type": "discussed_topic",
+      "target": "image-video-analysis",
+      "context": "Episode discusses military video presented during the 2025 hearing.",
+      "researchPacket": "S&T-001A",
+      "confidenceGrade": "A",
+      "confidenceScore": 92
     }
   ],
   "mediaLinks": [

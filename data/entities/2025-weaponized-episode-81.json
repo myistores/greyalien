@@ -69,6 +69,14 @@
     {
       "type": "discussed_topic",
       "target": "uap-journalism"
+    },
+    {
+      "type": "discussed_topic",
+      "target": "image-video-analysis",
+      "context": "Episode centers on release and provenance of the Mosul Orb video.",
+      "researchPacket": "S&T-001A",
+      "confidenceGrade": "A",
+      "confidenceScore": 97
     }
   ],
   "mediaLinks": [

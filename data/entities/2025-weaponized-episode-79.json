@@ -57,6 +57,14 @@
     {
       "type": "discussed_topic",
       "target": "uap-journalism"
+    },
+    {
+      "type": "discussed_topic",
+      "target": "image-video-analysis",
+      "context": "Episode presents and discusses military sensor video.",
+      "researchPacket": "S&T-001A",
+      "confidenceGrade": "A",
+      "confidenceScore": 96
     }
   ],
   "mediaLinks": [

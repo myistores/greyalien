@@ -1,0 +1,315 @@
+{
+  "id": "image-video-analysis",
+  "type": "topic",
+  "name": "Image & Video Analysis",
+  "summary": "Scientific methods for evaluating recorded imagery, including provenance, metadata, camera geometry, frame timing, perspective, parallax, motion analysis, enhancement, compression artifacts and uncertainty.",
+  "destinationPage": true,
+  "visibleInDirectory": true,
+  "searchable": true,
+  "taxonomyStatus": "canonical",
+  "entitySubtype": "Scientific Method",
+  "relationships": [],
+  "officialLinks": [],
+  "referenceSources": [
+    {
+      "label": "NIST — Digital and Multimedia Evidence",
+      "url": "https://www.nist.gov/forensic-science/digital-and-multimedia-evidence",
+      "sourceType": "technical_standard",
+      "role": "scientific_foundation"
+    },
+    {
+      "label": "NIST / OSAC — Standard Guide for Forensic Digital Video Examination Workflow",
+      "url": "https://www.nist.gov/standard/951",
+      "sourceType": "technical_standard",
+      "role": "scientific_foundation"
+    },
+    {
+      "label": "SWGDE — Best Practices for Digital Forensic Video Analysis",
+      "url": "https://www.swgde.org/documents/published-complete-listing/18-v-001-2-0/",
+      "sourceType": "technical_standard",
+      "role": "scientific_foundation"
+    },
+    {
+      "label": "SWGDE — Best Practices for Image Authentication",
+      "url": "https://www.swgde.org/documents/published-complete-listing/18-i-001-best-practices-for-image-authentication/",
+      "sourceType": "technical_standard",
+      "role": "scientific_foundation"
+    },
+    {
+      "label": "NISTIR 8325 — Media Forensics Challenge: Image Provenance",
+      "url": "https://www.nist.gov/publications/media-forensics-challenge-image-provenance-evaluation-and-state-art-analysis-large",
+      "sourceType": "report",
+      "role": "scientific_foundation"
+    },
+    {
+      "label": "USGS — Structure-from-Motion Photogrammetry Technical Methods",
+      "url": "https://pubs.usgs.gov/publication/tm11C11/full",
+      "sourceType": "technical_report",
+      "role": "scientific_foundation"
+    },
+    {
+      "label": "NGA — Motion Imagery Standards Board",
+      "url": "https://gwg.nga.mil/gwg/focus-groups/Motion_Imagery_Standards_Board_%28MISB%29.html",
+      "sourceType": "technical_standard",
+      "role": "scientific_foundation"
+    },
+    {
+      "label": "NASA — UAP Independent Study Team Final Report",
+      "url": "https://smd-cms.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf",
+      "sourceType": "government_source",
+      "role": "uap_scientific_context"
+    },
+    {
+      "label": "AARO — Effect of Forced Perspective and Parallax View on UAP Observations",
+      "url": "https://www.aaro.mil/Portals/136/PDFs/Information%20Papers/AARO_Effect_of_Forced_Perspective_and_Parallax_View_on_UAP_Observations_2024.pdf",
+      "sourceType": "government_source",
+      "role": "uap_scientific_context"
+    },
+    {
+      "label": "AARO — GoFast Case Resolution Methodology",
+      "url": "https://www.aaro.mil/Portals/136/PDFs/case_resolution_reports/AARO_GoFast_Case_Resolution_Card_Methodology_Final.pdf",
+      "sourceType": "government_source",
+      "role": "uap_scientific_context"
+    },
+    {
+      "label": "Department of Defense — Release of Historical Navy Videos",
+      "url": "https://www.defense.gov/News/Releases/release/article/2165713/statement-by-the-department-of-defense-on-the-release-of-historical-navy-videos/",
+      "sourceType": "government_source",
+      "role": "provenance"
+    },
+    {
+      "label": "AARO — AARO and the Declassification Process",
+      "url": "https://www.aaro.mil/Portals/136/PDFs/Information%20Papers/AARO_Declassification_Info_Paper_2025.pdf",
+      "sourceType": "government_source",
+      "role": "uap_scientific_context"
+    },
+    {
+      "label": "AARO DOW-UAP-PR051 — Syrian UAP Instant Acceleration",
+      "url": "https://www.aaro.mil/Next-AARO-Home-redesign/Next-Parent/Presidential-UAP-Transparency-Initiative/videoid/1007707/dvpcc/false/",
+      "sourceType": "government_source",
+      "role": "primary_reference"
+    }
+  ],
+  "scienceResearch": {
+    "gateway": "Science & Technology",
+    "collection": "Scientific Methods",
+    "collectionUrl": "../science/scientific-methods/",
+    "researchPacket": "S&T-001A",
+    "researchStatus": "Reviewed",
+    "scienceSeedScore": "30/30",
+    "lastResearchReview": "August 29, 2026",
+    "sourceTierCoverage": "Tier S + Tier A",
+    "intro": "Image and video recordings can provide valuable evidence, but what they show depends on the recording system, geometry, metadata, processing history and available context. GreyAlien connects UAP imagery with established methods for evaluating provenance, frame timing, apparent motion, image processing and analytical uncertainty.",
+    "keyPrinciple": "What appears to happen in an image is not automatically the same thing as what can be quantitatively established from the image.",
+    "keyPrincipleSupport": "Distance, physical size, speed, acceleration, shape, temperature and origin may require additional calibrated measurements, metadata, geometry or independent observations.",
+    "foundation": [
+      {
+        "title": "Provenance & Authentication",
+        "evidenceClass": "Established Science",
+        "text": "Begin with the source, history and integrity of the media. Authentication can evaluate whether imagery is consistent with its claimed origin or has been altered, but authentication alone does not identify the object shown."
+      },
+      {
+        "title": "Native Media & Metadata",
+        "evidenceClass": "Established Science",
+        "text": "Original or native files are preferred. Conversion, transcoding, exporting and screen capture can alter visual properties or strip metadata needed to understand timing, sensor settings and acquisition context."
+      },
+      {
+        "title": "Frame Timing",
+        "evidenceClass": "Established Science",
+        "text": "Reliable motion estimates depend on trustworthy frame timing. A visual impression of rapid movement is not equivalent to a measured physical speed."
+      },
+      {
+        "title": "Camera & Sensor Geometry",
+        "evidenceClass": "Established Science",
+        "text": "Field of view, focal length, camera orientation, range, lens distortion and image dimensions determine what quantitative measurements can be supported."
+      },
+      {
+        "title": "Perspective & Parallax",
+        "evidenceClass": "Established Science",
+        "text": "Observer motion and uncertain target range can produce large apparent motion against a distant background. Perspective can also distort perceived size and distance."
+      },
+      {
+        "title": "Motion Analysis",
+        "evidenceClass": "Analytical Interpretation",
+        "text": "Estimating true velocity or acceleration requires sufficient geometry, timing and range information. Image-plane motion by itself does not uniquely determine three-dimensional motion."
+      },
+      {
+        "title": "Image Enhancement & Processing",
+        "evidenceClass": "Established Science",
+        "text": "Stabilization, contrast adjustment, sharpening, interpolation and noise reduction can aid inspection, but processing should be documented, reproducible and evaluated for introduced artifacts."
+      },
+      {
+        "title": "Compression & Derived Copies",
+        "evidenceClass": "Established Science",
+        "text": "Lossy compression and repeated conversions can obscure detail or create misleading features. Preserve the original bitstream whenever possible and record changes made to working copies."
+      },
+      {
+        "title": "Measurement & Analytical Uncertainty",
+        "evidenceClass": "Established Science",
+        "text": "Distance, size, speed, acceleration, shape, temperature and origin may require calibrated measurements, metadata, geometry or independent observations that a single recording does not provide."
+      }
+    ],
+    "authoritativeSources": [
+      {
+        "tier": "S",
+        "label": "NIST — Digital and Multimedia Evidence",
+        "url": "https://www.nist.gov/forensic-science/digital-and-multimedia-evidence",
+        "sourceType": "technical_standard",
+        "role": "scientific_foundation",
+        "description": "Digital images and video as evidence requiring measurement methods and standards."
+      },
+      {
+        "tier": "S",
+        "label": "NIST / OSAC — Standard Guide for Forensic Digital Video Examination Workflow",
+        "url": "https://www.nist.gov/standard/951",
+        "sourceType": "technical_standard",
+        "role": "scientific_foundation",
+        "description": "Structured workflow for forensic digital-video examination."
+      },
+      {
+        "tier": "S",
+        "label": "SWGDE — Best Practices for Digital Forensic Video Analysis",
+        "url": "https://www.swgde.org/documents/published-complete-listing/18-v-001-2-0/",
+        "sourceType": "technical_standard",
+        "role": "scientific_foundation",
+        "description": "Native media, metadata, frame timing, processing, compression, reproducibility and analytical limitations."
+      },
+      {
+        "tier": "S",
+        "label": "SWGDE — Best Practices for Image Authentication",
+        "url": "https://www.swgde.org/documents/published-complete-listing/18-i-001-best-practices-for-image-authentication/",
+        "sourceType": "technical_standard",
+        "role": "scientific_foundation",
+        "description": "Authentication methodology and the limits of what authentication establishes."
+      },
+      {
+        "tier": "S",
+        "label": "NISTIR 8325 — Media Forensics Challenge: Image Provenance",
+        "url": "https://www.nist.gov/publications/media-forensics-challenge-image-provenance-evaluation-and-state-art-analysis-large",
+        "sourceType": "report",
+        "role": "scientific_foundation",
+        "description": "Image provenance, manipulation history and metadata analysis."
+      },
+      {
+        "tier": "S",
+        "label": "USGS — Structure-from-Motion Photogrammetry Technical Methods",
+        "url": "https://pubs.usgs.gov/publication/tm11C11/full",
+        "sourceType": "technical_report",
+        "role": "scientific_foundation",
+        "description": "Camera calibration, focal length, distortion and measurement geometry."
+      },
+      {
+        "tier": "S",
+        "label": "NGA — Motion Imagery Standards Board",
+        "url": "https://gwg.nga.mil/gwg/focus-groups/Motion_Imagery_Standards_Board_%28MISB%29.html",
+        "sourceType": "technical_standard",
+        "role": "scientific_foundation",
+        "description": "Motion-imagery integrity, metadata, interoperability and technical standards."
+      },
+      {
+        "tier": "A",
+        "label": "NASA — UAP Independent Study Team Final Report",
+        "url": "https://smd-cms.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf",
+        "sourceType": "government_source",
+        "role": "uap_scientific_context",
+        "description": "Calibration, metadata, multisensor collection, evidence thresholds and UAP data-quality limitations."
+      },
+      {
+        "tier": "A",
+        "label": "AARO — Effect of Forced Perspective and Parallax View on UAP Observations",
+        "url": "https://www.aaro.mil/Portals/136/PDFs/Information%20Papers/AARO_Effect_of_Forced_Perspective_and_Parallax_View_on_UAP_Observations_2024.pdf",
+        "sourceType": "government_source",
+        "role": "uap_scientific_context",
+        "description": "UAP-specific treatment of perspective and parallax effects."
+      },
+      {
+        "tier": "A",
+        "label": "AARO — GoFast Case Resolution Methodology",
+        "url": "https://www.aaro.mil/Portals/136/PDFs/case_resolution_reports/AARO_GoFast_Case_Resolution_Card_Methodology_Final.pdf",
+        "sourceType": "government_source",
+        "role": "uap_scientific_context",
+        "description": "Geometry, uncertainty, missing data and parallax in quantitative UAP-video analysis."
+      },
+      {
+        "tier": "A",
+        "label": "Department of Defense — Release of Historical Navy Videos",
+        "url": "https://www.defense.gov/News/Releases/release/article/2165713/statement-by-the-department-of-defense-on-the-release-of-historical-navy-videos/",
+        "sourceType": "government_source",
+        "role": "provenance",
+        "description": "Official provenance for the 2004 and 2015 Navy videos."
+      },
+      {
+        "tier": "A",
+        "label": "AARO — AARO and the Declassification Process",
+        "url": "https://www.aaro.mil/Portals/136/PDFs/Information%20Papers/AARO_Declassification_Info_Paper_2025.pdf",
+        "sourceType": "government_source",
+        "role": "uap_scientific_context",
+        "description": "Why public imagery may omit resolution, metadata and other sensor-capability information."
+      },
+      {
+        "tier": "A",
+        "label": "AARO DOW-UAP-PR051 — Syrian UAP Instant Acceleration",
+        "url": "https://www.aaro.mil/Next-AARO-Home-redesign/Next-Parent/Presidential-UAP-Transparency-Initiative/videoid/1007707/dvpcc/false/",
+        "sourceType": "government_source",
+        "role": "primary_reference",
+        "description": "Official 2026 provenance and processing context for the Syria UAP video."
+      }
+    ],
+    "evidenceClasses": [
+      {
+        "label": "Established Science",
+        "description": "Principles or methods supported by established scientific or technical practice."
+      },
+      {
+        "label": "Documented Fact",
+        "description": "A factual detail established by an authoritative or primary record."
+      },
+      {
+        "label": "Reported Observation",
+        "description": "What an observer or recording is reported to show, without elevating the report to a scientific conclusion."
+      },
+      {
+        "label": "Witness Claim",
+        "description": "A source-attributed assertion made by a witness or participant."
+      },
+      {
+        "label": "Analytical Interpretation",
+        "description": "A conclusion derived from analysis and dependent on assumptions, available data or methodology."
+      },
+      {
+        "label": "Hypothesis",
+        "description": "A proposed explanation that can be evaluated against evidence."
+      },
+      {
+        "label": "Speculation",
+        "description": "A proposed conclusion not supported by sufficient evidence for stronger classification."
+      },
+      {
+        "label": "Disputed",
+        "description": "A claim or interpretation for which materially different analyses or evidence exist."
+      },
+      {
+        "label": "Unknown",
+        "description": "The available information is insufficient to classify the point more precisely."
+      }
+    ],
+    "relatedScienceTopics": [
+      {
+        "name": "Radar & Radar Systems",
+        "status": "Upcoming"
+      },
+      {
+        "name": "Infrared Imaging",
+        "status": "Upcoming"
+      },
+      {
+        "name": "Parallax & Apparent Motion",
+        "status": "Planned"
+      },
+      {
+        "name": "Photogrammetry",
+        "status": "Planned"
+      }
+    ]
+  }
+}

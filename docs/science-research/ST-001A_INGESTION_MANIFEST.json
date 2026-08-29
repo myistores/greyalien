@@ -1,0 +1,187 @@
+{
+  "manifest_id": "ST-001A-INGESTION-001",
+  "repository_base": "V23.6D.1",
+  "status": "PROPOSED_HUMAN_REVIEW_REQUIRED",
+  "create_entities": [
+    {
+      "id": "image-video-analysis",
+      "name": "Image & Video Analysis",
+      "type": "topic",
+      "gateway": "science-technology",
+      "collection": "scientific-methods",
+      "summary": "Scientific methods for evaluating recorded imagery, including provenance, metadata, camera geometry, frame timing, perspective, parallax, motion analysis, enhancement, compression artifacts and uncertainty.",
+      "taxonomyStatus": "canonical"
+    }
+  ],
+  "enrich_entities": [
+    {
+      "id": "syria-uap-2021",
+      "proposed_summary": "2021 U.S. military infrared-sensor footage from the U.S. Central Command area of responsibility later uploaded to a classified network and publicly released by AARO in 2026. AARO states that the media had been digitally altered before upload and describes the apparent rapid exit from frame as occurring when the sensor stopped tracking the area of contrast.",
+      "add_reference_sources": [
+        {
+          "label": "AARO DOW-UAP-PR051 \u2014 Syrian UAP instant acceleration",
+          "url": "https://www.aaro.mil/Next-AARO-Home-redesign/Next-Parent/Presidential-UAP-Transparency-Initiative/videoid/1007707/dvpcc/false/",
+          "sourceType": "official_government_record",
+          "role": "primary_reference"
+        }
+      ]
+    }
+  ],
+  "create_relationships": [
+    [
+      "2004-nimitz-encounter",
+      "associated_topic",
+      "image-video-analysis",
+      96,
+      "A"
+    ],
+    [
+      "2016-mosul-orb-incident",
+      "associated_topic",
+      "image-video-analysis",
+      94,
+      "A"
+    ],
+    [
+      "2017-iraq-jellyfish-uap",
+      "associated_topic",
+      "image-video-analysis",
+      97,
+      "A"
+    ],
+    [
+      "2025-large-disc-uap-video",
+      "associated_topic",
+      "image-video-analysis",
+      93,
+      "A"
+    ],
+    [
+      "2025-yemen-hellfire-uap-video",
+      "associated_topic",
+      "image-video-analysis",
+      92,
+      "A"
+    ],
+    [
+      "syria-uap-2021",
+      "associated_topic",
+      "image-video-analysis",
+      99,
+      "A"
+    ],
+    [
+      "2026-03-31-house-uap-video-request-letter",
+      "references_topic",
+      "image-video-analysis",
+      88,
+      "B"
+    ],
+    [
+      "2026-weaponized-episode-108",
+      "discussed_topic",
+      "image-video-analysis",
+      99,
+      "A"
+    ],
+    [
+      "2025-weaponized-episode-81",
+      "discussed_topic",
+      "image-video-analysis",
+      97,
+      "A"
+    ],
+    [
+      "2024-weaponized-episode-47",
+      "discussed_topic",
+      "image-video-analysis",
+      98,
+      "A"
+    ],
+    [
+      "2025-weaponized-episode-79",
+      "discussed_topic",
+      "image-video-analysis",
+      96,
+      "A"
+    ],
+    [
+      "2025-weaponized-episode-89",
+      "discussed_topic",
+      "image-video-analysis",
+      92,
+      "A"
+    ],
+    [
+      "2023-weaponized-episode-8",
+      "discussed_topic",
+      "image-video-analysis",
+      91,
+      "A"
+    ],
+    [
+      "2025-weaponized-episode-72",
+      "discussed_topic",
+      "image-video-analysis",
+      88,
+      "B"
+    ],
+    [
+      "claim-context-is-required-to-interpret-released-uap-videos",
+      "concerns",
+      "image-video-analysis",
+      98,
+      "A"
+    ],
+    [
+      "claim-the-released-footage-warrants-frame-by-frame-technical-review",
+      "concerns",
+      "image-video-analysis",
+      99,
+      "A"
+    ],
+    [
+      "claim-independent-experts-require-direct-and-transparent-access",
+      "concerns",
+      "image-video-analysis",
+      91,
+      "A"
+    ],
+    [
+      "claim-the-object-appears-to-accelerate-abruptly-after-sensor-lock",
+      "concerns",
+      "image-video-analysis",
+      95,
+      "A"
+    ]
+  ],
+  "held_relationships": [
+    {
+      "source": "chad-underwood",
+      "target": "image-video-analysis",
+      "reason": "No semantically precise Person-to-science relationship in current vocabulary.",
+      "evidence_score": 97
+    },
+    {
+      "source": "2014-2015-east-coast-navy-encounters",
+      "target": "image-video-analysis",
+      "reason": "Broader case-to-specific-video mapping should be independently verified before production linking.",
+      "evidence_score": 84
+    }
+  ],
+  "do_not_infer": [
+    "Military sensor video is infrared/FLIR unless authoritative evidence establishes modality.",
+    "Apparent image-plane motion equals physical target speed or acceleration.",
+    "Image authentication establishes object identity.",
+    "Image enhancement creates new reliable detail.",
+    "A source-attributed claim becomes fact because it appears in the graph."
+  ],
+  "deferred_new_entities": [
+    "AARO DOW-UAP-PR051 \u2014 Syrian UAP Instant Acceleration",
+    "GoFast Case Resolution / Methodology",
+    "Image Provenance & Authentication",
+    "Photogrammetry",
+    "Parallax & Apparent Motion",
+    "Video Compression & Processing Artifacts"
+  ]
+}

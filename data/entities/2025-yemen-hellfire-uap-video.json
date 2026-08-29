@@ -3,7 +3,16 @@
   "type": "case",
   "name": "2025 Yemen Hellfire UAP Video",
   "summary": "Military imagery shown at a 2025 congressional hearing depicting a missile engagement with an unidentified object over Yemen.",
-  "relationships": [],
+  "relationships": [
+    {
+      "type": "associated_topic",
+      "target": "image-video-analysis",
+      "context": "Military imagery presented during congressional proceedings is central to the record.",
+      "researchPacket": "S&T-001A",
+      "confidenceGrade": "A",
+      "confidenceScore": 92
+    }
+  ],
   "officialLinks": [],
   "referenceSources": [
     {

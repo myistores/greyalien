@@ -7,6 +7,14 @@
     {
       "type": "featured_in_media",
       "target": "2026-weaponized-episode-117"
+    },
+    {
+      "type": "concerns",
+      "target": "image-video-analysis",
+      "context": "Direct methodological claim about interpretation of video evidence.",
+      "researchPacket": "S&T-001A",
+      "confidenceGrade": "A",
+      "confidenceScore": 98
     }
   ],
   "officialLinks": [],
