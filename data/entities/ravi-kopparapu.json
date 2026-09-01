@@ -1,0 +1,38 @@
+{
+  "id": "ravi-kopparapu",
+  "type": "person",
+  "entitySubtype": "Planetary Scientist",
+  "name": "Ravi Kopparapu",
+  "summary": "Planetary scientist at NASA Goddard Space Flight Center whose research includes exoplanet habitability and technosignatures; co-author of the 2026 PURSUE kinematics preprint in an independent research capacity.",
+  "destinationPage": true,
+  "visibleInDirectory": true,
+  "searchable": true,
+  "taxonomyStatus": "canonical",
+  "relationships": [
+    {
+      "type": "authored",
+      "target": "publication-2026-limits-velocity-recovery-pursue",
+      "role": "co-author"
+    },
+    {
+      "type": "affiliated_with",
+      "target": "nasa",
+      "context": "NASA Goddard affiliation; the paper is represented as independent scholarly work rather than an agency finding."
+    }
+  ],
+  "officialLinks": [
+    {
+      "label": "NASA Goddard biography",
+      "url": "https://science.gsfc.nasa.gov/sci/bio/ravikumar.kopparapu",
+      "linkType": "institutional_profile"
+    }
+  ],
+  "referenceSources": [
+    {
+      "label": "arXiv author metadata",
+      "url": "https://arxiv.org/abs/2608.12445",
+      "sourceType": "scientific_preprint",
+      "role": "primary_reference"
+    }
+  ]
+}

@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "entityCount": 1621,
-  "relationshipCount": 3579,
+  "entityCount": 1628,
+  "relationshipCount": 3603,
   "unresolvedRelationshipCount": 56,
   "connectionCounts": {
     "1946-scandinavian-ghost-rockets": {
@@ -4359,6 +4359,16 @@
       "outgoing": 1,
       "total": 1
     },
+    "claim-pr113-kinematic-degeneracy": {
+      "incoming": 1,
+      "outgoing": 3,
+      "total": 4
+    },
+    "claim-pr149-relative-velocity-bound": {
+      "incoming": 1,
+      "outgoing": 3,
+      "total": 4
+    },
     "claim-presidential-action-could-bypass-stalled-process": {
       "incoming": 0,
       "outgoing": 1,
@@ -4413,6 +4423,11 @@
       "incoming": 0,
       "outgoing": 1,
       "total": 1
+    },
+    "claim-pursue-corpus-insufficient-kinematics": {
+      "incoming": 1,
+      "outgoing": 3,
+      "total": 4
     },
     "claim-reduced-stigma-encouraged-the-pilot-to-speak-publicly": {
       "incoming": 0,
@@ -5715,9 +5730,9 @@
       "total": 11
     },
     "department-of-defense": {
-      "incoming": 50,
+      "incoming": 52,
       "outgoing": 3,
-      "total": 53
+      "total": 55
     },
     "department-of-energy": {
       "incoming": 2,
@@ -5890,9 +5905,9 @@
       "total": 3
     },
     "galileo-project": {
-      "incoming": 10,
+      "incoming": 11,
       "outgoing": 2,
-      "total": 12
+      "total": 13
     },
     "garry-nolan": {
       "incoming": 6,
@@ -6005,9 +6020,9 @@
       "total": 3
     },
     "image-video-analysis": {
-      "incoming": 18,
-      "outgoing": 0,
-      "total": 18
+      "incoming": 22,
+      "outgoing": 1,
+      "total": 23
     },
     "immaculate-constellation": {
       "incoming": 13,
@@ -6043,6 +6058,11 @@
       "incoming": 3,
       "outgoing": 2,
       "total": 5
+    },
+    "jacob-haqq-misra": {
+      "incoming": 1,
+      "outgoing": 1,
+      "total": 2
     },
     "jacques-vallee": {
       "incoming": 8,
@@ -6445,9 +6465,9 @@
       "total": 0
     },
     "nasa": {
-      "incoming": 8,
+      "incoming": 9,
       "outgoing": 2,
-      "total": 10
+      "total": 11
     },
     "nasa-uap-independent-study-team": {
       "incoming": 11,
@@ -6599,6 +6619,16 @@
       "outgoing": 9,
       "total": 12
     },
+    "publication-2026-limits-velocity-recovery-pursue": {
+      "incoming": 7,
+      "outgoing": 9,
+      "total": 16
+    },
+    "pursue": {
+      "incoming": 4,
+      "outgoing": 2,
+      "total": 6
+    },
     "queensland-saucer-nests": {
       "incoming": 1,
       "outgoing": 1,
@@ -6613,6 +6643,11 @@
       "incoming": 2,
       "outgoing": 2,
       "total": 4
+    },
+    "ravi-kopparapu": {
+      "incoming": 1,
+      "outgoing": 2,
+      "total": 3
     },
     "raytheon": {
       "incoming": 2,

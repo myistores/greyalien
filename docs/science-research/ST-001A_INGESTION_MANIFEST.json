@@ -1,7 +1,8 @@
 {
   "manifest_id": "ST-001A-INGESTION-001",
   "repository_base": "V23.6D.1",
-  "status": "PROPOSED_HUMAN_REVIEW_REQUIRED",
+  "last_enriched_by": "V23.6D.3",
+  "status": "LIVE_AND_ENRICHED",
   "create_entities": [
     {
       "id": "image-video-analysis",
@@ -183,5 +184,14 @@
     "Photogrammetry",
     "Parallax & Apparent Motion",
     "Video Compression & Processing Artifacts"
+  ],
+  "related_research": [
+    {
+      "id": "publication-2026-limits-velocity-recovery-pursue",
+      "title": "Limits on Velocity Recovery from the PURSUE Sensor Videos",
+      "publication_status": "arXiv preprint",
+      "relationship": "foundational kinematic observability study",
+      "added_by": "V23.6D.3"
+    }
   ]
 }

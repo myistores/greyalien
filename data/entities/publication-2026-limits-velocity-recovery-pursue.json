@@ -1,0 +1,119 @@
+{
+  "id": "publication-2026-limits-velocity-recovery-pursue",
+  "type": "publication",
+  "entitySubtype": "Scientific Preprint",
+  "name": "Limits on Velocity Recovery from the PURSUE Sensor Videos",
+  "summary": "Scientific preprint by Jacob Haqq-Misra and Ravi Kopparapu analyzing all 112 released PURSUE airborne sensor videos. The authors find that no clip contains the complete information needed to recover physical velocity and use PR113 and PR149 to demonstrate both inference degeneracy and a bounded case.",
+  "date": "2026-08-12",
+  "dateDisplay": "August 12, 2026",
+  "eventCategory": "UAP sensor-video methodology",
+  "relationships": [
+    {
+      "type": "references_person",
+      "target": "jacob-haqq-misra",
+      "role": "corresponding author"
+    },
+    {
+      "type": "references_person",
+      "target": "ravi-kopparapu",
+      "role": "co-author"
+    },
+    {
+      "type": "references_organization",
+      "target": "pursue",
+      "role": "dataset analyzed",
+      "context": "The paper reviews all 112 videos in the five released PURSUE tranches."
+    },
+    {
+      "type": "references_topic",
+      "target": "image-video-analysis",
+      "role": "foundational related research",
+      "context": "The paper demonstrates why apparent image motion does not uniquely determine physical velocity without range, platform motion, aspect/range-rate and sensor scale.",
+      "researchPacket": "S&T-001A",
+      "confidenceGrade": "A",
+      "confidenceScore": 100
+    },
+    {
+      "type": "references_organization",
+      "target": "department-of-defense",
+      "role": "dataset source"
+    },
+    {
+      "type": "references_organization",
+      "target": "galileo-project",
+      "role": "multi-sensor comparison"
+    },
+    {
+      "type": "contains_claim",
+      "target": "claim-pursue-corpus-insufficient-kinematics"
+    },
+    {
+      "type": "contains_claim",
+      "target": "claim-pr113-kinematic-degeneracy"
+    },
+    {
+      "type": "contains_claim",
+      "target": "claim-pr149-relative-velocity-bound"
+    }
+  ],
+  "officialLinks": [],
+  "referenceSources": [
+    {
+      "label": "arXiv abstract and paper — version 1",
+      "url": "https://arxiv.org/abs/2608.12445",
+      "sourceType": "scientific_preprint",
+      "role": "primary_reference"
+    },
+    {
+      "label": "AARO — Official UAP Imagery",
+      "url": "https://www.aaro.mil/uap-cases/official-uap-imagery/",
+      "sourceType": "government_source",
+      "role": "dataset_source"
+    }
+  ],
+  "publicationMetadata": {
+    "authors": [
+      "Jacob Haqq-Misra",
+      "Ravi Kopparapu"
+    ],
+    "repository": "arXiv",
+    "identifier": "arXiv:2608.12445",
+    "version": "v1",
+    "submitted": "August 12, 2026",
+    "publicationStatus": "Scientific preprint; peer review not established",
+    "subjects": [
+      "Popular Physics",
+      "Earth and Planetary Astrophysics",
+      "Instrumentation and Methods for Astrophysics"
+    ]
+  },
+  "researchLibraryMetadata": {
+    "knowledgePermanence": "permanent",
+    "methodology": "Reviews every released PURSUE video for measurable kinematic variables, derives the velocity-observability equations, classifies the 112 clips by tracked/transit behavior, and applies constrained analyses to PR113 and PR149.",
+    "dataset": "112 infrared and electro-optical airborne sensor videos released in five PURSUE tranches between late 2025 and mid-2026.",
+    "principalFindings": "No released clip provides the full set of information needed to recover physical velocity. PR113 demonstrates that widely different range-size-speed scenarios remain compatible with the pixels, while PR149 permits an upper relative-velocity bound near Mach 0.4 by using a vessel of known size as a reference.",
+    "limitations": "The analysis is limited to public, redacted video products. Missing platform velocity, sensor field-angle/pointing metadata, range or range-rate histories and corroborating tracks prevent stronger kinematic conclusions.",
+    "researchImplication": "Unredacted telemetry, flight logs, sensor metadata, range records or correlated radar observations are needed to test claims of anomalous motion; apparent image motion alone is not physical velocity."
+  },
+  "evidenceRecords": [
+    {
+      "id": "evidence-pr113",
+      "label": "DOW-UAP-PR113",
+      "objectType": "case_study",
+      "finding": "Visible angular graticule constrains camera scale, but absent range and platform data leave size and velocity degenerate.",
+      "promotedToEntity": false
+    },
+    {
+      "id": "evidence-pr149",
+      "label": "DOW-UAP-PR149",
+      "objectType": "case_study",
+      "finding": "A vessel of known size supplies an in-frame reference and supports an upper bound near Mach 0.4 on relative velocity.",
+      "promotedToEntity": false
+    }
+  ],
+  "editorialNotes": {
+    "neutrality": "The paper neither identifies the depicted objects nor demonstrates or excludes anomalous kinematics.",
+    "titleVerification": "The authoritative arXiv v1 title is used; the release's working scope title is not substituted for the publication title.",
+    "nasaHandling": "Ravi Kopparapu's NASA Goddard affiliation is recorded, but the preprint is not represented as a NASA agency finding."
+  }
+}

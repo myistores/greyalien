@@ -8,7 +8,14 @@
   "searchable": true,
   "taxonomyStatus": "canonical",
   "entitySubtype": "Scientific Method",
-  "relationships": [],
+  "relationships": [
+    {
+      "type": "references_publication",
+      "target": "publication-2026-limits-velocity-recovery-pursue",
+      "role": "foundational kinematic observability study",
+      "context": "The PURSUE paper operationalizes the topic's key principle that apparent image motion is not automatically physical velocity."
+    }
+  ],
   "officialLinks": [],
   "referenceSources": [
     {
@@ -88,6 +95,12 @@
       "url": "https://www.aaro.mil/Next-AARO-Home-redesign/Next-Parent/Presidential-UAP-Transparency-Initiative/videoid/1007707/dvpcc/false/",
       "sourceType": "government_source",
       "role": "primary_reference"
+    },
+    {
+      "label": "Haqq-Misra & Kopparapu — PURSUE velocity recovery preprint",
+      "url": "https://arxiv.org/abs/2608.12445",
+      "sourceType": "scientific_preprint",
+      "role": "related_research"
     }
   ],
   "scienceResearch": {
@@ -309,6 +322,26 @@
       {
         "name": "Photogrammetry",
         "status": "Planned"
+      }
+    ],
+    "relatedResearch": [
+      {
+        "id": "publication-2026-limits-velocity-recovery-pursue",
+        "title": "Limits on Velocity Recovery from the PURSUE Sensor Videos",
+        "publicationStatus": "arXiv preprint",
+        "relevance": "Dataset-wide demonstration of the metadata and geometry required for physical velocity inference from airborne sensor video."
+      },
+      {
+        "id": "publication-2026-limits-velocity-recovery-pursue",
+        "title": "Limits on Velocity Recovery from the PURSUE Sensor Videos",
+        "publicationStatus": "arXiv preprint",
+        "relevance": "Dataset-wide demonstration of the metadata and geometry required for physical velocity inference from airborne sensor video."
+      },
+      {
+        "id": "publication-2026-limits-velocity-recovery-pursue",
+        "title": "Limits on Velocity Recovery from the PURSUE Sensor Videos",
+        "publicationStatus": "arXiv preprint",
+        "relevance": "Dataset-wide demonstration of the metadata and geometry required for physical velocity inference from airborne sensor video."
       }
     ]
   }

@@ -18,46 +18,71 @@
   },
   "dateAdded": "2026-08-21",
   "relatedEntityIds": [
+    "publication-2026-limits-velocity-recovery-pursue",
+    "pursue",
+    "jacob-haqq-misra",
+    "ravi-kopparapu",
+    "image-video-analysis",
     "department-of-defense",
-    "scientific-investigation",
-    "uap-science-advisory-council",
-    "galileo-project"
+    "galileo-project",
+    "claim-pursue-corpus-insufficient-kinematics",
+    "claim-pr113-kinematic-degeneracy",
+    "claim-pr149-relative-velocity-bound"
   ],
   "relationships": [
     {
-      "type": "references_organization",
-      "target": "department-of-defense",
-      "context": "The article analyzes UAP sensor videos released by the Pentagon through the PURSUE program."
+      "type": "surfaces_publication",
+      "target": "publication-2026-limits-velocity-recovery-pursue",
+      "context": "The Debrief article is the timely news surface; the arXiv preprint is the permanent research object."
+    },
+    {
+      "type": "references_program",
+      "target": "pursue"
+    },
+    {
+      "type": "references_person",
+      "target": "jacob-haqq-misra"
+    },
+    {
+      "type": "references_person",
+      "target": "ravi-kopparapu"
     },
     {
       "type": "related_topic",
-      "target": "scientific-investigation",
-      "context": "The study focuses on measurement limits, sensor context, viewing geometry and the evidentiary requirements for reliable kinematic conclusions."
+      "target": "image-video-analysis"
     },
     {
       "type": "references_organization",
-      "target": "uap-science-advisory-council",
-      "context": "Both researchers serve on the UAP Science Advisory Council, which is described as developing recommendations for better UAP data collection and release."
+      "target": "department-of-defense"
     },
     {
       "type": "references_research_project",
-      "target": "galileo-project",
-      "context": "The Galileo Project is cited as an example of a multi-modal, multi-site observational approach using several sensor types."
+      "target": "galileo-project"
     }
   ],
   "editorialNotes": {
     "scientificStatus": "The underlying paper, Limits on Velocity Recovery from the PURSUE Sensor Videos, is an arXiv preprint and had not undergone peer review at publication time.",
     "evidenceHandling": "The record distinguishes unexplained imagery from evidence of anomalous velocity and does not infer extraordinary performance where range, geometry or platform-motion data are missing.",
     "gofastHandling": "GOFAST is discussed in the source as a comparison showing how additional telemetry can constrain apparent motion; no new GOFAST entity was created in V23.6B.",
-    "nasaHandling": "Ravi Kopparapu is affiliated with NASA Goddard, but the article explicitly states that his views are based on independent analysis and do not reflect NASA; NASA is therefore not used as a Connected Research relationship for this record."
+    "nasaHandling": "Ravi Kopparapu is affiliated with NASA Goddard, but the article explicitly states that his views are based on independent analysis and do not reflect NASA; NASA is therefore not used as a Connected Research relationship for this record.",
+    "lifecyclePrinciple": "News can age; knowledge does not. Archiving this coverage must not remove the permanent paper, claims, evidence or graph relationships.",
+    "sourceHierarchy": "The arXiv preprint is primary for scientific claims; The Debrief is the secondary news source."
   },
   "visibility": {
     "latestGateway": true,
     "entityDirectory": false,
-    "publicEntityType": false
+    "publicEntityType": false,
+    "landmark": false
   },
   "lifecycle": {
-    "archiveCompatible": true,
-    "automaticAgingEnabled": false
-  }
+    "status": "current",
+    "archiveEligible": true,
+    "automaticAgingEnabled": false,
+    "landmark": false
+  },
+  "contentType": "scientific_research_news",
+  "publicationDateDisplay": "August 20, 2026",
+  "primarySourceUrl": "https://arxiv.org/abs/2608.12445",
+  "newsStatus": "current",
+  "knowledgePermanence": "permanent"
 }

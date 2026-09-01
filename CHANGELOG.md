@@ -674,3 +674,11 @@ Migrated 257 podcast episodes and four series entities to the universal official
 - Selects the highest-priority valid Apple metadata candidate using deterministic confidence and source precedence.
 - Adds accepted/rejected diagnostics, insufficient-metadata reporting, nine regression fixtures, and focused parser tests.
 - Preserves workflows, schemas, proposal deduplication, approval gating, transactions, production media data, rendering, and knowledge-graph files.
+# V23.6D.3 — PURSUE Kinematic Inference Research + Cross-Gateway S&T Integration
+
+- Enriched the existing August 20 PURSUE news coverage with `newsStatus: current`, non-Landmark visibility and permanent extracted knowledge.
+- Added the authoritative arXiv v1 paper as a permanent Research Library publication.
+- Added PURSUE, Jacob Haqq-Misra, Ravi Kopparapu and three structured research claims after repository matching.
+- Added embedded PR113 and PR149 evidence records without premature standalone-entity creation.
+- Added reciprocal News ↔ Research Library and Research ↔ Image & Video Analysis navigation.
+- Preserved V23.6D.1 loading reliability, V23.6D.2 lifecycle semantics and the V23.6E Science & Technology architecture.

@@ -1,0 +1,39 @@
+{
+  "id": "claim-pr149-relative-velocity-bound",
+  "type": "claim",
+  "name": "PR149 supports an upper bound near Mach 0.4 on relative velocity",
+  "summary": "Using a vessel of known size as an in-frame reference, the paper derives an upper bound of approximately Mach 0.4 for the object's relative velocity in PR149 while leaving its identity and exact velocity unresolved.",
+  "claimStatus": "research_finding",
+  "evidenceClass": "Analytical Interpretation",
+  "relationships": [
+    {
+      "type": "references_publication",
+      "target": "publication-2026-limits-velocity-recovery-pursue",
+      "role": "primary evidence"
+    },
+    {
+      "type": "concerns",
+      "target": "pursue",
+      "role": "case study"
+    },
+    {
+      "type": "references_topic",
+      "target": "image-video-analysis",
+      "researchPacket": "S&T-001A",
+      "confidenceGrade": "A",
+      "confidenceScore": 99
+    }
+  ],
+  "officialLinks": [],
+  "referenceSources": [
+    {
+      "label": "arXiv:2608.12445v1 — PR149 analysis",
+      "url": "https://arxiv.org/html/2608.12445v1#S5",
+      "sourceType": "scientific_preprint",
+      "role": "primary_reference"
+    }
+  ],
+  "editorialNotes": {
+    "caution": "The bound concerns relative velocity under the authors' geometry; it does not identify the object."
+  }
+}

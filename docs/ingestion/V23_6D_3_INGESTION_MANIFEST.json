@@ -1,0 +1,57 @@
+{
+  "release": "V23.6D.3",
+  "title": "PURSUE Kinematic Inference Research + Cross-Gateway S&T Integration",
+  "base": "V23.6D.2",
+  "corePrinciple": "News can age; knowledge does not.",
+  "news": {
+    "id": "2026-08-20-debrief-pursue-video-analysis",
+    "action": "enriched_existing_record",
+    "newsStatus": "current",
+    "landmark": false,
+    "knowledgePermanence": "permanent"
+  },
+  "research": {
+    "id": "publication-2026-limits-velocity-recovery-pursue",
+    "title": "Limits on Velocity Recovery from the PURSUE Sensor Videos",
+    "identifier": "arXiv:2608.12445v1",
+    "publicationStatus": "Scientific preprint; peer review not established",
+    "knowledgePermanence": "permanent"
+  },
+  "claims": [
+    "claim-pursue-corpus-insufficient-kinematics",
+    "claim-pr113-kinematic-degeneracy",
+    "claim-pr149-relative-velocity-bound"
+  ],
+  "evidence": [
+    {"id": "evidence-pr113", "container": "publication-2026-limits-velocity-recovery-pursue", "standaloneEntity": false},
+    {"id": "evidence-pr149", "container": "publication-2026-limits-velocity-recovery-pursue", "standaloneEntity": false}
+  ],
+  "newEntities": [
+    "publication-2026-limits-velocity-recovery-pursue",
+    "pursue",
+    "jacob-haqq-misra",
+    "ravi-kopparapu",
+    "claim-pursue-corpus-insufficient-kinematics",
+    "claim-pr113-kinematic-degeneracy",
+    "claim-pr149-relative-velocity-bound"
+  ],
+  "reusedEntities": [
+    "image-video-analysis",
+    "department-of-defense",
+    "nasa",
+    "galileo-project"
+  ],
+  "crossGatewayPaths": [
+    "Latest UAP News -> permanent Research Library record",
+    "Research Library -> related News coverage",
+    "Research publication -> Image & Video Analysis",
+    "Image & Video Analysis -> related Research publication"
+  ],
+  "deferred": [
+    "Standalone PR113 and PR149 entities",
+    "Radar & Radar Systems topic",
+    "Infrared / FLIR topic",
+    "Bulk ingestion of all 112 videos",
+    "Automatic news expiration"
+  ]
+}

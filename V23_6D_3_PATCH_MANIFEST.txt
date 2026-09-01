@@ -1,0 +1,22 @@
+V23.6D.3 PATCH MANIFEST
+Base: V23.6D.2
+
+ADDED
+- 1 permanent arXiv Research Library publication
+- 1 PURSUE program entity
+- 2 author entities
+- 3 structured research claim entities
+- 2 embedded case-study evidence records (PR113 / PR149; not standalone entities)
+- 1 release ingestion manifest
+- 1 release validator
+
+ENRICHED
+- Existing August 20 Debrief PURSUE news record with current/non-landmark lifecycle fields
+- Latest UAP News card with permanent-research and S&T navigation
+- Image & Video Analysis with reciprocal related-research connection
+- Research Library with the permanent preprint record and related-news backlink
+
+PRESERVED
+- V23.6D.1 entity loading and precomputed reverse-relationship runtime
+- V23.6D.2 newsStatus / knowledgePermanence architecture
+- V23.6E Science & Technology gateway and S&T-001A presentation

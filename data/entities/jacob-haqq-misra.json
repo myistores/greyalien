@@ -1,0 +1,33 @@
+{
+  "id": "jacob-haqq-misra",
+  "type": "person",
+  "entitySubtype": "Research Scientist",
+  "name": "Jacob Haqq-Misra",
+  "summary": "Research scientist at Blue Marble Space Institute of Science whose work includes astrobiology, planetary habitability, technosignatures and scientific analysis of UAP data; corresponding author of the 2026 PURSUE kinematics preprint.",
+  "destinationPage": true,
+  "visibleInDirectory": true,
+  "searchable": true,
+  "taxonomyStatus": "canonical",
+  "relationships": [
+    {
+      "type": "authored",
+      "target": "publication-2026-limits-velocity-recovery-pursue",
+      "role": "corresponding author"
+    }
+  ],
+  "officialLinks": [
+    {
+      "label": "NASA Astrobiology — Ask an Astrobiologist",
+      "url": "https://astrobiology.nasa.gov/ask-an-astrobiologist/episodes/41/",
+      "linkType": "institutional_profile"
+    }
+  ],
+  "referenceSources": [
+    {
+      "label": "arXiv author metadata",
+      "url": "https://arxiv.org/abs/2608.12445",
+      "sourceType": "scientific_preprint",
+      "role": "primary_reference"
+    }
+  ]
+}

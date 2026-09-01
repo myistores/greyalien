@@ -2692,6 +2692,22 @@
       "_canonicalScore": 83
     },
     {
+      "id": "claim-pr113-kinematic-degeneracy",
+      "type": "claim",
+      "name": "PR113 permits radically different size, range and velocity interpretations",
+      "summary": "The paper uses PR113 to show that visible angular scale alone cannot distinguish a small nearby bird-like object from a much larger, faster and more distant object when range and platform data are missing.",
+      "_identityKey": "claim:name:pr113 permits radically different size range and velocity interpretations",
+      "_canonicalScore": 3
+    },
+    {
+      "id": "claim-pr149-relative-velocity-bound",
+      "type": "claim",
+      "name": "PR149 supports an upper bound near Mach 0.4 on relative velocity",
+      "summary": "Using a vessel of known size as an in-frame reference, the paper derives an upper bound of approximately Mach 0.4 for the object's relative velocity in PR149 while leaving its identity and exact velocity unresolved.",
+      "_identityKey": "claim:name:pr149 supports an upper bound near mach 0 4 on relative velocity",
+      "_canonicalScore": 3
+    },
+    {
       "id": "claim-presidential-action-could-bypass-stalled-process",
       "type": "claim",
       "name": "Presidential action could bypass a stalled process",
@@ -2850,6 +2866,14 @@
       "summary": "He explains that changing attitudes toward aviator reports made disclosure of his experiences more feasible.",
       "_identityKey": "claim:url:weaponizedpodcast.com/episodes-4/episode-106",
       "_canonicalScore": 83
+    },
+    {
+      "id": "claim-pursue-corpus-insufficient-kinematics",
+      "type": "claim",
+      "name": "Released PURSUE videos do not provide complete information for velocity recovery",
+      "summary": "Haqq-Misra and Kopparapu report that none of the 112 released PURSUE sensor videos contains the complete range, platform-motion, aspect/range-rate and sensor-scale information needed to recover physical velocity.",
+      "_identityKey": "claim:name:released pursue videos do not provide complete information for velocity recovery",
+      "_canonicalScore": 3
     },
     {
       "id": "claim-aawsap-files-could-aid-research",
@@ -7976,6 +8000,19 @@
       "_canonicalScore": 0
     },
     {
+      "id": "jacob-haqq-misra",
+      "type": "person",
+      "name": "Jacob Haqq-Misra",
+      "summary": "Research scientist at Blue Marble Space Institute of Science whose work includes astrobiology, planetary habitability, technosignatures and scientific analysis of UAP data; corresponding author of the 2026 PURSUE kinematics preprint.",
+      "destinationPage": true,
+      "visibleInDirectory": true,
+      "searchable": true,
+      "taxonomyStatus": "canonical",
+      "entitySubtype": "Research Scientist",
+      "_identityKey": "person:url:astrobiology.nasa.gov/ask-an-astrobiologist/episodes/41",
+      "_canonicalScore": 5
+    },
+    {
       "id": "jacques-vallee",
       "type": "person",
       "name": "Jacques Vallée",
@@ -8462,6 +8499,19 @@
       "summary": "Award-winning journalist and co-author of The New York Times’ December 2017 report on the Pentagon UFO program.",
       "_identityKey": "person:url:weaponizedpodcast.com/episodes-3/episode-68",
       "_canonicalScore": 83
+    },
+    {
+      "id": "ravi-kopparapu",
+      "type": "person",
+      "name": "Ravi Kopparapu",
+      "summary": "Planetary scientist at NASA Goddard Space Flight Center whose research includes exoplanet habitability and technosignatures; co-author of the 2026 PURSUE kinematics preprint in an independent research capacity.",
+      "destinationPage": true,
+      "visibleInDirectory": true,
+      "searchable": true,
+      "taxonomyStatus": "canonical",
+      "entitySubtype": "Planetary Scientist",
+      "_identityKey": "person:name:ravi kopparapu",
+      "_canonicalScore": 5
     },
     {
       "id": "richard-beckwith",
@@ -11907,6 +11957,19 @@
       "_canonicalScore": 0
     },
     {
+      "id": "pursue",
+      "type": "program",
+      "name": "PURSUE",
+      "summary": "Presidential Unsealing and Reporting System for UAP Encounters (PURSUE), a U.S. government initiative through which five tranches of UAP records—including 112 airborne sensor videos—were released between late 2025 and mid-2026.",
+      "destinationPage": true,
+      "visibleInDirectory": true,
+      "searchable": true,
+      "taxonomyStatus": "canonical",
+      "entitySubtype": "Government UAP Records Initiative",
+      "_identityKey": "program:name:pursue",
+      "_canonicalScore": 8
+    },
+    {
       "id": "uap-task-force",
       "type": "program",
       "name": "Unidentified Aerial Phenomena Task Force",
@@ -12018,6 +12081,18 @@
       "entitySubtype": "Publication / Media Outlet",
       "_identityKey": "publication:name:liberation times",
       "_canonicalScore": 2
+    },
+    {
+      "id": "publication-2026-limits-velocity-recovery-pursue",
+      "type": "publication",
+      "name": "Limits on Velocity Recovery from the PURSUE Sensor Videos",
+      "summary": "Scientific preprint by Jacob Haqq-Misra and Ravi Kopparapu analyzing all 112 released PURSUE airborne sensor videos. The authors find that no clip contains the complete information needed to recover physical velocity and use PR113 and PR149 to demonstrate both inference degeneracy and a bounded case.",
+      "entitySubtype": "Scientific Preprint",
+      "date": "2026-08-12",
+      "dateDisplay": "August 12, 2026",
+      "eventCategory": "UAP sensor-video methodology",
+      "_identityKey": "publication:name:limits on velocity recovery from the pursue sensor videos",
+      "_canonicalScore": 6
     },
     {
       "id": "los-alamos-monitor",
@@ -14433,7 +14508,7 @@
       "taxonomyStatus": "canonical",
       "entitySubtype": "Scientific Method",
       "_identityKey": "topic:name:image and video analysis",
-      "_canonicalScore": 39
+      "_canonicalScore": 42
     },
     {
       "id": "instantaneous-acceleration",

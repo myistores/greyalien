@@ -1,0 +1,38 @@
+{
+  "id": "claim-pursue-corpus-insufficient-kinematics",
+  "type": "claim",
+  "name": "Released PURSUE videos do not provide complete information for velocity recovery",
+  "summary": "Haqq-Misra and Kopparapu report that none of the 112 released PURSUE sensor videos contains the complete range, platform-motion, aspect/range-rate and sensor-scale information needed to recover physical velocity.",
+  "claimStatus": "research_finding",
+  "evidenceClass": "Analytical Interpretation",
+  "relationships": [
+    {
+      "type": "references_publication",
+      "target": "publication-2026-limits-velocity-recovery-pursue",
+      "role": "primary evidence"
+    },
+    {
+      "type": "concerns",
+      "target": "pursue"
+    },
+    {
+      "type": "references_topic",
+      "target": "image-video-analysis",
+      "researchPacket": "S&T-001A",
+      "confidenceGrade": "A",
+      "confidenceScore": 99
+    }
+  ],
+  "officialLinks": [],
+  "referenceSources": [
+    {
+      "label": "arXiv:2608.12445v1",
+      "url": "https://arxiv.org/abs/2608.12445",
+      "sourceType": "scientific_preprint",
+      "role": "primary_reference"
+    }
+  ],
+  "editorialNotes": {
+    "caution": "This finding neither identifies the objects nor demonstrates or excludes anomalous kinematics."
+  }
+}

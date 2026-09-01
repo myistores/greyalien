@@ -1,0 +1,47 @@
+{
+  "id": "pursue",
+  "type": "program",
+  "entitySubtype": "Government UAP Records Initiative",
+  "name": "PURSUE",
+  "summary": "Presidential Unsealing and Reporting System for UAP Encounters (PURSUE), a U.S. government initiative through which five tranches of UAP records—including 112 airborne sensor videos—were released between late 2025 and mid-2026.",
+  "destinationPage": true,
+  "visibleInDirectory": true,
+  "searchable": true,
+  "taxonomyStatus": "canonical",
+  "relationships": [
+    {
+      "type": "references_organization",
+      "target": "department-of-defense",
+      "context": "The official PURSUE records and videos were released by the U.S. government through Department of Defense channels."
+    },
+    {
+      "type": "references_publication",
+      "target": "publication-2026-limits-velocity-recovery-pursue",
+      "context": "The Haqq-Misra and Kopparapu preprint reviews all 112 released PURSUE sensor videos for kinematic observability."
+    }
+  ],
+  "officialLinks": [
+    {
+      "label": "AARO — PURSUE",
+      "url": "https://www.aaro.mil/",
+      "linkType": "government_source"
+    }
+  ],
+  "referenceSources": [
+    {
+      "label": "AARO — Official UAP Imagery",
+      "url": "https://www.aaro.mil/uap-cases/official-uap-imagery/",
+      "sourceType": "government_source",
+      "role": "dataset_source"
+    },
+    {
+      "label": "arXiv:2608.12445",
+      "url": "https://arxiv.org/abs/2608.12445",
+      "sourceType": "scientific_preprint",
+      "role": "dataset_catalog_reference"
+    }
+  ],
+  "editorialNotes": {
+    "acronymHandling": "Expanded only as stated by the authoritative government and primary-paper sources."
+  }
+}

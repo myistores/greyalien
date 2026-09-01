@@ -1,0 +1,39 @@
+{
+  "id": "claim-pr113-kinematic-degeneracy",
+  "type": "claim",
+  "name": "PR113 permits radically different size, range and velocity interpretations",
+  "summary": "The paper uses PR113 to show that visible angular scale alone cannot distinguish a small nearby bird-like object from a much larger, faster and more distant object when range and platform data are missing.",
+  "claimStatus": "research_finding",
+  "evidenceClass": "Analytical Interpretation",
+  "relationships": [
+    {
+      "type": "references_publication",
+      "target": "publication-2026-limits-velocity-recovery-pursue",
+      "role": "primary evidence"
+    },
+    {
+      "type": "concerns",
+      "target": "pursue",
+      "role": "case study"
+    },
+    {
+      "type": "references_topic",
+      "target": "image-video-analysis",
+      "researchPacket": "S&T-001A",
+      "confidenceGrade": "A",
+      "confidenceScore": 99
+    }
+  ],
+  "officialLinks": [],
+  "referenceSources": [
+    {
+      "label": "arXiv:2608.12445v1 — PR113 analysis",
+      "url": "https://arxiv.org/html/2608.12445v1#S4",
+      "sourceType": "scientific_preprint",
+      "role": "primary_reference"
+    }
+  ],
+  "editorialNotes": {
+    "caution": "The Mach 5 example illustrates inference degeneracy; it is not a claim that PR113 depicts a Mach 5 craft."
+  }
+}

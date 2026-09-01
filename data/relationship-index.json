@@ -13410,6 +13410,26 @@
     "claim-planned-uap-hearing-canceled": [],
     "claim-potential-uap-witnesses-faced-threats": [],
     "claim-potential-witnesses-contacted": [],
+    "claim-pr113-kinematic-degeneracy": [
+      {
+        "source": "publication-2026-limits-velocity-recovery-pursue",
+        "type": "contains_claim",
+        "meta": {
+          "type": "contains_claim",
+          "target": "claim-pr113-kinematic-degeneracy"
+        }
+      }
+    ],
+    "claim-pr149-relative-velocity-bound": [
+      {
+        "source": "publication-2026-limits-velocity-recovery-pursue",
+        "type": "contains_claim",
+        "meta": {
+          "type": "contains_claim",
+          "target": "claim-pr149-relative-velocity-bound"
+        }
+      }
+    ],
     "claim-presidential-action-could-bypass-stalled-process": [],
     "claim-previously-restricted-uap-imagery-entered-public-discussion": [],
     "claim-private-competition-crash-materials": [],
@@ -13431,6 +13451,16 @@
     ],
     "claim-public-reaction-largely-positive": [],
     "claim-public-record-still-supports-continued-inquiry": [],
+    "claim-pursue-corpus-insufficient-kinematics": [
+      {
+        "source": "publication-2026-limits-velocity-recovery-pursue",
+        "type": "contains_claim",
+        "meta": {
+          "type": "contains_claim",
+          "target": "claim-pursue-corpus-insufficient-kinematics"
+        }
+      }
+    ],
     "claim-reduced-stigma-encouraged-the-pilot-to-speak-publicly": [],
     "claim-representative-burlison-sought-access-to-highly-restricted-uap-related-sites": [],
     "claim-retaliation-can-occur-without-prosecution": [],
@@ -15766,6 +15796,24 @@
         }
       },
       {
+        "source": "publication-2026-limits-velocity-recovery-pursue",
+        "type": "references_organization",
+        "meta": {
+          "type": "references_organization",
+          "target": "department-of-defense",
+          "role": "dataset source"
+        }
+      },
+      {
+        "source": "pursue",
+        "type": "references_organization",
+        "meta": {
+          "type": "references_organization",
+          "target": "department-of-defense",
+          "context": "The official PURSUE records and videos were released by the U.S. government through Department of Defense channels."
+        }
+      },
+      {
         "source": "sean-kirkpatrick",
         "type": "affiliated_with",
         "meta": {
@@ -16456,6 +16504,15 @@
           "type": "affiliated_with",
           "target": "galileo-project",
           "role": "research affiliate / collaborator"
+        }
+      },
+      {
+        "source": "publication-2026-limits-velocity-recovery-pursue",
+        "type": "references_organization",
+        "meta": {
+          "type": "references_organization",
+          "target": "galileo-project",
+          "role": "multi-sensor comparison"
         }
       },
       {
@@ -19938,6 +19995,39 @@
         }
       },
       {
+        "source": "claim-pr113-kinematic-degeneracy",
+        "type": "references_topic",
+        "meta": {
+          "type": "references_topic",
+          "target": "image-video-analysis",
+          "researchPacket": "S&T-001A",
+          "confidenceGrade": "A",
+          "confidenceScore": 99
+        }
+      },
+      {
+        "source": "claim-pr149-relative-velocity-bound",
+        "type": "references_topic",
+        "meta": {
+          "type": "references_topic",
+          "target": "image-video-analysis",
+          "researchPacket": "S&T-001A",
+          "confidenceGrade": "A",
+          "confidenceScore": 99
+        }
+      },
+      {
+        "source": "claim-pursue-corpus-insufficient-kinematics",
+        "type": "references_topic",
+        "meta": {
+          "type": "references_topic",
+          "target": "image-video-analysis",
+          "researchPacket": "S&T-001A",
+          "confidenceGrade": "A",
+          "confidenceScore": 99
+        }
+      },
+      {
         "source": "claim-the-object-appears-to-accelerate-abruptly-after-sensor-lock",
         "type": "concerns",
         "meta": {
@@ -19959,6 +20049,19 @@
           "researchPacket": "S&T-001A",
           "confidenceGrade": "A",
           "confidenceScore": 99
+        }
+      },
+      {
+        "source": "publication-2026-limits-velocity-recovery-pursue",
+        "type": "references_topic",
+        "meta": {
+          "type": "references_topic",
+          "target": "image-video-analysis",
+          "role": "foundational related research",
+          "context": "The paper demonstrates why apparent image motion does not uniquely determine physical velocity without range, platform motion, aspect/range-rate and sensor scale.",
+          "researchPacket": "S&T-001A",
+          "confidenceGrade": "A",
+          "confidenceScore": 100
         }
       },
       {
@@ -20293,6 +20396,17 @@
           "target": "j-allen-hynek",
           "role": "co_author",
           "context": "Co-authored the publication with Jacques Vallée"
+        }
+      }
+    ],
+    "jacob-haqq-misra": [
+      {
+        "source": "publication-2026-limits-velocity-recovery-pursue",
+        "type": "references_person",
+        "meta": {
+          "type": "references_person",
+          "target": "jacob-haqq-misra",
+          "role": "corresponding author"
         }
       }
     ],
@@ -23922,6 +24036,15 @@
         }
       },
       {
+        "source": "ravi-kopparapu",
+        "type": "affiliated_with",
+        "meta": {
+          "type": "affiliated_with",
+          "target": "nasa",
+          "context": "NASA Goddard affiliation; the paper is represented as independent scholarly work rather than an agency finding."
+        }
+      },
+      {
         "source": "scott-kelly",
         "type": "affiliated_with",
         "meta": {
@@ -25181,6 +25304,110 @@
         }
       }
     ],
+    "publication-2026-limits-velocity-recovery-pursue": [
+      {
+        "source": "claim-pr113-kinematic-degeneracy",
+        "type": "references_publication",
+        "meta": {
+          "type": "references_publication",
+          "target": "publication-2026-limits-velocity-recovery-pursue",
+          "role": "primary evidence"
+        }
+      },
+      {
+        "source": "claim-pr149-relative-velocity-bound",
+        "type": "references_publication",
+        "meta": {
+          "type": "references_publication",
+          "target": "publication-2026-limits-velocity-recovery-pursue",
+          "role": "primary evidence"
+        }
+      },
+      {
+        "source": "claim-pursue-corpus-insufficient-kinematics",
+        "type": "references_publication",
+        "meta": {
+          "type": "references_publication",
+          "target": "publication-2026-limits-velocity-recovery-pursue",
+          "role": "primary evidence"
+        }
+      },
+      {
+        "source": "image-video-analysis",
+        "type": "references_publication",
+        "meta": {
+          "type": "references_publication",
+          "target": "publication-2026-limits-velocity-recovery-pursue",
+          "role": "foundational kinematic observability study",
+          "context": "The PURSUE paper operationalizes the topic's key principle that apparent image motion is not automatically physical velocity."
+        }
+      },
+      {
+        "source": "jacob-haqq-misra",
+        "type": "authored",
+        "meta": {
+          "type": "authored",
+          "target": "publication-2026-limits-velocity-recovery-pursue",
+          "role": "corresponding author"
+        }
+      },
+      {
+        "source": "pursue",
+        "type": "references_publication",
+        "meta": {
+          "type": "references_publication",
+          "target": "publication-2026-limits-velocity-recovery-pursue",
+          "context": "The Haqq-Misra and Kopparapu preprint reviews all 112 released PURSUE sensor videos for kinematic observability."
+        }
+      },
+      {
+        "source": "ravi-kopparapu",
+        "type": "authored",
+        "meta": {
+          "type": "authored",
+          "target": "publication-2026-limits-velocity-recovery-pursue",
+          "role": "co-author"
+        }
+      }
+    ],
+    "pursue": [
+      {
+        "source": "claim-pr113-kinematic-degeneracy",
+        "type": "concerns",
+        "meta": {
+          "type": "concerns",
+          "target": "pursue",
+          "role": "case study"
+        }
+      },
+      {
+        "source": "claim-pr149-relative-velocity-bound",
+        "type": "concerns",
+        "meta": {
+          "type": "concerns",
+          "target": "pursue",
+          "role": "case study"
+        }
+      },
+      {
+        "source": "claim-pursue-corpus-insufficient-kinematics",
+        "type": "concerns",
+        "meta": {
+          "type": "concerns",
+          "target": "pursue"
+        }
+      },
+      {
+        "source": "publication-2026-limits-velocity-recovery-pursue",
+        "type": "references_organization",
+        "meta": {
+          "type": "references_organization",
+          "target": "pursue",
+          "role": "dataset analyzed",
+          "context": "The paper reviews all 112 videos in the five released PURSUE tranches."
+        }
+      }
+    ],
     "queensland-saucer-nests": [
       {
         "source": "2024-weaponized-episode-63",
@@ -25239,6 +25466,17 @@
           "target": "ralph-blumenthal",
           "role": "guest",
           "context": "Featured episode participant"
+        }
+      }
+    ],
+    "ravi-kopparapu": [
+      {
+        "source": "publication-2026-limits-velocity-recovery-pursue",
+        "type": "references_person",
+        "meta": {
+          "type": "references_person",
+          "target": "ravi-kopparapu",
+          "role": "co-author"
         }
       }
     ],
