@@ -11,6 +11,11 @@
     {
       "type": "addresses_topic",
       "target": "scientific-investigation"
+    },
+    {
+      "type": "references_person",
+      "target": "j-allen-hynek",
+      "role": "scientific consultant"
     }
   ],
   "officialLinks": [

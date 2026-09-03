@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "entityCount": 1628,
-  "relationshipCount": 3603,
+  "entityCount": 1636,
+  "relationshipCount": 3637,
   "unresolvedRelationshipCount": 56,
   "connectionCounts": {
     "1946-scandinavian-ghost-rockets": {
@@ -1555,9 +1555,9 @@
       "total": 2
     },
     "aaro": {
-      "incoming": 40,
-      "outgoing": 4,
-      "total": 44
+      "incoming": 43,
+      "outgoing": 7,
+      "total": 50
     },
     "aatip": {
       "incoming": 3,
@@ -1583,6 +1583,11 @@
       "incoming": 2,
       "outgoing": 2,
       "total": 4
+    },
+    "aerial-phenomena-research-organization": {
+      "incoming": 1,
+      "outgoing": 1,
+      "total": 2
     },
     "alex-dietrich": {
       "incoming": 1,
@@ -1853,6 +1858,11 @@
       "incoming": 0,
       "outgoing": 1,
       "total": 1
+    },
+    "claim-aaro-seeks-nufohrc-pre-1990-access": {
+      "incoming": 1,
+      "outgoing": 3,
+      "total": 4
     },
     "claim-aaro-withheld-videos-of-its-strongest-unresolved-cases": {
       "incoming": 0,
@@ -4289,6 +4299,11 @@
       "outgoing": 1,
       "total": 1
     },
+    "claim-nufohrc-sole-source-justification": {
+      "incoming": 1,
+      "outgoing": 2,
+      "total": 3
+    },
     "claim-nyt-ufo-report-faced-internal-resistance": {
       "incoming": 0,
       "outgoing": 1,
@@ -4378,6 +4393,11 @@
       "incoming": 0,
       "outgoing": 1,
       "total": 1
+    },
+    "claim-private-archives-preserve-historical-context": {
+      "incoming": 1,
+      "outgoing": 3,
+      "total": 4
     },
     "claim-private-competition-crash-materials": {
       "incoming": 0,
@@ -5704,6 +5724,11 @@
       "outgoing": 9,
       "total": 28
     },
+    "david-marler": {
+      "incoming": 1,
+      "outgoing": 1,
+      "total": 2
+    },
     "david-paulides": {
       "incoming": 1,
       "outgoing": 0,
@@ -5730,9 +5755,9 @@
       "total": 11
     },
     "department-of-defense": {
-      "incoming": 52,
+      "incoming": 53,
       "outgoing": 3,
-      "total": 55
+      "total": 56
     },
     "department-of-energy": {
       "incoming": 2,
@@ -5758,6 +5783,11 @@
       "incoming": 1,
       "outgoing": 4,
       "total": 5
+    },
+    "document-2026-aaro-nufohrc-sole-source-notice": {
+      "incoming": 5,
+      "outgoing": 8,
+      "total": 13
     },
     "douglas-kurth": {
       "incoming": 0,
@@ -5935,9 +5965,9 @@
       "total": 0
     },
     "government-transparency": {
-      "incoming": 164,
+      "incoming": 166,
       "outgoing": 0,
-      "total": 164
+      "total": 166
     },
     "hal-puthoff": {
       "incoming": 3,
@@ -6055,9 +6085,9 @@
       "total": 1
     },
     "j-allen-hynek": {
-      "incoming": 3,
-      "outgoing": 2,
-      "total": 5
+      "incoming": 5,
+      "outgoing": 4,
+      "total": 9
     },
     "jacob-haqq-misra": {
       "incoming": 1,
@@ -6475,9 +6505,9 @@
       "total": 16
     },
     "national-archives": {
-      "incoming": 1,
-      "outgoing": 1,
-      "total": 2
+      "incoming": 3,
+      "outgoing": 2,
+      "total": 5
     },
     "national-defense-authorization-act-fy2022": {
       "incoming": 2,
@@ -6503,6 +6533,11 @@
       "incoming": 1,
       "outgoing": 0,
       "total": 1
+    },
+    "national-ufo-historical-records-center": {
+      "incoming": 8,
+      "outgoing": 5,
+      "total": 13
     },
     "nazca-mummies": {
       "incoming": 1,
@@ -6575,9 +6610,9 @@
       "total": 2
     },
     "project-blue-book": {
-      "incoming": 4,
-      "outgoing": 2,
-      "total": 6
+      "incoming": 5,
+      "outgoing": 3,
+      "total": 8
     },
     "project-on-government-oversight": {
       "incoming": 1,
@@ -6653,6 +6688,11 @@
       "incoming": 2,
       "outgoing": 0,
       "total": 2
+    },
+    "record-group-615-uap-records-collection": {
+      "incoming": 4,
+      "outgoing": 4,
+      "total": 8
     },
     "rendlesham-forest-incident": {
       "incoming": 3,
@@ -7890,9 +7930,9 @@
       "total": 1
     },
     "uap-disclosure": {
-      "incoming": 31,
+      "incoming": 32,
       "outgoing": 0,
-      "total": 31
+      "total": 32
     },
     "uap-disclosure-act-2023": {
       "incoming": 2,

@@ -1,0 +1,34 @@
+{
+  "id": "aerial-phenomena-research-organization",
+  "type": "organization",
+  "name": "Aerial Phenomena Research Organization",
+  "entitySubtype": "Historical Civilian UFO Research Organization",
+  "summary": "Civilian UFO research organization founded in the early 1950s, commonly known as APRO, whose historical files are reported among the legacy collections preserved by NUFOHRC.",
+  "destinationPage": true,
+  "visibleInDirectory": true,
+  "searchable": true,
+  "taxonomyStatus": "canonical",
+  "aliases": [
+    "APRO"
+  ],
+  "relationships": [
+    {
+      "type": "references_organization",
+      "target": "national-ufo-historical-records-center",
+      "role": "legacy records preserved by",
+      "context": "This relationship records archival custody, not organizational succession or endorsement."
+    }
+  ],
+  "officialLinks": [],
+  "referenceSources": [
+    {
+      "label": "DefenseScoop archive report",
+      "url": "https://defensescoop.com/2026/09/02/pentagon-seeks-access-to-vast-private-ufo-records-collection/",
+      "sourceType": "news_report",
+      "role": "archive_provenance"
+    }
+  ],
+  "editorialNotes": {
+    "historicalTreatment": "The organization and its surviving records are represented historically; its case conclusions are not automatically treated as established facts."
+  }
+}

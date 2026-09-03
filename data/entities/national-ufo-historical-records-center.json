@@ -1,0 +1,67 @@
+{
+  "id": "national-ufo-historical-records-center",
+  "type": "organization",
+  "name": "National UFO Historical Records Center",
+  "entitySubtype": "Nonprofit Historical Archive",
+  "summary": "New Mexico nonprofit organization that collects, preserves, digitizes, catalogs and works to provide access to historical UFO/UAP documents, media, case files and research collections.",
+  "destinationPage": true,
+  "visibleInDirectory": true,
+  "searchable": true,
+  "taxonomyStatus": "canonical",
+  "isCanonical": true,
+  "aliases": [
+    "NUFOHRC",
+    "National Unidentified Flying Object Historic Records Center"
+  ],
+  "relationships": [
+    {
+      "type": "references_person",
+      "target": "david-marler",
+      "role": "founder and director"
+    },
+    {
+      "type": "references_organization",
+      "target": "aerial-phenomena-research-organization",
+      "role": "preserves legacy collection",
+      "context": "DefenseScoop reports that NUFOHRC took custody of the complete historical files of an early civilian scientific UFO research group; the APRO connection is represented as archive provenance."
+    },
+    {
+      "type": "references_person",
+      "target": "j-allen-hynek",
+      "role": "preserves personal records",
+      "context": "DefenseScoop reports that rare personal files formerly belonging to J. Allen Hynek are held within the archive."
+    },
+    {
+      "type": "references_publication",
+      "target": "document-2026-aaro-nufohrc-sole-source-notice",
+      "role": "intended subscription source"
+    },
+    {
+      "type": "addresses_topic",
+      "target": "government-transparency"
+    }
+  ],
+  "officialLinks": [
+    {
+      "label": "National UFO Historical Records Center",
+      "url": "https://nufohrc.org/",
+      "linkType": "official_website"
+    }
+  ],
+  "referenceSources": [
+    {
+      "label": "DefenseScoop archive and procurement report",
+      "url": "https://defensescoop.com/2026/09/02/pentagon-seeks-access-to-vast-private-ufo-records-collection/",
+      "sourceType": "news_report",
+      "role": "secondary_reference"
+    }
+  ],
+  "archiveMetadata": {
+    "mission": "Collect, preserve, digitize, catalog and provide access to historical UFO/UAP materials.",
+    "location": "Rio Rancho, New Mexico",
+    "organizationStatus": "501(c)(3) nonprofit corporation",
+    "holdingsScope": "Historical documents, books, journals, newspapers, photographs, analog audio and video, case files and physical artifacts.",
+    "scaleCaution": "Descriptions such as 'largest' and 'hundreds of thousands' are source-attributed claims, not independently audited GreyAlien measurements.",
+    "evidenceCaution": "Archival custody preserves historical evidence and research provenance; it does not authenticate every claim contained in the records."
+  }
+}

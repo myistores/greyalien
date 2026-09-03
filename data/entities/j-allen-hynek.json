@@ -15,6 +15,16 @@
       "target": "1968-07-29-house-ufo-symposium",
       "role": "Witness or participant",
       "date": "1968-07-29"
+    },
+    {
+      "type": "affiliated_with",
+      "target": "project-blue-book",
+      "role": "scientific consultant"
+    },
+    {
+      "type": "references_organization",
+      "target": "national-ufo-historical-records-center",
+      "role": "personal records reportedly preserved by"
     }
   ],
   "officialLinks": [],

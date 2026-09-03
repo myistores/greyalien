@@ -682,3 +682,11 @@ Migrated 257 podcast episodes and four series entities to the universal official
 - Added embedded PR113 and PR149 evidence records without premature standalone-entity creation.
 - Added reciprocal News ↔ Research Library and Research ↔ Image & Video Analysis navigation.
 - Preserved V23.6D.1 loading reliability, V23.6D.2 lifecycle semantics and the V23.6E Science & Technology architecture.
+# V23.6D.4 — AARO Access to Private UFO Archives + Historical Records Integration
+
+- Added the September 2 DefenseScoop report to Latest UAP News as current/non-Landmark.
+- Added SAM.gov notice NUFOHRC_20260731 as a permanent Government Document in the Research Library.
+- Added canonical NUFOHRC, David Marler, APRO and Record Group 615 records after repository matching.
+- Added three structured claims with government-document and archive provenance.
+- Preserved the distinctions between proposed and awarded procurement, subscription and ownership, private and federal archives, and archival custody and claim authentication.
+- Preserved V23.6D.1 loading reliability and V23.6D.2–D.3 lifecycle/permanent-knowledge behavior.

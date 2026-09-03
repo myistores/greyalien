@@ -512,6 +512,14 @@
       "_canonicalScore": 83
     },
     {
+      "id": "claim-aaro-seeks-nufohrc-pre-1990-access",
+      "type": "claim",
+      "name": "AARO seeks subscription access to NUFOHRC’s pre-1990 historical records",
+      "summary": "A Department of Defense notice states an intent to obtain commercial subscription access for AARO to pre-1990 historical UAP data, metadata and analytical products associated with NUFOHRC.",
+      "_identityKey": "claim:name:aaro seeks subscription access to nufohrcs pre 1990 historical records",
+      "_canonicalScore": 3
+    },
+    {
       "id": "claim-aaro-withheld-videos-of-its-strongest-unresolved-cases",
       "type": "claim",
       "name": "AARO withheld videos of its strongest unresolved cases",
@@ -1706,6 +1714,14 @@
       "_canonicalScore": 83
     },
     {
+      "id": "claim-nufohrc-sole-source-justification",
+      "type": "claim",
+      "name": "Government market research identified NUFOHRC as the only source meeting stated archive requirements",
+      "summary": "The government’s stated sole-source rationale says market research found no other organization with the historical depth, volume of unique records and specialized analytical expertise needed to meet its minimum requirements.",
+      "_identityKey": "claim:name:government market research identified nufohrc as the only source meeting stated archive requirements",
+      "_canonicalScore": 3
+    },
+    {
       "id": "claim-need-to-know-21-4",
       "type": "claim",
       "name": "Government secrecy and limited data access make reform difficult because researchers cannot independently evaluate many official claims.",
@@ -2722,6 +2738,14 @@
       "summary": "The hosts state that images and videos previously held on government systems were unveiled or confirmed during the year.",
       "_identityKey": "claim:url:weaponizedpodcast.com/episodes-4/episode-103",
       "_canonicalScore": 83
+    },
+    {
+      "id": "claim-private-archives-preserve-historical-context",
+      "type": "claim",
+      "name": "Private civilian archives may preserve UAP records absent from government repositories",
+      "summary": "Civilian researchers and organizations may retain historical UAP records or provenance that became fragmented, unindexed or unavailable through government repositories after official investigations ended.",
+      "_identityKey": "claim:name:private civilian archives may preserve uap records absent from government repositories",
+      "_canonicalScore": 6
     },
     {
       "id": "claim-public-professional-forums-can-normalize-serious-uap-discussion",
@@ -6598,6 +6622,22 @@
       "_canonicalScore": 86
     },
     {
+      "id": "document-2026-aaro-nufohrc-sole-source-notice",
+      "type": "document",
+      "name": "Notice of Intent to Sole Source: Historical UAP Data and Analysis Subscription",
+      "summary": "Washington Headquarters Services notice of intent to award a sole-source, firm-fixed-price subscription for AARO access to pre-1990 historical UAP data, metadata and analytical products associated with NUFOHRC. GreyAlien records this as a proposed procurement, not a verified completed award.",
+      "destinationPage": true,
+      "visibleInDirectory": true,
+      "searchable": true,
+      "taxonomyStatus": "canonical",
+      "entitySubtype": "Government Contracting Notice",
+      "date": "2026-07-31",
+      "dateDisplay": "July 31, 2026",
+      "eventCategory": "Government procurement notice",
+      "_identityKey": "document:name:notice of intent to sole source historical uap data and analysis subscription",
+      "_canonicalScore": 5
+    },
+    {
       "id": "2023-house-uap-hearing-transcript",
       "type": "document",
       "name": "Official July 2023 Hearing Transcript",
@@ -6612,6 +6652,19 @@
       "summary": "Official transcript of the May 17, 2022 House hearing",
       "_identityKey": "document:name:official may 2022 hearing transcript",
       "_canonicalScore": 0
+    },
+    {
+      "id": "record-group-615-uap-records-collection",
+      "type": "document",
+      "name": "Record Group 615 — Unidentified Anomalous Phenomena Records Collection",
+      "summary": "National Archives collection established under sections 1841–1843 of the FY2024 National Defense Authorization Act to receive UAP records transferred by federal agencies on an ongoing basis.",
+      "destinationPage": true,
+      "visibleInDirectory": true,
+      "searchable": true,
+      "taxonomyStatus": "canonical",
+      "entitySubtype": "Government Records Collection",
+      "_identityKey": "document:name:record group 615 unidentified anomalous phenomena records collection",
+      "_canonicalScore": 2
     },
     {
       "id": "the-day-after-roswell",
@@ -7046,6 +7099,19 @@
       "_canonicalScore": 83
     },
     {
+      "id": "aerial-phenomena-research-organization",
+      "type": "organization",
+      "name": "Aerial Phenomena Research Organization",
+      "summary": "Civilian UFO research organization founded in the early 1950s, commonly known as APRO, whose historical files are reported among the legacy collections preserved by NUFOHRC.",
+      "destinationPage": true,
+      "visibleInDirectory": true,
+      "searchable": true,
+      "taxonomyStatus": "canonical",
+      "entitySubtype": "Historical Civilian UFO Research Organization",
+      "_identityKey": "organization:name:aerial phenomena research organization",
+      "_canonicalScore": 3
+    },
+    {
       "id": "aaro",
       "type": "organization",
       "name": "All-domain Anomaly Resolution Office",
@@ -7264,7 +7330,7 @@
       "name": "National Archives and Records Administration",
       "summary": "Federal agency responsible for preserving and providing access to government records.",
       "_identityKey": "organization:name:national archives and records administration",
-      "_canonicalScore": 2
+      "_canonicalScore": 5
     },
     {
       "id": "national-institute-for-discovery-science",
@@ -7281,6 +7347,19 @@
       "summary": "National Press Club is referenced in WEAPONIZED Episodes #103–#112.",
       "_identityKey": "organization:name:national press club",
       "_canonicalScore": 0
+    },
+    {
+      "id": "national-ufo-historical-records-center",
+      "type": "organization",
+      "name": "National UFO Historical Records Center",
+      "summary": "New Mexico nonprofit organization that collects, preserves, digitizes, catalogs and works to provide access to historical UFO/UAP documents, media, case files and research collections.",
+      "destinationPage": true,
+      "visibleInDirectory": true,
+      "searchable": true,
+      "taxonomyStatus": "canonical",
+      "entitySubtype": "Nonprofit Historical Archive",
+      "_identityKey": "organization:name:national ufo historical records center",
+      "_canonicalScore": 1005
     },
     {
       "id": "new-paradigm-institute",
@@ -7805,6 +7884,19 @@
       "name": "David Grusch",
       "summary": "Former U.S. intelligence officer who testified publicly before Congress in July 2023",
       "_identityKey": "person:name:david grusch",
+      "_canonicalScore": 6
+    },
+    {
+      "id": "david-marler",
+      "type": "person",
+      "name": "David Marler",
+      "summary": "UAP historian, archival collector and founder of the National UFO Historical Records Center, associated with preserving major legacy collections of UFO/UAP documents and media.",
+      "destinationPage": true,
+      "visibleInDirectory": true,
+      "searchable": true,
+      "taxonomyStatus": "canonical",
+      "entitySubtype": "UAP Historian and Archivist",
+      "_identityKey": "person:name:david marler",
       "_canonicalScore": 6
     },
     {

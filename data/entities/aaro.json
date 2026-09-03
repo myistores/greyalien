@@ -19,6 +19,21 @@
     {
       "type": "held_by",
       "target": "department-of-defense"
+    },
+    {
+      "type": "references_publication",
+      "target": "document-2026-aaro-nufohrc-sole-source-notice",
+      "role": "historical-data subscription notice"
+    },
+    {
+      "type": "references_organization",
+      "target": "national-ufo-historical-records-center",
+      "role": "proposed subscription source"
+    },
+    {
+      "type": "references_publication",
+      "target": "record-group-615-uap-records-collection",
+      "role": "related historical-record mandate"
     }
   ],
   "organizationPurpose": "Provide a centralized process for UAP reporting, analysis, case resolution, historical review, and congressional reporting.",

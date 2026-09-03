@@ -1,0 +1,88 @@
+{
+  "id": "document-2026-aaro-nufohrc-sole-source-notice",
+  "type": "document",
+  "name": "Notice of Intent to Sole Source: Historical UAP Data and Analysis Subscription",
+  "entitySubtype": "Government Contracting Notice",
+  "summary": "Washington Headquarters Services notice of intent to award a sole-source, firm-fixed-price subscription for AARO access to pre-1990 historical UAP data, metadata and analytical products associated with NUFOHRC. GreyAlien records this as a proposed procurement, not a verified completed award.",
+  "date": "2026-07-31",
+  "dateDisplay": "July 31, 2026",
+  "eventCategory": "Government procurement notice",
+  "destinationPage": true,
+  "visibleInDirectory": true,
+  "searchable": true,
+  "taxonomyStatus": "canonical",
+  "relationships": [
+    {
+      "type": "references_organization",
+      "target": "aaro",
+      "role": "requiring office"
+    },
+    {
+      "type": "references_organization",
+      "target": "department-of-defense",
+      "role": "parent department"
+    },
+    {
+      "type": "references_organization",
+      "target": "national-ufo-historical-records-center",
+      "role": "intended sole source"
+    },
+    {
+      "type": "references_organization",
+      "target": "national-archives",
+      "role": "related federal records context"
+    },
+    {
+      "type": "references_publication",
+      "target": "record-group-615-uap-records-collection",
+      "role": "complementary government archive"
+    },
+    {
+      "type": "contains_claim",
+      "target": "claim-aaro-seeks-nufohrc-pre-1990-access"
+    },
+    {
+      "type": "contains_claim",
+      "target": "claim-nufohrc-sole-source-justification"
+    },
+    {
+      "type": "contains_claim",
+      "target": "claim-private-archives-preserve-historical-context"
+    }
+  ],
+  "officialLinks": [
+    {
+      "label": "SAM.gov opportunity a1b98934796e4bb3bb7215780ce82131",
+      "url": "https://sam.gov/opp/a1b98934796e4bb3bb7215780ce82131/view",
+      "linkType": "government_record"
+    }
+  ],
+  "referenceSources": [
+    {
+      "label": "DefenseScoop reporting",
+      "url": "https://defensescoop.com/2026/09/02/pentagon-seeks-access-to-vast-private-ufo-records-collection/",
+      "sourceType": "news_report",
+      "role": "related_coverage"
+    }
+  ],
+  "procurementMetadata": {
+    "noticeId": "NUFOHRC_20260731",
+    "agency": "Washington Headquarters Services",
+    "requiringOffice": "All-domain Anomaly Resolution Office",
+    "noticeType": "Notice of intent to award sole source",
+    "contractType": "Firm-fixed-price commercial data subscription",
+    "postedDate": "July 31, 2026",
+    "capabilityStatementDeadline": "August 17, 2026, 11:00 a.m. Eastern",
+    "scheduledArchiveDate": "September 1, 2026",
+    "periodOfPerformance": "One-year base period plus four one-year option periods",
+    "scope": "Digital subscription access to proprietary pre-1990 historical UAP data, metadata and analytical products; not professional labor or advisory services.",
+    "awardStatus": "No completed award independently verified by GreyAlien as of September 3, 2026",
+    "ownershipCaution": "The contemplated transaction concerns subscription access, not government ownership or physical acquisition of the archive."
+  },
+  "researchLibraryMetadata": {
+    "knowledgePermanence": "permanent",
+    "recordClass": "Government procurement document",
+    "primarySource": "SAM.gov",
+    "relatedNewsId": "2026-09-02-defensescoop-aaro-nufohrc-access"
+  }
+}

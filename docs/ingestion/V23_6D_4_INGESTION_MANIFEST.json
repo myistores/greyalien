@@ -1,0 +1,57 @@
+{
+  "release": "V23.6D.4",
+  "title": "AARO Access to Private UFO Archives + Historical Records Integration",
+  "base": "V23.6D.3",
+  "corePrinciple": "News can age; knowledge does not.",
+  "news": {
+    "id": "2026-09-02-defensescoop-aaro-nufohrc-access",
+    "newsStatus": "current",
+    "landmark": false,
+    "knowledgePermanence": "permanent"
+  },
+  "governmentDocument": {
+    "id": "document-2026-aaro-nufohrc-sole-source-notice",
+    "noticeId": "NUFOHRC_20260731",
+    "status": "Notice of intent to award; completed award not independently verified",
+    "knowledgePermanence": "permanent"
+  },
+  "newEntities": [
+    "document-2026-aaro-nufohrc-sole-source-notice",
+    "national-ufo-historical-records-center",
+    "david-marler",
+    "aerial-phenomena-research-organization",
+    "record-group-615-uap-records-collection",
+    "claim-aaro-seeks-nufohrc-pre-1990-access",
+    "claim-nufohrc-sole-source-justification",
+    "claim-private-archives-preserve-historical-context"
+  ],
+  "reusedEntities": [
+    "aaro",
+    "department-of-defense",
+    "national-archives",
+    "j-allen-hynek",
+    "project-blue-book",
+    "government-transparency",
+    "uap-disclosure"
+  ],
+  "provenanceDistinctions": [
+    "NUFOHRC is a private nonprofit archive; Record Group 615 is a federal records collection.",
+    "Subscription access does not transfer physical archive ownership.",
+    "Government access does not authenticate every archived claim.",
+    "The sole-source rationale is attributed to government market research, not adopted as an independent GreyAlien ranking."
+  ],
+  "crossGatewayPaths": [
+    "Latest UAP News -> Government Contracting Notice",
+    "Government Contracting Notice -> Related News",
+    "AARO -> NUFOHRC",
+    "NUFOHRC -> David Marler / APRO / J. Allen Hynek",
+    "AARO historical-review context -> Record Group 615"
+  ],
+  "deferred": [
+    "Individual archive case ingestion",
+    "Bulk APRO or Project Blue Book ingestion",
+    "Proprietary NUFOHRC materials",
+    "Automatic procurement-status monitoring",
+    "Automatic news expiration"
+  ]
+}

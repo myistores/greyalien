@@ -1,0 +1,33 @@
+{
+  "id": "david-marler",
+  "type": "person",
+  "name": "David Marler",
+  "entitySubtype": "UAP Historian and Archivist",
+  "summary": "UAP historian, archival collector and founder of the National UFO Historical Records Center, associated with preserving major legacy collections of UFO/UAP documents and media.",
+  "destinationPage": true,
+  "visibleInDirectory": true,
+  "searchable": true,
+  "taxonomyStatus": "canonical",
+  "relationships": [
+    {
+      "type": "affiliated_with",
+      "target": "national-ufo-historical-records-center",
+      "role": "founder and director"
+    }
+  ],
+  "officialLinks": [],
+  "referenceSources": [
+    {
+      "label": "NUFOHRC official website",
+      "url": "https://nufohrc.org/",
+      "sourceType": "organization_website",
+      "role": "primary_reference"
+    },
+    {
+      "label": "DefenseScoop archive report",
+      "url": "https://defensescoop.com/2026/09/02/pentagon-seeks-access-to-vast-private-ufo-records-collection/",
+      "sourceType": "news_report",
+      "role": "secondary_reference"
+    }
+  ]
+}

@@ -1,0 +1,80 @@
+{
+  "id": "2026-09-02-defensescoop-aaro-nufohrc-access",
+  "recordType": "news_record",
+  "contentType": "government_records_news",
+  "title": "Pentagon seeks access to vast private UFO records collection",
+  "source": "DefenseScoop",
+  "author": "Brandi Vincent",
+  "publicationDate": "2026-09-02",
+  "publicationDateDisplay": "September 2, 2026",
+  "originalUrl": "https://defensescoop.com/2026/09/02/pentagon-seeks-access-to-vast-private-ufo-records-collection/",
+  "primarySourceUrl": "https://sam.gov/opp/a1b98934796e4bb3bb7215780ce82131/view",
+  "summary": "DefenseScoop reports that AARO is moving toward a sole-source commercial subscription for digital access to pre-1990 historical UFO/UAP records held by the National UFO Historical Records Center. The proposed access could help AARO reconstruct government UAP history from 1945 onward, but it neither transfers ownership of the physical archive nor authenticates every claim in the preserved records.",
+  "dateAdded": "2026-09-03",
+  "newsStatus": "current",
+  "knowledgePermanence": "permanent",
+  "relatedEntityIds": [
+    "document-2026-aaro-nufohrc-sole-source-notice",
+    "aaro",
+    "national-ufo-historical-records-center",
+    "david-marler",
+    "record-group-615-uap-records-collection",
+    "national-archives",
+    "aerial-phenomena-research-organization",
+    "j-allen-hynek",
+    "project-blue-book",
+    "government-transparency"
+  ],
+  "relationships": [
+    {
+      "type": "surfaces_publication",
+      "target": "document-2026-aaro-nufohrc-sole-source-notice",
+      "context": "The DefenseScoop article is the timely news surface; the SAM.gov notice remains the permanent government record."
+    },
+    {
+      "type": "references_organization",
+      "target": "aaro"
+    },
+    {
+      "type": "references_organization",
+      "target": "national-ufo-historical-records-center"
+    },
+    {
+      "type": "references_person",
+      "target": "david-marler"
+    },
+    {
+      "type": "references_publication",
+      "target": "record-group-615-uap-records-collection"
+    },
+    {
+      "type": "references_organization",
+      "target": "aerial-phenomena-research-organization"
+    },
+    {
+      "type": "references_person",
+      "target": "j-allen-hynek"
+    },
+    {
+      "type": "references_organization",
+      "target": "project-blue-book"
+    }
+  ],
+  "visibility": {
+    "latestGateway": true,
+    "publicEntityDirectory": false,
+    "landmark": false
+  },
+  "lifecycle": {
+    "status": "current",
+    "archiveEligible": true,
+    "automaticAgingEnabled": false,
+    "landmark": false
+  },
+  "editorialNotes": {
+    "sourceHierarchy": "The SAM.gov contracting notice is primary for procurement facts; DefenseScoop is the secondary news source.",
+    "statusDiscipline": "The notice is represented as an intent to award. GreyAlien has not verified a completed award as of September 3, 2026.",
+    "archiveDiscipline": "Government access to historical records does not validate every claim contained in those records.",
+    "lifecyclePrinciple": "News can age; knowledge does not. Archiving this news record must not remove the notice, archive provenance, entities or graph relationships."
+  }
+}

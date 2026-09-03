@@ -10000,6 +10000,23 @@
         }
       },
       {
+        "source": "claim-aaro-seeks-nufohrc-pre-1990-access",
+        "type": "concerns",
+        "meta": {
+          "type": "concerns",
+          "target": "aaro"
+        }
+      },
+      {
+        "source": "document-2026-aaro-nufohrc-sole-source-notice",
+        "type": "references_organization",
+        "meta": {
+          "type": "references_organization",
+          "target": "aaro",
+          "role": "requiring office"
+        }
+      },
+      {
         "source": "dylan-borland",
         "type": "affiliated_with",
         "meta": {
@@ -10014,6 +10031,15 @@
         "meta": {
           "type": "involved_organization",
           "target": "aaro"
+        }
+      },
+      {
+        "source": "record-group-615-uap-records-collection",
+        "type": "references_organization",
+        "meta": {
+          "type": "references_organization",
+          "target": "aaro",
+          "role": "related federal historical-review context"
         }
       },
       {
@@ -10232,6 +10258,18 @@
         "meta": {
           "type": "affiliated_with",
           "target": "advanced-theoretical-physics-program"
+        }
+      }
+    ],
+    "aerial-phenomena-research-organization": [
+      {
+        "source": "national-ufo-historical-records-center",
+        "type": "references_organization",
+        "meta": {
+          "type": "references_organization",
+          "target": "aerial-phenomena-research-organization",
+          "role": "preserves legacy collection",
+          "context": "DefenseScoop reports that NUFOHRC took custody of the complete historical files of an early civilian scientific UFO research group; the APRO connection is represented as archive provenance."
         }
       }
     ],
@@ -12321,6 +12359,16 @@
     "claim-aaro-assessed-that-some-cases-were-neither-friendly-nor-adversary-technology": [],
     "claim-aaro-identified-roughly-40-to-50-cases-with-bizarre-unexplained-capabilities": [],
     "claim-aaro-jellyfish-explanation-disputed": [],
+    "claim-aaro-seeks-nufohrc-pre-1990-access": [
+      {
+        "source": "document-2026-aaro-nufohrc-sole-source-notice",
+        "type": "contains_claim",
+        "meta": {
+          "type": "contains_claim",
+          "target": "claim-aaro-seeks-nufohrc-pre-1990-access"
+        }
+      }
+    ],
     "claim-aaro-withheld-videos-of-its-strongest-unresolved-cases": [],
     "claim-aawsap-built-a-large-ufo-data-warehouse": [
       {
@@ -13361,6 +13409,16 @@
       }
     ],
     "claim-nimitz-two-week-sensor-detections": [],
+    "claim-nufohrc-sole-source-justification": [
+      {
+        "source": "document-2026-aaro-nufohrc-sole-source-notice",
+        "type": "contains_claim",
+        "meta": {
+          "type": "contains_claim",
+          "target": "claim-nufohrc-sole-source-justification"
+        }
+      }
+    ],
     "claim-nyt-ufo-report-faced-internal-resistance": [],
     "claim-object-crashed-near-area-51": [],
     "claim-official-investigations-faced-internal-opposition": [],
@@ -13432,6 +13490,16 @@
     ],
     "claim-presidential-action-could-bypass-stalled-process": [],
     "claim-previously-restricted-uap-imagery-entered-public-discussion": [],
+    "claim-private-archives-preserve-historical-context": [
+      {
+        "source": "document-2026-aaro-nufohrc-sole-source-notice",
+        "type": "contains_claim",
+        "meta": {
+          "type": "contains_claim",
+          "target": "claim-private-archives-preserve-historical-context"
+        }
+      }
+    ],
     "claim-private-competition-crash-materials": [],
     "claim-program-access-highly-restricted": [],
     "claim-progress-requires-better-data-and-open-inquiry": [],
@@ -15320,6 +15388,17 @@
         }
       }
     ],
+    "david-marler": [
+      {
+        "source": "national-ufo-historical-records-center",
+        "type": "references_person",
+        "meta": {
+          "type": "references_person",
+          "target": "david-marler",
+          "role": "founder and director"
+        }
+      }
+    ],
     "david-paulides": [
       {
         "source": "2025-weaponized-episode-100",
@@ -15752,6 +15831,15 @@
         }
       },
       {
+        "source": "document-2026-aaro-nufohrc-sole-source-notice",
+        "type": "references_organization",
+        "meta": {
+          "type": "references_organization",
+          "target": "department-of-defense",
+          "role": "parent department"
+        }
+      },
+      {
         "source": "event-2026-03-31-house-requests-uap-videos",
         "type": "event_for",
         "meta": {
@@ -15935,6 +16023,53 @@
         "meta": {
           "type": "documented_by",
           "target": "document-2002-10-16-wilson-davis-notes"
+        }
+      }
+    ],
+    "document-2026-aaro-nufohrc-sole-source-notice": [
+      {
+        "source": "aaro",
+        "type": "references_publication",
+        "meta": {
+          "type": "references_publication",
+          "target": "document-2026-aaro-nufohrc-sole-source-notice",
+          "role": "historical-data subscription notice"
+        }
+      },
+      {
+        "source": "claim-aaro-seeks-nufohrc-pre-1990-access",
+        "type": "references_publication",
+        "meta": {
+          "type": "references_publication",
+          "target": "document-2026-aaro-nufohrc-sole-source-notice",
+          "role": "primary evidence"
+        }
+      },
+      {
+        "source": "claim-nufohrc-sole-source-justification",
+        "type": "references_publication",
+        "meta": {
+          "type": "references_publication",
+          "target": "document-2026-aaro-nufohrc-sole-source-notice",
+          "role": "primary evidence"
+        }
+      },
+      {
+        "source": "claim-private-archives-preserve-historical-context",
+        "type": "references_publication",
+        "meta": {
+          "type": "references_publication",
+          "target": "document-2026-aaro-nufohrc-sole-source-notice",
+          "role": "government rationale"
+        }
+      },
+      {
+        "source": "national-ufo-historical-records-center",
+        "type": "references_publication",
+        "meta": {
+          "type": "references_publication",
+          "target": "document-2026-aaro-nufohrc-sole-source-notice",
+          "role": "intended subscription source"
         }
       }
     ],
@@ -19052,6 +19187,14 @@
         }
       },
       {
+        "source": "national-ufo-historical-records-center",
+        "type": "addresses_topic",
+        "meta": {
+          "type": "addresses_topic",
+          "target": "government-transparency"
+        }
+      },
+      {
         "source": "need-to-know-podcast",
         "type": "discussed_topic",
         "meta": {
@@ -19061,6 +19204,14 @@
       },
       {
         "source": "new-paradigm-institute",
+        "type": "addresses_topic",
+        "meta": {
+          "type": "addresses_topic",
+          "target": "government-transparency"
+        }
+      },
+      {
+        "source": "record-group-615-uap-records-collection",
         "type": "addresses_topic",
         "meta": {
           "type": "addresses_topic",
@@ -20386,6 +20537,25 @@
           "type": "collaborated_with",
           "target": "j-allen-hynek",
           "role": "Research collaborator"
+        }
+      },
+      {
+        "source": "national-ufo-historical-records-center",
+        "type": "references_person",
+        "meta": {
+          "type": "references_person",
+          "target": "j-allen-hynek",
+          "role": "preserves personal records",
+          "context": "DefenseScoop reports that rare personal files formerly belonging to J. Allen Hynek are held within the archive."
+        }
+      },
+      {
+        "source": "project-blue-book",
+        "type": "references_person",
+        "meta": {
+          "type": "references_person",
+          "target": "j-allen-hynek",
+          "role": "scientific consultant"
         }
       },
       {
@@ -24161,6 +24331,24 @@
           "type": "held_by",
           "target": "national-archives"
         }
+      },
+      {
+        "source": "document-2026-aaro-nufohrc-sole-source-notice",
+        "type": "references_organization",
+        "meta": {
+          "type": "references_organization",
+          "target": "national-archives",
+          "role": "related federal records context"
+        }
+      },
+      {
+        "source": "record-group-615-uap-records-collection",
+        "type": "held_by",
+        "meta": {
+          "type": "held_by",
+          "target": "national-archives",
+          "context": "NARA established and maintains Record Group 615."
+        }
       }
     ],
     "national-defense-authorization-act-fy2022": [
@@ -24300,6 +24488,78 @@
         "meta": {
           "type": "discussed_topic",
           "target": "national-space-symposium"
+        }
+      }
+    ],
+    "national-ufo-historical-records-center": [
+      {
+        "source": "aaro",
+        "type": "references_organization",
+        "meta": {
+          "type": "references_organization",
+          "target": "national-ufo-historical-records-center",
+          "role": "proposed subscription source"
+        }
+      },
+      {
+        "source": "aerial-phenomena-research-organization",
+        "type": "references_organization",
+        "meta": {
+          "type": "references_organization",
+          "target": "national-ufo-historical-records-center",
+          "role": "legacy records preserved by",
+          "context": "This relationship records archival custody, not organizational succession or endorsement."
+        }
+      },
+      {
+        "source": "claim-aaro-seeks-nufohrc-pre-1990-access",
+        "type": "concerns",
+        "meta": {
+          "type": "concerns",
+          "target": "national-ufo-historical-records-center"
+        }
+      },
+      {
+        "source": "claim-nufohrc-sole-source-justification",
+        "type": "concerns",
+        "meta": {
+          "type": "concerns",
+          "target": "national-ufo-historical-records-center"
+        }
+      },
+      {
+        "source": "claim-private-archives-preserve-historical-context",
+        "type": "concerns",
+        "meta": {
+          "type": "concerns",
+          "target": "national-ufo-historical-records-center"
+        }
+      },
+      {
+        "source": "david-marler",
+        "type": "affiliated_with",
+        "meta": {
+          "type": "affiliated_with",
+          "target": "national-ufo-historical-records-center",
+          "role": "founder and director"
+        }
+      },
+      {
+        "source": "document-2026-aaro-nufohrc-sole-source-notice",
+        "type": "references_organization",
+        "meta": {
+          "type": "references_organization",
+          "target": "national-ufo-historical-records-center",
+          "role": "intended sole source"
+        }
+      },
+      {
+        "source": "j-allen-hynek",
+        "type": "references_organization",
+        "meta": {
+          "type": "references_organization",
+          "target": "national-ufo-historical-records-center",
+          "role": "personal records reportedly preserved by"
         }
       }
     ],
@@ -25208,6 +25468,15 @@
           "type": "discussed_topic",
           "target": "project-blue-book"
         }
+      },
+      {
+        "source": "j-allen-hynek",
+        "type": "affiliated_with",
+        "meta": {
+          "type": "affiliated_with",
+          "target": "project-blue-book",
+          "role": "scientific consultant"
+        }
       }
     ],
     "project-on-government-oversight": [
@@ -25498,6 +25767,43 @@
           "target": "raytheon",
           "role": "employer",
           "context": "Employer identified in Hecker's public account"
+        }
+      }
+    ],
+    "record-group-615-uap-records-collection": [
+      {
+        "source": "aaro",
+        "type": "references_publication",
+        "meta": {
+          "type": "references_publication",
+          "target": "record-group-615-uap-records-collection",
+          "role": "related historical-record mandate"
+        }
+      },
+      {
+        "source": "claim-private-archives-preserve-historical-context",
+        "type": "concerns",
+        "meta": {
+          "type": "concerns",
+          "target": "record-group-615-uap-records-collection"
+        }
+      },
+      {
+        "source": "document-2026-aaro-nufohrc-sole-source-notice",
+        "type": "references_publication",
+        "meta": {
+          "type": "references_publication",
+          "target": "record-group-615-uap-records-collection",
+          "role": "complementary government archive"
+        }
+      },
+      {
+        "source": "national-archives",
+        "type": "references_publication",
+        "meta": {
+          "type": "references_publication",
+          "target": "record-group-615-uap-records-collection",
+          "role": "maintains federal UAP records collection"
         }
       }
     ],
@@ -29255,6 +29561,14 @@
           "target": "uap-disclosure",
           "context": "Considers how public acknowledgment or disclosure could alter geopolitical competition and international security.",
           "role": "subject"
+        }
+      },
+      {
+        "source": "record-group-615-uap-records-collection",
+        "type": "addresses_topic",
+        "meta": {
+          "type": "addresses_topic",
+          "target": "uap-disclosure"
         }
       }
     ],

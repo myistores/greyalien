@@ -1,0 +1,44 @@
+{
+  "id": "record-group-615-uap-records-collection",
+  "type": "document",
+  "name": "Record Group 615 — Unidentified Anomalous Phenomena Records Collection",
+  "entitySubtype": "Government Records Collection",
+  "summary": "National Archives collection established under sections 1841–1843 of the FY2024 National Defense Authorization Act to receive UAP records transferred by federal agencies on an ongoing basis.",
+  "destinationPage": true,
+  "visibleInDirectory": true,
+  "searchable": true,
+  "taxonomyStatus": "canonical",
+  "relationships": [
+    {
+      "type": "held_by",
+      "target": "national-archives",
+      "context": "NARA established and maintains Record Group 615."
+    },
+    {
+      "type": "addresses_topic",
+      "target": "government-transparency"
+    },
+    {
+      "type": "addresses_topic",
+      "target": "uap-disclosure"
+    },
+    {
+      "type": "references_organization",
+      "target": "aaro",
+      "role": "related federal historical-review context"
+    }
+  ],
+  "officialLinks": [
+    {
+      "label": "National Archives — Record Group 615",
+      "url": "https://www.archives.gov/research/topics/uaps",
+      "linkType": "government_record"
+    }
+  ],
+  "referenceSources": [],
+  "recordsCollectionMetadata": {
+    "authority": "FY2024 NDAA, Public Law 118-31, sections 1841–1843",
+    "accessionStatus": "Rolling transfers from federal agencies",
+    "distinction": "Federal records collection; separate from the privately held NUFOHRC archive."
+  }
+}

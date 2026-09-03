@@ -1,0 +1,41 @@
+{
+  "id": "claim-private-archives-preserve-historical-context",
+  "type": "claim",
+  "name": "Private civilian archives may preserve UAP records absent from government repositories",
+  "summary": "Civilian researchers and organizations may retain historical UAP records or provenance that became fragmented, unindexed or unavailable through government repositories after official investigations ended.",
+  "claimStatus": "supported_historical_research_rationale",
+  "evidenceClass": "Contextual Inference",
+  "relationships": [
+    {
+      "type": "references_publication",
+      "target": "document-2026-aaro-nufohrc-sole-source-notice",
+      "role": "government rationale"
+    },
+    {
+      "type": "concerns",
+      "target": "national-ufo-historical-records-center"
+    },
+    {
+      "type": "concerns",
+      "target": "record-group-615-uap-records-collection"
+    }
+  ],
+  "officialLinks": [],
+  "referenceSources": [
+    {
+      "label": "DefenseScoop historical archive report",
+      "url": "https://defensescoop.com/2026/09/02/pentagon-seeks-access-to-vast-private-ufo-records-collection/",
+      "sourceType": "news_report",
+      "role": "secondary_reference"
+    },
+    {
+      "label": "National Archives UAP records overview",
+      "url": "https://www.archives.gov/research/topics/uaps",
+      "sourceType": "government_record",
+      "role": "federal_archive_context"
+    }
+  ],
+  "editorialNotes": {
+    "caution": "This rationale does not establish that NUFOHRC holds undisclosed government secrets or that every archived report is authentic."
+  }
+}

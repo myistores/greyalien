@@ -1,0 +1,35 @@
+{
+  "id": "claim-aaro-seeks-nufohrc-pre-1990-access",
+  "type": "claim",
+  "name": "AARO seeks subscription access to NUFOHRC’s pre-1990 historical records",
+  "summary": "A Department of Defense notice states an intent to obtain commercial subscription access for AARO to pre-1990 historical UAP data, metadata and analytical products associated with NUFOHRC.",
+  "claimStatus": "government_documented_proposed_action",
+  "evidenceClass": "Government Record",
+  "relationships": [
+    {
+      "type": "references_publication",
+      "target": "document-2026-aaro-nufohrc-sole-source-notice",
+      "role": "primary evidence"
+    },
+    {
+      "type": "concerns",
+      "target": "aaro"
+    },
+    {
+      "type": "concerns",
+      "target": "national-ufo-historical-records-center"
+    }
+  ],
+  "officialLinks": [],
+  "referenceSources": [
+    {
+      "label": "SAM.gov contracting notice",
+      "url": "https://sam.gov/opp/a1b98934796e4bb3bb7215780ce82131/view",
+      "sourceType": "government_record",
+      "role": "primary_reference"
+    }
+  ],
+  "editorialNotes": {
+    "statusCaution": "Seeking or intending to award is not equivalent to a completed contract award."
+  }
+}

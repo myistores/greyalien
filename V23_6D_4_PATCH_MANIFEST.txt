@@ -1,0 +1,23 @@
+V23.6D.4 PATCH MANIFEST
+Base: V23.6D.3
+
+ADDED
+- 1 current/non-Landmark DefenseScoop news record
+- 1 permanent SAM.gov government-document record
+- 4 permanent archive/person/organization/records-collection entities
+- 3 structured claims
+- 1 release ingestion manifest
+- 1 release validator
+
+ENRICHED
+- AARO
+- National Archives and Records Administration
+- J. Allen Hynek
+- Project Blue Book
+- Latest UAP News gateway
+- Research Library gateway
+
+PRESERVED
+- V23.6D.1 entity-page loading and precomputed reverse-relationship runtime
+- V23.6D.2 newsStatus / knowledgePermanence architecture
+- V23.6D.3 PURSUE research and Image & Video Analysis integration

@@ -1,0 +1,31 @@
+{
+  "id": "claim-nufohrc-sole-source-justification",
+  "type": "claim",
+  "name": "Government market research identified NUFOHRC as the only source meeting stated archive requirements",
+  "summary": "The government’s stated sole-source rationale says market research found no other organization with the historical depth, volume of unique records and specialized analytical expertise needed to meet its minimum requirements.",
+  "claimStatus": "government_stated_procurement_justification",
+  "evidenceClass": "Government Record",
+  "relationships": [
+    {
+      "type": "references_publication",
+      "target": "document-2026-aaro-nufohrc-sole-source-notice",
+      "role": "primary evidence"
+    },
+    {
+      "type": "concerns",
+      "target": "national-ufo-historical-records-center"
+    }
+  ],
+  "officialLinks": [],
+  "referenceSources": [
+    {
+      "label": "SAM.gov contracting notice",
+      "url": "https://sam.gov/opp/a1b98934796e4bb3bb7215780ce82131/view",
+      "sourceType": "government_record",
+      "role": "primary_reference"
+    }
+  ],
+  "editorialNotes": {
+    "attribution": "This is the government's procurement justification, not an independently audited GreyAlien ranking of private archives."
+  }
+}

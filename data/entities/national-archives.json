@@ -7,6 +7,11 @@
     {
       "type": "addresses_topic",
       "target": "government-transparency"
+    },
+    {
+      "type": "references_publication",
+      "target": "record-group-615-uap-records-collection",
+      "role": "maintains federal UAP records collection"
     }
   ],
   "officialLinks": [
@@ -16,5 +21,12 @@
       "linkType": "official_website"
     }
   ],
-  "referenceSources": []
+  "referenceSources": [
+    {
+      "label": "NARA — UFO and UAP records",
+      "url": "https://www.archives.gov/research/topics/uaps",
+      "sourceType": "government_record",
+      "role": "primary_reference"
+    }
+  ]
 }
