@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "entityCount": 1636,
-  "relationshipCount": 3637,
+  "entityCount": 1650,
+  "relationshipCount": 3678,
   "unresolvedRelationshipCount": 56,
   "connectionCounts": {
     "1946-scandinavian-ghost-rockets": {
@@ -2283,6 +2283,31 @@
       "incoming": 1,
       "outgoing": 1,
       "total": 2
+    },
+    "claim-european-barometer-2025-total": {
+      "incoming": 1,
+      "outgoing": 2,
+      "total": 3
+    },
+    "claim-european-barometer-infrastructure-effect": {
+      "incoming": 1,
+      "outgoing": 2,
+      "total": 3
+    },
+    "claim-european-barometer-source-nonequivalence": {
+      "incoming": 1,
+      "outgoing": 2,
+      "total": 3
+    },
+    "claim-european-barometer-uneven-coverage": {
+      "incoming": 1,
+      "outgoing": 2,
+      "total": 3
+    },
+    "claim-european-barometer-unresolved-outcomes": {
+      "incoming": 1,
+      "outgoing": 2,
+      "total": 3
     },
     "claim-excessive-secrecy-stifles-inquiry": {
       "incoming": 1,
@@ -5839,6 +5864,11 @@
       "outgoing": 1,
       "total": 1
     },
+    "enigma-labs": {
+      "incoming": 1,
+      "outgoing": 1,
+      "total": 2
+    },
     "eric-burlison": {
       "incoming": 5,
       "outgoing": 1,
@@ -5873,6 +5903,11 @@
       "incoming": 1,
       "outgoing": 1,
       "total": 2
+    },
+    "european-uap-barometer": {
+      "incoming": 1,
+      "outgoing": 4,
+      "total": 5
     },
     "event-2023-house-hearing-held": {
       "incoming": 0,
@@ -5948,6 +5983,11 @@
       "incoming": 0,
       "outgoing": 3,
       "total": 3
+    },
+    "geipan": {
+      "incoming": 1,
+      "outgoing": 1,
+      "total": 2
     },
     "george-knapp": {
       "incoming": 128,
@@ -6484,6 +6524,11 @@
       "outgoing": 0,
       "total": 1
     },
+    "mutual-ufo-network": {
+      "incoming": 1,
+      "outgoing": 1,
+      "total": 2
+    },
     "mystery-drone-incursions": {
       "incoming": 5,
       "outgoing": 1,
@@ -6538,6 +6583,11 @@
       "incoming": 8,
       "outgoing": 5,
       "total": 13
+    },
+    "national-ufo-reporting-center": {
+      "incoming": 1,
+      "outgoing": 1,
+      "total": 2
     },
     "nazca-mummies": {
       "incoming": 1,
@@ -6604,6 +6654,11 @@
       "outgoing": 4,
       "total": 10
     },
+    "philippe-ailleris": {
+      "incoming": 3,
+      "outgoing": 3,
+      "total": 6
+    },
     "piia-wirsu": {
       "incoming": 1,
       "outgoing": 1,
@@ -6644,6 +6699,11 @@
       "outgoing": 2,
       "total": 3
     },
+    "publication-2025-european-uap-barometer-2019-2024": {
+      "incoming": 4,
+      "outgoing": 3,
+      "total": 7
+    },
     "publication-2026-civilizational-risks-uap-technology-arms-race": {
       "incoming": 0,
       "outgoing": 6,
@@ -6653,6 +6713,11 @@
       "incoming": 3,
       "outgoing": 9,
       "total": 12
+    },
+    "publication-2026-european-uap-barometer-2020-2025": {
+      "incoming": 14,
+      "outgoing": 14,
+      "total": 28
     },
     "publication-2026-limits-velocity-recovery-pursue": {
       "incoming": 7,
@@ -6820,9 +6885,9 @@
       "total": 1
     },
     "scientific-investigation": {
-      "incoming": 51,
-      "outgoing": 0,
-      "total": 51
+      "incoming": 59,
+      "outgoing": 1,
+      "total": 60
     },
     "scott-bray": {
       "incoming": 0,
@@ -7920,6 +7985,11 @@
       "total": 2
     },
     "uap-caucus": {
+      "incoming": 2,
+      "outgoing": 2,
+      "total": 4
+    },
+    "uap-check": {
       "incoming": 2,
       "outgoing": 2,
       "total": 4

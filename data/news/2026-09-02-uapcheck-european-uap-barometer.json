@@ -1,0 +1,63 @@
+{
+  "id": "2026-09-02-uapcheck-european-uap-barometer",
+  "recordType": "news_record",
+  "contentType": "research_methodology_news",
+  "title": "European UAP Report Records 7,193 Events in 2025—but Warns That Reporting Growth Is Not Increased UAP Activity",
+  "source": "UAP Check",
+  "author": "Philippe Ailleris",
+  "publicationDate": "2026-09-02",
+  "publicationDateDisplay": "September 2, 2026",
+  "originalUrl": "https://www.uapcheck.com/news/updating-the-european-uap-barometer-reporting-trends-and-new-data-sources-2020-2025/3496/",
+  "primarySourceUrl": "https://www.uapcheck.com/news/updating-the-european-uap-barometer-reporting-trends-and-new-data-sources-2020-2025/3496/",
+  "summary": "Philippe Ailleris's European UAP Barometer update records 7,193 reports across included European reporting channels for 2025, while warning that infrastructure, platform adoption, publication practices and missing national data prevent those totals from being interpreted as the true frequency of anomalous phenomena.",
+  "dateAdded": "2026-09-07",
+  "newsStatus": "current",
+  "knowledgePermanence": "permanent",
+  "relatedEntityIds": [
+    "publication-2026-european-uap-barometer-2020-2025",
+    "philippe-ailleris",
+    "european-uap-barometer",
+    "uap-check",
+    "mutual-ufo-network",
+    "national-ufo-reporting-center",
+    "enigma-labs",
+    "geipan",
+    "scientific-investigation"
+  ],
+  "relationships": [
+    {
+      "type": "surfaces_publication",
+      "target": "publication-2026-european-uap-barometer-2020-2025",
+      "context": "The UAP Check publication is the timely news surface and the permanent research object represented in the Research Library."
+    },
+    {
+      "type": "references_person",
+      "target": "philippe-ailleris"
+    },
+    {
+      "type": "references_organization",
+      "target": "uap-check"
+    },
+    {
+      "type": "references_topic",
+      "target": "scientific-investigation"
+    }
+  ],
+  "visibility": {
+    "latestGateway": true,
+    "publicEntityDirectory": false,
+    "landmark": false
+  },
+  "lifecycle": {
+    "status": "current",
+    "archiveEligible": true,
+    "automaticAgingEnabled": false,
+    "landmark": false
+  },
+  "editorialNotes": {
+    "sourceHierarchy": "The UAP Check Version 1.0 report is both the original publication and primary research source.",
+    "statisticalDiscipline": "Aggregated report totals are not presented as confirmed UAPs, unresolved cases or true UAP incidence.",
+    "publicationStatus": "Publisher-hosted report; formal journal peer review not established.",
+    "lifecyclePrinciple": "News can age; knowledge does not."
+  }
+}

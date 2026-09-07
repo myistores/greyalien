@@ -1,0 +1,31 @@
+{
+  "id": "claim-european-barometer-infrastructure-effect",
+  "type": "claim",
+  "name": "Reporting infrastructure materially affects apparent UAP-report trends",
+  "summary": "The report finds that platform adoption, contributor continuity, publication practices, language, public awareness and reporting access can alter visible totals without establishing a change in underlying UAP incidence.",
+  "relationships": [
+    {
+      "type": "references_publication",
+      "target": "publication-2026-european-uap-barometer-2020-2025",
+      "role": "claim source"
+    },
+    {
+      "type": "references_topic",
+      "target": "scientific-investigation"
+    }
+  ],
+  "officialLinks": [],
+  "referenceSources": [
+    {
+      "label": "European UAP Barometer 2020–2025",
+      "url": "https://www.uapcheck.com/news/updating-the-european-uap-barometer-reporting-trends-and-new-data-sources-2020-2025/3496/",
+      "sourceType": "primary_research",
+      "role": "claim_source"
+    }
+  ],
+  "claimMetadata": {
+    "classification": "methodological_finding",
+    "knowledgePermanence": "permanent",
+    "caution": "The claim is attributed to the report and must retain its stated qualifications."
+  }
+}

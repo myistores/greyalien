@@ -1,0 +1,32 @@
+{
+  "id": "enigma-labs",
+  "type": "organization",
+  "name": "Enigma Labs",
+  "aliases": [
+    "Enigma"
+  ],
+  "summary": "Mobile application-based UAP reporting platform whose European data add a distinct digital reporting pathway to the Barometer for 2023–2025.",
+  "relationships": [
+    {
+      "type": "references_publication",
+      "target": "publication-2026-european-uap-barometer-2020-2025",
+      "context": "The organization or platform is an identified data source in the 2020–2025 European UAP Barometer.",
+      "role": "data provider"
+    }
+  ],
+  "officialLinks": [
+    {
+      "label": "Enigma Labs official website",
+      "url": "https://enigmalabs.io/",
+      "linkType": "official_website"
+    }
+  ],
+  "referenceSources": [
+    {
+      "label": "European UAP Barometer 2020–2025",
+      "url": "https://www.uapcheck.com/news/updating-the-european-uap-barometer-reporting-trends-and-new-data-sources-2020-2025/3496/",
+      "sourceType": "research_report",
+      "role": "data_source_documentation"
+    }
+  ]
+}

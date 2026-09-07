@@ -1,0 +1,31 @@
+{
+  "id": "claim-european-barometer-uneven-coverage",
+  "type": "claim",
+  "name": "European UAP reporting coverage remains geographically uneven",
+  "summary": "Countries with established organizations or visible platforms tend to produce more accessible reports, while low totals may reflect limited infrastructure or missing inputs rather than fewer observations.",
+  "relationships": [
+    {
+      "type": "references_publication",
+      "target": "publication-2026-european-uap-barometer-2020-2025",
+      "role": "claim source"
+    },
+    {
+      "type": "references_topic",
+      "target": "scientific-investigation"
+    }
+  ],
+  "officialLinks": [],
+  "referenceSources": [
+    {
+      "label": "European UAP Barometer 2020–2025",
+      "url": "https://www.uapcheck.com/news/updating-the-european-uap-barometer-reporting-trends-and-new-data-sources-2020-2025/3496/",
+      "sourceType": "primary_research",
+      "role": "claim_source"
+    }
+  ],
+  "claimMetadata": {
+    "classification": "dataset_limitation",
+    "knowledgePermanence": "permanent",
+    "caution": "The claim is attributed to the report and must retain its stated qualifications."
+  }
+}

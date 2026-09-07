@@ -1,0 +1,40 @@
+{
+  "id": "european-uap-barometer",
+  "type": "research_project",
+  "entitySubtype": "Comparative Reporting Framework",
+  "name": "European UAP Barometer",
+  "summary": "Collaborative research framework for documenting and comparing the European UAP reporting landscape while separating reporting-channel activity from the underlying incidence of anomalous phenomena.",
+  "relationships": [
+    {
+      "type": "references_publication",
+      "target": "publication-2026-european-uap-barometer-2020-2025",
+      "role": "2025 update"
+    },
+    {
+      "type": "references_publication",
+      "target": "publication-2025-european-uap-barometer-2019-2024",
+      "role": "previous edition"
+    },
+    {
+      "type": "references_person",
+      "target": "philippe-ailleris",
+      "role": "author"
+    },
+    {
+      "type": "references_topic",
+      "target": "scientific-investigation"
+    }
+  ],
+  "officialLinks": [],
+  "referenceSources": [
+    {
+      "label": "UAP Check — Version 1.0",
+      "url": "https://www.uapcheck.com/news/updating-the-european-uap-barometer-reporting-trends-and-new-data-sources-2020-2025/3496/",
+      "sourceType": "primary_research",
+      "role": "primary_reference"
+    }
+  ],
+  "methodologyMetadata": {
+    "coreDistinction": "Reporting totals measure activity in available reporting channels, not the true frequency of unusual aerial phenomena."
+  }
+}

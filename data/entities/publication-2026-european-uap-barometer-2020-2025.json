@@ -1,0 +1,191 @@
+{
+  "id": "publication-2026-european-uap-barometer-2020-2025",
+  "type": "publication",
+  "entitySubtype": "Research Report",
+  "name": "Updating the European UAP Barometer: Reporting Trends and New Data Sources, 2020–2025",
+  "summary": "Philippe Ailleris's Version 1.0 update aggregates European UAP reporting data for 2020–2025 across national organizations, MUFON, NUFORC and Enigma Labs while emphasizing that report counts measure reporting-system activity rather than the true frequency of anomalous phenomena.",
+  "date": "2026-09-02",
+  "dateDisplay": "September 2, 2026",
+  "eventCategory": "European UAP reporting methodology",
+  "relationships": [
+    {
+      "type": "references_person",
+      "target": "philippe-ailleris",
+      "role": "author"
+    },
+    {
+      "type": "published_by",
+      "target": "uap-check"
+    },
+    {
+      "type": "references_publication",
+      "target": "publication-2025-european-uap-barometer-2019-2024",
+      "context": "Version 1.0 extends the previous 2019–2024 Barometer with 2025 data, new reporting channels and a pilot unresolved-case inventory.",
+      "role": "updates"
+    },
+    {
+      "type": "concerns",
+      "target": "european-uap-barometer",
+      "role": "current edition"
+    },
+    {
+      "type": "references_organization",
+      "target": "mutual-ufo-network",
+      "role": "data source"
+    },
+    {
+      "type": "references_organization",
+      "target": "national-ufo-reporting-center",
+      "role": "data source"
+    },
+    {
+      "type": "references_organization",
+      "target": "enigma-labs",
+      "role": "data source"
+    },
+    {
+      "type": "references_organization",
+      "target": "geipan",
+      "role": "data source"
+    },
+    {
+      "type": "references_topic",
+      "target": "scientific-investigation",
+      "role": "methodological research"
+    },
+    {
+      "type": "contains_claim",
+      "target": "claim-european-barometer-2025-total"
+    },
+    {
+      "type": "contains_claim",
+      "target": "claim-european-barometer-infrastructure-effect"
+    },
+    {
+      "type": "contains_claim",
+      "target": "claim-european-barometer-uneven-coverage"
+    },
+    {
+      "type": "contains_claim",
+      "target": "claim-european-barometer-source-nonequivalence"
+    },
+    {
+      "type": "contains_claim",
+      "target": "claim-european-barometer-unresolved-outcomes"
+    }
+  ],
+  "officialLinks": [],
+  "referenceSources": [
+    {
+      "label": "UAP Check — European UAP Barometer Version 1.0",
+      "url": "https://www.uapcheck.com/news/updating-the-european-uap-barometer-reporting-trends-and-new-data-sources-2020-2025/3496/",
+      "sourceType": "research_report",
+      "role": "primary_reference"
+    }
+  ],
+  "publicationMetadata": {
+    "author": "Philippe Ailleris",
+    "publisher": "UAP Check",
+    "version": "1.0",
+    "published": "September 2, 2026",
+    "publicationStatus": "Publisher-hosted research report; formal journal peer review not established",
+    "studyPeriod": "2020–2025"
+  },
+  "researchLibraryMetadata": {
+    "knowledgePermanence": "permanent",
+    "methodology": "Aggregates annual and country-level data from national civilian or official organizations, MUFON, NUFORC and Enigma Labs while analyzing each source category separately and documenting changes in coverage, processing and publication.",
+    "dataset": "38,416 aggregated reports across the six-year study period, including 7,193 reports for 2025. Counts represent available reporting-channel records and are not asserted to be independent, investigated or unexplained cases.",
+    "principalFindings": "European reporting is uneven and strongly shaped by reporting infrastructure. The addition of mobile-app and retrospective national data changes the composition and visibility of the dataset; a pilot inventory suggests future value in tracking investigation outcomes separately from submission totals.",
+    "limitations": "Heterogeneous source methods, possible cross-platform overlap, a NUFORC processing/publication discontinuity around March 2023, missing or partial national inputs, changing contributor coverage and non-harmonized unresolved-case classifications limit direct comparison.",
+    "researchImplication": "Source-aware and outcome-aware indicators are necessary before report volumes can support meaningful geographic or temporal interpretation.",
+    "relatedNewsId": "2026-09-02-uapcheck-european-uap-barometer"
+  },
+  "annualReportingTotals": [
+    {
+      "year": 2020,
+      "nationalOrganizations": 6042,
+      "mufon": 707,
+      "nuforc": 118,
+      "enigma": null,
+      "total": 6867
+    },
+    {
+      "year": 2021,
+      "nationalOrganizations": 4325,
+      "mufon": 578,
+      "nuforc": 93,
+      "enigma": null,
+      "total": 4996
+    },
+    {
+      "year": 2022,
+      "nationalOrganizations": 5010,
+      "mufon": 731,
+      "nuforc": 277,
+      "enigma": null,
+      "total": 6018
+    },
+    {
+      "year": 2023,
+      "nationalOrganizations": 4595,
+      "mufon": 718,
+      "nuforc": 262,
+      "enigma": 829,
+      "total": 6404
+    },
+    {
+      "year": 2024,
+      "nationalOrganizations": 4446,
+      "mufon": 449,
+      "nuforc": 336,
+      "enigma": 1707,
+      "total": 6938
+    },
+    {
+      "year": 2025,
+      "nationalOrganizations": 4480,
+      "mufon": 586,
+      "nuforc": 492,
+      "enigma": 1635,
+      "total": 7193
+    }
+  ],
+  "evidenceRecords": [
+    {
+      "id": "evidence-barometer-annual-source-totals",
+      "objectType": "aggregate_table",
+      "finding": "Annual totals by source category for 2020–2025.",
+      "promotedToEntity": false
+    },
+    {
+      "id": "evidence-barometer-nuforc-2023-break",
+      "objectType": "methodological_discontinuity",
+      "finding": "NUFORC processing, grading and posting practices make comparisons across March 2023 uncertain.",
+      "promotedToEntity": false
+    },
+    {
+      "id": "evidence-barometer-enigma-channel",
+      "objectType": "new_reporting_channel",
+      "finding": "Enigma Labs adds a mobile-app reporting layer beginning in 2023.",
+      "promotedToEntity": false
+    },
+    {
+      "id": "evidence-barometer-missing-national-inputs",
+      "objectType": "coverage_limitation",
+      "finding": "Important national inputs remain missing or partial, including UK, Italian and Romanian contributions.",
+      "promotedToEntity": false
+    },
+    {
+      "id": "evidence-barometer-unresolved-pilot",
+      "objectType": "pilot_inventory",
+      "finding": "The unresolved-case inventory is incomplete and uses non-harmonized classifications.",
+      "promotedToEntity": false
+    }
+  ],
+  "editorialNotes": {
+    "centralCaution": "More recorded reports do not necessarily mean more UAP activity.",
+    "eventStatus": "Reported events are not confirmed anomalous, independent, investigated or unresolved events.",
+    "peerReview": "Acknowledged manuscript review is not represented as formal journal peer review.",
+    "versioning": "Version 1.0 is preserved as a permanent historical research object; later revisions should be linked rather than silently overwriting its published claims."
+  }
+}

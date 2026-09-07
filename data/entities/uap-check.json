@@ -1,0 +1,34 @@
+{
+  "id": "uap-check",
+  "type": "organization",
+  "entitySubtype": "Research and Information Organization",
+  "name": "UAP Check",
+  "summary": "European UAP research and information organization that publishes scientific, methodological and policy-oriented material, including the European UAP Barometer.",
+  "relationships": [
+    {
+      "type": "references_publication",
+      "target": "publication-2026-european-uap-barometer-2020-2025",
+      "role": "publisher"
+    },
+    {
+      "type": "references_publication",
+      "target": "publication-2025-european-uap-barometer-2019-2024",
+      "role": "publisher"
+    }
+  ],
+  "officialLinks": [
+    {
+      "label": "UAP Check",
+      "url": "https://www.uapcheck.com/",
+      "linkType": "official_website"
+    }
+  ],
+  "referenceSources": [
+    {
+      "label": "UAP Check — European UAP Barometer",
+      "url": "https://www.uapcheck.com/news/updating-the-european-uap-barometer-reporting-trends-and-new-data-sources-2020-2025/3496/",
+      "sourceType": "publisher_page",
+      "role": "primary_reference"
+    }
+  ]
+}

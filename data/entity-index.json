@@ -1626,6 +1626,22 @@
       "_canonicalScore": 83
     },
     {
+      "id": "claim-european-barometer-uneven-coverage",
+      "type": "claim",
+      "name": "European UAP reporting coverage remains geographically uneven",
+      "summary": "Countries with established organizations or visible platforms tend to produce more accessible reports, while low totals may reflect limited infrastructure or missing inputs rather than fewer observations.",
+      "_identityKey": "claim:name:european uap reporting coverage remains geographically uneven",
+      "_canonicalScore": 3
+    },
+    {
+      "id": "claim-european-barometer-source-nonequivalence",
+      "type": "claim",
+      "name": "European UAP reporting sources are not methodologically equivalent",
+      "summary": "National organizations, international databases, mobile applications and special-purpose systems use different intake, review, classification and publication practices and should not be treated as one homogeneous dataset.",
+      "_identityKey": "claim:name:european uap reporting sources are not methodologically equivalent",
+      "_canonicalScore": 3
+    },
+    {
       "id": "claim-planned-scif-briefings-did-not-materialize",
       "type": "claim",
       "name": "Expected closed-door congressional UAP briefings did not materialize as anticipated.",
@@ -1840,6 +1856,14 @@
       "summary": "Claim or editorial framing presented in Need to Know Episode #8.",
       "_identityKey": "claim:name:in plain sight is presented as an investigation that connects modern uap reporting with a longer history of cases and official inquiry",
       "_canonicalScore": 6
+    },
+    {
+      "id": "claim-european-barometer-2025-total",
+      "type": "claim",
+      "name": "Included reporting channels recorded 7,193 European events for 2025",
+      "summary": "The Barometer aggregates 7,193 reports for 2025 across national organizations, MUFON, NUFORC and Enigma Labs. This is a reporting-channel total, not a count of confirmed anomalous or unexplained events.",
+      "_identityKey": "claim:name:included reporting channels recorded 7 193 european events for 2025",
+      "_canonicalScore": 3
     },
     {
       "id": "claim-independent-experts-require-direct-and-transparent-access",
@@ -2619,6 +2643,14 @@
       "_canonicalScore": 83
     },
     {
+      "id": "claim-european-barometer-unresolved-outcomes",
+      "type": "claim",
+      "name": "Outcome-based unresolved-case tracking may be more informative than report totals alone",
+      "summary": "The report proposes developing harmonized outcome indicators while treating its initial unresolved-case inventory as an incomplete proof of concept rather than a comprehensive European catalogue.",
+      "_identityKey": "claim:name:outcome based unresolved case tracking may be more informative than report totals alone",
+      "_canonicalScore": 3
+    },
+    {
       "id": "claim-weaponized-11-1",
       "type": "claim",
       "name": "Pandemic-era theater disruption and streaming services altered the traditional Hollywood studio business model.",
@@ -2922,6 +2954,14 @@
       "summary": "Blumenthal connected John Mack’s work to a broader interpretation of the phenomenon.",
       "_identityKey": "claim:url:weaponizedpodcast.com/episodes-3/episode-68",
       "_canonicalScore": 83
+    },
+    {
+      "id": "claim-european-barometer-infrastructure-effect",
+      "type": "claim",
+      "name": "Reporting infrastructure materially affects apparent UAP-report trends",
+      "summary": "The report finds that platform adoption, contributor continuity, publication practices, language, public awareness and reporting access can alter visible totals without establishing a change in underlying UAP incidence.",
+      "_identityKey": "claim:name:reporting infrastructure materially affects apparent uap report trends",
+      "_canonicalScore": 3
     },
     {
       "id": "claim-uso-reports-span-centuries",
@@ -7209,6 +7249,14 @@
       "_canonicalScore": 2
     },
     {
+      "id": "enigma-labs",
+      "type": "organization",
+      "name": "Enigma Labs",
+      "summary": "Mobile application-based UAP reporting platform whose European data add a distinct digital reporting pathway to the Barometer for 2023–2025.",
+      "_identityKey": "organization:name:enigma labs",
+      "_canonicalScore": 5
+    },
+    {
       "id": "federal-aviation-administration",
       "type": "organization",
       "name": "Federal Aviation Administration",
@@ -7243,6 +7291,14 @@
       "taxonomyStatus": "supporting_metadata",
       "_identityKey": "organization:name:fox news",
       "_canonicalScore": 83
+    },
+    {
+      "id": "geipan",
+      "type": "organization",
+      "name": "GEIPAN",
+      "summary": "French official unit for collecting, analyzing and publishing information about unidentified aerospace phenomena; used in the Barometer to illustrate how intake, investigation and publication stages produce different totals.",
+      "_identityKey": "organization:name:geipan",
+      "_canonicalScore": 5
     },
     {
       "id": "harvard-university",
@@ -7317,6 +7373,14 @@
       "_canonicalScore": 0
     },
     {
+      "id": "mutual-ufo-network",
+      "type": "organization",
+      "name": "Mutual UFO Network",
+      "summary": "International civilian organization that collects and investigates UFO/UAP reports; its European submissions are used as a complementary international reporting channel in the Barometer.",
+      "_identityKey": "organization:name:mutual ufo network",
+      "_canonicalScore": 5
+    },
+    {
       "id": "nasa",
       "type": "organization",
       "name": "NASA",
@@ -7360,6 +7424,14 @@
       "entitySubtype": "Nonprofit Historical Archive",
       "_identityKey": "organization:name:national ufo historical records center",
       "_canonicalScore": 1005
+    },
+    {
+      "id": "national-ufo-reporting-center",
+      "type": "organization",
+      "name": "National UFO Reporting Center",
+      "summary": "Civilian reporting center whose public database includes European submissions used as a complementary reporting channel in the Barometer, subject to processing and publication discontinuities around 2023.",
+      "_identityKey": "organization:name:national ufo reporting center",
+      "_canonicalScore": 5
     },
     {
       "id": "new-paradigm-institute",
@@ -7509,6 +7581,15 @@
       "summary": "Advocacy initiative focused on congressional engagement and UAP transparency.",
       "_identityKey": "organization:url:weaponizedpodcast.com/episodes-2/episode-58",
       "_canonicalScore": 83
+    },
+    {
+      "id": "uap-check",
+      "type": "organization",
+      "name": "UAP Check",
+      "summary": "European UAP research and information organization that publishes scientific, methodological and policy-oriented material, including the European UAP Barometer.",
+      "entitySubtype": "Research and Information Organization",
+      "_identityKey": "organization:name:uap check",
+      "_canonicalScore": 5
     },
     {
       "id": "uap-science-advisory-council",
@@ -8575,6 +8656,15 @@
       "summary": "Retired U.S. Army lieutenant colonel and coauthor of The Day After Roswell, which alleged military transfer and reverse engineering of recovered technology.",
       "_identityKey": "person:name:philip j corso",
       "_canonicalScore": 6
+    },
+    {
+      "id": "philippe-ailleris",
+      "type": "person",
+      "name": "Philippe Ailleris",
+      "summary": "European UAP researcher and author of the European UAP Barometer, whose work emphasizes structured observation reporting, comparative data analysis and the methodological limits of heterogeneous reporting systems.",
+      "entitySubtype": "UAP Researcher",
+      "_identityKey": "person:name:philippe ailleris",
+      "_canonicalScore": 3
     },
     {
       "id": "piia-wirsu",
@@ -12124,6 +12214,15 @@
       "_canonicalScore": 5
     },
     {
+      "id": "publication-2025-european-uap-barometer-2019-2024",
+      "type": "publication",
+      "name": "European UAP Sightings in 2019–2024: Towards a Broader and More Inclusive Euro UFO Barometer",
+      "summary": "Previous European UAP Barometer edition providing the historical and methodological foundation updated by the 2020–2025 Version 1.0 report.",
+      "entitySubtype": "Research Report",
+      "_identityKey": "publication:name:european uap sightings in 20192024 towards a broader and more inclusive euro ufo barometer",
+      "_canonicalScore": 3
+    },
+    {
       "id": "gaia",
       "type": "publication",
       "name": "Gaia",
@@ -12302,6 +12401,27 @@
       "entitySubtype": "Publication / Media Outlet",
       "_identityKey": "publication:url:weaponizedpodcast.com/episodes-2/episode-54",
       "_canonicalScore": 83
+    },
+    {
+      "id": "publication-2026-european-uap-barometer-2020-2025",
+      "type": "publication",
+      "name": "Updating the European UAP Barometer: Reporting Trends and New Data Sources, 2020–2025",
+      "summary": "Philippe Ailleris's Version 1.0 update aggregates European UAP reporting data for 2020–2025 across national organizations, MUFON, NUFORC and Enigma Labs while emphasizing that report counts measure reporting-system activity rather than the true frequency of anomalous phenomena.",
+      "entitySubtype": "Research Report",
+      "date": "2026-09-02",
+      "dateDisplay": "September 2, 2026",
+      "eventCategory": "European UAP reporting methodology",
+      "_identityKey": "publication:name:updating the european uap barometer reporting trends and new data sources 20202025",
+      "_canonicalScore": 3
+    },
+    {
+      "id": "european-uap-barometer",
+      "type": "research_project",
+      "name": "European UAP Barometer",
+      "summary": "Collaborative research framework for documenting and comparing the European UAP reporting landscape while separating reporting-channel activity from the underlying incidence of anomalous phenomena.",
+      "entitySubtype": "Comparative Reporting Framework",
+      "_identityKey": "research_project:name:european uap barometer",
+      "_canonicalScore": 3
     },
     {
       "id": "disclosure-project",

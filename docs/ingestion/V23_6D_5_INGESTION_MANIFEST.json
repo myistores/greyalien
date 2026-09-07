@@ -1,0 +1,74 @@
+{
+  "release": "V23.6D.5",
+  "title": "European UAP Barometer + Reporting-Data Methodology Integration",
+  "base": "V23.6D.4",
+  "corePrinciple": "News can age; knowledge does not.",
+  "news": {
+    "id": "2026-09-02-uapcheck-european-uap-barometer",
+    "newsStatus": "current",
+    "landmark": false,
+    "knowledgePermanence": "permanent"
+  },
+  "research": {
+    "id": "publication-2026-european-uap-barometer-2020-2025",
+    "title": "Updating the European UAP Barometer: Reporting Trends and New Data Sources, 2020–2025",
+    "version": "1.0",
+    "publicationStatus": "Publisher-hosted research report; formal journal peer review not established",
+    "knowledgePermanence": "permanent"
+  },
+  "newEntities": [
+    "publication-2026-european-uap-barometer-2020-2025",
+    "publication-2025-european-uap-barometer-2019-2024",
+    "philippe-ailleris",
+    "uap-check",
+    "european-uap-barometer",
+    "mutual-ufo-network",
+    "national-ufo-reporting-center",
+    "enigma-labs",
+    "geipan",
+    "claim-european-barometer-2025-total",
+    "claim-european-barometer-infrastructure-effect",
+    "claim-european-barometer-uneven-coverage",
+    "claim-european-barometer-source-nonequivalence",
+    "claim-european-barometer-unresolved-outcomes"
+  ],
+  "reusedEntities": [
+    "scientific-investigation"
+  ],
+  "claims": [
+    "2025 reporting-channel total: 7,193",
+    "Reporting-infrastructure effect",
+    "Uneven geographic coverage",
+    "Reporting-source non-equivalence",
+    "Outcome-based unresolved-case research direction"
+  ],
+  "evidence": [
+    "Annual and source-category totals for 2020–2025",
+    "NUFORC processing/publication discontinuity around March 2023",
+    "Enigma Labs mobile-app channel introduced for 2023–2025",
+    "Missing or partial national inputs",
+    "Pilot unresolved-case inventory"
+  ],
+  "provenanceDistinctions": [
+    "Reports are not confirmed anomalous events.",
+    "Reported events are not necessarily independent, investigated or unexplained.",
+    "Reporting totals do not measure the true frequency of unusual aerial phenomena.",
+    "Acknowledged manuscript review is not represented as formal journal peer review.",
+    "Version 1.0 remains a permanent historical record if a later revision is published."
+  ],
+  "crossGatewayPaths": [
+    "Latest UAP News -> 2020–2025 European UAP Barometer",
+    "Research Library -> Related News Coverage",
+    "2020–2025 Barometer -> 2019–2024 Barometer",
+    "Barometer -> Philippe Ailleris / UAP Check",
+    "Barometer -> MUFON / NUFORC / Enigma Labs / GEIPAN",
+    "Barometer -> claims and embedded evidence"
+  ],
+  "deferred": [
+    "Event-level ingestion or deduplication",
+    "Automatic geographic anomaly scoring",
+    "European classification-system harmonization",
+    "Comprehensive unresolved-case catalogue",
+    "Automatic news expiration"
+  ]
+}

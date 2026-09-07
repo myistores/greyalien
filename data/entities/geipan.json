@@ -1,0 +1,32 @@
+{
+  "id": "geipan",
+  "type": "organization",
+  "name": "GEIPAN",
+  "aliases": [
+    "GEIPAN"
+  ],
+  "summary": "French official unit for collecting, analyzing and publishing information about unidentified aerospace phenomena; used in the Barometer to illustrate how intake, investigation and publication stages produce different totals.",
+  "relationships": [
+    {
+      "type": "references_publication",
+      "target": "publication-2026-european-uap-barometer-2020-2025",
+      "context": "The organization or platform is an identified data source in the 2020–2025 European UAP Barometer.",
+      "role": "data provider"
+    }
+  ],
+  "officialLinks": [
+    {
+      "label": "GEIPAN official website",
+      "url": "https://www.cnes-geipan.fr/",
+      "linkType": "official_website"
+    }
+  ],
+  "referenceSources": [
+    {
+      "label": "European UAP Barometer 2020–2025",
+      "url": "https://www.uapcheck.com/news/updating-the-european-uap-barometer-reporting-trends-and-new-data-sources-2020-2025/3496/",
+      "sourceType": "research_report",
+      "role": "data_source_documentation"
+    }
+  ]
+}

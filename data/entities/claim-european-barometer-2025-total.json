@@ -1,0 +1,31 @@
+{
+  "id": "claim-european-barometer-2025-total",
+  "type": "claim",
+  "name": "Included reporting channels recorded 7,193 European events for 2025",
+  "summary": "The Barometer aggregates 7,193 reports for 2025 across national organizations, MUFON, NUFORC and Enigma Labs. This is a reporting-channel total, not a count of confirmed anomalous or unexplained events.",
+  "relationships": [
+    {
+      "type": "references_publication",
+      "target": "publication-2026-european-uap-barometer-2020-2025",
+      "role": "claim source"
+    },
+    {
+      "type": "references_topic",
+      "target": "scientific-investigation"
+    }
+  ],
+  "officialLinks": [],
+  "referenceSources": [
+    {
+      "label": "European UAP Barometer 2020–2025",
+      "url": "https://www.uapcheck.com/news/updating-the-european-uap-barometer-reporting-trends-and-new-data-sources-2020-2025/3496/",
+      "sourceType": "primary_research",
+      "role": "claim_source"
+    }
+  ],
+  "claimMetadata": {
+    "classification": "descriptive_statistical_finding",
+    "knowledgePermanence": "permanent",
+    "caution": "The claim is attributed to the report and must retain its stated qualifications."
+  }
+}

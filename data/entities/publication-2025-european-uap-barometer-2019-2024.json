@@ -1,0 +1,37 @@
+{
+  "id": "publication-2025-european-uap-barometer-2019-2024",
+  "type": "publication",
+  "entitySubtype": "Research Report",
+  "name": "European UAP Sightings in 2019–2024: Towards a Broader and More Inclusive Euro UFO Barometer",
+  "summary": "Previous European UAP Barometer edition providing the historical and methodological foundation updated by the 2020–2025 Version 1.0 report.",
+  "relationships": [
+    {
+      "type": "references_person",
+      "target": "philippe-ailleris",
+      "role": "author"
+    },
+    {
+      "type": "published_by",
+      "target": "uap-check"
+    },
+    {
+      "type": "references_publication",
+      "target": "publication-2026-european-uap-barometer-2020-2025",
+      "role": "updated by"
+    }
+  ],
+  "officialLinks": [],
+  "referenceSources": [
+    {
+      "label": "UAP Check — 2019–2024 Barometer",
+      "url": "https://www.uapcheck.com/news/european-uap-sightings-in-2019-2024-towards-a-broader-and-more-inclusive-euro-ufo-barometer/3239/",
+      "sourceType": "research_report",
+      "role": "primary_reference"
+    }
+  ],
+  "researchLibraryMetadata": {
+    "knowledgePermanence": "permanent",
+    "recordClass": "Prior research edition",
+    "listingStatus": "Supporting connected research; not added as a separate gateway card in this release"
+  }
+}

@@ -12802,6 +12802,56 @@
         }
       }
     ],
+    "claim-european-barometer-2025-total": [
+      {
+        "source": "publication-2026-european-uap-barometer-2020-2025",
+        "type": "contains_claim",
+        "meta": {
+          "type": "contains_claim",
+          "target": "claim-european-barometer-2025-total"
+        }
+      }
+    ],
+    "claim-european-barometer-infrastructure-effect": [
+      {
+        "source": "publication-2026-european-uap-barometer-2020-2025",
+        "type": "contains_claim",
+        "meta": {
+          "type": "contains_claim",
+          "target": "claim-european-barometer-infrastructure-effect"
+        }
+      }
+    ],
+    "claim-european-barometer-source-nonequivalence": [
+      {
+        "source": "publication-2026-european-uap-barometer-2020-2025",
+        "type": "contains_claim",
+        "meta": {
+          "type": "contains_claim",
+          "target": "claim-european-barometer-source-nonequivalence"
+        }
+      }
+    ],
+    "claim-european-barometer-uneven-coverage": [
+      {
+        "source": "publication-2026-european-uap-barometer-2020-2025",
+        "type": "contains_claim",
+        "meta": {
+          "type": "contains_claim",
+          "target": "claim-european-barometer-uneven-coverage"
+        }
+      }
+    ],
+    "claim-european-barometer-unresolved-outcomes": [
+      {
+        "source": "publication-2026-european-uap-barometer-2020-2025",
+        "type": "contains_claim",
+        "meta": {
+          "type": "contains_claim",
+          "target": "claim-european-barometer-unresolved-outcomes"
+        }
+      }
+    ],
     "claim-excessive-secrecy-stifles-inquiry": [
       {
         "source": "weaponized-matthew-brown-part-3",
@@ -16279,6 +16329,17 @@
       }
     ],
     "engaging-the-phenomenon-podcast": [],
+    "enigma-labs": [
+      {
+        "source": "publication-2026-european-uap-barometer-2020-2025",
+        "type": "references_organization",
+        "meta": {
+          "type": "references_organization",
+          "target": "enigma-labs",
+          "role": "data source"
+        }
+      }
+    ],
     "eric-burlison": [
       {
         "source": "2025-weaponized-episode-101",
@@ -16463,6 +16524,17 @@
         "meta": {
           "type": "documented_by",
           "target": "estimate-of-the-situation-1948"
+        }
+      }
+    ],
+    "european-uap-barometer": [
+      {
+        "source": "publication-2026-european-uap-barometer-2020-2025",
+        "type": "concerns",
+        "meta": {
+          "type": "concerns",
+          "target": "european-uap-barometer",
+          "role": "current edition"
         }
       }
     ],
@@ -16753,6 +16825,17 @@
       }
     ],
     "gary-voorhis": [],
+    "geipan": [
+      {
+        "source": "publication-2026-european-uap-barometer-2020-2025",
+        "type": "references_organization",
+        "meta": {
+          "type": "references_organization",
+          "target": "geipan",
+          "role": "data source"
+        }
+      }
+    ],
     "george-knapp": [
       {
         "source": "2023-weaponized-episode-1",
@@ -24103,6 +24186,17 @@
         }
       }
     ],
+    "mutual-ufo-network": [
+      {
+        "source": "publication-2026-european-uap-barometer-2020-2025",
+        "type": "references_organization",
+        "meta": {
+          "type": "references_organization",
+          "target": "mutual-ufo-network",
+          "role": "data source"
+        }
+      }
+    ],
     "mystery-drone-incursions": [
       {
         "source": "2024-weaponized-episode-63",
@@ -24560,6 +24654,17 @@
           "type": "references_organization",
           "target": "national-ufo-historical-records-center",
           "role": "personal records reportedly preserved by"
+        }
+      }
+    ],
+    "national-ufo-reporting-center": [
+      {
+        "source": "publication-2026-european-uap-barometer-2020-2025",
+        "type": "references_organization",
+        "meta": {
+          "type": "references_organization",
+          "target": "national-ufo-reporting-center",
+          "role": "data source"
         }
       }
     ],
@@ -25424,6 +25529,35 @@
         }
       }
     ],
+    "philippe-ailleris": [
+      {
+        "source": "european-uap-barometer",
+        "type": "references_person",
+        "meta": {
+          "type": "references_person",
+          "target": "philippe-ailleris",
+          "role": "author"
+        }
+      },
+      {
+        "source": "publication-2025-european-uap-barometer-2019-2024",
+        "type": "references_person",
+        "meta": {
+          "type": "references_person",
+          "target": "philippe-ailleris",
+          "role": "author"
+        }
+      },
+      {
+        "source": "publication-2026-european-uap-barometer-2020-2025",
+        "type": "references_person",
+        "meta": {
+          "type": "references_person",
+          "target": "philippe-ailleris",
+          "role": "author"
+        }
+      }
+    ],
     "piia-wirsu": [
       {
         "source": "2024-weaponized-episode-63",
@@ -25543,6 +25677,44 @@
         }
       }
     ],
+    "publication-2025-european-uap-barometer-2019-2024": [
+      {
+        "source": "european-uap-barometer",
+        "type": "references_publication",
+        "meta": {
+          "type": "references_publication",
+          "target": "publication-2025-european-uap-barometer-2019-2024",
+          "role": "previous edition"
+        }
+      },
+      {
+        "source": "philippe-ailleris",
+        "type": "authored",
+        "meta": {
+          "type": "authored",
+          "target": "publication-2025-european-uap-barometer-2019-2024"
+        }
+      },
+      {
+        "source": "publication-2026-european-uap-barometer-2020-2025",
+        "type": "references_publication",
+        "meta": {
+          "type": "references_publication",
+          "target": "publication-2025-european-uap-barometer-2019-2024",
+          "context": "Version 1.0 extends the previous 2019–2024 Barometer with 2025 data, new reporting channels and a pilot unresolved-case inventory.",
+          "role": "updates"
+        }
+      },
+      {
+        "source": "uap-check",
+        "type": "references_publication",
+        "meta": {
+          "type": "references_publication",
+          "target": "publication-2025-european-uap-barometer-2019-2024",
+          "role": "publisher"
+        }
+      }
+    ],
     "publication-2026-civilizational-risks-uap-technology-arms-race": [],
     "publication-2026-critical-evaluation-poss1e-technosignatures": [
       {
@@ -25570,6 +25742,138 @@
           "type": "authored",
           "target": "publication-2026-critical-evaluation-poss1e-technosignatures",
           "role": "lead/corresponding author"
+        }
+      }
+    ],
+    "publication-2026-european-uap-barometer-2020-2025": [
+      {
+        "source": "claim-european-barometer-2025-total",
+        "type": "references_publication",
+        "meta": {
+          "type": "references_publication",
+          "target": "publication-2026-european-uap-barometer-2020-2025",
+          "role": "claim source"
+        }
+      },
+      {
+        "source": "claim-european-barometer-infrastructure-effect",
+        "type": "references_publication",
+        "meta": {
+          "type": "references_publication",
+          "target": "publication-2026-european-uap-barometer-2020-2025",
+          "role": "claim source"
+        }
+      },
+      {
+        "source": "claim-european-barometer-source-nonequivalence",
+        "type": "references_publication",
+        "meta": {
+          "type": "references_publication",
+          "target": "publication-2026-european-uap-barometer-2020-2025",
+          "role": "claim source"
+        }
+      },
+      {
+        "source": "claim-european-barometer-uneven-coverage",
+        "type": "references_publication",
+        "meta": {
+          "type": "references_publication",
+          "target": "publication-2026-european-uap-barometer-2020-2025",
+          "role": "claim source"
+        }
+      },
+      {
+        "source": "claim-european-barometer-unresolved-outcomes",
+        "type": "references_publication",
+        "meta": {
+          "type": "references_publication",
+          "target": "publication-2026-european-uap-barometer-2020-2025",
+          "role": "claim source"
+        }
+      },
+      {
+        "source": "enigma-labs",
+        "type": "references_publication",
+        "meta": {
+          "type": "references_publication",
+          "target": "publication-2026-european-uap-barometer-2020-2025",
+          "context": "The organization or platform is an identified data source in the 2020–2025 European UAP Barometer.",
+          "role": "data provider"
+        }
+      },
+      {
+        "source": "european-uap-barometer",
+        "type": "references_publication",
+        "meta": {
+          "type": "references_publication",
+          "target": "publication-2026-european-uap-barometer-2020-2025",
+          "role": "2025 update"
+        }
+      },
+      {
+        "source": "geipan",
+        "type": "references_publication",
+        "meta": {
+          "type": "references_publication",
+          "target": "publication-2026-european-uap-barometer-2020-2025",
+          "context": "The organization or platform is an identified data source in the 2020–2025 European UAP Barometer.",
+          "role": "data provider"
+        }
+      },
+      {
+        "source": "mutual-ufo-network",
+        "type": "references_publication",
+        "meta": {
+          "type": "references_publication",
+          "target": "publication-2026-european-uap-barometer-2020-2025",
+          "context": "The organization or platform is an identified data source in the 2020–2025 European UAP Barometer.",
+          "role": "data provider"
+        }
+      },
+      {
+        "source": "national-ufo-reporting-center",
+        "type": "references_publication",
+        "meta": {
+          "type": "references_publication",
+          "target": "publication-2026-european-uap-barometer-2020-2025",
+          "context": "The organization or platform is an identified data source in the 2020–2025 European UAP Barometer.",
+          "role": "data provider"
+        }
+      },
+      {
+        "source": "philippe-ailleris",
+        "type": "authored",
+        "meta": {
+          "type": "authored",
+          "target": "publication-2026-european-uap-barometer-2020-2025"
+        }
+      },
+      {
+        "source": "publication-2025-european-uap-barometer-2019-2024",
+        "type": "references_publication",
+        "meta": {
+          "type": "references_publication",
+          "target": "publication-2026-european-uap-barometer-2020-2025",
+          "role": "updated by"
+        }
+      },
+      {
+        "source": "scientific-investigation",
+        "type": "references_publication",
+        "meta": {
+          "type": "references_publication",
+          "target": "publication-2026-european-uap-barometer-2020-2025",
+          "role": "reporting-data methodology",
+          "context": "The Barometer demonstrates why reporting pathways and data-processing practices must be understood before aggregate UAP counts are interpreted."
+        }
+      },
+      {
+        "source": "uap-check",
+        "type": "references_publication",
+        "meta": {
+          "type": "references_publication",
+          "target": "publication-2026-european-uap-barometer-2020-2025",
+          "role": "publisher"
         }
       }
     ],
@@ -27586,10 +27890,58 @@
         }
       },
       {
+        "source": "claim-european-barometer-2025-total",
+        "type": "references_topic",
+        "meta": {
+          "type": "references_topic",
+          "target": "scientific-investigation"
+        }
+      },
+      {
+        "source": "claim-european-barometer-infrastructure-effect",
+        "type": "references_topic",
+        "meta": {
+          "type": "references_topic",
+          "target": "scientific-investigation"
+        }
+      },
+      {
+        "source": "claim-european-barometer-source-nonequivalence",
+        "type": "references_topic",
+        "meta": {
+          "type": "references_topic",
+          "target": "scientific-investigation"
+        }
+      },
+      {
+        "source": "claim-european-barometer-uneven-coverage",
+        "type": "references_topic",
+        "meta": {
+          "type": "references_topic",
+          "target": "scientific-investigation"
+        }
+      },
+      {
+        "source": "claim-european-barometer-unresolved-outcomes",
+        "type": "references_topic",
+        "meta": {
+          "type": "references_topic",
+          "target": "scientific-investigation"
+        }
+      },
+      {
         "source": "engaging-the-phenomenon-podcast",
         "type": "discussed_topic",
         "meta": {
           "type": "discussed_topic",
+          "target": "scientific-investigation"
+        }
+      },
+      {
+        "source": "european-uap-barometer",
+        "type": "references_topic",
+        "meta": {
+          "type": "references_topic",
           "target": "scientific-investigation"
         }
       },
@@ -27626,11 +27978,28 @@
         }
       },
       {
+        "source": "philippe-ailleris",
+        "type": "references_topic",
+        "meta": {
+          "type": "references_topic",
+          "target": "scientific-investigation"
+        }
+      },
+      {
         "source": "project-blue-book",
         "type": "addresses_topic",
         "meta": {
           "type": "addresses_topic",
           "target": "scientific-investigation"
+        }
+      },
+      {
+        "source": "publication-2026-european-uap-barometer-2020-2025",
+        "type": "references_topic",
+        "meta": {
+          "type": "references_topic",
+          "target": "scientific-investigation",
+          "role": "methodological research"
         }
       },
       {
@@ -29297,6 +29666,24 @@
         "meta": {
           "type": "affiliated_with",
           "target": "uap-caucus"
+        }
+      }
+    ],
+    "uap-check": [
+      {
+        "source": "publication-2025-european-uap-barometer-2019-2024",
+        "type": "published_by",
+        "meta": {
+          "type": "published_by",
+          "target": "uap-check"
+        }
+      },
+      {
+        "source": "publication-2026-european-uap-barometer-2020-2025",
+        "type": "published_by",
+        "meta": {
+          "type": "published_by",
+          "target": "uap-check"
         }
       }
     ],

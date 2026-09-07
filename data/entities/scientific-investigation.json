@@ -3,7 +3,14 @@
   "type": "topic",
   "name": "Scientific Investigation",
   "summary": "Scientific methods, data standards, and research approaches.",
-  "relationships": [],
+  "relationships": [
+    {
+      "type": "references_publication",
+      "target": "publication-2026-european-uap-barometer-2020-2025",
+      "role": "reporting-data methodology",
+      "context": "The Barometer demonstrates why reporting pathways and data-processing practices must be understood before aggregate UAP counts are interpreted."
+    }
+  ],
   "officialLinks": [],
   "referenceSources": []
 }

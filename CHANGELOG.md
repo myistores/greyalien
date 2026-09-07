@@ -690,3 +690,12 @@ Migrated 257 podcast episodes and four series entities to the universal official
 - Added three structured claims with government-document and archive provenance.
 - Preserved the distinctions between proposed and awarded procurement, subscription and ownership, private and federal archives, and archival custody and claim authentication.
 - Preserved V23.6D.1 loading reliability and V23.6D.2–D.3 lifecycle/permanent-knowledge behavior.
+
+# V23.6D.5 — European UAP Barometer + Reporting-Data Methodology Integration
+
+- Added the September 2 UAP Check European UAP Barometer update to Latest UAP News as current/non-Landmark.
+- Added the Version 1.0 research report as a permanent Research Library object and connected it to the previous 2019–2024 edition.
+- Added Philippe Ailleris, UAP Check, the European UAP Barometer, MUFON, NUFORC, Enigma Labs and GEIPAN after repository matching.
+- Added five structured claims and embedded evidence records covering totals, infrastructure effects, uneven coverage, source non-equivalence and unresolved-case methodology.
+- Preserved the distinction between reporting-channel totals and actual UAP incidence, confirmed anomalies, investigated cases and unresolved cases.
+- Preserved V23.6D.1 loading reliability and all V23.6D.2–D.4 lifecycle/permanent-knowledge behavior.

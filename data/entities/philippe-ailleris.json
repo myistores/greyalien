@@ -1,0 +1,33 @@
+{
+  "id": "philippe-ailleris",
+  "type": "person",
+  "entitySubtype": "UAP Researcher",
+  "name": "Philippe Ailleris",
+  "summary": "European UAP researcher and author of the European UAP Barometer, whose work emphasizes structured observation reporting, comparative data analysis and the methodological limits of heterogeneous reporting systems.",
+  "relationships": [
+    {
+      "type": "authored",
+      "target": "publication-2026-european-uap-barometer-2020-2025"
+    },
+    {
+      "type": "authored",
+      "target": "publication-2025-european-uap-barometer-2019-2024"
+    },
+    {
+      "type": "references_topic",
+      "target": "scientific-investigation"
+    }
+  ],
+  "officialLinks": [],
+  "referenceSources": [
+    {
+      "label": "European UAP Barometer 2020–2025",
+      "url": "https://www.uapcheck.com/news/updating-the-european-uap-barometer-reporting-trends-and-new-data-sources-2020-2025/3496/",
+      "sourceType": "research_report",
+      "role": "primary_reference"
+    }
+  ],
+  "profileMetadata": {
+    "institutionalContext": "European Space Agency professional affiliation is biographical context; the Barometer is not represented as an ESA publication or agency finding."
+  }
+}
