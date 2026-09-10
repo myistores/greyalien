@@ -1,0 +1,38 @@
+{
+  "id": "lunar-regolith",
+  "type": "topic",
+  "entitySubtype": "Planetary Science Research Object",
+  "name": "Lunar Regolith",
+  "summary": "The Moon's fragmented surface material, considered in the ingested study as a long-duration collector whose mixing, impact history, natural dust background and human contamination shape any search for microscopic technosignatures.",
+  "relationships": [
+    {
+      "type": "associated_topic",
+      "target": "space-exploration"
+    },
+    {
+      "type": "references_publication",
+      "target": "publication-2026-micron-scale-technosignatures-lunar-regolith"
+    },
+    {
+      "type": "associated_topic",
+      "target": "micron-scale-technosignatures"
+    }
+  ],
+  "referenceSources": [
+    {
+      "label": "Pinault et al. — lunar regolith search proposal",
+      "url": "https://arxiv.org/abs/2606.24028",
+      "sourceType": "scientific_preprint",
+      "role": "primary_reference"
+    }
+  ],
+  "taxonomyStatus": "canonical",
+  "destinationPage": true,
+  "visibleInDirectory": true,
+  "searchable": true,
+  "researchMetadata": {
+    "role": "Modeled sample environment; no cubic-meter sample was collected or analyzed by this study.",
+    "limitations": "Regolith gardening, impact processing, natural dust backgrounds, sample provenance and human contamination complicate interpretation."
+  },
+  "officialLinks": []
+}

@@ -9,8 +9,20 @@
       "target": "publication-2026-european-uap-barometer-2020-2025",
       "role": "reporting-data methodology",
       "context": "The Barometer demonstrates why reporting pathways and data-processing practices must be understood before aggregate UAP counts are interpreted."
+    },
+    {
+      "type": "references_publication",
+      "target": "publication-2026-micron-scale-technosignatures-lunar-regolith",
+      "role": "model-based, testable search proposal"
     }
   ],
   "officialLinks": [],
-  "referenceSources": []
+  "referenceSources": [
+    {
+      "label": "Pinault et al. — Micron-Scale Technosignatures",
+      "url": "https://arxiv.org/abs/2606.24028",
+      "sourceType": "scientific_preprint",
+      "role": "connected_research"
+    }
+  ]
 }

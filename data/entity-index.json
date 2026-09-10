@@ -480,6 +480,14 @@
       "_canonicalScore": 83
     },
     {
+      "id": "claim-lunar-technosignature-null-result-constraint",
+      "type": "claim",
+      "name": "A one-cubic-metre null result could constrain specified undirected technomaterial scenarios",
+      "summary": "Under the v4 model, a null detection in about one cubic metre of characterized lunar regolith would exclude scenarios in which Solar-type stars typically disperse more than approximately 0.10 Earth-mass equivalents of long-lived artificial particulate debris over Galactic history.",
+      "_identityKey": "claim:name:a one cubic metre null result could constrain specified undirected technomaterial scenarios",
+      "_canonicalScore": 3
+    },
+    {
       "id": "claim-weaponized-35-2",
       "type": "claim",
       "name": "A U.S. Air Force aircraft reportedly encountered an unexplained formation over the Gulf of Mexico.",
@@ -1099,6 +1107,14 @@
       "_canonicalScore": 6
     },
     {
+      "id": "claim-micron-grain-interstellar-transport-feasibility",
+      "type": "claim",
+      "name": "Certain refractory micron-scale grains may survive modeled interstellar transport",
+      "summary": "The v4 preprint reports that refractory grains with characteristic radii around 0.3 microns may traverse kiloparsec scales over residence times of roughly 0.1–1 Gyr under its gas-drag, sputtering and interstellar-medium assumptions.",
+      "_identityKey": "claim:name:certain refractory micron scale grains may survive modeled interstellar transport",
+      "_canonicalScore": 3
+    },
+    {
       "id": "claim-weaponized-33-2",
       "type": "claim",
       "name": "Changes in the management of AARO raised questions about the office’s independence and direction.",
@@ -1494,6 +1510,14 @@
       "summary": "Claim or framing presented in WEAPONIZED Episode #34.",
       "_identityKey": "claim:url:weaponizedpodcast.com/episodes-2/episode-34",
       "_canonicalScore": 83
+    },
+    {
+      "id": "claim-directed-technoparticle-delivery-regime",
+      "type": "claim",
+      "name": "Deliberately targeted particulate systems define a separate modeled detection regime",
+      "summary": "The paper considers deliberately targeted artificial particulate matter separately from randomly dispersed debris and reports that some directed scenarios could yield substantially higher detection probabilities, subject to stronger assumptions.",
+      "_identityKey": "claim:name:deliberately targeted particulate systems define a separate modeled detection regime",
+      "_canonicalScore": 3
     },
     {
       "id": "claim-need-to-know-19-1",
@@ -2257,6 +2281,22 @@
       "summary": "Claim or editorial framing presented in Need to Know Episode #21.",
       "_identityKey": "claim:name:luis elizondo argues that the uap subject should move beyond factionalism and unsupported narratives toward disciplined investigation",
       "_canonicalScore": 6
+    },
+    {
+      "id": "claim-lunar-regolith-technosignature-preservation",
+      "type": "claim",
+      "name": "Lunar regolith may preserve material relevant to long-timescale technosignature searches",
+      "summary": "The authors identify the Moon as a potentially useful collector because of its airless surface, long exposure and limited geological reworking, while accounting for impact processing and regolith mixing.",
+      "_identityKey": "claim:name:lunar regolith may preserve material relevant to long timescale technosignature searches",
+      "_canonicalScore": 3
+    },
+    {
+      "id": "claim-multimodal-technograin-screening",
+      "type": "claim",
+      "name": "Machine-vision triage and laboratory forensics could screen candidate anomalous grains",
+      "summary": "The preprint outlines a multi-modal detection strategy that combines machine-vision triage with laboratory forensic analysis against a well-characterized natural background.",
+      "_identityKey": "claim:name:machine vision triage and laboratory forensics could screen candidate anomalous grains",
+      "_canonicalScore": 3
     },
     {
       "id": "claim-weaponized-22-3",
@@ -5886,6 +5926,14 @@
       "_canonicalScore": 83
     },
     {
+      "id": "claim-no-lunar-technosignature-detection",
+      "type": "claim",
+      "name": "The lunar-regolith study proposes a search and reports no extraterrestrial technology detection",
+      "summary": "The paper is a feasibility and constraint study. It does not report collection of the modeled cubic-metre sample or discovery of an extraterrestrial technological particle.",
+      "_identityKey": "claim:name:the lunar regolith study proposes a search and reports no extraterrestrial technology detection",
+      "_canonicalScore": 3
+    },
+    {
       "id": "claim-need-to-know-14-1",
       "type": "claim",
       "name": "The May 17, 2022 hearing marked the first open congressional UFO hearing in more than five decades.",
@@ -7696,6 +7744,15 @@
       "_canonicalScore": 3
     },
     {
+      "id": "andrew-p-v-siemion",
+      "type": "person",
+      "name": "Andrew P. V. Siemion",
+      "summary": "Co-author of the 2026 arXiv preprint proposing a machine-assisted and laboratory-forensic search for micron-scale technosignatures in lunar material.",
+      "entitySubtype": "Researcher",
+      "_identityKey": "person:name:andrew p v siemion",
+      "_canonicalScore": 3
+    },
+    {
       "id": "andy-mead",
       "type": "person",
       "name": "Andy Mead",
@@ -7717,7 +7774,7 @@
       "name": "Avi Loeb",
       "summary": "Harvard astrophysicist, founder of the Galileo Project, and chair of the UAP Science Advisory Council.",
       "_identityKey": "person:name:avi loeb",
-      "_canonicalScore": 12
+      "_canonicalScore": 15
     },
     {
       "id": "beatriz-villarroel",
@@ -7750,6 +7807,15 @@
       "summary": "Boris Sokolov is referenced in WEAPONIZED Episodes #103–#112.",
       "_identityKey": "person:name:boris sokolov",
       "_canonicalScore": 0
+    },
+    {
+      "id": "brian-c-lacki",
+      "type": "person",
+      "name": "Brian C. Lacki",
+      "summary": "Co-author of the 2026 arXiv preprint modeling interstellar transport, lunar accumulation and detectability of hypothetical micron-scale technological material.",
+      "entitySubtype": "Researcher",
+      "_identityKey": "person:name:brian c lacki",
+      "_canonicalScore": 3
     },
     {
       "id": "bryce-zabel",
@@ -8157,6 +8223,15 @@
       "_canonicalScore": 83
     },
     {
+      "id": "ian-a-crawford",
+      "type": "person",
+      "name": "Ian A. Crawford",
+      "summary": "Co-author of the 2026 arXiv preprint examining lunar regolith as a long-duration archive for possible micron-scale technosignatures.",
+      "entitySubtype": "Researcher",
+      "_identityKey": "person:name:ian a crawford",
+      "_canonicalScore": 3
+    },
+    {
       "id": "iya-whiteley",
       "type": "person",
       "name": "Iya Whiteley",
@@ -8504,6 +8579,15 @@
       "summary": "UAP transparency advocate and lobbyist associated with UAP Caucus who discussed congressional strategy in WEAPONIZED Episode #58.",
       "_identityKey": "person:url:weaponizedpodcast.com/episodes-2/episode-58",
       "_canonicalScore": 83
+    },
+    {
+      "id": "lewis-j-pinault",
+      "type": "person",
+      "name": "Lewis J. Pinault",
+      "summary": "Lead-listed and corresponding author of the 2026 arXiv preprint proposing a quantitative search for micron-scale technosignatures in lunar regolith.",
+      "entitySubtype": "Researcher",
+      "_identityKey": "person:name:lewis j pinault",
+      "_canonicalScore": 3
     },
     {
       "id": "luigi-venditelli",
@@ -12305,6 +12389,18 @@
       "_canonicalScore": 2
     },
     {
+      "id": "publication-2026-micron-scale-technosignatures-lunar-regolith",
+      "type": "publication",
+      "name": "Micron-Scale Technosignatures: How a Cubic Metre of Lunar Regolith May Begin to Constrain the Number of Past Technological Civilisations in the Galaxy",
+      "summary": "Revised preprint by Lewis J. Pinault, Brian C. Lacki, Ian A. Crawford and Andrew P. V. Siemion modeling whether microscopic engineered particulate material could survive interstellar transport, accumulate in lunar regolith and be sought through machine-assisted and laboratory analysis.",
+      "entitySubtype": "Scientific Preprint",
+      "date": "2026-08-18",
+      "dateDisplay": "August 18, 2026",
+      "eventCategory": "Lunar material technosignature methodology",
+      "_identityKey": "publication:name:micron scale technosignatures how a cubic metre of lunar regolith may begin to constrain the number of past technological civilisations in the galaxy",
+      "_canonicalScore": 6
+    },
+    {
       "id": "newsnation",
       "type": "publication",
       "name": "NewsNation",
@@ -14634,6 +14730,19 @@
       "_canonicalScore": 83
     },
     {
+      "id": "exo-archaeology",
+      "type": "topic",
+      "name": "Exo-Archaeology",
+      "summary": "Search for durable physical evidence that could constrain or reveal past extraterrestrial technological activity, including material technosignatures preserved on Solar System bodies.",
+      "destinationPage": true,
+      "visibleInDirectory": true,
+      "searchable": true,
+      "taxonomyStatus": "canonical",
+      "entitySubtype": "Scientific Research Topic",
+      "_identityKey": "topic:name:exo archaeology",
+      "_canonicalScore": 3
+    },
+    {
       "id": "extraterrestrial-hypothesis",
       "type": "topic",
       "name": "Extraterrestrial Hypothesis",
@@ -14755,6 +14864,19 @@
       "_canonicalScore": 86
     },
     {
+      "id": "lunar-regolith",
+      "type": "topic",
+      "name": "Lunar Regolith",
+      "summary": "The Moon's fragmented surface material, considered in the ingested study as a long-duration collector whose mixing, impact history, natural dust background and human contamination shape any search for microscopic technosignatures.",
+      "destinationPage": true,
+      "visibleInDirectory": true,
+      "searchable": true,
+      "taxonomyStatus": "canonical",
+      "entitySubtype": "Planetary Science Research Object",
+      "_identityKey": "topic:name:lunar regolith",
+      "_canonicalScore": 3
+    },
+    {
       "id": "media-and-popular-culture",
       "type": "topic",
       "name": "Media and Popular Culture",
@@ -14773,6 +14895,19 @@
       "taxonomyStatus": "supporting_classification",
       "_identityKey": "topic:name:media coverage",
       "_canonicalScore": 83
+    },
+    {
+      "id": "micron-scale-technosignatures",
+      "type": "topic",
+      "name": "Micron-Scale Technosignatures",
+      "summary": "Hypothetical microscopic engineered particles or technological debris considered as material technosignatures; the 2026 lunar-regolith preprint evaluates their transport, accumulation and detectability without reporting a detection.",
+      "destinationPage": true,
+      "visibleInDirectory": true,
+      "searchable": true,
+      "taxonomyStatus": "canonical",
+      "entitySubtype": "Scientific Research Topic",
+      "_identityKey": "topic:name:micron scale technosignatures",
+      "_canonicalScore": 3
     },
     {
       "id": "military-aviation-encounters",
@@ -14909,7 +15044,7 @@
       "name": "Scientific Investigation",
       "summary": "Scientific methods, data standards, and research approaches.",
       "_identityKey": "topic:name:scientific investigation",
-      "_canonicalScore": 0
+      "_canonicalScore": 3
     },
     {
       "id": "security-clearance-retaliation",
@@ -14957,7 +15092,7 @@
       "name": "Space Exploration",
       "summary": "A knowledge-graph topic used to connect source-grounded WEAPONIZED reporting about space exploration.",
       "_identityKey": "topic:name:space exploration",
-      "_canonicalScore": 0
+      "_canonicalScore": 3
     },
     {
       "id": "technosignatures",
@@ -14970,7 +15105,7 @@
       "taxonomyStatus": "canonical",
       "entitySubtype": "Scientific Research Topic",
       "_identityKey": "topic:name:technosignatures",
-      "_canonicalScore": 3
+      "_canonicalScore": 6
     },
     {
       "id": "tic-tac-uap",

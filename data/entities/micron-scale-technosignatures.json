@@ -1,0 +1,37 @@
+{
+  "id": "micron-scale-technosignatures",
+  "type": "topic",
+  "entitySubtype": "Scientific Research Topic",
+  "name": "Micron-Scale Technosignatures",
+  "summary": "Hypothetical microscopic engineered particles or technological debris considered as material technosignatures; the 2026 lunar-regolith preprint evaluates their transport, accumulation and detectability without reporting a detection.",
+  "relationships": [
+    {
+      "type": "broader_topic",
+      "target": "technosignatures"
+    },
+    {
+      "type": "associated_topic",
+      "target": "exo-archaeology"
+    },
+    {
+      "type": "references_publication",
+      "target": "publication-2026-micron-scale-technosignatures-lunar-regolith"
+    }
+  ],
+  "referenceSources": [
+    {
+      "label": "Pinault et al. — Micron-Scale Technosignatures",
+      "url": "https://arxiv.org/abs/2606.24028",
+      "sourceType": "scientific_preprint",
+      "role": "primary_reference"
+    }
+  ],
+  "taxonomyStatus": "canonical",
+  "destinationPage": true,
+  "visibleInDirectory": true,
+  "searchable": true,
+  "editorialNotes": {
+    "evidentiaryStatus": "Research concept and search target; no extraterrestrial technological particle has been detected."
+  },
+  "officialLinks": []
+}

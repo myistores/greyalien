@@ -1,0 +1,29 @@
+{
+  "id": "ian-a-crawford",
+  "type": "person",
+  "entitySubtype": "Researcher",
+  "name": "Ian A. Crawford",
+  "summary": "Co-author of the 2026 arXiv preprint examining lunar regolith as a long-duration archive for possible micron-scale technosignatures.",
+  "relationships": [
+    {
+      "type": "authored",
+      "target": "publication-2026-micron-scale-technosignatures-lunar-regolith"
+    },
+    {
+      "type": "references_topic",
+      "target": "technosignatures"
+    }
+  ],
+  "referenceSources": [
+    {
+      "label": "arXiv:2606.24028v4",
+      "url": "https://arxiv.org/abs/2606.24028",
+      "sourceType": "scientific_preprint",
+      "role": "author_reference"
+    }
+  ],
+  "profileMetadata": {
+    "scope": "This bounded record documents authorship of the ingested paper; unrelated biographical or institutional claims are deferred unless independently verified."
+  },
+  "officialLinks": []
+}

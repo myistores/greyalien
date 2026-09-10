@@ -1,0 +1,29 @@
+{
+  "id": "andrew-p-v-siemion",
+  "type": "person",
+  "entitySubtype": "Researcher",
+  "name": "Andrew P. V. Siemion",
+  "summary": "Co-author of the 2026 arXiv preprint proposing a machine-assisted and laboratory-forensic search for micron-scale technosignatures in lunar material.",
+  "relationships": [
+    {
+      "type": "authored",
+      "target": "publication-2026-micron-scale-technosignatures-lunar-regolith"
+    },
+    {
+      "type": "references_topic",
+      "target": "technosignatures"
+    }
+  ],
+  "referenceSources": [
+    {
+      "label": "arXiv:2606.24028v4",
+      "url": "https://arxiv.org/abs/2606.24028",
+      "sourceType": "scientific_preprint",
+      "role": "author_reference"
+    }
+  ],
+  "profileMetadata": {
+    "scope": "This bounded record documents authorship of the ingested paper; unrelated biographical or institutional claims are deferred unless independently verified."
+  },
+  "officialLinks": []
+}

@@ -1,0 +1,85 @@
+{
+  "release": "V23.6D.6",
+  "title": "Lunar Micron-Scale Technosignatures + Exo-Archaeology Research Integration",
+  "base": "V23.6D.5",
+  "corePrinciple": "News can age; knowledge does not.",
+  "news": {
+    "id": "2026-09-08-avi-loeb-lunar-submicron-technosignatures",
+    "newsStatus": "current",
+    "landmark": false,
+    "knowledgePermanence": "permanent"
+  },
+  "research": {
+    "id": "publication-2026-micron-scale-technosignatures-lunar-regolith",
+    "title": "Micron-Scale Technosignatures: How a Cubic Metre of Lunar Regolith May Begin to Constrain the Number of Past Technological Civilisations in the Galaxy",
+    "identifier": "arXiv:2606.24028",
+    "version": "v4",
+    "lastRevised": "August 18, 2026",
+    "publicationStatus": "Revised scientific preprint and journal resubmission; acceptance and formal publication not established",
+    "knowledgePermanence": "permanent"
+  },
+  "newEntities": [
+    "publication-2026-micron-scale-technosignatures-lunar-regolith",
+    "lewis-j-pinault",
+    "brian-c-lacki",
+    "ian-a-crawford",
+    "andrew-p-v-siemion",
+    "micron-scale-technosignatures",
+    "exo-archaeology",
+    "lunar-regolith",
+    "claim-micron-grain-interstellar-transport-feasibility",
+    "claim-lunar-regolith-technosignature-preservation",
+    "claim-lunar-technosignature-null-result-constraint",
+    "claim-directed-technoparticle-delivery-regime",
+    "claim-multimodal-technograin-screening",
+    "claim-no-lunar-technosignature-detection"
+  ],
+  "reusedEntities": [
+    "avi-loeb",
+    "galileo-project",
+    "harvard-university",
+    "technosignatures",
+    "scientific-investigation",
+    "space-exploration"
+  ],
+  "claims": [
+    "Modeled interstellar transport feasibility",
+    "Lunar-regolith preservation rationale",
+    "Conditional one-cubic-metre null-result constraint at approximately 0.10 Earth masses",
+    "Separate directed-delivery regime",
+    "Proposed machine-vision and laboratory screening",
+    "No extraterrestrial technology detection"
+  ],
+  "evidence": [
+    "Micron-grain transport and survival model",
+    "Heliospheric slow-arrival channel",
+    "One-cubic-metre null-result model",
+    "Natural backgrounds and human contamination controls",
+    "Multi-modal grain-screening proposal"
+  ],
+  "provenanceDistinctions": [
+    "Avi Loeb authored the Medium commentary but not the underlying preprint.",
+    "The preprint proposes a search and reports no technological-particle detection.",
+    "One cubic metre is a modeled sampling scale, not a completed sample analysis.",
+    "The approximately 0.10-Earth-mass threshold is conditional on the v4 undirected-dispersal model.",
+    "Reviewer comments and journal resubmission do not establish acceptance or formal publication.",
+    "The manuscript placeholder journal DOI was not ingested; the valid arXiv DOI is preserved."
+  ],
+  "crossGatewayPaths": [
+    "Latest UAP News -> permanent arXiv research",
+    "Research Library -> related Medium commentary",
+    "Research -> Space Exploration",
+    "Space Exploration -> Research Library",
+    "Research -> Technosignatures / Exo-Archaeology / Lunar Regolith",
+    "Authors -> Research",
+    "Research -> claims and embedded evidence"
+  ],
+  "deferred": [
+    "Physical regolith sampling or analysis",
+    "Automated particle classification",
+    "Full lunar mission design",
+    "Standalone Arkhipov or Bracewell particle entities",
+    "Unrelated SETI citation ingestion",
+    "Automatic news expiration"
+  ]
+}

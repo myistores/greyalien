@@ -1,0 +1,29 @@
+V23.6D.6 PATCH MANIFEST
+Base: V23.6D.5
+
+ADDED
+- 1 current/non-Landmark Avi Loeb / Medium news record
+- 1 permanent arXiv v4 scientific-preprint record
+- 4 author entities
+- 3 permanent science/topic entities
+- 6 structured claims
+- 5 embedded evidence and methodology records
+- 1 Space Exploration featured-research block
+- 1 release ingestion manifest
+- 1 release validator
+
+ENRICHED
+- Avi Loeb
+- Technosignatures
+- Scientific Investigation
+- Space Exploration entity and gateway
+- Latest UAP News gateway
+- Research Library gateway
+
+PRESERVED
+- V23.6D.1 entity-page loading and precomputed reverse-relationship runtime
+- V23.6D.2 newsStatus / knowledgePermanence architecture
+- V23.6D.3 PURSUE and Image & Video Analysis integration
+- V23.6D.4 AARO/private-archive integration
+- V23.6D.5 European UAP Barometer research
+- No-detection, sample-status, model-conditionality and publication-status cautions

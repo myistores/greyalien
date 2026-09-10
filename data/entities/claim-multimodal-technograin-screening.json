@@ -1,0 +1,31 @@
+{
+  "id": "claim-multimodal-technograin-screening",
+  "type": "claim",
+  "name": "Machine-vision triage and laboratory forensics could screen candidate anomalous grains",
+  "summary": "The preprint outlines a multi-modal detection strategy that combines machine-vision triage with laboratory forensic analysis against a well-characterized natural background.",
+  "relationships": [
+    {
+      "type": "references_publication",
+      "target": "publication-2026-micron-scale-technosignatures-lunar-regolith",
+      "role": "claim source"
+    },
+    {
+      "type": "references_topic",
+      "target": "scientific-investigation"
+    }
+  ],
+  "referenceSources": [
+    {
+      "label": "arXiv:2606.24028v4",
+      "url": "https://arxiv.org/abs/2606.24028",
+      "sourceType": "scientific_preprint",
+      "role": "claim_source"
+    }
+  ],
+  "claimMetadata": {
+    "classification": "proposed_research_methodology",
+    "knowledgePermanence": "permanent",
+    "caution": "This claim records the authors' model, proposal or evidentiary clarification; it is not an independent GreyAlien detection claim."
+  },
+  "officialLinks": []
+}

@@ -1,0 +1,31 @@
+{
+  "id": "claim-lunar-regolith-technosignature-preservation",
+  "type": "claim",
+  "name": "Lunar regolith may preserve material relevant to long-timescale technosignature searches",
+  "summary": "The authors identify the Moon as a potentially useful collector because of its airless surface, long exposure and limited geological reworking, while accounting for impact processing and regolith mixing.",
+  "relationships": [
+    {
+      "type": "references_publication",
+      "target": "publication-2026-micron-scale-technosignatures-lunar-regolith",
+      "role": "claim source"
+    },
+    {
+      "type": "references_topic",
+      "target": "scientific-investigation"
+    }
+  ],
+  "referenceSources": [
+    {
+      "label": "arXiv:2606.24028v4",
+      "url": "https://arxiv.org/abs/2606.24028",
+      "sourceType": "scientific_preprint",
+      "role": "claim_source"
+    }
+  ],
+  "claimMetadata": {
+    "classification": "target_selection_rationale",
+    "knowledgePermanence": "permanent",
+    "caution": "This claim records the authors' model, proposal or evidentiary clarification; it is not an independent GreyAlien detection claim."
+  },
+  "officialLinks": []
+}

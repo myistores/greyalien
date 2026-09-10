@@ -1,0 +1,175 @@
+{
+  "id": "publication-2026-micron-scale-technosignatures-lunar-regolith",
+  "type": "publication",
+  "entitySubtype": "Scientific Preprint",
+  "name": "Micron-Scale Technosignatures: How a Cubic Metre of Lunar Regolith May Begin to Constrain the Number of Past Technological Civilisations in the Galaxy",
+  "summary": "Revised preprint by Lewis J. Pinault, Brian C. Lacki, Ian A. Crawford and Andrew P. V. Siemion modeling whether microscopic engineered particulate material could survive interstellar transport, accumulate in lunar regolith and be sought through machine-assisted and laboratory analysis.",
+  "date": "2026-08-18",
+  "dateDisplay": "August 18, 2026",
+  "eventCategory": "Lunar material technosignature methodology",
+  "relationships": [
+    {
+      "type": "references_person",
+      "target": "lewis-j-pinault",
+      "role": "author"
+    },
+    {
+      "type": "references_person",
+      "target": "brian-c-lacki",
+      "role": "author"
+    },
+    {
+      "type": "references_person",
+      "target": "ian-a-crawford",
+      "role": "author"
+    },
+    {
+      "type": "references_person",
+      "target": "andrew-p-v-siemion",
+      "role": "author"
+    },
+    {
+      "type": "addresses_topic",
+      "target": "micron-scale-technosignatures"
+    },
+    {
+      "type": "addresses_topic",
+      "target": "exo-archaeology"
+    },
+    {
+      "type": "applies_to",
+      "target": "lunar-regolith",
+      "role": "modeled sample environment"
+    },
+    {
+      "type": "references_topic",
+      "target": "technosignatures"
+    },
+    {
+      "type": "references_topic",
+      "target": "scientific-investigation"
+    },
+    {
+      "type": "references_topic",
+      "target": "space-exploration",
+      "role": "connected gateway research"
+    },
+    {
+      "type": "contains_claim",
+      "target": "claim-micron-grain-interstellar-transport-feasibility"
+    },
+    {
+      "type": "contains_claim",
+      "target": "claim-lunar-regolith-technosignature-preservation"
+    },
+    {
+      "type": "contains_claim",
+      "target": "claim-lunar-technosignature-null-result-constraint"
+    },
+    {
+      "type": "contains_claim",
+      "target": "claim-directed-technoparticle-delivery-regime"
+    },
+    {
+      "type": "contains_claim",
+      "target": "claim-multimodal-technograin-screening"
+    },
+    {
+      "type": "contains_claim",
+      "target": "claim-no-lunar-technosignature-detection"
+    }
+  ],
+  "referenceSources": [
+    {
+      "label": "arXiv abstract and paper — version 4",
+      "url": "https://arxiv.org/abs/2606.24028",
+      "sourceType": "scientific_preprint",
+      "role": "primary_reference"
+    },
+    {
+      "label": "Avi Loeb — lunar sub-micron technosignature commentary",
+      "url": "https://avi-loeb.medium.com/can-we-detect-alien-tech-in-the-form-of-sub-micron-dust-on-the-moon-ae14cf86fa76",
+      "sourceType": "secondary_commentary",
+      "role": "related_news"
+    }
+  ],
+  "publicationMetadata": {
+    "authors": [
+      "Lewis J. Pinault",
+      "Brian C. Lacki",
+      "Ian A. Crawford",
+      "Andrew P. V. Siemion"
+    ],
+    "repository": "arXiv",
+    "identifier": "arXiv:2606.24028",
+    "version": "v4",
+    "initialSubmission": "June 23, 2026",
+    "lastRevised": "August 18, 2026",
+    "journalSubmissionHistory": "Originally submitted to the International Journal of Astrobiology on March 10, 2026; revised version 4 resubmitted August 17, 2026 in response to reviewer comments.",
+    "publicationStatus": "Revised scientific preprint and journal resubmission; acceptance and formal publication not established",
+    "validDoi": "10.48550/arXiv.2606.24028",
+    "placeholderJournalDoiIngested": false,
+    "subject": "Earth and Planetary Astrophysics"
+  },
+  "researchLibraryMetadata": {
+    "knowledgePermanence": "permanent",
+    "methodology": "Models gas drag, sputtering, interstellar-medium phase-dependent survival, radiation pressure, heliospheric filtering, lunar impact survival, regolith accumulation and mixing; then outlines machine-vision triage and laboratory forensic screening against natural backgrounds.",
+    "sampleConcept": "Approximately one cubic metre of suitably characterized lunar regolith; modeled research scale, not a sample collected or analyzed in this study.",
+    "principalFindings": "Refractory grains near 0.3 microns may survive modeled kiloparsec-scale transport over 0.1–1 Gyr. Under the undirected-debris model, a null result from roughly one cubic metre could constrain scenarios above approximately 0.10 Earth masses of cumulative long-lived particulate output per Solar-type star.",
+    "limitations": "Results depend on uncertain assumptions about technological output, grain composition and size, transport and destruction, heliospheric entry, impact survival, lunar accumulation and mixing, sampling representativeness, contamination and the ability to distinguish engineered material from natural grains.",
+    "researchImplication": "Lunar material could support a falsifiable exo-archaeology search in which both candidate detections and carefully characterized null results have scientific value.",
+    "relatedNewsId": "2026-09-08-avi-loeb-lunar-submicron-technosignatures"
+  },
+  "particleClasses": [
+    {
+      "name": "Arkhipov Particles",
+      "scenario": "Undirected or passively transported technogenic debris",
+      "status": "Hypothetical; not detected"
+    },
+    {
+      "name": "Bracewell Particles",
+      "scenario": "Deliberately dispatched microscopic technological systems",
+      "status": "More speculative hypothetical regime; not detected"
+    }
+  ],
+  "evidenceRecords": [
+    {
+      "id": "evidence-technograin-transport-survival",
+      "objectType": "model",
+      "finding": "Gas drag, sputtering and ISM-phase calculations define conditions under which refractory grains around 0.3 microns could survive long-distance transport.",
+      "promotedToEntity": false
+    },
+    {
+      "id": "evidence-heliospheric-slow-arrival-channel",
+      "objectType": "model",
+      "finding": "Solar radiation pressure and heliospheric filtering define a limited arrival channel compatible with some grains surviving lunar impact.",
+      "promotedToEntity": false
+    },
+    {
+      "id": "evidence-one-cubic-metre-null-model",
+      "objectType": "conditional_constraint",
+      "finding": "A modeled null result constrains specified high-output undirected-dispersal scenarios; no physical sample was examined.",
+      "promotedToEntity": false
+    },
+    {
+      "id": "evidence-lunar-backgrounds-contamination",
+      "objectType": "background_control",
+      "finding": "Natural lunar, interplanetary and interstellar grains plus human-introduced material must be distinguished from any candidate technosignature.",
+      "promotedToEntity": false
+    },
+    {
+      "id": "evidence-multimodal-grain-screening",
+      "objectType": "proposed_method",
+      "finding": "Machine-vision triage and laboratory forensic methods are proposed for candidate selection and escalation.",
+      "promotedToEntity": false
+    }
+  ],
+  "editorialNotes": {
+    "noDetection": "No extraterrestrial technological particle was detected or claimed by the authors.",
+    "sampleStatus": "The cubic-metre quantity is a modeled sampling concept, not a completed collection or experiment.",
+    "constraintDiscipline": "The approximately 0.10-Earth-mass threshold is conditional on the v4 undirected-dispersal model and does not estimate actual civilization prevalence or output.",
+    "authorship": "Avi Loeb wrote the news commentary but is not an author of the underlying preprint.",
+    "publicationDiscipline": "Reviewer comments and journal resubmission do not establish acceptance, journal publication or completed peer review."
+  },
+  "officialLinks": []
+}

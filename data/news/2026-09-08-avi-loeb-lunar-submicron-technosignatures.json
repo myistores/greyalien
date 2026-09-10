@@ -1,0 +1,74 @@
+{
+  "id": "2026-09-08-avi-loeb-lunar-submicron-technosignatures",
+  "recordType": "news_record",
+  "contentType": "space_science_research_news",
+  "title": "Scientists Propose Searching Lunar Dust for Microscopic Technosignatures",
+  "source": "Avi Loeb / Medium",
+  "author": "Avi Loeb",
+  "publicationDate": "2026-09-08",
+  "publicationDateDisplay": "September 8, 2026",
+  "originalUrl": "https://avi-loeb.medium.com/can-we-detect-alien-tech-in-the-form-of-sub-micron-dust-on-the-moon-ae14cf86fa76",
+  "primarySourceUrl": "https://arxiv.org/abs/2606.24028",
+  "summary": "Avi Loeb highlights a revised preprint proposing that approximately one cubic metre of characterized lunar regolith could be screened for hypothetical micron-scale technological material. The paper models transport, survival, accumulation and conditional null-result constraints; it does not report finding alien technology or analyzing the proposed sample.",
+  "dateAdded": "2026-09-10",
+  "newsStatus": "current",
+  "knowledgePermanence": "permanent",
+  "relatedEntityIds": [
+    "publication-2026-micron-scale-technosignatures-lunar-regolith",
+    "avi-loeb",
+    "micron-scale-technosignatures",
+    "exo-archaeology",
+    "lunar-regolith",
+    "technosignatures",
+    "scientific-investigation",
+    "space-exploration",
+    "galileo-project",
+    "lewis-j-pinault",
+    "brian-c-lacki",
+    "ian-a-crawford",
+    "andrew-p-v-siemion"
+  ],
+  "relationships": [
+    {
+      "type": "references_publication",
+      "target": "publication-2026-micron-scale-technosignatures-lunar-regolith",
+      "role": "surfaces primary research",
+      "context": "The Medium article is the timely commentary surface; the v4 arXiv preprint is the permanent scientific object."
+    },
+    {
+      "type": "references_person",
+      "target": "avi-loeb",
+      "role": "commentary author"
+    },
+    {
+      "type": "references_topic",
+      "target": "technosignatures"
+    },
+    {
+      "type": "references_topic",
+      "target": "space-exploration"
+    },
+    {
+      "type": "references_organization",
+      "target": "galileo-project",
+      "role": "author context only"
+    }
+  ],
+  "visibility": {
+    "latestGateway": true,
+    "publicEntityDirectory": false,
+    "landmark": false
+  },
+  "lifecycle": {
+    "status": "current",
+    "archiveEligible": true,
+    "automaticAgingEnabled": false,
+    "landmark": false
+  },
+  "editorialNotes": {
+    "sourceHierarchy": "The arXiv v4 preprint is primary for scientific claims; Avi Loeb's Medium article is secondary commentary.",
+    "noDetection": "Neither source reports detection of an extraterrestrial technological particle.",
+    "authorship": "Avi Loeb is not listed as an author of arXiv:2606.24028.",
+    "lifecyclePrinciple": "News can age; knowledge does not."
+  }
+}

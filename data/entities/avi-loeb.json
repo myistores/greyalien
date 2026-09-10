@@ -13,6 +13,12 @@
       "type": "affiliated_with",
       "target": "uap-science-advisory-council",
       "role": "Chair"
+    },
+    {
+      "type": "references_publication",
+      "target": "publication-2026-micron-scale-technosignatures-lunar-regolith",
+      "role": "commentary on research",
+      "context": "Loeb's September 8 Medium article discusses the preprint; he is not one of its authors."
     }
   ],
   "profileStatus": "Astrophysicist and scientific UAP researcher",
@@ -46,6 +52,12 @@
       "url": "https://galileo.hsites.harvard.edu/publications/recovery-and-classification-spherules-pacific-ocean-site-cneos-2014-january-8",
       "sourceType": "Harvard University",
       "role": "primary_reference"
+    },
+    {
+      "label": "Pinault et al. — Micron-Scale Technosignatures",
+      "url": "https://arxiv.org/abs/2606.24028",
+      "sourceType": "scientific_preprint",
+      "role": "connected_research"
     }
   ]
 }

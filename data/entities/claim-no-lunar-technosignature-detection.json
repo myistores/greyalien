@@ -1,0 +1,31 @@
+{
+  "id": "claim-no-lunar-technosignature-detection",
+  "type": "claim",
+  "name": "The lunar-regolith study proposes a search and reports no extraterrestrial technology detection",
+  "summary": "The paper is a feasibility and constraint study. It does not report collection of the modeled cubic-metre sample or discovery of an extraterrestrial technological particle.",
+  "relationships": [
+    {
+      "type": "references_publication",
+      "target": "publication-2026-micron-scale-technosignatures-lunar-regolith",
+      "role": "claim source"
+    },
+    {
+      "type": "references_topic",
+      "target": "scientific-investigation"
+    }
+  ],
+  "referenceSources": [
+    {
+      "label": "arXiv:2606.24028v4",
+      "url": "https://arxiv.org/abs/2606.24028",
+      "sourceType": "scientific_preprint",
+      "role": "claim_source"
+    }
+  ],
+  "claimMetadata": {
+    "classification": "evidentiary_status_clarification",
+    "knowledgePermanence": "permanent",
+    "caution": "This claim records the authors' model, proposal or evidentiary clarification; it is not an independent GreyAlien detection claim."
+  },
+  "officialLinks": []
+}

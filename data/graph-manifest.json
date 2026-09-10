@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "entityCount": 1650,
-  "relationshipCount": 3678,
+  "entityCount": 1664,
+  "relationshipCount": 3727,
   "unresolvedRelationshipCount": 56,
   "connectionCounts": {
     "1946-scandinavian-ghost-rockets": {
@@ -1624,6 +1624,11 @@
       "outgoing": 2,
       "total": 2
     },
+    "andrew-p-v-siemion": {
+      "incoming": 1,
+      "outgoing": 2,
+      "total": 3
+    },
     "andy-mead": {
       "incoming": 1,
       "outgoing": 0,
@@ -1656,8 +1661,8 @@
     },
     "avi-loeb": {
       "incoming": 5,
-      "outgoing": 2,
-      "total": 7
+      "outgoing": 3,
+      "total": 8
     },
     "aviation-safety": {
       "incoming": 42,
@@ -1718,6 +1723,11 @@
       "incoming": 2,
       "outgoing": 0,
       "total": 2
+    },
+    "brian-c-lacki": {
+      "incoming": 1,
+      "outgoing": 2,
+      "total": 3
     },
     "bryce-zabel": {
       "incoming": 77,
@@ -2229,6 +2239,11 @@
       "outgoing": 1,
       "total": 1
     },
+    "claim-directed-technoparticle-delivery-regime": {
+      "incoming": 1,
+      "outgoing": 2,
+      "total": 3
+    },
     "claim-disclosure-momentum-has-slowed": {
       "incoming": 0,
       "outgoing": 1,
@@ -2573,6 +2588,16 @@
       "incoming": 0,
       "outgoing": 1,
       "total": 1
+    },
+    "claim-lunar-regolith-technosignature-preservation": {
+      "incoming": 1,
+      "outgoing": 2,
+      "total": 3
+    },
+    "claim-lunar-technosignature-null-result-constraint": {
+      "incoming": 1,
+      "outgoing": 2,
+      "total": 3
     },
     "claim-mack-investigated-ariel-school-witnesses": {
       "incoming": 0,
@@ -2989,6 +3014,11 @@
       "outgoing": 1,
       "total": 1
     },
+    "claim-micron-grain-interstellar-transport-feasibility": {
+      "incoming": 1,
+      "outgoing": 2,
+      "total": 3
+    },
     "claim-military-hazing-explanation-challenged": {
       "incoming": 0,
       "outgoing": 1,
@@ -3043,6 +3073,11 @@
       "incoming": 0,
       "outgoing": 1,
       "total": 1
+    },
+    "claim-multimodal-technograin-screening": {
+      "incoming": 1,
+      "outgoing": 2,
+      "total": 3
     },
     "claim-mystery-drone-incursions-remained-major-2024-story": {
       "incoming": 0,
@@ -4323,6 +4358,11 @@
       "incoming": 0,
       "outgoing": 1,
       "total": 1
+    },
+    "claim-no-lunar-technosignature-detection": {
+      "incoming": 1,
+      "outgoing": 2,
+      "total": 3
     },
     "claim-nufohrc-sole-source-justification": {
       "incoming": 1,
@@ -5919,6 +5959,11 @@
       "outgoing": 5,
       "total": 5
     },
+    "exo-archaeology": {
+      "incoming": 2,
+      "outgoing": 3,
+      "total": 5
+    },
     "extraterrestrial-hypothesis": {
       "incoming": 1,
       "outgoing": 0,
@@ -6083,6 +6128,11 @@
       "incoming": 3,
       "outgoing": 1,
       "total": 4
+    },
+    "ian-a-crawford": {
+      "incoming": 1,
+      "outgoing": 2,
+      "total": 3
     },
     "icecube-neutrino-observatory": {
       "incoming": 3,
@@ -6354,6 +6404,11 @@
       "outgoing": 2,
       "total": 4
     },
+    "lewis-j-pinault": {
+      "incoming": 1,
+      "outgoing": 2,
+      "total": 3
+    },
     "lex-fridman-podcast": {
       "incoming": 1,
       "outgoing": 0,
@@ -6383,6 +6438,11 @@
       "incoming": 12,
       "outgoing": 6,
       "total": 18
+    },
+    "lunar-regolith": {
+      "incoming": 1,
+      "outgoing": 3,
+      "total": 4
     },
     "malmstrom-air-force-base": {
       "incoming": 1,
@@ -6483,6 +6543,11 @@
       "incoming": 1,
       "outgoing": 0,
       "total": 1
+    },
+    "micron-scale-technosignatures": {
+      "incoming": 2,
+      "outgoing": 3,
+      "total": 5
     },
     "mike-gold": {
       "incoming": 3,
@@ -6724,6 +6789,11 @@
       "outgoing": 9,
       "total": 16
     },
+    "publication-2026-micron-scale-technosignatures-lunar-regolith": {
+      "incoming": 17,
+      "outgoing": 16,
+      "total": 33
+    },
     "pursue": {
       "incoming": 4,
       "outgoing": 2,
@@ -6885,9 +6955,9 @@
       "total": 1
     },
     "scientific-investigation": {
-      "incoming": 59,
-      "outgoing": 1,
-      "total": 60
+      "incoming": 67,
+      "outgoing": 2,
+      "total": 69
     },
     "scott-bray": {
       "incoming": 0,
@@ -6975,9 +7045,9 @@
       "total": 1
     },
     "space-exploration": {
-      "incoming": 1,
-      "outgoing": 0,
-      "total": 1
+      "incoming": 3,
+      "outgoing": 1,
+      "total": 4
     },
     "steven-greer": {
       "incoming": 0,
@@ -6990,9 +7060,9 @@
       "total": 4
     },
     "technosignatures": {
-      "incoming": 6,
-      "outgoing": 1,
-      "total": 7
+      "incoming": 13,
+      "outgoing": 2,
+      "total": 15
     },
     "that-ufo-podcast": {
       "incoming": 0,

@@ -10393,6 +10393,17 @@
       }
     ],
     "anamaria-berea": [],
+    "andrew-p-v-siemion": [
+      {
+        "source": "publication-2026-micron-scale-technosignatures-lunar-regolith",
+        "type": "references_person",
+        "meta": {
+          "type": "references_person",
+          "target": "andrew-p-v-siemion",
+          "role": "author"
+        }
+      }
+    ],
     "andy-mead": [
       {
         "source": "2023-merged-episode-15",
@@ -11317,6 +11328,17 @@
           "type": "affiliated_with",
           "target": "brazilian-commission-of-ufologists",
           "role": "international director"
+        }
+      }
+    ],
+    "brian-c-lacki": [
+      {
+        "source": "publication-2026-micron-scale-technosignatures-lunar-regolith",
+        "type": "references_person",
+        "meta": {
+          "type": "references_person",
+          "target": "brian-c-lacki",
+          "role": "author"
         }
       }
     ],
@@ -12732,6 +12754,16 @@
       }
     ],
     "claim-critiques-of-the-syria-uap-footage-do-not-fully-resolve-the-case": [],
+    "claim-directed-technoparticle-delivery-regime": [
+      {
+        "source": "publication-2026-micron-scale-technosignatures-lunar-regolith",
+        "type": "contains_claim",
+        "meta": {
+          "type": "contains_claim",
+          "target": "claim-directed-technoparticle-delivery-regime"
+        }
+      }
+    ],
     "claim-disclosure-momentum-has-slowed": [],
     "claim-disclosure-requires-verifiable-evidence": [],
     "claim-disinformation-shapes-public-debate": [],
@@ -13069,6 +13101,26 @@
     "claim-legislative-protections-sought": [],
     "claim-logan-assesses-the-syria-footage-as-meeting-uap-parameters": [],
     "claim-logan-reports-a-1990-diamond-shaped-sighting-resembling-the-calvine-object": [],
+    "claim-lunar-regolith-technosignature-preservation": [
+      {
+        "source": "publication-2026-micron-scale-technosignatures-lunar-regolith",
+        "type": "contains_claim",
+        "meta": {
+          "type": "contains_claim",
+          "target": "claim-lunar-regolith-technosignature-preservation"
+        }
+      }
+    ],
+    "claim-lunar-technosignature-null-result-constraint": [
+      {
+        "source": "publication-2026-micron-scale-technosignatures-lunar-regolith",
+        "type": "contains_claim",
+        "meta": {
+          "type": "contains_claim",
+          "target": "claim-lunar-technosignature-null-result-constraint"
+        }
+      }
+    ],
     "claim-mack-investigated-ariel-school-witnesses": [],
     "claim-mainstream-research-groups-avoid-cross-category-cases": [],
     "claim-maritime-forces-have-collected-uso-observations": [],
@@ -13152,6 +13204,16 @@
     "claim-merged-9-2": [],
     "claim-merged-9-3": [],
     "claim-merged-9-4": [],
+    "claim-micron-grain-interstellar-transport-feasibility": [
+      {
+        "source": "publication-2026-micron-scale-technosignatures-lunar-regolith",
+        "type": "contains_claim",
+        "meta": {
+          "type": "contains_claim",
+          "target": "claim-micron-grain-interstellar-transport-feasibility"
+        }
+      }
+    ],
     "claim-military-hazing-explanation-challenged": [],
     "claim-military-labeled-disc-uap": [],
     "claim-military-secured-crash-area-quickly": [],
@@ -13163,6 +13225,16 @@
     "claim-mosul-orb-recorded-2016": [],
     "claim-mosul-orb-unidentified": [],
     "claim-multi-agency-ocean-technology-operation": [],
+    "claim-multimodal-technograin-screening": [
+      {
+        "source": "publication-2026-micron-scale-technosignatures-lunar-regolith",
+        "type": "contains_claim",
+        "meta": {
+          "type": "contains_claim",
+          "target": "claim-multimodal-technograin-screening"
+        }
+      }
+    ],
     "claim-mystery-drone-incursions-remained-major-2024-story": [],
     "claim-mystery-drone-wave-remains-unresolved": [],
     "claim-nasa-archives-may-support-uap-research": [],
@@ -13459,6 +13531,16 @@
       }
     ],
     "claim-nimitz-two-week-sensor-detections": [],
+    "claim-no-lunar-technosignature-detection": [
+      {
+        "source": "publication-2026-micron-scale-technosignatures-lunar-regolith",
+        "type": "contains_claim",
+        "meta": {
+          "type": "contains_claim",
+          "target": "claim-no-lunar-technosignature-detection"
+        }
+      }
+    ],
     "claim-nufohrc-sole-source-justification": [
       {
         "source": "document-2026-aaro-nufohrc-sole-source-notice",
@@ -16540,6 +16622,24 @@
     ],
     "event-2023-house-hearing-held": [],
     "event-2026-03-31-house-requests-uap-videos": [],
+    "exo-archaeology": [
+      {
+        "source": "micron-scale-technosignatures",
+        "type": "associated_topic",
+        "meta": {
+          "type": "associated_topic",
+          "target": "exo-archaeology"
+        }
+      },
+      {
+        "source": "publication-2026-micron-scale-technosignatures-lunar-regolith",
+        "type": "addresses_topic",
+        "meta": {
+          "type": "addresses_topic",
+          "target": "exo-archaeology"
+        }
+      }
+    ],
     "extraterrestrial-hypothesis": [
       {
         "source": "1968-07-29-house-ufo-symposium",
@@ -20021,6 +20121,17 @@
         }
       }
     ],
+    "ian-a-crawford": [
+      {
+        "source": "publication-2026-micron-scale-technosignatures-lunar-regolith",
+        "type": "references_person",
+        "meta": {
+          "type": "references_person",
+          "target": "ian-a-crawford",
+          "role": "author"
+        }
+      }
+    ],
     "icecube-neutrino-observatory": [
       {
         "source": "2024-afp-icecube-fact-check",
@@ -22646,6 +22757,17 @@
         }
       }
     ],
+    "lewis-j-pinault": [
+      {
+        "source": "publication-2026-micron-scale-technosignatures-lunar-regolith",
+        "type": "references_person",
+        "meta": {
+          "type": "references_person",
+          "target": "lewis-j-pinault",
+          "role": "author"
+        }
+      }
+    ],
     "lex-fridman-podcast": [
       {
         "source": "2020-lex-fridman-fravor-interview",
@@ -22881,6 +23003,17 @@
           "target": "luis-elizondo",
           "role": "research_affiliate",
           "context": "Joined the Galileo Project research effort"
+        }
+      }
+    ],
+    "lunar-regolith": [
+      {
+        "source": "publication-2026-micron-scale-technosignatures-lunar-regolith",
+        "type": "applies_to",
+        "meta": {
+          "type": "applies_to",
+          "target": "lunar-regolith",
+          "role": "modeled sample environment"
         }
       }
     ],
@@ -24081,6 +24214,24 @@
           "target": "michele-adams",
           "role": "guest",
           "context": "Featured episode participant"
+        }
+      }
+    ],
+    "micron-scale-technosignatures": [
+      {
+        "source": "lunar-regolith",
+        "type": "associated_topic",
+        "meta": {
+          "type": "associated_topic",
+          "target": "micron-scale-technosignatures"
+        }
+      },
+      {
+        "source": "publication-2026-micron-scale-technosignatures-lunar-regolith",
+        "type": "addresses_topic",
+        "meta": {
+          "type": "addresses_topic",
+          "target": "micron-scale-technosignatures"
         }
       }
     ],
@@ -25940,6 +26091,156 @@
           "type": "authored",
           "target": "publication-2026-limits-velocity-recovery-pursue",
           "role": "co-author"
+        }
+      }
+    ],
+    "publication-2026-micron-scale-technosignatures-lunar-regolith": [
+      {
+        "source": "andrew-p-v-siemion",
+        "type": "authored",
+        "meta": {
+          "type": "authored",
+          "target": "publication-2026-micron-scale-technosignatures-lunar-regolith"
+        }
+      },
+      {
+        "source": "avi-loeb",
+        "type": "references_publication",
+        "meta": {
+          "type": "references_publication",
+          "target": "publication-2026-micron-scale-technosignatures-lunar-regolith",
+          "role": "commentary on research",
+          "context": "Loeb's September 8 Medium article discusses the preprint; he is not one of its authors."
+        }
+      },
+      {
+        "source": "brian-c-lacki",
+        "type": "authored",
+        "meta": {
+          "type": "authored",
+          "target": "publication-2026-micron-scale-technosignatures-lunar-regolith"
+        }
+      },
+      {
+        "source": "claim-directed-technoparticle-delivery-regime",
+        "type": "references_publication",
+        "meta": {
+          "type": "references_publication",
+          "target": "publication-2026-micron-scale-technosignatures-lunar-regolith",
+          "role": "claim source"
+        }
+      },
+      {
+        "source": "claim-lunar-regolith-technosignature-preservation",
+        "type": "references_publication",
+        "meta": {
+          "type": "references_publication",
+          "target": "publication-2026-micron-scale-technosignatures-lunar-regolith",
+          "role": "claim source"
+        }
+      },
+      {
+        "source": "claim-lunar-technosignature-null-result-constraint",
+        "type": "references_publication",
+        "meta": {
+          "type": "references_publication",
+          "target": "publication-2026-micron-scale-technosignatures-lunar-regolith",
+          "role": "claim source"
+        }
+      },
+      {
+        "source": "claim-micron-grain-interstellar-transport-feasibility",
+        "type": "references_publication",
+        "meta": {
+          "type": "references_publication",
+          "target": "publication-2026-micron-scale-technosignatures-lunar-regolith",
+          "role": "claim source"
+        }
+      },
+      {
+        "source": "claim-multimodal-technograin-screening",
+        "type": "references_publication",
+        "meta": {
+          "type": "references_publication",
+          "target": "publication-2026-micron-scale-technosignatures-lunar-regolith",
+          "role": "claim source"
+        }
+      },
+      {
+        "source": "claim-no-lunar-technosignature-detection",
+        "type": "references_publication",
+        "meta": {
+          "type": "references_publication",
+          "target": "publication-2026-micron-scale-technosignatures-lunar-regolith",
+          "role": "claim source"
+        }
+      },
+      {
+        "source": "exo-archaeology",
+        "type": "references_publication",
+        "meta": {
+          "type": "references_publication",
+          "target": "publication-2026-micron-scale-technosignatures-lunar-regolith"
+        }
+      },
+      {
+        "source": "ian-a-crawford",
+        "type": "authored",
+        "meta": {
+          "type": "authored",
+          "target": "publication-2026-micron-scale-technosignatures-lunar-regolith"
+        }
+      },
+      {
+        "source": "lewis-j-pinault",
+        "type": "authored",
+        "meta": {
+          "type": "authored",
+          "target": "publication-2026-micron-scale-technosignatures-lunar-regolith"
+        }
+      },
+      {
+        "source": "lunar-regolith",
+        "type": "references_publication",
+        "meta": {
+          "type": "references_publication",
+          "target": "publication-2026-micron-scale-technosignatures-lunar-regolith"
+        }
+      },
+      {
+        "source": "micron-scale-technosignatures",
+        "type": "references_publication",
+        "meta": {
+          "type": "references_publication",
+          "target": "publication-2026-micron-scale-technosignatures-lunar-regolith"
+        }
+      },
+      {
+        "source": "scientific-investigation",
+        "type": "references_publication",
+        "meta": {
+          "type": "references_publication",
+          "target": "publication-2026-micron-scale-technosignatures-lunar-regolith",
+          "role": "model-based, testable search proposal"
+        }
+      },
+      {
+        "source": "space-exploration",
+        "type": "references_publication",
+        "meta": {
+          "type": "references_publication",
+          "target": "publication-2026-micron-scale-technosignatures-lunar-regolith",
+          "role": "featured lunar research",
+          "context": "The paper proposes using characterized lunar regolith as a long-duration material archive for technosignature searches."
+        }
+      },
+      {
+        "source": "technosignatures",
+        "type": "references_publication",
+        "meta": {
+          "type": "references_publication",
+          "target": "publication-2026-micron-scale-technosignatures-lunar-regolith",
+          "role": "material technosignature methodology"
         }
       }
     ],
@@ -27882,6 +28183,14 @@
         }
       },
       {
+        "source": "claim-directed-technoparticle-delivery-regime",
+        "type": "references_topic",
+        "meta": {
+          "type": "references_topic",
+          "target": "scientific-investigation"
+        }
+      },
+      {
         "source": "claim-element-115-propulsion",
         "type": "associated_topic",
         "meta": {
@@ -27930,6 +28239,46 @@
         }
       },
       {
+        "source": "claim-lunar-regolith-technosignature-preservation",
+        "type": "references_topic",
+        "meta": {
+          "type": "references_topic",
+          "target": "scientific-investigation"
+        }
+      },
+      {
+        "source": "claim-lunar-technosignature-null-result-constraint",
+        "type": "references_topic",
+        "meta": {
+          "type": "references_topic",
+          "target": "scientific-investigation"
+        }
+      },
+      {
+        "source": "claim-micron-grain-interstellar-transport-feasibility",
+        "type": "references_topic",
+        "meta": {
+          "type": "references_topic",
+          "target": "scientific-investigation"
+        }
+      },
+      {
+        "source": "claim-multimodal-technograin-screening",
+        "type": "references_topic",
+        "meta": {
+          "type": "references_topic",
+          "target": "scientific-investigation"
+        }
+      },
+      {
+        "source": "claim-no-lunar-technosignature-detection",
+        "type": "references_topic",
+        "meta": {
+          "type": "references_topic",
+          "target": "scientific-investigation"
+        }
+      },
+      {
         "source": "engaging-the-phenomenon-podcast",
         "type": "discussed_topic",
         "meta": {
@@ -27942,6 +28291,14 @@
         "type": "references_topic",
         "meta": {
           "type": "references_topic",
+          "target": "scientific-investigation"
+        }
+      },
+      {
+        "source": "exo-archaeology",
+        "type": "associated_topic",
+        "meta": {
+          "type": "associated_topic",
           "target": "scientific-investigation"
         }
       },
@@ -28000,6 +28357,14 @@
           "type": "references_topic",
           "target": "scientific-investigation",
           "role": "methodological research"
+        }
+      },
+      {
+        "source": "publication-2026-micron-scale-technosignatures-lunar-regolith",
+        "type": "references_topic",
+        "meta": {
+          "type": "references_topic",
+          "target": "scientific-investigation"
         }
       },
       {
@@ -28903,6 +29268,23 @@
           "type": "discussed_topic",
           "target": "space-exploration"
         }
+      },
+      {
+        "source": "lunar-regolith",
+        "type": "associated_topic",
+        "meta": {
+          "type": "associated_topic",
+          "target": "space-exploration"
+        }
+      },
+      {
+        "source": "publication-2026-micron-scale-technosignatures-lunar-regolith",
+        "type": "references_topic",
+        "meta": {
+          "type": "references_topic",
+          "target": "space-exploration",
+          "role": "connected gateway research"
+        }
       }
     ],
     "steven-greer": [],
@@ -28934,6 +29316,14 @@
     ],
     "technosignatures": [
       {
+        "source": "andrew-p-v-siemion",
+        "type": "references_topic",
+        "meta": {
+          "type": "references_topic",
+          "target": "technosignatures"
+        }
+      },
+      {
         "source": "beatriz-villarroel",
         "type": "addresses_topic",
         "meta": {
@@ -28942,10 +29332,50 @@
         }
       },
       {
+        "source": "brian-c-lacki",
+        "type": "references_topic",
+        "meta": {
+          "type": "references_topic",
+          "target": "technosignatures"
+        }
+      },
+      {
         "source": "claim-vasco-transients-nuclear-test-correlation",
         "type": "references_topic",
         "meta": {
           "type": "references_topic",
+          "target": "technosignatures"
+        }
+      },
+      {
+        "source": "exo-archaeology",
+        "type": "associated_topic",
+        "meta": {
+          "type": "associated_topic",
+          "target": "technosignatures"
+        }
+      },
+      {
+        "source": "ian-a-crawford",
+        "type": "references_topic",
+        "meta": {
+          "type": "references_topic",
+          "target": "technosignatures"
+        }
+      },
+      {
+        "source": "lewis-j-pinault",
+        "type": "references_topic",
+        "meta": {
+          "type": "references_topic",
+          "target": "technosignatures"
+        }
+      },
+      {
+        "source": "micron-scale-technosignatures",
+        "type": "broader_topic",
+        "meta": {
+          "type": "broader_topic",
           "target": "technosignatures"
         }
       },
@@ -28965,6 +29395,14 @@
           "target": "technosignatures",
           "role": "subject",
           "context": "The paper evaluates whether the plate-derived features support claimed technosignature interpretations."
+        }
+      },
+      {
+        "source": "publication-2026-micron-scale-technosignatures-lunar-regolith",
+        "type": "references_topic",
+        "meta": {
+          "type": "references_topic",
+          "target": "technosignatures"
         }
       },
       {

@@ -1,0 +1,41 @@
+{
+  "id": "exo-archaeology",
+  "type": "topic",
+  "entitySubtype": "Scientific Research Topic",
+  "name": "Exo-Archaeology",
+  "aliases": [
+    "Interstellar archaeology",
+    "Extraterrestrial artifact search"
+  ],
+  "summary": "Search for durable physical evidence that could constrain or reveal past extraterrestrial technological activity, including material technosignatures preserved on Solar System bodies.",
+  "relationships": [
+    {
+      "type": "associated_topic",
+      "target": "technosignatures"
+    },
+    {
+      "type": "associated_topic",
+      "target": "scientific-investigation"
+    },
+    {
+      "type": "references_publication",
+      "target": "publication-2026-micron-scale-technosignatures-lunar-regolith"
+    }
+  ],
+  "referenceSources": [
+    {
+      "label": "Pinault et al. — particulate technosignatures as exo-archaeology",
+      "url": "https://arxiv.org/abs/2606.24028",
+      "sourceType": "scientific_preprint",
+      "role": "primary_reference"
+    }
+  ],
+  "taxonomyStatus": "canonical",
+  "destinationPage": true,
+  "visibleInDirectory": true,
+  "searchable": true,
+  "editorialNotes": {
+    "neutrality": "The research domain is a search framework, not evidence that extraterrestrial artifacts exist in the Solar System."
+  },
+  "officialLinks": []
+}

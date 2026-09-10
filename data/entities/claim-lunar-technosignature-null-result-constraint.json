@@ -1,0 +1,31 @@
+{
+  "id": "claim-lunar-technosignature-null-result-constraint",
+  "type": "claim",
+  "name": "A one-cubic-metre null result could constrain specified undirected technomaterial scenarios",
+  "summary": "Under the v4 model, a null detection in about one cubic metre of characterized lunar regolith would exclude scenarios in which Solar-type stars typically disperse more than approximately 0.10 Earth-mass equivalents of long-lived artificial particulate debris over Galactic history.",
+  "relationships": [
+    {
+      "type": "references_publication",
+      "target": "publication-2026-micron-scale-technosignatures-lunar-regolith",
+      "role": "claim source"
+    },
+    {
+      "type": "references_topic",
+      "target": "scientific-investigation"
+    }
+  ],
+  "referenceSources": [
+    {
+      "label": "arXiv:2606.24028v4",
+      "url": "https://arxiv.org/abs/2606.24028",
+      "sourceType": "scientific_preprint",
+      "role": "claim_source"
+    }
+  ],
+  "claimMetadata": {
+    "classification": "conditional_quantitative_finding",
+    "knowledgePermanence": "permanent",
+    "caution": "This claim records the authors' model, proposal or evidentiary clarification; it is not an independent GreyAlien detection claim."
+  },
+  "officialLinks": []
+}

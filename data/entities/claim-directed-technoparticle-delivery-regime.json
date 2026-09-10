@@ -1,0 +1,31 @@
+{
+  "id": "claim-directed-technoparticle-delivery-regime",
+  "type": "claim",
+  "name": "Deliberately targeted particulate systems define a separate modeled detection regime",
+  "summary": "The paper considers deliberately targeted artificial particulate matter separately from randomly dispersed debris and reports that some directed scenarios could yield substantially higher detection probabilities, subject to stronger assumptions.",
+  "relationships": [
+    {
+      "type": "references_publication",
+      "target": "publication-2026-micron-scale-technosignatures-lunar-regolith",
+      "role": "claim source"
+    },
+    {
+      "type": "references_topic",
+      "target": "scientific-investigation"
+    }
+  ],
+  "referenceSources": [
+    {
+      "label": "arXiv:2606.24028v4",
+      "url": "https://arxiv.org/abs/2606.24028",
+      "sourceType": "scientific_preprint",
+      "role": "claim_source"
+    }
+  ],
+  "claimMetadata": {
+    "classification": "speculative_modeled_scenario",
+    "knowledgePermanence": "permanent",
+    "caution": "This claim records the authors' model, proposal or evidentiary clarification; it is not an independent GreyAlien detection claim."
+  },
+  "officialLinks": []
+}

@@ -1,0 +1,31 @@
+{
+  "id": "claim-micron-grain-interstellar-transport-feasibility",
+  "type": "claim",
+  "name": "Certain refractory micron-scale grains may survive modeled interstellar transport",
+  "summary": "The v4 preprint reports that refractory grains with characteristic radii around 0.3 microns may traverse kiloparsec scales over residence times of roughly 0.1–1 Gyr under its gas-drag, sputtering and interstellar-medium assumptions.",
+  "relationships": [
+    {
+      "type": "references_publication",
+      "target": "publication-2026-micron-scale-technosignatures-lunar-regolith",
+      "role": "claim source"
+    },
+    {
+      "type": "references_topic",
+      "target": "scientific-investigation"
+    }
+  ],
+  "referenceSources": [
+    {
+      "label": "arXiv:2606.24028v4",
+      "url": "https://arxiv.org/abs/2606.24028",
+      "sourceType": "scientific_preprint",
+      "role": "claim_source"
+    }
+  ],
+  "claimMetadata": {
+    "classification": "model_derived_physical_feasibility",
+    "knowledgePermanence": "permanent",
+    "caution": "This claim records the authors' model, proposal or evidentiary clarification; it is not an independent GreyAlien detection claim."
+  },
+  "officialLinks": []
+}

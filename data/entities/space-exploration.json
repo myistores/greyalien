@@ -3,7 +3,21 @@
   "type": "topic",
   "name": "Space Exploration",
   "summary": "A knowledge-graph topic used to connect source-grounded WEAPONIZED reporting about space exploration.",
-  "relationships": [],
+  "relationships": [
+    {
+      "type": "references_publication",
+      "target": "publication-2026-micron-scale-technosignatures-lunar-regolith",
+      "role": "featured lunar research",
+      "context": "The paper proposes using characterized lunar regolith as a long-duration material archive for technosignature searches."
+    }
+  ],
   "officialLinks": [],
-  "referenceSources": []
+  "referenceSources": [
+    {
+      "label": "Pinault et al. — Micron-Scale Technosignatures",
+      "url": "https://arxiv.org/abs/2606.24028",
+      "sourceType": "scientific_preprint",
+      "role": "connected_research"
+    }
+  ]
 }

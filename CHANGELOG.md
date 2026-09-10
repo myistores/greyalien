@@ -699,3 +699,12 @@ Migrated 257 podcast episodes and four series entities to the universal official
 - Added five structured claims and embedded evidence records covering totals, infrastructure effects, uneven coverage, source non-equivalence and unresolved-case methodology.
 - Preserved the distinction between reporting-channel totals and actual UAP incidence, confirmed anomalies, investigated cases and unresolved cases.
 - Preserved V23.6D.1 loading reliability and all V23.6D.2–D.4 lifecycle/permanent-knowledge behavior.
+
+# V23.6D.6 — Lunar Micron-Scale Technosignatures + Exo-Archaeology Research Integration
+
+- Added Avi Loeb's September 8 Medium commentary to Latest UAP News as current/non-Landmark.
+- Added arXiv:2606.24028v4 as a permanent Research Library preprint and used the current approximately 0.10-Earth-mass conditional threshold.
+- Added four authors, Micron-Scale Technosignatures, Exo-Archaeology, Lunar Regolith and six structured claims after repository matching.
+- Added reciprocal News ↔ Research and Research ↔ Space Exploration discovery.
+- Preserved no-detection, modeled-sample, conditional-constraint, authorship and publication-status distinctions.
+- Preserved V23.6D.1 loading reliability and all V23.6D.2–D.5 lifecycle/permanent-knowledge behavior.

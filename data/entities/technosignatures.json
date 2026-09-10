@@ -7,6 +7,11 @@
     {
       "type": "associated_topic",
       "target": "scientific-investigation"
+    },
+    {
+      "type": "references_publication",
+      "target": "publication-2026-micron-scale-technosignatures-lunar-regolith",
+      "role": "material technosignature methodology"
     }
   ],
   "officialLinks": [],
@@ -16,6 +21,12 @@
       "url": "https://www.cambridge.org/core/journals/publications-of-the-astronomical-society-of-australia/article/critical-evaluation-of-studies-alleging-evidence-for-technosignatures-in-the-poss1e-photographic-plates/A19B440ADE54BB11973C46D2BA13FB01",
       "sourceType": "peer_reviewed_article",
       "role": "research_context"
+    },
+    {
+      "label": "Pinault et al. — Micron-Scale Technosignatures",
+      "url": "https://arxiv.org/abs/2606.24028",
+      "sourceType": "scientific_preprint",
+      "role": "connected_research"
     }
   ],
   "entitySubtype": "Scientific Research Topic",

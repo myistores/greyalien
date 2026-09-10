@@ -1,0 +1,29 @@
+{
+  "id": "lewis-j-pinault",
+  "type": "person",
+  "entitySubtype": "Researcher",
+  "name": "Lewis J. Pinault",
+  "summary": "Lead-listed and corresponding author of the 2026 arXiv preprint proposing a quantitative search for micron-scale technosignatures in lunar regolith.",
+  "relationships": [
+    {
+      "type": "authored",
+      "target": "publication-2026-micron-scale-technosignatures-lunar-regolith"
+    },
+    {
+      "type": "references_topic",
+      "target": "technosignatures"
+    }
+  ],
+  "referenceSources": [
+    {
+      "label": "arXiv:2606.24028v4",
+      "url": "https://arxiv.org/abs/2606.24028",
+      "sourceType": "scientific_preprint",
+      "role": "author_reference"
+    }
+  ],
+  "profileMetadata": {
+    "scope": "This bounded record documents authorship of the ingested paper; unrelated biographical or institutional claims are deferred unless independently verified."
+  },
+  "officialLinks": []
+}
