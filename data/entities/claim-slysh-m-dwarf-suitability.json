@@ -1,0 +1,31 @@
+{
+  "id": "claim-slysh-m-dwarf-suitability",
+  "type": "claim",
+  "name": "M-dwarf systems may be favorable modeled search targets",
+  "summary": "The preprint identifies M dwarfs as especially favorable under its energetic, thermal and observational assumptions.",
+  "relationships": [
+    {
+      "type": "references_publication",
+      "target": "publication-2026-slysh-haloes-cold-computing-technosignature",
+      "role": "claim source"
+    },
+    {
+      "type": "references_topic",
+      "target": "scientific-investigation"
+    }
+  ],
+  "referenceSources": [
+    {
+      "label": "arXiv:2608.31153v1",
+      "url": "https://arxiv.org/abs/2608.31153",
+      "sourceType": "scientific_preprint",
+      "role": "claim_source"
+    }
+  ],
+  "claimMetadata": {
+    "classification": "modeled_target_selection",
+    "knowledgePermanence": "permanent",
+    "caution": "Records a physical principle, model, proposed method, alternative explanation or evidentiary clarification; not an independent detection claim."
+  },
+  "officialLinks": []
+}

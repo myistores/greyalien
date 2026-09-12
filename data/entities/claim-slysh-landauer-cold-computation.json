@@ -1,0 +1,31 @@
+{
+  "id": "claim-slysh-landauer-cold-computation",
+  "type": "claim",
+  "name": "Lower-temperature irreversible computation has a lower thermodynamic energy cost",
+  "summary": "The paper applies Landauer scaling, in which the minimum energy cost of irreversible computation is proportional to operating temperature, as the physical motivation for cold computing.",
+  "relationships": [
+    {
+      "type": "references_publication",
+      "target": "publication-2026-slysh-haloes-cold-computing-technosignature",
+      "role": "claim source"
+    },
+    {
+      "type": "references_topic",
+      "target": "scientific-investigation"
+    }
+  ],
+  "referenceSources": [
+    {
+      "label": "arXiv:2608.31153v1",
+      "url": "https://arxiv.org/abs/2608.31153",
+      "sourceType": "scientific_preprint",
+      "role": "claim_source"
+    }
+  ],
+  "claimMetadata": {
+    "classification": "physical_principle_application",
+    "knowledgePermanence": "permanent",
+    "caution": "Records a physical principle, model, proposed method, alternative explanation or evidentiary clarification; not an independent detection claim."
+  },
+  "officialLinks": []
+}

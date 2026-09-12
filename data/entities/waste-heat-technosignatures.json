@@ -1,0 +1,37 @@
+{
+  "id": "waste-heat-technosignatures",
+  "type": "topic",
+  "entitySubtype": "Scientific Research Topic",
+  "name": "Waste-Heat Technosignatures",
+  "summary": "Searches for thermal radiation that could result from technological energy use, including the cold far-infrared and submillimetre regime proposed for Slysh haloes.",
+  "relationships": [
+    {
+      "type": "broader_topic",
+      "target": "technosignatures"
+    },
+    {
+      "type": "references_publication",
+      "target": "publication-2026-slysh-haloes-cold-computing-technosignature"
+    },
+    {
+      "type": "associated_topic",
+      "target": "scientific-investigation"
+    }
+  ],
+  "referenceSources": [
+    {
+      "label": "Garrett — Slysh haloes",
+      "url": "https://arxiv.org/abs/2608.31153",
+      "sourceType": "scientific_preprint",
+      "role": "primary_reference"
+    }
+  ],
+  "taxonomyStatus": "canonical",
+  "destinationPage": true,
+  "visibleInDirectory": true,
+  "searchable": true,
+  "editorialNotes": {
+    "evidentiaryStatus": "Hypothetical, model-derived search concept; no Slysh halo has been detected."
+  },
+  "officialLinks": []
+}

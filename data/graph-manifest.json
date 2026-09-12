@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "entityCount": 1664,
-  "relationshipCount": 3727,
+  "entityCount": 1676,
+  "relationshipCount": 3771,
   "unresolvedRelationshipCount": 56,
   "connectionCounts": {
     "1946-scandinavian-ghost-rockets": {
@@ -4364,6 +4364,11 @@
       "outgoing": 2,
       "total": 3
     },
+    "claim-no-slysh-halo-detection": {
+      "incoming": 1,
+      "outgoing": 2,
+      "total": 3
+    },
     "claim-nufohrc-sole-source-justification": {
       "incoming": 1,
       "outgoing": 2,
@@ -4593,6 +4598,36 @@
       "incoming": 1,
       "outgoing": 1,
       "total": 2
+    },
+    "claim-slysh-archival-survey-constraints": {
+      "incoming": 1,
+      "outgoing": 2,
+      "total": 3
+    },
+    "claim-slysh-landauer-cold-computation": {
+      "incoming": 1,
+      "outgoing": 2,
+      "total": 3
+    },
+    "claim-slysh-m-dwarf-suitability": {
+      "incoming": 1,
+      "outgoing": 2,
+      "total": 3
+    },
+    "claim-slysh-natural-source-degeneracy": {
+      "incoming": 1,
+      "outgoing": 2,
+      "total": 3
+    },
+    "claim-slysh-null-result-value": {
+      "incoming": 1,
+      "outgoing": 2,
+      "total": 3
+    },
+    "claim-slysh-submillimetre-signature": {
+      "incoming": 1,
+      "outgoing": 2,
+      "total": 3
     },
     "claim-some-objects-appeared-to-manage-their-signatures-near-sensitive-sites": {
       "incoming": 0,
@@ -5689,6 +5724,11 @@
       "outgoing": 1,
       "total": 2
     },
+    "cold-computing": {
+      "incoming": 1,
+      "outgoing": 3,
+      "total": 4
+    },
     "colm-kelleher": {
       "incoming": 5,
       "outgoing": 1,
@@ -6509,6 +6549,11 @@
       "outgoing": 2,
       "total": 22
     },
+    "michael-garrett": {
+      "incoming": 1,
+      "outgoing": 2,
+      "total": 3
+    },
     "michael-gold": {
       "incoming": 0,
       "outgoing": 2,
@@ -6790,9 +6835,14 @@
       "total": 16
     },
     "publication-2026-micron-scale-technosignatures-lunar-regolith": {
-      "incoming": 17,
-      "outgoing": 16,
-      "total": 33
+      "incoming": 18,
+      "outgoing": 17,
+      "total": 35
+    },
+    "publication-2026-slysh-haloes-cold-computing-technosignature": {
+      "incoming": 15,
+      "outgoing": 15,
+      "total": 30
     },
     "pursue": {
       "incoming": 4,
@@ -6955,9 +7005,9 @@
       "total": 1
     },
     "scientific-investigation": {
-      "incoming": 67,
-      "outgoing": 2,
-      "total": 69
+      "incoming": 78,
+      "outgoing": 3,
+      "total": 81
     },
     "scott-bray": {
       "incoming": 0,
@@ -7014,6 +7064,11 @@
       "outgoing": 0,
       "total": 1
     },
+    "slysh-halo": {
+      "incoming": 1,
+      "outgoing": 3,
+      "total": 4
+    },
     "sol-foundation": {
       "incoming": 7,
       "outgoing": 2,
@@ -7045,9 +7100,9 @@
       "total": 1
     },
     "space-exploration": {
-      "incoming": 3,
-      "outgoing": 1,
-      "total": 4
+      "incoming": 4,
+      "outgoing": 2,
+      "total": 6
     },
     "steven-greer": {
       "incoming": 0,
@@ -7060,9 +7115,9 @@
       "total": 4
     },
     "technosignatures": {
-      "incoming": 13,
-      "outgoing": 2,
-      "total": 15
+      "incoming": 18,
+      "outgoing": 3,
+      "total": 21
     },
     "that-ufo-podcast": {
       "incoming": 0,
@@ -8253,6 +8308,11 @@
       "incoming": 0,
       "outgoing": 3,
       "total": 3
+    },
+    "waste-heat-technosignatures": {
+      "incoming": 1,
+      "outgoing": 3,
+      "total": 4
     },
     "wayne-pacelle": {
       "incoming": 1,

@@ -77,6 +77,11 @@
     {
       "type": "contains_claim",
       "target": "claim-no-lunar-technosignature-detection"
+    },
+    {
+      "type": "references_publication",
+      "target": "publication-2026-slysh-haloes-cold-computing-technosignature",
+      "role": "complementary physical-artifact search methodology"
     }
   ],
   "referenceSources": [
@@ -91,6 +96,12 @@
       "url": "https://avi-loeb.medium.com/can-we-detect-alien-tech-in-the-form-of-sub-micron-dust-on-the-moon-ae14cf86fa76",
       "sourceType": "secondary_commentary",
       "role": "related_news"
+    },
+    {
+      "label": "Garrett — Slysh haloes",
+      "url": "https://arxiv.org/abs/2608.31153",
+      "sourceType": "scientific_preprint",
+      "role": "connected_research"
     }
   ],
   "publicationMetadata": {

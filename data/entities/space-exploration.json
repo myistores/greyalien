@@ -9,6 +9,11 @@
       "target": "publication-2026-micron-scale-technosignatures-lunar-regolith",
       "role": "featured lunar research",
       "context": "The paper proposes using characterized lunar regolith as a long-duration material archive for technosignature searches."
+    },
+    {
+      "type": "references_publication",
+      "target": "publication-2026-slysh-haloes-cold-computing-technosignature",
+      "role": "featured observational SETI research"
     }
   ],
   "officialLinks": [],
@@ -16,6 +21,12 @@
     {
       "label": "Pinault et al. — Micron-Scale Technosignatures",
       "url": "https://arxiv.org/abs/2606.24028",
+      "sourceType": "scientific_preprint",
+      "role": "connected_research"
+    },
+    {
+      "label": "Garrett — Slysh haloes",
+      "url": "https://arxiv.org/abs/2608.31153",
       "sourceType": "scientific_preprint",
       "role": "connected_research"
     }

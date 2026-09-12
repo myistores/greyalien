@@ -1,0 +1,24 @@
+V23.6D.7 — Slysh Haloes + Cold-Computing Technosignature Integration
+
+BASE
+- V23.6D.6 deployable repository
+
+ADDED
+- Current/non-Landmark Universe Today news record
+- Permanent arXiv:2608.31153v1 Research Library record
+- Michael Garrett, Slysh Halo, Cold Computing and Waste-Heat Technosignatures
+- Seven permanent structured claims and five embedded evidence records
+- Editorial companion image with disclosure metadata
+- Reciprocal News, Research Library and Space Exploration discovery paths
+
+PRESERVED
+- News lifecycle and permanent-knowledge model
+- V23.6D.1 entity-loading runtime
+- V23.6D.2 through V23.6D.6 records and navigation
+- Model/observation, natural/technological and preprint/publication distinctions
+
+VALIDATE
+python3 tools/validate_v23_6d_7.py
+python3 tools/validate_graph.py
+python3 tools/validate_sources.py
+python3 tools/validate_rendering_rules.py

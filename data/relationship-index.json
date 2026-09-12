@@ -13541,6 +13541,16 @@
         }
       }
     ],
+    "claim-no-slysh-halo-detection": [
+      {
+        "source": "publication-2026-slysh-haloes-cold-computing-technosignature",
+        "type": "contains_claim",
+        "meta": {
+          "type": "contains_claim",
+          "target": "claim-no-slysh-halo-detection"
+        }
+      }
+    ],
     "claim-nufohrc-sole-source-justification": [
       {
         "source": "document-2026-aaro-nufohrc-sole-source-notice",
@@ -13921,6 +13931,66 @@
           "type": "presented_claim",
           "target": "claim-sleeping-dog-emphasizes-journalisms-role-in-ufo-transparency",
           "context": "Principal claim discussed in the episode"
+        }
+      }
+    ],
+    "claim-slysh-archival-survey-constraints": [
+      {
+        "source": "publication-2026-slysh-haloes-cold-computing-technosignature",
+        "type": "contains_claim",
+        "meta": {
+          "type": "contains_claim",
+          "target": "claim-slysh-archival-survey-constraints"
+        }
+      }
+    ],
+    "claim-slysh-landauer-cold-computation": [
+      {
+        "source": "publication-2026-slysh-haloes-cold-computing-technosignature",
+        "type": "contains_claim",
+        "meta": {
+          "type": "contains_claim",
+          "target": "claim-slysh-landauer-cold-computation"
+        }
+      }
+    ],
+    "claim-slysh-m-dwarf-suitability": [
+      {
+        "source": "publication-2026-slysh-haloes-cold-computing-technosignature",
+        "type": "contains_claim",
+        "meta": {
+          "type": "contains_claim",
+          "target": "claim-slysh-m-dwarf-suitability"
+        }
+      }
+    ],
+    "claim-slysh-natural-source-degeneracy": [
+      {
+        "source": "publication-2026-slysh-haloes-cold-computing-technosignature",
+        "type": "contains_claim",
+        "meta": {
+          "type": "contains_claim",
+          "target": "claim-slysh-natural-source-degeneracy"
+        }
+      }
+    ],
+    "claim-slysh-null-result-value": [
+      {
+        "source": "publication-2026-slysh-haloes-cold-computing-technosignature",
+        "type": "contains_claim",
+        "meta": {
+          "type": "contains_claim",
+          "target": "claim-slysh-null-result-value"
+        }
+      }
+    ],
+    "claim-slysh-submillimetre-signature": [
+      {
+        "source": "publication-2026-slysh-haloes-cold-computing-technosignature",
+        "type": "contains_claim",
+        "meta": {
+          "type": "contains_claim",
+          "target": "claim-slysh-submillimetre-signature"
         }
       }
     ],
@@ -14545,6 +14615,16 @@
         "meta": {
           "type": "references_case",
           "target": "colares-ufo-incidents"
+        }
+      }
+    ],
+    "cold-computing": [
+      {
+        "source": "publication-2026-slysh-haloes-cold-computing-technosignature",
+        "type": "addresses_topic",
+        "meta": {
+          "type": "addresses_topic",
+          "target": "cold-computing"
         }
       }
     ],
@@ -24131,6 +24211,17 @@
         }
       }
     ],
+    "michael-garrett": [
+      {
+        "source": "publication-2026-slysh-haloes-cold-computing-technosignature",
+        "type": "references_person",
+        "meta": {
+          "type": "references_person",
+          "target": "michael-garrett",
+          "role": "author"
+        }
+      }
+    ],
     "michael-gold": [],
     "michael-herrera": [
       {
@@ -26216,6 +26307,15 @@
         }
       },
       {
+        "source": "publication-2026-slysh-haloes-cold-computing-technosignature",
+        "type": "references_publication",
+        "meta": {
+          "type": "references_publication",
+          "target": "publication-2026-micron-scale-technosignatures-lunar-regolith",
+          "role": "complementary technosignature methodology"
+        }
+      },
+      {
         "source": "scientific-investigation",
         "type": "references_publication",
         "meta": {
@@ -26241,6 +26341,139 @@
           "type": "references_publication",
           "target": "publication-2026-micron-scale-technosignatures-lunar-regolith",
           "role": "material technosignature methodology"
+        }
+      }
+    ],
+    "publication-2026-slysh-haloes-cold-computing-technosignature": [
+      {
+        "source": "claim-no-slysh-halo-detection",
+        "type": "references_publication",
+        "meta": {
+          "type": "references_publication",
+          "target": "publication-2026-slysh-haloes-cold-computing-technosignature",
+          "role": "claim source"
+        }
+      },
+      {
+        "source": "claim-slysh-archival-survey-constraints",
+        "type": "references_publication",
+        "meta": {
+          "type": "references_publication",
+          "target": "publication-2026-slysh-haloes-cold-computing-technosignature",
+          "role": "claim source"
+        }
+      },
+      {
+        "source": "claim-slysh-landauer-cold-computation",
+        "type": "references_publication",
+        "meta": {
+          "type": "references_publication",
+          "target": "publication-2026-slysh-haloes-cold-computing-technosignature",
+          "role": "claim source"
+        }
+      },
+      {
+        "source": "claim-slysh-m-dwarf-suitability",
+        "type": "references_publication",
+        "meta": {
+          "type": "references_publication",
+          "target": "publication-2026-slysh-haloes-cold-computing-technosignature",
+          "role": "claim source"
+        }
+      },
+      {
+        "source": "claim-slysh-natural-source-degeneracy",
+        "type": "references_publication",
+        "meta": {
+          "type": "references_publication",
+          "target": "publication-2026-slysh-haloes-cold-computing-technosignature",
+          "role": "claim source"
+        }
+      },
+      {
+        "source": "claim-slysh-null-result-value",
+        "type": "references_publication",
+        "meta": {
+          "type": "references_publication",
+          "target": "publication-2026-slysh-haloes-cold-computing-technosignature",
+          "role": "claim source"
+        }
+      },
+      {
+        "source": "claim-slysh-submillimetre-signature",
+        "type": "references_publication",
+        "meta": {
+          "type": "references_publication",
+          "target": "publication-2026-slysh-haloes-cold-computing-technosignature",
+          "role": "claim source"
+        }
+      },
+      {
+        "source": "cold-computing",
+        "type": "references_publication",
+        "meta": {
+          "type": "references_publication",
+          "target": "publication-2026-slysh-haloes-cold-computing-technosignature"
+        }
+      },
+      {
+        "source": "michael-garrett",
+        "type": "authored",
+        "meta": {
+          "type": "authored",
+          "target": "publication-2026-slysh-haloes-cold-computing-technosignature"
+        }
+      },
+      {
+        "source": "publication-2026-micron-scale-technosignatures-lunar-regolith",
+        "type": "references_publication",
+        "meta": {
+          "type": "references_publication",
+          "target": "publication-2026-slysh-haloes-cold-computing-technosignature",
+          "role": "complementary physical-artifact search methodology"
+        }
+      },
+      {
+        "source": "scientific-investigation",
+        "type": "references_publication",
+        "meta": {
+          "type": "references_publication",
+          "target": "publication-2026-slysh-haloes-cold-computing-technosignature",
+          "role": "falsifiable search methodology"
+        }
+      },
+      {
+        "source": "slysh-halo",
+        "type": "references_publication",
+        "meta": {
+          "type": "references_publication",
+          "target": "publication-2026-slysh-haloes-cold-computing-technosignature"
+        }
+      },
+      {
+        "source": "space-exploration",
+        "type": "references_publication",
+        "meta": {
+          "type": "references_publication",
+          "target": "publication-2026-slysh-haloes-cold-computing-technosignature",
+          "role": "featured observational SETI research"
+        }
+      },
+      {
+        "source": "technosignatures",
+        "type": "references_publication",
+        "meta": {
+          "type": "references_publication",
+          "target": "publication-2026-slysh-haloes-cold-computing-technosignature",
+          "role": "cold waste-heat research"
+        }
+      },
+      {
+        "source": "waste-heat-technosignatures",
+        "type": "references_publication",
+        "meta": {
+          "type": "references_publication",
+          "target": "publication-2026-slysh-haloes-cold-computing-technosignature"
         }
       }
     ],
@@ -28279,6 +28512,70 @@
         }
       },
       {
+        "source": "claim-no-slysh-halo-detection",
+        "type": "references_topic",
+        "meta": {
+          "type": "references_topic",
+          "target": "scientific-investigation"
+        }
+      },
+      {
+        "source": "claim-slysh-archival-survey-constraints",
+        "type": "references_topic",
+        "meta": {
+          "type": "references_topic",
+          "target": "scientific-investigation"
+        }
+      },
+      {
+        "source": "claim-slysh-landauer-cold-computation",
+        "type": "references_topic",
+        "meta": {
+          "type": "references_topic",
+          "target": "scientific-investigation"
+        }
+      },
+      {
+        "source": "claim-slysh-m-dwarf-suitability",
+        "type": "references_topic",
+        "meta": {
+          "type": "references_topic",
+          "target": "scientific-investigation"
+        }
+      },
+      {
+        "source": "claim-slysh-natural-source-degeneracy",
+        "type": "references_topic",
+        "meta": {
+          "type": "references_topic",
+          "target": "scientific-investigation"
+        }
+      },
+      {
+        "source": "claim-slysh-null-result-value",
+        "type": "references_topic",
+        "meta": {
+          "type": "references_topic",
+          "target": "scientific-investigation"
+        }
+      },
+      {
+        "source": "claim-slysh-submillimetre-signature",
+        "type": "references_topic",
+        "meta": {
+          "type": "references_topic",
+          "target": "scientific-investigation"
+        }
+      },
+      {
+        "source": "cold-computing",
+        "type": "associated_topic",
+        "meta": {
+          "type": "associated_topic",
+          "target": "scientific-investigation"
+        }
+      },
+      {
         "source": "engaging-the-phenomenon-podcast",
         "type": "discussed_topic",
         "meta": {
@@ -28364,6 +28661,22 @@
         "type": "references_topic",
         "meta": {
           "type": "references_topic",
+          "target": "scientific-investigation"
+        }
+      },
+      {
+        "source": "publication-2026-slysh-haloes-cold-computing-technosignature",
+        "type": "references_topic",
+        "meta": {
+          "type": "references_topic",
+          "target": "scientific-investigation"
+        }
+      },
+      {
+        "source": "slysh-halo",
+        "type": "associated_topic",
+        "meta": {
+          "type": "associated_topic",
           "target": "scientific-investigation"
         }
       },
@@ -28504,6 +28817,14 @@
         "type": "addresses_topic",
         "meta": {
           "type": "addresses_topic",
+          "target": "scientific-investigation"
+        }
+      },
+      {
+        "source": "waste-heat-technosignatures",
+        "type": "associated_topic",
+        "meta": {
+          "type": "associated_topic",
           "target": "scientific-investigation"
         }
       },
@@ -28808,6 +29129,16 @@
         "meta": {
           "type": "discussed_topic",
           "target": "sleeping-dog-documentary"
+        }
+      }
+    ],
+    "slysh-halo": [
+      {
+        "source": "publication-2026-slysh-haloes-cold-computing-technosignature",
+        "type": "addresses_topic",
+        "meta": {
+          "type": "addresses_topic",
+          "target": "slysh-halo"
         }
       }
     ],
@@ -29285,6 +29616,15 @@
           "target": "space-exploration",
           "role": "connected gateway research"
         }
+      },
+      {
+        "source": "publication-2026-slysh-haloes-cold-computing-technosignature",
+        "type": "references_topic",
+        "meta": {
+          "type": "references_topic",
+          "target": "space-exploration",
+          "role": "connected gateway research"
+        }
       }
     ],
     "steven-greer": [],
@@ -29348,6 +29688,14 @@
         }
       },
       {
+        "source": "cold-computing",
+        "type": "broader_topic",
+        "meta": {
+          "type": "broader_topic",
+          "target": "technosignatures"
+        }
+      },
+      {
         "source": "exo-archaeology",
         "type": "associated_topic",
         "meta": {
@@ -29365,6 +29713,14 @@
       },
       {
         "source": "lewis-j-pinault",
+        "type": "references_topic",
+        "meta": {
+          "type": "references_topic",
+          "target": "technosignatures"
+        }
+      },
+      {
+        "source": "michael-garrett",
         "type": "references_topic",
         "meta": {
           "type": "references_topic",
@@ -29406,10 +29762,34 @@
         }
       },
       {
+        "source": "publication-2026-slysh-haloes-cold-computing-technosignature",
+        "type": "references_topic",
+        "meta": {
+          "type": "references_topic",
+          "target": "technosignatures"
+        }
+      },
+      {
+        "source": "slysh-halo",
+        "type": "broader_topic",
+        "meta": {
+          "type": "broader_topic",
+          "target": "technosignatures"
+        }
+      },
+      {
         "source": "vasco-project",
         "type": "addresses_topic",
         "meta": {
           "type": "addresses_topic",
+          "target": "technosignatures"
+        }
+      },
+      {
+        "source": "waste-heat-technosignatures",
+        "type": "broader_topic",
+        "meta": {
+          "type": "broader_topic",
           "target": "technosignatures"
         }
       },
@@ -32809,6 +33189,16 @@
       }
     ],
     "warren-randolph": [],
+    "waste-heat-technosignatures": [
+      {
+        "source": "publication-2026-slysh-haloes-cold-computing-technosignature",
+        "type": "addresses_topic",
+        "meta": {
+          "type": "addresses_topic",
+          "target": "waste-heat-technosignatures"
+        }
+      }
+    ],
     "wayne-pacelle": [
       {
         "source": "2023-weaponized-episode-31",

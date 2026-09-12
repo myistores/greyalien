@@ -1,0 +1,76 @@
+{
+  "id": "2026-09-09-universe-today-slysh-haloes",
+  "recordType": "news_record",
+  "contentType": "space_science_research_news",
+  "title": "Could Cold Alien Computing Produce a Detectable Submillimetre Signature?",
+  "source": "Universe Today",
+  "author": "Brian Koberlein",
+  "publicationDate": "2026-09-09",
+  "publicationDateDisplay": "September 9, 2026",
+  "originalUrl": "https://www.universetoday.com/articles/if-alien-civilizations-use-hyper-efficient-computers-they-will-have-a-distinct-energy-signal-we-can",
+  "primarySourceUrl": "https://arxiv.org/abs/2608.31153",
+  "summary": "Universe Today reports on Michael Garrett's preprint proposing that hypothetical distributed computers operating in cold outer planetary systems could radiate waste heat at far-infrared or submillimetre wavelengths. The paper offers a model and search framework, not a detection.",
+  "dateAdded": "2026-09-12",
+  "newsStatus": "current",
+  "knowledgePermanence": "permanent",
+  "image": {
+    "path": "assets/news/slysh-haloes-cold-computing-2026-09.png",
+    "alt": "Scientific editorial visualization of a hypothetical cold computational halo surrounding a dim red dwarf star.",
+    "caption": "Concept visualization of a hypothetical Slysh halo; this is not telescope imagery or a detected system.",
+    "credit": "AI-generated GreyAlien editorial illustration"
+  },
+  "relatedEntityIds": [
+    "publication-2026-slysh-haloes-cold-computing-technosignature",
+    "michael-garrett",
+    "slysh-halo",
+    "cold-computing",
+    "waste-heat-technosignatures",
+    "technosignatures",
+    "scientific-investigation",
+    "space-exploration",
+    "publication-2026-micron-scale-technosignatures-lunar-regolith",
+    "claim-slysh-landauer-cold-computation",
+    "claim-slysh-submillimetre-signature",
+    "claim-slysh-m-dwarf-suitability",
+    "claim-slysh-archival-survey-constraints",
+    "claim-slysh-natural-source-degeneracy",
+    "claim-slysh-null-result-value",
+    "claim-no-slysh-halo-detection"
+  ],
+  "relationships": [
+    {
+      "type": "references_publication",
+      "target": "publication-2026-slysh-haloes-cold-computing-technosignature",
+      "role": "surfaces primary research"
+    },
+    {
+      "type": "references_person",
+      "target": "michael-garrett",
+      "role": "research author"
+    },
+    {
+      "type": "references_topic",
+      "target": "technosignatures"
+    },
+    {
+      "type": "references_topic",
+      "target": "space-exploration"
+    }
+  ],
+  "visibility": {
+    "latestGateway": true,
+    "publicEntityDirectory": false,
+    "landmark": false
+  },
+  "lifecycle": {
+    "status": "current",
+    "archiveEligible": true,
+    "automaticAgingEnabled": false,
+    "landmark": false
+  },
+  "editorialNotes": {
+    "sourceHierarchy": "The arXiv preprint is primary for scientific claims; Universe Today is the news surface.",
+    "noDetection": "Neither source reports detection of a Slysh halo.",
+    "lifecyclePrinciple": "News can age; knowledge does not."
+  }
+}

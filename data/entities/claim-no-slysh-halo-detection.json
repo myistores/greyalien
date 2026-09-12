@@ -1,0 +1,31 @@
+{
+  "id": "claim-no-slysh-halo-detection",
+  "type": "claim",
+  "name": "The Slysh-halo paper reports no extraterrestrial technology detection",
+  "summary": "The publication introduces a theoretical object class, observational discriminants and a search program; it does not report an observed Slysh halo or extraterrestrial civilization.",
+  "relationships": [
+    {
+      "type": "references_publication",
+      "target": "publication-2026-slysh-haloes-cold-computing-technosignature",
+      "role": "claim source"
+    },
+    {
+      "type": "references_topic",
+      "target": "scientific-investigation"
+    }
+  ],
+  "referenceSources": [
+    {
+      "label": "arXiv:2608.31153v1",
+      "url": "https://arxiv.org/abs/2608.31153",
+      "sourceType": "scientific_preprint",
+      "role": "claim_source"
+    }
+  ],
+  "claimMetadata": {
+    "classification": "evidentiary_status_clarification",
+    "knowledgePermanence": "permanent",
+    "caution": "Records a physical principle, model, proposed method, alternative explanation or evidentiary clarification; not an independent detection claim."
+  },
+  "officialLinks": []
+}

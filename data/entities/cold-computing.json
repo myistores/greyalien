@@ -1,0 +1,37 @@
+{
+  "id": "cold-computing",
+  "type": "topic",
+  "entitySubtype": "Scientific Research Topic",
+  "name": "Cold Computing",
+  "summary": "The modeled use of very low operating temperatures to reduce the thermodynamic energy cost of irreversible computation; its application to extraterrestrial civilizations remains hypothetical.",
+  "relationships": [
+    {
+      "type": "broader_topic",
+      "target": "technosignatures"
+    },
+    {
+      "type": "references_publication",
+      "target": "publication-2026-slysh-haloes-cold-computing-technosignature"
+    },
+    {
+      "type": "associated_topic",
+      "target": "scientific-investigation"
+    }
+  ],
+  "referenceSources": [
+    {
+      "label": "Garrett — Slysh haloes",
+      "url": "https://arxiv.org/abs/2608.31153",
+      "sourceType": "scientific_preprint",
+      "role": "primary_reference"
+    }
+  ],
+  "taxonomyStatus": "canonical",
+  "destinationPage": true,
+  "visibleInDirectory": true,
+  "searchable": true,
+  "editorialNotes": {
+    "evidentiaryStatus": "Hypothetical, model-derived search concept; no Slysh halo has been detected."
+  },
+  "officialLinks": []
+}

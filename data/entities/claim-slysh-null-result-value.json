@@ -1,0 +1,31 @@
+{
+  "id": "claim-slysh-null-result-value",
+  "type": "claim",
+  "name": "A systematic null search could constrain the modeled technosignature class",
+  "summary": "The proposed three-tier search program could place limits on cold Dysonian waste heat even if it finds no qualifying candidates.",
+  "relationships": [
+    {
+      "type": "references_publication",
+      "target": "publication-2026-slysh-haloes-cold-computing-technosignature",
+      "role": "claim source"
+    },
+    {
+      "type": "references_topic",
+      "target": "scientific-investigation"
+    }
+  ],
+  "referenceSources": [
+    {
+      "label": "arXiv:2608.31153v1",
+      "url": "https://arxiv.org/abs/2608.31153",
+      "sourceType": "scientific_preprint",
+      "role": "claim_source"
+    }
+  ],
+  "claimMetadata": {
+    "classification": "conditional_null_result",
+    "knowledgePermanence": "permanent",
+    "caution": "Records a physical principle, model, proposed method, alternative explanation or evidentiary clarification; not an independent detection claim."
+  },
+  "officialLinks": []
+}

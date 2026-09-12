@@ -1,0 +1,31 @@
+{
+  "id": "claim-slysh-archival-survey-constraints",
+  "type": "claim",
+  "name": "Existing survey archives may constrain cold circumstellar dissipation",
+  "summary": "The paper proposes reinterpreting DEBRIS, DUNES and SONS and using Planck, JCMT, ALMA and NOEMA archives to constrain or search for cold waste heat, including model-dependent sensitivity near 10^20 W.",
+  "relationships": [
+    {
+      "type": "references_publication",
+      "target": "publication-2026-slysh-haloes-cold-computing-technosignature",
+      "role": "claim source"
+    },
+    {
+      "type": "references_topic",
+      "target": "scientific-investigation"
+    }
+  ],
+  "referenceSources": [
+    {
+      "label": "arXiv:2608.31153v1",
+      "url": "https://arxiv.org/abs/2608.31153",
+      "sourceType": "scientific_preprint",
+      "role": "claim_source"
+    }
+  ],
+  "claimMetadata": {
+    "classification": "proposed_observational_method",
+    "knowledgePermanence": "permanent",
+    "caution": "Records a physical principle, model, proposed method, alternative explanation or evidentiary clarification; not an independent detection claim."
+  },
+  "officialLinks": []
+}

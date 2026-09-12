@@ -1,0 +1,34 @@
+{
+  "id": "michael-garrett",
+  "type": "person",
+  "entitySubtype": "Researcher",
+  "name": "Michael Garrett",
+  "summary": "Astronomer and author of the 2026 Slysh-halo preprint proposing a search for cold-computing waste heat at far-infrared and submillimetre wavelengths.",
+  "relationships": [
+    {
+      "type": "authored",
+      "target": "publication-2026-slysh-haloes-cold-computing-technosignature"
+    },
+    {
+      "type": "references_topic",
+      "target": "technosignatures"
+    }
+  ],
+  "referenceSources": [
+    {
+      "label": "Garrett — Slysh haloes",
+      "url": "https://arxiv.org/abs/2608.31153",
+      "sourceType": "scientific_preprint",
+      "role": "author_reference"
+    }
+  ],
+  "profileMetadata": {
+    "scope": "This bounded record documents authorship and the affiliations stated with the paper; unrelated biography is deferred.",
+    "affiliationsAsReported": [
+      "University of Manchester",
+      "Leiden University",
+      "University of Malta"
+    ]
+  },
+  "officialLinks": []
+}

@@ -1,0 +1,161 @@
+{
+  "id": "publication-2026-slysh-haloes-cold-computing-technosignature",
+  "type": "publication",
+  "entitySubtype": "Scientific Preprint",
+  "name": "Slysh haloes: the waste heat of cold computing as a submillimetre technosignature",
+  "summary": "Michael Garrett's preprint models cold, distributed computing radiators as a partial Dyson swarm and proposes archival and targeted searches for their far-infrared or submillimetre waste heat while emphasizing natural-source discrimination.",
+  "date": "2026-08-31",
+  "dateDisplay": "August 31, 2026",
+  "eventCategory": "Cold-computing technosignature methodology",
+  "relationships": [
+    {
+      "type": "references_person",
+      "target": "michael-garrett",
+      "role": "author"
+    },
+    {
+      "type": "addresses_topic",
+      "target": "slysh-halo"
+    },
+    {
+      "type": "addresses_topic",
+      "target": "cold-computing"
+    },
+    {
+      "type": "addresses_topic",
+      "target": "waste-heat-technosignatures"
+    },
+    {
+      "type": "references_topic",
+      "target": "technosignatures"
+    },
+    {
+      "type": "references_topic",
+      "target": "scientific-investigation"
+    },
+    {
+      "type": "references_topic",
+      "target": "space-exploration",
+      "role": "connected gateway research"
+    },
+    {
+      "type": "references_publication",
+      "target": "publication-2026-micron-scale-technosignatures-lunar-regolith",
+      "role": "complementary technosignature methodology"
+    },
+    {
+      "type": "contains_claim",
+      "target": "claim-slysh-landauer-cold-computation"
+    },
+    {
+      "type": "contains_claim",
+      "target": "claim-slysh-submillimetre-signature"
+    },
+    {
+      "type": "contains_claim",
+      "target": "claim-slysh-m-dwarf-suitability"
+    },
+    {
+      "type": "contains_claim",
+      "target": "claim-slysh-archival-survey-constraints"
+    },
+    {
+      "type": "contains_claim",
+      "target": "claim-slysh-natural-source-degeneracy"
+    },
+    {
+      "type": "contains_claim",
+      "target": "claim-slysh-null-result-value"
+    },
+    {
+      "type": "contains_claim",
+      "target": "claim-no-slysh-halo-detection"
+    }
+  ],
+  "referenceSources": [
+    {
+      "label": "arXiv abstract and preprint — version 1",
+      "url": "https://arxiv.org/abs/2608.31153",
+      "sourceType": "scientific_preprint",
+      "role": "primary_reference"
+    },
+    {
+      "label": "Universe Today — cold-computing technosignature coverage",
+      "url": "https://www.universetoday.com/articles/if-alien-civilizations-use-hyper-efficient-computers-they-will-have-a-distinct-energy-signal-we-can",
+      "sourceType": "secondary_reporting",
+      "role": "related_news"
+    }
+  ],
+  "publicationMetadata": {
+    "authors": [
+      "Michael Garrett"
+    ],
+    "repository": "arXiv",
+    "identifier": "arXiv:2608.31153",
+    "version": "v1",
+    "submitted": "August 31, 2026",
+    "publicationStatus": "Scientific preprint submitted to MNRAS; peer review and acceptance not established",
+    "validDoi": "10.48550/arXiv.2608.31153",
+    "subjects": [
+      "Instrumentation and Methods for Astrophysics",
+      "Popular Physics"
+    ],
+    "extent": "14 pages, 3 figures, 6 tables"
+  },
+  "researchLibraryMetadata": {
+    "knowledgePermanence": "permanent",
+    "methodology": "Combines Landauer scaling, thermal-equilibrium and radiator-area arguments with modeled spectral emission, archival survey sensitivity, six observational discriminants and a proposed three-tier search program.",
+    "principalFindings": "Cold computing in the approximate 5–30 K regime could shift hypothetical waste heat into far-infrared and submillimetre bands. Archival nearby-star surveys may constrain cold circumstellar dissipation near 10^20 W under the model, with M dwarfs highlighted as favorable targets.",
+    "limitations": "The architecture and civilization behavior are hypothetical; diffuse emission may be faint; detectability depends on temperature, luminosity, geometry, distance and instrument response; cold dust, debris, galaxies, spectral-line sources and instrumental effects can mimic parts of the signature.",
+    "researchImplication": "Existing archives and targeted observations can test a colder region of Dysonian waste-heat parameter space, and null results can constrain the modeled class.",
+    "relatedNewsId": "2026-09-09-universe-today-slysh-haloes"
+  },
+  "evidenceRecords": [
+    {
+      "id": "evidence-slysh-landauer-scaling",
+      "objectType": "physical_model",
+      "finding": "The minimum energy cost of irreversible computation scales with temperature.",
+      "promotedToEntity": false
+    },
+    {
+      "id": "evidence-slysh-temperature-luminosity-phase-space",
+      "objectType": "model",
+      "finding": "Temperature, luminosity and radiator area define the predicted far-infrared/submillimetre phase space.",
+      "promotedToEntity": false
+    },
+    {
+      "id": "evidence-slysh-archival-surveys",
+      "objectType": "proposed_data_reuse",
+      "finding": "DEBRIS, DUNES, SONS, Planck, JCMT, ALMA and NOEMA observations are proposed as search or constraint resources.",
+      "promotedToEntity": false
+    },
+    {
+      "id": "evidence-slysh-six-discriminants",
+      "objectType": "candidate_assessment_framework",
+      "finding": "Six observational tests are assembled to separate modeled engineered radiators from natural cold sources.",
+      "promotedToEntity": false
+    },
+    {
+      "id": "evidence-slysh-three-tier-search",
+      "objectType": "proposed_program",
+      "finding": "The paper outlines survey reinterpretation, archival reprocessing and targeted follow-up as a staged search program.",
+      "promotedToEntity": false
+    }
+  ],
+  "searchResources": [
+    "DEBRIS",
+    "DUNES",
+    "SONS",
+    "Planck",
+    "James Clerk Maxwell Telescope",
+    "ALMA",
+    "NOEMA"
+  ],
+  "editorialNotes": {
+    "noDetection": "No Slysh halo or extraterrestrial technology was detected or claimed.",
+    "modelDiscipline": "The 5–30 K range, approximately 10^20 W archival sensitivity and example detectability distances are scenario-dependent model outputs, not universal thresholds.",
+    "naturalAlternatives": "Cold circumstellar material and background or instrumental sources must be excluded before technological interpretation.",
+    "publicationDiscipline": "MNRAS submission does not establish peer review, acceptance or journal publication."
+  },
+  "officialLinks": []
+}

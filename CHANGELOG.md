@@ -708,3 +708,12 @@ Migrated 257 podcast episodes and four series entities to the universal official
 - Added reciprocal News ↔ Research and Research ↔ Space Exploration discovery.
 - Preserved no-detection, modeled-sample, conditional-constraint, authorship and publication-status distinctions.
 - Preserved V23.6D.1 loading reliability and all V23.6D.2–D.5 lifecycle/permanent-knowledge behavior.
+
+# V23.6D.7 — Slysh Haloes + Cold-Computing Technosignature Integration
+
+- Added the September 9 Universe Today Slysh-halo research coverage to Latest UAP News as current/non-Landmark.
+- Added arXiv:2608.31153v1 as a permanent Research Library preprint.
+- Added Michael Garrett, Slysh Halo, Cold Computing, Waste-Heat Technosignatures and seven structured claims.
+- Added a disclosed AI-generated editorial concept image to the news gateway.
+- Added reciprocal News ↔ Research ↔ Space Exploration paths and a complementary methodology link to V23.6D.6.
+- Preserved no-detection, natural-source ambiguity, model-versus-observation and preprint-status distinctions.

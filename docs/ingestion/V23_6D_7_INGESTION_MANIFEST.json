@@ -1,0 +1,44 @@
+{
+  "release": "V23.6D.7",
+  "title": "Slysh Haloes + Cold-Computing Technosignature Integration",
+  "baseRepository": "V23.6D.6",
+  "newsRecord": "2026-09-09-universe-today-slysh-haloes",
+  "researchRecord": "publication-2026-slysh-haloes-cold-computing-technosignature",
+  "newEntities": [
+    "publication-2026-slysh-haloes-cold-computing-technosignature",
+    "michael-garrett",
+    "slysh-halo",
+    "cold-computing",
+    "waste-heat-technosignatures",
+    "claim-slysh-landauer-cold-computation",
+    "claim-slysh-submillimetre-signature",
+    "claim-slysh-m-dwarf-suitability",
+    "claim-slysh-archival-survey-constraints",
+    "claim-slysh-natural-source-degeneracy",
+    "claim-slysh-null-result-value",
+    "claim-no-slysh-halo-detection"
+  ],
+  "reusedEntities": [
+    "technosignatures",
+    "scientific-investigation",
+    "space-exploration",
+    "publication-2026-micron-scale-technosignatures-lunar-regolith"
+  ],
+  "embeddedEvidence": [
+    "evidence-slysh-landauer-scaling",
+    "evidence-slysh-temperature-luminosity-phase-space",
+    "evidence-slysh-archival-surveys",
+    "evidence-slysh-six-discriminants",
+    "evidence-slysh-three-tier-search"
+  ],
+  "companionImage": "assets/news/slysh-haloes-cold-computing-2026-09.png",
+  "lifecycle": {"newsStatus": "current", "landmark": false, "knowledgePermanence": "permanent"},
+  "sourceHierarchy": {"primary": "https://arxiv.org/abs/2608.31153", "secondary": "https://www.universetoday.com/articles/if-alien-civilizations-use-hyper-efficient-computers-they-will-have-a-distinct-energy-signal-we-can"},
+  "editorialSafeguards": [
+    "No Slysh halo or extraterrestrial technology detection is claimed.",
+    "Model outputs remain distinct from observations.",
+    "Natural cold sources and instrumental effects remain explicit alternatives.",
+    "MNRAS submission is not represented as peer review, acceptance or publication.",
+    "The companion image is labeled as an editorial concept visualization."
+  ]
+}

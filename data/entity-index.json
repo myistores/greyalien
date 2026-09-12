@@ -488,6 +488,14 @@
       "_canonicalScore": 3
     },
     {
+      "id": "claim-slysh-null-result-value",
+      "type": "claim",
+      "name": "A systematic null search could constrain the modeled technosignature class",
+      "summary": "The proposed three-tier search program could place limits on cold Dysonian waste heat even if it finds no qualifying candidates.",
+      "_identityKey": "claim:name:a systematic null search could constrain the modeled technosignature class",
+      "_canonicalScore": 3
+    },
+    {
       "id": "claim-weaponized-35-2",
       "type": "claim",
       "name": "A U.S. Air Force aircraft reportedly encountered an unexplained formation over the Gulf of Mexico.",
@@ -1552,6 +1560,14 @@
       "_canonicalScore": 86
     },
     {
+      "id": "claim-slysh-submillimetre-signature",
+      "type": "claim",
+      "name": "Distributed cold computing could produce a submillimetre waste-heat signature",
+      "summary": "Garrett models a partial swarm of cold radiators whose aggregated grey, line-free thermal emission could appear in the far-infrared or submillimetre regime.",
+      "_identityKey": "claim:name:distributed cold computing could produce a submillimetre waste heat signature",
+      "_canonicalScore": 3
+    },
+    {
       "id": "claim-need-to-know-17-2",
       "type": "claim",
       "name": "Documentary reconstruction can preserve witness accounts and technical context that are otherwise fragmented across interviews and reports.",
@@ -1663,6 +1679,14 @@
       "name": "European UAP reporting sources are not methodologically equivalent",
       "summary": "National organizations, international databases, mobile applications and special-purpose systems use different intake, review, classification and publication practices and should not be treated as one homogeneous dataset.",
       "_identityKey": "claim:name:european uap reporting sources are not methodologically equivalent",
+      "_canonicalScore": 3
+    },
+    {
+      "id": "claim-slysh-archival-survey-constraints",
+      "type": "claim",
+      "name": "Existing survey archives may constrain cold circumstellar dissipation",
+      "summary": "The paper proposes reinterpreting DEBRIS, DUNES and SONS and using Planck, JCMT, ALMA and NOEMA archives to constrain or search for cold waste heat, including model-dependent sensitivity near 10^20 W.",
+      "_identityKey": "claim:name:existing survey archives may constrain cold circumstellar dissipation",
       "_canonicalScore": 3
     },
     {
@@ -2267,6 +2291,14 @@
       "_canonicalScore": 83
     },
     {
+      "id": "claim-slysh-landauer-cold-computation",
+      "type": "claim",
+      "name": "Lower-temperature irreversible computation has a lower thermodynamic energy cost",
+      "summary": "The paper applies Landauer scaling, in which the minimum energy cost of irreversible computation is proportional to operating temperature, as the physical motivation for cold computing.",
+      "_identityKey": "claim:name:lower temperature irreversible computation has a lower thermodynamic energy cost",
+      "_canonicalScore": 3
+    },
+    {
       "id": "claim-need-to-know-14-2",
       "type": "claim",
       "name": "Luis Elizondo argues that the hearing represented progress but left important historical, technical, and accountability questions unresolved.",
@@ -2288,6 +2320,14 @@
       "name": "Lunar regolith may preserve material relevant to long-timescale technosignature searches",
       "summary": "The authors identify the Moon as a potentially useful collector because of its airless surface, long exposure and limited geological reworking, while accounting for impact processing and regolith mixing.",
       "_identityKey": "claim:name:lunar regolith may preserve material relevant to long timescale technosignature searches",
+      "_canonicalScore": 3
+    },
+    {
+      "id": "claim-slysh-m-dwarf-suitability",
+      "type": "claim",
+      "name": "M-dwarf systems may be favorable modeled search targets",
+      "summary": "The preprint identifies M dwarfs as especially favorable under its energetic, thermal and observational assumptions.",
+      "_identityKey": "claim:name:m dwarf systems may be favorable modeled search targets",
       "_canonicalScore": 3
     },
     {
@@ -2601,6 +2641,14 @@
       "summary": "Mike Gold argued that NASA records could aid investigation of historical incidents and advanced materials.",
       "_identityKey": "claim:url:weaponizedpodcast.com/episodes-3/episode-66",
       "_canonicalScore": 83
+    },
+    {
+      "id": "claim-slysh-natural-source-degeneracy",
+      "type": "claim",
+      "name": "Natural cold debris can imitate parts of a Slysh-halo signature",
+      "summary": "Cold dust, debris structures, background galaxies, line-emitting sources and instrumental effects can produce confusing signals, so wavelength or excess emission alone is not technological evidence.",
+      "_identityKey": "claim:name:natural cold debris can imitate parts of a slysh halo signature",
+      "_canonicalScore": 3
     },
     {
       "id": "claim-new-firsthand-witnesses-were-located-after-years-of-investigation",
@@ -6239,6 +6287,14 @@
       "_canonicalScore": 83
     },
     {
+      "id": "claim-no-slysh-halo-detection",
+      "type": "claim",
+      "name": "The Slysh-halo paper reports no extraterrestrial technology detection",
+      "summary": "The publication introduces a theoretical object class, observational discriminants and a search program; it does not report an observed Slysh halo or extraterrestrial civilization.",
+      "_identityKey": "claim:name:the slysh halo paper reports no extraterrestrial technology detection",
+      "_canonicalScore": 3
+    },
+    {
       "id": "claim-weaponized-6-3",
       "type": "claim",
       "name": "The source reportedly agreed to record a deposition for release after his death.",
@@ -8667,6 +8723,15 @@
       "name": "Matthew Szydagis",
       "summary": "University at Albany physicist whose research includes dark-matter detection and scientific approaches to anomalous observations.",
       "_identityKey": "person:name:matthew szydagis",
+      "_canonicalScore": 3
+    },
+    {
+      "id": "michael-garrett",
+      "type": "person",
+      "name": "Michael Garrett",
+      "summary": "Astronomer and author of the 2026 Slysh-halo preprint proposing a search for cold-computing waste heat at far-infrared and submillimetre wavelengths.",
+      "entitySubtype": "Researcher",
+      "_identityKey": "person:name:michael garrett",
       "_canonicalScore": 3
     },
     {
@@ -12398,7 +12463,7 @@
       "dateDisplay": "August 18, 2026",
       "eventCategory": "Lunar material technosignature methodology",
       "_identityKey": "publication:name:micron scale technosignatures how a cubic metre of lunar regolith may begin to constrain the number of past technological civilisations in the galaxy",
-      "_canonicalScore": 6
+      "_canonicalScore": 9
     },
     {
       "id": "newsnation",
@@ -12426,6 +12491,18 @@
       "summary": "Documentary film examining the role of journalism in UFO investigation and public transparency.",
       "_identityKey": "publication:name:sleeping dog",
       "_canonicalScore": 0
+    },
+    {
+      "id": "publication-2026-slysh-haloes-cold-computing-technosignature",
+      "type": "publication",
+      "name": "Slysh haloes: the waste heat of cold computing as a submillimetre technosignature",
+      "summary": "Michael Garrett's preprint models cold, distributed computing radiators as a partial Dyson swarm and proposes archival and targeted searches for their far-infrared or submillimetre waste heat while emphasizing natural-source discrimination.",
+      "entitySubtype": "Scientific Preprint",
+      "date": "2026-08-31",
+      "dateDisplay": "August 31, 2026",
+      "eventCategory": "Cold-computing technosignature methodology",
+      "_identityKey": "publication:name:slysh haloes the waste heat of cold computing as a submillimetre technosignature",
+      "_canonicalScore": 6
     },
     {
       "id": "publication-2026-civilizational-risks-uap-technology-arms-race",
@@ -14690,6 +14767,19 @@
       "_canonicalScore": 0
     },
     {
+      "id": "cold-computing",
+      "type": "topic",
+      "name": "Cold Computing",
+      "summary": "The modeled use of very low operating temperatures to reduce the thermodynamic energy cost of irreversible computation; its application to extraterrestrial civilizations remains hypothetical.",
+      "destinationPage": true,
+      "visibleInDirectory": true,
+      "searchable": true,
+      "taxonomyStatus": "canonical",
+      "entitySubtype": "Scientific Research Topic",
+      "_identityKey": "topic:name:cold computing",
+      "_canonicalScore": 3
+    },
+    {
       "id": "congressional-oversight",
       "type": "topic",
       "name": "Congressional Oversight",
@@ -15044,7 +15134,7 @@
       "name": "Scientific Investigation",
       "summary": "Scientific methods, data standards, and research approaches.",
       "_identityKey": "topic:name:scientific investigation",
-      "_canonicalScore": 3
+      "_canonicalScore": 6
     },
     {
       "id": "security-clearance-retaliation",
@@ -15065,6 +15155,19 @@
       "taxonomyStatus": "supporting_classification",
       "_identityKey": "topic:name:signature management",
       "_canonicalScore": 0
+    },
+    {
+      "id": "slysh-halo",
+      "type": "topic",
+      "name": "Slysh Halo",
+      "summary": "A hypothetical cold partial Dyson swarm whose distributed computing radiators would produce grey, line-free far-infrared or submillimetre waste-heat emission from the outer regions of a planetary system.",
+      "destinationPage": true,
+      "visibleInDirectory": true,
+      "searchable": true,
+      "taxonomyStatus": "canonical",
+      "entitySubtype": "Scientific Research Topic",
+      "_identityKey": "topic:name:slysh halo",
+      "_canonicalScore": 3
     },
     {
       "id": "soviet-ufo-programs",
@@ -15092,7 +15195,7 @@
       "name": "Space Exploration",
       "summary": "A knowledge-graph topic used to connect source-grounded WEAPONIZED reporting about space exploration.",
       "_identityKey": "topic:name:space exploration",
-      "_canonicalScore": 3
+      "_canonicalScore": 6
     },
     {
       "id": "technosignatures",
@@ -15105,7 +15208,7 @@
       "taxonomyStatus": "canonical",
       "entitySubtype": "Scientific Research Topic",
       "_identityKey": "topic:name:technosignatures",
-      "_canonicalScore": 6
+      "_canonicalScore": 9
     },
     {
       "id": "tic-tac-uap",
@@ -15237,6 +15340,19 @@
       "summary": "Reports and research concerning unidentified objects observed in, entering, leaving, or operating around bodies of water.",
       "_identityKey": "topic:url:weaponizedpodcast.com/episodes-2/episode-46",
       "_canonicalScore": 83
+    },
+    {
+      "id": "waste-heat-technosignatures",
+      "type": "topic",
+      "name": "Waste-Heat Technosignatures",
+      "summary": "Searches for thermal radiation that could result from technological energy use, including the cold far-infrared and submillimetre regime proposed for Slysh haloes.",
+      "destinationPage": true,
+      "visibleInDirectory": true,
+      "searchable": true,
+      "taxonomyStatus": "canonical",
+      "entitySubtype": "Scientific Research Topic",
+      "_identityKey": "topic:name:waste heat technosignatures",
+      "_canonicalScore": 3
     },
     {
       "id": "whistleblower-protection",
