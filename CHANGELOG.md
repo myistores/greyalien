@@ -717,3 +717,11 @@ Migrated 257 podcast episodes and four series entities to the universal official
 - Added a disclosed AI-generated editorial concept image to the news gateway.
 - Added reciprocal News ↔ Research ↔ Space Exploration paths and a complementary methodology link to V23.6D.6.
 - Preserved no-detection, natural-source ambiguity, model-versus-observation and preprint-status distinctions.
+
+# V23.6D.8 — PURSUE Legal Disclosure Waiver + Protected Government Reporting Integration
+
+- Added the September 14 official PURSUE legal-waiver announcement to Latest UAP News as current/non-Landmark.
+- Added the waiver as a permanent government-policy record in the Research Library and Knowledge Graph.
+- Reused PURSUE, AARO, the canonical department record, Government Transparency, UAP Disclosure and historical-record entities.
+- Added three policy topics and seven bounded claims.
+- Preserved the distinctions between authorized reporting and public disclosure, submission and declassification, possible and guaranteed release, and receipt and authentication.

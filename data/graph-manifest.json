@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "entityCount": 1676,
-  "relationshipCount": 3771,
+  "entityCount": 1687,
+  "relationshipCount": 3818,
   "unresolvedRelationshipCount": 56,
   "connectionCounts": {
     "1946-scandinavian-ghost-rockets": {
@@ -1555,9 +1555,9 @@
       "total": 2
     },
     "aaro": {
-      "incoming": 43,
-      "outgoing": 7,
-      "total": 50
+      "incoming": 44,
+      "outgoing": 8,
+      "total": 52
     },
     "aatip": {
       "incoming": 3,
@@ -4519,6 +4519,41 @@
       "outgoing": 3,
       "total": 4
     },
+    "claim-pursue-waiver-authorized-disclosure-mechanism": {
+      "incoming": 1,
+      "outgoing": 2,
+      "total": 3
+    },
+    "claim-pursue-waiver-channel-limitation": {
+      "incoming": 1,
+      "outgoing": 2,
+      "total": 3
+    },
+    "claim-pursue-waiver-nda-protection": {
+      "incoming": 1,
+      "outgoing": 2,
+      "total": 3
+    },
+    "claim-pursue-waiver-no-automatic-declassification": {
+      "incoming": 1,
+      "outgoing": 2,
+      "total": 3
+    },
+    "claim-pursue-waiver-no-public-disclosure-authority": {
+      "incoming": 1,
+      "outgoing": 2,
+      "total": 3
+    },
+    "claim-pursue-waiver-review-potential-release": {
+      "incoming": 1,
+      "outgoing": 2,
+      "total": 3
+    },
+    "claim-pursue-waiver-sapia-protection": {
+      "incoming": 1,
+      "outgoing": 2,
+      "total": 3
+    },
     "claim-reduced-stigma-encouraged-the-pilot-to-speak-publicly": {
       "incoming": 0,
       "outgoing": 1,
@@ -5860,9 +5895,9 @@
       "total": 11
     },
     "department-of-defense": {
-      "incoming": 53,
-      "outgoing": 3,
-      "total": 56
+      "incoming": 54,
+      "outgoing": 4,
+      "total": 58
     },
     "department-of-energy": {
       "incoming": 2,
@@ -5890,9 +5925,14 @@
       "total": 5
     },
     "document-2026-aaro-nufohrc-sole-source-notice": {
-      "incoming": 5,
-      "outgoing": 8,
-      "total": 13
+      "incoming": 6,
+      "outgoing": 9,
+      "total": 15
+    },
+    "document-2026-pursue-uap-disclosure-legal-waiver": {
+      "incoming": 17,
+      "outgoing": 17,
+      "total": 34
     },
     "douglas-kurth": {
       "incoming": 0,
@@ -6090,9 +6130,9 @@
       "total": 0
     },
     "government-transparency": {
-      "incoming": 166,
-      "outgoing": 0,
-      "total": 166
+      "incoming": 170,
+      "outgoing": 1,
+      "total": 171
     },
     "hal-puthoff": {
       "incoming": 3,
@@ -6729,6 +6769,11 @@
       "outgoing": 0,
       "total": 2
     },
+    "nondisclosure-agreements": {
+      "incoming": 1,
+      "outgoing": 3,
+      "total": 4
+    },
     "nuclear-facility-uap-incidents": {
       "incoming": 1,
       "outgoing": 0,
@@ -6789,6 +6834,11 @@
       "outgoing": 1,
       "total": 3
     },
+    "protected-uap-disclosures": {
+      "incoming": 8,
+      "outgoing": 3,
+      "total": 11
+    },
     "public-disclosure": {
       "incoming": 0,
       "outgoing": 0,
@@ -6845,9 +6895,9 @@
       "total": 30
     },
     "pursue": {
-      "incoming": 4,
-      "outgoing": 2,
-      "total": 6
+      "incoming": 5,
+      "outgoing": 3,
+      "total": 8
     },
     "queensland-saucer-nests": {
       "incoming": 1,
@@ -6875,9 +6925,9 @@
       "total": 2
     },
     "record-group-615-uap-records-collection": {
-      "incoming": 4,
-      "outgoing": 4,
-      "total": 8
+      "incoming": 5,
+      "outgoing": 5,
+      "total": 10
     },
     "rendlesham-forest-incident": {
       "incoming": 3,
@@ -7103,6 +7153,11 @@
       "incoming": 4,
       "outgoing": 2,
       "total": 6
+    },
+    "special-access-program-indoctrination-agreements": {
+      "incoming": 1,
+      "outgoing": 3,
+      "total": 4
     },
     "steven-greer": {
       "incoming": 0,
@@ -8125,9 +8180,9 @@
       "total": 1
     },
     "uap-disclosure": {
-      "incoming": 32,
-      "outgoing": 0,
-      "total": 32
+      "incoming": 36,
+      "outgoing": 1,
+      "total": 37
     },
     "uap-disclosure-act-2023": {
       "incoming": 2,

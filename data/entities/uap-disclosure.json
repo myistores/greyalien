@@ -3,7 +3,13 @@
   "type": "topic",
   "name": "UAP Disclosure",
   "summary": "Public release and official acknowledgment of information concerning unidentified anomalous phenomena.",
-  "relationships": [],
+  "relationships": [
+    {
+      "type": "references_publication",
+      "target": "document-2026-pursue-uap-disclosure-legal-waiver",
+      "role": "channel-specific disclosure policy"
+    }
+  ],
   "officialLinks": [],
   "referenceSources": [
     {
@@ -17,6 +23,12 @@
       "url": "https://link.chtbl.com/Weaponized",
       "sourceType": "official_audio_feed",
       "role": "source"
+    },
+    {
+      "label": "Official PURSUE legal-waiver announcement",
+      "url": "https://www.war.gov/News/Releases/Release/Article/4600020/department-of-war-issues-legal-waiver-to-authorize-unidentified-anomalous-pheno/",
+      "sourceType": "government_source",
+      "role": "connected_policy"
     }
   ],
   "taxonomyStatus": "canonical",

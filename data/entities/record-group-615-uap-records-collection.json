@@ -26,6 +26,11 @@
       "type": "references_organization",
       "target": "aaro",
       "role": "related federal historical-review context"
+    },
+    {
+      "type": "references_publication",
+      "target": "document-2026-pursue-uap-disclosure-legal-waiver",
+      "role": "related federal historical-record collection"
     }
   ],
   "officialLinks": [
@@ -35,7 +40,14 @@
       "linkType": "government_record"
     }
   ],
-  "referenceSources": [],
+  "referenceSources": [
+    {
+      "label": "Official PURSUE legal-waiver announcement",
+      "url": "https://www.war.gov/News/Releases/Release/Article/4600020/department-of-war-issues-legal-waiver-to-authorize-unidentified-anomalous-pheno/",
+      "sourceType": "government_source",
+      "role": "connected_policy"
+    }
+  ],
   "recordsCollectionMetadata": {
     "authority": "FY2024 NDAA, Public Law 118-31, sections 1841–1843",
     "accessionStatus": "Rolling transfers from federal agencies",

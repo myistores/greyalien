@@ -15,6 +15,11 @@
     {
       "type": "addresses_topic",
       "target": "aviation-safety"
+    },
+    {
+      "type": "produced_document",
+      "target": "document-2026-pursue-uap-disclosure-legal-waiver",
+      "role": "issuing department; official release uses Department of War"
     }
   ],
   "officialLinks": [
@@ -24,11 +29,19 @@
       "linkType": "official_website"
     }
   ],
-  "referenceSources": [],
+  "referenceSources": [
+    {
+      "label": "Official PURSUE legal-waiver announcement",
+      "url": "https://www.war.gov/News/Releases/Release/Article/4600020/department-of-war-issues-legal-waiver-to-authorize-unidentified-anomalous-pheno/",
+      "sourceType": "government_source",
+      "role": "connected_policy"
+    }
+  ],
   "taxonomyStatus": "canonical",
   "isCanonical": true,
   "aliases": [
     "United States Department Of Defense",
-    "united-states-department-of-defense"
+    "united-states-department-of-defense",
+    "U.S. Department of War"
   ]
 }

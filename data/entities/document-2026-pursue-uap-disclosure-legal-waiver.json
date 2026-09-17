@@ -1,0 +1,152 @@
+{
+  "id": "document-2026-pursue-uap-disclosure-legal-waiver",
+  "type": "publication",
+  "entitySubtype": "Government Document / Protected Disclosure Policy",
+  "name": "Department of War Legal Waiver for UAP Disclosures to PURSUE",
+  "summary": "September 14, 2026 government announcement establishing a channel-specific legal waiver for covered current and former personnel to provide UAP-related National Defense Information to designated PURSUE representatives without triggering specified civil or administrative NDA and SAPIA enforcement provisions.",
+  "date": "2026-09-14",
+  "dateDisplay": "September 14, 2026",
+  "eventCategory": "Government protected-disclosure policy",
+  "relationships": [
+    {
+      "type": "published_by",
+      "target": "department-of-defense",
+      "role": "issuing department; official release uses Department of War"
+    },
+    {
+      "type": "applies_to",
+      "target": "pursue",
+      "role": "authorized recipient channel"
+    },
+    {
+      "type": "addresses_topic",
+      "target": "protected-uap-disclosures"
+    },
+    {
+      "type": "addresses_topic",
+      "target": "nondisclosure-agreements"
+    },
+    {
+      "type": "addresses_topic",
+      "target": "special-access-program-indoctrination-agreements"
+    },
+    {
+      "type": "references_topic",
+      "target": "uap-disclosure"
+    },
+    {
+      "type": "references_topic",
+      "target": "government-transparency"
+    },
+    {
+      "type": "references_organization",
+      "target": "aaro",
+      "role": "related authorized UAP reporting and historical-review office"
+    },
+    {
+      "type": "references_publication",
+      "target": "document-2026-aaro-nufohrc-sole-source-notice",
+      "role": "related historical-record integration"
+    },
+    {
+      "type": "references_publication",
+      "target": "record-group-615-uap-records-collection",
+      "role": "related federal historical-record collection"
+    },
+    {
+      "type": "contains_claim",
+      "target": "claim-pursue-waiver-authorized-disclosure-mechanism"
+    },
+    {
+      "type": "contains_claim",
+      "target": "claim-pursue-waiver-nda-protection"
+    },
+    {
+      "type": "contains_claim",
+      "target": "claim-pursue-waiver-sapia-protection"
+    },
+    {
+      "type": "contains_claim",
+      "target": "claim-pursue-waiver-channel-limitation"
+    },
+    {
+      "type": "contains_claim",
+      "target": "claim-pursue-waiver-no-public-disclosure-authority"
+    },
+    {
+      "type": "contains_claim",
+      "target": "claim-pursue-waiver-no-automatic-declassification"
+    },
+    {
+      "type": "contains_claim",
+      "target": "claim-pursue-waiver-review-potential-release"
+    }
+  ],
+  "officialLinks": [
+    {
+      "label": "Official Department release",
+      "url": "https://www.war.gov/News/Releases/Release/Article/4600020/department-of-war-issues-legal-waiver-to-authorize-unidentified-anomalous-pheno/",
+      "linkType": "government_source"
+    },
+    {
+      "label": "Official PURSUE portal",
+      "url": "https://www.war.gov/ufo/",
+      "linkType": "government_source"
+    }
+  ],
+  "referenceSources": [
+    {
+      "label": "DefenseScoop — targeted legal relief explanation",
+      "url": "https://defensescoop.com/2026/09/14/pentagon-legal-relief-uap-whistleblowers-trump-project/",
+      "sourceType": "secondary_reporting",
+      "role": "context"
+    }
+  ],
+  "governmentDocumentMetadata": {
+    "issuingAuthority": "U.S. Department of War (official release terminology; matched to GreyAlien's canonical U.S. Department of Defense entity)",
+    "publicationDate": "September 14, 2026",
+    "documentStatus": "Official government policy announcement",
+    "coveredPopulation": "Covered current and former service members, civilian personnel and contractors with current or prior access to UAP-related National Defense Information, subject to the authoritative terms.",
+    "coveredInformation": "UAP-related National Defense Information within the scope of the waiver.",
+    "authorizedRecipient": "Designated PURSUE representatives.",
+    "legalEffect": "Supersedes specified civil and administrative enforcement provisions in covered NDAs and SAPIAs for authorized communications directed to PURSUE.",
+    "jurisdictionCaution": "The announcement describes agreements executed within the United States; implementation must follow the controlling text.",
+    "notAuthorized": [
+      "Unrestricted public disclosure",
+      "Disclosure to unauthorized recipients",
+      "Automatic declassification",
+      "Automatic public release",
+      "Authentication of submitted claims"
+    ],
+    "relatedNewsId": "2026-09-14-department-war-pursue-uap-disclosure-waiver"
+  },
+  "processModel": [
+    {
+      "step": 1,
+      "name": "Covered individual",
+      "status": "Eligibility and information scope governed by authoritative terms"
+    },
+    {
+      "step": 2,
+      "name": "Authorized communication",
+      "status": "Directed to designated PURSUE representative"
+    },
+    {
+      "step": 3,
+      "name": "Secure handling and review",
+      "status": "Classification, security and legal controls remain applicable"
+    },
+    {
+      "step": 4,
+      "name": "Potential declassification or release",
+      "status": "Possible outcome; not automatic or guaranteed"
+    }
+  ],
+  "editorialNotes": {
+    "channelLimitation": "Protected disclosure to designated PURSUE representatives is not public disclosure.",
+    "classificationDiscipline": "Authorized submission does not itself declassify the information.",
+    "authenticationDiscipline": "Government receipt or preservation does not authenticate a submitted allegation.",
+    "legalLanguage": "GreyAlien describes the government policy and does not provide legal advice or expand its protections.",
+    "departmentMatching": "The official release uses Department of War; the repository reuses the canonical Department of Defense entity rather than creating a disconnected duplicate."
+  }
+}

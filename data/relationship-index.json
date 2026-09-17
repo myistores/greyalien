@@ -10017,6 +10017,15 @@
         }
       },
       {
+        "source": "document-2026-pursue-uap-disclosure-legal-waiver",
+        "type": "references_organization",
+        "meta": {
+          "type": "references_organization",
+          "target": "aaro",
+          "role": "related authorized UAP reporting and historical-review office"
+        }
+      },
+      {
         "source": "dylan-borland",
         "type": "affiliated_with",
         "meta": {
@@ -13671,6 +13680,76 @@
         }
       }
     ],
+    "claim-pursue-waiver-authorized-disclosure-mechanism": [
+      {
+        "source": "document-2026-pursue-uap-disclosure-legal-waiver",
+        "type": "contains_claim",
+        "meta": {
+          "type": "contains_claim",
+          "target": "claim-pursue-waiver-authorized-disclosure-mechanism"
+        }
+      }
+    ],
+    "claim-pursue-waiver-channel-limitation": [
+      {
+        "source": "document-2026-pursue-uap-disclosure-legal-waiver",
+        "type": "contains_claim",
+        "meta": {
+          "type": "contains_claim",
+          "target": "claim-pursue-waiver-channel-limitation"
+        }
+      }
+    ],
+    "claim-pursue-waiver-nda-protection": [
+      {
+        "source": "document-2026-pursue-uap-disclosure-legal-waiver",
+        "type": "contains_claim",
+        "meta": {
+          "type": "contains_claim",
+          "target": "claim-pursue-waiver-nda-protection"
+        }
+      }
+    ],
+    "claim-pursue-waiver-no-automatic-declassification": [
+      {
+        "source": "document-2026-pursue-uap-disclosure-legal-waiver",
+        "type": "contains_claim",
+        "meta": {
+          "type": "contains_claim",
+          "target": "claim-pursue-waiver-no-automatic-declassification"
+        }
+      }
+    ],
+    "claim-pursue-waiver-no-public-disclosure-authority": [
+      {
+        "source": "document-2026-pursue-uap-disclosure-legal-waiver",
+        "type": "contains_claim",
+        "meta": {
+          "type": "contains_claim",
+          "target": "claim-pursue-waiver-no-public-disclosure-authority"
+        }
+      }
+    ],
+    "claim-pursue-waiver-review-potential-release": [
+      {
+        "source": "document-2026-pursue-uap-disclosure-legal-waiver",
+        "type": "contains_claim",
+        "meta": {
+          "type": "contains_claim",
+          "target": "claim-pursue-waiver-review-potential-release"
+        }
+      }
+    ],
+    "claim-pursue-waiver-sapia-protection": [
+      {
+        "source": "document-2026-pursue-uap-disclosure-legal-waiver",
+        "type": "contains_claim",
+        "meta": {
+          "type": "contains_claim",
+          "target": "claim-pursue-waiver-sapia-protection"
+        }
+      }
+    ],
     "claim-reduced-stigma-encouraged-the-pilot-to-speak-publicly": [],
     "claim-representative-burlison-sought-access-to-highly-restricted-uap-related-sites": [],
     "claim-retaliation-can-occur-without-prosecution": [],
@@ -16052,6 +16131,15 @@
         }
       },
       {
+        "source": "document-2026-pursue-uap-disclosure-legal-waiver",
+        "type": "published_by",
+        "meta": {
+          "type": "published_by",
+          "target": "department-of-defense",
+          "role": "issuing department; official release uses Department of War"
+        }
+      },
+      {
         "source": "event-2026-03-31-house-requests-uap-videos",
         "type": "event_for",
         "meta": {
@@ -16276,12 +16364,173 @@
         }
       },
       {
+        "source": "document-2026-pursue-uap-disclosure-legal-waiver",
+        "type": "references_publication",
+        "meta": {
+          "type": "references_publication",
+          "target": "document-2026-aaro-nufohrc-sole-source-notice",
+          "role": "related historical-record integration"
+        }
+      },
+      {
         "source": "national-ufo-historical-records-center",
         "type": "references_publication",
         "meta": {
           "type": "references_publication",
           "target": "document-2026-aaro-nufohrc-sole-source-notice",
           "role": "intended subscription source"
+        }
+      }
+    ],
+    "document-2026-pursue-uap-disclosure-legal-waiver": [
+      {
+        "source": "aaro",
+        "type": "references_publication",
+        "meta": {
+          "type": "references_publication",
+          "target": "document-2026-pursue-uap-disclosure-legal-waiver",
+          "role": "related authorized UAP reporting and historical-review context"
+        }
+      },
+      {
+        "source": "claim-pursue-waiver-authorized-disclosure-mechanism",
+        "type": "references_publication",
+        "meta": {
+          "type": "references_publication",
+          "target": "document-2026-pursue-uap-disclosure-legal-waiver",
+          "role": "claim source"
+        }
+      },
+      {
+        "source": "claim-pursue-waiver-channel-limitation",
+        "type": "references_publication",
+        "meta": {
+          "type": "references_publication",
+          "target": "document-2026-pursue-uap-disclosure-legal-waiver",
+          "role": "claim source"
+        }
+      },
+      {
+        "source": "claim-pursue-waiver-nda-protection",
+        "type": "references_publication",
+        "meta": {
+          "type": "references_publication",
+          "target": "document-2026-pursue-uap-disclosure-legal-waiver",
+          "role": "claim source"
+        }
+      },
+      {
+        "source": "claim-pursue-waiver-no-automatic-declassification",
+        "type": "references_publication",
+        "meta": {
+          "type": "references_publication",
+          "target": "document-2026-pursue-uap-disclosure-legal-waiver",
+          "role": "claim source"
+        }
+      },
+      {
+        "source": "claim-pursue-waiver-no-public-disclosure-authority",
+        "type": "references_publication",
+        "meta": {
+          "type": "references_publication",
+          "target": "document-2026-pursue-uap-disclosure-legal-waiver",
+          "role": "claim source"
+        }
+      },
+      {
+        "source": "claim-pursue-waiver-review-potential-release",
+        "type": "references_publication",
+        "meta": {
+          "type": "references_publication",
+          "target": "document-2026-pursue-uap-disclosure-legal-waiver",
+          "role": "claim source"
+        }
+      },
+      {
+        "source": "claim-pursue-waiver-sapia-protection",
+        "type": "references_publication",
+        "meta": {
+          "type": "references_publication",
+          "target": "document-2026-pursue-uap-disclosure-legal-waiver",
+          "role": "claim source"
+        }
+      },
+      {
+        "source": "department-of-defense",
+        "type": "produced_document",
+        "meta": {
+          "type": "produced_document",
+          "target": "document-2026-pursue-uap-disclosure-legal-waiver",
+          "role": "issuing department; official release uses Department of War"
+        }
+      },
+      {
+        "source": "document-2026-aaro-nufohrc-sole-source-notice",
+        "type": "references_publication",
+        "meta": {
+          "type": "references_publication",
+          "target": "document-2026-pursue-uap-disclosure-legal-waiver",
+          "role": "related historical-record integration"
+        }
+      },
+      {
+        "source": "government-transparency",
+        "type": "references_publication",
+        "meta": {
+          "type": "references_publication",
+          "target": "document-2026-pursue-uap-disclosure-legal-waiver",
+          "role": "protected government reporting mechanism"
+        }
+      },
+      {
+        "source": "nondisclosure-agreements",
+        "type": "references_publication",
+        "meta": {
+          "type": "references_publication",
+          "target": "document-2026-pursue-uap-disclosure-legal-waiver"
+        }
+      },
+      {
+        "source": "protected-uap-disclosures",
+        "type": "references_publication",
+        "meta": {
+          "type": "references_publication",
+          "target": "document-2026-pursue-uap-disclosure-legal-waiver"
+        }
+      },
+      {
+        "source": "pursue",
+        "type": "references_publication",
+        "meta": {
+          "type": "references_publication",
+          "target": "document-2026-pursue-uap-disclosure-legal-waiver",
+          "role": "authorized disclosure-channel policy"
+        }
+      },
+      {
+        "source": "record-group-615-uap-records-collection",
+        "type": "references_publication",
+        "meta": {
+          "type": "references_publication",
+          "target": "document-2026-pursue-uap-disclosure-legal-waiver",
+          "role": "related federal historical-record collection"
+        }
+      },
+      {
+        "source": "special-access-program-indoctrination-agreements",
+        "type": "references_publication",
+        "meta": {
+          "type": "references_publication",
+          "target": "document-2026-pursue-uap-disclosure-legal-waiver"
+        }
+      },
+      {
+        "source": "uap-disclosure",
+        "type": "references_publication",
+        "meta": {
+          "type": "references_publication",
+          "target": "document-2026-pursue-uap-disclosure-legal-waiver",
+          "role": "channel-specific disclosure policy"
         }
       }
     ],
@@ -19402,6 +19651,14 @@
         }
       },
       {
+        "source": "document-2026-pursue-uap-disclosure-legal-waiver",
+        "type": "references_topic",
+        "meta": {
+          "type": "references_topic",
+          "target": "government-transparency"
+        }
+      },
+      {
         "source": "house-intelligence-committee",
         "type": "addresses_topic",
         "meta": {
@@ -19474,6 +19731,22 @@
         }
       },
       {
+        "source": "nondisclosure-agreements",
+        "type": "broader_topic",
+        "meta": {
+          "type": "broader_topic",
+          "target": "government-transparency"
+        }
+      },
+      {
+        "source": "protected-uap-disclosures",
+        "type": "broader_topic",
+        "meta": {
+          "type": "broader_topic",
+          "target": "government-transparency"
+        }
+      },
+      {
         "source": "record-group-615-uap-records-collection",
         "type": "addresses_topic",
         "meta": {
@@ -19502,6 +19775,14 @@
         "type": "addresses_topic",
         "meta": {
           "type": "addresses_topic",
+          "target": "government-transparency"
+        }
+      },
+      {
+        "source": "special-access-program-indoctrination-agreements",
+        "type": "broader_topic",
+        "meta": {
+          "type": "broader_topic",
           "target": "government-transparency"
         }
       },
@@ -25616,6 +25897,16 @@
         }
       }
     ],
+    "nondisclosure-agreements": [
+      {
+        "source": "document-2026-pursue-uap-disclosure-legal-waiver",
+        "type": "addresses_topic",
+        "meta": {
+          "type": "addresses_topic",
+          "target": "nondisclosure-agreements"
+        }
+      }
+    ],
     "nuclear-facility-uap-incidents": [
       {
         "source": "2026-weaponized-episode-107",
@@ -25880,6 +26171,72 @@
         "meta": {
           "type": "published_by",
           "target": "project-sign"
+        }
+      }
+    ],
+    "protected-uap-disclosures": [
+      {
+        "source": "claim-pursue-waiver-authorized-disclosure-mechanism",
+        "type": "references_topic",
+        "meta": {
+          "type": "references_topic",
+          "target": "protected-uap-disclosures"
+        }
+      },
+      {
+        "source": "claim-pursue-waiver-channel-limitation",
+        "type": "references_topic",
+        "meta": {
+          "type": "references_topic",
+          "target": "protected-uap-disclosures"
+        }
+      },
+      {
+        "source": "claim-pursue-waiver-nda-protection",
+        "type": "references_topic",
+        "meta": {
+          "type": "references_topic",
+          "target": "protected-uap-disclosures"
+        }
+      },
+      {
+        "source": "claim-pursue-waiver-no-automatic-declassification",
+        "type": "references_topic",
+        "meta": {
+          "type": "references_topic",
+          "target": "protected-uap-disclosures"
+        }
+      },
+      {
+        "source": "claim-pursue-waiver-no-public-disclosure-authority",
+        "type": "references_topic",
+        "meta": {
+          "type": "references_topic",
+          "target": "protected-uap-disclosures"
+        }
+      },
+      {
+        "source": "claim-pursue-waiver-review-potential-release",
+        "type": "references_topic",
+        "meta": {
+          "type": "references_topic",
+          "target": "protected-uap-disclosures"
+        }
+      },
+      {
+        "source": "claim-pursue-waiver-sapia-protection",
+        "type": "references_topic",
+        "meta": {
+          "type": "references_topic",
+          "target": "protected-uap-disclosures"
+        }
+      },
+      {
+        "source": "document-2026-pursue-uap-disclosure-legal-waiver",
+        "type": "addresses_topic",
+        "meta": {
+          "type": "addresses_topic",
+          "target": "protected-uap-disclosures"
         }
       }
     ],
@@ -26505,6 +26862,15 @@
         }
       },
       {
+        "source": "document-2026-pursue-uap-disclosure-legal-waiver",
+        "type": "applies_to",
+        "meta": {
+          "type": "applies_to",
+          "target": "pursue",
+          "role": "authorized recipient channel"
+        }
+      },
+      {
         "source": "publication-2026-limits-velocity-recovery-pursue",
         "type": "references_organization",
         "meta": {
@@ -26633,6 +26999,15 @@
           "type": "references_publication",
           "target": "record-group-615-uap-records-collection",
           "role": "complementary government archive"
+        }
+      },
+      {
+        "source": "document-2026-pursue-uap-disclosure-legal-waiver",
+        "type": "references_publication",
+        "meta": {
+          "type": "references_publication",
+          "target": "record-group-615-uap-records-collection",
+          "role": "related federal historical-record collection"
         }
       },
       {
@@ -29627,6 +30002,16 @@
         }
       }
     ],
+    "special-access-program-indoctrination-agreements": [
+      {
+        "source": "document-2026-pursue-uap-disclosure-legal-waiver",
+        "type": "addresses_topic",
+        "meta": {
+          "type": "addresses_topic",
+          "target": "special-access-program-indoctrination-agreements"
+        }
+      }
+    ],
     "steven-greer": [],
     "syria-uap-2021": [
       {
@@ -30749,6 +31134,14 @@
         }
       },
       {
+        "source": "document-2026-pursue-uap-disclosure-legal-waiver",
+        "type": "references_topic",
+        "meta": {
+          "type": "references_topic",
+          "target": "uap-disclosure"
+        }
+      },
+      {
         "source": "marco-rubio",
         "type": "discussed_topic",
         "meta": {
@@ -30756,6 +31149,22 @@
           "target": "uap-disclosure",
           "role": "referenced",
           "context": "Rubio has made public statements supporting serious investigation of UAP and discussing transparency and alleged concealment."
+        }
+      },
+      {
+        "source": "nondisclosure-agreements",
+        "type": "associated_topic",
+        "meta": {
+          "type": "associated_topic",
+          "target": "uap-disclosure"
+        }
+      },
+      {
+        "source": "protected-uap-disclosures",
+        "type": "associated_topic",
+        "meta": {
+          "type": "associated_topic",
+          "target": "uap-disclosure"
         }
       },
       {
@@ -30773,6 +31182,14 @@
         "type": "addresses_topic",
         "meta": {
           "type": "addresses_topic",
+          "target": "uap-disclosure"
+        }
+      },
+      {
+        "source": "special-access-program-indoctrination-agreements",
+        "type": "associated_topic",
+        "meta": {
+          "type": "associated_topic",
           "target": "uap-disclosure"
         }
       }

@@ -48,6 +48,11 @@
     {
       "type": "contains_claim",
       "target": "claim-private-archives-preserve-historical-context"
+    },
+    {
+      "type": "references_publication",
+      "target": "document-2026-pursue-uap-disclosure-legal-waiver",
+      "role": "related historical-record integration"
     }
   ],
   "officialLinks": [
@@ -63,6 +68,12 @@
       "url": "https://defensescoop.com/2026/09/02/pentagon-seeks-access-to-vast-private-ufo-records-collection/",
       "sourceType": "news_report",
       "role": "related_coverage"
+    },
+    {
+      "label": "Official PURSUE legal-waiver announcement",
+      "url": "https://www.war.gov/News/Releases/Release/Article/4600020/department-of-war-issues-legal-waiver-to-authorize-unidentified-anomalous-pheno/",
+      "sourceType": "government_source",
+      "role": "connected_policy"
     }
   ],
   "procurementMetadata": {

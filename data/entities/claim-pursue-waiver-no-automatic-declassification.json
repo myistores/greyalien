@@ -1,0 +1,31 @@
+{
+  "id": "claim-pursue-waiver-no-automatic-declassification",
+  "type": "claim",
+  "name": "Submission through PURSUE does not automatically declassify information",
+  "summary": "Authorized receipt by PURSUE and declassification are separate actions; covered information may remain classified after submission.",
+  "relationships": [
+    {
+      "type": "references_publication",
+      "target": "document-2026-pursue-uap-disclosure-legal-waiver",
+      "role": "claim source"
+    },
+    {
+      "type": "references_topic",
+      "target": "protected-uap-disclosures"
+    }
+  ],
+  "referenceSources": [
+    {
+      "label": "Official September 14 PURSUE waiver announcement",
+      "url": "https://www.war.gov/News/Releases/Release/Article/4600020/department-of-war-issues-legal-waiver-to-authorize-unidentified-anomalous-pheno/",
+      "sourceType": "government_source",
+      "role": "claim_source"
+    }
+  ],
+  "claimMetadata": {
+    "classification": "classification_clarification",
+    "knowledgePermanence": "permanent",
+    "caution": "This record represents the bounded policy described by the government source and is not independent legal advice."
+  },
+  "officialLinks": []
+}

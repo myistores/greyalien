@@ -1380,6 +1380,22 @@
       "_canonicalScore": 6
     },
     {
+      "id": "claim-pursue-waiver-nda-protection",
+      "type": "claim",
+      "name": "Covered PURSUE communications receive specified NDA enforcement protection",
+      "summary": "For covered disclosures to PURSUE, the waiver supersedes specified civil and administrative enforcement provisions in applicable nondisclosure agreements.",
+      "_identityKey": "claim:name:covered pursue communications receive specified nda enforcement protection",
+      "_canonicalScore": 3
+    },
+    {
+      "id": "claim-pursue-waiver-sapia-protection",
+      "type": "claim",
+      "name": "Covered PURSUE communications receive specified SAPIA enforcement protection",
+      "summary": "The waiver extends its bounded protection to specified civil and administrative enforcement provisions in applicable Special Access Program Indoctrination Agreements executed within the stated jurisdiction.",
+      "_identityKey": "claim:name:covered pursue communications receive specified sapia enforcement protection",
+      "_canonicalScore": 3
+    },
+    {
       "id": "claim-critiques-of-the-syria-uap-footage-do-not-fully-resolve-the-case",
       "type": "claim",
       "name": "Critiques of the Syria UAP footage do not fully resolve the case",
@@ -3004,6 +3020,14 @@
       "_canonicalScore": 83
     },
     {
+      "id": "claim-pursue-waiver-review-potential-release",
+      "type": "claim",
+      "name": "PURSUE submissions may enter review for possible declassification or release",
+      "summary": "The process can support secure review and potential declassification or public release, but the announcement does not guarantee either outcome for any submission.",
+      "_identityKey": "claim:name:pursue submissions may enter review for possible declassification or release",
+      "_canonicalScore": 3
+    },
+    {
       "id": "claim-reduced-stigma-encouraged-the-pilot-to-speak-publicly",
       "type": "claim",
       "name": "Reduced stigma encouraged the pilot to speak publicly",
@@ -3402,6 +3426,14 @@
       "summary": "Strieber says his reported relationship with non-human beings has continued and evolved over time.",
       "_identityKey": "claim:url:weaponizedpodcast.com/episodes-4/episode-120",
       "_canonicalScore": 83
+    },
+    {
+      "id": "claim-pursue-waiver-no-automatic-declassification",
+      "type": "claim",
+      "name": "Submission through PURSUE does not automatically declassify information",
+      "summary": "Authorized receipt by PURSUE and declassification are separate actions; covered information may remain classified after submission.",
+      "_identityKey": "claim:name:submission through pursue does not automatically declassify information",
+      "_canonicalScore": 3
     },
     {
       "id": "claim-weaponized-2-1",
@@ -5269,6 +5301,14 @@
       "_canonicalScore": 6
     },
     {
+      "id": "claim-pursue-waiver-authorized-disclosure-mechanism",
+      "type": "claim",
+      "name": "The government established an authorized UAP disclosure mechanism through PURSUE",
+      "summary": "The September 14 announcement establishes a legally protected route for covered current and former personnel to provide UAP-related National Defense Information directly to designated PURSUE representatives.",
+      "_identityKey": "claim:name:the government established an authorized uap disclosure mechanism through pursue",
+      "_canonicalScore": 3
+    },
+    {
       "id": "claim-wsj-reporting-challenged",
       "type": "claim",
       "name": "The guests challenged Wall Street Journal explanations for historical nuclear-site incidents.",
@@ -6375,6 +6415,22 @@
       "_canonicalScore": 86
     },
     {
+      "id": "claim-pursue-waiver-no-public-disclosure-authority",
+      "type": "claim",
+      "name": "The waiver does not authorize unrestricted public disclosure",
+      "summary": "Nothing in the announced waiver is represented as permission to publish or otherwise release classified or protected information publicly.",
+      "_identityKey": "claim:name:the waiver does not authorize unrestricted public disclosure",
+      "_canonicalScore": 3
+    },
+    {
+      "id": "claim-pursue-waiver-channel-limitation",
+      "type": "claim",
+      "name": "The waiver is limited to communications directed to designated PURSUE representatives",
+      "summary": "The announced protection is channel-specific and does not extend automatically to communications with the public, journalists, private organizations or unauthorized recipients.",
+      "_identityKey": "claim:name:the waiver is limited to communications directed to designated pursue representatives",
+      "_canonicalScore": 3
+    },
+    {
       "id": "claim-need-to-know-14-4",
       "type": "claim",
       "name": "The Wilson–Davis Notes are discussed as a controversial document requiring careful evaluation rather than assumption.",
@@ -6779,7 +6835,7 @@
       "dateDisplay": "July 31, 2026",
       "eventCategory": "Government procurement notice",
       "_identityKey": "document:name:notice of intent to sole source historical uap data and analysis subscription",
-      "_canonicalScore": 5
+      "_canonicalScore": 8
     },
     {
       "id": "2023-house-uap-hearing-transcript",
@@ -6808,7 +6864,7 @@
       "taxonomyStatus": "canonical",
       "entitySubtype": "Government Records Collection",
       "_identityKey": "document:name:record group 615 unidentified anomalous phenomena records collection",
-      "_canonicalScore": 2
+      "_canonicalScore": 5
     },
     {
       "id": "the-day-after-roswell",
@@ -7262,7 +7318,7 @@
       "summary": "Department of Defense office responsible for receiving, analyzing, and resolving reports of unidentified anomalous phenomena across operational domains.",
       "taxonomyStatus": "canonical",
       "_identityKey": "organization:name:all domain anomaly resolution office",
-      "_canonicalScore": 1002
+      "_canonicalScore": 1005
     },
     {
       "id": "americans-for-safe-aerospace",
@@ -7660,7 +7716,7 @@
       "summary": "Federal executive department responsible for U.S. national security",
       "taxonomyStatus": "canonical",
       "_identityKey": "organization:name:u s department of defense",
-      "_canonicalScore": 1002
+      "_canonicalScore": 1005
     },
     {
       "id": "department-of-energy",
@@ -12298,7 +12354,7 @@
       "taxonomyStatus": "canonical",
       "entitySubtype": "Government UAP Records Initiative",
       "_identityKey": "program:name:pursue",
-      "_canonicalScore": 8
+      "_canonicalScore": 11
     },
     {
       "id": "uap-task-force",
@@ -12361,6 +12417,18 @@
       "eventCategory": "Scientific methodological critique",
       "_identityKey": "publication:name:critical evaluation of studies alleging evidence for technosignatures in the poss1 e photographic plates",
       "_canonicalScore": 5
+    },
+    {
+      "id": "document-2026-pursue-uap-disclosure-legal-waiver",
+      "type": "publication",
+      "name": "Department of War Legal Waiver for UAP Disclosures to PURSUE",
+      "summary": "September 14, 2026 government announcement establishing a channel-specific legal waiver for covered current and former personnel to provide UAP-related National Defense Information to designated PURSUE representatives without triggering specified civil or administrative NDA and SAPIA enforcement provisions.",
+      "entitySubtype": "Government Document / Protected Disclosure Policy",
+      "date": "2026-09-14",
+      "dateDisplay": "September 14, 2026",
+      "eventCategory": "Government protected-disclosure policy",
+      "_identityKey": "publication:name:department of war legal waiver for uap disclosures to pursue",
+      "_canonicalScore": 7
     },
     {
       "id": "publication-2025-european-uap-barometer-2019-2024",
@@ -14866,7 +14934,7 @@
       "name": "Government Transparency",
       "summary": "Public access, congressional oversight, disclosure, and accountability",
       "_identityKey": "topic:name:government transparency",
-      "_canonicalScore": 0
+      "_canonicalScore": 3
     },
     {
       "id": "high-strangeness",
@@ -15081,12 +15149,38 @@
       "_canonicalScore": 0
     },
     {
+      "id": "nondisclosure-agreements",
+      "type": "topic",
+      "name": "Nondisclosure Agreements",
+      "summary": "Agreements restricting disclosure of protected information; the September 2026 waiver affects specified civil and administrative enforcement provisions only for covered communications to PURSUE.",
+      "destinationPage": true,
+      "visibleInDirectory": true,
+      "searchable": true,
+      "taxonomyStatus": "canonical",
+      "entitySubtype": "Government Policy Topic",
+      "_identityKey": "topic:name:nondisclosure agreements",
+      "_canonicalScore": 3
+    },
+    {
       "id": "paranormal-phenomena",
       "type": "topic",
       "name": "Paranormal Phenomena",
       "summary": "A knowledge-graph topic used to connect source-grounded WEAPONIZED reporting about paranormal phenomena.",
       "_identityKey": "topic:name:paranormal phenomena",
       "_canonicalScore": 0
+    },
+    {
+      "id": "protected-uap-disclosures",
+      "type": "topic",
+      "name": "Protected UAP Disclosures",
+      "summary": "Authorized reporting of UAP-related protected information through designated government recipients under specified legal and security controls.",
+      "destinationPage": true,
+      "visibleInDirectory": true,
+      "searchable": true,
+      "taxonomyStatus": "canonical",
+      "entitySubtype": "Government Policy Topic",
+      "_identityKey": "topic:name:protected uap disclosures",
+      "_canonicalScore": 3
     },
     {
       "id": "research-integrity",
@@ -15198,6 +15292,19 @@
       "_canonicalScore": 6
     },
     {
+      "id": "special-access-program-indoctrination-agreements",
+      "type": "topic",
+      "name": "Special Access Program Indoctrination Agreements",
+      "summary": "Security agreements associated with access to Special Access Programs; the September 2026 waiver is narrowly limited to covered communications directed to PURSUE.",
+      "destinationPage": true,
+      "visibleInDirectory": true,
+      "searchable": true,
+      "taxonomyStatus": "canonical",
+      "entitySubtype": "Government Policy Topic",
+      "_identityKey": "topic:name:special access program indoctrination agreements",
+      "_canonicalScore": 3
+    },
+    {
       "id": "technosignatures",
       "type": "topic",
       "name": "Technosignatures",
@@ -15241,7 +15348,7 @@
       "summary": "Public release and official acknowledgment of information concerning unidentified anomalous phenomena.",
       "taxonomyStatus": "canonical",
       "_identityKey": "topic:url:weaponizedpodcast.com/episodes-3/episode-85",
-      "_canonicalScore": 1086
+      "_canonicalScore": 1089
     },
     {
       "id": "uap-disclosure-legislation",

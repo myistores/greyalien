@@ -1,0 +1,39 @@
+{
+  "release": "V23.6D.8",
+  "scopeIdentifier": "V23.6D.8-SCOPE-1",
+  "title": "PURSUE Legal Disclosure Waiver + Protected Government Reporting Integration",
+  "baseRepository": "V23.6D.7",
+  "newsRecord": "2026-09-14-department-war-pursue-uap-disclosure-waiver",
+  "governmentDocument": "document-2026-pursue-uap-disclosure-legal-waiver",
+  "newEntities": [
+    "document-2026-pursue-uap-disclosure-legal-waiver",
+    "protected-uap-disclosures",
+    "nondisclosure-agreements",
+    "special-access-program-indoctrination-agreements",
+    "claim-pursue-waiver-authorized-disclosure-mechanism",
+    "claim-pursue-waiver-nda-protection",
+    "claim-pursue-waiver-sapia-protection",
+    "claim-pursue-waiver-channel-limitation",
+    "claim-pursue-waiver-no-public-disclosure-authority",
+    "claim-pursue-waiver-no-automatic-declassification",
+    "claim-pursue-waiver-review-potential-release"
+  ],
+  "reusedEntities": [
+    "pursue",
+    "department-of-defense",
+    "aaro",
+    "government-transparency",
+    "uap-disclosure",
+    "document-2026-aaro-nufohrc-sole-source-notice",
+    "record-group-615-uap-records-collection"
+  ],
+  "lifecycle": {"newsStatus": "current", "landmark": false, "knowledgePermanence": "permanent"},
+  "primarySource": "https://www.war.gov/News/Releases/Release/Article/4600020/department-of-war-issues-legal-waiver-to-authorize-unidentified-anomalous-pheno/",
+  "editorialSafeguards": [
+    "Protection is limited to covered communications directed to designated PURSUE representatives.",
+    "The waiver is not unrestricted public-disclosure authority.",
+    "Authorized submission is not automatic declassification or guaranteed public release.",
+    "Government receipt does not authenticate a submitted allegation.",
+    "GreyAlien describes the announced policy and does not provide legal advice."
+  ]
+}

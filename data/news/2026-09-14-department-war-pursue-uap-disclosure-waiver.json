@@ -1,0 +1,75 @@
+{
+  "id": "2026-09-14-department-war-pursue-uap-disclosure-waiver",
+  "recordType": "news_record",
+  "contentType": "government_policy_news",
+  "title": "Department Establishes Protected Channel for UAP Disclosures to PURSUE",
+  "source": "U.S. Department of War",
+  "author": "U.S. Department of War",
+  "publicationDate": "2026-09-14",
+  "publicationDateDisplay": "September 14, 2026",
+  "originalUrl": "https://www.war.gov/News/Releases/Release/Article/4600020/department-of-war-issues-legal-waiver-to-authorize-unidentified-anomalous-pheno/",
+  "primarySourceUrl": "https://www.war.gov/News/Releases/Release/Article/4600020/department-of-war-issues-legal-waiver-to-authorize-unidentified-anomalous-pheno/",
+  "summary": "The Department announced a channel-specific legal waiver allowing covered current and former personnel to provide UAP-related National Defense Information directly to designated PURSUE representatives without triggering specified civil or administrative NDA and SAPIA enforcement provisions. It is not authorization for public disclosure or automatic declassification.",
+  "dateAdded": "2026-09-17",
+  "newsStatus": "current",
+  "knowledgePermanence": "permanent",
+  "relatedEntityIds": [
+    "document-2026-pursue-uap-disclosure-legal-waiver",
+    "pursue",
+    "department-of-defense",
+    "aaro",
+    "protected-uap-disclosures",
+    "nondisclosure-agreements",
+    "special-access-program-indoctrination-agreements",
+    "uap-disclosure",
+    "government-transparency",
+    "document-2026-aaro-nufohrc-sole-source-notice",
+    "record-group-615-uap-records-collection",
+    "claim-pursue-waiver-authorized-disclosure-mechanism",
+    "claim-pursue-waiver-nda-protection",
+    "claim-pursue-waiver-sapia-protection",
+    "claim-pursue-waiver-channel-limitation",
+    "claim-pursue-waiver-no-public-disclosure-authority",
+    "claim-pursue-waiver-no-automatic-declassification",
+    "claim-pursue-waiver-review-potential-release"
+  ],
+  "relationships": [
+    {
+      "type": "references_publication",
+      "target": "document-2026-pursue-uap-disclosure-legal-waiver",
+      "role": "permanent government-policy object"
+    },
+    {
+      "type": "references_organization",
+      "target": "department-of-defense",
+      "role": "issuing department"
+    },
+    {
+      "type": "references_organization",
+      "target": "pursue",
+      "role": "authorized recipient channel"
+    },
+    {
+      "type": "references_topic",
+      "target": "protected-uap-disclosures"
+    }
+  ],
+  "visibility": {
+    "latestGateway": true,
+    "publicEntityDirectory": false,
+    "landmark": false
+  },
+  "lifecycle": {
+    "status": "current",
+    "archiveEligible": true,
+    "automaticAgingEnabled": false,
+    "landmark": false
+  },
+  "editorialNotes": {
+    "sourceHierarchy": "The official September 14 release is primary; secondary reporting is contextual only.",
+    "channelLimitation": "The waiver protects covered communications to designated PURSUE representatives, not unrestricted public disclosure.",
+    "classificationDiscipline": "Submission does not automatically declassify information.",
+    "authenticationDiscipline": "Receipt does not authenticate a submitted claim.",
+    "lifecyclePrinciple": "News can age; knowledge does not."
+  }
+}

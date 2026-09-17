@@ -18,6 +18,11 @@
       "type": "references_publication",
       "target": "publication-2026-limits-velocity-recovery-pursue",
       "context": "The Haqq-Misra and Kopparapu preprint reviews all 112 released PURSUE sensor videos for kinematic observability."
+    },
+    {
+      "type": "references_publication",
+      "target": "document-2026-pursue-uap-disclosure-legal-waiver",
+      "role": "authorized disclosure-channel policy"
     }
   ],
   "officialLinks": [
@@ -39,6 +44,12 @@
       "url": "https://arxiv.org/abs/2608.12445",
       "sourceType": "scientific_preprint",
       "role": "dataset_catalog_reference"
+    },
+    {
+      "label": "Official PURSUE legal-waiver announcement",
+      "url": "https://www.war.gov/News/Releases/Release/Article/4600020/department-of-war-issues-legal-waiver-to-authorize-unidentified-anomalous-pheno/",
+      "sourceType": "government_source",
+      "role": "connected_policy"
     }
   ],
   "editorialNotes": {

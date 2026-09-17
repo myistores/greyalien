@@ -1,0 +1,27 @@
+V23.6D.8 — PURSUE Legal Disclosure Waiver + Protected Government Reporting Integration
+
+APPROVED SCOPE
+- V23.6D.8-SCOPE-1
+
+BASE
+- V23.6D.7 deployable repository
+
+ADDED
+- Current/non-Landmark September 14 government-policy news record
+- Permanent PURSUE legal-waiver government-document record
+- Protected UAP Disclosures, Nondisclosure Agreements and SAPIA policy topics
+- Seven source-grounded claims
+- Reciprocal Latest UAP News ↔ Research Library navigation
+
+PRESERVED
+- Channel-specific protection; no unrestricted public-disclosure authority
+- Submission distinct from declassification and guaranteed release
+- Government receipt distinct from authentication
+- Existing PURSUE, AARO, department and historical-record entities
+- V23.6D.1 runtime and V23.6D.2–D.7 records
+
+VALIDATE
+python3 tools/validate_v23_6d_8.py
+python3 tools/validate_graph.py
+python3 tools/validate_sources.py
+python3 tools/validate_rendering_rules.py

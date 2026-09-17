@@ -34,6 +34,11 @@
       "type": "references_publication",
       "target": "record-group-615-uap-records-collection",
       "role": "related historical-record mandate"
+    },
+    {
+      "type": "references_publication",
+      "target": "document-2026-pursue-uap-disclosure-legal-waiver",
+      "role": "related authorized UAP reporting and historical-review context"
     }
   ],
   "organizationPurpose": "Provide a centralized process for UAP reporting, analysis, case resolution, historical review, and congressional reporting.",
@@ -45,7 +50,14 @@
       "linkType": "official_website"
     }
   ],
-  "referenceSources": [],
+  "referenceSources": [
+    {
+      "label": "Official PURSUE legal-waiver announcement",
+      "url": "https://www.war.gov/News/Releases/Release/Article/4600020/department-of-war-issues-legal-waiver-to-authorize-unidentified-anomalous-pheno/",
+      "sourceType": "government_source",
+      "role": "connected_policy"
+    }
+  ],
   "taxonomyStatus": "canonical",
   "isCanonical": true,
   "aliases": [
