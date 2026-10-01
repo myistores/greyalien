@@ -1,0 +1,153 @@
+{
+  "id": "collection-2026-pursue-release-06",
+  "type": "publication",
+  "entitySubtype": "Government Records Collection / Declassification Tranche",
+  "name": "PURSUE Release 06 — Declassified and Historical UAP Files",
+  "summary": "The sixth official PURSUE tranche, published September 18, 2026, combining declassified and historical UAP documents and media under a government-hosted provenance container. Publication establishes custody and availability, not authentication of every embedded claim.",
+  "date": "2026-09-18",
+  "dateDisplay": "September 18, 2026",
+  "eventCategory": "Government records release",
+  "relationships": [
+    {
+      "type": "published_by",
+      "target": "department-of-defense",
+      "role": "issuing department; official release uses Department of War"
+    },
+    {
+      "type": "contained_in",
+      "target": "pursue",
+      "role": "sixth release tranche"
+    },
+    {
+      "type": "references_organization",
+      "target": "aaro",
+      "role": "related government UAP records and historical-review context"
+    },
+    {
+      "type": "references_organization",
+      "target": "defense-intelligence-agency",
+      "role": "source context for AAWSAP materials"
+    },
+    {
+      "type": "references_organization",
+      "target": "aawsap",
+      "role": "program represented in released records"
+    },
+    {
+      "type": "references_publication",
+      "target": "document-2026-pursue-uap-disclosure-legal-waiver",
+      "role": "preceding protected-disclosure policy; no file-level causation asserted"
+    },
+    {
+      "type": "references_publication",
+      "target": "record-group-615-uap-records-collection",
+      "role": "related federal historical-record collection"
+    },
+    {
+      "type": "references_publication",
+      "target": "document-2026-aaro-nufohrc-sole-source-notice",
+      "role": "related historical-record integration"
+    },
+    {
+      "type": "references_topic",
+      "target": "uap-disclosure"
+    },
+    {
+      "type": "references_topic",
+      "target": "government-transparency"
+    },
+    {
+      "type": "contains_claim",
+      "target": "claim-pursue-release-06-sixth-tranche"
+    },
+    {
+      "type": "contains_claim",
+      "target": "claim-pursue-release-06-declassified-historical"
+    },
+    {
+      "type": "contains_claim",
+      "target": "claim-pursue-release-06-official-custody"
+    },
+    {
+      "type": "contains_claim",
+      "target": "claim-pursue-release-06-rolling-process"
+    },
+    {
+      "type": "contains_claim",
+      "target": "claim-pursue-release-06-next-release"
+    },
+    {
+      "type": "contains_claim",
+      "target": "claim-pursue-release-06-publication-not-authentication"
+    },
+    {
+      "type": "contains_claim",
+      "target": "claim-pursue-release-06-file-specific-review"
+    }
+  ],
+  "officialLinks": [
+    {
+      "label": "Official Release 06 announcement",
+      "url": "https://www.war.gov/News/Releases/Release/Article/4604795/department-of-war-publishes-sixth-release-of-unidentified-anomalous-phenomena-f/",
+      "linkType": "government_source"
+    },
+    {
+      "label": "Official Release 06 portal",
+      "url": "https://www.war.gov/UFO/release/06/",
+      "linkType": "government_records_collection"
+    }
+  ],
+  "referenceSources": [],
+  "manifestSnapshot": {
+    "snapshotDate": "2026-09-30",
+    "snapshotTimezone": "America/New_York",
+    "source": "https://www.war.gov/UFO/release/06/",
+    "releaseLabel": "Release 06",
+    "releaseDate": "2026-09-18",
+    "itemCount": 75,
+    "fileTypes": {
+      "documents": 59,
+      "videos": 15,
+      "audio": 1
+    },
+    "sourceOrganizations": {
+      "Department of War": 67,
+      "Local Law Enforcement": 8
+    },
+    "contentGroups": [
+      {
+        "name": "AAWSAP and Defense Intelligence Agency material",
+        "treatment": "Commissioned literature reviews, technical hypotheses, contract records and program material remain distinct; inclusion does not establish operational capability."
+      },
+      {
+        "name": "Tremonton historical case material",
+        "treatment": "Film, case documentation, photographic analysis and personnel material are retained as historical records with file-specific provenance."
+      },
+      {
+        "name": "Contemporary airborne sensor media",
+        "treatment": "Videos and associated mission-report records are linked where the manifest supports a pairing; imagery alone is not treated as sufficient for physical identification."
+      },
+      {
+        "name": "Local law-enforcement records",
+        "treatment": "Records are preserved under their stated originating organization and are not reattributed to the Department merely because they are hosted in PURSUE."
+      }
+    ],
+    "changePolicy": "This is a dated manifest snapshot. Later additions, replacements or metadata corrections on the live portal do not silently rewrite this record."
+  },
+  "governmentCollectionMetadata": {
+    "issuingAuthority": "U.S. Department of War (matched to GreyAlien's canonical U.S. Department of Defense entity)",
+    "releaseNumber": 6,
+    "publicationDate": "September 18, 2026",
+    "status": "Official government records release",
+    "classificationLanguage": "The Department describes the collection as declassified and historical UAP files.",
+    "provenanceRule": "Portal publication establishes official custody and release provenance; each embedded file retains its own origin, purpose and evidentiary status.",
+    "relatedNewsId": "2026-09-18-department-war-pursue-release-06"
+  },
+  "editorialNotes": {
+    "authenticationDiscipline": "Official publication is not wholesale authentication of embedded claims.",
+    "declassificationDiscipline": "Declassification permits release; it does not establish factual accuracy, completeness or extraordinary origin.",
+    "aawsapDiscipline": "Commissioned review, technical hypothesis, contractual deliverable, original research and demonstrated capability are not interchangeable categories.",
+    "waiverSequence": "The September 14 waiver precedes Release 06, but no individual Release 06 file is attributed to the waiver without file-level provenance.",
+    "lifecyclePrinciple": "News can age; knowledge does not."
+  }
+}

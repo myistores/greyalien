@@ -1,0 +1,26 @@
+{
+  "id": "claim-pursue-release-06-declassified-historical",
+  "type": "claim",
+  "name": "Release 06 contains declassified and historical UAP files",
+  "summary": "The issuing Department describes the tranche as a release of declassified and historical UAP files; this collection-level description does not resolve the origin or accuracy of every embedded assertion.",
+  "relationships": [
+    {
+      "type": "references_publication",
+      "target": "collection-2026-pursue-release-06",
+      "role": "claim source"
+    }
+  ],
+  "referenceSources": [
+    {
+      "label": "Official PURSUE Release 06 announcement",
+      "url": "https://www.war.gov/News/Releases/Release/Article/4604795/department-of-war-publishes-sixth-release-of-unidentified-anomalous-phenomena-f/",
+      "sourceType": "government_source",
+      "role": "claim_source"
+    }
+  ],
+  "claimMetadata": {
+    "classification": "collection_description",
+    "knowledgePermanence": "permanent",
+    "assessment": "Supported at the collection level; embedded files retain independent evidentiary status."
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "id": "claim-pursue-release-06-official-custody",
+  "type": "claim",
+  "name": "Release 06 is maintained through the official WAR.GOV/UFO portal",
+  "summary": "The government announcement directs users to the official PURSUE portal, which provides custody and publication provenance for the released files.",
+  "relationships": [
+    {
+      "type": "references_publication",
+      "target": "collection-2026-pursue-release-06",
+      "role": "claim source"
+    }
+  ],
+  "referenceSources": [
+    {
+      "label": "Official PURSUE Release 06 announcement",
+      "url": "https://www.war.gov/News/Releases/Release/Article/4604795/department-of-war-publishes-sixth-release-of-unidentified-anomalous-phenomena-f/",
+      "sourceType": "government_source",
+      "role": "claim_source"
+    }
+  ],
+  "claimMetadata": {
+    "classification": "provenance_fact",
+    "knowledgePermanence": "permanent",
+    "assessment": "Supported at the collection level; embedded files retain independent evidentiary status."
+  }
+}

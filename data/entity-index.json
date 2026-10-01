@@ -2715,6 +2715,14 @@
       "_canonicalScore": 83
     },
     {
+      "id": "claim-pursue-release-06-publication-not-authentication",
+      "type": "claim",
+      "name": "Official publication does not authenticate every claim inside a released file",
+      "summary": "Government custody, declassification or publication establishes provenance and availability, not the truth of every historical, technical or witness assertion contained in a file.",
+      "_identityKey": "claim:name:official publication does not authenticate every claim inside a released file",
+      "_canonicalScore": 3
+    },
+    {
       "id": "claim-weaponized-36-4",
       "type": "claim",
       "name": "Older extraterrestrial civilizations might have transitioned into forms that are real but not conventionally visible.",
@@ -3028,12 +3036,52 @@
       "_canonicalScore": 3
     },
     {
+      "id": "claim-pursue-release-06-rolling-process",
+      "type": "claim",
+      "name": "PURSUE uses a rolling-release process",
+      "summary": "The Department states that additional files are to be released on a rolling basis.",
+      "_identityKey": "claim:name:pursue uses a rolling release process",
+      "_canonicalScore": 3
+    },
+    {
       "id": "claim-reduced-stigma-encouraged-the-pilot-to-speak-publicly",
       "type": "claim",
       "name": "Reduced stigma encouraged the pilot to speak publicly",
       "summary": "He explains that changing attitudes toward aviator reports made disclosure of his experiences more feasible.",
       "_identityKey": "claim:url:weaponizedpodcast.com/episodes-4/episode-106",
       "_canonicalScore": 83
+    },
+    {
+      "id": "claim-pursue-release-06-declassified-historical",
+      "type": "claim",
+      "name": "Release 06 contains declassified and historical UAP files",
+      "summary": "The issuing Department describes the tranche as a release of declassified and historical UAP files; this collection-level description does not resolve the origin or accuracy of every embedded assertion.",
+      "_identityKey": "claim:name:release 06 contains declassified and historical uap files",
+      "_canonicalScore": 3
+    },
+    {
+      "id": "claim-pursue-release-06-file-specific-review",
+      "type": "claim",
+      "name": "Release 06 files require source- and file-specific assessment",
+      "summary": "Each document, image, audio item or video must be evaluated according to its authorship, date, purpose, chain of custody and evidentiary quality rather than inheriting a single collection-wide credibility judgment.",
+      "_identityKey": "claim:name:release 06 files require source and file specific assessment",
+      "_canonicalScore": 3
+    },
+    {
+      "id": "claim-pursue-release-06-official-custody",
+      "type": "claim",
+      "name": "Release 06 is maintained through the official WAR.GOV/UFO portal",
+      "summary": "The government announcement directs users to the official PURSUE portal, which provides custody and publication provenance for the released files.",
+      "_identityKey": "claim:name:release 06 is maintained through the official war gov ufo portal",
+      "_canonicalScore": 3
+    },
+    {
+      "id": "claim-pursue-release-06-sixth-tranche",
+      "type": "claim",
+      "name": "Release 06 is PURSUE's sixth official records tranche",
+      "summary": "The Department's September 18 announcement identifies this publication as the sixth release under PURSUE.",
+      "_identityKey": "claim:name:release 06 is pursue s sixth official records tranche",
+      "_canonicalScore": 3
     },
     {
       "id": "claim-pursue-corpus-insufficient-kinematics",
@@ -3706,6 +3754,14 @@
       "summary": "The episode describes the report as a pivotal event whose effects continued years later.",
       "_identityKey": "claim:url:weaponizedpodcast.com/episodes-3/episode-68",
       "_canonicalScore": 83
+    },
+    {
+      "id": "claim-pursue-release-06-next-release",
+      "type": "claim",
+      "name": "The Department and partner agencies were preparing a subsequent release",
+      "summary": "The September 18 statement says the Department and agency partners were actively working on the next release.",
+      "_identityKey": "claim:name:the department and partner agencies were preparing a subsequent release",
+      "_canonicalScore": 3
     },
     {
       "id": "claim-need-to-know-4-3",
@@ -6835,7 +6891,7 @@
       "dateDisplay": "July 31, 2026",
       "eventCategory": "Government procurement notice",
       "_identityKey": "document:name:notice of intent to sole source historical uap data and analysis subscription",
-      "_canonicalScore": 8
+      "_canonicalScore": 11
     },
     {
       "id": "2023-house-uap-hearing-transcript",
@@ -6864,7 +6920,7 @@
       "taxonomyStatus": "canonical",
       "entitySubtype": "Government Records Collection",
       "_identityKey": "document:name:record group 615 unidentified anomalous phenomena records collection",
-      "_canonicalScore": 5
+      "_canonicalScore": 8
     },
     {
       "id": "the-day-after-roswell",
@@ -7318,7 +7374,7 @@
       "summary": "Department of Defense office responsible for receiving, analyzing, and resolving reports of unidentified anomalous phenomena across operational domains.",
       "taxonomyStatus": "canonical",
       "_identityKey": "organization:name:all domain anomaly resolution office",
-      "_canonicalScore": 1005
+      "_canonicalScore": 1008
     },
     {
       "id": "americans-for-safe-aerospace",
@@ -7398,7 +7454,7 @@
       "name": "Defense Intelligence Agency",
       "summary": "U.S. Department of Defense intelligence agency.",
       "_identityKey": "organization:name:defense intelligence agency",
-      "_canonicalScore": 2
+      "_canonicalScore": 5
     },
     {
       "id": "earthtech-international",
@@ -7716,7 +7772,7 @@
       "summary": "Federal executive department responsible for U.S. national security",
       "taxonomyStatus": "canonical",
       "_identityKey": "organization:name:u s department of defense",
-      "_canonicalScore": 1005
+      "_canonicalScore": 1008
     },
     {
       "id": "department-of-energy",
@@ -12302,7 +12358,7 @@
       "taxonomyStatus": "canonical",
       "entitySubtype": "Government Program",
       "_identityKey": "program:name:advanced aerospace weapon system applications program",
-      "_canonicalScore": 0
+      "_canonicalScore": 3
     },
     {
       "id": "advanced-theoretical-physics-program",
@@ -12354,7 +12410,7 @@
       "taxonomyStatus": "canonical",
       "entitySubtype": "Government UAP Records Initiative",
       "_identityKey": "program:name:pursue",
-      "_canonicalScore": 11
+      "_canonicalScore": 14
     },
     {
       "id": "uap-task-force",
@@ -12428,7 +12484,7 @@
       "dateDisplay": "September 14, 2026",
       "eventCategory": "Government protected-disclosure policy",
       "_identityKey": "publication:name:department of war legal waiver for uap disclosures to pursue",
-      "_canonicalScore": 7
+      "_canonicalScore": 10
     },
     {
       "id": "publication-2025-european-uap-barometer-2019-2024",
@@ -12551,6 +12607,18 @@
       "eventCategory": "Foundational UAP publication",
       "_identityKey": "publication:name:passport to magonia",
       "_canonicalScore": 3
+    },
+    {
+      "id": "collection-2026-pursue-release-06",
+      "type": "publication",
+      "name": "PURSUE Release 06 — Declassified and Historical UAP Files",
+      "summary": "The sixth official PURSUE tranche, published September 18, 2026, combining declassified and historical UAP documents and media under a government-hosted provenance container. Publication establishes custody and availability, not authentication of every embedded claim.",
+      "entitySubtype": "Government Records Collection / Declassification Tranche",
+      "date": "2026-09-18",
+      "dateDisplay": "September 18, 2026",
+      "eventCategory": "Government records release",
+      "_identityKey": "publication:name:pursue release 06 declassified and historical uap files",
+      "_canonicalScore": 4
     },
     {
       "id": "sleeping-dog-documentary",
@@ -14934,7 +15002,7 @@
       "name": "Government Transparency",
       "summary": "Public access, congressional oversight, disclosure, and accountability",
       "_identityKey": "topic:name:government transparency",
-      "_canonicalScore": 3
+      "_canonicalScore": 6
     },
     {
       "id": "high-strangeness",
@@ -15348,7 +15416,7 @@
       "summary": "Public release and official acknowledgment of information concerning unidentified anomalous phenomena.",
       "taxonomyStatus": "canonical",
       "_identityKey": "topic:url:weaponizedpodcast.com/episodes-3/episode-85",
-      "_canonicalScore": 1089
+      "_canonicalScore": 1092
     },
     {
       "id": "uap-disclosure-legislation",

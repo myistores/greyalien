@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "entityCount": 1687,
-  "relationshipCount": 3818,
+  "entityCount": 1695,
+  "relationshipCount": 3852,
   "unresolvedRelationshipCount": 56,
   "connectionCounts": {
     "1946-scandinavian-ghost-rockets": {
@@ -1555,9 +1555,9 @@
       "total": 2
     },
     "aaro": {
-      "incoming": 44,
-      "outgoing": 8,
-      "total": 52
+      "incoming": 45,
+      "outgoing": 9,
+      "total": 54
     },
     "aatip": {
       "incoming": 3,
@@ -1565,9 +1565,9 @@
       "total": 6
     },
     "aawsap": {
-      "incoming": 14,
-      "outgoing": 3,
-      "total": 17
+      "incoming": 15,
+      "outgoing": 4,
+      "total": 19
     },
     "abby-white": {
       "incoming": 1,
@@ -4519,6 +4519,41 @@
       "outgoing": 3,
       "total": 4
     },
+    "claim-pursue-release-06-declassified-historical": {
+      "incoming": 1,
+      "outgoing": 1,
+      "total": 2
+    },
+    "claim-pursue-release-06-file-specific-review": {
+      "incoming": 1,
+      "outgoing": 1,
+      "total": 2
+    },
+    "claim-pursue-release-06-next-release": {
+      "incoming": 1,
+      "outgoing": 1,
+      "total": 2
+    },
+    "claim-pursue-release-06-official-custody": {
+      "incoming": 1,
+      "outgoing": 1,
+      "total": 2
+    },
+    "claim-pursue-release-06-publication-not-authentication": {
+      "incoming": 1,
+      "outgoing": 1,
+      "total": 2
+    },
+    "claim-pursue-release-06-rolling-process": {
+      "incoming": 1,
+      "outgoing": 1,
+      "total": 2
+    },
+    "claim-pursue-release-06-sixth-tranche": {
+      "incoming": 1,
+      "outgoing": 1,
+      "total": 2
+    },
     "claim-pursue-waiver-authorized-disclosure-mechanism": {
       "incoming": 1,
       "outgoing": 2,
@@ -5764,6 +5799,11 @@
       "outgoing": 3,
       "total": 4
     },
+    "collection-2026-pursue-release-06": {
+      "incoming": 17,
+      "outgoing": 17,
+      "total": 34
+    },
     "colm-kelleher": {
       "incoming": 5,
       "outgoing": 1,
@@ -5890,14 +5930,14 @@
       "total": 2
     },
     "defense-intelligence-agency": {
-      "incoming": 10,
-      "outgoing": 1,
-      "total": 11
+      "incoming": 11,
+      "outgoing": 2,
+      "total": 13
     },
     "department-of-defense": {
-      "incoming": 54,
-      "outgoing": 4,
-      "total": 58
+      "incoming": 55,
+      "outgoing": 5,
+      "total": 60
     },
     "department-of-energy": {
       "incoming": 2,
@@ -5925,14 +5965,14 @@
       "total": 5
     },
     "document-2026-aaro-nufohrc-sole-source-notice": {
-      "incoming": 6,
-      "outgoing": 9,
-      "total": 15
+      "incoming": 7,
+      "outgoing": 10,
+      "total": 17
     },
     "document-2026-pursue-uap-disclosure-legal-waiver": {
-      "incoming": 17,
-      "outgoing": 17,
-      "total": 34
+      "incoming": 18,
+      "outgoing": 18,
+      "total": 36
     },
     "douglas-kurth": {
       "incoming": 0,
@@ -6130,9 +6170,9 @@
       "total": 0
     },
     "government-transparency": {
-      "incoming": 170,
-      "outgoing": 1,
-      "total": 171
+      "incoming": 171,
+      "outgoing": 2,
+      "total": 173
     },
     "hal-puthoff": {
       "incoming": 3,
@@ -6895,9 +6935,9 @@
       "total": 30
     },
     "pursue": {
-      "incoming": 5,
-      "outgoing": 3,
-      "total": 8
+      "incoming": 6,
+      "outgoing": 4,
+      "total": 10
     },
     "queensland-saucer-nests": {
       "incoming": 1,
@@ -6925,9 +6965,9 @@
       "total": 2
     },
     "record-group-615-uap-records-collection": {
-      "incoming": 5,
-      "outgoing": 5,
-      "total": 10
+      "incoming": 6,
+      "outgoing": 6,
+      "total": 12
     },
     "rendlesham-forest-incident": {
       "incoming": 3,
@@ -8180,9 +8220,9 @@
       "total": 1
     },
     "uap-disclosure": {
-      "incoming": 36,
-      "outgoing": 1,
-      "total": 37
+      "incoming": 37,
+      "outgoing": 2,
+      "total": 39
     },
     "uap-disclosure-act-2023": {
       "incoming": 2,

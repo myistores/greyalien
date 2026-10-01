@@ -10008,6 +10008,15 @@
         }
       },
       {
+        "source": "collection-2026-pursue-release-06",
+        "type": "references_organization",
+        "meta": {
+          "type": "references_organization",
+          "target": "aaro",
+          "role": "related government UAP records and historical-review context"
+        }
+      },
+      {
         "source": "document-2026-aaro-nufohrc-sole-source-notice",
         "type": "references_organization",
         "meta": {
@@ -10196,6 +10205,15 @@
           "type": "affiliated_with",
           "target": "aawsap",
           "role": "Medical and research contributor"
+        }
+      },
+      {
+        "source": "collection-2026-pursue-release-06",
+        "type": "references_organization",
+        "meta": {
+          "type": "references_organization",
+          "target": "aawsap",
+          "role": "program represented in released records"
         }
       },
       {
@@ -13680,6 +13698,76 @@
         }
       }
     ],
+    "claim-pursue-release-06-declassified-historical": [
+      {
+        "source": "collection-2026-pursue-release-06",
+        "type": "contains_claim",
+        "meta": {
+          "type": "contains_claim",
+          "target": "claim-pursue-release-06-declassified-historical"
+        }
+      }
+    ],
+    "claim-pursue-release-06-file-specific-review": [
+      {
+        "source": "collection-2026-pursue-release-06",
+        "type": "contains_claim",
+        "meta": {
+          "type": "contains_claim",
+          "target": "claim-pursue-release-06-file-specific-review"
+        }
+      }
+    ],
+    "claim-pursue-release-06-next-release": [
+      {
+        "source": "collection-2026-pursue-release-06",
+        "type": "contains_claim",
+        "meta": {
+          "type": "contains_claim",
+          "target": "claim-pursue-release-06-next-release"
+        }
+      }
+    ],
+    "claim-pursue-release-06-official-custody": [
+      {
+        "source": "collection-2026-pursue-release-06",
+        "type": "contains_claim",
+        "meta": {
+          "type": "contains_claim",
+          "target": "claim-pursue-release-06-official-custody"
+        }
+      }
+    ],
+    "claim-pursue-release-06-publication-not-authentication": [
+      {
+        "source": "collection-2026-pursue-release-06",
+        "type": "contains_claim",
+        "meta": {
+          "type": "contains_claim",
+          "target": "claim-pursue-release-06-publication-not-authentication"
+        }
+      }
+    ],
+    "claim-pursue-release-06-rolling-process": [
+      {
+        "source": "collection-2026-pursue-release-06",
+        "type": "contains_claim",
+        "meta": {
+          "type": "contains_claim",
+          "target": "claim-pursue-release-06-rolling-process"
+        }
+      }
+    ],
+    "claim-pursue-release-06-sixth-tranche": [
+      {
+        "source": "collection-2026-pursue-release-06",
+        "type": "contains_claim",
+        "meta": {
+          "type": "contains_claim",
+          "target": "claim-pursue-release-06-sixth-tranche"
+        }
+      }
+    ],
     "claim-pursue-waiver-authorized-disclosure-mechanism": [
       {
         "source": "document-2026-pursue-uap-disclosure-legal-waiver",
@@ -14704,6 +14792,161 @@
         "meta": {
           "type": "addresses_topic",
           "target": "cold-computing"
+        }
+      }
+    ],
+    "collection-2026-pursue-release-06": [
+      {
+        "source": "aaro",
+        "type": "references_publication",
+        "meta": {
+          "type": "references_publication",
+          "target": "collection-2026-pursue-release-06",
+          "role": "related historical-review context"
+        }
+      },
+      {
+        "source": "aawsap",
+        "type": "references_publication",
+        "meta": {
+          "type": "references_publication",
+          "target": "collection-2026-pursue-release-06",
+          "role": "released program records"
+        }
+      },
+      {
+        "source": "claim-pursue-release-06-declassified-historical",
+        "type": "references_publication",
+        "meta": {
+          "type": "references_publication",
+          "target": "collection-2026-pursue-release-06",
+          "role": "claim source"
+        }
+      },
+      {
+        "source": "claim-pursue-release-06-file-specific-review",
+        "type": "references_publication",
+        "meta": {
+          "type": "references_publication",
+          "target": "collection-2026-pursue-release-06",
+          "role": "claim source"
+        }
+      },
+      {
+        "source": "claim-pursue-release-06-next-release",
+        "type": "references_publication",
+        "meta": {
+          "type": "references_publication",
+          "target": "collection-2026-pursue-release-06",
+          "role": "claim source"
+        }
+      },
+      {
+        "source": "claim-pursue-release-06-official-custody",
+        "type": "references_publication",
+        "meta": {
+          "type": "references_publication",
+          "target": "collection-2026-pursue-release-06",
+          "role": "claim source"
+        }
+      },
+      {
+        "source": "claim-pursue-release-06-publication-not-authentication",
+        "type": "references_publication",
+        "meta": {
+          "type": "references_publication",
+          "target": "collection-2026-pursue-release-06",
+          "role": "claim source"
+        }
+      },
+      {
+        "source": "claim-pursue-release-06-rolling-process",
+        "type": "references_publication",
+        "meta": {
+          "type": "references_publication",
+          "target": "collection-2026-pursue-release-06",
+          "role": "claim source"
+        }
+      },
+      {
+        "source": "claim-pursue-release-06-sixth-tranche",
+        "type": "references_publication",
+        "meta": {
+          "type": "references_publication",
+          "target": "collection-2026-pursue-release-06",
+          "role": "claim source"
+        }
+      },
+      {
+        "source": "defense-intelligence-agency",
+        "type": "references_publication",
+        "meta": {
+          "type": "references_publication",
+          "target": "collection-2026-pursue-release-06",
+          "role": "AAWSAP source context"
+        }
+      },
+      {
+        "source": "department-of-defense",
+        "type": "produced_document",
+        "meta": {
+          "type": "produced_document",
+          "target": "collection-2026-pursue-release-06",
+          "role": "issuing department"
+        }
+      },
+      {
+        "source": "document-2026-aaro-nufohrc-sole-source-notice",
+        "type": "references_publication",
+        "meta": {
+          "type": "references_publication",
+          "target": "collection-2026-pursue-release-06",
+          "role": "related historical-record integration"
+        }
+      },
+      {
+        "source": "document-2026-pursue-uap-disclosure-legal-waiver",
+        "type": "references_publication",
+        "meta": {
+          "type": "references_publication",
+          "target": "collection-2026-pursue-release-06",
+          "role": "subsequent PURSUE publication event; no file-level causal claim"
+        }
+      },
+      {
+        "source": "government-transparency",
+        "type": "references_publication",
+        "meta": {
+          "type": "references_publication",
+          "target": "collection-2026-pursue-release-06",
+          "role": "official records publication"
+        }
+      },
+      {
+        "source": "pursue",
+        "type": "references_publication",
+        "meta": {
+          "type": "references_publication",
+          "target": "collection-2026-pursue-release-06",
+          "role": "sixth official release tranche"
+        }
+      },
+      {
+        "source": "record-group-615-uap-records-collection",
+        "type": "references_publication",
+        "meta": {
+          "type": "references_publication",
+          "target": "collection-2026-pursue-release-06",
+          "role": "related government UAP archive"
+        }
+      },
+      {
+        "source": "uap-disclosure",
+        "type": "references_publication",
+        "meta": {
+          "type": "references_publication",
+          "target": "collection-2026-pursue-release-06",
+          "role": "official records publication"
         }
       }
     ],
@@ -15784,6 +16027,15 @@
         }
       },
       {
+        "source": "collection-2026-pursue-release-06",
+        "type": "references_organization",
+        "meta": {
+          "type": "references_organization",
+          "target": "defense-intelligence-agency",
+          "role": "source context for AAWSAP materials"
+        }
+      },
+      {
         "source": "james-lacatski",
         "type": "affiliated_with",
         "meta": {
@@ -16114,6 +16366,15 @@
         }
       },
       {
+        "source": "collection-2026-pursue-release-06",
+        "type": "published_by",
+        "meta": {
+          "type": "published_by",
+          "target": "department-of-defense",
+          "role": "issuing department; official release uses Department of War"
+        }
+      },
+      {
         "source": "david-grusch",
         "type": "affiliated_with",
         "meta": {
@@ -16364,6 +16625,15 @@
         }
       },
       {
+        "source": "collection-2026-pursue-release-06",
+        "type": "references_publication",
+        "meta": {
+          "type": "references_publication",
+          "target": "document-2026-aaro-nufohrc-sole-source-notice",
+          "role": "related historical-record integration"
+        }
+      },
+      {
         "source": "document-2026-pursue-uap-disclosure-legal-waiver",
         "type": "references_publication",
         "meta": {
@@ -16453,6 +16723,15 @@
           "type": "references_publication",
           "target": "document-2026-pursue-uap-disclosure-legal-waiver",
           "role": "claim source"
+        }
+      },
+      {
+        "source": "collection-2026-pursue-release-06",
+        "type": "references_publication",
+        "meta": {
+          "type": "references_publication",
+          "target": "document-2026-pursue-uap-disclosure-legal-waiver",
+          "role": "preceding protected-disclosure policy; no file-level causation asserted"
         }
       },
       {
@@ -19614,6 +19893,14 @@
         "type": "concerns",
         "meta": {
           "type": "concerns",
+          "target": "government-transparency"
+        }
+      },
+      {
+        "source": "collection-2026-pursue-release-06",
+        "type": "references_topic",
+        "meta": {
+          "type": "references_topic",
           "target": "government-transparency"
         }
       },
@@ -26862,6 +27149,15 @@
         }
       },
       {
+        "source": "collection-2026-pursue-release-06",
+        "type": "contained_in",
+        "meta": {
+          "type": "contained_in",
+          "target": "pursue",
+          "role": "sixth release tranche"
+        }
+      },
+      {
         "source": "document-2026-pursue-uap-disclosure-legal-waiver",
         "type": "applies_to",
         "meta": {
@@ -26990,6 +27286,15 @@
         "meta": {
           "type": "concerns",
           "target": "record-group-615-uap-records-collection"
+        }
+      },
+      {
+        "source": "collection-2026-pursue-release-06",
+        "type": "references_publication",
+        "meta": {
+          "type": "references_publication",
+          "target": "record-group-615-uap-records-collection",
+          "role": "related federal historical-record collection"
         }
       },
       {
@@ -31130,6 +31435,14 @@
         "type": "discussed_topic",
         "meta": {
           "type": "discussed_topic",
+          "target": "uap-disclosure"
+        }
+      },
+      {
+        "source": "collection-2026-pursue-release-06",
+        "type": "references_topic",
+        "meta": {
+          "type": "references_topic",
           "target": "uap-disclosure"
         }
       },

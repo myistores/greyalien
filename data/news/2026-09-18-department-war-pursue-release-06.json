@@ -1,0 +1,68 @@
+{
+  "id": "2026-09-18-department-war-pursue-release-06",
+  "recordType": "news_record",
+  "contentType": "government_records_release_news",
+  "title": "Department Publishes Sixth PURSUE Release of UAP Files",
+  "source": "U.S. Department of War / PURSUE",
+  "author": "U.S. Department of War",
+  "publicationDate": "2026-09-18",
+  "publicationDateDisplay": "September 18, 2026",
+  "originalUrl": "https://www.war.gov/News/Releases/Release/Article/4604795/department-of-war-publishes-sixth-release-of-unidentified-anomalous-phenomena-f/",
+  "primarySourceUrl": "https://www.war.gov/News/Releases/Release/Article/4604795/department-of-war-publishes-sixth-release-of-unidentified-anomalous-phenomena-f/",
+  "summary": "The Department published the sixth PURSUE tranche of declassified and historical UAP records on WAR.GOV/UFO and said additional releases would continue on a rolling basis. GreyAlien preserves the tranche as an official provenance collection while assessing each embedded file independently.",
+  "dateAdded": "2026-09-30",
+  "newsStatus": "current",
+  "knowledgePermanence": "permanent",
+  "relatedEntityIds": [
+    "collection-2026-pursue-release-06",
+    "pursue",
+    "department-of-defense",
+    "aaro",
+    "aawsap",
+    "defense-intelligence-agency",
+    "document-2026-pursue-uap-disclosure-legal-waiver",
+    "record-group-615-uap-records-collection",
+    "uap-disclosure",
+    "government-transparency",
+    "claim-pursue-release-06-sixth-tranche",
+    "claim-pursue-release-06-declassified-historical",
+    "claim-pursue-release-06-official-custody",
+    "claim-pursue-release-06-rolling-process",
+    "claim-pursue-release-06-next-release",
+    "claim-pursue-release-06-publication-not-authentication",
+    "claim-pursue-release-06-file-specific-review"
+  ],
+  "relationships": [
+    {
+      "type": "references_publication",
+      "target": "collection-2026-pursue-release-06",
+      "role": "permanent government-records collection"
+    },
+    {
+      "type": "references_organization",
+      "target": "department-of-defense",
+      "role": "issuing department"
+    },
+    {
+      "type": "references_organization",
+      "target": "pursue",
+      "role": "release program"
+    }
+  ],
+  "visibility": {
+    "latestGateway": true,
+    "publicEntityDirectory": false,
+    "landmark": false
+  },
+  "lifecycle": {
+    "status": "current",
+    "archiveEligible": true,
+    "automaticAgingEnabled": false,
+    "landmark": false
+  },
+  "editorialNotes": {
+    "sourceHierarchy": "Official Department release and portal are primary.",
+    "authenticationDiscipline": "Publication does not authenticate every embedded assertion.",
+    "lifecyclePrinciple": "News can age; knowledge does not."
+  }
+}
