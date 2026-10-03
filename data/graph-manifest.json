@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "entityCount": 1695,
-  "relationshipCount": 3852,
+  "entityCount": 1706,
+  "relationshipCount": 3884,
   "unresolvedRelationshipCount": 56,
   "connectionCounts": {
     "1946-scandinavian-ghost-rockets": {
@@ -1809,6 +1809,26 @@
       "outgoing": 1,
       "total": 3
     },
+    "claim-2016-call-confirmation-not-program-proof": {
+      "incoming": 1,
+      "outgoing": 1,
+      "total": 2
+    },
+    "claim-2016-call-declassification-discussion": {
+      "incoming": 1,
+      "outgoing": 1,
+      "total": 2
+    },
+    "claim-2016-call-occurred": {
+      "incoming": 1,
+      "outgoing": 1,
+      "total": 2
+    },
+    "claim-2016-call-stigma-discussion": {
+      "incoming": 1,
+      "outgoing": 1,
+      "total": 2
+    },
     "claim-2017-nyt-ufo-report-changed-public-discourse": {
       "incoming": 0,
       "outgoing": 1,
@@ -2363,6 +2383,11 @@
       "incoming": 0,
       "outgoing": 1,
       "total": 1
+    },
+    "claim-grusch-2016-acclimatization-interpretation": {
+      "incoming": 1,
+      "outgoing": 1,
+      "total": 2
     },
     "claim-grusch-assisted-expert-briefings": {
       "incoming": 0,
@@ -4434,6 +4459,11 @@
       "outgoing": 1,
       "total": 1
     },
+    "claim-podesta-disputes-acclimatization-interpretation": {
+      "incoming": 1,
+      "outgoing": 1,
+      "total": 2
+    },
     "claim-potential-uap-witnesses-faced-threats": {
       "incoming": 0,
       "outgoing": 1,
@@ -5901,8 +5931,8 @@
     },
     "david-grusch": {
       "incoming": 19,
-      "outgoing": 9,
-      "total": 28
+      "outgoing": 10,
+      "total": 29
     },
     "david-marler": {
       "incoming": 1,
@@ -5935,9 +5965,9 @@
       "total": 13
     },
     "department-of-defense": {
-      "incoming": 55,
-      "outgoing": 5,
-      "total": 60
+      "incoming": 56,
+      "outgoing": 6,
+      "total": 62
     },
     "department-of-energy": {
       "incoming": 2,
@@ -6069,6 +6099,11 @@
       "outgoing": 4,
       "total": 5
     },
+    "event-2016-podesta-delonge-uap-conference-call": {
+      "incoming": 16,
+      "outgoing": 15,
+      "total": 31
+    },
     "event-2023-house-hearing-held": {
       "incoming": 0,
       "outgoing": 2,
@@ -6170,9 +6205,9 @@
       "total": 0
     },
     "government-transparency": {
-      "incoming": 171,
-      "outgoing": 2,
-      "total": 173
+      "incoming": 172,
+      "outgoing": 3,
+      "total": 175
     },
     "hal-puthoff": {
       "incoming": 3,
@@ -6424,6 +6459,11 @@
       "outgoing": 1,
       "total": 1
     },
+    "john-podesta": {
+      "incoming": 1,
+      "outgoing": 1,
+      "total": 2
+    },
     "john-priestland": {
       "incoming": 1,
       "outgoing": 0,
@@ -6538,6 +6578,11 @@
       "incoming": 4,
       "outgoing": 2,
       "total": 6
+    },
+    "lockheed-martin": {
+      "incoming": 1,
+      "outgoing": 2,
+      "total": 3
     },
     "lord-huron": {
       "incoming": 2,
@@ -6794,6 +6839,11 @@
       "outgoing": 1,
       "total": 78
     },
+    "neil-mccasland": {
+      "incoming": 1,
+      "outgoing": 1,
+      "total": 2
+    },
     "new-paradigm-institute": {
       "incoming": 1,
       "outgoing": 2,
@@ -7017,6 +7067,11 @@
     "robert-salas": {
       "incoming": 0,
       "outgoing": 3,
+      "total": 3
+    },
+    "robert-weiss": {
+      "incoming": 2,
+      "outgoing": 1,
       "total": 3
     },
     "robin-hanson": {
@@ -8170,14 +8225,14 @@
       "total": 1
     },
     "to-the-stars-academy": {
-      "incoming": 6,
-      "outgoing": 3,
-      "total": 9
+      "incoming": 7,
+      "outgoing": 4,
+      "total": 11
     },
     "tom-delonge": {
-      "incoming": 1,
-      "outgoing": 1,
-      "total": 2
+      "incoming": 2,
+      "outgoing": 2,
+      "total": 4
     },
     "transformation-2026": {
       "incoming": 2,
@@ -8220,9 +8275,9 @@
       "total": 1
     },
     "uap-disclosure": {
-      "incoming": 37,
-      "outgoing": 2,
-      "total": 39
+      "incoming": 38,
+      "outgoing": 3,
+      "total": 41
     },
     "uap-disclosure-act-2023": {
       "incoming": 2,

@@ -1,0 +1,29 @@
+{
+  "id": "neil-mccasland",
+  "type": "person",
+  "name": "Neil McCasland",
+  "summary": "Retired U.S. Air Force major general identified as a participant in the 2016 UAP-related conference call confirmed by John Podesta.",
+  "profileStatus": "Retired U.S. Air Force Major General",
+  "profileSummary": "Retired U.S. Air Force major general identified as a participant in the 2016 UAP-related conference call confirmed by John Podesta.",
+  "inclusionNote": "Included because of directly reported participation in the historically documented 2016 conference call.",
+  "destinationPage": true,
+  "visibleInDirectory": true,
+  "searchable": true,
+  "taxonomyStatus": "canonical",
+  "relationships": [
+    {
+      "type": "participated_in",
+      "target": "event-2016-podesta-delonge-uap-conference-call",
+      "role": "conference-call participant"
+    }
+  ],
+  "referenceSources": [
+    {
+      "label": "Paradigm — Podesta responds to Grusch",
+      "url": "https://www.paradigm.news/p/exclusive-podesta-responds-to-gruschs",
+      "sourceType": "direct_interview_reporting",
+      "role": "primary_reference"
+    }
+  ],
+  "officialLinks": []
+}

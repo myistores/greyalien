@@ -1,0 +1,126 @@
+{
+  "id": "event-2016-podesta-delonge-uap-conference-call",
+  "type": "timeline_event",
+  "entitySubtype": "Historical UAP Discussion / Private Conference Call",
+  "name": "2016 Podesta–DeLonge UAP Conference Call",
+  "summary": "A 2016 conference call arranged by Tom DeLonge and involving John Podesta, Neil McCasland and Robert Weiss. Podesta confirms that declassification of Department of Defense files and reduction of professional stigma around UAP were discussed, while disputing David Grusch's later characterization of the interaction as an authorized public-acclimatization operation.",
+  "date": "2016-01",
+  "dateDisplay": "January 2016 (apparent timing in contemporary correspondence; exact call date not independently established)",
+  "eventCategory": "Historical UAP discussion and competing interpretations",
+  "destinationPage": true,
+  "visibleInDirectory": true,
+  "searchable": true,
+  "taxonomyStatus": "canonical",
+  "relationships": [
+    {
+      "type": "involved_person",
+      "target": "tom-delonge",
+      "role": "organizer and participant"
+    },
+    {
+      "type": "involved_person",
+      "target": "john-podesta",
+      "role": "participant"
+    },
+    {
+      "type": "involved_person",
+      "target": "neil-mccasland",
+      "role": "participant"
+    },
+    {
+      "type": "involved_person",
+      "target": "robert-weiss",
+      "role": "participant"
+    },
+    {
+      "type": "references_organization",
+      "target": "department-of-defense",
+      "role": "declassification discussion"
+    },
+    {
+      "type": "references_organization",
+      "target": "lockheed-martin",
+      "role": "Weiss affiliation context"
+    },
+    {
+      "type": "references_organization",
+      "target": "to-the-stars-academy",
+      "role": "later organizational context; the call did not itself create TTSA"
+    },
+    {
+      "type": "references_topic",
+      "target": "uap-disclosure"
+    },
+    {
+      "type": "references_topic",
+      "target": "government-transparency"
+    },
+    {
+      "type": "contains_claim",
+      "target": "claim-2016-call-occurred"
+    },
+    {
+      "type": "contains_claim",
+      "target": "claim-2016-call-declassification-discussion"
+    },
+    {
+      "type": "contains_claim",
+      "target": "claim-2016-call-stigma-discussion"
+    },
+    {
+      "type": "contains_claim",
+      "target": "claim-grusch-2016-acclimatization-interpretation"
+    },
+    {
+      "type": "contains_claim",
+      "target": "claim-podesta-disputes-acclimatization-interpretation"
+    },
+    {
+      "type": "contains_claim",
+      "target": "claim-2016-call-confirmation-not-program-proof"
+    }
+  ],
+  "officialLinks": [],
+  "referenceSources": [
+    {
+      "label": "Paradigm — Podesta responds to Grusch's claims",
+      "url": "https://www.paradigm.news/p/exclusive-podesta-responds-to-gruschs",
+      "sourceType": "direct_interview_reporting",
+      "role": "primary_2026_confirmation"
+    },
+    {
+      "label": "The Guardian — 2016 DeLonge/Podesta correspondence coverage",
+      "url": "https://www.theguardian.com/music/2016/oct/11/blink-182-hillary-clintons-campaign-chief-ufos-tom-delonge-john-podesta",
+      "sourceType": "contemporary_secondary_reporting",
+      "role": "historical_context"
+    },
+    {
+      "label": "Joe Rogan Experience — David Grusch interview",
+      "url": "https://www.youtube.com/watch?v=dYPXINFcvmI",
+      "sourceType": "primary_interview",
+      "role": "grusch_interpretation_source"
+    }
+  ],
+  "historicalEventMetadata": {
+    "eventStatus": "Occurrence and participants confirmed by John Podesta; broader purpose disputed",
+    "organizer": "Tom DeLonge",
+    "participants": [
+      "John Podesta",
+      "Tom DeLonge",
+      "Neil McCasland",
+      "Robert Weiss"
+    ],
+    "confirmedSubjects": [
+      "Potential declassification of Department of Defense files",
+      "Reducing professional stigma around taking UAP seriously"
+    ],
+    "disputedInterpretation": "Government-approved public acclimatization or popularization activity",
+    "relatedNewsId": "2026-10-01-paradigm-podesta-delonge-uap-call"
+  },
+  "editorialNotes": {
+    "eventMeaningSeparation": "Confirmation that the call occurred is not confirmation of Grusch's explanation for why it occurred.",
+    "emailProvenance": "Historical messages establish what their authors wrote; embedded assertions require independent support.",
+    "ttsBoundary": "The event may provide historical context for DeLonge's later organizational activity but is not represented as formally creating To The Stars Academy.",
+    "lifecyclePrinciple": "News can age; knowledge does not."
+  }
+}

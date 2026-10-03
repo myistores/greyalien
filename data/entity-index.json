@@ -1228,6 +1228,14 @@
       "_canonicalScore": 83
     },
     {
+      "id": "claim-2016-call-confirmation-not-program-proof",
+      "type": "claim",
+      "name": "Confirmation of the call does not establish an official acclimatization program",
+      "summary": "The confirmed call and discussion subjects do not independently prove that the interaction formed part of a covert or authorized public-acclimatization operation.",
+      "_identityKey": "claim:name:confirmation of the call does not establish an official acclimatization program",
+      "_canonicalScore": 3
+    },
+    {
       "id": "claim-congress-may-lack-access-to-core-aawsap-records",
       "type": "claim",
       "name": "Congress may lack access to core AAWSAP records",
@@ -1824,6 +1832,14 @@
       "summary": "Government-records work produced information about an additional UAP case from the Department of Defense.",
       "_identityKey": "claim:url:weaponizedpodcast.com/episodes-3/episode-84",
       "_canonicalScore": 86
+    },
+    {
+      "id": "claim-grusch-2016-acclimatization-interpretation",
+      "type": "claim",
+      "name": "Grusch characterizes the 2016 engagement as an authorized acclimatization effort",
+      "summary": "David Grusch attributed DeLonge's access to senior advisers to top cover for an effort to prepare the public before the 2016 election.",
+      "_identityKey": "claim:name:grusch characterizes the 2016 engagement as an authorized acclimatization effort",
+      "_canonicalScore": 6
     },
     {
       "id": "claim-weaponized-30-2",
@@ -2820,6 +2836,22 @@
       "_canonicalScore": 0
     },
     {
+      "id": "claim-2016-call-occurred",
+      "type": "claim",
+      "name": "Podesta confirms the 2016 UAP-related conference call occurred",
+      "summary": "John Podesta says Tom DeLonge arranged a conference call involving Podesta, DeLonge, Neil McCasland and Robert Weiss.",
+      "_identityKey": "claim:name:podesta confirms the 2016 uap related conference call occurred",
+      "_canonicalScore": 3
+    },
+    {
+      "id": "claim-podesta-disputes-acclimatization-interpretation",
+      "type": "claim",
+      "name": "Podesta disputes Grusch's acclimatization characterization",
+      "summary": "Podesta says he would not characterize the interaction as Grusch did and states that he believed the public did not need to be acclimated.",
+      "_identityKey": "claim:name:podesta disputes grusch s acclimatization characterization",
+      "_canonicalScore": 3
+    },
+    {
       "id": "claim-merged-1-2",
       "type": "claim",
       "name": "Potential explanations for UAP may involve biological as well as technological questions that require careful empirical study.",
@@ -3570,6 +3602,22 @@
       "summary": "Claim or editorial framing presented in Need to Know Episode #8.",
       "_identityKey": "claim:name:the books broader lesson is that the phenomenon cannot be assessed solely through recent military videos or isolated incidents",
       "_canonicalScore": 6
+    },
+    {
+      "id": "claim-2016-call-declassification-discussion",
+      "type": "claim",
+      "name": "The call included discussion of declassifying Department of Defense files",
+      "summary": "Podesta recalls that declassifying Department of Defense files was among the subjects discussed.",
+      "_identityKey": "claim:name:the call included discussion of declassifying department of defense files",
+      "_canonicalScore": 3
+    },
+    {
+      "id": "claim-2016-call-stigma-discussion",
+      "type": "claim",
+      "name": "The call included discussion of reducing professional stigma around UAP",
+      "summary": "Podesta recalls discussion of reducing the stigma faced by professionals who take UAP seriously.",
+      "_identityKey": "claim:name:the call included discussion of reducing professional stigma around uap",
+      "_canonicalScore": 3
     },
     {
       "id": "claim-the-case-may-implicate-u-s-custody-of-recovered-evidence",
@@ -7577,6 +7625,18 @@
       "_canonicalScore": 2
     },
     {
+      "id": "lockheed-martin",
+      "type": "organization",
+      "name": "Lockheed Martin",
+      "summary": "U.S. aerospace and defense company; former executive Robert Weiss was identified as a participant in the 2016 UAP-related conference call.",
+      "destinationPage": true,
+      "visibleInDirectory": true,
+      "searchable": true,
+      "taxonomyStatus": "canonical",
+      "_identityKey": "organization:name:lockheed martin",
+      "_canonicalScore": 5
+    },
+    {
       "id": "lord-huron",
       "type": "organization",
       "name": "Lord Huron",
@@ -7763,7 +7823,7 @@
       "name": "To The Stars Academy of Arts & Science",
       "summary": "Public-benefit corporation that brought together former government officials, researchers, and media projects focused on UAP and advanced aerospace topics.",
       "_identityKey": "organization:name:to the stars academy of arts and science",
-      "_canonicalScore": 2
+      "_canonicalScore": 5
     },
     {
       "id": "department-of-defense",
@@ -7772,7 +7832,7 @@
       "summary": "Federal executive department responsible for U.S. national security",
       "taxonomyStatus": "canonical",
       "_identityKey": "organization:name:u s department of defense",
-      "_canonicalScore": 1008
+      "_canonicalScore": 1011
     },
     {
       "id": "department-of-energy",
@@ -8199,7 +8259,7 @@
       "name": "David Grusch",
       "summary": "Former U.S. intelligence officer who testified publicly before Congress in July 2023",
       "_identityKey": "person:name:david grusch",
-      "_canonicalScore": 6
+      "_canonicalScore": 9
     },
     {
       "id": "david-marler",
@@ -8613,6 +8673,18 @@
       "_canonicalScore": 0
     },
     {
+      "id": "john-podesta",
+      "type": "person",
+      "name": "John Podesta",
+      "summary": "Former White House chief of staff and government-transparency advocate who confirmed participating in the 2016 conference call while disputing its characterization as a public-acclimatization operation.",
+      "destinationPage": true,
+      "visibleInDirectory": true,
+      "searchable": true,
+      "taxonomyStatus": "canonical",
+      "_identityKey": "person:name:john podesta",
+      "_canonicalScore": 3
+    },
+    {
       "id": "john-priestland",
       "type": "person",
       "name": "John Priestland",
@@ -8903,6 +8975,18 @@
       "_canonicalScore": 83
     },
     {
+      "id": "neil-mccasland",
+      "type": "person",
+      "name": "Neil McCasland",
+      "summary": "Retired U.S. Air Force major general identified as a participant in the 2016 UAP-related conference call confirmed by John Podesta.",
+      "destinationPage": true,
+      "visibleInDirectory": true,
+      "searchable": true,
+      "taxonomyStatus": "canonical",
+      "_identityKey": "person:name:neil mccasland",
+      "_canonicalScore": 3
+    },
+    {
       "id": "patrick-pj-hughes",
       "type": "person",
       "name": "Patrick “P.J.” Hughes",
@@ -9010,6 +9094,18 @@
       "name": "Robert Salas",
       "summary": "Former U.S. Air Force missile officer who has associated a 1967 missile shutdown with a reported UFO event.",
       "_identityKey": "person:name:robert salas",
+      "_canonicalScore": 3
+    },
+    {
+      "id": "robert-weiss",
+      "type": "person",
+      "name": "Robert Weiss",
+      "summary": "Former Lockheed Martin executive identified as a participant in the 2016 UAP-related conference call confirmed by John Podesta.",
+      "destinationPage": true,
+      "visibleInDirectory": true,
+      "searchable": true,
+      "taxonomyStatus": "canonical",
+      "_identityKey": "person:name:robert weiss",
       "_canonicalScore": 3
     },
     {
@@ -9162,7 +9258,7 @@
       "name": "Tom DeLonge",
       "summary": "Musician and co-founder of To The Stars Academy whose public UAP advocacy and entertainment career are discussed in Need to Know Episode #11.",
       "_identityKey": "person:name:tom delonge",
-      "_canonicalScore": 0
+      "_canonicalScore": 3
     },
     {
       "id": "travis-taylor",
@@ -12772,6 +12868,22 @@
       "_canonicalScore": 5
     },
     {
+      "id": "event-2016-podesta-delonge-uap-conference-call",
+      "type": "timeline_event",
+      "name": "2016 Podesta–DeLonge UAP Conference Call",
+      "summary": "A 2016 conference call arranged by Tom DeLonge and involving John Podesta, Neil McCasland and Robert Weiss. Podesta confirms that declassification of Department of Defense files and reduction of professional stigma around UAP were discussed, while disputing David Grusch's later characterization of the interaction as an authorized public-acclimatization operation.",
+      "destinationPage": true,
+      "visibleInDirectory": true,
+      "searchable": true,
+      "taxonomyStatus": "canonical",
+      "entitySubtype": "Historical UAP Discussion / Private Conference Call",
+      "date": "2016-01",
+      "dateDisplay": "January 2016 (apparent timing in contemporary correspondence; exact call date not independently established)",
+      "eventCategory": "Historical UAP discussion and competing interpretations",
+      "_identityKey": "timeline_event:name:2016 podestadelonge uap conference call",
+      "_canonicalScore": 9
+    },
+    {
       "id": "timeline-2023-10-31-aaro-secure-reporting-mechanism",
       "type": "timeline_event",
       "name": "AARO Launches a Secure UAP Reporting Mechanism",
@@ -15002,7 +15114,7 @@
       "name": "Government Transparency",
       "summary": "Public access, congressional oversight, disclosure, and accountability",
       "_identityKey": "topic:name:government transparency",
-      "_canonicalScore": 6
+      "_canonicalScore": 9
     },
     {
       "id": "high-strangeness",
@@ -15416,7 +15528,7 @@
       "summary": "Public release and official acknowledgment of information concerning unidentified anomalous phenomena.",
       "taxonomyStatus": "canonical",
       "_identityKey": "topic:url:weaponizedpodcast.com/episodes-3/episode-85",
-      "_canonicalScore": 1092
+      "_canonicalScore": 1095
     },
     {
       "id": "uap-disclosure-legislation",

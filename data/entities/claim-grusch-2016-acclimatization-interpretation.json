@@ -1,0 +1,33 @@
+{
+  "id": "claim-grusch-2016-acclimatization-interpretation",
+  "type": "claim",
+  "name": "Grusch characterizes the 2016 engagement as an authorized acclimatization effort",
+  "summary": "David Grusch attributed DeLonge's access to senior advisers to top cover for an effort to prepare the public before the 2016 election.",
+  "relationships": [
+    {
+      "type": "timeline_connection",
+      "target": "event-2016-podesta-delonge-uap-conference-call",
+      "role": "claim subject"
+    }
+  ],
+  "referenceSources": [
+    {
+      "label": "Paradigm — Podesta responds to Grusch",
+      "url": "https://www.paradigm.news/p/exclusive-podesta-responds-to-gruschs",
+      "sourceType": "direct_interview_reporting",
+      "role": "claim_source"
+    },
+    {
+      "label": "Joe Rogan Experience — David Grusch interview",
+      "url": "https://www.youtube.com/watch?v=dYPXINFcvmI",
+      "sourceType": "primary_interview",
+      "role": "attributed_claim_source"
+    }
+  ],
+  "claimMetadata": {
+    "classification": "attributed_witness_interpretation_disputed",
+    "knowledgePermanence": "permanent",
+    "evidenceBoundary": "The event, the speaker's interpretation and the participant's response are represented independently."
+  },
+  "officialLinks": []
+}

@@ -1,0 +1,27 @@
+{
+  "id": "claim-2016-call-occurred",
+  "type": "claim",
+  "name": "Podesta confirms the 2016 UAP-related conference call occurred",
+  "summary": "John Podesta says Tom DeLonge arranged a conference call involving Podesta, DeLonge, Neil McCasland and Robert Weiss.",
+  "relationships": [
+    {
+      "type": "timeline_connection",
+      "target": "event-2016-podesta-delonge-uap-conference-call",
+      "role": "claim subject"
+    }
+  ],
+  "referenceSources": [
+    {
+      "label": "Paradigm — Podesta responds to Grusch",
+      "url": "https://www.paradigm.news/p/exclusive-podesta-responds-to-gruschs",
+      "sourceType": "direct_interview_reporting",
+      "role": "claim_source"
+    }
+  ],
+  "claimMetadata": {
+    "classification": "confirmed_participant_statement",
+    "knowledgePermanence": "permanent",
+    "evidenceBoundary": "The event, the speaker's interpretation and the participant's response are represented independently."
+  },
+  "officialLinks": []
+}

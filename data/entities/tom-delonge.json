@@ -7,8 +7,20 @@
     {
       "type": "affiliated_with",
       "target": "to-the-stars-academy"
+    },
+    {
+      "type": "participated_in",
+      "target": "event-2016-podesta-delonge-uap-conference-call",
+      "role": "organizer and participant"
     }
   ],
   "officialLinks": [],
-  "referenceSources": []
+  "referenceSources": [
+    {
+      "label": "Paradigm — Podesta response to Grusch characterization",
+      "url": "https://www.paradigm.news/p/exclusive-podesta-responds-to-gruschs",
+      "sourceType": "direct_interview_reporting",
+      "role": "connected_event_source"
+    }
+  ]
 }

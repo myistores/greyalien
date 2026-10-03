@@ -1,0 +1,38 @@
+{
+  "id": "lockheed-martin",
+  "type": "organization",
+  "name": "Lockheed Martin",
+  "summary": "U.S. aerospace and defense company; former executive Robert Weiss was identified as a participant in the 2016 UAP-related conference call.",
+  "organizationPurpose": "Aerospace, defense and advanced-technology development.",
+  "destinationPage": true,
+  "visibleInDirectory": true,
+  "searchable": true,
+  "taxonomyStatus": "canonical",
+  "relationships": [
+    {
+      "type": "affiliated_with",
+      "target": "robert-weiss",
+      "role": "former executive; relationship direction retained for repository compatibility"
+    },
+    {
+      "type": "timeline_connection",
+      "target": "event-2016-podesta-delonge-uap-conference-call",
+      "role": "participant affiliation context"
+    }
+  ],
+  "officialLinks": [
+    {
+      "label": "Official website",
+      "url": "https://www.lockheedmartin.com/",
+      "linkType": "official_website"
+    }
+  ],
+  "referenceSources": [
+    {
+      "label": "Paradigm — Podesta responds to Grusch",
+      "url": "https://www.paradigm.news/p/exclusive-podesta-responds-to-gruschs",
+      "sourceType": "direct_interview_reporting",
+      "role": "event_context"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "id": "claim-2016-call-stigma-discussion",
+  "type": "claim",
+  "name": "The call included discussion of reducing professional stigma around UAP",
+  "summary": "Podesta recalls discussion of reducing the stigma faced by professionals who take UAP seriously.",
+  "relationships": [
+    {
+      "type": "timeline_connection",
+      "target": "event-2016-podesta-delonge-uap-conference-call",
+      "role": "claim subject"
+    }
+  ],
+  "referenceSources": [
+    {
+      "label": "Paradigm — Podesta responds to Grusch",
+      "url": "https://www.paradigm.news/p/exclusive-podesta-responds-to-gruschs",
+      "sourceType": "direct_interview_reporting",
+      "role": "claim_source"
+    }
+  ],
+  "claimMetadata": {
+    "classification": "confirmed_discussion_subject",
+    "knowledgePermanence": "permanent",
+    "evidenceBoundary": "The event, the speaker's interpretation and the participant's response are represented independently."
+  },
+  "officialLinks": []
+}

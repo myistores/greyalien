@@ -1,0 +1,27 @@
+{
+  "id": "claim-podesta-disputes-acclimatization-interpretation",
+  "type": "claim",
+  "name": "Podesta disputes Grusch's acclimatization characterization",
+  "summary": "Podesta says he would not characterize the interaction as Grusch did and states that he believed the public did not need to be acclimated.",
+  "relationships": [
+    {
+      "type": "timeline_connection",
+      "target": "event-2016-podesta-delonge-uap-conference-call",
+      "role": "claim subject"
+    }
+  ],
+  "referenceSources": [
+    {
+      "label": "Paradigm — Podesta responds to Grusch",
+      "url": "https://www.paradigm.news/p/exclusive-podesta-responds-to-gruschs",
+      "sourceType": "direct_interview_reporting",
+      "role": "claim_source"
+    }
+  ],
+  "claimMetadata": {
+    "classification": "direct_participant_response",
+    "knowledgePermanence": "permanent",
+    "evidenceBoundary": "The event, the speaker's interpretation and the participant's response are represented independently."
+  },
+  "officialLinks": []
+}

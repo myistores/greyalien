@@ -49,6 +49,11 @@
       "type": "made_claim",
       "target": "claim-weaponized-30-1",
       "context": "Stated that he interviewed more than forty people with claimed firsthand knowledge"
+    },
+    {
+      "type": "made_claim",
+      "target": "event-2016-podesta-delonge-uap-conference-call",
+      "role": "later disputed interpretation"
     }
   ],
   "profileStatus": "Public whistleblower and congressional witness",
@@ -70,6 +75,12 @@
       "url": "https://oversight.house.gov/hearing/unidentified-anomalous-phenomena-implications-on-national-security-public-safety-and-government-transparency/",
       "sourceType": "House Committee on Oversight and Accountability",
       "role": "primary_reference"
+    },
+    {
+      "label": "Paradigm — Podesta response to Grusch characterization",
+      "url": "https://www.paradigm.news/p/exclusive-podesta-responds-to-gruschs",
+      "sourceType": "direct_interview_reporting",
+      "role": "connected_event_source"
     }
   ]
 }

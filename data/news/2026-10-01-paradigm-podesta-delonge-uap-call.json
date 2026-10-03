@@ -1,0 +1,68 @@
+{
+  "id": "2026-10-01-paradigm-podesta-delonge-uap-call",
+  "recordType": "news_record",
+  "contentType": "historical_confirmation_competing_claims_news",
+  "title": "Podesta Confirms 2016 UAP Discussion but Disputes Grusch's ‘Acclimatization’ Interpretation",
+  "source": "Paradigm",
+  "author": "Ben Schreckinger",
+  "publicationDate": "2026-10-01",
+  "publicationDateDisplay": "October 1, 2026",
+  "originalUrl": "https://www.paradigm.news/p/exclusive-podesta-responds-to-gruschs",
+  "primarySourceUrl": "https://www.paradigm.news/p/exclusive-podesta-responds-to-gruschs",
+  "summary": "John Podesta confirmed joining a 2016 conference call arranged by Tom DeLonge with Neil McCasland and Robert Weiss to discuss subjects including Defense Department file declassification and professional stigma around UAP. Podesta disputed David Grusch's characterization of the interaction as an authorized effort to acclimatize the public.",
+  "dateAdded": "2026-10-03",
+  "newsStatus": "current",
+  "knowledgePermanence": "permanent",
+  "relatedEntityIds": [
+    "event-2016-podesta-delonge-uap-conference-call",
+    "john-podesta",
+    "tom-delonge",
+    "neil-mccasland",
+    "robert-weiss",
+    "david-grusch",
+    "to-the-stars-academy",
+    "lockheed-martin",
+    "department-of-defense",
+    "uap-disclosure",
+    "government-transparency",
+    "claim-2016-call-occurred",
+    "claim-2016-call-declassification-discussion",
+    "claim-2016-call-stigma-discussion",
+    "claim-grusch-2016-acclimatization-interpretation",
+    "claim-podesta-disputes-acclimatization-interpretation",
+    "claim-2016-call-confirmation-not-program-proof"
+  ],
+  "relationships": [
+    {
+      "type": "timeline_connection",
+      "target": "event-2016-podesta-delonge-uap-conference-call",
+      "role": "permanent historical record"
+    },
+    {
+      "type": "documented_by",
+      "target": "john-podesta",
+      "role": "direct participant confirmation reported by Paradigm"
+    },
+    {
+      "type": "references_person",
+      "target": "david-grusch",
+      "role": "source of disputed interpretation"
+    }
+  ],
+  "visibility": {
+    "latestGateway": true,
+    "publicEntityDirectory": false,
+    "landmark": false
+  },
+  "lifecycle": {
+    "status": "current",
+    "archiveEligible": true,
+    "automaticAgingEnabled": false,
+    "landmark": false
+  },
+  "editorialNotes": {
+    "sourceHierarchy": "Podesta's on-record response is the direct participant source; Grusch's interview supplies the attributed interpretation; historical correspondence supplies context.",
+    "evidenceBoundary": "The call is confirmed while its alleged acclimatization purpose remains disputed.",
+    "lifecyclePrinciple": "News can age; knowledge does not."
+  }
+}

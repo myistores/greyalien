@@ -13,6 +13,11 @@
       "type": "references_publication",
       "target": "collection-2026-pursue-release-06",
       "role": "official records publication"
+    },
+    {
+      "type": "timeline_connection",
+      "target": "event-2016-podesta-delonge-uap-conference-call",
+      "role": "historical disclosure discussion"
     }
   ],
   "officialLinks": [],
@@ -40,6 +45,12 @@
       "url": "https://www.war.gov/News/Releases/Release/Article/4604795/department-of-war-publishes-sixth-release-of-unidentified-anomalous-phenomena-f/",
       "sourceType": "government_source",
       "role": "connected_release"
+    },
+    {
+      "label": "Paradigm — Podesta response to Grusch characterization",
+      "url": "https://www.paradigm.news/p/exclusive-podesta-responds-to-gruschs",
+      "sourceType": "direct_interview_reporting",
+      "role": "connected_event_source"
     }
   ],
   "taxonomyStatus": "canonical",

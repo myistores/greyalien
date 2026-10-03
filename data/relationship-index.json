@@ -12396,6 +12396,46 @@
         }
       }
     ],
+    "claim-2016-call-confirmation-not-program-proof": [
+      {
+        "source": "event-2016-podesta-delonge-uap-conference-call",
+        "type": "contains_claim",
+        "meta": {
+          "type": "contains_claim",
+          "target": "claim-2016-call-confirmation-not-program-proof"
+        }
+      }
+    ],
+    "claim-2016-call-declassification-discussion": [
+      {
+        "source": "event-2016-podesta-delonge-uap-conference-call",
+        "type": "contains_claim",
+        "meta": {
+          "type": "contains_claim",
+          "target": "claim-2016-call-declassification-discussion"
+        }
+      }
+    ],
+    "claim-2016-call-occurred": [
+      {
+        "source": "event-2016-podesta-delonge-uap-conference-call",
+        "type": "contains_claim",
+        "meta": {
+          "type": "contains_claim",
+          "target": "claim-2016-call-occurred"
+        }
+      }
+    ],
+    "claim-2016-call-stigma-discussion": [
+      {
+        "source": "event-2016-podesta-delonge-uap-conference-call",
+        "type": "contains_claim",
+        "meta": {
+          "type": "contains_claim",
+          "target": "claim-2016-call-stigma-discussion"
+        }
+      }
+    ],
     "claim-2017-nyt-ufo-report-changed-public-discourse": [],
     "claim-2024-uap-disclosure-amendment-failed": [],
     "claim-2024-uap-hearing-left-unresolved-questions": [],
@@ -12939,6 +12979,16 @@
     "claim-foley-sighting-changed-view": [],
     "claim-fravor-added-new-nimitz-details": [],
     "claim-government-held-sensor-records-may-contain-stronger-evidence-than-public-release": [],
+    "claim-grusch-2016-acclimatization-interpretation": [
+      {
+        "source": "event-2016-podesta-delonge-uap-conference-call",
+        "type": "contains_claim",
+        "meta": {
+          "type": "contains_claim",
+          "target": "claim-grusch-2016-acclimatization-interpretation"
+        }
+      }
+    ],
     "claim-grusch-assisted-expert-briefings": [],
     "claim-grusch-burlison-gold-and-roddenberry-advocated-serious-uap-evaluation": [
       {
@@ -13635,6 +13685,16 @@
     ],
     "claim-planned-scif-briefings-did-not-materialize": [],
     "claim-planned-uap-hearing-canceled": [],
+    "claim-podesta-disputes-acclimatization-interpretation": [
+      {
+        "source": "event-2016-podesta-delonge-uap-conference-call",
+        "type": "contains_claim",
+        "meta": {
+          "type": "contains_claim",
+          "target": "claim-podesta-disputes-acclimatization-interpretation"
+        }
+      }
+    ],
     "claim-potential-uap-witnesses-faced-threats": [],
     "claim-potential-witnesses-contacted": [],
     "claim-pr113-kinematic-degeneracy": [
@@ -16401,6 +16461,15 @@
         }
       },
       {
+        "source": "event-2016-podesta-delonge-uap-conference-call",
+        "type": "references_organization",
+        "meta": {
+          "type": "references_organization",
+          "target": "department-of-defense",
+          "role": "declassification discussion"
+        }
+      },
+      {
         "source": "event-2026-03-31-house-requests-uap-videos",
         "type": "event_for",
         "meta": {
@@ -17225,6 +17294,152 @@
           "type": "concerns",
           "target": "european-uap-barometer",
           "role": "current edition"
+        }
+      }
+    ],
+    "event-2016-podesta-delonge-uap-conference-call": [
+      {
+        "source": "claim-2016-call-confirmation-not-program-proof",
+        "type": "timeline_connection",
+        "meta": {
+          "type": "timeline_connection",
+          "target": "event-2016-podesta-delonge-uap-conference-call",
+          "role": "claim subject"
+        }
+      },
+      {
+        "source": "claim-2016-call-declassification-discussion",
+        "type": "timeline_connection",
+        "meta": {
+          "type": "timeline_connection",
+          "target": "event-2016-podesta-delonge-uap-conference-call",
+          "role": "claim subject"
+        }
+      },
+      {
+        "source": "claim-2016-call-occurred",
+        "type": "timeline_connection",
+        "meta": {
+          "type": "timeline_connection",
+          "target": "event-2016-podesta-delonge-uap-conference-call",
+          "role": "claim subject"
+        }
+      },
+      {
+        "source": "claim-2016-call-stigma-discussion",
+        "type": "timeline_connection",
+        "meta": {
+          "type": "timeline_connection",
+          "target": "event-2016-podesta-delonge-uap-conference-call",
+          "role": "claim subject"
+        }
+      },
+      {
+        "source": "claim-grusch-2016-acclimatization-interpretation",
+        "type": "timeline_connection",
+        "meta": {
+          "type": "timeline_connection",
+          "target": "event-2016-podesta-delonge-uap-conference-call",
+          "role": "claim subject"
+        }
+      },
+      {
+        "source": "claim-podesta-disputes-acclimatization-interpretation",
+        "type": "timeline_connection",
+        "meta": {
+          "type": "timeline_connection",
+          "target": "event-2016-podesta-delonge-uap-conference-call",
+          "role": "claim subject"
+        }
+      },
+      {
+        "source": "david-grusch",
+        "type": "made_claim",
+        "meta": {
+          "type": "made_claim",
+          "target": "event-2016-podesta-delonge-uap-conference-call",
+          "role": "later disputed interpretation"
+        }
+      },
+      {
+        "source": "department-of-defense",
+        "type": "timeline_connection",
+        "meta": {
+          "type": "timeline_connection",
+          "target": "event-2016-podesta-delonge-uap-conference-call",
+          "role": "files discussed for possible declassification"
+        }
+      },
+      {
+        "source": "government-transparency",
+        "type": "timeline_connection",
+        "meta": {
+          "type": "timeline_connection",
+          "target": "event-2016-podesta-delonge-uap-conference-call",
+          "role": "declassification and stigma discussion"
+        }
+      },
+      {
+        "source": "john-podesta",
+        "type": "participated_in",
+        "meta": {
+          "type": "participated_in",
+          "target": "event-2016-podesta-delonge-uap-conference-call",
+          "role": "conference-call participant"
+        }
+      },
+      {
+        "source": "lockheed-martin",
+        "type": "timeline_connection",
+        "meta": {
+          "type": "timeline_connection",
+          "target": "event-2016-podesta-delonge-uap-conference-call",
+          "role": "participant affiliation context"
+        }
+      },
+      {
+        "source": "neil-mccasland",
+        "type": "participated_in",
+        "meta": {
+          "type": "participated_in",
+          "target": "event-2016-podesta-delonge-uap-conference-call",
+          "role": "conference-call participant"
+        }
+      },
+      {
+        "source": "robert-weiss",
+        "type": "participated_in",
+        "meta": {
+          "type": "participated_in",
+          "target": "event-2016-podesta-delonge-uap-conference-call",
+          "role": "conference-call participant"
+        }
+      },
+      {
+        "source": "to-the-stars-academy",
+        "type": "timeline_connection",
+        "meta": {
+          "type": "timeline_connection",
+          "target": "event-2016-podesta-delonge-uap-conference-call",
+          "role": "historical precursor context only"
+        }
+      },
+      {
+        "source": "tom-delonge",
+        "type": "participated_in",
+        "meta": {
+          "type": "participated_in",
+          "target": "event-2016-podesta-delonge-uap-conference-call",
+          "role": "organizer and participant"
+        }
+      },
+      {
+        "source": "uap-disclosure",
+        "type": "timeline_connection",
+        "meta": {
+          "type": "timeline_connection",
+          "target": "event-2016-podesta-delonge-uap-conference-call",
+          "role": "historical disclosure discussion"
         }
       }
     ],
@@ -19939,6 +20154,14 @@
       },
       {
         "source": "document-2026-pursue-uap-disclosure-legal-waiver",
+        "type": "references_topic",
+        "meta": {
+          "type": "references_topic",
+          "target": "government-transparency"
+        }
+      },
+      {
+        "source": "event-2016-podesta-delonge-uap-conference-call",
         "type": "references_topic",
         "meta": {
           "type": "references_topic",
@@ -23139,6 +23362,17 @@
       }
     ],
     "john-mack": [],
+    "john-podesta": [
+      {
+        "source": "event-2016-podesta-delonge-uap-conference-call",
+        "type": "involved_person",
+        "meta": {
+          "type": "involved_person",
+          "target": "john-podesta",
+          "role": "participant"
+        }
+      }
+    ],
     "john-priestland": [
       {
         "source": "2025-weaponized-episode-88",
@@ -23459,6 +23693,17 @@
           "type": "affiliated_with",
           "target": "liberation-times",
           "role": "editor and publisher"
+        }
+      }
+    ],
+    "lockheed-martin": [
+      {
+        "source": "event-2016-podesta-delonge-uap-conference-call",
+        "type": "references_organization",
+        "meta": {
+          "type": "references_organization",
+          "target": "lockheed-martin",
+          "role": "Weiss affiliation context"
         }
       }
     ],
@@ -26118,6 +26363,17 @@
         }
       }
     ],
+    "neil-mccasland": [
+      {
+        "source": "event-2016-podesta-delonge-uap-conference-call",
+        "type": "involved_person",
+        "meta": {
+          "type": "involved_person",
+          "target": "neil-mccasland",
+          "role": "participant"
+        }
+      }
+    ],
     "new-paradigm-institute": [
       {
         "source": "daniel-sheehan",
@@ -27590,6 +27846,26 @@
     "robert-jacobs": [],
     "robert-l-hall": [],
     "robert-salas": [],
+    "robert-weiss": [
+      {
+        "source": "event-2016-podesta-delonge-uap-conference-call",
+        "type": "involved_person",
+        "meta": {
+          "type": "involved_person",
+          "target": "robert-weiss",
+          "role": "participant"
+        }
+      },
+      {
+        "source": "lockheed-martin",
+        "type": "affiliated_with",
+        "meta": {
+          "type": "affiliated_with",
+          "target": "robert-weiss",
+          "role": "former executive; relationship direction retained for repository compatibility"
+        }
+      }
+    ],
     "robin-hanson": [
       {
         "source": "2023-merged-episode-9",
@@ -31007,6 +31283,15 @@
         }
       },
       {
+        "source": "event-2016-podesta-delonge-uap-conference-call",
+        "type": "references_organization",
+        "meta": {
+          "type": "references_organization",
+          "target": "to-the-stars-academy",
+          "role": "later organizational context; the call did not itself create TTSA"
+        }
+      },
+      {
         "source": "hal-puthoff",
         "type": "affiliated_with",
         "meta": {
@@ -31051,6 +31336,15 @@
           "type": "features_person",
           "target": "tom-delonge",
           "role": "subject"
+        }
+      },
+      {
+        "source": "event-2016-podesta-delonge-uap-conference-call",
+        "type": "involved_person",
+        "meta": {
+          "type": "involved_person",
+          "target": "tom-delonge",
+          "role": "organizer and participant"
         }
       }
     ],
@@ -31448,6 +31742,14 @@
       },
       {
         "source": "document-2026-pursue-uap-disclosure-legal-waiver",
+        "type": "references_topic",
+        "meta": {
+          "type": "references_topic",
+          "target": "uap-disclosure"
+        }
+      },
+      {
+        "source": "event-2016-podesta-delonge-uap-conference-call",
         "type": "references_topic",
         "meta": {
           "type": "references_topic",

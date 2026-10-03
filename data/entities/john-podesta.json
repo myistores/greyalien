@@ -1,0 +1,29 @@
+{
+  "id": "john-podesta",
+  "type": "person",
+  "name": "John Podesta",
+  "summary": "Former White House chief of staff and government-transparency advocate who confirmed participating in the 2016 conference call while disputing its characterization as a public-acclimatization operation.",
+  "profileStatus": "Former White House Chief of Staff and 2016 Clinton campaign chairman",
+  "profileSummary": "Former White House chief of staff and government-transparency advocate who confirmed participating in the 2016 conference call while disputing its characterization as a public-acclimatization operation.",
+  "inclusionNote": "Included because of directly reported participation in the historically documented 2016 conference call.",
+  "destinationPage": true,
+  "visibleInDirectory": true,
+  "searchable": true,
+  "taxonomyStatus": "canonical",
+  "relationships": [
+    {
+      "type": "participated_in",
+      "target": "event-2016-podesta-delonge-uap-conference-call",
+      "role": "conference-call participant"
+    }
+  ],
+  "referenceSources": [
+    {
+      "label": "Paradigm — Podesta responds to Grusch",
+      "url": "https://www.paradigm.news/p/exclusive-podesta-responds-to-gruschs",
+      "sourceType": "direct_interview_reporting",
+      "role": "primary_reference"
+    }
+  ],
+  "officialLinks": []
+}

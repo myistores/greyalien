@@ -1,0 +1,27 @@
+{
+  "id": "claim-2016-call-confirmation-not-program-proof",
+  "type": "claim",
+  "name": "Confirmation of the call does not establish an official acclimatization program",
+  "summary": "The confirmed call and discussion subjects do not independently prove that the interaction formed part of a covert or authorized public-acclimatization operation.",
+  "relationships": [
+    {
+      "type": "timeline_connection",
+      "target": "event-2016-podesta-delonge-uap-conference-call",
+      "role": "claim subject"
+    }
+  ],
+  "referenceSources": [
+    {
+      "label": "Paradigm — Podesta responds to Grusch",
+      "url": "https://www.paradigm.news/p/exclusive-podesta-responds-to-gruschs",
+      "sourceType": "direct_interview_reporting",
+      "role": "claim_source"
+    }
+  ],
+  "claimMetadata": {
+    "classification": "evidentiary_limitation",
+    "knowledgePermanence": "permanent",
+    "evidenceBoundary": "The event, the speaker's interpretation and the participant's response are represented independently."
+  },
+  "officialLinks": []
+}

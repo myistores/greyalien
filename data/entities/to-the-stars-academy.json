@@ -16,6 +16,11 @@
       "type": "affiliated_with",
       "target": "christopher-mellon",
       "role": "National Security Affairs Advisor"
+    },
+    {
+      "type": "timeline_connection",
+      "target": "event-2016-podesta-delonge-uap-conference-call",
+      "role": "historical precursor context only"
     }
   ],
   "organizationPurpose": "Support research, public communication, and media concerning UAP, advanced aerospace science, and government transparency.",
@@ -27,5 +32,12 @@
       "linkType": "official_website"
     }
   ],
-  "referenceSources": []
+  "referenceSources": [
+    {
+      "label": "Paradigm — Podesta response to Grusch characterization",
+      "url": "https://www.paradigm.news/p/exclusive-podesta-responds-to-gruschs",
+      "sourceType": "direct_interview_reporting",
+      "role": "connected_event_source"
+    }
+  ]
 }
