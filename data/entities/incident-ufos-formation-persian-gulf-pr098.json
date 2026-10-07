@@ -1,0 +1,42 @@
+{
+  "id": "incident-ufos-formation-persian-gulf-pr098",
+  "type": "case",
+  "entitySubtype": "Source-Attributed UAP/USO Incident Label",
+  "name": "‘UFOs in Formation over Persian Gulf?’ — PR098",
+  "summary": "Uploader-defined title for PURSUE record PR098. AARO describes likely infrared imagery from a U.S. military platform in the CENTCOM area and notes an unsubstantiated chain of custody; the title is not an AARO validation of a physical formation.",
+  "destinationPage": true,
+  "visibleInDirectory": true,
+  "searchable": true,
+  "taxonomyStatus": "canonical",
+  "relationships": [
+    {
+      "type": "documented_by",
+      "target": "document-2026-aaro-classified-responsive-uap-uso-records",
+      "role": "one of five FOIA subjects"
+    },
+    {
+      "type": "references_organization",
+      "target": "house-oversight-committee",
+      "role": "March 31, 2026 video-record request"
+    }
+  ],
+  "referenceSources": [
+    {
+      "label": "House Oversight — March 31, 2026 UAP records request",
+      "url": "https://oversight.house.gov/wp-content/uploads/2026/03/UAP-Request-Letter-FINAL.pdf",
+      "sourceType": "primary_government_document",
+      "role": "incident_label_source"
+    },
+    {
+      "label": "The Black Vault — five-case FOIA report",
+      "url": "https://www.theblackvault.com/documentarchive/aaro-says-it-found-records-on-uap-uso-cases-requested-by-congress-withholds-them-in-their-entirety-as-classified/",
+      "sourceType": "requester_reporting",
+      "role": "withholding_context"
+    }
+  ],
+  "evidenceMetadata": {
+    "authenticationStatus": "Source label only; underlying withheld records do not publicly authenticate the reported incident description.",
+    "knowledgePermanence": "permanent"
+  },
+  "officialLinks": []
+}

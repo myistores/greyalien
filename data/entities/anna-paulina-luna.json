@@ -9,8 +9,20 @@
       "target": "2024-01-12-house-uap-scif-briefing",
       "role": "Witness or participant",
       "date": "2024-01-12"
+    },
+    {
+      "type": "references_publication",
+      "target": "document-2026-aaro-classified-responsive-uap-uso-records",
+      "role": "March 2026 congressional request context"
     }
   ],
   "officialLinks": [],
-  "referenceSources": []
+  "referenceSources": [
+    {
+      "label": "The Black Vault — AARO classified responsive-records report",
+      "url": "https://www.theblackvault.com/documentarchive/aaro-says-it-found-records-on-uap-uso-cases-requested-by-congress-withholds-them-in-their-entirety-as-classified/",
+      "sourceType": "investigative_reporting_with_agency_correspondence",
+      "role": "connected_record_source"
+    }
+  ]
 }

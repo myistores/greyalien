@@ -1,0 +1,27 @@
+{
+  "id": "claim-aaro-withheld-five-case-records-in-full",
+  "type": "claim",
+  "name": "AARO withheld the responsive records in their entirety",
+  "summary": "The reported determination withholds the located responsive records in full under the classified national-security provisions of FOIA Exemption (b)(1) and Executive Order 13526.",
+  "relationships": [
+    {
+      "type": "contained_in",
+      "target": "document-2026-aaro-classified-responsive-uap-uso-records",
+      "role": "claim subject"
+    }
+  ],
+  "referenceSources": [
+    {
+      "label": "The Black Vault — AARO FOIA determination report",
+      "url": "https://www.theblackvault.com/documentarchive/aaro-says-it-found-records-on-uap-uso-cases-requested-by-congress-withholds-them-in-their-entirety-as-classified/",
+      "sourceType": "investigative_reporting_with_agency_correspondence",
+      "role": "claim_source"
+    }
+  ],
+  "claimMetadata": {
+    "classification": "agency_withholding_determination",
+    "knowledgePermanence": "permanent",
+    "evidenceBoundary": "Record existence, classification and incident authenticity are separate propositions."
+  },
+  "officialLinks": []
+}

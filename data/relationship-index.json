@@ -10017,6 +10017,14 @@
         }
       },
       {
+        "source": "document-2026-aaro-classified-responsive-uap-uso-records",
+        "type": "published_by",
+        "meta": {
+          "type": "published_by",
+          "target": "aaro"
+        }
+      },
+      {
         "source": "document-2026-aaro-nufohrc-sole-source-notice",
         "type": "references_organization",
         "meta": {
@@ -10482,6 +10490,15 @@
           "target": "anna-paulina-luna",
           "role": "subject",
           "context": "Discussed in the episode"
+        }
+      },
+      {
+        "source": "document-2026-aaro-classified-responsive-uap-uso-records",
+        "type": "references_person",
+        "meta": {
+          "type": "references_person",
+          "target": "anna-paulina-luna",
+          "role": "March 2026 congressional request context"
         }
       }
     ],
@@ -12448,6 +12465,16 @@
     "claim-aaro-assessed-that-some-cases-were-neither-friendly-nor-adversary-technology": [],
     "claim-aaro-identified-roughly-40-to-50-cases-with-bizarre-unexplained-capabilities": [],
     "claim-aaro-jellyfish-explanation-disputed": [],
+    "claim-aaro-located-responsive-records-five-cases": [
+      {
+        "source": "document-2026-aaro-classified-responsive-uap-uso-records",
+        "type": "contains_claim",
+        "meta": {
+          "type": "contains_claim",
+          "target": "claim-aaro-located-responsive-records-five-cases"
+        }
+      }
+    ],
     "claim-aaro-seeks-nufohrc-pre-1990-access": [
       {
         "source": "document-2026-aaro-nufohrc-sole-source-notice",
@@ -12455,6 +12482,16 @@
         "meta": {
           "type": "contains_claim",
           "target": "claim-aaro-seeks-nufohrc-pre-1990-access"
+        }
+      }
+    ],
+    "claim-aaro-withheld-five-case-records-in-full": [
+      {
+        "source": "document-2026-aaro-classified-responsive-uap-uso-records",
+        "type": "contains_claim",
+        "meta": {
+          "type": "contains_claim",
+          "target": "claim-aaro-withheld-five-case-records-in-full"
         }
       }
     ],
@@ -12683,6 +12720,16 @@
     "claim-burlison-believes-significant-uap-information-remains-withheld": [],
     "claim-burlison-completed-a-classified-site-visit-connected-to-uap-oversight": [],
     "claim-capitol-hill-uap-hearing-planning": [],
+    "claim-classification-does-not-establish-record-contents": [
+      {
+        "source": "document-2026-aaro-classified-responsive-uap-uso-records",
+        "type": "contains_claim",
+        "meta": {
+          "type": "contains_claim",
+          "target": "claim-classification-does-not-establish-record-contents"
+        }
+      }
+    ],
     "claim-classified-holdings-include-better-uap-footage-than-the-public-has-seen": [],
     "claim-classified-restrictions-sharply-limit-public-disclosure-by-lawmakers": [],
     "claim-clearance-allegedly-used-as-leverage": [],
@@ -12700,6 +12747,16 @@
       }
     ],
     "claim-congress-continues-secret-program-inquiry": [],
+    "claim-congress-identified-five-uap-uso-cases": [
+      {
+        "source": "document-2026-aaro-classified-responsive-uap-uso-records",
+        "type": "contains_claim",
+        "meta": {
+          "type": "contains_claim",
+          "target": "claim-congress-identified-five-uap-uso-cases"
+        }
+      }
+    ],
     "claim-congress-may-lack-access-to-core-aawsap-records": [],
     "claim-congressional-efforts-to-obtain-concealed-files-will-continue": [],
     "claim-congressional-engagement-remained-central-to-disclosure-efforts": [],
@@ -12979,6 +13036,16 @@
     "claim-foley-sighting-changed-view": [],
     "claim-fravor-added-new-nimitz-details": [],
     "claim-government-held-sensor-records-may-contain-stronger-evidence-than-public-release": [],
+    "claim-greenewald-filed-five-case-aaro-foia": [
+      {
+        "source": "document-2026-aaro-classified-responsive-uap-uso-records",
+        "type": "contains_claim",
+        "meta": {
+          "type": "contains_claim",
+          "target": "claim-greenewald-filed-five-case-aaro-foia"
+        }
+      }
+    ],
     "claim-grusch-2016-acclimatization-interpretation": [
       {
         "source": "event-2016-podesta-delonge-uap-conference-call",
@@ -13900,6 +13967,16 @@
     ],
     "claim-reduced-stigma-encouraged-the-pilot-to-speak-publicly": [],
     "claim-representative-burlison-sought-access-to-highly-restricted-uap-related-sites": [],
+    "claim-responsive-records-do-not-authenticate-incidents": [
+      {
+        "source": "document-2026-aaro-classified-responsive-uap-uso-records",
+        "type": "contains_claim",
+        "meta": {
+          "type": "contains_claim",
+          "target": "claim-responsive-records-do-not-authenticate-incidents"
+        }
+      }
+    ],
     "claim-retaliation-can-occur-without-prosecution": [],
     "claim-retaliation-described-as-systemic": [],
     "claim-roswell-technology-transfer": [
@@ -15384,6 +15461,14 @@
         }
       },
       {
+        "source": "document-2026-aaro-classified-responsive-uap-uso-records",
+        "type": "references_topic",
+        "meta": {
+          "type": "references_topic",
+          "target": "congressional-oversight"
+        }
+      },
+      {
         "source": "immaculate-constellation",
         "type": "associated_topic",
         "meta": {
@@ -16653,6 +16738,197 @@
         "meta": {
           "type": "documented_by",
           "target": "document-2002-10-16-wilson-davis-notes"
+        }
+      }
+    ],
+    "document-2026-aaro-classified-responsive-uap-uso-records": [
+      {
+        "source": "aaro",
+        "type": "produced_document",
+        "meta": {
+          "type": "produced_document",
+          "target": "document-2026-aaro-classified-responsive-uap-uso-records",
+          "role": "FOIA determination"
+        }
+      },
+      {
+        "source": "anna-paulina-luna",
+        "type": "references_publication",
+        "meta": {
+          "type": "references_publication",
+          "target": "document-2026-aaro-classified-responsive-uap-uso-records",
+          "role": "March 2026 congressional request context"
+        }
+      },
+      {
+        "source": "claim-aaro-located-responsive-records-five-cases",
+        "type": "contained_in",
+        "meta": {
+          "type": "contained_in",
+          "target": "document-2026-aaro-classified-responsive-uap-uso-records",
+          "role": "claim subject"
+        }
+      },
+      {
+        "source": "claim-aaro-withheld-five-case-records-in-full",
+        "type": "contained_in",
+        "meta": {
+          "type": "contained_in",
+          "target": "document-2026-aaro-classified-responsive-uap-uso-records",
+          "role": "claim subject"
+        }
+      },
+      {
+        "source": "claim-classification-does-not-establish-record-contents",
+        "type": "contained_in",
+        "meta": {
+          "type": "contained_in",
+          "target": "document-2026-aaro-classified-responsive-uap-uso-records",
+          "role": "claim subject"
+        }
+      },
+      {
+        "source": "claim-congress-identified-five-uap-uso-cases",
+        "type": "contained_in",
+        "meta": {
+          "type": "contained_in",
+          "target": "document-2026-aaro-classified-responsive-uap-uso-records",
+          "role": "claim subject"
+        }
+      },
+      {
+        "source": "claim-greenewald-filed-five-case-aaro-foia",
+        "type": "contained_in",
+        "meta": {
+          "type": "contained_in",
+          "target": "document-2026-aaro-classified-responsive-uap-uso-records",
+          "role": "claim subject"
+        }
+      },
+      {
+        "source": "claim-responsive-records-do-not-authenticate-incidents",
+        "type": "contained_in",
+        "meta": {
+          "type": "contained_in",
+          "target": "document-2026-aaro-classified-responsive-uap-uso-records",
+          "role": "claim subject"
+        }
+      },
+      {
+        "source": "congressional-oversight",
+        "type": "references_publication",
+        "meta": {
+          "type": "references_publication",
+          "target": "document-2026-aaro-classified-responsive-uap-uso-records",
+          "role": "congressional request and later FOIA response"
+        }
+      },
+      {
+        "source": "government-transparency",
+        "type": "references_publication",
+        "meta": {
+          "type": "references_publication",
+          "target": "document-2026-aaro-classified-responsive-uap-uso-records",
+          "role": "classified withholding outcome"
+        }
+      },
+      {
+        "source": "house-oversight-committee",
+        "type": "references_publication",
+        "meta": {
+          "type": "references_publication",
+          "target": "document-2026-aaro-classified-responsive-uap-uso-records",
+          "role": "five incident labels"
+        }
+      },
+      {
+        "source": "incident-cactus-1x-uap-uso-submarine-2022-03-25",
+        "type": "documented_by",
+        "meta": {
+          "type": "documented_by",
+          "target": "document-2026-aaro-classified-responsive-uap-uso-records",
+          "role": "one of five FOIA subjects"
+        }
+      },
+      {
+        "source": "incident-jacker-2x-spherical-uap-over-water",
+        "type": "documented_by",
+        "meta": {
+          "type": "documented_by",
+          "target": "document-2026-aaro-classified-responsive-uap-uso-records",
+          "role": "one of five FOIA subjects"
+        }
+      },
+      {
+        "source": "incident-ufos-formation-persian-gulf-pr098",
+        "type": "documented_by",
+        "meta": {
+          "type": "documented_by",
+          "target": "document-2026-aaro-classified-responsive-uap-uso-records",
+          "role": "one of five FOIA subjects"
+        }
+      },
+      {
+        "source": "incident-uscg-c144-tic-tac-ir-2024-04-24",
+        "type": "documented_by",
+        "meta": {
+          "type": "documented_by",
+          "target": "document-2026-aaro-classified-responsive-uap-uso-records",
+          "role": "one of five FOIA subjects"
+        }
+      },
+      {
+        "source": "incident-wiley-2x-zinc-uap-uso-formation",
+        "type": "documented_by",
+        "meta": {
+          "type": "documented_by",
+          "target": "document-2026-aaro-classified-responsive-uap-uso-records",
+          "role": "one of five FOIA subjects"
+        }
+      },
+      {
+        "source": "john-greenewald-jr",
+        "type": "references_publication",
+        "meta": {
+          "type": "references_publication",
+          "target": "document-2026-aaro-classified-responsive-uap-uso-records",
+          "role": "FOIA requester"
+        }
+      },
+      {
+        "source": "pursue",
+        "type": "references_publication",
+        "meta": {
+          "type": "references_publication",
+          "target": "document-2026-aaro-classified-responsive-uap-uso-records",
+          "role": "public imagery versus withheld context"
+        }
+      },
+      {
+        "source": "the-black-vault",
+        "type": "documented_by",
+        "meta": {
+          "type": "documented_by",
+          "target": "document-2026-aaro-classified-responsive-uap-uso-records",
+          "role": "FOIA determination and records-access context"
+        }
+      },
+      {
+        "source": "uap-disclosure",
+        "type": "references_publication",
+        "meta": {
+          "type": "references_publication",
+          "target": "document-2026-aaro-classified-responsive-uap-uso-records",
+          "role": "records-access pathway"
+        }
+      },
+      {
+        "source": "unidentified-submerged-objects",
+        "type": "references_publication",
+        "meta": {
+          "type": "references_publication",
+          "target": "document-2026-aaro-classified-responsive-uap-uso-records",
+          "role": "source-attributed USO case labels"
         }
       }
     ],
@@ -20153,6 +20429,14 @@
         }
       },
       {
+        "source": "document-2026-aaro-classified-responsive-uap-uso-records",
+        "type": "references_topic",
+        "meta": {
+          "type": "references_topic",
+          "target": "government-transparency"
+        }
+      },
+      {
         "source": "document-2026-pursue-uap-disclosure-legal-waiver",
         "type": "references_topic",
         "meta": {
@@ -20948,11 +21232,65 @@
         }
       },
       {
+        "source": "document-2026-aaro-classified-responsive-uap-uso-records",
+        "type": "references_organization",
+        "meta": {
+          "type": "references_organization",
+          "target": "house-oversight-committee",
+          "role": "congressional records request"
+        }
+      },
+      {
         "source": "event-2026-03-31-house-requests-uap-videos",
         "type": "event_for",
         "meta": {
           "type": "event_for",
           "target": "house-oversight-committee"
+        }
+      },
+      {
+        "source": "incident-cactus-1x-uap-uso-submarine-2022-03-25",
+        "type": "references_organization",
+        "meta": {
+          "type": "references_organization",
+          "target": "house-oversight-committee",
+          "role": "March 31, 2026 video-record request"
+        }
+      },
+      {
+        "source": "incident-jacker-2x-spherical-uap-over-water",
+        "type": "references_organization",
+        "meta": {
+          "type": "references_organization",
+          "target": "house-oversight-committee",
+          "role": "March 31, 2026 video-record request"
+        }
+      },
+      {
+        "source": "incident-ufos-formation-persian-gulf-pr098",
+        "type": "references_organization",
+        "meta": {
+          "type": "references_organization",
+          "target": "house-oversight-committee",
+          "role": "March 31, 2026 video-record request"
+        }
+      },
+      {
+        "source": "incident-uscg-c144-tic-tac-ir-2024-04-24",
+        "type": "references_organization",
+        "meta": {
+          "type": "references_organization",
+          "target": "house-oversight-committee",
+          "role": "March 31, 2026 video-record request"
+        }
+      },
+      {
+        "source": "incident-wiley-2x-zinc-uap-uso-formation",
+        "type": "references_organization",
+        "meta": {
+          "type": "references_organization",
+          "target": "house-oversight-committee",
+          "role": "March 31, 2026 video-record request"
         }
       }
     ],
@@ -21409,6 +21747,56 @@
         "meta": {
           "type": "references_publication",
           "target": "in-plain-sight-ross-coulthart"
+        }
+      }
+    ],
+    "incident-cactus-1x-uap-uso-submarine-2022-03-25": [
+      {
+        "source": "document-2026-aaro-classified-responsive-uap-uso-records",
+        "type": "references_case",
+        "meta": {
+          "type": "references_case",
+          "target": "incident-cactus-1x-uap-uso-submarine-2022-03-25"
+        }
+      }
+    ],
+    "incident-jacker-2x-spherical-uap-over-water": [
+      {
+        "source": "document-2026-aaro-classified-responsive-uap-uso-records",
+        "type": "references_case",
+        "meta": {
+          "type": "references_case",
+          "target": "incident-jacker-2x-spherical-uap-over-water"
+        }
+      }
+    ],
+    "incident-ufos-formation-persian-gulf-pr098": [
+      {
+        "source": "document-2026-aaro-classified-responsive-uap-uso-records",
+        "type": "references_case",
+        "meta": {
+          "type": "references_case",
+          "target": "incident-ufos-formation-persian-gulf-pr098"
+        }
+      }
+    ],
+    "incident-uscg-c144-tic-tac-ir-2024-04-24": [
+      {
+        "source": "document-2026-aaro-classified-responsive-uap-uso-records",
+        "type": "references_case",
+        "meta": {
+          "type": "references_case",
+          "target": "incident-uscg-c144-tic-tac-ir-2024-04-24"
+        }
+      }
+    ],
+    "incident-wiley-2x-zinc-uap-uso-formation": [
+      {
+        "source": "document-2026-aaro-classified-responsive-uap-uso-records",
+        "type": "references_case",
+        "meta": {
+          "type": "references_case",
+          "target": "incident-wiley-2x-zinc-uap-uso-formation"
         }
       }
     ],
@@ -23314,6 +23702,26 @@
       }
     ],
     "john-burroughs": [],
+    "john-greenewald-jr": [
+      {
+        "source": "document-2026-aaro-classified-responsive-uap-uso-records",
+        "type": "involved_person",
+        "meta": {
+          "type": "involved_person",
+          "target": "john-greenewald-jr",
+          "role": "FOIA requester"
+        }
+      },
+      {
+        "source": "the-black-vault",
+        "type": "affiliated_with",
+        "meta": {
+          "type": "affiliated_with",
+          "target": "john-greenewald-jr",
+          "role": "founder"
+        }
+      }
+    ],
     "john-gutierrez": [
       {
         "source": "2023-weaponized-episode-2",
@@ -27414,6 +27822,15 @@
         }
       },
       {
+        "source": "document-2026-aaro-classified-responsive-uap-uso-records",
+        "type": "references_organization",
+        "meta": {
+          "type": "references_organization",
+          "target": "pursue",
+          "role": "withheld contextual records versus public release pathway"
+        }
+      },
+      {
         "source": "document-2026-pursue-uap-disclosure-legal-waiver",
         "type": "applies_to",
         "meta": {
@@ -30769,6 +31186,16 @@
       }
     ],
     "that-ufo-podcast": [],
+    "the-black-vault": [
+      {
+        "source": "document-2026-aaro-classified-responsive-uap-uso-records",
+        "type": "documented_by",
+        "meta": {
+          "type": "documented_by",
+          "target": "the-black-vault"
+        }
+      }
+    ],
     "the-day-after-roswell": [
       {
         "source": "2025-weaponized-episode-87",
@@ -31734,6 +32161,14 @@
       },
       {
         "source": "collection-2026-pursue-release-06",
+        "type": "references_topic",
+        "meta": {
+          "type": "references_topic",
+          "target": "uap-disclosure"
+        }
+      },
+      {
+        "source": "document-2026-aaro-classified-responsive-uap-uso-records",
         "type": "references_topic",
         "meta": {
           "type": "references_topic",
@@ -33380,6 +33815,14 @@
         "type": "discussed_topic",
         "meta": {
           "type": "discussed_topic",
+          "target": "unidentified-submerged-objects"
+        }
+      },
+      {
+        "source": "document-2026-aaro-classified-responsive-uap-uso-records",
+        "type": "references_topic",
+        "meta": {
+          "type": "references_topic",
           "target": "unidentified-submerged-objects"
         }
       },

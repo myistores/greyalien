@@ -219,6 +219,19 @@
       "_canonicalScore": 0
     },
     {
+      "id": "incident-cactus-1x-uap-uso-submarine-2022-03-25",
+      "type": "case",
+      "name": "Cactus 1X UAP/USO Near Submarine — March 25, 2022",
+      "summary": "Source-attributed label describing multiple spherical UAP/USO near a submarine and reportedly entering and exiting water; the description is not independently authenticated by the withheld records.",
+      "destinationPage": true,
+      "visibleInDirectory": true,
+      "searchable": true,
+      "taxonomyStatus": "canonical",
+      "entitySubtype": "Source-Attributed UAP/USO Incident Label",
+      "_identityKey": "case:name:cactus 1x uap uso near submarine march 25 2022",
+      "_canonicalScore": 6
+    },
+    {
       "id": "calvine-ufo",
       "type": "case",
       "name": "Calvine Ufo",
@@ -251,6 +264,19 @@
       "entitySubtype": "historical_case",
       "_identityKey": "case:url:weaponizedpodcast.com/episodes-3/episode-92",
       "_canonicalScore": 86
+    },
+    {
+      "id": "incident-jacker-2x-spherical-uap-over-water",
+      "type": "case",
+      "name": "Jacker 2X Spherical UAP Over Water",
+      "summary": "Source-attributed incident label describing a spherical UAP pulsing over water; the description is not independently authenticated by the withheld records.",
+      "destinationPage": true,
+      "visibleInDirectory": true,
+      "searchable": true,
+      "taxonomyStatus": "canonical",
+      "entitySubtype": "Source-Attributed UAP/USO Incident Label",
+      "_identityKey": "case:name:jacker 2x spherical uap over water",
+      "_canonicalScore": 6
     },
     {
       "id": "kona-blue-program",
@@ -397,6 +423,19 @@
       "_canonicalScore": 0
     },
     {
+      "id": "incident-uscg-c144-tic-tac-ir-2024-04-24",
+      "type": "case",
+      "name": "USCG C-144 ‘Tic Tac’ IR Record — April 24, 2024",
+      "summary": "Source-attributed label for an infrared record associated with a U.S. Coast Guard C-144; the nickname and description do not establish object identity or extraordinary performance.",
+      "destinationPage": true,
+      "visibleInDirectory": true,
+      "searchable": true,
+      "taxonomyStatus": "canonical",
+      "entitySubtype": "Source-Attributed UAP/USO Incident Label",
+      "_identityKey": "case:name:uscg c 144 tic tac ir record april 24 2024",
+      "_canonicalScore": 6
+    },
+    {
       "id": "vandenberg-red-square-uap",
       "type": "case",
       "name": "Vandenberg Red Square UAP Incident",
@@ -416,12 +455,38 @@
       "_canonicalScore": 0
     },
     {
+      "id": "incident-wiley-2x-zinc-uap-uso-formation",
+      "type": "case",
+      "name": "Wiley 2X Zinc UAP/USO Formation",
+      "summary": "Source-attributed incident label appearing in the March 2026 congressional request and Greenewald's five-case FOIA reporting; the label is not an independently authenticated description.",
+      "destinationPage": true,
+      "visibleInDirectory": true,
+      "searchable": true,
+      "taxonomyStatus": "canonical",
+      "entitySubtype": "Source-Attributed UAP/USO Incident Label",
+      "_identityKey": "case:name:wiley 2x zinc uap uso formation",
+      "_canonicalScore": 6
+    },
+    {
       "id": "world-war-ii-foo-fighters",
       "type": "case",
       "name": "World War II Foo Fighter Reports",
       "summary": "Reports by Allied aircrews during World War II describing unexplained luminous objects encountered near military aircraft.",
       "_identityKey": "case:name:world war ii foo fighter reports",
       "_canonicalScore": 0
+    },
+    {
+      "id": "incident-ufos-formation-persian-gulf-pr098",
+      "type": "case",
+      "name": "‘UFOs in Formation over Persian Gulf?’ — PR098",
+      "summary": "Uploader-defined title for PURSUE record PR098. AARO describes likely infrared imagery from a U.S. military platform in the CENTCOM area and notes an unsubstantiated chain of custody; the title is not an AARO validation of a physical formation.",
+      "destinationPage": true,
+      "visibleInDirectory": true,
+      "searchable": true,
+      "taxonomyStatus": "canonical",
+      "entitySubtype": "Source-Attributed UAP/USO Incident Label",
+      "_identityKey": "case:name:ufos in formation over persian gulf pr098",
+      "_canonicalScore": 6
     },
     {
       "id": "claim-2025-produced-new-public-witnesses-and-whistleblowers",
@@ -528,11 +593,27 @@
       "_canonicalScore": 83
     },
     {
+      "id": "claim-aaro-located-responsive-records-five-cases",
+      "type": "claim",
+      "name": "AARO reported locating responsive records for the five-case request",
+      "summary": "AARO's determination in FOIA case 26-F-1892 states that responsive material was located for the request covering five named UAP/USO cases.",
+      "_identityKey": "claim:name:aaro reported locating responsive records for the five case request",
+      "_canonicalScore": 3
+    },
+    {
       "id": "claim-aaro-seeks-nufohrc-pre-1990-access",
       "type": "claim",
       "name": "AARO seeks subscription access to NUFOHRC’s pre-1990 historical records",
       "summary": "A Department of Defense notice states an intent to obtain commercial subscription access for AARO to pre-1990 historical UAP data, metadata and analytical products associated with NUFOHRC.",
       "_identityKey": "claim:name:aaro seeks subscription access to nufohrcs pre 1990 historical records",
+      "_canonicalScore": 3
+    },
+    {
+      "id": "claim-aaro-withheld-five-case-records-in-full",
+      "type": "claim",
+      "name": "AARO withheld the responsive records in their entirety",
+      "summary": "The reported determination withholds the located responsive records in full under the classified national-security provisions of FOIA Exemption (b)(1) and Executive Order 13526.",
+      "_identityKey": "claim:name:aaro withheld the responsive records in their entirety",
       "_canonicalScore": 3
     },
     {
@@ -1187,6 +1268,14 @@
       "_canonicalScore": 83
     },
     {
+      "id": "claim-classification-does-not-establish-record-contents",
+      "type": "claim",
+      "name": "Classification does not establish what the withheld records contain",
+      "summary": "A classification-based withholding identifies an access restriction; it does not establish extraterrestrial origin, extraordinary performance, transmedium travel or any other specific content.",
+      "_identityKey": "claim:name:classification does not establish what the withheld records contain",
+      "_canonicalScore": 3
+    },
+    {
       "id": "claim-classified-holdings-include-better-uap-footage-than-the-public-has-seen",
       "type": "claim",
       "name": "Classified holdings include better UAP footage than the public has seen",
@@ -1233,6 +1322,14 @@
       "name": "Confirmation of the call does not establish an official acclimatization program",
       "summary": "The confirmed call and discussion subjects do not independently prove that the interaction formed part of a covert or authorized public-acclimatization operation.",
       "_identityKey": "claim:name:confirmation of the call does not establish an official acclimatization program",
+      "_canonicalScore": 3
+    },
+    {
+      "id": "claim-congress-identified-five-uap-uso-cases",
+      "type": "claim",
+      "name": "Congress identified the five UAP/USO case labels in a records request",
+      "summary": "The March 31, 2026 House request included the five labels later used in Greenewald's targeted FOIA effort.",
+      "_identityKey": "claim:name:congress identified the five uap uso case labels in a records request",
       "_canonicalScore": 3
     },
     {
@@ -1832,6 +1929,14 @@
       "summary": "Government-records work produced information about an additional UAP case from the Department of Defense.",
       "_identityKey": "claim:url:weaponizedpodcast.com/episodes-3/episode-84",
       "_canonicalScore": 86
+    },
+    {
+      "id": "claim-greenewald-filed-five-case-aaro-foia",
+      "type": "claim",
+      "name": "Greenewald sought AARO context records for five named cases",
+      "summary": "John Greenewald Jr. reports filing a targeted FOIA request for records beyond the already public imagery associated with five named cases.",
+      "_identityKey": "claim:name:greenewald sought aaro context records for five named cases",
+      "_canonicalScore": 3
     },
     {
       "id": "claim-grusch-2016-acclimatization-interpretation",
@@ -3202,6 +3307,14 @@
       "summary": "Claim or editorial framing presented in Need to Know Episode #10.",
       "_identityKey": "claim:name:responsible uap research should prioritize witness welfare and avoid causing additional harm",
       "_canonicalScore": 6
+    },
+    {
+      "id": "claim-responsive-records-do-not-authenticate-incidents",
+      "type": "claim",
+      "name": "Responsive records do not authenticate the incident descriptions",
+      "summary": "The existence of records responsive to a search does not independently verify that the uploader-defined labels, reported motions, object shapes or air-water behavior are accurate.",
+      "_identityKey": "claim:name:responsive records do not authenticate the incident descriptions",
+      "_canonicalScore": 3
     },
     {
       "id": "claim-weaponized-17-1",
@@ -7422,7 +7535,7 @@
       "summary": "Department of Defense office responsible for receiving, analyzing, and resolving reports of unidentified anomalous phenomena across operational domains.",
       "taxonomyStatus": "canonical",
       "_identityKey": "organization:name:all domain anomaly resolution office",
-      "_canonicalScore": 1008
+      "_canonicalScore": 1011
     },
     {
       "id": "americans-for-safe-aerospace",
@@ -7586,7 +7699,7 @@
       "name": "House Committee on Oversight and Accountability",
       "summary": "U.S. House oversight committee",
       "_identityKey": "organization:name:house committee on oversight and accountability",
-      "_canonicalScore": 2
+      "_canonicalScore": 5
     },
     {
       "id": "house-science-astronautics-committee",
@@ -7776,6 +7889,18 @@
       "summary": "Soviet Armed Forces is referenced in WEAPONIZED Episodes #103–#112.",
       "_identityKey": "organization:name:soviet armed forces",
       "_canonicalScore": 0
+    },
+    {
+      "id": "the-black-vault",
+      "type": "organization",
+      "name": "The Black Vault",
+      "summary": "Independent government-document archive founded by John Greenewald Jr., publishing records obtained through the Freedom of Information Act and other public-records processes.",
+      "destinationPage": true,
+      "visibleInDirectory": true,
+      "searchable": true,
+      "taxonomyStatus": "canonical",
+      "_identityKey": "organization:name:the black vault",
+      "_canonicalScore": 5
     },
     {
       "id": "sol-foundation",
@@ -7994,7 +8119,7 @@
       "name": "Anna Paulina Luna",
       "summary": "U.S. Representative from Florida",
       "_identityKey": "person:name:anna paulina luna",
-      "_canonicalScore": 0
+      "_canonicalScore": 3
     },
     {
       "id": "avi-loeb",
@@ -8647,6 +8772,18 @@
       "summary": "Harvard psychiatrist and Pulitzer Prize-winning author who investigated reported alien-abduction experiences and the 1994 Ariel School encounter.",
       "_identityKey": "person:url:weaponizedpodcast.com/episodes-3/episode-69",
       "_canonicalScore": 83
+    },
+    {
+      "id": "john-greenewald-jr",
+      "type": "person",
+      "name": "John Greenewald Jr.",
+      "summary": "Freedom of Information Act researcher and founder of The Black Vault who requested contextual AARO records associated with five congressionally identified UAP/USO incident labels.",
+      "destinationPage": true,
+      "visibleInDirectory": true,
+      "searchable": true,
+      "taxonomyStatus": "canonical",
+      "_identityKey": "person:name:john greenewald jr",
+      "_canonicalScore": 5
     },
     {
       "id": "john-lear",
@@ -12506,7 +12643,7 @@
       "taxonomyStatus": "canonical",
       "entitySubtype": "Government UAP Records Initiative",
       "_identityKey": "program:name:pursue",
-      "_canonicalScore": 14
+      "_canonicalScore": 17
     },
     {
       "id": "uap-task-force",
@@ -12520,6 +12657,19 @@
       "entitySubtype": "Government Program",
       "_identityKey": "program:name:unidentified aerial phenomena task force",
       "_canonicalScore": 2
+    },
+    {
+      "id": "document-2026-aaro-classified-responsive-uap-uso-records",
+      "type": "publication",
+      "name": "AARO FOIA Determination on Five UAP/USO Case Records",
+      "summary": "AARO reported locating records responsive to John Greenewald Jr.'s request concerning five congressionally identified UAP/USO incident labels, then withheld the responsive material in full under classification-related FOIA authority. The determination establishes a records-access outcome, not the authenticity or nature of the underlying incidents.",
+      "destinationPage": true,
+      "visibleInDirectory": true,
+      "searchable": true,
+      "taxonomyStatus": "canonical",
+      "entitySubtype": "Government FOIA Determination / Classified Records Withholding",
+      "_identityKey": "publication:name:aaro foia determination on five uap uso case records",
+      "_canonicalScore": 13
     },
     {
       "id": "publication-1965-anatomy-of-a-phenomenon",
@@ -15033,7 +15183,7 @@
       "name": "Congressional Oversight",
       "summary": "Congressional access, review, and accountability involving executive-branch programs.",
       "_identityKey": "topic:name:congressional oversight",
-      "_canonicalScore": 0
+      "_canonicalScore": 3
     },
     {
       "id": "consciousness",
@@ -15114,7 +15264,7 @@
       "name": "Government Transparency",
       "summary": "Public access, congressional oversight, disclosure, and accountability",
       "_identityKey": "topic:name:government transparency",
-      "_canonicalScore": 9
+      "_canonicalScore": 12
     },
     {
       "id": "high-strangeness",
@@ -15528,7 +15678,7 @@
       "summary": "Public release and official acknowledgment of information concerning unidentified anomalous phenomena.",
       "taxonomyStatus": "canonical",
       "_identityKey": "topic:url:weaponizedpodcast.com/episodes-3/episode-85",
-      "_canonicalScore": 1095
+      "_canonicalScore": 1098
     },
     {
       "id": "uap-disclosure-legislation",
@@ -15626,7 +15776,7 @@
       "name": "Unidentified Submerged Objects",
       "summary": "Reports and research concerning unidentified objects observed in, entering, leaving, or operating around bodies of water.",
       "_identityKey": "topic:url:weaponizedpodcast.com/episodes-2/episode-46",
-      "_canonicalScore": 83
+      "_canonicalScore": 86
     },
     {
       "id": "waste-heat-technosignatures",

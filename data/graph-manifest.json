@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "entityCount": 1706,
-  "relationshipCount": 3884,
+  "entityCount": 1720,
+  "relationshipCount": 3932,
   "unresolvedRelationshipCount": 56,
   "connectionCounts": {
     "1946-scandinavian-ghost-rockets": {
@@ -1555,9 +1555,9 @@
       "total": 2
     },
     "aaro": {
-      "incoming": 45,
-      "outgoing": 9,
-      "total": 54
+      "incoming": 46,
+      "outgoing": 10,
+      "total": 56
     },
     "aatip": {
       "incoming": 3,
@@ -1640,9 +1640,9 @@
       "total": 2
     },
     "anna-paulina-luna": {
-      "incoming": 3,
-      "outgoing": 1,
-      "total": 4
+      "incoming": 4,
+      "outgoing": 2,
+      "total": 6
     },
     "area-51": {
       "incoming": 15,
@@ -1889,10 +1889,20 @@
       "outgoing": 1,
       "total": 1
     },
+    "claim-aaro-located-responsive-records-five-cases": {
+      "incoming": 1,
+      "outgoing": 1,
+      "total": 2
+    },
     "claim-aaro-seeks-nufohrc-pre-1990-access": {
       "incoming": 1,
       "outgoing": 3,
       "total": 4
+    },
+    "claim-aaro-withheld-five-case-records-in-full": {
+      "incoming": 1,
+      "outgoing": 1,
+      "total": 2
     },
     "claim-aaro-withheld-videos-of-its-strongest-unresolved-cases": {
       "incoming": 0,
@@ -2144,6 +2154,11 @@
       "outgoing": 1,
       "total": 1
     },
+    "claim-classification-does-not-establish-record-contents": {
+      "incoming": 1,
+      "outgoing": 1,
+      "total": 2
+    },
     "claim-classified-holdings-include-better-uap-footage-than-the-public-has-seen": {
       "incoming": 0,
       "outgoing": 1,
@@ -2178,6 +2193,11 @@
       "incoming": 0,
       "outgoing": 1,
       "total": 1
+    },
+    "claim-congress-identified-five-uap-uso-cases": {
+      "incoming": 1,
+      "outgoing": 1,
+      "total": 2
     },
     "claim-congress-may-lack-access-to-core-aawsap-records": {
       "incoming": 0,
@@ -2383,6 +2403,11 @@
       "incoming": 0,
       "outgoing": 1,
       "total": 1
+    },
+    "claim-greenewald-filed-five-case-aaro-foia": {
+      "incoming": 1,
+      "outgoing": 1,
+      "total": 2
     },
     "claim-grusch-2016-acclimatization-interpretation": {
       "incoming": 1,
@@ -4629,6 +4654,11 @@
       "outgoing": 1,
       "total": 1
     },
+    "claim-responsive-records-do-not-authenticate-incidents": {
+      "incoming": 1,
+      "outgoing": 1,
+      "total": 2
+    },
     "claim-retaliation-can-occur-without-prosecution": {
       "incoming": 0,
       "outgoing": 1,
@@ -5840,9 +5870,9 @@
       "total": 6
     },
     "congressional-oversight": {
-      "incoming": 47,
-      "outgoing": 0,
-      "total": 47
+      "incoming": 48,
+      "outgoing": 1,
+      "total": 49
     },
     "consciousness": {
       "incoming": 0,
@@ -5993,6 +6023,11 @@
       "incoming": 1,
       "outgoing": 4,
       "total": 5
+    },
+    "document-2026-aaro-classified-responsive-uap-uso-records": {
+      "incoming": 21,
+      "outgoing": 21,
+      "total": 42
     },
     "document-2026-aaro-nufohrc-sole-source-notice": {
       "incoming": 7,
@@ -6205,9 +6240,9 @@
       "total": 0
     },
     "government-transparency": {
-      "incoming": 172,
-      "outgoing": 3,
-      "total": 175
+      "incoming": 173,
+      "outgoing": 4,
+      "total": 177
     },
     "hal-puthoff": {
       "incoming": 3,
@@ -6270,9 +6305,9 @@
       "total": 3
     },
     "house-oversight-committee": {
-      "incoming": 6,
-      "outgoing": 2,
-      "total": 8
+      "incoming": 12,
+      "outgoing": 3,
+      "total": 15
     },
     "house-science-astronautics-committee": {
       "incoming": 1,
@@ -6308,6 +6343,31 @@
       "incoming": 1,
       "outgoing": 1,
       "total": 2
+    },
+    "incident-cactus-1x-uap-uso-submarine-2022-03-25": {
+      "incoming": 1,
+      "outgoing": 2,
+      "total": 3
+    },
+    "incident-jacker-2x-spherical-uap-over-water": {
+      "incoming": 1,
+      "outgoing": 2,
+      "total": 3
+    },
+    "incident-ufos-formation-persian-gulf-pr098": {
+      "incoming": 1,
+      "outgoing": 2,
+      "total": 3
+    },
+    "incident-uscg-c144-tic-tac-ir-2024-04-24": {
+      "incoming": 1,
+      "outgoing": 2,
+      "total": 3
+    },
+    "incident-wiley-2x-zinc-uap-uso-formation": {
+      "incoming": 1,
+      "outgoing": 2,
+      "total": 3
     },
     "instantaneous-acceleration": {
       "incoming": 1,
@@ -6432,6 +6492,11 @@
     "john-burroughs": {
       "incoming": 0,
       "outgoing": 3,
+      "total": 3
+    },
+    "john-greenewald-jr": {
+      "incoming": 2,
+      "outgoing": 1,
       "total": 3
     },
     "john-gutierrez": {
@@ -6985,9 +7050,9 @@
       "total": 30
     },
     "pursue": {
-      "incoming": 6,
-      "outgoing": 4,
-      "total": 10
+      "incoming": 7,
+      "outgoing": 5,
+      "total": 12
     },
     "queensland-saucer-nests": {
       "incoming": 1,
@@ -7273,6 +7338,11 @@
       "incoming": 0,
       "outgoing": 1,
       "total": 1
+    },
+    "the-black-vault": {
+      "incoming": 1,
+      "outgoing": 2,
+      "total": 3
     },
     "the-day-after-roswell": {
       "incoming": 3,
@@ -8275,9 +8345,9 @@
       "total": 1
     },
     "uap-disclosure": {
-      "incoming": 38,
-      "outgoing": 3,
-      "total": 41
+      "incoming": 39,
+      "outgoing": 4,
+      "total": 43
     },
     "uap-disclosure-act-2023": {
       "incoming": 2,
@@ -8375,9 +8445,9 @@
       "total": 1
     },
     "unidentified-submerged-objects": {
-      "incoming": 8,
-      "outgoing": 1,
-      "total": 9
+      "incoming": 9,
+      "outgoing": 2,
+      "total": 11
     },
     "united-states-air-force": {
       "incoming": 23,

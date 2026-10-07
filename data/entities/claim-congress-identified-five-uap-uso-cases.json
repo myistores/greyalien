@@ -1,0 +1,27 @@
+{
+  "id": "claim-congress-identified-five-uap-uso-cases",
+  "type": "claim",
+  "name": "Congress identified the five UAP/USO case labels in a records request",
+  "summary": "The March 31, 2026 House request included the five labels later used in Greenewald's targeted FOIA effort.",
+  "relationships": [
+    {
+      "type": "contained_in",
+      "target": "document-2026-aaro-classified-responsive-uap-uso-records",
+      "role": "claim subject"
+    }
+  ],
+  "referenceSources": [
+    {
+      "label": "The Black Vault — AARO FOIA determination report",
+      "url": "https://www.theblackvault.com/documentarchive/aaro-says-it-found-records-on-uap-uso-cases-requested-by-congress-withholds-them-in-their-entirety-as-classified/",
+      "sourceType": "investigative_reporting_with_agency_correspondence",
+      "role": "claim_source"
+    }
+  ],
+  "claimMetadata": {
+    "classification": "primary_document_fact",
+    "knowledgePermanence": "permanent",
+    "evidenceBoundary": "Record existence, classification and incident authenticity are separate propositions."
+  },
+  "officialLinks": []
+}

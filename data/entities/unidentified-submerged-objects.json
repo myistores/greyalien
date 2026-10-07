@@ -7,6 +7,11 @@
     {
       "type": "broader_topic",
       "target": "uap-research"
+    },
+    {
+      "type": "references_publication",
+      "target": "document-2026-aaro-classified-responsive-uap-uso-records",
+      "role": "source-attributed USO case labels"
     }
   ],
   "officialLinks": [],
@@ -16,6 +21,12 @@
       "url": "https://www.weaponizedpodcast.com/episodes-2/episode-46",
       "sourceType": "official_episode_page",
       "role": "source"
+    },
+    {
+      "label": "The Black Vault — AARO classified responsive-records report",
+      "url": "https://www.theblackvault.com/documentarchive/aaro-says-it-found-records-on-uap-uso-cases-requested-by-congress-withholds-them-in-their-entirety-as-classified/",
+      "sourceType": "investigative_reporting_with_agency_correspondence",
+      "role": "connected_record_source"
     }
   ]
 }

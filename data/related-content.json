@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "generatedBy": "tools/build_related_content.py",
-  "generatedAt": "2026-08-25T14:07:15.541921+00:00",
+  "generatedAt": "2026-10-07T15:53:55.129750+00:00",
   "referencedIn": {
     "1946-scandinavian-ghost-rockets": [
       {
@@ -9491,11 +9491,35 @@
         "context": ""
       },
       {
+        "id": "claim-aaro-seeks-nufohrc-pre-1990-access",
+        "type": "claim",
+        "name": "AARO seeks subscription access to NUFOHRC’s pre-1990 historical records",
+        "relationshipType": "concerns",
+        "role": "",
+        "context": ""
+      },
+      {
         "id": "2025-borland-written-testimony",
         "type": "document",
         "name": "Dylan Borland Written Testimony",
         "relationshipType": "references_organization",
         "role": "",
+        "context": ""
+      },
+      {
+        "id": "document-2026-aaro-nufohrc-sole-source-notice",
+        "type": "document",
+        "name": "Notice of Intent to Sole Source: Historical UAP Data and Analysis Subscription",
+        "relationshipType": "references_organization",
+        "role": "requiring office",
+        "context": ""
+      },
+      {
+        "id": "record-group-615-uap-records-collection",
+        "type": "document",
+        "name": "Record Group 615 — Unidentified Anomalous Phenomena Records Collection",
+        "relationshipType": "references_organization",
+        "role": "related federal historical-review context",
         "context": ""
       },
       {
@@ -9787,6 +9811,30 @@
         "context": ""
       },
       {
+        "id": "document-2026-aaro-classified-responsive-uap-uso-records",
+        "type": "publication",
+        "name": "AARO FOIA Determination on Five UAP/USO Case Records",
+        "relationshipType": "published_by",
+        "role": "",
+        "context": ""
+      },
+      {
+        "id": "document-2026-pursue-uap-disclosure-legal-waiver",
+        "type": "publication",
+        "name": "Department of War Legal Waiver for UAP Disclosures to PURSUE",
+        "relationshipType": "references_organization",
+        "role": "related authorized UAP reporting and historical-review office",
+        "context": ""
+      },
+      {
+        "id": "collection-2026-pursue-release-06",
+        "type": "publication",
+        "name": "PURSUE Release 06 — Declassified and Historical UAP Files",
+        "relationshipType": "references_organization",
+        "role": "related government UAP records and historical-review context",
+        "context": ""
+      },
+      {
         "id": "timeline-2023-10-31-aaro-secure-reporting-mechanism",
         "type": "timeline_event",
         "name": "AARO Launches a Secure UAP Reporting Mechanism",
@@ -9935,6 +9983,14 @@
         "context": ""
       },
       {
+        "id": "collection-2026-pursue-release-06",
+        "type": "publication",
+        "name": "PURSUE Release 06 — Declassified and Historical UAP Files",
+        "relationshipType": "references_organization",
+        "role": "program represented in released records",
+        "context": ""
+      },
+      {
         "id": "timeline-2008-2010-aawsap-puthoff-davis-research",
         "type": "timeline_event",
         "name": "Puthoff and Davis Contribute Technical Research to AAWSAP",
@@ -9979,6 +10035,16 @@
         "relationshipType": "references_organization",
         "role": "",
         "context": "Alexander led the earlier Defense Department UFO inquiry described in the episode"
+      }
+    ],
+    "aerial-phenomena-research-organization": [
+      {
+        "id": "national-ufo-historical-records-center",
+        "type": "organization",
+        "name": "National UFO Historical Records Center",
+        "relationshipType": "references_organization",
+        "role": "preserves legacy collection",
+        "context": "DefenseScoop reports that NUFOHRC took custody of the complete historical files of an early civilian scientific UFO research group; the APRO connection is represented as archive provenance."
       }
     ],
     "alex-dietrich": [
@@ -10089,6 +10155,16 @@
       }
     ],
     "anamaria-berea": [],
+    "andrew-p-v-siemion": [
+      {
+        "id": "publication-2026-micron-scale-technosignatures-lunar-regolith",
+        "type": "publication",
+        "name": "Micron-Scale Technosignatures: How a Cubic Metre of Lunar Regolith May Begin to Constrain the Number of Past Technological Civilisations in the Galaxy",
+        "relationshipType": "references_person",
+        "role": "author",
+        "context": ""
+      }
+    ],
     "andy-mead": [
       {
         "id": "2023-merged-episode-15",
@@ -10133,6 +10209,14 @@
         "relationshipType": "features_person",
         "role": "subject",
         "context": "Discussed in the episode"
+      },
+      {
+        "id": "document-2026-aaro-classified-responsive-uap-uso-records",
+        "type": "publication",
+        "name": "AARO FOIA Determination on Five UAP/USO Case Records",
+        "relationshipType": "references_person",
+        "role": "March 2026 congressional request context",
+        "context": ""
       }
     ],
     "area-51": [
@@ -10675,6 +10759,24 @@
         "context": ""
       }
     ],
+    "beatriz-villarroel": [
+      {
+        "id": "publication-2026-critical-evaluation-poss1e-technosignatures",
+        "type": "publication",
+        "name": "Critical Evaluation of Studies Alleging Evidence for Technosignatures in the POSS1-E Photographic Plates",
+        "relationshipType": "references_person",
+        "role": "researcher whose studies are evaluated",
+        "context": "The paper evaluates studies by Beatriz Villarroel and collaborators using POSS1 plate-derived feature datasets."
+      },
+      {
+        "id": "vasco-project",
+        "type": "research_project",
+        "name": "VASCO Project",
+        "relationshipType": "affiliated_with",
+        "role": "principal investigator / researcher",
+        "context": ""
+      }
+    ],
     "ben-schneider": [
       {
         "id": "2023-weaponized-episode-20",
@@ -10937,6 +11039,16 @@
         "name": "WEAPONIZED Episode #57 — The Colares UFO Attacks and Brazilian Military Files",
         "relationshipType": "references_organization",
         "role": "",
+        "context": ""
+      }
+    ],
+    "brian-c-lacki": [
+      {
+        "id": "publication-2026-micron-scale-technosignatures-lunar-regolith",
+        "type": "publication",
+        "name": "Micron-Scale Technosignatures: How a Cubic Metre of Lunar Regolith May Begin to Constrain the Number of Past Technological Civilisations in the Galaxy",
+        "relationshipType": "references_person",
+        "role": "author",
         "context": ""
       }
     ],
@@ -11775,6 +11887,46 @@
         "context": "Sponsor associated with proposed disclosure legislation"
       }
     ],
+    "claim-2016-call-confirmation-not-program-proof": [
+      {
+        "id": "event-2016-podesta-delonge-uap-conference-call",
+        "type": "timeline_event",
+        "name": "2016 Podesta–DeLonge UAP Conference Call",
+        "relationshipType": "contains_claim",
+        "role": "",
+        "context": ""
+      }
+    ],
+    "claim-2016-call-declassification-discussion": [
+      {
+        "id": "event-2016-podesta-delonge-uap-conference-call",
+        "type": "timeline_event",
+        "name": "2016 Podesta–DeLonge UAP Conference Call",
+        "relationshipType": "contains_claim",
+        "role": "",
+        "context": ""
+      }
+    ],
+    "claim-2016-call-occurred": [
+      {
+        "id": "event-2016-podesta-delonge-uap-conference-call",
+        "type": "timeline_event",
+        "name": "2016 Podesta–DeLonge UAP Conference Call",
+        "relationshipType": "contains_claim",
+        "role": "",
+        "context": ""
+      }
+    ],
+    "claim-2016-call-stigma-discussion": [
+      {
+        "id": "event-2016-podesta-delonge-uap-conference-call",
+        "type": "timeline_event",
+        "name": "2016 Podesta–DeLonge UAP Conference Call",
+        "relationshipType": "contains_claim",
+        "role": "",
+        "context": ""
+      }
+    ],
     "claim-2017-nyt-ufo-report-changed-public-discourse": [],
     "claim-2024-uap-disclosure-amendment-failed": [],
     "claim-2024-uap-hearing-left-unresolved-questions": [],
@@ -11787,6 +11939,36 @@
     "claim-aaro-assessed-that-some-cases-were-neither-friendly-nor-adversary-technology": [],
     "claim-aaro-identified-roughly-40-to-50-cases-with-bizarre-unexplained-capabilities": [],
     "claim-aaro-jellyfish-explanation-disputed": [],
+    "claim-aaro-located-responsive-records-five-cases": [
+      {
+        "id": "document-2026-aaro-classified-responsive-uap-uso-records",
+        "type": "publication",
+        "name": "AARO FOIA Determination on Five UAP/USO Case Records",
+        "relationshipType": "contains_claim",
+        "role": "",
+        "context": ""
+      }
+    ],
+    "claim-aaro-seeks-nufohrc-pre-1990-access": [
+      {
+        "id": "document-2026-aaro-nufohrc-sole-source-notice",
+        "type": "document",
+        "name": "Notice of Intent to Sole Source: Historical UAP Data and Analysis Subscription",
+        "relationshipType": "contains_claim",
+        "role": "",
+        "context": ""
+      }
+    ],
+    "claim-aaro-withheld-five-case-records-in-full": [
+      {
+        "id": "document-2026-aaro-classified-responsive-uap-uso-records",
+        "type": "publication",
+        "name": "AARO FOIA Determination on Five UAP/USO Case Records",
+        "relationshipType": "contains_claim",
+        "role": "",
+        "context": ""
+      }
+    ],
     "claim-aaro-withheld-videos-of-its-strongest-unresolved-cases": [],
     "claim-aawsap-built-a-large-ufo-data-warehouse": [
       {
@@ -11998,6 +12180,16 @@
     "claim-burlison-believes-significant-uap-information-remains-withheld": [],
     "claim-burlison-completed-a-classified-site-visit-connected-to-uap-oversight": [],
     "claim-capitol-hill-uap-hearing-planning": [],
+    "claim-classification-does-not-establish-record-contents": [
+      {
+        "id": "document-2026-aaro-classified-responsive-uap-uso-records",
+        "type": "publication",
+        "name": "AARO FOIA Determination on Five UAP/USO Case Records",
+        "relationshipType": "contains_claim",
+        "role": "",
+        "context": ""
+      }
+    ],
     "claim-classified-holdings-include-better-uap-footage-than-the-public-has-seen": [],
     "claim-classified-restrictions-sharply-limit-public-disclosure-by-lawmakers": [],
     "claim-clearance-allegedly-used-as-leverage": [],
@@ -12014,6 +12206,16 @@
       }
     ],
     "claim-congress-continues-secret-program-inquiry": [],
+    "claim-congress-identified-five-uap-uso-cases": [
+      {
+        "id": "document-2026-aaro-classified-responsive-uap-uso-records",
+        "type": "publication",
+        "name": "AARO FOIA Determination on Five UAP/USO Case Records",
+        "relationshipType": "contains_claim",
+        "role": "",
+        "context": ""
+      }
+    ],
     "claim-congress-may-lack-access-to-core-aawsap-records": [],
     "claim-congressional-efforts-to-obtain-concealed-files-will-continue": [],
     "claim-congressional-engagement-remained-central-to-disclosure-efforts": [],
@@ -12129,6 +12331,16 @@
       }
     ],
     "claim-critiques-of-the-syria-uap-footage-do-not-fully-resolve-the-case": [],
+    "claim-directed-technoparticle-delivery-regime": [
+      {
+        "id": "publication-2026-micron-scale-technosignatures-lunar-regolith",
+        "type": "publication",
+        "name": "Micron-Scale Technosignatures: How a Cubic Metre of Lunar Regolith May Begin to Constrain the Number of Past Technological Civilisations in the Galaxy",
+        "relationshipType": "contains_claim",
+        "role": "",
+        "context": ""
+      }
+    ],
     "claim-disclosure-momentum-has-slowed": [],
     "claim-disclosure-requires-verifiable-evidence": [],
     "claim-disinformation-shapes-public-debate": [],
@@ -12191,6 +12403,56 @@
         "context": "Principal claim discussed in the episode"
       }
     ],
+    "claim-european-barometer-2025-total": [
+      {
+        "id": "publication-2026-european-uap-barometer-2020-2025",
+        "type": "publication",
+        "name": "Updating the European UAP Barometer: Reporting Trends and New Data Sources, 2020–2025",
+        "relationshipType": "contains_claim",
+        "role": "",
+        "context": ""
+      }
+    ],
+    "claim-european-barometer-infrastructure-effect": [
+      {
+        "id": "publication-2026-european-uap-barometer-2020-2025",
+        "type": "publication",
+        "name": "Updating the European UAP Barometer: Reporting Trends and New Data Sources, 2020–2025",
+        "relationshipType": "contains_claim",
+        "role": "",
+        "context": ""
+      }
+    ],
+    "claim-european-barometer-source-nonequivalence": [
+      {
+        "id": "publication-2026-european-uap-barometer-2020-2025",
+        "type": "publication",
+        "name": "Updating the European UAP Barometer: Reporting Trends and New Data Sources, 2020–2025",
+        "relationshipType": "contains_claim",
+        "role": "",
+        "context": ""
+      }
+    ],
+    "claim-european-barometer-uneven-coverage": [
+      {
+        "id": "publication-2026-european-uap-barometer-2020-2025",
+        "type": "publication",
+        "name": "Updating the European UAP Barometer: Reporting Trends and New Data Sources, 2020–2025",
+        "relationshipType": "contains_claim",
+        "role": "",
+        "context": ""
+      }
+    ],
+    "claim-european-barometer-unresolved-outcomes": [
+      {
+        "id": "publication-2026-european-uap-barometer-2020-2025",
+        "type": "publication",
+        "name": "Updating the European UAP Barometer: Reporting Trends and New Data Sources, 2020–2025",
+        "relationshipType": "contains_claim",
+        "role": "",
+        "context": ""
+      }
+    ],
     "claim-excessive-secrecy-stifles-inquiry": [
       {
         "id": "weaponized-matthew-brown-part-3",
@@ -12217,6 +12479,26 @@
     "claim-foley-sighting-changed-view": [],
     "claim-fravor-added-new-nimitz-details": [],
     "claim-government-held-sensor-records-may-contain-stronger-evidence-than-public-release": [],
+    "claim-greenewald-filed-five-case-aaro-foia": [
+      {
+        "id": "document-2026-aaro-classified-responsive-uap-uso-records",
+        "type": "publication",
+        "name": "AARO FOIA Determination on Five UAP/USO Case Records",
+        "relationshipType": "contains_claim",
+        "role": "",
+        "context": ""
+      }
+    ],
+    "claim-grusch-2016-acclimatization-interpretation": [
+      {
+        "id": "event-2016-podesta-delonge-uap-conference-call",
+        "type": "timeline_event",
+        "name": "2016 Podesta–DeLonge UAP Conference Call",
+        "relationshipType": "contains_claim",
+        "role": "",
+        "context": ""
+      }
+    ],
     "claim-grusch-assisted-expert-briefings": [],
     "claim-grusch-burlison-gold-and-roddenberry-advocated-serious-uap-evaluation": [
       {
@@ -12394,6 +12676,26 @@
     "claim-legislative-protections-sought": [],
     "claim-logan-assesses-the-syria-footage-as-meeting-uap-parameters": [],
     "claim-logan-reports-a-1990-diamond-shaped-sighting-resembling-the-calvine-object": [],
+    "claim-lunar-regolith-technosignature-preservation": [
+      {
+        "id": "publication-2026-micron-scale-technosignatures-lunar-regolith",
+        "type": "publication",
+        "name": "Micron-Scale Technosignatures: How a Cubic Metre of Lunar Regolith May Begin to Constrain the Number of Past Technological Civilisations in the Galaxy",
+        "relationshipType": "contains_claim",
+        "role": "",
+        "context": ""
+      }
+    ],
+    "claim-lunar-technosignature-null-result-constraint": [
+      {
+        "id": "publication-2026-micron-scale-technosignatures-lunar-regolith",
+        "type": "publication",
+        "name": "Micron-Scale Technosignatures: How a Cubic Metre of Lunar Regolith May Begin to Constrain the Number of Past Technological Civilisations in the Galaxy",
+        "relationshipType": "contains_claim",
+        "role": "",
+        "context": ""
+      }
+    ],
     "claim-mack-investigated-ariel-school-witnesses": [],
     "claim-mainstream-research-groups-avoid-cross-category-cases": [],
     "claim-maritime-forces-have-collected-uso-observations": [],
@@ -12477,6 +12779,16 @@
     "claim-merged-9-2": [],
     "claim-merged-9-3": [],
     "claim-merged-9-4": [],
+    "claim-micron-grain-interstellar-transport-feasibility": [
+      {
+        "id": "publication-2026-micron-scale-technosignatures-lunar-regolith",
+        "type": "publication",
+        "name": "Micron-Scale Technosignatures: How a Cubic Metre of Lunar Regolith May Begin to Constrain the Number of Past Technological Civilisations in the Galaxy",
+        "relationshipType": "contains_claim",
+        "role": "",
+        "context": ""
+      }
+    ],
     "claim-military-hazing-explanation-challenged": [],
     "claim-military-labeled-disc-uap": [],
     "claim-military-secured-crash-area-quickly": [],
@@ -12488,6 +12800,16 @@
     "claim-mosul-orb-recorded-2016": [],
     "claim-mosul-orb-unidentified": [],
     "claim-multi-agency-ocean-technology-operation": [],
+    "claim-multimodal-technograin-screening": [
+      {
+        "id": "publication-2026-micron-scale-technosignatures-lunar-regolith",
+        "type": "publication",
+        "name": "Micron-Scale Technosignatures: How a Cubic Metre of Lunar Regolith May Begin to Constrain the Number of Past Technological Civilisations in the Galaxy",
+        "relationshipType": "contains_claim",
+        "role": "",
+        "context": ""
+      }
+    ],
     "claim-mystery-drone-incursions-remained-major-2024-story": [],
     "claim-mystery-drone-wave-remains-unresolved": [],
     "claim-nasa-archives-may-support-uap-research": [],
@@ -12779,6 +13101,36 @@
       }
     ],
     "claim-nimitz-two-week-sensor-detections": [],
+    "claim-no-lunar-technosignature-detection": [
+      {
+        "id": "publication-2026-micron-scale-technosignatures-lunar-regolith",
+        "type": "publication",
+        "name": "Micron-Scale Technosignatures: How a Cubic Metre of Lunar Regolith May Begin to Constrain the Number of Past Technological Civilisations in the Galaxy",
+        "relationshipType": "contains_claim",
+        "role": "",
+        "context": ""
+      }
+    ],
+    "claim-no-slysh-halo-detection": [
+      {
+        "id": "publication-2026-slysh-haloes-cold-computing-technosignature",
+        "type": "publication",
+        "name": "Slysh haloes: the waste heat of cold computing as a submillimetre technosignature",
+        "relationshipType": "contains_claim",
+        "role": "",
+        "context": ""
+      }
+    ],
+    "claim-nufohrc-sole-source-justification": [
+      {
+        "id": "document-2026-aaro-nufohrc-sole-source-notice",
+        "type": "document",
+        "name": "Notice of Intent to Sole Source: Historical UAP Data and Analysis Subscription",
+        "relationshipType": "contains_claim",
+        "role": "",
+        "context": ""
+      }
+    ],
     "claim-nyt-ufo-report-faced-internal-resistance": [],
     "claim-object-crashed-near-area-51": [],
     "claim-official-investigations-faced-internal-opposition": [],
@@ -12825,10 +13177,50 @@
     ],
     "claim-planned-scif-briefings-did-not-materialize": [],
     "claim-planned-uap-hearing-canceled": [],
+    "claim-podesta-disputes-acclimatization-interpretation": [
+      {
+        "id": "event-2016-podesta-delonge-uap-conference-call",
+        "type": "timeline_event",
+        "name": "2016 Podesta–DeLonge UAP Conference Call",
+        "relationshipType": "contains_claim",
+        "role": "",
+        "context": ""
+      }
+    ],
     "claim-potential-uap-witnesses-faced-threats": [],
     "claim-potential-witnesses-contacted": [],
+    "claim-pr113-kinematic-degeneracy": [
+      {
+        "id": "publication-2026-limits-velocity-recovery-pursue",
+        "type": "publication",
+        "name": "Limits on Velocity Recovery from the PURSUE Sensor Videos",
+        "relationshipType": "contains_claim",
+        "role": "",
+        "context": ""
+      }
+    ],
+    "claim-pr149-relative-velocity-bound": [
+      {
+        "id": "publication-2026-limits-velocity-recovery-pursue",
+        "type": "publication",
+        "name": "Limits on Velocity Recovery from the PURSUE Sensor Videos",
+        "relationshipType": "contains_claim",
+        "role": "",
+        "context": ""
+      }
+    ],
     "claim-presidential-action-could-bypass-stalled-process": [],
     "claim-previously-restricted-uap-imagery-entered-public-discussion": [],
+    "claim-private-archives-preserve-historical-context": [
+      {
+        "id": "document-2026-aaro-nufohrc-sole-source-notice",
+        "type": "document",
+        "name": "Notice of Intent to Sole Source: Historical UAP Data and Analysis Subscription",
+        "relationshipType": "contains_claim",
+        "role": "",
+        "context": ""
+      }
+    ],
     "claim-private-competition-crash-materials": [],
     "claim-program-access-highly-restricted": [],
     "claim-progress-requires-better-data-and-open-inquiry": [],
@@ -12847,8 +13239,168 @@
     ],
     "claim-public-reaction-largely-positive": [],
     "claim-public-record-still-supports-continued-inquiry": [],
+    "claim-pursue-corpus-insufficient-kinematics": [
+      {
+        "id": "publication-2026-limits-velocity-recovery-pursue",
+        "type": "publication",
+        "name": "Limits on Velocity Recovery from the PURSUE Sensor Videos",
+        "relationshipType": "contains_claim",
+        "role": "",
+        "context": ""
+      }
+    ],
+    "claim-pursue-release-06-declassified-historical": [
+      {
+        "id": "collection-2026-pursue-release-06",
+        "type": "publication",
+        "name": "PURSUE Release 06 — Declassified and Historical UAP Files",
+        "relationshipType": "contains_claim",
+        "role": "",
+        "context": ""
+      }
+    ],
+    "claim-pursue-release-06-file-specific-review": [
+      {
+        "id": "collection-2026-pursue-release-06",
+        "type": "publication",
+        "name": "PURSUE Release 06 — Declassified and Historical UAP Files",
+        "relationshipType": "contains_claim",
+        "role": "",
+        "context": ""
+      }
+    ],
+    "claim-pursue-release-06-next-release": [
+      {
+        "id": "collection-2026-pursue-release-06",
+        "type": "publication",
+        "name": "PURSUE Release 06 — Declassified and Historical UAP Files",
+        "relationshipType": "contains_claim",
+        "role": "",
+        "context": ""
+      }
+    ],
+    "claim-pursue-release-06-official-custody": [
+      {
+        "id": "collection-2026-pursue-release-06",
+        "type": "publication",
+        "name": "PURSUE Release 06 — Declassified and Historical UAP Files",
+        "relationshipType": "contains_claim",
+        "role": "",
+        "context": ""
+      }
+    ],
+    "claim-pursue-release-06-publication-not-authentication": [
+      {
+        "id": "collection-2026-pursue-release-06",
+        "type": "publication",
+        "name": "PURSUE Release 06 — Declassified and Historical UAP Files",
+        "relationshipType": "contains_claim",
+        "role": "",
+        "context": ""
+      }
+    ],
+    "claim-pursue-release-06-rolling-process": [
+      {
+        "id": "collection-2026-pursue-release-06",
+        "type": "publication",
+        "name": "PURSUE Release 06 — Declassified and Historical UAP Files",
+        "relationshipType": "contains_claim",
+        "role": "",
+        "context": ""
+      }
+    ],
+    "claim-pursue-release-06-sixth-tranche": [
+      {
+        "id": "collection-2026-pursue-release-06",
+        "type": "publication",
+        "name": "PURSUE Release 06 — Declassified and Historical UAP Files",
+        "relationshipType": "contains_claim",
+        "role": "",
+        "context": ""
+      }
+    ],
+    "claim-pursue-waiver-authorized-disclosure-mechanism": [
+      {
+        "id": "document-2026-pursue-uap-disclosure-legal-waiver",
+        "type": "publication",
+        "name": "Department of War Legal Waiver for UAP Disclosures to PURSUE",
+        "relationshipType": "contains_claim",
+        "role": "",
+        "context": ""
+      }
+    ],
+    "claim-pursue-waiver-channel-limitation": [
+      {
+        "id": "document-2026-pursue-uap-disclosure-legal-waiver",
+        "type": "publication",
+        "name": "Department of War Legal Waiver for UAP Disclosures to PURSUE",
+        "relationshipType": "contains_claim",
+        "role": "",
+        "context": ""
+      }
+    ],
+    "claim-pursue-waiver-nda-protection": [
+      {
+        "id": "document-2026-pursue-uap-disclosure-legal-waiver",
+        "type": "publication",
+        "name": "Department of War Legal Waiver for UAP Disclosures to PURSUE",
+        "relationshipType": "contains_claim",
+        "role": "",
+        "context": ""
+      }
+    ],
+    "claim-pursue-waiver-no-automatic-declassification": [
+      {
+        "id": "document-2026-pursue-uap-disclosure-legal-waiver",
+        "type": "publication",
+        "name": "Department of War Legal Waiver for UAP Disclosures to PURSUE",
+        "relationshipType": "contains_claim",
+        "role": "",
+        "context": ""
+      }
+    ],
+    "claim-pursue-waiver-no-public-disclosure-authority": [
+      {
+        "id": "document-2026-pursue-uap-disclosure-legal-waiver",
+        "type": "publication",
+        "name": "Department of War Legal Waiver for UAP Disclosures to PURSUE",
+        "relationshipType": "contains_claim",
+        "role": "",
+        "context": ""
+      }
+    ],
+    "claim-pursue-waiver-review-potential-release": [
+      {
+        "id": "document-2026-pursue-uap-disclosure-legal-waiver",
+        "type": "publication",
+        "name": "Department of War Legal Waiver for UAP Disclosures to PURSUE",
+        "relationshipType": "contains_claim",
+        "role": "",
+        "context": ""
+      }
+    ],
+    "claim-pursue-waiver-sapia-protection": [
+      {
+        "id": "document-2026-pursue-uap-disclosure-legal-waiver",
+        "type": "publication",
+        "name": "Department of War Legal Waiver for UAP Disclosures to PURSUE",
+        "relationshipType": "contains_claim",
+        "role": "",
+        "context": ""
+      }
+    ],
     "claim-reduced-stigma-encouraged-the-pilot-to-speak-publicly": [],
     "claim-representative-burlison-sought-access-to-highly-restricted-uap-related-sites": [],
+    "claim-responsive-records-do-not-authenticate-incidents": [
+      {
+        "id": "document-2026-aaro-classified-responsive-uap-uso-records",
+        "type": "publication",
+        "name": "AARO FOIA Determination on Five UAP/USO Case Records",
+        "relationshipType": "contains_claim",
+        "role": "",
+        "context": ""
+      }
+    ],
     "claim-retaliation-can-occur-without-prosecution": [],
     "claim-retaliation-described-as-systemic": [],
     "claim-roswell-technology-transfer": [
@@ -13085,6 +13637,66 @@
         "context": "Principal claim discussed in the episode"
       }
     ],
+    "claim-slysh-archival-survey-constraints": [
+      {
+        "id": "publication-2026-slysh-haloes-cold-computing-technosignature",
+        "type": "publication",
+        "name": "Slysh haloes: the waste heat of cold computing as a submillimetre technosignature",
+        "relationshipType": "contains_claim",
+        "role": "",
+        "context": ""
+      }
+    ],
+    "claim-slysh-landauer-cold-computation": [
+      {
+        "id": "publication-2026-slysh-haloes-cold-computing-technosignature",
+        "type": "publication",
+        "name": "Slysh haloes: the waste heat of cold computing as a submillimetre technosignature",
+        "relationshipType": "contains_claim",
+        "role": "",
+        "context": ""
+      }
+    ],
+    "claim-slysh-m-dwarf-suitability": [
+      {
+        "id": "publication-2026-slysh-haloes-cold-computing-technosignature",
+        "type": "publication",
+        "name": "Slysh haloes: the waste heat of cold computing as a submillimetre technosignature",
+        "relationshipType": "contains_claim",
+        "role": "",
+        "context": ""
+      }
+    ],
+    "claim-slysh-natural-source-degeneracy": [
+      {
+        "id": "publication-2026-slysh-haloes-cold-computing-technosignature",
+        "type": "publication",
+        "name": "Slysh haloes: the waste heat of cold computing as a submillimetre technosignature",
+        "relationshipType": "contains_claim",
+        "role": "",
+        "context": ""
+      }
+    ],
+    "claim-slysh-null-result-value": [
+      {
+        "id": "publication-2026-slysh-haloes-cold-computing-technosignature",
+        "type": "publication",
+        "name": "Slysh haloes: the waste heat of cold computing as a submillimetre technosignature",
+        "relationshipType": "contains_claim",
+        "role": "",
+        "context": ""
+      }
+    ],
+    "claim-slysh-submillimetre-signature": [
+      {
+        "id": "publication-2026-slysh-haloes-cold-computing-technosignature",
+        "type": "publication",
+        "name": "Slysh haloes: the waste heat of cold computing as a submillimetre technosignature",
+        "relationshipType": "contains_claim",
+        "role": "",
+        "context": ""
+      }
+    ],
     "claim-some-objects-appeared-to-manage-their-signatures-near-sensitive-sites": [],
     "claim-some-promoters-have-previously-fabricated-evidence": [],
     "claim-some-uso-reports-describe-transmedium-performance": [],
@@ -13240,6 +13852,34 @@
     "claim-vandenberg-red-square-blotter-released": [],
     "claim-vandenberg-security-personnel-investigated-multiple-incursions": [],
     "claim-vandenberg-witness-reported-large-red-object": [],
+    "claim-vasco-transients-nuclear-test-correlation": [
+      {
+        "id": "claim-watters-vasco-methodological-challenge",
+        "type": "claim",
+        "name": "Methodological and statistical issues weaken the reported VASCO nuclear-test correlation",
+        "relationshipType": "references_claim",
+        "role": "challenges",
+        "context": ""
+      },
+      {
+        "id": "publication-2026-critical-evaluation-poss1e-technosignatures",
+        "type": "publication",
+        "name": "Critical Evaluation of Studies Alleging Evidence for Technosignatures in the POSS1-E Photographic Plates",
+        "relationshipType": "references_claim",
+        "role": "challenges",
+        "context": "The paper reports that the nuclear-test timing correlation becomes statistically insignificant after normalization by the relevant number of observation days."
+      }
+    ],
+    "claim-watters-vasco-methodological-challenge": [
+      {
+        "id": "publication-2026-critical-evaluation-poss1e-technosignatures",
+        "type": "publication",
+        "name": "Critical Evaluation of Studies Alleging Evidence for Technosignatures in the POSS1-E Photographic Plates",
+        "relationshipType": "references_claim",
+        "role": "supports",
+        "context": "This publication is the primary source for the methodological challenge represented by this claim record."
+      }
+    ],
     "claim-weaponized-1-1": [],
     "claim-weaponized-1-2": [],
     "claim-weaponized-1-3": [],
@@ -13662,6 +14302,154 @@
         "context": ""
       }
     ],
+    "cold-computing": [
+      {
+        "id": "publication-2026-slysh-haloes-cold-computing-technosignature",
+        "type": "publication",
+        "name": "Slysh haloes: the waste heat of cold computing as a submillimetre technosignature",
+        "relationshipType": "addresses_topic",
+        "role": "",
+        "context": ""
+      }
+    ],
+    "collection-2026-pursue-release-06": [
+      {
+        "id": "claim-pursue-release-06-publication-not-authentication",
+        "type": "claim",
+        "name": "Official publication does not authenticate every claim inside a released file",
+        "relationshipType": "references_publication",
+        "role": "claim source",
+        "context": ""
+      },
+      {
+        "id": "claim-pursue-release-06-rolling-process",
+        "type": "claim",
+        "name": "PURSUE uses a rolling-release process",
+        "relationshipType": "references_publication",
+        "role": "claim source",
+        "context": ""
+      },
+      {
+        "id": "claim-pursue-release-06-declassified-historical",
+        "type": "claim",
+        "name": "Release 06 contains declassified and historical UAP files",
+        "relationshipType": "references_publication",
+        "role": "claim source",
+        "context": ""
+      },
+      {
+        "id": "claim-pursue-release-06-file-specific-review",
+        "type": "claim",
+        "name": "Release 06 files require source- and file-specific assessment",
+        "relationshipType": "references_publication",
+        "role": "claim source",
+        "context": ""
+      },
+      {
+        "id": "claim-pursue-release-06-official-custody",
+        "type": "claim",
+        "name": "Release 06 is maintained through the official WAR.GOV/UFO portal",
+        "relationshipType": "references_publication",
+        "role": "claim source",
+        "context": ""
+      },
+      {
+        "id": "claim-pursue-release-06-sixth-tranche",
+        "type": "claim",
+        "name": "Release 06 is PURSUE's sixth official records tranche",
+        "relationshipType": "references_publication",
+        "role": "claim source",
+        "context": ""
+      },
+      {
+        "id": "claim-pursue-release-06-next-release",
+        "type": "claim",
+        "name": "The Department and partner agencies were preparing a subsequent release",
+        "relationshipType": "references_publication",
+        "role": "claim source",
+        "context": ""
+      },
+      {
+        "id": "document-2026-aaro-nufohrc-sole-source-notice",
+        "type": "document",
+        "name": "Notice of Intent to Sole Source: Historical UAP Data and Analysis Subscription",
+        "relationshipType": "references_publication",
+        "role": "related historical-record integration",
+        "context": ""
+      },
+      {
+        "id": "record-group-615-uap-records-collection",
+        "type": "document",
+        "name": "Record Group 615 — Unidentified Anomalous Phenomena Records Collection",
+        "relationshipType": "references_publication",
+        "role": "related government UAP archive",
+        "context": ""
+      },
+      {
+        "id": "aaro",
+        "type": "organization",
+        "name": "All-domain Anomaly Resolution Office",
+        "relationshipType": "references_publication",
+        "role": "related historical-review context",
+        "context": ""
+      },
+      {
+        "id": "defense-intelligence-agency",
+        "type": "organization",
+        "name": "Defense Intelligence Agency",
+        "relationshipType": "references_publication",
+        "role": "AAWSAP source context",
+        "context": ""
+      },
+      {
+        "id": "department-of-defense",
+        "type": "organization",
+        "name": "U.S. Department of Defense",
+        "relationshipType": "produced_document",
+        "role": "issuing department",
+        "context": ""
+      },
+      {
+        "id": "aawsap",
+        "type": "program",
+        "name": "Advanced Aerospace Weapon System Applications Program",
+        "relationshipType": "references_publication",
+        "role": "released program records",
+        "context": ""
+      },
+      {
+        "id": "pursue",
+        "type": "program",
+        "name": "PURSUE",
+        "relationshipType": "references_publication",
+        "role": "sixth official release tranche",
+        "context": ""
+      },
+      {
+        "id": "document-2026-pursue-uap-disclosure-legal-waiver",
+        "type": "publication",
+        "name": "Department of War Legal Waiver for UAP Disclosures to PURSUE",
+        "relationshipType": "references_publication",
+        "role": "subsequent PURSUE publication event; no file-level causal claim",
+        "context": ""
+      },
+      {
+        "id": "government-transparency",
+        "type": "topic",
+        "name": "Government Transparency",
+        "relationshipType": "references_publication",
+        "role": "official records publication",
+        "context": ""
+      },
+      {
+        "id": "uap-disclosure",
+        "type": "topic",
+        "name": "UAP Disclosure",
+        "relationshipType": "references_publication",
+        "role": "official records publication",
+        "context": ""
+      }
+    ],
     "colm-kelleher": [
       {
         "id": "2023-weaponized-episode-12",
@@ -14046,6 +14834,14 @@
         "type": "podcast_episode",
         "name": "WEAPONIZED Episode #94 — Is UFO Disclosure Dead?",
         "relationshipType": "discussed_topic",
+        "role": "",
+        "context": ""
+      },
+      {
+        "id": "document-2026-aaro-classified-responsive-uap-uso-records",
+        "type": "publication",
+        "name": "AARO FOIA Determination on Five UAP/USO Case Records",
+        "relationshipType": "references_topic",
         "role": "",
         "context": ""
       },
@@ -14547,6 +15343,16 @@
         "context": "Served in UAP-related intelligence assignments"
       }
     ],
+    "david-marler": [
+      {
+        "id": "national-ufo-historical-records-center",
+        "type": "organization",
+        "name": "National UFO Historical Records Center",
+        "relationshipType": "references_person",
+        "role": "founder and director",
+        "context": ""
+      }
+    ],
     "david-paulides": [
       {
         "id": "2025-weaponized-episode-100",
@@ -14643,6 +15449,14 @@
         "context": ""
       },
       {
+        "id": "collection-2026-pursue-release-06",
+        "type": "publication",
+        "name": "PURSUE Release 06 — Declassified and Historical UAP Files",
+        "relationshipType": "references_organization",
+        "role": "source context for AAWSAP materials",
+        "context": ""
+      },
+      {
         "id": "timeline-2008-2010-aawsap-puthoff-davis-research",
         "type": "timeline_event",
         "name": "Puthoff and Davis Contribute Technical Research to AAWSAP",
@@ -14674,6 +15488,14 @@
         "name": "David Grusch alleges that the United States has operated a crash-retrieval program",
         "relationshipType": "concerns",
         "role": "",
+        "context": ""
+      },
+      {
+        "id": "document-2026-aaro-nufohrc-sole-source-notice",
+        "type": "document",
+        "name": "Notice of Intent to Sole Source: Historical UAP Data and Analysis Subscription",
+        "relationshipType": "references_organization",
+        "role": "parent department",
         "context": ""
       },
       {
@@ -15005,6 +15827,46 @@
         "context": ""
       },
       {
+        "id": "pursue",
+        "type": "program",
+        "name": "PURSUE",
+        "relationshipType": "references_organization",
+        "role": "",
+        "context": "The official PURSUE records and videos were released by the U.S. government through Department of Defense channels."
+      },
+      {
+        "id": "document-2026-pursue-uap-disclosure-legal-waiver",
+        "type": "publication",
+        "name": "Department of War Legal Waiver for UAP Disclosures to PURSUE",
+        "relationshipType": "published_by",
+        "role": "issuing department; official release uses Department of War",
+        "context": ""
+      },
+      {
+        "id": "publication-2026-limits-velocity-recovery-pursue",
+        "type": "publication",
+        "name": "Limits on Velocity Recovery from the PURSUE Sensor Videos",
+        "relationshipType": "references_organization",
+        "role": "dataset source",
+        "context": ""
+      },
+      {
+        "id": "collection-2026-pursue-release-06",
+        "type": "publication",
+        "name": "PURSUE Release 06 — Declassified and Historical UAP Files",
+        "relationshipType": "published_by",
+        "role": "issuing department; official release uses Department of War",
+        "context": ""
+      },
+      {
+        "id": "event-2016-podesta-delonge-uap-conference-call",
+        "type": "timeline_event",
+        "name": "2016 Podesta–DeLonge UAP Conference Call",
+        "relationshipType": "references_organization",
+        "role": "declassification discussion",
+        "context": ""
+      },
+      {
         "id": "timeline-2021-07-david-grusch-dod-ig-disclosure",
         "type": "timeline_event",
         "name": "David Grusch Provides UAP Information to the DoD Inspector General",
@@ -15107,6 +15969,380 @@
         "name": "Need to Know Episode #14 — Elizondo on UAP Hearing",
         "relationshipType": "documented_by",
         "role": "",
+        "context": ""
+      }
+    ],
+    "document-2026-aaro-classified-responsive-uap-uso-records": [
+      {
+        "id": "incident-cactus-1x-uap-uso-submarine-2022-03-25",
+        "type": "case",
+        "name": "Cactus 1X UAP/USO Near Submarine — March 25, 2022",
+        "relationshipType": "documented_by",
+        "role": "one of five FOIA subjects",
+        "context": ""
+      },
+      {
+        "id": "incident-jacker-2x-spherical-uap-over-water",
+        "type": "case",
+        "name": "Jacker 2X Spherical UAP Over Water",
+        "relationshipType": "documented_by",
+        "role": "one of five FOIA subjects",
+        "context": ""
+      },
+      {
+        "id": "incident-uscg-c144-tic-tac-ir-2024-04-24",
+        "type": "case",
+        "name": "USCG C-144 ‘Tic Tac’ IR Record — April 24, 2024",
+        "relationshipType": "documented_by",
+        "role": "one of five FOIA subjects",
+        "context": ""
+      },
+      {
+        "id": "incident-wiley-2x-zinc-uap-uso-formation",
+        "type": "case",
+        "name": "Wiley 2X Zinc UAP/USO Formation",
+        "relationshipType": "documented_by",
+        "role": "one of five FOIA subjects",
+        "context": ""
+      },
+      {
+        "id": "incident-ufos-formation-persian-gulf-pr098",
+        "type": "case",
+        "name": "‘UFOs in Formation over Persian Gulf?’ — PR098",
+        "relationshipType": "documented_by",
+        "role": "one of five FOIA subjects",
+        "context": ""
+      },
+      {
+        "id": "claim-aaro-located-responsive-records-five-cases",
+        "type": "claim",
+        "name": "AARO reported locating responsive records for the five-case request",
+        "relationshipType": "contained_in",
+        "role": "claim subject",
+        "context": ""
+      },
+      {
+        "id": "claim-aaro-withheld-five-case-records-in-full",
+        "type": "claim",
+        "name": "AARO withheld the responsive records in their entirety",
+        "relationshipType": "contained_in",
+        "role": "claim subject",
+        "context": ""
+      },
+      {
+        "id": "claim-classification-does-not-establish-record-contents",
+        "type": "claim",
+        "name": "Classification does not establish what the withheld records contain",
+        "relationshipType": "contained_in",
+        "role": "claim subject",
+        "context": ""
+      },
+      {
+        "id": "claim-congress-identified-five-uap-uso-cases",
+        "type": "claim",
+        "name": "Congress identified the five UAP/USO case labels in a records request",
+        "relationshipType": "contained_in",
+        "role": "claim subject",
+        "context": ""
+      },
+      {
+        "id": "claim-greenewald-filed-five-case-aaro-foia",
+        "type": "claim",
+        "name": "Greenewald sought AARO context records for five named cases",
+        "relationshipType": "contained_in",
+        "role": "claim subject",
+        "context": ""
+      },
+      {
+        "id": "claim-responsive-records-do-not-authenticate-incidents",
+        "type": "claim",
+        "name": "Responsive records do not authenticate the incident descriptions",
+        "relationshipType": "contained_in",
+        "role": "claim subject",
+        "context": ""
+      },
+      {
+        "id": "aaro",
+        "type": "organization",
+        "name": "All-domain Anomaly Resolution Office",
+        "relationshipType": "produced_document",
+        "role": "FOIA determination",
+        "context": ""
+      },
+      {
+        "id": "house-oversight-committee",
+        "type": "organization",
+        "name": "House Committee on Oversight and Accountability",
+        "relationshipType": "references_publication",
+        "role": "five incident labels",
+        "context": ""
+      },
+      {
+        "id": "the-black-vault",
+        "type": "organization",
+        "name": "The Black Vault",
+        "relationshipType": "documented_by",
+        "role": "FOIA determination and records-access context",
+        "context": ""
+      },
+      {
+        "id": "anna-paulina-luna",
+        "type": "person",
+        "name": "Anna Paulina Luna",
+        "relationshipType": "references_publication",
+        "role": "March 2026 congressional request context",
+        "context": ""
+      },
+      {
+        "id": "john-greenewald-jr",
+        "type": "person",
+        "name": "John Greenewald Jr.",
+        "relationshipType": "references_publication",
+        "role": "FOIA requester",
+        "context": ""
+      },
+      {
+        "id": "pursue",
+        "type": "program",
+        "name": "PURSUE",
+        "relationshipType": "references_publication",
+        "role": "public imagery versus withheld context",
+        "context": ""
+      },
+      {
+        "id": "congressional-oversight",
+        "type": "topic",
+        "name": "Congressional Oversight",
+        "relationshipType": "references_publication",
+        "role": "congressional request and later FOIA response",
+        "context": ""
+      },
+      {
+        "id": "government-transparency",
+        "type": "topic",
+        "name": "Government Transparency",
+        "relationshipType": "references_publication",
+        "role": "classified withholding outcome",
+        "context": ""
+      },
+      {
+        "id": "uap-disclosure",
+        "type": "topic",
+        "name": "UAP Disclosure",
+        "relationshipType": "references_publication",
+        "role": "records-access pathway",
+        "context": ""
+      },
+      {
+        "id": "unidentified-submerged-objects",
+        "type": "topic",
+        "name": "Unidentified Submerged Objects",
+        "relationshipType": "references_publication",
+        "role": "source-attributed USO case labels",
+        "context": ""
+      }
+    ],
+    "document-2026-aaro-nufohrc-sole-source-notice": [
+      {
+        "id": "claim-aaro-seeks-nufohrc-pre-1990-access",
+        "type": "claim",
+        "name": "AARO seeks subscription access to NUFOHRC’s pre-1990 historical records",
+        "relationshipType": "references_publication",
+        "role": "primary evidence",
+        "context": ""
+      },
+      {
+        "id": "claim-nufohrc-sole-source-justification",
+        "type": "claim",
+        "name": "Government market research identified NUFOHRC as the only source meeting stated archive requirements",
+        "relationshipType": "references_publication",
+        "role": "primary evidence",
+        "context": ""
+      },
+      {
+        "id": "claim-private-archives-preserve-historical-context",
+        "type": "claim",
+        "name": "Private civilian archives may preserve UAP records absent from government repositories",
+        "relationshipType": "references_publication",
+        "role": "government rationale",
+        "context": ""
+      },
+      {
+        "id": "aaro",
+        "type": "organization",
+        "name": "All-domain Anomaly Resolution Office",
+        "relationshipType": "references_publication",
+        "role": "historical-data subscription notice",
+        "context": ""
+      },
+      {
+        "id": "national-ufo-historical-records-center",
+        "type": "organization",
+        "name": "National UFO Historical Records Center",
+        "relationshipType": "references_publication",
+        "role": "intended subscription source",
+        "context": ""
+      },
+      {
+        "id": "document-2026-pursue-uap-disclosure-legal-waiver",
+        "type": "publication",
+        "name": "Department of War Legal Waiver for UAP Disclosures to PURSUE",
+        "relationshipType": "references_publication",
+        "role": "related historical-record integration",
+        "context": ""
+      },
+      {
+        "id": "collection-2026-pursue-release-06",
+        "type": "publication",
+        "name": "PURSUE Release 06 — Declassified and Historical UAP Files",
+        "relationshipType": "references_publication",
+        "role": "related historical-record integration",
+        "context": ""
+      }
+    ],
+    "document-2026-pursue-uap-disclosure-legal-waiver": [
+      {
+        "id": "claim-pursue-waiver-nda-protection",
+        "type": "claim",
+        "name": "Covered PURSUE communications receive specified NDA enforcement protection",
+        "relationshipType": "references_publication",
+        "role": "claim source",
+        "context": ""
+      },
+      {
+        "id": "claim-pursue-waiver-sapia-protection",
+        "type": "claim",
+        "name": "Covered PURSUE communications receive specified SAPIA enforcement protection",
+        "relationshipType": "references_publication",
+        "role": "claim source",
+        "context": ""
+      },
+      {
+        "id": "claim-pursue-waiver-review-potential-release",
+        "type": "claim",
+        "name": "PURSUE submissions may enter review for possible declassification or release",
+        "relationshipType": "references_publication",
+        "role": "claim source",
+        "context": ""
+      },
+      {
+        "id": "claim-pursue-waiver-no-automatic-declassification",
+        "type": "claim",
+        "name": "Submission through PURSUE does not automatically declassify information",
+        "relationshipType": "references_publication",
+        "role": "claim source",
+        "context": ""
+      },
+      {
+        "id": "claim-pursue-waiver-authorized-disclosure-mechanism",
+        "type": "claim",
+        "name": "The government established an authorized UAP disclosure mechanism through PURSUE",
+        "relationshipType": "references_publication",
+        "role": "claim source",
+        "context": ""
+      },
+      {
+        "id": "claim-pursue-waiver-no-public-disclosure-authority",
+        "type": "claim",
+        "name": "The waiver does not authorize unrestricted public disclosure",
+        "relationshipType": "references_publication",
+        "role": "claim source",
+        "context": ""
+      },
+      {
+        "id": "claim-pursue-waiver-channel-limitation",
+        "type": "claim",
+        "name": "The waiver is limited to communications directed to designated PURSUE representatives",
+        "relationshipType": "references_publication",
+        "role": "claim source",
+        "context": ""
+      },
+      {
+        "id": "document-2026-aaro-nufohrc-sole-source-notice",
+        "type": "document",
+        "name": "Notice of Intent to Sole Source: Historical UAP Data and Analysis Subscription",
+        "relationshipType": "references_publication",
+        "role": "related historical-record integration",
+        "context": ""
+      },
+      {
+        "id": "record-group-615-uap-records-collection",
+        "type": "document",
+        "name": "Record Group 615 — Unidentified Anomalous Phenomena Records Collection",
+        "relationshipType": "references_publication",
+        "role": "related federal historical-record collection",
+        "context": ""
+      },
+      {
+        "id": "aaro",
+        "type": "organization",
+        "name": "All-domain Anomaly Resolution Office",
+        "relationshipType": "references_publication",
+        "role": "related authorized UAP reporting and historical-review context",
+        "context": ""
+      },
+      {
+        "id": "department-of-defense",
+        "type": "organization",
+        "name": "U.S. Department of Defense",
+        "relationshipType": "produced_document",
+        "role": "issuing department; official release uses Department of War",
+        "context": ""
+      },
+      {
+        "id": "pursue",
+        "type": "program",
+        "name": "PURSUE",
+        "relationshipType": "references_publication",
+        "role": "authorized disclosure-channel policy",
+        "context": ""
+      },
+      {
+        "id": "collection-2026-pursue-release-06",
+        "type": "publication",
+        "name": "PURSUE Release 06 — Declassified and Historical UAP Files",
+        "relationshipType": "references_publication",
+        "role": "preceding protected-disclosure policy; no file-level causation asserted",
+        "context": ""
+      },
+      {
+        "id": "government-transparency",
+        "type": "topic",
+        "name": "Government Transparency",
+        "relationshipType": "references_publication",
+        "role": "protected government reporting mechanism",
+        "context": ""
+      },
+      {
+        "id": "nondisclosure-agreements",
+        "type": "topic",
+        "name": "Nondisclosure Agreements",
+        "relationshipType": "references_publication",
+        "role": "",
+        "context": ""
+      },
+      {
+        "id": "protected-uap-disclosures",
+        "type": "topic",
+        "name": "Protected UAP Disclosures",
+        "relationshipType": "references_publication",
+        "role": "",
+        "context": ""
+      },
+      {
+        "id": "special-access-program-indoctrination-agreements",
+        "type": "topic",
+        "name": "Special Access Program Indoctrination Agreements",
+        "relationshipType": "references_publication",
+        "role": "",
+        "context": ""
+      },
+      {
+        "id": "uap-disclosure",
+        "type": "topic",
+        "name": "UAP Disclosure",
+        "relationshipType": "references_publication",
+        "role": "channel-specific disclosure policy",
         "context": ""
       }
     ],
@@ -15295,6 +16531,16 @@
       }
     ],
     "engaging-the-phenomenon-podcast": [],
+    "enigma-labs": [
+      {
+        "id": "publication-2026-european-uap-barometer-2020-2025",
+        "type": "publication",
+        "name": "Updating the European UAP Barometer: Reporting Trends and New Data Sources, 2020–2025",
+        "relationshipType": "references_organization",
+        "role": "data source",
+        "context": ""
+      }
+    ],
     "eric-burlison": [
       {
         "id": "2025-weaponized-episode-101",
@@ -15453,8 +16699,166 @@
         "context": ""
       }
     ],
+    "european-uap-barometer": [
+      {
+        "id": "publication-2026-european-uap-barometer-2020-2025",
+        "type": "publication",
+        "name": "Updating the European UAP Barometer: Reporting Trends and New Data Sources, 2020–2025",
+        "relationshipType": "concerns",
+        "role": "current edition",
+        "context": ""
+      }
+    ],
+    "event-2016-podesta-delonge-uap-conference-call": [
+      {
+        "id": "claim-2016-call-confirmation-not-program-proof",
+        "type": "claim",
+        "name": "Confirmation of the call does not establish an official acclimatization program",
+        "relationshipType": "timeline_connection",
+        "role": "claim subject",
+        "context": ""
+      },
+      {
+        "id": "claim-grusch-2016-acclimatization-interpretation",
+        "type": "claim",
+        "name": "Grusch characterizes the 2016 engagement as an authorized acclimatization effort",
+        "relationshipType": "timeline_connection",
+        "role": "claim subject",
+        "context": ""
+      },
+      {
+        "id": "claim-2016-call-occurred",
+        "type": "claim",
+        "name": "Podesta confirms the 2016 UAP-related conference call occurred",
+        "relationshipType": "timeline_connection",
+        "role": "claim subject",
+        "context": ""
+      },
+      {
+        "id": "claim-podesta-disputes-acclimatization-interpretation",
+        "type": "claim",
+        "name": "Podesta disputes Grusch's acclimatization characterization",
+        "relationshipType": "timeline_connection",
+        "role": "claim subject",
+        "context": ""
+      },
+      {
+        "id": "claim-2016-call-declassification-discussion",
+        "type": "claim",
+        "name": "The call included discussion of declassifying Department of Defense files",
+        "relationshipType": "timeline_connection",
+        "role": "claim subject",
+        "context": ""
+      },
+      {
+        "id": "claim-2016-call-stigma-discussion",
+        "type": "claim",
+        "name": "The call included discussion of reducing professional stigma around UAP",
+        "relationshipType": "timeline_connection",
+        "role": "claim subject",
+        "context": ""
+      },
+      {
+        "id": "lockheed-martin",
+        "type": "organization",
+        "name": "Lockheed Martin",
+        "relationshipType": "timeline_connection",
+        "role": "participant affiliation context",
+        "context": ""
+      },
+      {
+        "id": "to-the-stars-academy",
+        "type": "organization",
+        "name": "To The Stars Academy of Arts & Science",
+        "relationshipType": "timeline_connection",
+        "role": "historical precursor context only",
+        "context": ""
+      },
+      {
+        "id": "department-of-defense",
+        "type": "organization",
+        "name": "U.S. Department of Defense",
+        "relationshipType": "timeline_connection",
+        "role": "files discussed for possible declassification",
+        "context": ""
+      },
+      {
+        "id": "david-grusch",
+        "type": "person",
+        "name": "David Grusch",
+        "relationshipType": "made_claim",
+        "role": "later disputed interpretation",
+        "context": ""
+      },
+      {
+        "id": "john-podesta",
+        "type": "person",
+        "name": "John Podesta",
+        "relationshipType": "participated_in",
+        "role": "conference-call participant",
+        "context": ""
+      },
+      {
+        "id": "neil-mccasland",
+        "type": "person",
+        "name": "Neil McCasland",
+        "relationshipType": "participated_in",
+        "role": "conference-call participant",
+        "context": ""
+      },
+      {
+        "id": "robert-weiss",
+        "type": "person",
+        "name": "Robert Weiss",
+        "relationshipType": "participated_in",
+        "role": "conference-call participant",
+        "context": ""
+      },
+      {
+        "id": "tom-delonge",
+        "type": "person",
+        "name": "Tom DeLonge",
+        "relationshipType": "participated_in",
+        "role": "organizer and participant",
+        "context": ""
+      },
+      {
+        "id": "government-transparency",
+        "type": "topic",
+        "name": "Government Transparency",
+        "relationshipType": "timeline_connection",
+        "role": "declassification and stigma discussion",
+        "context": ""
+      },
+      {
+        "id": "uap-disclosure",
+        "type": "topic",
+        "name": "UAP Disclosure",
+        "relationshipType": "timeline_connection",
+        "role": "historical disclosure discussion",
+        "context": ""
+      }
+    ],
     "event-2023-house-hearing-held": [],
     "event-2026-03-31-house-requests-uap-videos": [],
+    "exo-archaeology": [
+      {
+        "id": "publication-2026-micron-scale-technosignatures-lunar-regolith",
+        "type": "publication",
+        "name": "Micron-Scale Technosignatures: How a Cubic Metre of Lunar Regolith May Begin to Constrain the Number of Past Technological Civilisations in the Galaxy",
+        "relationshipType": "addresses_topic",
+        "role": "",
+        "context": ""
+      },
+      {
+        "id": "micron-scale-technosignatures",
+        "type": "topic",
+        "name": "Micron-Scale Technosignatures",
+        "relationshipType": "associated_topic",
+        "role": "",
+        "context": ""
+      }
+    ],
     "extraterrestrial-hypothesis": [
       {
         "id": "1968-07-29-house-ufo-symposium",
@@ -15578,6 +16982,22 @@
         "context": ""
       },
       {
+        "id": "kevin-knuth",
+        "type": "person",
+        "name": "Kevin H. Knuth",
+        "relationshipType": "affiliated_with",
+        "role": "research affiliate / collaborator",
+        "context": ""
+      },
+      {
+        "id": "wesley-watters",
+        "type": "person",
+        "name": "Wesley Andrés Watters",
+        "relationshipType": "affiliated_with",
+        "role": "research collaborator / author",
+        "context": ""
+      },
+      {
         "id": "2023-merged-episode-1",
         "type": "podcast_episode",
         "name": "MERGED Episode #1 — Interview with Dr. Garry Nolan",
@@ -15607,6 +17027,14 @@
         "name": "MERGED Episode #6 — Researching UAP in the Galileo Project",
         "relationshipType": "references_organization",
         "role": "",
+        "context": ""
+      },
+      {
+        "id": "publication-2026-limits-velocity-recovery-pursue",
+        "type": "publication",
+        "name": "Limits on Velocity Recovery from the PURSUE Sensor Videos",
+        "relationshipType": "references_organization",
+        "role": "multi-sensor comparison",
         "context": ""
       },
       {
@@ -15685,6 +17113,16 @@
       }
     ],
     "gary-voorhis": [],
+    "geipan": [
+      {
+        "id": "publication-2026-european-uap-barometer-2020-2025",
+        "type": "publication",
+        "name": "Updating the European UAP Barometer: Reporting Trends and New Data Sources, 2020–2025",
+        "relationshipType": "references_organization",
+        "role": "data source",
+        "context": ""
+      }
+    ],
     "george-knapp": [
       {
         "id": "2023-weaponized-episode-1",
@@ -16788,6 +18226,14 @@
         "context": ""
       },
       {
+        "id": "record-group-615-uap-records-collection",
+        "type": "document",
+        "name": "Record Group 615 — Unidentified Anomalous Phenomena Records Collection",
+        "relationshipType": "addresses_topic",
+        "role": "",
+        "context": ""
+      },
+      {
         "id": "document-2002-10-16-wilson-davis-notes",
         "type": "document",
         "name": "Wilson–Davis Notes",
@@ -16975,6 +18421,14 @@
         "id": "national-archives",
         "type": "organization",
         "name": "National Archives and Records Administration",
+        "relationshipType": "addresses_topic",
+        "role": "",
+        "context": ""
+      },
+      {
+        "id": "national-ufo-historical-records-center",
+        "type": "organization",
+        "name": "National UFO Historical Records Center",
         "relationshipType": "addresses_topic",
         "role": "",
         "context": ""
@@ -17924,6 +19378,22 @@
         "context": ""
       },
       {
+        "id": "document-2026-aaro-classified-responsive-uap-uso-records",
+        "type": "publication",
+        "name": "AARO FOIA Determination on Five UAP/USO Case Records",
+        "relationshipType": "references_topic",
+        "role": "",
+        "context": ""
+      },
+      {
+        "id": "document-2026-pursue-uap-disclosure-legal-waiver",
+        "type": "publication",
+        "name": "Department of War Legal Waiver for UAP Disclosures to PURSUE",
+        "relationshipType": "references_topic",
+        "role": "",
+        "context": ""
+      },
+      {
         "id": "liberation-times",
         "type": "publication",
         "name": "Liberation Times",
@@ -17935,6 +19405,14 @@
         "id": "2024-08-20-imminent-luis-elizondo",
         "type": "publication",
         "name": "Luis Elizondo Publishes Imminent",
+        "relationshipType": "references_topic",
+        "role": "",
+        "context": ""
+      },
+      {
+        "id": "collection-2026-pursue-release-06",
+        "type": "publication",
+        "name": "PURSUE Release 06 — Declassified and Historical UAP Files",
         "relationshipType": "references_topic",
         "role": "",
         "context": ""
@@ -17952,6 +19430,14 @@
         "type": "research_project",
         "name": "The Disclosure Project",
         "relationshipType": "addresses_topic",
+        "role": "",
+        "context": ""
+      },
+      {
+        "id": "event-2016-podesta-delonge-uap-conference-call",
+        "type": "timeline_event",
+        "name": "2016 Podesta–DeLonge UAP Conference Call",
+        "relationshipType": "references_topic",
         "role": "",
         "context": ""
       },
@@ -18034,6 +19520,30 @@
         "relationshipType": "timeline_connection",
         "role": "related_topic",
         "context": "Core reporting theme"
+      },
+      {
+        "id": "nondisclosure-agreements",
+        "type": "topic",
+        "name": "Nondisclosure Agreements",
+        "relationshipType": "broader_topic",
+        "role": "",
+        "context": ""
+      },
+      {
+        "id": "protected-uap-disclosures",
+        "type": "topic",
+        "name": "Protected UAP Disclosures",
+        "relationshipType": "broader_topic",
+        "role": "",
+        "context": ""
+      },
+      {
+        "id": "special-access-program-indoctrination-agreements",
+        "type": "topic",
+        "name": "Special Access Program Indoctrination Agreements",
+        "relationshipType": "broader_topic",
+        "role": "",
+        "context": ""
       }
     ],
     "hal-puthoff": [
@@ -18483,6 +19993,46 @@
     ],
     "house-oversight-committee": [
       {
+        "id": "incident-cactus-1x-uap-uso-submarine-2022-03-25",
+        "type": "case",
+        "name": "Cactus 1X UAP/USO Near Submarine — March 25, 2022",
+        "relationshipType": "references_organization",
+        "role": "March 31, 2026 video-record request",
+        "context": ""
+      },
+      {
+        "id": "incident-jacker-2x-spherical-uap-over-water",
+        "type": "case",
+        "name": "Jacker 2X Spherical UAP Over Water",
+        "relationshipType": "references_organization",
+        "role": "March 31, 2026 video-record request",
+        "context": ""
+      },
+      {
+        "id": "incident-uscg-c144-tic-tac-ir-2024-04-24",
+        "type": "case",
+        "name": "USCG C-144 ‘Tic Tac’ IR Record — April 24, 2024",
+        "relationshipType": "references_organization",
+        "role": "March 31, 2026 video-record request",
+        "context": ""
+      },
+      {
+        "id": "incident-wiley-2x-zinc-uap-uso-formation",
+        "type": "case",
+        "name": "Wiley 2X Zinc UAP/USO Formation",
+        "relationshipType": "references_organization",
+        "role": "March 31, 2026 video-record request",
+        "context": ""
+      },
+      {
+        "id": "incident-ufos-formation-persian-gulf-pr098",
+        "type": "case",
+        "name": "‘UFOs in Formation over Persian Gulf?’ — PR098",
+        "relationshipType": "references_organization",
+        "role": "March 31, 2026 video-record request",
+        "context": ""
+      },
+      {
         "id": "2026-03-31-house-uap-video-request-letter",
         "type": "document",
         "name": "March 31, 2026 Congressional Request for UAP Video Records",
@@ -18520,6 +20070,14 @@
         "name": "September 9, 2025 House UAP Hearing",
         "relationshipType": "held_by",
         "role": "",
+        "context": ""
+      },
+      {
+        "id": "document-2026-aaro-classified-responsive-uap-uso-records",
+        "type": "publication",
+        "name": "AARO FOIA Determination on Five UAP/USO Case Records",
+        "relationshipType": "references_organization",
+        "role": "congressional records request",
         "context": ""
       },
       {
@@ -18567,6 +20125,16 @@
         "context": ""
       }
     ],
+    "ian-a-crawford": [
+      {
+        "id": "publication-2026-micron-scale-technosignatures-lunar-regolith",
+        "type": "publication",
+        "name": "Micron-Scale Technosignatures: How a Cubic Metre of Lunar Regolith May Begin to Constrain the Number of Past Technological Civilisations in the Galaxy",
+        "relationshipType": "references_person",
+        "role": "author",
+        "context": ""
+      }
+    ],
     "icecube-neutrino-observatory": [
       {
         "id": "claim-south-pole-directed-energy",
@@ -18591,6 +20159,184 @@
         "relationshipType": "references_organization",
         "role": "",
         "context": ""
+      }
+    ],
+    "image-video-analysis": [
+      {
+        "id": "2004-nimitz-encounter",
+        "type": "case",
+        "name": "2004 Nimitz Encounter",
+        "relationshipType": "associated_topic",
+        "role": "",
+        "context": "Recorded Navy imagery is an established component of the encounter and part of the evidence record."
+      },
+      {
+        "id": "2016-mosul-orb-incident",
+        "type": "case",
+        "name": "2016 Mosul Orb Incident",
+        "relationshipType": "associated_topic",
+        "role": "",
+        "context": "Surveillance recording is central to the case and its research value."
+      },
+      {
+        "id": "2017-iraq-jellyfish-uap",
+        "type": "case",
+        "name": "2017 Iraq Jellyfish UAP Incident",
+        "relationshipType": "associated_topic",
+        "role": "",
+        "context": "Thermal-imaging footage is central to the incident and subsequent analysis."
+      },
+      {
+        "id": "2025-yemen-hellfire-uap-video",
+        "type": "case",
+        "name": "2025 Yemen Hellfire UAP Video",
+        "relationshipType": "associated_topic",
+        "role": "",
+        "context": "Military imagery presented during congressional proceedings is central to the record."
+      },
+      {
+        "id": "2025-large-disc-uap-video",
+        "type": "case",
+        "name": "Large Disc UAP Video",
+        "relationshipType": "associated_topic",
+        "role": "",
+        "context": "The entity is explicitly a military sensor video requiring image-analysis context."
+      },
+      {
+        "id": "syria-uap-2021",
+        "type": "case",
+        "name": "Syria UAP 2021",
+        "relationshipType": "associated_topic",
+        "role": "",
+        "context": "Provenance, processing, sensor tracking and interpretation are central to this video case."
+      },
+      {
+        "id": "claim-context-is-required-to-interpret-released-uap-videos",
+        "type": "claim",
+        "name": "Context is required to interpret released UAP videos",
+        "relationshipType": "concerns",
+        "role": "",
+        "context": "Direct methodological claim about interpretation of video evidence."
+      },
+      {
+        "id": "claim-independent-experts-require-direct-and-transparent-access",
+        "type": "claim",
+        "name": "Independent experts require direct and transparent access",
+        "relationshipType": "concerns",
+        "role": "",
+        "context": "Claim explicitly concerns provenance, imaging access and reproducible analysis."
+      },
+      {
+        "id": "claim-pr113-kinematic-degeneracy",
+        "type": "claim",
+        "name": "PR113 permits radically different size, range and velocity interpretations",
+        "relationshipType": "references_topic",
+        "role": "",
+        "context": ""
+      },
+      {
+        "id": "claim-pr149-relative-velocity-bound",
+        "type": "claim",
+        "name": "PR149 supports an upper bound near Mach 0.4 on relative velocity",
+        "relationshipType": "references_topic",
+        "role": "",
+        "context": ""
+      },
+      {
+        "id": "claim-pursue-corpus-insufficient-kinematics",
+        "type": "claim",
+        "name": "Released PURSUE videos do not provide complete information for velocity recovery",
+        "relationshipType": "references_topic",
+        "role": "",
+        "context": ""
+      },
+      {
+        "id": "claim-the-object-appears-to-accelerate-abruptly-after-sensor-lock",
+        "type": "claim",
+        "name": "The object appears to accelerate abruptly after sensor lock",
+        "relationshipType": "concerns",
+        "role": "",
+        "context": "Source-attributed analytical claim; retained as a claim and connected to the method used to evaluate it."
+      },
+      {
+        "id": "claim-the-released-footage-warrants-frame-by-frame-technical-review",
+        "type": "claim",
+        "name": "The released footage warrants frame-by-frame technical review",
+        "relationshipType": "concerns",
+        "role": "",
+        "context": "Direct claim about technical review of released imagery."
+      },
+      {
+        "id": "2026-03-31-house-uap-video-request-letter",
+        "type": "document",
+        "name": "March 31, 2026 Congressional Request for UAP Video Records",
+        "relationshipType": "references_topic",
+        "role": "",
+        "context": "The congressional request defines a corpus of military UAP video records relevant to scientific image analysis."
+      },
+      {
+        "id": "2026-weaponized-episode-108",
+        "type": "podcast_episode",
+        "name": "WEAPONIZED Episode #108 — Syria UAP Video — Apparent Instantaneous Acceleration",
+        "relationshipType": "discussed_topic",
+        "role": "",
+        "context": "Episode explicitly analyzes footage behavior and competing interpretations."
+      },
+      {
+        "id": "2024-weaponized-episode-47",
+        "type": "podcast_episode",
+        "name": "WEAPONIZED Episode #47 — The Jellyfish UAP Investigation",
+        "relationshipType": "discussed_topic",
+        "role": "",
+        "context": "Episode explicitly evaluates thermal video and proposed explanations."
+      },
+      {
+        "id": "2025-weaponized-episode-72",
+        "type": "podcast_episode",
+        "name": "WEAPONIZED Episode #72 — The USS Jackson Tic Tac Video",
+        "relationshipType": "discussed_topic",
+        "role": "",
+        "context": "Video is central to the episode and merits image-analysis context."
+      },
+      {
+        "id": "2025-weaponized-episode-79",
+        "type": "podcast_episode",
+        "name": "WEAPONIZED Episode #79 — The Large Disc UAP Video",
+        "relationshipType": "discussed_topic",
+        "role": "",
+        "context": "Episode presents and discusses military sensor video."
+      },
+      {
+        "id": "2023-weaponized-episode-8",
+        "type": "podcast_episode",
+        "name": "WEAPONIZED Episode #8 — Baghdad Phantom Analysis and the UFO “Silver Bullet”",
+        "relationshipType": "discussed_topic",
+        "role": "",
+        "context": "Episode explicitly concerns analysis of imagery and competing interpretations."
+      },
+      {
+        "id": "2025-weaponized-episode-81",
+        "type": "podcast_episode",
+        "name": "WEAPONIZED Episode #81 — The Full Mosul Orb Video",
+        "relationshipType": "discussed_topic",
+        "role": "",
+        "context": "Episode centers on release and provenance of the Mosul Orb video."
+      },
+      {
+        "id": "2025-weaponized-episode-89",
+        "type": "podcast_episode",
+        "name": "WEAPONIZED Episode #89 — The 2025 UAP Hearing — Did It Move the Needle?",
+        "relationshipType": "discussed_topic",
+        "role": "",
+        "context": "Episode discusses military video presented during the 2025 hearing."
+      },
+      {
+        "id": "publication-2026-limits-velocity-recovery-pursue",
+        "type": "publication",
+        "name": "Limits on Velocity Recovery from the PURSUE Sensor Videos",
+        "relationshipType": "references_topic",
+        "role": "foundational related research",
+        "context": "The paper demonstrates why apparent image motion does not uniquely determine physical velocity without range, platform motion, aspect/range-rate and sensor scale."
       }
     ],
     "immaculate-constellation": [
@@ -18705,6 +20451,56 @@
         "type": "podcast_episode",
         "name": "Need to Know Episode #8 — In Plain Sight",
         "relationshipType": "references_publication",
+        "role": "",
+        "context": ""
+      }
+    ],
+    "incident-cactus-1x-uap-uso-submarine-2022-03-25": [
+      {
+        "id": "document-2026-aaro-classified-responsive-uap-uso-records",
+        "type": "publication",
+        "name": "AARO FOIA Determination on Five UAP/USO Case Records",
+        "relationshipType": "references_case",
+        "role": "",
+        "context": ""
+      }
+    ],
+    "incident-jacker-2x-spherical-uap-over-water": [
+      {
+        "id": "document-2026-aaro-classified-responsive-uap-uso-records",
+        "type": "publication",
+        "name": "AARO FOIA Determination on Five UAP/USO Case Records",
+        "relationshipType": "references_case",
+        "role": "",
+        "context": ""
+      }
+    ],
+    "incident-ufos-formation-persian-gulf-pr098": [
+      {
+        "id": "document-2026-aaro-classified-responsive-uap-uso-records",
+        "type": "publication",
+        "name": "AARO FOIA Determination on Five UAP/USO Case Records",
+        "relationshipType": "references_case",
+        "role": "",
+        "context": ""
+      }
+    ],
+    "incident-uscg-c144-tic-tac-ir-2024-04-24": [
+      {
+        "id": "document-2026-aaro-classified-responsive-uap-uso-records",
+        "type": "publication",
+        "name": "AARO FOIA Determination on Five UAP/USO Case Records",
+        "relationshipType": "references_case",
+        "role": "",
+        "context": ""
+      }
+    ],
+    "incident-wiley-2x-zinc-uap-uso-formation": [
+      {
+        "id": "document-2026-aaro-classified-responsive-uap-uso-records",
+        "type": "publication",
+        "name": "AARO FOIA Determination on Five UAP/USO Case Records",
+        "relationshipType": "references_case",
         "role": "",
         "context": ""
       }
@@ -18879,6 +20675,14 @@
     ],
     "j-allen-hynek": [
       {
+        "id": "national-ufo-historical-records-center",
+        "type": "organization",
+        "name": "National UFO Historical Records Center",
+        "relationshipType": "references_person",
+        "role": "preserves personal records",
+        "context": "DefenseScoop reports that rare personal files formerly belonging to J. Allen Hynek are held within the archive."
+      },
+      {
         "id": "jacques-vallee",
         "type": "person",
         "name": "Jacques Vallée",
@@ -18895,12 +20699,30 @@
         "context": ""
       },
       {
+        "id": "project-blue-book",
+        "type": "program",
+        "name": "Project Blue Book",
+        "relationshipType": "references_person",
+        "role": "scientific consultant",
+        "context": ""
+      },
+      {
         "id": "publication-1975-edge-of-reality",
         "type": "publication",
         "name": "The Edge of Reality",
         "relationshipType": "timeline_connection",
         "role": "co_author",
         "context": "Co-authored the publication with Jacques Vallée"
+      }
+    ],
+    "jacob-haqq-misra": [
+      {
+        "id": "publication-2026-limits-velocity-recovery-pursue",
+        "type": "publication",
+        "name": "Limits on Velocity Recovery from the PURSUE Sensor Videos",
+        "relationshipType": "references_person",
+        "role": "corresponding author",
+        "context": ""
       }
     ],
     "jacques-vallee": [
@@ -20243,6 +22065,24 @@
       }
     ],
     "john-burroughs": [],
+    "john-greenewald-jr": [
+      {
+        "id": "the-black-vault",
+        "type": "organization",
+        "name": "The Black Vault",
+        "relationshipType": "affiliated_with",
+        "role": "founder",
+        "context": ""
+      },
+      {
+        "id": "document-2026-aaro-classified-responsive-uap-uso-records",
+        "type": "publication",
+        "name": "AARO FOIA Determination on Five UAP/USO Case Records",
+        "relationshipType": "involved_person",
+        "role": "FOIA requester",
+        "context": ""
+      }
+    ],
     "john-gutierrez": [
       {
         "id": "2023-weaponized-episode-2",
@@ -20284,6 +22124,16 @@
       }
     ],
     "john-mack": [],
+    "john-podesta": [
+      {
+        "id": "event-2016-podesta-delonge-uap-conference-call",
+        "type": "timeline_event",
+        "name": "2016 Podesta–DeLonge UAP Conference Call",
+        "relationshipType": "involved_person",
+        "role": "participant",
+        "context": ""
+      }
+    ],
     "john-priestland": [
       {
         "id": "2025-weaponized-episode-88",
@@ -20387,6 +22237,16 @@
       }
     ],
     "kevin-day": [],
+    "kevin-knuth": [
+      {
+        "id": "publication-2026-critical-evaluation-poss1e-technosignatures",
+        "type": "publication",
+        "name": "Critical Evaluation of Studies Alleging Evidence for Technosignatures in the POSS1-E Photographic Plates",
+        "relationshipType": "references_person",
+        "role": "co-author",
+        "context": "Kevin H. Knuth is a co-author of the methodological critique."
+      }
+    ],
     "kirsten-gillibrand": [
       {
         "id": "2022-need-to-know-episode-18",
@@ -20507,6 +22367,16 @@
         "context": "Discussed congressional advocacy and disclosure strategy"
       }
     ],
+    "lewis-j-pinault": [
+      {
+        "id": "publication-2026-micron-scale-technosignatures-lunar-regolith",
+        "type": "publication",
+        "name": "Micron-Scale Technosignatures: How a Cubic Metre of Lunar Regolith May Begin to Constrain the Number of Past Technological Civilisations in the Galaxy",
+        "relationshipType": "references_person",
+        "role": "author",
+        "context": ""
+      }
+    ],
     "lex-fridman-podcast": [
       {
         "id": "2020-lex-fridman-fravor-interview",
@@ -20548,6 +22418,16 @@
         "name": "WEAPONIZED Episode #93 — Mystery Drones, Eglin’s Black Triangle, and Chris Sharp",
         "relationshipType": "references_organization",
         "role": "",
+        "context": ""
+      }
+    ],
+    "lockheed-martin": [
+      {
+        "id": "event-2016-podesta-delonge-uap-conference-call",
+        "type": "timeline_event",
+        "name": "2016 Podesta–DeLonge UAP Conference Call",
+        "relationshipType": "references_organization",
+        "role": "Weiss affiliation context",
         "context": ""
       }
     ],
@@ -20709,6 +22589,16 @@
         "relationshipType": "timeline_connection",
         "role": "participant",
         "context": "Director of Global Security and Special Programs at launch"
+      }
+    ],
+    "lunar-regolith": [
+      {
+        "id": "publication-2026-micron-scale-technosignatures-lunar-regolith",
+        "type": "publication",
+        "name": "Micron-Scale Technosignatures: How a Cubic Metre of Lunar Regolith May Begin to Constrain the Number of Past Technological Civilisations in the Galaxy",
+        "relationshipType": "applies_to",
+        "role": "modeled sample environment",
+        "context": ""
       }
     ],
     "malmstrom-air-force-base": [
@@ -21775,6 +23665,16 @@
         "context": ""
       }
     ],
+    "michael-garrett": [
+      {
+        "id": "publication-2026-slysh-haloes-cold-computing-technosignature",
+        "type": "publication",
+        "name": "Slysh haloes: the waste heat of cold computing as a submillimetre technosignature",
+        "relationshipType": "references_person",
+        "role": "author",
+        "context": ""
+      }
+    ],
     "michael-gold": [],
     "michael-herrera-public-interview": [
       {
@@ -21849,6 +23749,24 @@
         "relationshipType": "features_person",
         "role": "guest",
         "context": "Featured episode participant"
+      }
+    ],
+    "micron-scale-technosignatures": [
+      {
+        "id": "publication-2026-micron-scale-technosignatures-lunar-regolith",
+        "type": "publication",
+        "name": "Micron-Scale Technosignatures: How a Cubic Metre of Lunar Regolith May Begin to Constrain the Number of Past Technological Civilisations in the Galaxy",
+        "relationshipType": "addresses_topic",
+        "role": "",
+        "context": ""
+      },
+      {
+        "id": "lunar-regolith",
+        "type": "topic",
+        "name": "Lunar Regolith",
+        "relationshipType": "associated_topic",
+        "role": "",
+        "context": ""
       }
     ],
     "mike-gold": [
@@ -21943,6 +23861,16 @@
         "name": "WEAPONIZED Episode #100 — Creatures From Another World? The UFO–Cryptid Connection",
         "relationshipType": "discussed_topic",
         "role": "",
+        "context": ""
+      }
+    ],
+    "mutual-ufo-network": [
+      {
+        "id": "publication-2026-european-uap-barometer-2020-2025",
+        "type": "publication",
+        "name": "Updating the European UAP Barometer: Reporting Trends and New Data Sources, 2020–2025",
+        "relationshipType": "references_organization",
+        "role": "data source",
         "context": ""
       }
     ],
@@ -22113,6 +24041,14 @@
         "context": ""
       },
       {
+        "id": "ravi-kopparapu",
+        "type": "person",
+        "name": "Ravi Kopparapu",
+        "relationshipType": "affiliated_with",
+        "role": "",
+        "context": "NASA Goddard affiliation; the paper is represented as independent scholarly work rather than an agency finding."
+      },
+      {
         "id": "scott-kelly",
         "type": "person",
         "name": "Scott Kelly",
@@ -22146,6 +24082,22 @@
       }
     ],
     "national-archives": [
+      {
+        "id": "document-2026-aaro-nufohrc-sole-source-notice",
+        "type": "document",
+        "name": "Notice of Intent to Sole Source: Historical UAP Data and Analysis Subscription",
+        "relationshipType": "references_organization",
+        "role": "related federal records context",
+        "context": ""
+      },
+      {
+        "id": "record-group-615-uap-records-collection",
+        "type": "document",
+        "name": "Record Group 615 — Unidentified Anomalous Phenomena Records Collection",
+        "relationshipType": "held_by",
+        "role": "",
+        "context": "NARA established and maintains Record Group 615."
+      },
       {
         "id": "2023-07-13-uap-disclosure-act-consideration",
         "type": "hearing",
@@ -22282,6 +24234,82 @@
         "name": "WEAPONIZED Episode #116 — UAP Transparency at the National Space Symposium",
         "relationshipType": "discussed_topic",
         "role": "",
+        "context": ""
+      }
+    ],
+    "national-ufo-historical-records-center": [
+      {
+        "id": "claim-aaro-seeks-nufohrc-pre-1990-access",
+        "type": "claim",
+        "name": "AARO seeks subscription access to NUFOHRC’s pre-1990 historical records",
+        "relationshipType": "concerns",
+        "role": "",
+        "context": ""
+      },
+      {
+        "id": "claim-nufohrc-sole-source-justification",
+        "type": "claim",
+        "name": "Government market research identified NUFOHRC as the only source meeting stated archive requirements",
+        "relationshipType": "concerns",
+        "role": "",
+        "context": ""
+      },
+      {
+        "id": "claim-private-archives-preserve-historical-context",
+        "type": "claim",
+        "name": "Private civilian archives may preserve UAP records absent from government repositories",
+        "relationshipType": "concerns",
+        "role": "",
+        "context": ""
+      },
+      {
+        "id": "document-2026-aaro-nufohrc-sole-source-notice",
+        "type": "document",
+        "name": "Notice of Intent to Sole Source: Historical UAP Data and Analysis Subscription",
+        "relationshipType": "references_organization",
+        "role": "intended sole source",
+        "context": ""
+      },
+      {
+        "id": "aerial-phenomena-research-organization",
+        "type": "organization",
+        "name": "Aerial Phenomena Research Organization",
+        "relationshipType": "references_organization",
+        "role": "legacy records preserved by",
+        "context": "This relationship records archival custody, not organizational succession or endorsement."
+      },
+      {
+        "id": "aaro",
+        "type": "organization",
+        "name": "All-domain Anomaly Resolution Office",
+        "relationshipType": "references_organization",
+        "role": "proposed subscription source",
+        "context": ""
+      },
+      {
+        "id": "david-marler",
+        "type": "person",
+        "name": "David Marler",
+        "relationshipType": "affiliated_with",
+        "role": "founder and director",
+        "context": ""
+      },
+      {
+        "id": "j-allen-hynek",
+        "type": "person",
+        "name": "J. Allen Hynek",
+        "relationshipType": "references_organization",
+        "role": "personal records reportedly preserved by",
+        "context": ""
+      }
+    ],
+    "national-ufo-reporting-center": [
+      {
+        "id": "publication-2026-european-uap-barometer-2020-2025",
+        "type": "publication",
+        "name": "Updating the European UAP Barometer: Reporting Trends and New Data Sources, 2020–2025",
+        "relationshipType": "references_organization",
+        "role": "data source",
         "context": ""
       }
     ],
@@ -22923,6 +24951,16 @@
         "context": ""
       }
     ],
+    "neil-mccasland": [
+      {
+        "id": "event-2016-podesta-delonge-uap-conference-call",
+        "type": "timeline_event",
+        "name": "2016 Podesta–DeLonge UAP Conference Call",
+        "relationshipType": "involved_person",
+        "role": "participant",
+        "context": ""
+      }
+    ],
     "new-paradigm-institute": [
       {
         "id": "daniel-sheehan",
@@ -22985,6 +25023,16 @@
         "context": "Examines policy consequences arising from claims or scenarios involving technology of alleged nonhuman origin without treating those claims as established fact."
       }
     ],
+    "nondisclosure-agreements": [
+      {
+        "id": "document-2026-pursue-uap-disclosure-legal-waiver",
+        "type": "publication",
+        "name": "Department of War Legal Waiver for UAP Disclosures to PURSUE",
+        "relationshipType": "addresses_topic",
+        "role": "",
+        "context": ""
+      }
+    ],
     "nuclear-facility-uap-incidents": [
       {
         "id": "2026-weaponized-episode-107",
@@ -22996,6 +25044,14 @@
       }
     ],
     "nuclear-facility-uap-incursions": [
+      {
+        "id": "claim-vasco-transients-nuclear-test-correlation",
+        "type": "claim",
+        "name": "VASCO plate-derived features show a positive timing correlation with nuclear tests",
+        "relationshipType": "references_topic",
+        "role": "",
+        "context": ""
+      },
       {
         "id": "2024-weaponized-episode-54",
         "type": "podcast_episode",
@@ -23011,6 +25067,14 @@
         "relationshipType": "discussed_topic",
         "role": "",
         "context": ""
+      },
+      {
+        "id": "publication-2026-critical-evaluation-poss1e-technosignatures",
+        "type": "publication",
+        "name": "Critical Evaluation of Studies Alleging Evidence for Technosignatures in the POSS1-E Photographic Plates",
+        "relationshipType": "references_topic",
+        "role": "related nuclear/UAP research context",
+        "context": "The disputed statistical claim concerns the timing of photographic-plate features relative to nuclear tests, a distinct but related nuclear/UAP research thread."
       }
     ],
     "office-of-the-director-of-national-intelligence": [
@@ -23029,6 +25093,24 @@
         "relationshipType": "references_organization",
         "role": "",
         "context": ""
+      }
+    ],
+    "palomar-observatory": [
+      {
+        "id": "publication-2026-critical-evaluation-poss1e-technosignatures",
+        "type": "publication",
+        "name": "Critical Evaluation of Studies Alleging Evidence for Technosignatures in the POSS1-E Photographic Plates",
+        "relationshipType": "applies_to",
+        "role": "source-data facility",
+        "context": "The disputed analyses use digitized scans of historical Palomar Observatory Sky Survey photographic plates."
+      },
+      {
+        "id": "vasco-project",
+        "type": "research_project",
+        "name": "VASCO Project",
+        "relationshipType": "applies_to",
+        "role": "source-data facility",
+        "context": "The disputed analyses use digitized scans of historical Palomar Observatory Sky Survey photographic plates."
       }
     ],
     "paranormal-phenomena": [
@@ -23092,6 +25174,32 @@
         "context": "Primary historical subject"
       }
     ],
+    "philippe-ailleris": [
+      {
+        "id": "publication-2025-european-uap-barometer-2019-2024",
+        "type": "publication",
+        "name": "European UAP Sightings in 2019–2024: Towards a Broader and More Inclusive Euro UFO Barometer",
+        "relationshipType": "references_person",
+        "role": "author",
+        "context": ""
+      },
+      {
+        "id": "publication-2026-european-uap-barometer-2020-2025",
+        "type": "publication",
+        "name": "Updating the European UAP Barometer: Reporting Trends and New Data Sources, 2020–2025",
+        "relationshipType": "references_person",
+        "role": "author",
+        "context": ""
+      },
+      {
+        "id": "european-uap-barometer",
+        "type": "research_project",
+        "name": "European UAP Barometer",
+        "relationshipType": "references_person",
+        "role": "author",
+        "context": ""
+      }
+    ],
     "piia-wirsu": [
       {
         "id": "2024-weaponized-episode-63",
@@ -23109,6 +25217,14 @@
         "name": "April 5, 1966 House UFO Hearing",
         "relationshipType": "held_by",
         "role": "",
+        "context": ""
+      },
+      {
+        "id": "j-allen-hynek",
+        "type": "person",
+        "name": "J. Allen Hynek",
+        "relationshipType": "affiliated_with",
+        "role": "scientific consultant",
         "context": ""
       },
       {
@@ -23164,6 +25280,72 @@
         "context": ""
       }
     ],
+    "protected-uap-disclosures": [
+      {
+        "id": "claim-pursue-waiver-nda-protection",
+        "type": "claim",
+        "name": "Covered PURSUE communications receive specified NDA enforcement protection",
+        "relationshipType": "references_topic",
+        "role": "",
+        "context": ""
+      },
+      {
+        "id": "claim-pursue-waiver-sapia-protection",
+        "type": "claim",
+        "name": "Covered PURSUE communications receive specified SAPIA enforcement protection",
+        "relationshipType": "references_topic",
+        "role": "",
+        "context": ""
+      },
+      {
+        "id": "claim-pursue-waiver-review-potential-release",
+        "type": "claim",
+        "name": "PURSUE submissions may enter review for possible declassification or release",
+        "relationshipType": "references_topic",
+        "role": "",
+        "context": ""
+      },
+      {
+        "id": "claim-pursue-waiver-no-automatic-declassification",
+        "type": "claim",
+        "name": "Submission through PURSUE does not automatically declassify information",
+        "relationshipType": "references_topic",
+        "role": "",
+        "context": ""
+      },
+      {
+        "id": "claim-pursue-waiver-authorized-disclosure-mechanism",
+        "type": "claim",
+        "name": "The government established an authorized UAP disclosure mechanism through PURSUE",
+        "relationshipType": "references_topic",
+        "role": "",
+        "context": ""
+      },
+      {
+        "id": "claim-pursue-waiver-no-public-disclosure-authority",
+        "type": "claim",
+        "name": "The waiver does not authorize unrestricted public disclosure",
+        "relationshipType": "references_topic",
+        "role": "",
+        "context": ""
+      },
+      {
+        "id": "claim-pursue-waiver-channel-limitation",
+        "type": "claim",
+        "name": "The waiver is limited to communications directed to designated PURSUE representatives",
+        "relationshipType": "references_topic",
+        "role": "",
+        "context": ""
+      },
+      {
+        "id": "document-2026-pursue-uap-disclosure-legal-waiver",
+        "type": "publication",
+        "name": "Department of War Legal Waiver for UAP Disclosures to PURSUE",
+        "relationshipType": "addresses_topic",
+        "role": "",
+        "context": ""
+      }
+    ],
     "public-disclosure": [],
     "publication-1965-anatomy-of-a-phenomenon": [
       {
@@ -23195,7 +25377,565 @@
         "context": "Co-authored with J. Allen Hynek"
       }
     ],
+    "publication-2025-european-uap-barometer-2019-2024": [
+      {
+        "id": "uap-check",
+        "type": "organization",
+        "name": "UAP Check",
+        "relationshipType": "references_publication",
+        "role": "publisher",
+        "context": ""
+      },
+      {
+        "id": "philippe-ailleris",
+        "type": "person",
+        "name": "Philippe Ailleris",
+        "relationshipType": "authored",
+        "role": "",
+        "context": ""
+      },
+      {
+        "id": "publication-2026-european-uap-barometer-2020-2025",
+        "type": "publication",
+        "name": "Updating the European UAP Barometer: Reporting Trends and New Data Sources, 2020–2025",
+        "relationshipType": "references_publication",
+        "role": "updates",
+        "context": "Version 1.0 extends the previous 2019–2024 Barometer with 2025 data, new reporting channels and a pilot unresolved-case inventory."
+      },
+      {
+        "id": "european-uap-barometer",
+        "type": "research_project",
+        "name": "European UAP Barometer",
+        "relationshipType": "references_publication",
+        "role": "previous edition",
+        "context": ""
+      }
+    ],
     "publication-2026-civilizational-risks-uap-technology-arms-race": [],
+    "publication-2026-critical-evaluation-poss1e-technosignatures": [
+      {
+        "id": "claim-watters-vasco-methodological-challenge",
+        "type": "claim",
+        "name": "Methodological and statistical issues weaken the reported VASCO nuclear-test correlation",
+        "relationshipType": "references_publication",
+        "role": "primary evidence",
+        "context": ""
+      },
+      {
+        "id": "kevin-knuth",
+        "type": "person",
+        "name": "Kevin H. Knuth",
+        "relationshipType": "authored",
+        "role": "co-author",
+        "context": ""
+      },
+      {
+        "id": "wesley-watters",
+        "type": "person",
+        "name": "Wesley Andrés Watters",
+        "relationshipType": "authored",
+        "role": "lead/corresponding author",
+        "context": ""
+      }
+    ],
+    "publication-2026-european-uap-barometer-2020-2025": [
+      {
+        "id": "claim-european-barometer-uneven-coverage",
+        "type": "claim",
+        "name": "European UAP reporting coverage remains geographically uneven",
+        "relationshipType": "references_publication",
+        "role": "claim source",
+        "context": ""
+      },
+      {
+        "id": "claim-european-barometer-source-nonequivalence",
+        "type": "claim",
+        "name": "European UAP reporting sources are not methodologically equivalent",
+        "relationshipType": "references_publication",
+        "role": "claim source",
+        "context": ""
+      },
+      {
+        "id": "claim-european-barometer-2025-total",
+        "type": "claim",
+        "name": "Included reporting channels recorded 7,193 European events for 2025",
+        "relationshipType": "references_publication",
+        "role": "claim source",
+        "context": ""
+      },
+      {
+        "id": "claim-european-barometer-unresolved-outcomes",
+        "type": "claim",
+        "name": "Outcome-based unresolved-case tracking may be more informative than report totals alone",
+        "relationshipType": "references_publication",
+        "role": "claim source",
+        "context": ""
+      },
+      {
+        "id": "claim-european-barometer-infrastructure-effect",
+        "type": "claim",
+        "name": "Reporting infrastructure materially affects apparent UAP-report trends",
+        "relationshipType": "references_publication",
+        "role": "claim source",
+        "context": ""
+      },
+      {
+        "id": "enigma-labs",
+        "type": "organization",
+        "name": "Enigma Labs",
+        "relationshipType": "references_publication",
+        "role": "data provider",
+        "context": "The organization or platform is an identified data source in the 2020–2025 European UAP Barometer."
+      },
+      {
+        "id": "geipan",
+        "type": "organization",
+        "name": "GEIPAN",
+        "relationshipType": "references_publication",
+        "role": "data provider",
+        "context": "The organization or platform is an identified data source in the 2020–2025 European UAP Barometer."
+      },
+      {
+        "id": "mutual-ufo-network",
+        "type": "organization",
+        "name": "Mutual UFO Network",
+        "relationshipType": "references_publication",
+        "role": "data provider",
+        "context": "The organization or platform is an identified data source in the 2020–2025 European UAP Barometer."
+      },
+      {
+        "id": "national-ufo-reporting-center",
+        "type": "organization",
+        "name": "National UFO Reporting Center",
+        "relationshipType": "references_publication",
+        "role": "data provider",
+        "context": "The organization or platform is an identified data source in the 2020–2025 European UAP Barometer."
+      },
+      {
+        "id": "uap-check",
+        "type": "organization",
+        "name": "UAP Check",
+        "relationshipType": "references_publication",
+        "role": "publisher",
+        "context": ""
+      },
+      {
+        "id": "philippe-ailleris",
+        "type": "person",
+        "name": "Philippe Ailleris",
+        "relationshipType": "authored",
+        "role": "",
+        "context": ""
+      },
+      {
+        "id": "publication-2025-european-uap-barometer-2019-2024",
+        "type": "publication",
+        "name": "European UAP Sightings in 2019–2024: Towards a Broader and More Inclusive Euro UFO Barometer",
+        "relationshipType": "references_publication",
+        "role": "updated by",
+        "context": ""
+      },
+      {
+        "id": "european-uap-barometer",
+        "type": "research_project",
+        "name": "European UAP Barometer",
+        "relationshipType": "references_publication",
+        "role": "2025 update",
+        "context": ""
+      },
+      {
+        "id": "scientific-investigation",
+        "type": "topic",
+        "name": "Scientific Investigation",
+        "relationshipType": "references_publication",
+        "role": "reporting-data methodology",
+        "context": "The Barometer demonstrates why reporting pathways and data-processing practices must be understood before aggregate UAP counts are interpreted."
+      }
+    ],
+    "publication-2026-limits-velocity-recovery-pursue": [
+      {
+        "id": "claim-pr113-kinematic-degeneracy",
+        "type": "claim",
+        "name": "PR113 permits radically different size, range and velocity interpretations",
+        "relationshipType": "references_publication",
+        "role": "primary evidence",
+        "context": ""
+      },
+      {
+        "id": "claim-pr149-relative-velocity-bound",
+        "type": "claim",
+        "name": "PR149 supports an upper bound near Mach 0.4 on relative velocity",
+        "relationshipType": "references_publication",
+        "role": "primary evidence",
+        "context": ""
+      },
+      {
+        "id": "claim-pursue-corpus-insufficient-kinematics",
+        "type": "claim",
+        "name": "Released PURSUE videos do not provide complete information for velocity recovery",
+        "relationshipType": "references_publication",
+        "role": "primary evidence",
+        "context": ""
+      },
+      {
+        "id": "jacob-haqq-misra",
+        "type": "person",
+        "name": "Jacob Haqq-Misra",
+        "relationshipType": "authored",
+        "role": "corresponding author",
+        "context": ""
+      },
+      {
+        "id": "ravi-kopparapu",
+        "type": "person",
+        "name": "Ravi Kopparapu",
+        "relationshipType": "authored",
+        "role": "co-author",
+        "context": ""
+      },
+      {
+        "id": "pursue",
+        "type": "program",
+        "name": "PURSUE",
+        "relationshipType": "references_publication",
+        "role": "",
+        "context": "The Haqq-Misra and Kopparapu preprint reviews all 112 released PURSUE sensor videos for kinematic observability."
+      },
+      {
+        "id": "image-video-analysis",
+        "type": "topic",
+        "name": "Image & Video Analysis",
+        "relationshipType": "references_publication",
+        "role": "foundational kinematic observability study",
+        "context": "The PURSUE paper operationalizes the topic's key principle that apparent image motion is not automatically physical velocity."
+      }
+    ],
+    "publication-2026-micron-scale-technosignatures-lunar-regolith": [
+      {
+        "id": "claim-lunar-technosignature-null-result-constraint",
+        "type": "claim",
+        "name": "A one-cubic-metre null result could constrain specified undirected technomaterial scenarios",
+        "relationshipType": "references_publication",
+        "role": "claim source",
+        "context": ""
+      },
+      {
+        "id": "claim-micron-grain-interstellar-transport-feasibility",
+        "type": "claim",
+        "name": "Certain refractory micron-scale grains may survive modeled interstellar transport",
+        "relationshipType": "references_publication",
+        "role": "claim source",
+        "context": ""
+      },
+      {
+        "id": "claim-directed-technoparticle-delivery-regime",
+        "type": "claim",
+        "name": "Deliberately targeted particulate systems define a separate modeled detection regime",
+        "relationshipType": "references_publication",
+        "role": "claim source",
+        "context": ""
+      },
+      {
+        "id": "claim-lunar-regolith-technosignature-preservation",
+        "type": "claim",
+        "name": "Lunar regolith may preserve material relevant to long-timescale technosignature searches",
+        "relationshipType": "references_publication",
+        "role": "claim source",
+        "context": ""
+      },
+      {
+        "id": "claim-multimodal-technograin-screening",
+        "type": "claim",
+        "name": "Machine-vision triage and laboratory forensics could screen candidate anomalous grains",
+        "relationshipType": "references_publication",
+        "role": "claim source",
+        "context": ""
+      },
+      {
+        "id": "claim-no-lunar-technosignature-detection",
+        "type": "claim",
+        "name": "The lunar-regolith study proposes a search and reports no extraterrestrial technology detection",
+        "relationshipType": "references_publication",
+        "role": "claim source",
+        "context": ""
+      },
+      {
+        "id": "andrew-p-v-siemion",
+        "type": "person",
+        "name": "Andrew P. V. Siemion",
+        "relationshipType": "authored",
+        "role": "",
+        "context": ""
+      },
+      {
+        "id": "avi-loeb",
+        "type": "person",
+        "name": "Avi Loeb",
+        "relationshipType": "references_publication",
+        "role": "commentary on research",
+        "context": "Loeb's September 8 Medium article discusses the preprint; he is not one of its authors."
+      },
+      {
+        "id": "brian-c-lacki",
+        "type": "person",
+        "name": "Brian C. Lacki",
+        "relationshipType": "authored",
+        "role": "",
+        "context": ""
+      },
+      {
+        "id": "ian-a-crawford",
+        "type": "person",
+        "name": "Ian A. Crawford",
+        "relationshipType": "authored",
+        "role": "",
+        "context": ""
+      },
+      {
+        "id": "lewis-j-pinault",
+        "type": "person",
+        "name": "Lewis J. Pinault",
+        "relationshipType": "authored",
+        "role": "",
+        "context": ""
+      },
+      {
+        "id": "publication-2026-slysh-haloes-cold-computing-technosignature",
+        "type": "publication",
+        "name": "Slysh haloes: the waste heat of cold computing as a submillimetre technosignature",
+        "relationshipType": "references_publication",
+        "role": "complementary technosignature methodology",
+        "context": ""
+      },
+      {
+        "id": "exo-archaeology",
+        "type": "topic",
+        "name": "Exo-Archaeology",
+        "relationshipType": "references_publication",
+        "role": "",
+        "context": ""
+      },
+      {
+        "id": "lunar-regolith",
+        "type": "topic",
+        "name": "Lunar Regolith",
+        "relationshipType": "references_publication",
+        "role": "",
+        "context": ""
+      },
+      {
+        "id": "micron-scale-technosignatures",
+        "type": "topic",
+        "name": "Micron-Scale Technosignatures",
+        "relationshipType": "references_publication",
+        "role": "",
+        "context": ""
+      },
+      {
+        "id": "scientific-investigation",
+        "type": "topic",
+        "name": "Scientific Investigation",
+        "relationshipType": "references_publication",
+        "role": "model-based, testable search proposal",
+        "context": ""
+      },
+      {
+        "id": "space-exploration",
+        "type": "topic",
+        "name": "Space Exploration",
+        "relationshipType": "references_publication",
+        "role": "featured lunar research",
+        "context": "The paper proposes using characterized lunar regolith as a long-duration material archive for technosignature searches."
+      },
+      {
+        "id": "technosignatures",
+        "type": "topic",
+        "name": "Technosignatures",
+        "relationshipType": "references_publication",
+        "role": "material technosignature methodology",
+        "context": ""
+      }
+    ],
+    "publication-2026-slysh-haloes-cold-computing-technosignature": [
+      {
+        "id": "claim-slysh-null-result-value",
+        "type": "claim",
+        "name": "A systematic null search could constrain the modeled technosignature class",
+        "relationshipType": "references_publication",
+        "role": "claim source",
+        "context": ""
+      },
+      {
+        "id": "claim-slysh-submillimetre-signature",
+        "type": "claim",
+        "name": "Distributed cold computing could produce a submillimetre waste-heat signature",
+        "relationshipType": "references_publication",
+        "role": "claim source",
+        "context": ""
+      },
+      {
+        "id": "claim-slysh-archival-survey-constraints",
+        "type": "claim",
+        "name": "Existing survey archives may constrain cold circumstellar dissipation",
+        "relationshipType": "references_publication",
+        "role": "claim source",
+        "context": ""
+      },
+      {
+        "id": "claim-slysh-landauer-cold-computation",
+        "type": "claim",
+        "name": "Lower-temperature irreversible computation has a lower thermodynamic energy cost",
+        "relationshipType": "references_publication",
+        "role": "claim source",
+        "context": ""
+      },
+      {
+        "id": "claim-slysh-m-dwarf-suitability",
+        "type": "claim",
+        "name": "M-dwarf systems may be favorable modeled search targets",
+        "relationshipType": "references_publication",
+        "role": "claim source",
+        "context": ""
+      },
+      {
+        "id": "claim-slysh-natural-source-degeneracy",
+        "type": "claim",
+        "name": "Natural cold debris can imitate parts of a Slysh-halo signature",
+        "relationshipType": "references_publication",
+        "role": "claim source",
+        "context": ""
+      },
+      {
+        "id": "claim-no-slysh-halo-detection",
+        "type": "claim",
+        "name": "The Slysh-halo paper reports no extraterrestrial technology detection",
+        "relationshipType": "references_publication",
+        "role": "claim source",
+        "context": ""
+      },
+      {
+        "id": "michael-garrett",
+        "type": "person",
+        "name": "Michael Garrett",
+        "relationshipType": "authored",
+        "role": "",
+        "context": ""
+      },
+      {
+        "id": "publication-2026-micron-scale-technosignatures-lunar-regolith",
+        "type": "publication",
+        "name": "Micron-Scale Technosignatures: How a Cubic Metre of Lunar Regolith May Begin to Constrain the Number of Past Technological Civilisations in the Galaxy",
+        "relationshipType": "references_publication",
+        "role": "complementary physical-artifact search methodology",
+        "context": ""
+      },
+      {
+        "id": "cold-computing",
+        "type": "topic",
+        "name": "Cold Computing",
+        "relationshipType": "references_publication",
+        "role": "",
+        "context": ""
+      },
+      {
+        "id": "scientific-investigation",
+        "type": "topic",
+        "name": "Scientific Investigation",
+        "relationshipType": "references_publication",
+        "role": "falsifiable search methodology",
+        "context": ""
+      },
+      {
+        "id": "slysh-halo",
+        "type": "topic",
+        "name": "Slysh Halo",
+        "relationshipType": "references_publication",
+        "role": "",
+        "context": ""
+      },
+      {
+        "id": "space-exploration",
+        "type": "topic",
+        "name": "Space Exploration",
+        "relationshipType": "references_publication",
+        "role": "featured observational SETI research",
+        "context": ""
+      },
+      {
+        "id": "technosignatures",
+        "type": "topic",
+        "name": "Technosignatures",
+        "relationshipType": "references_publication",
+        "role": "cold waste-heat research",
+        "context": ""
+      },
+      {
+        "id": "waste-heat-technosignatures",
+        "type": "topic",
+        "name": "Waste-Heat Technosignatures",
+        "relationshipType": "references_publication",
+        "role": "",
+        "context": ""
+      }
+    ],
+    "pursue": [
+      {
+        "id": "claim-pr113-kinematic-degeneracy",
+        "type": "claim",
+        "name": "PR113 permits radically different size, range and velocity interpretations",
+        "relationshipType": "concerns",
+        "role": "case study",
+        "context": ""
+      },
+      {
+        "id": "claim-pr149-relative-velocity-bound",
+        "type": "claim",
+        "name": "PR149 supports an upper bound near Mach 0.4 on relative velocity",
+        "relationshipType": "concerns",
+        "role": "case study",
+        "context": ""
+      },
+      {
+        "id": "claim-pursue-corpus-insufficient-kinematics",
+        "type": "claim",
+        "name": "Released PURSUE videos do not provide complete information for velocity recovery",
+        "relationshipType": "concerns",
+        "role": "",
+        "context": ""
+      },
+      {
+        "id": "document-2026-aaro-classified-responsive-uap-uso-records",
+        "type": "publication",
+        "name": "AARO FOIA Determination on Five UAP/USO Case Records",
+        "relationshipType": "references_organization",
+        "role": "withheld contextual records versus public release pathway",
+        "context": ""
+      },
+      {
+        "id": "document-2026-pursue-uap-disclosure-legal-waiver",
+        "type": "publication",
+        "name": "Department of War Legal Waiver for UAP Disclosures to PURSUE",
+        "relationshipType": "applies_to",
+        "role": "authorized recipient channel",
+        "context": ""
+      },
+      {
+        "id": "publication-2026-limits-velocity-recovery-pursue",
+        "type": "publication",
+        "name": "Limits on Velocity Recovery from the PURSUE Sensor Videos",
+        "relationshipType": "references_organization",
+        "role": "dataset analyzed",
+        "context": "The paper reviews all 112 videos in the five released PURSUE tranches."
+      },
+      {
+        "id": "collection-2026-pursue-release-06",
+        "type": "publication",
+        "name": "PURSUE Release 06 — Declassified and Historical UAP Files",
+        "relationshipType": "contained_in",
+        "role": "sixth release tranche",
+        "context": ""
+      }
+    ],
     "queensland-saucer-nests": [
       {
         "id": "2024-weaponized-episode-63",
@@ -23250,6 +25990,16 @@
         "context": "Featured episode participant"
       }
     ],
+    "ravi-kopparapu": [
+      {
+        "id": "publication-2026-limits-velocity-recovery-pursue",
+        "type": "publication",
+        "name": "Limits on Velocity Recovery from the PURSUE Sensor Videos",
+        "relationshipType": "references_person",
+        "role": "co-author",
+        "context": ""
+      }
+    ],
     "raytheon": [
       {
         "id": "eric-hecker",
@@ -23266,6 +26016,56 @@
         "relationshipType": "timeline_connection",
         "role": "employer",
         "context": "Employer identified in Hecker's public account"
+      }
+    ],
+    "record-group-615-uap-records-collection": [
+      {
+        "id": "claim-private-archives-preserve-historical-context",
+        "type": "claim",
+        "name": "Private civilian archives may preserve UAP records absent from government repositories",
+        "relationshipType": "concerns",
+        "role": "",
+        "context": ""
+      },
+      {
+        "id": "document-2026-aaro-nufohrc-sole-source-notice",
+        "type": "document",
+        "name": "Notice of Intent to Sole Source: Historical UAP Data and Analysis Subscription",
+        "relationshipType": "references_publication",
+        "role": "complementary government archive",
+        "context": ""
+      },
+      {
+        "id": "aaro",
+        "type": "organization",
+        "name": "All-domain Anomaly Resolution Office",
+        "relationshipType": "references_publication",
+        "role": "related historical-record mandate",
+        "context": ""
+      },
+      {
+        "id": "national-archives",
+        "type": "organization",
+        "name": "National Archives and Records Administration",
+        "relationshipType": "references_publication",
+        "role": "maintains federal UAP records collection",
+        "context": ""
+      },
+      {
+        "id": "document-2026-pursue-uap-disclosure-legal-waiver",
+        "type": "publication",
+        "name": "Department of War Legal Waiver for UAP Disclosures to PURSUE",
+        "relationshipType": "references_publication",
+        "role": "related federal historical-record collection",
+        "context": ""
+      },
+      {
+        "id": "collection-2026-pursue-release-06",
+        "type": "publication",
+        "name": "PURSUE Release 06 — Declassified and Historical UAP Files",
+        "relationshipType": "references_publication",
+        "role": "related federal historical-record collection",
+        "context": ""
       }
     ],
     "rendlesham-forest-incident": [
@@ -23493,6 +26293,24 @@
     "robert-jacobs": [],
     "robert-l-hall": [],
     "robert-salas": [],
+    "robert-weiss": [
+      {
+        "id": "lockheed-martin",
+        "type": "organization",
+        "name": "Lockheed Martin",
+        "relationshipType": "affiliated_with",
+        "role": "former executive; relationship direction retained for repository compatibility",
+        "context": ""
+      },
+      {
+        "id": "event-2016-podesta-delonge-uap-conference-call",
+        "type": "timeline_event",
+        "name": "2016 Podesta–DeLonge UAP Conference Call",
+        "relationshipType": "involved_person",
+        "role": "participant",
+        "context": ""
+      }
+    ],
     "robin-hanson": [
       {
         "id": "2023-merged-episode-9",
@@ -24587,10 +27405,154 @@
         "context": ""
       },
       {
+        "id": "claim-lunar-technosignature-null-result-constraint",
+        "type": "claim",
+        "name": "A one-cubic-metre null result could constrain specified undirected technomaterial scenarios",
+        "relationshipType": "references_topic",
+        "role": "",
+        "context": ""
+      },
+      {
+        "id": "claim-slysh-null-result-value",
+        "type": "claim",
+        "name": "A systematic null search could constrain the modeled technosignature class",
+        "relationshipType": "references_topic",
+        "role": "",
+        "context": ""
+      },
+      {
         "id": "claim-element-115-propulsion",
         "type": "claim",
         "name": "Bob Lazar claims that Element 115 powered the Sport Model craft",
         "relationshipType": "associated_topic",
+        "role": "",
+        "context": ""
+      },
+      {
+        "id": "claim-micron-grain-interstellar-transport-feasibility",
+        "type": "claim",
+        "name": "Certain refractory micron-scale grains may survive modeled interstellar transport",
+        "relationshipType": "references_topic",
+        "role": "",
+        "context": ""
+      },
+      {
+        "id": "claim-directed-technoparticle-delivery-regime",
+        "type": "claim",
+        "name": "Deliberately targeted particulate systems define a separate modeled detection regime",
+        "relationshipType": "references_topic",
+        "role": "",
+        "context": ""
+      },
+      {
+        "id": "claim-slysh-submillimetre-signature",
+        "type": "claim",
+        "name": "Distributed cold computing could produce a submillimetre waste-heat signature",
+        "relationshipType": "references_topic",
+        "role": "",
+        "context": ""
+      },
+      {
+        "id": "claim-european-barometer-uneven-coverage",
+        "type": "claim",
+        "name": "European UAP reporting coverage remains geographically uneven",
+        "relationshipType": "references_topic",
+        "role": "",
+        "context": ""
+      },
+      {
+        "id": "claim-european-barometer-source-nonequivalence",
+        "type": "claim",
+        "name": "European UAP reporting sources are not methodologically equivalent",
+        "relationshipType": "references_topic",
+        "role": "",
+        "context": ""
+      },
+      {
+        "id": "claim-slysh-archival-survey-constraints",
+        "type": "claim",
+        "name": "Existing survey archives may constrain cold circumstellar dissipation",
+        "relationshipType": "references_topic",
+        "role": "",
+        "context": ""
+      },
+      {
+        "id": "claim-european-barometer-2025-total",
+        "type": "claim",
+        "name": "Included reporting channels recorded 7,193 European events for 2025",
+        "relationshipType": "references_topic",
+        "role": "",
+        "context": ""
+      },
+      {
+        "id": "claim-slysh-landauer-cold-computation",
+        "type": "claim",
+        "name": "Lower-temperature irreversible computation has a lower thermodynamic energy cost",
+        "relationshipType": "references_topic",
+        "role": "",
+        "context": ""
+      },
+      {
+        "id": "claim-lunar-regolith-technosignature-preservation",
+        "type": "claim",
+        "name": "Lunar regolith may preserve material relevant to long-timescale technosignature searches",
+        "relationshipType": "references_topic",
+        "role": "",
+        "context": ""
+      },
+      {
+        "id": "claim-slysh-m-dwarf-suitability",
+        "type": "claim",
+        "name": "M-dwarf systems may be favorable modeled search targets",
+        "relationshipType": "references_topic",
+        "role": "",
+        "context": ""
+      },
+      {
+        "id": "claim-multimodal-technograin-screening",
+        "type": "claim",
+        "name": "Machine-vision triage and laboratory forensics could screen candidate anomalous grains",
+        "relationshipType": "references_topic",
+        "role": "",
+        "context": ""
+      },
+      {
+        "id": "claim-slysh-natural-source-degeneracy",
+        "type": "claim",
+        "name": "Natural cold debris can imitate parts of a Slysh-halo signature",
+        "relationshipType": "references_topic",
+        "role": "",
+        "context": ""
+      },
+      {
+        "id": "claim-european-barometer-unresolved-outcomes",
+        "type": "claim",
+        "name": "Outcome-based unresolved-case tracking may be more informative than report totals alone",
+        "relationshipType": "references_topic",
+        "role": "",
+        "context": ""
+      },
+      {
+        "id": "claim-european-barometer-infrastructure-effect",
+        "type": "claim",
+        "name": "Reporting infrastructure materially affects apparent UAP-report trends",
+        "relationshipType": "references_topic",
+        "role": "",
+        "context": ""
+      },
+      {
+        "id": "claim-no-lunar-technosignature-detection",
+        "type": "claim",
+        "name": "The lunar-regolith study proposes a search and reports no extraterrestrial technology detection",
+        "relationshipType": "references_topic",
+        "role": "",
+        "context": ""
+      },
+      {
+        "id": "claim-no-slysh-halo-detection",
+        "type": "claim",
+        "name": "The Slysh-halo paper reports no extraterrestrial technology detection",
+        "relationshipType": "references_topic",
         "role": "",
         "context": ""
       },
@@ -24655,6 +27617,14 @@
         "type": "organization",
         "name": "UAP Science Advisory Council",
         "relationshipType": "addresses_topic",
+        "role": "",
+        "context": ""
+      },
+      {
+        "id": "philippe-ailleris",
+        "type": "person",
+        "name": "Philippe Ailleris",
+        "relationshipType": "references_topic",
         "role": "",
         "context": ""
       },
@@ -24875,6 +27845,38 @@
         "context": ""
       },
       {
+        "id": "publication-2026-micron-scale-technosignatures-lunar-regolith",
+        "type": "publication",
+        "name": "Micron-Scale Technosignatures: How a Cubic Metre of Lunar Regolith May Begin to Constrain the Number of Past Technological Civilisations in the Galaxy",
+        "relationshipType": "references_topic",
+        "role": "",
+        "context": ""
+      },
+      {
+        "id": "publication-2026-slysh-haloes-cold-computing-technosignature",
+        "type": "publication",
+        "name": "Slysh haloes: the waste heat of cold computing as a submillimetre technosignature",
+        "relationshipType": "references_topic",
+        "role": "",
+        "context": ""
+      },
+      {
+        "id": "publication-2026-european-uap-barometer-2020-2025",
+        "type": "publication",
+        "name": "Updating the European UAP Barometer: Reporting Trends and New Data Sources, 2020–2025",
+        "relationshipType": "references_topic",
+        "role": "methodological research",
+        "context": ""
+      },
+      {
+        "id": "european-uap-barometer",
+        "type": "research_project",
+        "name": "European UAP Barometer",
+        "relationshipType": "references_topic",
+        "role": "",
+        "context": ""
+      },
+      {
         "id": "galileo-project",
         "type": "research_project",
         "name": "The Galileo Project",
@@ -24961,6 +27963,46 @@
         "relationshipType": "timeline_connection",
         "role": "related_topic",
         "context": "Research and analysis mission"
+      },
+      {
+        "id": "cold-computing",
+        "type": "topic",
+        "name": "Cold Computing",
+        "relationshipType": "associated_topic",
+        "role": "",
+        "context": ""
+      },
+      {
+        "id": "exo-archaeology",
+        "type": "topic",
+        "name": "Exo-Archaeology",
+        "relationshipType": "associated_topic",
+        "role": "",
+        "context": ""
+      },
+      {
+        "id": "slysh-halo",
+        "type": "topic",
+        "name": "Slysh Halo",
+        "relationshipType": "associated_topic",
+        "role": "",
+        "context": ""
+      },
+      {
+        "id": "technosignatures",
+        "type": "topic",
+        "name": "Technosignatures",
+        "relationshipType": "associated_topic",
+        "role": "",
+        "context": ""
+      },
+      {
+        "id": "waste-heat-technosignatures",
+        "type": "topic",
+        "name": "Waste-Heat Technosignatures",
+        "relationshipType": "associated_topic",
+        "role": "",
+        "context": ""
       }
     ],
     "scott-bray": [],
@@ -25218,6 +28260,16 @@
         "type": "podcast_episode",
         "name": "WEAPONIZED Episode #117 — Federal UFO Files, Public Expectations, and Sleeping Dog",
         "relationshipType": "discussed_topic",
+        "role": "",
+        "context": ""
+      }
+    ],
+    "slysh-halo": [
+      {
+        "id": "publication-2026-slysh-haloes-cold-computing-technosignature",
+        "type": "publication",
+        "name": "Slysh haloes: the waste heat of cold computing as a submillimetre technosignature",
+        "relationshipType": "addresses_topic",
         "role": "",
         "context": ""
       }
@@ -25666,6 +28718,40 @@
         "relationshipType": "discussed_topic",
         "role": "",
         "context": ""
+      },
+      {
+        "id": "publication-2026-micron-scale-technosignatures-lunar-regolith",
+        "type": "publication",
+        "name": "Micron-Scale Technosignatures: How a Cubic Metre of Lunar Regolith May Begin to Constrain the Number of Past Technological Civilisations in the Galaxy",
+        "relationshipType": "references_topic",
+        "role": "connected gateway research",
+        "context": ""
+      },
+      {
+        "id": "publication-2026-slysh-haloes-cold-computing-technosignature",
+        "type": "publication",
+        "name": "Slysh haloes: the waste heat of cold computing as a submillimetre technosignature",
+        "relationshipType": "references_topic",
+        "role": "connected gateway research",
+        "context": ""
+      },
+      {
+        "id": "lunar-regolith",
+        "type": "topic",
+        "name": "Lunar Regolith",
+        "relationshipType": "associated_topic",
+        "role": "",
+        "context": ""
+      }
+    ],
+    "special-access-program-indoctrination-agreements": [
+      {
+        "id": "document-2026-pursue-uap-disclosure-legal-waiver",
+        "type": "publication",
+        "name": "Department of War Legal Waiver for UAP Disclosures to PURSUE",
+        "relationshipType": "addresses_topic",
+        "role": "",
+        "context": ""
       }
     ],
     "steven-greer": [],
@@ -25695,7 +28781,163 @@
         "context": ""
       }
     ],
+    "technosignatures": [
+      {
+        "id": "claim-vasco-transients-nuclear-test-correlation",
+        "type": "claim",
+        "name": "VASCO plate-derived features show a positive timing correlation with nuclear tests",
+        "relationshipType": "references_topic",
+        "role": "",
+        "context": ""
+      },
+      {
+        "id": "palomar-observatory",
+        "type": "facility",
+        "name": "Palomar Observatory",
+        "relationshipType": "associated_topic",
+        "role": "",
+        "context": ""
+      },
+      {
+        "id": "andrew-p-v-siemion",
+        "type": "person",
+        "name": "Andrew P. V. Siemion",
+        "relationshipType": "references_topic",
+        "role": "",
+        "context": ""
+      },
+      {
+        "id": "beatriz-villarroel",
+        "type": "person",
+        "name": "Beatriz Villarroel",
+        "relationshipType": "addresses_topic",
+        "role": "",
+        "context": ""
+      },
+      {
+        "id": "brian-c-lacki",
+        "type": "person",
+        "name": "Brian C. Lacki",
+        "relationshipType": "references_topic",
+        "role": "",
+        "context": ""
+      },
+      {
+        "id": "ian-a-crawford",
+        "type": "person",
+        "name": "Ian A. Crawford",
+        "relationshipType": "references_topic",
+        "role": "",
+        "context": ""
+      },
+      {
+        "id": "lewis-j-pinault",
+        "type": "person",
+        "name": "Lewis J. Pinault",
+        "relationshipType": "references_topic",
+        "role": "",
+        "context": ""
+      },
+      {
+        "id": "michael-garrett",
+        "type": "person",
+        "name": "Michael Garrett",
+        "relationshipType": "references_topic",
+        "role": "",
+        "context": ""
+      },
+      {
+        "id": "wesley-watters",
+        "type": "person",
+        "name": "Wesley Andrés Watters",
+        "relationshipType": "addresses_topic",
+        "role": "",
+        "context": ""
+      },
+      {
+        "id": "publication-2026-critical-evaluation-poss1e-technosignatures",
+        "type": "publication",
+        "name": "Critical Evaluation of Studies Alleging Evidence for Technosignatures in the POSS1-E Photographic Plates",
+        "relationshipType": "references_topic",
+        "role": "subject",
+        "context": "The paper evaluates whether the plate-derived features support claimed technosignature interpretations."
+      },
+      {
+        "id": "publication-2026-micron-scale-technosignatures-lunar-regolith",
+        "type": "publication",
+        "name": "Micron-Scale Technosignatures: How a Cubic Metre of Lunar Regolith May Begin to Constrain the Number of Past Technological Civilisations in the Galaxy",
+        "relationshipType": "references_topic",
+        "role": "",
+        "context": ""
+      },
+      {
+        "id": "publication-2026-slysh-haloes-cold-computing-technosignature",
+        "type": "publication",
+        "name": "Slysh haloes: the waste heat of cold computing as a submillimetre technosignature",
+        "relationshipType": "references_topic",
+        "role": "",
+        "context": ""
+      },
+      {
+        "id": "vasco-project",
+        "type": "research_project",
+        "name": "VASCO Project",
+        "relationshipType": "addresses_topic",
+        "role": "",
+        "context": ""
+      },
+      {
+        "id": "cold-computing",
+        "type": "topic",
+        "name": "Cold Computing",
+        "relationshipType": "broader_topic",
+        "role": "",
+        "context": ""
+      },
+      {
+        "id": "exo-archaeology",
+        "type": "topic",
+        "name": "Exo-Archaeology",
+        "relationshipType": "associated_topic",
+        "role": "",
+        "context": ""
+      },
+      {
+        "id": "micron-scale-technosignatures",
+        "type": "topic",
+        "name": "Micron-Scale Technosignatures",
+        "relationshipType": "broader_topic",
+        "role": "",
+        "context": ""
+      },
+      {
+        "id": "slysh-halo",
+        "type": "topic",
+        "name": "Slysh Halo",
+        "relationshipType": "broader_topic",
+        "role": "",
+        "context": ""
+      },
+      {
+        "id": "waste-heat-technosignatures",
+        "type": "topic",
+        "name": "Waste-Heat Technosignatures",
+        "relationshipType": "broader_topic",
+        "role": "",
+        "context": ""
+      }
+    ],
     "that-ufo-podcast": [],
+    "the-black-vault": [
+      {
+        "id": "document-2026-aaro-classified-responsive-uap-uso-records",
+        "type": "publication",
+        "name": "AARO FOIA Determination on Five UAP/USO Case Records",
+        "relationshipType": "documented_by",
+        "role": "",
+        "context": ""
+      }
+    ],
     "the-day-after-roswell": [
       {
         "id": "claim-roswell-technology-transfer",
@@ -26178,6 +29420,14 @@
         "context": ""
       },
       {
+        "id": "event-2016-podesta-delonge-uap-conference-call",
+        "type": "timeline_event",
+        "name": "2016 Podesta–DeLonge UAP Conference Call",
+        "relationshipType": "references_organization",
+        "role": "later organizational context; the call did not itself create TTSA",
+        "context": ""
+      },
+      {
         "id": "timeline-2017-10-christopher-mellon-ttsa",
         "type": "timeline_event",
         "name": "To The Stars Academy Launches with a UAP Science and Government Team",
@@ -26193,6 +29443,14 @@
         "name": "Need to Know Episode #11 — UFOs and Rock Stars",
         "relationshipType": "features_person",
         "role": "subject",
+        "context": ""
+      },
+      {
+        "id": "event-2016-podesta-delonge-uap-conference-call",
+        "type": "timeline_event",
+        "name": "2016 Podesta–DeLonge UAP Conference Call",
+        "relationshipType": "involved_person",
+        "role": "organizer and participant",
         "context": ""
       }
     ],
@@ -26312,6 +29570,24 @@
         "context": ""
       }
     ],
+    "uap-check": [
+      {
+        "id": "publication-2025-european-uap-barometer-2019-2024",
+        "type": "publication",
+        "name": "European UAP Sightings in 2019–2024: Towards a Broader and More Inclusive Euro UFO Barometer",
+        "relationshipType": "published_by",
+        "role": "",
+        "context": ""
+      },
+      {
+        "id": "publication-2026-european-uap-barometer-2020-2025",
+        "type": "publication",
+        "name": "Updating the European UAP Barometer: Reporting Trends and New Data Sources, 2020–2025",
+        "relationshipType": "published_by",
+        "role": "",
+        "context": ""
+      }
+    ],
     "uap-data-release": [
       {
         "id": "2026-weaponized-episode-117",
@@ -26423,6 +29699,14 @@
       }
     ],
     "uap-disclosure": [
+      {
+        "id": "record-group-615-uap-records-collection",
+        "type": "document",
+        "name": "Record Group 615 — Unidentified Anomalous Phenomena Records Collection",
+        "relationshipType": "addresses_topic",
+        "role": "",
+        "context": ""
+      },
       {
         "id": "marco-rubio",
         "type": "person",
@@ -26664,12 +29948,68 @@
         "context": ""
       },
       {
+        "id": "document-2026-aaro-classified-responsive-uap-uso-records",
+        "type": "publication",
+        "name": "AARO FOIA Determination on Five UAP/USO Case Records",
+        "relationshipType": "references_topic",
+        "role": "",
+        "context": ""
+      },
+      {
+        "id": "document-2026-pursue-uap-disclosure-legal-waiver",
+        "type": "publication",
+        "name": "Department of War Legal Waiver for UAP Disclosures to PURSUE",
+        "relationshipType": "references_topic",
+        "role": "",
+        "context": ""
+      },
+      {
+        "id": "collection-2026-pursue-release-06",
+        "type": "publication",
+        "name": "PURSUE Release 06 — Declassified and Historical UAP Files",
+        "relationshipType": "references_topic",
+        "role": "",
+        "context": ""
+      },
+      {
         "id": "publication-2026-civilizational-risks-uap-technology-arms-race",
         "type": "publication",
         "name": "The Civilizational Risks of a UAP Technology Arms Race: Nonhuman Technology and Global Security",
         "relationshipType": "references_topic",
         "role": "subject",
         "context": "Considers how public acknowledgment or disclosure could alter geopolitical competition and international security."
+      },
+      {
+        "id": "event-2016-podesta-delonge-uap-conference-call",
+        "type": "timeline_event",
+        "name": "2016 Podesta–DeLonge UAP Conference Call",
+        "relationshipType": "references_topic",
+        "role": "",
+        "context": ""
+      },
+      {
+        "id": "nondisclosure-agreements",
+        "type": "topic",
+        "name": "Nondisclosure Agreements",
+        "relationshipType": "associated_topic",
+        "role": "",
+        "context": ""
+      },
+      {
+        "id": "protected-uap-disclosures",
+        "type": "topic",
+        "name": "Protected UAP Disclosures",
+        "relationshipType": "associated_topic",
+        "role": "",
+        "context": ""
+      },
+      {
+        "id": "special-access-program-indoctrination-agreements",
+        "type": "topic",
+        "name": "Special Access Program Indoctrination Agreements",
+        "relationshipType": "associated_topic",
+        "role": "",
+        "context": ""
       }
     ],
     "uap-disinformation": [
@@ -28136,6 +31476,14 @@
         "relationshipType": "discussed_topic",
         "role": "",
         "context": ""
+      },
+      {
+        "id": "document-2026-aaro-classified-responsive-uap-uso-records",
+        "type": "publication",
+        "name": "AARO FOIA Determination on Five UAP/USO Case Records",
+        "relationshipType": "references_topic",
+        "role": "",
+        "context": ""
       }
     ],
     "united-states-air-force-thunderbirds": [
@@ -28859,6 +32207,40 @@
         "context": ""
       }
     ],
+    "vasco-project": [
+      {
+        "id": "claim-watters-vasco-methodological-challenge",
+        "type": "claim",
+        "name": "Methodological and statistical issues weaken the reported VASCO nuclear-test correlation",
+        "relationshipType": "concerns",
+        "role": "",
+        "context": ""
+      },
+      {
+        "id": "claim-vasco-transients-nuclear-test-correlation",
+        "type": "claim",
+        "name": "VASCO plate-derived features show a positive timing correlation with nuclear tests",
+        "relationshipType": "concerns",
+        "role": "",
+        "context": ""
+      },
+      {
+        "id": "beatriz-villarroel",
+        "type": "person",
+        "name": "Beatriz Villarroel",
+        "relationshipType": "affiliated_with",
+        "role": "researcher / project lead",
+        "context": ""
+      },
+      {
+        "id": "publication-2026-critical-evaluation-poss1e-technosignatures",
+        "type": "publication",
+        "name": "Critical Evaluation of Studies Alleging Evidence for Technosignatures in the POSS1-E Photographic Plates",
+        "relationshipType": "references_organization",
+        "role": "research project evaluated",
+        "context": "The critique evaluates claims arising from VASCO-related analyses of pre-Sputnik POSS1 photographic plates."
+      }
+    ],
     "wall-street-journal": [
       {
         "id": "2025-weaponized-episode-70",
@@ -28894,6 +32276,16 @@
       }
     ],
     "warren-randolph": [],
+    "waste-heat-technosignatures": [
+      {
+        "id": "publication-2026-slysh-haloes-cold-computing-technosignature",
+        "type": "publication",
+        "name": "Slysh haloes: the waste heat of cold computing as a submillimetre technosignature",
+        "relationshipType": "addresses_topic",
+        "role": "",
+        "context": ""
+      }
+    ],
     "wayne-pacelle": [
       {
         "id": "2023-weaponized-episode-31",
@@ -30094,6 +33486,16 @@
         "relationshipType": "timeline_connection",
         "role": "related_media",
         "context": "Podcast series launched"
+      }
+    ],
+    "wesley-watters": [
+      {
+        "id": "publication-2026-critical-evaluation-poss1e-technosignatures",
+        "type": "publication",
+        "name": "Critical Evaluation of Studies Alleging Evidence for Technosignatures in the POSS1-E Photographic Plates",
+        "relationshipType": "references_person",
+        "role": "lead author",
+        "context": "Wesley Andrés Watters is the corresponding and lead-listed author of the PASA accepted manuscript."
       }
     ],
     "whistleblower-protection": [
@@ -43028,6 +46430,19 @@
         "score": 35
       },
       {
+        "id": "2026-weaponized-episode-108",
+        "name": "WEAPONIZED Episode #108 — Syria UAP Video — Apparent Instantaneous Acceleration",
+        "seriesId": "weaponized-podcast",
+        "date": "2026-02-03",
+        "sharedEntityIds": [
+          "george-knapp",
+          "image-video-analysis",
+          "jeremy-corbell"
+        ],
+        "sharedEntityCount": 3,
+        "score": 35
+      },
+      {
         "id": "2026-weaponized-episode-103",
         "name": "WEAPONIZED Episode #103 — 2025 Year in Review — Progress, Evidence, and Pushback",
         "seriesId": "weaponized-podcast",
@@ -43035,6 +46450,19 @@
         "sharedEntityIds": [
           "george-knapp",
           "jay-stratton",
+          "jeremy-corbell"
+        ],
+        "sharedEntityCount": 3,
+        "score": 35
+      },
+      {
+        "id": "2025-weaponized-episode-89",
+        "name": "WEAPONIZED Episode #89 — The 2025 UAP Hearing — Did It Move the Needle?",
+        "seriesId": "weaponized-podcast",
+        "date": "2025-09-16",
+        "sharedEntityIds": [
+          "george-knapp",
+          "image-video-analysis",
           "jeremy-corbell"
         ],
         "sharedEntityCount": 3,
@@ -43054,42 +46482,17 @@
         "score": 35
       },
       {
-        "id": "2024-weaponized-episode-52",
-        "name": "WEAPONIZED Episode #52 — Season Finale and AARO Historical Report Review",
+        "id": "2025-weaponized-episode-81",
+        "name": "WEAPONIZED Episode #81 — The Full Mosul Orb Video",
         "seriesId": "weaponized-podcast",
-        "date": "2024-03-13",
+        "date": "2025-07-01",
         "sharedEntityIds": [
           "george-knapp",
-          "jay-stratton",
+          "image-video-analysis",
           "jeremy-corbell"
         ],
         "sharedEntityCount": 3,
         "score": 35
-      },
-      {
-        "id": "2023-weaponized-episode-3",
-        "name": "WEAPONIZED Episode #3 — Jay Stratton — AAWSAP, AATIP, and the UAP Task Force",
-        "seriesId": "weaponized-podcast",
-        "date": "2023-02-06",
-        "sharedEntityIds": [
-          "george-knapp",
-          "jay-stratton",
-          "jeremy-corbell"
-        ],
-        "sharedEntityCount": 3,
-        "score": 35
-      },
-      {
-        "id": "2026-weaponized-episode-120",
-        "name": "WEAPONIZED Episode #120 — Whitley Strieber — Transformation 2026 and the Meaning of Close Encounters",
-        "seriesId": "weaponized-podcast",
-        "date": "2026-06-18",
-        "sharedEntityIds": [
-          "george-knapp",
-          "jeremy-corbell"
-        ],
-        "sharedEntityCount": 2,
-        "score": 25
       }
     ],
     "2023-weaponized-episode-9": [
@@ -44395,6 +47798,21 @@
     ],
     "2024-weaponized-episode-47": [
       {
+        "id": "2025-weaponized-episode-79",
+        "name": "WEAPONIZED Episode #79 — The Large Disc UAP Video",
+        "seriesId": "weaponized-podcast",
+        "date": "2025-06-17",
+        "sharedEntityIds": [
+          "department-of-defense",
+          "george-knapp",
+          "government-transparency",
+          "image-video-analysis",
+          "jeremy-corbell"
+        ],
+        "sharedEntityCount": 5,
+        "score": 55
+      },
+      {
         "id": "2024-weaponized-episode-50",
         "name": "WEAPONIZED Episode #50 — Washington Update on UAP Transparency and Congressional Oversight",
         "seriesId": "weaponized-podcast",
@@ -44408,6 +47826,20 @@
         ],
         "sharedEntityCount": 5,
         "score": 55
+      },
+      {
+        "id": "2026-weaponized-episode-108",
+        "name": "WEAPONIZED Episode #108 — Syria UAP Video — Apparent Instantaneous Acceleration",
+        "seriesId": "weaponized-podcast",
+        "date": "2026-02-03",
+        "sharedEntityIds": [
+          "department-of-defense",
+          "george-knapp",
+          "image-video-analysis",
+          "jeremy-corbell"
+        ],
+        "sharedEntityCount": 4,
+        "score": 45
       },
       {
         "id": "2025-weaponized-episode-82",
@@ -44424,14 +47856,14 @@
         "score": 45
       },
       {
-        "id": "2025-weaponized-episode-79",
-        "name": "WEAPONIZED Episode #79 — The Large Disc UAP Video",
+        "id": "2025-weaponized-episode-81",
+        "name": "WEAPONIZED Episode #81 — The Full Mosul Orb Video",
         "seriesId": "weaponized-podcast",
-        "date": "2025-06-17",
+        "date": "2025-07-01",
         "sharedEntityIds": [
-          "department-of-defense",
           "george-knapp",
           "government-transparency",
+          "image-video-analysis",
           "jeremy-corbell"
         ],
         "sharedEntityCount": 4,
@@ -44447,34 +47879,6 @@
           "government-transparency",
           "jeremy-corbell",
           "uap-research"
-        ],
-        "sharedEntityCount": 4,
-        "score": 45
-      },
-      {
-        "id": "2025-weaponized-episode-74",
-        "name": "WEAPONIZED Episode #74 — Matthew Brown and Immaculate Constellation — Part 1",
-        "seriesId": "weaponized-podcast",
-        "date": "2025-04-29",
-        "sharedEntityIds": [
-          "department-of-defense",
-          "george-knapp",
-          "government-transparency",
-          "jeremy-corbell"
-        ],
-        "sharedEntityCount": 4,
-        "score": 45
-      },
-      {
-        "id": "2024-weaponized-episode-64",
-        "name": "WEAPONIZED Episode #64 — The 2024 UAP Year in Review",
-        "seriesId": "weaponized-podcast",
-        "date": "2024-12-31",
-        "sharedEntityIds": [
-          "department-of-defense",
-          "george-knapp",
-          "government-transparency",
-          "jeremy-corbell"
         ],
         "sharedEntityCount": 4,
         "score": 45
@@ -48348,6 +51752,36 @@
     ],
     "2025-weaponized-episode-79": [
       {
+        "id": "2025-weaponized-episode-81",
+        "name": "WEAPONIZED Episode #81 — The Full Mosul Orb Video",
+        "seriesId": "weaponized-podcast",
+        "date": "2025-07-01",
+        "sharedEntityIds": [
+          "george-knapp",
+          "government-transparency",
+          "image-video-analysis",
+          "jeremy-corbell",
+          "uap-journalism"
+        ],
+        "sharedEntityCount": 5,
+        "score": 55
+      },
+      {
+        "id": "2024-weaponized-episode-47",
+        "name": "WEAPONIZED Episode #47 — The Jellyfish UAP Investigation",
+        "seriesId": "weaponized-podcast",
+        "date": "2024-01-15",
+        "sharedEntityIds": [
+          "department-of-defense",
+          "george-knapp",
+          "government-transparency",
+          "image-video-analysis",
+          "jeremy-corbell"
+        ],
+        "sharedEntityCount": 5,
+        "score": 55
+      },
+      {
         "id": "2026-weaponized-episode-117",
         "name": "WEAPONIZED Episode #117 — Federal UFO Files, Public Expectations, and Sleeping Dog",
         "seriesId": "weaponized-podcast",
@@ -48357,6 +51791,20 @@
           "george-knapp",
           "jeremy-corbell",
           "uap-journalism"
+        ],
+        "sharedEntityCount": 4,
+        "score": 45
+      },
+      {
+        "id": "2026-weaponized-episode-108",
+        "name": "WEAPONIZED Episode #108 — Syria UAP Video — Apparent Instantaneous Acceleration",
+        "seriesId": "weaponized-podcast",
+        "date": "2026-02-03",
+        "sharedEntityIds": [
+          "department-of-defense",
+          "george-knapp",
+          "image-video-analysis",
+          "jeremy-corbell"
         ],
         "sharedEntityCount": 4,
         "score": 45
@@ -48376,52 +51824,10 @@
         "score": 45
       },
       {
-        "id": "2025-weaponized-episode-81",
-        "name": "WEAPONIZED Episode #81 — The Full Mosul Orb Video",
-        "seriesId": "weaponized-podcast",
-        "date": "2025-07-01",
-        "sharedEntityIds": [
-          "george-knapp",
-          "government-transparency",
-          "jeremy-corbell",
-          "uap-journalism"
-        ],
-        "sharedEntityCount": 4,
-        "score": 45
-      },
-      {
         "id": "2025-weaponized-episode-78",
         "name": "WEAPONIZED Episode #78 — Sean Kirkpatrick, AARO, and UFO Politics",
         "seriesId": "weaponized-podcast",
         "date": "2025-06-09",
-        "sharedEntityIds": [
-          "george-knapp",
-          "government-transparency",
-          "jeremy-corbell",
-          "uap-journalism"
-        ],
-        "sharedEntityCount": 4,
-        "score": 45
-      },
-      {
-        "id": "2025-weaponized-episode-74",
-        "name": "WEAPONIZED Episode #74 — Matthew Brown and Immaculate Constellation — Part 1",
-        "seriesId": "weaponized-podcast",
-        "date": "2025-04-29",
-        "sharedEntityIds": [
-          "department-of-defense",
-          "george-knapp",
-          "government-transparency",
-          "jeremy-corbell"
-        ],
-        "sharedEntityCount": 4,
-        "score": 45
-      },
-      {
-        "id": "2025-weaponized-episode-70",
-        "name": "WEAPONIZED Episode #70 — The Age of Disclosure and Media Coverage of UAP",
-        "seriesId": "weaponized-podcast",
-        "date": "2025-03-25",
         "sharedEntityIds": [
           "george-knapp",
           "government-transparency",
@@ -48519,6 +51925,21 @@
     ],
     "2025-weaponized-episode-81": [
       {
+        "id": "2025-weaponized-episode-79",
+        "name": "WEAPONIZED Episode #79 — The Large Disc UAP Video",
+        "seriesId": "weaponized-podcast",
+        "date": "2025-06-17",
+        "sharedEntityIds": [
+          "george-knapp",
+          "government-transparency",
+          "image-video-analysis",
+          "jeremy-corbell",
+          "uap-journalism"
+        ],
+        "sharedEntityCount": 5,
+        "score": 55
+      },
+      {
         "id": "2024-weaponized-episode-54",
         "name": "WEAPONIZED Episode #54 — Pantex, Nuclear-Site UAP Incursions, and FOIA Records",
         "seriesId": "weaponized-podcast",
@@ -48532,20 +51953,6 @@
         ],
         "sharedEntityCount": 5,
         "score": 55
-      },
-      {
-        "id": "2025-weaponized-episode-79",
-        "name": "WEAPONIZED Episode #79 — The Large Disc UAP Video",
-        "seriesId": "weaponized-podcast",
-        "date": "2025-06-17",
-        "sharedEntityIds": [
-          "george-knapp",
-          "government-transparency",
-          "jeremy-corbell",
-          "uap-journalism"
-        ],
-        "sharedEntityCount": 4,
-        "score": 45
       },
       {
         "id": "2025-weaponized-episode-78",
@@ -48590,17 +51997,18 @@
         "score": 45
       },
       {
-        "id": "2026-weaponized-episode-117",
-        "name": "WEAPONIZED Episode #117 — Federal UFO Files, Public Expectations, and Sleeping Dog",
+        "id": "2024-weaponized-episode-47",
+        "name": "WEAPONIZED Episode #47 — The Jellyfish UAP Investigation",
         "seriesId": "weaponized-podcast",
-        "date": "2026-05-08",
+        "date": "2024-01-15",
         "sharedEntityIds": [
           "george-knapp",
-          "jeremy-corbell",
-          "uap-journalism"
+          "government-transparency",
+          "image-video-analysis",
+          "jeremy-corbell"
         ],
-        "sharedEntityCount": 3,
-        "score": 35
+        "sharedEntityCount": 4,
+        "score": 45
       }
     ],
     "2025-weaponized-episode-82": [
@@ -51185,6 +54593,48 @@
         "score": 45
       },
       {
+        "id": "2025-weaponized-episode-89",
+        "name": "WEAPONIZED Episode #89 — The 2025 UAP Hearing — Did It Move the Needle?",
+        "seriesId": "weaponized-podcast",
+        "date": "2025-09-16",
+        "sharedEntityIds": [
+          "george-knapp",
+          "image-video-analysis",
+          "jeremy-corbell",
+          "marik-von-rennenkampff"
+        ],
+        "sharedEntityCount": 4,
+        "score": 45
+      },
+      {
+        "id": "2025-weaponized-episode-79",
+        "name": "WEAPONIZED Episode #79 — The Large Disc UAP Video",
+        "seriesId": "weaponized-podcast",
+        "date": "2025-06-17",
+        "sharedEntityIds": [
+          "department-of-defense",
+          "george-knapp",
+          "image-video-analysis",
+          "jeremy-corbell"
+        ],
+        "sharedEntityCount": 4,
+        "score": 45
+      },
+      {
+        "id": "2024-weaponized-episode-47",
+        "name": "WEAPONIZED Episode #47 — The Jellyfish UAP Investigation",
+        "seriesId": "weaponized-podcast",
+        "date": "2024-01-15",
+        "sharedEntityIds": [
+          "department-of-defense",
+          "george-knapp",
+          "image-video-analysis",
+          "jeremy-corbell"
+        ],
+        "sharedEntityCount": 4,
+        "score": 45
+      },
+      {
         "id": "2026-weaponized-episode-117",
         "name": "WEAPONIZED Episode #117 — Federal UFO Files, Public Expectations, and Sleeping Dog",
         "seriesId": "weaponized-podcast",
@@ -51206,45 +54656,6 @@
           "department-of-defense",
           "george-knapp",
           "jeremy-corbell"
-        ],
-        "sharedEntityCount": 3,
-        "score": 35
-      },
-      {
-        "id": "2026-weaponized-episode-111",
-        "name": "WEAPONIZED Episode #111 — Lenval Logan — UAP Task Force Analysis and Better Classified Evidence",
-        "seriesId": "weaponized-podcast",
-        "date": "2026-03-03",
-        "sharedEntityIds": [
-          "george-knapp",
-          "jeremy-corbell",
-          "syria-uap-2021"
-        ],
-        "sharedEntityCount": 3,
-        "score": 35
-      },
-      {
-        "id": "2025-weaponized-episode-91",
-        "name": "WEAPONIZED Episode #91 — Dylan Borland Unloads — The Truth About Legacy UFO Programs: Part 2",
-        "seriesId": "weaponized-podcast",
-        "date": "2025-10-02",
-        "sharedEntityIds": [
-          "department-of-defense",
-          "george-knapp",
-          "jeremy-corbell"
-        ],
-        "sharedEntityCount": 3,
-        "score": 35
-      },
-      {
-        "id": "2025-weaponized-episode-89",
-        "name": "WEAPONIZED Episode #89 — The 2025 UAP Hearing — Did It Move the Needle?",
-        "seriesId": "weaponized-podcast",
-        "date": "2025-09-16",
-        "sharedEntityIds": [
-          "george-knapp",
-          "jeremy-corbell",
-          "marik-von-rennenkampff"
         ],
         "sharedEntityCount": 3,
         "score": 35

@@ -1,0 +1,38 @@
+{
+  "id": "the-black-vault",
+  "type": "organization",
+  "name": "The Black Vault",
+  "summary": "Independent government-document archive founded by John Greenewald Jr., publishing records obtained through the Freedom of Information Act and other public-records processes.",
+  "organizationPurpose": "Government-records research, archiving and publication.",
+  "destinationPage": true,
+  "visibleInDirectory": true,
+  "searchable": true,
+  "taxonomyStatus": "canonical",
+  "relationships": [
+    {
+      "type": "documented_by",
+      "target": "document-2026-aaro-classified-responsive-uap-uso-records",
+      "role": "FOIA determination and records-access context"
+    },
+    {
+      "type": "affiliated_with",
+      "target": "john-greenewald-jr",
+      "role": "founder"
+    }
+  ],
+  "officialLinks": [
+    {
+      "label": "Official website",
+      "url": "https://www.theblackvault.com/",
+      "linkType": "official_website"
+    }
+  ],
+  "referenceSources": [
+    {
+      "label": "The Black Vault report",
+      "url": "https://www.theblackvault.com/documentarchive/aaro-says-it-found-records-on-uap-uso-cases-requested-by-congress-withholds-them-in-their-entirety-as-classified/",
+      "sourceType": "publisher_page",
+      "role": "primary_reporting"
+    }
+  ]
+}

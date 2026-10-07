@@ -1,0 +1,27 @@
+{
+  "id": "claim-classification-does-not-establish-record-contents",
+  "type": "claim",
+  "name": "Classification does not establish what the withheld records contain",
+  "summary": "A classification-based withholding identifies an access restriction; it does not establish extraterrestrial origin, extraordinary performance, transmedium travel or any other specific content.",
+  "relationships": [
+    {
+      "type": "contained_in",
+      "target": "document-2026-aaro-classified-responsive-uap-uso-records",
+      "role": "claim subject"
+    }
+  ],
+  "referenceSources": [
+    {
+      "label": "The Black Vault — AARO FOIA determination report",
+      "url": "https://www.theblackvault.com/documentarchive/aaro-says-it-found-records-on-uap-uso-cases-requested-by-congress-withholds-them-in-their-entirety-as-classified/",
+      "sourceType": "investigative_reporting_with_agency_correspondence",
+      "role": "claim_source"
+    }
+  ],
+  "claimMetadata": {
+    "classification": "evidentiary_limitation",
+    "knowledgePermanence": "permanent",
+    "evidenceBoundary": "Record existence, classification and incident authenticity are separate propositions."
+  },
+  "officialLinks": []
+}

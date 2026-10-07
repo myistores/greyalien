@@ -1,0 +1,27 @@
+{
+  "id": "claim-greenewald-filed-five-case-aaro-foia",
+  "type": "claim",
+  "name": "Greenewald sought AARO context records for five named cases",
+  "summary": "John Greenewald Jr. reports filing a targeted FOIA request for records beyond the already public imagery associated with five named cases.",
+  "relationships": [
+    {
+      "type": "contained_in",
+      "target": "document-2026-aaro-classified-responsive-uap-uso-records",
+      "role": "claim subject"
+    }
+  ],
+  "referenceSources": [
+    {
+      "label": "The Black Vault — AARO FOIA determination report",
+      "url": "https://www.theblackvault.com/documentarchive/aaro-says-it-found-records-on-uap-uso-cases-requested-by-congress-withholds-them-in-their-entirety-as-classified/",
+      "sourceType": "investigative_reporting_with_agency_correspondence",
+      "role": "claim_source"
+    }
+  ],
+  "claimMetadata": {
+    "classification": "requester_reported_procedural_fact",
+    "knowledgePermanence": "permanent",
+    "evidenceBoundary": "Record existence, classification and incident authenticity are separate propositions."
+  },
+  "officialLinks": []
+}

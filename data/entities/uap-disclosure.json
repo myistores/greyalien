@@ -18,6 +18,11 @@
       "type": "timeline_connection",
       "target": "event-2016-podesta-delonge-uap-conference-call",
       "role": "historical disclosure discussion"
+    },
+    {
+      "type": "references_publication",
+      "target": "document-2026-aaro-classified-responsive-uap-uso-records",
+      "role": "records-access pathway"
     }
   ],
   "officialLinks": [],
@@ -51,6 +56,12 @@
       "url": "https://www.paradigm.news/p/exclusive-podesta-responds-to-gruschs",
       "sourceType": "direct_interview_reporting",
       "role": "connected_event_source"
+    },
+    {
+      "label": "The Black Vault — AARO classified responsive-records report",
+      "url": "https://www.theblackvault.com/documentarchive/aaro-says-it-found-records-on-uap-uso-cases-requested-by-congress-withholds-them-in-their-entirety-as-classified/",
+      "sourceType": "investigative_reporting_with_agency_correspondence",
+      "role": "connected_record_source"
     }
   ],
   "taxonomyStatus": "canonical",

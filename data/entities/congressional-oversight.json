@@ -3,7 +3,20 @@
   "type": "topic",
   "name": "Congressional Oversight",
   "summary": "Congressional access, review, and accountability involving executive-branch programs.",
-  "relationships": [],
+  "relationships": [
+    {
+      "type": "references_publication",
+      "target": "document-2026-aaro-classified-responsive-uap-uso-records",
+      "role": "congressional request and later FOIA response"
+    }
+  ],
   "officialLinks": [],
-  "referenceSources": []
+  "referenceSources": [
+    {
+      "label": "The Black Vault — AARO classified responsive-records report",
+      "url": "https://www.theblackvault.com/documentarchive/aaro-says-it-found-records-on-uap-uso-cases-requested-by-congress-withholds-them-in-their-entirety-as-classified/",
+      "sourceType": "investigative_reporting_with_agency_correspondence",
+      "role": "connected_record_source"
+    }
+  ]
 }

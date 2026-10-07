@@ -1,0 +1,27 @@
+{
+  "id": "claim-aaro-located-responsive-records-five-cases",
+  "type": "claim",
+  "name": "AARO reported locating responsive records for the five-case request",
+  "summary": "AARO's determination in FOIA case 26-F-1892 states that responsive material was located for the request covering five named UAP/USO cases.",
+  "relationships": [
+    {
+      "type": "contained_in",
+      "target": "document-2026-aaro-classified-responsive-uap-uso-records",
+      "role": "claim subject"
+    }
+  ],
+  "referenceSources": [
+    {
+      "label": "The Black Vault — AARO FOIA determination report",
+      "url": "https://www.theblackvault.com/documentarchive/aaro-says-it-found-records-on-uap-uso-cases-requested-by-congress-withholds-them-in-their-entirety-as-classified/",
+      "sourceType": "investigative_reporting_with_agency_correspondence",
+      "role": "claim_source"
+    }
+  ],
+  "claimMetadata": {
+    "classification": "agency_determination_fact",
+    "knowledgePermanence": "permanent",
+    "evidenceBoundary": "Record existence, classification and incident authenticity are separate propositions."
+  },
+  "officialLinks": []
+}

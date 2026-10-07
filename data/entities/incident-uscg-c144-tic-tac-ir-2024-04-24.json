@@ -1,0 +1,42 @@
+{
+  "id": "incident-uscg-c144-tic-tac-ir-2024-04-24",
+  "type": "case",
+  "entitySubtype": "Source-Attributed UAP/USO Incident Label",
+  "name": "USCG C-144 ‘Tic Tac’ IR Record — April 24, 2024",
+  "summary": "Source-attributed label for an infrared record associated with a U.S. Coast Guard C-144; the nickname and description do not establish object identity or extraordinary performance.",
+  "destinationPage": true,
+  "visibleInDirectory": true,
+  "searchable": true,
+  "taxonomyStatus": "canonical",
+  "relationships": [
+    {
+      "type": "documented_by",
+      "target": "document-2026-aaro-classified-responsive-uap-uso-records",
+      "role": "one of five FOIA subjects"
+    },
+    {
+      "type": "references_organization",
+      "target": "house-oversight-committee",
+      "role": "March 31, 2026 video-record request"
+    }
+  ],
+  "referenceSources": [
+    {
+      "label": "House Oversight — March 31, 2026 UAP records request",
+      "url": "https://oversight.house.gov/wp-content/uploads/2026/03/UAP-Request-Letter-FINAL.pdf",
+      "sourceType": "primary_government_document",
+      "role": "incident_label_source"
+    },
+    {
+      "label": "The Black Vault — five-case FOIA report",
+      "url": "https://www.theblackvault.com/documentarchive/aaro-says-it-found-records-on-uap-uso-cases-requested-by-congress-withholds-them-in-their-entirety-as-classified/",
+      "sourceType": "requester_reporting",
+      "role": "withholding_context"
+    }
+  ],
+  "evidenceMetadata": {
+    "authenticationStatus": "Source label only; underlying withheld records do not publicly authenticate the reported incident description.",
+    "knowledgePermanence": "permanent"
+  },
+  "officialLinks": []
+}

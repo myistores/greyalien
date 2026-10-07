@@ -1,0 +1,150 @@
+{
+  "id": "document-2026-aaro-classified-responsive-uap-uso-records",
+  "type": "publication",
+  "entitySubtype": "Government FOIA Determination / Classified Records Withholding",
+  "name": "AARO FOIA Determination on Five UAP/USO Case Records",
+  "summary": "AARO reported locating records responsive to John Greenewald Jr.'s request concerning five congressionally identified UAP/USO incident labels, then withheld the responsive material in full under classification-related FOIA authority. The determination establishes a records-access outcome, not the authenticity or nature of the underlying incidents.",
+  "title": "AARO FOIA Determination on Five UAP/USO Case Records",
+  "publicationDate": "2026-10",
+  "publicationStatus": "Government FOIA determination reported and reproduced by requester",
+  "publisher": "All-domain Anomaly Resolution Office / Department of War",
+  "authors": [
+    "All-domain Anomaly Resolution Office"
+  ],
+  "destinationPage": true,
+  "visibleInDirectory": true,
+  "searchable": true,
+  "taxonomyStatus": "canonical",
+  "relationships": [
+    {
+      "type": "published_by",
+      "target": "aaro"
+    },
+    {
+      "type": "involved_person",
+      "target": "john-greenewald-jr",
+      "role": "FOIA requester"
+    },
+    {
+      "type": "documented_by",
+      "target": "the-black-vault"
+    },
+    {
+      "type": "references_person",
+      "target": "anna-paulina-luna",
+      "role": "March 2026 congressional request context"
+    },
+    {
+      "type": "references_organization",
+      "target": "house-oversight-committee",
+      "role": "congressional records request"
+    },
+    {
+      "type": "references_topic",
+      "target": "congressional-oversight"
+    },
+    {
+      "type": "references_topic",
+      "target": "government-transparency"
+    },
+    {
+      "type": "references_topic",
+      "target": "uap-disclosure"
+    },
+    {
+      "type": "references_topic",
+      "target": "unidentified-submerged-objects"
+    },
+    {
+      "type": "references_organization",
+      "target": "pursue",
+      "role": "withheld contextual records versus public release pathway"
+    },
+    {
+      "type": "references_case",
+      "target": "incident-wiley-2x-zinc-uap-uso-formation"
+    },
+    {
+      "type": "references_case",
+      "target": "incident-cactus-1x-uap-uso-submarine-2022-03-25"
+    },
+    {
+      "type": "references_case",
+      "target": "incident-jacker-2x-spherical-uap-over-water"
+    },
+    {
+      "type": "references_case",
+      "target": "incident-uscg-c144-tic-tac-ir-2024-04-24"
+    },
+    {
+      "type": "references_case",
+      "target": "incident-ufos-formation-persian-gulf-pr098"
+    },
+    {
+      "type": "contains_claim",
+      "target": "claim-congress-identified-five-uap-uso-cases"
+    },
+    {
+      "type": "contains_claim",
+      "target": "claim-greenewald-filed-five-case-aaro-foia"
+    },
+    {
+      "type": "contains_claim",
+      "target": "claim-aaro-located-responsive-records-five-cases"
+    },
+    {
+      "type": "contains_claim",
+      "target": "claim-aaro-withheld-five-case-records-in-full"
+    },
+    {
+      "type": "contains_claim",
+      "target": "claim-responsive-records-do-not-authenticate-incidents"
+    },
+    {
+      "type": "contains_claim",
+      "target": "claim-classification-does-not-establish-record-contents"
+    }
+  ],
+  "officialLinks": [],
+  "referenceSources": [
+    {
+      "label": "The Black Vault — AARO says it found records and withheld them",
+      "url": "https://www.theblackvault.com/documentarchive/aaro-says-it-found-records-on-uap-uso-cases-requested-by-congress-withholds-them-in-their-entirety-as-classified/",
+      "sourceType": "investigative_reporting_with_agency_correspondence",
+      "role": "primary_publication_source"
+    },
+    {
+      "label": "House Oversight — UAP request letter",
+      "url": "https://oversight.house.gov/wp-content/uploads/2026/03/UAP-Request-Letter-FINAL.pdf",
+      "sourceType": "primary_government_document",
+      "role": "congressional_request_context"
+    },
+    {
+      "label": "AARO UAP report-document catalog",
+      "url": "https://www.aaro.mil/Next-AARO-Home-redesign/Next-Parent/Next-UAP-Report-Documents/poster/",
+      "sourceType": "primary_government_catalog",
+      "role": "public_imagery_context"
+    }
+  ],
+  "foiaMetadata": {
+    "caseNumber": "26-F-1892",
+    "requester": "John Greenewald Jr.",
+    "responsiveRecordsStatus": "Located",
+    "disposition": "Withheld in full",
+    "citedAuthority": [
+      "5 U.S.C. § 552(b)(1)",
+      "Executive Order 13526"
+    ],
+    "segregability": "The public reporting states the responsive material was withheld in its entirety; the complete package was not independently available for a line-by-line segregability audit.",
+    "appealRights": "Use the agency determination itself for the controlling appeal instructions and deadline; no deadline is inferred by GreyAlien.",
+    "scope": "Contextual and written records associated with five named UAP/USO incident labels, beyond already released imagery."
+  },
+  "editorialNotes": {
+    "centralBoundary": "A responsive-records determination is not authentication of the case descriptions.",
+    "classificationBoundary": "Classification does not reveal the records' contents or validate any origin hypothesis.",
+    "publicRecordBoundary": "Public PURSUE imagery and withheld contextual records are distinct objects.",
+    "lifecyclePrinciple": "News can age; knowledge does not.",
+    "sourceCaution": "The case number and cited classification authority are visible in reporting about the reproduced response; the complete request/response package should control any legal deadline or appeal."
+  },
+  "relatedNewsId": "2026-10-05-black-vault-aaro-classified-responsive-records"
+}
