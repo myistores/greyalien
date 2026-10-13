@@ -1,0 +1,31 @@
+{
+  "id": "claim-pr135-mission-report-480-mph",
+  "type": "claim",
+  "name": "PR135 mission report described six objects at an estimated 480 mph",
+  "summary": "The government mission report described six small spherical objects with an estimated ground-projected speed of approximately 480 miles per hour; the estimate is not treated as independently recovered physical airspeed.",
+  "relationships": [
+    {
+      "type": "contained_in",
+      "target": "publication-2026-six-infrared-objects-bird-wingbeat-analysis",
+      "role": "structured research claim"
+    },
+    {
+      "type": "references_case",
+      "target": "case-dow-uap-pr135-six-infrared-objects"
+    }
+  ],
+  "referenceSources": [
+    {
+      "label": "arXiv:2610.08692v2",
+      "url": "https://arxiv.org/abs/2610.08692",
+      "sourceType": "scientific_preprint",
+      "role": "claim_source"
+    }
+  ],
+  "claimMetadata": {
+    "classification": "government_record_description",
+    "knowledgePermanence": "permanent",
+    "evidenceBoundary": "The original report, measured observations, model results and preferred interpretation remain separate propositions."
+  },
+  "officialLinks": []
+}

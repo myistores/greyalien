@@ -256,6 +256,22 @@
       "_canonicalScore": 0
     },
     {
+      "id": "case-dow-uap-pr135-six-infrared-objects",
+      "type": "case",
+      "name": "DOW-UAP-PR135 — Six Infrared Objects",
+      "summary": "PURSUE Release 06 infrared record of six objects over the Middle East, accompanied by a mission-report estimate of approximately 480 mph. A later scientific preprint reports independent 7.1–7.9 Hz brightness fluctuations and proposes nearby birds plus parallax as the best explanation; the interpretation remains provisional.",
+      "destinationPage": true,
+      "visibleInDirectory": true,
+      "searchable": true,
+      "taxonomyStatus": "canonical",
+      "entitySubtype": "PURSUE Infrared Sensor Record / Scientific Reanalysis Target",
+      "date": "2025-07-29",
+      "dateDisplay": "July 29, 2025 incident; released September 18, 2026",
+      "eventCategory": "Government sensor record with later scientific interpretation",
+      "_identityKey": "case:name:dow uap pr135 six infrared objects",
+      "_canonicalScore": 5
+    },
+    {
       "id": "eglin-runway-uap-incident",
       "type": "case",
       "name": "Eglin Runway UAP Incident",
@@ -1437,6 +1453,14 @@
       "_canonicalScore": 6
     },
     {
+      "id": "claim-pr135-flicker-not-tested-artifact",
+      "type": "claim",
+      "name": "Control tests did not reproduce the PR135 flicker as a sensor or compression artifact",
+      "summary": "Tests using planted constant-brightness objects did not reproduce the periodic brightness variation through the tested sensor and compression pipeline.",
+      "_identityKey": "claim:name:control tests did not reproduce the pr135 flicker as a sensor or compression artifact",
+      "_canonicalScore": 3
+    },
+    {
       "id": "claim-immaculate-constellation-record-contained-falsified-page",
       "type": "claim",
       "name": "Corbell alleged that the Congressional Record version of the Immaculate Constellation report included a falsified twelfth page",
@@ -1881,6 +1905,14 @@
       "summary": "Claim or framing presented in WEAPONIZED Episode #29.",
       "_identityKey": "claim:url:weaponizedpodcast.com/episodes-1/episode-number-29",
       "_canonicalScore": 83
+    },
+    {
+      "id": "claim-pr135-galileo-animal-frequency-overlap",
+      "type": "claim",
+      "name": "Galileo Project flying-animal recordings show overlapping brightness frequencies",
+      "summary": "Comparable analysis of ground-based Galileo Project infrared footage found flying-animal periodicities of approximately 3.4–10.0 cycles per second, overlapping the PR135 measurements.",
+      "_identityKey": "claim:name:galileo project flying animal recordings show overlapping brightness frequencies",
+      "_canonicalScore": 3
     },
     {
       "id": "claim-weaponized-13-2",
@@ -2732,6 +2764,14 @@
       "_canonicalScore": 83
     },
     {
+      "id": "claim-pr135-parallax-can-reproduce-projected-speed",
+      "type": "claim",
+      "name": "Modeled parallax can reproduce the reported projected speed",
+      "summary": "The authors report that a nearly stationary object at approximately 60–80% of the aircraft altitude could produce the reported 480 mph ground-projected motion.",
+      "_identityKey": "claim:name:modeled parallax can reproduce the reported projected speed",
+      "_canonicalScore": 3
+    },
+    {
       "id": "claim-momentum-could-fade-without-organized-follow-through",
       "type": "claim",
       "name": "Momentum could fade without organized follow-through",
@@ -2994,6 +3034,14 @@
       "name": "PR113 permits radically different size, range and velocity interpretations",
       "summary": "The paper uses PR113 to show that visible angular scale alone cannot distinguish a small nearby bird-like object from a much larger, faster and more distant object when range and platform data are missing.",
       "_identityKey": "claim:name:pr113 permits radically different size range and velocity interpretations",
+      "_canonicalScore": 3
+    },
+    {
+      "id": "claim-pr135-mission-report-480-mph",
+      "type": "claim",
+      "name": "PR135 mission report described six objects at an estimated 480 mph",
+      "summary": "The government mission report described six small spherical objects with an estimated ground-projected speed of approximately 480 miles per hour; the estimate is not treated as independently recovered physical airspeed.",
+      "_identityKey": "claim:name:pr135 mission report described six objects at an estimated 480 mph",
       "_canonicalScore": 3
     },
     {
@@ -3699,6 +3747,14 @@
       "summary": "The official episode description presents or discusses this claim; it is recorded here as a source-attributed claim, not as independently verified fact.",
       "_identityKey": "claim:url:weaponizedpodcast.com/episodes-3/episode-74",
       "_canonicalScore": 83
+    },
+    {
+      "id": "claim-pr135-bird-hypothesis",
+      "type": "claim",
+      "name": "The authors propose a small flock of birds as the best explanation",
+      "summary": "The paper interprets the combined photometric comparison and viewing geometry as best explained by a small flock of birds closer to the aircraft than assumed.",
+      "_identityKey": "claim:name:the authors propose a small flock of birds as the best explanation",
+      "_canonicalScore": 3
     },
     {
       "id": "claim-weaponized-4-4",
@@ -6544,6 +6600,14 @@
       "_canonicalScore": 83
     },
     {
+      "id": "claim-pr135-independent-brightness-flicker",
+      "type": "claim",
+      "name": "The six PR135 objects show independent periodic brightness fluctuations",
+      "summary": "The authors report that all six tracked objects brighten and dim at individual rates of approximately 7.1–7.9 cycles per second and out of phase with one another.",
+      "_identityKey": "claim:name:the six pr135 objects show independent periodic brightness fluctuations",
+      "_canonicalScore": 3
+    },
+    {
       "id": "claim-no-slysh-halo-detection",
       "type": "claim",
       "name": "The Slysh-halo paper reports no extraterrestrial technology detection",
@@ -6814,6 +6878,14 @@
       "summary": "The episode describes military officials as unable to explain the incursions.",
       "_identityKey": "claim:url:weaponizedpodcast.com/episodes-3/episode-63",
       "_canonicalScore": 83
+    },
+    {
+      "id": "claim-pr135-telemetry-needed-to-test-hypothesis",
+      "type": "claim",
+      "name": "Unredacted telemetry could test or refute the PR135 hypotheses",
+      "summary": "The authors state that redacted sensor and platform data would provide information capable of testing or refuting the proposed explanations.",
+      "_identityKey": "claim:name:unredacted telemetry could test or refute the pr135 hypotheses",
+      "_canonicalScore": 3
     },
     {
       "id": "claim-uss-jackson-crew-reported-four-tic-tac-objects",
@@ -7957,7 +8029,7 @@
       "summary": "Federal executive department responsible for U.S. national security",
       "taxonomyStatus": "canonical",
       "_identityKey": "organization:name:u s department of defense",
-      "_canonicalScore": 1011
+      "_canonicalScore": 1014
     },
     {
       "id": "department-of-energy",
@@ -8127,7 +8199,7 @@
       "name": "Avi Loeb",
       "summary": "Harvard astrophysicist, founder of the Galileo Project, and chair of the UAP Science Advisory Council.",
       "_identityKey": "person:name:avi loeb",
-      "_canonicalScore": 15
+      "_canonicalScore": 18
     },
     {
       "id": "beatriz-villarroel",
@@ -8611,7 +8683,7 @@
       "taxonomyStatus": "canonical",
       "entitySubtype": "Research Scientist",
       "_identityKey": "person:url:astrobiology.nasa.gov/ask-an-astrobiologist/episodes/41",
-      "_canonicalScore": 5
+      "_canonicalScore": 8
     },
     {
       "id": "jacques-vallee",
@@ -9096,6 +9168,18 @@
       "_canonicalScore": 0
     },
     {
+      "id": "michael-shermer",
+      "type": "person",
+      "name": "Michael Shermer",
+      "summary": "Co-author of the 2026 quantitative photometric analysis of six objects in the PURSUE PR135 infrared video.",
+      "destinationPage": true,
+      "visibleInDirectory": true,
+      "searchable": true,
+      "taxonomyStatus": "canonical",
+      "_identityKey": "person:name:michael shermer",
+      "_canonicalScore": 3
+    },
+    {
       "id": "michele-adams",
       "type": "person",
       "name": "Michele Adams",
@@ -9121,6 +9205,18 @@
       "searchable": true,
       "taxonomyStatus": "canonical",
       "_identityKey": "person:name:neil mccasland",
+      "_canonicalScore": 3
+    },
+    {
+      "id": "omer-eldadi",
+      "type": "person",
+      "name": "Omer Eldadi",
+      "summary": "Co-author of the 2026 quantitative photometric analysis of six objects in the PURSUE PR135 infrared video.",
+      "destinationPage": true,
+      "visibleInDirectory": true,
+      "searchable": true,
+      "taxonomyStatus": "canonical",
+      "_identityKey": "person:name:omer eldadi",
       "_canonicalScore": 3
     },
     {
@@ -9175,7 +9271,7 @@
       "taxonomyStatus": "canonical",
       "entitySubtype": "Planetary Scientist",
       "_identityKey": "person:name:ravi kopparapu",
-      "_canonicalScore": 5
+      "_canonicalScore": 8
     },
     {
       "id": "richard-beckwith",
@@ -9184,6 +9280,18 @@
       "summary": "Attorney and author who studies the history, law, and practice of American secrecy.",
       "_identityKey": "person:url:weaponizedpodcast.com/episodes-3/episode-86",
       "_canonicalScore": 86
+    },
+    {
+      "id": "richard-cloete",
+      "type": "person",
+      "name": "Richard Cloete",
+      "summary": "Co-author of the 2026 quantitative photometric analysis of six objects in the PURSUE PR135 infrared video.",
+      "destinationPage": true,
+      "visibleInDirectory": true,
+      "searchable": true,
+      "taxonomyStatus": "canonical",
+      "_identityKey": "person:name:richard cloete",
+      "_canonicalScore": 3
     },
     {
       "id": "richard-dolan",
@@ -12643,7 +12751,7 @@
       "taxonomyStatus": "canonical",
       "entitySubtype": "Government UAP Records Initiative",
       "_identityKey": "program:name:pursue",
-      "_canonicalScore": 17
+      "_canonicalScore": 20
     },
     {
       "id": "uap-task-force",
@@ -12669,7 +12777,7 @@
       "taxonomyStatus": "canonical",
       "entitySubtype": "Government FOIA Determination / Classified Records Withholding",
       "_identityKey": "publication:name:aaro foia determination on five uap uso case records",
-      "_canonicalScore": 13
+      "_canonicalScore": 9
     },
     {
       "id": "publication-1965-anatomy-of-a-phenomenon",
@@ -12802,7 +12910,7 @@
       "dateDisplay": "August 12, 2026",
       "eventCategory": "UAP sensor-video methodology",
       "_identityKey": "publication:name:limits on velocity recovery from the pursue sensor videos",
-      "_canonicalScore": 6
+      "_canonicalScore": 9
     },
     {
       "id": "los-alamos-monitor",
@@ -12864,7 +12972,23 @@
       "dateDisplay": "September 18, 2026",
       "eventCategory": "Government records release",
       "_identityKey": "publication:name:pursue release 06 declassified and historical uap files",
-      "_canonicalScore": 4
+      "_canonicalScore": 7
+    },
+    {
+      "id": "publication-2026-six-infrared-objects-bird-wingbeat-analysis",
+      "type": "publication",
+      "name": "Six objects reported at 480 mph in a declassified military infrared video show brightness flicker at bird wingbeat rates",
+      "summary": "Scientific preprint applying frame-by-frame photometry, control tests, Galileo Project animal comparisons and parallax modeling to DOW-UAP-PR135. The authors report independent 7.1–7.9 Hz brightness fluctuations and propose a nearby flock of birds as the best explanation, while identifying unredacted telemetry as capable of testing or refuting the hypothesis.",
+      "destinationPage": true,
+      "visibleInDirectory": true,
+      "searchable": true,
+      "taxonomyStatus": "canonical",
+      "entitySubtype": "Scientific Preprint / Infrared Photometry and Kinematic Interpretation",
+      "date": "2026-10-06",
+      "dateDisplay": "Submitted October 6, 2026; revised October 7, 2026",
+      "eventCategory": "PURSUE infrared-video scientific analysis",
+      "_identityKey": "publication:name:six objects reported at 480 mph in a declassified military infrared video show brightness flicker at bird wingbeat rates",
+      "_canonicalScore": 9
     },
     {
       "id": "sleeping-dog-documentary",
@@ -13002,7 +13126,7 @@
       "taxonomyStatus": "canonical",
       "entitySubtype": "Research Project / Initiative",
       "_identityKey": "research_project:name:the galileo project",
-      "_canonicalScore": 2
+      "_canonicalScore": 5
     },
     {
       "id": "vasco-project",
@@ -15317,7 +15441,7 @@
       "taxonomyStatus": "canonical",
       "entitySubtype": "Scientific Method",
       "_identityKey": "topic:name:image and video analysis",
-      "_canonicalScore": 42
+      "_canonicalScore": 45
     },
     {
       "id": "instantaneous-acceleration",

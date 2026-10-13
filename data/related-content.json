@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "generatedBy": "tools/build_related_content.py",
-  "generatedAt": "2026-10-07T15:53:55.129750+00:00",
+  "generatedAt": "2026-10-13T18:36:08.528858+00:00",
   "referencedIn": {
     "1946-scandinavian-ghost-rockets": [
       {
@@ -10379,6 +10379,14 @@
         "context": "Featured guest for MERGED Episode #10"
       },
       {
+        "id": "publication-2026-six-infrared-objects-bird-wingbeat-analysis",
+        "type": "publication",
+        "name": "Six objects reported at 480 mph in a declassified military infrared video show brightness flicker at bird wingbeat rates",
+        "relationshipType": "references_person",
+        "role": "author",
+        "context": ""
+      },
+      {
         "id": "timeline-2021-07-galileo-project-founded",
         "type": "timeline_event",
         "name": "Avi Loeb Co-Founds the Galileo Project for Systematic UAP Research",
@@ -11699,6 +11707,72 @@
       }
     ],
     "carl-sagan": [],
+    "case-dow-uap-pr135-six-infrared-objects": [
+      {
+        "id": "claim-pr135-flicker-not-tested-artifact",
+        "type": "claim",
+        "name": "Control tests did not reproduce the PR135 flicker as a sensor or compression artifact",
+        "relationshipType": "references_case",
+        "role": "",
+        "context": ""
+      },
+      {
+        "id": "claim-pr135-galileo-animal-frequency-overlap",
+        "type": "claim",
+        "name": "Galileo Project flying-animal recordings show overlapping brightness frequencies",
+        "relationshipType": "references_case",
+        "role": "",
+        "context": ""
+      },
+      {
+        "id": "claim-pr135-parallax-can-reproduce-projected-speed",
+        "type": "claim",
+        "name": "Modeled parallax can reproduce the reported projected speed",
+        "relationshipType": "references_case",
+        "role": "",
+        "context": ""
+      },
+      {
+        "id": "claim-pr135-mission-report-480-mph",
+        "type": "claim",
+        "name": "PR135 mission report described six objects at an estimated 480 mph",
+        "relationshipType": "references_case",
+        "role": "",
+        "context": ""
+      },
+      {
+        "id": "claim-pr135-bird-hypothesis",
+        "type": "claim",
+        "name": "The authors propose a small flock of birds as the best explanation",
+        "relationshipType": "references_case",
+        "role": "",
+        "context": ""
+      },
+      {
+        "id": "claim-pr135-independent-brightness-flicker",
+        "type": "claim",
+        "name": "The six PR135 objects show independent periodic brightness fluctuations",
+        "relationshipType": "references_case",
+        "role": "",
+        "context": ""
+      },
+      {
+        "id": "claim-pr135-telemetry-needed-to-test-hypothesis",
+        "type": "claim",
+        "name": "Unredacted telemetry could test or refute the PR135 hypotheses",
+        "relationshipType": "references_case",
+        "role": "",
+        "context": ""
+      },
+      {
+        "id": "publication-2026-six-infrared-objects-bird-wingbeat-analysis",
+        "type": "publication",
+        "name": "Six objects reported at 480 mph in a declassified military infrared video show brightness flicker at bird wingbeat rates",
+        "relationshipType": "references_case",
+        "role": "primary video analyzed",
+        "context": ""
+      }
+    ],
     "central-intelligence-agency": [
       {
         "id": "2026-weaponized-episode-110",
@@ -13199,6 +13273,92 @@
         "context": ""
       }
     ],
+    "claim-pr135-bird-hypothesis": [
+      {
+        "id": "case-dow-uap-pr135-six-infrared-objects",
+        "type": "case",
+        "name": "DOW-UAP-PR135 — Six Infrared Objects",
+        "relationshipType": "contains_claim",
+        "role": "",
+        "context": ""
+      },
+      {
+        "id": "publication-2026-six-infrared-objects-bird-wingbeat-analysis",
+        "type": "publication",
+        "name": "Six objects reported at 480 mph in a declassified military infrared video show brightness flicker at bird wingbeat rates",
+        "relationshipType": "contains_claim",
+        "role": "",
+        "context": ""
+      }
+    ],
+    "claim-pr135-flicker-not-tested-artifact": [
+      {
+        "id": "publication-2026-six-infrared-objects-bird-wingbeat-analysis",
+        "type": "publication",
+        "name": "Six objects reported at 480 mph in a declassified military infrared video show brightness flicker at bird wingbeat rates",
+        "relationshipType": "contains_claim",
+        "role": "",
+        "context": ""
+      }
+    ],
+    "claim-pr135-galileo-animal-frequency-overlap": [
+      {
+        "id": "publication-2026-six-infrared-objects-bird-wingbeat-analysis",
+        "type": "publication",
+        "name": "Six objects reported at 480 mph in a declassified military infrared video show brightness flicker at bird wingbeat rates",
+        "relationshipType": "contains_claim",
+        "role": "",
+        "context": ""
+      }
+    ],
+    "claim-pr135-independent-brightness-flicker": [
+      {
+        "id": "publication-2026-six-infrared-objects-bird-wingbeat-analysis",
+        "type": "publication",
+        "name": "Six objects reported at 480 mph in a declassified military infrared video show brightness flicker at bird wingbeat rates",
+        "relationshipType": "contains_claim",
+        "role": "",
+        "context": ""
+      }
+    ],
+    "claim-pr135-mission-report-480-mph": [
+      {
+        "id": "case-dow-uap-pr135-six-infrared-objects",
+        "type": "case",
+        "name": "DOW-UAP-PR135 — Six Infrared Objects",
+        "relationshipType": "contains_claim",
+        "role": "",
+        "context": ""
+      },
+      {
+        "id": "publication-2026-six-infrared-objects-bird-wingbeat-analysis",
+        "type": "publication",
+        "name": "Six objects reported at 480 mph in a declassified military infrared video show brightness flicker at bird wingbeat rates",
+        "relationshipType": "contains_claim",
+        "role": "",
+        "context": ""
+      }
+    ],
+    "claim-pr135-parallax-can-reproduce-projected-speed": [
+      {
+        "id": "publication-2026-six-infrared-objects-bird-wingbeat-analysis",
+        "type": "publication",
+        "name": "Six objects reported at 480 mph in a declassified military infrared video show brightness flicker at bird wingbeat rates",
+        "relationshipType": "contains_claim",
+        "role": "",
+        "context": ""
+      }
+    ],
+    "claim-pr135-telemetry-needed-to-test-hypothesis": [
+      {
+        "id": "publication-2026-six-infrared-objects-bird-wingbeat-analysis",
+        "type": "publication",
+        "name": "Six objects reported at 480 mph in a declassified military infrared video show brightness flicker at bird wingbeat rates",
+        "relationshipType": "contains_claim",
+        "role": "",
+        "context": ""
+      }
+    ],
     "claim-pr149-relative-velocity-bound": [
       {
         "id": "publication-2026-limits-velocity-recovery-pursue",
@@ -14314,6 +14474,14 @@
     ],
     "collection-2026-pursue-release-06": [
       {
+        "id": "case-dow-uap-pr135-six-infrared-objects",
+        "type": "case",
+        "name": "DOW-UAP-PR135 — Six Infrared Objects",
+        "relationshipType": "contained_in",
+        "role": "Release 06 government record",
+        "context": ""
+      },
+      {
         "id": "claim-pursue-release-06-publication-not-authentication",
         "type": "claim",
         "name": "Official publication does not authenticate every claim inside a released file",
@@ -14431,6 +14599,14 @@
         "name": "Department of War Legal Waiver for UAP Disclosures to PURSUE",
         "relationshipType": "references_publication",
         "role": "subsequent PURSUE publication event; no file-level causal claim",
+        "context": ""
+      },
+      {
+        "id": "publication-2026-six-infrared-objects-bird-wingbeat-analysis",
+        "type": "publication",
+        "name": "Six objects reported at 480 mph in a declassified military infrared video show brightness flicker at bird wingbeat rates",
+        "relationshipType": "references_publication",
+        "role": "government release provenance",
         "context": ""
       },
       {
@@ -15475,6 +15651,14 @@
         "context": ""
       },
       {
+        "id": "case-dow-uap-pr135-six-infrared-objects",
+        "type": "case",
+        "name": "DOW-UAP-PR135 — Six Infrared Objects",
+        "relationshipType": "references_organization",
+        "role": "government record source",
+        "context": ""
+      },
+      {
         "id": "claim-secret-uap-programs",
         "type": "claim",
         "name": "David Grusch alleges that secret UAP programs were withheld from congressional oversight",
@@ -15856,6 +16040,14 @@
         "name": "PURSUE Release 06 — Declassified and Historical UAP Files",
         "relationshipType": "published_by",
         "role": "issuing department; official release uses Department of War",
+        "context": ""
+      },
+      {
+        "id": "publication-2026-six-infrared-objects-bird-wingbeat-analysis",
+        "type": "publication",
+        "name": "Six objects reported at 480 mph in a declassified military infrared video show brightness flicker at bird wingbeat rates",
+        "relationshipType": "references_organization",
+        "role": "government video source",
         "context": ""
       },
       {
@@ -17035,6 +17227,14 @@
         "name": "Limits on Velocity Recovery from the PURSUE Sensor Videos",
         "relationshipType": "references_organization",
         "role": "multi-sensor comparison",
+        "context": ""
+      },
+      {
+        "id": "publication-2026-six-infrared-objects-bird-wingbeat-analysis",
+        "type": "publication",
+        "name": "Six objects reported at 480 mph in a declassified military infrared video show brightness flicker at bird wingbeat rates",
+        "relationshipType": "references_organization",
+        "role": "comparison infrared animal dataset",
         "context": ""
       },
       {
@@ -20195,6 +20395,14 @@
         "context": "Military imagery presented during congressional proceedings is central to the record."
       },
       {
+        "id": "case-dow-uap-pr135-six-infrared-objects",
+        "type": "case",
+        "name": "DOW-UAP-PR135 — Six Infrared Objects",
+        "relationshipType": "references_topic",
+        "role": "",
+        "context": ""
+      },
+      {
         "id": "2025-large-disc-uap-video",
         "type": "case",
         "name": "Large Disc UAP Video",
@@ -20337,6 +20545,14 @@
         "relationshipType": "references_topic",
         "role": "foundational related research",
         "context": "The paper demonstrates why apparent image motion does not uniquely determine physical velocity without range, platform motion, aspect/range-rate and sensor scale."
+      },
+      {
+        "id": "publication-2026-six-infrared-objects-bird-wingbeat-analysis",
+        "type": "publication",
+        "name": "Six objects reported at 480 mph in a declassified military infrared video show brightness flicker at bird wingbeat rates",
+        "relationshipType": "references_topic",
+        "role": "photometric and parallax methodology",
+        "context": ""
       }
     ],
     "immaculate-constellation": [
@@ -20722,6 +20938,14 @@
         "name": "Limits on Velocity Recovery from the PURSUE Sensor Videos",
         "relationshipType": "references_person",
         "role": "corresponding author",
+        "context": ""
+      },
+      {
+        "id": "publication-2026-six-infrared-objects-bird-wingbeat-analysis",
+        "type": "publication",
+        "name": "Six objects reported at 480 mph in a declassified military infrared video show brightness flicker at bird wingbeat rates",
+        "relationshipType": "references_person",
+        "role": "author",
         "context": ""
       }
     ],
@@ -23741,6 +23965,16 @@
       }
     ],
     "michael-shellenberger": [],
+    "michael-shermer": [
+      {
+        "id": "publication-2026-six-infrared-objects-bird-wingbeat-analysis",
+        "type": "publication",
+        "name": "Six objects reported at 480 mph in a declassified military infrared video show brightness flicker at bird wingbeat rates",
+        "relationshipType": "references_person",
+        "role": "author",
+        "context": ""
+      }
+    ],
     "michele-adams": [
       {
         "id": "2026-weaponized-episode-104",
@@ -25095,6 +25329,16 @@
         "context": ""
       }
     ],
+    "omer-eldadi": [
+      {
+        "id": "publication-2026-six-infrared-objects-bird-wingbeat-analysis",
+        "type": "publication",
+        "name": "Six objects reported at 480 mph in a declassified military infrared video show brightness flicker at bird wingbeat rates",
+        "relationshipType": "references_person",
+        "role": "author",
+        "context": ""
+      }
+    ],
     "palomar-observatory": [
       {
         "id": "publication-2026-critical-evaluation-poss1e-technosignatures",
@@ -25602,6 +25846,14 @@
         "context": "The Haqq-Misra and Kopparapu preprint reviews all 112 released PURSUE sensor videos for kinematic observability."
       },
       {
+        "id": "publication-2026-six-infrared-objects-bird-wingbeat-analysis",
+        "type": "publication",
+        "name": "Six objects reported at 480 mph in a declassified military infrared video show brightness flicker at bird wingbeat rates",
+        "relationshipType": "references_publication",
+        "role": "earlier PURSUE kinematic-observability research",
+        "context": ""
+      },
+      {
         "id": "image-video-analysis",
         "type": "topic",
         "name": "Image & Video Analysis",
@@ -25756,6 +26008,168 @@
         "context": ""
       }
     ],
+    "publication-2026-six-infrared-objects-bird-wingbeat-analysis": [
+      {
+        "id": "case-dow-uap-pr135-six-infrared-objects",
+        "type": "case",
+        "name": "DOW-UAP-PR135 — Six Infrared Objects",
+        "relationshipType": "documented_by",
+        "role": "quantitative scientific reanalysis",
+        "context": ""
+      },
+      {
+        "id": "claim-pr135-flicker-not-tested-artifact",
+        "type": "claim",
+        "name": "Control tests did not reproduce the PR135 flicker as a sensor or compression artifact",
+        "relationshipType": "contained_in",
+        "role": "structured research claim",
+        "context": ""
+      },
+      {
+        "id": "claim-pr135-galileo-animal-frequency-overlap",
+        "type": "claim",
+        "name": "Galileo Project flying-animal recordings show overlapping brightness frequencies",
+        "relationshipType": "contained_in",
+        "role": "structured research claim",
+        "context": ""
+      },
+      {
+        "id": "claim-pr135-parallax-can-reproduce-projected-speed",
+        "type": "claim",
+        "name": "Modeled parallax can reproduce the reported projected speed",
+        "relationshipType": "contained_in",
+        "role": "structured research claim",
+        "context": ""
+      },
+      {
+        "id": "claim-pr135-mission-report-480-mph",
+        "type": "claim",
+        "name": "PR135 mission report described six objects at an estimated 480 mph",
+        "relationshipType": "contained_in",
+        "role": "structured research claim",
+        "context": ""
+      },
+      {
+        "id": "claim-pr135-bird-hypothesis",
+        "type": "claim",
+        "name": "The authors propose a small flock of birds as the best explanation",
+        "relationshipType": "contained_in",
+        "role": "structured research claim",
+        "context": ""
+      },
+      {
+        "id": "claim-pr135-independent-brightness-flicker",
+        "type": "claim",
+        "name": "The six PR135 objects show independent periodic brightness fluctuations",
+        "relationshipType": "contained_in",
+        "role": "structured research claim",
+        "context": ""
+      },
+      {
+        "id": "claim-pr135-telemetry-needed-to-test-hypothesis",
+        "type": "claim",
+        "name": "Unredacted telemetry could test or refute the PR135 hypotheses",
+        "relationshipType": "contained_in",
+        "role": "structured research claim",
+        "context": ""
+      },
+      {
+        "id": "department-of-defense",
+        "type": "organization",
+        "name": "U.S. Department of Defense",
+        "relationshipType": "references_publication",
+        "role": "released source record",
+        "context": ""
+      },
+      {
+        "id": "avi-loeb",
+        "type": "person",
+        "name": "Avi Loeb",
+        "relationshipType": "authored",
+        "role": "author",
+        "context": ""
+      },
+      {
+        "id": "jacob-haqq-misra",
+        "type": "person",
+        "name": "Jacob Haqq-Misra",
+        "relationshipType": "authored",
+        "role": "author",
+        "context": ""
+      },
+      {
+        "id": "michael-shermer",
+        "type": "person",
+        "name": "Michael Shermer",
+        "relationshipType": "authored",
+        "role": "co-author",
+        "context": ""
+      },
+      {
+        "id": "omer-eldadi",
+        "type": "person",
+        "name": "Omer Eldadi",
+        "relationshipType": "authored",
+        "role": "co-author",
+        "context": ""
+      },
+      {
+        "id": "ravi-kopparapu",
+        "type": "person",
+        "name": "Ravi Kopparapu",
+        "relationshipType": "authored",
+        "role": "author",
+        "context": ""
+      },
+      {
+        "id": "richard-cloete",
+        "type": "person",
+        "name": "Richard Cloete",
+        "relationshipType": "authored",
+        "role": "co-author",
+        "context": ""
+      },
+      {
+        "id": "pursue",
+        "type": "program",
+        "name": "PURSUE",
+        "relationshipType": "references_publication",
+        "role": "PR135 research",
+        "context": ""
+      },
+      {
+        "id": "publication-2026-limits-velocity-recovery-pursue",
+        "type": "publication",
+        "name": "Limits on Velocity Recovery from the PURSUE Sensor Videos",
+        "relationshipType": "references_publication",
+        "role": "later case-specific analysis",
+        "context": ""
+      },
+      {
+        "id": "collection-2026-pursue-release-06",
+        "type": "publication",
+        "name": "PURSUE Release 06 — Declassified and Historical UAP Files",
+        "relationshipType": "references_publication",
+        "role": "scientific analysis of PR135",
+        "context": ""
+      },
+      {
+        "id": "galileo-project",
+        "type": "research_project",
+        "name": "The Galileo Project",
+        "relationshipType": "references_publication",
+        "role": "comparison dataset",
+        "context": ""
+      },
+      {
+        "id": "image-video-analysis",
+        "type": "topic",
+        "name": "Image & Video Analysis",
+        "relationshipType": "references_publication",
+        "role": "related scientific research",
+        "context": ""
+      }
+    ],
     "publication-2026-slysh-haloes-cold-computing-technosignature": [
       {
         "id": "claim-slysh-null-result-value",
@@ -25880,6 +26294,14 @@
     ],
     "pursue": [
       {
+        "id": "case-dow-uap-pr135-six-infrared-objects",
+        "type": "case",
+        "name": "DOW-UAP-PR135 — Six Infrared Objects",
+        "relationshipType": "references_organization",
+        "role": "",
+        "context": ""
+      },
+      {
         "id": "claim-pr113-kinematic-degeneracy",
         "type": "claim",
         "name": "PR113 permits radically different size, range and velocity interpretations",
@@ -25933,6 +26355,14 @@
         "name": "PURSUE Release 06 — Declassified and Historical UAP Files",
         "relationshipType": "contained_in",
         "role": "sixth release tranche",
+        "context": ""
+      },
+      {
+        "id": "publication-2026-six-infrared-objects-bird-wingbeat-analysis",
+        "type": "publication",
+        "name": "Six objects reported at 480 mph in a declassified military infrared video show brightness flicker at bird wingbeat rates",
+        "relationshipType": "references_organization",
+        "role": "dataset program",
         "context": ""
       }
     ],
@@ -25997,6 +26427,14 @@
         "name": "Limits on Velocity Recovery from the PURSUE Sensor Videos",
         "relationshipType": "references_person",
         "role": "co-author",
+        "context": ""
+      },
+      {
+        "id": "publication-2026-six-infrared-objects-bird-wingbeat-analysis",
+        "type": "publication",
+        "name": "Six objects reported at 480 mph in a declassified military infrared video show brightness flicker at bird wingbeat rates",
+        "relationshipType": "references_person",
+        "role": "author",
         "context": ""
       }
     ],
@@ -26138,6 +26576,16 @@
         "relationshipType": "features_person",
         "role": "guest",
         "context": "Featured episode participant"
+      }
+    ],
+    "richard-cloete": [
+      {
+        "id": "publication-2026-six-infrared-objects-bird-wingbeat-analysis",
+        "type": "publication",
+        "name": "Six objects reported at 480 mph in a declassified military infrared video show brightness flicker at bird wingbeat rates",
+        "relationshipType": "references_person",
+        "role": "author",
+        "context": ""
       }
     ],
     "richard-dolan": [

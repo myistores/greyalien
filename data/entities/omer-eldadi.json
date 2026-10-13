@@ -1,0 +1,28 @@
+{
+  "id": "omer-eldadi",
+  "type": "person",
+  "name": "Omer Eldadi",
+  "summary": "Co-author of the 2026 quantitative photometric analysis of six objects in the PURSUE PR135 infrared video.",
+  "profileStatus": "Researcher / co-author",
+  "profileSummary": "Co-author of the 2026 quantitative photometric analysis of six objects in the PURSUE PR135 infrared video.",
+  "destinationPage": true,
+  "visibleInDirectory": true,
+  "searchable": true,
+  "taxonomyStatus": "canonical",
+  "relationships": [
+    {
+      "type": "authored",
+      "target": "publication-2026-six-infrared-objects-bird-wingbeat-analysis",
+      "role": "co-author"
+    }
+  ],
+  "referenceSources": [
+    {
+      "label": "arXiv author listing",
+      "url": "https://arxiv.org/abs/2610.08692",
+      "sourceType": "scientific_preprint",
+      "role": "author_reference"
+    }
+  ],
+  "officialLinks": []
+}

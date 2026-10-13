@@ -13,6 +13,11 @@
       "type": "authored",
       "target": "publication-2026-limits-velocity-recovery-pursue",
       "role": "corresponding author"
+    },
+    {
+      "type": "authored",
+      "target": "publication-2026-six-infrared-objects-bird-wingbeat-analysis",
+      "role": "author"
     }
   ],
   "officialLinks": [
@@ -28,6 +33,12 @@
       "url": "https://arxiv.org/abs/2608.12445",
       "sourceType": "scientific_preprint",
       "role": "primary_reference"
+    },
+    {
+      "label": "arXiv:2610.08692v2 — PR135 infrared analysis",
+      "url": "https://arxiv.org/abs/2610.08692",
+      "sourceType": "scientific_preprint",
+      "role": "connected_research"
     }
   ]
 }

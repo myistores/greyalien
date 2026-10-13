@@ -11,6 +11,11 @@
     {
       "type": "addresses_topic",
       "target": "uap-reporting-systems"
+    },
+    {
+      "type": "references_publication",
+      "target": "publication-2026-six-infrared-objects-bird-wingbeat-analysis",
+      "role": "comparison dataset"
     }
   ],
   "organizationPurpose": "Move research from anecdotal reports toward validated, systematic scientific observation.",
@@ -22,7 +27,14 @@
       "linkType": "official_website"
     }
   ],
-  "referenceSources": [],
+  "referenceSources": [
+    {
+      "label": "arXiv:2610.08692v2 — PR135 infrared analysis",
+      "url": "https://arxiv.org/abs/2610.08692",
+      "sourceType": "scientific_preprint",
+      "role": "connected_research"
+    }
+  ],
   "entitySubtype": "Research Project / Initiative",
   "taxonomyStatus": "canonical",
   "destinationPage": true,

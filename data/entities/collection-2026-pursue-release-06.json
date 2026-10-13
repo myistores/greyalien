@@ -83,6 +83,11 @@
     {
       "type": "contains_claim",
       "target": "claim-pursue-release-06-file-specific-review"
+    },
+    {
+      "type": "references_publication",
+      "target": "publication-2026-six-infrared-objects-bird-wingbeat-analysis",
+      "role": "scientific analysis of PR135"
     }
   ],
   "officialLinks": [
@@ -97,7 +102,14 @@
       "linkType": "government_records_collection"
     }
   ],
-  "referenceSources": [],
+  "referenceSources": [
+    {
+      "label": "arXiv:2610.08692v2 — PR135 infrared analysis",
+      "url": "https://arxiv.org/abs/2610.08692",
+      "sourceType": "scientific_preprint",
+      "role": "connected_research"
+    }
+  ],
   "manifestSnapshot": {
     "snapshotDate": "2026-09-30",
     "snapshotTimezone": "America/New_York",

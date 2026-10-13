@@ -1,0 +1,76 @@
+{
+  "id": "2026-10-06-pursue-pr135-six-objects-bird-analysis",
+  "recordType": "news_record",
+  "contentType": "scientific_reanalysis_competing_interpretation_news",
+  "title": "New Scientific Analysis Suggests PURSUE’s Six Infrared Objects Were Birds",
+  "source": "arXiv",
+  "author": "Haqq-Misra et al.",
+  "publicationDate": "2026-10-06",
+  "publicationDateDisplay": "October 6, 2026; revised October 7",
+  "originalUrl": "https://arxiv.org/abs/2610.08692",
+  "primarySourceUrl": "https://arxiv.org/abs/2610.08692",
+  "summary": "A new preprint analyzes six objects in PURSUE video DOW-UAP-PR135 using photometry, artifact controls, comparison infrared animal data and parallax modeling. The authors conclude that a nearby flock of birds is the best explanation, while noting that unredacted telemetry could test or refute the hypothesis.",
+  "dateAdded": "2026-10-13",
+  "newsStatus": "current",
+  "knowledgePermanence": "permanent",
+  "image": {
+    "src": "../assets/news/pursue-pr135-six-object-bird-analysis.png",
+    "alt": "Scientific illustration showing six tracked infrared objects, six brightness waveforms, a bird-wingbeat comparison and parallax geometry.",
+    "caption": "GreyAlien scientific editorial illustration—not original PR135 imagery and not a definitive identification."
+  },
+  "relatedEntityIds": [
+    "publication-2026-six-infrared-objects-bird-wingbeat-analysis",
+    "case-dow-uap-pr135-six-infrared-objects",
+    "collection-2026-pursue-release-06",
+    "publication-2026-limits-velocity-recovery-pursue",
+    "pursue",
+    "galileo-project",
+    "image-video-analysis",
+    "jacob-haqq-misra",
+    "ravi-kopparapu",
+    "richard-cloete",
+    "omer-eldadi",
+    "michael-shermer",
+    "avi-loeb",
+    "claim-pr135-mission-report-480-mph",
+    "claim-pr135-independent-brightness-flicker",
+    "claim-pr135-flicker-not-tested-artifact",
+    "claim-pr135-galileo-animal-frequency-overlap",
+    "claim-pr135-parallax-can-reproduce-projected-speed",
+    "claim-pr135-bird-hypothesis",
+    "claim-pr135-telemetry-needed-to-test-hypothesis"
+  ],
+  "relationships": [
+    {
+      "type": "references_publication",
+      "target": "publication-2026-six-infrared-objects-bird-wingbeat-analysis",
+      "role": "permanent scientific record"
+    },
+    {
+      "type": "references_case",
+      "target": "case-dow-uap-pr135-six-infrared-objects",
+      "role": "video analyzed"
+    },
+    {
+      "type": "references_publication",
+      "target": "collection-2026-pursue-release-06",
+      "role": "government provenance"
+    }
+  ],
+  "visibility": {
+    "latestGateway": true,
+    "publicEntityDirectory": false,
+    "landmark": false
+  },
+  "lifecycle": {
+    "status": "current",
+    "archiveEligible": true,
+    "automaticAgingEnabled": false,
+    "landmark": false
+  },
+  "editorialNotes": {
+    "sourceHierarchy": "The arXiv preprint is the primary scientific source; PURSUE Release 06 supplies government-record provenance.",
+    "evidenceBoundary": "Birds are the authors’ preferred explanation, not an official or definitive identification.",
+    "lifecyclePrinciple": "News can age; knowledge does not."
+  }
+}

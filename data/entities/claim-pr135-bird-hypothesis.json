@@ -1,0 +1,31 @@
+{
+  "id": "claim-pr135-bird-hypothesis",
+  "type": "claim",
+  "name": "The authors propose a small flock of birds as the best explanation",
+  "summary": "The paper interprets the combined photometric comparison and viewing geometry as best explained by a small flock of birds closer to the aircraft than assumed.",
+  "relationships": [
+    {
+      "type": "contained_in",
+      "target": "publication-2026-six-infrared-objects-bird-wingbeat-analysis",
+      "role": "structured research claim"
+    },
+    {
+      "type": "references_case",
+      "target": "case-dow-uap-pr135-six-infrared-objects"
+    }
+  ],
+  "referenceSources": [
+    {
+      "label": "arXiv:2610.08692v2",
+      "url": "https://arxiv.org/abs/2610.08692",
+      "sourceType": "scientific_preprint",
+      "role": "claim_source"
+    }
+  ],
+  "claimMetadata": {
+    "classification": "provisional_research_interpretation",
+    "knowledgePermanence": "permanent",
+    "evidenceBoundary": "The original report, measured observations, model results and preferred interpretation remain separate propositions."
+  },
+  "officialLinks": []
+}

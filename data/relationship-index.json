@@ -10672,6 +10672,15 @@
         }
       },
       {
+        "source": "publication-2026-six-infrared-objects-bird-wingbeat-analysis",
+        "type": "references_person",
+        "meta": {
+          "type": "references_person",
+          "target": "avi-loeb",
+          "role": "author"
+        }
+      },
+      {
         "source": "timeline-2021-07-galileo-project-founded",
         "type": "timeline_connection",
         "meta": {
@@ -12189,6 +12198,73 @@
       }
     ],
     "carl-sagan": [],
+    "case-dow-uap-pr135-six-infrared-objects": [
+      {
+        "source": "claim-pr135-bird-hypothesis",
+        "type": "references_case",
+        "meta": {
+          "type": "references_case",
+          "target": "case-dow-uap-pr135-six-infrared-objects"
+        }
+      },
+      {
+        "source": "claim-pr135-flicker-not-tested-artifact",
+        "type": "references_case",
+        "meta": {
+          "type": "references_case",
+          "target": "case-dow-uap-pr135-six-infrared-objects"
+        }
+      },
+      {
+        "source": "claim-pr135-galileo-animal-frequency-overlap",
+        "type": "references_case",
+        "meta": {
+          "type": "references_case",
+          "target": "case-dow-uap-pr135-six-infrared-objects"
+        }
+      },
+      {
+        "source": "claim-pr135-independent-brightness-flicker",
+        "type": "references_case",
+        "meta": {
+          "type": "references_case",
+          "target": "case-dow-uap-pr135-six-infrared-objects"
+        }
+      },
+      {
+        "source": "claim-pr135-mission-report-480-mph",
+        "type": "references_case",
+        "meta": {
+          "type": "references_case",
+          "target": "case-dow-uap-pr135-six-infrared-objects"
+        }
+      },
+      {
+        "source": "claim-pr135-parallax-can-reproduce-projected-speed",
+        "type": "references_case",
+        "meta": {
+          "type": "references_case",
+          "target": "case-dow-uap-pr135-six-infrared-objects"
+        }
+      },
+      {
+        "source": "claim-pr135-telemetry-needed-to-test-hypothesis",
+        "type": "references_case",
+        "meta": {
+          "type": "references_case",
+          "target": "case-dow-uap-pr135-six-infrared-objects"
+        }
+      },
+      {
+        "source": "publication-2026-six-infrared-objects-bird-wingbeat-analysis",
+        "type": "references_case",
+        "meta": {
+          "type": "references_case",
+          "target": "case-dow-uap-pr135-six-infrared-objects",
+          "role": "primary video analyzed"
+        }
+      }
+    ],
     "central-intelligence-agency": [
       {
         "source": "2023-weaponized-episode-37",
@@ -13774,6 +13850,92 @@
         }
       }
     ],
+    "claim-pr135-bird-hypothesis": [
+      {
+        "source": "case-dow-uap-pr135-six-infrared-objects",
+        "type": "contains_claim",
+        "meta": {
+          "type": "contains_claim",
+          "target": "claim-pr135-bird-hypothesis"
+        }
+      },
+      {
+        "source": "publication-2026-six-infrared-objects-bird-wingbeat-analysis",
+        "type": "contains_claim",
+        "meta": {
+          "type": "contains_claim",
+          "target": "claim-pr135-bird-hypothesis"
+        }
+      }
+    ],
+    "claim-pr135-flicker-not-tested-artifact": [
+      {
+        "source": "publication-2026-six-infrared-objects-bird-wingbeat-analysis",
+        "type": "contains_claim",
+        "meta": {
+          "type": "contains_claim",
+          "target": "claim-pr135-flicker-not-tested-artifact"
+        }
+      }
+    ],
+    "claim-pr135-galileo-animal-frequency-overlap": [
+      {
+        "source": "publication-2026-six-infrared-objects-bird-wingbeat-analysis",
+        "type": "contains_claim",
+        "meta": {
+          "type": "contains_claim",
+          "target": "claim-pr135-galileo-animal-frequency-overlap"
+        }
+      }
+    ],
+    "claim-pr135-independent-brightness-flicker": [
+      {
+        "source": "publication-2026-six-infrared-objects-bird-wingbeat-analysis",
+        "type": "contains_claim",
+        "meta": {
+          "type": "contains_claim",
+          "target": "claim-pr135-independent-brightness-flicker"
+        }
+      }
+    ],
+    "claim-pr135-mission-report-480-mph": [
+      {
+        "source": "case-dow-uap-pr135-six-infrared-objects",
+        "type": "contains_claim",
+        "meta": {
+          "type": "contains_claim",
+          "target": "claim-pr135-mission-report-480-mph"
+        }
+      },
+      {
+        "source": "publication-2026-six-infrared-objects-bird-wingbeat-analysis",
+        "type": "contains_claim",
+        "meta": {
+          "type": "contains_claim",
+          "target": "claim-pr135-mission-report-480-mph"
+        }
+      }
+    ],
+    "claim-pr135-parallax-can-reproduce-projected-speed": [
+      {
+        "source": "publication-2026-six-infrared-objects-bird-wingbeat-analysis",
+        "type": "contains_claim",
+        "meta": {
+          "type": "contains_claim",
+          "target": "claim-pr135-parallax-can-reproduce-projected-speed"
+        }
+      }
+    ],
+    "claim-pr135-telemetry-needed-to-test-hypothesis": [
+      {
+        "source": "publication-2026-six-infrared-objects-bird-wingbeat-analysis",
+        "type": "contains_claim",
+        "meta": {
+          "type": "contains_claim",
+          "target": "claim-pr135-telemetry-needed-to-test-hypothesis"
+        }
+      }
+    ],
     "claim-pr149-relative-velocity-bound": [
       {
         "source": "publication-2026-limits-velocity-recovery-pursue",
@@ -14952,6 +15114,15 @@
         }
       },
       {
+        "source": "case-dow-uap-pr135-six-infrared-objects",
+        "type": "contained_in",
+        "meta": {
+          "type": "contained_in",
+          "target": "collection-2026-pursue-release-06",
+          "role": "Release 06 government record"
+        }
+      },
+      {
         "source": "claim-pursue-release-06-declassified-historical",
         "type": "references_publication",
         "meta": {
@@ -15057,6 +15228,15 @@
           "type": "references_publication",
           "target": "collection-2026-pursue-release-06",
           "role": "official records publication"
+        }
+      },
+      {
+        "source": "publication-2026-six-infrared-objects-bird-wingbeat-analysis",
+        "type": "references_publication",
+        "meta": {
+          "type": "references_publication",
+          "target": "collection-2026-pursue-release-06",
+          "role": "government release provenance"
         }
       },
       {
@@ -16486,6 +16666,15 @@
         }
       },
       {
+        "source": "case-dow-uap-pr135-six-infrared-objects",
+        "type": "references_organization",
+        "meta": {
+          "type": "references_organization",
+          "target": "department-of-defense",
+          "role": "government record source"
+        }
+      },
+      {
         "source": "christopher-mellon",
         "type": "affiliated_with",
         "meta": {
@@ -16605,6 +16794,15 @@
           "type": "references_organization",
           "target": "department-of-defense",
           "role": "dataset source"
+        }
+      },
+      {
+        "source": "publication-2026-six-infrared-objects-bird-wingbeat-analysis",
+        "type": "references_organization",
+        "meta": {
+          "type": "references_organization",
+          "target": "department-of-defense",
+          "role": "government video source"
         }
       },
       {
@@ -17919,6 +18117,15 @@
           "type": "references_organization",
           "target": "galileo-project",
           "role": "multi-sensor comparison"
+        }
+      },
+      {
+        "source": "publication-2026-six-infrared-objects-bird-wingbeat-analysis",
+        "type": "references_organization",
+        "meta": {
+          "type": "references_organization",
+          "target": "galileo-project",
+          "role": "comparison infrared animal dataset"
         }
       },
       {
@@ -21525,6 +21732,14 @@
         }
       },
       {
+        "source": "case-dow-uap-pr135-six-infrared-objects",
+        "type": "references_topic",
+        "meta": {
+          "type": "references_topic",
+          "target": "image-video-analysis"
+        }
+      },
+      {
         "source": "claim-context-is-required-to-interpret-released-uap-videos",
         "type": "concerns",
         "meta": {
@@ -21613,6 +21828,18 @@
           "target": "image-video-analysis",
           "role": "foundational related research",
           "context": "The paper demonstrates why apparent image motion does not uniquely determine physical velocity without range, platform motion, aspect/range-rate and sensor scale.",
+          "researchPacket": "S&T-001A",
+          "confidenceGrade": "A",
+          "confidenceScore": 100
+        }
+      },
+      {
+        "source": "publication-2026-six-infrared-objects-bird-wingbeat-analysis",
+        "type": "references_topic",
+        "meta": {
+          "type": "references_topic",
+          "target": "image-video-analysis",
+          "role": "photometric and parallax methodology",
           "researchPacket": "S&T-001A",
           "confidenceGrade": "A",
           "confidenceScore": 100
@@ -22030,6 +22257,15 @@
           "type": "references_person",
           "target": "jacob-haqq-misra",
           "role": "corresponding author"
+        }
+      },
+      {
+        "source": "publication-2026-six-infrared-objects-bird-wingbeat-analysis",
+        "type": "references_person",
+        "meta": {
+          "type": "references_person",
+          "target": "jacob-haqq-misra",
+          "role": "author"
         }
       }
     ],
@@ -25517,6 +25753,17 @@
       }
     ],
     "michael-shellenberger": [],
+    "michael-shermer": [
+      {
+        "source": "publication-2026-six-infrared-objects-bird-wingbeat-analysis",
+        "type": "references_person",
+        "meta": {
+          "type": "references_person",
+          "target": "michael-shermer",
+          "role": "author"
+        }
+      }
+    ],
     "michele-adams": [
       {
         "source": "2026-weaponized-episode-104",
@@ -26922,6 +27169,17 @@
         }
       }
     ],
+    "omer-eldadi": [
+      {
+        "source": "publication-2026-six-infrared-objects-bird-wingbeat-analysis",
+        "type": "references_person",
+        "meta": {
+          "type": "references_person",
+          "target": "omer-eldadi",
+          "role": "author"
+        }
+      }
+    ],
     "palomar-observatory": [
       {
         "source": "publication-2026-critical-evaluation-poss1e-technosignatures",
@@ -27475,6 +27733,15 @@
         }
       },
       {
+        "source": "publication-2026-six-infrared-objects-bird-wingbeat-analysis",
+        "type": "references_publication",
+        "meta": {
+          "type": "references_publication",
+          "target": "publication-2026-limits-velocity-recovery-pursue",
+          "role": "earlier PURSUE kinematic-observability research"
+        }
+      },
+      {
         "source": "pursue",
         "type": "references_publication",
         "meta": {
@@ -27652,6 +27919,188 @@
         }
       }
     ],
+    "publication-2026-six-infrared-objects-bird-wingbeat-analysis": [
+      {
+        "source": "avi-loeb",
+        "type": "authored",
+        "meta": {
+          "type": "authored",
+          "target": "publication-2026-six-infrared-objects-bird-wingbeat-analysis",
+          "role": "author"
+        }
+      },
+      {
+        "source": "case-dow-uap-pr135-six-infrared-objects",
+        "type": "documented_by",
+        "meta": {
+          "type": "documented_by",
+          "target": "publication-2026-six-infrared-objects-bird-wingbeat-analysis",
+          "role": "quantitative scientific reanalysis"
+        }
+      },
+      {
+        "source": "claim-pr135-bird-hypothesis",
+        "type": "contained_in",
+        "meta": {
+          "type": "contained_in",
+          "target": "publication-2026-six-infrared-objects-bird-wingbeat-analysis",
+          "role": "structured research claim"
+        }
+      },
+      {
+        "source": "claim-pr135-flicker-not-tested-artifact",
+        "type": "contained_in",
+        "meta": {
+          "type": "contained_in",
+          "target": "publication-2026-six-infrared-objects-bird-wingbeat-analysis",
+          "role": "structured research claim"
+        }
+      },
+      {
+        "source": "claim-pr135-galileo-animal-frequency-overlap",
+        "type": "contained_in",
+        "meta": {
+          "type": "contained_in",
+          "target": "publication-2026-six-infrared-objects-bird-wingbeat-analysis",
+          "role": "structured research claim"
+        }
+      },
+      {
+        "source": "claim-pr135-independent-brightness-flicker",
+        "type": "contained_in",
+        "meta": {
+          "type": "contained_in",
+          "target": "publication-2026-six-infrared-objects-bird-wingbeat-analysis",
+          "role": "structured research claim"
+        }
+      },
+      {
+        "source": "claim-pr135-mission-report-480-mph",
+        "type": "contained_in",
+        "meta": {
+          "type": "contained_in",
+          "target": "publication-2026-six-infrared-objects-bird-wingbeat-analysis",
+          "role": "structured research claim"
+        }
+      },
+      {
+        "source": "claim-pr135-parallax-can-reproduce-projected-speed",
+        "type": "contained_in",
+        "meta": {
+          "type": "contained_in",
+          "target": "publication-2026-six-infrared-objects-bird-wingbeat-analysis",
+          "role": "structured research claim"
+        }
+      },
+      {
+        "source": "claim-pr135-telemetry-needed-to-test-hypothesis",
+        "type": "contained_in",
+        "meta": {
+          "type": "contained_in",
+          "target": "publication-2026-six-infrared-objects-bird-wingbeat-analysis",
+          "role": "structured research claim"
+        }
+      },
+      {
+        "source": "collection-2026-pursue-release-06",
+        "type": "references_publication",
+        "meta": {
+          "type": "references_publication",
+          "target": "publication-2026-six-infrared-objects-bird-wingbeat-analysis",
+          "role": "scientific analysis of PR135"
+        }
+      },
+      {
+        "source": "department-of-defense",
+        "type": "references_publication",
+        "meta": {
+          "type": "references_publication",
+          "target": "publication-2026-six-infrared-objects-bird-wingbeat-analysis",
+          "role": "released source record"
+        }
+      },
+      {
+        "source": "galileo-project",
+        "type": "references_publication",
+        "meta": {
+          "type": "references_publication",
+          "target": "publication-2026-six-infrared-objects-bird-wingbeat-analysis",
+          "role": "comparison dataset"
+        }
+      },
+      {
+        "source": "image-video-analysis",
+        "type": "references_publication",
+        "meta": {
+          "type": "references_publication",
+          "target": "publication-2026-six-infrared-objects-bird-wingbeat-analysis",
+          "role": "related scientific research"
+        }
+      },
+      {
+        "source": "jacob-haqq-misra",
+        "type": "authored",
+        "meta": {
+          "type": "authored",
+          "target": "publication-2026-six-infrared-objects-bird-wingbeat-analysis",
+          "role": "author"
+        }
+      },
+      {
+        "source": "michael-shermer",
+        "type": "authored",
+        "meta": {
+          "type": "authored",
+          "target": "publication-2026-six-infrared-objects-bird-wingbeat-analysis",
+          "role": "co-author"
+        }
+      },
+      {
+        "source": "omer-eldadi",
+        "type": "authored",
+        "meta": {
+          "type": "authored",
+          "target": "publication-2026-six-infrared-objects-bird-wingbeat-analysis",
+          "role": "co-author"
+        }
+      },
+      {
+        "source": "publication-2026-limits-velocity-recovery-pursue",
+        "type": "references_publication",
+        "meta": {
+          "type": "references_publication",
+          "target": "publication-2026-six-infrared-objects-bird-wingbeat-analysis",
+          "role": "later case-specific analysis"
+        }
+      },
+      {
+        "source": "pursue",
+        "type": "references_publication",
+        "meta": {
+          "type": "references_publication",
+          "target": "publication-2026-six-infrared-objects-bird-wingbeat-analysis",
+          "role": "PR135 research"
+        }
+      },
+      {
+        "source": "ravi-kopparapu",
+        "type": "authored",
+        "meta": {
+          "type": "authored",
+          "target": "publication-2026-six-infrared-objects-bird-wingbeat-analysis",
+          "role": "author"
+        }
+      },
+      {
+        "source": "richard-cloete",
+        "type": "authored",
+        "meta": {
+          "type": "authored",
+          "target": "publication-2026-six-infrared-objects-bird-wingbeat-analysis",
+          "role": "co-author"
+        }
+      }
+    ],
     "publication-2026-slysh-haloes-cold-computing-technosignature": [
       {
         "source": "claim-no-slysh-halo-detection",
@@ -27787,6 +28236,14 @@
     ],
     "pursue": [
       {
+        "source": "case-dow-uap-pr135-six-infrared-objects",
+        "type": "references_organization",
+        "meta": {
+          "type": "references_organization",
+          "target": "pursue"
+        }
+      },
+      {
         "source": "claim-pr113-kinematic-degeneracy",
         "type": "concerns",
         "meta": {
@@ -27847,6 +28304,15 @@
           "target": "pursue",
           "role": "dataset analyzed",
           "context": "The paper reviews all 112 videos in the five released PURSUE tranches."
+        }
+      },
+      {
+        "source": "publication-2026-six-infrared-objects-bird-wingbeat-analysis",
+        "type": "references_organization",
+        "meta": {
+          "type": "references_organization",
+          "target": "pursue",
+          "role": "dataset program"
         }
       }
     ],
@@ -27919,6 +28385,15 @@
           "type": "references_person",
           "target": "ravi-kopparapu",
           "role": "co-author"
+        }
+      },
+      {
+        "source": "publication-2026-six-infrared-objects-bird-wingbeat-analysis",
+        "type": "references_person",
+        "meta": {
+          "type": "references_person",
+          "target": "ravi-kopparapu",
+          "role": "author"
         }
       }
     ],
@@ -28071,6 +28546,17 @@
           "target": "richard-beckwith",
           "role": "guest",
           "context": "Featured episode participant"
+        }
+      }
+    ],
+    "richard-cloete": [
+      {
+        "source": "publication-2026-six-infrared-objects-bird-wingbeat-analysis",
+        "type": "references_person",
+        "meta": {
+          "type": "references_person",
+          "target": "richard-cloete",
+          "role": "author"
         }
       }
     ],

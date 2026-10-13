@@ -19,6 +19,11 @@
       "target": "publication-2026-micron-scale-technosignatures-lunar-regolith",
       "role": "commentary on research",
       "context": "Loeb's September 8 Medium article discusses the preprint; he is not one of its authors."
+    },
+    {
+      "type": "authored",
+      "target": "publication-2026-six-infrared-objects-bird-wingbeat-analysis",
+      "role": "author"
     }
   ],
   "profileStatus": "Astrophysicist and scientific UAP researcher",
@@ -56,6 +61,12 @@
     {
       "label": "Pinault et al. — Micron-Scale Technosignatures",
       "url": "https://arxiv.org/abs/2606.24028",
+      "sourceType": "scientific_preprint",
+      "role": "connected_research"
+    },
+    {
+      "label": "arXiv:2610.08692v2 — PR135 infrared analysis",
+      "url": "https://arxiv.org/abs/2610.08692",
       "sourceType": "scientific_preprint",
       "role": "connected_research"
     }

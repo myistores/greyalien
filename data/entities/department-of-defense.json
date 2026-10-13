@@ -30,6 +30,11 @@
       "type": "timeline_connection",
       "target": "event-2016-podesta-delonge-uap-conference-call",
       "role": "files discussed for possible declassification"
+    },
+    {
+      "type": "references_publication",
+      "target": "publication-2026-six-infrared-objects-bird-wingbeat-analysis",
+      "role": "released source record"
     }
   ],
   "officialLinks": [
@@ -57,6 +62,12 @@
       "url": "https://www.paradigm.news/p/exclusive-podesta-responds-to-gruschs",
       "sourceType": "direct_interview_reporting",
       "role": "connected_event_source"
+    },
+    {
+      "label": "arXiv:2610.08692v2 — PR135 infrared analysis",
+      "url": "https://arxiv.org/abs/2610.08692",
+      "sourceType": "scientific_preprint",
+      "role": "connected_research"
     }
   ],
   "taxonomyStatus": "canonical",
