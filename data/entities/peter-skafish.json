@@ -1,0 +1,28 @@
+{
+  "id": "peter-skafish",
+  "type": "person",
+  "name": "Peter Skafish",
+  "summary": "Co-founder of the Sol Foundation who publicly described alleged confidential executive-branch UAP reporting procedures in an October 2026 recorded discussion.",
+  "profileStatus": "Research organization co-founder / recorded policy discussion participant",
+  "profileSummary": "Skafish’s statements document his account of a classified directive; GreyAlien does not treat them as independent authentication of the nonpublic document.",
+  "destinationPage": true,
+  "visibleInDirectory": true,
+  "searchable": true,
+  "taxonomyStatus": "canonical",
+  "relationships": [
+    {
+      "type": "participated_in",
+      "target": "record-2026-secret-directive-uap-reporting-procedures",
+      "role": "speaker"
+    }
+  ],
+  "referenceSources": [
+    {
+      "label": "Sentinel News transcript of Sol Foundation discussion",
+      "url": "https://www.sentinel-news.org/p/secret-directive",
+      "sourceType": "recorded_policy_discussion_reporting",
+      "role": "statement_source"
+    }
+  ],
+  "officialLinks": []
+}

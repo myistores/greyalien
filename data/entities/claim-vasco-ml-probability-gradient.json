@@ -1,0 +1,27 @@
+{
+  "id": "claim-vasco-ml-probability-gradient",
+  "type": "claim",
+  "name": "Higher-probability transient candidates showed a stronger reported nuclear-window association",
+  "summary": "The authors report that candidates with the highest model-assigned probability of being real were more likely to occur within the defined nuclear window.",
+  "relationships": [
+    {
+      "type": "contained_in",
+      "target": "publication-2026-machine-learning-historical-transients",
+      "role": "structured scientific claim"
+    }
+  ],
+  "referenceSources": [
+    {
+      "label": "Scientific Reports paper",
+      "url": "https://www.nature.com/articles/s41598-026-66148-2",
+      "sourceType": "peer_reviewed_journal_article",
+      "role": "claim_source"
+    }
+  ],
+  "claimMetadata": {
+    "classification": "peer_reviewed_statistical_finding",
+    "knowledgePermanence": "permanent",
+    "evidenceBoundary": "Probability of being a real image transient is not probability of artificial origin."
+  },
+  "officialLinks": []
+}

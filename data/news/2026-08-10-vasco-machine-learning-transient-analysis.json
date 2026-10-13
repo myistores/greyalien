@@ -1,0 +1,60 @@
+{
+  "id": "2026-08-10-vasco-machine-learning-transient-analysis",
+  "recordType": "news_record",
+  "contentType": "cross_gateway_permanent_knowledge_news",
+  "title": "Peer-Reviewed Machine-Learning Study Strengthens the VASCO Research Debate",
+  "source": "Scientific Reports",
+  "author": "Stephen Bruehl, Brian Doherty, Alina Streblyanska and Beatriz Villarroel",
+  "publicationDate": "2026-08-10",
+  "publicationDateDisplay": "2026-08-10",
+  "originalUrl": "https://www.nature.com/articles/s41598-026-66148-2",
+  "primarySourceUrl": "https://www.nature.com/articles/s41598-026-66148-2",
+  "summary": "A peer-reviewed study trained a machine-learning classifier to distinguish likely astronomical transients from plate defects and reports that debated nuclear-window and Earth-shadow patterns persist after probability-based artifact control. The study does not determine the candidates’ physical origin.",
+  "dateAdded": "2026-10-13",
+  "newsStatus": "current",
+  "knowledgePermanence": "permanent",
+  "image": {
+    "src": "../assets/news/vasco-machine-learning-transient-analysis-2026-08.png",
+    "alt": "Scientific editorial illustration of paired historical astronomical plates being analyzed by a machine-learning system to distinguish transient point sources from scratches and plate defects.",
+    "caption": "GreyAlien scientific editorial illustration—not an original POSS-I plate or evidence of a technosignature."
+  },
+  "relatedEntityIds": [
+    "publication-2026-machine-learning-historical-transients",
+    "vasco-project",
+    "beatriz-villarroel",
+    "stephen-bruehl",
+    "brian-doherty",
+    "alina-streblyanska",
+    "palomar-observatory",
+    "technosignatures",
+    "publication-2026-critical-evaluation-poss1e-technosignatures",
+    "claim-vasco-ml-classification-performance",
+    "claim-vasco-ml-nuclear-window-association",
+    "claim-vasco-ml-probability-gradient",
+    "claim-vasco-ml-earth-shadow-deficit",
+    "claim-vasco-ml-unrecognized-transient-population",
+    "claim-vasco-ml-no-origin-determination"
+  ],
+  "relationships": [
+    {
+      "type": "references_publication",
+      "target": "publication-2026-machine-learning-historical-transients",
+      "role": "permanent research record"
+    }
+  ],
+  "visibility": {
+    "latestGateway": true,
+    "publicEntityDirectory": false,
+    "landmark": false
+  },
+  "lifecycle": {
+    "status": "current",
+    "archiveEligible": true,
+    "automaticAgingEnabled": false,
+    "landmark": false
+  },
+  "editorialNotes": {
+    "imageRequirement": "Companion image required for every newly ingested UAP news article unless explicitly waived.",
+    "lifecyclePrinciple": "News can age; knowledge does not."
+  }
+}

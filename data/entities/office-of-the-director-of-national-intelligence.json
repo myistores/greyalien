@@ -3,7 +3,20 @@
   "type": "organization",
   "name": "Office of the Director of National Intelligence",
   "summary": "United States intelligence-community office responsible for coordinating national intelligence activities.",
-  "relationships": [],
+  "relationships": [
+    {
+      "type": "references_publication",
+      "target": "record-2026-secret-directive-uap-reporting-procedures",
+      "role": "described referral context"
+    }
+  ],
   "officialLinks": [],
-  "referenceSources": []
+  "referenceSources": [
+    {
+      "label": "Sentinel News — Secret Directive",
+      "url": "https://www.sentinel-news.org/p/secret-directive",
+      "sourceType": "recorded_policy_discussion_reporting",
+      "role": "connected_record_source"
+    }
+  ]
 }

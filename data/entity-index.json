@@ -859,6 +859,14 @@
       "_canonicalScore": 83
     },
     {
+      "id": "claim-secret-directive-no-guaranteed-release",
+      "type": "claim",
+      "name": "Authorized reporting does not guarantee public release",
+      "summary": "Use of a protected or authorized reporting channel does not by itself declassify information, authenticate allegations or guarantee public disclosure.",
+      "_identityKey": "claim:name:authorized reporting does not guarantee public release",
+      "_canonicalScore": 3
+    },
+    {
       "id": "claim-merged-10-1",
       "type": "claim",
       "name": "Avi Loeb presents firsthand or professional experience relevant to the episode’s central subject.",
@@ -2017,6 +2025,14 @@
       "summary": "The official episode description presents or discusses this claim; it is recorded here as a source-attributed claim, not as independently verified fact.",
       "_identityKey": "claim:url:weaponizedpodcast.com/episodes-3/episode-80",
       "_canonicalScore": 83
+    },
+    {
+      "id": "claim-vasco-ml-probability-gradient",
+      "type": "claim",
+      "name": "Higher-probability transient candidates showed a stronger reported nuclear-window association",
+      "summary": "The authors report that candidates with the highest model-assigned probability of being real were more likely to occur within the defined nuclear window.",
+      "_identityKey": "claim:name:higher probability transient candidates showed a stronger reported nuclear window association",
+      "_canonicalScore": 3
     },
     {
       "id": "claim-need-to-know-7-4",
@@ -3549,6 +3565,38 @@
       "_canonicalScore": 83
     },
     {
+      "id": "claim-secret-directive-multiple-contacts",
+      "type": "claim",
+      "name": "Skafish described multiple authorized reporting contacts",
+      "summary": "Skafish said agency affiliation should not prevent reporting because potential witnesses have multiple points of contact.",
+      "_identityKey": "claim:name:skafish described multiple authorized reporting contacts",
+      "_canonicalScore": 3
+    },
+    {
+      "id": "claim-secret-directive-odni-fbi-referrals",
+      "type": "claim",
+      "name": "Skafish described ODNI and FBI referral paths",
+      "summary": "Skafish said the Sol Foundation could help refer potential witnesses to appropriate ODNI or FBI points of contact.",
+      "_identityKey": "claim:name:skafish described odni and fbi referral paths",
+      "_canonicalScore": 3
+    },
+    {
+      "id": "claim-secret-directive-government-wide-scope",
+      "type": "claim",
+      "name": "Skafish described the directive as government-wide in scope",
+      "summary": "Skafish described the alleged directive as intended to reach relevant military, intelligence-community and federal law-enforcement information.",
+      "_identityKey": "claim:name:skafish described the directive as government wide in scope",
+      "_canonicalScore": 3
+    },
+    {
+      "id": "claim-secret-directive-classified-existence",
+      "type": "claim",
+      "name": "Skafish said the executive directive governing UAP reporting is classified",
+      "summary": "Peter Skafish said that a person who helped draft an executive directive told him the directive is classified.",
+      "_identityKey": "claim:name:skafish said the executive directive governing uap reporting is classified",
+      "_canonicalScore": 3
+    },
+    {
       "id": "claim-skinwalker-research-treated-phenomena-as-connected",
       "type": "claim",
       "name": "Skinwalker research treated phenomena as connected",
@@ -3563,6 +3611,14 @@
       "summary": "Michael Lazovsky’s documentary is presented as an examination of how sustained journalism contributes to public understanding and accountability.",
       "_identityKey": "claim:url:weaponizedpodcast.com/episodes-4/episode-117",
       "_canonicalScore": 83
+    },
+    {
+      "id": "claim-secret-directive-no-classified-submissions-to-sol",
+      "type": "claim",
+      "name": "Sol Foundation said it does not want classified information",
+      "summary": "Skafish said the Sol Foundation does not accept classified disclosures and would refer potential witnesses to an attorney.",
+      "_identityKey": "claim:name:sol foundation said it does not want classified information",
+      "_canonicalScore": 3
     },
     {
       "id": "claim-weaponized-38-2",
@@ -3805,11 +3861,35 @@
       "_canonicalScore": 83
     },
     {
+      "id": "claim-vasco-ml-unrecognized-transient-population",
+      "type": "claim",
+      "name": "The authors interpret the results as supporting an unrecognized transient population",
+      "summary": "The paper concludes that the combined results support further study of a previously unrecognized population of transient objects in historical astronomical plates.",
+      "_identityKey": "claim:name:the authors interpret the results as supporting an unrecognized transient population",
+      "_canonicalScore": 3
+    },
+    {
       "id": "claim-pr135-bird-hypothesis",
       "type": "claim",
       "name": "The authors propose a small flock of birds as the best explanation",
       "summary": "The paper interprets the combined photometric comparison and viewing geometry as best explained by a small flock of birds closer to the aircraft than assumed.",
       "_identityKey": "claim:name:the authors propose a small flock of birds as the best explanation",
+      "_canonicalScore": 3
+    },
+    {
+      "id": "claim-vasco-ml-nuclear-window-association",
+      "type": "claim",
+      "name": "The authors report an association between ML-filtered transient counts and nuclear-test windows",
+      "summary": "After controlling for machine-learning-identified artifacts, the authors report elevated transient counts within plus or minus one day of nuclear testing.",
+      "_identityKey": "claim:name:the authors report an association between ml filtered transient counts and nuclear test windows",
+      "_canonicalScore": 3
+    },
+    {
+      "id": "claim-vasco-ml-earth-shadow-deficit",
+      "type": "claim",
+      "name": "The authors report an Earth-shadow deficit strongest among higher-probability candidates",
+      "summary": "The paper reports a significant Earth-shadow deficit and a larger deficit among candidates with higher model-assigned probabilities of being real.",
+      "_identityKey": "claim:name:the authors report an earth shadow deficit strongest among higher probability candidates",
       "_canonicalScore": 3
     },
     {
@@ -6351,6 +6431,14 @@
       "_canonicalScore": 3
     },
     {
+      "id": "claim-vasco-ml-no-origin-determination",
+      "type": "claim",
+      "name": "The machine-learning study does not determine a technological or extraterrestrial origin",
+      "summary": "The classifier separates expert-labeled likely transients from plate defects; it does not establish that any candidate is an artificial object or technosignature.",
+      "_identityKey": "claim:name:the machine learning study does not determine a technological or extraterrestrial origin",
+      "_canonicalScore": 3
+    },
+    {
       "id": "claim-need-to-know-14-1",
       "type": "claim",
       "name": "The May 17, 2022 hearing marked the first open congressional UFO hearing in more than five decades.",
@@ -6752,6 +6840,14 @@
       "_canonicalScore": 86
     },
     {
+      "id": "claim-vasco-ml-classification-performance",
+      "type": "claim",
+      "name": "The VASCO machine-learning classifier showed useful but imperfect discrimination",
+      "summary": "The authors report out-of-fold AUC 0.81 with sensitivity 0.71 and specificity 0.71 when distinguishing expert-labeled likely transients from plate defects.",
+      "_identityKey": "claim:name:the vasco machine learning classifier showed useful but imperfect discrimination",
+      "_canonicalScore": 3
+    },
+    {
       "id": "claim-pursue-waiver-no-public-disclosure-authority",
       "type": "claim",
       "name": "The waiver does not authorize unrestricted public disclosure",
@@ -7090,6 +7186,22 @@
       "_canonicalScore": 2
     },
     {
+      "id": "record-2026-secret-directive-uap-reporting-procedures",
+      "type": "document",
+      "name": "Attributed Description of Confidential Executive UAP Reporting Procedures",
+      "summary": "Permanent record of an October 2026 Sol Foundation discussion in which Peter Skafish described an alleged classified executive directive and government reporting paths for UAP-related information. The discussion is public; the directive itself is not.",
+      "destinationPage": true,
+      "visibleInDirectory": true,
+      "searchable": true,
+      "taxonomyStatus": "canonical",
+      "entitySubtype": "Recorded Policy Discussion / Attributed Classified-Directive Description",
+      "date": "2026-10-08",
+      "dateDisplay": "Discussion released October 8, 2026; reported October 12, 2026",
+      "eventCategory": "Government reporting procedure / attributed nonpublic policy description",
+      "_identityKey": "document:name:attributed description of confidential executive uap reporting procedures",
+      "_canonicalScore": 3
+    },
+    {
       "id": "2023-grusch-written-testimony",
       "type": "document",
       "name": "David Grusch Written Testimony",
@@ -7326,7 +7438,7 @@
       "taxonomyStatus": "canonical",
       "entitySubtype": "Astronomical Observatory",
       "_identityKey": "facility:name:palomar observatory",
-      "_canonicalScore": 2
+      "_canonicalScore": 5
     },
     {
       "id": "raf-bentwaters",
@@ -7791,7 +7903,7 @@
       "name": "Federal Bureau of Investigation",
       "summary": "United States federal law-enforcement agency referenced in discussion of Robert Hastings and nuclear-related UAP testimony.",
       "_identityKey": "organization:url:weaponizedpodcast.com/episodes-3/episode-80",
-      "_canonicalScore": 85
+      "_canonicalScore": 88
     },
     {
       "id": "five-eyes",
@@ -7980,7 +8092,7 @@
       "name": "Office of the Director of National Intelligence",
       "summary": "United States intelligence-community office responsible for coordinating national intelligence activities.",
       "_identityKey": "organization:name:office of the director of national intelligence",
-      "_canonicalScore": 0
+      "_canonicalScore": 3
     },
     {
       "id": "project-on-government-oversight",
@@ -8052,7 +8164,7 @@
       "name": "The Sol Foundation",
       "summary": "Research institute and policy organization bringing together academic, government, and industry expertise to address scientific, policy, and social questions raised by UAP.",
       "_identityKey": "organization:name:the sol foundation",
-      "_canonicalScore": 2
+      "_canonicalScore": 5
     },
     {
       "id": "unhidden-foundation",
@@ -8233,6 +8345,18 @@
       "_canonicalScore": 6
     },
     {
+      "id": "alina-streblyanska",
+      "type": "person",
+      "name": "Alina Streblyanska",
+      "summary": "Co-author of the 2026 Scientific Reports machine-learning study of transient candidates in historical astronomical plates.",
+      "destinationPage": true,
+      "visibleInDirectory": true,
+      "searchable": true,
+      "taxonomyStatus": "canonical",
+      "_identityKey": "person:name:alina streblyanska",
+      "_canonicalScore": 3
+    },
+    {
       "id": "anamaria-berea",
       "type": "person",
       "name": "Anamaria Berea",
@@ -8279,7 +8403,7 @@
       "name": "Beatriz Villarroel",
       "summary": "Astronomer and VASCO researcher whose work examines disappearing and transient astronomical sources in historical sky-survey imagery, including proposed technosignature candidates.",
       "_identityKey": "person:name:beatriz villarroel",
-      "_canonicalScore": 3
+      "_canonicalScore": 6
     },
     {
       "id": "ben-schneider",
@@ -8312,6 +8436,18 @@
       "summary": "Co-author of the 2026 arXiv preprint modeling interstellar transport, lunar accumulation and detectability of hypothetical micron-scale technological material.",
       "entitySubtype": "Researcher",
       "_identityKey": "person:name:brian c lacki",
+      "_canonicalScore": 3
+    },
+    {
+      "id": "brian-doherty",
+      "type": "person",
+      "name": "Brian Doherty",
+      "summary": "Co-author of the 2026 Scientific Reports machine-learning study of transient candidates in historical astronomical plates.",
+      "destinationPage": true,
+      "visibleInDirectory": true,
+      "searchable": true,
+      "taxonomyStatus": "canonical",
+      "_identityKey": "person:name:brian doherty",
       "_canonicalScore": 3
     },
     {
@@ -9148,7 +9284,7 @@
       "name": "Marik von Rennenkampff",
       "summary": "Former U.S. government analyst and journalist who has written and reported on UAP policy and interviewed former AARO director Sean Kirkpatrick.",
       "_identityKey": "person:url:weaponizedpodcast.com/episodes-2/episode-55",
-      "_canonicalScore": 83
+      "_canonicalScore": 86
     },
     {
       "id": "mario-woods",
@@ -9298,6 +9434,18 @@
       "summary": "Former U.S. Navy E-2 Hawkeye crew member associated with recording media and post-event activity following the 2004 Nimitz encounter.",
       "_identityKey": "person:name:patrick p j hughes",
       "_canonicalScore": 6
+    },
+    {
+      "id": "peter-skafish",
+      "type": "person",
+      "name": "Peter Skafish",
+      "summary": "Co-founder of the Sol Foundation who publicly described alleged confidential executive-branch UAP reporting procedures in an October 2026 recorded discussion.",
+      "destinationPage": true,
+      "visibleInDirectory": true,
+      "searchable": true,
+      "taxonomyStatus": "canonical",
+      "_identityKey": "person:name:peter skafish",
+      "_canonicalScore": 3
     },
     {
       "id": "philip-j-corso",
@@ -9539,6 +9687,18 @@
       "name": "Shelley Wright",
       "summary": "Astronomer and instrumentation specialist who served on NASA's UAP Independent Study Team.",
       "_identityKey": "person:name:shelley wright",
+      "_canonicalScore": 3
+    },
+    {
+      "id": "stephen-bruehl",
+      "type": "person",
+      "name": "Stephen Bruehl",
+      "summary": "Co-author of the 2026 Scientific Reports machine-learning study of transient candidates in historical astronomical plates.",
+      "destinationPage": true,
+      "visibleInDirectory": true,
+      "searchable": true,
+      "taxonomyStatus": "canonical",
+      "_identityKey": "person:name:stephen bruehl",
       "_canonicalScore": 3
     },
     {
@@ -12910,7 +13070,7 @@
       "dateDisplay": "July 23, 2026",
       "eventCategory": "Scientific methodological critique",
       "_identityKey": "publication:name:critical evaluation of studies alleging evidence for technosignatures in the poss1 e photographic plates",
-      "_canonicalScore": 5
+      "_canonicalScore": 8
     },
     {
       "id": "document-2026-pursue-uap-disclosure-legal-waiver",
@@ -12922,7 +13082,7 @@
       "dateDisplay": "September 14, 2026",
       "eventCategory": "Government protected-disclosure policy",
       "_identityKey": "publication:name:department of war legal waiver for uap disclosures to pursue",
-      "_canonicalScore": 10
+      "_canonicalScore": 13
     },
     {
       "id": "publication-2025-european-uap-barometer-2019-2024",
@@ -13178,6 +13338,22 @@
       "_canonicalScore": 3
     },
     {
+      "id": "publication-2026-machine-learning-historical-transients",
+      "type": "publication",
+      "name": "Use of machine learning to enhance detection of transient astronomical phenomena in historical observatory images",
+      "summary": "Peer-reviewed Scientific Reports study training a supervised classifier on 250 expert-labeled transient image pairs and applying it to 107,875 previously identified candidates. The authors report that nuclear-window and Earth-shadow patterns persist after model-based artifact control, while the physical nature of the candidates remains unresolved.",
+      "destinationPage": true,
+      "visibleInDirectory": true,
+      "searchable": true,
+      "taxonomyStatus": "canonical",
+      "entitySubtype": "Peer-Reviewed Scientific Article / Machine Learning and Historical Astronomical Plates",
+      "date": "2026-08-10",
+      "dateDisplay": "Published August 10, 2026",
+      "eventCategory": "VASCO machine-learning transient analysis",
+      "_identityKey": "publication:name:use of machine learning to enhance detection of transient astronomical phenomena in historical observatory images",
+      "_canonicalScore": 6
+    },
+    {
       "id": "european-uap-barometer",
       "type": "research_project",
       "name": "European UAP Barometer",
@@ -13223,7 +13399,7 @@
       "taxonomyStatus": "canonical",
       "entitySubtype": "Astronomy Research Project",
       "_identityKey": "research_project:name:vasco project",
-      "_canonicalScore": 5
+      "_canonicalScore": 8
     },
     {
       "id": "event-2016-podesta-delonge-uap-conference-call",
@@ -15853,7 +16029,7 @@
       "taxonomyStatus": "canonical",
       "entitySubtype": "Scientific Research Topic",
       "_identityKey": "topic:name:technosignatures",
-      "_canonicalScore": 9
+      "_canonicalScore": 12
     },
     {
       "id": "tic-tac-uap",

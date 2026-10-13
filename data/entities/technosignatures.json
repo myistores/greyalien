@@ -17,6 +17,11 @@
       "type": "references_publication",
       "target": "publication-2026-slysh-haloes-cold-computing-technosignature",
       "role": "cold waste-heat research"
+    },
+    {
+      "type": "references_publication",
+      "target": "publication-2026-machine-learning-historical-transients",
+      "role": "related research context"
     }
   ],
   "officialLinks": [],
@@ -38,6 +43,12 @@
       "url": "https://arxiv.org/abs/2608.31153",
       "sourceType": "scientific_preprint",
       "role": "connected_research"
+    },
+    {
+      "label": "Scientific Reports machine-learning study",
+      "url": "https://www.nature.com/articles/s41598-026-66148-2",
+      "sourceType": "peer_reviewed_journal_article",
+      "role": "connected_record_source"
     }
   ],
   "entitySubtype": "Scientific Research Topic",

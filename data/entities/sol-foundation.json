@@ -11,6 +11,11 @@
     {
       "type": "addresses_topic",
       "target": "government-transparency"
+    },
+    {
+      "type": "references_publication",
+      "target": "record-2026-secret-directive-uap-reporting-procedures",
+      "role": "discussion publisher"
     }
   ],
   "organizationPurpose": "Advance methodical UAP research, policy development, public education, and government transparency.",
@@ -22,5 +27,12 @@
       "linkType": "official_website"
     }
   ],
-  "referenceSources": []
+  "referenceSources": [
+    {
+      "label": "Sentinel News — Secret Directive",
+      "url": "https://www.sentinel-news.org/p/secret-directive",
+      "sourceType": "recorded_policy_discussion_reporting",
+      "role": "connected_record_source"
+    }
+  ]
 }

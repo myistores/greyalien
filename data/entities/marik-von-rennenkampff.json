@@ -9,6 +9,11 @@
       "target": "2024-weaponized-episode-55",
       "role": "guest",
       "context": "Guest in WEAPONIZED Episode #55"
+    },
+    {
+      "type": "references_publication",
+      "target": "record-2026-secret-directive-uap-reporting-procedures",
+      "role": "discussion participant"
     }
   ],
   "profileStatus": "Researcher, journalist, or public figure",
@@ -23,6 +28,12 @@
       "url": "https://www.weaponizedpodcast.com/episodes-2/episode-55",
       "sourceType": "official_episode_page",
       "role": "source"
+    },
+    {
+      "label": "Sentinel News — Secret Directive",
+      "url": "https://www.sentinel-news.org/p/secret-directive",
+      "sourceType": "recorded_policy_discussion_reporting",
+      "role": "connected_record_source"
     }
   ]
 }

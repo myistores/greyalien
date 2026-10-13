@@ -1,0 +1,147 @@
+{
+  "id": "publication-2026-machine-learning-historical-transients",
+  "type": "publication",
+  "entitySubtype": "Peer-Reviewed Scientific Article / Machine Learning and Historical Astronomical Plates",
+  "name": "Use of machine learning to enhance detection of transient astronomical phenomena in historical observatory images",
+  "summary": "Peer-reviewed Scientific Reports study training a supervised classifier on 250 expert-labeled transient image pairs and applying it to 107,875 previously identified candidates. The authors report that nuclear-window and Earth-shadow patterns persist after model-based artifact control, while the physical nature of the candidates remains unresolved.",
+  "date": "2026-08-10",
+  "dateDisplay": "Published August 10, 2026",
+  "eventCategory": "VASCO machine-learning transient analysis",
+  "destinationPage": true,
+  "visibleInDirectory": true,
+  "searchable": true,
+  "taxonomyStatus": "canonical",
+  "relationships": [
+    {
+      "type": "references_person",
+      "target": "stephen-bruehl",
+      "role": "author"
+    },
+    {
+      "type": "references_person",
+      "target": "brian-doherty",
+      "role": "author"
+    },
+    {
+      "type": "references_person",
+      "target": "alina-streblyanska",
+      "role": "author"
+    },
+    {
+      "type": "references_person",
+      "target": "beatriz-villarroel",
+      "role": "author"
+    },
+    {
+      "type": "references_organization",
+      "target": "vasco-project",
+      "role": "research context"
+    },
+    {
+      "type": "references_organization",
+      "target": "palomar-observatory",
+      "role": "historical plate source"
+    },
+    {
+      "type": "references_topic",
+      "target": "technosignatures",
+      "role": "research context; not an established detection"
+    },
+    {
+      "type": "references_topic",
+      "target": "scientific-investigation",
+      "role": "machine-learning and statistical methodology"
+    },
+    {
+      "type": "references_publication",
+      "target": "publication-2026-critical-evaluation-poss1e-technosignatures",
+      "role": "competing methodological critique"
+    },
+    {
+      "type": "contains_claim",
+      "target": "claim-vasco-ml-classification-performance"
+    },
+    {
+      "type": "contains_claim",
+      "target": "claim-vasco-ml-nuclear-window-association"
+    },
+    {
+      "type": "contains_claim",
+      "target": "claim-vasco-ml-probability-gradient"
+    },
+    {
+      "type": "contains_claim",
+      "target": "claim-vasco-ml-earth-shadow-deficit"
+    },
+    {
+      "type": "contains_claim",
+      "target": "claim-vasco-ml-unrecognized-transient-population"
+    },
+    {
+      "type": "contains_claim",
+      "target": "claim-vasco-ml-no-origin-determination"
+    }
+  ],
+  "referenceSources": [
+    {
+      "label": "Scientific Reports article",
+      "url": "https://www.nature.com/articles/s41598-026-66148-2",
+      "sourceType": "peer_reviewed_journal_article",
+      "role": "primary_reference"
+    },
+    {
+      "label": "DOI 10.1038/s41598-026-66148-2",
+      "url": "https://doi.org/10.1038/s41598-026-66148-2",
+      "sourceType": "persistent_identifier",
+      "role": "doi"
+    }
+  ],
+  "publicationMetadata": {
+    "authors": [
+      "Stephen Bruehl",
+      "Brian Doherty",
+      "Alina Streblyanska",
+      "Beatriz Villarroel"
+    ],
+    "journal": "Scientific Reports",
+    "volume": "16",
+    "doi": "10.1038/s41598-026-66148-2",
+    "publicationDate": "2026-08-10",
+    "publicationStatus": "Peer-reviewed journal article",
+    "openAccess": true
+  },
+  "researchLibraryMetadata": {
+    "knowledgePermanence": "permanent",
+    "methodology": "Supervised machine-learning classifier trained on 250 expert-reviewed paired plate candidates, evaluated with five-fold out-of-fold performance, then deployed across 107,875 previously identified transient candidates.",
+    "principalFindings": "Reported AUC 0.81, sensitivity 0.71 and specificity 0.71; the authors report persistent nuclear-window and Earth-shadow patterns after probability-based artifact control.",
+    "limitations": "Small expert-labeled training set relative to deployment data, imperfect classification, possible label and dataset biases, and no physical identification of the candidates.",
+    "researchImplication": "The study adds peer-reviewed ensemble-level evidence to the VASCO debate but does not establish technosignatures or extraterrestrial technology."
+  },
+  "evidenceRecords": [
+    {
+      "id": "evidence-vasco-ml-training-pairs",
+      "label": "250 expert-labeled transient image pairs",
+      "objectType": "training_dataset",
+      "promotedToEntity": false
+    },
+    {
+      "id": "evidence-vasco-ml-large-candidate-catalog",
+      "label": "107,875 candidate transient dataset",
+      "objectType": "deployment_dataset",
+      "promotedToEntity": false
+    },
+    {
+      "id": "evidence-vasco-ml-cross-validation",
+      "label": "Five-fold out-of-fold classifier evaluation",
+      "objectType": "model_validation",
+      "promotedToEntity": false
+    }
+  ],
+  "editorialNotes": {
+    "debatePosition": "Preserve alongside, not over, the original VASCO studies and Watters et al. critique.",
+    "probabilityBoundary": "Model probability of a real transient is not probability of artificial or extraterrestrial origin.",
+    "lifecyclePrinciple": "News can age; knowledge does not."
+  },
+  "relatedNewsId": "2026-08-10-vasco-machine-learning-transient-analysis",
+  "officialLinks": []
+}

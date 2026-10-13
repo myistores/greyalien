@@ -1,0 +1,27 @@
+{
+  "id": "claim-vasco-ml-no-origin-determination",
+  "type": "claim",
+  "name": "The machine-learning study does not determine a technological or extraterrestrial origin",
+  "summary": "The classifier separates expert-labeled likely transients from plate defects; it does not establish that any candidate is an artificial object or technosignature.",
+  "relationships": [
+    {
+      "type": "contained_in",
+      "target": "publication-2026-machine-learning-historical-transients",
+      "role": "structured scientific claim"
+    }
+  ],
+  "referenceSources": [
+    {
+      "label": "Scientific Reports paper",
+      "url": "https://www.nature.com/articles/s41598-026-66148-2",
+      "sourceType": "peer_reviewed_journal_article",
+      "role": "claim_source"
+    }
+  ],
+  "claimMetadata": {
+    "classification": "evidentiary_limitation",
+    "knowledgePermanence": "permanent",
+    "evidenceBoundary": "Detection, artifact classification, statistical association and physical-source identification remain separate stages."
+  },
+  "officialLinks": []
+}

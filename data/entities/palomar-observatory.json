@@ -7,6 +7,11 @@
     {
       "type": "associated_topic",
       "target": "technosignatures"
+    },
+    {
+      "type": "references_publication",
+      "target": "publication-2026-machine-learning-historical-transients",
+      "role": "historical plate source"
     }
   ],
   "officialLinks": [
@@ -16,7 +21,14 @@
       "linkType": "official_website"
     }
   ],
-  "referenceSources": [],
+  "referenceSources": [
+    {
+      "label": "Scientific Reports machine-learning study",
+      "url": "https://www.nature.com/articles/s41598-026-66148-2",
+      "sourceType": "peer_reviewed_journal_article",
+      "role": "connected_record_source"
+    }
+  ],
   "entitySubtype": "Astronomical Observatory",
   "taxonomyStatus": "canonical",
   "destinationPage": true,

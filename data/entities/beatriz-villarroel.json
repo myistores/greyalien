@@ -12,6 +12,11 @@
     {
       "type": "addresses_topic",
       "target": "technosignatures"
+    },
+    {
+      "type": "references_publication",
+      "target": "publication-2026-machine-learning-historical-transients",
+      "role": "co-author"
     }
   ],
   "officialLinks": [],
@@ -21,6 +26,12 @@
       "url": "https://vasconsite.wordpress.com/",
       "sourceType": "research_project",
       "role": "primary_reference"
+    },
+    {
+      "label": "Scientific Reports machine-learning study",
+      "url": "https://www.nature.com/articles/s41598-026-66148-2",
+      "sourceType": "peer_reviewed_journal_article",
+      "role": "connected_record_source"
     }
   ],
   "profileStatus": "Astronomer and VASCO researcher",

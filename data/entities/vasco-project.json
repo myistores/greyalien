@@ -18,6 +18,11 @@
       "target": "palomar-observatory",
       "role": "source-data facility",
       "context": "The disputed analyses use digitized scans of historical Palomar Observatory Sky Survey photographic plates."
+    },
+    {
+      "type": "references_publication",
+      "target": "publication-2026-machine-learning-historical-transients",
+      "role": "peer-reviewed connected research"
     }
   ],
   "officialLinks": [
@@ -33,6 +38,12 @@
       "url": "https://vasconsite.wordpress.com/2026/07/11/replications-validations-and-exciting-developments/",
       "sourceType": "research_project_statement",
       "role": "competing_interpretation"
+    },
+    {
+      "label": "Scientific Reports machine-learning study",
+      "url": "https://www.nature.com/articles/s41598-026-66148-2",
+      "sourceType": "peer_reviewed_journal_article",
+      "role": "connected_record_source"
     }
   ],
   "entitySubtype": "Astronomy Research Project",

@@ -1,0 +1,28 @@
+{
+  "id": "brian-doherty",
+  "type": "person",
+  "name": "Brian Doherty",
+  "summary": "Co-author of the 2026 Scientific Reports machine-learning study of transient candidates in historical astronomical plates.",
+  "profileStatus": "Researcher / co-author",
+  "profileSummary": "Author entity bounded to the peer-reviewed VASCO-related machine-learning research.",
+  "destinationPage": true,
+  "visibleInDirectory": true,
+  "searchable": true,
+  "taxonomyStatus": "canonical",
+  "relationships": [
+    {
+      "type": "authored",
+      "target": "publication-2026-machine-learning-historical-transients",
+      "role": "co-author"
+    }
+  ],
+  "referenceSources": [
+    {
+      "label": "Scientific Reports author listing",
+      "url": "https://www.nature.com/articles/s41598-026-66148-2",
+      "sourceType": "peer_reviewed_journal_article",
+      "role": "author_reference"
+    }
+  ],
+  "officialLinks": []
+}

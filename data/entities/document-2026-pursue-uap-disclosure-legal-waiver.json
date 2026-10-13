@@ -85,6 +85,11 @@
       "type": "references_publication",
       "target": "collection-2026-pursue-release-06",
       "role": "subsequent PURSUE publication event; no file-level causal claim"
+    },
+    {
+      "type": "references_publication",
+      "target": "record-2026-secret-directive-uap-reporting-procedures",
+      "role": "related public policy"
     }
   ],
   "officialLinks": [
@@ -111,6 +116,12 @@
       "url": "https://www.war.gov/News/Releases/Release/Article/4604795/department-of-war-publishes-sixth-release-of-unidentified-anomalous-phenomena-f/",
       "sourceType": "government_source",
       "role": "connected_release"
+    },
+    {
+      "label": "Sentinel News — Secret Directive",
+      "url": "https://www.sentinel-news.org/p/secret-directive",
+      "sourceType": "recorded_policy_discussion_reporting",
+      "role": "connected_record_source"
     }
   ],
   "governmentDocumentMetadata": {

@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "generatedBy": "tools/build_related_content.py",
-  "generatedAt": "2026-10-13T19:07:49.339522+00:00",
+  "generatedAt": "2026-10-13T20:20:42.323612+00:00",
   "referencedIn": {
     "1946-scandinavian-ghost-rockets": [
       {
@@ -10127,6 +10127,16 @@
         "context": ""
       }
     ],
+    "alina-streblyanska": [
+      {
+        "id": "publication-2026-machine-learning-historical-transients",
+        "type": "publication",
+        "name": "Use of machine learning to enhance detection of transient astronomical phenomena in historical observatory images",
+        "relationshipType": "references_person",
+        "role": "author",
+        "context": ""
+      }
+    ],
     "all-domain-anomaly-resolution-office": [],
     "americans-for-safe-aerospace": [
       {
@@ -10785,6 +10795,14 @@
         "context": "The paper evaluates studies by Beatriz Villarroel and collaborators using POSS1 plate-derived feature datasets."
       },
       {
+        "id": "publication-2026-machine-learning-historical-transients",
+        "type": "publication",
+        "name": "Use of machine learning to enhance detection of transient astronomical phenomena in historical observatory images",
+        "relationshipType": "references_person",
+        "role": "author",
+        "context": ""
+      },
+      {
         "id": "vasco-project",
         "type": "research_project",
         "name": "VASCO Project",
@@ -11063,6 +11081,16 @@
         "id": "publication-2026-micron-scale-technosignatures-lunar-regolith",
         "type": "publication",
         "name": "Micron-Scale Technosignatures: How a Cubic Metre of Lunar Regolith May Begin to Constrain the Number of Past Technological Civilisations in the Galaxy",
+        "relationshipType": "references_person",
+        "role": "author",
+        "context": ""
+      }
+    ],
+    "brian-doherty": [
+      {
+        "id": "publication-2026-machine-learning-historical-transients",
+        "type": "publication",
+        "name": "Use of machine learning to enhance detection of transient astronomical phenomena in historical observatory images",
         "relationshipType": "references_person",
         "role": "author",
         "context": ""
@@ -13789,6 +13817,66 @@
     "claim-secrecy-law-complicates-oversight": [],
     "claim-secrecy-remains-a-major-scientific-obstacle": [],
     "claim-secrecy-resistance-remains-active": [],
+    "claim-secret-directive-classified-existence": [
+      {
+        "id": "record-2026-secret-directive-uap-reporting-procedures",
+        "type": "document",
+        "name": "Attributed Description of Confidential Executive UAP Reporting Procedures",
+        "relationshipType": "contains_claim",
+        "role": "",
+        "context": ""
+      }
+    ],
+    "claim-secret-directive-government-wide-scope": [
+      {
+        "id": "record-2026-secret-directive-uap-reporting-procedures",
+        "type": "document",
+        "name": "Attributed Description of Confidential Executive UAP Reporting Procedures",
+        "relationshipType": "contains_claim",
+        "role": "",
+        "context": ""
+      }
+    ],
+    "claim-secret-directive-multiple-contacts": [
+      {
+        "id": "record-2026-secret-directive-uap-reporting-procedures",
+        "type": "document",
+        "name": "Attributed Description of Confidential Executive UAP Reporting Procedures",
+        "relationshipType": "contains_claim",
+        "role": "",
+        "context": ""
+      }
+    ],
+    "claim-secret-directive-no-classified-submissions-to-sol": [
+      {
+        "id": "record-2026-secret-directive-uap-reporting-procedures",
+        "type": "document",
+        "name": "Attributed Description of Confidential Executive UAP Reporting Procedures",
+        "relationshipType": "contains_claim",
+        "role": "",
+        "context": ""
+      }
+    ],
+    "claim-secret-directive-no-guaranteed-release": [
+      {
+        "id": "record-2026-secret-directive-uap-reporting-procedures",
+        "type": "document",
+        "name": "Attributed Description of Confidential Executive UAP Reporting Procedures",
+        "relationshipType": "contains_claim",
+        "role": "",
+        "context": ""
+      }
+    ],
+    "claim-secret-directive-odni-fbi-referrals": [
+      {
+        "id": "record-2026-secret-directive-uap-reporting-procedures",
+        "type": "document",
+        "name": "Attributed Description of Confidential Executive UAP Reporting Procedures",
+        "relationshipType": "contains_claim",
+        "role": "",
+        "context": ""
+      }
+    ],
     "claim-secret-uap-programs": [
       {
         "id": "2024-elizondo-written-testimony",
@@ -14090,6 +14178,66 @@
     "claim-vandenberg-red-square-blotter-released": [],
     "claim-vandenberg-security-personnel-investigated-multiple-incursions": [],
     "claim-vandenberg-witness-reported-large-red-object": [],
+    "claim-vasco-ml-classification-performance": [
+      {
+        "id": "publication-2026-machine-learning-historical-transients",
+        "type": "publication",
+        "name": "Use of machine learning to enhance detection of transient astronomical phenomena in historical observatory images",
+        "relationshipType": "contains_claim",
+        "role": "",
+        "context": ""
+      }
+    ],
+    "claim-vasco-ml-earth-shadow-deficit": [
+      {
+        "id": "publication-2026-machine-learning-historical-transients",
+        "type": "publication",
+        "name": "Use of machine learning to enhance detection of transient astronomical phenomena in historical observatory images",
+        "relationshipType": "contains_claim",
+        "role": "",
+        "context": ""
+      }
+    ],
+    "claim-vasco-ml-no-origin-determination": [
+      {
+        "id": "publication-2026-machine-learning-historical-transients",
+        "type": "publication",
+        "name": "Use of machine learning to enhance detection of transient astronomical phenomena in historical observatory images",
+        "relationshipType": "contains_claim",
+        "role": "",
+        "context": ""
+      }
+    ],
+    "claim-vasco-ml-nuclear-window-association": [
+      {
+        "id": "publication-2026-machine-learning-historical-transients",
+        "type": "publication",
+        "name": "Use of machine learning to enhance detection of transient astronomical phenomena in historical observatory images",
+        "relationshipType": "contains_claim",
+        "role": "",
+        "context": ""
+      }
+    ],
+    "claim-vasco-ml-probability-gradient": [
+      {
+        "id": "publication-2026-machine-learning-historical-transients",
+        "type": "publication",
+        "name": "Use of machine learning to enhance detection of transient astronomical phenomena in historical observatory images",
+        "relationshipType": "contains_claim",
+        "role": "",
+        "context": ""
+      }
+    ],
+    "claim-vasco-ml-unrecognized-transient-population": [
+      {
+        "id": "publication-2026-machine-learning-historical-transients",
+        "type": "publication",
+        "name": "Use of machine learning to enhance detection of transient astronomical phenomena in historical observatory images",
+        "relationshipType": "contains_claim",
+        "role": "",
+        "context": ""
+      }
+    ],
     "claim-vasco-transients-nuclear-test-correlation": [
       {
         "id": "claim-watters-vasco-methodological-challenge",
@@ -16536,6 +16684,14 @@
         "context": ""
       },
       {
+        "id": "record-2026-secret-directive-uap-reporting-procedures",
+        "type": "document",
+        "name": "Attributed Description of Confidential Executive UAP Reporting Procedures",
+        "relationshipType": "references_publication",
+        "role": "public protected-disclosure policy context",
+        "context": ""
+      },
+      {
         "id": "document-2026-aaro-nufohrc-sole-source-notice",
         "type": "document",
         "name": "Notice of Intent to Sole Source: Historical UAP Data and Analysis Subscription",
@@ -17166,6 +17322,14 @@
       }
     ],
     "federal-bureau-of-investigation": [
+      {
+        "id": "record-2026-secret-directive-uap-reporting-procedures",
+        "type": "document",
+        "name": "Attributed Description of Confidential Executive UAP Reporting Procedures",
+        "relationshipType": "references_organization",
+        "role": "referral channel described by Skafish",
+        "context": ""
+      },
       {
         "id": "2025-weaponized-episode-80",
         "type": "podcast_episode",
@@ -18484,6 +18648,14 @@
         "type": "claim",
         "name": "Matthew Brown argues that excessive secrecy stifles public and congressional inquiry",
         "relationshipType": "concerns",
+        "role": "",
+        "context": ""
+      },
+      {
+        "id": "record-2026-secret-directive-uap-reporting-procedures",
+        "type": "document",
+        "name": "Attributed Description of Confidential Executive UAP Reporting Procedures",
+        "relationshipType": "references_topic",
         "role": "",
         "context": ""
       },
@@ -22942,6 +23114,14 @@
     "marco-rubio": [],
     "marik-von-rennenkampff": [
       {
+        "id": "record-2026-secret-directive-uap-reporting-procedures",
+        "type": "document",
+        "name": "Attributed Description of Confidential Executive UAP Reporting Procedures",
+        "relationshipType": "references_person",
+        "role": "discussion participant",
+        "context": ""
+      },
+      {
         "id": "2026-weaponized-episode-108",
         "type": "podcast_episode",
         "name": "WEAPONIZED Episode #108 — Syria UAP Video — Apparent Instantaneous Acceleration",
@@ -25415,6 +25595,14 @@
     ],
     "office-of-the-director-of-national-intelligence": [
       {
+        "id": "record-2026-secret-directive-uap-reporting-procedures",
+        "type": "document",
+        "name": "Attributed Description of Confidential Executive UAP Reporting Procedures",
+        "relationshipType": "references_organization",
+        "role": "referral channel described by Skafish",
+        "context": ""
+      },
+      {
         "id": "2026-weaponized-episode-113",
         "type": "podcast_episode",
         "name": "WEAPONIZED Episode #113 — Matthew Brown Exposes How Whistleblowers Are Being Set Up",
@@ -25451,6 +25639,14 @@
         "context": "The disputed analyses use digitized scans of historical Palomar Observatory Sky Survey photographic plates."
       },
       {
+        "id": "publication-2026-machine-learning-historical-transients",
+        "type": "publication",
+        "name": "Use of machine learning to enhance detection of transient astronomical phenomena in historical observatory images",
+        "relationshipType": "references_organization",
+        "role": "historical plate source",
+        "context": ""
+      },
+      {
         "id": "vasco-project",
         "type": "research_project",
         "name": "VASCO Project",
@@ -25470,6 +25666,16 @@
       }
     ],
     "patrick-pj-hughes": [],
+    "peter-skafish": [
+      {
+        "id": "record-2026-secret-directive-uap-reporting-procedures",
+        "type": "document",
+        "name": "Attributed Description of Confidential Executive UAP Reporting Procedures",
+        "relationshipType": "references_person",
+        "role": "speaker",
+        "context": ""
+      }
+    ],
     "philip-j-corso": [
       {
         "id": "claim-roswell-technology-transfer",
@@ -25684,6 +25890,14 @@
         "context": ""
       },
       {
+        "id": "record-2026-secret-directive-uap-reporting-procedures",
+        "type": "document",
+        "name": "Attributed Description of Confidential Executive UAP Reporting Procedures",
+        "relationshipType": "references_topic",
+        "role": "",
+        "context": ""
+      },
+      {
         "id": "document-2026-pursue-uap-disclosure-legal-waiver",
         "type": "publication",
         "name": "Department of War Legal Waiver for UAP Disclosures to PURSUE",
@@ -25781,6 +25995,14 @@
         "name": "Wesley Andrés Watters",
         "relationshipType": "authored",
         "role": "lead/corresponding author",
+        "context": ""
+      },
+      {
+        "id": "publication-2026-machine-learning-historical-transients",
+        "type": "publication",
+        "name": "Use of machine learning to enhance detection of transient astronomical phenomena in historical observatory images",
+        "relationshipType": "references_publication",
+        "role": "competing methodological critique",
         "context": ""
       }
     ],
@@ -25962,6 +26184,120 @@
         "relationshipType": "references_publication",
         "role": "foundational kinematic observability study",
         "context": "The PURSUE paper operationalizes the topic's key principle that apparent image motion is not automatically physical velocity."
+      }
+    ],
+    "publication-2026-machine-learning-historical-transients": [
+      {
+        "id": "claim-vasco-ml-probability-gradient",
+        "type": "claim",
+        "name": "Higher-probability transient candidates showed a stronger reported nuclear-window association",
+        "relationshipType": "contained_in",
+        "role": "structured scientific claim",
+        "context": ""
+      },
+      {
+        "id": "claim-vasco-ml-unrecognized-transient-population",
+        "type": "claim",
+        "name": "The authors interpret the results as supporting an unrecognized transient population",
+        "relationshipType": "contained_in",
+        "role": "structured scientific claim",
+        "context": ""
+      },
+      {
+        "id": "claim-vasco-ml-nuclear-window-association",
+        "type": "claim",
+        "name": "The authors report an association between ML-filtered transient counts and nuclear-test windows",
+        "relationshipType": "contained_in",
+        "role": "structured scientific claim",
+        "context": ""
+      },
+      {
+        "id": "claim-vasco-ml-earth-shadow-deficit",
+        "type": "claim",
+        "name": "The authors report an Earth-shadow deficit strongest among higher-probability candidates",
+        "relationshipType": "contained_in",
+        "role": "structured scientific claim",
+        "context": ""
+      },
+      {
+        "id": "claim-vasco-ml-no-origin-determination",
+        "type": "claim",
+        "name": "The machine-learning study does not determine a technological or extraterrestrial origin",
+        "relationshipType": "contained_in",
+        "role": "structured scientific claim",
+        "context": ""
+      },
+      {
+        "id": "claim-vasco-ml-classification-performance",
+        "type": "claim",
+        "name": "The VASCO machine-learning classifier showed useful but imperfect discrimination",
+        "relationshipType": "contained_in",
+        "role": "structured scientific claim",
+        "context": ""
+      },
+      {
+        "id": "palomar-observatory",
+        "type": "facility",
+        "name": "Palomar Observatory",
+        "relationshipType": "references_publication",
+        "role": "historical plate source",
+        "context": ""
+      },
+      {
+        "id": "alina-streblyanska",
+        "type": "person",
+        "name": "Alina Streblyanska",
+        "relationshipType": "authored",
+        "role": "co-author",
+        "context": ""
+      },
+      {
+        "id": "beatriz-villarroel",
+        "type": "person",
+        "name": "Beatriz Villarroel",
+        "relationshipType": "references_publication",
+        "role": "co-author",
+        "context": ""
+      },
+      {
+        "id": "brian-doherty",
+        "type": "person",
+        "name": "Brian Doherty",
+        "relationshipType": "authored",
+        "role": "co-author",
+        "context": ""
+      },
+      {
+        "id": "stephen-bruehl",
+        "type": "person",
+        "name": "Stephen Bruehl",
+        "relationshipType": "authored",
+        "role": "co-author",
+        "context": ""
+      },
+      {
+        "id": "publication-2026-critical-evaluation-poss1e-technosignatures",
+        "type": "publication",
+        "name": "Critical Evaluation of Studies Alleging Evidence for Technosignatures in the POSS1-E Photographic Plates",
+        "relationshipType": "references_publication",
+        "role": "competing methodological record",
+        "context": ""
+      },
+      {
+        "id": "vasco-project",
+        "type": "research_project",
+        "name": "VASCO Project",
+        "relationshipType": "references_publication",
+        "role": "peer-reviewed connected research",
+        "context": ""
+      },
+      {
+        "id": "technosignatures",
+        "type": "topic",
+        "name": "Technosignatures",
+        "relationshipType": "references_publication",
+        "role": "related research context",
+        "context": ""
       }
     ],
     "publication-2026-micron-scale-technosignatures-lunar-regolith": [
@@ -26685,6 +27021,104 @@
         "name": "UAP Disclosure",
         "relationshipType": "references_publication",
         "role": "public statement and disclosure context",
+        "context": ""
+      }
+    ],
+    "record-2026-secret-directive-uap-reporting-procedures": [
+      {
+        "id": "claim-secret-directive-no-guaranteed-release",
+        "type": "claim",
+        "name": "Authorized reporting does not guarantee public release",
+        "relationshipType": "contained_in",
+        "role": "structured attributed claim",
+        "context": ""
+      },
+      {
+        "id": "claim-secret-directive-multiple-contacts",
+        "type": "claim",
+        "name": "Skafish described multiple authorized reporting contacts",
+        "relationshipType": "contained_in",
+        "role": "structured attributed claim",
+        "context": ""
+      },
+      {
+        "id": "claim-secret-directive-odni-fbi-referrals",
+        "type": "claim",
+        "name": "Skafish described ODNI and FBI referral paths",
+        "relationshipType": "contained_in",
+        "role": "structured attributed claim",
+        "context": ""
+      },
+      {
+        "id": "claim-secret-directive-government-wide-scope",
+        "type": "claim",
+        "name": "Skafish described the directive as government-wide in scope",
+        "relationshipType": "contained_in",
+        "role": "structured attributed claim",
+        "context": ""
+      },
+      {
+        "id": "claim-secret-directive-classified-existence",
+        "type": "claim",
+        "name": "Skafish said the executive directive governing UAP reporting is classified",
+        "relationshipType": "contained_in",
+        "role": "structured attributed claim",
+        "context": ""
+      },
+      {
+        "id": "claim-secret-directive-no-classified-submissions-to-sol",
+        "type": "claim",
+        "name": "Sol Foundation said it does not want classified information",
+        "relationshipType": "contained_in",
+        "role": "structured attributed claim",
+        "context": ""
+      },
+      {
+        "id": "federal-bureau-of-investigation",
+        "type": "organization",
+        "name": "Federal Bureau of Investigation",
+        "relationshipType": "references_publication",
+        "role": "described referral context",
+        "context": ""
+      },
+      {
+        "id": "office-of-the-director-of-national-intelligence",
+        "type": "organization",
+        "name": "Office of the Director of National Intelligence",
+        "relationshipType": "references_publication",
+        "role": "described referral context",
+        "context": ""
+      },
+      {
+        "id": "sol-foundation",
+        "type": "organization",
+        "name": "The Sol Foundation",
+        "relationshipType": "references_publication",
+        "role": "discussion publisher",
+        "context": ""
+      },
+      {
+        "id": "marik-von-rennenkampff",
+        "type": "person",
+        "name": "Marik von Rennenkampff",
+        "relationshipType": "references_publication",
+        "role": "discussion participant",
+        "context": ""
+      },
+      {
+        "id": "peter-skafish",
+        "type": "person",
+        "name": "Peter Skafish",
+        "relationshipType": "participated_in",
+        "role": "speaker",
+        "context": ""
+      },
+      {
+        "id": "document-2026-pursue-uap-disclosure-legal-waiver",
+        "type": "publication",
+        "name": "Department of War Legal Waiver for UAP Disclosures to PURSUE",
+        "relationshipType": "references_publication",
+        "role": "related public policy",
         "context": ""
       }
     ],
@@ -28559,6 +28993,14 @@
         "context": ""
       },
       {
+        "id": "publication-2026-machine-learning-historical-transients",
+        "type": "publication",
+        "name": "Use of machine learning to enhance detection of transient astronomical phenomena in historical observatory images",
+        "relationshipType": "references_topic",
+        "role": "machine-learning and statistical methodology",
+        "context": ""
+      },
+      {
         "id": "european-uap-barometer",
         "type": "research_project",
         "name": "European UAP Barometer",
@@ -28965,6 +29407,14 @@
       }
     ],
     "sol-foundation": [
+      {
+        "id": "record-2026-secret-directive-uap-reporting-procedures",
+        "type": "document",
+        "name": "Attributed Description of Confidential Executive UAP Reporting Procedures",
+        "relationshipType": "references_organization",
+        "role": "discussion publisher and private referral resource",
+        "context": ""
+      },
       {
         "id": "garry-nolan",
         "type": "person",
@@ -29444,6 +29894,16 @@
         "context": ""
       }
     ],
+    "stephen-bruehl": [
+      {
+        "id": "publication-2026-machine-learning-historical-transients",
+        "type": "publication",
+        "name": "Use of machine learning to enhance detection of transient astronomical phenomena in historical observatory images",
+        "relationshipType": "references_person",
+        "role": "author",
+        "context": ""
+      }
+    ],
     "steven-greer": [],
     "syria-uap-2021": [
       {
@@ -29566,6 +30026,14 @@
         "name": "Slysh haloes: the waste heat of cold computing as a submillimetre technosignature",
         "relationshipType": "references_topic",
         "role": "",
+        "context": ""
+      },
+      {
+        "id": "publication-2026-machine-learning-historical-transients",
+        "type": "publication",
+        "name": "Use of machine learning to enhance detection of transient astronomical phenomena in historical observatory images",
+        "relationshipType": "references_topic",
+        "role": "research context; not an established detection",
         "context": ""
       },
       {
@@ -32953,6 +33421,14 @@
         "relationshipType": "references_organization",
         "role": "research project evaluated",
         "context": "The critique evaluates claims arising from VASCO-related analyses of pre-Sputnik POSS1 photographic plates."
+      },
+      {
+        "id": "publication-2026-machine-learning-historical-transients",
+        "type": "publication",
+        "name": "Use of machine learning to enhance detection of transient astronomical phenomena in historical observatory images",
+        "relationshipType": "references_organization",
+        "role": "research context",
+        "context": ""
       }
     ],
     "wall-street-journal": [
@@ -34238,6 +34714,14 @@
         "context": ""
       },
       {
+        "id": "record-2026-secret-directive-uap-reporting-procedures",
+        "type": "document",
+        "name": "Attributed Description of Confidential Executive UAP Reporting Procedures",
+        "relationshipType": "references_topic",
+        "role": "",
+        "context": ""
+      },
+      {
         "id": "2024-elizondo-written-testimony",
         "type": "document",
         "name": "Luis Elizondo Written Testimony",
@@ -34473,6 +34957,14 @@
       }
     ],
     "white-house": [
+      {
+        "id": "record-2026-secret-directive-uap-reporting-procedures",
+        "type": "document",
+        "name": "Attributed Description of Confidential Executive UAP Reporting Procedures",
+        "relationshipType": "references_organization",
+        "role": "executive-branch context; no independent authentication",
+        "context": ""
+      },
       {
         "id": "record-2026-rfk-jr-luna-uap-briefing-discussion",
         "type": "document",

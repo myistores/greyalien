@@ -1,0 +1,27 @@
+{
+  "id": "claim-vasco-ml-earth-shadow-deficit",
+  "type": "claim",
+  "name": "The authors report an Earth-shadow deficit strongest among higher-probability candidates",
+  "summary": "The paper reports a significant Earth-shadow deficit and a larger deficit among candidates with higher model-assigned probabilities of being real.",
+  "relationships": [
+    {
+      "type": "contained_in",
+      "target": "publication-2026-machine-learning-historical-transients",
+      "role": "structured scientific claim"
+    }
+  ],
+  "referenceSources": [
+    {
+      "label": "Scientific Reports paper",
+      "url": "https://www.nature.com/articles/s41598-026-66148-2",
+      "sourceType": "peer_reviewed_journal_article",
+      "role": "claim_source"
+    }
+  ],
+  "claimMetadata": {
+    "classification": "peer_reviewed_statistical_finding_disputed_context",
+    "knowledgePermanence": "permanent",
+    "evidenceBoundary": "The result remains part of an active methodological dispute."
+  },
+  "officialLinks": []
+}

@@ -1,0 +1,27 @@
+{
+  "id": "claim-vasco-ml-classification-performance",
+  "type": "claim",
+  "name": "The VASCO machine-learning classifier showed useful but imperfect discrimination",
+  "summary": "The authors report out-of-fold AUC 0.81 with sensitivity 0.71 and specificity 0.71 when distinguishing expert-labeled likely transients from plate defects.",
+  "relationships": [
+    {
+      "type": "contained_in",
+      "target": "publication-2026-machine-learning-historical-transients",
+      "role": "structured scientific claim"
+    }
+  ],
+  "referenceSources": [
+    {
+      "label": "Scientific Reports paper",
+      "url": "https://www.nature.com/articles/s41598-026-66148-2",
+      "sourceType": "peer_reviewed_journal_article",
+      "role": "claim_source"
+    }
+  ],
+  "claimMetadata": {
+    "classification": "peer_reviewed_machine_learning_result",
+    "knowledgePermanence": "permanent",
+    "evidenceBoundary": "Model performance does not constitute perfect object-level validation."
+  },
+  "officialLinks": []
+}

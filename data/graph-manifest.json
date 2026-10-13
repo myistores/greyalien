@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "entityCount": 1741,
-  "relationshipCount": 4017,
+  "entityCount": 1759,
+  "relationshipCount": 4074,
   "unresolvedRelationshipCount": 56,
   "connectionCounts": {
     "1946-scandinavian-ghost-rockets": {
@@ -1609,6 +1609,11 @@
       "outgoing": 0,
       "total": 2
     },
+    "alina-streblyanska": {
+      "incoming": 1,
+      "outgoing": 1,
+      "total": 2
+    },
     "all-domain-anomaly-resolution-office": {
       "incoming": 0,
       "outgoing": 0,
@@ -1675,9 +1680,9 @@
       "total": 1
     },
     "beatriz-villarroel": {
-      "incoming": 2,
-      "outgoing": 2,
-      "total": 4
+      "incoming": 3,
+      "outgoing": 3,
+      "total": 6
     },
     "ben-schneider": {
       "incoming": 1,
@@ -1728,6 +1733,11 @@
       "incoming": 1,
       "outgoing": 2,
       "total": 3
+    },
+    "brian-doherty": {
+      "incoming": 1,
+      "outgoing": 1,
+      "total": 2
     },
     "bryce-zabel": {
       "incoming": 77,
@@ -4784,6 +4794,36 @@
       "outgoing": 1,
       "total": 1
     },
+    "claim-secret-directive-classified-existence": {
+      "incoming": 1,
+      "outgoing": 1,
+      "total": 2
+    },
+    "claim-secret-directive-government-wide-scope": {
+      "incoming": 1,
+      "outgoing": 1,
+      "total": 2
+    },
+    "claim-secret-directive-multiple-contacts": {
+      "incoming": 1,
+      "outgoing": 1,
+      "total": 2
+    },
+    "claim-secret-directive-no-classified-submissions-to-sol": {
+      "incoming": 1,
+      "outgoing": 1,
+      "total": 2
+    },
+    "claim-secret-directive-no-guaranteed-release": {
+      "incoming": 1,
+      "outgoing": 1,
+      "total": 2
+    },
+    "claim-secret-directive-odni-fbi-referrals": {
+      "incoming": 1,
+      "outgoing": 1,
+      "total": 2
+    },
     "claim-secret-uap-programs": {
       "incoming": 9,
       "outgoing": 5,
@@ -5048,6 +5088,36 @@
       "incoming": 0,
       "outgoing": 1,
       "total": 1
+    },
+    "claim-vasco-ml-classification-performance": {
+      "incoming": 1,
+      "outgoing": 1,
+      "total": 2
+    },
+    "claim-vasco-ml-earth-shadow-deficit": {
+      "incoming": 1,
+      "outgoing": 1,
+      "total": 2
+    },
+    "claim-vasco-ml-no-origin-determination": {
+      "incoming": 1,
+      "outgoing": 1,
+      "total": 2
+    },
+    "claim-vasco-ml-nuclear-window-association": {
+      "incoming": 1,
+      "outgoing": 1,
+      "total": 2
+    },
+    "claim-vasco-ml-probability-gradient": {
+      "incoming": 1,
+      "outgoing": 1,
+      "total": 2
+    },
+    "claim-vasco-ml-unrecognized-transient-population": {
+      "incoming": 1,
+      "outgoing": 1,
+      "total": 2
     },
     "claim-vasco-transients-nuclear-test-correlation": {
       "incoming": 2,
@@ -6110,9 +6180,9 @@
       "total": 17
     },
     "document-2026-pursue-uap-disclosure-legal-waiver": {
-      "incoming": 18,
-      "outgoing": 18,
-      "total": 36
+      "incoming": 19,
+      "outgoing": 19,
+      "total": 38
     },
     "douglas-kurth": {
       "incoming": 0,
@@ -6240,9 +6310,9 @@
       "total": 4
     },
     "federal-bureau-of-investigation": {
-      "incoming": 2,
-      "outgoing": 1,
-      "total": 3
+      "incoming": 3,
+      "outgoing": 2,
+      "total": 5
     },
     "federica-bianco": {
       "incoming": 0,
@@ -6315,9 +6385,9 @@
       "total": 0
     },
     "government-transparency": {
-      "incoming": 174,
+      "incoming": 175,
       "outgoing": 5,
-      "total": 179
+      "total": 180
     },
     "hal-puthoff": {
       "incoming": 3,
@@ -6765,9 +6835,9 @@
       "total": 2
     },
     "marik-von-rennenkampff": {
-      "incoming": 5,
-      "outgoing": 1,
-      "total": 6
+      "incoming": 6,
+      "outgoing": 2,
+      "total": 8
     },
     "mario-woods": {
       "incoming": 0,
@@ -7020,9 +7090,9 @@
       "total": 4
     },
     "office-of-the-director-of-national-intelligence": {
-      "incoming": 2,
-      "outgoing": 0,
-      "total": 2
+      "incoming": 3,
+      "outgoing": 1,
+      "total": 4
     },
     "omer-eldadi": {
       "incoming": 1,
@@ -7030,9 +7100,9 @@
       "total": 2
     },
     "palomar-observatory": {
-      "incoming": 2,
-      "outgoing": 1,
-      "total": 3
+      "incoming": 3,
+      "outgoing": 2,
+      "total": 5
     },
     "paranormal-phenomena": {
       "incoming": 1,
@@ -7042,6 +7112,11 @@
     "patrick-pj-hughes": {
       "incoming": 0,
       "outgoing": 2,
+      "total": 2
+    },
+    "peter-skafish": {
+      "incoming": 1,
+      "outgoing": 1,
       "total": 2
     },
     "philip-j-corso": {
@@ -7075,9 +7150,9 @@
       "total": 3
     },
     "protected-uap-disclosures": {
-      "incoming": 8,
+      "incoming": 9,
       "outgoing": 3,
-      "total": 11
+      "total": 12
     },
     "public-disclosure": {
       "incoming": 0,
@@ -7110,9 +7185,9 @@
       "total": 6
     },
     "publication-2026-critical-evaluation-poss1e-technosignatures": {
-      "incoming": 3,
-      "outgoing": 9,
-      "total": 12
+      "incoming": 4,
+      "outgoing": 10,
+      "total": 14
     },
     "publication-2026-european-uap-barometer-2020-2025": {
       "incoming": 14,
@@ -7123,6 +7198,11 @@
       "incoming": 8,
       "outgoing": 10,
       "total": 18
+    },
+    "publication-2026-machine-learning-historical-transients": {
+      "incoming": 14,
+      "outgoing": 15,
+      "total": 29
     },
     "publication-2026-micron-scale-technosignatures-lunar-regolith": {
       "incoming": 18,
@@ -7173,6 +7253,11 @@
       "incoming": 16,
       "outgoing": 16,
       "total": 32
+    },
+    "record-2026-secret-directive-uap-reporting-procedures": {
+      "incoming": 12,
+      "outgoing": 16,
+      "total": 28
     },
     "record-group-615-uap-records-collection": {
       "incoming": 6,
@@ -7320,9 +7405,9 @@
       "total": 1
     },
     "scientific-investigation": {
-      "incoming": 78,
+      "incoming": 79,
       "outgoing": 3,
-      "total": 81
+      "total": 82
     },
     "scott-bray": {
       "incoming": 0,
@@ -7385,9 +7470,9 @@
       "total": 4
     },
     "sol-foundation": {
-      "incoming": 7,
-      "outgoing": 2,
-      "total": 9
+      "incoming": 8,
+      "outgoing": 3,
+      "total": 11
     },
     "somewhere-in-the-skies-podcast": {
       "incoming": 40,
@@ -7424,6 +7509,11 @@
       "outgoing": 3,
       "total": 4
     },
+    "stephen-bruehl": {
+      "incoming": 1,
+      "outgoing": 1,
+      "total": 2
+    },
     "steven-greer": {
       "incoming": 0,
       "outgoing": 1,
@@ -7435,9 +7525,9 @@
       "total": 4
     },
     "technosignatures": {
-      "incoming": 18,
-      "outgoing": 3,
-      "total": 21
+      "incoming": 19,
+      "outgoing": 4,
+      "total": 23
     },
     "that-ufo-podcast": {
       "incoming": 0,
@@ -8620,9 +8710,9 @@
       "total": 1
     },
     "vasco-project": {
-      "incoming": 4,
-      "outgoing": 3,
-      "total": 7
+      "incoming": 5,
+      "outgoing": 4,
+      "total": 9
     },
     "wall-street-journal": {
       "incoming": 4,
@@ -8670,9 +8760,9 @@
       "total": 4
     },
     "whistleblower-protection": {
-      "incoming": 23,
+      "incoming": 24,
       "outgoing": 0,
-      "total": 23
+      "total": 24
     },
     "whistleblower-retaliation": {
       "incoming": 9,
@@ -8680,9 +8770,9 @@
       "total": 9
     },
     "white-house": {
-      "incoming": 3,
+      "incoming": 4,
       "outgoing": 1,
-      "total": 4
+      "total": 5
     },
     "whitley-strieber": {
       "incoming": 2,

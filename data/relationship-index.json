@@ -10398,6 +10398,17 @@
         }
       }
     ],
+    "alina-streblyanska": [
+      {
+        "source": "publication-2026-machine-learning-historical-transients",
+        "type": "references_person",
+        "meta": {
+          "type": "references_person",
+          "target": "alina-streblyanska",
+          "role": "author"
+        }
+      }
+    ],
     "americans-for-safe-aerospace": [
       {
         "source": "2023-06-01-asa-launch",
@@ -11090,6 +11101,15 @@
         }
       },
       {
+        "source": "publication-2026-machine-learning-historical-transients",
+        "type": "references_person",
+        "meta": {
+          "type": "references_person",
+          "target": "beatriz-villarroel",
+          "role": "author"
+        }
+      },
+      {
         "source": "vasco-project",
         "type": "affiliated_with",
         "meta": {
@@ -11400,6 +11420,17 @@
         "meta": {
           "type": "references_person",
           "target": "brian-c-lacki",
+          "role": "author"
+        }
+      }
+    ],
+    "brian-doherty": [
+      {
+        "source": "publication-2026-machine-learning-historical-transients",
+        "type": "references_person",
+        "meta": {
+          "type": "references_person",
+          "target": "brian-doherty",
           "role": "author"
         }
       }
@@ -14386,6 +14417,66 @@
     "claim-secrecy-law-complicates-oversight": [],
     "claim-secrecy-remains-a-major-scientific-obstacle": [],
     "claim-secrecy-resistance-remains-active": [],
+    "claim-secret-directive-classified-existence": [
+      {
+        "source": "record-2026-secret-directive-uap-reporting-procedures",
+        "type": "contains_claim",
+        "meta": {
+          "type": "contains_claim",
+          "target": "claim-secret-directive-classified-existence"
+        }
+      }
+    ],
+    "claim-secret-directive-government-wide-scope": [
+      {
+        "source": "record-2026-secret-directive-uap-reporting-procedures",
+        "type": "contains_claim",
+        "meta": {
+          "type": "contains_claim",
+          "target": "claim-secret-directive-government-wide-scope"
+        }
+      }
+    ],
+    "claim-secret-directive-multiple-contacts": [
+      {
+        "source": "record-2026-secret-directive-uap-reporting-procedures",
+        "type": "contains_claim",
+        "meta": {
+          "type": "contains_claim",
+          "target": "claim-secret-directive-multiple-contacts"
+        }
+      }
+    ],
+    "claim-secret-directive-no-classified-submissions-to-sol": [
+      {
+        "source": "record-2026-secret-directive-uap-reporting-procedures",
+        "type": "contains_claim",
+        "meta": {
+          "type": "contains_claim",
+          "target": "claim-secret-directive-no-classified-submissions-to-sol"
+        }
+      }
+    ],
+    "claim-secret-directive-no-guaranteed-release": [
+      {
+        "source": "record-2026-secret-directive-uap-reporting-procedures",
+        "type": "contains_claim",
+        "meta": {
+          "type": "contains_claim",
+          "target": "claim-secret-directive-no-guaranteed-release"
+        }
+      }
+    ],
+    "claim-secret-directive-odni-fbi-referrals": [
+      {
+        "source": "record-2026-secret-directive-uap-reporting-procedures",
+        "type": "contains_claim",
+        "meta": {
+          "type": "contains_claim",
+          "target": "claim-secret-directive-odni-fbi-referrals"
+        }
+      }
+    ],
     "claim-secret-uap-programs": [
       {
         "source": "2023-weaponized-episode-21",
@@ -14702,6 +14793,66 @@
     "claim-vandenberg-red-square-blotter-released": [],
     "claim-vandenberg-security-personnel-investigated-multiple-incursions": [],
     "claim-vandenberg-witness-reported-large-red-object": [],
+    "claim-vasco-ml-classification-performance": [
+      {
+        "source": "publication-2026-machine-learning-historical-transients",
+        "type": "contains_claim",
+        "meta": {
+          "type": "contains_claim",
+          "target": "claim-vasco-ml-classification-performance"
+        }
+      }
+    ],
+    "claim-vasco-ml-earth-shadow-deficit": [
+      {
+        "source": "publication-2026-machine-learning-historical-transients",
+        "type": "contains_claim",
+        "meta": {
+          "type": "contains_claim",
+          "target": "claim-vasco-ml-earth-shadow-deficit"
+        }
+      }
+    ],
+    "claim-vasco-ml-no-origin-determination": [
+      {
+        "source": "publication-2026-machine-learning-historical-transients",
+        "type": "contains_claim",
+        "meta": {
+          "type": "contains_claim",
+          "target": "claim-vasco-ml-no-origin-determination"
+        }
+      }
+    ],
+    "claim-vasco-ml-nuclear-window-association": [
+      {
+        "source": "publication-2026-machine-learning-historical-transients",
+        "type": "contains_claim",
+        "meta": {
+          "type": "contains_claim",
+          "target": "claim-vasco-ml-nuclear-window-association"
+        }
+      }
+    ],
+    "claim-vasco-ml-probability-gradient": [
+      {
+        "source": "publication-2026-machine-learning-historical-transients",
+        "type": "contains_claim",
+        "meta": {
+          "type": "contains_claim",
+          "target": "claim-vasco-ml-probability-gradient"
+        }
+      }
+    ],
+    "claim-vasco-ml-unrecognized-transient-population": [
+      {
+        "source": "publication-2026-machine-learning-historical-transients",
+        "type": "contains_claim",
+        "meta": {
+          "type": "contains_claim",
+          "target": "claim-vasco-ml-unrecognized-transient-population"
+        }
+      }
+    ],
     "claim-vasco-transients-nuclear-test-correlation": [
       {
         "source": "claim-watters-vasco-methodological-challenge",
@@ -17418,6 +17569,15 @@
         }
       },
       {
+        "source": "record-2026-secret-directive-uap-reporting-procedures",
+        "type": "references_publication",
+        "meta": {
+          "type": "references_publication",
+          "target": "document-2026-pursue-uap-disclosure-legal-waiver",
+          "role": "public protected-disclosure policy context"
+        }
+      },
+      {
         "source": "record-group-615-uap-records-collection",
         "type": "references_publication",
         "meta": {
@@ -18070,6 +18230,15 @@
         "meta": {
           "type": "references_organization",
           "target": "federal-bureau-of-investigation"
+        }
+      },
+      {
+        "source": "record-2026-secret-directive-uap-reporting-procedures",
+        "type": "references_organization",
+        "meta": {
+          "type": "references_organization",
+          "target": "federal-bureau-of-investigation",
+          "role": "referral channel described by Skafish"
         }
       }
     ],
@@ -20842,6 +21011,14 @@
           "type": "references_topic",
           "target": "government-transparency",
           "role": "evidence and declassification context"
+        }
+      },
+      {
+        "source": "record-2026-secret-directive-uap-reporting-procedures",
+        "type": "references_topic",
+        "meta": {
+          "type": "references_topic",
+          "target": "government-transparency"
         }
       },
       {
@@ -24723,6 +24900,15 @@
           "role": "author",
           "context": "Marik von Rennenkampff authored this Sol Foundation policy paper."
         }
+      },
+      {
+        "source": "record-2026-secret-directive-uap-reporting-procedures",
+        "type": "references_person",
+        "meta": {
+          "type": "references_person",
+          "target": "marik-von-rennenkampff",
+          "role": "discussion participant"
+        }
       }
     ],
     "mario-woods": [],
@@ -27273,6 +27459,15 @@
           "type": "references_organization",
           "target": "office-of-the-director-of-national-intelligence"
         }
+      },
+      {
+        "source": "record-2026-secret-directive-uap-reporting-procedures",
+        "type": "references_organization",
+        "meta": {
+          "type": "references_organization",
+          "target": "office-of-the-director-of-national-intelligence",
+          "role": "referral channel described by Skafish"
+        }
       }
     ],
     "omer-eldadi": [
@@ -27298,6 +27493,15 @@
         }
       },
       {
+        "source": "publication-2026-machine-learning-historical-transients",
+        "type": "references_organization",
+        "meta": {
+          "type": "references_organization",
+          "target": "palomar-observatory",
+          "role": "historical plate source"
+        }
+      },
+      {
         "source": "vasco-project",
         "type": "applies_to",
         "meta": {
@@ -27319,6 +27523,17 @@
       }
     ],
     "patrick-pj-hughes": [],
+    "peter-skafish": [
+      {
+        "source": "record-2026-secret-directive-uap-reporting-procedures",
+        "type": "references_person",
+        "meta": {
+          "type": "references_person",
+          "target": "peter-skafish",
+          "role": "speaker"
+        }
+      }
+    ],
     "philip-j-corso": [
       {
         "source": "2023-weaponized-episode-43",
@@ -27553,6 +27768,14 @@
           "type": "addresses_topic",
           "target": "protected-uap-disclosures"
         }
+      },
+      {
+        "source": "record-2026-secret-directive-uap-reporting-procedures",
+        "type": "references_topic",
+        "meta": {
+          "type": "references_topic",
+          "target": "protected-uap-disclosures"
+        }
       }
     ],
     "publication-1965-anatomy-of-a-phenomenon": [
@@ -27647,6 +27870,15 @@
           "type": "authored",
           "target": "publication-2026-critical-evaluation-poss1e-technosignatures",
           "role": "co-author"
+        }
+      },
+      {
+        "source": "publication-2026-machine-learning-historical-transients",
+        "type": "references_publication",
+        "meta": {
+          "type": "references_publication",
+          "target": "publication-2026-critical-evaluation-poss1e-technosignatures",
+          "role": "competing methodological critique"
         }
       },
       {
@@ -27863,6 +28095,134 @@
           "type": "authored",
           "target": "publication-2026-limits-velocity-recovery-pursue",
           "role": "co-author"
+        }
+      }
+    ],
+    "publication-2026-machine-learning-historical-transients": [
+      {
+        "source": "alina-streblyanska",
+        "type": "authored",
+        "meta": {
+          "type": "authored",
+          "target": "publication-2026-machine-learning-historical-transients",
+          "role": "co-author"
+        }
+      },
+      {
+        "source": "beatriz-villarroel",
+        "type": "references_publication",
+        "meta": {
+          "type": "references_publication",
+          "target": "publication-2026-machine-learning-historical-transients",
+          "role": "co-author"
+        }
+      },
+      {
+        "source": "brian-doherty",
+        "type": "authored",
+        "meta": {
+          "type": "authored",
+          "target": "publication-2026-machine-learning-historical-transients",
+          "role": "co-author"
+        }
+      },
+      {
+        "source": "claim-vasco-ml-classification-performance",
+        "type": "contained_in",
+        "meta": {
+          "type": "contained_in",
+          "target": "publication-2026-machine-learning-historical-transients",
+          "role": "structured scientific claim"
+        }
+      },
+      {
+        "source": "claim-vasco-ml-earth-shadow-deficit",
+        "type": "contained_in",
+        "meta": {
+          "type": "contained_in",
+          "target": "publication-2026-machine-learning-historical-transients",
+          "role": "structured scientific claim"
+        }
+      },
+      {
+        "source": "claim-vasco-ml-no-origin-determination",
+        "type": "contained_in",
+        "meta": {
+          "type": "contained_in",
+          "target": "publication-2026-machine-learning-historical-transients",
+          "role": "structured scientific claim"
+        }
+      },
+      {
+        "source": "claim-vasco-ml-nuclear-window-association",
+        "type": "contained_in",
+        "meta": {
+          "type": "contained_in",
+          "target": "publication-2026-machine-learning-historical-transients",
+          "role": "structured scientific claim"
+        }
+      },
+      {
+        "source": "claim-vasco-ml-probability-gradient",
+        "type": "contained_in",
+        "meta": {
+          "type": "contained_in",
+          "target": "publication-2026-machine-learning-historical-transients",
+          "role": "structured scientific claim"
+        }
+      },
+      {
+        "source": "claim-vasco-ml-unrecognized-transient-population",
+        "type": "contained_in",
+        "meta": {
+          "type": "contained_in",
+          "target": "publication-2026-machine-learning-historical-transients",
+          "role": "structured scientific claim"
+        }
+      },
+      {
+        "source": "palomar-observatory",
+        "type": "references_publication",
+        "meta": {
+          "type": "references_publication",
+          "target": "publication-2026-machine-learning-historical-transients",
+          "role": "historical plate source"
+        }
+      },
+      {
+        "source": "publication-2026-critical-evaluation-poss1e-technosignatures",
+        "type": "references_publication",
+        "meta": {
+          "type": "references_publication",
+          "target": "publication-2026-machine-learning-historical-transients",
+          "role": "competing methodological record"
+        }
+      },
+      {
+        "source": "stephen-bruehl",
+        "type": "authored",
+        "meta": {
+          "type": "authored",
+          "target": "publication-2026-machine-learning-historical-transients",
+          "role": "co-author"
+        }
+      },
+      {
+        "source": "technosignatures",
+        "type": "references_publication",
+        "meta": {
+          "type": "references_publication",
+          "target": "publication-2026-machine-learning-historical-transients",
+          "role": "related research context"
+        }
+      },
+      {
+        "source": "vasco-project",
+        "type": "references_publication",
+        "meta": {
+          "type": "references_publication",
+          "target": "publication-2026-machine-learning-historical-transients",
+          "role": "peer-reviewed connected research"
         }
       }
     ],
@@ -28667,6 +29027,116 @@
           "type": "references_publication",
           "target": "record-2026-rfk-jr-luna-uap-briefing-discussion",
           "role": "transition and administration context"
+        }
+      }
+    ],
+    "record-2026-secret-directive-uap-reporting-procedures": [
+      {
+        "source": "claim-secret-directive-classified-existence",
+        "type": "contained_in",
+        "meta": {
+          "type": "contained_in",
+          "target": "record-2026-secret-directive-uap-reporting-procedures",
+          "role": "structured attributed claim"
+        }
+      },
+      {
+        "source": "claim-secret-directive-government-wide-scope",
+        "type": "contained_in",
+        "meta": {
+          "type": "contained_in",
+          "target": "record-2026-secret-directive-uap-reporting-procedures",
+          "role": "structured attributed claim"
+        }
+      },
+      {
+        "source": "claim-secret-directive-multiple-contacts",
+        "type": "contained_in",
+        "meta": {
+          "type": "contained_in",
+          "target": "record-2026-secret-directive-uap-reporting-procedures",
+          "role": "structured attributed claim"
+        }
+      },
+      {
+        "source": "claim-secret-directive-no-classified-submissions-to-sol",
+        "type": "contained_in",
+        "meta": {
+          "type": "contained_in",
+          "target": "record-2026-secret-directive-uap-reporting-procedures",
+          "role": "structured attributed claim"
+        }
+      },
+      {
+        "source": "claim-secret-directive-no-guaranteed-release",
+        "type": "contained_in",
+        "meta": {
+          "type": "contained_in",
+          "target": "record-2026-secret-directive-uap-reporting-procedures",
+          "role": "structured attributed claim"
+        }
+      },
+      {
+        "source": "claim-secret-directive-odni-fbi-referrals",
+        "type": "contained_in",
+        "meta": {
+          "type": "contained_in",
+          "target": "record-2026-secret-directive-uap-reporting-procedures",
+          "role": "structured attributed claim"
+        }
+      },
+      {
+        "source": "document-2026-pursue-uap-disclosure-legal-waiver",
+        "type": "references_publication",
+        "meta": {
+          "type": "references_publication",
+          "target": "record-2026-secret-directive-uap-reporting-procedures",
+          "role": "related public policy"
+        }
+      },
+      {
+        "source": "federal-bureau-of-investigation",
+        "type": "references_publication",
+        "meta": {
+          "type": "references_publication",
+          "target": "record-2026-secret-directive-uap-reporting-procedures",
+          "role": "described referral context"
+        }
+      },
+      {
+        "source": "marik-von-rennenkampff",
+        "type": "references_publication",
+        "meta": {
+          "type": "references_publication",
+          "target": "record-2026-secret-directive-uap-reporting-procedures",
+          "role": "discussion participant"
+        }
+      },
+      {
+        "source": "office-of-the-director-of-national-intelligence",
+        "type": "references_publication",
+        "meta": {
+          "type": "references_publication",
+          "target": "record-2026-secret-directive-uap-reporting-procedures",
+          "role": "described referral context"
+        }
+      },
+      {
+        "source": "peter-skafish",
+        "type": "participated_in",
+        "meta": {
+          "type": "participated_in",
+          "target": "record-2026-secret-directive-uap-reporting-procedures",
+          "role": "speaker"
+        }
+      },
+      {
+        "source": "sol-foundation",
+        "type": "references_publication",
+        "meta": {
+          "type": "references_publication",
+          "target": "record-2026-secret-directive-uap-reporting-procedures",
+          "role": "discussion publisher"
         }
       }
     ],
@@ -30779,6 +31249,15 @@
         }
       },
       {
+        "source": "publication-2026-machine-learning-historical-transients",
+        "type": "references_topic",
+        "meta": {
+          "type": "references_topic",
+          "target": "scientific-investigation",
+          "role": "machine-learning and statistical methodology"
+        }
+      },
+      {
         "source": "publication-2026-micron-scale-technosignatures-lunar-regolith",
         "type": "references_topic",
         "meta": {
@@ -31313,6 +31792,15 @@
         }
       },
       {
+        "source": "record-2026-secret-directive-uap-reporting-procedures",
+        "type": "references_organization",
+        "meta": {
+          "type": "references_organization",
+          "target": "sol-foundation",
+          "role": "discussion publisher and private referral resource"
+        }
+      },
+      {
         "source": "timeline-2023-11-17-sol-inaugural-symposium",
         "type": "timeline_connection",
         "meta": {
@@ -31759,6 +32247,17 @@
         }
       }
     ],
+    "stephen-bruehl": [
+      {
+        "source": "publication-2026-machine-learning-historical-transients",
+        "type": "references_person",
+        "meta": {
+          "type": "references_person",
+          "target": "stephen-bruehl",
+          "role": "author"
+        }
+      }
+    ],
     "steven-greer": [],
     "syria-uap-2021": [
       {
@@ -31883,6 +32382,15 @@
           "target": "technosignatures",
           "role": "subject",
           "context": "The paper evaluates whether the plate-derived features support claimed technosignature interpretations."
+        }
+      },
+      {
+        "source": "publication-2026-machine-learning-historical-transients",
+        "type": "references_topic",
+        "meta": {
+          "type": "references_topic",
+          "target": "technosignatures",
+          "role": "research context; not an established detection"
         }
       },
       {
@@ -35403,6 +35911,15 @@
           "role": "research project evaluated",
           "context": "The critique evaluates claims arising from VASCO-related analyses of pre-Sputnik POSS1 photographic plates."
         }
+      },
+      {
+        "source": "publication-2026-machine-learning-historical-transients",
+        "type": "references_organization",
+        "meta": {
+          "type": "references_organization",
+          "target": "vasco-project",
+          "role": "research context"
+        }
       }
     ],
     "wall-street-journal": [
@@ -36827,6 +37344,14 @@
         }
       },
       {
+        "source": "record-2026-secret-directive-uap-reporting-procedures",
+        "type": "references_topic",
+        "meta": {
+          "type": "references_topic",
+          "target": "whistleblower-protection"
+        }
+      },
+      {
         "source": "timeline-2022-05-25-david-grusch-ppd19-complaint",
         "type": "timeline_connection",
         "meta": {
@@ -36959,6 +37484,15 @@
           "type": "references_organization",
           "target": "white-house",
           "role": "presidential-transition and later-administration context only"
+        }
+      },
+      {
+        "source": "record-2026-secret-directive-uap-reporting-procedures",
+        "type": "references_organization",
+        "meta": {
+          "type": "references_organization",
+          "target": "white-house",
+          "role": "executive-branch context; no independent authentication"
         }
       }
     ],

@@ -1,0 +1,27 @@
+{
+  "id": "claim-vasco-ml-unrecognized-transient-population",
+  "type": "claim",
+  "name": "The authors interpret the results as supporting an unrecognized transient population",
+  "summary": "The paper concludes that the combined results support further study of a previously unrecognized population of transient objects in historical astronomical plates.",
+  "relationships": [
+    {
+      "type": "contained_in",
+      "target": "publication-2026-machine-learning-historical-transients",
+      "role": "structured scientific claim"
+    }
+  ],
+  "referenceSources": [
+    {
+      "label": "Scientific Reports paper",
+      "url": "https://www.nature.com/articles/s41598-026-66148-2",
+      "sourceType": "peer_reviewed_journal_article",
+      "role": "claim_source"
+    }
+  ],
+  "claimMetadata": {
+    "classification": "author_interpretation",
+    "knowledgePermanence": "permanent",
+    "evidenceBoundary": "The interpretation does not identify the physical source of individual candidates."
+  },
+  "officialLinks": []
+}

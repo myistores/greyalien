@@ -1,0 +1,27 @@
+{
+  "id": "claim-vasco-ml-nuclear-window-association",
+  "type": "claim",
+  "name": "The authors report an association between ML-filtered transient counts and nuclear-test windows",
+  "summary": "After controlling for machine-learning-identified artifacts, the authors report elevated transient counts within plus or minus one day of nuclear testing.",
+  "relationships": [
+    {
+      "type": "contained_in",
+      "target": "publication-2026-machine-learning-historical-transients",
+      "role": "structured scientific claim"
+    }
+  ],
+  "referenceSources": [
+    {
+      "label": "Scientific Reports paper",
+      "url": "https://www.nature.com/articles/s41598-026-66148-2",
+      "sourceType": "peer_reviewed_journal_article",
+      "role": "claim_source"
+    }
+  ],
+  "claimMetadata": {
+    "classification": "peer_reviewed_statistical_finding_disputed_context",
+    "knowledgePermanence": "permanent",
+    "evidenceBoundary": "Statistical association does not establish causation or a technological connection."
+  },
+  "officialLinks": []
+}

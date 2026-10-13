@@ -61,6 +61,11 @@
       "target": "palomar-observatory",
       "role": "source-data facility",
       "context": "The disputed analyses use digitized scans of historical Palomar Observatory Sky Survey photographic plates."
+    },
+    {
+      "type": "references_publication",
+      "target": "publication-2026-machine-learning-historical-transients",
+      "role": "competing methodological record"
     }
   ],
   "officialLinks": [
@@ -76,6 +81,12 @@
       "url": "https://www.cambridge.org/core/journals/publications-of-the-astronomical-society-of-australia/article/critical-evaluation-of-studies-alleging-evidence-for-technosignatures-in-the-poss1e-photographic-plates/A19B440ADE54BB11973C46D2BA13FB01",
       "sourceType": "peer_reviewed_article",
       "role": "primary_reference"
+    },
+    {
+      "label": "Scientific Reports machine-learning study",
+      "url": "https://www.nature.com/articles/s41598-026-66148-2",
+      "sourceType": "peer_reviewed_journal_article",
+      "role": "connected_record_source"
     }
   ],
   "publicationMetadata": {
