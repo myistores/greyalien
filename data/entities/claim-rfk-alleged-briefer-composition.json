@@ -1,0 +1,28 @@
+{
+  "id": "claim-rfk-alleged-briefer-composition",
+  "type": "claim",
+  "name": "Kennedy described the group as including a NASA scientist and special-operations personnel",
+  "summary": "Kennedy described the unnamed group as including a very high-level NASA scientist, Navy SEALs and Green Berets.",
+  "relationships": [
+    {
+      "type": "contained_in",
+      "target": "record-2026-rfk-jr-luna-uap-briefing-discussion",
+      "role": "structured attributed claim"
+    }
+  ],
+  "referenceSources": [
+    {
+      "label": "Recorded Kennedy–Luna discussion and Sentinel News transcript",
+      "url": "https://www.sentinel-news.org/p/rfk-jr-says-he-has-been-briefed-on",
+      "sourceType": "recorded_public_statement",
+      "role": "claim_source"
+    }
+  ],
+  "claimMetadata": {
+    "classification": "attributed_identification_claim",
+    "knowledgePermanence": "permanent",
+    "verificationStatus": "Statement recorded; underlying allegation independently unverified",
+    "evidenceBoundary": "All alleged participants remain unnamed and independently unverified."
+  },
+  "officialLinks": []
+}

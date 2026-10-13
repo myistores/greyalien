@@ -1,0 +1,123 @@
+{
+  "id": "record-2026-rfk-jr-luna-uap-briefing-discussion",
+  "type": "document",
+  "entitySubtype": "Recorded Interview / Attributed UAP Briefing Claims",
+  "name": "Robert F. Kennedy Jr. Statements Concerning UAP Briefings and Alleged Recovery Operations",
+  "summary": "Permanent record of Robert F. Kennedy Jr.'s recorded conversation with Representative Anna Paulina Luna in which he described a transition-period approach by unnamed individuals, extraordinary recovery-related allegations attributed to them, and later briefings after he entered the administration. The recording establishes what Kennedy said, not whether the underlying allegations are true.",
+  "date": "2026-10-09",
+  "dateDisplay": "Reported October 9, 2026; conversation timestamp approximately 18:41–20:22",
+  "eventCategory": "Recorded public statement / attributed briefing claim",
+  "destinationPage": true,
+  "visibleInDirectory": true,
+  "searchable": true,
+  "taxonomyStatus": "canonical",
+  "relationships": [
+    {
+      "type": "references_person",
+      "target": "robert-f-kennedy-jr",
+      "role": "speaker"
+    },
+    {
+      "type": "references_person",
+      "target": "anna-paulina-luna",
+      "role": "interview participant"
+    },
+    {
+      "type": "references_organization",
+      "target": "nasa",
+      "role": "unnamed scientist affiliation alleged by Kennedy; not institutional confirmation"
+    },
+    {
+      "type": "references_organization",
+      "target": "united-states-navy",
+      "role": "Navy SEAL affiliation alleged by Kennedy; not institutional confirmation"
+    },
+    {
+      "type": "references_organization",
+      "target": "united-states-army",
+      "role": "Green Beret affiliation alleged by Kennedy; not institutional confirmation"
+    },
+    {
+      "type": "references_organization",
+      "target": "white-house",
+      "role": "presidential-transition and later-administration context only"
+    },
+    {
+      "type": "references_topic",
+      "target": "crash-retrievals",
+      "role": "allegation context; not confirmation"
+    },
+    {
+      "type": "references_topic",
+      "target": "uap-disclosure",
+      "role": "public-disclosure context"
+    },
+    {
+      "type": "references_topic",
+      "target": "government-transparency",
+      "role": "evidence and declassification context"
+    },
+    {
+      "type": "contains_claim",
+      "target": "claim-rfk-transition-uap-approach"
+    },
+    {
+      "type": "contains_claim",
+      "target": "claim-rfk-alleged-briefer-composition"
+    },
+    {
+      "type": "contains_claim",
+      "target": "claim-rfk-alleged-recovery-team-participation"
+    },
+    {
+      "type": "contains_claim",
+      "target": "claim-rfk-alleged-uap-calling-capability"
+    },
+    {
+      "type": "contains_claim",
+      "target": "claim-rfk-alleged-destroy-recover-orders"
+    },
+    {
+      "type": "contains_claim",
+      "target": "claim-rfk-requested-public-disclosure"
+    },
+    {
+      "type": "contains_claim",
+      "target": "claim-rfk-later-administration-briefings"
+    }
+  ],
+  "referenceSources": [
+    {
+      "label": "Sentinel News — report, full transcript and embedded recording",
+      "url": "https://www.sentinel-news.org/p/rfk-jr-says-he-has-been-briefed-on",
+      "sourceType": "reporting_with_primary_recording",
+      "role": "primary_public_source"
+    }
+  ],
+  "recordMetadata": {
+    "participants": [
+      "Robert F. Kennedy Jr.",
+      "Anna Paulina Luna"
+    ],
+    "relevantTimestampStart": "18:41",
+    "relevantTimestampEnd": "20:22",
+    "publicationDate": "October 9, 2026",
+    "evidenceClass": "Recorded public statement",
+    "underlyingAllegationsVerified": false,
+    "namedBriefers": false,
+    "supportingDocumentsReleased": false
+  },
+  "researchLibraryMetadata": {
+    "knowledgePermanence": "permanent",
+    "principalValue": "Preserves a precisely attributable public statement concerning alleged UAP briefings and recovery operations.",
+    "limitations": "No briefer identities, briefing materials, operational orders, dates, locations, mission records, sensor data or recovered materials were released.",
+    "researchImplication": "The account may guide future documentary research, but it does not independently authenticate the extraordinary operations described."
+  },
+  "editorialNotes": {
+    "attributionRule": "The recording verifies that Kennedy made the statements; it does not verify the activities he recounted.",
+    "institutionalBoundary": "NASA, the Navy, the Army, the White House and HHS are not represented as confirming the allegations.",
+    "lifecyclePrinciple": "News can age; knowledge does not."
+  },
+  "relatedNewsId": "2026-10-09-rfk-jr-uap-briefing-statements",
+  "officialLinks": []
+}

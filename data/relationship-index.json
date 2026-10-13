@@ -10500,6 +10500,15 @@
           "target": "anna-paulina-luna",
           "role": "March 2026 congressional request context"
         }
+      },
+      {
+        "source": "record-2026-rfk-jr-luna-uap-briefing-discussion",
+        "type": "references_person",
+        "meta": {
+          "type": "references_person",
+          "target": "anna-paulina-luna",
+          "role": "interview participant"
+        }
       }
     ],
     "area-51": [
@@ -14141,6 +14150,76 @@
     ],
     "claim-retaliation-can-occur-without-prosecution": [],
     "claim-retaliation-described-as-systemic": [],
+    "claim-rfk-alleged-briefer-composition": [
+      {
+        "source": "record-2026-rfk-jr-luna-uap-briefing-discussion",
+        "type": "contains_claim",
+        "meta": {
+          "type": "contains_claim",
+          "target": "claim-rfk-alleged-briefer-composition"
+        }
+      }
+    ],
+    "claim-rfk-alleged-destroy-recover-orders": [
+      {
+        "source": "record-2026-rfk-jr-luna-uap-briefing-discussion",
+        "type": "contains_claim",
+        "meta": {
+          "type": "contains_claim",
+          "target": "claim-rfk-alleged-destroy-recover-orders"
+        }
+      }
+    ],
+    "claim-rfk-alleged-recovery-team-participation": [
+      {
+        "source": "record-2026-rfk-jr-luna-uap-briefing-discussion",
+        "type": "contains_claim",
+        "meta": {
+          "type": "contains_claim",
+          "target": "claim-rfk-alleged-recovery-team-participation"
+        }
+      }
+    ],
+    "claim-rfk-alleged-uap-calling-capability": [
+      {
+        "source": "record-2026-rfk-jr-luna-uap-briefing-discussion",
+        "type": "contains_claim",
+        "meta": {
+          "type": "contains_claim",
+          "target": "claim-rfk-alleged-uap-calling-capability"
+        }
+      }
+    ],
+    "claim-rfk-later-administration-briefings": [
+      {
+        "source": "record-2026-rfk-jr-luna-uap-briefing-discussion",
+        "type": "contains_claim",
+        "meta": {
+          "type": "contains_claim",
+          "target": "claim-rfk-later-administration-briefings"
+        }
+      }
+    ],
+    "claim-rfk-requested-public-disclosure": [
+      {
+        "source": "record-2026-rfk-jr-luna-uap-briefing-discussion",
+        "type": "contains_claim",
+        "meta": {
+          "type": "contains_claim",
+          "target": "claim-rfk-requested-public-disclosure"
+        }
+      }
+    ],
+    "claim-rfk-transition-uap-approach": [
+      {
+        "source": "record-2026-rfk-jr-luna-uap-briefing-discussion",
+        "type": "contains_claim",
+        "meta": {
+          "type": "contains_claim",
+          "target": "claim-rfk-transition-uap-approach"
+        }
+      }
+    ],
     "claim-roswell-technology-transfer": [
       {
         "source": "2023-weaponized-episode-43",
@@ -15795,6 +15874,15 @@
         "meta": {
           "type": "discussed_topic",
           "target": "crash-retrievals"
+        }
+      },
+      {
+        "source": "record-2026-rfk-jr-luna-uap-briefing-discussion",
+        "type": "references_topic",
+        "meta": {
+          "type": "references_topic",
+          "target": "crash-retrievals",
+          "role": "allegation context; not confirmation"
         }
       }
     ],
@@ -20745,6 +20833,15 @@
         "meta": {
           "type": "broader_topic",
           "target": "government-transparency"
+        }
+      },
+      {
+        "source": "record-2026-rfk-jr-luna-uap-briefing-discussion",
+        "type": "references_topic",
+        "meta": {
+          "type": "references_topic",
+          "target": "government-transparency",
+          "role": "evidence and declassification context"
         }
       },
       {
@@ -26019,6 +26116,15 @@
         }
       },
       {
+        "source": "record-2026-rfk-jr-luna-uap-briefing-discussion",
+        "type": "references_organization",
+        "meta": {
+          "type": "references_organization",
+          "target": "nasa",
+          "role": "unnamed scientist affiliation alleged by Kennedy; not institutional confirmation"
+        }
+      },
+      {
         "source": "scott-kelly",
         "type": "affiliated_with",
         "meta": {
@@ -28418,6 +28524,152 @@
         }
       }
     ],
+    "record-2026-rfk-jr-luna-uap-briefing-discussion": [
+      {
+        "source": "anna-paulina-luna",
+        "type": "participated_in",
+        "meta": {
+          "type": "participated_in",
+          "target": "record-2026-rfk-jr-luna-uap-briefing-discussion",
+          "role": "conversation participant"
+        }
+      },
+      {
+        "source": "claim-rfk-alleged-briefer-composition",
+        "type": "contained_in",
+        "meta": {
+          "type": "contained_in",
+          "target": "record-2026-rfk-jr-luna-uap-briefing-discussion",
+          "role": "structured attributed claim"
+        }
+      },
+      {
+        "source": "claim-rfk-alleged-destroy-recover-orders",
+        "type": "contained_in",
+        "meta": {
+          "type": "contained_in",
+          "target": "record-2026-rfk-jr-luna-uap-briefing-discussion",
+          "role": "structured attributed claim"
+        }
+      },
+      {
+        "source": "claim-rfk-alleged-recovery-team-participation",
+        "type": "contained_in",
+        "meta": {
+          "type": "contained_in",
+          "target": "record-2026-rfk-jr-luna-uap-briefing-discussion",
+          "role": "structured attributed claim"
+        }
+      },
+      {
+        "source": "claim-rfk-alleged-uap-calling-capability",
+        "type": "contained_in",
+        "meta": {
+          "type": "contained_in",
+          "target": "record-2026-rfk-jr-luna-uap-briefing-discussion",
+          "role": "structured attributed claim"
+        }
+      },
+      {
+        "source": "claim-rfk-later-administration-briefings",
+        "type": "contained_in",
+        "meta": {
+          "type": "contained_in",
+          "target": "record-2026-rfk-jr-luna-uap-briefing-discussion",
+          "role": "structured attributed claim"
+        }
+      },
+      {
+        "source": "claim-rfk-requested-public-disclosure",
+        "type": "contained_in",
+        "meta": {
+          "type": "contained_in",
+          "target": "record-2026-rfk-jr-luna-uap-briefing-discussion",
+          "role": "structured attributed claim"
+        }
+      },
+      {
+        "source": "claim-rfk-transition-uap-approach",
+        "type": "contained_in",
+        "meta": {
+          "type": "contained_in",
+          "target": "record-2026-rfk-jr-luna-uap-briefing-discussion",
+          "role": "structured attributed claim"
+        }
+      },
+      {
+        "source": "crash-retrievals",
+        "type": "references_publication",
+        "meta": {
+          "type": "references_publication",
+          "target": "record-2026-rfk-jr-luna-uap-briefing-discussion",
+          "role": "attributed allegation context"
+        }
+      },
+      {
+        "source": "government-transparency",
+        "type": "references_publication",
+        "meta": {
+          "type": "references_publication",
+          "target": "record-2026-rfk-jr-luna-uap-briefing-discussion",
+          "role": "evidence-verification context"
+        }
+      },
+      {
+        "source": "nasa",
+        "type": "discussed_in_interview",
+        "meta": {
+          "type": "discussed_in_interview",
+          "target": "record-2026-rfk-jr-luna-uap-briefing-discussion",
+          "role": "unnamed affiliation alleged; no institutional confirmation"
+        }
+      },
+      {
+        "source": "robert-f-kennedy-jr",
+        "type": "participated_in",
+        "meta": {
+          "type": "participated_in",
+          "target": "record-2026-rfk-jr-luna-uap-briefing-discussion",
+          "role": "interview participant and source of attributed claims"
+        }
+      },
+      {
+        "source": "uap-disclosure",
+        "type": "references_publication",
+        "meta": {
+          "type": "references_publication",
+          "target": "record-2026-rfk-jr-luna-uap-briefing-discussion",
+          "role": "public statement and disclosure context"
+        }
+      },
+      {
+        "source": "united-states-army",
+        "type": "discussed_in_interview",
+        "meta": {
+          "type": "discussed_in_interview",
+          "target": "record-2026-rfk-jr-luna-uap-briefing-discussion",
+          "role": "alleged Green Beret affiliation; no institutional confirmation"
+        }
+      },
+      {
+        "source": "united-states-navy",
+        "type": "discussed_in_interview",
+        "meta": {
+          "type": "discussed_in_interview",
+          "target": "record-2026-rfk-jr-luna-uap-briefing-discussion",
+          "role": "alleged SEAL affiliation; no institutional confirmation"
+        }
+      },
+      {
+        "source": "white-house",
+        "type": "references_publication",
+        "meta": {
+          "type": "references_publication",
+          "target": "record-2026-rfk-jr-luna-uap-briefing-discussion",
+          "role": "transition and administration context"
+        }
+      }
+    ],
     "record-group-615-uap-records-collection": [
       {
         "source": "aaro",
@@ -28721,6 +28973,17 @@
           "target": "robbie-williams",
           "role": "guest",
           "context": "Featured guest or principal interview subject"
+        }
+      }
+    ],
+    "robert-f-kennedy-jr": [
+      {
+        "source": "record-2026-rfk-jr-luna-uap-briefing-discussion",
+        "type": "references_person",
+        "meta": {
+          "type": "references_person",
+          "target": "robert-f-kennedy-jr",
+          "role": "speaker"
         }
       }
     ],
@@ -32714,6 +32977,15 @@
         }
       },
       {
+        "source": "record-2026-rfk-jr-luna-uap-briefing-discussion",
+        "type": "references_topic",
+        "meta": {
+          "type": "references_topic",
+          "target": "uap-disclosure",
+          "role": "public-disclosure context"
+        }
+      },
+      {
         "source": "record-group-615-uap-records-collection",
         "type": "addresses_topic",
         "meta": {
@@ -34564,6 +34836,15 @@
           "target": "united-states-army",
           "role": "Retired lieutenant colonel"
         }
+      },
+      {
+        "source": "record-2026-rfk-jr-luna-uap-briefing-discussion",
+        "type": "references_organization",
+        "meta": {
+          "type": "references_organization",
+          "target": "united-states-army",
+          "role": "Green Beret affiliation alleged by Kennedy; not institutional confirmation"
+        }
       }
     ],
     "united-states-congress": [
@@ -34941,6 +35222,15 @@
           "type": "affiliated_with",
           "target": "united-states-navy",
           "role": "Former E-2 Hawkeye crew member"
+        }
+      },
+      {
+        "source": "record-2026-rfk-jr-luna-uap-briefing-discussion",
+        "type": "references_organization",
+        "meta": {
+          "type": "references_organization",
+          "target": "united-states-navy",
+          "role": "Navy SEAL affiliation alleged by Kennedy; not institutional confirmation"
         }
       },
       {
@@ -36660,6 +36950,15 @@
         "meta": {
           "type": "references_organization",
           "target": "white-house"
+        }
+      },
+      {
+        "source": "record-2026-rfk-jr-luna-uap-briefing-discussion",
+        "type": "references_organization",
+        "meta": {
+          "type": "references_organization",
+          "target": "white-house",
+          "role": "presidential-transition and later-administration context only"
         }
       }
     ],

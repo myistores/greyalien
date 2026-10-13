@@ -1,0 +1,73 @@
+{
+  "id": "2026-10-09-rfk-jr-uap-briefing-statements",
+  "recordType": "news_record",
+  "contentType": "recorded_public_statement_attributed_uap_claims_news",
+  "title": "RFK Jr. Says He Received UAP Briefings During and After Presidential Transition",
+  "source": "Sentinel News",
+  "author": "Baptiste Friscourt",
+  "publicationDate": "2026-10-09",
+  "publicationDateDisplay": "October 9, 2026",
+  "originalUrl": "https://www.sentinel-news.org/p/rfk-jr-says-he-has-been-briefed-on",
+  "primarySourceUrl": "https://www.sentinel-news.org/p/rfk-jr-says-he-has-been-briefed-on",
+  "summary": "Robert F. Kennedy Jr. said in a recorded conversation with Representative Anna Paulina Luna that unnamed individuals approached him during the presidential transition to discuss UAP and that he later received additional briefings after entering the administration. The recording verifies his public statements, while the recovery-related allegations he recounted remain independently unverified.",
+  "dateAdded": "2026-10-13",
+  "newsStatus": "current",
+  "knowledgePermanence": "permanent",
+  "image": {
+    "src": "../assets/news/rfk-jr-uap-briefing-statements-2026-10.png",
+    "alt": "Editorial illustration of a senior government official discussing UAP briefings during a recorded interview, with a redacted file, audio waveform and unidentified military figures in the background.",
+    "caption": "GreyAlien editorial illustration—not documentary imagery of the interview or alleged briefings."
+  },
+  "relatedEntityIds": [
+    "record-2026-rfk-jr-luna-uap-briefing-discussion",
+    "robert-f-kennedy-jr",
+    "anna-paulina-luna",
+    "nasa",
+    "united-states-navy",
+    "united-states-army",
+    "white-house",
+    "crash-retrievals",
+    "uap-disclosure",
+    "government-transparency",
+    "claim-rfk-transition-uap-approach",
+    "claim-rfk-alleged-briefer-composition",
+    "claim-rfk-alleged-recovery-team-participation",
+    "claim-rfk-alleged-uap-calling-capability",
+    "claim-rfk-alleged-destroy-recover-orders",
+    "claim-rfk-requested-public-disclosure",
+    "claim-rfk-later-administration-briefings"
+  ],
+  "relationships": [
+    {
+      "type": "references_publication",
+      "target": "record-2026-rfk-jr-luna-uap-briefing-discussion",
+      "role": "permanent recorded-statement record"
+    },
+    {
+      "type": "references_person",
+      "target": "robert-f-kennedy-jr",
+      "role": "speaker"
+    },
+    {
+      "type": "references_person",
+      "target": "anna-paulina-luna",
+      "role": "conversation participant"
+    }
+  ],
+  "visibility": {
+    "latestGateway": true,
+    "publicEntityDirectory": false,
+    "landmark": false
+  },
+  "lifecycle": {
+    "status": "current",
+    "archiveEligible": true,
+    "automaticAgingEnabled": false,
+    "landmark": false
+  },
+  "editorialNotes": {
+    "sourceHierarchy": "The recorded conversation and transcript establish what was said; Sentinel News supplies reporting context.",
+    "evidenceBoundary": "No underlying recovery operation, government program or institutional participation is independently verified by this source.",
+    "lifecyclePrinciple": "News can age; knowledge does not."
+  }
+}

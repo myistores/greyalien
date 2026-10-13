@@ -2276,6 +2276,62 @@
       "_canonicalScore": 83
     },
     {
+      "id": "claim-rfk-alleged-briefer-composition",
+      "type": "claim",
+      "name": "Kennedy described the group as including a NASA scientist and special-operations personnel",
+      "summary": "Kennedy described the unnamed group as including a very high-level NASA scientist, Navy SEALs and Green Berets.",
+      "_identityKey": "claim:name:kennedy described the group as including a nasa scientist and special operations personnel",
+      "_canonicalScore": 3
+    },
+    {
+      "id": "claim-rfk-alleged-uap-calling-capability",
+      "type": "claim",
+      "name": "Kennedy recounted a claim that unidentified objects could be called in",
+      "summary": "Kennedy said the group told him that personnel had figured out how to call some unidentified ships in.",
+      "_identityKey": "claim:name:kennedy recounted a claim that unidentified objects could be called in",
+      "_canonicalScore": 3
+    },
+    {
+      "id": "claim-rfk-alleged-destroy-recover-orders",
+      "type": "claim",
+      "name": "Kennedy recounted alleged orders to destroy and recover unidentified objects",
+      "summary": "Kennedy said he was told that personnel were under orders to destroy the objects and recover them.",
+      "_identityKey": "claim:name:kennedy recounted alleged orders to destroy and recover unidentified objects",
+      "_canonicalScore": 3
+    },
+    {
+      "id": "claim-rfk-transition-uap-approach",
+      "type": "claim",
+      "name": "Kennedy said a group approached him during the presidential transition",
+      "summary": "Kennedy said that while living in Palm Beach during the presidential transition, a group approached him to discuss UAP.",
+      "_identityKey": "claim:name:kennedy said a group approached him during the presidential transition",
+      "_canonicalScore": 3
+    },
+    {
+      "id": "claim-rfk-later-administration-briefings",
+      "type": "claim",
+      "name": "Kennedy said he later received briefings after entering the administration",
+      "summary": "Kennedy said that he had received briefings after entering the administration and characterized the material as really crazy.",
+      "_identityKey": "claim:name:kennedy said he later received briefings after entering the administration",
+      "_canonicalScore": 3
+    },
+    {
+      "id": "claim-rfk-alleged-recovery-team-participation",
+      "type": "claim",
+      "name": "Kennedy said some alleged briefers had served on recovery teams",
+      "summary": "Kennedy said the Navy SEALs and Green Berets he described had been on recovery teams.",
+      "_identityKey": "claim:name:kennedy said some alleged briefers had served on recovery teams",
+      "_canonicalScore": 3
+    },
+    {
+      "id": "claim-rfk-requested-public-disclosure",
+      "type": "claim",
+      "name": "Kennedy said the group wanted him to speak publicly",
+      "summary": "Kennedy said the group wanted him to make its information public and that he declined at the time because of concerns about being associated with conspiracy theories.",
+      "_identityKey": "claim:name:kennedy said the group wanted him to speak publicly",
+      "_canonicalScore": 3
+    },
+    {
       "id": "claim-lawmakers-received-closed-briefings",
       "type": "claim",
       "name": "Key lawmakers reportedly received closed-door briefings on alleged secret programs.",
@@ -7156,6 +7212,22 @@
       "_canonicalScore": 8
     },
     {
+      "id": "record-2026-rfk-jr-luna-uap-briefing-discussion",
+      "type": "document",
+      "name": "Robert F. Kennedy Jr. Statements Concerning UAP Briefings and Alleged Recovery Operations",
+      "summary": "Permanent record of Robert F. Kennedy Jr.'s recorded conversation with Representative Anna Paulina Luna in which he described a transition-period approach by unnamed individuals, extraordinary recovery-related allegations attributed to them, and later briefings after he entered the administration. The recording establishes what Kennedy said, not whether the underlying allegations are true.",
+      "destinationPage": true,
+      "visibleInDirectory": true,
+      "searchable": true,
+      "taxonomyStatus": "canonical",
+      "entitySubtype": "Recorded Interview / Attributed UAP Briefing Claims",
+      "date": "2026-10-09",
+      "dateDisplay": "Reported October 9, 2026; conversation timestamp approximately 18:41–20:22",
+      "eventCategory": "Recorded public statement / attributed briefing claim",
+      "_identityKey": "document:name:robert f kennedy jr statements concerning uap briefings and alleged recovery operations",
+      "_canonicalScore": 3
+    },
+    {
       "id": "the-day-after-roswell",
       "type": "document",
       "name": "The Day After Roswell",
@@ -7847,7 +7919,7 @@
       "name": "NASA",
       "summary": "The United States civil space agency.",
       "_identityKey": "organization:name:nasa",
-      "_canonicalScore": 2
+      "_canonicalScore": 5
     },
     {
       "id": "national-archives",
@@ -8086,7 +8158,7 @@
       "name": "United States Army",
       "summary": "Land service branch of the U.S. Armed Forces.",
       "_identityKey": "organization:name:united states army",
-      "_canonicalScore": 2
+      "_canonicalScore": 5
     },
     {
       "id": "united-states-congress",
@@ -8110,7 +8182,7 @@
       "name": "United States Navy",
       "summary": "Maritime service branch of the U.S. Armed Forces",
       "_identityKey": "organization:name:united states navy",
-      "_canonicalScore": 2
+      "_canonicalScore": 5
     },
     {
       "id": "white-house",
@@ -8118,7 +8190,7 @@
       "name": "White House",
       "summary": "White House is referenced in WEAPONIZED Episodes #103–#112.",
       "_identityKey": "organization:name:white house",
-      "_canonicalScore": 0
+      "_canonicalScore": 3
     },
     {
       "id": "abby-white",
@@ -8191,7 +8263,7 @@
       "name": "Anna Paulina Luna",
       "summary": "U.S. Representative from Florida",
       "_identityKey": "person:name:anna paulina luna",
-      "_canonicalScore": 3
+      "_canonicalScore": 6
     },
     {
       "id": "avi-loeb",
@@ -9308,6 +9380,18 @@
       "summary": "British singer, songwriter, and entertainer who has publicly discussed unusual experiences and an interest in UFOs.",
       "_identityKey": "person:name:robbie williams",
       "_canonicalScore": 0
+    },
+    {
+      "id": "robert-f-kennedy-jr",
+      "type": "person",
+      "name": "Robert F. Kennedy Jr.",
+      "summary": "U.S. secretary of health and human services who said in a recorded 2026 conversation that he had received UAP-related briefings during the presidential transition and after entering the administration.",
+      "destinationPage": true,
+      "visibleInDirectory": true,
+      "searchable": true,
+      "taxonomyStatus": "canonical",
+      "_identityKey": "person:name:robert f kennedy jr",
+      "_canonicalScore": 3
     },
     {
       "id": "robert-hastings",
@@ -15331,7 +15415,7 @@
       "name": "Crash Retrievals",
       "summary": "Topic connected to WEAPONIZED Episodes #93–102: Crash Retrievals.",
       "_identityKey": "topic:name:crash retrievals",
-      "_canonicalScore": 83
+      "_canonicalScore": 86
     },
     {
       "id": "crop-circle-investigations",
@@ -15388,7 +15472,7 @@
       "name": "Government Transparency",
       "summary": "Public access, congressional oversight, disclosure, and accountability",
       "_identityKey": "topic:name:government transparency",
-      "_canonicalScore": 12
+      "_canonicalScore": 15
     },
     {
       "id": "high-strangeness",
@@ -15802,7 +15886,7 @@
       "summary": "Public release and official acknowledgment of information concerning unidentified anomalous phenomena.",
       "taxonomyStatus": "canonical",
       "_identityKey": "topic:url:weaponizedpodcast.com/episodes-3/episode-85",
-      "_canonicalScore": 1098
+      "_canonicalScore": 1101
     },
     {
       "id": "uap-disclosure-legislation",

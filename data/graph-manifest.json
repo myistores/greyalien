@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "entityCount": 1732,
-  "relationshipCount": 3985,
+  "entityCount": 1741,
+  "relationshipCount": 4017,
   "unresolvedRelationshipCount": 56,
   "connectionCounts": {
     "1946-scandinavian-ghost-rockets": {
@@ -1640,9 +1640,9 @@
       "total": 2
     },
     "anna-paulina-luna": {
-      "incoming": 4,
-      "outgoing": 2,
-      "total": 6
+      "incoming": 5,
+      "outgoing": 3,
+      "total": 8
     },
     "area-51": {
       "incoming": 15,
@@ -4709,6 +4709,41 @@
       "outgoing": 1,
       "total": 1
     },
+    "claim-rfk-alleged-briefer-composition": {
+      "incoming": 1,
+      "outgoing": 1,
+      "total": 2
+    },
+    "claim-rfk-alleged-destroy-recover-orders": {
+      "incoming": 1,
+      "outgoing": 1,
+      "total": 2
+    },
+    "claim-rfk-alleged-recovery-team-participation": {
+      "incoming": 1,
+      "outgoing": 1,
+      "total": 2
+    },
+    "claim-rfk-alleged-uap-calling-capability": {
+      "incoming": 1,
+      "outgoing": 1,
+      "total": 2
+    },
+    "claim-rfk-later-administration-briefings": {
+      "incoming": 1,
+      "outgoing": 1,
+      "total": 2
+    },
+    "claim-rfk-requested-public-disclosure": {
+      "incoming": 1,
+      "outgoing": 1,
+      "total": 2
+    },
+    "claim-rfk-transition-uap-approach": {
+      "incoming": 1,
+      "outgoing": 1,
+      "total": 2
+    },
     "claim-roswell-technology-transfer": {
       "incoming": 3,
       "outgoing": 4,
@@ -5930,9 +5965,9 @@
       "total": 2
     },
     "crash-retrievals": {
-      "incoming": 6,
-      "outgoing": 0,
-      "total": 6
+      "incoming": 7,
+      "outgoing": 1,
+      "total": 8
     },
     "crop-circle-investigations": {
       "incoming": 1,
@@ -6280,9 +6315,9 @@
       "total": 0
     },
     "government-transparency": {
-      "incoming": 173,
-      "outgoing": 4,
-      "total": 177
+      "incoming": 174,
+      "outgoing": 5,
+      "total": 179
     },
     "hal-puthoff": {
       "incoming": 3,
@@ -6885,9 +6920,9 @@
       "total": 0
     },
     "nasa": {
-      "incoming": 9,
-      "outgoing": 2,
-      "total": 11
+      "incoming": 10,
+      "outgoing": 3,
+      "total": 13
     },
     "nasa-uap-independent-study-team": {
       "incoming": 11,
@@ -7134,6 +7169,11 @@
       "outgoing": 0,
       "total": 2
     },
+    "record-2026-rfk-jr-luna-uap-briefing-discussion": {
+      "incoming": 16,
+      "outgoing": 16,
+      "total": 32
+    },
     "record-group-615-uap-records-collection": {
       "incoming": 6,
       "outgoing": 6,
@@ -7173,6 +7213,11 @@
       "incoming": 1,
       "outgoing": 0,
       "total": 1
+    },
+    "robert-f-kennedy-jr": {
+      "incoming": 1,
+      "outgoing": 1,
+      "total": 2
     },
     "robert-hastings": {
       "incoming": 2,
@@ -8405,9 +8450,9 @@
       "total": 1
     },
     "uap-disclosure": {
-      "incoming": 39,
-      "outgoing": 4,
-      "total": 43
+      "incoming": 40,
+      "outgoing": 5,
+      "total": 45
     },
     "uap-disclosure-act-2023": {
       "incoming": 2,
@@ -8520,9 +8565,9 @@
       "total": 1
     },
     "united-states-army": {
-      "incoming": 4,
-      "outgoing": 0,
-      "total": 4
+      "incoming": 5,
+      "outgoing": 1,
+      "total": 6
     },
     "united-states-congress": {
       "incoming": 18,
@@ -8540,9 +8585,9 @@
       "total": 4
     },
     "united-states-navy": {
-      "incoming": 27,
-      "outgoing": 2,
-      "total": 29
+      "incoming": 28,
+      "outgoing": 3,
+      "total": 31
     },
     "unnamed-eglin-uap-witness": {
       "incoming": 1,
@@ -8635,9 +8680,9 @@
       "total": 9
     },
     "white-house": {
-      "incoming": 2,
-      "outgoing": 0,
-      "total": 2
+      "incoming": 3,
+      "outgoing": 1,
+      "total": 4
     },
     "whitley-strieber": {
       "incoming": 2,

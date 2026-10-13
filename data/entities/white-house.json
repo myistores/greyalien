@@ -3,7 +3,20 @@
   "type": "organization",
   "name": "White House",
   "summary": "White House is referenced in WEAPONIZED Episodes #103–#112.",
-  "relationships": [],
+  "relationships": [
+    {
+      "type": "references_publication",
+      "target": "record-2026-rfk-jr-luna-uap-briefing-discussion",
+      "role": "transition and administration context"
+    }
+  ],
   "officialLinks": [],
-  "referenceSources": []
+  "referenceSources": [
+    {
+      "label": "Sentinel News — RFK Jr. UAP briefing statements",
+      "url": "https://www.sentinel-news.org/p/rfk-jr-says-he-has-been-briefed-on",
+      "sourceType": "reporting_with_embedded_recording_and_transcript",
+      "role": "connected_statement_source"
+    }
+  ]
 }

@@ -1,0 +1,28 @@
+{
+  "id": "robert-f-kennedy-jr",
+  "type": "person",
+  "name": "Robert F. Kennedy Jr.",
+  "summary": "U.S. secretary of health and human services who said in a recorded 2026 conversation that he had received UAP-related briefings during the presidential transition and after entering the administration.",
+  "profileStatus": "Public official / recorded UAP statement participant",
+  "profileSummary": "Kennedy's public statement is documented by the recording; the extraordinary activities he recounted remain independently unverified.",
+  "destinationPage": true,
+  "visibleInDirectory": true,
+  "searchable": true,
+  "taxonomyStatus": "canonical",
+  "relationships": [
+    {
+      "type": "participated_in",
+      "target": "record-2026-rfk-jr-luna-uap-briefing-discussion",
+      "role": "interview participant and source of attributed claims"
+    }
+  ],
+  "referenceSources": [
+    {
+      "label": "Sentinel News report, transcript and embedded recording",
+      "url": "https://www.sentinel-news.org/p/rfk-jr-says-he-has-been-briefed-on",
+      "sourceType": "recorded_public_statement",
+      "role": "primary_statement_reference"
+    }
+  ],
+  "officialLinks": []
+}
