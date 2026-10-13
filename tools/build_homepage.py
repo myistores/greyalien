@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Build the V23.5H homepage updates and graph-generated metrics."""
+"""Build the V23.6D.15 homepage updates and graph-generated metrics."""
 from pathlib import Path
 import json
 import re
@@ -16,22 +16,22 @@ for entity in entities:
 
 cards = f'''<div class="latest update-card-grid">
             <article class="latest-item update-card">
-              <span class="update-version">V23.5G</span>
-              <strong>Organization Taxonomy Rationalization</strong>
-              <span>Improved the Organization collection by reclassifying programs, research projects, advisory panels, facilities, military assets and media outlets into more accurate entity types while preserving established knowledge connections.</span>
-              <a href="development-updates.html">Read the development details →</a>
+              <span class="update-version">V23.6D.14</span>
+              <strong>Government Reporting Procedures + VASCO Machine Learning</strong>
+              <span>Added a carefully attributed government-reporting procedure record and the peer-reviewed machine-learning contribution to the VASCO research debate.</span>
+              <a href="categories/latest-uap-news.html#secret-directive-uap-reporting-2026-10-12">Explore the latest ingestion →</a>
             </article>
             <article class="latest-item update-card">
-              <span class="update-version">V23.5F</span>
-              <strong>Topic Taxonomy Rationalization</strong>
-              <span>Refined visible Topics into clearer research destinations, consolidated duplicate terminology and moved supporting classifications out of the visitor-facing Topic inventory without losing relationships.</span>
-              <a href="development-updates.html">Read the development details →</a>
+              <span class="update-version">V23.6D.13</span>
+              <strong>RFK Jr. UAP Briefing Statements</strong>
+              <span>Preserved the interview statements as attributed claims while connecting them to permanent briefing, transition and government-transparency context.</span>
+              <a href="categories/latest-uap-news.html#rfk-jr-uap-briefings-2026-10-09">Explore the article →</a>
             </article>
             <article class="latest-item update-card">
-              <span class="update-version">Connected research</span>
-              <strong>Podcast Knowledge Base</strong>
-              <span>Explore {len(episode_index['episodes']):,} researched episodes across {len(podcast_index['podcasts']):,} podcast series, connected to people, cases, organizations, documents, claims and research topics throughout GreyAlien.</span>
-              <a href="categories/podcasts.html">Explore podcasts →</a>
+              <span class="update-version">V23.6D.12</span>
+              <strong>PURSUE Six-Object Infrared Bird Analysis</strong>
+              <span>Connected a new scientific paper, its probabilistic bird interpretation and its methodological limits to PURSUE and Image &amp; Video Analysis.</span>
+              <a href="categories/latest-uap-news.html#pursue-pr135-bird-analysis-2026-10-06">Explore the research →</a>
             </article>
           </div>'''
 
@@ -45,14 +45,14 @@ metrics = f'''<div class="homepage-metrics" aria-label="Current GreyAlien knowle
           </div>'''
 
 replacement = f'''        <aside class="panel homepage-updates">
-          <p class="kicker">Latest additions</p>
-          <h2>Recent knowledge-base improvements</h2>
+          <p class="kicker">Recently added</p>
+          <h2>Recently Added to GreyAlien</h2>
           {cards}
           <div class="development-link"><a class="button secondary" href="development-updates.html">View complete development history</a></div>
         </aside>'''
 
 html = index_path.read_text(encoding='utf-8')
-html, n = re.subn(r'\s*<aside class="panel">\s*<p class="kicker">Latest additions</p>.*?</aside>', '\n' + replacement, html, count=1, flags=re.S)
+html, n = re.subn(r'\s*<aside class="panel(?: homepage-updates)?">\s*<p class="kicker">(?:Latest additions|Recently added)</p>.*?</aside>', '\n' + replacement, html, count=1, flags=re.S)
 if n != 1:
     raise SystemExit('Latest Additions panel was not found exactly once.')
 
@@ -82,14 +82,16 @@ growth = '''    <section class="section research-growth" aria-labelledby="resear
       </div>
     </section>'''
 html, n = re.subn(r'\s*<section class="section" aria-labelledby="v235c1-update">.*?</section>', '\n' + growth, html, count=1, flags=re.S)
+if n == 0:
+    html, n = re.subn(r'\s*<section class="section research-growth".*?</section>', '\n' + growth, html, count=1, flags=re.S)
 if n != 1:
-    raise SystemExit('Obsolete V23.5C.1 development notice was not found exactly once.')
+    raise SystemExit('Research growth section was not found exactly once.')
 
 # Current release information and development link in the homepage footer.
 footer = '''  <footer>
     <div class="wrap footer-grid">
       <span>© <span id="year"></span> GreyAlien.com</span>
-      <span>V23.5H — Homepage Refresh · <a href="development-updates.html">Development Updates</a></span>
+      <span>V23.6D.15 — Homepage &amp; UAP News Experience · <a href="development-updates.html">Development Updates</a></span>
     </div>
   </footer>'''
 html, n = re.subn(r'  <footer>.*?</footer>', footer, html, count=1, flags=re.S)
@@ -97,4 +99,4 @@ if n != 1:
     raise SystemExit('Homepage footer was not found exactly once.')
 
 index_path.write_text(html, encoding='utf-8')
-print(f'Built V23.5H homepage with {len(entities)} entities across {len(counts)} entity types.')
+print(f'Built V23.6D.15 homepage with {len(entities)} entities across {len(counts)} entity types.')
