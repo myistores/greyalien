@@ -21,7 +21,7 @@ featured = doc.xpath('//div[contains(@class,"news-feature-grid")]/article')
 dates = [a.get("data-published") for a in featured]
 if dates != ["2026-10-12", "2026-10-09", "2026-10-06", "2026-10-05"]:
     errors.append(f"incorrect featured chronology: {dates}")
-if len(doc.xpath('//button[contains(@class,"news-filter")]')) != 7:
+if len(doc.xpath('//button[contains(@class,"news-filter") and @data-filter]')) != 7:
     errors.append("expected seven news filters")
 for a in cards:
     image = a.xpath('.//figure[contains(@class,"news-image")]//img/@src')

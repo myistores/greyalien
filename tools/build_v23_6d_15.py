@@ -81,6 +81,7 @@ intro = html.fragment_fromstring('''<div class="news-editorial-intro">
     <button class="news-filter" type="button" data-filter="space">Space &amp; technosignatures</button>
     <button class="news-filter" type="button" data-filter="history">Historical records</button>
     <button class="news-filter" type="button" data-filter="statements">Statements &amp; testimony</button>
+    <button class="news-filter-clear" type="button">Clear filters</button>
   </div>
   <p class="news-result-count" aria-live="polite"></p>
 </div>''')
@@ -89,7 +90,7 @@ prose.append(intro)
 ordered = sorted(articles, key=lambda a: a.get("data-published"), reverse=True)
 featured = etree.SubElement(prose, "section", {"class":"news-featured", "aria-labelledby":"featured-news-heading"})
 etree.SubElement(featured, "p", {"class":"kicker"}).text = "Newest reporting"
-etree.SubElement(featured, "h2", {"id":"featured-news-heading"}).text = "Latest four"
+etree.SubElement(featured, "h2", {"id":"featured-news-heading"}).text = "Latest Reporting"
 grid = etree.SubElement(featured, "div", {"class":"news-feature-grid"})
 for i, a in enumerate(ordered[:4]):
     clone = deepcopy(a)
@@ -102,7 +103,9 @@ for prefix, label in months:
     month_articles = [a for a in ordered[4:] if a.get("data-published").startswith(prefix)]
     if not month_articles: continue
     sec = etree.SubElement(archive, "section", {"class":"news-month", "data-news-month":prefix})
-    etree.SubElement(sec, "h2").text = label
+    heading = etree.SubElement(sec, "h2")
+    heading.text = label + " "
+    etree.SubElement(heading, "span").text = f"{len(month_articles)} article{'s' if len(month_articles) != 1 else ''}"
     month_grid = etree.SubElement(sec, "div", {"class":"news-card-grid"})
     for a in month_articles: month_grid.append(deepcopy(a))
 
@@ -112,6 +115,7 @@ script = html.fragment_fromstring('''<script>
     const cards = [...document.querySelectorAll('.news-card')];
     const months = [...document.querySelectorAll('.news-month')];
     const count = document.querySelector('.news-result-count');
+    const clear = document.querySelector('.news-filter-clear');
     function apply(filter) {
       let visible = 0;
       cards.forEach(card => { const show = filter === 'all' || card.dataset.category === filter; card.hidden = !show; if (show) visible++; });
@@ -120,6 +124,7 @@ script = html.fragment_fromstring('''<script>
       count.textContent = `${visible} article${visible === 1 ? '' : 's'} shown`;
     }
     buttons.forEach(button => button.addEventListener('click', () => apply(button.dataset.filter)));
+    clear.addEventListener('click', () => apply('all'));
     apply('all');
   })();
 </script>''')
