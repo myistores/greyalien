@@ -13,6 +13,11 @@
       "type": "affiliated_with",
       "target": "department-of-defense",
       "role": "Former intelligence official"
+    },
+    {
+      "type": "featured_in",
+      "target": "record-2026-jay-stratton-cats-roundtable-interview",
+      "role": "interviewee"
     }
   ],
   "profileStatus": "Former government UAP program official",
@@ -28,6 +33,12 @@
       "url": "https://www.washingtonpost.com/entertainment/movies/2025/03/11/ufos-aliens-age-of-disclosure/",
       "sourceType": "The Washington Post",
       "role": "primary_reference"
+    },
+    {
+      "label": "The Cats Roundtable interview (October 18, 2026)",
+      "url": "https://catsroundtable.com/jay-stratton-inside-the-governments-hidden-ufo-investigation/",
+      "sourceType": "recorded_interview",
+      "role": "attributed_testimony"
     }
   ]
 }

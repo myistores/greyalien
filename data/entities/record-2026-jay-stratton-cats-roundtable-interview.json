@@ -1,0 +1,38 @@
+{
+  "id": "record-2026-jay-stratton-cats-roundtable-interview",
+  "type": "document",
+  "entitySubtype": "Recorded interview / attributed historical testimony",
+  "name": "Jay Stratton — October 18, 2026 Cats Roundtable Interview",
+  "summary": "In an October 18 interview, former UAP Task Force director Jay Stratton described footage he says he viewed depicting a triangular object near a nuclear missile silo and discussed the origins of government UAP investigations. The recording documents his statements, not independent verification of the alleged footage or programs.",
+  "date": "2026-10-18",
+  "destinationPage": true,
+  "visibleInDirectory": true,
+  "searchable": true,
+  "relationships": [
+    {
+      "type": "references_person",
+      "target": "jay-stratton",
+      "role": "interviewee"
+    }
+  ],
+  "referenceSources": [
+    {
+      "label": "The Cats Roundtable — Inside the Government’s Hidden UFO Investigation",
+      "url": "https://catsroundtable.com/jay-stratton-inside-the-governments-hidden-ufo-investigation/",
+      "sourceType": "recorded_interview",
+      "role": "primary_source"
+    }
+  ],
+  "recordMetadata": {
+    "interviewDate": "2026-10-18",
+    "allegedVideoYear": 2005,
+    "videoIndependentlyAuthenticated": false,
+    "publicationReviewClaimVerified": false
+  },
+  "researchLibraryMetadata": {
+    "knowledgePermanence": "permanent",
+    "principalValue": "Timestamped source for historical government UAP investigation statements",
+    "limitations": "Claims about footage, recovery programs and review process remain uncorroborated"
+  },
+  "relatedNewsId": "2026-10-18-jay-stratton-nuclear-silo-interview"
+}

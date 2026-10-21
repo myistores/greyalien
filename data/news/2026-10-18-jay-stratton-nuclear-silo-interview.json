@@ -1,0 +1,44 @@
+{
+  "id": "2026-10-18-jay-stratton-nuclear-silo-interview",
+  "recordType": "news_record",
+  "contentType": "cross_gateway_permanent_knowledge_news",
+  "title": "Jay Stratton Describes Alleged 2005 Nuclear-Silo UAP Video and DIA Investigation History",
+  "source": "The Cats Roundtable / 77 WABC",
+  "publicationDate": "2026-10-18",
+  "publicationDateDisplay": "2026-10-18",
+  "originalUrl": "https://catsroundtable.com/jay-stratton-inside-the-governments-hidden-ufo-investigation/",
+  "primarySourceUrl": "https://catsroundtable.com/jay-stratton-inside-the-governments-hidden-ufo-investigation/",
+  "summary": "In an October 18 interview, former UAP Task Force director Jay Stratton described footage he says he viewed depicting a triangular object near a nuclear missile silo and discussed the origins of government UAP investigations. The recording documents his statements, not independent verification of the alleged footage or programs.",
+  "dateAdded": "2026-10-21",
+  "newsStatus": "current",
+  "knowledgePermanence": "permanent",
+  "relatedEntityIds": [
+    "record-2026-jay-stratton-cats-roundtable-interview",
+    "jay-stratton"
+  ],
+  "relationships": [
+    {
+      "type": "references_publication",
+      "target": "record-2026-jay-stratton-cats-roundtable-interview",
+      "role": "permanent interview record"
+    }
+  ],
+  "visibility": {
+    "latestGateway": true,
+    "publicEntityDirectory": false,
+    "landmark": false
+  },
+  "lifecycle": {
+    "status": "current",
+    "archiveEligible": true,
+    "automaticAgingEnabled": false,
+    "landmark": false
+  },
+  "editorialNotes": {
+    "imageRequirement": "Original GreyAlien editorial illustration included; explicitly labeled not documentary footage.",
+    "sourceBoundary": "Interview claims attributed to speaker; no independent verification of underlying video or alleged programs."
+  },
+  "image": "/images/jay-stratton-2005-nuclear-site-editorial.webp",
+  "imageAlt": "Editorial illustration of an unidentified triangular object above a missile facility; not documentary footage.",
+  "articleUrl": "/news/jay-stratton-2005-nuclear-site-uap-interview.html"
+}
