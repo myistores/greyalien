@@ -22095,6 +22095,24 @@
         }
       },
       {
+        "source": "infrared-imaging-interpretation",
+        "type": "references_topic",
+        "meta": {
+          "type": "references_topic",
+          "target": "image-video-analysis",
+          "role": "parent scientific method"
+        }
+      },
+      {
+        "source": "parallax-apparent-motion",
+        "type": "references_topic",
+        "meta": {
+          "type": "references_topic",
+          "target": "image-video-analysis",
+          "role": "parent scientific method"
+        }
+      },
+      {
         "source": "publication-2026-limits-velocity-recovery-pursue",
         "type": "references_topic",
         "meta": {
@@ -28062,12 +28080,30 @@
         }
       },
       {
+        "source": "infrared-imaging-interpretation",
+        "type": "references_publication",
+        "meta": {
+          "type": "references_publication",
+          "target": "publication-2026-limits-velocity-recovery-pursue",
+          "role": "motion inference example"
+        }
+      },
+      {
         "source": "jacob-haqq-misra",
         "type": "authored",
         "meta": {
           "type": "authored",
           "target": "publication-2026-limits-velocity-recovery-pursue",
           "role": "corresponding author"
+        }
+      },
+      {
+        "source": "parallax-apparent-motion",
+        "type": "references_publication",
+        "meta": {
+          "type": "references_publication",
+          "target": "publication-2026-limits-velocity-recovery-pursue",
+          "role": "motion inference example"
         }
       },
       {
@@ -28504,6 +28540,15 @@
         }
       },
       {
+        "source": "infrared-imaging-interpretation",
+        "type": "references_publication",
+        "meta": {
+          "type": "references_publication",
+          "target": "publication-2026-six-infrared-objects-bird-wingbeat-analysis",
+          "role": "testable case interpretation"
+        }
+      },
+      {
         "source": "jacob-haqq-misra",
         "type": "authored",
         "meta": {
@@ -28528,6 +28573,15 @@
           "type": "authored",
           "target": "publication-2026-six-infrared-objects-bird-wingbeat-analysis",
           "role": "co-author"
+        }
+      },
+      {
+        "source": "parallax-apparent-motion",
+        "type": "references_publication",
+        "meta": {
+          "type": "references_publication",
+          "target": "publication-2026-six-infrared-objects-bird-wingbeat-analysis",
+          "role": "testable case interpretation"
         }
       },
       {
@@ -37637,6 +37691,82 @@
         "meta": {
           "type": "references_case",
           "target": "world-war-ii-foo-fighters"
+        }
+      }
+    ],
+    "parallax-apparent-motion": [
+      {
+        "source": "image-video-analysis",
+        "type": "references_topic",
+        "meta": {
+          "type": "references_topic",
+          "target": "parallax-apparent-motion",
+          "role": "live related science"
+        }
+      },
+      {
+        "source": "infrared-imaging-interpretation",
+        "type": "references_topic",
+        "meta": {
+          "type": "references_topic",
+          "target": "parallax-apparent-motion",
+          "role": "complementary science"
+        }
+      },
+      {
+        "source": "publication-2026-limits-velocity-recovery-pursue",
+        "type": "references_topic",
+        "meta": {
+          "type": "references_topic",
+          "target": "parallax-apparent-motion",
+          "role": "motion geometry"
+        }
+      },
+      {
+        "source": "publication-2026-six-infrared-objects-bird-wingbeat-analysis",
+        "type": "references_topic",
+        "meta": {
+          "type": "references_topic",
+          "target": "parallax-apparent-motion",
+          "role": "motion geometry"
+        }
+      }
+    ],
+    "infrared-imaging-interpretation": [
+      {
+        "source": "image-video-analysis",
+        "type": "references_topic",
+        "meta": {
+          "type": "references_topic",
+          "target": "infrared-imaging-interpretation",
+          "role": "live related science"
+        }
+      },
+      {
+        "source": "parallax-apparent-motion",
+        "type": "references_topic",
+        "meta": {
+          "type": "references_topic",
+          "target": "infrared-imaging-interpretation",
+          "role": "complementary science"
+        }
+      },
+      {
+        "source": "publication-2026-limits-velocity-recovery-pursue",
+        "type": "references_topic",
+        "meta": {
+          "type": "references_topic",
+          "target": "infrared-imaging-interpretation",
+          "role": "sensor interpretation"
+        }
+      },
+      {
+        "source": "publication-2026-six-infrared-objects-bird-wingbeat-analysis",
+        "type": "references_topic",
+        "meta": {
+          "type": "references_topic",
+          "target": "infrared-imaging-interpretation",
+          "role": "sensor interpretation"
         }
       }
     ]

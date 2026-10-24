@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "entityCount": 1759,
-  "relationshipCount": 4074,
+  "entityCount": 1761,
+  "relationshipCount": 4088,
   "unresolvedRelationshipCount": 56,
   "connectionCounts": {
     "1946-scandinavian-ghost-rockets": {
@@ -6475,9 +6475,9 @@
       "total": 3
     },
     "image-video-analysis": {
-      "incoming": 24,
-      "outgoing": 2,
-      "total": 26
+      "incoming": 26,
+      "outgoing": 4,
+      "total": 30
     },
     "immaculate-constellation": {
       "incoming": 13,
@@ -6513,6 +6513,11 @@
       "incoming": 1,
       "outgoing": 2,
       "total": 3
+    },
+    "infrared-imaging-interpretation": {
+      "incoming": 4,
+      "outgoing": 4,
+      "total": 8
     },
     "instantaneous-acceleration": {
       "incoming": 1,
@@ -7104,6 +7109,11 @@
       "outgoing": 2,
       "total": 5
     },
+    "parallax-apparent-motion": {
+      "incoming": 4,
+      "outgoing": 4,
+      "total": 8
+    },
     "paranormal-phenomena": {
       "incoming": 1,
       "outgoing": 0,
@@ -7195,9 +7205,9 @@
       "total": 28
     },
     "publication-2026-limits-velocity-recovery-pursue": {
-      "incoming": 8,
-      "outgoing": 10,
-      "total": 18
+      "incoming": 10,
+      "outgoing": 12,
+      "total": 22
     },
     "publication-2026-machine-learning-historical-transients": {
       "incoming": 14,
@@ -7210,9 +7220,9 @@
       "total": 35
     },
     "publication-2026-six-infrared-objects-bird-wingbeat-analysis": {
-      "incoming": 20,
-      "outgoing": 20,
-      "total": 40
+      "incoming": 22,
+      "outgoing": 22,
+      "total": 44
     },
     "publication-2026-slysh-haloes-cold-computing-technosignature": {
       "incoming": 15,

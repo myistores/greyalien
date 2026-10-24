@@ -1,0 +1,146 @@
+{
+  "id": "infrared-imaging-interpretation",
+  "type": "topic",
+  "name": "Infrared Imaging & Interpretation",
+  "summary": "Infrared recordings measure radiation outside visible light. Interpreting apparent brightness, shape and motion requires sensor context, calibration and geometry.",
+  "entitySubtype": "Sensor Technology",
+  "destinationPage": true,
+  "visibleInDirectory": true,
+  "searchable": true,
+  "taxonomyStatus": "canonical",
+  "relationships": [
+    {
+      "type": "references_topic",
+      "target": "image-video-analysis",
+      "role": "parent scientific method"
+    },
+    {
+      "type": "references_topic",
+      "target": "parallax-apparent-motion",
+      "role": "complementary science"
+    },
+    {
+      "type": "references_publication",
+      "target": "publication-2026-limits-velocity-recovery-pursue",
+      "role": "motion inference example"
+    },
+    {
+      "type": "references_publication",
+      "target": "publication-2026-six-infrared-objects-bird-wingbeat-analysis",
+      "role": "testable case interpretation"
+    }
+  ],
+  "officialLinks": [],
+  "referenceSources": [
+    {
+      "label": "NASA — Infrared Waves",
+      "url": "https://science.nasa.gov/ems/07_infraredwaves/",
+      "sourceType": "government_source",
+      "role": "scientific_foundation"
+    },
+    {
+      "label": "Haqq-Misra and colleagues — Infrared bird hypothesis (v4)",
+      "url": "https://arxiv.org/abs/2610.08692v4",
+      "sourceType": "scientific_preprint",
+      "role": "applied_research"
+    },
+    {
+      "label": "Haqq-Misra & Kopparapu — Kinematic Inference (v2)",
+      "url": "https://arxiv.org/abs/2608.12445v2",
+      "sourceType": "scientific_preprint",
+      "role": "applied_research"
+    }
+  ],
+  "scienceResearch": {
+    "gateway": "Science & Technology",
+    "collection": "Technologies & Sensors",
+    "collectionUrl": "../science/technologies-sensors/",
+    "researchPacket": "S&T-003",
+    "researchStatus": "Source reviewed",
+    "lastResearchReview": "October 23, 2026",
+    "sourceTierCoverage": "Government science + scientific preprints",
+    "intro": "Infrared recordings measure radiation outside visible light. Interpreting apparent brightness, shape and motion requires sensor context, calibration and geometry.",
+    "keyPrinciple": "Apparent image behavior needs calibrated context before it becomes a physical measurement.",
+    "keyPrincipleSupport": "Established imaging principles and paper-specific hypotheses carry different evidentiary weight.",
+    "foundation": [
+      {
+        "title": "Beyond visible light",
+        "evidenceClass": "Established Science",
+        "text": "Infrared is electromagnetic radiation at longer wavelengths than visible light. Near-infrared observations can record reflected light, while thermal bands allow observation of emitted radiation."
+      },
+      {
+        "title": "Display versus object",
+        "evidenceClass": "Established Science",
+        "text": "An infrared picture represents detected radiation through an instrument and display. A bright feature alone does not establish its identity or a calibrated temperature."
+      },
+      {
+        "title": "Reading a recording",
+        "evidenceClass": "Established Science",
+        "text": "Analysts need the spectral band, calibration, timing, image scale and processing history. Avoid assuming every military video is infrared."
+      },
+      {
+        "title": "Testing brightness changes",
+        "evidenceClass": "Analytical Interpretation",
+        "text": "The PR135 authors compare periodic brightness changes with animal recordings and test planted constant-brightness controls. Their bird interpretation remains provisional."
+      },
+      {
+        "title": "What remains unresolved?",
+        "evidenceClass": "Unknown",
+        "text": "A resemblance or shared frequency does not identify a species. Missing range and platform telemetry also limit physical-motion estimates."
+      }
+    ],
+    "authoritativeSources": [
+      {
+        "tier": "A",
+        "label": "NASA — Infrared Waves",
+        "url": "https://science.nasa.gov/ems/07_infraredwaves/",
+        "sourceType": "government_source",
+        "role": "scientific_foundation"
+      },
+      {
+        "tier": "A",
+        "label": "Haqq-Misra and colleagues — Infrared bird hypothesis (v4)",
+        "url": "https://arxiv.org/abs/2610.08692v4",
+        "sourceType": "scientific_preprint",
+        "role": "applied_research"
+      },
+      {
+        "tier": "A",
+        "label": "Haqq-Misra & Kopparapu — Kinematic Inference (v2)",
+        "url": "https://arxiv.org/abs/2608.12445v2",
+        "sourceType": "scientific_preprint",
+        "role": "applied_research"
+      }
+    ],
+    "evidenceClasses": [
+      {
+        "label": "Established Science",
+        "description": "General imaging and geometric principles."
+      },
+      {
+        "label": "Analytical Interpretation",
+        "description": "A result dependent on data, assumptions and method."
+      },
+      {
+        "label": "Hypothesis",
+        "description": "A proposed explanation that remains testable."
+      },
+      {
+        "label": "Unknown",
+        "description": "Information needed for a stronger conclusion is unavailable."
+      }
+    ],
+    "relatedScienceTopics": [
+      {
+        "id": "image-video-analysis",
+        "name": "Image & Video Analysis",
+        "status": "Live"
+      },
+      {
+        "id": "parallax-apparent-motion",
+        "name": "Parallax & Apparent Motion",
+        "status": "Live"
+      }
+    ]
+  }
+}

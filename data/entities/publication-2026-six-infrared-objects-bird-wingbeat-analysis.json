@@ -5,7 +5,7 @@
   "name": "Six objects reported at 480 mph in a declassified military infrared video show brightness flicker at bird wingbeat rates",
   "summary": "Scientific preprint applying frame-by-frame photometry, control tests, Galileo Project animal comparisons and parallax modeling to DOW-UAP-PR135. The authors report independent 7.1–7.9 Hz brightness fluctuations and propose a nearby flock of birds as the best explanation, while identifying unredacted telemetry as capable of testing or refuting the hypothesis.",
   "date": "2026-10-06",
-  "dateDisplay": "Submitted October 6, 2026; revised October 7, 2026",
+  "dateDisplay": "Submitted October 6, 2026; revised October 16, 2026",
   "eventCategory": "PURSUE infrared-video scientific analysis",
   "destinationPage": true,
   "visibleInDirectory": true,
@@ -107,13 +107,23 @@
     {
       "type": "contains_claim",
       "target": "claim-pr135-telemetry-needed-to-test-hypothesis"
+    },
+    {
+      "type": "references_topic",
+      "target": "parallax-apparent-motion",
+      "role": "motion geometry"
+    },
+    {
+      "type": "references_topic",
+      "target": "infrared-imaging-interpretation",
+      "role": "sensor interpretation"
     }
   ],
   "officialLinks": [],
   "referenceSources": [
     {
-      "label": "arXiv abstract and paper — version 2",
-      "url": "https://arxiv.org/abs/2610.08692",
+      "label": "arXiv abstract and paper — v4",
+      "url": "https://arxiv.org/abs/2610.08692v4",
       "sourceType": "scientific_preprint",
       "role": "primary_reference"
     },
@@ -142,14 +152,16 @@
     "repository": "arXiv",
     "identifier": "arXiv:2610.08692",
     "doi": "10.48550/arXiv.2610.08692",
-    "version": "v2",
+    "version": "v4",
     "submitted": "October 6, 2026",
-    "revised": "October 7, 2026",
+    "revised": "October 16, 2026",
     "publicationStatus": "Scientific preprint submitted to Scientific Reports; peer review and acceptance not established",
     "subjects": [
       "Popular Physics",
       "Physics and Society"
-    ]
+    ],
+    "statusChecked": "2026-10-23",
+    "statusSource": "https://arxiv.org/abs/2610.08692v4"
   },
   "researchLibraryMetadata": {
     "knowledgePermanence": "permanent",
@@ -157,7 +169,8 @@
     "dataset": "DOW-UAP-PR135 plus comparison recordings from Galileo Project ground-based infrared cameras near Las Vegas.",
     "principalFindings": "The six objects show independent 7.1–7.9 Hz brightness periodicity; the comparison animal data span approximately 3.4–10.0 Hz; and a nearby slow-moving geometry can reproduce the reported projected motion.",
     "limitations": "The public video lacks unredacted sensor and platform telemetry needed to determine actual range, altitude and physical velocity or to conclusively identify the objects.",
-    "researchImplication": "The bird-and-parallax model is a reproducible, testable conventional explanation, not a definitive identification."
+    "researchImplication": "The bird-and-parallax model is a reproducible, testable conventional explanation, not a definitive identification.",
+    "versionUpdate": "Version 4 adds periodicity candidates in nine further videos; this extension is not a definitive identification of their objects."
   },
   "evidenceRecords": [
     {
@@ -193,7 +206,36 @@
     "neutrality": "The paper authors favor birds; GreyAlien does not convert that provisional preprint interpretation into an official or definitive identification.",
     "speedDiscipline": "Approximately 480 mph remains a mission-report ground-projected estimate, not independently recovered object airspeed.",
     "comparisonDiscipline": "Frequency overlap supports comparison but does not establish species identity.",
-    "lifecyclePrinciple": "News can age; knowledge does not."
+    "lifecyclePrinciple": "News can age; knowledge does not.",
+    "versionReview": "arXiv v4 extends the study to additional PURSUE videos; the six-object PR135 case remains the focus of this gateway entry."
   },
-  "relatedNewsId": "2026-10-06-pursue-pr135-six-objects-bird-analysis"
+  "relatedNewsId": "2026-10-06-pursue-pr135-six-objects-bird-analysis",
+  "versionHistory": [
+    {
+      "version": "v2",
+      "metadata": {
+        "authors": [
+          "Jacob Haqq-Misra",
+          "Ravi Kopparapu",
+          "Richard Cloete",
+          "Omer Eldadi",
+          "Michael Shermer",
+          "Abraham Loeb"
+        ],
+        "repository": "arXiv",
+        "identifier": "arXiv:2610.08692",
+        "doi": "10.48550/arXiv.2610.08692",
+        "version": "v2",
+        "submitted": "October 6, 2026",
+        "revised": "October 7, 2026",
+        "publicationStatus": "Scientific preprint submitted to Scientific Reports; peer review and acceptance not established",
+        "subjects": [
+          "Popular Physics",
+          "Physics and Society"
+        ]
+      },
+      "summary": "Scientific preprint applying frame-by-frame photometry, control tests, Galileo Project animal comparisons and parallax modeling to DOW-UAP-PR135. The authors report independent 7.1–7.9 Hz brightness fluctuations and propose a nearby flock of birds as the best explanation, while identifying unredacted telemetry as capable of testing or refuting the hypothesis.",
+      "preservedFromRelease": "V23.6D.19"
+    }
+  ]
 }

@@ -19,6 +19,16 @@
       "type": "references_publication",
       "target": "publication-2026-six-infrared-objects-bird-wingbeat-analysis",
       "role": "related scientific research"
+    },
+    {
+      "type": "references_topic",
+      "target": "parallax-apparent-motion",
+      "role": "live related science"
+    },
+    {
+      "type": "references_topic",
+      "target": "infrared-imaging-interpretation",
+      "role": "live related science"
     }
   ],
   "officialLinks": [],
@@ -323,12 +333,14 @@
         "status": "Upcoming"
       },
       {
-        "name": "Infrared Imaging",
-        "status": "Upcoming"
+        "id": "infrared-imaging-interpretation",
+        "name": "Infrared Imaging & Interpretation",
+        "status": "Live"
       },
       {
+        "id": "parallax-apparent-motion",
         "name": "Parallax & Apparent Motion",
-        "status": "Planned"
+        "status": "Live"
       },
       {
         "name": "Photogrammetry",
@@ -338,21 +350,15 @@
     "relatedResearch": [
       {
         "id": "publication-2026-limits-velocity-recovery-pursue",
-        "title": "Limits on Velocity Recovery from the PURSUE Sensor Videos",
-        "publicationStatus": "arXiv preprint",
-        "relevance": "Dataset-wide demonstration of the metadata and geometry required for physical velocity inference from airborne sensor video."
+        "title": "Limits on Kinematic Inference from the PURSUE Airborne Sensor Videos",
+        "publicationStatus": "Scientific preprint submitted to Journal of Aerospace Information Systems; journal acceptance and peer review not established",
+        "relevance": "Constraints on recovering physical motion."
       },
       {
-        "id": "publication-2026-limits-velocity-recovery-pursue",
-        "title": "Limits on Velocity Recovery from the PURSUE Sensor Videos",
-        "publicationStatus": "arXiv preprint",
-        "relevance": "Dataset-wide demonstration of the metadata and geometry required for physical velocity inference from airborne sensor video."
-      },
-      {
-        "id": "publication-2026-limits-velocity-recovery-pursue",
-        "title": "Limits on Velocity Recovery from the PURSUE Sensor Videos",
-        "publicationStatus": "arXiv preprint",
-        "relevance": "Dataset-wide demonstration of the metadata and geometry required for physical velocity inference from airborne sensor video."
+        "id": "publication-2026-six-infrared-objects-bird-wingbeat-analysis",
+        "title": "Six objects reported at 480 mph in a declassified military infrared video show brightness flicker at bird wingbeat rates",
+        "publicationStatus": "Scientific preprint submitted to Scientific Reports; peer review and acceptance not established",
+        "relevance": "Infrared brightness analysis and a testable bird hypothesis."
       }
     ]
   }

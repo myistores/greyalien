@@ -13147,13 +13147,13 @@
     {
       "id": "publication-2026-limits-velocity-recovery-pursue",
       "type": "publication",
-      "name": "Limits on Velocity Recovery from the PURSUE Sensor Videos",
+      "name": "Limits on Kinematic Inference from the PURSUE Airborne Sensor Videos",
       "summary": "Scientific preprint by Jacob Haqq-Misra and Ravi Kopparapu analyzing all 112 released PURSUE airborne sensor videos. The authors find that no clip contains the complete information needed to recover physical velocity and use PR113 and PR149 to demonstrate both inference degeneracy and a bounded case.",
       "entitySubtype": "Scientific Preprint",
       "date": "2026-08-12",
-      "dateDisplay": "August 12, 2026",
+      "dateDisplay": "Submitted August 12, 2026; revised August 28, 2026",
       "eventCategory": "UAP sensor-video methodology",
-      "_identityKey": "publication:name:limits on velocity recovery from the pursue sensor videos",
+      "_identityKey": "publication:name:limits on kinematic inference from the pursue airborne sensor videos",
       "_canonicalScore": 9
     },
     {
@@ -13229,7 +13229,7 @@
       "taxonomyStatus": "canonical",
       "entitySubtype": "Scientific Preprint / Infrared Photometry and Kinematic Interpretation",
       "date": "2026-10-06",
-      "dateDisplay": "Submitted October 6, 2026; revised October 7, 2026",
+      "dateDisplay": "Submitted October 6, 2026; revised October 16, 2026",
       "eventCategory": "PURSUE infrared-video scientific analysis",
       "_identityKey": "publication:name:six objects reported at 480 mph in a declassified military infrared video show brightness flicker at bird wingbeat rates",
       "_canonicalScore": 9
@@ -15704,6 +15704,19 @@
       "_canonicalScore": 45
     },
     {
+      "id": "infrared-imaging-interpretation",
+      "type": "topic",
+      "name": "Infrared Imaging & Interpretation",
+      "summary": "Infrared recordings measure radiation outside visible light. Interpreting apparent brightness, shape and motion requires sensor context, calibration and geometry.",
+      "destinationPage": true,
+      "visibleInDirectory": true,
+      "searchable": true,
+      "taxonomyStatus": "canonical",
+      "entitySubtype": "Sensor Technology",
+      "_identityKey": "topic:name:infrared imaging and interpretation",
+      "_canonicalScore": 9
+    },
+    {
       "id": "instantaneous-acceleration",
       "type": "topic",
       "name": "Instantaneous Acceleration",
@@ -15874,6 +15887,19 @@
       "entitySubtype": "Government Policy Topic",
       "_identityKey": "topic:name:nondisclosure agreements",
       "_canonicalScore": 3
+    },
+    {
+      "id": "parallax-apparent-motion",
+      "type": "topic",
+      "name": "Parallax & Apparent Motion",
+      "summary": "Observer movement and viewing geometry can make a nearby slow object appear to move rapidly against a distant background. Physical motion requires range, timing and platform context.",
+      "destinationPage": true,
+      "visibleInDirectory": true,
+      "searchable": true,
+      "taxonomyStatus": "canonical",
+      "entitySubtype": "Scientific Explanation",
+      "_identityKey": "topic:name:parallax and apparent motion",
+      "_canonicalScore": 9
     },
     {
       "id": "paranormal-phenomena",

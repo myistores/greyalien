@@ -2,10 +2,10 @@
   "id": "publication-2026-limits-velocity-recovery-pursue",
   "type": "publication",
   "entitySubtype": "Scientific Preprint",
-  "name": "Limits on Velocity Recovery from the PURSUE Sensor Videos",
+  "name": "Limits on Kinematic Inference from the PURSUE Airborne Sensor Videos",
   "summary": "Scientific preprint by Jacob Haqq-Misra and Ravi Kopparapu analyzing all 112 released PURSUE airborne sensor videos. The authors find that no clip contains the complete information needed to recover physical velocity and use PR113 and PR149 to demonstrate both inference degeneracy and a bounded case.",
   "date": "2026-08-12",
-  "dateDisplay": "August 12, 2026",
+  "dateDisplay": "Submitted August 12, 2026; revised August 28, 2026",
   "eventCategory": "UAP sensor-video methodology",
   "relationships": [
     {
@@ -59,13 +59,23 @@
       "type": "references_publication",
       "target": "publication-2026-six-infrared-objects-bird-wingbeat-analysis",
       "role": "later case-specific analysis"
+    },
+    {
+      "type": "references_topic",
+      "target": "parallax-apparent-motion",
+      "role": "motion geometry"
+    },
+    {
+      "type": "references_topic",
+      "target": "infrared-imaging-interpretation",
+      "role": "sensor interpretation"
     }
   ],
   "officialLinks": [],
   "referenceSources": [
     {
-      "label": "arXiv abstract and paper — version 1",
-      "url": "https://arxiv.org/abs/2608.12445",
+      "label": "arXiv abstract and paper — v2",
+      "url": "https://arxiv.org/abs/2608.12445v2",
       "sourceType": "scientific_preprint",
       "role": "primary_reference"
     },
@@ -89,14 +99,17 @@
     ],
     "repository": "arXiv",
     "identifier": "arXiv:2608.12445",
-    "version": "v1",
+    "version": "v2",
     "submitted": "August 12, 2026",
-    "publicationStatus": "Scientific preprint; peer review not established",
+    "publicationStatus": "Scientific preprint submitted to Journal of Aerospace Information Systems; journal acceptance and peer review not established",
     "subjects": [
       "Popular Physics",
       "Earth and Planetary Astrophysics",
       "Instrumentation and Methods for Astrophysics"
-    ]
+    ],
+    "revised": "August 28, 2026",
+    "statusChecked": "2026-10-23",
+    "statusSource": "https://arxiv.org/abs/2608.12445v2"
   },
   "researchLibraryMetadata": {
     "knowledgePermanence": "permanent",
@@ -124,7 +137,30 @@
   ],
   "editorialNotes": {
     "neutrality": "The paper neither identifies the depicted objects nor demonstrates or excludes anomalous kinematics.",
-    "titleVerification": "The authoritative arXiv v1 title is used; the release's working scope title is not substituted for the publication title.",
+    "titleVerification": "V23.6D.20 uses the verified arXiv v2 title. The v1 metadata and summary are retained in versionHistory.",
     "nasaHandling": "Ravi Kopparapu's NASA Goddard affiliation is recorded, but the preprint is not represented as a NASA agency finding."
-  }
+  },
+  "versionHistory": [
+    {
+      "version": "v1",
+      "metadata": {
+        "authors": [
+          "Jacob Haqq-Misra",
+          "Ravi Kopparapu"
+        ],
+        "repository": "arXiv",
+        "identifier": "arXiv:2608.12445",
+        "version": "v1",
+        "submitted": "August 12, 2026",
+        "publicationStatus": "Scientific preprint; peer review not established",
+        "subjects": [
+          "Popular Physics",
+          "Earth and Planetary Astrophysics",
+          "Instrumentation and Methods for Astrophysics"
+        ]
+      },
+      "summary": "Scientific preprint by Jacob Haqq-Misra and Ravi Kopparapu analyzing all 112 released PURSUE airborne sensor videos. The authors find that no clip contains the complete information needed to recover physical velocity and use PR113 and PR149 to demonstrate both inference degeneracy and a bounded case.",
+      "preservedFromRelease": "V23.6D.19"
+    }
+  ]
 }
