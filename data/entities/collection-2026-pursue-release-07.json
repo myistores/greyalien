@@ -1,0 +1,74 @@
+{
+  "id": "collection-2026-pursue-release-07",
+  "type": "publication",
+  "entitySubtype": "Government Records Collection / Declassification Tranche",
+  "name": "PURSUE Release 07 \u2014 Seventh Government UAP Records Tranche",
+  "summary": "The Department of War announced the seventh PURSUE records release on October 23, 2026. Secondary cataloging reports 28 PDFs and no separate videos. GreyAlien has not audited the individual documents; reported contents are research leads, not independently established findings.",
+  "date": "2026-10-23",
+  "dateDisplay": "October 23, 2026",
+  "eventCategory": "Government records release",
+  "source": "https://www.war.gov/News/Releases/Release/Article/4632058/department-of-war-publishes-seventh-release-of-unidentified-anomalous-phenomena/",
+  "sourceUrl": "https://www.war.gov/News/Releases/Release/Article/4632058/department-of-war-publishes-seventh-release-of-unidentified-anomalous-phenomena/",
+  "url": "https://www.war.gov/News/Releases/Release/Article/4632058/department-of-war-publishes-seventh-release-of-unidentified-anomalous-phenomena/",
+  "relatedEntities": [
+    "pursue",
+    "aaro",
+    "department-of-defense",
+    "defense-intelligence-agency",
+    "collection-2026-pursue-release-06"
+  ],
+  "relationships": [
+    {
+      "type": "contained_in",
+      "target": "pursue",
+      "role": "seventh release tranche"
+    },
+    {
+      "type": "published_by",
+      "target": "department-of-defense",
+      "role": "official announcement"
+    },
+    {
+      "type": "follows",
+      "target": "collection-2026-pursue-release-06",
+      "role": "next numbered release"
+    },
+    {
+      "type": "references_organization",
+      "target": "aaro",
+      "role": "secondary coverage describes AARO-related records"
+    },
+    {
+      "type": "references_organization",
+      "target": "defense-intelligence-agency",
+      "role": "AAWSAP historical context in secondary coverage"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Official Release 07 announcement",
+      "url": "https://www.war.gov/News/Releases/Release/Article/4632058/department-of-war-publishes-seventh-release-of-unidentified-anomalous-phenomena/",
+      "kind": "primary announcement"
+    },
+    {
+      "title": "Official PURSUE Release 07 portal",
+      "url": "https://www.war.gov/UFO/?releaseDate=Release+07&release=07",
+      "kind": "government index"
+    },
+    {
+      "title": "Leonard David: Project Capella overview",
+      "url": "https://www.leonarddavid.com/seventh-release-of-files-on-unidentified-anomalous-phenomena-uap-project-capella-detailed/",
+      "kind": "secondary reporting"
+    }
+  ],
+  "verificationStatus": "Official announcement verified; secondary 28-record/no-video inventory not independently audited; individual PDFs not inspected",
+  "researchGaps": [
+    "Retrieve and inventory all Release 07 PDFs",
+    "Validate each document identifier, metadata and source URL",
+    "Inspect reported FBI/AARO triangular-object records before making a separate case",
+    "Review Project Capella and BAASS documents in full",
+    "Check historic case overlaps against existing GreyAlien entities"
+  ],
+  "articleUrl": "/news/pursue-release-07-uap-records-october-2026.html",
+  "imageUrl": "/images/pursue-release-07-editorial.webp"
+}
