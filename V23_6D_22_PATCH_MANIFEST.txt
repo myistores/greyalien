@@ -1,0 +1,7 @@
+V23.6D.22 — Focused Mike Rounds / Mirador documentary ingestion
+Baseline: V23.6D.21 user-uploaded deployment archive
+Adds news article, original SVG editorial image, research entity, news metadata, news/research index entries, visible Latest UAP News and Research Library cards, homepage update.
+Source: https://douglasjohnson.ghost.io/sen-rounds-no-to-ufo-assassin-theories/
+Caveat: Responses attributed by Johnson; original private correspondence not independently obtained.
+Preserves all other baseline files and layouts.
+Rollback: redeploy V23.6D.21.

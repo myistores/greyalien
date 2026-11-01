@@ -1,0 +1,73 @@
+{
+  "id": "record-2026-mike-rounds-whistleblower-threat-questions",
+  "type": "publication",
+  "entitySubtype": "Investigative Reporting / Attributed Congressional Responses",
+  "name": "Mike Rounds — Four Written Responses on UAP Whistleblower Threat Allegations",
+  "summary": "Douglas Dean Johnson published four negative written answers attributed to Senator Mike Rounds about alleged murders, physical threats and risks to prospective UAP informants. Responses transmitted June 17, 2026; published October 30, 2026. The underlying email correspondence was not independently obtained by GreyAlien.",
+  "date": "2026-10-30",
+  "dateDisplay": "October 30, 2026",
+  "source": "https://douglasjohnson.ghost.io/sen-rounds-no-to-ufo-assassin-theories/",
+  "sourceUrl": "https://douglasjohnson.ghost.io/sen-rounds-no-to-ufo-assassin-theories/",
+  "url": "https://douglasjohnson.ghost.io/sen-rounds-no-to-ufo-assassin-theories/",
+  "relatedEntities": [
+    "sol-foundation",
+    "kirsten-gillibrand",
+    "marco-rubio",
+    "uap-disclosure-act-2023",
+    "whistleblower-protection",
+    "aaro",
+    "pursue"
+  ],
+  "relationships": [
+    {
+      "type": "references_organization",
+      "target": "sol-foundation",
+      "role": "April 2026 whistleblower restitution policy paper discussed"
+    },
+    {
+      "type": "references_person",
+      "target": "kirsten-gillibrand",
+      "role": "previous statements examined in the investigation"
+    },
+    {
+      "type": "references_person",
+      "target": "marco-rubio",
+      "role": "previous statements examined in the investigation"
+    },
+    {
+      "type": "related_to_legislation",
+      "target": "uap-disclosure-act-2023",
+      "role": "Rounds co-sponsored UAP disclosure legislation"
+    },
+    {
+      "type": "discusses_claim",
+      "target": "whistleblower-protection",
+      "role": "distinguishes professional retaliation and classified disclosure fears from claims of physical harm"
+    },
+    {
+      "type": "references_organization",
+      "target": "aaro",
+      "role": "authorized reporting channel discussed"
+    },
+    {
+      "type": "references_organization",
+      "target": "pursue",
+      "role": "authorized reporting channel discussed"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Douglas Dean Johnson, Senator Mike Rounds says NO to UFO gatekeeper-assassin theories",
+      "url": "https://douglasjohnson.ghost.io/sen-rounds-no-to-ufo-assassin-theories/",
+      "kind": "original investigative article with attributed written responses"
+    }
+  ],
+  "verificationStatus": "Article and attributed responses reviewed; original private email correspondence not independently obtained",
+  "articleUrl": "/news/mike-rounds-uap-whistleblower-threat-claims-2026.html",
+  "imageUrl": "/images/mike-rounds-uap-oversight-editorial.svg",
+  "researchGaps": [
+    "Obtain original correspondence if made publicly available",
+    "Check for subsequent responses or corrections from the senator, Gillibrand, Rubio and Sol Foundation",
+    "Do not conflate documented retaliation with allegations of murder"
+  ]
+}
