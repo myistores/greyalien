@@ -1,0 +1,42 @@
+{
+  "id": "record-2026-jake-barber-congressional-appointment",
+  "type": "publication",
+  "entitySubtype": "Investigative Reporting",
+  "name": "Jake Barber Joins Rep. Eric Burlison’s Congressional Staff",
+  "summary": "PARADIGM reported on November 6, 2026 that Jake Barber joined Representative Eric Burlison’s staff to assist with UAP investigations. Spokesperson Nate Lucas confirmed the appointment to the outlet. The precise start date and job title are not independently established; employment does not substantiate Barber’s separate extraordinary claims.",
+  "date": "2026-11-06",
+  "source": "https://www.paradigm.news/p/confirmed-ufo-whistleblower-jake",
+  "sourceUrl": "https://www.paradigm.news/p/confirmed-ufo-whistleblower-jake",
+  "url": "https://www.paradigm.news/p/confirmed-ufo-whistleblower-jake",
+  "relatedEntities": [
+    "jake-barber",
+    "eric-burlison",
+    "david-grusch"
+  ],
+  "relationships": [
+    {
+      "type": "related_to",
+      "target": "jake-barber",
+      "role": "Subject of confirmed staff appointment per attributed reporting"
+    },
+    {
+      "type": "related_to",
+      "target": "eric-burlison",
+      "role": "Congressional office employing Barber"
+    },
+    {
+      "type": "related_to",
+      "target": "david-grusch",
+      "role": "Previously reported congressional staff role; departure date attributed to PARADIGM"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Ben Schreckinger, PARADIGM / Signs of Life, November 6, 2026",
+      "url": "https://www.paradigm.news/p/confirmed-ufo-whistleblower-jake",
+      "sourceType": "investigative-reporting"
+    }
+  ],
+  "evidenceStatus": "Appointment confirmed to PARADIGM by Burlison spokesperson; underlying employment records not independently obtained; extraordinary claims unverified",
+  "articleUrl": "/news/jake-barber-burlison-congressional-staff-2026.html"
+}

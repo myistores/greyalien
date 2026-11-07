@@ -54,6 +54,12 @@
       "type": "made_claim",
       "target": "event-2016-podesta-delonge-uap-conference-call",
       "role": "later disputed interpretation"
+    },
+    {
+      "type": "previous_staff_role_with",
+      "target": "eric-burlison",
+      "role": "Prior position and departure reported by PARADIGM",
+      "date": "2026-11-06"
     }
   ],
   "profileStatus": "Public whistleblower and congressional witness",
@@ -81,6 +87,12 @@
       "url": "https://www.paradigm.news/p/exclusive-podesta-responds-to-gruschs",
       "sourceType": "direct_interview_reporting",
       "role": "connected_event_source"
+    },
+    {
+      "label": "PARADIGM, Ben Schreckinger, November 6, 2026 — congressional staff appointment",
+      "url": "https://www.paradigm.news/p/confirmed-ufo-whistleblower-jake",
+      "sourceType": "investigative-reporting",
+      "role": "attributed_confirmation"
     }
   ]
 }

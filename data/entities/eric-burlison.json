@@ -9,8 +9,21 @@
       "target": "2024-01-12-house-uap-scif-briefing",
       "role": "Witness or participant",
       "date": "2024-01-12"
+    },
+    {
+      "type": "staff_includes",
+      "target": "jake-barber",
+      "role": "Reported appointment confirmed by spokesperson to PARADIGM",
+      "date": "2026-11-06"
     }
   ],
   "officialLinks": [],
-  "referenceSources": []
+  "referenceSources": [
+    {
+      "label": "PARADIGM, Ben Schreckinger, November 6, 2026 — congressional staff appointment",
+      "url": "https://www.paradigm.news/p/confirmed-ufo-whistleblower-jake",
+      "sourceType": "investigative-reporting",
+      "role": "attributed_confirmation"
+    }
+  ]
 }

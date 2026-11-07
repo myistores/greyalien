@@ -12,6 +12,12 @@
     {
       "type": "made_claim",
       "target": "claim-crash-retrieval-program"
+    },
+    {
+      "type": "joined_staff_of",
+      "target": "eric-burlison",
+      "role": "Reported November 6, 2026; confirmed by spokesperson to PARADIGM",
+      "date": "2026-11-06"
     }
   ],
   "profileStatus": "Self-identified recovery-program whistleblower",
@@ -27,6 +33,12 @@
       "url": "https://www.youtube.com/watch?v=O8tY9GDQc3E",
       "sourceType": "NewsNation",
       "role": "primary_reference"
+    },
+    {
+      "label": "PARADIGM, Ben Schreckinger, November 6, 2026 — congressional staff appointment",
+      "url": "https://www.paradigm.news/p/confirmed-ufo-whistleblower-jake",
+      "sourceType": "investigative-reporting",
+      "role": "attributed_confirmation"
     }
   ]
 }
