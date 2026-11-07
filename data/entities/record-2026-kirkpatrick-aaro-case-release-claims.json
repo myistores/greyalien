@@ -1,0 +1,43 @@
+{
+  "id": "record-2026-kirkpatrick-aaro-case-release-claims",
+  "type": "publication",
+  "entitySubtype": "Investigative Reporting",
+  "name": "Former AARO Director Alleges Pentagon Removed Case Resolutions Before Public Release",
+  "summary": "Former AARO director Sean Kirkpatrick alleged that explanations were removed from some cases before public release. The report separately says the department clarified that illustrations accompanying an FBI triangular-object case were not photographs. The alleged direction and affected cases have not been independently documented.",
+  "date": "2026-11-01",
+  "source": "https://www.foxnews.com/us/former-pentagon-ufo-chief-disputes-fbi-black-triangle-sighting-says-reports-lack-evidence/",
+  "sourceUrl": "https://www.foxnews.com/us/former-pentagon-ufo-chief-disputes-fbi-black-triangle-sighting-says-reports-lack-evidence/",
+  "url": "https://www.foxnews.com/us/former-pentagon-ufo-chief-disputes-fbi-black-triangle-sighting-says-reports-lack-evidence/",
+  "relatedEntities": [
+    "aaro",
+    "pursue",
+    "collection-2026-pursue-release-07"
+  ],
+  "relationships": [
+    {
+      "type": "related_to",
+      "target": "aaro",
+      "role": "Contextual cross-reference; does not imply verification of allegations or extraterrestrial origin"
+    },
+    {
+      "type": "related_to",
+      "target": "pursue",
+      "role": "Contextual cross-reference; does not imply verification of allegations or extraterrestrial origin"
+    },
+    {
+      "type": "related_to",
+      "target": "collection-2026-pursue-release-07",
+      "role": "Contextual cross-reference; does not imply verification of allegations or extraterrestrial origin"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Fox News Digital / Greg Wehner",
+      "url": "https://www.foxnews.com/us/former-pentagon-ufo-chief-disputes-fbi-black-triangle-sighting-says-reports-lack-evidence/",
+      "kind": "reported source"
+    }
+  ],
+  "verificationStatus": "Source claims are attributed; underlying classified case records or alleged directives not independently authenticated",
+  "articleUrl": "/news/kirkpatrick-aaro-case-resolution-release-claims-2026.html",
+  "imageUrl": "/images/aaro-release-editorial.svg"
+}

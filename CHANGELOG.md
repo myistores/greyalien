@@ -735,3 +735,8 @@ Migrated 257 podcast episodes and four series entities to the universal official
 - Reused PURSUE, AARO, the canonical department record, Government Transparency, UAP Disclosure and historical-record entities.
 - Added three policy topics and seven bounded claims.
 - Preserved the distinctions between authorized reporting and public disclosure, submission and declassification, possible and guaranteed release, and receipt and authentication.
+
+## V23.6D.23 — Combined research ingestion
+- Added Kirkpatrick AARO case-release reporting with attribution and illustration caveat.
+- Added NVIDIA agentic-AI SETI research reference and scientific limitations.
+- Linked both to permanent Research Library records and updated site entry points.

@@ -1,0 +1,39 @@
+{
+  "id": "record-2026-nvidia-agentic-ai-seti",
+  "type": "publication",
+  "entitySubtype": "Scientific Instrumentation / Research Announcement",
+  "name": "Agentic AI in SETI: Real-Time Radio Astronomy and Technosignature Detection",
+  "summary": "NVIDIA describes AI-assisted radio-telescope operations and real-time signal processing with the Allen Telescope Array. A known pulsar detection demonstrates processing capability, not a detection of extraterrestrial intelligence.",
+  "date": "2026-11-03",
+  "source": "https://www.inc.com/kit-eaton/nvidias-agentic-systems-have-joined-the-search-for-extraterrestrial-life-can-it-help-solve-this-1-tricky-problem/91429620",
+  "sourceUrl": "https://www.inc.com/kit-eaton/nvidias-agentic-systems-have-joined-the-search-for-extraterrestrial-life-can-it-help-solve-this-1-tricky-problem/91429620",
+  "url": "https://www.inc.com/kit-eaton/nvidias-agentic-systems-have-joined-the-search-for-extraterrestrial-life-can-it-help-solve-this-1-tricky-problem/91429620",
+  "relatedEntities": [
+    "technosignatures",
+    "seti-institute",
+    "breakthrough-listen",
+    "allen-telescope-array"
+  ],
+  "relationships": [
+    {
+      "type": "related_to",
+      "target": "technosignatures",
+      "role": "Contextual cross-reference; does not imply verification of allegations or extraterrestrial origin"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Inc. / Kit Eaton; NVIDIA technical announcement October 30, 2026",
+      "url": "https://www.inc.com/kit-eaton/nvidias-agentic-systems-have-joined-the-search-for-extraterrestrial-life-can-it-help-solve-this-1-tricky-problem/91429620",
+      "kind": "reported source"
+    },
+    {
+      "title": "NVIDIA technical announcement",
+      "url": "https://blogs.nvidia.com/blog/ai-joins-the-search-for-extraterrestrial-signals/",
+      "kind": "primary technology announcement"
+    }
+  ],
+  "verificationStatus": "Technology capabilities reported by NVIDIA; no extraterrestrial signal claimed",
+  "articleUrl": "/research/nvidia-agentic-ai-seti-2026.html",
+  "imageUrl": "/images/nvidia-seti-editorial.svg"
+}
