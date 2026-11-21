@@ -1,0 +1,31 @@
+{
+  "id": "pursue-release-08-2026",
+  "title": "PURSUE Release 08 \u2014 Government UAP Records",
+  "type": "government-release",
+  "date": "2026-11-20",
+  "source": "Department of War PURSUE",
+  "source_url": "https://www.war.gov/UFO/?release=08&releaseDate=Release+08",
+  "secondary_inventory": "https://uapbrowser.com/en/releases/release-08",
+  "files": 43,
+  "documents": 40,
+  "videos": 3,
+  "summary": "Release inventory with evidence limitations; government publication does not validate underlying claims.",
+  "related_entities": [
+    "pursue",
+    "aaro",
+    "dia",
+    "cia",
+    "aawsap",
+    "baass",
+    "harry-reid",
+    "centcom",
+    "radar"
+  ],
+  "news_page": "news/pursue-release-08-government-uap-records-2026.html",
+  "research_pages": [
+    "research/pursue-release-08-government-records-2026.html",
+    "research/aaro-2023-radar-detection-d165.html",
+    "research/baass-aawsap-ten-month-report-d172.html"
+  ],
+  "verification_note": "Individual primary PDFs and video files were not directly inspected in this build."
+}
