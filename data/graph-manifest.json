@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "entityCount": 1762,
-  "relationshipCount": 4094,
+  "entityCount": 1763,
+  "relationshipCount": 4098,
   "unresolvedRelationshipCount": 56,
   "connectionCounts": {
     "1946-scandinavian-ghost-rockets": {
@@ -6515,9 +6515,9 @@
       "total": 3
     },
     "infrared-imaging-interpretation": {
-      "incoming": 4,
+      "incoming": 5,
       "outgoing": 4,
-      "total": 8
+      "total": 9
     },
     "instantaneous-acceleration": {
       "incoming": 1,
@@ -6995,9 +6995,9 @@
       "total": 0
     },
     "nasa": {
-      "incoming": 10,
+      "incoming": 11,
       "outgoing": 3,
-      "total": 13
+      "total": 14
     },
     "nasa-uap-independent-study-team": {
       "incoming": 11,
@@ -7110,9 +7110,9 @@
       "total": 5
     },
     "parallax-apparent-motion": {
-      "incoming": 4,
+      "incoming": 5,
       "outgoing": 4,
-      "total": 8
+      "total": 9
     },
     "paranormal-phenomena": {
       "incoming": 1,
@@ -7205,9 +7205,9 @@
       "total": 28
     },
     "publication-2026-limits-velocity-recovery-pursue": {
-      "incoming": 10,
+      "incoming": 11,
       "outgoing": 12,
-      "total": 22
+      "total": 23
     },
     "publication-2026-machine-learning-historical-transients": {
       "incoming": 14,
@@ -8813,6 +8813,11 @@
       "incoming": 0,
       "outgoing": 3,
       "total": 3
+    },
+    "publication-2026-nisar-sentinel1-atmospheric-characterization": {
+      "incoming": 0,
+      "outgoing": 4,
+      "total": 4
     }
   },
   "unresolvedRelationships": [

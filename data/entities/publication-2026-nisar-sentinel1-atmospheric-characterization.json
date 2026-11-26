@@ -1,0 +1,56 @@
+{
+  "id": "publication-2026-nisar-sentinel1-atmospheric-characterization",
+  "type": "publication",
+  "entitySubtype": "Peer-reviewed Scientific Research",
+  "name": "Assessing Co-Located NISAR and Sentinel-1 Observations for Atmospheric Characterization",
+  "summary": "Paired satellite radar observations show shared atmospheric phase patterns; interpretation depends on surface stability and measurement geometry.",
+  "date": "2026-10-09",
+  "dateDisplay": "Published October 9, 2026",
+  "source": "https://doi.org/10.1029/2026JD047910",
+  "sourceUrl": "https://doi.org/10.1029/2026JD047910",
+  "url": "https://doi.org/10.1029/2026JD047910",
+  "articleUrl": "/research/can-earths-atmosphere-fool-satellite-radar.html",
+  "imageUrl": "/images/radar-atmosphere-editorial.svg",
+  "relatedEntities": [
+    "nasa",
+    "parallax-apparent-motion",
+    "infrared-imaging-interpretation",
+    "publication-2026-limits-velocity-recovery-pursue"
+  ],
+  "relationships": [
+    {
+      "type": "related_to",
+      "target": "nasa",
+      "role": "Scientific context; no specific UAP explanation implied"
+    },
+    {
+      "type": "related_to",
+      "target": "parallax-apparent-motion",
+      "role": "Scientific context; no specific UAP explanation implied"
+    },
+    {
+      "type": "related_to",
+      "target": "infrared-imaging-interpretation",
+      "role": "Scientific context; no specific UAP explanation implied"
+    },
+    {
+      "type": "related_to",
+      "target": "publication-2026-limits-velocity-recovery-pursue",
+      "role": "Scientific context; no specific UAP explanation implied"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Assessing Co-Located NISAR and Sentinel-1 Observations for Atmospheric Characterization",
+      "url": "https://doi.org/10.1029/2026JD047910",
+      "kind": "peer-reviewed primary research"
+    }
+  ],
+  "verificationStatus": "Peer-reviewed observational study; not UAP evidence",
+  "authors": [
+    "S. Oveisgharan",
+    "P. Rosen",
+    "C. Wells",
+    "E. Havazli"
+  ]
+}

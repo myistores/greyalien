@@ -26336,6 +26336,15 @@
           "target": "nasa",
           "role": "Former astronaut"
         }
+      },
+      {
+        "source": "publication-2026-nisar-sentinel1-atmospheric-characterization",
+        "type": "related_to",
+        "meta": {
+          "type": "related_to",
+          "target": "nasa",
+          "role": "Scientific context; no specific UAP explanation implied"
+        }
       }
     ],
     "nasa-uap-independent-study-team": [
@@ -28131,6 +28140,15 @@
           "type": "authored",
           "target": "publication-2026-limits-velocity-recovery-pursue",
           "role": "co-author"
+        }
+      },
+      {
+        "source": "publication-2026-nisar-sentinel1-atmospheric-characterization",
+        "type": "related_to",
+        "meta": {
+          "type": "related_to",
+          "target": "publication-2026-limits-velocity-recovery-pursue",
+          "role": "Scientific context; no specific UAP explanation implied"
         }
       }
     ],
@@ -37730,6 +37748,15 @@
           "target": "parallax-apparent-motion",
           "role": "motion geometry"
         }
+      },
+      {
+        "source": "publication-2026-nisar-sentinel1-atmospheric-characterization",
+        "type": "related_to",
+        "meta": {
+          "type": "related_to",
+          "target": "parallax-apparent-motion",
+          "role": "Scientific context; no specific UAP explanation implied"
+        }
       }
     ],
     "infrared-imaging-interpretation": [
@@ -37767,6 +37794,15 @@
           "type": "references_topic",
           "target": "infrared-imaging-interpretation",
           "role": "sensor interpretation"
+        }
+      },
+      {
+        "source": "publication-2026-nisar-sentinel1-atmospheric-characterization",
+        "type": "related_to",
+        "meta": {
+          "type": "related_to",
+          "target": "infrared-imaging-interpretation",
+          "role": "Scientific context; no specific UAP explanation implied"
         }
       }
     ]

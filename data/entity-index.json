@@ -16236,6 +16236,17 @@
       "taxonomyStatus": "supporting_classification",
       "_identityKey": "topic:name:witness intimidation",
       "_canonicalScore": 0
+    },
+    {
+      "id": "publication-2026-nisar-sentinel1-atmospheric-characterization",
+      "type": "publication",
+      "name": "Assessing Co-Located NISAR and Sentinel-1 Observations for Atmospheric Characterization",
+      "summary": "Paired satellite radar observations show shared atmospheric phase patterns; interpretation depends on surface stability and measurement geometry.",
+      "entitySubtype": "Peer-reviewed Scientific Research",
+      "destinationPage": true,
+      "visibleInDirectory": true,
+      "searchable": true,
+      "taxonomyStatus": "canonical"
     }
   ]
 }
