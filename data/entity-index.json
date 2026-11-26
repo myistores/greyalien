@@ -16247,6 +16247,17 @@
       "visibleInDirectory": true,
       "searchable": true,
       "taxonomyStatus": "canonical"
+    },
+    {
+      "id": "publication-2026-skysail-wind-shear",
+      "type": "publication",
+      "name": "Skysail: Altitude Control of Long-Duration Weather Balloons by Extracting Work from Wind Shear",
+      "summary": "Experimental use of atmospheric wind shear to reduce reliance on expendable balloon altitude controls.",
+      "entitySubtype": "Scientific Preprint",
+      "destinationPage": true,
+      "visibleInDirectory": true,
+      "searchable": true,
+      "taxonomyStatus": "canonical"
     }
   ]
 }

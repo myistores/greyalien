@@ -1,0 +1,49 @@
+{
+  "id": "publication-2026-skysail-wind-shear",
+  "type": "publication",
+  "entitySubtype": "Scientific Preprint",
+  "name": "Skysail: Altitude Control of Long-Duration Weather Balloons by Extracting Work from Wind Shear",
+  "summary": "Experimental use of atmospheric wind shear to reduce reliance on expendable balloon altitude controls.",
+  "date": "2026-11-25",
+  "dateDisplay": "Preprint submitted November 25, 2026",
+  "source": "https://arxiv.org/abs/2611.33882",
+  "sourceUrl": "https://arxiv.org/abs/2611.33882",
+  "url": "https://arxiv.org/abs/2611.33882",
+  "articleUrl": "/research/can-weather-balloon-control-altitude-using-wind.html",
+  "imageUrl": "/images/skysail-editorial.svg",
+  "relatedEntities": [
+    "publication-2026-nisar-sentinel1-atmospheric-characterization",
+    "parallax-apparent-motion",
+    "publication-2026-limits-velocity-recovery-pursue"
+  ],
+  "relationships": [
+    {
+      "type": "related_to",
+      "target": "publication-2026-nisar-sentinel1-atmospheric-characterization",
+      "role": "Related scientific context; not a specific UAP explanation"
+    },
+    {
+      "type": "related_to",
+      "target": "parallax-apparent-motion",
+      "role": "Related scientific context; not a specific UAP explanation"
+    },
+    {
+      "type": "related_to",
+      "target": "publication-2026-limits-velocity-recovery-pursue",
+      "role": "Related scientific context; not a specific UAP explanation"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Skysail: Altitude Control of Long-Duration Weather Balloons by Extracting Work from Wind Shear",
+      "url": "https://arxiv.org/abs/2611.33882",
+      "kind": "primary scientific preprint"
+    }
+  ],
+  "verificationStatus": "Author-reported experimental results; peer review not confirmed",
+  "authors": [
+    "Michal Adamkiewicz",
+    "Andrey Sushko"
+  ],
+  "institution": "WindBorne Systems"
+}

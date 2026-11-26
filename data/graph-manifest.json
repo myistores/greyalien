@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "entityCount": 1763,
-  "relationshipCount": 4098,
+  "entityCount": 1764,
+  "relationshipCount": 4101,
   "unresolvedRelationshipCount": 56,
   "connectionCounts": {
     "1946-scandinavian-ghost-rockets": {
@@ -7110,9 +7110,9 @@
       "total": 5
     },
     "parallax-apparent-motion": {
-      "incoming": 5,
+      "incoming": 6,
       "outgoing": 4,
-      "total": 9
+      "total": 10
     },
     "paranormal-phenomena": {
       "incoming": 1,
@@ -7205,9 +7205,9 @@
       "total": 28
     },
     "publication-2026-limits-velocity-recovery-pursue": {
-      "incoming": 11,
+      "incoming": 12,
       "outgoing": 12,
-      "total": 23
+      "total": 24
     },
     "publication-2026-machine-learning-historical-transients": {
       "incoming": 14,
@@ -8815,9 +8815,14 @@
       "total": 3
     },
     "publication-2026-nisar-sentinel1-atmospheric-characterization": {
-      "incoming": 0,
+      "incoming": 1,
       "outgoing": 4,
-      "total": 4
+      "total": 5
+    },
+    "publication-2026-skysail-wind-shear": {
+      "incoming": 0,
+      "outgoing": 3,
+      "total": 3
     }
   },
   "unresolvedRelationships": [

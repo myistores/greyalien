@@ -28150,6 +28150,15 @@
           "target": "publication-2026-limits-velocity-recovery-pursue",
           "role": "Scientific context; no specific UAP explanation implied"
         }
+      },
+      {
+        "source": "publication-2026-skysail-wind-shear",
+        "type": "related_to",
+        "meta": {
+          "type": "related_to",
+          "target": "publication-2026-limits-velocity-recovery-pursue",
+          "role": "Related scientific context; not a specific UAP explanation"
+        }
       }
     ],
     "publication-2026-machine-learning-historical-transients": [
@@ -37757,6 +37766,15 @@
           "target": "parallax-apparent-motion",
           "role": "Scientific context; no specific UAP explanation implied"
         }
+      },
+      {
+        "source": "publication-2026-skysail-wind-shear",
+        "type": "related_to",
+        "meta": {
+          "type": "related_to",
+          "target": "parallax-apparent-motion",
+          "role": "Related scientific context; not a specific UAP explanation"
+        }
       }
     ],
     "infrared-imaging-interpretation": [
@@ -37803,6 +37821,17 @@
           "type": "related_to",
           "target": "infrared-imaging-interpretation",
           "role": "Scientific context; no specific UAP explanation implied"
+        }
+      }
+    ],
+    "publication-2026-nisar-sentinel1-atmospheric-characterization": [
+      {
+        "source": "publication-2026-skysail-wind-shear",
+        "type": "related_to",
+        "meta": {
+          "type": "related_to",
+          "target": "publication-2026-nisar-sentinel1-atmospheric-characterization",
+          "role": "Related scientific context; not a specific UAP explanation"
         }
       }
     ]
