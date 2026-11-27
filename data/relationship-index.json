@@ -10251,6 +10251,15 @@
           "role": "program",
           "context": "Defense Intelligence Agency-funded research program"
         }
+      },
+      {
+        "source": "document-2009-baass-nevada-vault-proposal",
+        "type": "related_to",
+        "meta": {
+          "type": "related_to",
+          "target": "aawsap",
+          "role": "Documentary context; proposed facility, not verified construction or recovery"
+        }
       }
     ],
     "abby-white": [
@@ -11148,6 +11157,15 @@
         "meta": {
           "type": "references_organization",
           "target": "bigelow-aerospace"
+        }
+      },
+      {
+        "source": "document-2009-baass-nevada-vault-proposal",
+        "type": "related_to",
+        "meta": {
+          "type": "related_to",
+          "target": "bigelow-aerospace",
+          "role": "Documentary context; proposed facility, not verified construction or recovery"
         }
       }
     ],
@@ -16616,6 +16634,15 @@
           "target": "defense-intelligence-agency",
           "role": "sponsor",
           "context": "Government sponsor of AAWSAP"
+        }
+      },
+      {
+        "source": "document-2009-baass-nevada-vault-proposal",
+        "type": "related_to",
+        "meta": {
+          "type": "related_to",
+          "target": "defense-intelligence-agency",
+          "role": "Documentary context; proposed facility, not verified construction or recovery"
         }
       }
     ],
@@ -26206,6 +26233,15 @@
           "target": "mutual-ufo-network",
           "role": "data source"
         }
+      },
+      {
+        "source": "document-2009-baass-nevada-vault-proposal",
+        "type": "related_to",
+        "meta": {
+          "type": "related_to",
+          "target": "mutual-ufo-network",
+          "role": "Documentary context; proposed facility, not verified construction or recovery"
+        }
       }
     ],
     "mystery-drone-incursions": [
@@ -28860,6 +28896,15 @@
           "type": "references_organization",
           "target": "pursue",
           "role": "dataset program"
+        }
+      },
+      {
+        "source": "document-2009-baass-nevada-vault-proposal",
+        "type": "related_to",
+        "meta": {
+          "type": "related_to",
+          "target": "pursue",
+          "role": "Documentary context; proposed facility, not verified construction or recovery"
         }
       }
     ],
@@ -31524,6 +31569,15 @@
         "meta": {
           "type": "discussed_topic",
           "target": "scientific-investigation"
+        }
+      },
+      {
+        "source": "document-2009-baass-nevada-vault-proposal",
+        "type": "related_to",
+        "meta": {
+          "type": "related_to",
+          "target": "scientific-investigation",
+          "role": "Documentary context; proposed facility, not verified construction or recovery"
         }
       }
     ],
@@ -37834,6 +37888,7 @@
           "role": "Related scientific context; not a specific UAP explanation"
         }
       }
-    ]
+    ],
+    "document-2009-baass-nevada-vault-proposal": []
   }
 }

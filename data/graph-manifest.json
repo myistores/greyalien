@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "entityCount": 1764,
-  "relationshipCount": 4101,
+  "entityCount": 1765,
+  "relationshipCount": 4107,
   "unresolvedRelationshipCount": 56,
   "connectionCounts": {
     "1946-scandinavian-ghost-rockets": {
@@ -1565,9 +1565,9 @@
       "total": 6
     },
     "aawsap": {
-      "incoming": 15,
+      "incoming": 16,
       "outgoing": 4,
-      "total": 19
+      "total": 20
     },
     "abby-white": {
       "incoming": 1,
@@ -1695,9 +1695,9 @@
       "total": 1
     },
     "bigelow-aerospace": {
-      "incoming": 1,
+      "incoming": 2,
       "outgoing": 1,
-      "total": 2
+      "total": 3
     },
     "black-vault-radio": {
       "incoming": 0,
@@ -6135,9 +6135,9 @@
       "total": 2
     },
     "defense-intelligence-agency": {
-      "incoming": 11,
+      "incoming": 12,
       "outgoing": 2,
-      "total": 13
+      "total": 14
     },
     "department-of-defense": {
       "incoming": 58,
@@ -6980,9 +6980,9 @@
       "total": 1
     },
     "mutual-ufo-network": {
-      "incoming": 1,
+      "incoming": 2,
       "outgoing": 1,
-      "total": 2
+      "total": 3
     },
     "mystery-drone-incursions": {
       "incoming": 5,
@@ -7230,9 +7230,9 @@
       "total": 30
     },
     "pursue": {
-      "incoming": 9,
+      "incoming": 10,
       "outgoing": 6,
-      "total": 15
+      "total": 16
     },
     "queensland-saucer-nests": {
       "incoming": 1,
@@ -7415,9 +7415,9 @@
       "total": 1
     },
     "scientific-investigation": {
-      "incoming": 79,
+      "incoming": 80,
       "outgoing": 3,
-      "total": 82
+      "total": 83
     },
     "scott-bray": {
       "incoming": 0,
@@ -8823,6 +8823,11 @@
       "incoming": 0,
       "outgoing": 3,
       "total": 3
+    },
+    "document-2009-baass-nevada-vault-proposal": {
+      "incoming": 0,
+      "outgoing": 6,
+      "total": 6
     }
   },
   "unresolvedRelationships": [

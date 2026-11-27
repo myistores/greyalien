@@ -1,0 +1,63 @@
+{
+  "id": "document-2009-baass-nevada-vault-proposal",
+  "type": "document",
+  "entitySubtype": "Contractor Report / Documented Proposal",
+  "name": "BAASS Underground Vault Proposal (2009)",
+  "summary": "Two 2009 BAASS reports describe a proposed Nevada vault for potentially acquired hardware and biological samples. What do the records establish?",
+  "date": "2009-07-30",
+  "status": "Documented proposal; construction unconfirmed",
+  "destinationPage": true,
+  "visibleInDirectory": true,
+  "searchable": true,
+  "taxonomyStatus": "canonical",
+  "articleUrl": "/news/pentagon-ufo-underground-nevada-vault.html",
+  "relationships": [
+    {
+      "type": "related_to",
+      "target": "aawsap",
+      "role": "Documentary context; proposed facility, not verified construction or recovery"
+    },
+    {
+      "type": "related_to",
+      "target": "bigelow-aerospace",
+      "role": "Documentary context; proposed facility, not verified construction or recovery"
+    },
+    {
+      "type": "related_to",
+      "target": "defense-intelligence-agency",
+      "role": "Documentary context; proposed facility, not verified construction or recovery"
+    },
+    {
+      "type": "related_to",
+      "target": "pursue",
+      "role": "Documentary context; proposed facility, not verified construction or recovery"
+    },
+    {
+      "type": "related_to",
+      "target": "mutual-ufo-network",
+      "role": "Documentary context; proposed facility, not verified construction or recovery"
+    },
+    {
+      "type": "related_to",
+      "target": "scientific-investigation",
+      "role": "Documentary context; proposed facility, not verified construction or recovery"
+    }
+  ],
+  "referenceSources": [
+    {
+      "label": "GreyAlien investigative feature",
+      "url": "https://greyalien.com/news/pentagon-ufo-underground-nevada-vault.html",
+      "sourceType": "article"
+    },
+    {
+      "label": "D171 June Report, printed page 6",
+      "url": "https://realufo.org/api/file/DOW-UAP-D171",
+      "sourceType": "primary_document"
+    },
+    {
+      "label": "D172 Ten Month Report, printed page 3",
+      "url": "https://realufo.org/api/file/DOW-UAP-D172",
+      "sourceType": "primary_document"
+    }
+  ]
+}

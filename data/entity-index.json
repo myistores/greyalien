@@ -16258,6 +16258,17 @@
       "visibleInDirectory": true,
       "searchable": true,
       "taxonomyStatus": "canonical"
+    },
+    {
+      "id": "document-2009-baass-nevada-vault-proposal",
+      "type": "document",
+      "name": "BAASS Underground Vault Proposal (2009)",
+      "summary": "Two 2009 BAASS reports describe a proposed Nevada vault for potentially acquired hardware and biological samples. What do the records establish?",
+      "entitySubtype": "Contractor Report / Documented Proposal",
+      "destinationPage": true,
+      "visibleInDirectory": true,
+      "searchable": true,
+      "taxonomyStatus": "canonical"
     }
   ]
 }
